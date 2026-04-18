@@ -23,6 +23,7 @@ window.ENTRIES = [
     title: "感 · to feel, to resonate",
     desc: "Feeling, perception, gratitude, and the cosmology of sympathetic resonance.",
     tags: ["emotion", "perception", "gratitude"],
+    updated: "2026-04-18",
     status: "complete"
   },
   {
@@ -32,6 +33,7 @@ window.ENTRIES = [
     title: "是 · to be",
     desc: "The copula, the cleft construction, classical 是非 right-and-wrong.",
     tags: ["grammar", "copula", "logic"],
+    updated: "2026-04-18",
     status: "complete"
   },
   {
@@ -41,6 +43,7 @@ window.ENTRIES = [
     title: "有 · to have, to exist",
     desc: "Possession, existence, and the have/be distinction that reshapes grammar.",
     tags: ["grammar", "existence", "possession"],
+    updated: "2026-04-18",
     status: "complete"
   },
   {
@@ -50,6 +53,7 @@ window.ENTRIES = [
     title: "心 · heart, mind",
     desc: "The radical at the root of all feeling — and the Chinese conception of thought itself.",
     tags: ["radical", "emotion", "mind"],
+    updated: "2026-04-18",
     status: "complete"
   },
   {
@@ -59,6 +63,7 @@ window.ENTRIES = [
     title: "人 · person, humanity",
     desc: "The character for human being, and its echo in 仁 rén — Confucian benevolence.",
     tags: ["humanity", "confucianism", "radical"],
+    updated: "2026-04-18",
     status: "complete"
   },
   {
@@ -68,6 +73,7 @@ window.ENTRIES = [
     title: "气 · breath, vital energy",
     desc: "From weather to anger to the cosmic force underlying TCM and martial arts.",
     tags: ["cosmology", "tcm", "energy"],
+    updated: "2026-04-18",
     status: "complete"
   },
   {
@@ -77,6 +83,7 @@ window.ENTRIES = [
     title: "道 · way, path",
     desc: "The word that gave Daoism its name — and underlies every Chinese 'ism'.",
     tags: ["daoism", "philosophy", "path"],
+    updated: "2026-04-18",
     status: "complete"
   },
   {
@@ -86,6 +93,7 @@ window.ENTRIES = [
     title: "天 · sky, heaven, day",
     desc: "Heaven as moral authority, weather, time, and the ground of 天命 the Mandate of Heaven.",
     tags: ["cosmology", "heaven", "mandate"],
+    updated: "2026-04-18",
     status: "complete"
   },
   {
@@ -95,6 +103,7 @@ window.ENTRIES = [
     title: "家 · home, family",
     desc: "House, family, school of thought, nation (国家) — the fractal of belonging.",
     tags: ["family", "society", "home"],
+    updated: "2026-04-18",
     status: "complete"
   },
   {
@@ -104,6 +113,7 @@ window.ENTRIES = [
     title: "字 · character, written word",
     desc: "The character that names itself — and the whole system of 汉字.",
     tags: ["writing", "language", "meta"],
+    updated: "2026-04-18",
     status: "complete"
   },
 
@@ -115,6 +125,7 @@ window.ENTRIES = [
     pinyin: "dōngxi",
     desc: "East-west as the word for 'stuff' — a window into directional cosmology.",
     tags: ["directions", "colloquial", "things"],
+    updated: "2026-04-18",
     status: "complete"
   },
   {
@@ -124,6 +135,7 @@ window.ENTRIES = [
     pinyin: "yìsi",
     desc: "Meaning, interest, charm, and the gift-giving idiom 意思意思.",
     tags: ["meaning", "gift", "register"],
+    updated: "2026-04-18",
     status: "complete"
   },
   {
@@ -133,6 +145,7 @@ window.ENTRIES = [
     pinyin: "guānxi",
     desc: "The untranslatable social fabric — relational leverage, it matters.",
     tags: ["social", "connections", "culture"],
+    updated: "2026-04-18",
     status: "complete"
   },
   {
@@ -142,6 +155,7 @@ window.ENTRIES = [
     pinyin: "miànzi",
     desc: "Giving, losing, and saving face — the social grammar of dignity.",
     tags: ["social", "honor", "culture"],
+    updated: "2026-04-18",
     status: "complete"
   },
   {
@@ -151,6 +165,7 @@ window.ENTRIES = [
     pinyin: "yuánfèn",
     desc: "Buddhist-rooted fate that ties strangers, lovers, and old friends.",
     tags: ["buddhism", "fate", "romance"],
+    updated: "2026-04-18",
     status: "complete"
   },
   {
@@ -160,6 +175,7 @@ window.ENTRIES = [
     pinyin: "jiānghú",
     desc: "The outsider world of wanderers, martial artists, and street wisdom.",
     tags: ["wuxia", "culture", "society"],
+    updated: "2026-04-18",
     status: "complete"
   },
   {
@@ -169,6 +185,7 @@ window.ENTRIES = [
     pinyin: "gōngfu",
     desc: "Not just martial arts — the original meaning is mastery earned through time.",
     tags: ["mastery", "time", "martial-arts"],
+    updated: "2026-04-18",
     status: "complete"
   },
   {
@@ -178,6 +195,7 @@ window.ENTRIES = [
     pinyin: "fēngshuǐ",
     desc: "Geomancy, qi flow, and the cosmological logic of favorable siting.",
     tags: ["cosmology", "geomancy", "space"],
+    updated: "2026-04-18",
     status: "complete"
   },
   {
@@ -187,6 +205,7 @@ window.ENTRIES = [
     pinyin: "yīnyáng",
     desc: "The binary engine of all classical Chinese thought.",
     tags: ["cosmology", "philosophy", "binary"],
+    updated: "2026-04-18",
     status: "complete"
   },
   {
@@ -196,6 +215,7 @@ window.ENTRIES = [
     pinyin: "tiānxià",
     desc: "The pre-nation-state Chinese political imagination — the civilized world.",
     tags: ["politics", "history", "worldview"],
+    updated: "2026-04-18",
     status: "complete"
   },
 
@@ -299,7 +319,7 @@ window.ENTRIES = [
     pinyin: "rújiā",
     desc: "The school of the ru — ritual, hierarchy, and moral cultivation as state religion.",
     tags: ["confucianism", "ritual", "ethics"],
-    status: "stub"
+    status: "complete"
   },
   {
     path: "pages/religion/topic_daojiao.html",
@@ -308,7 +328,7 @@ window.ENTRIES = [
     pinyin: "dàojiào",
     desc: "Daoism as organized religion — distinct from Daoist philosophy.",
     tags: ["daoism", "religion", "immortality"],
-    status: "stub"
+    status: "complete"
   },
   {
     path: "pages/religion/topic_fojiao.html",
@@ -317,7 +337,7 @@ window.ENTRIES = [
     pinyin: "fójiào",
     desc: "Two thousand years of transmission, transformation, and sinicization.",
     tags: ["buddhism", "transmission", "history"],
-    status: "stub"
+    status: "complete"
   },
   {
     path: "pages/religion/topic_chan.html",
@@ -326,7 +346,7 @@ window.ENTRIES = [
     pinyin: "chán zōng",
     desc: "The meditative school that became Japanese Zen — sudden enlightenment and the patriarchs.",
     tags: ["chan", "zen", "meditation"],
-    status: "stub"
+    status: "complete"
   },
   {
     path: "pages/religion/topic_jingtu.html",
@@ -335,7 +355,7 @@ window.ENTRIES = [
     pinyin: "jìngtǔ zōng",
     desc: "The most widely practiced Buddhism in China — faith, Amitabha, and the Western Paradise.",
     tags: ["pure-land", "amitabha", "faith"],
-    status: "stub"
+    status: "complete"
   },
   {
     path: "pages/religion/topic_minjian.html",
@@ -344,7 +364,7 @@ window.ENTRIES = [
     pinyin: "mínjiān xìnyǎng",
     desc: "Kitchen gods, city gods, and the living popular religion beneath Buddhism and Daoism.",
     tags: ["folk-religion", "gods", "popular"],
-    status: "stub"
+    status: "complete"
   },
   {
     path: "pages/religion/topic_zuxian.html",
@@ -353,7 +373,7 @@ window.ENTRIES = [
     pinyin: "zǔxiān chóngbài",
     desc: "The deep continuity — tablets, offerings, and the living debt to the dead.",
     tags: ["ancestors", "ritual", "family"],
-    status: "stub"
+    status: "complete"
   },
   {
     path: "pages/religion/topic_mazu.html",
@@ -362,7 +382,7 @@ window.ENTRIES = [
     pinyin: "māzǔ",
     desc: "Coastal goddess of sailors, fishermen, and the overseas Chinese diaspora.",
     tags: ["mazu", "goddess", "coast"],
-    status: "stub"
+    status: "complete"
   },
   {
     path: "pages/religion/topic_yisilan.html",
@@ -371,7 +391,7 @@ window.ENTRIES = [
     pinyin: "yīsīlán jiào",
     desc: "Hui Muslims, Uyghur traditions, and 1400 years of Islamic presence.",
     tags: ["islam", "hui", "uyghur"],
-    status: "stub"
+    status: "complete"
   },
   {
     path: "pages/religion/topic_saman.html",
@@ -380,7 +400,7 @@ window.ENTRIES = [
     pinyin: "sàmǎn jiào",
     desc: "Manchu, Mongol, and northern indigenous shamanic traditions.",
     tags: ["shamanism", "manchu", "indigenous"],
-    status: "stub"
+    status: "complete"
   },
 
   /* ── PHILOSOPHY ────────────────────────────────────────────────────── */
