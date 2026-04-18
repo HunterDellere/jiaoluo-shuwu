@@ -3,40 +3,152 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Field Notes on Chinese</title>
+<title>Field Notes on Chinese — A field guide to characters, language, and civilisation</title>
+
+<!-- SEO -->
+<meta name="description" content="A field guide to Chinese — characters, vocabulary, grammar, philosophy, history, and culture. Written as a scholar's notebook for curious readers.">
+<meta name="author" content="Hunter Dellere">
+<meta name="keywords" content="Chinese language, Mandarin, hanzi, Chinese characters, HSK, Chinese culture, Chinese philosophy, Chinese history, Chinese grammar, learn Chinese">
+<link rel="canonical" href="https://hunterdellere.github.io/chinese-field-guide/">
+
+<!-- Open Graph -->
+<meta property="og:type" content="website">
+<meta property="og:title" content="Field Notes on Chinese">
+<meta property="og:description" content="A field guide to Chinese — characters, language, and the long civilisation behind them.">
+<meta property="og:url" content="https://hunterdellere.github.io/chinese-field-guide/">
+<meta property="og:image" content="https://hunterdellere.github.io/chinese-field-guide/og-image.svg">
+<meta property="og:site_name" content="Field Notes on Chinese">
+
+<!-- Twitter -->
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Field Notes on Chinese">
+<meta name="twitter:description" content="A field guide to Chinese — characters, language, and the long civilisation behind them.">
+
+<!-- JSON-LD -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "Field Notes on Chinese",
+  "url": "https://hunterdellere.github.io/chinese-field-guide/",
+  "description": "A field guide to Chinese — characters, language, and the long civilisation behind them.",
+  "author": { "@type": "Person", "name": "Hunter Dellere" },
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://hunterdellere.github.io/chinese-field-guide/?q={search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+}
+</script>
+
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;0,700;1,300;1,400;1,600&family=Noto+Serif+SC:wght@300;400;600;700&family=Inconsolata:wght@300;400;500&display=swap" rel="stylesheet">
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>字</text></svg>">
 <link rel="stylesheet" href="style.css">
 <style>
   /* ── Layout ── */
-  .index-shell { max-width: 1020px; margin: 0 auto; padding: 3.5rem 2rem 6rem; }
+  .index-shell { max-width: 1080px; margin: 0 auto; padding: 3.5rem 2rem 5rem; }
 
   /* ── Hero ── */
   .index-hero { text-align: center; padding-bottom: 3.5rem; margin-bottom: 3rem; border-bottom: 2px solid var(--rule); animation: fadeUp 0.7s ease both; }
   .index-hero-glyph { font-family: var(--font-cn); font-size: 5.5rem; color: var(--red); line-height: 1; display: block; text-shadow: 3px 3px 0 rgba(139,26,26,0.15); margin-bottom: 0.6rem; }
-  .index-hero-title { font-family: var(--font-mono); font-size: 0.82rem; letter-spacing: 0.3em; text-transform: uppercase; color: var(--ink-4); margin-bottom: 1rem; }
-  .index-hero-desc { font-size: 1.15rem; font-style: italic; color: var(--ink-3); max-width: 520px; margin: 0 auto; line-height: 1.65; }
+  .index-hero-eyebrow { font-family: var(--font-mono); font-size: 0.78rem; letter-spacing: 0.32em; text-transform: uppercase; color: var(--ink-4); margin-bottom: 1.2rem; }
+  .index-hero-title { font-family: var(--font-body); font-size: 2.25rem; font-weight: 600; color: var(--ink); margin: 0 0 0.9rem; line-height: 1.15; letter-spacing: -0.01em; }
+  .index-hero-desc { font-size: 1.15rem; font-style: italic; color: var(--ink-3); max-width: 580px; margin: 0 auto 1.6rem; line-height: 1.6; }
+  .hero-ctas { display: inline-flex; gap: 0.75rem; flex-wrap: wrap; justify-content: center; }
+  .hero-cta {
+    display: inline-block; padding: 0.55rem 1.1rem;
+    font-family: var(--font-mono); font-size: 0.72rem; letter-spacing: 0.14em; text-transform: uppercase;
+    border-radius: var(--radius); text-decoration: none;
+    transition: background 0.15s, color 0.15s, transform 0.12s;
+  }
+  .hero-cta-primary { background: var(--red); color: var(--papyrus); border: 1px solid var(--red); }
+  .hero-cta-primary:hover { background: var(--red-2); transform: translateY(-1px); }
+  .hero-cta-secondary { background: transparent; color: var(--ink-3); border: 1px solid var(--rule); }
+  .hero-cta-secondary:hover { background: var(--papyrus-2); color: var(--ink); }
 
   /* ── Stats ── */
-  .index-stats { font-family: var(--font-mono); font-size: 0.64rem; color: var(--ink-5); text-align: center; margin-bottom: 2rem; letter-spacing: 0.08em; }
-  .index-stats strong { color: var(--ochre); }
+  .index-stats { font-family: var(--font-mono); font-size: 0.66rem; color: var(--ink-5); text-align: center; margin-bottom: 2.5rem; letter-spacing: 0.1em; }
+  .index-stats strong { color: var(--ochre); font-weight: 500; }
+
+  /* ── Section heading ── */
+  .section-eyebrow {
+    font-family: var(--font-mono); font-size: 0.68rem; letter-spacing: 0.2em; text-transform: uppercase;
+    color: var(--ink-4); margin: 0 0 0.4rem;
+  }
+  .section-title {
+    font-family: var(--font-body); font-size: 1.55rem; font-weight: 600; color: var(--ink-2);
+    margin: 0 0 0.3rem; letter-spacing: -0.005em;
+  }
+  .section-sub {
+    font-size: 0.95rem; color: var(--ink-4); font-style: italic; margin: 0 0 1.5rem; max-width: 620px;
+  }
+
+  /* ── Overview grid ── */
+  .overview-section { margin-bottom: 3.5rem; }
+  .overview-grid {
+    display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.8rem;
+  }
+  .overview-cell {
+    background: var(--papyrus-2); border: 1px solid var(--rule); border-radius: var(--radius-lg);
+    padding: 1rem 1.1rem; text-decoration: none; color: var(--ink-2);
+    transition: background 0.15s, border-color 0.15s, transform 0.15s;
+    display: flex; gap: 0.85rem; align-items: flex-start;
+  }
+  .overview-cell:hover { background: var(--papyrus-3); border-color: rgba(139,26,26,0.25); transform: translateY(-1px); }
+  .overview-glyph {
+    font-family: var(--font-cn); font-size: 1.85rem; font-weight: 700; line-height: 1; color: var(--red);
+    flex-shrink: 0; min-width: 2.2rem; text-shadow: 1px 1px 0 rgba(139,26,26,0.12);
+  }
+  .overview-body { display: flex; flex-direction: column; gap: 0.15rem; min-width: 0; }
+  .overview-name { font-size: 0.92rem; font-weight: 600; color: var(--ink-2); }
+  .overview-py { font-family: var(--font-mono); font-size: 0.7rem; color: var(--ochre); }
+  .overview-desc { font-size: 0.78rem; color: var(--ink-4); font-style: italic; line-height: 1.45; margin-top: 0.2rem; }
+  .overview-count { font-family: var(--font-mono); font-size: 0.6rem; color: var(--ink-5); letter-spacing: 0.1em; margin-top: 0.3rem; }
+  .overview-count.empty { opacity: 0.5; }
+
+  /* ── Recently updated ── */
+  .recent-section { margin-bottom: 3.5rem; }
+  .recent-grid {
+    display: grid; grid-template-columns: repeat(auto-fill, minmax(230px, 1fr)); gap: 0.9rem;
+  }
+  .recent-card {
+    background: var(--papyrus-2); border: 1px solid var(--rule); border-radius: var(--radius-lg);
+    padding: 1.1rem 1.2rem; text-decoration: none; display: block; position: relative;
+    transition: background 0.15s, border-color 0.15s, transform 0.15s, box-shadow 0.15s;
+    overflow: hidden;
+  }
+  .recent-card:hover {
+    background: var(--papyrus-3); border-color: rgba(139,26,26,0.3);
+    transform: translateY(-2px); box-shadow: 0 2px 6px rgba(28,18,8,0.06);
+  }
+  .recent-card::before { content: ''; position: absolute; left: 0; top: 0; bottom: 0; width: 3px; background: var(--ochre); opacity: 0; transition: opacity 0.15s; }
+  .recent-card:hover::before { opacity: 1; }
+  .recent-new {
+    position: absolute; top: 0.5rem; right: 0.5rem;
+    font-family: var(--font-mono); font-size: 0.52rem; letter-spacing: 0.18em; text-transform: uppercase;
+    background: var(--ochre); color: var(--papyrus); padding: 0.1rem 0.45rem; border-radius: 2px;
+  }
+  .recent-glyph { font-family: var(--font-cn); font-size: 2.4rem; font-weight: 700; color: var(--red); line-height: 1; display: block; margin-bottom: 0.3rem; text-shadow: 1px 1px 0 rgba(139,26,26,0.15); }
+  .recent-pinyin { font-family: var(--font-mono); font-size: 0.78rem; color: var(--ochre); display: block; margin-bottom: 0.2rem; }
+  .recent-title { font-size: 0.94rem; font-weight: 600; color: var(--ink-2); display: block; margin-bottom: 0.35rem; line-height: 1.35; }
+  .recent-meta { font-family: var(--font-mono); font-size: 0.62rem; color: var(--ink-5); letter-spacing: 0.06em; display: block; }
 
   /* ── Filter bar ── */
   .filter-bar {
     display: flex; align-items: center; gap: 0.75rem; flex-wrap: wrap;
     background: var(--papyrus-2); border: 1px solid var(--rule);
     border-radius: var(--radius-lg); padding: 0.65rem 1rem;
-    margin-bottom: 2.5rem;
+    margin-bottom: 1.5rem;
     position: sticky; top: calc(var(--nav-h) + 8px); z-index: 10;
     box-shadow: 0 2px 8px rgba(28,18,8,0.06);
   }
-  .filter-search-wrap { position: relative; flex: 1; min-width: 160px; }
+  .filter-search-wrap { position: relative; flex: 1; min-width: 200px; }
   .filter-search {
     width: 100%; box-sizing: border-box;
     background: var(--papyrus); border: 1px solid var(--rule-2);
-    border-radius: var(--radius); padding: 0.4rem 2rem 0.4rem 0.7rem;
-    font-family: var(--font-mono); font-size: 0.78rem; color: var(--ink-2);
+    border-radius: var(--radius); padding: 0.45rem 2rem 0.45rem 0.7rem;
+    font-family: var(--font-mono); font-size: 0.8rem; color: var(--ink-2);
     letter-spacing: 0.03em; outline: none;
     transition: border-color 0.15s, box-shadow 0.15s;
   }
@@ -44,26 +156,17 @@
   .filter-search:focus { border-color: var(--ochre); box-shadow: 0 0 0 2px rgba(160,100,40,0.15); }
   .filter-clear {
     position: absolute; right: 0.5rem; top: 50%; transform: translateY(-50%);
-    background: none; border: none; cursor: pointer; padding: 0 0.2rem;
-    font-family: var(--font-mono); font-size: 0.75rem; color: var(--ink-5);
+    background: none; border: none; cursor: pointer; padding: 0 0.3rem;
+    font-family: var(--font-mono); font-size: 0.95rem; color: var(--ink-5);
     display: none; line-height: 1;
   }
   .filter-clear:hover { color: var(--red); }
   .filter-clear.visible { display: block; }
-
-  /* Status segmented toggle */
-  .filter-seg { display: flex; border: 1px solid var(--rule); border-radius: var(--radius); overflow: hidden; flex-shrink: 0; }
-  .filter-seg button {
-    background: var(--papyrus); border: none; border-right: 1px solid var(--rule);
-    font-family: var(--font-mono); font-size: 0.68rem; letter-spacing: 0.1em; text-transform: uppercase;
-    color: var(--ink-4); padding: 0.38rem 0.75rem; cursor: pointer;
-    transition: background 0.12s, color 0.12s;
+  .filter-shortcut-hint {
+    font-family: var(--font-mono); font-size: 0.6rem; color: var(--ink-5); letter-spacing: 0.08em;
+    border: 1px solid var(--rule); border-radius: 3px; padding: 0.05rem 0.35rem;
+    flex-shrink: 0; opacity: 0.7;
   }
-  .filter-seg button:last-child { border-right: none; }
-  .filter-seg button:hover { background: var(--papyrus-3); }
-  .filter-seg button.active { background: var(--red); color: var(--papyrus); }
-
-  /* Expand/Collapse all */
   .filter-actions { display: flex; gap: 0.5rem; flex-shrink: 0; }
   .filter-actions button {
     background: none; border: none; cursor: pointer;
@@ -71,43 +174,53 @@
     color: var(--ink-5); padding: 0.3rem 0; text-decoration: underline; text-underline-offset: 2px;
   }
   .filter-actions button:hover { color: var(--ochre); }
+  .filter-actions button.mobile-toggle { display: none; }
 
-  /* Result count */
   .filter-result {
     width: 100%; font-family: var(--font-mono); font-size: 0.62rem; color: var(--ink-5);
     letter-spacing: 0.07em; margin-top: 0.1rem; display: none;
   }
   .filter-result.visible { display: block; }
-  .filter-result .result-chip {
-    display: inline-block; padding: 0.1rem 0.45rem; border-radius: 20px;
-    border: 1px solid var(--rule); color: var(--ochre); margin-left: 0.35rem; font-size: 0.58rem;
+
+  /* Search suggestions */
+  .filter-suggest {
+    display: none; gap: 0.4rem; flex-wrap: wrap; padding-top: 0.2rem; width: 100%;
   }
+  .filter-suggest.visible { display: flex; }
+  .suggest-label {
+    font-family: var(--font-mono); font-size: 0.6rem; color: var(--ink-5); letter-spacing: 0.1em;
+    text-transform: uppercase; align-self: center; margin-right: 0.2rem;
+  }
+  .suggest-chip {
+    background: var(--papyrus); border: 1px solid var(--rule); border-radius: 20px;
+    padding: 0.2rem 0.7rem; font-family: var(--font-mono); font-size: 0.7rem;
+    color: var(--ink-3); cursor: pointer; transition: background 0.12s, border-color 0.12s;
+  }
+  .suggest-chip:hover { background: var(--papyrus-3); border-color: var(--ochre); color: var(--ink); }
+  .suggest-chip .cn { font-family: var(--font-cn); margin-right: 0.25rem; color: var(--red); }
 
-  /* ── Category groups ── */
+  /* No-results state */
+  .no-results {
+    display: none; padding: 1.5rem 1.25rem; background: var(--papyrus-2); border: 1px dashed var(--rule);
+    border-radius: var(--radius-lg); text-align: center; margin-bottom: 2rem;
+  }
+  .no-results.visible { display: block; }
+  .no-results-msg { font-style: italic; color: var(--ink-3); margin-bottom: 0.8rem; }
+  .no-results-msg code { font-family: var(--font-mono); color: var(--red); background: none; padding: 0; }
+
+  /* ── Categories section ── */
+  .categories-section { margin-bottom: 2rem; }
+
   .cat-group { margin-bottom: 2.75rem; animation: fadeUp 0.5s ease both; }
-  .cat-group:nth-child(2)  { animation-delay: 0.05s; }
-  .cat-group:nth-child(3)  { animation-delay: 0.10s; }
-  .cat-group:nth-child(4)  { animation-delay: 0.15s; }
-  .cat-group:nth-child(5)  { animation-delay: 0.20s; }
-  .cat-group:nth-child(6)  { animation-delay: 0.25s; }
-  .cat-group:nth-child(7)  { animation-delay: 0.30s; }
-  .cat-group:nth-child(8)  { animation-delay: 0.35s; }
-  .cat-group:nth-child(9)  { animation-delay: 0.40s; }
-  .cat-group:nth-child(10) { animation-delay: 0.45s; }
-  .cat-group:nth-child(11) { animation-delay: 0.50s; }
-  .cat-group:nth-child(12) { animation-delay: 0.55s; }
   .cat-group.hidden { display: none; }
-
-  /* Collapsed grid */
   .cat-group.collapsed .entry-grid { display: none; }
 
-  /* ── Category head (now a button) ── */
   .cat-head {
     display: flex; align-items: center; gap: 0.8rem;
     margin: 0 0 1.2rem; padding-bottom: 0.7rem; border-bottom: 1px solid var(--rule);
     background: none; border-top: none; border-left: none; border-right: none;
     width: 100%; text-align: left; cursor: pointer;
-    transition: opacity 0.12s;
+    transition: opacity 0.12s; font: inherit; color: inherit;
   }
   .cat-head:hover { opacity: 0.8; }
   .cat-caret {
@@ -121,47 +234,88 @@
   .cat-head .sh-rule { flex: 1; height: 1px; background: var(--rule-2); }
   .cat-count { font-family: var(--font-mono); font-size: 0.64rem; color: var(--ink-5); letter-spacing: 0.1em; white-space: nowrap; }
 
-  /* ── Entry grid ── */
+  /* Entry grid */
   .entry-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(230px, 1fr)); gap: 0.9rem; }
 
-  /* Complete card */
   .entry-card {
     background: var(--papyrus-2); border: 1px solid var(--rule); border-radius: var(--radius-lg);
     padding: 1.15rem 1.25rem; text-decoration: none; display: block;
     transition: background 0.15s, border-color 0.15s, transform 0.15s, box-shadow 0.15s;
-    position: relative; overflow: hidden;
+    position: relative; overflow: hidden; outline: none;
   }
   .entry-card:hover {
     background: var(--papyrus-3); border-color: rgba(139,26,26,0.3);
     transform: translateY(-2px); box-shadow: 0 2px 6px rgba(28,18,8,0.06);
   }
+  .entry-card:focus-visible {
+    border-color: var(--ochre); box-shadow: 0 0 0 2px rgba(160,100,40,0.25);
+  }
   .entry-card::before { content: ''; position: absolute; left: 0; top: 0; bottom: 0; width: 3px; background: var(--red); opacity: 0; transition: opacity 0.15s; }
-  .entry-card:hover::before { opacity: 1; }
+  .entry-card:hover::before, .entry-card:focus-visible::before { opacity: 1; }
   .entry-card.hidden { display: none; }
 
-  /* Stub card */
-  .entry-card.stub { background: var(--papyrus); border-style: dashed; opacity: 0.55; pointer-events: none; cursor: default; }
-  .entry-card.stub::before { display: none; }
-
-  /* Card content */
   .entry-glyph { font-family: var(--font-cn); font-size: 2.45rem; font-weight: 700; color: var(--red); line-height: 1; display: block; margin-bottom: 0.3rem; text-shadow: 1px 1px 0 rgba(139,26,26,0.15); }
   .entry-pinyin { font-family: var(--font-mono); font-size: 0.82rem; color: var(--ochre); letter-spacing: 0.05em; display: block; margin-bottom: 0.22rem; }
   .entry-title { font-size: 0.96rem; font-weight: 600; color: var(--ink-2); line-height: 1.35; display: block; margin-bottom: 0.22rem; }
   .entry-desc { font-size: 0.85rem; color: var(--ink-4); font-style: italic; line-height: 1.45; display: block; }
-  .entry-tags { margin-top: 0.55rem; display: flex; flex-wrap: wrap; gap: 0.25rem; align-items: center; }
 
-  .stub-chip { font-family: var(--font-mono); font-size: 0.55rem; letter-spacing: 0.12em; text-transform: uppercase; padding: 0.15rem 0.5rem; border-radius: 20px; border: 1px dashed var(--rule); color: var(--ink-5); background: transparent; }
+  /* Highlight matches */
+  mark { background: rgba(160,100,40,0.22); color: var(--ink); padding: 0 1px; border-radius: 2px; }
 
-  /* ── Footer ── */
-  .index-footer { margin-top: 4rem; padding-top: 1.5rem; border-top: 2px solid var(--rule); text-align: center; font-family: var(--font-mono); font-size: 0.65rem; letter-spacing: 0.14em; color: var(--ink-5); text-transform: uppercase; }
-  .index-footer span { color: var(--ochre); }
+  /* ── Legend ── */
+  .legend-section { margin: 4rem 0 3rem; }
+  .legend-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1rem; }
+  .legend-panel {
+    background: var(--papyrus-2); border: 1px solid var(--rule); border-radius: var(--radius-lg);
+    padding: 1.2rem 1.25rem;
+  }
+  .legend-head {
+    font-family: var(--font-mono); font-size: 0.66rem; letter-spacing: 0.18em; text-transform: uppercase;
+    color: var(--ink-4); margin: 0 0 0.8rem; padding-bottom: 0.5rem; border-bottom: 1px solid var(--rule-2);
+  }
+  .legend-item {
+    display: flex; gap: 0.7rem; align-items: baseline;
+    font-size: 0.85rem; color: var(--ink-3); margin-bottom: 0.55rem; line-height: 1.45;
+  }
+  .legend-item:last-child { margin-bottom: 0; }
+  .legend-glyph { font-family: var(--font-cn); font-weight: 700; color: var(--red); font-size: 1.05rem; flex-shrink: 0; min-width: 1.2rem; }
+  .legend-item b { font-weight: 600; color: var(--ink-2); margin-right: 0.3rem; }
+  .legend-item kbd {
+    font-family: var(--font-mono); font-size: 0.7rem; background: var(--papyrus); border: 1px solid var(--rule);
+    border-radius: 3px; padding: 0.05rem 0.35rem; color: var(--ink-2);
+  }
+
+  /* ── Colophon footer ── */
+  .colophon {
+    margin-top: 4rem; padding-top: 2rem; border-top: 2px solid var(--rule);
+    display: grid; grid-template-columns: 2fr 1fr; gap: 2rem;
+  }
+  .colophon-main { font-size: 0.92rem; color: var(--ink-3); line-height: 1.6; }
+  .colophon-main p { margin: 0 0 0.7rem; }
+  .colophon-main .author-line { font-family: var(--font-body); font-size: 1.05rem; color: var(--ink-2); font-weight: 600; margin-bottom: 0.6rem; }
+  .colophon-meta { font-family: var(--font-mono); font-size: 0.7rem; color: var(--ink-5); letter-spacing: 0.06em; }
+  .colophon-meta a { color: var(--ochre); text-decoration: none; }
+  .colophon-meta a:hover { color: var(--red); text-decoration: underline; }
+  .colophon-meta div { margin-bottom: 0.4rem; }
+  .colophon-meta .label { color: var(--ink-5); text-transform: uppercase; letter-spacing: 0.14em; font-size: 0.6rem; margin-bottom: 0.1rem; }
 
   /* ── Mobile ── */
+  @media (max-width: 800px) {
+    .overview-grid { grid-template-columns: repeat(2, 1fr); }
+    .legend-grid { grid-template-columns: 1fr; }
+    .colophon { grid-template-columns: 1fr; gap: 1.5rem; }
+    .index-hero-title { font-size: 1.85rem; }
+  }
   @media (max-width: 600px) {
     .index-shell { padding: 2rem 1.25rem 4rem; }
-    .entry-grid { grid-template-columns: repeat(auto-fill, minmax(175px, 1fr)); }
-    .filter-bar { top: calc(var(--nav-h) + 4px); flex-wrap: wrap; }
-    .filter-actions { display: none; }
+    .index-hero-glyph { font-size: 4.5rem; }
+    .overview-grid { grid-template-columns: 1fr; }
+    .entry-grid, .recent-grid { grid-template-columns: repeat(auto-fill, minmax(175px, 1fr)); }
+    .filter-bar { top: calc(var(--nav-h) + 4px); }
+    .filter-shortcut-hint { display: none; }
+    .filter-actions button.desktop-only { display: none; }
+    .filter-actions button.mobile-toggle { display: inline-block; }
+    .section-title { font-size: 1.35rem; }
   }
 </style>
 </head>
@@ -176,51 +330,137 @@
 
   <header class="index-hero">
     <span class="index-hero-glyph">字</span>
-    <div class="index-hero-title">Field Notes on Chinese</div>
-    <p class="index-hero-desc">A personal lexicon — characters, culture, history, and the living texture of the Chinese language.</p>
+    <div class="index-hero-eyebrow">Field Notes on Chinese</div>
+    <h1 class="index-hero-title">A field guide to Chinese</h1>
+    <p class="index-hero-desc">Characters, language, and the long civilisation behind them — written as a scholar's notebook for curious readers.</p>
+    <div class="hero-ctas">
+      <a href="#cat-characters" class="hero-cta hero-cta-primary">Start with characters →</a>
+      <a href="#overview" class="hero-cta hero-cta-secondary">What's inside ↓</a>
+    </div>
   </header>
 
   <div class="index-stats" id="stats"></div>
 
-  <div class="filter-bar" id="filter-bar">
-    <div class="filter-search-wrap">
-      <input class="filter-search" id="filter-search" type="search" placeholder="Search by character, pinyin, or keyword…" autocomplete="off" spellcheck="false">
-      <button class="filter-clear" id="filter-clear" aria-label="Clear search">×</button>
-    </div>
-    <div class="filter-seg" id="filter-seg" role="group" aria-label="Filter by status">
-      <button data-seg="all" class="active">All</button>
-      <button data-seg="complete">Authored</button>
-      <button data-seg="stub">Queue</button>
-    </div>
-    <div class="filter-actions">
-      <button id="expand-all">Expand all</button>
-      <button id="collapse-all">Collapse all</button>
-    </div>
-    <div class="filter-result" id="filter-result"></div>
-  </div>
+  <!-- Overview -->
+  <section class="overview-section" id="overview">
+    <div class="section-eyebrow">概览 gàilǎn</div>
+    <h2 class="section-title">What's inside</h2>
+    <p class="section-sub">Twelve sections, from the building blocks of the language to the civilisation that built them.</p>
+    <div class="overview-grid" id="overview-grid"></div>
+  </section>
 
-  <div id="categories"></div>
+  <!-- Recently updated -->
+  <section class="recent-section" id="recent">
+    <div class="section-eyebrow">最近 zuìjìn</div>
+    <h2 class="section-title">Recently added</h2>
+    <p class="section-sub">The latest entries to land in the field guide.</p>
+    <div class="recent-grid" id="recent-grid"></div>
+  </section>
 
-  <footer class="index-footer">Field Notes on Chinese &nbsp;·&nbsp; <span>index.html</span></footer>
+  <!-- Filter bar + categories -->
+  <section class="categories-section">
+    <div class="section-eyebrow">浏览 liúlǎn</div>
+    <h2 class="section-title">Browse all entries</h2>
+    <p class="section-sub">Search by character, pinyin, keyword, radical, or HSK level.</p>
+
+    <div class="filter-bar" id="filter-bar">
+      <div class="filter-search-wrap">
+        <input class="filter-search" id="filter-search" type="search" placeholder="Search by character, pinyin, keyword, radical, HSK…" autocomplete="off" spellcheck="false" aria-label="Search entries">
+        <button class="filter-clear" id="filter-clear" aria-label="Clear search">×</button>
+      </div>
+      <span class="filter-shortcut-hint">press / to focus</span>
+      <div class="filter-actions">
+        <button id="expand-all" class="desktop-only">Expand all</button>
+        <button id="collapse-all" class="desktop-only">Collapse all</button>
+        <button id="mobile-toggle-all" class="mobile-toggle">Collapse all ▾</button>
+      </div>
+      <div class="filter-result" id="filter-result"></div>
+      <div class="filter-suggest" id="filter-suggest"></div>
+    </div>
+
+    <div class="no-results" id="no-results">
+      <p class="no-results-msg">No entries match <code id="no-results-query"></code>.</p>
+      <div class="filter-suggest visible" id="no-results-suggest"></div>
+    </div>
+
+    <div id="categories"></div>
+  </section>
+
+  <!-- Legend -->
+  <section class="legend-section">
+    <div class="section-eyebrow">说明 shuōmíng</div>
+    <h2 class="section-title">How to read</h2>
+    <div class="legend-grid">
+      <div class="legend-panel">
+        <div class="legend-head">Page types</div>
+        <div class="legend-item"><span class="legend-glyph">字</span><span><b>Character.</b> One glyph — etymology, decomposition, compounds.</span></div>
+        <div class="legend-item"><span class="legend-glyph">词</span><span><b>Vocabulary.</b> A word or concept that carries cultural weight.</span></div>
+        <div class="legend-item"><span class="legend-glyph">法</span><span><b>Grammar.</b> A particle, structure, or grammatical pattern.</span></div>
+        <div class="legend-item"><span class="legend-glyph">题</span><span><b>Topic.</b> A short essay on a cultural, historical, or philosophical subject.</span></div>
+      </div>
+      <div class="legend-panel">
+        <div class="legend-head">Anatomy of an entry</div>
+        <div class="legend-item"><span class="legend-glyph">①</span><span><b>Hero.</b> Glyph, pinyin, gloss, and HSK / radical chips.</span></div>
+        <div class="legend-item"><span class="legend-glyph">②</span><span><b>Etymology.</b> The story of how the character came to look and mean what it does.</span></div>
+        <div class="legend-item"><span class="legend-glyph">③</span><span><b>Compounds & chengyu.</b> The character as a building block.</span></div>
+        <div class="legend-item"><span class="legend-glyph">④</span><span><b>Retention hook.</b> A memory image so the glyph sticks.</span></div>
+      </div>
+      <div class="legend-panel">
+        <div class="legend-head">Navigation</div>
+        <div class="legend-item"><span class="legend-glyph">⌕</span><span>Press <kbd>/</kbd> anywhere to jump to search.</span></div>
+        <div class="legend-item"><span class="legend-glyph">↓</span><span>Use <kbd>↑</kbd> <kbd>↓</kbd> to step through results, <kbd>Enter</kbd> to open.</span></div>
+        <div class="legend-item"><span class="legend-glyph">⌘</span><span>Each entry has a sticky table of contents on the side.</span></div>
+        <div class="legend-item"><span class="legend-glyph">⊞</span><span>Section titles in the index are clickable to collapse.</span></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Colophon -->
+  <footer class="colophon">
+    <div class="colophon-main">
+      <p class="author-line">Written by Hunter Dellere.</p>
+      <p>An ongoing personal study of the Chinese language and the civilisation that gave rise to it — kept public so other curious readers can browse along.</p>
+      <p>Sources include Outlier Linguistic Solutions, Wenlin, Pleco, the Hanyu Da Cidian, and classical primary texts where applicable. Errors and idiosyncratic readings are mine.</p>
+    </div>
+    <div class="colophon-meta">
+      <div>
+        <div class="label">Repository</div>
+        <a href="https://github.com/HunterDellere/chinese-field-guide" target="_blank" rel="noopener">github.com/HunterDellere/chinese-field-guide</a>
+      </div>
+      <div>
+        <div class="label">Contact</div>
+        <a href="mailto:hunter@bootle.io">hunter@bootle.io</a>
+      </div>
+      <div>
+        <div class="label">License</div>
+        Content CC&nbsp;BY-SA&nbsp;4.0 · Code MIT
+      </div>
+      <div>
+        <div class="label">Last updated</div>
+        <span id="last-updated">2026-04-18</span>
+      </div>
+    </div>
+  </footer>
 
 </div>
 
 <script src="entries.js"></script>
 <script>
 (function () {
+  // ── Category metadata + descriptions ──
   const CATEGORY_META = {
-    characters: { cn: "字",   py: "zì",       en: "Characters",         color: "var(--red)"       },
-    vocab:      { cn: "词",   py: "cí",       en: "Vocabulary",         color: "var(--ochre)"     },
-    grammar:    { cn: "法",   py: "fǎ",       en: "Grammar",            color: "var(--teal-ink)"  },
-    religion:   { cn: "宗教", py: "zōngjiào", en: "Religion",           color: "var(--red)"       },
-    philosophy: { cn: "哲学", py: "zhéxué",   en: "Philosophy",         color: "var(--sienna)"    },
-    history:    { cn: "历史", py: "lìshǐ",    en: "History",            color: "var(--ochre)"     },
-    geography:  { cn: "地理", py: "dìlǐ",     en: "Geography",          color: "var(--teal-ink)"  },
-    culture:    { cn: "文化", py: "wénhuà",   en: "Culture",            color: "var(--red)"       },
-    culinary:   { cn: "饮食", py: "yǐnshí",   en: "Culinary",           color: "var(--sienna)"    },
-    arts:       { cn: "艺文", py: "yìwén",    en: "Arts & Literature",  color: "var(--violet-ink)"},
-    science:    { cn: "科技", py: "kējì",     en: "Science & Medicine", color: "var(--teal-ink)"  },
-    daily:      { cn: "日常", py: "rìcháng",  en: "Everyday Life",      color: "var(--ochre)"     }
+    characters: { cn: "字",   py: "zì",       en: "Characters",         color: "var(--red)",        desc: "The single glyphs — etymology, decomposition, daily use." },
+    vocab:      { cn: "词",   py: "cí",       en: "Vocabulary",         color: "var(--ochre)",      desc: "Words and concepts that carry cultural weight." },
+    grammar:    { cn: "法",   py: "fǎ",       en: "Grammar",            color: "var(--teal-ink)",   desc: "Particles, structures, and the joints of the language." },
+    religion:   { cn: "宗教", py: "zōngjiào", en: "Religion",           color: "var(--red)",        desc: "Buddhism, Daoism, folk practice, ancestor rites." },
+    philosophy: { cn: "哲学", py: "zhéxué",   en: "Philosophy",         color: "var(--sienna)",     desc: "The hundred schools and what they argued about." },
+    history:    { cn: "历史", py: "lìshǐ",    en: "History",            color: "var(--ochre)",      desc: "Dynasties, ruptures, and the long arc." },
+    geography:  { cn: "地理", py: "dìlǐ",     en: "Geography",          color: "var(--teal-ink)",   desc: "Places, dialects, and the shape of the land." },
+    culture:    { cn: "文化", py: "wénhuà",   en: "Culture",            color: "var(--red)",        desc: "What people make and how they live with it." },
+    culinary:   { cn: "饮食", py: "yǐnshí",   en: "Culinary",           color: "var(--sienna)",     desc: "What is cooked, drunk, and shared at the table." },
+    arts:       { cn: "艺文", py: "yìwén",    en: "Arts & Literature",  color: "var(--violet-ink)", desc: "Poetry, painting, calligraphy, opera." },
+    science:    { cn: "科技", py: "kējì",     en: "Science & Medicine", color: "var(--teal-ink)",   desc: "Astronomy, medicine, and technology before modernity." },
+    daily:      { cn: "日常", py: "rìcháng",  en: "Everyday Life",      color: "var(--ochre)",      desc: "Names, numbers, gifts, gestures, taboos." }
   };
 
   const CAT_ORDER = [
@@ -231,35 +471,139 @@
     "arts","science","daily"
   ];
 
-  // Categories expanded by default (language trio)
-  const DEFAULT_EXPANDED = new Set(["characters","vocab","grammar"]);
+  // ── Recently-updated dates (manually maintained — bump when authoring new pages) ──
+  const RECENT_DATES = {
+    "pages/characters/gan3_感.html": "2026-04-18",
+    "pages/characters/shi4_是.html": "2026-04-18",
+    "pages/characters/you3_有.html": "2026-04-18",
+    "pages/characters/ren2_人.html": "2026-04-18",
+    "pages/characters/qi4_气.html":  "2026-04-18",
+    "pages/characters/tian1_天.html":"2026-04-18",
+    "pages/characters/xin1_心.html": "2026-04-18",
+    "pages/characters/dao4_道.html": "2026-04-18",
+    "pages/characters/jia1_家.html": "2026-04-18",
+    "pages/characters/zi4_字.html":  "2026-04-18"
+  };
+  const TODAY = "2026-04-18";
 
-  // ── Diacritic-insensitive normalization ──
+  // ── Suggested searches ──
+  const SUGGESTIONS = [
+    { label: "心", q: "心" },
+    { label: "气", q: "气" },
+    { label: "道", q: "道" },
+    { label: "guanxi", q: "guanxi" },
+    { label: "yinyang", q: "yinyang" },
+    { label: "hsk 1", q: "hsk 1" }
+  ];
+
+  // ── Helpers ──
   function normalize(str) {
-    return (str || "").toLowerCase()
+    return (str || "").toString().toLowerCase()
       .normalize("NFD").replace(/[\u0300-\u036f]/g, "");
   }
-
-  // ── Build entry search tokens ──
-  function tokenize(e) {
-    return normalize([e.char, e.pinyin, e.title, e.desc, ...(e.tags || [])].join(" "));
+  function escapeHtml(str) {
+    return (str || "").toString()
+      .replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;")
+      .replace(/"/g,"&quot;").replace(/'/g,"&#39;");
+  }
+  function highlight(text, query) {
+    if (!query) return escapeHtml(text);
+    const safe = escapeHtml(text);
+    const normText = normalize(text);
+    const normQuery = normalize(query);
+    const idx = normText.indexOf(normQuery);
+    if (idx === -1) return safe;
+    // Map normalized index back to original (assume same length — true for ASCII + diacritic-stripped)
+    return escapeHtml(text.slice(0, idx)) +
+           "<mark>" + escapeHtml(text.slice(idx, idx + query.length)) + "</mark>" +
+           escapeHtml(text.slice(idx + query.length));
+  }
+  function daysAgo(dateStr) {
+    const d1 = new Date(dateStr + "T00:00:00");
+    const d2 = new Date(TODAY + "T00:00:00");
+    return Math.round((d2 - d1) / (1000 * 60 * 60 * 24));
+  }
+  function relativeDate(dateStr) {
+    const days = daysAgo(dateStr);
+    if (days <= 0) return "today";
+    if (days === 1) return "yesterday";
+    if (days < 30) return days + " days ago";
+    if (days < 365) return Math.round(days / 30) + " months ago";
+    return Math.round(days / 365) + " years ago";
   }
 
-  // ── Group entries ──
+  // ── Filter to authored entries only ──
+  const allEntries = (window.ENTRIES || []).filter(e => e.status === "complete");
+
+  // Build search tokens including category names
+  function tokenize(e) {
+    const meta = CATEGORY_META[e.category] || {};
+    const parts = [
+      e.char, e.pinyin, e.title, e.desc,
+      ...(e.tags || []),
+      e.radical,
+      e.hsk != null ? "hsk " + e.hsk : "",
+      e.hsk != null ? "hsk" + e.hsk : "",
+      meta.cn, meta.py, meta.en
+    ];
+    return normalize(parts.filter(Boolean).join(" "));
+  }
+
+  // ── Group by category ──
   const groups = {};
   CAT_ORDER.forEach(k => groups[k] = []);
-  (window.ENTRIES || []).forEach(e => {
-    if (groups[e.category] !== undefined) groups[e.category].push(e);
-  });
+  allEntries.forEach(e => { if (groups[e.category] !== undefined) groups[e.category].push(e); });
+  const activeCategoriesCount = CAT_ORDER.filter(k => groups[k].length > 0).length;
 
   // ── Stats ──
-  const total    = (window.ENTRIES || []).length;
-  const complete = (window.ENTRIES || []).filter(e => e.status === "complete").length;
   document.getElementById("stats").innerHTML =
-    `<strong>${complete}</strong> authored &nbsp;·&nbsp; <strong>${total - complete}</strong> in queue &nbsp;·&nbsp; <strong>${total}</strong> total entries`;
+    `<strong>${allEntries.length}</strong> entries &nbsp;·&nbsp; <strong>${activeCategoriesCount}</strong> sections &nbsp;·&nbsp; updated <strong>${TODAY}</strong>`;
 
-  // ── Collapsed state from localStorage ──
-  const LS_KEY = "cfg.collapsed.v1";
+  // ── Overview grid ──
+  const overviewGrid = document.getElementById("overview-grid");
+  CAT_ORDER.forEach(key => {
+    const meta = CATEGORY_META[key];
+    const count = groups[key].length;
+    const cell = document.createElement(count > 0 ? "a" : "div");
+    if (count > 0) cell.href = "#cat-" + key;
+    cell.className = "overview-cell";
+    cell.innerHTML = `
+      <span class="overview-glyph" style="color:${meta.color}">${meta.cn}</span>
+      <div class="overview-body">
+        <span class="overview-name">${meta.en}</span>
+        <span class="overview-py">${meta.py}</span>
+        <span class="overview-desc">${meta.desc}</span>
+        <span class="overview-count ${count === 0 ? "empty" : ""}">${count > 0 ? count + (count === 1 ? " entry" : " entries") : "in progress"}</span>
+      </div>
+    `;
+    overviewGrid.appendChild(cell);
+  });
+
+  // ── Recently added (top 6 by date) ──
+  const recentSorted = allEntries
+    .map(e => ({ ...e, _date: RECENT_DATES[e.path] || "2020-01-01" }))
+    .sort((a, b) => b._date.localeCompare(a._date) || a.title.localeCompare(b.title))
+    .slice(0, 6);
+
+  const recentGrid = document.getElementById("recent-grid");
+  recentSorted.forEach(e => {
+    const card = document.createElement("a");
+    card.href = e.path;
+    card.className = "recent-card";
+    const glyphChar = e.char || (e.title ? e.title.charAt(0) : "");
+    const isNew = daysAgo(e._date) <= 14;
+    card.innerHTML = `
+      ${isNew ? '<span class="recent-new">NEW</span>' : ""}
+      ${glyphChar ? `<span class="recent-glyph">${escapeHtml(glyphChar)}</span>` : ""}
+      <span class="recent-pinyin">${escapeHtml(e.pinyin || "")}</span>
+      <span class="recent-title">${escapeHtml(e.title || "")}</span>
+      <span class="recent-meta">${relativeDate(e._date)}</span>
+    `;
+    recentGrid.appendChild(card);
+  });
+
+  // ── Render category groups ──
+  const LS_KEY = "cfg.collapsed.v2";
   function loadCollapsed() {
     try { return new Set(JSON.parse(localStorage.getItem(LS_KEY)) || []); }
     catch { return new Set(); }
@@ -267,32 +611,21 @@
   function saveCollapsed(set) {
     try { localStorage.setItem(LS_KEY, JSON.stringify([...set])); } catch {}
   }
-
-  // On first visit, collapse the topic categories (non-language)
   let collapsedSet = loadCollapsed();
-  const isFirstVisit = localStorage.getItem(LS_KEY) === null;
-  if (isFirstVisit) {
-    CAT_ORDER.forEach(k => { if (!DEFAULT_EXPANDED.has(k)) collapsedSet.add(k); });
-    saveCollapsed(collapsedSet);
-  }
 
-  // ── Render categories ──
   const container = document.getElementById("categories");
-  const catGroupMap = {}; // key → { groupEl, gridEl, cardEls }
+  const catGroupMap = {};
 
   CAT_ORDER.forEach(key => {
     const entries = groups[key];
     if (!entries.length) return;
-    const meta = CATEGORY_META[key] || { cn: key, py: "", en: key, color: "var(--ink-4)" };
-
-    const done  = entries.filter(e => e.status === "complete").length;
-    const count = entries.length;
+    const meta = CATEGORY_META[key];
 
     const group = document.createElement("section");
     group.className = "cat-group" + (collapsedSet.has(key) ? " collapsed" : "");
+    group.id = "cat-" + key;
     group.dataset.category = key;
 
-    // Category head as button
     const head = document.createElement("button");
     head.className = "cat-head";
     head.setAttribute("aria-expanded", collapsedSet.has(key) ? "false" : "true");
@@ -302,137 +635,186 @@
       <span class="sh-py">${meta.py}</span>
       <span class="sh-en">${meta.en}</span>
       <span class="sh-rule"></span>
-      <span class="cat-count">${done}/${count}</span>
+      <span class="cat-count">${entries.length} ${entries.length === 1 ? "entry" : "entries"}</span>
     `;
     head.addEventListener("click", () => toggleCategory(key, group, head));
 
     const grid = document.createElement("div");
     grid.className = "entry-grid";
-    grid.id = `grid-${key}`;
 
     group.appendChild(head);
     group.appendChild(grid);
     container.appendChild(group);
 
-    // Render cards
     const cardEls = [];
     entries.forEach(e => {
-      const isStub = e.status !== "complete";
-      const card = document.createElement(isStub ? "div" : "a");
-      if (!isStub) card.href = e.path;
-      card.className = "entry-card" + (isStub ? " stub" : "");
+      const card = document.createElement("a");
+      card.href = e.path;
+      card.className = "entry-card";
       card.dataset.tokens = tokenize(e);
-      card.dataset.status = isStub ? "stub" : "complete";
-
-      const glyphChar = e.char || (e.title ? e.title.charAt(0) : "");
-      card.innerHTML = `
-        ${glyphChar ? `<span class="entry-glyph">${glyphChar}</span>` : ""}
-        <span class="entry-pinyin">${e.pinyin || ""}</span>
-        <span class="entry-title">${e.title || ""}</span>
-        <span class="entry-desc">${e.desc || ""}</span>
-        <div class="entry-tags">
-          ${isStub ? '<span class="stub-chip">coming soon</span>' : ""}
-        </div>
-      `;
+      card.dataset.char = e.char || "";
+      card.dataset.pinyin = e.pinyin || "";
+      card.dataset.title = e.title || "";
+      card.dataset.desc = e.desc || "";
+      card.tabIndex = -1;
       grid.appendChild(card);
       cardEls.push(card);
     });
 
-    catGroupMap[key] = { groupEl: group, gridEl: grid, headEl: head, cardEls };
+    catGroupMap[key] = { groupEl: group, gridEl: grid, headEl: head, cardEls, entries };
+    renderCardsForGroup(key, "");
   });
 
-  // ── Toggle a single category ──
+  function renderCardsForGroup(key, query) {
+    const g = catGroupMap[key];
+    if (!g) return;
+    g.cardEls.forEach((card, i) => {
+      const e = g.entries[i];
+      const glyphChar = e.char || (e.title ? e.title.charAt(0) : "");
+      card.innerHTML = `
+        ${glyphChar ? `<span class="entry-glyph">${highlight(glyphChar, query)}</span>` : ""}
+        <span class="entry-pinyin">${highlight(e.pinyin || "", query)}</span>
+        <span class="entry-title">${highlight(e.title || "", query)}</span>
+        <span class="entry-desc">${highlight(e.desc || "", query)}</span>
+      `;
+    });
+  }
+
+  // ── Collapse / expand ──
   function toggleCategory(key, groupEl, headEl, forceExpand) {
     const isCollapsed = groupEl.classList.contains("collapsed");
     const shouldCollapse = forceExpand === undefined ? !isCollapsed : !forceExpand;
-
     groupEl.classList.toggle("collapsed", shouldCollapse);
     headEl.setAttribute("aria-expanded", shouldCollapse ? "false" : "true");
-
-    if (shouldCollapse) collapsedSet.add(key);
-    else collapsedSet.delete(key);
+    if (shouldCollapse) collapsedSet.add(key); else collapsedSet.delete(key);
     saveCollapsed(collapsedSet);
   }
 
-  // ── Expand / Collapse all ──
   document.getElementById("expand-all").addEventListener("click", () => {
-    CAT_ORDER.forEach(key => {
+    Object.keys(catGroupMap).forEach(key => {
       const g = catGroupMap[key];
-      if (g) toggleCategory(key, g.groupEl, g.headEl, true);
+      toggleCategory(key, g.groupEl, g.headEl, true);
     });
   });
   document.getElementById("collapse-all").addEventListener("click", () => {
-    CAT_ORDER.forEach(key => {
+    Object.keys(catGroupMap).forEach(key => {
       const g = catGroupMap[key];
-      if (g) toggleCategory(key, g.groupEl, g.headEl, false);
+      toggleCategory(key, g.groupEl, g.headEl, false);
     });
+  });
+  document.getElementById("mobile-toggle-all").addEventListener("click", function () {
+    const anyExpanded = Object.values(catGroupMap).some(g => !g.groupEl.classList.contains("collapsed"));
+    Object.keys(catGroupMap).forEach(key => {
+      const g = catGroupMap[key];
+      toggleCategory(key, g.groupEl, g.headEl, !anyExpanded);
+    });
+    this.textContent = anyExpanded ? "Expand all ▸" : "Collapse all ▾";
   });
 
   // ── Filter logic ──
   let filterText = "";
-  let filterStatus = "all";
   let debounceTimer = null;
 
   function applyFilters() {
-    const query = normalize(filterText);
+    const queryRaw = filterText.trim();
+    const query = normalize(queryRaw);
     const hasQuery = query.length > 0;
-    const hasStatusFilter = filterStatus !== "all";
-    const isFiltering = hasQuery || hasStatusFilter;
 
     let totalVisible = 0;
     let catsWithVisible = 0;
 
-    CAT_ORDER.forEach(key => {
+    Object.keys(catGroupMap).forEach(key => {
       const g = catGroupMap[key];
-      if (!g) return;
-
       let catVisible = 0;
       g.cardEls.forEach(card => {
-        const matchesText = !hasQuery || card.dataset.tokens.includes(query);
-        const matchesStatus = !hasStatusFilter || card.dataset.status === filterStatus;
-        const show = matchesText && matchesStatus;
-        card.classList.toggle("hidden", !show);
-        if (show) catVisible++;
+        const matches = !hasQuery || card.dataset.tokens.includes(query);
+        card.classList.toggle("hidden", !matches);
+        if (matches) catVisible++;
       });
 
-      const showGroup = !isFiltering || catVisible > 0;
+      const showGroup = !hasQuery || catVisible > 0;
       g.groupEl.classList.toggle("hidden", !showGroup);
 
-      if (isFiltering && catVisible > 0) {
+      if (hasQuery && catVisible > 0) {
         g.groupEl.classList.remove("collapsed");
         g.headEl.setAttribute("aria-expanded", "true");
-      } else if (!isFiltering) {
+      } else if (!hasQuery) {
         const shouldBeCollapsed = collapsedSet.has(key);
         g.groupEl.classList.toggle("collapsed", shouldBeCollapsed);
         g.headEl.setAttribute("aria-expanded", shouldBeCollapsed ? "false" : "true");
       }
 
+      // Re-render with highlight
+      renderCardsForGroup(key, hasQuery ? queryRaw : "");
+
       if (catVisible > 0) catsWithVisible++;
       totalVisible += catVisible;
     });
 
-    // Result count line
+    // Result line
     const resultEl = document.getElementById("filter-result");
-    if (isFiltering) {
-      const statusLabel = filterStatus === "complete" ? "authored" : filterStatus === "stub" ? "queue" : "";
-      const chipHtml = statusLabel
-        ? `<span class="result-chip">${statusLabel}</span>` : "";
-      resultEl.innerHTML = `${totalVisible} ${totalVisible === 1 ? "entry" : "entries"} across ${catsWithVisible} ${catsWithVisible === 1 ? "category" : "categories"}${chipHtml}`;
+    if (hasQuery) {
+      resultEl.textContent = `${totalVisible} ${totalVisible === 1 ? "entry" : "entries"} across ${catsWithVisible} ${catsWithVisible === 1 ? "section" : "sections"}`;
       resultEl.classList.add("visible");
     } else {
       resultEl.classList.remove("visible");
     }
+
+    // No-results
+    const noResults = document.getElementById("no-results");
+    if (hasQuery && totalVisible === 0) {
+      document.getElementById("no-results-query").textContent = queryRaw;
+      noResults.classList.add("visible");
+    } else {
+      noResults.classList.remove("visible");
+    }
+
+    // URL sync
+    try {
+      const url = new URL(window.location.href);
+      if (hasQuery) url.searchParams.set("q", queryRaw);
+      else url.searchParams.delete("q");
+      history.replaceState(null, "", url);
+    } catch {}
   }
 
   // ── Search input ──
   const searchInput = document.getElementById("filter-search");
   const clearBtn = document.getElementById("filter-clear");
+  const suggestEl = document.getElementById("filter-suggest");
+
+  function buildSuggestionsHtml(label) {
+    return `<span class="suggest-label">${label}</span>` + SUGGESTIONS.map(s => {
+      const isCn = /[\u4e00-\u9fff]/.test(s.label);
+      return `<button class="suggest-chip" data-q="${escapeHtml(s.q)}">${isCn ? `<span class="cn">${s.label}</span>` : s.label}</button>`;
+    }).join("");
+  }
+  suggestEl.innerHTML = buildSuggestionsHtml("try");
+  document.getElementById("no-results-suggest").innerHTML = buildSuggestionsHtml("try");
+
+  function handleSuggestClick(e) {
+    const btn = e.target.closest(".suggest-chip");
+    if (!btn) return;
+    searchInput.value = btn.dataset.q;
+    filterText = btn.dataset.q;
+    clearBtn.classList.add("visible");
+    applyFilters();
+    searchInput.focus();
+  }
+  suggestEl.addEventListener("click", handleSuggestClick);
+  document.getElementById("no-results-suggest").addEventListener("click", handleSuggestClick);
 
   searchInput.addEventListener("input", () => {
     filterText = searchInput.value;
     clearBtn.classList.toggle("visible", filterText.length > 0);
     clearTimeout(debounceTimer);
     debounceTimer = setTimeout(applyFilters, 120);
+  });
+  searchInput.addEventListener("focus", () => {
+    if (!searchInput.value) suggestEl.classList.add("visible");
+  });
+  searchInput.addEventListener("blur", () => {
+    setTimeout(() => suggestEl.classList.remove("visible"), 180);
   });
 
   clearBtn.addEventListener("click", () => {
@@ -443,15 +825,56 @@
     searchInput.focus();
   });
 
-  // ── Status segmented toggle ──
-  document.getElementById("filter-seg").addEventListener("click", e => {
-    const btn = e.target.closest("button[data-seg]");
-    if (!btn) return;
-    filterStatus = btn.dataset.seg;
-    document.querySelectorAll("#filter-seg button").forEach(b => b.classList.toggle("active", b === btn));
-    applyFilters();
+  // ── Keyboard shortcuts ──
+  document.addEventListener("keydown", e => {
+    // "/" to focus search
+    if (e.key === "/" && !["INPUT","TEXTAREA","SELECT"].includes(document.activeElement.tagName)) {
+      e.preventDefault();
+      searchInput.focus();
+      searchInput.select();
+      return;
+    }
+    // Esc to clear/blur search
+    if (e.key === "Escape" && document.activeElement === searchInput) {
+      if (searchInput.value) {
+        searchInput.value = "";
+        filterText = "";
+        clearBtn.classList.remove("visible");
+        applyFilters();
+      } else {
+        searchInput.blur();
+      }
+      return;
+    }
+    // Arrow nav across visible cards
+    if (e.key === "ArrowDown" || e.key === "ArrowUp") {
+      const visibleCards = Array.from(document.querySelectorAll(".entry-card:not(.hidden)"));
+      if (!visibleCards.length) return;
+      const active = document.activeElement;
+      const idx = visibleCards.indexOf(active);
+      let nextIdx;
+      if (idx === -1) {
+        nextIdx = e.key === "ArrowDown" ? 0 : visibleCards.length - 1;
+      } else {
+        nextIdx = e.key === "ArrowDown" ? Math.min(idx + 1, visibleCards.length - 1) : Math.max(idx - 1, 0);
+      }
+      e.preventDefault();
+      visibleCards[nextIdx].tabIndex = 0;
+      visibleCards[nextIdx].focus();
+    }
   });
 
+  // ── Initial state from URL ?q= ──
+  try {
+    const initialQ = new URL(window.location.href).searchParams.get("q");
+    if (initialQ) {
+      searchInput.value = initialQ;
+      filterText = initialQ;
+      clearBtn.classList.add("visible");
+    }
+  } catch {}
+
+  applyFilters();
 })();
 </script>
 
