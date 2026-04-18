@@ -207,7 +207,7 @@ window.ENTRIES = [
     pinyin: "le",
     desc: "Perfective aspect vs. change-of-state — the single most-confused particle.",
     tags: ["aspect", "particle", "tense"],
-    status: "stub"
+    status: "complete"
   },
   {
     path: "pages/grammar/ba_把.html",
@@ -216,7 +216,7 @@ window.ENTRIES = [
     pinyin: "bǎ",
     desc: "Moving the object before the verb — when and why.",
     tags: ["syntax", "object", "disposal"],
-    status: "stub"
+    status: "complete"
   },
   {
     path: "pages/grammar/bei_被.html",
@@ -225,7 +225,7 @@ window.ENTRIES = [
     pinyin: "bèi",
     desc: "Agentive passive, unmarked passive, and the adversarial connotation.",
     tags: ["passive", "syntax", "agent"],
-    status: "stub"
+    status: "complete"
   },
   {
     path: "pages/grammar/shide_是的.html",
@@ -234,7 +234,7 @@ window.ENTRIES = [
     pinyin: "shì…de",
     desc: "Focus and past-detail marking — the construction that trips every learner.",
     tags: ["focus", "cleft", "past"],
-    status: "stub"
+    status: "complete"
   },
   {
     path: "pages/grammar/jiu_cai_就才.html",
@@ -243,7 +243,7 @@ window.ENTRIES = [
     pinyin: "jiù / cái",
     desc: "The timing and emphasis pair — speaker attitude encoded in one syllable.",
     tags: ["adverb", "timing", "emphasis"],
-    status: "stub"
+    status: "complete"
   },
   {
     path: "pages/grammar/de_的得地.html",
@@ -252,7 +252,7 @@ window.ENTRIES = [
     pinyin: "de / dé / dì",
     desc: "Attribution, result complement, and adverbial marker — distinguished once and for all.",
     tags: ["particle", "complement", "adverb"],
-    status: "stub"
+    status: "complete"
   },
   {
     path: "pages/grammar/liangci_量词.html",
@@ -261,7 +261,7 @@ window.ENTRIES = [
     pinyin: "liàngcí",
     desc: "个, 只, 条, 本, 张 — the classifier taxonomy and the logic behind it.",
     tags: ["measure-words", "classifiers", "nouns"],
-    status: "stub"
+    status: "complete"
   },
   {
     path: "pages/grammar/hui_neng_keyi_会能可以.html",
@@ -270,7 +270,7 @@ window.ENTRIES = [
     pinyin: "huì / néng / kěyǐ",
     desc: "Learned ability vs. situational capacity vs. permission — not interchangeable.",
     tags: ["modal", "ability", "permission"],
-    status: "stub"
+    status: "complete"
   },
   {
     path: "pages/grammar/directional_来去.html",
@@ -279,7 +279,7 @@ window.ENTRIES = [
     pinyin: "lái / qù",
     desc: "上来, 下去, 出去, 进来 — the motion complement system mapped.",
     tags: ["direction", "complement", "motion"],
-    status: "stub"
+    status: "complete"
   },
   {
     path: "pages/grammar/lian_dou_连都.html",
@@ -288,7 +288,7 @@ window.ENTRIES = [
     pinyin: "lián…dōu/yě",
     desc: "The intensifier construction — raising the stakes of a claim.",
     tags: ["intensifier", "even", "emphasis"],
-    status: "stub"
+    status: "complete"
   },
 
   /* ── RELIGION ──────────────────────────────────────────────────────── */
