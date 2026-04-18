@@ -594,6 +594,26 @@ tbody tr:hover td { background: var(--papyrus-2); }
 .main > *:nth-child(3) { animation-delay: 0.15s; }
 .main > *:nth-child(4) { animation-delay: 0.20s; }
 
+/* ── STUB / COMING-SOON STATE ────────────────────────────── */
+.entry-card.stub,
+.entry-card.planned {
+  opacity: 0.5;
+  pointer-events: none;
+  border-style: dashed;
+  background: var(--papyrus);
+}
+.stub-chip {
+  font-family: var(--font-mono);
+  font-size: 0.55rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  padding: 0.15rem 0.5rem;
+  border-radius: 20px;
+  border: 1px dashed var(--rule);
+  color: var(--ink-5);
+  background: transparent;
+}
+
 /* ── RESPONSIVE ──────────────────────────────────────────── */
 @media (max-width: 768px) {
   .shell { grid-template-columns: 1fr; }
