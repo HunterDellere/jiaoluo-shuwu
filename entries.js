@@ -115,7 +115,7 @@ window.ENTRIES = [
     pinyin: "dōngxi",
     desc: "East-west as the word for 'stuff' — a window into directional cosmology.",
     tags: ["directions", "colloquial", "things"],
-    status: "stub"
+    status: "complete"
   },
   {
     path: "pages/vocab/yisi_意思.html",
@@ -124,7 +124,7 @@ window.ENTRIES = [
     pinyin: "yìsi",
     desc: "Meaning, interest, charm, and the gift-giving idiom 意思意思.",
     tags: ["meaning", "gift", "register"],
-    status: "stub"
+    status: "complete"
   },
   {
     path: "pages/vocab/guanxi_关系.html",
@@ -133,7 +133,7 @@ window.ENTRIES = [
     pinyin: "guānxi",
     desc: "The untranslatable social fabric — relational leverage, it matters.",
     tags: ["social", "connections", "culture"],
-    status: "stub"
+    status: "complete"
   },
   {
     path: "pages/vocab/mianzi_面子.html",
@@ -142,7 +142,7 @@ window.ENTRIES = [
     pinyin: "miànzi",
     desc: "Giving, losing, and saving face — the social grammar of dignity.",
     tags: ["social", "honor", "culture"],
-    status: "stub"
+    status: "complete"
   },
   {
     path: "pages/vocab/yuanfen_缘分.html",
@@ -151,7 +151,7 @@ window.ENTRIES = [
     pinyin: "yuánfèn",
     desc: "Buddhist-rooted fate that ties strangers, lovers, and old friends.",
     tags: ["buddhism", "fate", "romance"],
-    status: "stub"
+    status: "complete"
   },
   {
     path: "pages/vocab/jianghu_江湖.html",
@@ -160,7 +160,7 @@ window.ENTRIES = [
     pinyin: "jiānghú",
     desc: "The outsider world of wanderers, martial artists, and street wisdom.",
     tags: ["wuxia", "culture", "society"],
-    status: "stub"
+    status: "complete"
   },
   {
     path: "pages/vocab/gongfu_功夫.html",
@@ -169,7 +169,7 @@ window.ENTRIES = [
     pinyin: "gōngfu",
     desc: "Not just martial arts — the original meaning is mastery earned through time.",
     tags: ["mastery", "time", "martial-arts"],
-    status: "stub"
+    status: "complete"
   },
   {
     path: "pages/vocab/fengshui_风水.html",
@@ -178,7 +178,7 @@ window.ENTRIES = [
     pinyin: "fēngshuǐ",
     desc: "Geomancy, qi flow, and the cosmological logic of favorable siting.",
     tags: ["cosmology", "geomancy", "space"],
-    status: "stub"
+    status: "complete"
   },
   {
     path: "pages/vocab/yinyang_阴阳.html",
@@ -187,7 +187,7 @@ window.ENTRIES = [
     pinyin: "yīnyáng",
     desc: "The binary engine of all classical Chinese thought.",
     tags: ["cosmology", "philosophy", "binary"],
-    status: "stub"
+    status: "complete"
   },
   {
     path: "pages/vocab/tianxia_天下.html",
@@ -196,7 +196,7 @@ window.ENTRIES = [
     pinyin: "tiānxià",
     desc: "The pre-nation-state Chinese political imagination — the civilized world.",
     tags: ["politics", "history", "worldview"],
-    status: "stub"
+    status: "complete"
   },
 
   /* ── LANGUAGE: GRAMMAR ─────────────────────────────────────────────── */
