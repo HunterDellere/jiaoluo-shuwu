@@ -9,14 +9,82 @@
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>字</text></svg>">
 <link rel="stylesheet" href="style.css">
 <style>
-  .index-shell { max-width: 980px; margin: 0 auto; padding: 3.5rem 2rem 6rem; }
+  /* ── Layout ── */
+  .index-shell { max-width: 1020px; margin: 0 auto; padding: 3.5rem 2rem 6rem; }
 
-  .index-hero { text-align: center; padding-bottom: 3rem; margin-bottom: 3rem; border-bottom: 2px solid var(--rule); animation: fadeUp 0.7s ease both; }
-  .index-hero-glyph { font-family: var(--font-cn); font-size: 5rem; color: var(--red); line-height: 1; display: block; text-shadow: 3px 3px 0 rgba(139,26,26,0.15); margin-bottom: 0.5rem; }
-  .index-hero-title { font-family: var(--font-mono); font-size: 0.75rem; letter-spacing: 0.28em; text-transform: uppercase; color: var(--ink-4); margin-bottom: 1rem; }
-  .index-hero-desc { font-size: 1.05rem; font-style: italic; color: var(--ink-3); max-width: 480px; margin: 0 auto; line-height: 1.65; }
+  /* ── Hero ── */
+  .index-hero { text-align: center; padding-bottom: 3.5rem; margin-bottom: 3rem; border-bottom: 2px solid var(--rule); animation: fadeUp 0.7s ease both; }
+  .index-hero-glyph { font-family: var(--font-cn); font-size: 5.5rem; color: var(--red); line-height: 1; display: block; text-shadow: 3px 3px 0 rgba(139,26,26,0.15); margin-bottom: 0.6rem; }
+  .index-hero-title { font-family: var(--font-mono); font-size: 0.82rem; letter-spacing: 0.3em; text-transform: uppercase; color: var(--ink-4); margin-bottom: 1rem; }
+  .index-hero-desc { font-size: 1.15rem; font-style: italic; color: var(--ink-3); max-width: 520px; margin: 0 auto; line-height: 1.65; }
 
-  .cat-group { margin-bottom: 3rem; animation: fadeUp 0.5s ease both; }
+  /* ── Stats ── */
+  .index-stats { font-family: var(--font-mono); font-size: 0.64rem; color: var(--ink-5); text-align: center; margin-bottom: 2rem; letter-spacing: 0.08em; }
+  .index-stats strong { color: var(--ochre); }
+
+  /* ── Filter bar ── */
+  .filter-bar {
+    display: flex; align-items: center; gap: 0.75rem; flex-wrap: wrap;
+    background: var(--papyrus-2); border: 1px solid var(--rule);
+    border-radius: var(--radius-lg); padding: 0.65rem 1rem;
+    margin-bottom: 2.5rem;
+    position: sticky; top: calc(var(--nav-h) + 8px); z-index: 10;
+    box-shadow: 0 2px 8px rgba(28,18,8,0.06);
+  }
+  .filter-search-wrap { position: relative; flex: 1; min-width: 160px; }
+  .filter-search {
+    width: 100%; box-sizing: border-box;
+    background: var(--papyrus); border: 1px solid var(--rule-2);
+    border-radius: var(--radius); padding: 0.4rem 2rem 0.4rem 0.7rem;
+    font-family: var(--font-mono); font-size: 0.78rem; color: var(--ink-2);
+    letter-spacing: 0.03em; outline: none;
+    transition: border-color 0.15s, box-shadow 0.15s;
+  }
+  .filter-search::placeholder { color: var(--ink-5); opacity: 0.7; }
+  .filter-search:focus { border-color: var(--ochre); box-shadow: 0 0 0 2px rgba(160,100,40,0.15); }
+  .filter-clear {
+    position: absolute; right: 0.5rem; top: 50%; transform: translateY(-50%);
+    background: none; border: none; cursor: pointer; padding: 0 0.2rem;
+    font-family: var(--font-mono); font-size: 0.75rem; color: var(--ink-5);
+    display: none; line-height: 1;
+  }
+  .filter-clear:hover { color: var(--red); }
+  .filter-clear.visible { display: block; }
+
+  /* Status segmented toggle */
+  .filter-seg { display: flex; border: 1px solid var(--rule); border-radius: var(--radius); overflow: hidden; flex-shrink: 0; }
+  .filter-seg button {
+    background: var(--papyrus); border: none; border-right: 1px solid var(--rule);
+    font-family: var(--font-mono); font-size: 0.68rem; letter-spacing: 0.1em; text-transform: uppercase;
+    color: var(--ink-4); padding: 0.38rem 0.75rem; cursor: pointer;
+    transition: background 0.12s, color 0.12s;
+  }
+  .filter-seg button:last-child { border-right: none; }
+  .filter-seg button:hover { background: var(--papyrus-3); }
+  .filter-seg button.active { background: var(--red); color: var(--papyrus); }
+
+  /* Expand/Collapse all */
+  .filter-actions { display: flex; gap: 0.5rem; flex-shrink: 0; }
+  .filter-actions button {
+    background: none; border: none; cursor: pointer;
+    font-family: var(--font-mono); font-size: 0.62rem; letter-spacing: 0.1em; text-transform: uppercase;
+    color: var(--ink-5); padding: 0.3rem 0; text-decoration: underline; text-underline-offset: 2px;
+  }
+  .filter-actions button:hover { color: var(--ochre); }
+
+  /* Result count */
+  .filter-result {
+    width: 100%; font-family: var(--font-mono); font-size: 0.62rem; color: var(--ink-5);
+    letter-spacing: 0.07em; margin-top: 0.1rem; display: none;
+  }
+  .filter-result.visible { display: block; }
+  .filter-result .result-chip {
+    display: inline-block; padding: 0.1rem 0.45rem; border-radius: 20px;
+    border: 1px solid var(--rule); color: var(--ochre); margin-left: 0.35rem; font-size: 0.58rem;
+  }
+
+  /* ── Category groups ── */
+  .cat-group { margin-bottom: 2.75rem; animation: fadeUp 0.5s ease both; }
   .cat-group:nth-child(2)  { animation-delay: 0.05s; }
   .cat-group:nth-child(3)  { animation-delay: 0.10s; }
   .cat-group:nth-child(4)  { animation-delay: 0.15s; }
@@ -28,42 +96,72 @@
   .cat-group:nth-child(10) { animation-delay: 0.45s; }
   .cat-group:nth-child(11) { animation-delay: 0.50s; }
   .cat-group:nth-child(12) { animation-delay: 0.55s; }
+  .cat-group.hidden { display: none; }
 
-  .cat-head { display: flex; align-items: center; gap: 0.8rem; margin: 0 0 1.2rem; padding-bottom: 0.6rem; border-bottom: 1px solid var(--rule); }
-  .cat-head .sh-cn { font-family: var(--font-cn); font-size: 1.4rem; font-weight: 700; color: var(--red); }
-  .cat-head .sh-py { font-family: var(--font-mono); font-size: 0.78rem; color: var(--ochre); }
-  .cat-head .sh-en { font-size: 0.82rem; color: var(--ink-5); font-style: italic; }
+  /* Collapsed grid */
+  .cat-group.collapsed .entry-grid { display: none; }
+
+  /* ── Category head (now a button) ── */
+  .cat-head {
+    display: flex; align-items: center; gap: 0.8rem;
+    margin: 0 0 1.2rem; padding-bottom: 0.7rem; border-bottom: 1px solid var(--rule);
+    background: none; border-top: none; border-left: none; border-right: none;
+    width: 100%; text-align: left; cursor: pointer;
+    transition: opacity 0.12s;
+  }
+  .cat-head:hover { opacity: 0.8; }
+  .cat-caret {
+    font-size: 0.65rem; color: var(--ink-5); transition: transform 0.2s; flex-shrink: 0;
+    font-family: var(--font-mono); display: inline-block;
+  }
+  .cat-group.collapsed .cat-caret { transform: rotate(-90deg); }
+  .cat-head .sh-cn { font-family: var(--font-cn); font-size: 1.55rem; font-weight: 700; color: var(--red); }
+  .cat-head .sh-py { font-family: var(--font-mono); font-size: 0.85rem; color: var(--ochre); }
+  .cat-head .sh-en { font-size: 0.9rem; color: var(--ink-5); font-style: italic; }
   .cat-head .sh-rule { flex: 1; height: 1px; background: var(--rule-2); }
-  .cat-count { font-family: var(--font-mono); font-size: 0.62rem; color: var(--ink-5); letter-spacing: 0.1em; white-space: nowrap; }
+  .cat-count { font-family: var(--font-mono); font-size: 0.64rem; color: var(--ink-5); letter-spacing: 0.1em; white-space: nowrap; }
 
-  .entry-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(210px, 1fr)); gap: 0.75rem; }
+  /* ── Entry grid ── */
+  .entry-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(230px, 1fr)); gap: 0.9rem; }
 
-  /* complete card */
-  .entry-card { background: var(--papyrus-2); border: 1px solid var(--rule); border-radius: var(--radius-lg); padding: 1rem 1.1rem; text-decoration: none; display: block; transition: background 0.15s, border-color 0.15s, transform 0.15s; position: relative; overflow: hidden; }
-  .entry-card:hover { background: var(--papyrus-3); border-color: rgba(139,26,26,0.3); transform: translateY(-2px); }
+  /* Complete card */
+  .entry-card {
+    background: var(--papyrus-2); border: 1px solid var(--rule); border-radius: var(--radius-lg);
+    padding: 1.15rem 1.25rem; text-decoration: none; display: block;
+    transition: background 0.15s, border-color 0.15s, transform 0.15s, box-shadow 0.15s;
+    position: relative; overflow: hidden;
+  }
+  .entry-card:hover {
+    background: var(--papyrus-3); border-color: rgba(139,26,26,0.3);
+    transform: translateY(-2px); box-shadow: 0 2px 6px rgba(28,18,8,0.06);
+  }
   .entry-card::before { content: ''; position: absolute; left: 0; top: 0; bottom: 0; width: 3px; background: var(--red); opacity: 0; transition: opacity 0.15s; }
   .entry-card:hover::before { opacity: 1; }
+  .entry-card.hidden { display: none; }
 
-  /* stub card */
+  /* Stub card */
   .entry-card.stub { background: var(--papyrus); border-style: dashed; opacity: 0.55; pointer-events: none; cursor: default; }
   .entry-card.stub::before { display: none; }
 
-  .entry-glyph { font-family: var(--font-cn); font-size: 2.2rem; font-weight: 700; color: var(--red); line-height: 1; display: block; margin-bottom: 0.25rem; text-shadow: 1px 1px 0 rgba(139,26,26,0.15); }
-  .entry-pinyin { font-family: var(--font-mono); font-size: 0.75rem; color: var(--ochre); letter-spacing: 0.05em; display: block; margin-bottom: 0.2rem; }
-  .entry-title { font-size: 0.88rem; font-weight: 600; color: var(--ink-2); line-height: 1.35; display: block; margin-bottom: 0.2rem; }
-  .entry-desc { font-size: 0.78rem; color: var(--ink-4); font-style: italic; line-height: 1.45; display: block; }
-  .entry-tags { margin-top: 0.5rem; display: flex; flex-wrap: wrap; gap: 0.25rem; align-items: center; }
+  /* Card content */
+  .entry-glyph { font-family: var(--font-cn); font-size: 2.45rem; font-weight: 700; color: var(--red); line-height: 1; display: block; margin-bottom: 0.3rem; text-shadow: 1px 1px 0 rgba(139,26,26,0.15); }
+  .entry-pinyin { font-family: var(--font-mono); font-size: 0.82rem; color: var(--ochre); letter-spacing: 0.05em; display: block; margin-bottom: 0.22rem; }
+  .entry-title { font-size: 0.96rem; font-weight: 600; color: var(--ink-2); line-height: 1.35; display: block; margin-bottom: 0.22rem; }
+  .entry-desc { font-size: 0.85rem; color: var(--ink-4); font-style: italic; line-height: 1.45; display: block; }
+  .entry-tags { margin-top: 0.55rem; display: flex; flex-wrap: wrap; gap: 0.25rem; align-items: center; }
 
   .stub-chip { font-family: var(--font-mono); font-size: 0.55rem; letter-spacing: 0.12em; text-transform: uppercase; padding: 0.15rem 0.5rem; border-radius: 20px; border: 1px dashed var(--rule); color: var(--ink-5); background: transparent; }
 
+  /* ── Footer ── */
   .index-footer { margin-top: 4rem; padding-top: 1.5rem; border-top: 2px solid var(--rule); text-align: center; font-family: var(--font-mono); font-size: 0.65rem; letter-spacing: 0.14em; color: var(--ink-5); text-transform: uppercase; }
   .index-footer span { color: var(--ochre); }
-  .index-stats { font-family: var(--font-mono); font-size: 0.62rem; color: var(--ink-5); text-align: center; margin-bottom: 2.5rem; letter-spacing: 0.08em; }
-  .index-stats strong { color: var(--ochre); }
 
+  /* ── Mobile ── */
   @media (max-width: 600px) {
-    .entry-grid { grid-template-columns: repeat(auto-fill, minmax(160px, 1fr)); }
     .index-shell { padding: 2rem 1.25rem 4rem; }
+    .entry-grid { grid-template-columns: repeat(auto-fill, minmax(175px, 1fr)); }
+    .filter-bar { top: calc(var(--nav-h) + 4px); flex-wrap: wrap; }
+    .filter-actions { display: none; }
   }
 </style>
 </head>
@@ -83,6 +181,24 @@
   </header>
 
   <div class="index-stats" id="stats"></div>
+
+  <div class="filter-bar" id="filter-bar">
+    <div class="filter-search-wrap">
+      <input class="filter-search" id="filter-search" type="search" placeholder="Search by character, pinyin, or keyword…" autocomplete="off" spellcheck="false">
+      <button class="filter-clear" id="filter-clear" aria-label="Clear search">×</button>
+    </div>
+    <div class="filter-seg" id="filter-seg" role="group" aria-label="Filter by status">
+      <button data-seg="all" class="active">All</button>
+      <button data-seg="complete">Authored</button>
+      <button data-seg="stub">Queue</button>
+    </div>
+    <div class="filter-actions">
+      <button id="expand-all">Expand all</button>
+      <button id="collapse-all">Collapse all</button>
+    </div>
+    <div class="filter-result" id="filter-result"></div>
+  </div>
+
   <div id="categories"></div>
 
   <footer class="index-footer">Field Notes on Chinese &nbsp;·&nbsp; <span>index.html</span></footer>
@@ -93,18 +209,18 @@
 <script>
 (function () {
   const CATEGORY_META = {
-    characters: { cn: "字", py: "zì", en: "Characters",        color: "var(--red)"      },
-    vocab:      { cn: "词", py: "cí", en: "Vocabulary",         color: "var(--ochre)"    },
-    grammar:    { cn: "法", py: "fǎ", en: "Grammar",            color: "var(--teal-ink)" },
-    religion:   { cn: "宗教", py: "zōngjiào",    en: "Religion",             color: "var(--red)"      },
-    philosophy: { cn: "哲学", py: "zhéxué",      en: "Philosophy",           color: "var(--sienna)"   },
-    history:    { cn: "历史", py: "lìshǐ",       en: "History",              color: "var(--ochre)"    },
-    geography:  { cn: "地理", py: "dìlǐ",        en: "Geography",            color: "var(--teal-ink)" },
-    culture:    { cn: "文化", py: "wénhuà",      en: "Culture",              color: "var(--red)"      },
-    culinary:   { cn: "饮食", py: "yǐnshí",      en: "Culinary",             color: "var(--sienna)"   },
-    arts:       { cn: "艺文", py: "yìwén",       en: "Arts & Literature",    color: "var(--violet-ink)"},
-    science:    { cn: "科技", py: "kējì",         en: "Science & Medicine",   color: "var(--teal-ink)" },
-    daily:      { cn: "日常", py: "rìcháng",     en: "Everyday Life",        color: "var(--ochre)"    }
+    characters: { cn: "字",   py: "zì",       en: "Characters",         color: "var(--red)"       },
+    vocab:      { cn: "词",   py: "cí",       en: "Vocabulary",         color: "var(--ochre)"     },
+    grammar:    { cn: "法",   py: "fǎ",       en: "Grammar",            color: "var(--teal-ink)"  },
+    religion:   { cn: "宗教", py: "zōngjiào", en: "Religion",           color: "var(--red)"       },
+    philosophy: { cn: "哲学", py: "zhéxué",   en: "Philosophy",         color: "var(--sienna)"    },
+    history:    { cn: "历史", py: "lìshǐ",    en: "History",            color: "var(--ochre)"     },
+    geography:  { cn: "地理", py: "dìlǐ",     en: "Geography",          color: "var(--teal-ink)"  },
+    culture:    { cn: "文化", py: "wénhuà",   en: "Culture",            color: "var(--red)"       },
+    culinary:   { cn: "饮食", py: "yǐnshí",   en: "Culinary",           color: "var(--sienna)"    },
+    arts:       { cn: "艺文", py: "yìwén",    en: "Arts & Literature",  color: "var(--violet-ink)"},
+    science:    { cn: "科技", py: "kējì",     en: "Science & Medicine", color: "var(--teal-ink)"  },
+    daily:      { cn: "日常", py: "rìcháng",  en: "Everyday Life",      color: "var(--ochre)"     }
   };
 
   const CAT_ORDER = [
@@ -115,59 +231,102 @@
     "arts","science","daily"
   ];
 
-  // Group entries by category
+  // Categories expanded by default (language trio)
+  const DEFAULT_EXPANDED = new Set(["characters","vocab","grammar"]);
+
+  // ── Diacritic-insensitive normalization ──
+  function normalize(str) {
+    return (str || "").toLowerCase()
+      .normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+  }
+
+  // ── Build entry search tokens ──
+  function tokenize(e) {
+    return normalize([e.char, e.pinyin, e.title, e.desc, ...(e.tags || [])].join(" "));
+  }
+
+  // ── Group entries ──
   const groups = {};
   CAT_ORDER.forEach(k => groups[k] = []);
   (window.ENTRIES || []).forEach(e => {
-    if (groups[e.category]) groups[e.category].push(e);
+    if (groups[e.category] !== undefined) groups[e.category].push(e);
   });
 
-  // Stats
-  const total    = window.ENTRIES.length;
-  const complete = window.ENTRIES.filter(e => e.status === "complete").length;
+  // ── Stats ──
+  const total    = (window.ENTRIES || []).length;
+  const complete = (window.ENTRIES || []).filter(e => e.status === "complete").length;
   document.getElementById("stats").innerHTML =
     `<strong>${complete}</strong> authored &nbsp;·&nbsp; <strong>${total - complete}</strong> in queue &nbsp;·&nbsp; <strong>${total}</strong> total entries`;
 
-  // Render
+  // ── Collapsed state from localStorage ──
+  const LS_KEY = "cfg.collapsed.v1";
+  function loadCollapsed() {
+    try { return new Set(JSON.parse(localStorage.getItem(LS_KEY)) || []); }
+    catch { return new Set(); }
+  }
+  function saveCollapsed(set) {
+    try { localStorage.setItem(LS_KEY, JSON.stringify([...set])); } catch {}
+  }
+
+  // On first visit, collapse the topic categories (non-language)
+  let collapsedSet = loadCollapsed();
+  const isFirstVisit = localStorage.getItem(LS_KEY) === null;
+  if (isFirstVisit) {
+    CAT_ORDER.forEach(k => { if (!DEFAULT_EXPANDED.has(k)) collapsedSet.add(k); });
+    saveCollapsed(collapsedSet);
+  }
+
+  // ── Render categories ──
   const container = document.getElementById("categories");
+  const catGroupMap = {}; // key → { groupEl, gridEl, cardEls }
 
   CAT_ORDER.forEach(key => {
     const entries = groups[key];
     if (!entries.length) return;
-    const meta = CATEGORY_META[key] || { cn: key, py: "", en: key, color: "var(--red)" };
+    const meta = CATEGORY_META[key] || { cn: key, py: "", en: key, color: "var(--ink-4)" };
 
     const done  = entries.filter(e => e.status === "complete").length;
-    const total = entries.length;
+    const count = entries.length;
 
     const group = document.createElement("section");
-    group.className = "cat-group";
-    group.innerHTML = `
-      <div class="cat-head">
-        <span class="sh-cn" style="color:${meta.color}">${meta.cn}</span>
-        <span class="sh-py">${meta.py}</span>
-        <span class="sh-en">${meta.en}</span>
-        <span class="sh-rule"></span>
-        <span class="cat-count">${done}/${total}</span>
-      </div>
-      <div class="entry-grid" id="grid-${key}"></div>
+    group.className = "cat-group" + (collapsedSet.has(key) ? " collapsed" : "");
+    group.dataset.category = key;
+
+    // Category head as button
+    const head = document.createElement("button");
+    head.className = "cat-head";
+    head.setAttribute("aria-expanded", collapsedSet.has(key) ? "false" : "true");
+    head.innerHTML = `
+      <span class="cat-caret">▾</span>
+      <span class="sh-cn" style="color:${meta.color}">${meta.cn}</span>
+      <span class="sh-py">${meta.py}</span>
+      <span class="sh-en">${meta.en}</span>
+      <span class="sh-rule"></span>
+      <span class="cat-count">${done}/${count}</span>
     `;
+    head.addEventListener("click", () => toggleCategory(key, group, head));
+
+    const grid = document.createElement("div");
+    grid.className = "entry-grid";
+    grid.id = `grid-${key}`;
+
+    group.appendChild(head);
+    group.appendChild(grid);
     container.appendChild(group);
 
-    const grid = group.querySelector(`#grid-${key}`);
-
+    // Render cards
+    const cardEls = [];
     entries.forEach(e => {
       const isStub = e.status !== "complete";
       const card = document.createElement(isStub ? "div" : "a");
       if (!isStub) card.href = e.path;
       card.className = "entry-card" + (isStub ? " stub" : "");
+      card.dataset.tokens = tokenize(e);
+      card.dataset.status = isStub ? "stub" : "complete";
 
-      // Glyph: use char if character type, else first char of title
       const glyphChar = e.char || (e.title ? e.title.charAt(0) : "");
-      const glyphHtml = glyphChar
-        ? `<span class="entry-glyph">${glyphChar}</span>` : "";
-
       card.innerHTML = `
-        ${glyphHtml}
+        ${glyphChar ? `<span class="entry-glyph">${glyphChar}</span>` : ""}
         <span class="entry-pinyin">${e.pinyin || ""}</span>
         <span class="entry-title">${e.title || ""}</span>
         <span class="entry-desc">${e.desc || ""}</span>
@@ -176,8 +335,123 @@
         </div>
       `;
       grid.appendChild(card);
+      cardEls.push(card);
+    });
+
+    catGroupMap[key] = { groupEl: group, gridEl: grid, headEl: head, cardEls };
+  });
+
+  // ── Toggle a single category ──
+  function toggleCategory(key, groupEl, headEl, forceExpand) {
+    const isCollapsed = groupEl.classList.contains("collapsed");
+    const shouldCollapse = forceExpand === undefined ? !isCollapsed : !forceExpand;
+
+    groupEl.classList.toggle("collapsed", shouldCollapse);
+    headEl.setAttribute("aria-expanded", shouldCollapse ? "false" : "true");
+
+    if (shouldCollapse) collapsedSet.add(key);
+    else collapsedSet.delete(key);
+    saveCollapsed(collapsedSet);
+  }
+
+  // ── Expand / Collapse all ──
+  document.getElementById("expand-all").addEventListener("click", () => {
+    CAT_ORDER.forEach(key => {
+      const g = catGroupMap[key];
+      if (g) toggleCategory(key, g.groupEl, g.headEl, true);
     });
   });
+  document.getElementById("collapse-all").addEventListener("click", () => {
+    CAT_ORDER.forEach(key => {
+      const g = catGroupMap[key];
+      if (g) toggleCategory(key, g.groupEl, g.headEl, false);
+    });
+  });
+
+  // ── Filter logic ──
+  let filterText = "";
+  let filterStatus = "all";
+  let debounceTimer = null;
+
+  function applyFilters() {
+    const query = normalize(filterText);
+    const hasQuery = query.length > 0;
+    const hasStatusFilter = filterStatus !== "all";
+    const isFiltering = hasQuery || hasStatusFilter;
+
+    let totalVisible = 0;
+    let catsWithVisible = 0;
+
+    CAT_ORDER.forEach(key => {
+      const g = catGroupMap[key];
+      if (!g) return;
+
+      let catVisible = 0;
+      g.cardEls.forEach(card => {
+        const matchesText = !hasQuery || card.dataset.tokens.includes(query);
+        const matchesStatus = !hasStatusFilter || card.dataset.status === filterStatus;
+        const show = matchesText && matchesStatus;
+        card.classList.toggle("hidden", !show);
+        if (show) catVisible++;
+      });
+
+      const showGroup = !isFiltering || catVisible > 0;
+      g.groupEl.classList.toggle("hidden", !showGroup);
+
+      if (isFiltering && catVisible > 0) {
+        g.groupEl.classList.remove("collapsed");
+        g.headEl.setAttribute("aria-expanded", "true");
+      } else if (!isFiltering) {
+        const shouldBeCollapsed = collapsedSet.has(key);
+        g.groupEl.classList.toggle("collapsed", shouldBeCollapsed);
+        g.headEl.setAttribute("aria-expanded", shouldBeCollapsed ? "false" : "true");
+      }
+
+      if (catVisible > 0) catsWithVisible++;
+      totalVisible += catVisible;
+    });
+
+    // Result count line
+    const resultEl = document.getElementById("filter-result");
+    if (isFiltering) {
+      const statusLabel = filterStatus === "complete" ? "authored" : filterStatus === "stub" ? "queue" : "";
+      const chipHtml = statusLabel
+        ? `<span class="result-chip">${statusLabel}</span>` : "";
+      resultEl.innerHTML = `${totalVisible} ${totalVisible === 1 ? "entry" : "entries"} across ${catsWithVisible} ${catsWithVisible === 1 ? "category" : "categories"}${chipHtml}`;
+      resultEl.classList.add("visible");
+    } else {
+      resultEl.classList.remove("visible");
+    }
+  }
+
+  // ── Search input ──
+  const searchInput = document.getElementById("filter-search");
+  const clearBtn = document.getElementById("filter-clear");
+
+  searchInput.addEventListener("input", () => {
+    filterText = searchInput.value;
+    clearBtn.classList.toggle("visible", filterText.length > 0);
+    clearTimeout(debounceTimer);
+    debounceTimer = setTimeout(applyFilters, 120);
+  });
+
+  clearBtn.addEventListener("click", () => {
+    searchInput.value = "";
+    filterText = "";
+    clearBtn.classList.remove("visible");
+    applyFilters();
+    searchInput.focus();
+  });
+
+  // ── Status segmented toggle ──
+  document.getElementById("filter-seg").addEventListener("click", e => {
+    const btn = e.target.closest("button[data-seg]");
+    if (!btn) return;
+    filterStatus = btn.dataset.seg;
+    document.querySelectorAll("#filter-seg button").forEach(b => b.classList.toggle("active", b === btn));
+    applyFilters();
+  });
+
 })();
 </script>
 

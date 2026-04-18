@@ -50,7 +50,7 @@ window.ENTRIES = [
     title: "心 · heart, mind",
     desc: "The radical at the root of all feeling — and the Chinese conception of thought itself.",
     tags: ["radical", "emotion", "mind"],
-    status: "stub"
+    status: "complete"
   },
   {
     path: "pages/characters/ren2_人.html",
@@ -77,7 +77,7 @@ window.ENTRIES = [
     title: "道 · way, path",
     desc: "The word that gave Daoism its name — and underlies every Chinese 'ism'.",
     tags: ["daoism", "philosophy", "path"],
-    status: "stub"
+    status: "complete"
   },
   {
     path: "pages/characters/tian1_天.html",
@@ -95,7 +95,7 @@ window.ENTRIES = [
     title: "家 · home, family",
     desc: "House, family, school of thought, nation (国家) — the fractal of belonging.",
     tags: ["family", "society", "home"],
-    status: "stub"
+    status: "complete"
   },
   {
     path: "pages/characters/zi4_字.html",
@@ -104,7 +104,7 @@ window.ENTRIES = [
     title: "字 · character, written word",
     desc: "The character that names itself — and the whole system of 汉字.",
     tags: ["writing", "language", "meta"],
-    status: "stub"
+    status: "complete"
   },
 
   /* ── LANGUAGE: VOCAB ───────────────────────────────────────────────── */
