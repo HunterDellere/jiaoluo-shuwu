@@ -239,7 +239,7 @@ The TOC link must point to `#etymology`. The IntersectionObserver in `toc-scroll
     </header>
     <div class="scholar" data-glyph="禅">
       <div class="scholar-label">待完成 dài wánchéng · Stub</div>
-      <p>This entry is a placeholder. The authoring queue is in <code>README.md</code>.</p>
+      <p>This entry is a placeholder. The authoring queue is in <code>local/authoring-queue.md</code>.</p>
     </div>
     <footer class="page-footer">
       <span class="footer-id">Field Notes on Chinese · <span>stub</span></span>
