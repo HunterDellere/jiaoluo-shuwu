@@ -96,13 +96,13 @@ Then flip `status: "stub"` → `status: "complete"` in `entries.js`.
 
 ### Language — Characters (`pages/characters/`)
 - [x] `gan3_感.html` — 感 gǎn · to feel, resonate
-- [ ] `shi4_是.html` — 是 shì · to be, the copula
-- [ ] `you3_有.html` — 有 yǒu · to have, to exist
+- [x] `shi4_是.html` — 是 shì · to be, the copula
+- [x] `you3_有.html` — 有 yǒu · to have, to exist
 - [ ] `xin1_心.html` — 心 xīn · heart, mind
-- [ ] `ren2_人.html` — 人 rén · person, humanity
-- [ ] `qi4_气.html` — 气 qì · breath, vital energy
+- [x] `ren2_人.html` — 人 rén · person, humanity
+- [x] `qi4_气.html` — 气 qì · breath, vital energy
 - [ ] `dao4_道.html` — 道 dào · way, path
-- [ ] `tian1_天.html` — 天 tiān · sky, heaven, day
+- [x] `tian1_天.html` — 天 tiān · sky, heaven, day
 - [ ] `jia1_家.html` — 家 jiā · home, family
 - [ ] `zi4_字.html` — 字 zì · character, written word
 

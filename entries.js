@@ -32,7 +32,7 @@ window.ENTRIES = [
     title: "是 · to be",
     desc: "The copula, the cleft construction, classical 是非 right-and-wrong.",
     tags: ["grammar", "copula", "logic"],
-    status: "stub"
+    status: "complete"
   },
   {
     path: "pages/characters/you3_有.html",
@@ -41,7 +41,7 @@ window.ENTRIES = [
     title: "有 · to have, to exist",
     desc: "Possession, existence, and the have/be distinction that reshapes grammar.",
     tags: ["grammar", "existence", "possession"],
-    status: "stub"
+    status: "complete"
   },
   {
     path: "pages/characters/xin1_心.html",
@@ -59,7 +59,7 @@ window.ENTRIES = [
     title: "人 · person, humanity",
     desc: "The character for human being, and its echo in 仁 rén — Confucian benevolence.",
     tags: ["humanity", "confucianism", "radical"],
-    status: "stub"
+    status: "complete"
   },
   {
     path: "pages/characters/qi4_气.html",
@@ -68,7 +68,7 @@ window.ENTRIES = [
     title: "气 · breath, vital energy",
     desc: "From weather to anger to the cosmic force underlying TCM and martial arts.",
     tags: ["cosmology", "tcm", "energy"],
-    status: "stub"
+    status: "complete"
   },
   {
     path: "pages/characters/dao4_道.html",
@@ -86,7 +86,7 @@ window.ENTRIES = [
     title: "天 · sky, heaven, day",
     desc: "Heaven as moral authority, weather, time, and the ground of 天命 the Mandate of Heaven.",
     tags: ["cosmology", "heaven", "mandate"],
-    status: "stub"
+    status: "complete"
   },
   {
     path: "pages/characters/jia1_家.html",
