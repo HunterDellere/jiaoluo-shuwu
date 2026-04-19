@@ -716,6 +716,21 @@
         totalVisible += catVisible;
       });
 
+      // Hide the Language/Civilisation family heading if every cat-group
+      // below it is hidden — otherwise an empty label floats over nothing.
+      container.querySelectorAll('.cat-family').forEach(familyEl => {
+        let node = familyEl.nextElementSibling;
+        let anyVisible = false;
+        while (node && !node.classList.contains('cat-family')) {
+          if (node.classList.contains('cat-group') && !node.classList.contains('hidden')) {
+            anyVisible = true;
+            break;
+          }
+          node = node.nextElementSibling;
+        }
+        familyEl.classList.toggle('hidden', !anyVisible);
+      });
+
       const resultEl = document.getElementById("filter-result");
       if (hasQuery) {
         resultEl.textContent = `${totalVisible} ${totalVisible === 1 ? "entry" : "entries"} across ${catsWithVisible} ${catsWithVisible === 1 ? "section" : "sections"}`;

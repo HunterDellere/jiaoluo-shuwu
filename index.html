@@ -409,20 +409,33 @@
   .recent-title { font-size: 0.94rem; font-weight: 600; color: var(--ink-2); display: block; margin-bottom: 0.35rem; line-height: 1.35; }
   .recent-meta { font-family: var(--font-mono); font-size: 0.62rem; color: var(--ink-5); letter-spacing: 0.06em; display: block; }
 
-  /* ── Browse panel — the site's main search surface. Framed so it reads
-        as a key element and not just another section. ─────────────────── */
-  .browse-section { margin-bottom: 4rem; scroll-margin-top: calc(var(--nav-h) + 1rem); }
-  .browse-panel {
+  /* ── Browse section — one framed container so search, HSK chips,
+        family headings, and category lists all read as a single context. */
+  .browse-section {
+    margin-bottom: 4rem;
+    padding: 2rem 2rem 1.75rem;
     background: var(--papyrus-2);
     border: 1px solid var(--rule);
     border-radius: var(--radius-lg);
-    padding: 2rem 2rem 1.5rem;
-    margin-bottom: 2.25rem;
+    box-shadow: 0 1px 0 rgba(28,18,8,0.03), 0 8px 28px rgba(28,18,8,0.04);
     position: relative;
-    box-shadow: 0 1px 0 rgba(28,18,8,0.03), 0 6px 24px rgba(28,18,8,0.04);
+  }
+  .browse-panel {
+    padding: 0;
+    margin-bottom: 1.5rem;
+    background: transparent;
+    border: none;
+    box-shadow: none;
   }
   .browse-panel .section-eyebrow { margin-top: 0; }
   .browse-panel .section-sub { margin-bottom: 1.4rem; }
+  /* Inner separator between the search chrome and the results below. */
+  .browse-panel + .no-results,
+  .browse-panel + #categories,
+  .browse-panel ~ .no-results {
+    padding-top: 0.25rem;
+  }
+  .browse-section #categories { margin-top: 0.5rem; }
 
   .filter-bar {
     display: flex; align-items: center; gap: 0.65rem;
@@ -550,8 +563,10 @@
   .hsk-chip-clear { border-style: dashed; }
 
   /* Family headings — split the list into "The Language" and "The Civilisation"
-     so the entry type is clear at a glance. */
+     so the entry type is clear at a glance. Hidden entirely when no category
+     under them has any matches, so an empty label doesn't float over nothing. */
   .cat-family { margin: 1.75rem 0 1.25rem; }
+  .cat-family.hidden { display: none; }
   .cat-family + .cat-group { margin-top: 0.25rem; }
   .cat-family-eyebrow {
     font-family: var(--font-mono); font-size: 0.64rem; letter-spacing: 0.22em;
@@ -759,7 +774,7 @@
     .featured-glyph.glyph-3 { font-size: 1.3rem; }
     .featured-glyph.glyph-4 { font-size: 1.1rem; }
     .featured-title { font-size: 1.3rem; }
-    .browse-panel { padding: 1.5rem 1.4rem 1.1rem; }
+    .browse-section { padding: 1.5rem 1.4rem 1.25rem; }
   }
   @media (max-width: 600px) {
     .index-shell { padding: 2rem 1.25rem 4rem; }
@@ -771,7 +786,7 @@
     .howto-type { padding: 0.8rem 0.9rem; }
     .howto-glyph { font-size: 1.75rem; }
     .entry-grid, .recent-grid { grid-template-columns: repeat(auto-fill, minmax(175px, 1fr)); }
-    .browse-panel { padding: 1.25rem 1.1rem 1rem; }
+    .browse-section { padding: 1.25rem 1.1rem 1rem; }
     .filter-bar-hero .filter-search { font-size: 1rem; min-height: 44px; }
     .filter-shortcut-hint { display: none; }
     .filter-actions button.desktop-only { display: none; }
