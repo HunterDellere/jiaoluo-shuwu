@@ -410,10 +410,10 @@
       }
     }
 
-    // ── overview shelves ───────────────────────────────────────────────────────
-    // Two shelves: the building blocks of the language, and the civilisation
-    // that built it. Each shelf gets its own labelled header and its own grid
-    // of cells so the structure of the guide is visible at a glance.
+    // ── overview groups ────────────────────────────────────────────────────────
+    // Two halves: the building blocks of the language, and the civilisation
+    // that built it. Each half gets its own labelled header and its own grid
+    // of cells so the structure of the nook is visible at a glance.
     const overviewStack = document.getElementById("overview-stack");
     const overviewSub = document.getElementById("overview-sub");
     const LANGUAGE_KEYS = ["characters","vocab","grammar","chengyu"];
@@ -421,7 +421,7 @@
     if (overviewSub) {
       const langCount = LANGUAGE_KEYS.reduce((n, k) => n + (groups[k] ? groups[k].length : 0), 0);
       const civCount  = CIVILISATION_KEYS.reduce((n, k) => n + (groups[k] ? groups[k].length : 0), 0);
-      overviewSub.textContent = `Two shelves: ${langCount} entries on the building blocks of the language, ${civCount} on the civilisation that built it.`;
+      overviewSub.textContent = `Two halves: ${langCount} notes on the building blocks of the language, ${civCount} on the civilisation that built it.`;
     }
     function renderShelf(label, keys) {
       const shelf = document.createElement("div");

@@ -6,7 +6,7 @@
 <title>Shūwū · 書屋 — A reading corner for the Chinese language and civilisation</title>
 
 <!-- SEO -->
-<meta name="description" content="A small reading corner for the Chinese language and civilisation — characters, vocabulary, grammar, philosophy, history, food, tea, and culture. Free, browsable, written to be lingered over.">
+<meta name="description" content="A quiet personal nook for notes on the Chinese language and civilisation — characters, vocabulary, grammar, philosophy, history, food, tea, and culture. Free, browsable, written to be lingered over.">
 <meta name="author" content="Hunter Dellere">
 <meta name="keywords" content="Chinese language, Mandarin, hanzi, Chinese characters, HSK, Chinese culture, Chinese philosophy, Chinese history, Chinese grammar, learn Chinese, chengyu, Daoism, Confucianism, Chan Buddhism, Tang poetry">
 <meta name="robots" content="index, follow, max-image-preview:large">
@@ -21,7 +21,7 @@
 <!-- Open Graph -->
 <meta property="og:type" content="website">
 <meta property="og:title" content="Shūwū · 書屋 — A reading corner for Chinese">
-<meta property="og:description" content="A cozy reading corner for the Chinese language and civilisation — characters, vocabulary, grammar, philosophy, history, food, tea, and culture.">
+<meta property="og:description" content="A quiet personal nook for notes on the Chinese language and civilisation — characters, vocabulary, grammar, philosophy, history, food, tea, and culture.">
 <meta property="og:url" content="https://hunterdellere.github.io/chinese-field-guide/">
 <meta property="og:image" content="https://hunterdellere.github.io/chinese-field-guide/assets/og-image.svg">
 <meta property="og:image:alt" content="Shūwū · 書屋 — a reading corner for Chinese language and civilisation">
@@ -31,7 +31,7 @@
 <!-- Twitter -->
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Shūwū · 書屋 — A reading corner for Chinese">
-<meta name="twitter:description" content="Characters, philosophy, history, food, and tea — a reading corner for the Chinese language and civilisation.">
+<meta name="twitter:description" content="Characters, philosophy, history, food, and tea — a quiet personal nook for notes on Chinese.">
 <meta name="twitter:image" content="https://hunterdellere.github.io/chinese-field-guide/assets/og-image.svg">
 
 <!-- JSON-LD: WebSite + search action -->
@@ -42,7 +42,7 @@
   "name": "Shūwū · 書屋",
   "alternateName": "A Reading Corner for Chinese",
   "url": "https://hunterdellere.github.io/chinese-field-guide/",
-  "description": "A small reading corner — 角落書屋 — for the Chinese language and civilisation. Characters, vocabulary, grammar, philosophy, history, food, tea, and culture.",
+  "description": "A quiet personal nook — 角落書屋 — for notes on the Chinese language and civilisation. Characters, vocabulary, grammar, philosophy, history, food, tea, and culture.",
   "inLanguage": ["en", "zh-Hans"],
   "author": { "@type": "Person", "name": "Hunter Dellere", "url": "https://github.com/HunterDellere" },
   "license": "https://creativecommons.org/licenses/by-sa/4.0/",
@@ -89,7 +89,7 @@
     {
       "@type": "Question",
       "name": "What is Shūwū · 書屋?",
-      "acceptedAnswer": { "@type": "Answer", "text": "Shūwū (書屋, literally 'book room') is a small reading corner for the Chinese language and civilisation — free and browsable. Each entry is one character, word, grammar pattern, or cultural topic, written to be lingered over rather than drilled." }
+      "acceptedAnswer": { "@type": "Answer", "text": "Shūwū (書屋, literally 'book room') is a quiet personal nook for notes on the Chinese language and civilisation — free and browsable. Each entry is one character, word, grammar pattern, or cultural topic, written to be lingered over rather than drilled." }
     },
     {
       "@type": "Question",
@@ -191,9 +191,9 @@
     vertical-align: 0.05em;
     box-shadow: 0 0 0 2px rgba(160,100,40,0.18);
   }
-  /* Hero glyph — a small chop / seal-stamp with 書屋 stacked vertically,
-     the way a corner bookshop's hanging sign reads. The two characters share
-     equal weight and a thin inner border, like a name seal (名章). */
+  /* Hero glyph — a small personal name chop with 書屋 stacked vertically,
+     the way a study's name seal reads. Two characters of equal weight inside
+     a thin inner border, like a 名章 stamped on the corner of a page. */
   .index-hero-glyph {
     font-family: var(--font-cn); color: var(--papyrus);
     width: 7.5rem; height: 7.5rem;
@@ -300,7 +300,7 @@
     position: relative; overflow: hidden;
   }
   .featured-card::before {
-    /* subtle warm "shelf-light" wash from the top */
+    /* subtle warm desk-lamp wash from the top */
     content: '';
     position: absolute; inset: 0;
     background: linear-gradient(180deg, rgba(255,240,210,0.18) 0%, transparent 35%);
@@ -438,18 +438,9 @@
     background: var(--papyrus-2);
     border: 1px solid var(--rule);
     border-radius: 10px;
-    padding: 1.3rem 1.4rem 1.4rem;
+    padding: 1.3rem 1.4rem 1.3rem;
     position: relative;
     box-shadow: 0 1px 0 rgba(28,18,8,0.04), 0 6px 18px rgba(28,18,8,0.04);
-  }
-  .overview-shelf::before {
-    /* the wood-grain sliver at the bottom that suggests a bookshelf plank */
-    content: '';
-    position: absolute;
-    left: 1.4rem; right: 1.4rem; bottom: 0.6rem; height: 2px;
-    background: linear-gradient(90deg, transparent 0%, rgba(160,100,40,0.35) 25%, rgba(160,100,40,0.45) 50%, rgba(160,100,40,0.35) 75%, transparent 100%);
-    border-radius: 2px;
-    opacity: 0.35;
   }
   .overview-shelf-head {
     display: flex; align-items: baseline; gap: 0.6rem;
@@ -1040,8 +1031,8 @@
       <span class="eyebrow-sep">·</span>
       <span class="eyebrow-py">Jiǎoluò Shūwū</span>
     </div>
-    <h1 class="index-hero-title">A reading corner for the Chinese language and civilisation</h1>
-    <p class="index-hero-desc">Pull up a chair. A small bookshop in the corner of the internet — characters, vocabulary, grammar, philosophy, history, food, and tea, written to be lingered over.</p>
+    <h1 class="index-hero-title">A quiet nook for notes on Chinese</h1>
+    <p class="index-hero-desc">Pull up a chair. One person's notes on the Chinese language and the civilisation behind it — characters, vocabulary, grammar, philosophy, history, food, and tea, written slowly and kept here in the corner.</p>
     <div class="hero-ctas">
       <a href="#browse" class="hero-cta hero-cta-primary">Browse all entries ↓</a>
       <a href="#start-here" class="hero-cta hero-cta-secondary">Quick Start →</a>
@@ -1057,8 +1048,8 @@
   <!-- This week's reading — moved to the very top so the lead theme greets visitors first. -->
   <section class="featured-section" id="featured" aria-labelledby="featured-heading">
     <div class="section-eyebrow"><span class="eb-mark" aria-hidden="true"></span>本周 běnzhōu</div>
-    <h2 class="section-title" id="featured-heading">On the table this week</h2>
-    <p class="section-sub">A single theme in focus, plus a few related entries to follow the thread on a quiet afternoon.</p>
+    <h2 class="section-title" id="featured-heading">On the desk this week</h2>
+    <p class="section-sub">What I've been sitting with — one theme and a few related notes to follow the thread on a quiet afternoon.</p>
     <article class="featured-card" id="featured-card" data-watermark=""></article>
   </section>
 
@@ -1073,16 +1064,16 @@
   <!-- What's inside — overview of the whole guide. -->
   <section class="overview-section" id="overview">
     <div class="section-eyebrow"><span class="eb-mark" aria-hidden="true"></span>概览 gàilǎn</div>
-    <h2 class="section-title">What's inside</h2>
-    <p class="section-sub" id="overview-sub">Two shelves: the building blocks of the language, and the civilisation that built it.</p>
+    <h2 class="section-title">What's in the nook</h2>
+    <p class="section-sub" id="overview-sub">Two halves: the building blocks of the language, and the civilisation that built it.</p>
     <div class="overview-stack" id="overview-stack"></div>
   </section>
 
   <!-- Recently added — surfaces the latest work right near the top. -->
   <section class="recent-section" id="recent">
     <div class="section-eyebrow"><span class="eb-mark" aria-hidden="true"></span>最近 zuìjìn</div>
-    <h2 class="section-title">Just shelved</h2>
-    <p class="section-sub">Newest additions to the corner bookshop.</p>
+    <h2 class="section-title">Recently written</h2>
+    <p class="section-sub">The newest notes added to the nook.</p>
     <div class="recent-grid" id="recent-grid"></div>
   </section>
 
@@ -1132,8 +1123,8 @@
   <section class="browse-section" id="browse" aria-labelledby="browse-heading">
     <div class="browse-panel">
       <div class="section-eyebrow"><span class="eb-mark" aria-hidden="true"></span>浏览 liúlǎn</div>
-      <h2 class="section-title" id="browse-heading">The full shelf</h2>
-      <p class="section-sub">Search by character, pinyin, keyword, radical, or HSK level — or scroll the shelves below.</p>
+      <h2 class="section-title" id="browse-heading">All the notes</h2>
+      <p class="section-sub">Search by character, pinyin, keyword, radical, or HSK level — or wander through the sections below.</p>
 
       <div class="filter-bar filter-bar-hero" id="filter-bar">
         <div class="filter-search-wrap">
@@ -1172,7 +1163,7 @@
   <section class="start-here-section" id="start-here">
     <div class="section-eyebrow"><span class="eb-mark" aria-hidden="true"></span>入门 rùmén</div>
     <h2 class="section-title">Quick Start</h2>
-    <p class="section-sub" id="start-here-sub">A short tour of the whole shelf — language, philosophy, culture, food. Read in order, or wander.</p>
+    <p class="section-sub" id="start-here-sub">A short tour of the nook — language, philosophy, culture, food. Read in order, or wander.</p>
     <ol class="start-here-list" id="start-here-list"></ol>
   </section>
 
@@ -1186,13 +1177,13 @@
       </g>
       <path d="M122 12 L198 12" stroke="currentColor" stroke-width="0.9" stroke-linecap="round" opacity="0.4"/>
     </svg>
-    <p class="colophon-epigraph">Every character is a door. The bookshop stays open.</p>
+    <p class="colophon-epigraph">Every character is a door.</p>
     <div class="colophon-main">
-      <p>Shūwū — 角落書屋, the corner bookshop — is a small, slow-built reading room for the Chinese language and the civilisation that gave rise to it. Kept open so other curious readers can pull up a chair and follow a thread for an afternoon.</p>
+      <p>Shūwū — 角落書屋, the corner — is a quiet personal nook for slow notes on the Chinese language and the civilisation that gave rise to it. Kept here in the open so other curious readers can pull up a chair and follow a thread for an afternoon.</p>
       <p>Each entry is written to be lingered over, not drilled. Sources include Outlier Linguistic Solutions, Wenlin, Pleco, the Hanyu Da Cidian, and classical primary texts where applicable.</p>
     </div>
     <div class="colophon-actions page-footer-buttons">
-      <a class="pf-btn pf-btn-donate" href="https://ko-fi.com/hdellere" target="_blank" rel="noopener" aria-label="Donate — buy me a tea">Buy the bookshop a pot of <span class="pf-btn-cn-inline">茶</span></a>
+      <a class="pf-btn pf-btn-donate" href="https://ko-fi.com/hdellere" target="_blank" rel="noopener" aria-label="Donate — buy me a tea">Pour me a cup of <span class="pf-btn-cn-inline">茶</span></a>
       <button type="button" class="pf-btn pf-btn-share" data-share aria-label="Share this page">
         <svg class="pf-btn-icon" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M4 12v7a1 1 0 0 0 1 1h14a1 1 0 0 0 1-1v-7"/><polyline points="16 6 12 2 8 6"/><line x1="12" y1="2" x2="12" y2="15"/></svg>
         <span data-share-label>Share</span>

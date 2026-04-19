@@ -541,35 +541,38 @@ h1, h2, h3, .section-head { text-wrap: balance; }
   border-bottom: 1px solid var(--rule);
   text-wrap: balance;
 }
+/* Two-row section head: small CJK + pinyin sit inline on row 1, the
+   English heading takes row 2 by itself. The previous grid version used
+   `auto auto` columns and a row-spanning English heading, which forced
+   the cn / py columns to stretch when the English title was long, leaving
+   a wide gap between e.g. "阴阳" and "yīnyáng". Block flow with inline
+   spans for the meta row keeps everything tight regardless of the en
+   title's length. */
 .section-head:has(.sh-cn) {
-  display: grid;
-  grid-template-columns: auto auto;
-  grid-template-rows: auto auto;
-  grid-template-areas:
-    "cn py"
-    "en en";
-  justify-content: start;
-  align-items: baseline;
-  column-gap: 0.55rem;
-  row-gap: 0.25rem;
+  display: block;
   font-size: inherit;
   font-weight: inherit;
 }
 .sh-cn {
-  grid-area: cn;
   font-family: var(--font-cn); font-size: 0.92rem; font-weight: 700;
   color: var(--red); letter-spacing: 0.02em;
 }
 .sh-py {
-  grid-area: py;
   font-family: var(--font-mono); font-size: 0.68rem; color: var(--ochre);
   letter-spacing: 0.16em; text-transform: uppercase;
 }
-.sh-en {
-  grid-area: en;
+/* Inside a section-head only: cn + py sit inline, en takes its own line.
+   Spaced via margin so we don't force display: block on .sh-en globally
+   (which would break the flex .cat-head on the homepage). */
+.section-head .sh-cn { margin-right: 0.45rem; vertical-align: baseline; }
+.section-head .sh-py { vertical-align: 0.12em; }
+.section-head .sh-en {
+  display: block;
+  margin-top: 0.2rem;
   font-family: var(--font-body); font-size: 1.55rem; font-weight: 600;
   color: var(--ink); font-style: normal; line-height: 1.2;
   letter-spacing: -0.005em;
+  text-wrap: balance;
 }
 .sh-rule { display: none; }
 
