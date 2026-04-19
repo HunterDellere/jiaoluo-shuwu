@@ -17,7 +17,6 @@ updated: '2026-04-19'
 pinyin: 'jìngjiǔ'
 ---
 
-<button class="toc-toggle" onclick="document.getElementById('sidebar').classList.toggle('open')">目录 Contents ▾</button>
 
 <div class="shell">
 
@@ -158,11 +157,7 @@ pinyin: 'jìngjiǔ'
       </div>
     </div>
 
-    <footer class="page-footer">
-      <span class="footer-id">Jiǎoluò Shūwū · 角落書屋 · <span>敬酒</span> · Everyday Life</span>
-      <a href="../../index.html" class="footer-back">← All Entries</a>
-    </footer>
-
+    
   </main>
 </div>
 <script src="../../scripts/toc-scroll.js"></script>

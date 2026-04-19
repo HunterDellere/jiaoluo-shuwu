@@ -14,7 +14,6 @@ updated: '2026-04-18'
 pinyin: 'jìngtǔ zōng'
 ---
 
-<button class="toc-toggle" onclick="document.getElementById('sidebar').classList.toggle('open')">目录 Contents ▾</button>
 
 <div class="shell">
 
@@ -335,10 +334,6 @@ pinyin: 'jìngtǔ zōng'
       <span class="adj"><span class="a-cn">白莲社</span><span class="a-py">Báilián Shè</span><span class="a-en">White Lotus Society (Huiyuan's)</span></span>
     </div>
 
-    <footer class="page-footer">
-      <span class="footer-id">Jiǎoluò Shūwū · 角落書屋 · <span>净土宗 jìngtǔ zōng</span> · topic_jingtu.html</span>
-      <a href="../../index.html" class="footer-back">← All Entries</a>
-    </footer>
-
+    
   </main>
 </div>

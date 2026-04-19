@@ -18,7 +18,6 @@ hsk: 5
 radical: '亻'
 ---
 
-<button class="toc-toggle" onclick="document.getElementById('sidebar').classList.toggle('open')">目录 Contents ▾</button>
 
 <div class="shell">
 
@@ -475,10 +474,6 @@ radical: '亻'
       <p>That same character — phonetically borrowed, semantically empty at first — carried an entire civilization's worth of ideas across the Silk Road and into Chinese minds. Today it lives in temple bells and internet slang, in ancient sutras and casual text messages, in the word for "as if" and the phrase for "lay down the knife." The most borrowed sound in Chinese history became one of its most generative characters.</p>
     </div>
 
-    <footer class="page-footer">
-      <span class="footer-id">Jiǎoluò Shūwū · 角落書屋 · <span>佛 fó</span> · fo2_佛.html</span>
-      <a href="../../index.html" class="footer-back">← All Entries</a>
-    </footer>
-
+    
   </main>
 </div>

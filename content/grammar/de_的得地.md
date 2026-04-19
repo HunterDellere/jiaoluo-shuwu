@@ -14,7 +14,6 @@ updated: '2026-04-18'
 pinyin: 'de / dé / dì'
 ---
 
-<button class="toc-toggle" onclick="document.getElementById('sidebar').classList.toggle('open')">目录 Contents ▾</button>
 
 <div class="shell">
 
@@ -582,11 +581,6 @@ pinyin: 'de / dé / dì'
       <span class="adj"><span class="a-cn">定语</span><span class="a-py">dìngyǔ</span><span class="a-en">attributive modifier</span></span>
     </div>
 
-    <!-- FOOTER -->
-    <footer class="page-footer">
-      <span class="footer-id">Jiǎoluò Shūwū · 角落書屋 · <span>的 / 得 / 地 · de</span> · de_的得地.html</span>
-      <a href="../../index.html" class="footer-back">← All Entries</a>
-    </footer>
-
+    
   </main>
 </div>

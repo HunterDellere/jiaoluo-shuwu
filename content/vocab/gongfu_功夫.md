@@ -14,7 +14,6 @@ updated: '2026-04-18'
 pinyin: 'gōngfu'
 ---
 
-<button class="toc-toggle">目录 Contents ▾</button>
 
 <div class="shell">
 
@@ -598,11 +597,6 @@ pinyin: 'gōngfu'
       <p>The calligrapher's stroke, the diplomat's pause, the chef's cut — all are 功夫, all cost time, all reveal the person behind them. When someone says <strong>你很有功夫</strong> — "you have real 功夫" — they are saying: I can see the years you've put in. That is the highest compliment the word can carry.</p>
     </div>
 
-    <!-- FOOTER -->
-    <footer class="page-footer">
-      <span class="footer-id">Jiǎoluò Shūwū · 角落書屋 · <span>功夫 gōngfu</span> · gongfu_功夫.html</span>
-      <a href="../../index.html" class="footer-back">← All Entries</a>
-    </footer>
-
+    
   </main>
 </div>

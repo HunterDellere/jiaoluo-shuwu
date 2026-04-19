@@ -14,7 +14,6 @@ updated: '2026-04-18'
 pinyin: 'lái / qù'
 ---
 
-<button class="toc-toggle" onclick="document.getElementById('sidebar').classList.toggle('open')">目录 Contents ▾</button>
 
 <div class="shell">
 
@@ -539,11 +538,6 @@ pinyin: 'lái / qù'
       <span class="adj"><span class="a-cn">过来</span><span class="a-py">guòlai</span><span class="a-en">come over; recover</span></span>
     </div>
 
-    <!-- FOOTER -->
-    <footer class="page-footer">
-      <span class="footer-id">Jiǎoluò Shūwū · 角落書屋 · <span>来 / 去 lái / qù</span> · directional_来去.html</span>
-      <a href="../../index.html" class="footer-back">← All Entries</a>
-    </footer>
-
+    
   </main>
 </div>

@@ -14,7 +14,6 @@ updated: '2026-04-18'
 pinyin: 'tángcháo'
 ---
 
-<button class="toc-toggle" onclick="document.getElementById('sidebar').classList.toggle('open')">目录 Contents ▾</button>
 
 <div class="shell">
 
@@ -248,11 +247,6 @@ pinyin: 'tángcháo'
 
     </div>
 
-    <!-- FOOTER -->
-    <footer class="page-footer">
-      <span class="footer-id">Jiǎoluò Shūwū · 角落書屋 · <span>唐朝 tángcháo</span> · topic_tangchao.html</span>
-      <a href="../../index.html" class="footer-back">← All Entries</a>
-    </footer>
-
+    
   </main>
 </div>

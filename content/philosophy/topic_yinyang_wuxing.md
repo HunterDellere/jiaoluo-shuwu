@@ -14,7 +14,6 @@ updated: '2026-04-18'
 pinyin: 'yīnyáng wǔxíng'
 ---
 
-<button class="toc-toggle" onclick="document.getElementById('sidebar').classList.toggle('open')">目录 Contents ▾</button>
 
 <div class="shell">
 
@@ -368,11 +367,6 @@ pinyin: 'yīnyáng wǔxíng'
 
     </div>
 
-    <!-- FOOTER -->
-    <footer class="page-footer">
-      <span class="footer-id">Jiǎoluò Shūwū · 角落書屋 · <span>阴阳五行 yīnyáng wǔxíng</span> · topic_yinyang_wuxing.html</span>
-      <a href="../../index.html" class="footer-back">← All Entries</a>
-    </footer>
-
+    
   </main>
 </div>

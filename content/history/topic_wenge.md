@@ -14,7 +14,6 @@ updated: '2026-04-18'
 pinyin: 'wénhuà dà gémìng'
 ---
 
-<button class="toc-toggle" onclick="document.getElementById('sidebar').classList.toggle('open')">目录 Contents ▾</button>
 
 <div class="shell">
 
@@ -265,11 +264,6 @@ pinyin: 'wénhuà dà gémìng'
       <span class="adj"><span class="a-cn">历史决议</span><span class="a-py">lìshǐ juéyì</span><span class="a-en">Resolution on Party History (1981 official verdict)</span></span>
     </div>
 
-    <!-- FOOTER -->
-    <footer class="page-footer">
-      <span class="footer-id">Jiǎoluò Shūwū · 角落書屋 · <span>文化大革命 wénhuà dà gémìng</span> · topic_wenge.html</span>
-      <a href="../../index.html" class="footer-back">← All Entries</a>
-    </footer>
-
+    
   </main>
 </div>

@@ -14,7 +14,6 @@ updated: '2026-04-18'
 pinyin: 'dōngxi'
 ---
 
-<button class="toc-toggle" onclick="document.getElementById('sidebar').classList.toggle('open')">目录 Contents ▾</button>
 
 <div class="shell">
 
@@ -683,11 +682,6 @@ pinyin: 'dōngxi'
       <p>That is what makes Chinese vocabulary so endlessly rich: the ordinary is never merely ordinary. Every common word is a compressed history, a cosmological diagram, a ghost of a Tang dynasty market still open for business.</p>
     </div>
 
-    <!-- FOOTER -->
-    <footer class="page-footer">
-      <span class="footer-id">Jiǎoluò Shūwū · 角落書屋 · <span>东西 dōngxi</span> · dongxi_东西.html</span>
-      <a href="../../index.html" class="footer-back">← All Entries</a>
-    </footer>
-
+    
   </main>
 </div>

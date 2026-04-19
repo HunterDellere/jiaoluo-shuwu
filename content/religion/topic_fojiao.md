@@ -14,7 +14,6 @@ updated: '2026-04-18'
 pinyin: 'fójiào'
 ---
 
-<button class="toc-toggle" onclick="document.getElementById('sidebar').classList.toggle('open')">目录 Contents ▾</button>
 
 <div class="shell">
 
@@ -393,10 +392,6 @@ pinyin: 'fójiào'
       <span class="adj"><span class="a-cn">出家</span><span class="a-py">chūjiā</span><span class="a-en">to leave home; enter monastic life</span></span>
     </div>
 
-    <footer class="page-footer">
-      <span class="footer-id">Jiǎoluò Shūwū · 角落書屋 · <span>佛教 fójiào</span> · topic_fojiao.html</span>
-      <a href="../../index.html" class="footer-back">← All Entries</a>
-    </footer>
-
+    
   </main>
 </div>

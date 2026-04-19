@@ -18,7 +18,6 @@ sources:
   - 'Hsu, Francis L. K. — Americans and Chinese: Passage to Differences (1981)'
 ---
 
-<button class="toc-toggle" onclick="document.getElementById('sidebar').classList.toggle('open')">目录 Contents ▾</button>
 
 <div class="shell">
 
@@ -186,11 +185,7 @@ sources:
       </div>
 
 
-    <footer class="page-footer">
-      <span class="footer-id">Jiǎoluò Shūwū · 角落書屋 · <span>客气 kèqi</span> · Vocabulary</span>
-      <a href="../../index.html" class="footer-back">← All Entries</a>
-    </footer>
-
+    
   </main>
 </div>
 <script src="../../scripts/toc-scroll.js"></script>

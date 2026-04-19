@@ -18,7 +18,6 @@ hsk: 3
 radical: '辶'
 ---
 
-<button class="toc-toggle" onclick="document.getElementById('sidebar').classList.toggle('open')">目录 Contents ▾</button>
 
 <div class="shell">
 
@@ -877,11 +876,6 @@ radical: '辶'
       <p>Every 道 compound is a different application of the same intelligence: 知道 (to know) = to have found the path through the facts. 道理 (reason) = the logic of the path, what makes a route navigable. 道德 (ethics) = the Way and its cultivated virtue. 一道光 (a beam of light) = a path traced by light. 一道题 (a question) = a path you must solve your way through. The road, the principle, the beam, the dish of food, the kingly way, the Daoist absolute — all named with the same character because all require navigation.</p>
     </div>
 
-    <!-- FOOTER -->
-    <footer class="page-footer">
-      <span class="footer-id">Jiǎoluò Shūwū · 角落書屋 · <span>道 dào</span> · dao4_道.html</span>
-      <a href="../../index.html" class="footer-back">← All Entries</a>
-    </footer>
-
+    
   </main>
 </div>

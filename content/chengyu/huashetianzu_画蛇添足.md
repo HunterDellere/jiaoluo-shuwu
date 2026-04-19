@@ -17,7 +17,6 @@ sources:
   - 'Outlier Linguistic Solutions — etymology of 画 and 蛇'
 ---
 
-<button class="toc-toggle" onclick="document.getElementById('sidebar').classList.toggle('open')">目录 Contents ▾</button>
 
 <div class="shell">
 
@@ -106,11 +105,7 @@ sources:
       </div>
 
 
-    <footer class="page-footer">
-      <span class="footer-id">Jiǎoluò Shūwū · 角落書屋 · <span>画蛇添足</span> · Chengyu</span>
-      <a href="../../index.html" class="footer-back">← All Entries</a>
-    </footer>
-
+    
   </main>
 </div>
 <script src="../../scripts/toc-scroll.js"></script>

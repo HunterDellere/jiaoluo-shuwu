@@ -44,12 +44,14 @@
 
 <div class="reading-progress" aria-hidden="true"><div class="reading-progress-bar"></div></div>
 
-<button class="toc-toggle">目录 Contents ▾</button>
+<button class="toc-toggle" type="button" aria-controls="sidebar" aria-expanded="false">目录 Contents ▾</button>
 
 <div class="shell">
 
   <!-- ═══ SIDEBAR ═══ -->
   <aside class="sidebar" id="sidebar">
+    <button class="toc-toggle" onclick="document.getElementById('sidebar').classList.toggle('open')">目录 Contents ▾</button>
+
     <span class="toc-topic">天下</span>
     <span class="toc-topic-en">All Under Heaven</span>
 
@@ -598,8 +600,8 @@
       <p>Today 天下 lives as idiom, as literary allusion, as the hidden grammar behind China's understanding of its own place in the world — the sense that China's role is not merely national but civilizational. The heaven above everyone is still there.</p>
     </div>
 
-    <!-- FOOTER -->
     
+  
     <aside class="related" aria-labelledby="related-label">
       <span class="related-label" id="related-label">Related entries</span>
       <div class="related-list">
@@ -626,7 +628,7 @@
         </span>
       </a>
     </nav>
-
+  
     <footer class="page-footer">
       <div class="page-footer-actions">
         <div class="page-footer-links">
@@ -646,7 +648,6 @@
         <a href="../../index.html" class="footer-back">← All entries</a>
       </div>
     </footer>
-
   </main>
 </div>
 

@@ -14,7 +14,6 @@ updated: '2026-04-18'
 pinyin: 'fēngshuǐ'
 ---
 
-<button class="toc-toggle">目录 Contents ▾</button>
 
 <div class="shell">
 
@@ -542,11 +541,6 @@ pinyin: 'fēngshuǐ'
       <p>The imperial tombs of the Ming and Qing dynasties are 风水 masterworks: backed by mountains, facing south, water in front, dragon veins running through the ridges behind them. The Forbidden City itself is aligned on principles developed over two millennia. When modern architects in Hong Kong consult 风水 masters before breaking ground, they are drawing on this same tradition — the accumulated knowledge that where you place yourself in the landscape affects how energy flows through your life.</p>
     </div>
 
-    <!-- FOOTER -->
-    <footer class="page-footer">
-      <span class="footer-id">Jiǎoluò Shūwū · 角落書屋 · <span>风水 fēngshuǐ</span> · fengshui_风水.html</span>
-      <a href="../../index.html" class="footer-back">← All Entries</a>
-    </footer>
-
+    
   </main>
 </div>

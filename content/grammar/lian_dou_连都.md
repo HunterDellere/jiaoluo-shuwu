@@ -14,7 +14,6 @@ updated: '2026-04-18'
 pinyin: 'lián…dōu/yě'
 ---
 
-<button class="toc-toggle" onclick="document.getElementById('sidebar').classList.toggle('open')">目录 Contents ▾</button>
 
 <div class="shell">
 
@@ -486,11 +485,6 @@ pinyin: 'lián…dōu/yě'
       <span class="adj"><span class="a-cn">尽管</span><span class="a-py">jǐnguǎn</span><span class="a-en">even though, despite</span></span>
     </div>
 
-    <!-- FOOTER -->
-    <footer class="page-footer">
-      <span class="footer-id">Jiǎoluò Shūwū · 角落書屋 · <span>连…都/也 lián…dōu/yě</span> · lian_dou_连都.html</span>
-      <a href="../../index.html" class="footer-back">← All Entries</a>
-    </footer>
-
+    
   </main>
 </div>

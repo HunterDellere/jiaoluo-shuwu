@@ -14,7 +14,6 @@ updated: '2026-04-18'
 pinyin: 'chán zōng'
 ---
 
-<button class="toc-toggle" onclick="document.getElementById('sidebar').classList.toggle('open')">目录 Contents ▾</button>
 
 <div class="shell">
 
@@ -349,10 +348,6 @@ pinyin: 'chán zōng'
       <span class="adj"><span class="a-cn">茶禅一味</span><span class="a-py">chá chán yī wèi</span><span class="a-en">tea and Chan: one flavor</span></span>
     </div>
 
-    <footer class="page-footer">
-      <span class="footer-id">Jiǎoluò Shūwū · 角落書屋 · <span>禅宗 chán zōng</span> · topic_chan.html</span>
-      <a href="../../index.html" class="footer-back">← All Entries</a>
-    </footer>
-
+    
   </main>
 </div>

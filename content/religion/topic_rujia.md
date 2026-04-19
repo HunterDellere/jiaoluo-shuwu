@@ -14,7 +14,6 @@ updated: '2026-04-18'
 pinyin: 'rújiā'
 ---
 
-<button class="toc-toggle" onclick="document.getElementById('sidebar').classList.toggle('open')">目录 Contents ▾</button>
 
 <div class="shell">
 
@@ -488,10 +487,6 @@ pinyin: 'rújiā'
       <span class="adj"><span class="a-cn">良知</span><span class="a-py">liángzhī</span><span class="a-en">innate moral knowledge (Wang Yangming)</span></span>
     </div>
 
-    <footer class="page-footer">
-      <span class="footer-id">Jiǎoluò Shūwū · 角落書屋 · <span>儒家 rújiā</span> · topic_rujia.html</span>
-      <a href="../../index.html" class="footer-back">← All Entries</a>
-    </footer>
-
+    
   </main>
 </div>

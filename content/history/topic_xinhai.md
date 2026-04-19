@@ -14,7 +14,6 @@ updated: '2026-04-18'
 pinyin: 'xīnhài gémìng'
 ---
 
-<button class="toc-toggle" onclick="document.getElementById('sidebar').classList.toggle('open')">目录 Contents ▾</button>
 
 <div class="shell">
 
@@ -286,11 +285,6 @@ pinyin: 'xīnhài gémìng'
       <span class="adj"><span class="a-cn">共产党</span><span class="a-py">Gòngchǎndǎng</span><span class="a-en">Communist Party, founded 1921</span></span>
     </div>
 
-    <!-- FOOTER -->
-    <footer class="page-footer">
-      <span class="footer-id">Jiǎoluò Shūwū · 角落書屋 · <span>辛亥革命 xīnhài gémìng</span> · topic_xinhai.html</span>
-      <a href="../../index.html" class="footer-back">← All Entries</a>
-    </footer>
-
+    
   </main>
 </div>

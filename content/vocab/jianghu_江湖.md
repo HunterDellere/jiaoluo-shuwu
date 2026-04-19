@@ -14,7 +14,6 @@ updated: '2026-04-18'
 pinyin: 'jiānghú'
 ---
 
-<button class="toc-toggle">目录 Contents ▾</button>
 
 <div class="shell">
 
@@ -580,11 +579,6 @@ pinyin: 'jiānghú'
       <p>And the great saying holds in all of them: <strong>人在江湖，身不由己</strong> — once you enter, you belong to the rules of that world, not just to yourself. Every seasoned hand — 老江湖 — has learned this. They didn't choose the rules. They just learned to navigate them, and that navigation is the real skill the word encodes.</p>
     </div>
 
-    <!-- FOOTER -->
-    <footer class="page-footer">
-      <span class="footer-id">Jiǎoluò Shūwū · 角落書屋 · <span>江湖 jiānghú</span> · jianghu_江湖.html</span>
-      <a href="../../index.html" class="footer-back">← All Entries</a>
-    </footer>
-
+    
   </main>
 </div>

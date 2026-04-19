@@ -17,7 +17,6 @@ updated: '2026-04-19'
 pinyin: 'wénfáng sìbǎo'
 ---
 
-<button class="toc-toggle" onclick="document.getElementById('sidebar').classList.toggle('open')">目录 Contents ▾</button>
 
 <div class="shell">
 
@@ -188,11 +187,7 @@ pinyin: 'wénfáng sìbǎo'
       </div>
     </div>
 
-    <footer class="page-footer">
-      <span class="footer-id">Jiǎoluò Shūwū · 角落書屋 · <span>文房四宝 wénfáng sìbǎo</span> · Arts &amp; Literature</span>
-      <a href="../../index.html" class="footer-back">← All Entries</a>
-    </footer>
-
+    
   </main>
 </div>
 <script src="../../scripts/toc-scroll.js"></script>

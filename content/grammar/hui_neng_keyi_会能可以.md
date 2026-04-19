@@ -14,7 +14,6 @@ updated: '2026-04-18'
 pinyin: 'huì / néng / kěyǐ'
 ---
 
-<button class="toc-toggle" onclick="document.getElementById('sidebar').classList.toggle('open')">目录 Contents ▾</button>
 
 <div class="shell">
 
@@ -494,11 +493,6 @@ pinyin: 'huì / néng / kěyǐ'
       <span class="adj"><span class="a-cn">本领</span><span class="a-py">běnlǐng</span><span class="a-en">skill, ability (colloquial)</span></span>
     </div>
 
-    <!-- FOOTER -->
-    <footer class="page-footer">
-      <span class="footer-id">Jiǎoluò Shūwū · 角落書屋 · <span>会 / 能 / 可以</span> · hui_neng_keyi_会能可以.html</span>
-      <a href="../../index.html" class="footer-back">← All Entries</a>
-    </footer>
-
+    
   </main>
 </div>

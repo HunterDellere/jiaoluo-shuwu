@@ -18,7 +18,6 @@ hsk: 1
 radical: '子'
 ---
 
-<button class="toc-toggle" onclick="document.getElementById('sidebar').classList.toggle('open')">目录 Contents ▾</button>
 
 <div class="shell">
 
@@ -891,11 +890,6 @@ radical: '子'
       <p>In Japanese: 漢字 <em>kanji</em> — the same child, the same roof, the same 3,500-year tradition, still being born into new households every day.</p>
     </div>
 
-    <!-- FOOTER -->
-    <footer class="page-footer">
-      <span class="footer-id">Jiǎoluò Shūwū · 角落書屋 · <span>字 zì</span> · zi4_字.html</span>
-      <a href="../../index.html" class="footer-back">← All Entries</a>
-    </footer>
-
+    
   </main>
 </div>

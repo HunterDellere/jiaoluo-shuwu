@@ -14,7 +14,6 @@ updated: '2026-04-18'
 pinyin: 'yuáncháo'
 ---
 
-<button class="toc-toggle" onclick="document.getElementById('sidebar').classList.toggle('open')">目录 Contents ▾</button>
 
 <div class="shell">
 
@@ -320,11 +319,6 @@ pinyin: 'yuáncháo'
       <span class="adj"><span class="a-cn">崖山之战</span><span class="a-py">Yáshān zhī Zhàn</span><span class="a-en">Battle of Yamen, final Song defeat</span></span>
     </div>
 
-    <!-- FOOTER -->
-    <footer class="page-footer">
-      <span class="footer-id">Jiǎoluò Shūwū · 角落書屋 · <span>元朝 yuáncháo</span> · topic_yuanchao.html</span>
-      <a href="../../index.html" class="footer-back">← All Entries</a>
-    </footer>
-
+    
   </main>
 </div>

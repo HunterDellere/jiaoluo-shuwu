@@ -18,7 +18,6 @@ hsk: 2
 radical: '心'
 ---
 
-<button class="toc-toggle" onclick="document.getElementById('sidebar').classList.toggle('open')">目录 Contents ▾</button>
 
 <div class="shell">
 
@@ -809,11 +808,6 @@ radical: '心'
       <p>When you learn the 心/忄 radical, you are not memorizing a component — you are learning the address of the inner life. Every character with 忄 on the left lives in the neighborhood of the heart. That neighborhood is vast: emotion, thought, intention, character, memory, fear, longing. All the same radical. All the same organ. The heart of Chinese.</p>
     </div>
 
-    <!-- FOOTER -->
-    <footer class="page-footer">
-      <span class="footer-id">Jiǎoluò Shūwū · 角落書屋 · <span>心 xīn</span> · xin1_心.html</span>
-      <a href="../../index.html" class="footer-back">← All Entries</a>
-    </footer>
-
+    
   </main>
 </div>

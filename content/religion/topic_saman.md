@@ -14,7 +14,6 @@ updated: '2026-04-18'
 pinyin: 'sàmǎn jiào'
 ---
 
-<button class="toc-toggle" onclick="document.getElementById('sidebar').classList.toggle('open')">目录 Contents ▾</button>
 
 <div class="shell">
 
@@ -456,11 +455,6 @@ pinyin: 'sàmǎn jiào'
       <span class="adj"><span class="a-cn">迷幻状态</span><span class="a-py">míhuàn zhuàngtài</span><span class="a-en">trance state</span></span>
     </div>
 
-    <!-- FOOTER -->
-    <footer class="page-footer">
-      <span class="footer-id">Jiǎoluò Shūwū · 角落書屋 · <span>萨满教 sàmǎn jiào</span> · topic_saman.html</span>
-      <a href="../../index.html" class="footer-back">← All Entries</a>
-    </footer>
-
+    
   </main>
 </div>

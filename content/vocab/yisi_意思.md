@@ -14,7 +14,6 @@ updated: '2026-04-18'
 pinyin: 'yìsi'
 ---
 
-<button class="toc-toggle" onclick="document.getElementById('sidebar').classList.toggle('open')">目录 Contents ▾</button>
 
 <div class="shell">
 
@@ -606,11 +605,6 @@ pinyin: 'yìsi'
       <p>And the understated gift called 小意思 is the practical application of this principle to social life. The gift is small; the 意思 — the heart behind it — is what you are actually giving. 礼轻情意重: the gift is light, the feeling is deep.</p>
     </div>
 
-    <!-- FOOTER -->
-    <footer class="page-footer">
-      <span class="footer-id">Jiǎoluò Shūwū · 角落書屋 · <span>意思 yìsi</span> · yisi_意思.html</span>
-      <a href="../../index.html" class="footer-back">← All Entries</a>
-    </footer>
-
+    
   </main>
 </div>

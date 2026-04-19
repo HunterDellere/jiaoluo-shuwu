@@ -17,7 +17,6 @@ sources:
   - 'Chao Yuen Ren, A Grammar of Spoken Chinese (1968) — historical analysis'
 ---
 
-<button class="toc-toggle" onclick="document.getElementById('sidebar').classList.toggle('open')">目录 Contents ▾</button>
 
 <div class="shell">
 
@@ -244,11 +243,7 @@ sources:
       <span class="adj"><span class="a-cn">没</span> <span class="a-py">méi</span> <span class="a-en">not (for perfective/experiential)</span></span>
     </div>
 
-    <footer class="page-footer">
-      <span class="footer-id">Jiǎoluò Shūwū · 角落書屋 · <span>过 guò</span> · Grammar</span>
-      <a href="../../index.html" class="footer-back">← All Entries</a>
-    </footer>
-
+    
   </main>
 </div>
 <script src="../../scripts/toc-scroll.js"></script>

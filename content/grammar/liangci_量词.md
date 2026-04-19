@@ -14,7 +14,6 @@ updated: '2026-04-18'
 pinyin: 'liàngcí'
 ---
 
-<button class="toc-toggle" onclick="document.getElementById('sidebar').classList.toggle('open')">目录 Contents ▾</button>
 
 <div class="shell">
 
@@ -720,11 +719,6 @@ pinyin: 'liàngcí'
       <span class="adj"><span class="a-cn">动量词</span><span class="a-py">dòngliàngcí</span><span class="a-en">verbal measure word (次/遍/回)</span></span>
     </div>
 
-    <!-- FOOTER -->
-    <footer class="page-footer">
-      <span class="footer-id">Jiǎoluò Shūwū · 角落書屋 · <span>量词 liàngcí</span> · liangci_量词.html</span>
-      <a href="../../index.html" class="footer-back">← All Entries</a>
-    </footer>
-
+    
   </main>
 </div>

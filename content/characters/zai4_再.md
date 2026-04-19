@@ -17,7 +17,6 @@ hsk: 2
 radical: '冂'
 ---
 
-<button class="toc-toggle" onclick="document.getElementById('sidebar').classList.toggle('open')">目录 Contents ▾</button>
 
 <div class="shell">
 
@@ -483,10 +482,6 @@ radical: '冂'
       <p>This is the 再/又 split in one image: 又 is the fish already in the boat (happened, completed, done again); 再 is the net leaving the hand for the next cast (not yet, requested, anticipated). The net is always moving forward — 再见, goodbye, is "until the next cast." 再也不 is "I'm putting the net down and not picking it up." 先…再 is "finish pulling in this net first, then throw it again."</p>
     </div>
 
-    <footer class="page-footer">
-      <span class="footer-id">Jiǎoluò Shūwū · 角落書屋 · <span>再 zài</span> · zai4_再.html</span>
-      <a href="../../index.html" class="footer-back">← All Entries</a>
-    </footer>
-
+    
   </main>
 </div>

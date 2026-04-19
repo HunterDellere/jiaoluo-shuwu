@@ -14,7 +14,6 @@ updated: '2026-04-18'
 pinyin: 'jiù / cái'
 ---
 
-<button class="toc-toggle" onclick="document.getElementById('sidebar').classList.toggle('open')">目录 Contents ▾</button>
 
 <div class="shell">
 
@@ -648,11 +647,6 @@ pinyin: 'jiù / cái'
       <span class="adj"><span class="a-cn">都</span><span class="a-py">dōu</span><span class="a-en">already (emphatic with time, as in 都十点了)</span></span>
     </div>
 
-    <!-- FOOTER -->
-    <footer class="page-footer">
-      <span class="footer-id">Jiǎoluò Shūwū · 角落書屋 · <span>就／才 jiù / cái</span> · jiu_cai_就才.html</span>
-      <a href="../../index.html" class="footer-back">← All Entries</a>
-    </footer>
-
+    
   </main>
 </div>

@@ -14,7 +14,6 @@ updated: '2026-04-18'
 pinyin: 'sì dà fāmíng'
 ---
 
-<button class="toc-toggle" onclick="document.getElementById('sidebar').classList.toggle('open')">目录 Contents ▾</button>
 
 <div class="shell">
 
@@ -110,11 +109,7 @@ pinyin: 'sì dà fāmíng'
       </div>
 
 
-    <footer class="page-footer">
-      <span class="footer-id">Jiǎoluò Shūwū · 角落書屋 · <span>四大发明</span> · Science &amp; Medicine</span>
-      <a href="../../index.html" class="footer-back">← All Entries</a>
-    </footer>
-
+    
   </main>
 </div>
 <script src="../../scripts/toc-scroll.js"></script>

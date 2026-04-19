@@ -14,7 +14,6 @@ updated: '2026-04-18'
 pinyin: 'xīnxué'
 ---
 
-<button class="toc-toggle" onclick="document.getElementById('sidebar').classList.toggle('open')">目录 Contents ▾</button>
 
 <div class="shell">
 
@@ -212,11 +211,6 @@ pinyin: 'xīnxué'
 
     </div>
 
-    <!-- FOOTER -->
-    <footer class="page-footer">
-      <span class="footer-id">Jiǎoluò Shūwū · 角落書屋 · <span>心学 xīnxué</span> · topic_xinxue.html</span>
-      <a href="../../index.html" class="footer-back">← All Entries</a>
-    </footer>
-
+    
   </main>
 </div>

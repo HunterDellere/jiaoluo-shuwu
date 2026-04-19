@@ -16,7 +16,6 @@ sources:
   - 'Hánfēizǐ 韩非子, "Wǔ dù" 五蠹 chapter (3rd century BCE) — original parable, used by Hán Fēi as a critique of Confucian conservatism'
 ---
 
-<button class="toc-toggle" onclick="document.getElementById('sidebar').classList.toggle('open')">目录 Contents ▾</button>
 
 <div class="shell">
 
@@ -117,11 +116,7 @@ sources:
       </div>
 
 
-    <footer class="page-footer">
-      <span class="footer-id">Jiǎoluò Shūwū · 角落書屋 · <span>守株待兔</span> · Chengyu</span>
-      <a href="../../index.html" class="footer-back">← All Entries</a>
-    </footer>
-
+    
   </main>
 </div>
 <script src="../../scripts/toc-scroll.js"></script>

@@ -14,7 +14,6 @@ updated: '2026-04-18'
 pinyin: 'yīnyáng'
 ---
 
-<button class="toc-toggle">目录 Contents ▾</button>
 
 <div class="shell">
 
@@ -564,11 +563,6 @@ pinyin: 'yīnyáng'
       <p>When a Chinese doctor says <strong>阴虚</strong>, they are not speaking metaphysically — they are making a clinical diagnosis from a framework 2,000 years old, applied to a specific patient's specific symptoms. The shadow side of the mountain is not the wrong side. It is the other half of the whole.</p>
     </div>
 
-    <!-- FOOTER -->
-    <footer class="page-footer">
-      <span class="footer-id">Jiǎoluò Shūwū · 角落書屋 · <span>阴阳 yīnyáng</span> · yinyang_阴阳.html</span>
-      <a href="../../index.html" class="footer-back">← All Entries</a>
-    </footer>
-
+    
   </main>
 </div>

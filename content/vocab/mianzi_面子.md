@@ -14,7 +14,6 @@ updated: '2026-04-18'
 pinyin: 'miànzi'
 ---
 
-<button class="toc-toggle" onclick="document.getElementById('sidebar').classList.toggle('open')">目录 Contents ▾</button>
 
 <div class="shell">
 
@@ -702,11 +701,6 @@ pinyin: 'miànzi'
       <p>Remember the crucial distinction: 面子 (social prestige — recoverable) versus 脸 (moral face — much harder to restore). And the practical axiom: 死要面子活受罪 — let the fear of face-loss become your prison, and you will suffer unnecessarily for the performance.</p>
     </div>
 
-    <!-- FOOTER -->
-    <footer class="page-footer">
-      <span class="footer-id">Jiǎoluò Shūwū · 角落書屋 · <span>面子 miànzi</span> · mianzi_面子.html</span>
-      <a href="../../index.html" class="footer-back">← All Entries</a>
-    </footer>
-
+    
   </main>
 </div>

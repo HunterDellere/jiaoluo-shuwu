@@ -18,7 +18,6 @@ hsk: 1
 radical: '宀'
 ---
 
-<button class="toc-toggle" onclick="document.getElementById('sidebar').classList.toggle('open')">目录 Contents ▾</button>
 
 <div class="shell">
 
@@ -964,11 +963,6 @@ radical: '宀'
       <p>In Japanese: 家族 <em>kazoku</em> (family), 作家 <em>sakka</em> (writer) — the same roof, the same pig, the same fractal logic, intact across the sea.</p>
     </div>
 
-    <!-- FOOTER -->
-    <footer class="page-footer">
-      <span class="footer-id">Jiǎoluò Shūwū · 角落書屋 · <span>家 jiā</span> · jia1_家.html</span>
-      <a href="../../index.html" class="footer-back">← All Entries</a>
-    </footer>
-
+    
   </main>
 </div>

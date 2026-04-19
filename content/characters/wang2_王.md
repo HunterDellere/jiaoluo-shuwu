@@ -23,7 +23,6 @@ sources:
   - 'Outlier Linguistic Solutions — 王 as axe / 玉 as jade, two distinct origins fused in later radical indexing'
 ---
 
-<button class="toc-toggle" onclick="document.getElementById('sidebar').classList.toggle('open')">目录 Contents ▾</button>
 
 <div class="shell">
 
@@ -267,11 +266,7 @@ sources:
       <span class="adj"><span class="a-cn">现</span> <span class="a-py">xiàn</span> <span class="a-en">manifest</span></span>
     </div>
 
-    <footer class="page-footer">
-      <span class="footer-id">Jiǎoluò Shūwū · 角落書屋 · <span>王 wáng</span> · wang2_王.html</span>
-      <a href="../../index.html" class="footer-back">← All Entries</a>
-    </footer>
-
+    
   </main>
 </div>
 <script src="../../scripts/toc-scroll.js"></script>

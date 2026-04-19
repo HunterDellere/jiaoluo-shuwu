@@ -19,7 +19,6 @@ radical: '气'
 trad: '氣'
 ---
 
-<button class="toc-toggle" onclick="document.getElementById('sidebar').classList.toggle('open')">目录 Contents ▾</button>
 
 <div class="shell">
 
@@ -755,11 +754,6 @@ trad: '氣'
       <p>Your anger is steam with nowhere to go — pressure building in the pot. Your vitality is the rice still cooking, the fire still lit. Your weather is the whole kitchen. Your moral courage is the flame that keeps the water from going cold. The next time you say 生气 (angry), 天气 (weather), or 语气 (tone of voice), you are describing three completely different domains with one concept — because in Chinese thought, they are not different. They are all just qi, doing what qi does.</p>
     </div>
 
-    <!-- FOOTER -->
-    <footer class="page-footer">
-      <span class="footer-id">Jiǎoluò Shūwū · 角落書屋 · <span>气 qì</span> · qi4_气.html</span>
-      <a href="../../index.html" class="footer-back">← All Entries</a>
-    </footer>
-
+    
   </main>
 </div>

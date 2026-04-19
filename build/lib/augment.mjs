@@ -7,34 +7,6 @@
 
 const HZ_RE = /[\u4e00-\u9fff]/;
 
-/**
- * Strip inline onclick handlers from .toc-toggle buttons.
- * Reason: the JS handler in toc-scroll.js also toggles 'open' — running both
- * cancels the toggle on every click. Drop the inline handler at build time
- * and let JS own the behaviour.
- *
- * Also remove a duplicate .toc-toggle that some character pages embedded
- * INSIDE the sidebar (it's hidden on mobile until the sidebar opens, which
- * defeats its purpose).
- */
-export function fixTocToggles(body) {
-  // Remove any onclick="..." attribute on .toc-toggle buttons
-  body = body.replace(
-    /<button([^>]*?)class="toc-toggle"([^>]*?)\s*onclick="[^"]*"([^>]*?)>/g,
-    '<button$1class="toc-toggle"$2$3>'
-  );
-  // Also handle when onclick comes BEFORE class
-  body = body.replace(
-    /<button([^>]*?)\s*onclick="[^"]*"([^>]*?)class="toc-toggle"([^>]*?)>/g,
-    '<button$1$2class="toc-toggle"$3>'
-  );
-  // Remove a second .toc-toggle that lives inside the sidebar
-  body = body.replace(
-    /(<aside[^>]*class="sidebar"[^>]*>[\s\S]*?)<button[^>]*class="toc-toggle"[^>]*>[\s\S]*?<\/button>\s*/,
-    '$1'
-  );
-  return body;
-}
 
 /**
  * Render a small Sources block from frontmatter.sources (array of strings).
@@ -56,14 +28,11 @@ function escapeHtmlInline(s) {
 }
 
 /**
- * Rewrite the minimal page-footer (footer-id + footer-back) into the full
- * unified footer: label+link meta grid (corrections, request, Ko-fi, share)
- * plus an id/back row. Replaces the old addErrataLink + addContentRequestLink
- * approach that bolted pill buttons on before footer-back.
+ * Inject the full unified footer before </main>.
+ * Removes any authored <footer class="page-footer">…</footer> stub first
+ * (back-compat while content is being swept), then appends the canonical footer.
  */
 export function buildPageFooter(body, fm, slug, category) {
-  if (!body.includes('class="page-footer"')) return body;
-
   const corrTitle = encodeURIComponent(`Correction: ${category}/${slug}`);
   const corrBody = encodeURIComponent(
     `Page: pages/${category}/${slug}.html\n\n` +
@@ -77,7 +46,7 @@ export function buildPageFooter(body, fm, slug, category) {
     ? `${fm.char} ${fm.pinyin || ''} · ${slug}`
     : (fm.title ? `${fm.title.split('·')[0].trim()} · ${slug}` : slug);
 
-  const newFooter = `<footer class="page-footer">
+  const footer = `<footer class="page-footer">
       <div class="page-footer-actions">
         <div class="page-footer-links">
           <a href="${corrUrl}" class="pf-link" target="_blank" rel="noopener noreferrer">Corrections</a>
@@ -97,7 +66,12 @@ export function buildPageFooter(body, fm, slug, category) {
       </div>
     </footer>`;
 
-  return body.replace(/<footer class="page-footer">[\s\S]*?<\/footer>/, newFooter);
+  // Remove any authored footer stub
+  body = body.replace(/[ \t]*<!--\s*FOOTER\s*-->\s*\n?/g, '');
+  body = body.replace(/<footer class="page-footer">[\s\S]*?<\/footer>\s*/g, '');
+
+  // Inject before closing </main>
+  return body.replace('</main>', `\n    ${footer}\n  </main>`);
 }
 
 export function injectStrokeOrder(body, fm) {

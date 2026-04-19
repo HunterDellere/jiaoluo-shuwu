@@ -14,7 +14,6 @@ updated: '2026-04-18'
 pinyin: 'zǔxiān chóngbài'
 ---
 
-<button class="toc-toggle" onclick="document.getElementById('sidebar').classList.toggle('open')">目录 Contents ▾</button>
 
 <div class="shell">
 
@@ -459,11 +458,6 @@ pinyin: 'zǔxiān chóngbài'
       <span class="adj"><span class="a-cn">超度</span><span class="a-py">chāodù</span><span class="a-en">to deliver souls (Buddhist ritual)</span></span>
     </div>
 
-    <!-- FOOTER -->
-    <footer class="page-footer">
-      <span class="footer-id">Jiǎoluò Shūwū · 角落書屋 · <span>祖先崇拜 zǔxiān chóngbài</span> · topic_zuxian.html</span>
-      <a href="../../index.html" class="footer-back">← All Entries</a>
-    </footer>
-
+    
   </main>
 </div>

@@ -16,7 +16,7 @@ import matter from 'gray-matter';
 import { validateEntry } from './lib/validate.mjs';
 import { buildSearchIndex } from './lib/search-index.mjs';
 import { buildRelations, buildAdjacency, renderRelatedHtml, renderAdjacencyHtml } from './lib/relations.mjs';
-import { injectStrokeOrder, buildLinkMap, autoLinkBody, addPinyinAudio, buildPageFooter, renderSourcesHtml, fixTocToggles } from './lib/augment.mjs';
+import { injectStrokeOrder, buildLinkMap, autoLinkBody, addPinyinAudio, buildPageFooter, renderSourcesHtml } from './lib/augment.mjs';
 import { renderOgSvg, categoryFaviconDataUri } from './lib/og.mjs';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
@@ -222,9 +222,6 @@ for (const { fm, body, slug, category, outDir, entry } of pending) {
     let augmentedBody = body;
 
     if (entry.status === 'complete') {
-      // 0. Normalise the toc-toggle (strip inline onclick, dedupe)
-      augmentedBody = fixTocToggles(augmentedBody);
-
       // 1. Stroke order on character pages
       augmentedBody = injectStrokeOrder(augmentedBody, fm);
 
@@ -237,25 +234,19 @@ for (const { fm, body, slug, category, outDir, entry } of pending) {
       augmentedBody = autoLinkBody(augmentedBody, linkMap, entry);
       if (augmentedBody.length !== beforeLen) autoLinkCount++;
 
-      // 4. Sources + related entries + prev/next at the bottom (inject before page-footer)
+      // 4. Sources + related entries + prev/next at the bottom (inject before footer)
       const sourcesHtml = renderSourcesHtml(fm);
       const relatedHtml = renderRelatedHtml(relations.get(entry.path) || [], entry.path);
       const adjacencyHtml = renderAdjacencyHtml(adjacency.get(entry.path), entry.path);
       const injection = `${sourcesHtml}${relatedHtml}${adjacencyHtml}`;
-      if (injection) {
-        if (augmentedBody.includes('<footer class="page-footer">')) {
-          augmentedBody = augmentedBody.replace(
-            '<footer class="page-footer">',
-            `${injection}\n\n    <footer class="page-footer">`
-          );
-        } else if (augmentedBody.includes('</main>')) {
-          augmentedBody = augmentedBody.replace('</main>', `${injection}\n  </main>`);
-        }
+      if (injection && augmentedBody.includes('</main>')) {
+        augmentedBody = augmentedBody.replace('</main>', `${injection}\n  </main>`);
       }
 
-      // 4.5 Rewrite page-footer to unified footer (runs after injection so placement is stable)
-      augmentedBody = buildPageFooter(augmentedBody, fm, slug, category);
     }
+
+    // Inject unified footer on all pages (strips authored stub if present)
+    augmentedBody = buildPageFooter(augmentedBody, fm, slug, category);
 
     const html = renderPage(fm, augmentedBody, slug, category);
     writeFileSync(join(outDir, `${slug}.html`), html, 'utf8');

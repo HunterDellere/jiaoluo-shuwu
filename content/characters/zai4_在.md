@@ -18,7 +18,6 @@ hsk: 1
 radical: '土'
 ---
 
-<button class="toc-toggle" onclick="document.getElementById('sidebar').classList.toggle('open')">目录 Contents ▾</button>
 
 <div class="shell">
 
@@ -467,10 +466,6 @@ radical: '土'
       <p>The contrast with 有: 有 announces existence — "there is a seedling here." 在 locates the known — "the seedling is here." One introduces; the other places. The seedling was unknown until 有 told you it existed; 在 tells you exactly which patch of earth it is rooted in. Together, 有 and 在 account for most of what English speakers need the verb "to be" to do — split across two characters, each doing its half with precision.</p>
     </div>
 
-    <footer class="page-footer">
-      <span class="footer-id">Jiǎoluò Shūwū · 角落書屋 · <span>在 zài</span> · zai4_在.html</span>
-      <a href="../../index.html" class="footer-back">← All Entries</a>
-    </footer>
-
+    
   </main>
 </div>

@@ -14,7 +14,6 @@ updated: '2026-04-18'
 pinyin: 'yuánfèn'
 ---
 
-<button class="toc-toggle" onclick="document.getElementById('sidebar').classList.toggle('open')">目录 Contents ▾</button>
 
 <div class="shell">
 
@@ -590,11 +589,6 @@ pinyin: 'yuánfèn'
       <p>And 随缘 — follow the thread, don't force it — is not passivity. It is the wisdom of knowing which connections are yours and which ones you are trying to manufacture by sheer will. The thread will pull when the time comes. Until then, 随缘.</p>
     </div>
 
-    <!-- FOOTER -->
-    <footer class="page-footer">
-      <span class="footer-id">Jiǎoluò Shūwū · 角落書屋 · <span>缘分 yuánfèn</span> · yuanfen_缘分.html</span>
-      <a href="../../index.html" class="footer-back">← All Entries</a>
-    </footer>
-
+    
   </main>
 </div>

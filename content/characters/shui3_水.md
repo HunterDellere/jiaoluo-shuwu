@@ -22,7 +22,6 @@ sources:
   - 'Outlier Linguistic Solutions — etymology of 水 from oracle bone river pictograph'
 ---
 
-<button class="toc-toggle" onclick="document.getElementById('sidebar').classList.toggle('open')">目录 Contents ▾</button>
 
 <div class="shell">
 
@@ -270,11 +269,7 @@ sources:
       <span class="adj"><span class="a-cn">柔</span> <span class="a-py">róu</span> <span class="a-en">soft, yielding</span></span>
     </div>
 
-    <footer class="page-footer">
-      <span class="footer-id">Jiǎoluò Shūwū · 角落書屋 · <span>水 shuǐ</span> · shui3_水.html</span>
-      <a href="../../index.html" class="footer-back">← All Entries</a>
-    </footer>
-
+    
   </main>
 </div>
 <script src="../../scripts/toc-scroll.js"></script>

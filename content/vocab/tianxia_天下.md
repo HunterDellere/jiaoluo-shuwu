@@ -14,7 +14,6 @@ updated: '2026-04-18'
 pinyin: 'tiānxià'
 ---
 
-<button class="toc-toggle">目录 Contents ▾</button>
 
 <div class="shell">
 
@@ -570,11 +569,6 @@ pinyin: 'tiānxià'
       <p>Today 天下 lives as idiom, as literary allusion, as the hidden grammar behind China's understanding of its own place in the world — the sense that China's role is not merely national but civilizational. The heaven above everyone is still there.</p>
     </div>
 
-    <!-- FOOTER -->
-    <footer class="page-footer">
-      <span class="footer-id">Jiǎoluò Shūwū · 角落書屋 · <span>天下 tiānxià</span> · tianxia_天下.html</span>
-      <a href="../../index.html" class="footer-back">← All Entries</a>
-    </footer>
-
+    
   </main>
 </div>

@@ -14,7 +14,6 @@ updated: '2026-04-18'
 pinyin: 'le'
 ---
 
-<button class="toc-toggle" onclick="document.getElementById('sidebar').classList.toggle('open')">目录 Contents ▾</button>
 
 <div class="shell">
 
@@ -838,11 +837,6 @@ pinyin: 'le'
       <span class="adj"><span class="a-cn">就要</span><span class="a-py">jiù yào</span><span class="a-en">about to; soon (imminent)</span></span>
     </div>
 
-    <!-- FOOTER -->
-    <footer class="page-footer">
-      <span class="footer-id">Jiǎoluò Shūwū · 角落書屋 · <span>了 le / liǎo</span> · le_了.html</span>
-      <a href="../../index.html" class="footer-back">← All Entries</a>
-    </footer>
-
+    
   </main>
 </div>

@@ -18,7 +18,6 @@ hsk: 1
 radical: '人'
 ---
 
-<button class="toc-toggle" onclick="document.getElementById('sidebar').classList.toggle('open')">目录 Contents ▾</button>
 
 <div class="shell">
 
@@ -760,11 +759,6 @@ radical: '人'
       <p>Confucius saw in that fragile balance the entire moral universe: 仁 — two people, one relationship, one character added to the right. Add a second 人 beside the first and you have 从 cóng (to follow). Add a third and you have 众 zhòng (the multitude). The social world emerges from the individual person by simple, inevitable addition. Everything else — 人品, 人情, 做人, 仁 — is commentary on those two strokes.</p>
     </div>
 
-    <!-- FOOTER -->
-    <footer class="page-footer">
-      <span class="footer-id">Jiǎoluò Shūwū · 角落書屋 · <span>人 rén</span> · ren2_人.html</span>
-      <a href="../../index.html" class="footer-back">← All Entries</a>
-    </footer>
-
+    
   </main>
 </div>

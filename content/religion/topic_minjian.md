@@ -14,7 +14,6 @@ updated: '2026-04-18'
 pinyin: 'mínjiān xìnyǎng'
 ---
 
-<button class="toc-toggle" onclick="document.getElementById('sidebar').classList.toggle('open')">目录 Contents ▾</button>
 
 <div class="shell">
 
@@ -575,11 +574,6 @@ pinyin: 'mínjiān xìnyǎng'
       <span class="adj"><span class="a-cn">道观</span><span class="a-py">dàoguān</span><span class="a-en">Daoist temple</span></span>
     </div>
 
-    <!-- FOOTER -->
-    <footer class="page-footer">
-      <span class="footer-id">Jiǎoluò Shūwū · 角落書屋 · <span>民间信仰 mínjiān xìnyǎng</span> · topic_minjian.html</span>
-      <a href="../../index.html" class="footer-back">← All Entries</a>
-    </footer>
-
+    
   </main>
 </div>

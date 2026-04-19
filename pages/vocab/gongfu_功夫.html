@@ -44,12 +44,14 @@
 
 <div class="reading-progress" aria-hidden="true"><div class="reading-progress-bar"></div></div>
 
-<button class="toc-toggle">目录 Contents ▾</button>
+<button class="toc-toggle" type="button" aria-controls="sidebar" aria-expanded="false">目录 Contents ▾</button>
 
 <div class="shell">
 
   <!-- ═══ SIDEBAR ═══ -->
   <aside class="sidebar" id="sidebar">
+    <button class="toc-toggle" onclick="document.getElementById('sidebar').classList.toggle('open')">目录 Contents ▾</button>
+
     <span class="toc-topic">功夫</span>
     <span class="toc-topic-en">Effort and Skill</span>
 
@@ -626,8 +628,8 @@
       <p>The calligrapher's stroke, the diplomat's pause, the chef's cut — all are 功夫, all cost time, all reveal the person behind them. When someone says <strong>你很有功夫</strong> — "you have real 功夫" — they are saying: I can see the years you've put in. That is the highest compliment the word can carry.</p>
     </div>
 
-    <!-- FOOTER -->
     
+  
     <aside class="related" aria-labelledby="related-label">
       <span class="related-label" id="related-label">Related entries</span>
       <div class="related-list">
@@ -650,7 +652,7 @@
         </span>
       </a>
     </nav>
-
+  
     <footer class="page-footer">
       <div class="page-footer-actions">
         <div class="page-footer-links">
@@ -670,7 +672,6 @@
         <a href="../../index.html" class="footer-back">← All entries</a>
       </div>
     </footer>
-
   </main>
 </div>
 

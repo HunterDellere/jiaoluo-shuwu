@@ -18,7 +18,6 @@ hsk: {from: 2, to: 4}
 radical: '心'
 ---
 
-<button class="toc-toggle" onclick="document.getElementById('sidebar').classList.toggle('open')">目录 Contents ▾</button>
 
 <div class="shell">
 
@@ -861,11 +860,6 @@ radical: '心'
       <p>In Japanese: 感じる <em>kanjiru</em> — the same tuning fork, the same heart.</p>
     </div>
 
-    <!-- FOOTER -->
-    <footer class="page-footer">
-      <span class="footer-id">Jiǎoluò Shūwū · 角落書屋 · <span>感 gǎn</span> · gan3_感.html</span>
-      <a href="../../index.html" class="footer-back">← All Entries</a>
-    </footer>
-
+    
   </main>
 </div>

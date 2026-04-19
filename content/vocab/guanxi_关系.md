@@ -14,7 +14,6 @@ updated: '2026-04-18'
 pinyin: 'guānxi'
 ---
 
-<button class="toc-toggle" onclick="document.getElementById('sidebar').classList.toggle('open')">目录 Contents ▾</button>
 
 <div class="shell">
 
@@ -646,11 +645,6 @@ pinyin: 'guānxi'
       <p>When things are 没关系, they have no weight — no gate bars the way, no bond constrains. When you have 关系, you have weight — the accumulated trust, obligation, and reciprocity that makes society move. The network is a set of gates, and every relationship is a key. Cultivate them carefully, use them thoughtfully, and never mistake their absence for neutrality.</p>
     </div>
 
-    <!-- FOOTER -->
-    <footer class="page-footer">
-      <span class="footer-id">Jiǎoluò Shūwū · 角落書屋 · <span>关系 guānxi</span> · guanxi_关系.html</span>
-      <a href="../../index.html" class="footer-back">← All Entries</a>
-    </footer>
-
+    
   </main>
 </div>

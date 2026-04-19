@@ -14,7 +14,6 @@ updated: '2026-04-18'
 pinyin: 'bèi'
 ---
 
-<button class="toc-toggle" onclick="document.getElementById('sidebar').classList.toggle('open')">目录 Contents ▾</button>
 
 <div class="shell">
 
@@ -627,11 +626,6 @@ pinyin: 'bèi'
       <span class="adj"><span class="a-cn">受事</span><span class="a-py">shòushì</span><span class="a-en">patient (linguistics)</span></span>
     </div>
 
-    <!-- FOOTER -->
-    <footer class="page-footer">
-      <span class="footer-id">Jiǎoluò Shūwū · 角落書屋 · <span>被 bèi</span> · bei_被.html</span>
-      <a href="../../index.html" class="footer-back">← All Entries</a>
-    </footer>
-
+    
   </main>
 </div>

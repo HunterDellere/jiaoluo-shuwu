@@ -14,7 +14,6 @@ updated: '2026-04-18'
 pinyin: 'xià shāng zhōu'
 ---
 
-<button class="toc-toggle" onclick="document.getElementById('sidebar').classList.toggle('open')">目录 Contents ▾</button>
 
 <div class="shell">
 
@@ -351,11 +350,6 @@ pinyin: 'xià shāng zhōu'
 
     </div>
 
-    <!-- FOOTER -->
-    <footer class="page-footer">
-      <span class="footer-id">Jiǎoluò Shūwū · 角落書屋 · <span>夏商周 xià shāng zhōu</span> · topic_xia_shang_zhou.html</span>
-      <a href="../../index.html" class="footer-back">← All Entries</a>
-    </footer>
-
+    
   </main>
 </div>

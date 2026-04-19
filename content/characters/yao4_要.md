@@ -17,7 +17,6 @@ hsk: 1
 radical: '女'
 ---
 
-<button class="toc-toggle" onclick="document.getElementById('sidebar').classList.toggle('open')">目录 Contents ▾</button>
 
 <div class="shell">
 
@@ -507,10 +506,6 @@ radical: '女'
       <p>Every use of 要 contains this core: something essential, something that cannot be missing. You want it because it's needed. You must do it because the situation demands it. It's about to happen because the signs are present. It's important because it's the load-bearing point. One character from waist to will — the same compression, the same necessity, the same pivot.</p>
     </div>
 
-    <footer class="page-footer">
-      <span class="footer-id">Jiǎoluò Shūwū · 角落書屋 · <span>要 yào</span> · yao4_要.html</span>
-      <a href="../../index.html" class="footer-back">← All Entries</a>
-    </footer>
-
+    
   </main>
 </div>

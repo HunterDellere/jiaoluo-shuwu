@@ -14,7 +14,6 @@ updated: '2026-04-18'
 pinyin: 'māzǔ'
 ---
 
-<button class="toc-toggle" onclick="document.getElementById('sidebar').classList.toggle('open')">目录 Contents ▾</button>
 
 <div class="shell">
 
@@ -392,11 +391,6 @@ pinyin: 'māzǔ'
       <span class="adj"><span class="a-cn">庇佑</span><span class="a-py">bìyòu</span><span class="a-en">divine protection and blessing</span></span>
     </div>
 
-    <!-- FOOTER -->
-    <footer class="page-footer">
-      <span class="footer-id">Jiǎoluò Shūwū · 角落書屋 · <span>妈祖 māzǔ</span> · topic_mazu.html</span>
-      <a href="../../index.html" class="footer-back">← All Entries</a>
-    </footer>
-
+    
   </main>
 </div>

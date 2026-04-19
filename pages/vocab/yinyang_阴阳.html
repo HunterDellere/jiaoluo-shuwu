@@ -44,12 +44,14 @@
 
 <div class="reading-progress" aria-hidden="true"><div class="reading-progress-bar"></div></div>
 
-<button class="toc-toggle">目录 Contents ▾</button>
+<button class="toc-toggle" type="button" aria-controls="sidebar" aria-expanded="false">目录 Contents ▾</button>
 
 <div class="shell">
 
   <!-- ═══ SIDEBAR ═══ -->
   <aside class="sidebar" id="sidebar">
+    <button class="toc-toggle" onclick="document.getElementById('sidebar').classList.toggle('open')">目录 Contents ▾</button>
+
     <span class="toc-topic">阴阳</span>
     <span class="toc-topic-en">Yin and Yang</span>
 
@@ -592,8 +594,8 @@
       <p>When a Chinese doctor says <strong>阴虚</strong>, they are not speaking metaphysically — they are making a clinical diagnosis from a framework 2,000 years old, applied to a specific patient's specific symptoms. The shadow side of the mountain is not the wrong side. It is the other half of the whole.</p>
     </div>
 
-    <!-- FOOTER -->
     
+  
     <aside class="related" aria-labelledby="related-label">
       <span class="related-label" id="related-label">Related entries</span>
       <div class="related-list">
@@ -620,7 +622,7 @@
         </span>
       </a>
     </nav>
-
+  
     <footer class="page-footer">
       <div class="page-footer-actions">
         <div class="page-footer-links">
@@ -640,7 +642,6 @@
         <a href="../../index.html" class="footer-back">← All entries</a>
       </div>
     </footer>
-
   </main>
 </div>
 

@@ -18,7 +18,6 @@ hsk: 1
 radical: '日'
 ---
 
-<button class="toc-toggle" onclick="document.getElementById('sidebar').classList.toggle('open')">目录 Contents ▾</button>
 
 <div class="shell">
 
@@ -758,11 +757,6 @@ radical: '日'
       <p>And 是非: the ancient pronouns "this-that" — this thing here, in the light, versus that other thing, over in shadow. The Confucian imperative 明辨是非 is simply: learn to tell noon from twilight. The character carries the entire history of Chinese moral reasoning inside it — a sun, a foot on a straight path, and the question of where something truly stands.</p>
     </div>
 
-    <!-- FOOTER -->
-    <footer class="page-footer">
-      <span class="footer-id">Jiǎoluò Shūwū · 角落書屋 · <span>是 shì</span> · shi4_是.html</span>
-      <a href="../../index.html" class="footer-back">← All Entries</a>
-    </footer>
-
+    
   </main>
 </div>

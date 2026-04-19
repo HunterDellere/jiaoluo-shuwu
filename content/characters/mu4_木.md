@@ -22,7 +22,6 @@ sources:
   - 'Outlier Linguistic Solutions — oracle bone and bronze forms of 木'
 ---
 
-<button class="toc-toggle" onclick="document.getElementById('sidebar').classList.toggle('open')">目录 Contents ▾</button>
 
 <div class="shell">
 
@@ -244,11 +243,7 @@ sources:
       <span class="adj"><span class="a-cn">春</span> <span class="a-py">chūn</span> <span class="a-en">spring (season)</span></span>
     </div>
 
-    <footer class="page-footer">
-      <span class="footer-id">Jiǎoluò Shūwū · 角落書屋 · <span>木 mù</span> · mu4_木.html</span>
-      <a href="../../index.html" class="footer-back">← All Entries</a>
-    </footer>
-
+    
   </main>
 </div>
 <script src="../../scripts/toc-scroll.js"></script>

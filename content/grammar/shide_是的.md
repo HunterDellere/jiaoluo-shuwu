@@ -14,7 +14,6 @@ updated: '2026-04-18'
 pinyin: 'shì…de'
 ---
 
-<button class="toc-toggle" onclick="document.getElementById('sidebar').classList.toggle('open')">目录 Contents ▾</button>
 
 <div class="shell">
 
@@ -615,11 +614,6 @@ pinyin: 'shì…de'
       <span class="adj"><span class="a-cn">为什么</span><span class="a-py">wèishénme</span><span class="a-en">why (reason question)</span></span>
     </div>
 
-    <!-- FOOTER -->
-    <footer class="page-footer">
-      <span class="footer-id">Jiǎoluò Shūwū · 角落書屋 · <span>是…的 shì…de</span> · shide_是的.html</span>
-      <a href="../../index.html" class="footer-back">← All Entries</a>
-    </footer>
-
+    
   </main>
 </div>

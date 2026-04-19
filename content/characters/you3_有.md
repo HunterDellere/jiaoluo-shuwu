@@ -18,7 +18,6 @@ hsk: 1
 radical: '月'
 ---
 
-<button class="toc-toggle" onclick="document.getElementById('sidebar').classList.toggle('open')">目录 Contents ▾</button>
 
 <div class="shell">
 
@@ -744,11 +743,6 @@ radical: '月'
       <p>But 有 and 无 are not opposites so much as complements — the hand and the empty air between fingers. A fist is useful because it can hold; an open palm is useful because it can receive. 有备无患: having preparation removes disaster. The having and the lacking define each other, generate each other, need each other. The Daodejing knew this. So does the grammar: 有 and 没有 are two faces of the same verb, the same gesture, the same hand over the same void.</p>
     </div>
 
-    <!-- FOOTER -->
-    <footer class="page-footer">
-      <span class="footer-id">Jiǎoluò Shūwū · 角落書屋 · <span>有 yǒu</span> · you3_有.html</span>
-      <a href="../../index.html" class="footer-back">← All Entries</a>
-    </footer>
-
+    
   </main>
 </div>

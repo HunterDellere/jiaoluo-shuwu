@@ -14,7 +14,6 @@ updated: '2026-04-18'
 pinyin: 'bǎ'
 ---
 
-<button class="toc-toggle" onclick="document.getElementById('sidebar').classList.toggle('open')">目录 Contents ▾</button>
 
 <div class="shell">
 
@@ -690,11 +689,6 @@ pinyin: 'bǎ'
       <span class="adj"><span class="a-cn">处置</span><span class="a-py">chǔzhì</span><span class="a-en">to handle; to dispose of; the construction name</span></span>
     </div>
 
-    <!-- FOOTER -->
-    <footer class="page-footer">
-      <span class="footer-id">Jiǎoluò Shūwū · 角落書屋 · <span>把 bǎ</span> · ba_把.html</span>
-      <a href="../../index.html" class="footer-back">← All Entries</a>
-    </footer>
-
+    
   </main>
 </div>

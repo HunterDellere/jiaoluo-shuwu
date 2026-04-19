@@ -44,12 +44,14 @@
 
 <div class="reading-progress" aria-hidden="true"><div class="reading-progress-bar"></div></div>
 
-<button class="toc-toggle">目录 Contents ▾</button>
+<button class="toc-toggle" type="button" aria-controls="sidebar" aria-expanded="false">目录 Contents ▾</button>
 
 <div class="shell">
 
   <!-- ═══ SIDEBAR ═══ -->
   <aside class="sidebar" id="sidebar">
+    <button class="toc-toggle" onclick="document.getElementById('sidebar').classList.toggle('open')">目录 Contents ▾</button>
+
     <span class="toc-topic">风水</span>
     <span class="toc-topic-en">Wind and Water</span>
 
@@ -570,8 +572,8 @@
       <p>The imperial tombs of the Ming and Qing dynasties are 风水 masterworks: backed by mountains, facing south, water in front, dragon veins running through the ridges behind them. The Forbidden City itself is aligned on principles developed over two millennia. When modern architects in Hong Kong consult 风水 masters before breaking ground, they are drawing on this same tradition — the accumulated knowledge that where you place yourself in the landscape affects how energy flows through your life.</p>
     </div>
 
-    <!-- FOOTER -->
     
+  
     <aside class="related" aria-labelledby="related-label">
       <span class="related-label" id="related-label">Related entries</span>
       <div class="related-list">
@@ -592,7 +594,7 @@
       </a>
       <span class="pn-empty"></span>
     </nav>
-
+  
     <footer class="page-footer">
       <div class="page-footer-actions">
         <div class="page-footer-links">
@@ -612,7 +614,6 @@
         <a href="../../index.html" class="footer-back">← All entries</a>
       </div>
     </footer>
-
   </main>
 </div>
 
