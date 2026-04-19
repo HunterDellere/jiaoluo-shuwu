@@ -12,7 +12,6 @@ Run locally: `python3 -m http.server 8080` from the repo root (after running `np
 ```
 npm run build      # generate pages/ + data/ from content/
 npm run validate   # schema-check all content files
-npm run migrate    # (one-time) convert existing pages/ HTML to content/*.md
 ```
 
 Source of truth is `content/<category>/<slug>.md`. Never hand-edit `pages/` — they are generated.
@@ -21,7 +20,7 @@ Source of truth is `content/<category>/<slug>.md`. Never hand-edit `pages/` — 
 Edit `templates/_layout.html`, then run `npm run build`. All pages update in one command.
 
 ### Updating the visual structure of a page type
-Edit `templates/character.html` (or vocab.html / grammar.html / topic.html), then run `npm run build`. Every page of that type regenerates.
+Page structure lives in each `content/<category>/<slug>.md` body — edit the content file directly, then run `npm run build`. There are no per-type scaffold templates.
 
 ### Adding a new CSS component or style change
 Edit `style.css`. No rebuild needed — it's linked directly by all pages.
@@ -33,7 +32,7 @@ Edit `content/_schema/entry.schema.json` or `content/_schema/tags.json`, then ru
 1. Add a folder in `content/<newcategory>/`
 2. Add the category slug to `entry.schema.json` → `category.enum`
 3. Add `CATEGORY_META` entry in `index.html`
-4. Create a `templates/<newcategory>.html` if the page structure is unique, or reuse `topic.html`
+4. New pages follow the topic page structure in `content/<category>/<slug>.md` — no new template needed
 
 ---
 
@@ -49,18 +48,15 @@ chinese-field-guide/
 │   └── _schema/            # entry.schema.json, tags.json, radicals.json
 ├── templates/              # HTML templates injected by the build
 │   ├── _layout.html        # head / nav / footer / script tag
-│   ├── character.html
-│   ├── vocab.html
-│   ├── grammar.html
-│   ├── topic.html
-│   └── _drafting/          # AI drafting prompt templates (Phase 4)
+│   └── _drafting/          # AI drafting voice guide
 ├── build/                  # Node build scripts
 │   ├── build.mjs           # main build
 │   ├── validate.mjs        # schema validation
-│   ├── migrate.mjs         # one-time migration from hand-written pages/
 │   └── lib/
 │       ├── validate.mjs
-│       └── search-index.mjs
+│       ├── search-index.mjs
+│       ├── augment.mjs
+│       └── relations.mjs
 ├── pages/                  # GENERATED — never hand-edit
 ├── data/                   # GENERATED — entries.json, search-index.json, recent.json
 ├── index.html              # shell only — fetches data/, delegates all rendering to scripts/homepage.js

@@ -46,7 +46,7 @@
     { label: "道", q: "道" },
     { label: "guanxi", q: "guanxi" },
     { label: "yinyang", q: "yinyang" },
-    { label: "hsk 1", q: "hsk 1" }
+    { label: "chengyu", q: "chengyu" }
   ];
 
   function normalize(str) {
