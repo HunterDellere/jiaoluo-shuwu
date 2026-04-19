@@ -8,6 +8,25 @@
 const HZ_RE = /[\u4e00-\u9fff]/;
 
 /**
+ * Render a small Sources block from frontmatter.sources (array of strings).
+ * Returns HTML block or empty string.
+ */
+export function renderSourcesHtml(fm) {
+  if (!fm.sources || !Array.isArray(fm.sources) || fm.sources.length === 0) return '';
+  const items = fm.sources.map(s => `<li>${escapeHtmlInline(s)}</li>`).join('\n        ');
+  return `
+    <aside class="sources" aria-label="Sources">
+      <span class="sources-label">Sources</span>
+      <ul class="sources-list">
+        ${items}
+      </ul>
+    </aside>`;
+}
+function escapeHtmlInline(s) {
+  return String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+}
+
+/**
  * Add an errata mailto link to the page footer.
  * Footer pattern across content pages:
  *   <span class="footer-id">...</span>

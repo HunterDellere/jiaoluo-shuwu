@@ -84,6 +84,11 @@
     "topic": {
       "type": "string",
       "description": "Optional thematic grouping label (deprecated — use tags instead)"
+    },
+    "sources": {
+      "type": "array",
+      "items": { "type": "string", "minLength": 1 },
+      "description": "Optional list of sources cited; rendered as a small footer block on the page"
     }
   },
   "if": {

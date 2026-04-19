@@ -8,6 +8,17 @@ else { window.__enhanceInit = true; (function () {
 
   const REDUCED_MOTION = matchMedia('(prefers-reduced-motion: reduce)').matches;
 
+  // ── Service worker registration ──────────────────────────────────────────
+  if ('serviceWorker' in navigator && location.protocol !== 'file:') {
+    // Determine SW path relative to current page; SW must be served from root
+    const swPath = location.pathname.includes('/pages/') ? '../../sw.js' : 'sw.js';
+    window.addEventListener('load', function () {
+      navigator.serviceWorker.register(swPath).catch(function (err) {
+        console.warn('SW registration failed:', err);
+      });
+    });
+  }
+
   // ── Pinyin audio via SpeechSynthesis ──────────────────────────────────────
   const synth = 'speechSynthesis' in window ? window.speechSynthesis : null;
   let zhVoice = null;

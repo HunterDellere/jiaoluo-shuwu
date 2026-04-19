@@ -16,7 +16,8 @@ import matter from 'gray-matter';
 import { validateEntry } from './lib/validate.mjs';
 import { buildSearchIndex } from './lib/search-index.mjs';
 import { buildRelations, buildAdjacency, renderRelatedHtml, renderAdjacencyHtml } from './lib/relations.mjs';
-import { injectStrokeOrder, buildLinkMap, autoLinkBody, addPinyinAudio, addErrataLink } from './lib/augment.mjs';
+import { injectStrokeOrder, buildLinkMap, autoLinkBody, addPinyinAudio, addErrataLink, renderSourcesHtml } from './lib/augment.mjs';
+import { renderOgSvg, categoryFaviconDataUri } from './lib/og.mjs';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const ROOT      = join(__dirname, '..');
@@ -99,18 +100,49 @@ function buildJsonLd(fm, slug, category) {
   return `<script type="application/ld+json">${JSON.stringify(data)}</script>`;
 }
 
+function buildOgTags(fm, slug, category) {
+  if (fm.status !== 'complete') return '';
+  const url = `${SITE_URL}/pages/${category}/${slug}.html`;
+  const ogImg = `${SITE_URL}/og/${category}/${slug}.svg`;
+  const title = fm.pageTitle || buildPageTitle(fm);
+  const desc = fm.metaDesc || fm.desc || '';
+  return [
+    `<meta property="og:type" content="article">`,
+    `<meta property="og:title" content="${escapeAttr(title)}">`,
+    `<meta property="og:description" content="${escapeAttr(desc)}">`,
+    `<meta property="og:url" content="${url}">`,
+    `<meta property="og:image" content="${ogImg}">`,
+    `<meta property="og:site_name" content="Field Notes on Chinese">`,
+    `<meta name="twitter:card" content="summary_large_image">`,
+    `<meta name="twitter:title" content="${escapeAttr(title)}">`,
+    `<meta name="twitter:description" content="${escapeAttr(desc)}">`,
+    `<meta name="twitter:image" content="${ogImg}">`,
+  ].join('\n');
+}
+
+function escapeAttr(s) {
+  return String(s || '')
+    .replace(/&/g, '&amp;')
+    .replace(/"/g, '&quot;')
+    .replace(/</g, '&lt;');
+}
+
 function renderPage(fm, body, slug, category) {
   const filename = `${slug}.html`;
   const metaComment = buildMetaComment(fm);
   const pageTitle = fm.pageTitle || buildPageTitle(fm);
   const metaDesc = fm.metaDesc || fm.desc || '';
   const jsonLd = buildJsonLd(fm, slug, category);
+  const ogTags = buildOgTags(fm, slug, category);
+  const favicon = categoryFaviconDataUri(category);
 
   const page = LAYOUT
     .replace('{{{metaComment}}}', metaComment)
     .replace('{{{pageTitle}}}', pageTitle)
     .replace('{{{metaDesc}}}', metaDesc)
     .replace('{{{jsonLd}}}', jsonLd)
+    .replace('{{{ogTags}}}', ogTags)
+    .replace('{{{favicon}}}', favicon)
     .replace('{{{pageBody}}}', body.trim());
 
   return page;
@@ -205,10 +237,11 @@ for (const { fm, body, slug, category, outDir, entry } of pending) {
       // 3.5 Errata link in footer
       augmentedBody = addErrataLink(augmentedBody, fm, slug);
 
-      // 4. Related entries + prev/next at the bottom
+      // 4. Sources + related entries + prev/next at the bottom
+      const sourcesHtml = renderSourcesHtml(fm);
       const relatedHtml = renderRelatedHtml(relations.get(entry.path) || [], entry.path);
       const adjacencyHtml = renderAdjacencyHtml(adjacency.get(entry.path), entry.path);
-      const injection = `${relatedHtml}${adjacencyHtml}`;
+      const injection = `${sourcesHtml}${relatedHtml}${adjacencyHtml}`;
       if (injection) {
         if (augmentedBody.includes('<footer class="page-footer">')) {
           augmentedBody = augmentedBody.replace(
@@ -320,7 +353,39 @@ const rssXml =
   `</rss>\n`;
 writeFileSync(join(ROOT, 'feed.xml'), rssXml, 'utf8');
 
+// Per-entry OG SVG cards
+const ogDir = join(ROOT, 'og');
+mkdirSync(ogDir, { recursive: true });
+let ogWritten = 0;
+for (const e of entries) {
+  if (e.status !== 'complete') continue;
+  const slug = basename(e.path, '.html');
+  const cat = e.category;
+  const dir = join(ogDir, cat);
+  mkdirSync(dir, { recursive: true });
+  writeFileSync(join(dir, `${slug}.svg`), renderOgSvg(e), 'utf8');
+  ogWritten++;
+}
+
+// PWA manifest
+const manifest = {
+  name: 'Field Notes on Chinese',
+  short_name: 'Field Notes',
+  description: 'A field guide to Chinese — characters, language, and the long civilisation behind them.',
+  start_url: '/chinese-field-guide/',
+  scope: '/chinese-field-guide/',
+  display: 'standalone',
+  background_color: '#f2e8d5',
+  theme_color: '#1c1208',
+  lang: 'en',
+  icons: [
+    { src: 'data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\' viewBox=\'0 0 100 100\'><rect width=\'100\' height=\'100\' fill=\'%23f2e8d5\'/><text y=\'.9em\' font-size=\'90\' fill=\'%238b1a1a\'>字</text></svg>', sizes: '512x512', type: 'image/svg+xml', purpose: 'any maskable' }
+  ]
+};
+writeFileSync(join(ROOT, 'manifest.webmanifest'), JSON.stringify(manifest, null, 2), 'utf8');
+
 console.log(`\nBuild complete: ${built} pages written, ${errors} errors.`);
+console.log(`OG cards: ${ogWritten} SVGs generated.`);
 console.log(`Sitemap: ${urls.length} URLs.`);
 console.log(`Auto-linked: ${autoLinkCount}/${pending.length} pages.`);
 if (errors) process.exit(1);

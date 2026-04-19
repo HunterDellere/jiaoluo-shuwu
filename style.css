@@ -695,6 +695,48 @@ tbody tr:hover td { background: var(--papyrus-2); }
 .cy-en { font-size: 0.88rem; color: var(--ink-2); font-style: italic; }
 .cy-note { font-size: 0.78rem; color: var(--ink-4); line-height: 1.55; }
 
+/* ── SOURCES BLOCK ───────────────────────────────────────── */
+.sources {
+  margin-top: 2.5rem;
+  padding: 1rem 1.3rem;
+  background: transparent;
+  border-top: 1px solid var(--rule);
+  border-bottom: 1px solid var(--rule);
+}
+.sources-label {
+  font-family: var(--font-mono);
+  font-size: 0.58rem;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  color: var(--ink-5);
+  display: block;
+  margin-bottom: 0.45rem;
+}
+.sources-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.2rem;
+}
+.sources-list li {
+  font-family: var(--font-body);
+  font-size: 0.82rem;
+  font-style: italic;
+  color: var(--ink-4);
+  padding-left: 1rem;
+  position: relative;
+  text-wrap: pretty;
+}
+.sources-list li::before {
+  content: '·';
+  position: absolute;
+  left: 0.3rem;
+  color: var(--ochre);
+  font-style: normal;
+}
+
 /* ── RELATED ENTRIES (cross-linking) ─────────────────────── */
 .related {
   margin-top: 2.5rem;

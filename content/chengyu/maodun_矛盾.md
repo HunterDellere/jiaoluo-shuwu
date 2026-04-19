@@ -12,6 +12,10 @@ tags:
   - 'classical'
 updated: '2026-04-18'
 pinyin: 'máodùn'
+sources:
+  - 'Hánfēizǐ 韩非子, "Nán yī" 难一 chapter (3rd century BCE) — original spear-and-shield parable'
+  - 'Mao Zedong, "On Contradiction" 矛盾论 (1937) — Marxist-dialectical adoption of the term'
+  - 'Outlier Linguistic Solutions — etymology of 矛 and 盾'
 ---
 
 <button class="toc-toggle" onclick="document.getElementById('sidebar').classList.toggle('open')">目录 Contents ▾</button>
