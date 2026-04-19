@@ -1,0 +1,476 @@
+---
+type: 'character'
+category: 'characters'
+status: 'complete'
+title: '在 · to be at, located, in progress'
+desc: 'Location, existence, and the progressive aspect — the character that puts things in place and actions in motion.'
+metaDesc: "在 zài: to be at; to exist; location marker; progressive aspect marker — etymology, 在 vs. 有 existence distinction, 在 as preposition, and the progressive 在…呢 construction."
+pageTitle: '在 zài'
+tags:
+  - 'grammar'
+  - 'space'
+  - 'aspect'
+updated: '2026-04-19'
+char: '在'
+pinyin: 'zài'
+tone: 4
+hsk: 1
+radical: '土'
+---
+
+<button class="toc-toggle" onclick="document.getElementById('sidebar').classList.toggle('open')">目录 Contents ▾</button>
+
+<div class="shell">
+
+  <!-- ═══ SIDEBAR ═══ -->
+  <aside class="sidebar" id="sidebar">
+
+    <span class="toc-glyph">在</span>
+    <span class="toc-pinyin">zài · tone 4</span>
+
+    <div class="toc-divider"></div>
+    <span class="toc-label">On this page</span>
+
+    <ul class="toc-list">
+      <li><a href="#etymology">
+        <span class="toc-cn">字源</span> Etymology
+        <span class="toc-sub">zìyuán · origin &amp; structure</span>
+      </a></li>
+      <li><a href="#patterns">
+        <span class="toc-cn">构词</span> Patterns
+        <span class="toc-sub">gòucí · word-formation</span>
+      </a></li>
+      <li><a href="#location">
+        <span class="toc-cn">位置</span> Location
+        <span class="toc-sub">wèizhì · to be at / in / on</span>
+      </a></li>
+      <li><a href="#preposition">
+        <span class="toc-cn">介词</span> Preposition
+        <span class="toc-sub">jiècí · at / in / on (before verb)</span>
+      </a></li>
+      <li><a href="#progressive">
+        <span class="toc-cn">进行</span> Progressive
+        <span class="toc-sub">jìnxíng · ongoing action</span>
+      </a></li>
+      <li><a href="#zaihu">
+        <span class="toc-cn">在乎</span> 在乎 &amp; 所在
+        <span class="toc-sub">to care about; where it lies</span>
+      </a></li>
+      <li><a href="#table">
+        <span class="toc-cn">表格</span> 在 Function Map
+        <span class="toc-sub">reference table</span>
+      </a></li>
+      <li><a href="#chengyu">
+        <span class="toc-cn">成语</span> Idioms
+        <span class="toc-sub">chéngyǔ · set phrases</span>
+      </a></li>
+      <li><a href="#adjacent">
+        <span class="toc-cn">相邻</span> Adjacent Vocab
+        <span class="toc-sub">xiānglín cíhuì</span>
+      </a></li>
+    </ul>
+  </aside>
+
+  <!-- ═══ MAIN ═══ -->
+  <main class="main">
+
+    <!-- HERO -->
+    <header class="hero">
+      <div class="hero-inner">
+        <div class="hero-glyph-col">
+          <div class="hero-script-pair">
+            <div class="hero-script hero-script--simp">
+              <span class="hero-glyph">在</span>
+              <span class="hero-script-label">simplified</span>
+            </div>
+            <div class="hero-script-divider"></div>
+            <div class="hero-script hero-script--trad">
+              <span class="hero-glyph">在</span>
+              <span class="hero-script-label">traditional · same</span>
+            </div>
+          </div>
+        </div>
+        <div class="hero-meta">
+          <div class="hero-pinyin">zài</div>
+          <div class="hero-en">to be at · located in/on · in progress</div>
+          <div class="hero-chips">
+            <span class="chip">部首 bùshǒu · 土 tǔ earth</span>
+            <span class="chip">6 笔画 bǐhuà strokes</span>
+            <span class="chip chip-hsk">HSK 1</span>
+            <span class="chip">tone 4 · zài</span>
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <!-- ── ETYMOLOGY ── -->
+    <span class="section-anchor" id="etymology"></span>
+    <div class="section-head">
+      <span class="sh-cn">字源</span>
+      <span class="sh-py">zìyuán</span>
+      <span class="sh-en">Etymology &amp; Structure</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="在">
+      <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
+      <p>The ancient form of <strong>在 zài</strong> shows a plant or seedling (<strong>才 cái</strong> — the phonetic component, meaning "just beginning; just emerged") growing up from earth (<strong>土 tǔ</strong> — the semantic component). A seedling rooted in earth: something that exists in a place because it is grounded there. The earliest meaning was "to exist in a place; to be present." The spatial meaning — to be at, in, or on a location — follows directly from this image of the grounded, present thing.</p>
+      <p>From location, 在 expanded into two further grammatical roles: as a <strong>preposition</strong> (placing the scene of an action before the verb: 在图书馆学习, to study at the library), and as a <strong>progressive aspect marker</strong> (indicating an action is in progress: 在吃饭, eating/in the middle of eating). All three uses share the core semantic logic of presence: something is here, occurring here, happening here now.</p>
+      <p>The phonetic component 才 cái (just; only; talent; barely) also appears in 材 (material; timber), 财 (wealth), and 裁 (to cut; to judge) — a family of characters sharing the sense of something newly emergent or precisely measured. The soil of 在 grounds this family in physical space.</p>
+    </div>
+
+    <!-- ── WORD-FORMATION ── -->
+    <span class="section-anchor" id="patterns"></span>
+    <div class="section-head">
+      <span class="sh-cn">构词</span>
+      <span class="sh-py">gòucí</span>
+      <span class="sh-en">Word-Formation Patterns</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="pattern">
+      <span class="label">构词规律 gòucí guīlǜ · Three Functions</span>
+      <strong>Subject + 在 + place</strong> → location verb: 他在家 (He is at home)<br>
+      <strong>在 + place + verb</strong> → locative preposition: 在家工作 (work at home) · 在图书馆读书 (read in the library)<br>
+      <strong>在 + verb + (呢)</strong> → progressive aspect: 在睡觉 (sleeping) · 在开会呢 (in a meeting right now)
+    </div>
+
+    <!-- ── LOCATION ── -->
+    <span class="section-anchor" id="location"></span>
+    <div class="section-head">
+      <span class="sh-cn">位置</span>
+      <span class="sh-py">wèizhì</span>
+      <span class="sh-en">Location — To Be At / In / On</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="在">
+      <div class="scholar-label">语法洞见 yǔfǎ dòngjiàn · The 在 vs. 有 Distinction</div>
+      <p>The most important distinction for learners: <strong>在 zài</strong> and <strong>有 yǒu</strong> both involve location, but they work opposite ways. <strong>有</strong> introduces new information — it asserts that something exists in a place for the first time: 桌上有书 (There are books on the table — telling you something you didn't know). <strong>在</strong> locates something already known — it tells you where a given thing is: 书在桌上 (The books are on the table — locating something you already know exists).</p>
+      <p>The structural difference mirrors this: 有 sentences start with the place (topic frame), then introduce the thing. 在 sentences start with the known thing (topic), then identify its location. 有: Place + 有 + Thing. 在: Thing + 在 + Place. Knowing which to use requires asking: is the existence of this thing news to the listener, or is only its location?</p>
+    </div>
+
+    <div class="cards">
+
+      <div class="card c-v">
+        <div class="card-head">
+          <span class="card-cn">在</span>
+          <span class="card-py">zài</span>
+          <span class="card-en">to be at; to exist in/at (location verb)</span>
+        </div>
+        <div class="tags"><span class="tag tag-v">V 动词 dòngcí</span></div>
+        <div class="card-def">
+          As a main verb, 在 states the location of a known subject: Subject + 在 + Place. 他在哪里？(Where is he?) 我在家 (I'm at home) 书在桌上 (The book is on the table). The subject must be definite — you cannot say *一本书在桌上 to mean "a book is on the table"; that requires 有. 不在 (not there; absent) is the most common negation, and is used to say someone is not home or not present.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">你在哪儿？我找不到你。</div>
+            <div class="ex-py">Nǐ zài nǎr? Wǒ zhǎo bu dào nǐ.</div>
+            <div class="ex-en">Where are you? I can't find you.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">老师在不在？——不在，刚出去了。</div>
+            <div class="ex-py">Lǎoshī zài bu zài? — Bú zài, gāng chū qù le.</div>
+            <div class="ex-en">Is the teacher in? — No, just stepped out.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">钥匙在包里，别担心。</div>
+            <div class="ex-py">Yàoshi zài bāo lǐ, bié dānxīn.</div>
+            <div class="ex-en">The key is in the bag — don't worry.</div>
+          </div>
+        </div>
+      </div>
+
+    </div><!-- /cards location -->
+
+    <!-- ── PREPOSITION ── -->
+    <span class="section-anchor" id="preposition"></span>
+    <div class="section-head">
+      <span class="sh-cn">介词</span>
+      <span class="sh-py">jiècí</span>
+      <span class="sh-en">Preposition — At / In / On (Before Verb)</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="cards">
+
+      <div class="card c-v">
+        <div class="card-head">
+          <span class="card-cn">在 (preposition)</span>
+          <span class="card-py">zài</span>
+          <span class="card-en">at; in; on (prepositional use before main verb)</span>
+        </div>
+        <div class="tags"><span class="tag tag-v">Prep 介词 jiècí</span></div>
+        <div class="card-def">
+          When 在 precedes a place word and is followed by the main verb, it functions as a preposition: it sets the scene for the action. Structure: <code>Subject + 在 + Place + Verb</code>. 我在图书馆学习 (I study at the library). 她在北京工作 (She works in Beijing). 他们在公园散步 (They are walking in the park). The prepositional 在 is always before the verb — never after. This is a critical word-order rule: Chinese locative phrases precede the verb they modify.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">我们在餐厅等你。</div>
+            <div class="ex-py">Wǒmen zài cāntīng děng nǐ.</div>
+            <div class="ex-en">We'll wait for you at the restaurant.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">他在北京学了三年中文。</div>
+            <div class="ex-py">Tā zài Běijīng xué le sān nián Zhōngwén.</div>
+            <div class="ex-en">He studied Chinese in Beijing for three years.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">请在这里签名。</div>
+            <div class="ex-py">Qǐng zài zhèlǐ qiānmíng.</div>
+            <div class="ex-en">Please sign here.</div>
+          </div>
+        </div>
+        <div class="note">
+          <span class="note-label">语法 yǔfǎ · 在 Position Rule</span>
+          In Chinese, the locative phrase always comes BEFORE the verb: 在图书馆读书 ✓ (at the library read books). Never after the verb: *读书在图书馆 ✗. This is opposite to common English patterns ("I study at the library" — "study" comes first). Internalizing the pre-verbal position of 在 is essential for natural Chinese word order.
+        </div>
+      </div>
+
+    </div><!-- /cards preposition -->
+
+    <!-- ── PROGRESSIVE ── -->
+    <span class="section-anchor" id="progressive"></span>
+    <div class="section-head">
+      <span class="sh-cn">进行</span>
+      <span class="sh-py">jìnxíng</span>
+      <span class="sh-en">Progressive — Ongoing Action</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="cards">
+
+      <div class="card c-v">
+        <div class="card-head">
+          <span class="card-cn">在…(呢)</span>
+          <span class="card-py">zài…(ne)</span>
+          <span class="card-en">in the middle of; currently doing (progressive aspect)</span>
+        </div>
+        <div class="tags"><span class="tag tag-v">构式 gòushì · Construction</span></div>
+        <div class="card-def">
+          When 在 precedes a verb without a place noun, it marks the <strong>progressive aspect</strong> — an action currently in progress. The optional sentence-final particle 呢 ne reinforces the ongoing quality. Structure: <code>Subject + 在 + Verb (+ 呢)</code>. 我在吃饭 (I'm eating). 他在睡觉呢 (He's sleeping right now). 她在打电话 (She's on a phone call). The 呢 adds a sense of "as we speak" — use it when you want to emphasize that the action is happening at this very moment.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">别打扰他，他在工作呢。</div>
+            <div class="ex-py">Bié dǎrǎo tā, tā zài gōngzuò ne.</div>
+            <div class="ex-en">Don't disturb him — he's working right now.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">你在看什么书？</div>
+            <div class="ex-py">Nǐ zài kàn shénme shū?</div>
+            <div class="ex-en">What book are you reading?</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">我们在开会，一会儿给你回电话。</div>
+            <div class="ex-py">Wǒmen zài kāihuì, yīhuìr gěi nǐ huí diànhuà.</div>
+            <div class="ex-en">We're in a meeting — we'll call you back in a bit.</div>
+          </div>
+        </div>
+        <div class="note">
+          <span class="note-label">辨析 biànxī · Progressive Markers</span>
+          Chinese has three progressive/durative markers that can stack or alternate. <strong>在</strong>: action in progress (在学习). <strong>着 zhe</strong>: state ongoing from a prior action (门开着 — the door is open; 穿着衬衫 — wearing a shirt). <strong>呢</strong>: sentence-final, confirms current activity. The fullest progressive form: <strong>正在…呢</strong> (正在 + V + 呢): 他正在睡觉呢 "He is right in the middle of sleeping." 正在 adds "right now / at this very moment" precision.
+        </div>
+      </div>
+
+    </div><!-- /cards progressive -->
+
+    <!-- ── 在乎 & 所在 ── -->
+    <span class="section-anchor" id="zaihu"></span>
+    <div class="section-head">
+      <span class="sh-cn">在乎</span>
+      <span class="sh-py">zàihu</span>
+      <span class="sh-en">在乎 &amp; 所在 — To Care; Where It Lies</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="cards">
+
+      <div class="card c-v">
+        <div class="card-head">
+          <span class="card-cn">在乎</span>
+          <span class="card-py">zàihu</span>
+          <span class="card-en">to care about; to mind; to take to heart</span>
+        </div>
+        <div class="tags"><span class="tag tag-v">V 动词 dòngcí</span></div>
+        <div class="card-def">
+          在 (to be present) + 乎 hū (classical particle meaning "in; within; at"). Literally "to be located within [something]" — one's attention or concern is present inside something. 我不在乎 (I don't care / I don't mind) is one of the most frequent phrases in spoken Chinese. The negation 不在乎 is far more common than the affirmative. Used for emotional stakes: 她很在乎这段关系 (She cares deeply about this relationship).
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">我不在乎别人怎么看我。</div>
+            <div class="ex-py">Wǒ bù zàihu biérén zěnme kàn wǒ.</div>
+            <div class="ex-en">I don't care what other people think of me.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">他那么在乎你，你要好好珍惜。</div>
+            <div class="ex-py">Tā nàme zàihu nǐ, nǐ yào hǎohǎo zhēnxī.</div>
+            <div class="ex-en">He cares about you so much — you should cherish that.</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-v">
+        <div class="card-head">
+          <span class="card-cn">所在</span>
+          <span class="card-py">suǒzài</span>
+          <span class="card-en">where something is; the location of; what something lies in</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
+        <div class="card-def">
+          所 suǒ (that which; nominalizing particle) + 在 (to be located). A formal noun meaning "the place/point where something is located; the essence of what something consists in." Commonly appears in 问题所在 (the crux of the problem; where the problem lies) and 关键所在 (the key point; where the key lies). Also used for physical locations in formal writing: 你所在的城市 (the city where you are located).
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">这正是问题的所在。</div>
+            <div class="ex-py">Zhè zhèng shì wèntí de suǒzài.</div>
+            <div class="ex-en">This is precisely where the problem lies.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">魅力所在，就是那份真诚。</div>
+            <div class="ex-py">Mèilì suǒzài, jiùshì nà fèn zhēnchéng.</div>
+            <div class="ex-en">The source of his/her charm lies in that sincerity.</div>
+          </div>
+        </div>
+      </div>
+
+    </div><!-- /cards zaihu -->
+
+    <!-- ── TABLE ── -->
+    <span class="section-anchor" id="table"></span>
+    <div class="section-head">
+      <span class="sh-cn">表格</span>
+      <span class="sh-py">biǎogé</span>
+      <span class="sh-en">在 Function Map</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="table-wrap">
+      <table>
+        <thead>
+          <tr>
+            <th>功能 Function</th>
+            <th>结构 Structure</th>
+            <th>例句 Example</th>
+            <th>对比 Compare</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="td-cn">位置动词 Location Verb</td>
+            <td class="td-py">Subject + 在 + Place</td>
+            <td>他在家。<span class="td-small td-py-sm">He's at home.</span></td>
+            <td>有: Place + 有 + Thing</td>
+          </tr>
+          <tr>
+            <td class="td-cn">位置介词 Locative Prep</td>
+            <td class="td-py">在 + Place + Verb</td>
+            <td>在图书馆学习。<span class="td-small td-py-sm">Study at the library.</span></td>
+            <td>Always before the verb</td>
+          </tr>
+          <tr>
+            <td class="td-cn">进行体 Progressive</td>
+            <td class="td-py">在 + Verb (+ 呢)</td>
+            <td>在吃饭呢。<span class="td-small td-py-sm">In the middle of eating.</span></td>
+            <td>正在: even more emphatic</td>
+          </tr>
+          <tr>
+            <td class="td-cn">存在 Existence</td>
+            <td class="td-py">在不在 (A-not-A)</td>
+            <td>老师在不在？<span class="td-small td-py-sm">Is the teacher in?</span></td>
+            <td>不在: absent, not present</td>
+          </tr>
+          <tr>
+            <td class="td-cn">在意 To care</td>
+            <td class="td-py">在乎 / 在意 + NP/clause</td>
+            <td>我不在乎。<span class="td-small td-py-sm">I don't care.</span></td>
+            <td>在意 yìyi: slightly more formal</td>
+          </tr>
+          <tr>
+            <td class="td-cn">关键 Key point</td>
+            <td class="td-py">N + 所在</td>
+            <td>问题所在。<span class="td-small td-py-sm">Where the problem lies.</span></td>
+            <td>Formal; written register</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <!-- ── CHENGYU ── -->
+    <span class="section-anchor" id="chengyu"></span>
+    <div class="section-head">
+      <span class="sh-cn">成语</span>
+      <span class="sh-py">chéngyǔ</span>
+      <span class="sh-en">Idioms &amp; Set Phrases</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="chengyu-grid">
+
+      <div class="cy">
+        <span class="cy-cn">无处不在</span>
+        <span class="cy-py">wú chù bú zài</span>
+        <span class="cy-en">everywhere; omnipresent — present in every place</span>
+        <span class="cy-note">Lit: no-place-not-present. The double negative (无处 "no place" + 不在 "not present") creates a strong universal affirmative: present in every place without exception. Used for things that are all-pervasive — technology, a scent, an influence. 他的影响力无处不在。"His influence is everywhere." Common in journalism and commentary.</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">心不在焉</span>
+        <span class="cy-py">xīn bù zài yān</span>
+        <span class="cy-en">absent-minded; not mentally present</span>
+        <span class="cy-note">Lit: heart-not-present-there. 焉 yān is a classical demonstrative "there." The heart/mind (心 xīn — the seat of consciousness in Chinese tradition) is absent from the place where the body sits. Used to describe distraction, daydreaming, or emotional distance during a conversation or task. 他上课时总是心不在焉。"He's always absent-minded in class." A classic chengyu still in active daily use.</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">人在曹营心在汉</span>
+        <span class="cy-py">rén zài Cáo yíng xīn zài Hàn</span>
+        <span class="cy-en">body in Cao's camp, heart in Han — physically present but mentally elsewhere; loyalty divided</span>
+        <span class="cy-note">From <em>Romance of the Three Kingdoms</em>: Guan Yu was held in Cao Cao's camp but his heart remained loyal to Liu Bei's Han cause. The 在…在 parallel structure contrasts physical location (body) with emotional location (heart). Used for anyone who is physically somewhere but mentally or emotionally still with another person, cause, or place. Captures divided loyalty beautifully.</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">事在人为</span>
+        <span class="cy-py">shì zài rén wéi</span>
+        <span class="cy-en">things depend on human effort — nothing is impossible with effort</span>
+        <span class="cy-note">Lit: matters-located-in-human-doing. The outcome of things lies in human action, not fate or circumstance. An optimistic proverb of agency: no matter how difficult, the result is in human hands. 不要灰心，事在人为。"Don't despair — it's all about what people do." Frequently used as encouragement when someone feels powerless.</span>
+      </div>
+
+    </div>
+
+    <!-- ── ADJACENT VOCAB ── -->
+    <span class="section-anchor" id="adjacent"></span>
+    <div class="section-head">
+      <span class="sh-cn">相邻词汇</span>
+      <span class="sh-py">xiānglín cíhuì</span>
+      <span class="sh-en">Adjacent Vocabulary</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="adj-wrap">
+      <span class="adj"><span class="a-cn">有</span><span class="a-py">yǒu</span><span class="a-en">there is/are (existential)</span></span>
+      <span class="adj"><span class="a-cn">正在</span><span class="a-py">zhèngzài</span><span class="a-en">right in the middle of (emphatic progressive)</span></span>
+      <span class="adj"><span class="a-cn">着</span><span class="a-py">zhe</span><span class="a-en">ongoing state aspect marker</span></span>
+      <span class="adj"><span class="a-cn">里</span><span class="a-py">lǐ</span><span class="a-en">inside; within</span></span>
+      <span class="adj"><span class="a-cn">上</span><span class="a-py">shàng</span><span class="a-en">on top of; above; up</span></span>
+      <span class="adj"><span class="a-cn">下</span><span class="a-py">xià</span><span class="a-en">below; under; down</span></span>
+      <span class="adj"><span class="a-cn">旁边</span><span class="a-py">pángbiān</span><span class="a-en">beside; next to</span></span>
+      <span class="adj"><span class="a-cn">附近</span><span class="a-py">fùjìn</span><span class="a-en">nearby; in the vicinity of</span></span>
+      <span class="adj"><span class="a-cn">在乎</span><span class="a-py">zàihu</span><span class="a-en">to care about; to mind</span></span>
+      <span class="adj"><span class="a-cn">所在</span><span class="a-py">suǒzài</span><span class="a-en">where something lies; the essence of</span></span>
+      <span class="adj"><span class="a-cn">存在</span><span class="a-py">cúnzài</span><span class="a-en">to exist; existence</span></span>
+      <span class="adj"><span class="a-cn">处于</span><span class="a-py">chǔyú</span><span class="a-en">to be in (a state or situation)</span></span>
+    </div>
+
+    <div class="scholar" data-glyph="在">
+      <div class="scholar-label">记忆法 jìyìfǎ · Master Retention Image</div>
+      <p>Picture a seedling — a single green shoot breaking through earth. That is <strong>在 zài</strong>: grounded, present, here. The seedling doesn't wander. It is exactly where it is, rooted in this particular patch of soil. Every use of 在 carries that presence: a person is at a location, an action is happening now, attention is located within something, the key point is where it lies.</p>
+      <p>The contrast with 有: 有 announces existence — "there is a seedling here." 在 locates the known — "the seedling is here." One introduces; the other places. The seedling was unknown until 有 told you it existed; 在 tells you exactly which patch of earth it is rooted in. Together, 有 and 在 account for most of what English speakers need the verb "to be" to do — split across two characters, each doing its half with precision.</p>
+    </div>
+
+    <footer class="page-footer">
+      <span class="footer-id">Field Notes on Chinese · <span>在 zài</span> · zai4_在.html</span>
+      <a href="../../index.html" class="footer-back">← All Entries</a>
+    </footer>
+
+  </main>
+</div>

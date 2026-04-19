@@ -1,0 +1,492 @@
+---
+type: 'character'
+category: 'characters'
+status: 'complete'
+title: '再 · again, then, further'
+desc: 'Again, one more time, and the subtle art of "and then" — the character that sequences and repeats.'
+metaDesc: "再 zài: again; one more time; and then (sequential); further — etymology, 再 vs. 又 distinction, 再说 discourse marker, and the 再也不 emphatic never-again pattern."
+pageTitle: '再 zài'
+tags:
+  - 'grammar'
+  - 'time'
+updated: '2026-04-19'
+char: '再'
+pinyin: 'zài'
+tone: 4
+hsk: 2
+radical: '冂'
+---
+
+<button class="toc-toggle" onclick="document.getElementById('sidebar').classList.toggle('open')">目录 Contents ▾</button>
+
+<div class="shell">
+
+  <!-- ═══ SIDEBAR ═══ -->
+  <aside class="sidebar" id="sidebar">
+
+    <span class="toc-glyph">再</span>
+    <span class="toc-pinyin">zài · tone 4</span>
+
+    <div class="toc-divider"></div>
+    <span class="toc-label">On this page</span>
+
+    <ul class="toc-list">
+      <li><a href="#etymology">
+        <span class="toc-cn">字源</span> Etymology
+        <span class="toc-sub">zìyuán · origin &amp; structure</span>
+      </a></li>
+      <li><a href="#patterns">
+        <span class="toc-cn">构词</span> Patterns
+        <span class="toc-sub">gòucí · word-formation</span>
+      </a></li>
+      <li><a href="#again">
+        <span class="toc-cn">再次</span> Again
+        <span class="toc-sub">zàicì · repetition</span>
+      </a></li>
+      <li><a href="#youzai">
+        <span class="toc-cn">再 vs. 又</span> The Core Distinction
+        <span class="toc-sub">future vs. past repetition</span>
+      </a></li>
+      <li><a href="#then">
+        <span class="toc-cn">然后</span> And Then
+        <span class="toc-sub">ránhòu · sequential use</span>
+      </a></li>
+      <li><a href="#emphatic">
+        <span class="toc-cn">再也</span> Emphatic Never Again
+        <span class="toc-sub">zài yě · with negation</span>
+      </a></li>
+      <li><a href="#table">
+        <span class="toc-cn">表格</span> 再 vs. 又 Reference
+        <span class="toc-sub">comparison table</span>
+      </a></li>
+      <li><a href="#chengyu">
+        <span class="toc-cn">成语</span> Idioms
+        <span class="toc-sub">chéngyǔ · set phrases</span>
+      </a></li>
+      <li><a href="#adjacent">
+        <span class="toc-cn">相邻</span> Adjacent Vocab
+        <span class="toc-sub">xiānglín cíhuì</span>
+      </a></li>
+    </ul>
+  </aside>
+
+  <!-- ═══ MAIN ═══ -->
+  <main class="main">
+
+    <!-- HERO -->
+    <header class="hero">
+      <div class="hero-inner">
+        <div class="hero-glyph-col">
+          <div class="hero-script-pair">
+            <div class="hero-script hero-script--simp">
+              <span class="hero-glyph">再</span>
+              <span class="hero-script-label">simplified</span>
+            </div>
+            <div class="hero-script-divider"></div>
+            <div class="hero-script hero-script--trad">
+              <span class="hero-glyph">再</span>
+              <span class="hero-script-label">traditional · same</span>
+            </div>
+          </div>
+        </div>
+        <div class="hero-meta">
+          <div class="hero-pinyin">zài</div>
+          <div class="hero-en">again · one more · and then · further</div>
+          <div class="hero-chips">
+            <span class="chip">部首 bùshǒu · 冂 jiōng frame</span>
+            <span class="chip">6 笔画 bǐhuà strokes</span>
+            <span class="chip chip-hsk">HSK 2</span>
+            <span class="chip">tone 4 · zài</span>
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <!-- ── ETYMOLOGY ── -->
+    <span class="section-anchor" id="etymology"></span>
+    <div class="section-head">
+      <span class="sh-cn">字源</span>
+      <span class="sh-py">zìyuán</span>
+      <span class="sh-en">Etymology &amp; Structure</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="再">
+      <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
+      <p>The oracle-bone form of <strong>再 zài</strong> shows a fish being caught a second time — or, in another interpretation, a net or vessel being drawn up again after a first pull. The core image is of a repeated action: a thing done once, and then once more. From this concrete image of repetition came the abstract adverb meaning "again; once more; a second time."</p>
+      <p>The modern character is composed of the frame radical <strong>冂 jiōng</strong> (an enclosure; a frame — used graphically as a structural element rather than a meaning-carrier) over an element suggesting layers or something gathered again. While the original pictographic clarity is somewhat obscured in the modern form, the semantic core has remained perfectly stable: repetition, sequence, continuation.</p>
+      <p>The tonal homophone <strong>在 zài</strong> (to be at; location) is a source of constant confusion for learners — both are tone 4, both are extremely common, and they are entirely unrelated in meaning. The characters are clearly distinct: 再 has a "T"-shaped element inside the frame; 在 shows a seedling over earth. In handwriting, the difference is clear; in listening, context resolves it immediately.</p>
+    </div>
+
+    <!-- ── WORD-FORMATION ── -->
+    <span class="section-anchor" id="patterns"></span>
+    <div class="section-head">
+      <span class="sh-cn">构词</span>
+      <span class="sh-py">gòucí</span>
+      <span class="sh-en">Word-Formation Patterns</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="pattern">
+      <span class="label">构词规律 gòucí guīlǜ · Four Templates</span>
+      <strong>再 + verb</strong> → repetition (future): 再说一遍 (say it again) · 再来一次 (come again)<br>
+      <strong>再 + verb + 一下/一次</strong> → polite request for repetition: 再说一下 (say that again please) · 再给我看一次 (let me see it one more time)<br>
+      <strong>再 + adj + 也/都</strong> → "no matter how": 再忙也要吃饭 (No matter how busy, you still need to eat)<br>
+      <strong>再也 + 不/没</strong> → emphatic never again: 再也不去了 (Never going again) · 再也没见过他 (Never saw him again)
+    </div>
+
+    <!-- ── AGAIN ── -->
+    <span class="section-anchor" id="again"></span>
+    <div class="section-head">
+      <span class="sh-cn">再次</span>
+      <span class="sh-py">zàicì</span>
+      <span class="sh-en">Again — Repetition</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="cards">
+
+      <div class="card c-v">
+        <div class="card-head">
+          <span class="card-cn">再</span>
+          <span class="card-py">zài</span>
+          <span class="card-en">again; once more; another (future or hypothetical repetition)</span>
+        </div>
+        <div class="tags"><span class="tag tag-adj">Adv 副词 fùcí</span></div>
+        <div class="card-def">
+          再 marks repetition that has not yet occurred — the action will happen again, would happen again, or is requested to happen again. 再来一次(do it one more time — request), 下次再说 (we'll talk about it next time — future), 再见 (goodbye — lit. "see again"). It is the adverb of anticipated or requested repetition. For repetition that already happened, use 又 yòu (see below).
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">你能再说一遍吗？我没听清楚。</div>
+            <div class="ex-py">Nǐ néng zài shuō yī biàn ma? Wǒ méi tīng qīngchǔ.</div>
+            <div class="ex-en">Could you say that again? I didn't hear clearly.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">这道题太难了，我再想想。</div>
+            <div class="ex-py">Zhè dào tí tài nán le, wǒ zài xiǎng xiǎng.</div>
+            <div class="ex-en">This problem is too hard — let me think about it some more.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">再等五分钟，他马上就到。</div>
+            <div class="ex-py">Zài děng wǔ fēnzhōng, tā mǎshàng jiù dào.</div>
+            <div class="ex-en">Wait five more minutes — he'll be here right away.</div>
+          </div>
+        </div>
+        <div class="note">
+          <span class="note-label">文化 wénhuà · 再见</span>
+          <strong>再见 zàijiàn</strong> (goodbye) is literally "see again" — the standard farewell in Mandarin. More casual alternatives: 拜拜 bàibài (from English "bye-bye") and 回头见 huí tóu jiàn (see you later, lit. "turn-head-see"). 再见 is appropriate in all registers and settings.
+        </div>
+      </div>
+
+    </div><!-- /cards again -->
+
+    <!-- ── 再 vs. 又 ── -->
+    <span class="section-anchor" id="youzai"></span>
+    <div class="section-head">
+      <span class="sh-cn">再 vs. 又</span>
+      <span class="sh-py">zài vs. yòu</span>
+      <span class="sh-en">The Core Distinction — Future vs. Past Repetition</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="再">
+      <div class="scholar-label">语法洞见 yǔfǎ dòngjiàn · The 再 / 又 Split</div>
+      <p>The distinction between <strong>再 zài</strong> and <strong>又 yòu</strong> is one of the most important and most frequently confused points in intermediate Chinese grammar. Both mean "again" — but they operate in different time frames, and using one where the other belongs produces consistently unnatural Chinese.</p>
+      <p><strong>再 zài</strong>: future or hypothetical repetition. An action that will happen again, that is requested to happen again, or that would happen again in a hypothetical scenario. The repetition is anticipated, not yet done. 明天再来 (come again tomorrow — future). 再说一遍 (say it one more time — request for future action).</p>
+      <p><strong>又 yòu</strong>: past repetition, or repetition that has already occurred. An action that has already happened again — often with an undertone of surprise, annoyance, or inevitability. 他又迟到了 (He was late again — it happened, and probably you're not surprised). 又下雨了 (It's raining again — already happening). The emotional coloring of 又 is frequently negative or resigned, though not always.</p>
+    </div>
+
+    <div class="cards">
+
+      <div class="card c-v">
+        <div class="card-head">
+          <span class="card-cn">又 (for contrast)</span>
+          <span class="card-py">yòu</span>
+          <span class="card-en">again (past/completed repetition; often with emotional coloring)</span>
+        </div>
+        <div class="tags"><span class="tag tag-adj">Adv 副词 fùcí</span></div>
+        <div class="card-def">
+          又 marks repetition that has occurred — something that has happened again, often repeatedly. Common context: narrating past events in sequence; noting frustrating patterns; describing alternating states (有时…有时). 又 also marks additional qualities: 又聪明又漂亮 (both smart and pretty — the 又…又 double pattern). This double-又 construction is a natural and common way to list two simultaneous attributes positively.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">他昨天又没来。（又 — it already happened）</div>
+            <div class="ex-py">Tā zuótiān yòu méi lái.</div>
+            <div class="ex-en">He didn't show up again yesterday. <em>[past — it already happened, again]</em></div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">这道菜又香又辣，太好吃了。</div>
+            <div class="ex-py">Zhè dào cài yòu xiāng yòu là, tài hǎochī le.</div>
+            <div class="ex-en">This dish is both fragrant and spicy — absolutely delicious. <em>[又…又 double attribute]</em></div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">外面又开始下雨了。</div>
+            <div class="ex-py">Wàimiàn yòu kāishǐ xià yǔ le.</div>
+            <div class="ex-en">It's started raining again outside. <em>[already happening, annoyed tone]</em></div>
+          </div>
+        </div>
+        <div class="note">
+          <span class="note-label">辨析 biànxī · The Decision Rule</span>
+          Ask: has the repetition happened yet? <strong>已经发生了 → 又</strong>. <strong>还没发生 / 请求 → 再</strong>. 你又来了 (You're back again — past arrival, you're here now). 你再来一次 (Come again — request for future action). Swapping them: 你再来了 sounds like a playful future tense at best; 你又来一次 is ungrammatical in the request sense.
+        </div>
+      </div>
+
+    </div><!-- /cards youzai -->
+
+    <!-- ── AND THEN ── -->
+    <span class="section-anchor" id="then"></span>
+    <div class="section-head">
+      <span class="sh-cn">然后</span>
+      <span class="sh-py">ránhòu</span>
+      <span class="sh-en">And Then — Sequential Use</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="cards">
+
+      <div class="card c-v">
+        <div class="card-head">
+          <span class="card-cn">再 (sequential)</span>
+          <span class="card-py">zài</span>
+          <span class="card-en">and then; next; after that (sequencing future steps)</span>
+        </div>
+        <div class="tags"><span class="tag tag-adj">Adv 副词 fùcí</span></div>
+        <div class="card-def">
+          再 also sequences future steps: "first do A, then (再) do B." The logic is the same as the repetition use — B hasn't happened yet; it comes after A. This is especially common in instructions, recipes, directions, and plans: 先…再… (first…then…). 先预热烤箱，再放入食材。(First preheat the oven, then put in the ingredients.) The first step must complete before 再 can initiate the second.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">先完成作业，再去玩儿。</div>
+            <div class="ex-py">Xiān wánchéng zuòyè, zài qù wánr.</div>
+            <div class="ex-en">Finish your homework first, then go play.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">这件事先放一放，等我忙完了再说。</div>
+            <div class="ex-py">Zhè jiàn shì xiān fàng yī fàng, děng wǒ máng wán le zài shuō.</div>
+            <div class="ex-en">Let's set this aside for now — we'll talk about it after I'm less busy.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">你先去洗手，再来吃饭。</div>
+            <div class="ex-py">Nǐ xiān qù xǐ shǒu, zài lái chī fàn.</div>
+            <div class="ex-en">Go wash your hands first, then come eat.</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-v">
+        <div class="card-head">
+          <span class="card-cn">再说</span>
+          <span class="card-py">zàishuō</span>
+          <span class="card-en">we'll talk about it later; let's deal with it when the time comes; moreover (discourse marker)</span>
+        </div>
+        <div class="tags"><span class="tag tag-adj">Adv 副词 fùcí</span></div>
+        <div class="card-def">
+          再 (later; further) + 说 (to speak; to deal with). Multiple uses: (1) Deferral: 这件事以后再说 (We'll deal with this later — let's not now). Very common for postponing a conversation or decision. (2) Discourse marker meaning "moreover; besides": 再说，我也没空 (Besides, I'm not free either). The deferral use is extremely frequent in spoken Chinese and can signal anything from genuine postponement to polite avoidance.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">先吃饭，别的事情以后再说。</div>
+            <div class="ex-py">Xiān chī fàn, biéde shìqing yǐhòu zàishuō.</div>
+            <div class="ex-en">Let's eat first — everything else can wait.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">这件事太贵了，再说我也不确定要不要买。</div>
+            <div class="ex-py">Zhè jiàn shì tài guì le, zàishuō wǒ yě bù quèdìng yào bu yào mǎi.</div>
+            <div class="ex-en">It's too expensive — besides, I'm not sure I even want to buy it.</div>
+          </div>
+        </div>
+      </div>
+
+    </div><!-- /cards then -->
+
+    <!-- ── EMPHATIC NEVER AGAIN ── -->
+    <span class="section-anchor" id="emphatic"></span>
+    <div class="section-head">
+      <span class="sh-cn">再也</span>
+      <span class="sh-py">zài yě</span>
+      <span class="sh-en">再也 — Emphatic Never Again</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="cards">
+
+      <div class="card c-v">
+        <div class="card-head">
+          <span class="card-cn">再也不 / 再也没</span>
+          <span class="card-py">zài yě bù / zài yě méi</span>
+          <span class="card-en">never again; not any more (emphatic negation of repetition)</span>
+        </div>
+        <div class="tags"><span class="tag tag-adj">Adv 副词 fùcí</span></div>
+        <div class="card-def">
+          再 (again) + 也 yě (also; even) + 不/没 (not). The emphatic "never again" pattern. 再也不 + verb: a strong declaration that something will not happen again (future). 再也没 + verb: that something has not happened since (past). 我再也不去那家餐厅了 (I'm never going to that restaurant again). 他再也没有联系过我 (He never contacted me again after that). The 也 intensifies — "even again would not."
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">我再也不相信他说的话了。</div>
+            <div class="ex-py">Wǒ zài yě bù xiāngxìn tā shuō de huà le.</div>
+            <div class="ex-en">I'll never believe another word he says.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">自从那次吵架后，她再也没有来过。</div>
+            <div class="ex-py">Zìcóng nà cì chǎojià hòu, tā zài yě méiyǒu lái guò.</div>
+            <div class="ex-en">After that argument, she never came again.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">下次再也不犯同样的错误了。</div>
+            <div class="ex-py">Xià cì zài yě bù fàn tóngyàng de cuòwù le.</div>
+            <div class="ex-en">Next time I'll never make the same mistake again.</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-adj">
+        <div class="card-head">
+          <span class="card-cn">再…也…</span>
+          <span class="card-py">zài…yě…</span>
+          <span class="card-en">no matter how [adj/adv]; even if [more]</span>
+        </div>
+        <div class="tags"><span class="tag tag-adj">构式 gòushì · Construction</span></div>
+        <div class="card-def">
+          再 + adjective/adverb + 也 (+ negative verb). A concessive construction: "no matter how [degree], still [result]." 再忙也要吃饭 (No matter how busy you are, you still need to eat). 再难也要坚持 (No matter how hard it is, keep going). The 再 pushes the degree to its maximum; the 也 holds the conclusion firm regardless. A natural and frequent pattern in motivational, persuasive, and philosophical speech.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">再累也不能放弃。</div>
+            <div class="ex-py">Zài lèi yě bù néng fàngqì.</div>
+            <div class="ex-en">No matter how tired you are, you can't give up.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">这道题再难，我也要解出来。</div>
+            <div class="ex-py">Zhè dào tí zài nán, wǒ yě yào jiě chū lái.</div>
+            <div class="ex-en">No matter how hard this problem is, I'm going to solve it.</div>
+          </div>
+        </div>
+      </div>
+
+    </div><!-- /cards emphatic -->
+
+    <!-- ── TABLE ── -->
+    <span class="section-anchor" id="table"></span>
+    <div class="section-head">
+      <span class="sh-cn">表格</span>
+      <span class="sh-py">biǎogé</span>
+      <span class="sh-en">再 vs. 又 — Reference Table</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="table-wrap">
+      <table>
+        <thead>
+          <tr>
+            <th>特征 Feature</th>
+            <th>再 zài</th>
+            <th>又 yòu</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="td-cn">时态 Tense</td>
+            <td>Future / hypothetical / requested</td>
+            <td>Past / completed / already happened</td>
+          </tr>
+          <tr>
+            <td class="td-cn">例句 Example</td>
+            <td>再来一次。<span class="td-small td-py-sm">Come one more time.</span></td>
+            <td>他又来了。<span class="td-small td-py-sm">He came again.</span></td>
+          </tr>
+          <tr>
+            <td class="td-cn">语气 Tone</td>
+            <td>Neutral (request, plan, hope)</td>
+            <td>Often resigned, surprised, or annoyed</td>
+          </tr>
+          <tr>
+            <td class="td-cn">顺序 Sequential</td>
+            <td>先…再…(first…then…) for future steps</td>
+            <td>又…又…(both…and…) for simultaneous qualities</td>
+          </tr>
+          <tr>
+            <td class="td-cn">强调 Emphatic</td>
+            <td>再也不/没 → never again (future/past)</td>
+            <td>又一次 → once again (completed)</td>
+          </tr>
+          <tr>
+            <td class="td-cn">搭配 Collocation</td>
+            <td>再见 (goodbye) · 再说 (later; moreover)</td>
+            <td>又聪明又漂亮 (both smart and pretty)</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <!-- ── CHENGYU ── -->
+    <span class="section-anchor" id="chengyu"></span>
+    <div class="section-head">
+      <span class="sh-cn">成语</span>
+      <span class="sh-py">chéngyǔ</span>
+      <span class="sh-en">Idioms &amp; Set Phrases</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="chengyu-grid">
+
+      <div class="cy">
+        <span class="cy-cn">一而再，再而三</span>
+        <span class="cy-py">yī ér zài, zài ér sān</span>
+        <span class="cy-en">once, then again, then a third time — time after time; repeatedly</span>
+        <span class="cy-note">The fullest expression of Chinese repetition idiomatics. 一而再 (once to twice), 再而三 (twice to three times) — the escalating structure conveys frustration or persistence. Almost always used with a negative coloring: someone has done something they shouldn't have, repeatedly. 他一而再，再而三地失约，让人很失望。"He kept breaking his promises, time after time — it's so disappointing."</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">再接再厉</span>
+        <span class="cy-py">zài jiē zài lì</span>
+        <span class="cy-en">to make further efforts; to keep working hard; to do even better next time</span>
+        <span class="cy-note">再接 (take it up again) + 再厉 (sharpen again; work harder again). Used as encouragement after success or after failure: "keep it up" or "do even better." Common in school settings, performance reviews, and sports. 你这次考得很好，希望你再接再厉。"You did well this time — I hope you'll keep up the good work." One of the most frequently written phrases in Chinese teacher feedback.</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">死而复生，再世为人</span>
+        <span class="cy-py">sǐ ér fù shēng, zài shì wéi rén</span>
+        <span class="cy-en">to die and come back to life; to be reborn into the world</span>
+        <span class="cy-note">再世 (again-in-the-world) is the classical expression for reincarnation or miraculous revival. Used both literally (near-death recovery) and figuratively (total transformation of a situation or person). 再世英雄 (a hero reborn in a new era). The 再 here carries the full weight of its original meaning: to be again in a new form, a second time in the world.</span>
+      </div>
+
+    </div>
+
+    <!-- ── ADJACENT VOCAB ── -->
+    <span class="section-anchor" id="adjacent"></span>
+    <div class="section-head">
+      <span class="sh-cn">相邻词汇</span>
+      <span class="sh-py">xiānglín cíhuì</span>
+      <span class="sh-en">Adjacent Vocabulary</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="adj-wrap">
+      <span class="adj"><span class="a-cn">又</span><span class="a-py">yòu</span><span class="a-en">again (past); both…and…</span></span>
+      <span class="adj"><span class="a-cn">再见</span><span class="a-py">zàijiàn</span><span class="a-en">goodbye (lit. see again)</span></span>
+      <span class="adj"><span class="a-cn">再说</span><span class="a-py">zàishuō</span><span class="a-en">deal with it later; moreover</span></span>
+      <span class="adj"><span class="a-cn">再次</span><span class="a-py">zàicì</span><span class="a-en">once again; once more (formal)</span></span>
+      <span class="adj"><span class="a-cn">再也</span><span class="a-py">zài yě</span><span class="a-en">never again (with negation)</span></span>
+      <span class="adj"><span class="a-cn">先…再…</span><span class="a-py">xiān…zài…</span><span class="a-en">first…then…</span></span>
+      <span class="adj"><span class="a-cn">还</span><span class="a-py">hái</span><span class="a-en">still; also; even more</span></span>
+      <span class="adj"><span class="a-cn">仍然</span><span class="a-py">réngrán</span><span class="a-en">still; nevertheless</span></span>
+      <span class="adj"><span class="a-cn">继续</span><span class="a-py">jìxù</span><span class="a-en">to continue; to keep on</span></span>
+      <span class="adj"><span class="a-cn">另外</span><span class="a-py">lìngwài</span><span class="a-en">in addition; furthermore</span></span>
+      <span class="adj"><span class="a-cn">重新</span><span class="a-py">chóngxīn</span><span class="a-en">anew; all over again from the beginning</span></span>
+      <span class="adj"><span class="a-cn">还是</span><span class="a-py">háishi</span><span class="a-en">still; in the end; or (in questions)</span></span>
+    </div>
+
+    <div class="scholar" data-glyph="再">
+      <div class="scholar-label">记忆法 jìyìfǎ · Master Retention Image</div>
+      <p>Picture a net cast into water, pulled up with fish — then cast again. That is <strong>再 zài</strong>: the second cast, the one that has not yet happened. The fish caught before are in the past; 再 is the moment of throwing the net again into the open water ahead.</p>
+      <p>This is the 再/又 split in one image: 又 is the fish already in the boat (happened, completed, done again); 再 is the net leaving the hand for the next cast (not yet, requested, anticipated). The net is always moving forward — 再见, goodbye, is "until the next cast." 再也不 is "I'm putting the net down and not picking it up." 先…再 is "finish pulling in this net first, then throw it again."</p>
+    </div>
+
+    <footer class="page-footer">
+      <span class="footer-id">Field Notes on Chinese · <span>再 zài</span> · zai4_再.html</span>
+      <a href="../../index.html" class="footer-back">← All Entries</a>
+    </footer>
+
+  </main>
+</div>
