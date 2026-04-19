@@ -373,6 +373,22 @@ else { window.__enhanceInit = true; (function () {
     });
   }
 
+  // ── Share button ──────────────────────────────────────────────────────────
+  document.addEventListener('click', function (e) {
+    const btn = e.target.closest('[data-share]');
+    if (!btn) return;
+    const data = { title: document.title, url: location.href };
+    if (navigator.share) {
+      navigator.share(data).catch(function () {});
+    } else {
+      navigator.clipboard.writeText(location.href).then(function () {
+        const orig = btn.textContent;
+        btn.textContent = '✓ Copied';
+        setTimeout(function () { btn.textContent = orig; }, 2000);
+      }).catch(function () {});
+    }
+  });
+
   // ── Random entry (topnav button) ──────────────────────────────────────────
   const randomBtns = document.querySelectorAll('[data-random-entry]');
   if (randomBtns.length) {

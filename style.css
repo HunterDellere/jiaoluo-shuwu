@@ -961,13 +961,51 @@ a.adj:focus-visible { outline: none; border-color: var(--ochre); box-shadow: 0 0
   border-radius: 20px;
   background: var(--papyrus-2);
   transition: color 0.15s, border-color 0.15s, background 0.15s;
-  grid-column: 1 / -1; grid-row: 3;
+  grid-column: 1 / -1;
   justify-self: center;
   margin-top: 0.5rem;
   display: inline-block;
 }
 .footer-errata:hover { color: var(--red); border-color: var(--red); background: var(--papyrus-3); }
 .footer-errata:focus-visible { outline: none; border-color: var(--ochre); box-shadow: 0 0 0 2px rgba(160,100,40,0.3); color: var(--red); }
+
+/* ── SUPPORT STRIP ───────────────────────────────────────── */
+.support-strip {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1.25rem;
+  padding: 0.75rem 1.5rem;
+  border-top: 1px solid var(--rule);
+  background: var(--papyrus-2);
+}
+.support-kofi {
+  font-family: var(--font-mono);
+  font-size: 0.68rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--ink-4);
+  text-decoration: none;
+  transition: color 0.15s;
+}
+.support-kofi:hover { color: var(--red); }
+.support-kofi:focus-visible { outline: 2px solid var(--ochre); outline-offset: 3px; border-radius: 2px; color: var(--red); }
+.share-btn {
+  font-family: var(--font-mono);
+  font-size: 0.68rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--ink-4);
+  background: none;
+  border: 1px solid var(--rule);
+  border-radius: 20px;
+  padding: 0.22rem 0.8rem;
+  cursor: pointer;
+  transition: color 0.15s, border-color 0.15s;
+  line-height: 1.6;
+}
+.share-btn:hover { color: var(--red); border-color: var(--red); }
+.share-btn:focus-visible { outline: 2px solid var(--ochre); outline-offset: 3px; border-radius: 20px; }
 
 /* ── ANIMATIONS ──────────────────────────────────────────── */
 @keyframes fadeUp {

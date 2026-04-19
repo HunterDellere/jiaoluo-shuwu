@@ -655,6 +655,10 @@
         <a href="https://github.com/HunterDellere/chinese-field-guide/issues/new?template=content-request.yml&title=Request%3A%20" target="_blank" rel="noopener">Suggest a topic on GitHub</a>
       </div>
       <div>
+        <div class="label">Support</div>
+        <a href="https://ko-fi.com/hdellere" target="_blank" rel="noopener">Buy me a coffee on Ko-fi</a>
+      </div>
+      <div>
         <div class="label">License</div>
         Content CC&nbsp;BY-SA&nbsp;4.0 · Code MIT
       </div>
@@ -668,7 +672,28 @@
 
 </main>
 
+<div class="support-strip">
+  <a href="https://ko-fi.com/hdellere" class="support-kofi" target="_blank" rel="noopener">☕ Support on Ko-fi</a>
+  <button class="share-btn" data-share>↗ Share</button>
+</div>
+
 <script src="scripts/homepage.js"></script>
+<script>
+document.addEventListener('click', function (e) {
+  var btn = e.target.closest('[data-share]');
+  if (!btn) return;
+  var data = { title: document.title, url: location.href };
+  if (navigator.share) {
+    navigator.share(data).catch(function () {});
+  } else {
+    navigator.clipboard.writeText(location.href).then(function () {
+      var orig = btn.textContent;
+      btn.textContent = '✓ Copied';
+      setTimeout(function () { btn.textContent = orig; }, 2000);
+    }).catch(function () {});
+  }
+});
+</script>
 
 </body>
 </html>
