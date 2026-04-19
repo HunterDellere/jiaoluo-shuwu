@@ -939,9 +939,21 @@ a.adj:focus-visible { outline: none; border-color: var(--ochre); box-shadow: 0 0
   display: flex;
   flex-wrap: wrap;
   align-items: center;
+  justify-content: space-between;
+  gap: 0.75rem 1.5rem;
+  margin-bottom: 1.4rem;
+}
+.page-footer-links {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
   gap: 0.4rem 1.4rem;
-  margin-bottom: 1.3rem;
-  row-gap: 0.6rem;
+}
+.page-footer-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.6rem;
 }
 .pf-link {
   color: var(--ink-3);
@@ -955,15 +967,15 @@ a.adj:focus-visible { outline: none; border-color: var(--ochre); box-shadow: 0 0
 }
 .pf-link:hover { color: var(--red); border-bottom-color: var(--red); }
 .pf-link:focus-visible { outline: 2px solid var(--ochre); outline-offset: 3px; border-radius: 2px; color: var(--red); }
-.pf-spacer { flex: 1; min-width: 0; }
 
-/* pf-btn: shared look for donate + share.
-   Minimal modern: sentence case, flat fills, no box-shadows, subtle borders. */
+/* pf-btn: shared look for the footer donate + share buttons. Matches
+   the homepage hero CTAs so the button system reads the same top-to-bottom:
+   pf-btn-donate == hero-cta-primary, pf-btn-share == hero-cta-secondary. */
 .pf-btn {
-  display: inline-flex; align-items: center; gap: 0.45rem;
-  padding: 0.5rem 0.95rem;
+  display: inline-flex; align-items: center; gap: 0.4rem;
+  padding: 0.65rem 1.3rem;
   font-family: var(--font-body);
-  font-size: 0.9rem;
+  font-size: 0.95rem;
   font-weight: 500;
   letter-spacing: 0;
   text-transform: none;
@@ -974,6 +986,7 @@ a.adj:focus-visible { outline: none; border-color: var(--ochre); box-shadow: 0 0
   line-height: 1.2;
   white-space: nowrap;
   transition: background 0.15s, color 0.15s, border-color 0.15s;
+  min-height: 42px;
 }
 .pf-btn-donate {
   background: var(--red);
@@ -994,7 +1007,7 @@ a.adj:focus-visible { outline: none; border-color: var(--ochre); box-shadow: 0 0
 .pf-btn-share:hover { background: var(--papyrus-2); color: var(--ink); border-color: var(--ochre); }
 .pf-btn-share.copied { color: var(--red); border-color: var(--red); background: transparent; }
 .pf-btn-share:focus-visible { outline: 2px solid var(--ochre); outline-offset: 3px; }
-.pf-btn-icon { flex-shrink: 0; opacity: 0.7; color: currentColor; }
+.pf-btn-icon { flex-shrink: 0; opacity: 0.75; color: currentColor; }
 .pf-btn-share:hover .pf-btn-icon,
 .pf-btn-share.copied .pf-btn-icon { opacity: 1; }
 
@@ -1017,8 +1030,8 @@ a.adj:focus-visible { outline: none; border-color: var(--ochre); box-shadow: 0 0
 .footer-back:hover { color: var(--red); }
 .footer-back:focus-visible { outline: 2px solid var(--ochre); outline-offset: 3px; border-radius: 2px; color: var(--red); }
 @media (max-width: 620px) {
-  .page-footer-actions { gap: 0.3rem 1rem; row-gap: 0.4rem; }
-  .pf-spacer { display: none; }
+  .page-footer-actions { gap: 1rem; flex-direction: column; align-items: stretch; }
+  .page-footer-buttons { width: 100%; }
   .pf-btn { flex: 1; justify-content: center; }
   .page-footer-row { flex-direction: column; gap: 0.55rem; align-items: flex-start; }
 }

@@ -475,10 +475,19 @@
     }
 
     // ── category groups ────────────────────────────────────────────────────────
-    const LS_KEY = "cfg.collapsed.v2";
+    // Default UX: everything collapsed so the homepage reads as a tight index.
+    // The LS key is bumped to v3 so returning users also pick up the new default
+    // on their next visit, and their own collapse/expand choices are remembered
+    // from that point forward.
+    const LS_KEY = "cfg.collapsed.v3";
+    const DEFAULT_COLLAPSED = new Set(CAT_ORDER);
     function loadCollapsed() {
-      try { return new Set(JSON.parse(localStorage.getItem(LS_KEY)) || []); }
-      catch { return new Set(); }
+      const raw = localStorage.getItem(LS_KEY);
+      if (raw === null) return new Set(DEFAULT_COLLAPSED);
+      try {
+        const parsed = JSON.parse(raw);
+        return Array.isArray(parsed) ? new Set(parsed) : new Set(DEFAULT_COLLAPSED);
+      } catch { return new Set(DEFAULT_COLLAPSED); }
     }
     function saveCollapsed(set) {
       try { localStorage.setItem(LS_KEY, JSON.stringify([...set])); } catch {}
