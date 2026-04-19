@@ -819,6 +819,8 @@ h1, h2, h3, .section-head { text-wrap: balance; }
   border: 1px solid var(--rule);
   border-radius: var(--radius-lg);
   margin-bottom: 0.5rem;
+  container-type: inline-size;
+  container-name: tbl;
 }
 table { width: 100%; border-collapse: collapse; font-size: 0.85rem; }
 thead th {
@@ -838,25 +840,58 @@ tbody tr:last-child td { border-bottom: none; }
 tbody tr:hover td { background: var(--papyrus-2); }
 .td-cn { font-family: var(--font-cn); font-size: 1.15rem; font-weight: 700; color: var(--red); white-space: nowrap; }
 .td-py { font-family: var(--font-mono); font-size: 0.76rem; color: var(--ochre); white-space: nowrap; }
+
+/* Stack table rows vertically when the table's actual container is too
+   narrow for four columns. Using @container instead of @media catches
+   the case where a desktop viewport still has a sidebar narrowing the
+   content area (e.g. ~580px content at 820px viewport). The visual
+   styling on .td-cn / .td-py keeps each cell legible without the thead. */
+@container tbl (max-width: 620px) {
+  .table-wrap { overflow-x: visible; }
+  table, thead, tbody, tr, th, td { display: block; width: auto; }
+  thead { display: none; }
+  tbody tr {
+    padding: 0.85rem 1rem;
+    border-bottom: 1px solid var(--rule-2);
+  }
+  tbody tr:last-child { border-bottom: none; }
+  tbody td {
+    padding: 0.1rem 0;
+    border: none;
+    line-height: 1.55;
+    white-space: normal;
+  }
+  .td-cn { font-size: 1.2rem; padding-bottom: 0.05rem; white-space: normal; }
+  .td-py { font-size: 0.78rem; padding-bottom: 0.25rem; white-space: normal; }
+}
 .td-small { font-size: 0.76rem; color: var(--ink-5); display: block; margin-top: 0.2rem; }
 .td-py-sm { font-family: var(--font-mono); color: var(--ochre); font-size: 0.7rem; }
 
 /* ── CHENGYU ─────────────────────────────────────────────── */
 .chengyu-grid { display: flex; flex-direction: column; gap: 0.7rem; }
+/* Vertical stack at every viewport: idiom → pinyin → gloss → note. The
+   old `auto 1fr` grid kept the idiom on the left and stacked the rest in
+   a narrow right column, which squashed long pinyin like
+   "fàngxià túdāo, lìdì chéng fó" any time the content area was tight
+   (mobile, but also desktop with the sidebar in play). Stacking always
+   gives each row the full card width. */
 .cy {
   background: var(--papyrus-2);
   border: 1px solid var(--rule);
   border-radius: var(--radius);
-  padding: 0.9rem 1.1rem;
-  display: grid;
-  grid-template-columns: auto 1fr;
-  gap: 0.1rem 1.1rem;
-  align-items: start;
+  padding: 0.95rem 1.1rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.2rem;
 }
-.cy-cn { font-family: var(--font-cn); font-size: 1.3rem; font-weight: 700; color: var(--red); grid-row: 1 / 4; padding-top: 0.15rem; letter-spacing: 0.08em; line-height: 1.2; }
+.cy-cn {
+  font-family: var(--font-cn); font-size: 1.3rem; font-weight: 700;
+  color: var(--red); letter-spacing: 0.08em; line-height: 1.2;
+  margin-bottom: 0.15rem;
+}
 .cy-py { font-family: var(--font-mono); font-size: 0.73rem; color: var(--ochre); line-height: 1.3; }
 .cy-en { font-size: 0.88rem; color: var(--ink-2); font-style: italic; }
-.cy-note { font-size: 0.78rem; color: var(--ink-4); line-height: 1.55; }
+.cy-note { font-size: 0.78rem; color: var(--ink-4); line-height: 1.55; margin-top: 0.25rem; }
 
 /* ── SOURCES BLOCK ───────────────────────────────────────── */
 .sources {
@@ -1352,21 +1387,6 @@ a.pf-btn-share:focus-visible, button.pf-btn-share:focus-visible {
   .card-en { margin-left: 0; }
   .scholar { padding: 1.1rem 1.2rem 2.7rem; }
   .scholar::after { width: 2.1rem; height: 2.1rem; font-size: 1.2rem; right: 0.8rem; bottom: 0.7rem; }
-  /* Chengyu cards — on narrow viewports the two-column grid (idiom on the
-     left, pinyin/gloss/note stacked on the right) squashes long pinyin
-     and gloss text into a thin ribbon. Collapse to a single column so
-     each row gets full width. */
-  .cy {
-    grid-template-columns: 1fr;
-    gap: 0.3rem 0;
-    padding: 0.95rem 1.05rem;
-  }
-  .cy-cn {
-    grid-row: auto;
-    padding-top: 0;
-    margin-bottom: 0.15rem;
-    font-size: 1.2rem;
-  }
   .topnav { padding: 0.25rem 0.75rem; }
   /* Topnav on mobile: brand shortened visually + tighter right-side gap */
   .topnav-right { gap: 0.7rem; }
