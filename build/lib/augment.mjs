@@ -79,6 +79,17 @@ export function addErrataLink(body, fm, slug, category) {
   );
 }
 
+export function addContentRequestLink(body) {
+  if (!body.includes('class="footer-back"')) return body;
+  const title = encodeURIComponent('Request: ');
+  const url = `https://github.com/HunterDellere/chinese-field-guide/issues/new?template=content-request.yml&title=${title}`;
+  const link = `<a class="footer-errata" href="${url}" target="_blank" rel="noopener noreferrer">Request an entry →</a>`;
+  return body.replace(
+    /<a([^>]*?)class="footer-back"/,
+    `${link}\n      <a$1class="footer-back"`
+  );
+}
+
 export function injectStrokeOrder(body, fm) {
   if (fm.type !== 'character' || !fm.char) return body;
   if (!body.includes('</header>')) return body;

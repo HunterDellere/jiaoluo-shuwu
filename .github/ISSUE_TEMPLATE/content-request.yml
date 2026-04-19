@@ -1,0 +1,57 @@
+name: Content Request
+description: Request a new entry — character, word, grammar point, topic, or anything else about Chinese language or civilisation.
+title: "Request: "
+labels: ["content-request"]
+body:
+  - type: input
+    id: topic
+    attributes:
+      label: Topic
+      description: The character, word, phrase, or subject you'd like covered.
+      placeholder: "e.g. 茶 (chá), measure words, the Song dynasty, Confucian ritual"
+    validations:
+      required: true
+
+  - type: input
+    id: chinese
+    attributes:
+      label: Chinese (if applicable)
+      description: The Chinese character(s) or term, if known.
+      placeholder: "e.g. 茶"
+
+  - type: dropdown
+    id: category
+    attributes:
+      label: Suggested category
+      description: Best guess — the author may adjust.
+      options:
+        - characters
+        - vocab
+        - grammar
+        - chengyu
+        - philosophy
+        - religion
+        - history
+        - geography
+        - culture
+        - arts
+        - culinary
+        - daily
+        - not sure
+    validations:
+      required: true
+
+  - type: textarea
+    id: why
+    attributes:
+      label: Why is this interesting?
+      description: What drew you to this topic? Any specific angle, context, or question you'd like addressed.
+      placeholder: "I kept seeing 茶 in contexts that didn't just mean tea..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: sources
+    attributes:
+      label: Sources or references (optional)
+      description: Anything you've already read — books, articles, videos — that could inform the entry.

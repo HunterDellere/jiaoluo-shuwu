@@ -16,7 +16,7 @@ import matter from 'gray-matter';
 import { validateEntry } from './lib/validate.mjs';
 import { buildSearchIndex } from './lib/search-index.mjs';
 import { buildRelations, buildAdjacency, renderRelatedHtml, renderAdjacencyHtml } from './lib/relations.mjs';
-import { injectStrokeOrder, buildLinkMap, autoLinkBody, addPinyinAudio, addErrataLink, renderSourcesHtml, fixTocToggles } from './lib/augment.mjs';
+import { injectStrokeOrder, buildLinkMap, autoLinkBody, addPinyinAudio, addErrataLink, addContentRequestLink, renderSourcesHtml, fixTocToggles } from './lib/augment.mjs';
 import { renderOgSvg, categoryFaviconDataUri } from './lib/og.mjs';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
@@ -237,8 +237,9 @@ for (const { fm, body, slug, category, outDir, entry } of pending) {
       augmentedBody = autoLinkBody(augmentedBody, linkMap, entry);
       if (augmentedBody.length !== beforeLen) autoLinkCount++;
 
-      // 3.5 Errata link in footer
+      // 3.5 Errata + content request links in footer
       augmentedBody = addErrataLink(augmentedBody, fm, slug, category);
+      augmentedBody = addContentRequestLink(augmentedBody);
 
       // 4. Sources + related entries + prev/next at the bottom
       const sourcesHtml = renderSourcesHtml(fm);
