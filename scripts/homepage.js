@@ -219,6 +219,7 @@
             <span class="start-here-body">
               <span class="start-here-title">${escapeHtml(titleEn)}</span>
               <span class="start-here-py">${escapeHtml(e.pinyin || "")}</span>
+              ${e.desc ? `<span class="start-here-desc">${escapeHtml(e.desc)}</span>` : ""}
             </span>
           `;
           li.appendChild(a);
