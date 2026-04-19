@@ -37,6 +37,7 @@
   --font-body:  'Cormorant Garamond', 'Noto Serif SC', 'PingFang SC', 'Songti SC', 'Hiragino Sans GB', 'Microsoft YaHei', Georgia, serif;
   --font-cn:    'Noto Serif SC', 'PingFang SC', 'Songti SC', 'Hiragino Sans GB', 'Microsoft YaHei', serif;
   --font-mono:  'Inconsolata', ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace;
+  --font-ui:    system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'PingFang SC', 'Noto Sans CJK SC', sans-serif;
 
   --sidebar-w:  220px;
   --radius:     4px;
@@ -968,18 +969,25 @@ a.adj:focus-visible { outline: none; border-color: var(--ochre); box-shadow: 0 0
 .pf-link:hover { color: var(--red); border-bottom-color: var(--red); }
 .pf-link:focus-visible { outline: 2px solid var(--ochre); outline-offset: 3px; border-radius: 2px; color: var(--red); }
 
-/* pf-btn: shared look for the footer donate + share buttons. Matches
+/* pf-btn: shared look for the footer donate + share buttons. Mirrors
    the homepage hero CTAs so the button system reads the same top-to-bottom:
-   pf-btn-donate == hero-cta-primary, pf-btn-share == hero-cta-secondary. */
-.pf-btn {
-  display: inline-flex; align-items: center; gap: 0.4rem;
+   pf-btn-donate == hero-cta-primary (red fill);
+   pf-btn-share  == hero-cta-secondary (transparent + border).
+   Selectors are element-qualified (a.pf-btn / button.pf-btn) so the rules
+   outrank any generic anchor styling that lands later in the cascade. */
+a.pf-btn, button.pf-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.45rem;
   padding: 0.65rem 1.3rem;
-  font-family: var(--font-body);
-  font-size: 0.95rem;
+  font-family: var(--font-ui);
+  font-size: 0.9rem;
   font-weight: 500;
-  letter-spacing: 0;
+  letter-spacing: 0.005em;
   text-transform: none;
   text-decoration: none;
+  color: inherit;
   cursor: pointer;
   border: 1px solid transparent;
   border-radius: 6px;
@@ -987,26 +995,38 @@ a.adj:focus-visible { outline: none; border-color: var(--ochre); box-shadow: 0 0
   white-space: nowrap;
   transition: background 0.15s, color 0.15s, border-color 0.15s;
   min-height: 42px;
+  appearance: none;
+  -webkit-appearance: none;
 }
-.pf-btn-donate {
+a.pf-btn-donate, button.pf-btn-donate {
   background: var(--red);
   color: var(--papyrus);
   border-color: var(--red);
 }
-.pf-btn-donate:hover { background: var(--red-2); border-color: var(--red-2); color: var(--papyrus); }
-.pf-btn-donate:focus-visible { outline: 2px solid var(--ochre-2); outline-offset: 3px; }
+a.pf-btn-donate:hover, button.pf-btn-donate:hover {
+  background: var(--red-2); border-color: var(--red-2); color: var(--papyrus);
+}
+a.pf-btn-donate:focus-visible, button.pf-btn-donate:focus-visible {
+  outline: 2px solid var(--ochre-2); outline-offset: 3px;
+}
 .pf-btn-donate .pf-btn-cn-inline {
   font-family: var(--font-cn); font-weight: 600;
-  margin: 0 0.05rem; color: var(--papyrus);
+  margin: 0 0.1rem; color: var(--papyrus);
 }
-.pf-btn-share {
+a.pf-btn-share, button.pf-btn-share {
   background: transparent;
   color: var(--ink-3);
   border-color: var(--rule);
 }
-.pf-btn-share:hover { background: var(--papyrus-2); color: var(--ink); border-color: var(--ochre); }
-.pf-btn-share.copied { color: var(--red); border-color: var(--red); background: transparent; }
-.pf-btn-share:focus-visible { outline: 2px solid var(--ochre); outline-offset: 3px; }
+a.pf-btn-share:hover, button.pf-btn-share:hover {
+  background: var(--papyrus-2); color: var(--ink); border-color: var(--ochre);
+}
+a.pf-btn-share.copied, button.pf-btn-share.copied {
+  color: var(--red); border-color: var(--red); background: transparent;
+}
+a.pf-btn-share:focus-visible, button.pf-btn-share:focus-visible {
+  outline: 2px solid var(--ochre); outline-offset: 3px;
+}
 .pf-btn-icon { flex-shrink: 0; opacity: 0.75; color: currentColor; }
 .pf-btn-share:hover .pf-btn-icon,
 .pf-btn-share.copied .pf-btn-icon { opacity: 1; }
