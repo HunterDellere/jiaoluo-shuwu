@@ -3,10 +3,10 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Shūwū · 書屋 — Notes on Chinese characters, grammar, philosophy, and culture</title>
+<title>Shūwū · 書屋 — A reading corner for the Chinese language and civilisation</title>
 
 <!-- SEO -->
-<meta name="description" content="A scholar's field guide to the Chinese language and civilisation: 137 in-depth entries on characters (hanzi), vocabulary, grammar, philosophy, history, food, tea, and culture. Free, browsable, and written for curious readers.">
+<meta name="description" content="A small reading corner for the Chinese language and civilisation — characters, vocabulary, grammar, philosophy, history, food, tea, and culture. Free, browsable, written to be lingered over.">
 <meta name="author" content="Hunter Dellere">
 <meta name="keywords" content="Chinese language, Mandarin, hanzi, Chinese characters, HSK, Chinese culture, Chinese philosophy, Chinese history, Chinese grammar, learn Chinese, chengyu, Daoism, Confucianism, Chan Buddhism, Tang poetry">
 <meta name="robots" content="index, follow, max-image-preview:large">
@@ -20,18 +20,18 @@
 
 <!-- Open Graph -->
 <meta property="og:type" content="website">
-<meta property="og:title" content="Shūwū · 書屋 — Brush notes on Chinese">
-<meta property="og:description" content="In-depth entries on Chinese characters, vocabulary, grammar, philosophy, history, food, and culture — written for curious readers who want the story behind the stroke.">
+<meta property="og:title" content="Shūwū · 書屋 — A reading corner for Chinese">
+<meta property="og:description" content="A cozy reading corner for the Chinese language and civilisation — characters, vocabulary, grammar, philosophy, history, food, tea, and culture.">
 <meta property="og:url" content="https://hunterdellere.github.io/chinese-field-guide/">
 <meta property="og:image" content="https://hunterdellere.github.io/chinese-field-guide/assets/og-image.svg">
-<meta property="og:image:alt" content="Shūwū · 書屋 — a scholar's field guide to Chinese language and civilisation">
+<meta property="og:image:alt" content="Shūwū · 書屋 — a reading corner for Chinese language and civilisation">
 <meta property="og:locale" content="en_US">
 <meta property="og:site_name" content="Shūwū · 書屋">
 
 <!-- Twitter -->
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Shūwū · 書屋 — Brush notes on Chinese">
-<meta name="twitter:description" content="Characters, philosophy, history, food, and tea — a scholar's field guide to the Chinese language and civilisation.">
+<meta name="twitter:title" content="Shūwū · 書屋 — A reading corner for Chinese">
+<meta name="twitter:description" content="Characters, philosophy, history, food, and tea — a reading corner for the Chinese language and civilisation.">
 <meta name="twitter:image" content="https://hunterdellere.github.io/chinese-field-guide/assets/og-image.svg">
 
 <!-- JSON-LD: WebSite + search action -->
@@ -40,9 +40,9 @@
   "@context": "https://schema.org",
   "@type": "WebSite",
   "name": "Shūwū · 書屋",
-  "alternateName": "Chinese Field Guide",
+  "alternateName": "A Reading Corner for Chinese",
   "url": "https://hunterdellere.github.io/chinese-field-guide/",
-  "description": "A scholar's field guide to the Chinese language and civilisation — characters, vocabulary, grammar, philosophy, history, food, tea, and culture.",
+  "description": "A small reading corner — 角落書屋 — for the Chinese language and civilisation. Characters, vocabulary, grammar, philosophy, history, food, tea, and culture.",
   "inLanguage": ["en", "zh-Hans"],
   "author": { "@type": "Person", "name": "Hunter Dellere", "url": "https://github.com/HunterDellere" },
   "license": "https://creativecommons.org/licenses/by-sa/4.0/",
@@ -89,7 +89,7 @@
     {
       "@type": "Question",
       "name": "What is Shūwū · 書屋?",
-      "acceptedAnswer": { "@type": "Answer", "text": "Shūwū (書屋, literally 'book room') is a free, browsable field guide to the Chinese language and civilisation. Each entry focuses on one character, word, grammar pattern, or cultural topic, written for curious readers who want the story behind the stroke." }
+      "acceptedAnswer": { "@type": "Answer", "text": "Shūwū (書屋, literally 'book room') is a small reading corner for the Chinese language and civilisation — free and browsable. Each entry is one character, word, grammar pattern, or cultural topic, written to be lingered over rather than drilled." }
     },
     {
       "@type": "Question",
@@ -104,7 +104,7 @@
     {
       "@type": "Question",
       "name": "Where should a first-time visitor start?",
-      "acceptedAnswer": { "@type": "Answer", "text": "The ‘Start here’ section on the homepage is an opinionated tour of the whole — twelve entries across characters, grammar, philosophy, food, and culture. A weekly ‘Featured’ focus also surfaces a single theme and its related entries." }
+      "acceptedAnswer": { "@type": "Answer", "text": "The ‘Quick Start’ section on the homepage is an opinionated tour of the whole — twelve entries across characters, grammar, philosophy, food, and culture. A weekly ‘On the table this week’ focus also surfaces a single theme and its related entries." }
     },
     {
       "@type": "Question",
@@ -123,10 +123,38 @@
 <link rel="apple-touch-icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 180 180'><rect width='180' height='180' rx='32' fill='%238b1a1a'/><rect x='12' y='12' width='156' height='156' rx='22' fill='none' stroke='%23f2e8d5' stroke-width='3' stroke-opacity='0.55'/><text x='90' y='94' text-anchor='middle' dominant-baseline='central' font-family='Noto Serif SC, serif' font-size='118' font-weight='700' fill='%23f2e8d5'>書</text></svg>">
 <link rel="stylesheet" href="style.css">
 <style>
-  .index-shell { max-width: 1080px; margin: 0 auto; padding: 3.5rem 2rem 5rem; }
+  .index-shell {
+    max-width: 1080px; margin: 0 auto; padding: 3.5rem 2rem 5rem;
+    position: relative;
+  }
+  /* Cozy lantern glow at the very top of the page */
+  .index-shell::before {
+    content: '';
+    position: absolute;
+    top: -2rem; left: 50%;
+    transform: translateX(-50%);
+    width: min(900px, 90%); height: 320px;
+    background:
+      radial-gradient(ellipse at center, rgba(160,100,40,0.10) 0%, rgba(139,26,26,0.05) 35%, transparent 70%);
+    pointer-events: none;
+    z-index: 0;
+  }
+  .index-shell > * { position: relative; z-index: 1; }
   /* Scroll targets land below the sticky nav, not under it. */
   .index-shell section[id],
-  .index-shell [id^="cat-"] { scroll-margin-top: calc(var(--nav-h) + 1rem); }
+  .index-shell [id^="cat-"] { scroll-margin-top: calc(var(--nav-h) + 1.25rem); }
+
+  /* Smooth-scrolled targets get a brief warm flash so readers can locate them */
+  @keyframes anchorFlash {
+    0%   { box-shadow: 0 0 0 0 rgba(160,100,40,0); }
+    20%  { box-shadow: 0 0 0 6px rgba(160,100,40,0.18); background-color: rgba(160,100,40,0.06); }
+    100% { box-shadow: 0 0 0 0 rgba(160,100,40,0); }
+  }
+  .index-shell :target,
+  .anchor-flash {
+    animation: anchorFlash 1.4s ease-out;
+    border-radius: var(--radius-lg);
+  }
 
   .index-hero {
     text-align: center;
@@ -135,11 +163,33 @@
     position: relative;
     animation: fadeUp 0.7s ease both;
   }
-  .index-hero::after {
-    content: '· · · · ·';
-    position: absolute; bottom: 0; left: 50%; transform: translateX(-50%);
-    font-family: var(--font-mono); font-size: 0.7rem; color: var(--ochre);
-    opacity: 0.45; letter-spacing: 0.5em; white-space: nowrap;
+  .hero-ornament {
+    display: block;
+    width: 240px; height: 18px;
+    margin: 1.6rem auto 0;
+    color: var(--ochre);
+  }
+
+  /* Brush-stroke divider between top sections */
+  .section-divider {
+    display: block;
+    margin: 1rem auto 2.6rem;
+    text-align: center;
+    color: var(--ochre);
+  }
+  .section-divider svg {
+    width: min(320px, 60%); height: 14px; display: inline-block;
+  }
+
+  /* Eyebrow accent — small inkbrush dot before the eyebrow text */
+  .eb-mark {
+    display: inline-block;
+    width: 0.45rem; height: 0.45rem;
+    border-radius: 50%;
+    background: var(--ochre);
+    margin-right: 0.5rem;
+    vertical-align: 0.05em;
+    box-shadow: 0 0 0 2px rgba(160,100,40,0.18);
   }
   .index-hero-glyph {
     font-family: var(--font-cn); font-size: 5.5rem; color: var(--papyrus);
@@ -201,35 +251,55 @@
 
   .section-eyebrow {
     font-family: var(--font-mono); font-size: 0.66rem; letter-spacing: 0.22em; text-transform: uppercase;
-    color: var(--ochre); margin: 0 0 0.45rem; font-weight: 500;
-    border-left: 2px solid var(--ochre); padding-left: 0.6rem;
+    color: var(--ochre); margin: 0 0 0.5rem; font-weight: 500;
+    display: inline-flex; align-items: center;
+    padding-left: 0;
+    border: none;
   }
   .section-title {
     font-family: var(--font-body); font-size: 1.7rem; font-weight: 600; color: var(--ink);
-    margin: 0 0 0.35rem; letter-spacing: -0.01em; text-wrap: balance;
+    margin: 0 0 0.4rem; letter-spacing: -0.01em; text-wrap: balance;
+    position: relative;
+  }
+  .section-title::after {
+    content: '';
+    display: block;
+    width: 38px; height: 2px;
+    margin-top: 0.55rem;
+    background: linear-gradient(90deg, var(--ochre) 0%, rgba(160,100,40,0.15) 100%);
+    border-radius: 2px;
   }
   .section-sub {
-    font-size: 1rem; color: var(--ink-4); font-style: italic; margin: 0 0 1.75rem; max-width: 640px; line-height: 1.55; text-wrap: pretty;
+    font-size: 1rem; color: var(--ink-4); font-style: italic; margin: 0.5rem 0 1.75rem; max-width: 640px; line-height: 1.55; text-wrap: pretty;
   }
 
-  /* ── Featured this week ───────────────────────────────────── */
-  .featured-section { margin-bottom: 4rem; display: none; }
+  /* ── On the table this week — top of page lead theme ──────── */
+  .featured-section { margin-bottom: 1rem; display: none; }
   .featured-section.visible { display: block; animation: fadeUp 0.6s ease both; }
   .featured-card {
-    background: linear-gradient(135deg, var(--papyrus-2) 0%, var(--papyrus-3) 100%);
+    background:
+      radial-gradient(ellipse 60% 100% at 100% 0%, rgba(139,26,26,0.06) 0%, transparent 55%),
+      linear-gradient(135deg, var(--papyrus-2) 0%, var(--papyrus-3) 100%);
     border: 1px solid var(--rule); border-left: 4px solid var(--red);
-    border-radius: var(--radius-lg);
-    padding: 1.6rem 1.75rem 1.5rem;
-    display: grid; grid-template-columns: auto 1fr; gap: 1.4rem;
+    border-radius: 10px;
+    padding: 1.9rem 2rem 1.75rem;
+    display: grid; grid-template-columns: auto 1fr; gap: 1.6rem;
     align-items: start;
-    box-shadow: 0 2px 8px rgba(28,18,8,0.06);
+    box-shadow: 0 1px 0 rgba(28,18,8,0.04), 0 12px 28px rgba(28,18,8,0.08);
     position: relative; overflow: hidden;
+  }
+  .featured-card::before {
+    /* subtle warm "shelf-light" wash from the top */
+    content: '';
+    position: absolute; inset: 0;
+    background: linear-gradient(180deg, rgba(255,240,210,0.18) 0%, transparent 35%);
+    pointer-events: none;
   }
   .featured-card::after {
     content: attr(data-watermark);
-    position: absolute; right: -0.5rem; bottom: -2rem;
-    font-family: var(--font-cn); font-size: 10rem; font-weight: 700;
-    color: var(--red); opacity: 0.04; line-height: 1; pointer-events: none;
+    position: absolute; right: -0.7rem; bottom: -2.4rem;
+    font-family: var(--font-cn); font-size: 11rem; font-weight: 700;
+    color: var(--red); opacity: 0.05; line-height: 1; pointer-events: none;
     letter-spacing: -0.05em;
   }
   .featured-week {
@@ -352,27 +422,59 @@
   }
 
   .overview-section { margin-bottom: 4rem; }
+  .overview-stack { display: flex; flex-direction: column; gap: 1.6rem; }
+  .overview-shelf {
+    background: var(--papyrus-2);
+    border: 1px solid var(--rule);
+    border-radius: 10px;
+    padding: 1.3rem 1.4rem 1.4rem;
+    position: relative;
+    box-shadow: 0 1px 0 rgba(28,18,8,0.04), 0 6px 18px rgba(28,18,8,0.04);
+  }
+  .overview-shelf::before {
+    /* the wood-grain sliver at the bottom that suggests a bookshelf plank */
+    content: '';
+    position: absolute;
+    left: 1.4rem; right: 1.4rem; bottom: 0.6rem; height: 2px;
+    background: linear-gradient(90deg, transparent 0%, rgba(160,100,40,0.35) 25%, rgba(160,100,40,0.45) 50%, rgba(160,100,40,0.35) 75%, transparent 100%);
+    border-radius: 2px;
+    opacity: 0.35;
+  }
+  .overview-shelf-head {
+    display: flex; align-items: baseline; gap: 0.6rem;
+    margin-bottom: 0.85rem;
+    padding-bottom: 0.65rem;
+    border-bottom: 1px dashed var(--rule-2);
+  }
+  .overview-shelf-cn {
+    font-family: var(--font-cn); font-size: 1.1rem; font-weight: 700;
+    color: var(--ink-2); letter-spacing: 0.04em;
+  }
+  .overview-shelf-py { font-family: var(--font-mono); font-size: 0.72rem; color: var(--ochre); letter-spacing: 0.06em; }
+  .overview-shelf-en { font-family: var(--font-body); font-size: 1rem; font-weight: 600; color: var(--ink); }
+  .overview-shelf-desc { font-size: 0.85rem; color: var(--ink-4); font-style: italic; margin-left: auto; text-align: right; max-width: 60%; line-height: 1.45; }
   .overview-grid {
-    display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.9rem;
+    display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.7rem;
   }
   .overview-cell {
-    background: var(--papyrus-2); border: 1px solid var(--rule); border-radius: var(--radius-lg);
-    padding: 1.1rem 1.2rem; text-decoration: none; color: var(--ink-2);
+    background: var(--papyrus); border: 1px solid var(--rule-2); border-radius: 8px;
+    padding: 0.95rem 1.05rem; text-decoration: none; color: var(--ink-2);
     transition: background 0.15s, border-color 0.15s, transform 0.15s, box-shadow 0.15s;
-    display: flex; gap: 0.95rem; align-items: flex-start;
-    min-height: 92px;
+    display: flex; gap: 0.8rem; align-items: flex-start;
+    min-height: 86px; position: relative;
+    border-left: 3px solid var(--rule);
   }
-  .overview-cell:hover { background: var(--papyrus-3); border-color: rgba(139,26,26,0.3); transform: translateY(-2px); box-shadow: 0 3px 8px rgba(28,18,8,0.06); }
+  .overview-cell:hover { background: var(--papyrus-2); transform: translateY(-2px); box-shadow: 0 3px 8px rgba(28,18,8,0.06); }
   .overview-cell:focus-visible { outline: none; border-color: var(--ochre); box-shadow: 0 0 0 2px rgba(160,100,40,0.25); }
   .overview-glyph {
-    font-family: var(--font-cn); font-size: 2rem; font-weight: 700; line-height: 1; color: var(--red);
+    font-family: var(--font-cn); font-size: 1.95rem; font-weight: 700; line-height: 1; color: var(--red);
     flex-shrink: 0; min-width: 2.4rem; text-shadow: 1px 1px 0 rgba(139,26,26,0.12);
     letter-spacing: 0.02em;
   }
   .overview-body { display: flex; flex-direction: column; gap: 0.15rem; min-width: 0; }
-  .overview-name { font-size: 0.95rem; font-weight: 600; color: var(--ink); }
+  .overview-name { font-size: 0.93rem; font-weight: 600; color: var(--ink); }
   .overview-py { font-family: var(--font-mono); font-size: 0.7rem; color: var(--ochre); }
-  .overview-desc { font-size: 0.82rem; color: var(--ink-4); font-style: italic; line-height: 1.45; margin-top: 0.25rem; text-wrap: pretty; }
+  .overview-desc { font-size: 0.8rem; color: var(--ink-4); font-style: italic; line-height: 1.45; margin-top: 0.25rem; text-wrap: pretty; }
   .overview-count { font-family: var(--font-mono); font-size: 0.6rem; color: var(--ink-5); letter-spacing: 0.12em; margin-top: 0.4rem; text-transform: uppercase; }
   .overview-count.empty { opacity: 0.5; }
 
@@ -692,6 +794,15 @@
 
   .colophon {
     margin-top: 5rem; padding-top: 2.5rem; border-top: 1px solid var(--rule);
+    text-align: left;
+  }
+  .colophon-ornament {
+    display: block;
+    width: 200px; height: 24px;
+    margin: -2.5rem auto 1.6rem;
+    color: var(--ochre);
+    background: var(--papyrus);
+    padding: 0 0.6rem;
   }
   .colophon-epigraph {
     font-family: var(--font-body); font-style: italic; font-size: 1.02rem;
@@ -702,7 +813,6 @@
   .colophon-main { font-size: 1rem; color: var(--ink-3); line-height: 1.7; text-wrap: pretty; margin-bottom: 2rem; max-width: 640px; }
   .colophon-main p { margin: 0 0 0.8rem; }
   .colophon-main p:last-child { margin-bottom: 0; }
-  .colophon-main .author-line { font-family: var(--font-body); font-size: 1.08rem; color: var(--ink); font-weight: 600; margin-bottom: 0.55rem; font-style: italic; }
   .colophon-actions {
     display: flex; flex-wrap: wrap; gap: 0.6rem;
     margin-bottom: 1.6rem;
@@ -743,20 +853,110 @@
   .recent-card[data-category="daily"]::before       { background: var(--cat-daily); }
   .recent-card[data-category="chengyu"]::before     { background: var(--cat-chengyu); }
 
-  /* Category-colored overview cell hover borders */
-  .overview-cell[data-category="characters"]:hover { border-color: rgba(139,26,26,0.4); }
-  .overview-cell[data-category="vocab"]:hover       { border-color: rgba(160,100,40,0.4); }
-  .overview-cell[data-category="grammar"]:hover     { border-color: rgba(26,80,80,0.4); }
-  .overview-cell[data-category="religion"]:hover    { border-color: rgba(92,61,122,0.4); }
-  .overview-cell[data-category="philosophy"]:hover  { border-color: rgba(58,92,58,0.4); }
-  .overview-cell[data-category="history"]:hover     { border-color: rgba(107,68,32,0.4); }
-  .overview-cell[data-category="geography"]:hover   { border-color: rgba(42,92,107,0.4); }
-  .overview-cell[data-category="culture"]:hover     { border-color: rgba(139,58,26,0.4); }
-  .overview-cell[data-category="culinary"]:hover    { border-color: rgba(122,74,16,0.4); }
-  .overview-cell[data-category="arts"]:hover        { border-color: rgba(74,40,120,0.4); }
-  .overview-cell[data-category="science"]:hover     { border-color: rgba(26,74,92,0.4); }
-  .overview-cell[data-category="daily"]:hover       { border-color: rgba(92,74,26,0.4); }
-  .overview-cell[data-category="chengyu"]:hover     { border-color: rgba(107,26,42,0.4); }
+  /* Category accent — left bar + glyph color on every overview cell.
+     Using border-left so the colour is always visible, not just on hover.
+     Glyph inherits from cell so we override per-category. */
+  .overview-cell[data-category="characters"] { border-left-color: var(--cat-characters); }
+  .overview-cell[data-category="vocab"]      { border-left-color: var(--cat-vocab); }
+  .overview-cell[data-category="grammar"]    { border-left-color: var(--cat-grammar); }
+  .overview-cell[data-category="religion"]   { border-left-color: var(--cat-religion); }
+  .overview-cell[data-category="philosophy"] { border-left-color: var(--cat-philosophy); }
+  .overview-cell[data-category="history"]    { border-left-color: var(--cat-history); }
+  .overview-cell[data-category="geography"]  { border-left-color: var(--cat-geography); }
+  .overview-cell[data-category="culture"]    { border-left-color: var(--cat-culture); }
+  .overview-cell[data-category="culinary"]   { border-left-color: var(--cat-culinary); }
+  .overview-cell[data-category="arts"]       { border-left-color: var(--cat-arts); }
+  .overview-cell[data-category="science"]    { border-left-color: var(--cat-science); }
+  .overview-cell[data-category="daily"]      { border-left-color: var(--cat-daily); }
+  .overview-cell[data-category="chengyu"]    { border-left-color: var(--cat-chengyu); }
+
+  .overview-cell[data-category="characters"]:hover { border-color: var(--cat-characters); }
+  .overview-cell[data-category="vocab"]:hover       { border-color: var(--cat-vocab); }
+  .overview-cell[data-category="grammar"]:hover     { border-color: var(--cat-grammar); }
+  .overview-cell[data-category="religion"]:hover    { border-color: var(--cat-religion); }
+  .overview-cell[data-category="philosophy"]:hover  { border-color: var(--cat-philosophy); }
+  .overview-cell[data-category="history"]:hover     { border-color: var(--cat-history); }
+  .overview-cell[data-category="geography"]:hover   { border-color: var(--cat-geography); }
+  .overview-cell[data-category="culture"]:hover     { border-color: var(--cat-culture); }
+  .overview-cell[data-category="culinary"]:hover    { border-color: var(--cat-culinary); }
+  .overview-cell[data-category="arts"]:hover        { border-color: var(--cat-arts); }
+  .overview-cell[data-category="science"]:hover     { border-color: var(--cat-science); }
+  .overview-cell[data-category="daily"]:hover       { border-color: var(--cat-daily); }
+  .overview-cell[data-category="chengyu"]:hover     { border-color: var(--cat-chengyu); }
+
+  /* Recent + browse entry cards: glyph picks up the category colour, replacing
+     the default red. Mirrors the How-to-Read legend so the type is clear at
+     a glance everywhere on the homepage. */
+  .recent-card[data-category="characters"] .recent-glyph,
+  .entry-card[data-category="characters"]  .entry-glyph { color: var(--cat-characters); text-shadow: 1px 1px 0 rgba(139,26,26,0.15); }
+  .recent-card[data-category="vocab"]      .recent-glyph,
+  .entry-card[data-category="vocab"]       .entry-glyph { color: var(--cat-vocab);      text-shadow: 1px 1px 0 rgba(160,100,40,0.15); }
+  .recent-card[data-category="grammar"]    .recent-glyph,
+  .entry-card[data-category="grammar"]     .entry-glyph { color: var(--cat-grammar);    text-shadow: 1px 1px 0 rgba(92,56,33,0.15); }
+  .recent-card[data-category="religion"]   .recent-glyph,
+  .entry-card[data-category="religion"]    .entry-glyph { color: var(--cat-religion);   text-shadow: 1px 1px 0 rgba(92,61,122,0.15); }
+  .recent-card[data-category="philosophy"] .recent-glyph,
+  .entry-card[data-category="philosophy"]  .entry-glyph { color: var(--cat-philosophy); text-shadow: 1px 1px 0 rgba(58,92,58,0.15); }
+  .recent-card[data-category="history"]    .recent-glyph,
+  .entry-card[data-category="history"]     .entry-glyph { color: var(--cat-history);    text-shadow: 1px 1px 0 rgba(107,68,32,0.15); }
+  .recent-card[data-category="geography"]  .recent-glyph,
+  .entry-card[data-category="geography"]   .entry-glyph { color: var(--cat-geography);  text-shadow: 1px 1px 0 rgba(42,92,107,0.15); }
+  .recent-card[data-category="culture"]    .recent-glyph,
+  .entry-card[data-category="culture"]     .entry-glyph { color: var(--cat-culture);    text-shadow: 1px 1px 0 rgba(142,74,110,0.15); }
+  .recent-card[data-category="culinary"]   .recent-glyph,
+  .entry-card[data-category="culinary"]    .entry-glyph { color: var(--cat-culinary);   text-shadow: 1px 1px 0 rgba(168,88,32,0.15); }
+  .recent-card[data-category="arts"]       .recent-glyph,
+  .entry-card[data-category="arts"]        .entry-glyph { color: var(--cat-arts);       text-shadow: 1px 1px 0 rgba(74,40,120,0.15); }
+  .recent-card[data-category="science"]    .recent-glyph,
+  .entry-card[data-category="science"]     .entry-glyph { color: var(--cat-science);    text-shadow: 1px 1px 0 rgba(26,74,92,0.15); }
+  .recent-card[data-category="daily"]      .recent-glyph,
+  .entry-card[data-category="daily"]       .entry-glyph { color: var(--cat-daily);      text-shadow: 1px 1px 0 rgba(122,96,36,0.15); }
+  .recent-card[data-category="chengyu"]    .recent-glyph,
+  .entry-card[data-category="chengyu"]     .entry-glyph { color: var(--cat-chengyu);    text-shadow: 1px 1px 0 rgba(107,26,42,0.15); }
+
+  /* Featured glyph block — soft tint by category so the lead theme inherits its
+     pillar's accent rather than always being cinnabar red. */
+  .featured-card[data-category="characters"] .featured-glyph { background: var(--cat-characters); box-shadow: 0 2px 0 rgba(139,26,26,0.35), 0 6px 14px rgba(139,26,26,0.18); }
+  .featured-card[data-category="vocab"]      .featured-glyph { background: var(--cat-vocab);      box-shadow: 0 2px 0 rgba(160,100,40,0.35), 0 6px 14px rgba(160,100,40,0.18); }
+  .featured-card[data-category="grammar"]    .featured-glyph { background: var(--cat-grammar);    box-shadow: 0 2px 0 rgba(92,56,33,0.35),   0 6px 14px rgba(92,56,33,0.18); }
+  .featured-card[data-category="religion"]   .featured-glyph { background: var(--cat-religion);   box-shadow: 0 2px 0 rgba(92,61,122,0.35),  0 6px 14px rgba(92,61,122,0.18); }
+  .featured-card[data-category="philosophy"] .featured-glyph { background: var(--cat-philosophy); box-shadow: 0 2px 0 rgba(58,92,58,0.35),   0 6px 14px rgba(58,92,58,0.18); }
+  .featured-card[data-category="history"]    .featured-glyph { background: var(--cat-history);    box-shadow: 0 2px 0 rgba(107,68,32,0.35),  0 6px 14px rgba(107,68,32,0.18); }
+  .featured-card[data-category="geography"]  .featured-glyph { background: var(--cat-geography);  box-shadow: 0 2px 0 rgba(42,92,107,0.35),  0 6px 14px rgba(42,92,107,0.18); }
+  .featured-card[data-category="culture"]    .featured-glyph { background: var(--cat-culture);    box-shadow: 0 2px 0 rgba(142,74,110,0.35), 0 6px 14px rgba(142,74,110,0.18); }
+  .featured-card[data-category="culinary"]   .featured-glyph { background: var(--cat-culinary);   box-shadow: 0 2px 0 rgba(168,88,32,0.35),  0 6px 14px rgba(168,88,32,0.18); }
+  .featured-card[data-category="arts"]       .featured-glyph { background: var(--cat-arts);       box-shadow: 0 2px 0 rgba(74,40,120,0.35),  0 6px 14px rgba(74,40,120,0.18); }
+  .featured-card[data-category="science"]    .featured-glyph { background: var(--cat-science);    box-shadow: 0 2px 0 rgba(26,74,92,0.35),   0 6px 14px rgba(26,74,92,0.18); }
+  .featured-card[data-category="daily"]      .featured-glyph { background: var(--cat-daily);      box-shadow: 0 2px 0 rgba(122,96,36,0.35),  0 6px 14px rgba(122,96,36,0.18); }
+  .featured-card[data-category="chengyu"]    .featured-glyph { background: var(--cat-chengyu);    box-shadow: 0 2px 0 rgba(107,26,42,0.35),  0 6px 14px rgba(107,26,42,0.18); }
+
+  /* Match the featured card's left rule + watermark to the lead category. */
+  .featured-card[data-category="characters"] { border-left-color: var(--cat-characters); }
+  .featured-card[data-category="characters"]::after { color: var(--cat-characters); }
+  .featured-card[data-category="vocab"]      { border-left-color: var(--cat-vocab); }
+  .featured-card[data-category="vocab"]::after      { color: var(--cat-vocab); }
+  .featured-card[data-category="grammar"]    { border-left-color: var(--cat-grammar); }
+  .featured-card[data-category="grammar"]::after    { color: var(--cat-grammar); }
+  .featured-card[data-category="religion"]   { border-left-color: var(--cat-religion); }
+  .featured-card[data-category="religion"]::after   { color: var(--cat-religion); }
+  .featured-card[data-category="philosophy"] { border-left-color: var(--cat-philosophy); }
+  .featured-card[data-category="philosophy"]::after { color: var(--cat-philosophy); }
+  .featured-card[data-category="history"]    { border-left-color: var(--cat-history); }
+  .featured-card[data-category="history"]::after    { color: var(--cat-history); }
+  .featured-card[data-category="geography"]  { border-left-color: var(--cat-geography); }
+  .featured-card[data-category="geography"]::after  { color: var(--cat-geography); }
+  .featured-card[data-category="culture"]    { border-left-color: var(--cat-culture); }
+  .featured-card[data-category="culture"]::after    { color: var(--cat-culture); }
+  .featured-card[data-category="culinary"]   { border-left-color: var(--cat-culinary); }
+  .featured-card[data-category="culinary"]::after   { color: var(--cat-culinary); }
+  .featured-card[data-category="arts"]       { border-left-color: var(--cat-arts); }
+  .featured-card[data-category="arts"]::after       { color: var(--cat-arts); }
+  .featured-card[data-category="science"]    { border-left-color: var(--cat-science); }
+  .featured-card[data-category="science"]::after    { color: var(--cat-science); }
+  .featured-card[data-category="daily"]      { border-left-color: var(--cat-daily); }
+  .featured-card[data-category="daily"]::after      { color: var(--cat-daily); }
+  .featured-card[data-category="chengyu"]    { border-left-color: var(--cat-chengyu); }
+  .featured-card[data-category="chengyu"]::after    { color: var(--cat-chengyu); }
 
   @media (max-width: 900px) {
     .start-here-list { grid-template-columns: repeat(3, 1fr); }
@@ -810,7 +1010,6 @@
   <div class="topnav-right">
     <a href="#" class="topnav-random" data-random-entry data-entries-base="" aria-label="Open a random entry"><span aria-hidden="true">⟳</span> Random</a>
     <a href="#browse" class="topnav-back" aria-label="Browse all entries">Browse</a>
-    <a href="https://github.com/HunterDellere/chinese-field-guide" target="_blank" rel="noopener" class="topnav-back" aria-label="Source on GitHub">GitHub</a>
   </div>
 </nav>
 <script src="scripts/enhance.js" defer></script>
@@ -821,50 +1020,62 @@
   <header class="index-hero">
     <span class="index-hero-glyph" aria-hidden="true">書</span>
     <div class="index-hero-eyebrow">
-      <span class="eyebrow-cn">書屋</span>
+      <span class="eyebrow-cn">角落書屋</span>
       <span class="eyebrow-sep">·</span>
-      <span class="eyebrow-py">Shūwū</span>
+      <span class="eyebrow-py">Jiǎoluò Shūwū</span>
     </div>
-    <h1 class="index-hero-title">Brush notes on the Chinese language and civilisation</h1>
-    <p class="index-hero-desc">A free field guide to Chinese characters, vocabulary, grammar, philosophy, history, food, and tea — written for curious readers who want the story behind the stroke.</p>
+    <h1 class="index-hero-title">A reading corner for the Chinese language and civilisation</h1>
+    <p class="index-hero-desc">Pull up a chair. A small bookshop in the corner of the internet — characters, vocabulary, grammar, philosophy, history, food, and tea, written to be lingered over.</p>
     <div class="hero-ctas">
       <a href="#browse" class="hero-cta hero-cta-primary">Browse all entries ↓</a>
-      <a href="#start-here" class="hero-cta hero-cta-secondary">Start here →</a>
+      <a href="#start-here" class="hero-cta hero-cta-secondary">Quick Start →</a>
     </div>
+    <svg class="hero-ornament" viewBox="0 0 240 18" aria-hidden="true" focusable="false">
+      <path d="M4 9 Q 60 1, 116 9 T 236 9" fill="none" stroke="currentColor" stroke-width="1.2" stroke-linecap="round" opacity="0.55"/>
+      <circle cx="120" cy="9" r="2.2" fill="currentColor" opacity="0.7"/>
+    </svg>
   </header>
 
   <div class="index-stats" id="stats"></div>
 
-  <!-- Overview — moved to top so new visitors see the scope of the guide first. -->
+  <!-- This week's reading — moved to the very top so the lead theme greets visitors first. -->
+  <section class="featured-section" id="featured" aria-labelledby="featured-heading">
+    <div class="section-eyebrow"><span class="eb-mark" aria-hidden="true"></span>本周 běnzhōu</div>
+    <h2 class="section-title" id="featured-heading">On the table this week</h2>
+    <p class="section-sub">A single theme in focus, plus a few related entries to follow the thread on a quiet afternoon.</p>
+    <article class="featured-card" id="featured-card" data-watermark=""></article>
+  </section>
+
+  <div class="section-divider" aria-hidden="true">
+    <svg viewBox="0 0 320 14" focusable="false">
+      <path d="M2 7 L130 7" stroke="currentColor" stroke-width="0.9" stroke-linecap="round" opacity="0.35"/>
+      <circle cx="160" cy="7" r="2.6" fill="currentColor" opacity="0.55"/>
+      <path d="M190 7 L318 7" stroke="currentColor" stroke-width="0.9" stroke-linecap="round" opacity="0.35"/>
+    </svg>
+  </div>
+
+  <!-- What's inside — overview of the whole guide. -->
   <section class="overview-section" id="overview">
-    <div class="section-eyebrow">概览 gàilǎn</div>
+    <div class="section-eyebrow"><span class="eb-mark" aria-hidden="true"></span>概览 gàilǎn</div>
     <h2 class="section-title">What's inside</h2>
-    <p class="section-sub" id="overview-sub">Sections that move from the building blocks of the language up through the civilisation that built it.</p>
-    <div class="overview-grid" id="overview-grid"></div>
+    <p class="section-sub" id="overview-sub">Two shelves: the building blocks of the language, and the civilisation that built it.</p>
+    <div class="overview-stack" id="overview-stack"></div>
   </section>
 
   <!-- Recently added — surfaces the latest work right near the top. -->
   <section class="recent-section" id="recent">
-    <div class="section-eyebrow">最近 zuìjìn</div>
-    <h2 class="section-title">Recently added</h2>
-    <p class="section-sub">Latest additions to the field guide.</p>
+    <div class="section-eyebrow"><span class="eb-mark" aria-hidden="true"></span>最近 zuìjìn</div>
+    <h2 class="section-title">Just shelved</h2>
+    <p class="section-sub">Newest additions to the corner bookshop.</p>
     <div class="recent-grid" id="recent-grid"></div>
-  </section>
-
-  <!-- Featured this week -->
-  <section class="featured-section" id="featured" aria-labelledby="featured-heading">
-    <div class="section-eyebrow">本周 běnzhōu</div>
-    <h2 class="section-title" id="featured-heading">Featured this week</h2>
-    <p class="section-sub">A single theme in focus for the week, with a few related entries to follow the thread.</p>
-    <article class="featured-card" id="featured-card" data-watermark=""></article>
   </section>
 
   <!-- How to read — compact legend, placed before Browse so readers know
        the entry format before they dive in. -->
   <section class="howto-section" id="howto">
-    <div class="section-eyebrow">说明 shuōmíng</div>
+    <div class="section-eyebrow"><span class="eb-mark" aria-hidden="true"></span>说明 shuōmíng</div>
     <h2 class="section-title">How to read</h2>
-    <p class="section-sub">Every entry is one of four types. Click a glyph to jump straight to that section.</p>
+    <p class="section-sub">Every entry is one of four kinds. The colour follows the kind throughout the site, so you always know what you're looking at.</p>
     <div class="howto-types">
       <a href="#cat-characters" class="howto-type" data-category="characters">
         <span class="howto-glyph">字</span>
@@ -904,9 +1115,9 @@
        a key element and not just another section to scroll past. -->
   <section class="browse-section" id="browse" aria-labelledby="browse-heading">
     <div class="browse-panel">
-      <div class="section-eyebrow">浏览 liúlǎn</div>
-      <h2 class="section-title" id="browse-heading">Browse all entries</h2>
-      <p class="section-sub">Search by character, pinyin, keyword, radical, or HSK level.</p>
+      <div class="section-eyebrow"><span class="eb-mark" aria-hidden="true"></span>浏览 liúlǎn</div>
+      <h2 class="section-title" id="browse-heading">The full shelf</h2>
+      <p class="section-sub">Search by character, pinyin, keyword, radical, or HSK level — or scroll the shelves below.</p>
 
       <div class="filter-bar filter-bar-hero" id="filter-bar">
         <div class="filter-search-wrap">
@@ -940,32 +1151,38 @@
     <div id="categories"></div>
   </section>
 
-  <!-- Start here — moved to the bottom as a curated closing tour for anyone
-       who scrolled all the way through. -->
+  <!-- Quick Start — curated tour for new readers, placed near the bottom
+       so it doubles as a closing recommendation. -->
   <section class="start-here-section" id="start-here">
-    <div class="section-eyebrow">入门 rùmén</div>
-    <h2 class="section-title">Start here</h2>
-    <p class="section-sub" id="start-here-sub">An opinionated tour of the whole — language, philosophy, culture, food. Read in order, or skip around.</p>
+    <div class="section-eyebrow"><span class="eb-mark" aria-hidden="true"></span>入门 rùmén</div>
+    <h2 class="section-title">Quick Start</h2>
+    <p class="section-sub" id="start-here-sub">A short tour of the whole shelf — language, philosophy, culture, food. Read in order, or wander.</p>
     <ol class="start-here-list" id="start-here-list"></ol>
   </section>
 
   <!-- Colophon -->
   <footer class="colophon">
-    <p class="colophon-epigraph">Every character is a door.</p>
+    <svg class="colophon-ornament" viewBox="0 0 200 24" aria-hidden="true" focusable="false">
+      <path d="M2 12 L78 12" stroke="currentColor" stroke-width="0.9" stroke-linecap="round" opacity="0.4"/>
+      <g transform="translate(100,12)">
+        <circle r="6.5" fill="none" stroke="currentColor" stroke-width="0.9" opacity="0.55"/>
+        <text y="3" text-anchor="middle" font-family="Noto Serif SC, serif" font-size="9" fill="currentColor" opacity="0.75">屋</text>
+      </g>
+      <path d="M122 12 L198 12" stroke="currentColor" stroke-width="0.9" stroke-linecap="round" opacity="0.4"/>
+    </svg>
+    <p class="colophon-epigraph">Every character is a door. The bookshop stays open.</p>
     <div class="colophon-main">
-      <p class="author-line">Written by Hunter Dellere.</p>
-      <p>An ongoing personal study of the Chinese language and the civilisation that gave rise to it. Kept public so other curious readers can browse along.</p>
-      <p>Sources include Outlier Linguistic Solutions, Wenlin, Pleco, the Hanyu Da Cidian, and classical primary texts where applicable. Errors and idiosyncratic readings are mine.</p>
+      <p>Shūwū — 角落書屋, the corner bookshop — is a small, slow-built reading room for the Chinese language and the civilisation that gave rise to it. Kept open so other curious readers can pull up a chair and follow a thread for an afternoon.</p>
+      <p>Each entry is written to be lingered over, not drilled. Sources include Outlier Linguistic Solutions, Wenlin, Pleco, the Hanyu Da Cidian, and classical primary texts where applicable.</p>
     </div>
     <div class="colophon-actions page-footer-buttons">
-      <a class="pf-btn pf-btn-donate" href="https://ko-fi.com/hdellere" target="_blank" rel="noopener" aria-label="Donate — buy me a tea">Donate to buy me a <span class="pf-btn-cn-inline">茶</span></a>
+      <a class="pf-btn pf-btn-donate" href="https://ko-fi.com/hdellere" target="_blank" rel="noopener" aria-label="Donate — buy me a tea">Buy the bookshop a pot of <span class="pf-btn-cn-inline">茶</span></a>
       <button type="button" class="pf-btn pf-btn-share" data-share aria-label="Share this page">
         <svg class="pf-btn-icon" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M4 12v7a1 1 0 0 0 1 1h14a1 1 0 0 0 1-1v-7"/><polyline points="16 6 12 2 8 6"/><line x1="12" y1="2" x2="12" y2="15"/></svg>
         <span data-share-label>Share</span>
       </button>
     </div>
     <ul class="colophon-links">
-      <li><a href="https://github.com/HunterDellere/chinese-field-guide" target="_blank" rel="noopener">Repository</a></li>
       <li><a href="https://github.com/HunterDellere/chinese-field-guide/issues/new?labels=correction" target="_blank" rel="noopener">Corrections</a></li>
       <li><a href="https://github.com/HunterDellere/chinese-field-guide/issues/new?template=content-request.yml&title=Request%3A%20" target="_blank" rel="noopener">Request an entry</a></li>
       <li><a href="feed.xml">RSS feed</a></li>

@@ -15,12 +15,18 @@
     chengyu:    { cn: "成语", py: "chéngyǔ",  en: "Chengyu",            color: "var(--cat-chengyu)",    desc: "Four-character idioms. Compressed wisdom from classical texts." }
   };
 
+  // Reading order on the homepage. Within "The Civilisation" we move from
+  // thought (philosophy → religion) to past (history → geography) to expression
+  // (arts) and on to lived life (culture, culinary, daily) and the natural
+  // sciences. This reads more like a guided tour than the older alphabetical
+  // mash-up.
   const CAT_ORDER = [
     "characters","vocab","grammar","chengyu",
-    "religion","philosophy",
+    "philosophy","religion",
     "history","geography",
-    "culture","culinary",
-    "arts","science","daily"
+    "arts",
+    "culture","culinary","daily",
+    "science"
   ];
 
   const TODAY = new Date().toISOString().slice(0, 10);
@@ -341,6 +347,7 @@
         : theme.title;
 
       card.dataset.watermark = glyphChar || "";
+      if (lead.category) card.dataset.category = lead.category;
       card.innerHTML = `
         <a class="featured-glyph${glyphSize}" href="${lead.path}" aria-label="${escapeHtml(theme.title)} — open ${escapeHtml(leadTitleEn)}">${escapeHtml(glyphChar)}</a>
         <div class="featured-body">
@@ -375,7 +382,7 @@
         // or any entry becomes unavailable.
         const sub = document.getElementById("start-here-sub");
         if (sub) {
-          sub.textContent = `${numWord(items.length)} entries that give a sense of the whole — language, philosophy, culture, food. Read in order, or skip around.`;
+          sub.textContent = `${numWord(items.length)} entries that give a sense of the whole — language, philosophy, culture, food. Read in order, or wander.`;
         }
         items.forEach(e => {
           const li = document.createElement("li");
@@ -403,30 +410,56 @@
       }
     }
 
-    // ── overview grid ──────────────────────────────────────────────────────────
-    const overviewGrid = document.getElementById("overview-grid");
+    // ── overview shelves ───────────────────────────────────────────────────────
+    // Two shelves: the building blocks of the language, and the civilisation
+    // that built it. Each shelf gets its own labelled header and its own grid
+    // of cells so the structure of the guide is visible at a glance.
+    const overviewStack = document.getElementById("overview-stack");
     const overviewSub = document.getElementById("overview-sub");
+    const LANGUAGE_KEYS = ["characters","vocab","grammar","chengyu"];
+    const CIVILISATION_KEYS = CAT_ORDER.filter(k => !LANGUAGE_KEYS.includes(k));
     if (overviewSub) {
-      overviewSub.textContent = `${numWord(CAT_ORDER.length)} sections that move from the building blocks of the language up through the civilisation that built it.`;
+      const langCount = LANGUAGE_KEYS.reduce((n, k) => n + (groups[k] ? groups[k].length : 0), 0);
+      const civCount  = CIVILISATION_KEYS.reduce((n, k) => n + (groups[k] ? groups[k].length : 0), 0);
+      overviewSub.textContent = `Two shelves: ${langCount} entries on the building blocks of the language, ${civCount} on the civilisation that built it.`;
     }
-    CAT_ORDER.forEach(key => {
-      const meta = CATEGORY_META[key];
-      const count = groups[key].length;
-      const cell = document.createElement(count > 0 ? "a" : "div");
-      if (count > 0) cell.href = "#cat-" + key;
-      cell.className = "overview-cell";
-      cell.dataset.category = key;
-      cell.innerHTML = `
-        <span class="overview-glyph" style="color:${meta.color}">${meta.cn}</span>
-        <div class="overview-body">
-          <span class="overview-name">${meta.en}</span>
-          <span class="overview-py">${meta.py}</span>
-          <span class="overview-desc">${meta.desc}</span>
-          <span class="overview-count ${count === 0 ? "empty" : ""}">${count > 0 ? count + (count === 1 ? " entry" : " entries") : "in progress"}</span>
+    function renderShelf(label, keys) {
+      const shelf = document.createElement("div");
+      shelf.className = "overview-shelf overview-shelf-" + label.kind;
+      shelf.innerHTML = `
+        <div class="overview-shelf-head">
+          <span class="overview-shelf-cn">${label.cn}</span>
+          <span class="overview-shelf-py">${label.py}</span>
+          <span class="overview-shelf-en">${label.en}</span>
+          <span class="overview-shelf-desc">${label.desc}</span>
         </div>
+        <div class="overview-grid"></div>
       `;
-      overviewGrid.appendChild(cell);
-    });
+      const grid = shelf.querySelector(".overview-grid");
+      keys.forEach(key => {
+        const meta = CATEGORY_META[key];
+        const count = groups[key].length;
+        const cell = document.createElement(count > 0 ? "a" : "div");
+        if (count > 0) cell.href = "#cat-" + key;
+        cell.className = "overview-cell";
+        cell.dataset.category = key;
+        cell.innerHTML = `
+          <span class="overview-glyph" style="color:${meta.color}">${meta.cn}</span>
+          <div class="overview-body">
+            <span class="overview-name">${meta.en}</span>
+            <span class="overview-py">${meta.py}</span>
+            <span class="overview-desc">${meta.desc}</span>
+            <span class="overview-count ${count === 0 ? "empty" : ""}">${count > 0 ? count + (count === 1 ? " entry" : " entries") : "in progress"}</span>
+          </div>
+        `;
+        grid.appendChild(cell);
+      });
+      overviewStack.appendChild(shelf);
+    }
+    renderShelf({ kind: "language",     cn: "语言", py: "yǔyán",  en: "The Language",
+                  desc: "Characters, words, grammar, idioms — the building blocks." }, LANGUAGE_KEYS);
+    renderShelf({ kind: "civilisation", cn: "文化", py: "wénhuà", en: "The Civilisation",
+                  desc: "Thought, history, art, food — what the language is used to say." }, CIVILISATION_KEYS);
 
     // ── recent grid ────────────────────────────────────────────────────────────
     const FALLBACK_DATE = "2020-01-01";
@@ -560,6 +593,7 @@
         const card = document.createElement("a");
         card.href = e.path;
         card.className = "entry-card";
+        if (e.category) card.dataset.category = e.category;
         card.tabIndex = -1;
         grid.appendChild(card);
         cardEls.push(card);
@@ -651,6 +685,56 @@
       headEl.setAttribute("aria-expanded", shouldCollapse ? "false" : "true");
       if (shouldCollapse) collapsedSet.add(key); else collapsedSet.delete(key);
       saveCollapsed(collapsedSet);
+    }
+
+    // ── Anchor link UX ────────────────────────────────────────────────────────
+    // Whenever a same-page link points to #cat-XYZ (or any section), expand the
+    // matching category, then smooth-scroll to it with a brief warm flash so
+    // the reader's eye lands in the right place. Without this, clicking a
+    // "What's inside" cell jumped to a collapsed group with no visible context.
+    function flashSection(el) {
+      if (!el) return;
+      el.classList.remove("anchor-flash");
+      // restart animation
+      void el.offsetWidth;
+      el.classList.add("anchor-flash");
+      window.setTimeout(() => el.classList.remove("anchor-flash"), 1500);
+    }
+    function jumpToHash(hash) {
+      if (!hash || hash.length < 2) return false;
+      const id = hash.slice(1);
+      const target = document.getElementById(id);
+      if (!target) return false;
+      // If it's a category group, make sure it is expanded
+      const catKey = id.startsWith("cat-") ? id.slice(4) : null;
+      if (catKey && catGroupMap[catKey]) {
+        const g = catGroupMap[catKey];
+        toggleCategory(catKey, g.groupEl, g.headEl, true);
+      }
+      // Use rAF so any newly-expanded grid has a chance to lay out before we
+      // measure scroll position.
+      requestAnimationFrame(() => {
+        target.scrollIntoView({ behavior: "smooth", block: "start" });
+        flashSection(target);
+      });
+      return true;
+    }
+    document.addEventListener("click", function (e) {
+      const a = e.target.closest('a[href^="#"]');
+      if (!a) return;
+      const href = a.getAttribute("href");
+      if (!href || href === "#") return;
+      // Only intercept in-page links
+      if (a.origin && a.origin !== window.location.origin) return;
+      if (a.pathname && a.pathname !== window.location.pathname) return;
+      if (jumpToHash(href)) {
+        e.preventDefault();
+        try { history.replaceState(null, "", href); } catch (_) {}
+      }
+    });
+    // Honour an initial #hash on load (e.g. a deep link to a category)
+    if (window.location.hash) {
+      window.setTimeout(() => jumpToHash(window.location.hash), 60);
     }
 
     document.getElementById("expand-all").addEventListener("click", () => {
