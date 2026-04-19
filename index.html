@@ -403,70 +403,109 @@
   .recent-title { font-size: 0.94rem; font-weight: 600; color: var(--ink-2); display: block; margin-bottom: 0.35rem; line-height: 1.35; }
   .recent-meta { font-family: var(--font-mono); font-size: 0.62rem; color: var(--ink-5); letter-spacing: 0.06em; display: block; }
 
-  .filter-bar {
-    display: flex; align-items: center; gap: 0.75rem; flex-wrap: wrap;
-    background: var(--papyrus-2); border: 1px solid var(--rule);
-    border-radius: var(--radius-lg); padding: 0.65rem 1rem;
-    margin-bottom: 1.5rem;
-    position: sticky; top: calc(var(--nav-h) + 8px); z-index: 10;
-    box-shadow: 0 2px 8px rgba(28,18,8,0.06);
+  /* ── Browse panel — the site's main search surface. Framed so it reads
+        as a key element and not just another section. ─────────────────── */
+  .browse-section { margin-bottom: 4rem; scroll-margin-top: calc(var(--nav-h) + 1rem); }
+  .browse-panel {
+    background: var(--papyrus-2);
+    border: 1px solid var(--rule);
+    border-radius: var(--radius-lg);
+    padding: 2rem 2rem 1.5rem;
+    margin-bottom: 2.25rem;
+    position: relative;
+    box-shadow: 0 1px 0 rgba(28,18,8,0.03), 0 6px 24px rgba(28,18,8,0.04);
   }
-  .filter-search-wrap { position: relative; flex: 1; min-width: 200px; }
+  .browse-panel .section-eyebrow { margin-top: 0; }
+  .browse-panel .section-sub { margin-bottom: 1.4rem; }
+
+  .filter-bar {
+    display: flex; align-items: center; gap: 0.65rem;
+    background: var(--papyrus);
+    border: 1px solid var(--rule);
+    border-radius: 8px;
+    padding: 0.3rem 0.6rem 0.3rem 0.9rem;
+    transition: border-color 0.15s, box-shadow 0.15s;
+  }
+  .filter-bar-hero { padding: 0.45rem 0.7rem 0.45rem 1rem; }
+  .filter-bar:focus-within { border-color: var(--ochre); box-shadow: 0 0 0 3px rgba(160,100,40,0.12); }
+  .filter-search-icon { color: var(--ink-5); flex-shrink: 0; }
+  .filter-bar:focus-within .filter-search-icon { color: var(--ochre); }
+  .filter-search-wrap {
+    position: relative; flex: 1; min-width: 0;
+    display: flex; align-items: center; gap: 0.6rem;
+  }
   .filter-search {
-    width: 100%; box-sizing: border-box;
-    background: var(--papyrus); border: 1px solid var(--rule);
-    border-radius: var(--radius); padding: 0.6rem 2.2rem 0.6rem 0.85rem;
-    font-family: var(--font-mono); font-size: 0.85rem; color: var(--ink);
-    letter-spacing: 0.03em; outline: none;
-    transition: border-color 0.15s, box-shadow 0.15s, background 0.15s;
+    flex: 1; min-width: 0;
+    background: transparent; border: none; outline: none;
+    padding: 0.65rem 2.4rem 0.65rem 0;
+    font-family: var(--font-ui); font-size: 1.02rem; color: var(--ink);
+    letter-spacing: 0; line-height: 1.25;
     min-height: 40px;
   }
+  .filter-bar-hero .filter-search { font-size: 1.1rem; padding: 0.75rem 2.4rem 0.75rem 0; min-height: 48px; }
   .filter-search::placeholder { color: var(--ink-5); opacity: 0.7; }
-  .filter-search:focus { border-color: var(--ochre); box-shadow: 0 0 0 2px rgba(160,100,40,0.15); }
   .filter-clear {
-    position: absolute; right: 0.5rem; top: 50%; transform: translateY(-50%);
-    background: none; border: none; cursor: pointer; padding: 0 0.3rem;
-    font-family: var(--font-mono); font-size: 0.95rem; color: var(--ink-5);
-    display: none; line-height: 1;
+    position: absolute; right: 0; top: 50%; transform: translateY(-50%);
+    background: transparent; border: 1px solid transparent; cursor: pointer;
+    padding: 0; width: 28px; height: 28px; border-radius: 50%;
+    font-family: var(--font-mono); font-size: 1rem; color: var(--ink-5);
+    display: none; align-items: center; justify-content: center; line-height: 1;
+    transition: background 0.12s, color 0.12s;
   }
-  .filter-clear:hover { color: var(--red); }
-  .filter-clear.visible { display: block; }
+  .filter-clear:hover { background: var(--papyrus-3); color: var(--red); }
+  .filter-clear.visible { display: inline-flex; }
   .filter-shortcut-hint {
-    font-family: var(--font-mono); font-size: 0.6rem; color: var(--ink-5); letter-spacing: 0.08em;
-    border: 1px solid var(--rule); border-radius: 3px; padding: 0.05rem 0.35rem;
-    flex-shrink: 0; opacity: 0.7;
+    font-family: var(--font-ui); font-size: 0.72rem; color: var(--ink-5);
+    flex-shrink: 0; padding-right: 0.3rem;
   }
-  .filter-actions { display: flex; gap: 0.5rem; flex-shrink: 0; }
+  .filter-shortcut-hint kbd {
+    font-family: var(--font-mono); background: var(--papyrus-2);
+    border: 1px solid var(--rule); border-radius: 3px;
+    padding: 0.05rem 0.35rem; color: var(--ink-3); font-size: 0.72rem;
+  }
+
+  .browse-controls { margin-top: 1rem; display: flex; flex-direction: column; gap: 0.7rem; }
+
+  .filter-bar-meta {
+    display: flex; justify-content: space-between; align-items: center;
+    margin-top: 1rem; padding-top: 0.9rem;
+    border-top: 1px solid var(--rule-2);
+    gap: 0.75rem; flex-wrap: wrap;
+  }
+  .filter-actions { display: flex; gap: 0.75rem; flex-shrink: 0; }
   .filter-actions button {
     background: none; border: none; cursor: pointer;
-    font-family: var(--font-mono); font-size: 0.62rem; letter-spacing: 0.1em; text-transform: uppercase;
-    color: var(--ink-5); padding: 0.3rem 0; text-decoration: underline; text-underline-offset: 2px;
+    font-family: var(--font-ui); font-size: 0.82rem;
+    color: var(--ink-4); padding: 0.25rem 0;
+    border-bottom: 1px solid transparent;
+    transition: color 0.12s, border-color 0.12s;
   }
-  .filter-actions button:hover { color: var(--ochre); }
+  .filter-actions button:hover { color: var(--red); border-bottom-color: var(--red); }
   .filter-actions button.mobile-toggle { display: none; }
 
   .filter-result {
-    width: 100%; font-family: var(--font-mono); font-size: 0.62rem; color: var(--ink-5);
-    letter-spacing: 0.07em; margin-top: 0.1rem; display: none;
+    font-family: var(--font-ui); font-size: 0.82rem; color: var(--ink-4);
+    display: none;
   }
   .filter-result.visible { display: block; }
 
   /* Search suggestions */
   .filter-suggest {
-    display: none; gap: 0.4rem; flex-wrap: wrap; padding-top: 0.2rem; width: 100%;
+    display: none; gap: 0.4rem; flex-wrap: wrap; align-items: center;
   }
   .filter-suggest.visible { display: flex; }
   .suggest-label {
-    font-family: var(--font-mono); font-size: 0.6rem; color: var(--ink-5); letter-spacing: 0.1em;
-    text-transform: uppercase; align-self: center; margin-right: 0.2rem;
+    font-family: var(--font-ui); font-size: 0.78rem; color: var(--ink-5);
+    margin-right: 0.15rem;
   }
   .suggest-chip {
     background: var(--papyrus); border: 1px solid var(--rule); border-radius: 20px;
-    padding: 0.2rem 0.7rem; font-family: var(--font-mono); font-size: 0.7rem;
-    color: var(--ink-3); cursor: pointer; transition: background 0.12s, border-color 0.12s;
+    padding: 0.3rem 0.8rem; font-family: var(--font-ui); font-size: 0.82rem;
+    color: var(--ink-3); cursor: pointer;
+    transition: background 0.12s, border-color 0.12s, color 0.12s;
   }
   .suggest-chip:hover { background: var(--papyrus-3); border-color: var(--ochre); color: var(--ink); }
-  .suggest-chip .cn { font-family: var(--font-cn); margin-right: 0.25rem; color: var(--red); }
+  .suggest-chip .cn { font-family: var(--font-cn); margin-right: 0.25rem; color: var(--red); font-weight: 600; }
 
   /* No-results state */
   .no-results {
@@ -477,22 +516,21 @@
   .no-results-msg { font-style: italic; color: var(--ink-3); margin-bottom: 0.8rem; }
   .no-results-msg code { font-family: var(--font-mono); color: var(--red); background: none; padding: 0; }
 
-  .categories-section { margin-bottom: 2rem; }
   .hsk-chips {
     display: flex; flex-wrap: wrap; gap: 0.4rem;
-    margin-bottom: 0.8rem; align-items: center;
+    align-items: center;
   }
   .hsk-chips-label {
-    font-family: var(--font-mono); font-size: 0.6rem; letter-spacing: 0.18em;
-    text-transform: uppercase; color: var(--ink-5); margin-right: 0.4rem;
+    font-family: var(--font-ui); font-size: 0.78rem;
+    color: var(--ink-5); margin-right: 0.25rem;
   }
   .hsk-chip {
-    font-family: var(--font-mono); font-size: 0.68rem; letter-spacing: 0.08em;
-    padding: 0.3rem 0.7rem; border-radius: 20px;
+    font-family: var(--font-ui); font-size: 0.82rem;
+    padding: 0.3rem 0.8rem; border-radius: 20px;
     background: var(--papyrus); border: 1px solid var(--rule);
     color: var(--ink-3); cursor: pointer;
     transition: background 0.12s, border-color 0.12s, color 0.12s;
-    min-height: 30px;
+    min-height: 32px;
   }
   .hsk-chip:hover { border-color: var(--ochre); color: var(--ink); }
   .hsk-chip.active { background: var(--red); color: var(--papyrus); border-color: var(--red); }
@@ -500,9 +538,8 @@
   .hsk-chip:focus-visible { outline: none; border-color: var(--ochre); box-shadow: 0 0 0 2px rgba(160,100,40,0.3); }
   .hsk-count {
     display: inline-block; margin-left: 0.25rem;
-    font-size: 0.56rem; letter-spacing: 0.08em;
-    color: var(--ink-5);
-    vertical-align: 1px;
+    font-size: 0.7rem; color: var(--ink-5);
+    vertical-align: baseline;
   }
   .hsk-chip-clear { border-style: dashed; }
 
@@ -560,26 +597,57 @@
   /* Highlight matches */
   mark { background: rgba(160,100,40,0.22); color: var(--ink); padding: 0 1px; border-radius: 2px; }
 
-  .legend-section { margin: 4rem 0 3rem; }
-  .legend-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1rem; }
-  .legend-panel {
-    background: var(--papyrus-2); border: 1px solid var(--rule); border-radius: var(--radius-lg);
-    padding: 1.2rem 1.25rem;
+  /* ── How to read — compact 4-up page-type legend ─────────────────────── */
+  .howto-section { margin-bottom: 3.5rem; }
+  .howto-types {
+    display: grid; grid-template-columns: repeat(4, 1fr); gap: 0.75rem;
+    margin-bottom: 1.1rem;
   }
-  .legend-head {
-    font-family: var(--font-mono); font-size: 0.66rem; letter-spacing: 0.18em; text-transform: uppercase;
-    color: var(--ink-4); margin: 0 0 0.8rem; padding-bottom: 0.5rem; border-bottom: 1px solid var(--rule-2);
+  .howto-type {
+    display: flex; align-items: flex-start; gap: 0.85rem;
+    padding: 0.95rem 1rem;
+    background: var(--papyrus-2); border: 1px solid var(--rule);
+    border-radius: 8px; text-decoration: none;
+    transition: background 0.15s, border-color 0.15s, transform 0.12s;
   }
-  .legend-item {
-    display: flex; gap: 0.7rem; align-items: baseline;
-    font-size: 0.85rem; color: var(--ink-3); margin-bottom: 0.55rem; line-height: 1.45;
+  .howto-type:hover {
+    background: var(--papyrus-3); border-color: rgba(139,26,26,0.25);
+    transform: translateY(-1px);
   }
-  .legend-item:last-child { margin-bottom: 0; }
-  .legend-glyph { font-family: var(--font-cn); font-weight: 700; color: var(--red); font-size: 1.05rem; flex-shrink: 0; min-width: 1.2rem; }
-  .legend-item b { font-weight: 600; color: var(--ink-2); margin-right: 0.3rem; }
-  .legend-item kbd {
-    font-family: var(--font-mono); font-size: 0.7rem; background: var(--papyrus); border: 1px solid var(--rule);
-    border-radius: 3px; padding: 0.05rem 0.35rem; color: var(--ink-2);
+  .howto-type:focus-visible {
+    outline: none; border-color: var(--ochre);
+    box-shadow: 0 0 0 2px rgba(160,100,40,0.25);
+  }
+  .howto-glyph {
+    font-family: var(--font-cn); font-weight: 700;
+    font-size: 2rem; line-height: 1; color: var(--red);
+    flex-shrink: 0;
+  }
+  .howto-type[data-category="characters"] .howto-glyph { color: var(--cat-characters); }
+  .howto-type[data-category="vocab"]      .howto-glyph { color: var(--cat-vocab); }
+  .howto-type[data-category="grammar"]    .howto-glyph { color: var(--cat-grammar); }
+  .howto-type[data-category="culture"]    .howto-glyph { color: var(--cat-culture); }
+  .howto-body { display: flex; flex-direction: column; gap: 0.15rem; min-width: 0; }
+  .howto-name {
+    font-family: var(--font-ui); font-size: 0.95rem; font-weight: 600;
+    color: var(--ink);
+  }
+  .howto-desc {
+    font-family: var(--font-ui); font-size: 0.82rem; line-height: 1.4;
+    color: var(--ink-4);
+  }
+  .howto-shortcuts {
+    font-family: var(--font-ui); font-size: 0.85rem;
+    color: var(--ink-4); margin: 0;
+    display: flex; flex-wrap: wrap; align-items: center; gap: 0.35rem;
+    line-height: 1.8;
+  }
+  .howto-shortcuts kbd {
+    font-family: var(--font-mono); font-size: 0.75rem;
+    background: var(--papyrus-2); border: 1px solid var(--rule);
+    border-bottom-width: 2px;
+    border-radius: 4px; padding: 0.05rem 0.4rem;
+    color: var(--ink-2); line-height: 1;
   }
 
   .colophon {
@@ -652,10 +720,10 @@
 
   @media (max-width: 900px) {
     .start-here-list { grid-template-columns: repeat(3, 1fr); }
+    .howto-types { grid-template-columns: repeat(2, 1fr); }
   }
   @media (max-width: 800px) {
     .overview-grid { grid-template-columns: repeat(2, 1fr); }
-    .legend-grid { grid-template-columns: 1fr; }
     .colophon { grid-template-columns: 1fr; gap: 1.5rem; }
     .index-hero-title { font-size: 2.2rem; }
     .index-hero-glyph { width: 6rem; height: 6rem; font-size: 4.2rem; }
@@ -666,6 +734,7 @@
     .featured-glyph.glyph-3 { font-size: 1.3rem; }
     .featured-glyph.glyph-4 { font-size: 1.1rem; }
     .featured-title { font-size: 1.3rem; }
+    .browse-panel { padding: 1.5rem 1.4rem 1.1rem; }
   }
   @media (max-width: 600px) {
     .index-shell { padding: 2rem 1.25rem 4rem; }
@@ -673,8 +742,12 @@
     .index-hero-title { font-size: 1.85rem; }
     .overview-grid { grid-template-columns: 1fr; }
     .start-here-list { grid-template-columns: repeat(2, 1fr); }
+    .howto-types { grid-template-columns: 1fr; gap: 0.55rem; }
+    .howto-type { padding: 0.8rem 0.9rem; }
+    .howto-glyph { font-size: 1.75rem; }
     .entry-grid, .recent-grid { grid-template-columns: repeat(auto-fill, minmax(175px, 1fr)); }
-    .filter-bar { top: calc(var(--nav-h) + 4px); }
+    .browse-panel { padding: 1.25rem 1.1rem 1rem; }
+    .filter-bar-hero .filter-search { font-size: 1rem; min-height: 44px; }
     .filter-shortcut-hint { display: none; }
     .filter-actions button.desktop-only { display: none; }
     .filter-actions button.mobile-toggle { display: inline-block; }
@@ -696,7 +769,7 @@
   </a>
   <div class="topnav-right">
     <a href="#" class="topnav-random" data-random-entry data-entries-base="" aria-label="Open a random entry"><span aria-hidden="true">⟳</span> Random</a>
-    <a href="#categories" class="topnav-back" aria-label="Browse all entries">Browse</a>
+    <a href="#browse" class="topnav-back" aria-label="Browse all entries">Browse</a>
     <a href="https://github.com/HunterDellere/chinese-field-guide" target="_blank" rel="noopener" class="topnav-back" aria-label="Source on GitHub">GitHub</a>
   </div>
 </nav>
@@ -716,7 +789,7 @@
     <p class="index-hero-desc">A free field guide to Chinese characters, vocabulary, grammar, philosophy, history, food, and tea — written for curious readers who want the story behind the stroke.</p>
     <div class="hero-ctas">
       <a href="#start-here" class="hero-cta hero-cta-primary">Start here →</a>
-      <a href="#overview" class="hero-cta hero-cta-secondary">What's inside ↓</a>
+      <a href="#browse" class="hero-cta hero-cta-secondary">Browse all entries ↓</a>
     </div>
   </header>
 
@@ -738,6 +811,87 @@
     <ol class="start-here-list" id="start-here-list"></ol>
   </section>
 
+  <!-- How to read — compact legend, placed before Browse so readers know
+       the entry format before they dive in. -->
+  <section class="howto-section" id="howto">
+    <div class="section-eyebrow">说明 shuōmíng</div>
+    <h2 class="section-title">How to read</h2>
+    <p class="section-sub">Every entry is one of four types. Click a glyph to jump straight to that section.</p>
+    <div class="howto-types">
+      <a href="#cat-characters" class="howto-type" data-category="characters">
+        <span class="howto-glyph">字</span>
+        <span class="howto-body">
+          <span class="howto-name">Character</span>
+          <span class="howto-desc">One glyph — etymology, decomposition, daily use.</span>
+        </span>
+      </a>
+      <a href="#cat-vocab" class="howto-type" data-category="vocab">
+        <span class="howto-glyph">词</span>
+        <span class="howto-body">
+          <span class="howto-name">Vocabulary</span>
+          <span class="howto-desc">A word or concept with cultural weight.</span>
+        </span>
+      </a>
+      <a href="#cat-grammar" class="howto-type" data-category="grammar">
+        <span class="howto-glyph">法</span>
+        <span class="howto-body">
+          <span class="howto-name">Grammar</span>
+          <span class="howto-desc">A particle, structure, or pattern.</span>
+        </span>
+      </a>
+      <a href="#cat-culture" class="howto-type" data-category="culture">
+        <span class="howto-glyph">题</span>
+        <span class="howto-body">
+          <span class="howto-name">Topic</span>
+          <span class="howto-desc">A short essay on culture, history, or thought.</span>
+        </span>
+      </a>
+    </div>
+    <p class="howto-shortcuts">
+      <kbd>/</kbd> to search · <kbd>↑</kbd> <kbd>↓</kbd> to step · <kbd>Enter</kbd> to open · <kbd>Esc</kbd> to clear
+    </p>
+  </section>
+
+  <!-- Browse all entries — the main action surface. Framed to signal it is
+       a key element and not just another section to scroll past. -->
+  <section class="browse-section" id="browse" aria-labelledby="browse-heading">
+    <div class="browse-panel">
+      <div class="section-eyebrow">浏览 liúlǎn</div>
+      <h2 class="section-title" id="browse-heading">Browse all entries</h2>
+      <p class="section-sub">Search by character, pinyin, keyword, radical, or HSK level.</p>
+
+      <div class="filter-bar filter-bar-hero" id="filter-bar">
+        <div class="filter-search-wrap">
+          <svg class="filter-search-icon" viewBox="0 0 24 24" width="20" height="20" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="7"/><line x1="16.5" y1="16.5" x2="21" y2="21"/></svg>
+          <input class="filter-search" id="filter-search" type="search" placeholder="e.g. 心, dao, confucius, HSK 2…" autocomplete="off" spellcheck="false" aria-label="Search entries">
+          <button class="filter-clear" id="filter-clear" aria-label="Clear search">×</button>
+        </div>
+        <span class="filter-shortcut-hint">press <kbd>/</kbd></span>
+      </div>
+
+      <div class="browse-controls">
+        <div class="hsk-chips" id="hsk-chips" role="group" aria-label="Filter by HSK level"></div>
+        <div class="filter-suggest visible" id="filter-suggest"></div>
+      </div>
+
+      <div class="filter-bar-meta">
+        <div class="filter-result" id="filter-result"></div>
+        <div class="filter-actions">
+          <button id="expand-all" class="desktop-only">Expand all</button>
+          <button id="collapse-all" class="desktop-only">Collapse all</button>
+          <button id="mobile-toggle-all" class="mobile-toggle">Expand all ▸</button>
+        </div>
+      </div>
+    </div>
+
+    <div class="no-results" id="no-results">
+      <p class="no-results-msg">No entries match <code id="no-results-query"></code>.</p>
+      <div class="filter-suggest visible" id="no-results-suggest"></div>
+    </div>
+
+    <div id="categories"></div>
+  </section>
+
   <!-- Overview -->
   <section class="overview-section" id="overview">
     <div class="section-eyebrow">概览 gàilǎn</div>
@@ -752,66 +906,6 @@
     <h2 class="section-title">Recently added</h2>
     <p class="section-sub">Latest additions to the field guide.</p>
     <div class="recent-grid" id="recent-grid"></div>
-  </section>
-
-  <!-- Filter bar + categories -->
-  <section class="categories-section">
-    <div class="section-eyebrow">浏览 liúlǎn</div>
-    <h2 class="section-title">Browse all entries</h2>
-    <p class="section-sub">Search by character, pinyin, keyword, radical, or HSK level. Click a section title to collapse it.</p>
-
-    <div class="hsk-chips" id="hsk-chips" role="group" aria-label="Filter by HSK level"></div>
-
-    <div class="filter-bar" id="filter-bar">
-      <div class="filter-search-wrap">
-        <input class="filter-search" id="filter-search" type="search" placeholder="Search by character, pinyin, keyword, radical, HSK…" autocomplete="off" spellcheck="false" aria-label="Search entries">
-        <button class="filter-clear" id="filter-clear" aria-label="Clear search">×</button>
-      </div>
-      <span class="filter-shortcut-hint">press / to focus</span>
-      <div class="filter-actions">
-        <button id="expand-all" class="desktop-only">Expand all</button>
-        <button id="collapse-all" class="desktop-only">Collapse all</button>
-        <button id="mobile-toggle-all" class="mobile-toggle">Expand all ▸</button>
-      </div>
-      <div class="filter-result" id="filter-result"></div>
-      <div class="filter-suggest" id="filter-suggest"></div>
-    </div>
-
-    <div class="no-results" id="no-results">
-      <p class="no-results-msg">No entries match <code id="no-results-query"></code>.</p>
-      <div class="filter-suggest visible" id="no-results-suggest"></div>
-    </div>
-
-    <div id="categories"></div>
-  </section>
-
-  <!-- Legend -->
-  <section class="legend-section">
-    <div class="section-eyebrow">说明 shuōmíng</div>
-    <h2 class="section-title">How to read</h2>
-    <div class="legend-grid">
-      <div class="legend-panel">
-        <div class="legend-head">Page types</div>
-        <div class="legend-item"><span class="legend-glyph">字</span><span><b>Character.</b> One glyph, with its etymology, decomposition, and compounds.</span></div>
-        <div class="legend-item"><span class="legend-glyph">词</span><span><b>Vocabulary.</b> A word or concept that carries cultural weight.</span></div>
-        <div class="legend-item"><span class="legend-glyph">法</span><span><b>Grammar.</b> A particle, structure, or grammatical pattern.</span></div>
-        <div class="legend-item"><span class="legend-glyph">题</span><span><b>Topic.</b> A short essay on a cultural, historical, or philosophical subject.</span></div>
-      </div>
-      <div class="legend-panel">
-        <div class="legend-head">Anatomy of an entry</div>
-        <div class="legend-item"><span class="legend-glyph">①</span><span><b>Hero.</b> Glyph, pinyin, gloss, and HSK or radical chips.</span></div>
-        <div class="legend-item"><span class="legend-glyph">②</span><span><b>Etymology.</b> How the character came to look and mean what it does.</span></div>
-        <div class="legend-item"><span class="legend-glyph">③</span><span><b>Compounds and chengyu.</b> The character as a building block.</span></div>
-        <div class="legend-item"><span class="legend-glyph">④</span><span><b>Retention hook.</b> A memory image so the glyph sticks.</span></div>
-      </div>
-      <div class="legend-panel">
-        <div class="legend-head">Navigation</div>
-        <div class="legend-item"><span class="legend-glyph">⌕</span><span>Press <kbd>/</kbd> anywhere to jump to search.</span></div>
-        <div class="legend-item"><span class="legend-glyph">↓</span><span>Use <kbd>↑</kbd> <kbd>↓</kbd> to step through results, <kbd>Enter</kbd> to open.</span></div>
-        <div class="legend-item"><span class="legend-glyph">⌘</span><span>Each entry has a sticky table of contents on the side.</span></div>
-        <div class="legend-item"><span class="legend-glyph">⊞</span><span>Section titles in the index are clickable to collapse.</span></div>
-      </div>
-    </div>
   </section>
 
   <!-- Colophon -->
