@@ -142,6 +142,44 @@
     "updated": "2026-04-19"
   },
   {
+    "path": "pages/characters/bu4_不.html",
+    "type": "character",
+    "category": "characters",
+    "title": "不 · no, not, negation",
+    "desc": "The great negator — the most used character in Mandarin and the foundation of all denial.",
+    "tags": [
+      "grammar",
+      "negation",
+      "syntax"
+    ],
+    "status": "complete",
+    "char": "不",
+    "pinyin": "bù",
+    "tone": 4,
+    "hsk": 1,
+    "radical": "一",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/characters/da4_大.html",
+    "type": "character",
+    "category": "characters",
+    "title": "大 · big, great, large",
+    "desc": "Big, great, large — a person with arms wide open, the original measure of magnitude.",
+    "tags": [
+      "cosmology",
+      "scale",
+      "daily-life"
+    ],
+    "status": "complete",
+    "char": "大",
+    "pinyin": "dà",
+    "tone": 4,
+    "hsk": 1,
+    "radical": "大",
+    "updated": "2026-04-19"
+  },
+  {
     "path": "pages/characters/fo2_佛.html",
     "type": "character",
     "category": "characters",
@@ -158,6 +196,25 @@
     "tone": 2,
     "hsk": 5,
     "radical": "亻",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/characters/hao3_好.html",
+    "type": "character",
+    "category": "characters",
+    "title": "好 · good; to like",
+    "desc": "Good, well, to like — and the tone split that doubles its expressive range.",
+    "tags": [
+      "virtue",
+      "social",
+      "daily-life"
+    ],
+    "status": "complete",
+    "char": "好",
+    "pinyin": "hǎo",
+    "tone": 3,
+    "hsk": 1,
+    "radical": "女",
     "updated": "2026-04-19"
   },
   {
@@ -267,6 +324,25 @@
     "updated": "2026-04-19"
   },
   {
+    "path": "pages/characters/shuo1_说.html",
+    "type": "character",
+    "category": "characters",
+    "title": "说 · to speak, to say, to explain",
+    "desc": "To speak, say, explain, and persuade — the character at the center of all communication.",
+    "tags": [
+      "language",
+      "communication",
+      "rhetoric"
+    ],
+    "status": "complete",
+    "char": "说",
+    "pinyin": "shuō",
+    "tone": 1,
+    "hsk": 1,
+    "radical": "讠",
+    "updated": "2026-04-19"
+  },
+  {
     "path": "pages/characters/wang2_王.html",
     "type": "character",
     "category": "characters",
@@ -306,76 +382,6 @@
       "to": 3
     },
     "radical": "尸",
-    "updated": "2026-04-19"
-  },
-  {
-    "path": "pages/characters/yao4_要.html",
-    "type": "character",
-    "category": "characters",
-    "title": "要 · to want, must, essential",
-    "desc": "Want, need, must, and will — the grammar engine disguised as a single character.",
-    "tags": [
-      "grammar",
-      "modal"
-    ],
-    "status": "complete",
-    "char": "要",
-    "pinyin": "yào",
-    "tone": 4,
-    "hsk": 1,
-    "radical": "女",
-    "updated": "2026-04-19"
-  },
-  {
-    "path": "pages/characters/zai4_再.html",
-    "type": "character",
-    "category": "characters",
-    "title": "再 · again, then, further",
-    "desc": "Again, one more time, and the subtle art of \"and then\" — the character that sequences and repeats.",
-    "tags": [
-      "grammar",
-      "time"
-    ],
-    "status": "complete",
-    "char": "再",
-    "pinyin": "zài",
-    "tone": 4,
-    "hsk": 2,
-    "radical": "冂",
-    "updated": "2026-04-19"
-  },
-  {
-    "path": "pages/characters/zai4_在.html",
-    "type": "character",
-    "category": "characters",
-    "title": "在 · to be at, located, in progress",
-    "desc": "Location, existence, and the progressive aspect — the character that puts things in place and actions in motion.",
-    "tags": [
-      "grammar",
-      "space",
-      "aspect"
-    ],
-    "status": "complete",
-    "char": "在",
-    "pinyin": "zài",
-    "tone": 4,
-    "hsk": 1,
-    "radical": "土",
-    "updated": "2026-04-19"
-  },
-  {
-    "path": "pages/chengyu/huashetianzu_画蛇添足.html",
-    "type": "vocab",
-    "category": "chengyu",
-    "title": "画蛇添足 · Drawing Legs on a Snake",
-    "desc": "He finished first, so he kept drawing — and lost the prize. The idiom for ruining a good thing by overdoing it.",
-    "tags": [
-      "idioms",
-      "classical",
-      "logic"
-    ],
-    "status": "complete",
-    "pinyin": "huà shé tiān zú",
     "updated": "2026-04-19"
   }
 ]

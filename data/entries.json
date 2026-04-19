@@ -142,6 +142,44 @@
     "updated": "2026-04-19"
   },
   {
+    "path": "pages/characters/bu4_不.html",
+    "type": "character",
+    "category": "characters",
+    "title": "不 · no, not, negation",
+    "desc": "The great negator — the most used character in Mandarin and the foundation of all denial.",
+    "tags": [
+      "grammar",
+      "negation",
+      "syntax"
+    ],
+    "status": "complete",
+    "char": "不",
+    "pinyin": "bù",
+    "tone": 4,
+    "hsk": 1,
+    "radical": "一",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/characters/da4_大.html",
+    "type": "character",
+    "category": "characters",
+    "title": "大 · big, great, large",
+    "desc": "Big, great, large — a person with arms wide open, the original measure of magnitude.",
+    "tags": [
+      "cosmology",
+      "scale",
+      "daily-life"
+    ],
+    "status": "complete",
+    "char": "大",
+    "pinyin": "dà",
+    "tone": 4,
+    "hsk": 1,
+    "radical": "大",
+    "updated": "2026-04-19"
+  },
+  {
     "path": "pages/characters/fo2_佛.html",
     "type": "character",
     "category": "characters",
@@ -158,6 +196,25 @@
     "tone": 2,
     "hsk": 5,
     "radical": "亻",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/characters/hao3_好.html",
+    "type": "character",
+    "category": "characters",
+    "title": "好 · good; to like",
+    "desc": "Good, well, to like — and the tone split that doubles its expressive range.",
+    "tags": [
+      "virtue",
+      "social",
+      "daily-life"
+    ],
+    "status": "complete",
+    "char": "好",
+    "pinyin": "hǎo",
+    "tone": 3,
+    "hsk": 1,
+    "radical": "女",
     "updated": "2026-04-19"
   },
   {
@@ -264,6 +321,25 @@
     "tone": 3,
     "hsk": 1,
     "radical": "水",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/characters/shuo1_说.html",
+    "type": "character",
+    "category": "characters",
+    "title": "说 · to speak, to say, to explain",
+    "desc": "To speak, say, explain, and persuade — the character at the center of all communication.",
+    "tags": [
+      "language",
+      "communication",
+      "rhetoric"
+    ],
+    "status": "complete",
+    "char": "说",
+    "pinyin": "shuō",
+    "tone": 1,
+    "hsk": 1,
+    "radical": "讠",
     "updated": "2026-04-19"
   },
   {
@@ -961,6 +1037,51 @@
     "updated": "2026-04-19"
   },
   {
+    "path": "pages/grammar/ruguo_ji_如果就.html",
+    "type": "grammar",
+    "category": "grammar",
+    "title": "如果…就 · if … then",
+    "desc": "The foundational conditional frame — the engine of hypothetical reasoning in Mandarin.",
+    "tags": [
+      "conjunction",
+      "syntax",
+      "conditional"
+    ],
+    "status": "complete",
+    "pinyin": "rúguǒ jiù",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/grammar/suiran_danshi_虽然但是.html",
+    "type": "grammar",
+    "category": "grammar",
+    "title": "虽然…但是 · although … but",
+    "desc": "The concession frame — granting the premise but pivoting to the real point.",
+    "tags": [
+      "conjunction",
+      "concession",
+      "cohesion"
+    ],
+    "status": "complete",
+    "pinyin": "suīrán dànshì",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/grammar/yuelaiyue_越来越.html",
+    "type": "grammar",
+    "category": "grammar",
+    "title": "越来越 · more and more; increasingly",
+    "desc": "The degree escalation pattern — expressing a quality that grows continuously over time.",
+    "tags": [
+      "complement",
+      "comparison",
+      "degree"
+    ],
+    "status": "complete",
+    "pinyin": "yuèláiyuè",
+    "updated": "2026-04-19"
+  },
+  {
     "path": "pages/grammar/yuqi_bufu_与其不如.html",
     "type": "grammar",
     "category": "grammar",
@@ -1096,6 +1217,21 @@
     "updated": "2026-04-19"
   },
   {
+    "path": "pages/vocab/biji_笔记.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "笔记 · notes, jottings",
+    "desc": "Notes, jottings, and the Chinese literary tradition of the brush-record.",
+    "tags": [
+      "literacy",
+      "literature",
+      "calligraphy"
+    ],
+    "status": "complete",
+    "pinyin": "bǐjì",
+    "updated": "2026-04-19"
+  },
+  {
     "path": "pages/vocab/keqi_客气.html",
     "type": "vocab",
     "category": "vocab",
@@ -1109,6 +1245,21 @@
     ],
     "status": "complete",
     "pinyin": "kèqi",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/vocab/mingyun_命运.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "命运 · fate, destiny",
+    "desc": "Fate, destiny, and the tension between cosmic order and human will.",
+    "tags": [
+      "fate",
+      "philosophy",
+      "cosmology"
+    ],
+    "status": "complete",
+    "pinyin": "mìngyùn",
     "updated": "2026-04-19"
   },
   {

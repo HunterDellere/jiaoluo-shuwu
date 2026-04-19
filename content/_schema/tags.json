@@ -215,5 +215,12 @@
   {"slug": "cohesion",          "label": "Cohesion"},
   {"slug": "comparison",        "label": "Comparison"},
   {"slug": "preference",        "label": "Preference"},
-  {"slug": "directional",       "label": "Directional"}
+  {"slug": "directional",       "label": "Directional"},
+  {"slug": "negation",          "label": "Negation"},
+  {"slug": "scale",             "label": "Scale"},
+  {"slug": "communication",     "label": "Communication"},
+  {"slug": "rhetoric",          "label": "Rhetoric"},
+  {"slug": "concession",        "label": "Concession"},
+  {"slug": "conditional",       "label": "Conditional"},
+  {"slug": "degree",            "label": "Degree"}
 ]

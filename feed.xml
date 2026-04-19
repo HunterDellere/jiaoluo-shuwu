@@ -6,7 +6,7 @@
     <atom:link href="https://jiaoshoo.com/feed.xml" rel="self" type="application/rss+xml" />
     <description>A field guide to Chinese — characters, language, and the long civilisation behind them.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 19 Apr 2026 22:01:03 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 Apr 2026 22:16:03 GMT</lastBuildDate>
     <item>
       <title>楚辞 · Songs of Chu</title>
       <link>https://jiaoshoo.com/pages/arts/topic_chuci.html</link>
@@ -72,11 +72,35 @@
       <category>arts</category>
     </item>
     <item>
+      <title>不 · no, not, negation</title>
+      <link>https://jiaoshoo.com/pages/characters/bu4_不.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/bu4_不.html</guid>
+      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
+      <description>The great negator — the most used character in Mandarin and the foundation of all denial.</description>
+      <category>characters</category>
+    </item>
+    <item>
+      <title>大 · big, great, large</title>
+      <link>https://jiaoshoo.com/pages/characters/da4_大.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/da4_大.html</guid>
+      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
+      <description>Big, great, large — a person with arms wide open, the original measure of magnitude.</description>
+      <category>characters</category>
+    </item>
+    <item>
       <title>佛 · Buddha, the awakened</title>
       <link>https://jiaoshoo.com/pages/characters/fo2_佛.html</link>
       <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/fo2_佛.html</guid>
       <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
       <description>The character that carried an entire worldview across the Silk Road — etymology, Buddhism, the 佛-family of compounds.</description>
+      <category>characters</category>
+    </item>
+    <item>
+      <title>好 · good; to like</title>
+      <link>https://jiaoshoo.com/pages/characters/hao3_好.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/hao3_好.html</guid>
+      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
+      <description>Good, well, to like — and the tone split that doubles its expressive range.</description>
       <category>characters</category>
     </item>
     <item>
@@ -117,6 +141,14 @@
       <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/shui3_水.html</guid>
       <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
       <description>The first of the five elements, the radical that runs through hundreds of compounds, and the Daoist image of how to act in the world.</description>
+      <category>characters</category>
+    </item>
+    <item>
+      <title>说 · to speak, to say, to explain</title>
+      <link>https://jiaoshoo.com/pages/characters/shuo1_说.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/shuo1_说.html</guid>
+      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
+      <description>To speak, say, explain, and persuade — the character at the center of all communication.</description>
       <category>characters</category>
     </item>
     <item>
@@ -213,38 +245,6 @@
       <guid isPermaLink="true">https://jiaoshoo.com/pages/culinary/topic_chuancai.html</guid>
       <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
       <description>The mala kitchen — how a landlocked basin built the most complex spice vocabulary in the world.</description>
-      <category>culinary</category>
-    </item>
-    <item>
-      <title>豆腐 · Tofu</title>
-      <link>https://jiaoshoo.com/pages/culinary/topic_doufu.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/culinary/topic_doufu.html</guid>
-      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
-      <description>Two thousand years of soybeans and water: the food that fed a civilization without meat.</description>
-      <category>culinary</category>
-    </item>
-    <item>
-      <title>火锅 · Hotpot</title>
-      <link>https://jiaoshoo.com/pages/culinary/topic_huoguo.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/culinary/topic_huoguo.html</guid>
-      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
-      <description>The communal pot at the center of the table: a social institution disguised as a meal.</description>
-      <category>culinary</category>
-    </item>
-    <item>
-      <title>鲁菜 · Shandong Cuisine</title>
-      <link>https://jiaoshoo.com/pages/culinary/topic_lucai.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/culinary/topic_lucai.html</guid>
-      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
-      <description>The oldest school — how the home province of Confucius fed the imperial court for two thousand years.</description>
-      <category>culinary</category>
-    </item>
-    <item>
-      <title>面条 · Noodles</title>
-      <link>https://jiaoshoo.com/pages/culinary/topic_miantiao.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/culinary/topic_miantiao.html</guid>
-      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
-      <description>Four thousand years of wheat in water — noodle cultures from Lanzhou to Suzhou.</description>
       <category>culinary</category>
     </item>
   </channel>
