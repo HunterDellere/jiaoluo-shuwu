@@ -288,7 +288,15 @@
   }
   .hsk-chip:hover { border-color: var(--ochre); color: var(--ink); }
   .hsk-chip.active { background: var(--red); color: var(--papyrus); border-color: var(--red); }
+  .hsk-chip.active .hsk-count { color: var(--papyrus-3); }
   .hsk-chip:focus-visible { outline: none; border-color: var(--ochre); box-shadow: 0 0 0 2px rgba(160,100,40,0.3); }
+  .hsk-count {
+    display: inline-block; margin-left: 0.25rem;
+    font-size: 0.56rem; letter-spacing: 0.08em;
+    color: var(--ink-5);
+    vertical-align: 1px;
+  }
+  .hsk-chip-clear { border-style: dashed; }
 
   .cat-group { margin-bottom: 2.75rem; animation: fadeUp 0.5s ease both; }
   .cat-group.hidden { display: none; }

@@ -538,36 +538,52 @@
     document.getElementById("no-results-suggest").innerHTML = buildSuggestionsHtml("try");
 
     // ── HSK filter chips ──────────────────────────────────────────────────────
+    // Count entries per level from the in-memory corpus so we only render
+    // chips that actually have content, and can show counts alongside.
     const hskChipsEl = document.getElementById("hsk-chips");
     if (hskChipsEl) {
-      const levels = [1, 2, 3, 4, 5, 6];
-      hskChipsEl.innerHTML =
-        `<span class="hsk-chips-label">HSK</span>` +
-        levels.map(n =>
-          `<button class="hsk-chip" data-hsk="${n}" type="button" aria-pressed="false">${n}</button>`
-        ).join("") +
-        `<button class="hsk-chip" data-hsk="" type="button" aria-pressed="false">All</button>`;
-
-      hskChipsEl.addEventListener("click", e => {
-        const btn = e.target.closest(".hsk-chip");
-        if (!btn) return;
-        const level = btn.dataset.hsk;
-        const isActive = btn.classList.contains("active");
-        hskChipsEl.querySelectorAll(".hsk-chip").forEach(b => {
-          b.classList.remove("active");
-          b.setAttribute("aria-pressed", "false");
-        });
-        if (level && !isActive) {
-          btn.classList.add("active");
-          btn.setAttribute("aria-pressed", "true");
-          searchInput.value = "hsk " + level;
-        } else {
-          searchInput.value = "";
+      const counts = { 1:0, 2:0, 3:0, 4:0, 5:0, 6:0 };
+      for (const e of allEntries) {
+        if (typeof e.hsk === 'number' && counts[e.hsk] !== undefined) counts[e.hsk]++;
+        else if (e.hsk && typeof e.hsk === 'object' && e.hsk.from) {
+          for (let n = e.hsk.from; n <= e.hsk.to; n++) {
+            if (counts[n] !== undefined) counts[n]++;
+          }
         }
-        filterText = searchInput.value;
-        clearBtn.classList.toggle("visible", filterText.length > 0);
-        applyFilters();
-      });
+      }
+      const activeLevels = [1,2,3,4,5,6].filter(n => counts[n] > 0);
+      if (activeLevels.length === 0) {
+        hskChipsEl.style.display = "none";
+      } else {
+        hskChipsEl.innerHTML =
+          `<span class="hsk-chips-label">HSK</span>` +
+          activeLevels.map(n =>
+            `<button class="hsk-chip" data-hsk="${n}" type="button" aria-pressed="false" title="${counts[n]} ${counts[n] === 1 ? 'entry' : 'entries'}">${n} <span class="hsk-count">${counts[n]}</span></button>`
+          ).join("") +
+          `<button class="hsk-chip hsk-chip-clear" data-hsk="" type="button" aria-pressed="false">Clear</button>`;
+
+        hskChipsEl.addEventListener("click", e => {
+          const btn = e.target.closest(".hsk-chip");
+          if (!btn) return;
+          const level = btn.dataset.hsk;
+          const wasActive = btn.classList.contains("active");
+          hskChipsEl.querySelectorAll(".hsk-chip").forEach(b => {
+            b.classList.remove("active");
+            b.setAttribute("aria-pressed", "false");
+          });
+          if (level && !wasActive) {
+            btn.classList.add("active");
+            btn.setAttribute("aria-pressed", "true");
+            // Write the canonical indexed form directly — belt and braces
+            searchInput.value = "hsk" + level;
+          } else {
+            searchInput.value = "";
+          }
+          filterText = searchInput.value;
+          clearBtn.classList.toggle("visible", filterText.length > 0);
+          applyFilters();
+        });
+      }
     }
 
     function handleSuggestClick(e) {
