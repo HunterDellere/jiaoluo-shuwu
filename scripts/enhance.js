@@ -1,10 +1,12 @@
-/* enhance.js — stroke order + pinyin audio
+/* enhance.js — pinyin audio, stroke order, quiz mode, hover tooltips, random entry,
+ *               hero animate-on-scroll
  *
- * Loaded once per content page. Lazy-loads Hanzi Writer from CDN only when
- * a stroke-order panel is present on the page.
+ * Loaded once per content page. Lazy-loads Hanzi Writer from CDN only when needed.
  */
 if (window.__enhanceInit) { /* already loaded */ }
 else { window.__enhanceInit = true; (function () {
+
+  const REDUCED_MOTION = matchMedia('(prefers-reduced-motion: reduce)').matches;
 
   // ── Pinyin audio via SpeechSynthesis ──────────────────────────────────────
   const synth = 'speechSynthesis' in window ? window.speechSynthesis : null;
@@ -40,20 +42,12 @@ else { window.__enhanceInit = true; (function () {
     synth.speak(u);
   });
 
-  // ── Stroke order via Hanzi Writer (lazy-loaded) ──────────────────────────
-  const stage = document.getElementById('so-stage');
-  if (!stage) return;
-  const char = stage.dataset.char;
-  if (!char) return;
-
-  const SIZE = 220;
-  let writer = null;
-  let stepIdx = 0;
-  let booting = false;
-
+  // ── Hanzi Writer loader (shared between stroke-order panel and hero animate) ──
+  let hwPromise = null;
   function loadHanziWriter() {
-    return new Promise(function (resolve, reject) {
-      if (window.HanziWriter) return resolve(window.HanziWriter);
+    if (window.HanziWriter) return Promise.resolve(window.HanziWriter);
+    if (hwPromise) return hwPromise;
+    hwPromise = new Promise(function (resolve, reject) {
       const s = document.createElement('script');
       s.src = 'https://cdn.jsdelivr.net/npm/hanzi-writer@3.7/dist/hanzi-writer.min.js';
       s.async = true;
@@ -61,81 +55,329 @@ else { window.__enhanceInit = true; (function () {
       s.onerror = function () { reject(new Error('Hanzi Writer failed to load')); };
       document.head.appendChild(s);
     });
+    return hwPromise;
   }
 
-  function init() {
-    if (writer || booting) return Promise.resolve();
-    booting = true;
-    stage.classList.add('loading');
-    return loadHanziWriter().then(function (HW) {
-      writer = HW.create(stage, char, {
-        width: SIZE,
-        height: SIZE,
-        padding: 5,
-        strokeColor: '#8b1a1a',
-        radicalColor: '#a06428',
-        outlineColor: '#c8bda0',
-        delayBetweenStrokes: 220,
-        strokeAnimationSpeed: 1.1,
-        showOutline: true,
-        showCharacter: false
+  // ── Stroke order panel (with quiz mode) ───────────────────────────────────
+  const stage = document.getElementById('so-stage');
+  const hint = document.getElementById('so-hint');
+  if (stage) {
+    const char = stage.dataset.char;
+    if (char) initStrokePanel(stage, hint, char);
+  }
+
+  function initStrokePanel(stage, hint, char) {
+    const SIZE = 220;
+    let writer = null;
+    let stepIdx = 0;
+    let booting = false;
+    let inQuiz = false;
+
+    function init() {
+      if (writer || booting) return Promise.resolve();
+      booting = true;
+      stage.classList.add('loading');
+      return loadHanziWriter().then(function (HW) {
+        writer = HW.create(stage, char, {
+          width: SIZE,
+          height: SIZE,
+          padding: 5,
+          strokeColor: '#8b1a1a',
+          radicalColor: '#a06428',
+          outlineColor: '#c8bda0',
+          highlightColor: '#a06428',
+          drawingColor: '#1a5050',
+          delayBetweenStrokes: 220,
+          strokeAnimationSpeed: 1.1,
+          showOutline: true,
+          showCharacter: false
+        });
+        stage.classList.remove('loading');
+        stage.classList.add('ready');
+        booting = false;
+      }).catch(function (err) {
+        stage.classList.remove('loading');
+        stage.classList.add('error');
+        stage.textContent = 'Stroke order unavailable.';
+        booting = false;
+        console.warn(err);
       });
-      stage.classList.remove('loading');
-      stage.classList.add('ready');
-      booting = false;
-    }).catch(function (err) {
-      stage.classList.remove('loading');
-      stage.classList.add('error');
-      stage.textContent = 'Stroke order unavailable.';
-      booting = false;
-      console.warn(err);
-    });
-  }
+    }
 
-  function play() {
-    init().then(function () {
-      if (!writer) return;
-      stepIdx = 0;
-      writer.animateCharacter();
-    });
-  }
+    function setHint(text) { if (hint) hint.innerHTML = text; }
+    function exitQuizIfActive() {
+      if (inQuiz && writer && writer.cancelQuiz) {
+        try { writer.cancelQuiz(); } catch (e) { /* ignore */ }
+      }
+      inQuiz = false;
+    }
 
-  function step() {
-    init().then(function () {
-      if (!writer) return;
-      writer.animateStroke(stepIdx, {
-        onComplete: function () { /* no-op */ }
+    function play() {
+      init().then(function () {
+        if (!writer) return;
+        exitQuizIfActive();
+        stepIdx = 0;
+        writer.animateCharacter();
       });
-      stepIdx = (stepIdx + 1);
+    }
+    function step() {
+      init().then(function () {
+        if (!writer) return;
+        exitQuizIfActive();
+        writer.animateStroke(stepIdx);
+        stepIdx++;
+      });
+    }
+    function reset() {
+      init().then(function () {
+        if (!writer) return;
+        exitQuizIfActive();
+        stepIdx = 0;
+        writer.hideCharacter();
+        setHint('Click the character to replay. Press <strong>Try drawing</strong> to write it yourself.');
+      });
+    }
+    function quiz() {
+      init().then(function () {
+        if (!writer) return;
+        if (inQuiz) { exitQuizIfActive(); writer.hideCharacter(); setHint('Quiz cancelled.'); return; }
+        inQuiz = true;
+        writer.hideCharacter();
+        setHint('Draw stroke <strong>1</strong> with your finger or mouse.');
+        writer.quiz({
+          onMistake: function (info) {
+            setHint(`Stroke ${info.strokeNum + 1}: try again. <em>${info.totalMistakes} ${info.totalMistakes === 1 ? 'mistake' : 'mistakes'} so far.</em>`);
+          },
+          onCorrectStroke: function (info) {
+            const next = info.strokeNum + 2;
+            if (info.strokesRemaining > 0) {
+              setHint(`✓ Stroke ${info.strokeNum + 1} good. Now stroke <strong>${next}</strong>.`);
+            }
+          },
+          onComplete: function (info) {
+            inQuiz = false;
+            const word = info.totalMistakes === 0 ? 'Perfect.' : info.totalMistakes < 3 ? 'Well done.' : 'Done.';
+            setHint(`${word} You wrote <strong>${char}</strong> with ${info.totalMistakes} ${info.totalMistakes === 1 ? 'mistake' : 'mistakes'}.`);
+          }
+        });
+      });
+    }
+
+    document.addEventListener('click', function (e) {
+      const btn = e.target.closest('[data-so-action]');
+      if (!btn) return;
+      const action = btn.dataset.soAction;
+      if (action === 'play') play();
+      else if (action === 'step') step();
+      else if (action === 'reset') reset();
+      else if (action === 'quiz') quiz();
+    });
+
+    stage.addEventListener('click', function () {
+      if (inQuiz) return; // quiz handles its own input
+      if (!writer) play();
+      else { stepIdx = 0; writer.animateCharacter(); }
+    });
+
+    const saver = navigator.connection && navigator.connection.saveData;
+    if (!saver && 'requestIdleCallback' in window) {
+      requestIdleCallback(function () { init(); }, { timeout: 2000 });
+    }
+  }
+
+  // ── Hero glyph animate once on first scroll into etymology section ───────
+  if (!REDUCED_MOTION) {
+    const heroGlyph = document.querySelector('.hero-script--simp .hero-glyph');
+    const etymology = document.getElementById('etymology');
+    if (heroGlyph && etymology) {
+      const char = heroGlyph.textContent.trim();
+      if (char && char.length === 1) {
+        let played = false;
+        const obs = new IntersectionObserver(function (entries) {
+          for (const ent of entries) {
+            if (ent.isIntersecting && !played) {
+              played = true;
+              obs.disconnect();
+              animateHero(heroGlyph, char);
+            }
+          }
+        }, { rootMargin: '0px 0px -40% 0px' });
+        obs.observe(etymology);
+      }
+    }
+  }
+
+  function animateHero(targetEl, char) {
+    loadHanziWriter().then(function (HW) {
+      const rect = targetEl.getBoundingClientRect();
+      const size = Math.max(rect.width, rect.height) || 120;
+      const overlay = document.createElement('div');
+      overlay.className = 'hero-glyph-anim';
+      overlay.style.cssText =
+        `position: absolute; left: 0; top: 0; width: ${size}px; height: ${size}px;` +
+        `pointer-events: none; z-index: 1;`;
+      const parent = targetEl.parentElement;
+      if (!parent) return;
+      // Position parent relative if not already
+      const ps = getComputedStyle(parent);
+      if (ps.position === 'static') parent.style.position = 'relative';
+      // Place overlay over the glyph
+      overlay.style.left = targetEl.offsetLeft + 'px';
+      overlay.style.top = targetEl.offsetTop + 'px';
+      parent.appendChild(overlay);
+      const original = targetEl.style.opacity;
+      targetEl.style.opacity = '0';
+      try {
+        const w = HW.create(overlay, char, {
+          width: size,
+          height: size,
+          padding: 0,
+          strokeColor: '#8b1a1a',
+          radicalColor: '#a06428',
+          outlineColor: 'rgba(139,26,26,0.08)',
+          delayBetweenStrokes: 90,
+          strokeAnimationSpeed: 1.6,
+          showOutline: false,
+          showCharacter: false
+        });
+        w.animateCharacter({
+          onComplete: function () {
+            // Fade real glyph back in, remove overlay
+            targetEl.style.transition = 'opacity 0.35s ease';
+            targetEl.style.opacity = original || '1';
+            setTimeout(function () { overlay.remove(); }, 400);
+          }
+        });
+      } catch (e) {
+        targetEl.style.opacity = original || '1';
+        overlay.remove();
+      }
+    }).catch(function () { /* silent — hero stays static */ });
+  }
+
+  // ── Hover-to-define tooltips on auto-links ───────────────────────────────
+  const autoLinks = document.querySelectorAll('a.auto-link');
+  if (autoLinks.length) initTooltips(autoLinks);
+
+  function initTooltips(links) {
+    let entriesMap = null;
+    let pending = null;
+    let tooltipEl = null;
+    let activeLink = null;
+    let hoverTimer = null;
+
+    function ensureEntries() {
+      if (entriesMap) return Promise.resolve(entriesMap);
+      if (pending) return pending;
+      // Find the path back to entries.json (depth-2 from content pages)
+      pending = fetch('../../data/entries.json').then(r => r.json()).then(list => {
+        entriesMap = {};
+        for (const e of list) entriesMap[e.path] = e;
+        return entriesMap;
+      }).catch(() => { entriesMap = {}; return entriesMap; });
+      return pending;
+    }
+
+    function tooltipFor(link) {
+      if (!tooltipEl) {
+        tooltipEl = document.createElement('div');
+        tooltipEl.className = 'al-tooltip';
+        tooltipEl.setAttribute('role', 'tooltip');
+        document.body.appendChild(tooltipEl);
+      }
+      return tooltipEl;
+    }
+
+    function resolveEntry(link) {
+      // Auto-link href is relative; reconstruct the canonical path
+      const abs = new URL(link.getAttribute('href'), location.href);
+      const idx = abs.pathname.indexOf('/pages/');
+      if (idx === -1) return null;
+      const path = abs.pathname.slice(idx + 1); // strip leading slash → "pages/.../x.html"
+      return entriesMap && entriesMap[path] ? entriesMap[path] : null;
+    }
+
+    function show(link) {
+      ensureEntries().then(function () {
+        const e = resolveEntry(link);
+        if (!e) return;
+        const tip = tooltipFor(link);
+        const cn = e.char || (e.title ? e.title.split('·')[0].trim() : '');
+        const py = e.pinyin || '';
+        const desc = e.desc || '';
+        tip.innerHTML =
+          `<div class="al-tt-head">` +
+            (cn ? `<span class="al-tt-cn">${escapeHtml(cn)}</span>` : '') +
+            (py ? `<span class="al-tt-py">${escapeHtml(py)}</span>` : '') +
+          `</div>` +
+          `<div class="al-tt-desc">${escapeHtml(desc)}</div>`;
+        positionTooltip(tip, link);
+        tip.classList.add('visible');
+        activeLink = link;
+      });
+    }
+    function hide() {
+      if (tooltipEl) tooltipEl.classList.remove('visible');
+      activeLink = null;
+    }
+    function positionTooltip(tip, link) {
+      const r = link.getBoundingClientRect();
+      tip.style.visibility = 'hidden';
+      tip.style.display = 'block';
+      const tr = tip.getBoundingClientRect();
+      const margin = 8;
+      let top = r.bottom + window.scrollY + margin;
+      let left = r.left + window.scrollX + r.width / 2 - tr.width / 2;
+      if (left < 8) left = 8;
+      if (left + tr.width > window.scrollX + window.innerWidth - 8) {
+        left = window.scrollX + window.innerWidth - tr.width - 8;
+      }
+      // Flip above if near bottom of viewport
+      if (r.bottom + tr.height + margin > window.innerHeight) {
+        top = r.top + window.scrollY - tr.height - margin;
+      }
+      tip.style.top = top + 'px';
+      tip.style.left = left + 'px';
+      tip.style.visibility = '';
+    }
+
+    function escapeHtml(s) {
+      return String(s || '').replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+    }
+
+    links.forEach(function (link) {
+      link.addEventListener('mouseenter', function () {
+        clearTimeout(hoverTimer);
+        hoverTimer = setTimeout(function () { show(link); }, 220);
+      });
+      link.addEventListener('mouseleave', function () {
+        clearTimeout(hoverTimer);
+        hoverTimer = setTimeout(hide, 120);
+      });
+      link.addEventListener('focus', function () { show(link); });
+      link.addEventListener('blur', hide);
+    });
+    document.addEventListener('keydown', function (e) {
+      if (e.key === 'Escape') hide();
     });
   }
 
-  function reset() {
-    init().then(function () {
-      if (!writer) return;
-      stepIdx = 0;
-      writer.hideCharacter();
+  // ── Random entry (topnav button) ──────────────────────────────────────────
+  const randomBtn = document.querySelector('[data-random-entry]');
+  if (randomBtn) {
+    randomBtn.addEventListener('click', function (e) {
+      e.preventDefault();
+      // Path back to entries.json from a content page (depth-2)
+      const baseAttr = randomBtn.getAttribute('data-entries-base') || '../../';
+      fetch(baseAttr + 'data/entries.json')
+        .then(r => r.json())
+        .then(list => {
+          const complete = list.filter(x => x.status === 'complete');
+          if (!complete.length) return;
+          const pick = complete[Math.floor(Math.random() * complete.length)];
+          location.href = baseAttr + pick.path;
+        }).catch(function (err) { console.warn('Random entry failed:', err); });
     });
   }
 
-  document.addEventListener('click', function (e) {
-    const btn = e.target.closest('[data-so-action]');
-    if (!btn) return;
-    const action = btn.dataset.soAction;
-    if (action === 'play') play();
-    else if (action === 'step') step();
-    else if (action === 'reset') reset();
-  });
-
-  // Click on the stage itself replays
-  stage.addEventListener('click', function () {
-    if (!writer) play();
-    else { stepIdx = 0; writer.animateCharacter(); }
-  });
-
-  // Auto-init on idle so first interaction is instant; respect data-saver
-  const saver = navigator.connection && navigator.connection.saveData;
-  if (!saver && 'requestIdleCallback' in window) {
-    requestIdleCallback(function () { init(); }, { timeout: 2000 });
-  }
 }()); }
