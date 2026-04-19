@@ -9,7 +9,7 @@
  *         data/recent.json
  */
 
-import { readFileSync, writeFileSync, mkdirSync, readdirSync, statSync } from 'fs';
+import { readFileSync, writeFileSync, mkdirSync, readdirSync, statSync, unlinkSync } from 'fs';
 import { join, dirname, basename, relative } from 'path';
 import { fileURLToPath } from 'url';
 import matter from 'gray-matter';
@@ -266,6 +266,25 @@ for (const { fm, body, slug, category, outDir, entry } of pending) {
   }
 }
 
+// Prune orphan pages: any pages/<category>/*.html without a matching content source
+const expectedPaths = new Set(entries.map(e => e.path));
+let pruned = 0;
+const pagesRoot = join(ROOT, 'pages');
+for (const cat of readdirSync(pagesRoot)) {
+  if (cat === 'hsk') continue;
+  const catDir = join(pagesRoot, cat);
+  if (!statSync(catDir).isDirectory()) continue;
+  for (const name of readdirSync(catDir)) {
+    if (!name.endsWith('.html')) continue;
+    const rel = `pages/${cat}/${name}`;
+    if (!expectedPaths.has(rel)) {
+      unlinkSync(join(catDir, name));
+      console.log(`  ⌫  pruned orphan: ${rel}`);
+      pruned++;
+    }
+  }
+}
+
 // Sort entries: complete first, then stubs; within each group by updated desc
 entries.sort((a, b) => {
   if (a.status !== b.status) return a.status === 'complete' ? -1 : 1;
@@ -414,7 +433,7 @@ const manifest = {
 };
 writeFileSync(join(ROOT, 'manifest.webmanifest'), JSON.stringify(manifest, null, 2), 'utf8');
 
-console.log(`\nBuild complete: ${built} pages written, ${errors} errors.`);
+console.log(`\nBuild complete: ${built} pages written, ${pruned} pruned, ${errors} errors.`);
 console.log(`OG cards: ${ogWritten} SVGs generated.`);
 console.log(`Sitemap: ${urls.length} URLs.`);
 console.log(`Auto-linked: ${autoLinkCount}/${pending.length} pages.`);
