@@ -1,0 +1,254 @@
+---
+type: 'grammar'
+category: 'grammar'
+status: 'complete'
+title: '过 · the experiential aspect marker'
+desc: "The particle that says 'I have ever done this' — not when, not how often, just that it once happened. The most-confused pair with 了."
+metaDesc: "过 guò: experiential aspect marker in Mandarin. The particle for 'have ever done', distinct from 了 (perfective). Covers patterns, negation with 没, contrast with 了, and the full verb 过 (to pass)."
+pageTitle: '过 guò'
+tags:
+  - 'aspect'
+  - 'particle'
+  - 'grammar'
+updated: '2026-04-19'
+pinyin: 'guò / guo'
+sources:
+  - 'Li & Thompson, Mandarin Chinese: A Functional Reference Grammar (1981) — canonical treatment of experiential 过'
+  - 'Chao Yuen Ren, A Grammar of Spoken Chinese (1968) — historical analysis'
+---
+
+<button class="toc-toggle" onclick="document.getElementById('sidebar').classList.toggle('open')">目录 Contents ▾</button>
+
+<div class="shell">
+
+  <!-- ═══ SIDEBAR ═══ -->
+  <aside class="sidebar" id="sidebar">
+
+    <span class="toc-topic">过</span>
+    <span class="toc-topic-en">Experiential Aspect</span>
+
+    <div class="toc-divider"></div>
+    <span class="toc-label">On this page</span>
+
+    <ul class="toc-list">
+      <li><a href="#etymology">
+        <span class="toc-cn">字源</span> Etymology
+        <span class="toc-sub">from "to pass" to "to have passed through"</span>
+      </a></li>
+      <li><a href="#pattern">
+        <span class="toc-cn">句型</span> The Basic Pattern
+        <span class="toc-sub">V + 过</span>
+      </a></li>
+      <li><a href="#vsle">
+        <span class="toc-cn">过 vs 了</span> Against 了
+        <span class="toc-sub">the critical contrast</span>
+      </a></li>
+      <li><a href="#negation">
+        <span class="toc-cn">否定</span> Negation
+        <span class="toc-sub">没 + V + 过</span>
+      </a></li>
+      <li><a href="#fullverb">
+        <span class="toc-cn">动词过</span> 过 as Full Verb
+        <span class="toc-sub">to pass, to cross, to exceed</span>
+      </a></li>
+      <li><a href="#chengyu">
+        <span class="toc-cn">成语</span> Idioms
+        <span class="toc-sub">chéngyǔ with 过</span>
+      </a></li>
+      <li><a href="#adjacent">
+        <span class="toc-cn">相邻</span> Adjacent Vocab
+        <span class="toc-sub">xiānglín cíhuì</span>
+      </a></li>
+    </ul>
+  </aside>
+
+  <!-- ═══ MAIN ═══ -->
+  <main class="main">
+
+    <header class="topic-hero">
+      <span class="topic-hero-eyebrow">Grammar · 语法 yǔfǎ</span>
+      <h1 class="topic-hero-title">过</h1>
+      <span class="topic-hero-title-py">guò · guo</span>
+      <p class="topic-hero-desc">The particle that says "I have, at some point in my life, done this." Not when. Not how often. Just that it once happened. The critical pair with 了.</p>
+    </header>
+
+    <span class="section-anchor" id="etymology"></span>
+    <div class="section-head">
+      <span class="sh-cn">字源</span>
+      <span class="sh-py">zìyuán</span>
+      <span class="sh-en">Etymology</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="过">
+      <div class="scholar-label">to pass → to have passed through</div>
+      <p>The full verb 过 (guò, fourth tone) means "to pass, to cross, to go through." The walking radical 辶 is visible at the bottom-left; the phonetic 呙 (or simplified 寸) sits at the top-right. The original sense of spatial passage — crossing a bridge, passing a gate — is productive in modern compounds: 过桥 (cross a bridge), 过街 (cross the street), 通过 (to pass through, to pass a test).</p>
+      <p>From that spatial sense, the character extended to temporal passage: "to have gone through a time or event." By the medieval period, 过 had grammaticalised into a verbal particle, losing its tone and becoming a neutral-tone suffix attached to verbs: <strong>V + 过</strong> = "have ever gone through the event of V-ing." This grammaticalised 过 is what modern grammar books call the <em>experiential aspect marker</em>.</p>
+      <p>The two readings coexist in the language and are distinguished by context, stress, and — for attentive speakers — tone. The full verb stays fourth-tone (guò); the experiential particle drops to neutral tone (guo).</p>
+    </div>
+
+    <span class="section-anchor" id="pattern"></span>
+    <div class="section-head">
+      <span class="sh-cn">句型</span>
+      <span class="sh-py">jùxíng</span>
+      <span class="sh-en">The Basic Pattern</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="pattern">
+      <span class="label">verb-object aspect construction</span>
+      <p>The experiential is formed by placing 过 directly after the verb, before any object:</p>
+      <p><code>Subject + Verb + 过 + (Object)</code></p>
+      <p>Examples:</p>
+      <ul>
+        <li>我去过北京。(Wǒ qùguo Běijīng.) — I have been to Beijing. (at some point in my life)</li>
+        <li>你吃过北京烤鸭吗？(Nǐ chīguo Běijīng kǎoyā ma?) — Have you ever eaten Beijing roast duck?</li>
+        <li>他学过三年中文。(Tā xuéguo sān nián Zhōngwén.) — He has studied Chinese for three years. (at some earlier point; no longer studying)</li>
+      </ul>
+      <p>Note the third example: 过 can pair with a duration (三年 "three years") to mean "did this activity for three years in the past, and has since stopped." The activity is closed.</p>
+    </div>
+
+    <span class="section-anchor" id="vsle"></span>
+    <div class="section-head">
+      <span class="sh-cn">过 vs 了</span>
+      <span class="sh-py">guo vs le</span>
+      <span class="sh-en">Against 了</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="别">
+      <div class="scholar-label">the single most learner-critical distinction in Mandarin aspect</div>
+      <p>English "I went to Beijing" maps onto both 我去了北京 and 我去过北京, and learners use them interchangeably for months. They mean different things.</p>
+      <p><strong>了 (perfective)</strong> anchors to a specific occasion. It reports a completed event, often one whose result is still relevant. <em>我去了北京</em> — "I went to Beijing [on a specific occasion, possibly recent, possibly still there or just back]."</p>
+      <p><strong>过 (experiential)</strong> ignores the occasion. It reports that the event has happened at some indeterminate point, treating the speaker's life as a set of experiences-had. <em>我去过北京</em> — "I have been to Beijing [at some time in my life]."</p>
+      <p>A common diagnostic: if the question "when?" is natural to ask about the event, use 了. If the natural follow-up is "how many times?" or "what was it like?", use 过. 了 is anchored to a timeline; 过 is anchored to the life of the subject.</p>
+      <p>Another diagnostic: 过 readily takes a negative answer (<em>没去过</em>, "never been"). 了 does not negate with 没…了 at all — its negation is 没 + verb without 了 (<em>没去</em>, "didn't go").</p>
+    </div>
+
+    <div class="cards">
+      <div class="card c-red">
+        <div class="card-head">The Beijing test</div>
+        <p><strong>我去过北京。</strong> Wǒ qùguo Běijīng. — I have been to Beijing [experience; at some point].<br><strong>我去了北京。</strong> Wǒ qùle Běijīng. — I went to Beijing [specific trip; usually very recent or ongoing in context].</p>
+      </div>
+      <div class="card c-ochre">
+        <div class="card-head">The sushi test</div>
+        <p><strong>你吃过日本菜吗？</strong> Nǐ chīguo Rìběn cài ma? — Have you ever eaten Japanese food? [life-experience question; natural before ordering together]<br><strong>你吃了日本菜吗？</strong> Nǐ chīle Rìběn cài ma? — Did you eat the Japanese food? [specific meal; used if you just served them some and want to know if they ate it]</p>
+      </div>
+      <div class="card c-teal">
+        <div class="card-head">When both are wrong</div>
+        <p>Present habitual actions take neither. "I go to Beijing every year" is 我每年去北京, no aspect particle. "I like Japanese food" is 我喜欢日本菜. Both 了 and 过 presuppose that the event is already complete or bracketed off, not ongoing.</p>
+      </div>
+    </div>
+
+    <span class="section-anchor" id="negation"></span>
+    <div class="section-head">
+      <span class="sh-cn">否定</span>
+      <span class="sh-py">fǒudìng</span>
+      <span class="sh-en">Negation</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="pattern">
+      <span class="label">没 + V + 过 — "have never V-ed"</span>
+      <p>Experiential 过 negates with 没 (méi) while keeping the 过 particle in place:</p>
+      <p><code>Subject + 没 + Verb + 过 + (Object)</code></p>
+      <ul>
+        <li>我没去过北京。(Wǒ méi qùguo Běijīng.) — I have never been to Beijing.</li>
+        <li>他没吃过臭豆腐。(Tā méi chīguo chòu dòufu.) — He has never eaten stinky tofu.</li>
+      </ul>
+      <p>This is asymmetric with 了, which loses its particle entirely under negation. The retention of 过 under negation is precisely because 过 is marking a <em>category of experience</em> (had-or-not-had), not an event-completion.</p>
+    </div>
+
+    <span class="section-anchor" id="fullverb"></span>
+    <div class="section-head">
+      <span class="sh-cn">动词过</span>
+      <span class="sh-py">dòngcí guò</span>
+      <span class="sh-en">过 as Full Verb</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="cards">
+      <div class="card c-v">
+        <div class="tags"><span class="tag tag-v">v</span></div>
+        <div class="card-head">
+          <span class="card-cn">过</span>
+          <span class="card-py">guò</span>
+          <span class="card-en">to pass, to cross, to exceed</span>
+        </div>
+        <p class="card-def">The original lexical meaning, fourth tone. Spatial: 过马路 (cross the street), 过桥 (cross a bridge). Temporal: 过节 (celebrate a festival, literally "pass through a festival"), 过生日 (have a birthday). Quantitative: 超过 (to exceed), 过分 (excessive, "past the measure").</p>
+      </div>
+      <div class="card c-v">
+        <div class="tags"><span class="tag tag-v">v</span></div>
+        <div class="card-head">
+          <span class="card-cn">过来</span>
+          <span class="card-py">guòlái</span>
+          <span class="card-en">come over, come here</span>
+        </div>
+        <p class="card-def">A directional compound: "cross-come." Used both literally (physical motion toward the speaker) and metaphorically (recovering, regaining consciousness: 醒过来 "wake up", 缓过来 "come back to oneself").</p>
+      </div>
+      <div class="card c-n">
+        <div class="tags"><span class="tag tag-n">n</span></div>
+        <div class="card-head">
+          <span class="card-cn">过错</span>
+          <span class="card-py">guòcuò</span>
+          <span class="card-en">fault, wrongdoing</span>
+        </div>
+        <p class="card-def">"Passed-error" — a fault that has been committed. In classical Chinese 过 alone often meant "a fault, a transgression" (the Analects: 过则勿惮改 "when you have faults, do not hesitate to correct them"). The modern compound preserves the sense.</p>
+      </div>
+    </div>
+
+    <span class="section-anchor" id="chengyu"></span>
+    <div class="section-head">
+      <span class="sh-cn">成语</span>
+      <span class="sh-py">chéngyǔ</span>
+      <span class="sh-en">Idioms</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="chengyu-grid">
+      <div class="cy">
+        <div class="cy-cn">过河拆桥</div>
+        <div class="cy-py">guò hé chāi qiáo</div>
+        <div class="cy-en">"cross the river and tear down the bridge" — abandon those who helped you</div>
+        <div class="cy-note">Said of someone who uses help to achieve a goal and then discards the helper. The image is vivid: you used the bridge, so tear it down behind you. Pointed criticism.</div>
+      </div>
+      <div class="cy">
+        <div class="cy-cn">过目不忘</div>
+        <div class="cy-py">guò mù bú wàng</div>
+        <div class="cy-en">"pass the eye, never forget" — photographic memory</div>
+        <div class="cy-note">Praise for someone whose memory holds whatever passes in front of it. Often said of scholars or professionals who absorb documents at a glance.</div>
+      </div>
+      <div class="cy">
+        <div class="cy-cn">过犹不及</div>
+        <div class="cy-py">guò yóu bù jí</div>
+        <div class="cy-en">"going too far is as bad as falling short"</div>
+        <div class="cy-note">From the Analects (11.16). The classical argument for the mean: excess and deficiency are both failures. One of the more philosophical of the 过 chengyu, and one Confucians quote constantly.</div>
+      </div>
+    </div>
+
+    <span class="section-anchor" id="adjacent"></span>
+    <div class="section-head">
+      <span class="sh-cn">相邻</span>
+      <span class="sh-py">xiānglín</span>
+      <span class="sh-en">Adjacent Vocabulary</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="adj-wrap">
+      <span class="adj"><span class="a-cn">了</span> <span class="a-py">le</span> <span class="a-en">perfective</span></span>
+      <span class="adj"><span class="a-cn">着</span> <span class="a-py">zhe</span> <span class="a-en">continuous</span></span>
+      <span class="adj"><span class="a-cn">在</span> <span class="a-py">zài</span> <span class="a-en">progressive</span></span>
+      <span class="adj"><span class="a-cn">曾经</span> <span class="a-py">céngjīng</span> <span class="a-en">once, formerly</span></span>
+      <span class="adj"><span class="a-cn">从来</span> <span class="a-py">cónglái</span> <span class="a-en">ever (in negation)</span></span>
+      <span class="adj"><span class="a-cn">经验</span> <span class="a-py">jīngyàn</span> <span class="a-en">experience</span></span>
+      <span class="adj"><span class="a-cn">没</span> <span class="a-py">méi</span> <span class="a-en">not (for perfective/experiential)</span></span>
+    </div>
+
+    <footer class="page-footer">
+      <span class="footer-id">Field Notes on Chinese · <span>过 guò</span> · Grammar</span>
+      <a href="../../index.html" class="footer-back">← All Entries</a>
+    </footer>
+
+  </main>
+</div>
+<script src="../../scripts/toc-scroll.js"></script>

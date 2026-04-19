@@ -55,6 +55,54 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://hunterdellere.github.io/chinese-field-guide/pages/characters/mu4_木.html</loc>
+    <lastmod>2026-04-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://hunterdellere.github.io/chinese-field-guide/pages/characters/shui3_水.html</loc>
+    <lastmod>2026-04-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://hunterdellere.github.io/chinese-field-guide/pages/characters/wang2_王.html</loc>
+    <lastmod>2026-04-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://hunterdellere.github.io/chinese-field-guide/pages/chengyu/huashetianzu_画蛇添足.html</loc>
+    <lastmod>2026-04-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://hunterdellere.github.io/chinese-field-guide/pages/chengyu/kezhouqiujian_刻舟求剑.html</loc>
+    <lastmod>2026-04-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://hunterdellere.github.io/chinese-field-guide/pages/chengyu/saiwengshima_塞翁失马.html</loc>
+    <lastmod>2026-04-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://hunterdellere.github.io/chinese-field-guide/pages/chengyu/shouzhudaitu_守株待兔.html</loc>
+    <lastmod>2026-04-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://hunterdellere.github.io/chinese-field-guide/pages/chengyu/yugongyishan_愚公移山.html</loc>
+    <lastmod>2026-04-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://hunterdellere.github.io/chinese-field-guide/pages/culinary/topic_caixi.html</loc>
     <lastmod>2026-04-19</lastmod>
     <changefreq>monthly</changefreq>
@@ -217,6 +265,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://hunterdellere.github.io/chinese-field-guide/pages/grammar/guo_过.html</loc>
+    <lastmod>2026-04-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://hunterdellere.github.io/chinese-field-guide/pages/science/topic_bencao.html</loc>
     <lastmod>2026-04-19</lastmod>
     <changefreq>monthly</changefreq>
@@ -254,6 +308,12 @@
   </url>
   <url>
     <loc>https://hunterdellere.github.io/chinese-field-guide/pages/science/topic_zhenjiu.html</loc>
+    <lastmod>2026-04-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://hunterdellere.github.io/chinese-field-guide/pages/vocab/keqi_客气.html</loc>
     <lastmod>2026-04-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>

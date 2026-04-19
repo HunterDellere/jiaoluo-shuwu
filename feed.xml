@@ -6,7 +6,7 @@
     <atom:link href="https://hunterdellere.github.io/chinese-field-guide/feed.xml" rel="self" type="application/rss+xml" />
     <description>A field guide to Chinese — characters, language, and the long civilisation behind them.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 19 Apr 2026 06:10:12 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 Apr 2026 06:26:54 GMT</lastBuildDate>
     <item>
       <title>楚辞 · Songs of Chu</title>
       <link>https://hunterdellere.github.io/chinese-field-guide/pages/arts/topic_chuci.html</link>
@@ -70,6 +70,70 @@
       <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
       <description>The art of the name — bronze to stone, dynasty to dynasty, two schools of carvers, and the small red square that authenticates everything.</description>
       <category>arts</category>
+    </item>
+    <item>
+      <title>木 · tree, wood</title>
+      <link>https://hunterdellere.github.io/chinese-field-guide/pages/characters/mu4_木.html</link>
+      <guid isPermaLink="true">https://hunterdellere.github.io/chinese-field-guide/pages/characters/mu4_木.html</guid>
+      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
+      <description>A tree seen whole: trunk, branches, roots. The pictograph that became a radical, a wuxing element, and the building block of 林, 森, 本, and 末.</description>
+      <category>characters</category>
+    </item>
+    <item>
+      <title>水 · water</title>
+      <link>https://hunterdellere.github.io/chinese-field-guide/pages/characters/shui3_水.html</link>
+      <guid isPermaLink="true">https://hunterdellere.github.io/chinese-field-guide/pages/characters/shui3_水.html</guid>
+      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
+      <description>The first of the five elements, the radical that runs through hundreds of compounds, and the Daoist image of how to act in the world.</description>
+      <category>characters</category>
+    </item>
+    <item>
+      <title>王 · king</title>
+      <link>https://hunterdellere.github.io/chinese-field-guide/pages/characters/wang2_王.html</link>
+      <guid isPermaLink="true">https://hunterdellere.github.io/chinese-field-guide/pages/characters/wang2_王.html</guid>
+      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
+      <description>Three horizontals joined by one vertical — the ruler who connects heaven, earth, and humanity. Also the most common Chinese surname, and a radical that is secretly 玉 (jade) in disguise.</description>
+      <category>characters</category>
+    </item>
+    <item>
+      <title>画蛇添足 · Drawing Legs on a Snake</title>
+      <link>https://hunterdellere.github.io/chinese-field-guide/pages/chengyu/huashetianzu_画蛇添足.html</link>
+      <guid isPermaLink="true">https://hunterdellere.github.io/chinese-field-guide/pages/chengyu/huashetianzu_画蛇添足.html</guid>
+      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
+      <description>He finished first, so he kept drawing — and lost the prize. The idiom for ruining a good thing by overdoing it.</description>
+      <category>chengyu</category>
+    </item>
+    <item>
+      <title>刻舟求剑 · Carving the Boat to Find the Sword</title>
+      <link>https://hunterdellere.github.io/chinese-field-guide/pages/chengyu/kezhouqiujian_刻舟求剑.html</link>
+      <guid isPermaLink="true">https://hunterdellere.github.io/chinese-field-guide/pages/chengyu/kezhouqiujian_刻舟求剑.html</guid>
+      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
+      <description>He marked the boat where his sword fell into the river. When the boat reached the shore, he dived where the mark was.</description>
+      <category>chengyu</category>
+    </item>
+    <item>
+      <title>塞翁失马 · The Old Man at the Frontier Loses His Horse</title>
+      <link>https://hunterdellere.github.io/chinese-field-guide/pages/chengyu/saiwengshima_塞翁失马.html</link>
+      <guid isPermaLink="true">https://hunterdellere.github.io/chinese-field-guide/pages/chengyu/saiwengshima_塞翁失马.html</guid>
+      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
+      <description>His horse ran off. His neighbours grieved. He shrugged. The Daoist parable that became China&apos;s word for the unknowability of fortune.</description>
+      <category>chengyu</category>
+    </item>
+    <item>
+      <title>守株待兔 · Guarding the Stump, Waiting for Rabbits</title>
+      <link>https://hunterdellere.github.io/chinese-field-guide/pages/chengyu/shouzhudaitu_守株待兔.html</link>
+      <guid isPermaLink="true">https://hunterdellere.github.io/chinese-field-guide/pages/chengyu/shouzhudaitu_守株待兔.html</guid>
+      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
+      <description>A rabbit ran headlong into a tree stump. The farmer dropped his plough and watched the stump for the rest of his life.</description>
+      <category>chengyu</category>
+    </item>
+    <item>
+      <title>愚公移山 · The Foolish Old Man Moves the Mountains</title>
+      <link>https://hunterdellere.github.io/chinese-field-guide/pages/chengyu/yugongyishan_愚公移山.html</link>
+      <guid isPermaLink="true">https://hunterdellere.github.io/chinese-field-guide/pages/chengyu/yugongyishan_愚公移山.html</guid>
+      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
+      <description>Two mountains blocked his door. He and his sons began to move them, one basket at a time. A mocker laughed. He said: when I die my sons will continue; when they die, their sons.</description>
+      <category>chengyu</category>
     </item>
     <item>
       <title>八大菜系 · Eight Great Cuisines</title>
@@ -182,70 +246,6 @@
       <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
       <description>In Chinese, how you address someone is not a formality — it is a precise statement of how you understand the relationship between you.</description>
       <category>daily</category>
-    </item>
-    <item>
-      <title>红白喜事 · Weddings &amp; Funerals</title>
-      <link>https://hunterdellere.github.io/chinese-field-guide/pages/daily/topic_hongbai.html</link>
-      <guid isPermaLink="true">https://hunterdellere.github.io/chinese-field-guide/pages/daily/topic_hongbai.html</guid>
-      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
-      <description>The phrase itself tells the story: red and white, marriage and death, both require the same thing — the whole community showing up.</description>
-      <category>daily</category>
-    </item>
-    <item>
-      <title>敬酒 · Toasting Culture</title>
-      <link>https://hunterdellere.github.io/chinese-field-guide/pages/daily/topic_jingjiu.html</link>
-      <guid isPermaLink="true">https://hunterdellere.github.io/chinese-field-guide/pages/daily/topic_jingjiu.html</guid>
-      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
-      <description>The Chinese toast is not a punctuation mark at the end of a speech — it is a social instrument with its own grammar, hierarchy, and rules of engagement.</description>
-      <category>daily</category>
-    </item>
-    <item>
-      <title>迷信 · Superstitions</title>
-      <link>https://hunterdellere.github.io/chinese-field-guide/pages/daily/topic_mixin.html</link>
-      <guid isPermaLink="true">https://hunterdellere.github.io/chinese-field-guide/pages/daily/topic_mixin.html</guid>
-      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
-      <description>Superstition in China is not a holdover from ignorance — it is a living system that coexists comfortably with education, modernity, and pragmatism.</description>
-      <category>daily</category>
-    </item>
-    <item>
-      <title>请客吃饭 · Treating to a Meal</title>
-      <link>https://hunterdellere.github.io/chinese-field-guide/pages/daily/topic_qingke.html</link>
-      <guid isPermaLink="true">https://hunterdellere.github.io/chinese-field-guide/pages/daily/topic_qingke.html</guid>
-      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
-      <description>The Chinese banquet is not a meal with social dimensions — it is a social institution that happens to involve food.</description>
-      <category>daily</category>
-    </item>
-    <item>
-      <title>数字 · Lucky &amp; Unlucky Numbers</title>
-      <link>https://hunterdellere.github.io/chinese-field-guide/pages/daily/topic_shuzi.html</link>
-      <guid isPermaLink="true">https://hunterdellere.github.io/chinese-field-guide/pages/daily/topic_shuzi.html</guid>
-      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
-      <description>In China, numbers are not neutral — they carry sound, and sound carries meaning, and meaning can determine whether you close the deal or jinx the wedding.</description>
-      <category>daily</category>
-    </item>
-    <item>
-      <title>送礼 · Gift-Giving</title>
-      <link>https://hunterdellere.github.io/chinese-field-guide/pages/daily/topic_songli.html</link>
-      <guid isPermaLink="true">https://hunterdellere.github.io/chinese-field-guide/pages/daily/topic_songli.html</guid>
-      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
-      <description>Gift-giving in China is less about generosity than about maintenance — a technology for building and sustaining the relationships that make life work.</description>
-      <category>daily</category>
-    </item>
-    <item>
-      <title>八大菜系 · Cuisines as Geography</title>
-      <link>https://hunterdellere.github.io/chinese-field-guide/pages/geography/topic_caixi_geography.html</link>
-      <guid isPermaLink="true">https://hunterdellere.github.io/chinese-field-guide/pages/geography/topic_caixi_geography.html</guid>
-      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
-      <description>Read the Eight Great Cuisines as a geographic document — what the land, climate, and trade routes of each region produced at the table, and what the table tells you about the land.</description>
-      <category>geography</category>
-    </item>
-    <item>
-      <title>方言 · The Dialect Map</title>
-      <link>https://hunterdellere.github.io/chinese-field-guide/pages/geography/topic_fangyan.html</link>
-      <guid isPermaLink="true">https://hunterdellere.github.io/chinese-field-guide/pages/geography/topic_fangyan.html</guid>
-      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
-      <description>Chinese is not one language but a family — seven major dialect groups whose speakers cannot understand one another, united by a shared written script and divided by a history of geography and migration.</description>
-      <category>geography</category>
     </item>
   </channel>
 </rss>
