@@ -443,18 +443,18 @@
     box-shadow: 0 1px 0 rgba(28,18,8,0.04), 0 6px 18px rgba(28,18,8,0.04);
   }
   .overview-shelf-head {
-    display: flex; align-items: baseline; gap: 0.6rem;
+    display: flex; flex-direction: column; align-items: flex-start; gap: 0.2rem;
     margin-bottom: 0.85rem;
     padding-bottom: 0.65rem;
     border-bottom: 1px dashed var(--rule-2);
   }
   .overview-shelf-cn {
-    font-family: var(--font-cn); font-size: 1.1rem; font-weight: 700;
-    color: var(--ink-2); letter-spacing: 0.04em;
+    font-family: var(--font-cn); font-size: 1.4rem; font-weight: 700;
+    color: var(--ink-2); letter-spacing: 0.04em; line-height: 1.2;
   }
   .overview-shelf-py { font-family: var(--font-mono); font-size: 0.72rem; color: var(--ochre); letter-spacing: 0.06em; }
   .overview-shelf-en { font-family: var(--font-body); font-size: 1rem; font-weight: 600; color: var(--ink); }
-  .overview-shelf-desc { font-size: 0.85rem; color: var(--ink-4); font-style: italic; margin-left: auto; text-align: right; max-width: 60%; line-height: 1.45; }
+  .overview-shelf-desc { font-size: 0.85rem; color: var(--ink-4); font-style: italic; line-height: 1.45; margin-top: 0.15rem; }
   .overview-grid {
     display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.7rem;
   }
