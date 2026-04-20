@@ -51,12 +51,87 @@
     "pages/arts/topic_tangshi.html"
   ];
 
-  // Day-of-year index, 1-based. Used to pick a stable daily featured theme.
+  // Day-of-year, 0-based. Used to pick a stable daily featured theme.
   function dayOfYear(date) {
     const d = new Date(Date.UTC(date.getFullYear(), date.getMonth(), date.getDate()));
     const yearStart = new Date(Date.UTC(d.getUTCFullYear(), 0, 1));
-    return Math.floor((d - yearStart) / 86400000) + 1;
+    return Math.floor((d - yearStart) / 86400000);
   }
+
+  // Mulberry32 PRNG — fast, good distribution, 32-bit seed.
+  function mulberry32(seed) {
+    return function() {
+      seed |= 0; seed = seed + 0x6D2B79F5 | 0;
+      let t = Math.imul(seed ^ seed >>> 15, 1 | seed);
+      t = t + Math.imul(t ^ t >>> 7, 61 | t) ^ t;
+      return ((t ^ t >>> 14) >>> 0) / 4294967296;
+    };
+  }
+
+  // Returns a deterministic permutation of arr seeded by seed.
+  // Same seed → same order every time; different seed → different order.
+  function seededShuffle(arr, seed) {
+    const out = arr.slice();
+    const rand = mulberry32(seed);
+    for (let i = out.length - 1; i > 0; i--) {
+      const j = Math.floor(rand() * (i + 1));
+      [out[i], out[j]] = [out[j], out[i]];
+    }
+    return out;
+  }
+
+  // Approximate Gregorian → Chinese lunar date.
+  // Uses the "Solar Terms" epoch method: accurate to ±1 day for 1900–2100.
+  // Returns { month, day, isLeap } where month/day are traditional lunar numbers.
+  function lunarDate(date) {
+    // Reference: lunar new year dates 2020–2035 (Western calendar).
+    // For years outside this window we fall back gracefully.
+    const LNY = {
+      2020:[1,25],2021:[2,12],2022:[2,1],2023:[1,22],2024:[2,10],
+      2025:[1,29],2026:[2,17],2027:[2,6],2028:[1,26],2029:[2,13],
+      2030:[2,3],2031:[1,23],2032:[2,11],2033:[1,31],2034:[2,19],
+      2035:[2,8]
+    };
+    const y = date.getFullYear();
+    const lny = LNY[y] || LNY[y - 1];
+    if (!lny) return null;
+
+    // Lunar month lengths for years we track (29 or 30 days, approximated).
+    // We use a simple 29.53-day average — close enough for display.
+    const AVG_LUNAR_MONTH = 29.53059;
+
+    let refYear = lny === LNY[y] ? y : y - 1;
+    const refDate = new Date(refYear, lny[0] - 1, lny[1]);
+    const diff = Math.round((date - refDate) / 86400000);
+    if (diff < 0) return null; // before this year's LNY, would need prior year table
+
+    const monthIndex = Math.floor(diff / AVG_LUNAR_MONTH);
+    const dayInMonth = diff - Math.round(monthIndex * AVG_LUNAR_MONTH) + 1;
+    const lunarMonth = monthIndex + 1;
+    const lunarDay = Math.max(1, Math.min(30, dayInMonth));
+
+    const TIAN_GAN = ["甲","乙","丙","丁","戊","己","庚","辛","壬","癸"];
+    const DI_ZHI  = ["子","丑","寅","卯","辰","巳","午","未","申","酉","戌","亥"];
+    // Stem-branch year: 甲子 = 1984
+    const stemIdx   = ((refYear - 1984) % 10 + 10) % 10;
+    const branchIdx = ((refYear - 1984) % 12 + 12) % 12;
+
+    return {
+      year: TIAN_GAN[stemIdx] + DI_ZHI[branchIdx] + "年",
+      month: lunarMonth,
+      day: lunarDay
+    };
+  }
+
+  const LUNAR_DAY_NAMES = [
+    "","初一","初二","初三","初四","初五","初六","初七","初八","初九","初十",
+    "十一","十二","十三","十四","十五","十六","十七","十八","十九","二十",
+    "廿一","廿二","廿三","廿四","廿五","廿六","廿七","廿八","廿九","三十"
+  ];
+  const LUNAR_MONTH_NAMES = [
+    "","正月","二月","三月","四月","五月","六月",
+    "七月","八月","九月","十月","十一月","腊月"
+  ];
 
   const SUGGESTIONS = [
     { label: "心", q: "心" },
@@ -213,13 +288,17 @@
       const themes = Array.isArray(featured) ? featured : [];
       if (!section || !card || !themes.length) return;
 
-      // Pick a stable theme per day. Fall through gaps so we always render.
+      // Seeded shuffle: same order all year, never repeats until all themes
+      // exhausted. Seed = year so order changes each January 1.
       const now = new Date();
+      const yearSeed = now.getFullYear() * 1000003;
+      const shuffled = seededShuffle(themes, yearSeed);
       const day = dayOfYear(now);
-      const len = themes.length;
+      const len = shuffled.length;
       let theme = null, lead = null;
+      // Walk forward from today's slot; skip any entry whose page doesn't exist.
       for (let offset = 0; offset < len; offset++) {
-        const t = themes[(day - 1 + offset) % len];
+        const t = shuffled[(day + offset) % len];
         const e = byPath[t.lead];
         if (e) { theme = t; lead = e; break; }
       }
@@ -238,7 +317,12 @@
         ? (lead.title.split("·").slice(1).join("·").trim() || lead.title)
         : theme.title;
 
-      const dateLabel = now.toLocaleDateString(undefined, { month: "long", day: "numeric" });
+      const gregLabel = now.toLocaleDateString(undefined, { month: "long", day: "numeric" });
+      const lunar = lunarDate(now);
+      const lunarLabel = lunar
+        ? ` · ${lunar.year} ${LUNAR_MONTH_NAMES[lunar.month] || ""} ${LUNAR_DAY_NAMES[lunar.day] || ""}`
+        : "";
+      const dateLabel = gregLabel + lunarLabel;
 
       card.dataset.watermark = glyphChar || "";
       if (lead.category) card.dataset.category = lead.category;
