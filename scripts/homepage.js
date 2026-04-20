@@ -17,20 +17,27 @@
     hubs:       { cn: "门户", py: "ménhù",    en: "Hubs",                color: "var(--cat-hubs)",       desc: "Curated reading paths through thematic clusters." }
   };
 
-  // Reading order on the homepage. Within "The Civilisation" we move from
-  // thought (philosophy → religion) to past (history → geography) to expression
-  // (arts) and on to lived life (culture, culinary, daily) and the natural
-  // sciences. This reads more like a guided tour than the older alphabetical
-  // mash-up.
+  // Three families: Language → Topics → Hubs.
+  // Topics are clustered thematically: thought → place/time → lived → making.
+  // Chengyu moves to Hubs because it reads as a curated collection alongside tea.
   const CAT_ORDER = [
-    "characters","vocab","grammar","chengyu","hsk",
+    "characters","vocab","grammar",
     "philosophy","religion",
     "history","geography",
-    "arts",
-    "culture","culinary","daily",
-    "science",
-    "hubs"
+    "culture","daily","culinary",
+    "arts","science",
+    "chengyu","hubs",
+    "hsk"
   ];
+
+  const LANGUAGE_KEYS = ["characters","vocab","grammar"];
+  const TOPICS_KEYS   = ["philosophy","religion","history","geography","culture","daily","culinary","arts","science"];
+  const HUBS_KEYS     = ["chengyu","hubs"];
+  const FAMILY_FOR    = new Map([
+    ...LANGUAGE_KEYS.map(k => [k, "language"]),
+    ...TOPICS_KEYS.map(k => [k, "topics"]),
+    ...HUBS_KEYS.map(k => [k, "hubs"]),
+  ]);
 
   const TODAY = new Date().toISOString().slice(0, 10);
 
@@ -389,17 +396,12 @@
     }
 
     // ── overview groups ────────────────────────────────────────────────────────
-    // Two halves: the building blocks of the language, and the civilisation
-    // that built it. Each half gets its own labelled header and its own grid
-    // of cells so the structure of the nook is visible at a glance.
+    // Three families: Language, Topics, Hubs. Each gets a labelled shelf.
     const overviewStack = document.getElementById("overview-stack");
     const overviewSub = document.getElementById("overview-sub");
-    const LANGUAGE_KEYS = ["characters","vocab","grammar","chengyu"];
-    const CIVILISATION_KEYS = CAT_ORDER.filter(k => !LANGUAGE_KEYS.includes(k));
     if (overviewSub) {
-      const langCount = LANGUAGE_KEYS.reduce((n, k) => n + (groups[k] ? groups[k].length : 0), 0);
-      const civCount  = CIVILISATION_KEYS.reduce((n, k) => n + (groups[k] ? groups[k].length : 0), 0);
-      overviewSub.textContent = `Two halves: ${langCount} notes on the building blocks of the language, ${civCount} on the civilisation that built it.`;
+      const total = CAT_ORDER.reduce((n, k) => n + (groups[k] ? groups[k].length : 0), 0);
+      overviewSub.textContent = `Three families — language, topics, hubs — ${total} notes in all.`;
     }
     function renderShelf(label, keys) {
       const shelf = document.createElement("div");
@@ -434,10 +436,12 @@
       });
       overviewStack.appendChild(shelf);
     }
-    renderShelf({ kind: "language",     cn: "语言", py: "yǔyán",  en: "The Language",
-                  desc: "Characters, words, grammar, idioms — the building blocks." }, LANGUAGE_KEYS);
-    renderShelf({ kind: "civilisation", cn: "文化", py: "wénhuà", en: "The Civilisation",
-                  desc: "Thought, history, art, food — what the language is used to say." }, CIVILISATION_KEYS);
+    renderShelf({ kind: "language", cn: "语言", py: "yǔyán",  en: "The Language",
+                  desc: "Characters, words, grammar — the building blocks." }, LANGUAGE_KEYS);
+    renderShelf({ kind: "topics",   cn: "话题", py: "huàtí",  en: "Topics",
+                  desc: "Thought, history, place, lived life — what the language is used to say." }, TOPICS_KEYS);
+    renderShelf({ kind: "hubs",     cn: "门户", py: "ménhù",  en: "Hubs",
+                  desc: "Curated collections and reading paths through thematic clusters." }, HUBS_KEYS);
 
     // ── recent grid ────────────────────────────────────────────────────────────
     // Uses data/recent.json (sorted by updated desc at build time) so the order
@@ -503,34 +507,34 @@
     const container = document.getElementById("categories");
     const catGroupMap = {};
 
-    // Visual grouping: characters/vocab/grammar/chengyu sit together under
-    // "The Language"; everything else sits under "The Civilisation". The
-    // divider gets inserted before the first rendered category of each group.
-    const LANGUAGE_CATS = new Set(["characters", "vocab", "grammar", "chengyu"]);
+    // Three-family grouping: Language → Topics → Hubs.
+    // Divider inserted before the first rendered category of each family.
     const GROUP_META = {
-      language:     { cn: "语言", py: "yǔyán",  en: "The Language",     desc: "Characters, words, grammar, idioms — the building blocks." },
-      civilisation: { cn: "文化", py: "wénhuà", en: "The Civilisation", desc: "Religion, philosophy, history, arts, food — what the language is used to say." }
+      language: { cn: "语言", py: "yǔyán",  en: "The Language", desc: "Characters, words, grammar — the building blocks." },
+      topics:   { cn: "话题", py: "huàtí",  en: "Topics",       desc: "Thought, history, place, lived life — what the language is used to say." },
+      hubs:     { cn: "门户", py: "ménhù",  en: "Hubs",         desc: "Curated collections and reading paths through thematic clusters." }
     };
-    const groupsInserted = { language: false, civilisation: false };
+    const familiesInserted = new Set();
 
-    function insertGroupDivider(kind) {
-      if (groupsInserted[kind]) return;
-      const meta = GROUP_META[kind];
+    function insertGroupDivider(family) {
+      if (familiesInserted.has(family)) return;
+      const meta = GROUP_META[family];
+      if (!meta) return;
       const div = document.createElement("div");
-      div.className = "cat-family cat-family-" + kind;
+      div.className = "cat-family cat-family-" + family;
       div.innerHTML = `
         <span class="cat-family-eyebrow">${meta.cn} ${meta.py}</span>
         <h3 class="cat-family-heading">${meta.en}</h3>
         <p class="cat-family-desc">${meta.desc}</p>
       `;
       container.appendChild(div);
-      groupsInserted[kind] = true;
+      familiesInserted.add(family);
     }
 
     CAT_ORDER.forEach(key => {
       const entries = groups[key];
       if (!entries.length) return;
-      insertGroupDivider(LANGUAGE_CATS.has(key) ? "language" : "civilisation");
+      insertGroupDivider(FAMILY_FOR.get(key));
       const meta = CATEGORY_META[key];
 
       const group = document.createElement("section");

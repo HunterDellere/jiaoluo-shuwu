@@ -279,6 +279,7 @@
   .start-here-item[data-category="science"]     { border-top: 2px solid var(--cat-science); }
   .start-here-item[data-category="daily"]       { border-top: 2px solid var(--cat-daily); }
   .start-here-item[data-category="chengyu"]     { border-top: 2px solid var(--cat-chengyu); }
+  .start-here-item[data-category="hubs"]        { border-top: 2px solid var(--cat-hubs); }
 
   .start-here-item[data-category="characters"] .start-here-cn { color: var(--cat-characters); }
   .start-here-item[data-category="vocab"]       .start-here-cn { color: var(--cat-vocab); }
@@ -293,6 +294,7 @@
   .start-here-item[data-category="science"]     .start-here-cn { color: var(--cat-science); }
   .start-here-item[data-category="daily"]       .start-here-cn { color: var(--cat-daily); }
   .start-here-item[data-category="chengyu"]     .start-here-cn { color: var(--cat-chengyu); }
+  .start-here-item[data-category="hubs"]        .start-here-cn { color: var(--cat-hubs); }
 
   .start-here-item-top { display: flex; align-items: flex-start; justify-content: space-between; margin-bottom: 0.3rem; }
   .start-here-num { font-family: var(--font-mono); font-size: 0.58rem; color: var(--ink-5); letter-spacing: 0.08em; padding-top: 0.1rem; }
@@ -728,6 +730,7 @@
   .recent-card[data-category="science"]::before     { background: var(--cat-science); }
   .recent-card[data-category="daily"]::before       { background: var(--cat-daily); }
   .recent-card[data-category="chengyu"]::before     { background: var(--cat-chengyu); }
+  .recent-card[data-category="hubs"]::before        { background: var(--cat-hubs); }
 
   /* Category accent — left bar + glyph color on every overview cell.
      Using border-left so the colour is always visible, not just on hover.
@@ -745,6 +748,7 @@
   .overview-cell[data-category="science"]    { border-left-color: var(--cat-science); }
   .overview-cell[data-category="daily"]      { border-left-color: var(--cat-daily); }
   .overview-cell[data-category="chengyu"]    { border-left-color: var(--cat-chengyu); }
+  .overview-cell[data-category="hubs"]      { border-left-color: var(--cat-hubs); }
 
   .overview-cell[data-category="characters"]:hover { border-color: var(--cat-characters); }
   .overview-cell[data-category="vocab"]:hover       { border-color: var(--cat-vocab); }
@@ -759,6 +763,7 @@
   .overview-cell[data-category="science"]:hover     { border-color: var(--cat-science); }
   .overview-cell[data-category="daily"]:hover       { border-color: var(--cat-daily); }
   .overview-cell[data-category="chengyu"]:hover     { border-color: var(--cat-chengyu); }
+  .overview-cell[data-category="hubs"]:hover        { border-color: var(--cat-hubs); }
 
   /* Recent + browse entry cards: glyph picks up the category colour, replacing
      the default red. Mirrors the How-to-Read legend so the type is clear at
@@ -789,6 +794,8 @@
   .entry-card[data-category="daily"]       .entry-glyph { color: var(--cat-daily);      text-shadow: 1px 1px 0 rgba(122,96,36,0.15); }
   .recent-card[data-category="chengyu"]    .recent-glyph,
   .entry-card[data-category="chengyu"]     .entry-glyph { color: var(--cat-chengyu);    text-shadow: 1px 1px 0 rgba(107,26,42,0.15); }
+  .recent-card[data-category="hubs"]      .recent-glyph,
+  .entry-card[data-category="hubs"]       .entry-glyph { color: var(--cat-hubs);        text-shadow: 1px 1px 0 rgba(92,42,120,0.15); }
 
   /* Featured glyph block — soft tint by category so the lead theme inherits its
      pillar's accent rather than always being cinnabar red. */
@@ -805,6 +812,7 @@
   .featured-card[data-category="science"]    .featured-glyph { background: var(--cat-science);    box-shadow: 0 2px 0 rgba(26,74,92,0.35),   0 6px 14px rgba(26,74,92,0.18); }
   .featured-card[data-category="daily"]      .featured-glyph { background: var(--cat-daily);      box-shadow: 0 2px 0 rgba(122,96,36,0.35),  0 6px 14px rgba(122,96,36,0.18); }
   .featured-card[data-category="chengyu"]    .featured-glyph { background: var(--cat-chengyu);    box-shadow: 0 2px 0 rgba(107,26,42,0.35),  0 6px 14px rgba(107,26,42,0.18); }
+  .featured-card[data-category="hubs"]      .featured-glyph { background: var(--cat-hubs);        box-shadow: 0 2px 0 rgba(92,42,120,0.35),  0 6px 14px rgba(92,42,120,0.18); }
 
   /* Match the featured card's left rule + watermark to the lead category. */
   .featured-card[data-category="characters"] { border-left-color: var(--cat-characters); }
@@ -833,6 +841,8 @@
   .featured-card[data-category="daily"]::after      { color: var(--cat-daily); }
   .featured-card[data-category="chengyu"]    { border-left-color: var(--cat-chengyu); }
   .featured-card[data-category="chengyu"]::after    { color: var(--cat-chengyu); }
+  .featured-card[data-category="hubs"]      { border-left-color: var(--cat-hubs); }
+  .featured-card[data-category="hubs"]::after      { color: var(--cat-hubs); }
 
   @media (max-width: 900px) {
     .start-here-list { grid-template-columns: repeat(3, 1fr); }
