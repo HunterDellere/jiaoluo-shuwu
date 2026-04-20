@@ -74,9 +74,21 @@ export function buildPageFooter(body, fm, slug, category) {
   return body.replace('</main>', `\n    ${footer}\n  </main>`);
 }
 
+/**
+ * Ensure <main class="main"> carries id="main-content" so the layout's
+ * skip-link (<a class="skip-link" href="#main-content">) resolves. Idempotent:
+ * pages that already author the id are left alone.
+ */
+export function ensureMainContentId(body) {
+  if (/\bid="main-content"/.test(body)) return body;
+  return body.replace('<main class="main">', '<main class="main" id="main-content">');
+}
+
 export function injectStrokeOrder(body, fm) {
   if (fm.type !== 'character' || !fm.char) return body;
-  if (!body.includes('</header>')) return body;
+  if (!body.includes('</header>')) {
+    throw new Error(`injectStrokeOrder: character page "${fm.char}" has no </header> — the .hero block is required on character pages.`);
+  }
   const block = `
     <!-- STROKE ORDER -->
     <section class="stroke-order" aria-label="Stroke order animation">
@@ -261,6 +273,7 @@ export function addPinyinAudio(body, fm) {
   // Hero pinyin (character pages): <div class="hero-pinyin">gǎn</div>
   // Inner content may include nested tags (e.g. <span class="tone-num">²</span>),
   // so match non-greedily rather than requiring plain text.
+  const before = body;
   body = body.replace(
     /<div class="hero-pinyin">([\s\S]*?)<\/div>/,
     (m, py) => {
@@ -269,6 +282,9 @@ export function addPinyinAudio(body, fm) {
              `</div>`;
     }
   );
+  if (body === before) {
+    throw new Error(`addPinyinAudio: no <div class="hero-pinyin">…</div> found for character "${fm.char}" — the audio button cannot be attached.`);
+  }
   return body;
 }
 

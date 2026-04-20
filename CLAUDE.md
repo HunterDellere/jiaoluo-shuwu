@@ -12,6 +12,14 @@ Run locally: `python3 -m http.server 8080` from the repo root (after running `np
 ```
 npm run build      # generate pages/ + data/ from content/
 npm run validate   # schema-check all content files
+npm run check      # post-build invariants + link/anchor resolution + orphan detection
+npm run verify     # validate + build + check (run before pushing)
+```
+
+Activate the pre-push hook once per clone (blocks pushes that would break the live site):
+
+```
+git config core.hooksPath .githooks
 ```
 
 Source of truth is `content/<category>/<slug>.md`. Never hand-edit `pages/` — they are generated.
