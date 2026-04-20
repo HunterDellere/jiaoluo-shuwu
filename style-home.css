@@ -339,18 +339,18 @@
     background: var(--papyrus); border: 1px solid var(--rule-2); border-radius: 8px;
     padding: 0.95rem 1.05rem; text-decoration: none; color: var(--ink-2);
     transition: background 0.15s, border-color 0.15s, transform 0.15s, box-shadow 0.15s;
-    display: flex; gap: 0.8rem; align-items: flex-start;
-    min-height: 86px; position: relative;
+    display: flex; flex-direction: column; gap: 0; align-items: flex-start;
+    position: relative;
     border-left: 3px solid var(--rule);
   }
   .overview-cell:hover { background: var(--papyrus-2); transform: translateY(-2px); box-shadow: 0 3px 8px rgba(28,18,8,0.06); }
   .overview-cell:focus-visible { outline: none; border-color: var(--ochre); box-shadow: 0 0 0 2px rgba(160,100,40,0.25); }
   .overview-glyph {
     font-family: var(--font-cn); font-size: 1.95rem; font-weight: 700; line-height: 1; color: var(--red);
-    flex-shrink: 0; min-width: 2.4rem; text-shadow: 1px 1px 0 rgba(139,26,26,0.12);
-    letter-spacing: 0.02em;
+    text-shadow: 1px 1px 0 rgba(139,26,26,0.12); letter-spacing: 0.02em;
+    margin-bottom: 0.35rem;
   }
-  .overview-body { display: flex; flex-direction: column; gap: 0.15rem; min-width: 0; }
+  .overview-body { display: flex; flex-direction: column; gap: 0.1rem; min-width: 0; width: 100%; }
   .overview-name { font-size: 0.93rem; font-weight: 600; color: var(--ink); }
   .overview-py { font-family: var(--font-mono); font-size: 0.7rem; color: var(--ochre); }
   .overview-desc { font-size: 0.8rem; color: var(--ink-4); font-style: italic; line-height: 1.45; margin-top: 0.25rem; text-wrap: pretty; }
