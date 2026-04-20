@@ -227,15 +227,38 @@ function buildPageTitle(fm) {
 
 const SITE_URL = 'https://jiaoshoo.com';
 
+const CATEGORY_LABELS = {
+  characters: 'Chinese Characters', vocab: 'Vocabulary', grammar: 'Grammar',
+  chengyu: 'Chengyu', religion: 'Religion', philosophy: 'Philosophy',
+  history: 'History', geography: 'Geography', culture: 'Culture',
+  culinary: 'Culinary', arts: 'Arts & Literature', science: 'Science & Medicine',
+  daily: 'Daily Life', hubs: 'Reading Paths', hsk: 'HSK',
+};
+
+function buildBreadcrumbLd(fm, slug, category) {
+  const url = `${SITE_URL}/pages/${category}/${slug}.html`;
+  const catLabel = CATEGORY_LABELS[category] || category;
+  const entryName = fm.char || (fm.title ? fm.title.split('·')[0].trim() : slug);
+  return {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Jiǎoluò Shūwū', item: SITE_URL + '/' },
+      { '@type': 'ListItem', position: 2, name: catLabel, item: `${SITE_URL}/#cat-${category}` },
+      { '@type': 'ListItem', position: 3, name: entryName, item: url },
+    ],
+  };
+}
+
 function buildJsonLd(fm, slug, category) {
   if (fm.status !== 'complete') return '';
   const url = `${SITE_URL}/pages/${category}/${slug}.html`;
   const description = fm.metaDesc || fm.desc || '';
   const author = { '@type': 'Person', name: 'Hunter Dellere' };
 
-  let data;
+  let termData;
   if (fm.type === 'character' || fm.type === 'vocab' || fm.type === 'grammar') {
-    data = {
+    termData = {
       '@context': 'https://schema.org',
       '@type': 'DefinedTerm',
       name: fm.char || (fm.title ? fm.title.split('·')[0].trim() : slug),
@@ -247,7 +270,7 @@ function buildJsonLd(fm, slug, category) {
       author,
     };
   } else {
-    data = {
+    termData = {
       '@context': 'https://schema.org',
       '@type': 'Article',
       headline: fm.title || slug,
@@ -262,8 +285,14 @@ function buildJsonLd(fm, slug, category) {
     };
   }
   // strip undefined keys
-  for (const k of Object.keys(data)) if (data[k] === undefined) delete data[k];
-  return `<script type="application/ld+json">${JSON.stringify(data)}</script>`;
+  for (const k of Object.keys(termData)) if (termData[k] === undefined) delete termData[k];
+
+  const breadcrumb = buildBreadcrumbLd(fm, slug, category);
+
+  return [
+    `<script type="application/ld+json">${JSON.stringify(termData)}</script>`,
+    `<script type="application/ld+json">${JSON.stringify(breadcrumb)}</script>`,
+  ].join('\n');
 }
 
 function buildOgTags(fm, slug, category) {
@@ -301,6 +330,7 @@ function renderPage(fm, body, slug, category) {
   const jsonLd = buildJsonLd(fm, slug, category);
   const ogTags = buildOgTags(fm, slug, category);
   const favicon = categoryFaviconDataUri(category);
+  const canonicalUrl = `${SITE_URL}/pages/${category}/${slug}.html`;
 
   const page = LAYOUT
     .replace('{{{metaComment}}}', metaComment)
@@ -309,6 +339,7 @@ function renderPage(fm, body, slug, category) {
     .replace('{{{jsonLd}}}', jsonLd)
     .replace('{{{ogTags}}}', ogTags)
     .replace('{{{favicon}}}', favicon)
+    .replace('{{{canonicalUrl}}}', canonicalUrl)
     .replace('{{{pageBody}}}', body.trim());
 
   return page;
@@ -562,12 +593,17 @@ try {
 
 // Sitemap + robots
 const today = new Date().toISOString().slice(0, 10);
+function encodeSitemapUrl(rawUrl) {
+  // Percent-encode any non-ASCII characters; leave ASCII and already-encoded sequences alone
+  return rawUrl.replace(/[^\x00-\x7F]/g, c => encodeURIComponent(c));
+}
+
 const urls = [
   { loc: SITE_URL + '/', lastmod: today, priority: '1.0', changefreq: 'weekly' },
   ...entries
     .filter(e => e.status === 'complete')
     .map(e => ({
-      loc: `${SITE_URL}/${e.path}`,
+      loc: encodeSitemapUrl(`${SITE_URL}/${e.path}`),
       lastmod: e.updated || today,
       priority: '0.8',
       changefreq: 'monthly',
