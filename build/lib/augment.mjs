@@ -259,8 +259,10 @@ export function autoLinkBody(body, linkMap, currentEntry) {
 export function addPinyinAudio(body, fm) {
   if (fm.type !== 'character' || !fm.char) return body;
   // Hero pinyin (character pages): <div class="hero-pinyin">gǎn</div>
+  // Inner content may include nested tags (e.g. <span class="tone-num">²</span>),
+  // so match non-greedily rather than requiring plain text.
   body = body.replace(
-    /<div class="hero-pinyin">([^<]+)<\/div>/,
+    /<div class="hero-pinyin">([\s\S]*?)<\/div>/,
     (m, py) => {
       return `<div class="hero-pinyin">${py}` +
              `<button type="button" class="audio-btn" data-audio="${escapeAttr(fm.char)}" aria-label="Play pronunciation">🔊</button>` +
