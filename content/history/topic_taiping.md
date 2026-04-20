@@ -1,0 +1,266 @@
+---
+type: 'topic'
+category: 'history'
+status: 'complete'
+title: '太平天国 · The Taiping Heavenly Kingdom'
+desc: "The millenarian rebellion that killed 20–30 million people and nearly toppled the Qing dynasty — the deadliest civil war in human history."
+metaDesc: "太平天国 Tàipíng Tiānguó (1850–1864): Hong Xiuquan's Christian-inflected millenarian movement, the Xiang Army, Zeng Guofan, and the deadliest civil war in human history."
+pageTitle: '太平天国 tàipíng tiānguó · The Taiping Heavenly Kingdom'
+tags:
+  - 'history'
+  - 'qing'
+  - 'rebellion'
+  - 'religion'
+updated: '2026-04-19'
+pinyin: 'tàipíng tiānguó'
+---
+
+
+<div class="shell">
+
+  <!-- ═══ SIDEBAR ═══ -->
+  <aside class="sidebar" id="sidebar">
+    <span class="toc-topic">太平天国</span>
+    <span class="toc-topic-en">Taiping Heavenly Kingdom</span>
+
+    <div class="toc-divider"></div>
+    <span class="toc-label">On this page</span>
+
+    <ul class="toc-list">
+      <li><a href="#overview">
+        <span class="toc-cn">总览</span> Overview
+        <span class="toc-sub">name, origins, scale</span>
+      </a></li>
+      <li><a href="#theology">
+        <span class="toc-cn">神学与意识形态</span> Theology and Ideology
+        <span class="toc-sub">Hong Xiuquan's syncretic vision</span>
+      </a></li>
+      <li><a href="#vocab">
+        <span class="toc-cn">核心词汇</span> Key Vocabulary
+        <span class="toc-sub">four essential terms</span>
+      </a></li>
+      <li><a href="#defeat">
+        <span class="toc-cn">败亡与后果</span> Defeat and Aftermath
+        <span class="toc-sub">the Xiang Army and the fall of Nanjing</span>
+      </a></li>
+      <li><a href="#legacy">
+        <span class="toc-cn">历史意义</span> Why It Matters
+        <span class="toc-sub">three long legacies</span>
+      </a></li>
+      <li><a href="#chengyu">
+        <span class="toc-cn">成语与关键语</span> Chengyu &amp; Key Phrases
+        <span class="toc-sub">language of rebellion and ideal order</span>
+      </a></li>
+      <li><a href="#adjacent">
+        <span class="toc-cn">相关词汇</span> Adjacent Vocabulary
+        <span class="toc-sub">connected terms</span>
+      </a></li>
+    </ul>
+  </aside>
+
+  <!-- ═══ MAIN ═══ -->
+  <main class="main">
+
+    <!-- HERO -->
+    <header class="topic-hero">
+      <span class="topic-hero-eyebrow">History · 历史 lìshǐ</span>
+      <h1 class="topic-hero-title">太平天国</h1>
+      <span class="topic-hero-title-py">tàipíng tiānguó</span>
+      <p class="topic-hero-desc">1850–1864. A Christian-inflected millenarian movement led by a man who believed himself the younger brother of Jesus Christ — and which came closer to ending the Qing dynasty than any other force in the 19th century.</p>
+    </header>
+
+    <!-- ── OVERVIEW ── -->
+    <span class="section-anchor" id="overview"></span>
+    <div class="section-head">
+      <span class="sh-cn">总览</span>
+      <span class="sh-py">Zǒnglǎn</span>
+      <span class="sh-en">Overview — Name, Origins, and Scale</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="太">
+      <div class="scholar-label">历史背景 lìshǐ bèijǐng · Historical Context</div>
+      <p>The name encodes the entire aspiration. <strong>太平 tàipíng</strong> — great peace — is not a modest political ambition. It is the highest classical Chinese political ideal: 天下太平 (tiānxià tàipíng, all-under-heaven at peace), the condition of perfect order that every dynasty claimed to pursue and none permanently achieved. <strong>天国 tiānguó</strong> — heavenly kingdom — is the Chinese translation of the Christian "Kingdom of Heaven." The movement named itself after the two most powerful legitimating concepts available to it: the Confucian ideal of universal peace and the Christian promise of God's kingdom on earth.</p>
+      <p><strong>洪秀全 Hóng Xiùquán</strong> (1814–1864) was a Cantonese village schoolteacher from Guangdong who failed the imperial civil service examination repeatedly — the keju (科举 kējǔ), which was simultaneously the most meritocratic and the most psychologically brutal institution in premodern Chinese society. After his fourth failure in 1843, Hong suffered a breakdown and, in a fever, experienced visions he had not yet understood. Only when he later encountered Christian missionary tracts did he retrospectively interpret the vision's content: he had been summoned to heaven, handed a sword by God the Father, and instructed to drive out the demons — the Qing Manchu dynasty and the Confucian establishment — that had overrun China. He concluded that he was the second Son of God, younger brother of Jesus Christ.</p>
+      <p>Hong founded the <strong>拜上帝会 Bài Shàngdì Huì</strong> (God Worshipping Society) in the late 1840s, drawing followers primarily from Hakka communities in Guangxi — marginal groups with existing grievances against local Han elites. By 1851, the movement had armed itself and declared the Taiping Heavenly Kingdom into existence. By 1853, Hong's armies had swept north through Hunan and captured <strong>南京 Nánjīng</strong> (Nanjing), which he renamed <strong>天京 Tiānjīng</strong> — Heavenly Capital — and which became the seat of his government for eleven years.</p>
+      <p>The scale of what followed is difficult to hold in the mind. The Taiping Rebellion lasted fourteen years. It engulfed the most densely populated and economically productive provinces of central and southern China — Guangxi, Hunan, Hubei, Jiangxi, Anhui, Jiangsu, Zhejiang. The Qing armies sent against it were repeatedly defeated. The movement fielded armies in the hundreds of thousands, established a functioning state with its own bureaucracy, coinage, calendar, and legal code, and at points controlled territory containing more people than lived in the entire United States. The death toll from the fighting, the famines it caused, and the disease that followed is estimated at between 20 and 30 million people — making the Taiping Rebellion the deadliest civil war in human history, larger in casualties than the entirety of the First World War.</p>
+    </div>
+
+    <!-- ── THEOLOGY ── -->
+    <span class="section-anchor" id="theology"></span>
+    <div class="section-head">
+      <span class="sh-cn">神学与意识形态</span>
+      <span class="sh-py">Shénxué yǔ Yìshíxíngtài</span>
+      <span class="sh-en">Hong Xiuquan and the Theology — A Syncretic Vision</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="国">
+      <div class="scholar-label">思想分析 sīxiǎng fēnxī · Ideological Analysis</div>
+      <p>The Taiping theology was not Christianity as any Western missionary would have recognized it — though it began with missionary texts and borrowed Christian vocabulary, structural elements, and cosmological claims. It was a syncretic construction in which Hong Xiuquan placed himself at the center of a reinterpreted Christian Trinity: God the Father (上帝 Shàngdì), Jesus the elder Son (耶稣 Yēsū), and Hong himself as the younger Son (洪秀全), sent to complete what his elder brother had begun. Hong's wife was elevated to the status of divine consort. Several of Hong's lieutenants were designated as further recipients of divine revelation, each with their own throne title.</p>
+      <p>Onto this theological foundation, Hong laid a program of radical Confucian reform — which is to say, he used Confucian moral language to justify the total reorganization of Chinese society. The Taiping banned opium, tobacco, alcohol, gambling, foot-binding, prostitution, and slavery within their territory. They attempted a land redistribution program based on the classical <strong>井田制 jǐng tián zhì</strong> (well-field system) — an ancient Confucian agrarian ideal in which land is held communally and distributed equally. They established separate military and administrative systems for men and women, and organized the <strong>女营 nǚ yíng</strong> (Women's Camp) — the first systematically organized female military force in Chinese history, with women's units participating in combat and garrison duties across the rebellion's fourteen-year span.</p>
+      <p>What made the movement uniquely dangerous to the Qing was precisely this ideological totality. Earlier peasant rebellions — and China had many — were typically driven by hunger, tax grievances, or dynastic exhaustion. They promised a better emperor, not a different cosmos. The Taiping promised a different cosmos: not merely a new dynasty but a new heaven on earth, in which the Qing Manchus (cast as demons, 妖 yāo), the Buddhist and Daoist clergy (idolators to be expelled), and the Confucian examination elite (servants of the demon dynasty) would all be swept away. The rebellion's ideology gave its followers a framework in which total violence was not merely permitted but divinely commanded.</p>
+      <p>Hong's vision had the weight of revelation — God himself had handed him a sword. This made the movement impossible to negotiate with, impossible to co-opt through the traditional mechanisms of dynastic accommodation, and essentially impervious to the Confucian moral arguments that Qing officials and gentry scholars brought against it. The Taiping did not need to win the Confucian argument. They believed the Confucian argument was itself the work of demons.</p>
+      <p>The movement's encounter with Western Christianity was revealing. Western missionaries who met Taiping representatives in Nanjing in the 1850s came away uncertain whether the movement was a form of Christianity worth supporting or a dangerous heresy. The American Baptist missionary Issachar Roberts — whose pamphlets had been among Hong's original sources — actually lived in Heavenly Capital for a period in the early 1860s and ultimately concluded the Taiping theology was irreconcilable with Christian orthodoxy. This ambivalence shaped Western powers' ultimate decision not to back the Taiping — a decision that contributed to the rebellion's defeat.</p>
+    </div>
+
+    <!-- ── KEY VOCABULARY ── -->
+    <span class="section-anchor" id="vocab"></span>
+    <div class="section-head">
+      <span class="sh-cn">核心词汇</span>
+      <span class="sh-py">Héxīn Cíhuì</span>
+      <span class="sh-en">Key Vocabulary — Four Essential Terms</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="cards">
+
+      <div class="card c-ochre">
+        <span class="card-cn">太平天国</span>
+        <span class="card-py">Tàipíng Tiānguó</span>
+        <div class="card-tags"><span class="tag-n">proper noun</span></div>
+        <span class="card-en">the Taiping Heavenly Kingdom — the state Hong Xiuquan established in 1851 and governed from Nanjing (renamed Heavenly Capital, 天京 Tiānjīng) until its fall in 1864</span>
+        <ul class="card-examples">
+          <li><span class="ex-cn">太平天国定都天京。</span><span class="ex-py">Tàipíng Tiānguó dìng dū Tiānjīng.</span><span class="ex-en">The Taiping Heavenly Kingdom established its capital at Heavenly Capital.</span></li>
+          <li><span class="ex-cn">太平天国运动是中国历史上规模最大的农民起义之一。</span><span class="ex-py">Tàipíng Tiānguó yùndòng shì Zhōngguó lìshǐ shàng guīmó zuìdà de nóngmín qǐyì zhī yī.</span><span class="ex-en">The Taiping Heavenly Kingdom movement was one of the largest peasant uprisings in Chinese history.</span></li>
+          <li><span class="ex-cn">太平天国的失败加速了清朝的衰落。</span><span class="ex-py">Tàipíng Tiānguó de shībài jiāsùle Qīng cháo de shuāiluò.</span><span class="ex-en">The defeat of the Taiping Heavenly Kingdom accelerated the decline of the Qing dynasty.</span></li>
+        </ul>
+      </div>
+
+      <div class="card c-teal">
+        <span class="card-cn">天王</span>
+        <span class="card-py">tiānwáng</span>
+        <div class="card-tags"><span class="tag-n">noun · title</span></div>
+        <span class="card-en">Heavenly King — Hong Xiuquan's title; he used tiānwáng rather than 皇帝 huángdì (emperor), asserting divine rather than dynastic legitimacy; the title placed him outside and above the traditional Chinese imperial system rather than within it</span>
+        <ul class="card-examples">
+          <li><span class="ex-cn">洪秀全自称天王，以示其权威来自天父而非人间。</span><span class="ex-py">Hóng Xiùquán zìchēng tiānwáng, yǐ shì qí quánwēi láizì Tiānfù ér fēi rénjiān.</span><span class="ex-en">Hong Xiuquan called himself Heavenly King, indicating that his authority derived from God the Father rather than the human world.</span></li>
+          <li><span class="ex-cn">天王的称号挑战了清朝皇帝的天命。</span><span class="ex-py">Tiānwáng de chēnghào tiǎozhànle Qīng cháo huángdì de tiānmìng.</span><span class="ex-en">The title of Heavenly King challenged the Mandate of Heaven held by the Qing emperor.</span></li>
+          <li><span class="ex-cn">在太平天国的神学体系中，天王是上帝之子。</span><span class="ex-py">Zài Tàipíng Tiānguó de shénxué tǐxì zhōng, tiānwáng shì Shàngdì zhī zǐ.</span><span class="ex-en">In the Taiping Heavenly Kingdom's theological system, the Heavenly King was the son of God.</span></li>
+        </ul>
+      </div>
+
+      <div class="card c-red">
+        <span class="card-cn">湘军</span>
+        <span class="card-py">Xiāng Jūn</span>
+        <div class="card-tags"><span class="tag-n">proper noun · military</span></div>
+        <span class="card-en">the Xiang Army — Zeng Guofan's Hunan-based force, named after the Xiang River (湘江 Xiāng Jiāng); the army that ultimately defeated the Taiping, and the first significant regional army organized outside the imperial system; its success established the template for provincial military power that would define the late Qing and Republican eras</span>
+        <ul class="card-examples">
+          <li><span class="ex-cn">湘军由曾国藩在湖南组建，以镇压太平天国运动。</span><span class="ex-py">Xiāng Jūn yóu Zēng Guófān zài Húnán zǔjiàn, yǐ zhènyā Tàipíng Tiānguó yùndòng.</span><span class="ex-en">The Xiang Army was organized by Zeng Guofan in Hunan to suppress the Taiping Heavenly Kingdom movement.</span></li>
+          <li><span class="ex-cn">湘军的成功开创了地方军阀势力的先例。</span><span class="ex-py">Xiāng Jūn de chénggōng kāichuàngle dìfāng jūnfá shìlì de xiānlì.</span><span class="ex-en">The success of the Xiang Army set a precedent for regional warlord power.</span></li>
+          <li><span class="ex-cn">与八旗军不同，湘军的忠诚对象是曾国藩本人，而非朝廷。</span><span class="ex-py">Yǔ bāqí jūn bùtóng, Xiāng Jūn de zhōngchéng duìxiàng shì Zēng Guófān běnrén, ér fēi cháotíng.</span><span class="ex-en">Unlike the Banner Armies, the Xiang Army's loyalty was to Zeng Guofan himself, not to the court.</span></li>
+        </ul>
+      </div>
+
+      <div class="card c-violet">
+        <span class="card-cn">曾国藩</span>
+        <span class="card-py">Zēng Guófān</span>
+        <div class="card-tags"><span class="tag-n">proper noun · person</span></div>
+        <span class="card-en">Zeng Guofan (1811–1872) — the Confucian scholar-general who organized the Xiang Army and crushed the rebellion; one of the most revered figures in Chinese history, a model of 儒将 rújiàng (scholar-general); the fact that the Qing was saved not by its own armies but by a provincial Han scholar's private force defined the political landscape for the remaining fifty years of the dynasty</span>
+        <ul class="card-examples">
+          <li><span class="ex-cn">曾国藩被誉为晚清中兴名臣之首。</span><span class="ex-py">Zēng Guófān bèi yù wéi wǎn Qīng zhōngxīng míngchén zhī shǒu.</span><span class="ex-en">Zeng Guofan is celebrated as the foremost statesman of the Qing restoration in its final decades.</span></li>
+          <li><span class="ex-cn">曾国藩以儒家思想治军，注重军纪与道德修养。</span><span class="ex-py">Zēng Guófān yǐ Rújiā sīxiǎng zhì jūn, zhùzhòng jūnjì yǔ dàodé xiūyǎng.</span><span class="ex-en">Zeng Guofan governed his army through Confucian principles, emphasizing military discipline and moral cultivation.</span></li>
+          <li><span class="ex-cn">曾国藩的家书至今仍是中国家庭教育的重要读本。</span><span class="ex-py">Zēng Guófān de jiāshū zhìjīn réng shì Zhōngguó jiātíng jiàoyù de zhòngyào dúběn.</span><span class="ex-en">Zeng Guofan's family letters remain an important text for family education in China to this day.</span></li>
+        </ul>
+      </div>
+
+    </div>
+
+    <!-- ── DEFEAT AND AFTERMATH ── -->
+    <span class="section-anchor" id="defeat"></span>
+    <div class="section-head">
+      <span class="sh-cn">败亡与后果</span>
+      <span class="sh-py">Bàiwáng yǔ Hòuguǒ</span>
+      <span class="sh-en">Defeat and Aftermath — The Fall of Nanjing</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="平">
+      <div class="scholar-label">历史分析 lìshǐ fēnxī · Historical Analysis</div>
+      <p>The Taiping's military dominance in the early 1850s was real. The Qing's own armies — the Manchu Banner forces (八旗 bāqí) and the Chinese Green Standard Army (绿营 lǜyíng) — were structurally degraded after two centuries of relative peace. They had not fought a serious war since the 18th century, and their institutional decay was comprehensive: underfunded, poorly commanded, and ideologically incoherent against an enemy that believed it was doing God's work. The Taiping repeatedly routed Qing forces in open battle throughout the 1850s.</p>
+      <p>The Qing's salvation came not from reform of its own military but from the creation of something entirely new. <strong>曾国藩 Zēng Guófān</strong> (1811–1872), a Confucian scholar from Hunan, organized the <strong>湘军 Xiāng Jūn</strong> (Xiang Army) beginning in 1852 — a force built not on the imperial system of impersonal bureaucratic appointment but on personal loyalty, Confucian moral obligation, and regional solidarity. Officers recruited men from their own counties. Soldiers served men they knew. The army's cohesion was relational rather than institutional. Zeng funded it through likin taxes (厘金 líjīn) levied locally, not through central government appropriations. It was, in the most precise sense, a private army answering to one man.</p>
+      <p>The Xiang Army's methodical campaign over a decade was complemented by Western-commanded forces. The <strong>常胜军 Cháng Shèng Jūn</strong> (Ever Victorious Army) — a mixed Chinese and Western force armed with modern weapons — was commanded first by the American adventurer Frederick Townsend Ward and then, after Ward's death in battle in 1862, by the British officer Charles Gordon, who thereby acquired the epithet "Chinese Gordon" that would follow him to Khartoum and his death at the hands of the Mahdi in 1885. The Ever Victorious Army was relatively small but tactically significant, particularly in the defense of Shanghai and the Yangtze Delta.</p>
+      <p>The Taiping's internal collapse accelerated its military defeat. The <strong>天京事变 Tiānjīng Shìbiàn</strong> (Incident at Heavenly Capital, 1856) was a catastrophe of the movement's own making: a succession dispute in which Hong Xiuquan's most capable military commanders massacred each other in the streets of Nanjing. Thousands of the movement's best officers and soldiers were killed in factional fighting. The movement never fully recovered its offensive capacity.</p>
+      <p>Nanjing fell to Zeng Guofan's forces in July 1864. Hong Xiuquan had died weeks earlier — probably by suicide, though some accounts attribute his death to illness from eating weeds when the city's food supply collapsed under siege. The fall of Heavenly Capital ended the rebellion's organized existence, though scattered Taiping-affiliated forces continued fighting in various provinces for several more years.</p>
+      <p>The consequences of the Qing's survival method were profound and immediate. Zeng Guofan's Xiang Army had saved the dynasty, but it had done so by demonstrating that the dynasty could not save itself. The Qing court was acutely aware of what it owed Zeng — and acutely afraid of him. When Zeng's forces took Nanjing, he commanded the largest and most battle-hardened army in China, led by officers personally loyal to him. He was urged by subordinates and admirers to declare a new dynasty. He declined — Zeng was a genuine Confucian loyalist — and began immediately demobilizing his forces. But the structural fact his campaign had established could not be unmobilized: regional military power organized outside the imperial system was now the primary guarantor of Qing territorial integrity. The warlord era of the early 20th century had its institutional prototype.</p>
+    </div>
+
+    <!-- ── WHY IT MATTERS ── -->
+    <span class="section-anchor" id="legacy"></span>
+    <div class="section-head">
+      <span class="sh-cn">历史意义</span>
+      <span class="sh-py">Lìshǐ Yìyì</span>
+      <span class="sh-en">Why It Matters — Three Long Legacies</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="天">
+      <div class="scholar-label">历史教训 lìshǐ jiàoxùn · Historical Lessons</div>
+      <p>The Taiping Rebellion is among the most consequential events in modern Chinese history and among the least understood outside China. Three legacies reach forward into the 20th century and beyond.</p>
+      <p><strong>First: China's first encounter with the political mobilizing power of Western ideology — and its result was catastrophic.</strong> The Taiping was not a Christian movement in any orthodox sense, but it used Christian cosmological vocabulary — the God of the Old and New Testaments, the divine sonship of Jesus, the Kingdom of Heaven — to construct a total political theology that justified fourteen years of mass violence. The Qing dynasty's response was to view Western religion with deep suspicion, a suspicion that shaped its handling of the later missionary presence and contributed to the conditions that produced the Boxer Uprising (义和团运动 Yìhétuán Yùndòng) of 1900. More broadly, the Taiping established a pattern in which Western ideological imports — not just Christianity, but later liberalism, anarchism, Marxism-Leninism — were received in China through the lens of total transformation rather than incremental reform. The movement demonstrated that Western ideas, grafted onto Chinese millenarian traditions, could produce world-historical violence.</p>
+      <p><strong>Second: the political ideal of 太平 (great peace) can be weaponized.</strong> 太平 is the most resonant phrase in the classical Chinese political vocabulary — the condition that every legitimate ruler claimed to be working toward, the standard by which dynasties were judged, the promise inscribed in the name of every era of good governance. The Taiping named itself after this ideal deliberately. The movement showed that the highest political aspiration in Chinese civilization could be attached to the most destructive insurgency — that the language of peace could be the language of apocalyptic war. This is not a merely historical irony. The pattern of total political transformation justified by appeal to an ideal of perfect order — whether 太平, or 大同 (dàtóng, great harmony), or the communist utopia — recurs throughout modern Chinese political history.</p>
+      <p><strong>Third: the Xiang Army's success established regional military power independent of central authority as a structural feature of Chinese politics.</strong> This is the most direct and measurable legacy. Zeng Guofan's model — provincial army, personal loyalty, local funding, autonomous command — was replicated by Li Hongzhang's <strong>淮军 Huái Jūn</strong> (Huai Army) immediately after the Taiping, and by every subsequent regional military organization through the Republican warlord era. Sun Yat-sen (孙中山 Sūn Zhōngshān) explicitly identified the Taiping as revolutionary predecessors, incorporating their anti-Manchu ideology into his own nationalist program. The Communist insurgency of the 1930s and 1940s operated on structural principles — regional base areas, armies with political loyalties rather than institutional ones, ideological totalism — that echo the Taiping's model even as they repudiated its specific content. The Taiping did not cause the warlord era or the Communist victory, but it established the conditions in which both became possible.</p>
+      <p>The rebellion's death toll — 20 to 30 million — places it in a category that requires careful statement. It exceeds the total military deaths of the First World War (approximately 10 million). It is comparable to the total deaths of the Second World War in Europe outside the Soviet Union. It occurred between 1850 and 1864, in a country without railways, telegraphs, or modern weapons on either side. The scale of the destruction reflects not military technology but the combination of prolonged fighting, civilian massacre, agricultural collapse, and epidemic disease that follows prolonged civil war in a dense agrarian landscape. The provinces of Anhui, Jiangsu, and Zhejiang lost between one-third and one-half of their populations. Some cities were not meaningfully repopulated for a generation.</p>
+    </div>
+
+    <!-- ── CHENGYU AND KEY PHRASES ── -->
+    <span class="section-anchor" id="chengyu"></span>
+    <div class="section-head">
+      <span class="sh-cn">成语与关键语</span>
+      <span class="sh-py">Chéngyǔ yǔ Guānjiàn Yǔ</span>
+      <span class="sh-en">Chengyu &amp; Key Phrases — Rebellion, Ideal Order, and Historical Memory</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="chengyu-grid">
+
+      <div class="cy">
+        <span class="cy-cn">太平盛世</span>
+        <span class="cy-py">tàipíng shèngshì</span>
+        <span class="cy-en">an age of great peace and prosperity — the ideal the Taiping name invoked, and failed to deliver</span>
+        <span class="cy-note">太平 (great peace) + 盛世 (flourishing age, era of prosperity). The four-character compound describes the classical Chinese political ideal: an era in which the realm is at peace, governance is just, harvests are abundant, and the common people live without fear. Every dynasty claimed to be producing it; the phrase is used both as genuine praise (for the Han and Tang golden ages, for example) and as biting irony when the gap between the claim and the reality is evident. The Taiping name borrowed 太平 directly from this ideal — a rhetorical appropriation that gave the movement its most powerful legitimating claim and its most revealing failure: the movement dedicated to great peace produced the greatest civil war in Chinese history.</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">揭竿而起</span>
+        <span class="cy-py">jiē gān ér qǐ</span>
+        <span class="cy-en">to raise a pole and rise up — to start a popular rebellion</span>
+        <span class="cy-note">揭 (raise, lift) + 竿 (pole, bamboo staff) + 而起 (and rise up). The idiom originates in the Qin dynasty collapse (221–206 BCE), when the rebel leader Chen Sheng reportedly rallied followers with nothing but a raised pole — no weapons, no banners, no organization, just the act of standing up. The phrase has been applied to every major popular uprising since: the Yellow Turban Rebellion, the Red Turbans, the White Lotus, and the Taiping. It encodes a specific understanding of Chinese popular rebellion as arising from the bottom — from ordinary people with nothing but their bodies and a gesture of defiance. The Taiping, despite its elaborate theological apparatus, is consistently described in Chinese historiography through this frame.</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">兴亡教训</span>
+        <span class="cy-py">xīng wáng jiàoxùn</span>
+        <span class="cy-en">the lessons of rise and fall — the standard analytical frame for the Taiping in modern Chinese historiography</span>
+        <span class="cy-note">兴 (rise, flourish) + 亡 (fall, perish) + 教训 (lesson, warning). Not a fixed classical chengyu but a recurring analytical phrase in modern Chinese historical writing, particularly in discussions of the Taiping. The frame asks: what does the movement's rapid rise and catastrophic fall teach about the relationship between ideology and governance? Between military power and political legitimacy? Between popular mobilization and institutional capacity? Chinese historians from the late Qing through the Republican and Communist periods have approached the Taiping through this lens, drawing different conclusions depending on their own political moment. The phrase itself — with its emphasis on extracting applicable lessons from historical failure — reflects the deeply pragmatic orientation of Chinese historical thought: history is not merely studied but used.</span>
+      </div>
+
+    </div>
+
+    <!-- ── ADJACENT VOCABULARY ── -->
+    <span class="section-anchor" id="adjacent"></span>
+    <div class="section-head">
+      <span class="sh-cn">相关词汇</span>
+      <span class="sh-py">Xiāngguān Cíhuì</span>
+      <span class="sh-en">Adjacent Vocabulary</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="adj-wrap">
+      <span class="adj"><span class="a-cn">清朝</span><span class="a-py">Qīng cháo</span><span class="a-en">the Qing dynasty (1644–1912)</span></span>
+      <span class="adj"><span class="a-cn">辛亥革命</span><span class="a-py">Xīnhài Gémìng</span><span class="a-en">the 1911 Revolution that ended the Qing</span></span>
+      <span class="adj"><span class="a-cn">鸦片战争</span><span class="a-py">Yāpiàn Zhànzhēng</span><span class="a-en">the Opium Wars (1839–42, 1856–60)</span></span>
+      <span class="adj"><span class="a-cn">太平</span><span class="a-py">tàipíng</span><span class="a-en">great peace — the classical political ideal</span></span>
+      <span class="adj"><span class="a-cn">天下</span><span class="a-py">tiānxià</span><span class="a-en">all under heaven — the Chinese conception of the realm</span></span>
+      <span class="adj"><span class="a-cn">基督教</span><span class="a-py">Jīdūjiào</span><span class="a-en">Christianity</span></span>
+      <span class="adj"><span class="a-cn">农民起义</span><span class="a-py">nóngmín qǐyì</span><span class="a-en">peasant uprising</span></span>
+      <span class="adj"><span class="a-cn">湘军</span><span class="a-py">Xiāng Jūn</span><span class="a-en">the Xiang Army — Zeng Guofan's force</span></span>
+      <span class="adj"><span class="a-cn">曾国藩</span><span class="a-py">Zēng Guófān</span><span class="a-en">Zeng Guofan, scholar-general</span></span>
+    </div>
+
+    <footer class="page-footer">
+      <span class="footer-id">Jiǎoluò Shūwū · 角落書屋 · <span>太平天国</span></span>
+      <a href="../../index.html" class="footer-back">← All Entries</a>
+    </footer>
+
+  </main>
+</div>

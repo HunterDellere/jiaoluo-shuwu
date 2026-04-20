@@ -1,0 +1,423 @@
+---
+type: 'vocab'
+category: 'vocab'
+status: 'complete'
+title: '江山 · rivers and mountains, the realm'
+desc: 'The classical Chinese word for the nation — not a territory but a landscape; not a state but a living geography that dynasties rose and fell to possess.'
+metaDesc: "江山 jiāngshān: rivers and mountains, the realm, political power. The classical Chinese way of saying 'the country' — geography as the substance of civilization."
+pageTitle: '江山 jiāngshān'
+tags:
+  - 'history'
+  - 'politics'
+  - 'geography'
+updated: '2026-04-19'
+pinyin: 'jiāngshān'
+---
+
+
+<div class="shell">
+
+  <!-- ═══ SIDEBAR ═══ -->
+  <aside class="sidebar" id="sidebar">
+    <button class="toc-toggle" onclick="document.getElementById('sidebar').classList.toggle('open')">目录 Contents ▾</button>
+
+    <span class="toc-topic">江山</span>
+    <span class="toc-topic-en">Rivers and Mountains</span>
+
+    <div class="toc-divider"></div>
+    <span class="toc-label">On this page</span>
+
+    <ul class="toc-list">
+      <li><a href="#etymology">
+        <span class="toc-cn">字源</span> Etymology
+        <span class="toc-sub">zìyuán · origin &amp; structure</span>
+      </a></li>
+      <li><a href="#political">
+        <span class="toc-cn">政治概念</span> Political Concept
+        <span class="toc-sub">zhèngzhì gàiniàn · realm and power</span>
+      </a></li>
+      <li><a href="#core-uses">
+        <span class="toc-cn">核心用法</span> Core Uses
+        <span class="toc-sub">héxīn yòngfǎ · 打, 守, 画, 才</span>
+      </a></li>
+      <li><a href="#jiang">
+        <span class="toc-cn">江</span> 江 in Compounds
+        <span class="toc-sub">jiāng · river, south, underworld</span>
+      </a></li>
+      <li><a href="#patterns">
+        <span class="toc-cn">固定搭配</span> Fixed Expressions
+        <span class="toc-sub">gùdìng dāpèi · 大好, 锦绣, 半壁</span>
+      </a></li>
+      <li><a href="#chengyu">
+        <span class="toc-cn">成语</span> Idioms
+        <span class="toc-sub">chéngyǔ · set phrases</span>
+      </a></li>
+      <li><a href="#adjacent">
+        <span class="toc-cn">相邻</span> Adjacent Vocab
+        <span class="toc-sub">xiānglín cíhuì</span>
+      </a></li>
+    </ul>
+  </aside>
+
+  <!-- ═══ MAIN ═══ -->
+  <main class="main">
+
+    <!-- HERO -->
+    <header class="topic-hero">
+      <span class="topic-hero-eyebrow">Vocabulary · 词汇 cíhuì</span>
+      <h1 class="topic-hero-title">江山</h1>
+      <span class="topic-hero-title-py">jiāng shān</span>
+      <p class="topic-hero-desc">Rivers and mountains — the classical Chinese word for the nation. Not a territory defined by law, but a landscape defined by water and stone; not a bureaucratic state, but a living geography that dynasties were born, bled, and spent to possess.</p>
+    </header>
+
+    <!-- ── ETYMOLOGY ── -->
+    <span class="section-anchor" id="etymology"></span>
+    <div class="section-head">
+      <span class="sh-cn">字源</span>
+      <span class="sh-py">zìyuán</span>
+      <span class="sh-en">Etymology &amp; Origin</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="山">
+      <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
+      <p><strong>江 jiāng</strong> (great river — originally, specifically, the Yangtze; the 氵water radical paired with 工 gōng as phonetic; a navigable, powerful waterway, not a creek or stream but an artery of the land) <strong>+ 山 shān</strong> (mountain — a pictograph of three peaks rising from a shared base; one of the most direct pictographs in the writing system, unchanged in its logic for three thousand years). Rivers and mountains: the two landforms that define China's geography and, by extension, its civilization.</p>
+      <p>The choice of characters is precise. 江 is not 河 hé (the Yellow River's generic term for a watercourse) — it names the great river specifically, the kind of waterway that divides regions, floods plains, and carries commerce. 山 is not 地 dì (mere ground) or 土 tǔ (earth, soil) — it names the high, enduring, visible bones of the landscape. Together they describe not just terrain but the grand permanent features of the natural world: the things that were there before any dynasty arrived and will remain after every dynasty is gone. To speak of 江山 is to speak of the land in its most irreducible, unkillable form.</p>
+      <p>This is why 江山 became China's word for "the country" — but older, more physical, and more poetic than any modern bureaucratic term. Modern Chinese has 国家 guójiā (state; nation) and 祖国 zǔguó (motherland; ancestral country). 江山 predates and outlasts both. When a dynasty fell, you did not say it lost its 国家 — you said it lost its 江山. The rivers and mountains remained. Only the hand that held them changed.</p>
+    </div>
+
+    <!-- ── POLITICAL CONCEPT ── -->
+    <span class="section-anchor" id="political"></span>
+    <div class="section-head">
+      <span class="sh-cn">政治概念</span>
+      <span class="sh-py">zhèngzhì gàiniàn</span>
+      <span class="sh-en">江山 as Political Concept</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="江">
+      <div class="scholar-label">学者洞见 xuézhě dòngjiàn · Scholar Note</div>
+      <p>江山 is the classical word for "the realm" — what dynasties fought for, held, and lost. The two great political tasks are captured in a pair of verbs: <strong>打江山</strong> (to conquer the rivers and mountains — to win power by force, always implying hard-fought, usually military achievement) and <strong>守江山</strong> (to defend the rivers and mountains — to hold power after winning it, the longer and harder task of governance). The asymmetry matters: winning is dramatic and visible; holding is slow and structural.</p>
+      <p>Mao Zedong's formulation collapses the whole dilemma into a single sentence: <strong>打江山容易，守江山难</strong> — it is easy to conquer the rivers and mountains, difficult to hold them. He said this in 1949, at the founding of the People's Republic, as a warning to his own party. The historical record of Chinese dynasties gave him every reason to worry: the Qin unified the realm in 221 BCE and collapsed within fifteen years. The pattern is not exceptional — it is the rhythm of Chinese history.</p>
+      <p>The concept is embodied and geographic in a way that no abstract term like "state" or "regime" can be. You do not govern a legal fiction — you hold a landscape. When a dynasty falls, the phrase is 失去江山 (to lose the rivers and mountains). The political is geographical; the geographical is political. The rivers are still there. The mountains have not moved. It is only the human claim upon them that has ended.</p>
+    </div>
+
+    <!-- ── CORE USES ── -->
+    <span class="section-anchor" id="core-uses"></span>
+    <div class="section-head">
+      <span class="sh-cn">核心用法</span>
+      <span class="sh-py">héxīn yòngfǎ</span>
+      <span class="sh-en">Core Uses</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="cards">
+
+      <div class="card c-v">
+        <div class="card-head">
+          <span class="card-cn">打江山</span>
+          <span class="card-py">dǎ jiāngshān</span>
+          <span class="card-en">to conquer the realm; to win power through struggle</span>
+        </div>
+        <div class="tags"><span class="tag tag-v">V 动词 dòngcí</span></div>
+        <div class="card-def">
+          打 dǎ (to strike; to fight; to build through effort) + 江山 (the realm). Always implies hard-won, usually military achievement — you do not inherit 江山, you take it. The character 打 carries physical force: the same verb used for punching, striking, and waging war. 打下江山 (to beat down/win the rivers and mountains — to secure the whole realm through fighting) / 凭本事打江山 (to win the realm by one's own ability). In contemporary use, extended metaphorically to founding a company or achieving success through struggle: 他白手起家，打下了这片江山。
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">打江山容易，守江山难。</div>
+            <div class="ex-py">Dǎ jiāngshān róngyì, shǒu jiāngshān nán.</div>
+            <div class="ex-en">It is easy to conquer the realm; it is difficult to hold it.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">他们浴血奋战，才打下了这片江山。</div>
+            <div class="ex-py">Tāmen yù xuè fènzhàn, cái dǎ xià le zhè piàn jiāngshān.</div>
+            <div class="ex-en">They fought through blood and fire before they finally won this realm.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">创业者都知道，打江山靠的是胆量，守江山靠的是智慧。</div>
+            <div class="ex-py">Chuàngyèzhě dōu zhīdào, dǎ jiāngshān kào de shì dǎnliàng, shǒu jiāngshān kào de shì zhìhuì.</div>
+            <div class="ex-en">Every entrepreneur knows: winning the realm takes courage; holding it takes wisdom.</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-v">
+        <div class="card-head">
+          <span class="card-cn">守江山</span>
+          <span class="card-py">shǒu jiāngshān</span>
+          <span class="card-en">to defend the realm; to hold and preserve what was won</span>
+        </div>
+        <div class="tags"><span class="tag tag-v">V 动词 dòngcí</span></div>
+        <div class="card-def">
+          守 shǒu (to guard; to protect; to hold steady — the character shows a hand over a roof, the posture of protection) + 江山. The harder and longer task: not the dramatic moment of conquest but the slow, unglamorous work of governing, maintaining order, and preventing the realm from unraveling. 守业难于创业 (holding what you've built is harder than building it) is the proverbial companion. 守住江山 (to hold the realm firm; to keep it from being lost) / 江山难守 (the realm is hard to hold).
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">历代统治者最难的功课，不是打江山，而是守江山。</div>
+            <div class="ex-py">Lìdài tǒngzhìzhě zuì nán de gōngkè, bú shì dǎ jiāngshān, ér shì shǒu jiāngshān.</div>
+            <div class="ex-en">The hardest lesson for rulers throughout history is not conquering the realm but holding it.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">秦始皇统一六国，却未能守住江山，二世而亡。</div>
+            <div class="ex-py">Qín Shǐhuáng tǒngyī liù guó, què wèi néng shǒu zhù jiāngshān, èr shì ér wáng.</div>
+            <div class="ex-en">The First Emperor of Qin unified the six kingdoms, yet could not hold the realm — the dynasty collapsed in the second generation.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">父辈守住了江山，这一代人有责任把它传下去。</div>
+            <div class="ex-py">Fùbèi shǒu zhù le jiāngshān, zhè yīdài rén yǒu zérèn bǎ tā chuán xiàqù.</div>
+            <div class="ex-en">The previous generation held the realm — this generation has the responsibility to pass it on.</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-n">
+        <div class="card-head">
+          <span class="card-cn">江山如画</span>
+          <span class="card-py">jiāngshān rú huà</span>
+          <span class="card-en">the rivers and mountains are like a painting; the land is breathtakingly beautiful</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N/Adj 名形</span></div>
+        <div class="card-def">
+          江山 (rivers and mountains; the natural landscape) + 如 rú (like; as; resembling) + 画 huà (painting; picture). The stock phrase for scenic China — the landscape so beautiful it seems composed rather than found. Su Shi (苏轼) used the phrase in his famous ci poem 念奴娇·赤壁怀古 (Remembering Chibi): 江山如画，一时多少豪杰 (the rivers and mountains like a painting — how many heroes in that one moment). From Song dynasty poetry to modern tourism slogans, the phrase has remained the default superlative for China's natural scenery. It collapses the political and aesthetic meanings of 江山 into one: the land is beautiful and the land is what was worth fighting for.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">江山如画，一时多少豪杰。</div>
+            <div class="ex-py">Jiāngshān rú huà, yīshí duōshǎo háojié.</div>
+            <div class="ex-en">"The rivers and mountains like a painting — how many heroes in that one moment." (Su Shi, 念奴娇·赤壁怀古)</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">登上山顶，放眼望去，江山如画，令人心旷神怡。</div>
+            <div class="ex-py">Dēng shàng shāndǐng, fàng yǎn wàng qù, jiāngshān rú huà, lìng rén xīnkuàng shényí.</div>
+            <div class="ex-en">Reaching the summit and looking out — the rivers and mountains like a painting, the heart open and the spirit at ease.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">这片江山如画的土地，养育了无数代勤劳的人民。</div>
+            <div class="ex-py">Zhè piàn jiāngshān rú huà de tǔdì, yǎngyù le wúshù dài qínláo de rénmín.</div>
+            <div class="ex-en">This land of rivers and mountains like a painting has nurtured countless generations of hardworking people.</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-n">
+        <div class="card-head">
+          <span class="card-cn">江山代有才人出</span>
+          <span class="card-py">jiāngshān dài yǒu cáirén chū</span>
+          <span class="card-en">every generation of rivers and mountains produces its talented people; each era brings forth its own greatness</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
+        <div class="card-def">
+          From Zhao Yi's (赵翼) 18th-century poem 论诗 (On Poetry): 江山代有才人出，各领风骚数百年 (every generation of rivers and mountains produces its talented people; each holds sway for hundreds of years). 代 dài (generation; era; to stand in for) + 有 yǒu (to have; there is/are) + 才人 cáirén (talented person) + 出 chū (to emerge; to come forth). The land — the 江山 — is the engine of cultural production. Each era has its exemplary figures; none should be treated as definitive. The poem is a gentle argument against ancestor-worship in literature: do not defer forever to the Tang poets. The rivers and mountains keep making new ones.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">江山代有才人出，各领风骚数百年。</div>
+            <div class="ex-py">Jiāngshān dài yǒu cáirén chū, gè lǐng fēngsāo shù bǎi nián.</div>
+            <div class="ex-en">"Every generation of rivers and mountains produces its talented people; each holds sway for hundreds of years." (Zhao Yi, 论诗)</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">正所谓江山代有才人出，这一代年轻人也终将写下自己的篇章。</div>
+            <div class="ex-py">Zhèng suǒ wèi jiāngshān dài yǒu cáirén chū, zhè yīdài niánqīng rén yě zhōngjiāng xiě xià zìjǐ de piānzhāng.</div>
+            <div class="ex-en">As they say — every generation of rivers and mountains produces its talented people — this generation of young people will also write their own chapter in the end.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">江山代有才人出，不必崇拜古人，自己也可以有所作为。</div>
+            <div class="ex-py">Jiāngshān dài yǒu cáirén chū, bù bì chóngbài gǔrén, zìjǐ yě kěyǐ yǒu suǒ zuòwéi.</div>
+            <div class="ex-en">Every generation produces its talented people — no need to worship the ancients; you yourself can also accomplish something.</div>
+          </div>
+        </div>
+      </div>
+
+    </div><!-- /cards core-uses -->
+
+    <!-- ── 江 IN COMPOUNDS ── -->
+    <span class="section-anchor" id="jiang"></span>
+    <div class="section-head">
+      <span class="sh-cn">江</span>
+      <span class="sh-py">jiāng</span>
+      <span class="sh-en">江 in Other Compounds</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="cards">
+
+      <div class="card c-n">
+        <div class="card-head">
+          <span class="card-cn">长江</span>
+          <span class="card-py">Cháng Jiāng</span>
+          <span class="card-en">the Yangtze River — lit. "the long river"</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 专名 zhuānmíng</span></div>
+        <div class="card-def">
+          长 cháng (long; of great extent) + 江 jiāng (great river). The longest river in China and the third longest in the world — the cultural, hydrological, and agricultural spine of southern China. 长江 divides China between north and south, feeds the Sichuan Basin, and has given its name to entire civilizations: 长江文明 (Yangtze civilization) developed in parallel with the Yellow River civilization to the north. The character 江 in 江山 specifically evokes this river — the Yangtze — before it became the generic word for large waterways. 长江后浪推前浪 (the rear waves of the Yangtze push the front waves forward — each new generation surpasses the last) is one of the most used proverbs in Chinese.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">长江后浪推前浪，一代更比一代强。</div>
+            <div class="ex-py">Cháng Jiāng hòu làng tuī qián làng, yīdài gèng bǐ yīdài qiáng.</div>
+            <div class="ex-en">The rear waves of the Yangtze push the front waves forward — each generation is stronger than the last.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">长江全长约六千三百公里，是中国第一大河。</div>
+            <div class="ex-py">Cháng Jiāng quán cháng yuē liùqiān sānbǎi gōnglǐ, shì Zhōngguó dì yī dà hé.</div>
+            <div class="ex-en">The Yangtze stretches approximately 6,300 kilometres — China's greatest river.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">三峡大坝建在长江之上，是世界最大的水电站。</div>
+            <div class="ex-py">Sānxiá Dàbà jiàn zài Cháng Jiāng zhī shàng, shì shìjiè zuì dà de shuǐdiànzhàn.</div>
+            <div class="ex-en">The Three Gorges Dam sits on the Yangtze — the world's largest hydroelectric station.</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-n">
+        <div class="card-head">
+          <span class="card-cn">江湖</span>
+          <span class="card-py">jiānghú</span>
+          <span class="card-en">rivers and lakes; the world of wanderers, outlaws, and those outside official society</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
+        <div class="card-def">
+          江 jiāng (great river) + 湖 hú (lake). Literally: rivers and lakes — the waterways that connected China's interior, home to the fishermen, boatmen, itinerant merchants, and wanderers who lived beyond the reach of official civilization. 江湖 became the word for the world of martial artists (武林 wǔlín), outlaws, con artists, traveling doctors, and anyone who lived by their wits outside settled society. 人在江湖，身不由己 (once you're in the jianghu, you can no longer control your own fate) is the classic formulation. The phrase is everywhere in wuxia fiction and carries an atmosphere of freedom, danger, and moral ambiguity.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">人在江湖，身不由己。</div>
+            <div class="ex-py">Rén zài jiānghú, shēn bù yóu jǐ.</div>
+            <div class="ex-en">Once you're in the jianghu, you can no longer control your own fate.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">他退出江湖多年，如今却被迫重出。</div>
+            <div class="ex-py">Tā tuìchū jiānghú duō nián, rújīn què bèipò chóng chū.</div>
+            <div class="ex-en">He had withdrawn from the jianghu for years — now he's forced to return.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">走江湖卖艺的人，各有各的绝活。</div>
+            <div class="ex-py">Zǒu jiānghú mài yì de rén, gè yǒu gè de juéhuó.</div>
+            <div class="ex-en">Those who travel the jianghu selling their skills — each has their own specialty.</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-n">
+        <div class="card-head">
+          <span class="card-cn">江南</span>
+          <span class="card-py">jiāngnán</span>
+          <span class="card-en">south of the Yangtze; the culturally and economically rich lower Yangtze region</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 专名 zhuānmíng</span></div>
+        <div class="card-def">
+          江 jiāng (the Yangtze) + 南 nán (south). The region south of the Yangtze — centred on present-day Jiangsu, Zhejiang, and Shanghai — is the most romanticized landscape in classical Chinese poetry. 江南 means silk, canals, spring rain, white walls, and scholar gardens. 江南水乡 (the water towns of Jiangnan) is the stock image of a certain kind of Chinese beauty: refined, soft, wealthy, literary. The region has been China's economic heartland since the Song dynasty, and its dialect (Wu Chinese, the base of Shanghainese) represents an entire branch of the language tree. 江南好，风景旧曾谙 (Jiangnan is good — I know its scenery of old) opens Bai Juyi's most famous 忆江南 (Remembering Jiangnan).
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">江南好，风景旧曾谙；日出江花红胜火，春来江水绿如蓝。</div>
+            <div class="ex-py">Jiāngnán hǎo, fēngjǐng jiù céng ān; rì chū jiāng huā hóng shèng huǒ, chūn lái jiāng shuǐ lǜ rú lán.</div>
+            <div class="ex-en">"Jiangnan is good — I know its scenery of old; at sunrise the river flowers are redder than fire, in spring the river water is green as indigo." (Bai Juyi, 忆江南)</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">苏杭自古被誉为"人间天堂"，是江南文化的中心。</div>
+            <div class="ex-py">Sū Háng zìgǔ bèi yù wéi "rénjiān tiāntáng", shì Jiāngnán wénhuà de zhōngxīn.</div>
+            <div class="ex-en">Suzhou and Hangzhou have long been called "paradise on earth" — the centre of Jiangnan culture.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">烟雨江南，细雨如丝，古镇的石板路上倒映着水光。</div>
+            <div class="ex-py">Yānyǔ Jiāngnán, xì yǔ rú sī, gǔzhèn de shíbǎn lù shàng dàoyìng zhe shuǐ guāng.</div>
+            <div class="ex-en">Misty-rain Jiangnan — fine rain like silk threads, the stone-paved lanes of the old towns reflecting waterlight.</div>
+          </div>
+        </div>
+      </div>
+
+    </div><!-- /cards jiang -->
+
+    <!-- ── FIXED EXPRESSIONS ── -->
+    <span class="section-anchor" id="patterns"></span>
+    <div class="section-head">
+      <span class="sh-cn">固定搭配</span>
+      <span class="sh-py">gùdìng dāpèi</span>
+      <span class="sh-en">江山 in Fixed Expressions</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="pattern">
+      <span class="label">构词规律 gòucí guīlǜ · Word-Formation</span>
+      江山 appears as a fixed block in a set of classical compounds, each pairing it with an evaluative modifier. The pattern is: <strong>[adjective/quality] + 江山</strong> — the modifier characterizes the realm, usually celebrating its grandeur or lamenting its loss. Two fixed expressions take the reverse direction — 江山 as the subject of a verb — articulating its vulnerability and the difficulty of possession.
+      <ul>
+        <li><strong>大好江山</strong> dàhǎo jiāngshān — the magnificent rivers and mountains; the beautiful homeland (大好 = wonderfully good; magnificent; full of promise)</li>
+        <li><strong>锦绣江山</strong> jǐnxiù jiāngshān — embroidered rivers and mountains; the splendid and prosperous realm (锦绣 = brocade and embroidery; the most ornate fabrics; used as a superlative for beauty and richness)</li>
+        <li><strong>半壁江山</strong> bàn bì jiāngshān — half the rivers and mountains; half the territory (壁 = wall; 半壁 = half a wall; used when a dynasty is driven from half its domain — most famously of the Southern Song after the Jin conquest of the north)</li>
+        <li><strong>江山易改，本性难移</strong> jiāngshān yì gǎi, běnxìng nán yí — rivers and mountains are easy to change, basic nature is hard to alter; a leopard can't change its spots (本性 běnxìng = innate nature; fundamental character; 移 yí = to shift; to move; to alter)</li>
+      </ul>
+    </div>
+
+    <!-- ── CHENGYU ── -->
+    <span class="section-anchor" id="chengyu"></span>
+    <div class="section-head">
+      <span class="sh-cn">成语</span>
+      <span class="sh-py">chéngyǔ</span>
+      <span class="sh-en">Idioms &amp; Set Phrases</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="chengyu-grid">
+
+      <div class="cy">
+        <span class="cy-cn">江山如画</span>
+        <span class="cy-py">jiāngshān rú huà</span>
+        <span class="cy-en">rivers and mountains like a painting; the land is breathtakingly beautiful</span>
+        <span class="cy-note">From Su Shi's 念奴娇·赤壁怀古 (Remembering Chibi, to the tune of Nian Nu Jiao), written in 1082 at the site of the famous Three Kingdoms battle. 江山如画，一时多少豪杰 (the rivers and mountains like a painting — how many heroes in that one moment). The phrase became the default superlative for China's natural scenery, folding the aesthetic and the political together: the land is beautiful and it is what all those heroes fought over. Used in poetry, tourism, and political rhetoric from the Song dynasty to the present.</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">江山易改，本性难移</span>
+        <span class="cy-py">jiāngshān yì gǎi, běnxìng nán yí</span>
+        <span class="cy-en">easy to change the landscape, hard to change one's nature; a leopard can't change its spots</span>
+        <span class="cy-note">The full proverb. 易 yì (easy) + 改 gǎi (to change; to alter) / 难 nán (difficult) + 移 yí (to shift; to move; to transplant). The contrast is between the external world — rivers and mountains, the landscape of history — and the internal: 本性, innate character, the temperament you were born with. The irony is intentional: the grand, permanent-seeming features of the natural world are actually easier to reshape than a person's fundamental nature. Used as a resigned comment on someone who has not changed their habits, often after years or decades: 你看，果然是江山易改，本性难移。</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">大好河山</span>
+        <span class="cy-py">dàhǎo héshān</span>
+        <span class="cy-en">the great and beautiful rivers and mountains; the magnificent homeland</span>
+        <span class="cy-note">The near-synonym of 大好江山, using 河山 héshān (Yellow River and mountains) instead of 江山 (Yangtze and mountains). 河 hé specifically refers to the Yellow River — 黄河 Huáng Hé — the cradle of northern Chinese civilization. The two terms are interchangeable in most contexts, but 河山 carries a slightly more official, patriotic register — it appears more often in political speeches and national anthem-adjacent rhetoric. 保卫大好河山 (to defend the great rivers and mountains) is a set phrase in patriotic discourse. Both terms point to the same concept: the land itself as the substance of the nation.</span>
+      </div>
+
+    </div>
+
+    <!-- ── ADJACENT VOCAB ── -->
+    <span class="section-anchor" id="adjacent"></span>
+    <div class="section-head">
+      <span class="sh-cn">相邻词汇</span>
+      <span class="sh-py">xiānglín cíhuì</span>
+      <span class="sh-en">Adjacent Vocabulary</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="adj-wrap">
+      <span class="adj"><span class="a-cn">天下</span><span class="a-py">tiānxià</span><span class="a-en">all under heaven; the realm</span></span>
+      <span class="adj"><span class="a-cn">国</span><span class="a-py">guó</span><span class="a-en">nation; state; country</span></span>
+      <span class="adj"><span class="a-cn">朝代</span><span class="a-py">cháodài</span><span class="a-en">dynasty</span></span>
+      <span class="adj"><span class="a-cn">皇帝</span><span class="a-py">huángdì</span><span class="a-en">emperor</span></span>
+      <span class="adj"><span class="a-cn">长江</span><span class="a-py">Cháng Jiāng</span><span class="a-en">the Yangtze River</span></span>
+      <span class="adj"><span class="a-cn">黄河</span><span class="a-py">Huáng Hé</span><span class="a-en">the Yellow River</span></span>
+      <span class="adj"><span class="a-cn">山水</span><span class="a-py">shānshuǐ</span><span class="a-en">mountains and water; landscape; landscape painting</span></span>
+      <span class="adj"><span class="a-cn">疆土</span><span class="a-py">jiāngtǔ</span><span class="a-en">territory; domain; frontier land</span></span>
+      <span class="adj"><span class="a-cn">故土</span><span class="a-py">gùtǔ</span><span class="a-en">homeland; native soil</span></span>
+      <span class="adj"><span class="a-cn">家园</span><span class="a-py">jiāyuán</span><span class="a-en">home; homeland; one's native place</span></span>
+    </div>
+
+    <!-- RETENTION SCHOLAR BOX -->
+    <div class="scholar" data-glyph="江">
+      <div class="scholar-label">记忆法 jìyìfǎ · Master Retention Image</div>
+      <p>江山 is China's oldest way of saying "the country" — and the oldest way reveals the most. Not a state. Not a government. Not a nation in the modern sense. Rivers and mountains: the two features of the landscape that no dynasty could own for long, that outlasted every emperor, that were there before the Zhou and will be there after whoever comes next. The political claim on 江山 is always temporary; the 江山 itself is not.</p>
+      <p>This is why the phrase carries so much weight in the mouths of rulers and poets alike. Su Shi looked at the site of the Battle of Chibi — where three kingdoms had fought and two empires had risen and fallen — and what he saw was a painting. The rivers and mountains unchanged. The heroes all gone. When Mao warned his party that holding the realm is harder than winning it, he was not speaking metaphorically. He had read enough history to know that the rivers do not care who controls them, and the mountains are equally indifferent.</p>
+    </div>
+
+    <footer class="page-footer">
+      <span class="footer-id">Jiǎoluò Shūwū · 角落書屋 · <span>complete</span></span>
+      <a href="../../index.html" class="footer-back">← All Entries</a>
+    </footer>
+
+  </main>
+</div>

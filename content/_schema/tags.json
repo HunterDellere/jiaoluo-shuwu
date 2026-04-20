@@ -253,5 +253,11 @@
   {"slug": "hsk",               "label": "HSK"},
   {"slug": "wordlist",          "label": "Word List"},
   {"slug": "advanced",          "label": "Advanced"},
-  {"slug": "hub",               "label": "Hub"}
+  {"slug": "hub",               "label": "Hub"},
+  {"slug": "change",            "label": "Change"},
+  {"slug": "hanzi",             "label": "Hanzi"},
+  {"slug": "calendar",          "label": "Calendar"},
+  {"slug": "classics",          "label": "Classics"},
+  {"slug": "modern",            "label": "Modern"},
+  {"slug": "rebellion",         "label": "Rebellion"}
 ]

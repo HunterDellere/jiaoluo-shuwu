@@ -6,7 +6,7 @@
     <atom:link href="https://jiaoshoo.com/feed.xml" rel="self" type="application/rss+xml" />
     <description>Notes on Chinese language and civilisation — characters, vocabulary, grammar, history, philosophy, and the world they shaped.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 20 Apr 2026 03:47:59 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 04:09:24 GMT</lastBuildDate>
     <item>
       <title>楚辞 · Songs of Chu</title>
       <link>https://jiaoshoo.com/pages/arts/topic_chuci.html</link>
@@ -80,6 +80,14 @@
       <category>characters</category>
     </item>
     <item>
+      <title>变 · to change, to transform</title>
+      <link>https://jiaoshoo.com/pages/characters/bian4_变.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/bian4_变.html</guid>
+      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
+      <description>The character at the heart of the I Ching, the dynastic cycle, and the modern vocabulary of reform — change as the one constant.</description>
+      <category>characters</category>
+    </item>
+    <item>
       <title>不 · no, not, negation</title>
       <link>https://jiaoshoo.com/pages/characters/bu4_不.html</link>
       <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/bu4_不.html</guid>
@@ -125,6 +133,14 @@
       <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/da4_大.html</guid>
       <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
       <description>Big, great, large — a person with arms wide open, the original measure of magnitude.</description>
+      <category>characters</category>
+    </item>
+    <item>
+      <title>地 · earth, ground, land</title>
+      <link>https://jiaoshoo.com/pages/characters/di4_地.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/di4_地.html</guid>
+      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
+      <description>Heaven above, earth below — the second power of the cosmos, and the root of every word about place, ground, and belonging.</description>
       <category>characters</category>
     </item>
     <item>
@@ -216,35 +232,19 @@
       <category>characters</category>
     </item>
     <item>
-      <title>龙 · dragon</title>
+      <title>礼 · rites, ceremony, propriety</title>
+      <link>https://jiaoshoo.com/pages/characters/li3_礼.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/li3_礼.html</guid>
+      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
+      <description>The character that encodes Confucian social order — the ceremonial forms that bind family, society, and cosmos into one coherent whole.</description>
+      <category>characters</category>
+    </item>
+    <item>
+      <title>龙 · dragon, the imperial symbol</title>
       <link>https://jiaoshoo.com/pages/characters/long2_龙.html</link>
       <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/long2_龙.html</guid>
       <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
-      <description>The serpentine lord of rain and rivers — not a monster, but the supreme symbol of cosmic power and imperial authority.</description>
-      <category>characters</category>
-    </item>
-    <item>
-      <title>落 · to fall, to settle, to land</title>
-      <link>https://jiaoshoo.com/pages/characters/luo4_落.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/luo4_落.html</guid>
-      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
-      <description>Falling, settling, and the beauty of things arriving at their place.</description>
-      <category>characters</category>
-    </item>
-    <item>
-      <title>美 · beautiful, USA, delicious</title>
-      <link>https://jiaoshoo.com/pages/characters/mei3_美.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/mei3_美.html</guid>
-      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
-      <description>A large sheep carrying horns — beauty as abundance, sacrifice, and the pleasure of the highest good.</description>
-      <category>characters</category>
-    </item>
-    <item>
-      <title>明 · bright, clear, tomorrow</title>
-      <link>https://jiaoshoo.com/pages/characters/ming2_明.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/ming2_明.html</guid>
-      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
-      <description>Sun and moon combined — brightness, clarity, dawn, and understanding.</description>
+      <description>China&apos;s most powerful mythic creature — benevolent, not fearsome; the emperor&apos;s emblem and the Chinese people&apos;s self-described totem.</description>
       <category>characters</category>
     </item>
   </channel>

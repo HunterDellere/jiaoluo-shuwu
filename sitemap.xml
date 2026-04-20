@@ -61,6 +61,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://jiaoshoo.com/pages/characters/bian4_变.html</loc>
+    <lastmod>2026-04-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://jiaoshoo.com/pages/characters/bu4_不.html</loc>
     <lastmod>2026-04-19</lastmod>
     <changefreq>monthly</changefreq>
@@ -92,6 +98,12 @@
   </url>
   <url>
     <loc>https://jiaoshoo.com/pages/characters/da4_大.html</loc>
+    <lastmod>2026-04-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://jiaoshoo.com/pages/characters/di4_地.html</loc>
     <lastmod>2026-04-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -158,6 +170,12 @@
   </url>
   <url>
     <loc>https://jiaoshoo.com/pages/characters/lao3_老.html</loc>
+    <lastmod>2026-04-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://jiaoshoo.com/pages/characters/li3_礼.html</loc>
     <lastmod>2026-04-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -235,6 +253,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://jiaoshoo.com/pages/characters/shi2_时.html</loc>
+    <lastmod>2026-04-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://jiaoshoo.com/pages/characters/shou3_手.html</loc>
     <lastmod>2026-04-19</lastmod>
     <changefreq>monthly</changefreq>
@@ -254,6 +278,12 @@
   </url>
   <url>
     <loc>https://jiaoshoo.com/pages/characters/shuo1_说.html</loc>
+    <lastmod>2026-04-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://jiaoshoo.com/pages/characters/si1_思.html</loc>
     <lastmod>2026-04-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -284,6 +314,12 @@
   </url>
   <url>
     <loc>https://jiaoshoo.com/pages/characters/xue2_学.html</loc>
+    <lastmod>2026-04-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://jiaoshoo.com/pages/characters/yan2_言.html</loc>
     <lastmod>2026-04-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -697,6 +733,24 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://jiaoshoo.com/pages/history/topic_gaige.html</loc>
+    <lastmod>2026-04-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://jiaoshoo.com/pages/history/topic_keju.html</loc>
+    <lastmod>2026-04-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://jiaoshoo.com/pages/history/topic_taiping.html</loc>
+    <lastmod>2026-04-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://jiaoshoo.com/pages/hsk/hsk-1.html</loc>
     <lastmod>2026-04-19</lastmod>
     <changefreq>monthly</changefreq>
@@ -745,7 +799,37 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://jiaoshoo.com/pages/hubs/hanzi.html</loc>
+    <lastmod>2026-04-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://jiaoshoo.com/pages/hubs/jieri.html</loc>
+    <lastmod>2026-04-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://jiaoshoo.com/pages/hubs/tea.html</loc>
+    <lastmod>2026-04-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://jiaoshoo.com/pages/hubs/zhexue.html</loc>
+    <lastmod>2026-04-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://jiaoshoo.com/pages/hubs/zhongyi.html</loc>
+    <lastmod>2026-04-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://jiaoshoo.com/pages/philosophy/topic_yijing.html</loc>
     <lastmod>2026-04-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -776,6 +860,12 @@
   </url>
   <url>
     <loc>https://jiaoshoo.com/pages/science/topic_suanpan.html</loc>
+    <lastmod>2026-04-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://jiaoshoo.com/pages/science/topic_wuxing.html</loc>
     <lastmod>2026-04-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -823,6 +913,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://jiaoshoo.com/pages/vocab/daode_道德.html</loc>
+    <lastmod>2026-04-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://jiaoshoo.com/pages/vocab/fengsu_风俗.html</loc>
     <lastmod>2026-04-19</lastmod>
     <changefreq>monthly</changefreq>
@@ -842,6 +938,12 @@
   </url>
   <url>
     <loc>https://jiaoshoo.com/pages/vocab/hanzi_汉字.html</loc>
+    <lastmod>2026-04-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://jiaoshoo.com/pages/vocab/jiangshan_江山.html</loc>
     <lastmod>2026-04-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -889,6 +991,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://jiaoshoo.com/pages/vocab/ren2_仁.html</loc>
+    <lastmod>2026-04-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://jiaoshoo.com/pages/vocab/rensheng_人生.html</loc>
     <lastmod>2026-04-19</lastmod>
     <changefreq>monthly</changefreq>
@@ -908,6 +1016,12 @@
   </url>
   <url>
     <loc>https://jiaoshoo.com/pages/vocab/shufa_书法.html</loc>
+    <lastmod>2026-04-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://jiaoshoo.com/pages/vocab/tianming_天命.html</loc>
     <lastmod>2026-04-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>

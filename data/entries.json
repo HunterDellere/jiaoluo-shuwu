@@ -161,6 +161,24 @@
     "updated": "2026-04-19"
   },
   {
+    "path": "pages/characters/bian4_变.html",
+    "type": "character",
+    "category": "characters",
+    "title": "变 · to change, to transform",
+    "desc": "The character at the heart of the I Ching, the dynastic cycle, and the modern vocabulary of reform — change as the one constant.",
+    "tags": [
+      "philosophy",
+      "change"
+    ],
+    "status": "complete",
+    "char": "变",
+    "pinyin": "biàn",
+    "tone": 4,
+    "hsk": 3,
+    "radical": "又",
+    "updated": "2026-04-19"
+  },
+  {
     "path": "pages/characters/bu4_不.html",
     "type": "character",
     "category": "characters",
@@ -273,6 +291,24 @@
     "tone": 4,
     "hsk": 1,
     "radical": "大",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/characters/di4_地.html",
+    "type": "character",
+    "category": "characters",
+    "title": "地 · earth, ground, land",
+    "desc": "Heaven above, earth below — the second power of the cosmos, and the root of every word about place, ground, and belonging.",
+    "tags": [
+      "nature",
+      "geography"
+    ],
+    "status": "complete",
+    "char": "地",
+    "pinyin": "dì",
+    "tone": 4,
+    "hsk": 1,
+    "radical": "土",
     "updated": "2026-04-19"
   },
   {
@@ -486,22 +522,39 @@
     "updated": "2026-04-19"
   },
   {
+    "path": "pages/characters/li3_礼.html",
+    "type": "character",
+    "category": "characters",
+    "title": "礼 · rites, ceremony, propriety",
+    "desc": "The character that encodes Confucian social order — the ceremonial forms that bind family, society, and cosmos into one coherent whole.",
+    "tags": [
+      "confucianism",
+      "radical",
+      "culture"
+    ],
+    "status": "complete",
+    "char": "礼",
+    "pinyin": "lǐ",
+    "tone": 3,
+    "hsk": 4,
+    "radical": "礻",
+    "updated": "2026-04-19"
+  },
+  {
     "path": "pages/characters/long2_龙.html",
     "type": "character",
     "category": "characters",
-    "title": "龙 · dragon",
-    "desc": "The serpentine lord of rain and rivers — not a monster, but the supreme symbol of cosmic power and imperial authority.",
+    "title": "龙 · dragon, the imperial symbol",
+    "desc": "China's most powerful mythic creature — benevolent, not fearsome; the emperor's emblem and the Chinese people's self-described totem.",
     "tags": [
       "culture",
-      "symbolism",
-      "cosmology",
       "history"
     ],
     "status": "complete",
     "char": "龙",
     "pinyin": "lóng",
     "tone": 2,
-    "hsk": 4,
+    "hsk": 3,
     "radical": "龙",
     "updated": "2026-04-19"
   },
@@ -720,6 +773,24 @@
     "updated": "2026-04-19"
   },
   {
+    "path": "pages/characters/shi2_时.html",
+    "type": "character",
+    "category": "characters",
+    "title": "时 · time, hour, season",
+    "desc": "The sun moving — time as something visible, measurable, and morally weighted.",
+    "tags": [
+      "time",
+      "daily"
+    ],
+    "status": "complete",
+    "char": "时",
+    "pinyin": "shí",
+    "tone": 2,
+    "hsk": 1,
+    "radical": "日",
+    "updated": "2026-04-19"
+  },
+  {
     "path": "pages/characters/shou3_手.html",
     "type": "character",
     "category": "characters",
@@ -796,6 +867,24 @@
     "tone": 1,
     "hsk": 1,
     "radical": "讠",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/characters/si1_思.html",
+    "type": "character",
+    "category": "characters",
+    "title": "思 · to think, to miss, thought",
+    "desc": "The field of the mind above the heart — thinking as cultivation, longing as thought turned inward.",
+    "tags": [
+      "mind",
+      "emotion"
+    ],
+    "status": "complete",
+    "char": "思",
+    "pinyin": "sī",
+    "tone": 1,
+    "hsk": 3,
+    "radical": "心",
     "updated": "2026-04-19"
   },
   {
@@ -897,6 +986,24 @@
     "tone": 2,
     "hsk": 1,
     "radical": "子",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/characters/yan2_言.html",
+    "type": "character",
+    "category": "characters",
+    "title": "言 · speech, word, language",
+    "desc": "The root of every word about words — the mouth open, the tongue moving, the speech rising.",
+    "tags": [
+      "radical",
+      "language"
+    ],
+    "status": "complete",
+    "char": "言",
+    "pinyin": "yán",
+    "tone": 2,
+    "hsk": 4,
+    "radical": "言",
     "updated": "2026-04-19"
   },
   {
@@ -2031,6 +2138,56 @@
     "updated": "2026-04-19"
   },
   {
+    "path": "pages/history/topic_gaige.html",
+    "type": "topic",
+    "category": "history",
+    "title": "改革开放 · Reform and Opening Up",
+    "desc": "Deng Xiaoping's 1978 pivot that transformed China from a closed command economy into the world's second largest economy in four decades.",
+    "tags": [
+      "history",
+      "politics",
+      "economy",
+      "modern"
+    ],
+    "status": "complete",
+    "pinyin": "gǎigé kāifàng",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/history/topic_keju.html",
+    "type": "topic",
+    "category": "history",
+    "title": "科举 · The Imperial Examination System",
+    "desc": "The exam that governed Chinese civilization for 1,300 years — selecting officials by merit, enshrining the Confucian canon, and shaping every dynasty from the Sui through the Qing.",
+    "tags": [
+      "history",
+      "confucianism",
+      "tang",
+      "song",
+      "ming",
+      "qing"
+    ],
+    "status": "complete",
+    "pinyin": "kē jǔ",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/history/topic_taiping.html",
+    "type": "topic",
+    "category": "history",
+    "title": "太平天国 · The Taiping Heavenly Kingdom",
+    "desc": "The millenarian rebellion that killed 20–30 million people and nearly toppled the Qing dynasty — the deadliest civil war in human history.",
+    "tags": [
+      "history",
+      "qing",
+      "rebellion",
+      "religion"
+    ],
+    "status": "complete",
+    "pinyin": "tàipíng tiānguó",
+    "updated": "2026-04-19"
+  },
+  {
     "path": "pages/hsk/hsk-1.html",
     "type": "topic",
     "category": "hsk",
@@ -2154,6 +2311,35 @@
     "updated": "2026-04-19"
   },
   {
+    "path": "pages/hubs/hanzi.html",
+    "type": "topic",
+    "category": "hubs",
+    "title": "汉字 · The Writing System — A Reading Path",
+    "desc": "A guided walk through Chinese characters — from oracle bone to modern glyph, from radical to compound, from stroke to calligraphy.",
+    "tags": [
+      "characters",
+      "hanzi",
+      "hub"
+    ],
+    "status": "complete",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/hubs/jieri.html",
+    "type": "topic",
+    "category": "hubs",
+    "title": "节日 · The Festival Calendar — A Reading Path",
+    "desc": "A guided walk through the Chinese year — the lunar calendar, the solar terms, and the great festivals that mark the turning of time.",
+    "tags": [
+      "culture",
+      "festival",
+      "calendar",
+      "hub"
+    ],
+    "status": "complete",
+    "updated": "2026-04-19"
+  },
+  {
     "path": "pages/hubs/tea.html",
     "type": "topic",
     "category": "hubs",
@@ -2165,6 +2351,51 @@
       "hub"
     ],
     "status": "complete",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/hubs/zhexue.html",
+    "type": "topic",
+    "category": "hubs",
+    "title": "哲学 · Chinese Philosophy — A Reading Path",
+    "desc": "A guided walk through the great schools of Chinese thought — from Confucius and Laozi to the Neo-Confucian synthesis and the living debate between order and spontaneity.",
+    "tags": [
+      "philosophy",
+      "confucianism",
+      "daoism",
+      "hub"
+    ],
+    "status": "complete",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/hubs/zhongyi.html",
+    "type": "topic",
+    "category": "hubs",
+    "title": "中医 · Traditional Chinese Medicine — A Reading Path",
+    "desc": "A guided walk through the philosophy, practice, and vocabulary of Chinese medicine — from yin-yang and qi to acupuncture, herbology, and the five phases.",
+    "tags": [
+      "tcm",
+      "health",
+      "hub"
+    ],
+    "status": "complete",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/philosophy/topic_yijing.html",
+    "type": "topic",
+    "category": "philosophy",
+    "title": "易经 · The Book of Changes",
+    "desc": "The oldest and most cryptic of the Chinese classics — a manual of divination, a philosophy of change, and a map of the universe encoded in 64 hexagrams.",
+    "tags": [
+      "philosophy",
+      "divination",
+      "cosmology",
+      "classics"
+    ],
+    "status": "complete",
+    "pinyin": "yì jīng",
     "updated": "2026-04-19"
   },
   {
@@ -2251,6 +2482,22 @@
     ],
     "status": "complete",
     "pinyin": "suànpán",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/science/topic_wuxing.html",
+    "type": "topic",
+    "category": "science",
+    "title": "五行 · The Five Phases",
+    "desc": "The five dynamic processes — wood, fire, earth, metal, water — that classical Chinese science used to map medicine, cosmology, music, politics, and time.",
+    "tags": [
+      "cosmology",
+      "wuxing",
+      "tcm",
+      "philosophy"
+    ],
+    "status": "complete",
+    "pinyin": "wǔxíng",
     "updated": "2026-04-19"
   },
   {
@@ -2366,6 +2613,21 @@
     "updated": "2026-04-19"
   },
   {
+    "path": "pages/vocab/daode_道德.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "道德 · morality, ethics, virtue",
+    "desc": "The compound at the center of Chinese moral philosophy — the Way and its virtue, inseparable and mutually defining.",
+    "tags": [
+      "philosophy",
+      "ethics",
+      "confucianism"
+    ],
+    "status": "complete",
+    "pinyin": "dàodé",
+    "updated": "2026-04-19"
+  },
+  {
     "path": "pages/vocab/fengsu_风俗.html",
     "type": "vocab",
     "category": "vocab",
@@ -2427,6 +2689,21 @@
     ],
     "status": "complete",
     "pinyin": "hànzì",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/vocab/jiangshan_江山.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "江山 · rivers and mountains, the realm",
+    "desc": "The classical Chinese word for the nation — not a territory but a landscape; not a state but a living geography that dynasties rose and fell to possess.",
+    "tags": [
+      "history",
+      "politics",
+      "geography"
+    ],
+    "status": "complete",
+    "pinyin": "jiāngshān",
     "updated": "2026-04-19"
   },
   {
@@ -2539,6 +2816,21 @@
     "updated": "2026-04-19"
   },
   {
+    "path": "pages/vocab/ren2_仁.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "仁 · humaneness, benevolence",
+    "desc": "The supreme Confucian virtue — the quality of genuine care for other people that holds civilization together.",
+    "tags": [
+      "confucianism",
+      "ethics",
+      "virtue"
+    ],
+    "status": "complete",
+    "pinyin": "rén",
+    "updated": "2026-04-19"
+  },
+  {
     "path": "pages/vocab/rensheng_人生.html",
     "type": "vocab",
     "category": "vocab",
@@ -2597,6 +2889,21 @@
     ],
     "status": "complete",
     "pinyin": "shūfǎ",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/vocab/tianming_天命.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "天命 · the Mandate of Heaven",
+    "desc": "The political and cosmological concept that legitimized three thousand years of Chinese dynasty — heaven's appointment of the rightful ruler.",
+    "tags": [
+      "history",
+      "politics",
+      "philosophy"
+    ],
+    "status": "complete",
+    "pinyin": "tiānmìng",
     "updated": "2026-04-19"
   },
   {

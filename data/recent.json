@@ -161,6 +161,24 @@
     "updated": "2026-04-19"
   },
   {
+    "path": "pages/characters/bian4_变.html",
+    "type": "character",
+    "category": "characters",
+    "title": "变 · to change, to transform",
+    "desc": "The character at the heart of the I Ching, the dynastic cycle, and the modern vocabulary of reform — change as the one constant.",
+    "tags": [
+      "philosophy",
+      "change"
+    ],
+    "status": "complete",
+    "char": "变",
+    "pinyin": "biàn",
+    "tone": 4,
+    "hsk": 3,
+    "radical": "又",
+    "updated": "2026-04-19"
+  },
+  {
     "path": "pages/characters/bu4_不.html",
     "type": "character",
     "category": "characters",
@@ -276,6 +294,24 @@
     "updated": "2026-04-19"
   },
   {
+    "path": "pages/characters/di4_地.html",
+    "type": "character",
+    "category": "characters",
+    "title": "地 · earth, ground, land",
+    "desc": "Heaven above, earth below — the second power of the cosmos, and the root of every word about place, ground, and belonging.",
+    "tags": [
+      "nature",
+      "geography"
+    ],
+    "status": "complete",
+    "char": "地",
+    "pinyin": "dì",
+    "tone": 4,
+    "hsk": 1,
+    "radical": "土",
+    "updated": "2026-04-19"
+  },
+  {
     "path": "pages/characters/dian4_电.html",
     "type": "character",
     "category": "characters",
@@ -329,43 +365,6 @@
     "tone": 2,
     "hsk": 3,
     "radical": "示",
-    "updated": "2026-04-19"
-  },
-  {
-    "path": "pages/characters/gong1_工.html",
-    "type": "character",
-    "category": "characters",
-    "title": "工 · work, craft, labor, worker",
-    "desc": "Three strokes encoding heaven, earth, and the human craft connecting them — the root character for all labor, skill, and making in Chinese.",
-    "tags": [
-      "culture",
-      "history"
-    ],
-    "status": "complete",
-    "char": "工",
-    "pinyin": "gōng",
-    "tone": 1,
-    "hsk": 2,
-    "radical": "工",
-    "updated": "2026-04-19"
-  },
-  {
-    "path": "pages/characters/guo2_国.html",
-    "type": "character",
-    "category": "characters",
-    "title": "国 · country, nation, state",
-    "desc": "A walled enclosure protecting its people — the Chinese concept of nationhood written in a single character.",
-    "tags": [
-      "politics",
-      "society",
-      "culture"
-    ],
-    "status": "complete",
-    "char": "国",
-    "pinyin": "guó",
-    "tone": 2,
-    "hsk": 1,
-    "radical": "囗",
     "updated": "2026-04-19"
   }
 ]
