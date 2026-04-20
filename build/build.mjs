@@ -371,6 +371,22 @@ for (const { fm, body, slug, category, outDir, entry } of pending) {
       }
     }
 
+    // Hub pages: inject "Other reading paths" nav into sidebar
+    if (fm.type === 'hub') {
+      const otherHubs = entries.filter(e => e.category === 'hubs' && e.path !== entry.path);
+      if (otherHubs.length) {
+        const depth = category === 'hubs' ? '../../' : '../';
+        const hubLinks = otherHubs.map(h => {
+          const cn = h.title ? h.title.split('·')[0].trim() : '';
+          const en = h.title ? (h.title.split('·').slice(1).join('·').trim().split('—')[0].trim()) : '';
+          const rel = relPathBuild(entry.path, h.path);
+          return `<li><a class="toc-hub-link" href="${rel}"><span class="toc-hub-cn">${escapeHtmlBuild(cn)}</span><span class="toc-hub-en">${escapeHtmlBuild(en)}</span></a></li>`;
+        }).join('\n        ');
+        const hubNav = `\n    <div class="toc-divider"></div>\n    <span class="toc-label">Other reading paths</span>\n    <ul class="toc-list toc-hub-list">\n        ${hubLinks}\n    </ul>`;
+        augmentedBody = augmentedBody.replace('</aside>', hubNav + '\n  </aside>');
+      }
+    }
+
     // Hub pages: inject stages section from frontmatter (if stages[] present)
     if (fm.type === 'hub' && fm.stages && fm.stages.length) {
       const stagesHtml = renderHubStagesHtml(fm, slug, category);
