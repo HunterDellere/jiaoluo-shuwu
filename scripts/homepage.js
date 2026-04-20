@@ -426,8 +426,8 @@
         cell.innerHTML = `
           <span class="overview-glyph" style="color:${meta.color}">${meta.cn}</span>
           <div class="overview-body">
-            <span class="overview-name">${meta.en}</span>
             <span class="overview-py">${meta.py}</span>
+            <span class="overview-name">${meta.en}</span>
             <span class="overview-desc">${meta.desc}</span>
             <span class="overview-count">${count + (count === 1 ? " entry" : " entries")}</span>
           </div>
@@ -510,8 +510,8 @@
         cell.innerHTML = `
           <span class="overview-glyph" style="color:${CATEGORY_META.hubs.color}">${cn}</span>
           <div class="overview-body">
-            <span class="overview-name">${escapeHtml(en)}</span>
             <span class="overview-py">${escapeHtml(e.pinyin || "")}</span>
+            <span class="overview-name">${escapeHtml(en)}</span>
             <span class="overview-desc">${escapeHtml(e.desc || "")}</span>
             <span class="overview-count" style="display:flex;align-items:center;gap:4px;margin-top:4px">${swatchDots}<span>${escapeHtml(memberLabel)}</span></span>
           </div>
