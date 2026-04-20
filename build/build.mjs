@@ -17,7 +17,7 @@ import { validateEntry } from './lib/validate.mjs';
 import { buildSearchIndex } from './lib/search-index.mjs';
 import { buildRelations, buildAdjacency, renderRelatedHtml, renderAdjacencyHtml } from './lib/relations.mjs';
 import { renderHskBody } from './lib/hsk.mjs';
-import { injectStrokeOrder, buildLinkMap, autoLinkBody, addPinyinAudio, buildPageFooter, renderSourcesHtml } from './lib/augment.mjs';
+import { injectStrokeOrder, buildLinkMap, autoLinkBody, addPinyinAudio, buildPageFooter, renderSourcesHtml, ensureMainContentId } from './lib/augment.mjs';
 import { renderOgSvg, categoryFaviconDataUri } from './lib/og.mjs';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
@@ -418,9 +418,11 @@ for (const { fm, body, slug, category, outDir, entry } of pending) {
           /<span class="section-anchor" id="stages"><\/span>[\s\S]*?(?=<span class="section-anchor" id="path">)/,
           ''
         );
-        // Replace everything from id="path" through (but not including) id="also"
+        // Replace the authored "path" block with generated stages content.
+        // Terminate at the NEXT section-anchor (not specifically "also") so
+        // any in-between anchors like "questions" are preserved.
         augmentedBody = augmentedBody.replace(
-          /<span class="section-anchor" id="path"><\/span>[\s\S]*?(?=<span class="section-anchor" id="also">)/,
+          /<span class="section-anchor" id="path"><\/span>[\s\S]*?(?=<span class="section-anchor")/,
           stagesHtml + '\n\n    '
         );
       }
@@ -465,6 +467,9 @@ for (const { fm, body, slug, category, outDir, entry } of pending) {
 
     // Inject unified footer on all pages (strips authored stub if present)
     augmentedBody = buildPageFooter(augmentedBody, fm, slug, category);
+
+    // Ensure skip-link target is present on every page
+    augmentedBody = ensureMainContentId(augmentedBody);
 
     const html = renderPage(fm, augmentedBody, slug, category);
     writeFileSync(join(outDir, `${slug}.html`), html, 'utf8');

@@ -1,0 +1,21 @@
+#!/usr/bin/env bash
+# pre-push hook — blocks pushes that would break the live site.
+#
+# Activate once per clone:
+#   git config core.hooksPath .githooks
+#
+# Runs: validate (schema) → build → check (invariants + links + orphans).
+# Bypass in emergencies with: git push --no-verify  (use sparingly).
+
+set -e
+
+# Skip when deleting a branch (no commits to verify)
+z40=0000000000000000000000000000000000000000
+while read local_ref local_sha remote_ref remote_sha; do
+  if [ "$local_sha" = "$z40" ]; then
+    exit 0
+  fi
+done
+
+echo "→ pre-push: npm run verify"
+npm run verify

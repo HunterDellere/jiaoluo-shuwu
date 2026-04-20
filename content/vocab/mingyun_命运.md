@@ -43,10 +43,6 @@ pinyin: 'mìngyùn'
         <span class="toc-cn">哲学</span> Philosophy
         <span class="toc-sub">Confucian and Daoist views</span>
       </a></li>
-      <li><a href="#compounds">
-        <span class="toc-cn">构词</span> Key Compounds
-        <span class="toc-sub">fate vocabulary</span>
-      </a></li>
       <li><a href="#chengyu">
         <span class="toc-cn">成语</span> Idioms
         <span class="toc-sub">chéngyǔ · set phrases</span>

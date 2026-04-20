@@ -6,6 +6,8 @@
   "scripts": {
     "build": "node build/build.mjs",
     "validate": "node build/validate.mjs",
+    "check": "node build/check.mjs",
+    "verify": "npm run validate && npm run build && npm run check",
     "draft": "node build/draft.mjs",
     "new": "node build/new.mjs",
     "watch": "node build/watch.mjs"
