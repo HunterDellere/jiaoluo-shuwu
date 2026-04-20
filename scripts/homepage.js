@@ -441,16 +441,16 @@
     renderShelf({ kind: "topics",   cn: "话题", py: "huàtí",  en: "Topics",
                   desc: "Thought, history, place, lived life — what the language is used to say." }, TOPICS_KEYS);
 
-    // Hubs shelf: chengyu as a category cell, each hub entry as its own cell.
+    // Collections shelf: chengyu + HSK as category cells, each hub entry as its own cell.
     (function renderHubsShelf() {
       const shelf = document.createElement("div");
       shelf.className = "overview-shelf overview-shelf-hubs";
       shelf.innerHTML = `
         <div class="overview-shelf-head">
-          <span class="overview-shelf-cn">门户</span>
-          <span class="overview-shelf-py">ménhù</span>
-          <span class="overview-shelf-en">Hubs</span>
-          <span class="overview-shelf-desc">Curated collections and reading paths through thematic clusters.</span>
+          <span class="overview-shelf-cn">集锦</span>
+          <span class="overview-shelf-py">jíjǐn</span>
+          <span class="overview-shelf-en">Collections</span>
+          <span class="overview-shelf-desc">Idioms, curated reading paths, and reference lists.</span>
         </div>
         <div class="overview-grid"></div>
       `;
@@ -473,6 +473,24 @@
         </div>
       `;
       grid.appendChild(cyCell);
+
+      // HSK as a normal category cell
+      const hskMeta = CATEGORY_META["hsk"];
+      const hskCount = groups["hsk"] ? groups["hsk"].length : 0;
+      const hskCell = document.createElement(hskCount > 0 ? "a" : "div");
+      if (hskCount > 0) hskCell.href = "#cat-hsk";
+      hskCell.className = "overview-cell";
+      hskCell.dataset.category = "hsk";
+      hskCell.innerHTML = `
+        <span class="overview-glyph" style="color:${hskMeta.color}">${hskMeta.cn}</span>
+        <div class="overview-body">
+          <span class="overview-name">${hskMeta.en}</span>
+          <span class="overview-py">${hskMeta.py}</span>
+          <span class="overview-desc">${hskMeta.desc}</span>
+          <span class="overview-count">${hskCount + (hskCount === 1 ? " entry" : " entries")}</span>
+        </div>
+      `;
+      grid.appendChild(hskCell);
 
       // Each hub entry as its own cell
       // Stage swatch colors mirror the card color CSS variables
