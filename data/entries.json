@@ -180,6 +180,45 @@
     "updated": "2026-04-19"
   },
   {
+    "path": "pages/characters/cha2_茶.html",
+    "type": "character",
+    "category": "characters",
+    "title": "茶 · tea",
+    "desc": "The character that gave the world its word for tea — a grass over wood over man, a plant that shaped civilization, and the locus of China's richest material culture.",
+    "tags": [
+      "tea",
+      "culture",
+      "nature",
+      "drink"
+    ],
+    "status": "complete",
+    "char": "茶",
+    "pinyin": "chá",
+    "tone": 2,
+    "hsk": 3,
+    "radical": "艹",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/characters/chang2_长.html",
+    "type": "character",
+    "category": "characters",
+    "title": "长 · long; to grow; chief",
+    "desc": "A person with flowing long hair — one character, two readings: cháng (long) and zhǎng (to grow, elder), the richest dual-reading in Mandarin.",
+    "tags": [
+      "grammar",
+      "culture",
+      "family"
+    ],
+    "status": "complete",
+    "char": "长",
+    "pinyin": "cháng",
+    "tone": 2,
+    "hsk": 1,
+    "radical": "长",
+    "updated": "2026-04-19"
+  },
+  {
     "path": "pages/characters/chi1_吃.html",
     "type": "character",
     "category": "characters",
@@ -237,6 +276,24 @@
     "updated": "2026-04-19"
   },
   {
+    "path": "pages/characters/dian4_电.html",
+    "type": "character",
+    "category": "characters",
+    "title": "电 · electricity, electric, telegram",
+    "desc": "Lightning descending from a rain cloud — a character that jumped from describing the weather to naming the force that defines modern civilization.",
+    "tags": [
+      "culture",
+      "daily"
+    ],
+    "status": "complete",
+    "char": "电",
+    "pinyin": "diàn",
+    "tone": 4,
+    "hsk": 2,
+    "radical": "雨",
+    "updated": "2026-04-19"
+  },
+  {
     "path": "pages/characters/fo2_佛.html",
     "type": "character",
     "category": "characters",
@@ -272,6 +329,24 @@
     "tone": 2,
     "hsk": 3,
     "radical": "示",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/characters/gong1_工.html",
+    "type": "character",
+    "category": "characters",
+    "title": "工 · work, craft, labor, worker",
+    "desc": "Three strokes encoding heaven, earth, and the human craft connecting them — the root character for all labor, skill, and making in Chinese.",
+    "tags": [
+      "culture",
+      "history"
+    ],
+    "status": "complete",
+    "char": "工",
+    "pinyin": "gōng",
+    "tone": 1,
+    "hsk": 2,
+    "radical": "工",
     "updated": "2026-04-19"
   },
   {
@@ -313,6 +388,25 @@
     "updated": "2026-04-19"
   },
   {
+    "path": "pages/characters/huo3_火.html",
+    "type": "character",
+    "category": "characters",
+    "title": "火 · fire, flame, anger, popularity",
+    "desc": "Three flames rising — the character for fire and one of the most productive radicals in Chinese.",
+    "tags": [
+      "nature",
+      "radical",
+      "energy"
+    ],
+    "status": "complete",
+    "char": "火",
+    "pinyin": "huǒ",
+    "tone": 3,
+    "hsk": 1,
+    "radical": "火",
+    "updated": "2026-04-19"
+  },
+  {
     "path": "pages/characters/jiao3_角.html",
     "type": "character",
     "category": "characters",
@@ -332,6 +426,83 @@
       "to": 4
     },
     "radical": "角",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/characters/jin1_金.html",
+    "type": "character",
+    "category": "characters",
+    "title": "金 · gold, metal, money",
+    "desc": "Nuggets of gold beneath the earth — and one of the Five Phases that governs autumn, the west, and sharpness.",
+    "tags": [
+      "nature",
+      "radical",
+      "wuxing"
+    ],
+    "status": "complete",
+    "char": "金",
+    "pinyin": "jīn",
+    "tone": 1,
+    "hsk": 3,
+    "radical": "金",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/characters/kou3_口.html",
+    "type": "character",
+    "category": "characters",
+    "title": "口 · mouth, opening, entrance",
+    "desc": "A simple rectangle for an open mouth — one of the most productive radicals in the script, present in hundreds of characters for speaking, eating, and openings.",
+    "tags": [
+      "body",
+      "culture"
+    ],
+    "status": "complete",
+    "char": "口",
+    "pinyin": "kǒu",
+    "tone": 3,
+    "hsk": 3,
+    "radical": "口",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/characters/lao3_老.html",
+    "type": "character",
+    "category": "characters",
+    "title": "老 · old, venerable, experienced",
+    "desc": "A stooped elder with long hair — age as wisdom, seniority as moral authority, and the Daoist sage who wrote the Tao Te Ching.",
+    "tags": [
+      "confucianism",
+      "family",
+      "culture",
+      "philosophy"
+    ],
+    "status": "complete",
+    "char": "老",
+    "pinyin": "lǎo",
+    "tone": 3,
+    "hsk": 2,
+    "radical": "老",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/characters/long2_龙.html",
+    "type": "character",
+    "category": "characters",
+    "title": "龙 · dragon",
+    "desc": "The serpentine lord of rain and rivers — not a monster, but the supreme symbol of cosmic power and imperial authority.",
+    "tags": [
+      "culture",
+      "symbolism",
+      "cosmology",
+      "history"
+    ],
+    "status": "complete",
+    "char": "龙",
+    "pinyin": "lóng",
+    "tone": 2,
+    "hsk": 4,
+    "radical": "龙",
     "updated": "2026-04-19"
   },
   {
@@ -415,6 +586,44 @@
     "updated": "2026-04-19"
   },
   {
+    "path": "pages/characters/nian2_年.html",
+    "type": "character",
+    "category": "characters",
+    "title": "年 · year",
+    "desc": "A person carrying a harvest of grain — year as the cycle of agricultural labor, and the heart of the Chinese New Year tradition.",
+    "tags": [
+      "culture",
+      "history",
+      "cosmology"
+    ],
+    "status": "complete",
+    "char": "年",
+    "pinyin": "nián",
+    "tone": 2,
+    "hsk": 1,
+    "radical": "干",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/characters/nu3_女.html",
+    "type": "character",
+    "category": "characters",
+    "title": "女 · woman, female",
+    "desc": "A kneeling figure with crossed arms — one of the most productive radicals in the script, present in characters for family relationships, feelings, and cultural concepts.",
+    "tags": [
+      "family",
+      "culture",
+      "body"
+    ],
+    "status": "complete",
+    "char": "女",
+    "pinyin": "nǚ",
+    "tone": 3,
+    "hsk": 2,
+    "radical": "女",
+    "updated": "2026-04-19"
+  },
+  {
     "path": "pages/characters/qian2_钱.html",
     "type": "character",
     "category": "characters",
@@ -431,6 +640,45 @@
     "tone": 2,
     "hsk": 1,
     "radical": "钅",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/characters/ri4_日.html",
+    "type": "character",
+    "category": "characters",
+    "title": "日 · sun, day, Japan",
+    "desc": "The oldest pictograph in the script — a circle with a dot for the sun, now a radical in hundreds of characters related to time, light, and warmth.",
+    "tags": [
+      "culture",
+      "history",
+      "cosmology"
+    ],
+    "status": "complete",
+    "char": "日",
+    "pinyin": "rì",
+    "tone": 4,
+    "hsk": 2,
+    "radical": "日",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/characters/se4_色.html",
+    "type": "character",
+    "category": "characters",
+    "title": "色 · color, appearance, desire",
+    "desc": "A kneeling figure beneath a person — color as visible manifestation, and the character that links aesthetics to desire.",
+    "tags": [
+      "aesthetics",
+      "culture",
+      "color",
+      "philosophy"
+    ],
+    "status": "complete",
+    "char": "色",
+    "pinyin": "sè",
+    "tone": 4,
+    "hsk": 2,
+    "radical": "色",
     "updated": "2026-04-19"
   },
   {
@@ -469,6 +717,24 @@
     "tone": 1,
     "hsk": 1,
     "radical": "生",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/characters/shou3_手.html",
+    "type": "character",
+    "category": "characters",
+    "title": "手 · hand",
+    "desc": "A five-fingered hand drawn from life — one of the most productive radicals in the script, present in hundreds of action characters.",
+    "tags": [
+      "body",
+      "culture"
+    ],
+    "status": "complete",
+    "char": "手",
+    "pinyin": "shǒu",
+    "tone": 3,
+    "hsk": 2,
+    "radical": "手",
     "updated": "2026-04-19"
   },
   {
@@ -533,6 +799,25 @@
     "updated": "2026-04-19"
   },
   {
+    "path": "pages/characters/tu3_土.html",
+    "type": "character",
+    "category": "characters",
+    "title": "土 · earth, soil, local, native",
+    "desc": "A mound of soil with a base — the earth phase of the Five Elements, and the root of hundreds of characters for land, construction, and cultural belonging.",
+    "tags": [
+      "cosmology",
+      "culture",
+      "history"
+    ],
+    "status": "complete",
+    "char": "土",
+    "pinyin": "tǔ",
+    "tone": 3,
+    "hsk": 3,
+    "radical": "土",
+    "updated": "2026-04-19"
+  },
+  {
     "path": "pages/characters/wang2_王.html",
     "type": "character",
     "category": "characters",
@@ -550,6 +835,26 @@
     "tone": 2,
     "hsk": 3,
     "radical": "王",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/characters/wen2_文.html",
+    "type": "character",
+    "category": "characters",
+    "title": "文 · writing, culture, civil",
+    "desc": "A tattooed figure — writing as marks on the body, culture as the accumulated markings of civilization.",
+    "tags": [
+      "confucianism",
+      "culture",
+      "history",
+      "literature"
+    ],
+    "status": "complete",
+    "char": "文",
+    "pinyin": "wén",
+    "tone": 2,
+    "hsk": 2,
+    "radical": "文",
     "updated": "2026-04-19"
   },
   {
@@ -575,6 +880,26 @@
     "updated": "2026-04-19"
   },
   {
+    "path": "pages/characters/xue2_学.html",
+    "type": "character",
+    "category": "characters",
+    "title": "学 · to study, to learn, learning",
+    "desc": "Hands guiding a child beneath a roof — the character for learning as both action and institution.",
+    "tags": [
+      "confucianism",
+      "education",
+      "culture",
+      "philosophy"
+    ],
+    "status": "complete",
+    "char": "学",
+    "pinyin": "xué",
+    "tone": 2,
+    "hsk": 1,
+    "radical": "子",
+    "updated": "2026-04-19"
+  },
+  {
     "path": "pages/characters/yao4_要.html",
     "type": "character",
     "category": "characters",
@@ -590,6 +915,44 @@
     "tone": 4,
     "hsk": 1,
     "radical": "女",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/characters/yu3_语.html",
+    "type": "character",
+    "category": "characters",
+    "title": "语 · language, speech, words",
+    "desc": "Speech radical plus the phonetic 吾 (I, me) — the character for language carries the self within it, encoding the idea that language is the medium through which the self speaks to the world.",
+    "tags": [
+      "grammar",
+      "culture"
+    ],
+    "status": "complete",
+    "char": "语",
+    "pinyin": "yǔ",
+    "tone": 3,
+    "hsk": 2,
+    "radical": "讠",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/characters/yue4_月.html",
+    "type": "character",
+    "category": "characters",
+    "title": "月 · moon, month",
+    "desc": "A crescent moon in profile — and one of the most poetically charged characters in Chinese literature.",
+    "tags": [
+      "nature",
+      "radical",
+      "poetry",
+      "time"
+    ],
+    "status": "complete",
+    "char": "月",
+    "pinyin": "yuè",
+    "tone": 4,
+    "hsk": 1,
+    "radical": "月",
     "updated": "2026-04-19"
   },
   {
@@ -627,6 +990,44 @@
     "tone": 4,
     "hsk": 1,
     "radical": "土",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/characters/zhong1_中.html",
+    "type": "character",
+    "category": "characters",
+    "title": "中 · middle, China, to hit the mark",
+    "desc": "An arrow piercing through the center of a target — the character that names China as the Middle Kingdom and encodes the Confucian virtue of equilibrium.",
+    "tags": [
+      "confucianism",
+      "culture",
+      "history",
+      "philosophy"
+    ],
+    "status": "complete",
+    "char": "中",
+    "pinyin": "zhōng",
+    "tone": 1,
+    "hsk": 1,
+    "radical": "丨",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/characters/zou3_走.html",
+    "type": "character",
+    "category": "characters",
+    "title": "走 · to walk, to go, to leave",
+    "desc": "A figure in motion with feet below — the basic verb of movement that Chinese uses where English uses dozens of different words.",
+    "tags": [
+      "grammar",
+      "culture"
+    ],
+    "status": "complete",
+    "char": "走",
+    "pinyin": "zǒu",
+    "tone": 3,
+    "hsk": 1,
+    "radical": "走",
     "updated": "2026-04-19"
   },
   {
@@ -707,6 +1108,22 @@
     "updated": "2026-04-19"
   },
   {
+    "path": "pages/culinary/topic_baicha.html",
+    "type": "topic",
+    "category": "culinary",
+    "title": "白茶 · White Tea",
+    "desc": "The most minimal of all tea categories — plucked, withered, and dried, with no firing and no rolling, yielding a tea of extraordinary delicacy.",
+    "tags": [
+      "tea",
+      "white-tea",
+      "culinary",
+      "fujian"
+    ],
+    "status": "complete",
+    "pinyin": "báichá",
+    "updated": "2026-04-19"
+  },
+  {
     "path": "pages/culinary/topic_caixi.html",
     "type": "topic",
     "category": "culinary",
@@ -756,6 +1173,56 @@
     "updated": "2026-04-19"
   },
   {
+    "path": "pages/culinary/topic_heisha.html",
+    "type": "topic",
+    "category": "culinary",
+    "title": "黑茶 · Dark Tea & Pu-erh",
+    "desc": "Post-fermented, microbially aged — the only tea category that genuinely improves with decades of storage, and the trade commodity that crossed the Tea-Horse Road to Tibet.",
+    "tags": [
+      "tea",
+      "dark-tea",
+      "puerh",
+      "culinary",
+      "history",
+      "yunnan"
+    ],
+    "status": "complete",
+    "pinyin": "hēichá",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/culinary/topic_hongcha.html",
+    "type": "topic",
+    "category": "culinary",
+    "title": "红茶 · Red Tea (Black Tea)",
+    "desc": "Fully oxidized — what the world calls black tea, China calls red, named for the color of the liquor. From Keemun to Dianhong, China's contribution to global tea culture.",
+    "tags": [
+      "tea",
+      "black-tea",
+      "culinary",
+      "history",
+      "trade"
+    ],
+    "status": "complete",
+    "pinyin": "hóngchá",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/culinary/topic_huangcha.html",
+    "type": "topic",
+    "category": "culinary",
+    "title": "黄茶 · Yellow Tea",
+    "desc": "The rarest of the six categories — like green tea but mellowed by a slow smothering step that removes the raw edge and creates a silky, sweet cup.",
+    "tags": [
+      "tea",
+      "yellow-tea",
+      "culinary"
+    ],
+    "status": "complete",
+    "pinyin": "huángchá",
+    "updated": "2026-04-19"
+  },
+  {
     "path": "pages/culinary/topic_huoguo.html",
     "type": "topic",
     "category": "culinary",
@@ -790,6 +1257,23 @@
     "updated": "2026-04-19"
   },
   {
+    "path": "pages/culinary/topic_lücha.html",
+    "type": "topic",
+    "category": "culinary",
+    "title": "绿茶 · Green Tea",
+    "desc": "The oldest and most-consumed tea category — unoxidized, fixed by heat, and expressing the full range from grassy Longjing to umami-rich Biluochun.",
+    "tags": [
+      "tea",
+      "green-tea",
+      "culinary",
+      "brewing",
+      "culture"
+    ],
+    "status": "complete",
+    "pinyin": "lǜchá",
+    "updated": "2026-04-19"
+  },
+  {
     "path": "pages/culinary/topic_miantiao.html",
     "type": "topic",
     "category": "culinary",
@@ -803,6 +1287,41 @@
     ],
     "status": "complete",
     "pinyin": "miàntiáo",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/culinary/topic_tisanes.html",
+    "type": "topic",
+    "category": "culinary",
+    "title": "花草茶 · Tisanes & Herbal Infusions",
+    "desc": "Not tea — but often called tea. The world of Chinese herbal infusions, floral teas, and medicinal brews that share the cup but not the leaf of Camellia sinensis.",
+    "tags": [
+      "tea",
+      "tisane",
+      "herbal",
+      "culinary",
+      "tcm",
+      "health"
+    ],
+    "status": "complete",
+    "pinyin": "huācǎo chá",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/culinary/topic_wulong.html",
+    "type": "topic",
+    "category": "culinary",
+    "title": "乌龙茶 · Oolong Tea",
+    "desc": "The most complex and technically demanding tea category — partially oxidized, spanning a full spectrum from near-green to near-black, with a vocabulary of flavor unmatched in tea.",
+    "tags": [
+      "tea",
+      "oolong",
+      "culinary",
+      "brewing",
+      "ceremony"
+    ],
+    "status": "complete",
+    "pinyin": "wūlóng chá",
     "updated": "2026-04-19"
   },
   {
@@ -1182,6 +1701,111 @@
     "updated": "2026-04-19"
   },
   {
+    "path": "pages/grammar/ba_particle_吧.html",
+    "type": "grammar",
+    "category": "grammar",
+    "title": "吧 · the suggestion and confirmation particle",
+    "desc": "The softest word in Mandarin — how one syllable softens commands, hedges statements, and reads the room.",
+    "tags": [
+      "particle",
+      "pragmatics",
+      "spoken"
+    ],
+    "status": "complete",
+    "pinyin": "ba",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/grammar/bi_比.html",
+    "type": "grammar",
+    "category": "grammar",
+    "title": "比 · comparison structure",
+    "desc": "Mandarin's primary comparison marker — A 比 B + Adj expresses difference, not just ranking.",
+    "tags": [
+      "grammar",
+      "syntax",
+      "adjectives"
+    ],
+    "status": "complete",
+    "pinyin": "bǐ",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/grammar/chule_除了.html",
+    "type": "grammar",
+    "category": "grammar",
+    "title": "除了 · except, besides, in addition to",
+    "desc": "The dual-function exclusion/inclusion marker — 除了 can narrow a set to everything except one thing, or expand it to include one more thing, depending on which particle follows.",
+    "tags": [
+      "grammar",
+      "syntax"
+    ],
+    "status": "complete",
+    "pinyin": "chú le",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/grammar/cong_从.html",
+    "type": "grammar",
+    "category": "grammar",
+    "title": "从 · from, since, following",
+    "desc": "The preposition of origin and following — 从 marks the starting point of movement in space and time, and appears in essential patterns for expressing duration, routes, and rules.",
+    "tags": [
+      "grammar",
+      "syntax"
+    ],
+    "status": "complete",
+    "pinyin": "cóng",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/grammar/de_degree_得.html",
+    "type": "grammar",
+    "category": "grammar",
+    "title": "得 · the degree complement",
+    "desc": "The bridge between action and result — how 得 links what you did to how well you did it.",
+    "tags": [
+      "complement",
+      "degree",
+      "grammar",
+      "syntax"
+    ],
+    "status": "complete",
+    "pinyin": "de",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/grammar/dehua_的话.html",
+    "type": "grammar",
+    "category": "grammar",
+    "title": "的话 · if; in the case that",
+    "desc": "The soft conditional — how 的话 marks a premise without committing to it.",
+    "tags": [
+      "conditional",
+      "syntax",
+      "grammar",
+      "spoken"
+    ],
+    "status": "complete",
+    "pinyin": "de huà",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/grammar/dui_对.html",
+    "type": "grammar",
+    "category": "grammar",
+    "title": "对 · toward, regarding, correct",
+    "desc": "A preposition, adjective, and verb rolled into one — 对 introduces the object of an action, asserts correctness, and forms the backbone of Chinese directional expressions.",
+    "tags": [
+      "grammar",
+      "syntax",
+      "spoken"
+    ],
+    "status": "complete",
+    "pinyin": "duì",
+    "updated": "2026-04-19"
+  },
+  {
     "path": "pages/grammar/erqie_而且.html",
     "type": "grammar",
     "category": "grammar",
@@ -1194,6 +1818,21 @@
     ],
     "status": "complete",
     "pinyin": "érqiě",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/grammar/gang_刚.html",
+    "type": "grammar",
+    "category": "grammar",
+    "title": "刚 · just now, just happened",
+    "desc": "The recency adverb — 刚 marks that something happened very recently, and contrast with 刚才, 刚刚, 才, and 已经.",
+    "tags": [
+      "grammar",
+      "syntax",
+      "spoken"
+    ],
+    "status": "complete",
+    "pinyin": "gāng",
     "updated": "2026-04-19"
   },
   {
@@ -1212,6 +1851,22 @@
     "updated": "2026-04-19"
   },
   {
+    "path": "pages/grammar/meiyou_没有.html",
+    "type": "grammar",
+    "category": "grammar",
+    "title": "没有 · negation of possession and past action",
+    "desc": "The two most important negation characters — 不 and 没 — and why they cannot be swapped.",
+    "tags": [
+      "negation",
+      "past-tense",
+      "grammar",
+      "particles"
+    ],
+    "status": "complete",
+    "pinyin": "méiyǒu",
+    "updated": "2026-04-19"
+  },
+  {
     "path": "pages/grammar/qilai_起来.html",
     "type": "grammar",
     "category": "grammar",
@@ -1224,6 +1879,21 @@
     ],
     "status": "complete",
     "pinyin": "qǐlái",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/grammar/rang_让.html",
+    "type": "grammar",
+    "category": "grammar",
+    "title": "让 · causative and permission structure",
+    "desc": "One verb, two functions: 让 makes someone do something, and lets someone do something — the core Chinese causative and permissive structure.",
+    "tags": [
+      "grammar",
+      "syntax",
+      "spoken"
+    ],
+    "status": "complete",
+    "pinyin": "ràng",
     "updated": "2026-04-19"
   },
   {
@@ -1257,6 +1927,21 @@
     "updated": "2026-04-19"
   },
   {
+    "path": "pages/grammar/taiLe_太了.html",
+    "type": "grammar",
+    "category": "grammar",
+    "title": "太…了 · too, excessively",
+    "desc": "The emphatic degree structure — 太…了 expresses excess and strong feeling, from complaints to enthusiastic praise.",
+    "tags": [
+      "grammar",
+      "syntax",
+      "spoken"
+    ],
+    "status": "complete",
+    "pinyin": "tài le",
+    "updated": "2026-04-19"
+  },
+  {
     "path": "pages/grammar/yibian_yibian_一边一边.html",
     "type": "grammar",
     "category": "grammar",
@@ -1269,6 +1954,35 @@
     ],
     "status": "complete",
     "pinyin": "yībiān yībiān",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/grammar/yijing_已经.html",
+    "type": "grammar",
+    "category": "grammar",
+    "title": "已经 · already",
+    "desc": "Mandarin's 'already' adverb — how 已经 differs from English, its placement before the verb, and its relationship with 了 and 还没有.",
+    "tags": [
+      "grammar",
+      "syntax",
+      "spoken"
+    ],
+    "status": "complete",
+    "pinyin": "yǐjīng",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/grammar/yinwei_suoyi_因为所以.html",
+    "type": "grammar",
+    "category": "grammar",
+    "title": "因为…所以 · because…therefore",
+    "desc": "The causal conjunction pair — 因为 states the cause and 所以 announces the result, forming a two-clause logical structure that Chinese uses more explicitly than English.",
+    "tags": [
+      "grammar",
+      "syntax"
+    ],
+    "status": "complete",
+    "pinyin": "yīn wèi suǒ yǐ",
     "updated": "2026-04-19"
   },
   {
@@ -1467,6 +2181,149 @@
     "updated": "2026-04-19"
   },
   {
+    "path": "pages/vocab/chadao_茶道.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "茶道 · the way of tea",
+    "desc": "From wild forest leaf to civilizational ritual — how tea became China's quintessential art of presence.",
+    "tags": [
+      "tea",
+      "culture",
+      "ritual",
+      "philosophy"
+    ],
+    "status": "complete",
+    "pinyin": "chádào",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/vocab/chaju_茶具.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "茶具 · Tea Implements",
+    "desc": "The vessels, tools, and objects of the tea table — from the Yixing purple clay teapot to the fairness pitcher, each implement with a name, a function, and an aesthetic logic.",
+    "tags": [
+      "tea",
+      "teaware",
+      "ceremony",
+      "culture",
+      "vocabulary"
+    ],
+    "status": "complete",
+    "pinyin": "cháju",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/vocab/chunjie_春节.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "春节 · Spring Festival",
+    "desc": "The world's largest annual human celebration — the Chinese New Year explained: customs, foods, taboos, the reunion dinner, and the cultural weight of the most important holiday in Chinese life.",
+    "tags": [
+      "culture",
+      "history",
+      "family"
+    ],
+    "status": "complete",
+    "pinyin": "Chūnjié",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/vocab/fengsu_风俗.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "风俗 · customs, traditions, folk practices",
+    "desc": "The wind of culture and the ways of the people — how 风俗 differs from 习惯 and why the distinction matters.",
+    "tags": [
+      "culture",
+      "daily-life",
+      "history",
+      "social"
+    ],
+    "status": "complete",
+    "pinyin": "fēngsú",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/vocab/gongfucha_工夫茶.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "工夫茶 · Gongfu Tea",
+    "desc": "The art of tea prepared with skill and time — the Southern Chinese brewing method that defines serious tea culture: small vessels, multiple short steeps, total attention.",
+    "tags": [
+      "tea",
+      "ceremony",
+      "brewing",
+      "culture",
+      "daily-life"
+    ],
+    "status": "complete",
+    "pinyin": "gōngfu chá",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/vocab/gushi_故事.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "故事 · story, tale, narrative",
+    "desc": "Old affairs made into meaning — how the Chinese word for story encodes a philosophy of the past as the source of truth.",
+    "tags": [
+      "culture",
+      "history",
+      "literature"
+    ],
+    "status": "complete",
+    "pinyin": "gùshì",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/vocab/hanzi_汉字.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "汉字 · Chinese characters",
+    "desc": "The world's oldest continuously used writing system — how Chinese characters work, why they look the way they do, and the categories every learner needs to know.",
+    "tags": [
+      "culture",
+      "history",
+      "education",
+      "literature"
+    ],
+    "status": "complete",
+    "pinyin": "hànzì",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/vocab/jieqi_节气.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "节气 · the 24 solar terms",
+    "desc": "China's ancient agricultural calendar — 24 precise moments that mark the turning of the year, still shaping food, medicine, and daily life.",
+    "tags": [
+      "culture",
+      "history",
+      "tcm",
+      "cosmology"
+    ],
+    "status": "complete",
+    "pinyin": "jiéqì",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/vocab/jingju_京剧.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "京剧 · Peking Opera",
+    "desc": "The national theater of China — a total art form synthesizing song, speech, acrobatics, combat, and painted faces into a performance tradition that encodes Chinese history, morality, and aesthetics.",
+    "tags": [
+      "culture",
+      "arts",
+      "history"
+    ],
+    "status": "complete",
+    "pinyin": "jīng jù",
+    "updated": "2026-04-19"
+  },
+  {
     "path": "pages/vocab/keqi_客气.html",
     "type": "vocab",
     "category": "vocab",
@@ -1480,6 +2337,22 @@
     ],
     "status": "complete",
     "pinyin": "kèqi",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/vocab/li3_礼.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "礼 · ritual, propriety, gift, courtesy",
+    "desc": "The cosmic blueprint Confucius spent his life trying to restore — and why manners are a civilizational technology.",
+    "tags": [
+      "confucianism",
+      "ritual",
+      "social",
+      "philosophy"
+    ],
+    "status": "complete",
+    "pinyin": "lǐ",
     "updated": "2026-04-19"
   },
   {
@@ -1498,6 +2371,37 @@
     "updated": "2026-04-19"
   },
   {
+    "path": "pages/vocab/putonghua_普通话.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "普通话 · Mandarin Chinese",
+    "desc": "The common speech — how China standardized its national language, what Mandarin actually is, and how it relates to Cantonese, Shanghainese, and the Chinese dialects.",
+    "tags": [
+      "culture",
+      "history",
+      "education"
+    ],
+    "status": "complete",
+    "pinyin": "pǔtōnghuà",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/vocab/qigong_气功.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "气功 · qigong",
+    "desc": "Cultivating the vital breath — China's ancient practice of aligning body, breath, and mind.",
+    "tags": [
+      "tcm",
+      "body",
+      "meditation",
+      "philosophy"
+    ],
+    "status": "complete",
+    "pinyin": "qìgōng",
+    "updated": "2026-04-19"
+  },
+  {
     "path": "pages/vocab/rensheng_人生.html",
     "type": "vocab",
     "category": "vocab",
@@ -1510,6 +2414,21 @@
     ],
     "status": "complete",
     "pinyin": "rénshēng",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/vocab/shici_诗词.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "诗词 · Chinese poetry",
+    "desc": "The compressed art at the center of Chinese civilization — poetry as memory, moral education, social currency, and the highest expression of the self in the literary tradition.",
+    "tags": [
+      "culture",
+      "history",
+      "arts"
+    ],
+    "status": "complete",
+    "pinyin": "shī cí",
     "updated": "2026-04-19"
   },
   {
@@ -1528,6 +2447,22 @@
     "updated": "2026-04-19"
   },
   {
+    "path": "pages/vocab/shufa_书法.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "书法 · calligraphy",
+    "desc": "The art where writing becomes a performance of character — and why the Chinese brush is a philosophical instrument.",
+    "tags": [
+      "calligraphy",
+      "arts",
+      "philosophy",
+      "writing"
+    ],
+    "status": "complete",
+    "pinyin": "shūfǎ",
+    "updated": "2026-04-19"
+  },
+  {
     "path": "pages/vocab/wushu_武术.html",
     "type": "vocab",
     "category": "vocab",
@@ -1541,6 +2476,53 @@
     ],
     "status": "complete",
     "pinyin": "wǔshù",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/vocab/xiao4_孝.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "孝 · filial piety",
+    "desc": "An elder supported by a child's hands — the cardinal Confucian virtue that placed care for parents at the foundation of all moral life.",
+    "tags": [
+      "confucianism",
+      "family",
+      "culture",
+      "philosophy"
+    ],
+    "status": "complete",
+    "pinyin": "xiào",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/vocab/zhongguohua_中国画.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "中国画 · Chinese painting",
+    "desc": "Brush and ink as philosophy — Chinese painting is less about representing what the eye sees than about capturing the spirit of a subject and expressing the inner cultivation of the painter.",
+    "tags": [
+      "culture",
+      "arts",
+      "history"
+    ],
+    "status": "complete",
+    "pinyin": "zhōng guó huà",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/vocab/zhongyi_中医.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "中医 · Traditional Chinese Medicine",
+    "desc": "Two thousand years of systematic medical thought — qi, yin-yang, the Five Elements, acupuncture, and the living tradition that treats the person, not the disease.",
+    "tags": [
+      "tcm",
+      "body",
+      "philosophy",
+      "culture"
+    ],
+    "status": "complete",
+    "pinyin": "zhōngyī",
     "updated": "2026-04-19"
   },
   {

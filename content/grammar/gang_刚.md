@@ -1,0 +1,251 @@
+---
+type: 'grammar'
+category: 'grammar'
+status: 'complete'
+title: '刚 · just now, just happened'
+desc: "The recency adverb — 刚 marks that something happened very recently, and contrast with 刚才, 刚刚, 才, and 已经."
+metaDesc: "刚 gāng: just now, just happened in Mandarin. How 刚 expresses immediate recency, how it differs from 刚才 and 才, and the key contrast with 已经 (already)."
+pageTitle: '刚 gāng · Just Now'
+tags:
+  - 'grammar'
+  - 'syntax'
+  - 'spoken'
+updated: '2026-04-19'
+pinyin: 'gāng'
+---
+
+
+<div class="shell">
+
+  <aside class="sidebar" id="sidebar">
+
+    <span class="toc-topic">刚</span>
+    <span class="toc-topic-en">Just Now / Just Happened</span>
+
+    <div class="toc-divider"></div>
+    <span class="toc-label">On this page</span>
+
+    <ul class="toc-list">
+      <li><a href="#overview">
+        <span class="toc-cn">概览</span> Overview
+        <span class="toc-sub">gàilǎn · what 刚 does</span>
+      </a></li>
+      <li><a href="#basic">
+        <span class="toc-cn">基本</span> Basic Pattern
+        <span class="toc-sub">jīběn · 刚 + verb</span>
+      </a></li>
+      <li><a href="#gangcai">
+        <span class="toc-cn">刚才</span> 刚 vs 刚才
+        <span class="toc-sub">gāngcái · critical distinction</span>
+      </a></li>
+      <li><a href="#ganggang">
+        <span class="toc-cn">刚刚</span> 刚刚
+        <span class="toc-sub">gānggāng · reduplicated emphasis</span>
+      </a></li>
+      <li><a href="#contrast">
+        <span class="toc-cn">对比</span> 刚 vs 才 vs 已经
+        <span class="toc-sub">duìbǐ · the recency/completion cluster</span>
+      </a></li>
+      <li><a href="#examples">
+        <span class="toc-cn">例句</span> Extended Examples
+        <span class="toc-sub">lìjù · natural contexts</span>
+      </a></li>
+    </ul>
+  </aside>
+
+  <main class="main">
+
+    <header class="topic-hero">
+      <span class="topic-hero-eyebrow">Grammar · 语法 yǔfǎ</span>
+      <h1 class="topic-hero-title">刚</h1>
+      <span class="topic-hero-title-py">gāng</span>
+      <p class="topic-hero-desc">Just now — placed before the verb to signal that something happened very recently, often with the implication that the situation is still relevant now.</p>
+    </header>
+
+    <span class="section-anchor" id="overview"></span>
+    <div class="section-head">
+      <span class="sh-cn">概览</span>
+      <span class="sh-py">gàilǎn</span>
+      <span class="sh-en">What 刚 Does</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="刚">
+      <div class="scholar-label">语法洞见 yǔfǎ dòngjiàn · Grammar Insight</div>
+      <p><strong>刚 gāng</strong> is an adverb of recency — it marks that an action or event occurred very shortly before the moment of speaking, with the implication that the consequences or relevance of that action are still present. The gap between the action and the present can range from seconds to hours (even days in some contexts), as long as the speaker feels the action is recent and still relevant.</p>
+      <p>Key structural rule: 刚 precedes the verb directly. It does NOT take 了 after the verb — because the recency implied by 刚 already signals that the action is complete and current. Adding 了 would be redundant and sounds unnatural. 我刚吃 / 我刚吃饭 (I just ate) — no 了.</p>
+      <p>刚 contrasts with three related words: <strong>刚才 gāngcái</strong> (just now — as a time noun for "a moment ago"), <strong>刚刚 gānggāng</strong> (just, just this moment — more emphatic), and <strong>才 cái</strong> (only just, barely; often implies "and no sooner" — with emphasis on lateness or unexpectedness). All four cluster around recency and immediacy.</p>
+    </div>
+
+    <span class="section-anchor" id="basic"></span>
+    <div class="section-head">
+      <span class="sh-cn">基本</span>
+      <span class="sh-py">jīběn</span>
+      <span class="sh-en">Basic Pattern — 刚 + Verb</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="pattern">
+      <span class="label">基本句型 jīběn jùxíng · Core Pattern</span>
+      <strong>[Subject] + 刚 + [Verb Phrase]</strong> (no 了)<br>
+      我刚起床。I just got up.<br>
+      他刚走。He just left.<br>
+      我们刚到北京。We just arrived in Beijing.
+    </div>
+
+    <div class="cards">
+
+      <div class="card c-v">
+        <div class="card-head">
+          <span class="card-cn">刚 + Verb (no 了)</span>
+          <span class="card-py">gāng + V</span>
+          <span class="card-en">Just [did]; just happened</span>
+        </div>
+        <div class="tags"><span class="tag tag-v">Structure 句型 jùxíng</span></div>
+        <div class="card-def">
+          刚 sits directly before the verb. No 了 is needed — 刚 already encodes completion and recency. The sentence carries an implicit "and the situation is still relevant." 他刚出去 "He just went out" implies: he's not here yet, don't bother calling. 我刚吃 "I just ate" implies: I'm not hungry.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">你来得正是时候，我们刚开始吃饭。</div>
+            <div class="ex-py">Nǐ lái de zhèng shì shíhou, wǒmen gāng kāishǐ chīfàn.</div>
+            <div class="ex-en">You came at just the right time — we just started eating.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">抱歉，他刚离开，你可以给他打电话。</div>
+            <div class="ex-py">Bàoqiàn, tā gāng líkāi, nǐ kěyǐ gěi tā dǎ diànhuà.</div>
+            <div class="ex-en">Sorry, he just left — you can give him a call.</div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+
+    <span class="section-anchor" id="gangcai"></span>
+    <div class="section-head">
+      <span class="sh-cn">刚才</span>
+      <span class="sh-py">gāngcái</span>
+      <span class="sh-en">刚 vs 刚才 — The Critical Distinction</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="pattern">
+      <span class="label">刚 vs 刚才 · Adverb vs Time Noun</span>
+      <strong>刚</strong> = adverb — placed directly before a verb: 他刚来 "he just came"<br>
+      <strong>刚才</strong> = time noun — refers to "a moment ago" as a time point, can appear at the start of the clause OR before the verb: 刚才他来了 / 他刚才来了 "just now, he came; he came a moment ago"<br>
+      Key difference: 刚才 sentences often take 了 (because it refers to a completed past event); 刚 sentences do NOT take 了.
+    </div>
+
+    <div class="cards">
+
+      <div class="card c-v">
+        <div class="card-head">
+          <span class="card-cn">刚才 vs 刚</span>
+          <span class="card-py">gāngcái vs gāng</span>
+          <span class="card-en">A moment ago (noun) vs. just (adverb)</span>
+        </div>
+        <div class="tags"><span class="tag tag-v">Contrast 对比 duìbǐ</span></div>
+        <div class="card-def">
+          刚才 is a time expression meaning "a moment ago, just now" — it can stand alone as a topic (刚才发生了什么？"What happened just now?") or precede the verb. 刚 is a pure adverb that must precede the verb directly and cannot stand alone as a topic. Both convey recency, but their grammatical behavior differs. 刚才 allows 了; 刚 does not.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">刚才你说了什么？我没听清楚。</div>
+            <div class="ex-py">Gāngcái nǐ shuō le shénme? Wǒ méi tīng qīngchǔ.</div>
+            <div class="ex-en">What did you say just now? I didn't hear clearly. (刚才 as time topic)</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">他刚说完，大家就鼓掌了。</div>
+            <div class="ex-py">Tā gāng shuō wán, dàjiā jiù gǔzhǎng le.</div>
+            <div class="ex-en">The moment he finished speaking, everyone applauded. (刚 as adverb, no 了 on its own verb)</div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+
+    <span class="section-anchor" id="ganggang"></span>
+    <div class="section-head">
+      <span class="sh-cn">刚刚</span>
+      <span class="sh-py">gānggāng</span>
+      <span class="sh-en">刚刚 — Reduplicated for Emphasis</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="pattern">
+      <span class="label">刚刚 · More Emphatic Recency</span>
+      刚刚 = more emphatic than single 刚 — "just this instant, literally just now":<br>
+      他刚刚走。He literally just left. (stronger than 他刚走)<br>
+      刚刚好 gānggāng hǎo = "just right; exactly perfect" — a common idiomatic expression<br>
+      刚刚 follows the same rule: no 了 after the verb.
+    </div>
+
+    <span class="section-anchor" id="contrast"></span>
+    <div class="section-head">
+      <span class="sh-cn">对比</span>
+      <span class="sh-py">duìbǐ</span>
+      <span class="sh-en">刚 vs 才 vs 已经 — The Cluster</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="pattern">
+      <span class="label">时态副词对比 shítài fùcí duìbǐ · The Recency-Completion Cluster</span>
+      <strong>刚</strong> gāng — just happened (value-neutral recency): 我刚吃 "I just ate"<br>
+      <strong>才</strong> cái — only just/barely; often implies later than expected or surprisingly small amount: 他才来 "he only just now came / he finally came" (implies long-awaited or surprisingly late)<br>
+      <strong>已经</strong> yǐjīng — already (completion relative to a reference point, often sooner than expected): 他已经来了 "he has already come" (earlier than expected, or establishing prior completion)<br>
+      <strong>刚才</strong> gāngcái — a moment ago (past time reference): refers to a recent but completed moment
+    </div>
+
+    <span class="section-anchor" id="examples"></span>
+    <div class="section-head">
+      <span class="sh-cn">例句</span>
+      <span class="sh-py">lìjù</span>
+      <span class="sh-en">Extended Examples — Natural Contexts</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="cards">
+
+      <div class="card c-v">
+        <div class="card-head">
+          <span class="card-cn">刚 across contexts</span>
+          <span class="card-py">natural usage</span>
+          <span class="card-en">Just now in daily situations</span>
+        </div>
+        <div class="tags"><span class="tag tag-v">Examples 例句</span></div>
+        <div class="card-def">
+          Diverse examples showing 刚 in arrival, completion, discovery, and sequential contexts.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">我刚从上海回来，还没休息。</div>
+            <div class="ex-py">Wǒ gāng cóng Shànghǎi huí lái, hái méi xiūxi.</div>
+            <div class="ex-en">I just got back from Shanghai — haven't rested yet.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">手机刚充完电，又没电了。</div>
+            <div class="ex-py">Shǒujī gāng chōng wán diàn, yòu méi diàn le.</div>
+            <div class="ex-en">The phone just finished charging and is already dead again.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">我刚要出门，就下雨了。</div>
+            <div class="ex-py">Wǒ gāng yào chūmén, jiù xià yǔ le.</div>
+            <div class="ex-en">Just as I was about to go out, it started raining.</div>
+          </div>
+          <div class="example">
+            <div class="ex-cn">这件事我刚知道，不知道你知不知道。</div>
+            <div class="ex-py">Zhè jiàn shì wǒ gāng zhīdào, bù zhīdào nǐ zhī bu zhīdào.</div>
+            <div class="ex-en">I just found out about this — not sure if you know.</div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+
+    <footer class="page-footer">
+      <span class="footer-id">Jiǎoluò Shūwū · 角落書屋 · <span>刚 gāng · just now</span></span>
+      <a href="../../index.html" class="footer-back">← All Entries</a>
+    </footer>
+
+  </main>
+</div>

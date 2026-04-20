@@ -180,6 +180,45 @@
     "updated": "2026-04-19"
   },
   {
+    "path": "pages/characters/cha2_茶.html",
+    "type": "character",
+    "category": "characters",
+    "title": "茶 · tea",
+    "desc": "The character that gave the world its word for tea — a grass over wood over man, a plant that shaped civilization, and the locus of China's richest material culture.",
+    "tags": [
+      "tea",
+      "culture",
+      "nature",
+      "drink"
+    ],
+    "status": "complete",
+    "char": "茶",
+    "pinyin": "chá",
+    "tone": 2,
+    "hsk": 3,
+    "radical": "艹",
+    "updated": "2026-04-19"
+  },
+  {
+    "path": "pages/characters/chang2_长.html",
+    "type": "character",
+    "category": "characters",
+    "title": "长 · long; to grow; chief",
+    "desc": "A person with flowing long hair — one character, two readings: cháng (long) and zhǎng (to grow, elder), the richest dual-reading in Mandarin.",
+    "tags": [
+      "grammar",
+      "culture",
+      "family"
+    ],
+    "status": "complete",
+    "char": "长",
+    "pinyin": "cháng",
+    "tone": 2,
+    "hsk": 1,
+    "radical": "长",
+    "updated": "2026-04-19"
+  },
+  {
     "path": "pages/characters/chi1_吃.html",
     "type": "character",
     "category": "characters",
@@ -237,6 +276,24 @@
     "updated": "2026-04-19"
   },
   {
+    "path": "pages/characters/dian4_电.html",
+    "type": "character",
+    "category": "characters",
+    "title": "电 · electricity, electric, telegram",
+    "desc": "Lightning descending from a rain cloud — a character that jumped from describing the weather to naming the force that defines modern civilization.",
+    "tags": [
+      "culture",
+      "daily"
+    ],
+    "status": "complete",
+    "char": "电",
+    "pinyin": "diàn",
+    "tone": 4,
+    "hsk": 2,
+    "radical": "雨",
+    "updated": "2026-04-19"
+  },
+  {
     "path": "pages/characters/fo2_佛.html",
     "type": "character",
     "category": "characters",
@@ -275,6 +332,24 @@
     "updated": "2026-04-19"
   },
   {
+    "path": "pages/characters/gong1_工.html",
+    "type": "character",
+    "category": "characters",
+    "title": "工 · work, craft, labor, worker",
+    "desc": "Three strokes encoding heaven, earth, and the human craft connecting them — the root character for all labor, skill, and making in Chinese.",
+    "tags": [
+      "culture",
+      "history"
+    ],
+    "status": "complete",
+    "char": "工",
+    "pinyin": "gōng",
+    "tone": 1,
+    "hsk": 2,
+    "radical": "工",
+    "updated": "2026-04-19"
+  },
+  {
     "path": "pages/characters/guo2_国.html",
     "type": "character",
     "category": "characters",
@@ -291,88 +366,6 @@
     "tone": 2,
     "hsk": 1,
     "radical": "囗",
-    "updated": "2026-04-19"
-  },
-  {
-    "path": "pages/characters/hao3_好.html",
-    "type": "character",
-    "category": "characters",
-    "title": "好 · good; to like",
-    "desc": "Good, well, to like — and the tone split that doubles its expressive range.",
-    "tags": [
-      "virtue",
-      "social",
-      "daily-life"
-    ],
-    "status": "complete",
-    "char": "好",
-    "pinyin": "hǎo",
-    "tone": 3,
-    "hsk": 1,
-    "radical": "女",
-    "updated": "2026-04-19"
-  },
-  {
-    "path": "pages/characters/jiao3_角.html",
-    "type": "character",
-    "category": "characters",
-    "title": "角 · corner, horn, angle",
-    "desc": "Corner, horn, angle — the character that opens this site's name: 角落書屋.",
-    "tags": [
-      "space",
-      "geometry",
-      "music"
-    ],
-    "status": "complete",
-    "char": "角",
-    "pinyin": "jiǎo",
-    "tone": 3,
-    "hsk": {
-      "from": 2,
-      "to": 4
-    },
-    "radical": "角",
-    "updated": "2026-04-19"
-  },
-  {
-    "path": "pages/characters/luo4_落.html",
-    "type": "character",
-    "category": "characters",
-    "title": "落 · to fall, to settle, to land",
-    "desc": "Falling, settling, and the beauty of things arriving at their place.",
-    "tags": [
-      "movement",
-      "space",
-      "settlement"
-    ],
-    "status": "complete",
-    "char": "落",
-    "pinyin": "luò",
-    "tone": 4,
-    "hsk": {
-      "from": 3,
-      "to": 5
-    },
-    "radical": "艹",
-    "updated": "2026-04-19"
-  },
-  {
-    "path": "pages/characters/mei3_美.html",
-    "type": "character",
-    "category": "characters",
-    "title": "美 · beautiful, USA, delicious",
-    "desc": "A large sheep carrying horns — beauty as abundance, sacrifice, and the pleasure of the highest good.",
-    "tags": [
-      "aesthetics",
-      "culture",
-      "philosophy"
-    ],
-    "status": "complete",
-    "char": "美",
-    "pinyin": "měi",
-    "tone": 3,
-    "hsk": 2,
-    "radical": "羊",
     "updated": "2026-04-19"
   }
 ]

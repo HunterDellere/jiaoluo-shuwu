@@ -1,0 +1,181 @@
+---
+type: 'vocab'
+category: 'vocab'
+status: 'complete'
+title: '茶具 · Tea Implements'
+desc: 'The vessels, tools, and objects of the tea table — from the Yixing purple clay teapot to the fairness pitcher, each implement with a name, a function, and an aesthetic logic.'
+metaDesc: "茶具 cháju: Chinese tea implements — Yixing teapot, gaiwan, fairness pitcher, tea tray, tea boat, sipping cups, and the full gongfu tea table setup with vocabulary."
+pageTitle: '茶具 · Tea Implements'
+tags:
+  - 'tea'
+  - 'teaware'
+  - 'ceremony'
+  - 'culture'
+  - 'vocabulary'
+updated: '2026-04-19'
+pinyin: 'cháju'
+related:
+  - 'vocab/gongfucha_工夫茶'
+  - 'culinary/topic_cha'
+  - 'culture/topic_cha_wenhua'
+---
+
+
+<div class="shell">
+
+  <!-- ═══ SIDEBAR ═══ -->
+  <aside class="sidebar" id="sidebar">
+    <span class="toc-topic">茶具</span>
+    <span class="toc-topic-en">Tea Implements</span>
+
+    <div class="toc-divider"></div>
+    <span class="toc-label">On this page</span>
+
+    <ul class="toc-list">
+      <li><a href="#brewing">
+        <span class="toc-cn">冲泡器具</span> Brewing Vessels
+        <span class="toc-sub">chōngpào qìjù · pot, bowl, and pitcher</span>
+      </a></li>
+      <li><a href="#yixing">
+        <span class="toc-cn">紫砂壶</span> Yixing Teapot
+        <span class="toc-sub">zǐshā hú · the prestige vessel</span>
+      </a></li>
+      <li><a href="#service">
+        <span class="toc-cn">服务器具</span> Service Implements
+        <span class="toc-sub">fúwù qìjù · tray, cups, tools</span>
+      </a></li>
+      <li><a href="#vocab">
+        <span class="toc-cn">词汇</span> Full Vocabulary List
+        <span class="toc-sub">cíhuì · every implement named</span>
+      </a></li>
+    </ul>
+  </aside>
+
+  <!-- ═══ MAIN ═══ -->
+  <main class="main">
+
+    <header class="topic-hero">
+      <span class="topic-hero-eyebrow">Vocabulary · 词汇 cíhuì</span>
+      <h1 class="topic-hero-title">茶具</h1>
+      <span class="topic-hero-title-py">chá jù</span>
+      <p class="topic-hero-desc">The vessels, tools, and objects of the tea table — from the Yixing purple clay teapot to the fairness pitcher, each implement with a name, a function, and an aesthetic logic.</p>
+    </header>
+
+    <span class="section-anchor" id="brewing"></span>
+    <div class="section-head">
+      <span class="sh-cn">冲泡器具</span>
+      <span class="sh-py">chōngpào qìjù</span>
+      <span class="sh-en">Brewing Vessels — Pot, Bowl, and Pitcher</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="cards">
+      <div class="card c-ochre">
+        <div class="card-head">盖碗 gàiwǎn · Lidded Bowl</div>
+        <p>The three-piece brewing vessel comprising bowl (碗 wǎn), lid (盖 gài), and saucer (托 tuō). Held by the saucer and the edge of the lid so the hot ceramic does not burn the fingers; the lid angle controls the flow of tea when pouring. Suitable for any tea type; preferred by professionals who want direct sensory access to the leaf (aroma from the warm lid, appearance of the wet leaves, direct control over infusion time without the clay pot's absorbed-flavor variable). The standard vessel in competitive tea tasting.</p>
+      </div>
+      <div class="card c-ochre">
+        <div class="card-head">茶壶 cháhú · Teapot</div>
+        <p>The generic term for a teapot. In the gongfu context this typically means a small (60–200ml) Yixing clay teapot rather than a large European-style teapot; the small size is essential to the multiple-short-steep method. A large Western teapot is rarely used in traditional Chinese tea practice. Teapots are broadly divided by material: purple clay (紫砂 zǐshā), porcelain (瓷 cí), glass (玻璃 bōlí), and various other ceramics.</p>
+      </div>
+      <div class="card c-ochre">
+        <div class="card-head">公道杯 / 茶海 gōngdào bēi / cháhǎi · Fairness Pitcher</div>
+        <p>The intermediate vessel between brewing pot and sipping cups — the entire steep is decanted into it before distribution, equalizing concentration. Two names reflect two framings: 公道杯 (fairness cup) emphasizes the social function; 茶海 (tea sea) is a poetic name for the same object, emphasizing its role as a calm, receiving vessel. Usually glass (to observe liquor color) or celadon celadon porcelain.</p>
+      </div>
+    </div>
+
+    <span class="section-anchor" id="yixing"></span>
+    <div class="section-head">
+      <span class="sh-cn">紫砂壶</span>
+      <span class="sh-py">zǐshā hú</span>
+      <span class="sh-en">The Yixing Teapot — China's Prestige Brewing Vessel</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="壶">
+      <div class="scholar-label">宜兴紫砂 · The Purple Clay of Yixing</div>
+      <p>The <strong>紫砂壶</strong> (zǐshā hú, "purple sand pot") is one of the most significant objects in Chinese material culture — a functional teapot elevated over five centuries of development into an art form with its own history of master potters, famous forms, and connoisseurship literature. The clay comes from specific deposits near Yixing city in Jiangsu province; its unique mineralogy (high iron content, fine grain size, and a specific combination of mineral compounds) gives the fired clay a slight porosity unlike any glazed ceramic — it breathes, absorbs traces of the tea brewed in it over time, and gradually develops a seasoned character that affects the tea.</p>
+      <p>The varieties of Yixing clay are classified primarily by color: <strong>紫泥 zǐ ní</strong> (purple clay, the classic dark purplish-brown), <strong>红泥 hóng ní</strong> (red clay, fired to a warm terracotta red), <strong>绿泥 lǜ ní</strong> (green clay, lighter, used primarily for accents), and <strong>段泥 duàn ní</strong> (duanmu clay, a warmer buff-yellow). The range of colors and their combinations is part of the aesthetic vocabulary of Yixing teapot design, along with the form — hundreds of named classical shapes exist, from the simple round 圆壶 to the elaborate branch-and-bamboo styles.</p>
+      <p>A well-used Yixing pot of decades' standing develops an <strong>包浆 bāojiāng</strong> (patina or "coat") — a gleaming surface developed through years of contact with tea and handling that transforms the raw clay surface. The tradition holds that a sufficiently seasoned pot can produce good tea from hot water alone; while this is hyperbole, the absorbed oils and compounds do subtly affect the tea. For this reason, each Yixing pot is typically dedicated to one type of tea — a pot used exclusively for Wuyi rock oolongs for twenty years has a different character than one used for puerh, and mixing would compromise both.</p>
+    </div>
+
+    <span class="section-anchor" id="service"></span>
+    <div class="section-head">
+      <span class="sh-cn">服务器具</span>
+      <span class="sh-py">fúwù qìjù</span>
+      <span class="sh-en">Service Implements — Tray, Cups, Tools</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="cards">
+      <div class="card c-teal">
+        <div class="card-head">茶盘 chápán · Tea Tray</div>
+        <p>The drainage tray on which the entire gongfu tea setup sits. Essential for the rinsing-heavy gongfu method — warming water, the tea wash, and overflow are all discarded onto or through the tray. Can be as simple as a bamboo tray over a bowl, or as elaborate as a carved wooden construction with built-in drain channels and a reservoir below. The tray defines the tea table's territory and contains the ceremony.</p>
+      </div>
+      <div class="card c-teal">
+        <div class="card-head">品茗杯 pǐn míng bēi · Sipping Cup</div>
+        <p>The small drinking cups — typically 25–50ml — used in gongfu tea service. Small size is deliberate: the concentration of the brew is high, the temperature is hot, and the intention is to drink completely rather than let it cool. Multiple cups are used (usually matching sets of three, four, or six) and they are warmed before use. Some sets pair 闻香杯 wén xiāng bēi (aroma cups, tall and narrow for nosing the aroma of the pour) with 品茗杯 (shorter, wider, for drinking).</p>
+      </div>
+      <div class="card c-teal">
+        <div class="card-head">茶则 chá zé · Tea Scoop / Measure</div>
+        <p>A flat scoop used to transfer dry tea leaf from the storage container (茶叶罐 cháyè guàn) to the brewing vessel. The gentle scooping motion avoids breaking fragile tea leaves. Usually bamboo, wood, or ceramic; the shape varies from a simple wide bamboo strip to more elaborate carved forms. Part of the standard 茶道六君子 (six gentlemen of tea) set of tools.</p>
+      </div>
+      <div class="card c-teal">
+        <div class="card-head">茶漏 / 茶滤 chálòu / chálǜ · Tea Strainer</div>
+        <p>A small strainer placed over the fairness pitcher or cup when pouring from the teapot, to catch any loose leaf particles that escape through the pot spout. Particularly important with teas like puerh (where particles break off compressed cakes) or any older looseleaf that has broken into small pieces. Often omitted by practitioners who consider the few particles harmless and prefer a cleaner visual aesthetic.</p>
+      </div>
+    </div>
+
+    <span class="section-anchor" id="vocab"></span>
+    <div class="section-head">
+      <span class="sh-cn">完整词汇</span>
+      <span class="sh-py">wánzhěng cíhuì</span>
+      <span class="sh-en">Full Vocabulary — Every Implement Named</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="cards">
+      <div class="card c-ochre">
+        <span class="card-cn">茶叶罐</span>
+        <span class="card-py">cháyè guàn</span>
+        <span class="card-en">tea canister / storage jar</span>
+        <span class="tag-n">n.</span>
+        <p>The sealed container for storing dry tea leaf. Should be airtight, opaque (light degrades tea), and made of a non-reactive material (tin, ceramic, or thick glass) that does not impart odor. Tea stored improperly absorbs ambient odors rapidly — a canister stored near spices or coffee will be ruined within days.</p>
+      </div>
+      <div class="card c-ochre">
+        <span class="card-cn">茶荷</span>
+        <span class="card-py">cháhé</span>
+        <span class="card-en">tea display dish — for showing the dry leaf</span>
+        <span class="tag-n">n.</span>
+        <p>A small, open, usually white porcelain or bamboo dish onto which a portion of dry leaf is placed before brewing, allowing the host and guests to observe, smell, and appreciate the dry leaf before it enters the pot. The 茶荷 presentation is a standard part of formal gongfu tea service. The name literally means "tea lotus."</p>
+      </div>
+      <div class="card c-ochre">
+        <span class="card-cn">茶夹</span>
+        <span class="card-py">chájiā</span>
+        <span class="card-en">tea tongs — for handling hot cups</span>
+        <span class="tag-n">n.</span>
+        <p>Bamboo or wood tongs used to hold and rinse small sipping cups with boiling water without burning the fingers. Part of the six gentlemen set (茶道六君子). Also used to retrieve cups from the tea tray after the warming rinse.</p>
+      </div>
+      <div class="card c-teal">
+        <span class="card-cn">茶针</span>
+        <span class="card-py">chá zhēn</span>
+        <span class="card-en">tea needle / pu-erh pick</span>
+        <span class="tag-n">n.</span>
+        <p>A pointed tool for breaking off portions of compressed pu-erh cakes or bricks without pulverizing the leaf. The technique is to work the needle into the compressed edge layer by layer, lifting sections rather than breaking from the top, to preserve as much of the original leaf structure as possible. Also used to clear blocked teapot spouts.</p>
+      </div>
+      <div class="card c-teal">
+        <span class="card-cn">随手泡</span>
+        <span class="card-py">suíshǒu pào</span>
+        <span class="card-en">instant-hot kettle / electric gongfu kettle</span>
+        <span class="tag-n">n.</span>
+        <p>Literally "brew at will" — the small electric variable-temperature kettle, usually with a narrow gooseneck spout for controlled pouring, that is now the standard heat source for gongfu tea at home and in tea shops. Replaced the traditional charcoal brazier (风炉 fēnglú) and ceramic kettle in everyday practice. Temperature control (variable to 5°C precision) is critical for green and white teas.</p>
+      </div>
+    </div>
+
+    <footer class="page-footer">
+      <span class="footer-id">Jiǎoluò Shūwū · 角落書屋 · <span>茶具</span></span>
+      <a href="../../index.html" class="footer-back">← All Entries</a>
+    </footer>
+  </main>
+</div>
+<script src="../../scripts/toc-scroll.js"></script>

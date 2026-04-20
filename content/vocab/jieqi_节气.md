@@ -1,0 +1,214 @@
+---
+type: 'vocab'
+category: 'vocab'
+status: 'complete'
+title: '节气 · the 24 solar terms'
+desc: "China's ancient agricultural calendar — 24 precise moments that mark the turning of the year, still shaping food, medicine, and daily life."
+metaDesc: "节气 jiéqì: the 24 solar terms of the Chinese calendar. What they are, how they work, the most culturally important terms (清明, 冬至, 春分), and the vocabulary of seasonal Chinese life."
+pageTitle: '节气 jiéqì'
+tags:
+  - 'culture'
+  - 'history'
+  - 'tcm'
+  - 'cosmology'
+updated: '2026-04-19'
+pinyin: 'jiéqì'
+---
+
+
+<div class="shell">
+
+  <aside class="sidebar" id="sidebar">
+
+    <span class="toc-topic">节气</span>
+    <span class="toc-topic-en">The 24 Solar Terms</span>
+
+    <div class="toc-divider"></div>
+    <span class="toc-label">On this page</span>
+
+    <ul class="toc-list">
+      <li><a href="#overview">
+        <span class="toc-cn">概览</span> Overview
+        <span class="toc-sub">gàilǎn · the living calendar</span>
+      </a></li>
+      <li><a href="#system">
+        <span class="toc-cn">体系</span> The Full System
+        <span class="toc-sub">tǐxì · all 24 terms</span>
+      </a></li>
+      <li><a href="#key-terms">
+        <span class="toc-cn">重要节气</span> Key Solar Terms
+        <span class="toc-sub">zhòngyào jiéqì · the ones that matter most</span>
+      </a></li>
+      <li><a href="#living">
+        <span class="toc-cn">养生</span> Seasonal Living
+        <span class="toc-sub">yǎng shēng · TCM and the calendar</span>
+      </a></li>
+      <li><a href="#vocab">
+        <span class="toc-cn">词汇</span> Key Vocabulary
+        <span class="toc-sub">cíhuì · calendar and season terms</span>
+      </a></li>
+    </ul>
+  </aside>
+
+  <main class="main">
+
+    <header class="topic-hero">
+      <span class="topic-hero-eyebrow">Vocab · 词汇 cíhuì</span>
+      <h1 class="topic-hero-title">节气</h1>
+      <span class="topic-hero-title-py">jiéqì</span>
+      <p class="topic-hero-desc">The 24 solar terms — China's ancient system for reading the turning of the year, inscribed on the UNESCO Intangible Cultural Heritage List in 2016.</p>
+    </header>
+
+    <span class="section-anchor" id="overview"></span>
+    <div class="section-head">
+      <span class="sh-cn">概览</span>
+      <span class="sh-py">gàilǎn</span>
+      <span class="sh-en">The Living Calendar</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="节">
+      <div class="scholar-label">字源洞见 zìyuán dòngjiàn · What 节气 Means</div>
+      <p><strong>节 jié</strong> (joint; node; section; festival) + <strong>气 qì</strong> (energy; vital force; air; breath). The 节气 are the "nodal energies" of the year — the 24 precise points at which the sun reaches specific positions in the ecliptic, dividing the solar year into equal segments of approximately 15 days each. They were calculated with extraordinary precision by Han dynasty astronomers and remained the backbone of Chinese agricultural and medical calendars for two millennia.</p>
+      <p>The 节气 are not festivals themselves but astronomical markers — the moments when the character of the season's energy (气) shifts. Each term has a name that describes the natural phenomenon occurring at that moment: 雨水 yǔshuǐ "Rain Water," 惊蛰 jīngzhé "Awakening of Insects," 谷雨 gǔyǔ "Grain Rain." Together they form a natural-language almanac of the Chinese year.</p>
+      <p>The system was inscribed on the UNESCO Intangible Cultural Heritage List in 2016 — China called it "China's fifth great invention," alongside papermaking, printing, the compass, and gunpowder. It remains in active use: TCM practitioners, farmers, chefs, and ordinary people follow the 节气 to calibrate diet, health practices, planting schedules, and seasonal customs.</p>
+    </div>
+
+    <span class="section-anchor" id="system"></span>
+    <div class="section-head">
+      <span class="sh-cn">体系</span>
+      <span class="sh-py">tǐxì</span>
+      <span class="sh-en">The Full System — All 24 Terms</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="pattern">
+      <span class="label">春 chūn · Spring (February–May)</span>
+      <strong>立春</strong> lìchūn Start of Spring · <strong>雨水</strong> yǔshuǐ Rain Water · <strong>惊蛰</strong> jīngzhé Awakening of Insects · <strong>春分</strong> chūnfēn Spring Equinox · <strong>清明</strong> qīngmíng Clear and Bright · <strong>谷雨</strong> gǔyǔ Grain Rain
+    </div>
+
+    <div class="pattern">
+      <span class="label">夏 xià · Summer (May–August)</span>
+      <strong>立夏</strong> lìxià Start of Summer · <strong>小满</strong> xiǎomǎn Grain Buds · <strong>芒种</strong> mángzhòng Grain in Ear · <strong>夏至</strong> xiàzhì Summer Solstice · <strong>小暑</strong> xiǎoshǔ Minor Heat · <strong>大暑</strong> dàshǔ Major Heat
+    </div>
+
+    <div class="pattern">
+      <span class="label">秋 qiū · Autumn (August–November)</span>
+      <strong>立秋</strong> lìqiū Start of Autumn · <strong>处暑</strong> chǔshǔ End of Heat · <strong>白露</strong> báilù White Dew · <strong>秋分</strong> qiūfēn Autumn Equinox · <strong>寒露</strong> hánlù Cold Dew · <strong>霜降</strong> shuāngjiàng Frost's Descent
+    </div>
+
+    <div class="pattern">
+      <span class="label">冬 dōng · Winter (November–February)</span>
+      <strong>立冬</strong> lìdōng Start of Winter · <strong>小雪</strong> xiǎoxuě Minor Snow · <strong>大雪</strong> dàxuě Major Snow · <strong>冬至</strong> dōngzhì Winter Solstice · <strong>小寒</strong> xiǎohán Minor Cold · <strong>大寒</strong> dàhán Major Cold
+    </div>
+
+    <span class="section-anchor" id="key-terms"></span>
+    <div class="section-head">
+      <span class="sh-cn">重要节气</span>
+      <span class="sh-py">zhòngyào jiéqì</span>
+      <span class="sh-en">Key Solar Terms — The Ones That Matter Most</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="cards">
+
+      <div class="card c-n">
+        <div class="card-head">
+          <span class="card-cn">清明</span>
+          <span class="card-py">Qīngmíng</span>
+          <span class="card-en">Clear and Bright — ancestor veneration, tomb sweeping</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 专名 zhuānmíng proper noun</span></div>
+        <div class="card-def">
+          清 qīng (clear; pure) + 明 míng (bright). Falling around April 4–6, this is the most culturally significant solar term — simultaneously an astronomical marker and a public holiday (清明节 Qīngmíng Jié). Families visit ancestral graves, clean and tend them, offer food and paper goods, and burn incense. 扫墓 sǎo mù (tomb sweeping) is the central ritual. The term itself describes the weather: clear skies after winter, the world bright and freshly washed. Tea harvested before 清明 (明前茶 míng qián chá) is the most prized of the year.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">清明时节，我们全家去扫墓、祭祖。</div>
+            <div class="ex-py">Qīngmíng shíjié, wǒmen quánjiā qù sǎo mù, jì zǔ.</div>
+            <div class="ex-en">At Qingming, the whole family goes to sweep the graves and honor our ancestors.</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-n">
+        <div class="card-head">
+          <span class="card-cn">冬至</span>
+          <span class="card-py">Dōngzhì</span>
+          <span class="card-en">Winter Solstice — the turning of yin into yang</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 专名 zhuānmíng proper noun</span></div>
+        <div class="card-def">
+          冬 dōng (winter) + 至 zhì (to arrive; to reach its extreme). The Winter Solstice — the shortest day, when yin energy reaches its peak and yang begins to return. Historically considered even more important than the New Year in some regions. Traditional foods: 汤圆 tāngyuán (glutinous rice balls, eaten in southern China), 饺子 jiǎozi (dumplings, eaten in northern China). The saying: 冬至大如年 "Winter Solstice is as grand as New Year."
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">冬至那天，北方家家户户都吃饺子。</div>
+            <div class="ex-py">Dōngzhì nà tiān, běifāng jiājiāhùhù dōu chī jiǎozi.</div>
+            <div class="ex-en">On Winter Solstice, every household in the north eats dumplings.</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card c-n">
+        <div class="card-head">
+          <span class="card-cn">春分</span>
+          <span class="card-py">Chūnfēn</span>
+          <span class="card-en">Spring Equinox — balance of yin and yang</span>
+        </div>
+        <div class="tags"><span class="tag tag-n">N 专名 zhuānmíng proper noun</span></div>
+        <div class="card-def">
+          春 chūn (spring) + 分 fēn (to divide; to share equally). The Spring Equinox — the day of perfect balance, when day and night are equal. In traditional cosmology, the moment when yin and yang are in exact equilibrium before yang takes the lead toward summer. A time for 踏青 tàqīng (going out to enjoy fresh spring greenery). Eggs can allegedly be stood on end on this day — a popular legend that millions test each year.
+        </div>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">春分这天，白天和黑夜一样长。</div>
+            <div class="ex-py">Chūnfēn zhè tiān, báitiān hé hēiyè yīyàng cháng.</div>
+            <div class="ex-en">On the Spring Equinox, day and night are equal in length.</div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+
+    <span class="section-anchor" id="living"></span>
+    <div class="section-head">
+      <span class="sh-cn">养生</span>
+      <span class="sh-py">yǎng shēng</span>
+      <span class="sh-en">Seasonal Living — TCM and the Calendar</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="节">
+      <div class="scholar-label">文化洞见 wénhuà dòngjiàn · 节气 and Health</div>
+      <p>Traditional Chinese medicine is fundamentally seasonal medicine — the body is understood as a microcosm of the natural world, and health is maintained by aligning one's diet, sleep, activity, and emotional state with the current 节气. Each of the 24 terms comes with specific recommendations: what to eat, what to avoid, how to adjust sleep patterns, what acupuncture points to tonify or sedate.</p>
+      <p>Key seasonal principles: <strong>春夏养阳，秋冬养阴</strong> chūn xià yǎng yáng, qiū dōng yǎng yīn — "In spring and summer, nourish yang; in autumn and winter, nourish yin." This means eating warm, upward-moving foods in spring (sprouts, greens, lamb) and cool, inward-storing foods in autumn (pears, black sesame, walnuts). Violating these seasonal prescriptions is considered a root cause of disease.</p>
+      <p>The practice of 节气养生 jiéqì yǎngshēng (health cultivation according to the solar terms) has seen a major revival in China, driven partly by the wellness industry and partly by genuine interest in traditional culture. Food accounts, TCM clinics, and social media channels publish seasonal dietary recommendations at each 节气 transition.</p>
+    </div>
+
+    <span class="section-anchor" id="vocab"></span>
+    <div class="section-head">
+      <span class="sh-cn">词汇</span>
+      <span class="sh-py">cíhuì</span>
+      <span class="sh-en">Key Vocabulary</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="adj-wrap">
+      <span class="adj"><span class="a-cn">节气</span><span class="a-py">jiéqì</span><span class="a-en">solar term</span></span>
+      <span class="adj"><span class="a-cn">农历</span><span class="a-py">nónglì</span><span class="a-en">lunar calendar</span></span>
+      <span class="adj"><span class="a-cn">阳历</span><span class="a-py">yánglì</span><span class="a-en">solar calendar</span></span>
+      <span class="adj"><span class="a-cn">节令</span><span class="a-py">jiélìng</span><span class="a-en">seasonal timing</span></span>
+      <span class="adj"><span class="a-cn">养生</span><span class="a-py">yǎng shēng</span><span class="a-en">health cultivation</span></span>
+      <span class="adj"><span class="a-cn">扫墓</span><span class="a-py">sǎo mù</span><span class="a-en">tomb sweeping</span></span>
+      <span class="adj"><span class="a-cn">冬至</span><span class="a-py">dōngzhì</span><span class="a-en">Winter Solstice</span></span>
+      <span class="adj"><span class="a-cn">清明</span><span class="a-py">qīngmíng</span><span class="a-en">Clear and Bright (April)</span></span>
+    </div>
+
+    <footer class="page-footer">
+      <span class="footer-id">Jiǎoluò Shūwū · 角落書屋 · <span>节气 jiéqì</span></span>
+      <a href="../../index.html" class="footer-back">← All Entries</a>
+    </footer>
+
+  </main>
+</div>

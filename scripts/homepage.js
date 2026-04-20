@@ -202,24 +202,16 @@
 
   // ── weighted inverted index search ──────────────────────────────────────────
   //
-  // The index is: { token: [[path, score], ...] } sorted by score desc.
-  //
-  // Search protocol:
-  //   1. Split the query into whitespace-separated tokens (query is already
-  //      lowercased/normalised by the caller).
-  //   2. For each token:
-  //      - If an exact key exists, start from that key's postings.
-  //      - Otherwise, union postings from every key that has `token` as a
-  //        substring OR that starts with `token` (prefix match).
-  //      - Single-char CJK tokens use exact-only lookup to avoid the
-  //        "everything containing 心" noise.
-  //   3. AND the per-token results, summing scores across tokens.
-  //   4. Return a Map<path, score>. Caller sorts.
-  function searchPaths(query, searchIndex) {
+  // The bundle is: { paths: [...], index: { token: [[pathId, score], ...] } }
+  // pathId is an integer index into `paths`. Postings are resolved back to
+  // paths when results leave this module.
+  function searchPaths(query, bundle) {
     const tokens = query.split(/\s+/).filter(t => t.length > 0);
     if (!tokens.length) return null;
 
-    const indexKeys = Object.keys(searchIndex);
+    const index = bundle.index;
+    const paths = bundle.paths;
+    const indexKeys = Object.keys(index);
     const HZ_RE = /[\u4e00-\u9fff]/;
 
     function postingsFor(token) {
@@ -227,43 +219,35 @@
       const isShort = token.length <= 2;
       const results = new Map(); // path -> best score from this token
 
-      // Helper. For an exact hit we apply a big boost (100× the index weight)
-      // so that an entry whose pinyin IS the query always outranks an entry
-      // whose unrelated term happens to start with the query.
       function addPostings(list, multiplier, exactBoost) {
         for (const pair of list) {
-          const path = pair[0];
+          const path = paths[pair[0]];
+          if (!path) continue;
           const score = pair[1] * multiplier + (exactBoost || 0);
           const prev = results.get(path);
           if (prev === undefined || score > prev) results.set(path, score);
         }
       }
 
-      // Exact match — biggest boost
-      if (searchIndex[token]) addPostings(searchIndex[token], 1.0, 500);
+      if (index[token]) addPostings(index[token], 1.0, 500);
 
-      // Prefix / substring expansion.
-      // Short CJK (1 char): exact only.
-      // Short Latin (2 chars): exact + cheap prefix.
-      // Otherwise: exact + prefix + substring (decayed).
       if (isCjk && token.length === 1) {
         // done
       } else if (isShort) {
         for (const key of indexKeys) {
           if (key === token) continue;
-          if (key.startsWith(token)) addPostings(searchIndex[key], 0.6, 0);
+          if (key.startsWith(token)) addPostings(index[key], 0.6, 0);
         }
       } else {
         for (const key of indexKeys) {
           if (key === token) continue;
-          if (key.startsWith(token)) addPostings(searchIndex[key], 0.7, 0);
-          else if (key.includes(token)) addPostings(searchIndex[key], 0.4, 0);
+          if (key.startsWith(token)) addPostings(index[key], 0.7, 0);
+          else if (key.includes(token)) addPostings(index[key], 0.4, 0);
         }
       }
       return results;
     }
 
-    // AND across tokens, summing scores
     let combined = null;
     for (const token of tokens) {
       const partial = postingsFor(token);
@@ -298,11 +282,6 @@
     const groups = {};
     CAT_ORDER.forEach(k => groups[k] = []);
     allEntries.forEach(e => { if (groups[e.category] !== undefined) groups[e.category].push(e); });
-    const activeCategoriesCount = CAT_ORDER.filter(k => groups[k].length > 0).length;
-
-    document.getElementById("stats").innerHTML =
-      `<strong>${allEntries.length}</strong> entries &nbsp;·&nbsp; <strong>${activeCategoriesCount}</strong> sections &nbsp;·&nbsp; updated <strong>${TODAY}</strong>`;
-
     // Tiny word-number helper for the subheader copy. Keeps prose tone while
     // staying honest about the actual count (fixes the "Twelve" / "Thirteen"
     // strings drifting out of sync with the data).
