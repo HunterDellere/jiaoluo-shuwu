@@ -816,6 +816,83 @@ h1, h2, h3, .section-head { text-wrap: balance; }
   color: var(--red);
 }
 
+/* ── STAGE HEADS (hub reading-path stage separators) ──────── */
+.stage-head {
+  display: flex;
+  align-items: baseline;
+  flex-wrap: wrap;
+  gap: 0.3rem 0.7rem;
+  margin: 2rem 0 0.5rem;
+  padding: 0.55rem 1rem;
+  background: var(--papyrus-2);
+  border: 1px solid var(--rule);
+  border-radius: var(--radius);
+}
+.stage-num {
+  font-family: var(--font-mono);
+  font-size: 0.6rem;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--ink-5);
+}
+.stage-name {
+  font-family: var(--font-cn);
+  font-size: 0.95rem;
+  font-weight: 700;
+  color: var(--ink);
+}
+.stage-name-en {
+  font-size: 0.82rem;
+  color: var(--ink-3);
+  font-style: italic;
+}
+.stage-note {
+  width: 100%;
+  font-size: 0.78rem;
+  color: var(--ink-5);
+  font-style: italic;
+  line-height: 1.5;
+  margin-top: 0.1rem;
+}
+/* Stage border colours mirror card colour classes */
+.stage-head.s-teal   { border-left: 3px solid var(--teal-ink); }
+.stage-head.s-ochre  { border-left: 3px solid var(--ochre); }
+.stage-head.s-sienna { border-left: 3px solid var(--sienna); }
+.stage-head.s-violet { border-left: 3px solid var(--violet-ink); }
+.stage-head.s-red    { border-left: 3px solid var(--red); }
+
+/* ── CARD META (hub reading-path type + length labels) ───── */
+.card-meta {
+  font-family: var(--font-mono);
+  font-size: 0.62rem;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: var(--ink-5);
+  margin-bottom: 0.35rem;
+}
+
+/* ── HUB BADGE (reciprocal "Part of …" link on member pages) */
+.hub-badges {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  margin-top: 0.75rem;
+}
+.hub-badge {
+  font-family: var(--font-mono);
+  font-size: 0.58rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  padding: 0.2rem 0.65rem;
+  border-radius: 20px;
+  border: 1px solid rgba(26,80,80,0.3);
+  color: var(--teal-ink);
+  background: rgba(26,80,80,0.05);
+  text-decoration: none;
+  white-space: nowrap;
+}
+.hub-badge:hover { background: rgba(26,80,80,0.1); color: var(--teal-ink); }
+
 /* ── TABLE ───────────────────────────────────────────────── */
 .table-wrap {
   overflow-x: auto;

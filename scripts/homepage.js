@@ -475,9 +475,16 @@
       grid.appendChild(cyCell);
 
       // Each hub entry as its own cell
+      // Stage swatch colors mirror the card color CSS variables
+      const STAGE_COLORS = ["var(--teal-ink)","var(--ochre)","var(--sienna)","var(--violet-ink)","var(--red)"];
       groups["hubs"].forEach(e => {
         const cn = leadCn(e);
-        const en = e.title ? (e.title.split("·").slice(1).join("·").trim() || e.title) : "";
+        const en = e.title ? (e.title.split("·").slice(1).join("·").trim().split("—")[0].trim() || e.title) : "";
+        const memberLabel = e.memberCount ? `${e.memberCount} entries · reading path` : "reading path";
+        // Stage swatch: 5 colour dots representing the 5 stages
+        const swatchDots = STAGE_COLORS.map(c =>
+          `<span style="display:inline-block;width:7px;height:7px;border-radius:50%;background:${c};margin-right:3px;opacity:0.7"></span>`
+        ).join("");
         const cell = document.createElement("a");
         cell.href = e.path;
         cell.className = "overview-cell";
@@ -488,6 +495,7 @@
             <span class="overview-name">${escapeHtml(en)}</span>
             <span class="overview-py">${escapeHtml(e.pinyin || "")}</span>
             <span class="overview-desc">${escapeHtml(e.desc || "")}</span>
+            <span class="overview-count" style="display:flex;align-items:center;gap:4px;margin-top:4px">${swatchDots}<span>${escapeHtml(memberLabel)}</span></span>
           </div>
         `;
         grid.appendChild(cell);

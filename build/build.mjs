@@ -25,6 +25,141 @@ const ROOT      = join(__dirname, '..');
 
 const LAYOUT = readFileSync(join(ROOT, 'templates/_layout.html'), 'utf8');
 
+// ── hub helpers ──────────────────────────────────────────────────────────────
+
+const COLOR_TO_CARD = { teal: 'c-teal', ochre: 'c-ochre', sienna: 'c-sienna', violet: 'c-violet', red: 'c-red' };
+const TYPE_LABEL = { Character: 'Character', Vocab: 'Vocab', Topic: 'Topic', Grammar: 'Grammar' };
+
+/**
+ * Build Map<memberPath, [{hubPath, hubTitle, hubPinyin, hubCn}]>
+ * from all hub entries that have stages[] in frontmatter.
+ */
+function buildHubMemberMap(pendingList) {
+  const map = new Map(); // memberPath → array of hub info objects
+  for (const { fm, slug, category } of pendingList) {
+    if (fm.type !== 'hub' || !fm.stages) continue;
+    const hubPath = `pages/${category}/${slug}.html`;
+    const hubCn   = fm.title ? fm.title.split('·')[0].trim() : slug;
+    const hubEn   = fm.title ? (fm.title.split('·')[1] || '').trim().split('—')[0].trim() : '';
+    const hubPy   = fm.pinyin || '';
+    for (const stage of fm.stages) {
+      for (const member of (stage.members || [])) {
+        const memberPath = `pages/${member.slug}.html`;
+        if (!map.has(memberPath)) map.set(memberPath, []);
+        map.get(memberPath).push({ hubPath, hubCn, hubEn, hubPy });
+      }
+    }
+  }
+  return map;
+}
+
+function escapeHtmlBuild(s) {
+  return String(s || '').replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+}
+
+/**
+ * Render the stages legend + staged reading-path cards HTML from frontmatter stages[].
+ * Replaces the existing hand-typed #stages + #path sections in hub bodies.
+ */
+function renderHubStagesHtml(fm, slug, category) {
+  if (!fm.stages || !fm.stages.length) return '';
+  const fromPath = `pages/${category}/${slug}.html`;
+
+  // Legend block (#stages)
+  const legendItems = fm.stages.map((st, i) => {
+    const cn = st.cn || st.name;
+    const en = st.name_en || st.name;
+    const colorClass = COLOR_TO_CARD[st.color] || 'c-teal';
+    const stageColorClass = `s-${st.color || 'teal'}`;
+    return `
+      <div class="stage-head ${stageColorClass}">
+        <span class="stage-num">Stage ${i + 1}</span>
+        <span class="stage-name">${escapeHtmlBuild(cn)}</span>
+        <span class="stage-name-en">${escapeHtmlBuild(en)}</span>
+        ${st.note ? `<span class="stage-note">${escapeHtmlBuild(st.note)}</span>` : ''}
+      </div>`;
+  }).join('');
+
+  const stagesSection = `
+    <span class="section-anchor" id="stages"></span>
+    <div class="section-head"><h2>Reading Path</h2></div>
+    ${legendItems}`;
+
+  // Cards by stage (#path — each stage gets its own stage-head + cards block)
+  const stageCards = fm.stages.map((st, i) => {
+    const colorClass = COLOR_TO_CARD[st.color] || 'c-teal';
+    const stageColorClass = `s-${st.color || 'teal'}`;
+    const cn = st.cn || st.name;
+    const en = st.name_en || st.name;
+    const cards = (st.members || []).map(member => {
+      const href = relPathBuild(fromPath, `pages/${member.slug}.html`);
+      const typeLabel = member.type ? TYPE_LABEL[member.type] || member.type : '';
+      const minsLabel = member.mins ? `${member.mins} min` : '';
+      const metaStr = [typeLabel, minsLabel].filter(Boolean).join(' · ');
+      return `
+      <div class="card ${colorClass}">
+        ${metaStr ? `<div class="card-meta">${escapeHtmlBuild(metaStr)}</div>` : ''}
+        <div class="card-head">
+          <span class="card-cn">${escapeHtmlBuild(member.label_cn)}</span>
+          ${member.label_en ? `<span class="card-en">${escapeHtmlBuild(member.label_en)}</span>` : ''}
+        </div>
+        <p><a href="${escapeHtmlBuild(href)}">${escapeHtmlBuild(member.label_cn)}</a>${member.note ? ` — ${escapeHtmlBuild(member.note)}` : ''}</p>
+      </div>`;
+    }).join('');
+
+    return `
+    <div class="stage-head ${stageColorClass}">
+      <span class="stage-num">Stage ${i + 1}</span>
+      <span class="stage-name">${escapeHtmlBuild(cn)}</span>
+      <span class="stage-name-en">${escapeHtmlBuild(en)}</span>
+      ${st.note ? `<span class="stage-note">${escapeHtmlBuild(st.note)}</span>` : ''}
+    </div>
+    <div class="cards">${cards}
+    </div>`;
+  }).join('');
+
+  // Wrap path section
+  const pathSection = `
+    <span class="section-anchor" id="path"></span>
+    ${stageCards}`;
+
+  return stagesSection + '\n' + pathSection;
+}
+
+function relPathBuild(fromPath, toPath) {
+  const fromParts = fromPath.split('/').slice(0, -1);
+  const toParts = toPath.split('/');
+  let common = 0;
+  while (common < fromParts.length && common < toParts.length - 1 && fromParts[common] === toParts[common]) common++;
+  const ups = fromParts.length - common;
+  const downs = toParts.slice(common);
+  return ('../'.repeat(ups) + downs.join('/')) || './';
+}
+
+/**
+ * Inject .hub-badge links after .topic-hero or inside .hero-chips for a member page.
+ * hubInfos: [{hubPath, hubCn, hubEn, hubPy}]
+ */
+function injectHubBadges(body, hubInfos, fromPath) {
+  if (!hubInfos || !hubInfos.length) return body;
+  const badges = hubInfos.map(h => {
+    const href = relPathBuild(fromPath, h.hubPath) + '#path';
+    const label = h.hubCn + (h.hubEn ? ` · ${h.hubEn}` : '') + ' hub →';
+    return `<a class="hub-badge" href="${escapeHtmlBuild(href)}">${escapeHtmlBuild(label)}</a>`;
+  }).join('\n      ');
+  const block = `\n    <div class="hub-badges">\n      ${badges}\n    </div>`;
+
+  // For character pages: inject inside .hero-chips area — after </header>
+  if (body.includes('<div class="hero-chips">')) {
+    return body.replace(/<\/header>/, `${block}\n  </header>`);
+  }
+  // For topic pages: inject after .topic-hero-desc's closing </p> — after </header>
+  if (body.includes('class="topic-hero"')) {
+    return body.replace(/<\/header>/, `${block}\n  </header>`);
+  }
+  return body;
+}
+
 // ── helpers ─────────────────────────────────────────────────────────────────
 
 function walk(dir) {
@@ -169,6 +304,10 @@ function toEntryObject(fm, slug, category) {
   if (fm.radical) entry.radical = fm.radical;
   if (fm.updated) entry.updated = fm.updated;
 
+  if (fm.type === 'hub' && fm.stages) {
+    entry.memberCount = fm.stages.reduce((n, s) => n + (s.members || []).length, 0);
+  }
+
   return entry;
 }
 
@@ -212,9 +351,10 @@ for (const filePath of files) {
   }
 }
 
-// Pass 1.5: compute cross-linking
+// Pass 1.5: compute cross-linking + hub membership
 const relations = buildRelations(entries);
 const adjacency = buildAdjacency(entries);
+const hubMemberMap = buildHubMemberMap(pending);
 
 // Pass 2: augment body (stroke order, auto-link, pinyin audio, related, prev/next), render, write
 let built = 0;
@@ -231,7 +371,33 @@ for (const { fm, body, slug, category, outDir, entry } of pending) {
       }
     }
 
+    // Hub pages: inject stages section from frontmatter (if stages[] present)
+    if (fm.type === 'hub' && fm.stages && fm.stages.length) {
+      const stagesHtml = renderHubStagesHtml(fm, slug, category);
+      // Replace the existing hand-typed #path section (and #stages if present)
+      // by inserting the generated block just before id="path" in the body.
+      if (augmentedBody.includes('id="path"')) {
+        // Remove old hand-typed #stages section if present (between #overview end and id="path")
+        augmentedBody = augmentedBody.replace(
+          /<span class="section-anchor" id="stages"><\/span>[\s\S]*?(?=<span class="section-anchor" id="path">)/,
+          ''
+        );
+        // Replace everything from id="path" through the closing </div> of the adj-wrap (Quick Index)
+        // We target: the section-anchor for path, through (but not including) id="also"
+        augmentedBody = augmentedBody.replace(
+          /<span class="section-anchor" id="path"><\/span>[\s\S]*?(?=<span class="section-anchor" id="also">)/,
+          stagesHtml + '\n\n    '
+        );
+      }
+    }
+
     if (entry.status === 'complete') {
+      // Hub badges on member pages
+      const hubInfos = hubMemberMap.get(entry.path);
+      if (hubInfos && hubInfos.length) {
+        augmentedBody = injectHubBadges(augmentedBody, hubInfos, entry.path);
+      }
+
       // 1. Stroke order on character pages
       augmentedBody = injectStrokeOrder(augmentedBody, fm);
 

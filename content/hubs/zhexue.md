@@ -1,11 +1,115 @@
 ---
-type: topic
+type: hub
 category: hubs
 title: "哲学 · Chinese Philosophy — A Reading Path"
 desc: "A guided walk through the great schools of Chinese thought — from Confucius and Laozi to the Neo-Confucian synthesis and the living debate between order and spontaneity."
 status: complete
 updated: "2026-04-19"
 tags: ["philosophy","confucianism","daoism","hub"]
+stages:
+  - name: "锚点"
+    name_en: "Anchors"
+    color: teal
+    note: "Start here — the two poles of the 2,500-year conversation."
+    members:
+      - slug: philosophy/topic_kongzi
+        label_cn: "孔子 · Confucius"
+        label_en: "The fixed point"
+        type: Topic
+        mins: 10
+        note: "Confucius (551–479 BCE) is the axis around which all later Chinese thought orients itself — either building on him or arguing against him."
+      - slug: philosophy/topic_laozi
+        label_cn: "老子 · Laozi"
+        label_en: "The counterweight"
+        type: Topic
+        mins: 8
+        note: "Read Laozi second, not last. The Daodejing is a direct counterweight to Confucian cultivation: the sage does not strive, but acts through 无为 (wúwéi)."
+  - name: "论辩"
+    name_en: "The Arguments"
+    color: ochre
+    note: "The Warring States debates — competing answers to the same questions."
+    members:
+      - slug: philosophy/topic_mengzi
+        label_cn: "孟子 · Mencius"
+        label_en: "Human nature is good"
+        type: Topic
+        mins: 8
+        note: "Mencius argued that 仁 is not imposed from outside but grows from four moral sprouts already present in every person."
+      - slug: philosophy/topic_xunzi
+        label_cn: "荀子 · Xunzi"
+        label_en: "Human nature is raw"
+        type: Topic
+        mins: 8
+        note: "Read directly after Mencius. Xunzi agreed that ritual and learning are the path to the good life, but argued human nature is raw and requires active shaping."
+      - slug: philosophy/topic_zhuangzi
+        label_cn: "庄子 · Zhuangzi"
+        label_en: "The radical Daoist"
+        type: Topic
+        mins: 10
+        note: "Where Laozi is terse and political, Zhuangzi is exuberant and literary: parables, paradoxes, and dreams. His butterfly dream is the most famous single passage in Chinese philosophy."
+      - slug: philosophy/topic_mojia
+        label_cn: "墨家 · Mohism"
+        label_en: "The road not taken"
+        type: Topic
+        mins: 7
+        note: "Mozi rejected graded Confucian love and argued for 兼爱 (universal impartial love). Mohism nearly vanished after Qin unification — imagining it is imagining a different China."
+      - slug: philosophy/topic_fajia
+        label_cn: "法家 · Legalism"
+        label_en: "The school that built the empire"
+        type: Topic
+        mins: 8
+        note: "Legalists rejected moral cultivation entirely: govern through 法 (law), 术 (technique), and 势 (positional power). The Qin applied these ideas, unified China, then collapsed in fifteen years."
+  - name: "宇宙论"
+    name_en: "The Cosmological Frame"
+    color: sienna
+    note: "The framework beneath the philosophy — how the natural world was mapped onto human and political order."
+    members:
+      - slug: philosophy/topic_yinyang_wuxing
+        label_cn: "阴阳五行"
+        label_en: "Yin-Yang & Five Phases"
+        type: Topic
+        mins: 9
+        note: "By the Han dynasty this system had been woven into Confucian cosmology, medicine, and statecraft. Nothing in Chinese thought makes full sense without it."
+      - slug: philosophy/topic_lixue
+        label_cn: "理学 · Neo-Confucianism"
+        label_en: "The Song synthesis"
+        type: Topic
+        mins: 10
+        note: "Zhu Xi (1130–1200) reconstructed Confucianism around 理 (principle): the rational order immanent in all things. Neo-Confucianism became the official philosophy of the Chinese state until the twentieth century."
+      - slug: philosophy/topic_xinxue
+        label_cn: "心学 · Wang Yangming"
+        label_en: "The unity of knowledge and action"
+        type: Topic
+        mins: 8
+        note: "Wang Yangming argued that 理 is not found in the world but in the mind (心 xīn) itself. His doctrine of 知行合一 had enormous influence on later Chinese and Japanese thought."
+  - name: "邻居"
+    name_en: "The Neighbours"
+    color: violet
+    note: "How philosophy met religion — the mutual shaping of Daoism and Buddhism."
+    members:
+      - slug: religion/topic_daojiao
+        label_cn: "道教 · Religious Daoism"
+        label_en: "Philosophy becomes religion"
+        type: Topic
+        mins: 9
+        note: "Philosophical Daoism and religious Daoism are related but distinct. Understanding both avoids treating the Daodejing as mystical self-help."
+      - slug: religion/topic_fojiao
+        label_cn: "佛教 · Buddhism"
+        label_en: "The long collision"
+        type: Topic
+        mins: 9
+        note: "Buddhism arrived in the Han dynasty and spent centuries in productive collision with Daoism and Confucianism. Chan Buddhism is the most distinctively Chinese outcome."
+  - name: "关键词"
+    name_en: "The Keyword"
+    color: red
+    note: "One word that carries the whole debate inside it."
+    members:
+      - slug: characters/dao4_道
+        label_cn: "道 · The Way"
+        label_en: "The most contested word"
+        type: Vocab
+        mins: 5
+        note: "For Confucians, 道 is the way of moral cultivation; for Daoists, it is the nameless process that precedes all things. The disagreement about what 道 means is one of the most sustained arguments in intellectual history."
 ---
 
 <div class="shell">
@@ -24,8 +128,11 @@ tags: ["philosophy","confucianism","daoism","hub"]
         <span class="toc-cn">阅读路径</span> Reading Path
         <span class="toc-sub">13 linked entries</span>
       </a></li>
+      <li><a href="#questions">
+        <span class="toc-cn">问题</span> Open Questions
+      </a></li>
       <li><a href="#also">
-        <span class="toc-cn">索引</span> Quick Index
+        <span class="toc-cn">延伸</span> Further Reading
       </a></li>
     </ul>
   </aside>
@@ -49,117 +156,24 @@ tags: ["philosophy","confucianism","daoism","hub"]
     </div>
 
     <span class="section-anchor" id="path"></span>
-    <div class="section-head"><h2>Reading Path</h2></div>
 
-    <div class="cards">
-      <div class="card c-teal">
-        <div class="card-head">
-          <span class="card-cn">孔子 · Confucius</span>
-        </div>
-        <p><a href="../../pages/philosophy/topic_kongzi.html">孔子 · Confucius</a> — Start here. Confucius (551–479 BCE) is the fixed point around which all later Chinese thought orients itself — either building on him or arguing against him. His core claim is that human beings become fully human through 礼 (ritual practice) and 仁 (humaneness toward others), and that the cultivation of character is the foundation of political order.</p>
-      </div>
-
-      <div class="card c-teal">
-        <div class="card-head">
-          <span class="card-cn">老子 · Laozi</span>
-        </div>
-        <p><a href="../../pages/philosophy/topic_laozi.html">老子 · Laozi and the Daodejing</a> — Read Laozi second, not last. The <em>Daodejing</em> (道德经) is a direct counterweight to Confucian cultivation: the sage does not strive, does not impose order, but acts through 无为 (wúwéi, effortless non-action) in alignment with the 道 that underlies all things. Reading Confucius first makes Laozi's departures precise rather than vague.</p>
-      </div>
-
-      <div class="card c-ochre">
-        <div class="card-head">
-          <span class="card-cn">孟子 · Mencius</span>
-        </div>
-        <p><a href="../../pages/philosophy/topic_mengzi.html">孟子 · Mencius</a> — The first great Confucian after the master. Mencius (372–289 BCE) argued that human nature (人性 rénxìng) is innately good — that 仁 is not imposed from outside but grows from the four moral sprouts already present in every person. His position becomes the orthodox Confucian view, which makes Xunzi's disagreement all the sharper.</p>
-      </div>
-
-      <div class="card c-ochre">
-        <div class="card-head">
-          <span class="card-cn">荀子 · Xunzi</span>
-        </div>
-        <p><a href="../../pages/philosophy/topic_xunzi.html">荀子 · Xunzi</a> — Read directly after Mencius. Xunzi (310–235 BCE) agreed that Confucian ritual and learning are the path to the good life but argued that human nature is not good — it is raw, self-interested, and requires active shaping through education and rites. The Mencius-Xunzi debate is the most productive disagreement in the whole tradition, and both Legalism and Neo-Confucianism grow partly out of it.</p>
-      </div>
-
-      <div class="card c-ochre">
-        <div class="card-head">
-          <span class="card-cn">庄子 · Zhuangzi</span>
-        </div>
-        <p><a href="../../pages/philosophy/topic_zhuangzi.html">庄子 · Zhuangzi</a> — The radical wing of Daoist thought. Where Laozi is terse and political, Zhuangzi (369–286 BCE) is exuberant and literary: parables, paradoxes, and dreams. His butterfly dream (庄周梦蝶) is the most famous single passage in all of Chinese philosophy. Read him after Laozi to feel the difference in register, and after the Confucians to feel the full weight of his critique of moral cultivation.</p>
-      </div>
-
-      <div class="card c-teal">
-        <div class="card-head">
-          <span class="card-cn">墨家 · Mohism</span>
-        </div>
-        <p><a href="../../pages/philosophy/topic_mojia.html">墨家 · Mohism</a> — The Confucians' sharpest contemporary critics. Mozi (479–381 BCE) rejected graded Confucian love — the idea that we owe more to family than to strangers — and argued for 兼爱 (jiān ài, universal impartial love). He also attacked the expense and hierarchical theatrics of ritual. Mohism was once a major school; it nearly vanished after the Qin unification, which makes understanding it partly an exercise in imagining the road not taken.</p>
-      </div>
-
-      <div class="card c-teal">
-        <div class="card-head">
-          <span class="card-cn">法家 · Legalism</span>
-        </div>
-        <p><a href="../../pages/philosophy/topic_fajia.html">法家 · Legalism</a> — The school that built the first empire. Legalists like Shang Yang and Han Fei (a student of Xunzi) rejected moral cultivation entirely: human beings are self-interested by nature, so the ruler should govern through 法 (fǎ, clearly stated law), 术 (shù, administrative technique), and 势 (shì, positional power). The Qin dynasty applied these ideas and unified China in 221 BCE — then collapsed fifteen years later, a fact that haunted every subsequent political philosopher.</p>
-      </div>
-
-      <div class="card c-ochre">
-        <div class="card-head">
-          <span class="card-cn">阴阳五行 · Yin-Yang & Five Phases</span>
-        </div>
-        <p><a href="../../pages/philosophy/topic_yinyang_wuxing.html">阴阳五行 · Yin-Yang and the Five Phases</a> — The cosmological framework that runs beneath the philosophy. 阴阳 (yīnyáng) describes all phenomena as the interplay of complementary forces; 五行 (wǔxíng, the Five Phases — wood, fire, earth, metal, water) maps those forces onto seasons, organs, directions, tastes, and dynasties. By the Han dynasty (206 BCE–220 CE) this system had been woven into Confucian cosmology, medicine, and statecraft.</p>
-      </div>
-
-      <div class="card c-sienna">
-        <div class="card-head">
-          <span class="card-cn">理学 · Neo-Confucianism</span>
-        </div>
-        <p><a href="../../pages/philosophy/topic_lixue.html">理学 · Neo-Confucianism</a> — The Song dynasty synthesis (960–1279 CE). Having absorbed and argued with Buddhism and Daoism for nearly a thousand years, Confucian thinkers — above all Zhu Xi (朱熹, 1130–1200) — reconstructed the tradition around the concept of 理 (lǐ, principle or pattern): the rational order immanent in all things and fully realised in the moral human being. Neo-Confucianism became the official philosophy of the Chinese state until the twentieth century.</p>
-      </div>
-
-      <div class="card c-sienna">
-        <div class="card-head">
-          <span class="card-cn">心学 · School of Mind</span>
-        </div>
-        <p><a href="../../pages/philosophy/topic_xinxue.html">心学 · Wang Yangming's School of Mind</a> — Read after Neo-Confucianism. Wang Yangming (王阳明, 1472–1529) pushed back against Zhu Xi's emphasis on the investigation of external things and argued that 理 is not found in the world but in the mind (心 xīn) itself. His doctrine of 知行合一 (zhī xíng hé yī, the unity of knowledge and action) had enormous influence on later Chinese and Japanese thought, and Wang remains one of the most practically-minded philosophers the tradition produced.</p>
-      </div>
-
-      <div class="card c-violet">
-        <div class="card-head">
-          <span class="card-cn">道教 · Religious Daoism</span>
-        </div>
-        <p><a href="../../pages/religion/topic_daojiao.html">道教 · Religious Daoism</a> — Philosophical Daoism (the Laozi and Zhuangzi) and religious Daoism are related but distinct. The organised religion that crystallised in the Han dynasty drew on the philosophical texts but also on shamanic practices, inner alchemy, and the pursuit of physical immortality. Understanding both helps avoid the common mistake of treating the <em>Daodejing</em> as a mystical self-help text.</p>
-      </div>
-
-      <div class="card c-violet">
-        <div class="card-head">
-          <span class="card-cn">佛教 · Buddhism</span>
-        </div>
-        <p><a href="../../pages/religion/topic_fojiao.html">佛教 · Buddhism in China</a> — Buddhism arrived in China during the Han dynasty and spent several centuries in productive collision with both Daoism and Confucianism. Chan Buddhism (禅宗 Chán zōng) — the school that became Zen in Japan — is the most distinctively Chinese outcome of that collision: a tradition that absorbed Daoist spontaneity and skepticism about language into a Buddhist contemplative framework. The Neo-Confucian synthesis is partly a response to Buddhism's long intellectual dominance.</p>
-      </div>
-
-      <div class="card c-red">
-        <div class="card-head">
-          <span class="card-cn">道 · The Way</span>
-        </div>
-        <p><a href="../../pages/vocab/dao4_道.html">道 · The Way</a> — The single most important word in Chinese philosophy, shared across schools with different meanings. For Confucians, 道 is the way of human moral cultivation and right social order; for Daoists, it is the nameless, formless process that precedes and underlies all things. The fact that both traditions claim the same character is not a coincidence — the disagreement about what 道 means is one of the most sustained arguments in intellectual history.</p>
-      </div>
+    <span class="section-anchor" id="questions"></span>
+    <div class="section-head"><h2>Open Questions</h2></div>
+    <div class="pattern">
+      <span class="label">问题 · wèntí — questions this hub leaves open</span>
+      <p><strong>Is the Mencius-Xunzi debate settled?</strong> Mencius said human nature is good; Xunzi said it is raw. Contemporary moral psychology has data on both sides. Chinese philosophy has been living inside this disagreement for 2,300 years without resolution — and that unresolution is productive.</p>
+      <p><strong>What did Mohism's disappearance cost?</strong> Mozi's universal impartial love and his proto-utilitarian ethics nearly gave China a very different philosophical foundation. The Qin unification eliminated Mohism as a living school. Imagining a China where Mohism survived is the most interesting counterfactual in Chinese intellectual history.</p>
+      <p><strong>Where does Neo-Confucianism end and Buddhist thought begin?</strong> The Song Confucian revival absorbed Buddhist metaphysics so thoroughly that Zhu Xi's concept of 理 (principle) is sometimes indistinguishable from Buddhist dharma-theory. The boundary is real but harder to draw than either tradition admits.</p>
+      <p><strong>Is 道 translatable?</strong> Every English rendering of 道 — "the Way," "the Path," "the Tao" — loses something. Some translators argue it should never be translated. The fact that the word is shared across Confucianism and Daoism with opposite meanings compounds the problem.</p>
     </div>
 
     <span class="section-anchor" id="also"></span>
-    <div class="section-head"><h2>Quick Index</h2></div>
-    <div class="adj-wrap">
-      <a class="adj" href="../../pages/philosophy/topic_kongzi.html">孔子 Confucius</a>
-      <a class="adj" href="../../pages/philosophy/topic_laozi.html">老子 Laozi</a>
-      <a class="adj" href="../../pages/philosophy/topic_mengzi.html">孟子 Mencius</a>
-      <a class="adj" href="../../pages/philosophy/topic_xunzi.html">荀子 Xunzi</a>
-      <a class="adj" href="../../pages/philosophy/topic_zhuangzi.html">庄子 Zhuangzi</a>
-      <a class="adj" href="../../pages/philosophy/topic_mojia.html">墨家 Mohism</a>
-      <a class="adj" href="../../pages/philosophy/topic_fajia.html">法家 Legalism</a>
-      <a class="adj" href="../../pages/philosophy/topic_yinyang_wuxing.html">阴阳五行 Yin-Yang</a>
-      <a class="adj" href="../../pages/philosophy/topic_lixue.html">理学 Neo-Confucianism</a>
-      <a class="adj" href="../../pages/philosophy/topic_xinxue.html">心学 Wang Yangming</a>
-      <a class="adj" href="../../pages/religion/topic_daojiao.html">道教 Religious Daoism</a>
-      <a class="adj" href="../../pages/religion/topic_fojiao.html">佛教 Buddhism</a>
-      <a class="adj" href="../../pages/vocab/dao4_道.html">道 The Way</a>
+    <div class="section-head"><h2>Further Reading</h2></div>
+    <div class="scholar" data-glyph="学">
+      <div class="scholar-label">延伸阅读 · yánshēn yuèdú — companion hubs &amp; references</div>
+      <p><strong>Companion hubs on this site:</strong> The <a href="../../pages/hubs/hanzi.html">汉字 — Writing System hub</a> grounds many philosophical terms in their written form: why 道 carries both "road" and "the Way," why 仁 contains the pictograph for person. The <a href="../../pages/hubs/zhongyi.html">中医 — Medicine hub</a> shows yin-yang and the five phases applied as a clinical diagnostic system — philosophy made operational.</p>
+      <p><strong>Primary texts in translation:</strong> D.C. Lau's translations of the <em>Analects</em> and the <em>Mencius</em> (Penguin Classics) are the standard English entry points. Bryan Van Norden's <em>Introduction to Classical Chinese Philosophy</em> (Hackett, 2011) is the clearest single-volume survey. For Zhuangzi, Burton Watson's translation (Columbia) preserves the literary register better than most alternatives.</p>
+      <p><strong>Stanford Encyclopedia of Philosophy:</strong> The SEP entries on <a href="https://plato.stanford.edu/entries/confucius/" target="_blank" rel="noopener noreferrer">Confucius</a>, <a href="https://plato.stanford.edu/entries/laozi/" target="_blank" rel="noopener noreferrer">Laozi</a>, and <a href="https://plato.stanford.edu/entries/neo-confucianism/" target="_blank" rel="noopener noreferrer">Neo-Confucianism</a> are the most rigorous free English-language introductions available.</p>
     </div>
 
   </main>

@@ -2298,7 +2298,7 @@
   },
   {
     "path": "pages/hubs/dynasties.html",
-    "type": "topic",
+    "type": "hub",
     "category": "hubs",
     "title": "朝代 · The Dynasties — A Reading Path Through Chinese History",
     "desc": "A guided walk through four thousand years of Chinese dynasties, from the three founding houses to the modern ruptures that ended imperial rule.",
@@ -2308,11 +2308,12 @@
       "hub"
     ],
     "status": "complete",
-    "updated": "2026-04-19"
+    "updated": "2026-04-19",
+    "memberCount": 12
   },
   {
     "path": "pages/hubs/hanzi.html",
-    "type": "topic",
+    "type": "hub",
     "category": "hubs",
     "title": "汉字 · The Writing System — A Reading Path",
     "desc": "A guided walk through Chinese characters — from oracle bone to modern glyph, from radical to compound, from stroke to calligraphy.",
@@ -2322,11 +2323,12 @@
       "hub"
     ],
     "status": "complete",
-    "updated": "2026-04-19"
+    "updated": "2026-04-19",
+    "memberCount": 14
   },
   {
     "path": "pages/hubs/jieri.html",
-    "type": "topic",
+    "type": "hub",
     "category": "hubs",
     "title": "节日 · The Festival Calendar — A Reading Path",
     "desc": "A guided walk through the Chinese year — the lunar calendar, the solar terms, and the great festivals that mark the turning of time.",
@@ -2337,11 +2339,12 @@
       "hub"
     ],
     "status": "complete",
-    "updated": "2026-04-19"
+    "updated": "2026-04-19",
+    "memberCount": 8
   },
   {
     "path": "pages/hubs/tea.html",
-    "type": "topic",
+    "type": "hub",
     "category": "hubs",
     "title": "六大茶类 · The Six Teas — A Reading Path",
     "desc": "A guided tour through the six classes of Chinese tea, plus the character, the utensils, and the gongfu ceremony.",
@@ -2351,11 +2354,12 @@
       "hub"
     ],
     "status": "complete",
-    "updated": "2026-04-19"
+    "updated": "2026-04-19",
+    "memberCount": 13
   },
   {
     "path": "pages/hubs/zhexue.html",
-    "type": "topic",
+    "type": "hub",
     "category": "hubs",
     "title": "哲学 · Chinese Philosophy — A Reading Path",
     "desc": "A guided walk through the great schools of Chinese thought — from Confucius and Laozi to the Neo-Confucian synthesis and the living debate between order and spontaneity.",
@@ -2366,11 +2370,12 @@
       "hub"
     ],
     "status": "complete",
-    "updated": "2026-04-19"
+    "updated": "2026-04-19",
+    "memberCount": 13
   },
   {
     "path": "pages/hubs/zhongyi.html",
-    "type": "topic",
+    "type": "hub",
     "category": "hubs",
     "title": "中医 · Traditional Chinese Medicine — A Reading Path",
     "desc": "A guided walk through the philosophy, practice, and vocabulary of Chinese medicine — from yin-yang and qi to acupuncture, herbology, and the five phases.",
@@ -2380,7 +2385,8 @@
       "hub"
     ],
     "status": "complete",
-    "updated": "2026-04-19"
+    "updated": "2026-04-19",
+    "memberCount": 10
   },
   {
     "path": "pages/philosophy/topic_yijing.html",

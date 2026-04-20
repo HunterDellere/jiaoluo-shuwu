@@ -8,7 +8,7 @@
   "properties": {
     "type": {
       "type": "string",
-      "enum": ["character", "vocab", "grammar", "topic"]
+      "enum": ["character", "vocab", "grammar", "topic", "hub"]
     },
     "category": {
       "type": "string",
@@ -94,6 +94,38 @@
       "type": "array",
       "items": { "type": "string", "minLength": 1 },
       "description": "Optional explicit related entry slugs (e.g. 'characters/gan3_感') that are merged at the front of the auto-computed related list"
+    },
+    "stages": {
+      "type": "array",
+      "description": "Hub pages only — ordered reading stages, each with member entries.",
+      "items": {
+        "type": "object",
+        "required": ["name", "color", "members"],
+        "properties": {
+          "name": { "type": "string" },
+          "name_en": { "type": "string" },
+          "cn": { "type": "string" },
+          "color": { "type": "string", "enum": ["teal", "ochre", "sienna", "violet", "red"] },
+          "note": { "type": "string" },
+          "members": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "required": ["slug", "label_cn"],
+              "properties": {
+                "slug":     { "type": "string" },
+                "label_cn": { "type": "string" },
+                "label_en": { "type": "string" },
+                "type":     { "type": "string", "enum": ["Character", "Vocab", "Topic", "Grammar"] },
+                "mins":     { "type": "integer", "minimum": 1 },
+                "note":     { "type": "string" }
+              },
+              "additionalProperties": false
+            }
+          }
+        },
+        "additionalProperties": false
+      }
     }
   },
   "if": {

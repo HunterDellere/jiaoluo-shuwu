@@ -1,11 +1,116 @@
 ---
-type: topic
+type: hub
 category: hubs
 title: "汉字 · The Writing System — A Reading Path"
 desc: "A guided walk through Chinese characters — from oracle bone to modern glyph, from radical to compound, from stroke to calligraphy."
 status: complete
 updated: "2026-04-19"
 tags: ["characters","hanzi","hub"]
+stages:
+  - name: "概念"
+    name_en: "The Concept"
+    color: teal
+    note: "Start here — three entries that define what the writing system is."
+    members:
+      - slug: characters/zi4_字
+        label_cn: "字 · Character"
+        label_en: "What it means to write meaning"
+        type: Character
+        mins: 6
+        note: "The character that names the system: its etymology (child under a roof — a character 'born' into a home), and what it means to learn a writing system that encodes meaning rather than sound."
+      - slug: vocab/hanzi_汉字
+        label_cn: "汉字 · The compound"
+        label_en: "Han characters — term and history"
+        type: Vocab
+        mins: 5
+        note: "The term itself: Han characters. Covers the history of the name, the traditional/simplified distinction, and the broader vocabulary of the writing system."
+      - slug: characters/wen2_文
+        label_cn: "文 · Writing & Culture"
+        label_en: "The older, broader word"
+        type: Character
+        mins: 6
+        note: "文 predates 字 as a concept; it covers oracle-bone patterns, the idea of culture as text, and why 文化 (wénhuà) means 'culture' and not just 'literacy.'"
+  - name: "象形"
+    name_en: "Pictographic Foundations"
+    color: ochre
+    note: "Characters whose origins are visible in their shapes — the clearest entry into pictographic logic."
+    members:
+      - slug: characters/ren2_人
+        label_cn: "人 · Person"
+        label_en: "Two strokes, mid-stride"
+        type: Character
+        mins: 5
+        note: "A figure mid-stride. 人 appears as a radical (亻) in hundreds of characters about people and human action — a lesson in how radicals transform under compositional pressure."
+      - slug: characters/tian1_天
+        label_cn: "天 · Heaven"
+        label_en: "Spatial logic"
+        type: Character
+        mins: 5
+        note: "人 with a stroke above the head: what is above a person is heaven. A clean example of how early characters built meaning through spatial logic rather than phonetics."
+      - slug: characters/wang2_王
+        label_cn: "王 · King"
+        label_en: "Heaven, humanity, earth"
+        type: Character
+        mins: 5
+        note: "Three horizontal strokes connected by a vertical: heaven, humanity, and earth held together by the ruler who stands between them. Also the radical for jade (玉 yù differs by a single dot)."
+  - name: "部首"
+    name_en: "Key Radicals as Characters"
+    color: sienna
+    note: "Four of the most productive radicals, each worth understanding as a standalone character before using as an organising principle."
+    members:
+      - slug: characters/mu4_木
+        label_cn: "木 · Tree / Wood"
+        label_en: "Seeds a vast family"
+        type: Character
+        mins: 5
+        note: "A trunk with roots below and branches above. As a radical (木旁), 木 seeds a vast family: materials, plants, furniture, and objects made from wood."
+      - slug: characters/shui3_水
+        label_cn: "水 · Water"
+        label_en: "Most productive radical"
+        type: Character
+        mins: 5
+        note: "Three strokes suggest flowing water. As the three-dot radical (氵), it compresses into hundreds of characters covering rivers, seas, liquids, washing, and swimming."
+      - slug: characters/huo3_火
+        label_cn: "火 · Fire"
+        label_en: "Acts from below"
+        type: Character
+        mins: 5
+        note: "Four strokes capture the upward flicker of flame. Appears as 灬 (four dots) at the base of characters where fire acts from below — cooking, heat, light."
+      - slug: characters/xin1_心
+        label_cn: "心 · Heart / Mind"
+        label_en: "The interior world"
+        type: Character
+        mins: 6
+        note: "In classical Chinese, 心 is the seat of both emotion and thought. As a radical (忄or 心), it marks the interior world: love, desire, thought, intention, fear."
+      - slug: characters/dao4_道
+        label_cn: "道 · The Way"
+        label_en: "Semantic layering"
+        type: Character
+        mins: 6
+        note: "Road, method, principle, and the foundational concept of Daoist cosmology — all carried by one character. A case study in how a word that began as 'path' was pressed into service for the deepest questions in Chinese philosophy."
+  - name: "书写之艺"
+    name_en: "Calligraphy & Seal Carving"
+    color: red
+    note: "Where the written character becomes performance, art, and legal instrument."
+    members:
+      - slug: arts/topic_shufa
+        label_cn: "书法 · Calligraphy"
+        label_en: "Writing as the highest art"
+        type: Topic
+        mins: 9
+        note: "The five script styles from seal to cursive, the role of the Four Treasures (brush, ink, paper, stone), and why calligraphy is considered the highest of the visual arts in the Chinese tradition."
+      - slug: vocab/shufa_书法
+        label_cn: "书法 vocab"
+        label_en: "The vocabulary of the practice"
+        type: Vocab
+        mins: 5
+        note: "Terms for the five script styles (篆、隶、楷、行、草), the brush techniques, and the critical vocabulary used to describe a master's hand."
+      - slug: arts/topic_zhuanke
+        label_cn: "篆刻 · Seal Carving"
+        label_en: "Character in three dimensions"
+        type: Topic
+        mins: 8
+        note: "The art of cutting characters into stone, jade, or bronze — where the written character becomes three-dimensional object, legal instrument, and artwork simultaneously."
 ---
 
 <div class="shell">
@@ -24,8 +129,11 @@ tags: ["characters","hanzi","hub"]
         <span class="toc-cn">阅读路径</span> Reading Path
         <span class="toc-sub">14 linked entries</span>
       </a></li>
+      <li><a href="#questions">
+        <span class="toc-cn">问题</span> Open Questions
+      </a></li>
       <li><a href="#also">
-        <span class="toc-cn">索引</span> Quick Index
+        <span class="toc-cn">延伸</span> Further Reading
       </a></li>
     </ul>
   </aside>
@@ -45,129 +153,26 @@ tags: ["characters","hanzi","hub"]
       <div class="scholar-label">汉字 · hànzì</div>
       <p>The writing system is the site's deepest axis. Where an alphabet maps sound to symbol, a Chinese character maps meaning — it is a pictograph, an ideograph, or a phono-semantic compound carrying a semantic radical on one side and a phonetic hint on the other. Learning to read 汉字 is not memorisation of shapes; it is learning to see the argument inside each glyph.</p>
       <p>Most characters fall into one of six formation categories (六书 liù shū), but the workhorse is the phono-semantic compound: roughly 80–90% of the modern character set combines a radical that indicates a semantic field with a phonetic component that approximates the sound. Once you can read radicals, the logic of the system opens up. The 214 Kangxi radicals remain the standard indexing system today.</p>
-      <p>This path starts with 字 — the concept of writing itself — then moves through pictographic foundations, essential radicals as living characters, and finally to calligraphy and seal carving, where the written form becomes art.</p>
+      <p>The six formation categories (六书) are worth naming: pictographs (象形 xiàngxíng) — direct drawings of things; simple ideographs (指事 zhǐshì) — abstract symbols like 上 and 下; compound ideographs (会意 huìyì) — two meanings combined; phono-semantic compounds (形声 xíngshēng) — the 80–90% majority; loan characters (假借 jiǎjiè) — borrowed for sound; and derivative cognates (转注 zhuǎnzhù) — semantically related characters sharing an origin. This path starts with 字 — the concept of writing itself — then moves through pictographic foundations, essential radicals as living characters, and finally to calligraphy and seal carving, where the written form becomes art.</p>
     </div>
 
     <span class="section-anchor" id="path"></span>
-    <div class="section-head"><h2>Reading Path</h2></div>
 
-    <div class="cards">
-      <div class="card c-teal">
-        <div class="card-head">
-          <span class="card-cn">字 · The Concept</span>
-        </div>
-        <p><a href="../../pages/characters/zi4_字.html">字 · zì — character, writing</a> — Start here. The character that names the system: its etymology (child under a roof — a character "born" into a home), the compounds it generates, and what it means to learn a writing system that encodes meaning rather than sound.</p>
-      </div>
-
-      <div class="card c-teal">
-        <div class="card-head">
-          <span class="card-cn">汉字 · The Vocabulary</span>
-        </div>
-        <p><a href="../../pages/vocab/hanzi_汉字.html">汉字 · hànzì</a> — The compound word itself: Han characters. Covers the term's history, the distinction between traditional and simplified forms, and the broader vocabulary of the writing system.</p>
-      </div>
-
-      <div class="card c-teal">
-        <div class="card-head">
-          <span class="card-cn">文 · Writing & Culture</span>
-        </div>
-        <p><a href="../../pages/characters/wen2_文.html">文 · wén — writing, culture, pattern</a> — The older, broader word for writing and civilisation. 文 predates 字 as a concept; it covers the scored patterns on oracle bones, the idea of culture as text, and why 文化 (wénhuà) means "culture" and not just "literacy."</p>
-      </div>
-
-      <div class="card c-ochre">
-        <div class="card-head">
-          <span class="card-cn">人 · The Simplest Pictograph</span>
-        </div>
-        <p><a href="../../pages/characters/ren2_人.html">人 · rén — person</a> — The clearest entry point into pictographic logic: a figure mid-stride, two strokes. 人 appears as a radical (亻) in hundreds of characters about people and human action. A good first lesson in how radicals transform when squeezed into the left side of a compound.</p>
-      </div>
-
-      <div class="card c-ochre">
-        <div class="card-head">
-          <span class="card-cn">天 · Heaven & Horizon</span>
-        </div>
-        <p><a href="../../pages/characters/tian1_天.html">天 · tiān — heaven, sky</a> — 人 with a stroke above the head: what is above a person is heaven. A clean example of how early characters built meaning through spatial logic rather than phonetics. 天 compounds reach across weather, time, and cosmology.</p>
-      </div>
-
-      <div class="card c-ochre">
-        <div class="card-head">
-          <span class="card-cn">王 · King & Jade</span>
-        </div>
-        <p><a href="../../pages/characters/wang2_王.html">王 · wáng — king, jade</a> — Three horizontal strokes connected by a vertical: heaven, humanity, and earth held together by the ruler who stands between them. Also the radical for jade (玉 yù differs by a single dot) — a detail that reveals how radical similarity can signal semantic kinship or simply be a historical accident.</p>
-      </div>
-
-      <div class="card c-sienna">
-        <div class="card-head">
-          <span class="card-cn">木 · Tree Radical</span>
-        </div>
-        <p><a href="../../pages/characters/mu4_木.html">木 · mù — tree, wood</a> — A trunk with roots below and branches above. As a radical (木旁), 木 seeds a vast family of characters: materials, plants, furniture, and objects made from wood. One of the clearest demonstrations of how a pictograph becomes an organising principle across the lexicon.</p>
-      </div>
-
-      <div class="card c-sienna">
-        <div class="card-head">
-          <span class="card-cn">水 · Water Radical</span>
-        </div>
-        <p><a href="../../pages/characters/shui3_水.html">水 · shuǐ — water</a> — As a standalone character, three strokes suggest flowing water. As the three-dot radical (氵), it compresses into the left side of characters covering rivers, seas, liquids, washing, and swimming. 水 is one of the most productive radicals in the language.</p>
-      </div>
-
-      <div class="card c-sienna">
-        <div class="card-head">
-          <span class="card-cn">火 · Fire Radical</span>
-        </div>
-        <p><a href="../../pages/characters/huo3_火.html">火 · huǒ — fire</a> — Four strokes that capture the upward flicker of a flame. Appears as 灬 (four dots) at the base of characters where fire acts from below — cooking, heat, light. Compare to 水 and 木 to see how the three natural-element radicals each transform differently under compositional pressure.</p>
-      </div>
-
-      <div class="card c-sienna">
-        <div class="card-head">
-          <span class="card-cn">心 · Heart Radical</span>
-        </div>
-        <p><a href="../../pages/characters/xin1_心.html">心 · xīn — heart, mind</a> — In classical Chinese, 心 is the seat of both emotion and thought — there is no clean split between feeling and reason. As a radical (忄on the left, 心 at the bottom), it marks the interior world: love, desire, thought, intention, fear. One of the most emotionally rich radical families in the script.</p>
-      </div>
-
-      <div class="card c-sienna">
-        <div class="card-head">
-          <span class="card-cn">道 · The Way</span>
-        </div>
-        <p><a href="../../pages/characters/dao4_道.html">道 · dào — the Way</a> — Road, method, principle, and the foundational concept of Daoist cosmology — all carried by one character. 道 is a case study in semantic layering: a word that began as "path" and was pressed into service for the deepest questions in Chinese philosophy.</p>
-      </div>
-
-      <div class="card c-violet">
-        <div class="card-head">
-          <span class="card-cn">书法 · Calligraphy</span>
-        </div>
-        <p><a href="../../pages/arts/topic_shufa.html">书法 · shūfǎ — Calligraphy</a> — The art of writing: where script becomes performance. Covers the five script styles from seal to cursive, the role of the Four Treasures (brush, ink, paper, stone), and why calligraphy is considered the highest of the visual arts in the Chinese tradition.</p>
-      </div>
-
-      <div class="card c-violet">
-        <div class="card-head">
-          <span class="card-cn">书法词汇 · Calligraphy Vocab</span>
-        </div>
-        <p><a href="../../pages/vocab/shufa_书法.html">书法 · shūfǎ vocab entry</a> — The vocabulary of the practice: terms for the five script styles (篆、隶、楷、行、草), the brush techniques, and the critical vocabulary used to describe a master's hand.</p>
-      </div>
-
-      <div class="card c-red">
-        <div class="card-head">
-          <span class="card-cn">篆刻 · Seal Carving</span>
-        </div>
-        <p><a href="../../pages/arts/topic_zhuanke.html">篆刻 · zhuānkè — Seal Carving</a> — The art of cutting characters into stone, jade, or bronze for use as personal seals (印章 yìnzhāng). Seals are the point where the written character becomes three-dimensional object, legal instrument, and artwork simultaneously — and where seal script (篆书), the oldest surviving style, remains in daily use.</p>
-      </div>
+    <span class="section-anchor" id="questions"></span>
+    <div class="section-head"><h2>Open Questions</h2></div>
+    <div class="pattern">
+      <span class="label">问题 · wèntí — questions this hub leaves open</span>
+      <p><strong>What did simplification cost?</strong> The PRC's simplification of characters (1956–1964) reduced stroke counts dramatically, making literacy more accessible. But it also broke the visual connection to etymological structure in many characters — the simplified forms are often more arbitrary-looking than the traditional ones. The debate between simplification advocates and traditionalists is still live, and both sides have good arguments.</p>
+      <p><strong>Why is calligraphy a moral practice?</strong> The Chinese tradition holds that calligraphy reveals character — that how a person writes is an expression of who they are, not just a skill. This is not mysticism: the brush requires a particular quality of attention, stillness, and controlled force that is genuinely difficult to fake. The link between calligraphy and moral cultivation is Confucian in origin and has been seriously argued for two thousand years.</p>
+      <p><strong>Can the system be learned systematically?</strong> Many learners approach Chinese characters as brute memorisation. The radical system makes it more systematic than it appears — but the systematic approach requires learning roughly 100–150 radical forms first, which feels like a detour before it becomes a shortcut. The path through 木, 水, 火, and 心 in this hub is an argument that the shortcut is worth taking.</p>
     </div>
 
     <span class="section-anchor" id="also"></span>
-    <div class="section-head"><h2>Quick Index</h2></div>
-    <div class="adj-wrap">
-      <a class="adj" href="../../pages/characters/zi4_字.html">字 Character</a>
-      <a class="adj" href="../../pages/vocab/hanzi_汉字.html">汉字 Vocab</a>
-      <a class="adj" href="../../pages/characters/wen2_文.html">文 Writing</a>
-      <a class="adj" href="../../pages/characters/ren2_人.html">人 Person</a>
-      <a class="adj" href="../../pages/characters/tian1_天.html">天 Heaven</a>
-      <a class="adj" href="../../pages/characters/wang2_王.html">王 King</a>
-      <a class="adj" href="../../pages/characters/mu4_木.html">木 Tree</a>
-      <a class="adj" href="../../pages/characters/shui3_水.html">水 Water</a>
-      <a class="adj" href="../../pages/characters/huo3_火.html">火 Fire</a>
-      <a class="adj" href="../../pages/characters/xin1_心.html">心 Heart</a>
-      <a class="adj" href="../../pages/characters/dao4_道.html">道 The Way</a>
-      <a class="adj" href="../../pages/arts/topic_shufa.html">书法 Calligraphy</a>
-      <a class="adj" href="../../pages/vocab/shufa_书法.html">书法 Vocab</a>
-      <a class="adj" href="../../pages/arts/topic_zhuanke.html">篆刻 Seal Carving</a>
+    <div class="section-head"><h2>Further Reading</h2></div>
+    <div class="scholar" data-glyph="文">
+      <div class="scholar-label">延伸阅读 · yánshēn yuèdú — companion hubs &amp; references</div>
+      <p><strong>Companion hubs on this site:</strong> The <a href="../../pages/hubs/zhexue.html">哲学 — Philosophy hub</a> gives many of the characters in this hub their philosophical weight: 道, 心, and 文 are not just linguistic objects but the vocabulary of a civilisation's deepest arguments. The <a href="../../pages/hubs/dynasties.html">朝代 — Dynasties hub</a> provides historical context: oracle-bone script emerged in the Shang, seal script was standardised by the Qin, and each dynasty produced its own calligraphic masters.</p>
+      <p><strong>Key references:</strong> Cecilia Lindqvist's <em>China: Empire of Living Symbols</em> (1991) is the best introductory treatment of character etymology for non-specialists. For the radical system, Rick Harbaugh's <em>Chinese Characters: A Genealogy and Dictionary</em> (Yale, 1998) remains the most useful structural reference. The online resource Outlier Linguistics (outlier-linguistics.com) provides rigorous etymological entries grounded in current scholarship.</p>
     </div>
 
   </main>
