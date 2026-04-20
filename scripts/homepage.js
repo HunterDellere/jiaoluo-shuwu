@@ -814,21 +814,32 @@
       this.textContent = anyExpanded ? "Expand all ▸" : "Collapse all ▾";
     });
 
-    // ── filter / search ────────────────────────────────────────────────────────
-    let filterText = "";
-    let debounceTimer = null;
-
+    // ── Search (standalone — no connection to browse) ─────────────────────────
+    let searchText = "";
+    let searchDebounce = null;
+    const searchInput = document.getElementById("filter-search");
+    const clearBtn    = document.getElementById("filter-clear");
+    const suggestEl   = document.getElementById("filter-suggest");
+    const resultEl    = document.getElementById("filter-result");
+    const noResults   = document.getElementById("no-results");
     const searchResultsEl = document.getElementById("search-results");
 
+    function buildSuggestionsHtml() {
+      return SUGGESTIONS.map(s => {
+        const isCn = /[\u4e00-\u9fff]/.test(s.label);
+        return `<button class="suggest-chip" data-q="${escapeHtml(s.q)}">${isCn ? `<span class="cn">${s.label}</span>` : s.label}</button>`;
+      }).join("");
+    }
+    suggestEl.innerHTML = buildSuggestionsHtml();
+    document.getElementById("no-results-suggest").innerHTML = buildSuggestionsHtml();
+
     function renderSearchResults(matchedPaths, queryRaw) {
-      // Build a flat ranked list from all entries, sorted by score descending.
       const scored = [];
       allEntries.forEach(e => {
         const score = matchedPaths.get(e.path);
         if (score !== undefined) scored.push({ e, score });
       });
       scored.sort((a, b) => b.score - a.score);
-
       const frag = document.createDocumentFragment();
       for (const { e } of scored) {
         const card = document.createElement("a");
@@ -855,29 +866,21 @@
       searchResultsEl.appendChild(frag);
     }
 
-    function applyFilters() {
-      const queryRaw = filterText.trim();
+    function applySearch() {
+      const queryRaw = searchText.trim();
       let query = normalize(queryRaw);
-      // "hsk 3" / "hsk3" / "hsk-3" / "HSK Level 2" → single token "hsk<n>"
       query = query.replace(/\bhsk[\s-]*(\d)\b/g, 'hsk$1').replace(/\bhsk\s*level\s*(\d)\b/g, 'hsk$1');
       const hasQuery = query.length > 0;
 
-      // Switch between search-results container and category browse.
-      container.classList.toggle("hidden", hasQuery);
       searchResultsEl.classList.toggle("visible", hasQuery);
-      suggestEl.classList.toggle("visible", !hasQuery);
-
-      const resultEl = document.getElementById("filter-result");
-      const noResults = document.getElementById("no-results");
 
       if (hasQuery) {
         const matchedPaths = searchPaths(query, searchIndex);
-        const totalVisible = matchedPaths ? matchedPaths.size : 0;
-
-        if (totalVisible > 0) {
+        const total = matchedPaths ? matchedPaths.size : 0;
+        if (total > 0) {
           renderSearchResults(matchedPaths, queryRaw);
           noResults.classList.remove("visible");
-          resultEl.textContent = `${totalVisible} ${totalVisible === 1 ? "entry" : "entries"}`;
+          resultEl.textContent = `${total} ${total === 1 ? "entry" : "entries"}`;
           resultEl.classList.add("visible");
         } else {
           searchResultsEl.innerHTML = "";
@@ -886,16 +889,6 @@
           resultEl.classList.remove("visible");
         }
       } else {
-        // Restore browse view — reset each group to its saved collapse state.
-        Object.keys(catGroupMap).forEach(key => {
-          const g = catGroupMap[key];
-          g.groupEl.classList.remove("hidden");
-          const shouldBeCollapsed = collapsedSet.has(key);
-          g.groupEl.classList.toggle("collapsed", shouldBeCollapsed);
-          g.headEl.setAttribute("aria-expanded", shouldBeCollapsed ? "false" : "true");
-          renderCardsForGroup(key, "", null);
-        });
-        container.querySelectorAll('.cat-family').forEach(el => el.classList.remove('hidden'));
         searchResultsEl.innerHTML = "";
         noResults.classList.remove("visible");
         resultEl.classList.remove("visible");
@@ -909,22 +902,76 @@
       } catch {}
     }
 
-    const searchInput = document.getElementById("filter-search");
-    const clearBtn = document.getElementById("filter-clear");
-    const suggestEl = document.getElementById("filter-suggest");
-
-    function buildSuggestionsHtml(label) {
-      return `<span class="suggest-label">${label}</span>` + SUGGESTIONS.map(s => {
-        const isCn = /[\u4e00-\u9fff]/.test(s.label);
-        return `<button class="suggest-chip" data-q="${escapeHtml(s.q)}">${isCn ? `<span class="cn">${s.label}</span>` : s.label}</button>`;
-      }).join("");
+    function handleSuggestClick(e) {
+      const btn = e.target.closest(".suggest-chip");
+      if (!btn) return;
+      searchInput.value = btn.dataset.q;
+      searchText = btn.dataset.q;
+      clearBtn.classList.add("visible");
+      applySearch();
+      searchInput.focus();
     }
-    suggestEl.innerHTML = buildSuggestionsHtml("try");
-    document.getElementById("no-results-suggest").innerHTML = buildSuggestionsHtml("try");
+    suggestEl.addEventListener("click", handleSuggestClick);
+    document.getElementById("no-results-suggest").addEventListener("click", handleSuggestClick);
 
-    // ── HSK filter chips ──────────────────────────────────────────────────────
-    // Count entries per level from the in-memory corpus so we only render
-    // chips that actually have content, and can show counts alongside.
+    searchInput.addEventListener("input", () => {
+      searchText = searchInput.value;
+      clearBtn.classList.toggle("visible", searchText.length > 0);
+      clearTimeout(searchDebounce);
+      searchDebounce = setTimeout(applySearch, 120);
+    });
+
+    clearBtn.addEventListener("click", () => {
+      searchInput.value = "";
+      searchText = "";
+      clearBtn.classList.remove("visible");
+      applySearch();
+      searchInput.focus();
+    });
+
+    document.addEventListener("keydown", e => {
+      if (e.key === "/" && !["INPUT","TEXTAREA","SELECT"].includes(document.activeElement.tagName)) {
+        e.preventDefault();
+        searchInput.focus();
+        searchInput.select();
+        return;
+      }
+      if (e.key === "Escape" && document.activeElement === searchInput) {
+        if (searchInput.value) {
+          searchInput.value = "";
+          searchText = "";
+          clearBtn.classList.remove("visible");
+          applySearch();
+        } else {
+          searchInput.blur();
+        }
+        return;
+      }
+      if (e.key === "ArrowDown" || e.key === "ArrowUp") {
+        const cards = Array.from(searchResultsEl.querySelectorAll(".entry-card"));
+        if (!cards.length) return;
+        const idx = cards.indexOf(document.activeElement);
+        const next = e.key === "ArrowDown"
+          ? (idx === -1 ? 0 : Math.min(idx + 1, cards.length - 1))
+          : (idx === -1 ? cards.length - 1 : Math.max(idx - 1, 0));
+        e.preventDefault();
+        cards[next].tabIndex = 0;
+        cards[next].focus();
+      }
+    });
+
+    try {
+      const initialQ = new URL(window.location.href).searchParams.get("q");
+      if (initialQ) {
+        searchInput.value = initialQ;
+        searchText = initialQ;
+        clearBtn.classList.add("visible");
+      }
+    } catch {}
+
+    applySearch();
+
+    // ── Browse HSK filter (independent — only collapses/expands category groups) ─
     const hskChipsEl = document.getElementById("hsk-chips");
     if (hskChipsEl) {
       const counts = { 1:0, 2:0, 3:0, 4:0, 5:0, 6:0 };
@@ -945,122 +992,48 @@
           activeLevels.map(n =>
             `<button class="hsk-chip" data-hsk="${n}" type="button" aria-pressed="false" title="${counts[n]} ${counts[n] === 1 ? 'entry' : 'entries'}">${n} <span class="hsk-count">${counts[n]}</span></button>`
           ).join("") +
-          `<button class="hsk-chip hsk-chip-clear" data-hsk="" type="button" aria-pressed="false">Clear</button>`;
+          `<button class="hsk-chip hsk-chip-clear" data-hsk="" type="button">Clear</button>`;
 
+        let activeHsk = null;
         hskChipsEl.addEventListener("click", e => {
           const btn = e.target.closest(".hsk-chip");
           if (!btn) return;
-          const level = btn.dataset.hsk;
-          const wasActive = btn.classList.contains("active");
+          const level = btn.dataset.hsk ? parseInt(btn.dataset.hsk, 10) : null;
+          const wasActive = activeHsk === level;
           hskChipsEl.querySelectorAll(".hsk-chip").forEach(b => {
             b.classList.remove("active");
             b.setAttribute("aria-pressed", "false");
           });
-          if (level && !wasActive) {
+          activeHsk = (!wasActive && level) ? level : null;
+          if (activeHsk) {
             btn.classList.add("active");
             btn.setAttribute("aria-pressed", "true");
-            // Write the canonical indexed form directly — belt and braces
-            searchInput.value = "hsk" + level;
-          } else {
-            searchInput.value = "";
           }
-          filterText = searchInput.value;
-          clearBtn.classList.toggle("visible", filterText.length > 0);
-          applyFilters();
+          // Show only category groups containing entries at this HSK level.
+          Object.keys(catGroupMap).forEach(key => {
+            const g = catGroupMap[key];
+            if (!activeHsk) {
+              g.groupEl.classList.remove("hidden");
+            } else {
+              const hasMatch = g.entries.some(entry => {
+                if (typeof entry.hsk === 'number') return entry.hsk === activeHsk;
+                if (entry.hsk && typeof entry.hsk === 'object') return entry.hsk.from <= activeHsk && activeHsk <= entry.hsk.to;
+                return false;
+              });
+              g.groupEl.classList.toggle("hidden", !hasMatch);
+            }
+          });
+          container.querySelectorAll('.cat-family').forEach(familyEl => {
+            let node = familyEl.nextElementSibling;
+            let anyVisible = false;
+            while (node && !node.classList.contains('cat-family')) {
+              if (node.classList.contains('cat-group') && !node.classList.contains('hidden')) { anyVisible = true; break; }
+              node = node.nextElementSibling;
+            }
+            familyEl.classList.toggle('hidden', !anyVisible);
+          });
         });
       }
     }
-
-    function handleSuggestClick(e) {
-      const btn = e.target.closest(".suggest-chip");
-      if (!btn) return;
-      searchInput.value = btn.dataset.q;
-      filterText = btn.dataset.q;
-      clearBtn.classList.add("visible");
-      applyFilters();
-      searchInput.focus();
-    }
-    suggestEl.addEventListener("click", handleSuggestClick);
-    document.getElementById("no-results-suggest").addEventListener("click", handleSuggestClick);
-
-    searchInput.addEventListener("input", () => {
-      filterText = searchInput.value;
-      clearBtn.classList.toggle("visible", filterText.length > 0);
-      clearTimeout(debounceTimer);
-      debounceTimer = setTimeout(applyFilters, 120);
-    });
-    // Suggestions stay visible below the browse header whenever there is no active query.
-    // applyFilters handles showing/hiding them as part of the state toggle.
-
-    clearBtn.addEventListener("click", () => {
-      searchInput.value = "";
-      filterText = "";
-      clearBtn.classList.remove("visible");
-      applyFilters();
-      searchInput.focus();
-    });
-
-    document.addEventListener("keydown", e => {
-      if (e.key === "/" && !["INPUT","TEXTAREA","SELECT"].includes(document.activeElement.tagName)) {
-        e.preventDefault();
-        if (searchWrap) searchWrap.classList.add("search-visible");
-        searchInput.focus();
-        searchInput.select();
-        return;
-      }
-      if (e.key === "Escape" && document.activeElement === searchInput) {
-        if (searchInput.value) {
-          searchInput.value = "";
-          filterText = "";
-          clearBtn.classList.remove("visible");
-          applyFilters();
-        } else {
-          searchInput.blur();
-        }
-        return;
-      }
-      if (e.key === "ArrowDown" || e.key === "ArrowUp") {
-        const visibleCards = Array.from(document.querySelectorAll(".entry-card:not(.hidden)"));
-        if (!visibleCards.length) return;
-        const active = document.activeElement;
-        const idx = visibleCards.indexOf(active);
-        let nextIdx;
-        if (idx === -1) {
-          nextIdx = e.key === "ArrowDown" ? 0 : visibleCards.length - 1;
-        } else {
-          nextIdx = e.key === "ArrowDown" ? Math.min(idx + 1, visibleCards.length - 1) : Math.max(idx - 1, 0);
-        }
-        e.preventDefault();
-        visibleCards[nextIdx].tabIndex = 0;
-        visibleCards[nextIdx].focus();
-      }
-    });
-
-    try {
-      const initialQ = new URL(window.location.href).searchParams.get("q");
-      if (initialQ) {
-        searchInput.value = initialQ;
-        filterText = initialQ;
-        clearBtn.classList.add("visible");
-      }
-    } catch {}
-
-    // Reveal the nav search only once the hero has scrolled out of view.
-    // If the page loaded with a ?q= query, show it immediately.
-    const searchWrap = document.querySelector(".topnav-search-wrap");
-    if (searchWrap) {
-      const hero = document.querySelector(".index-hero");
-      if (hero && !filterText) {
-        const obs = new IntersectionObserver(
-          ([entry]) => { searchWrap.classList.toggle("search-visible", !entry.isIntersecting); },
-          { threshold: 0 }
-        );
-        obs.observe(hero);
-      } else {
-        searchWrap.classList.add("search-visible");
-      }
-    }
-
-    applyFilters();
   } // end boot()
 })();

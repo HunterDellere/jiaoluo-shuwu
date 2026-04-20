@@ -389,7 +389,16 @@
   .recent-title { font-size: 0.94rem; font-weight: 600; color: var(--ink-2); display: block; margin-bottom: 0.35rem; line-height: 1.35; }
   .recent-meta { font-family: var(--font-mono); font-size: 0.62rem; color: var(--ink-5); letter-spacing: 0.06em; display: block; }
 
-  /* ── Browse section — one framed container so search, HSK chips,
+  /* ── Search section ───────────────────────────────────────────────────── */
+  .search-section { margin-bottom: 3rem; }
+
+  /* Suggestion chips row — sits directly below the search bar */
+  .search-suggest-row {
+    display: flex; flex-wrap: wrap; align-items: center; gap: 0.5rem;
+    margin-top: 0.9rem;
+  }
+
+  /* ── Browse section — one framed container so HSK chips,
         family headings, and category lists all read as a single context. */
   .browse-section {
     margin-bottom: 4rem;
@@ -484,7 +493,7 @@
 
   .filter-result {
     font-family: var(--font-ui); font-size: 0.82rem; color: var(--ink-4);
-    display: none;
+    display: none; margin-top: 1.25rem; margin-bottom: 0.5rem;
   }
   .filter-result.visible { display: block; }
 
@@ -530,7 +539,7 @@
 
   .no-results {
     display: none; padding: 1.5rem 1.25rem; background: var(--papyrus-2); border: 1px dashed var(--rule);
-    border-radius: var(--radius-lg); text-align: center; margin-bottom: 2rem;
+    border-radius: var(--radius-lg); text-align: center; margin-top: 1.25rem; margin-bottom: 2rem;
   }
   .no-results.visible { display: block; }
   .no-results-msg { font-style: italic; color: var(--ink-3); margin-bottom: 0.5rem; }

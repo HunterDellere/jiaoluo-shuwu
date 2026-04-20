@@ -132,13 +132,9 @@
   <a href="./" class="topnav-brand" aria-label="Jiǎoluò Shūwū — home" data-home-link>
     <span class="topnav-brand-cn">角書</span><span class="topnav-brand-sep"> · </span><span class="topnav-brand-en">Jiǎoshū</span>
   </a>
-  <div class="topnav-search-wrap">
-    <svg class="topnav-search-icon" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="7"/><line x1="16.5" y1="16.5" x2="21" y2="21"/></svg>
-    <input class="topnav-search-input" id="filter-search" type="search" placeholder="Search…" autocomplete="off" spellcheck="false" aria-label="Search entries — character, pinyin, keyword, radical, or HSK level">
-    <button class="topnav-search-clear" id="filter-clear" aria-label="Clear search">×</button>
-  </div>
   <div class="topnav-right">
     <a href="#" class="topnav-random" data-random-entry data-entries-base="" aria-label="Open a random entry"><span aria-hidden="true">⟳</span> Random</a>
+    <a href="#browse" class="topnav-back" aria-label="Browse all entries">Browse</a>
   </div>
 </nav>
 <script src="scripts/enhance.js" defer></script>
@@ -241,21 +237,37 @@
     </p>
   </section>
 
-  <!-- Browse all entries — the main action surface. Framed to signal it is
-       a key element and not just another section to scroll past. -->
+  <!-- Search — standalone, no connection to browse -->
+  <section class="search-section" id="search" aria-labelledby="search-heading">
+    <div class="section-eyebrow"><span class="eb-mark" aria-hidden="true"></span>搜索 sōusuǒ</div>
+    <h2 class="section-title" id="search-heading">Search</h2>
+    <div class="filter-bar filter-bar-hero" id="filter-bar">
+      <div class="filter-search-wrap">
+        <svg class="filter-search-icon" viewBox="0 0 24 24" width="20" height="20" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="7"/><line x1="16.5" y1="16.5" x2="21" y2="21"/></svg>
+        <input class="filter-search" id="filter-search" type="search" placeholder="Character, pinyin, keyword, or HSK level…" autocomplete="off" spellcheck="false" aria-label="Search entries">
+        <button class="filter-clear" id="filter-clear" aria-label="Clear search">×</button>
+      </div>
+      <span class="filter-shortcut-hint">press <kbd>/</kbd></span>
+    </div>
+    <div class="search-suggest-row" id="filter-suggest"></div>
+    <div class="filter-result" id="filter-result"></div>
+    <div class="no-results" id="no-results">
+      <p class="no-results-msg">No entries match <code id="no-results-query"></code>.</p>
+      <p class="no-results-hint">Try a single character (心), pinyin without tones (dao), a keyword (confucius), or an HSK level (HSK 2).</p>
+      <div class="search-suggest-row" id="no-results-suggest"></div>
+    </div>
+    <div id="search-results" class="search-results" aria-live="polite" aria-label="Search results"></div>
+  </section>
+
+  <!-- Browse — independent category browser -->
   <section class="browse-section" id="browse" aria-labelledby="browse-heading">
     <div class="browse-panel">
       <div class="section-eyebrow"><span class="eb-mark" aria-hidden="true"></span>浏览 liúlǎn</div>
-      <h2 class="section-title" id="browse-heading">All the notes</h2>
-      <p class="section-sub">Search by character, pinyin, keyword, radical, or HSK level. Or just wander.</p>
-
+      <h2 class="section-title" id="browse-heading">Browse</h2>
       <div class="browse-controls">
         <div class="hsk-chips" id="hsk-chips" role="group" aria-label="Filter by HSK level"></div>
-        <div class="filter-suggest visible" id="filter-suggest"></div>
       </div>
-
       <div class="filter-bar-meta">
-        <div class="filter-result" id="filter-result"></div>
         <div class="filter-actions">
           <button id="expand-all" class="desktop-only">Expand all</button>
           <button id="collapse-all" class="desktop-only">Collapse all</button>
@@ -263,14 +275,6 @@
         </div>
       </div>
     </div>
-
-    <div class="no-results" id="no-results">
-      <p class="no-results-msg">No entries match <code id="no-results-query"></code>.</p>
-      <p class="no-results-hint">Try a single character (心), pinyin without tones (dao), a keyword (confucius), or an HSK level (HSK 2). Or pick a starting point below.</p>
-      <div class="filter-suggest visible" id="no-results-suggest"></div>
-    </div>
-
-    <div id="search-results" class="search-results" aria-live="polite" aria-label="Search results"></div>
     <div id="categories"></div>
   </section>
 
