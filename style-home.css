@@ -874,7 +874,12 @@
     .index-hero-glyph { width: 5rem; height: 5rem; padding: 0.25rem 0; }
     .index-hero-glyph .ihg-cn { font-size: 1.7rem; }
     .index-hero-title { font-size: 1.85rem; }
-    .overview-grid { grid-template-columns: 1fr; }
+    .overview-grid { grid-template-columns: repeat(2, 1fr); }
+    .overview-shelf-hubs .overview-grid { grid-template-columns: repeat(2, 1fr); }
+    .overview-shelf-hubs .overview-cell .overview-desc { display: none; }
+    .overview-shelf-hubs .overview-cell .overview-count { margin-top: 0.2rem; }
+    .overview-shelf-language .overview-grid,
+    .overview-shelf-topics .overview-grid { grid-template-columns: 1fr; }
     .start-here-list { grid-template-columns: repeat(2, 1fr); }
     .howto-types { grid-template-columns: 1fr; gap: 0.55rem; }
     .howto-type { padding: 0.8rem 0.9rem; }
