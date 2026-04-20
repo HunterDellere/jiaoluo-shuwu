@@ -259,5 +259,16 @@
   {"slug": "calendar",          "label": "Calendar"},
   {"slug": "classics",          "label": "Classics"},
   {"slug": "modern",            "label": "Modern"},
-  {"slug": "rebellion",         "label": "Rebellion"}
+  {"slug": "rebellion",         "label": "Rebellion"},
+  {"slug": "literary",          "label": "Literary"},
+  {"slug": "visual",            "label": "Visual"},
+  {"slug": "planning",          "label": "Planning"},
+  {"slug": "cartography",       "label": "Cartography"},
+  {"slug": "evaluation",        "label": "Evaluation"},
+  {"slug": "quality",           "label": "Quality"},
+  {"slug": "commerce",          "label": "Commerce"},
+  {"slug": "media",             "label": "Media"},
+  {"slug": "legal",             "label": "Legal"},
+  {"slug": "tones",             "label": "Tones"},
+  {"slug": "phonology",         "label": "Phonology"}
 ]

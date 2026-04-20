@@ -6,7 +6,79 @@
     <atom:link href="https://jiaoshoo.com/feed.xml" rel="self" type="application/rss+xml" />
     <description>Notes on Chinese language and civilisation — characters, vocabulary, grammar, history, philosophy, and the world they shaped.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 20 Apr 2026 19:59:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 20:53:53 GMT</lastBuildDate>
+    <item>
+      <title>告 · to tell, to announce, to report</title>
+      <link>https://jiaoshoo.com/pages/characters/gao4_告.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/gao4_告.html</guid>
+      <pubDate>Mon, 20 Apr 2026 00:00:00 GMT</pubDate>
+      <description>A mouth aimed upward: the character for delivering words to authority — and the root of advertising, accusations, and warnings.</description>
+      <category>characters</category>
+    </item>
+    <item>
+      <title>广 · wide, broad, to spread</title>
+      <link>https://jiaoshoo.com/pages/characters/guang3_广.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/guang3_广.html</guid>
+      <pubDate>Mon, 20 Apr 2026 00:00:00 GMT</pubDate>
+      <description>A radical and a word: the cliff-shelter that became the prefix for everything expansive — from Guangzhou to Guangdong to radio broadcasts.</description>
+      <category>characters</category>
+    </item>
+    <item>
+      <title>品 · article, grade, character, to taste</title>
+      <link>https://jiaoshoo.com/pages/characters/pin3_品.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/pin3_品.html</guid>
+      <pubDate>Mon, 20 Apr 2026 00:00:00 GMT</pubDate>
+      <description>Three mouths stacked: a character about multiplicity, evaluation, and the discerning assessment of quality — from product grades to moral character.</description>
+      <category>characters</category>
+    </item>
+    <item>
+      <title>图 · map, diagram, to plan, to seek</title>
+      <link>https://jiaoshoo.com/pages/characters/tu2_图.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/tu2_图.html</guid>
+      <pubDate>Mon, 20 Apr 2026 00:00:00 GMT</pubDate>
+      <description>A character for diagrams, maps, intentions, and plots — anything that represents the world at one remove, or seeks to reshape it.</description>
+      <category>characters</category>
+    </item>
+    <item>
+      <title>之 · of, going, this — the classical connective</title>
+      <link>https://jiaoshoo.com/pages/characters/zhi1_之.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/zhi1_之.html</guid>
+      <pubDate>Mon, 20 Apr 2026 00:00:00 GMT</pubDate>
+      <description>The most-written character in classical Chinese — a possessive particle, pronoun, and verb fossilized into pure grammar.</description>
+      <category>characters</category>
+    </item>
+    <item>
+      <title>笔画 · strokes — the building blocks of Chinese characters</title>
+      <link>https://jiaoshoo.com/pages/vocab/bihua_笔画.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/vocab/bihua_笔画.html</guid>
+      <pubDate>Mon, 20 Apr 2026 00:00:00 GMT</pubDate>
+      <description>Every Chinese character is built from a small set of standard strokes written in a prescribed order. Stroke count determines dictionary order; stroke order determines how a character looks when written by hand.</description>
+      <category>vocab</category>
+    </item>
+    <item>
+      <title>部首 · radicals — the indexing keys of Chinese characters</title>
+      <link>https://jiaoshoo.com/pages/vocab/bushou_部首.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/vocab/bushou_部首.html</guid>
+      <pubDate>Mon, 20 Apr 2026 00:00:00 GMT</pubDate>
+      <description>Every Chinese character belongs to a radical family. Radicals are the organizing principle of dictionaries, the structural DNA of characters, and the fastest shortcut to guessing what an unfamiliar word means.</description>
+      <category>vocab</category>
+    </item>
+    <item>
+      <title>拼音 · the romanization system for Mandarin</title>
+      <link>https://jiaoshoo.com/pages/vocab/pinyin_拼音.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/vocab/pinyin_拼音.html</guid>
+      <pubDate>Mon, 20 Apr 2026 00:00:00 GMT</pubDate>
+      <description>Pinyin is the official romanization of Mandarin — the system that maps Chinese sounds to the Latin alphabet. It is a pronunciation guide, not a writing system, and it does not replace characters.</description>
+      <category>vocab</category>
+    </item>
+    <item>
+      <title>声调 · the four tones of Mandarin</title>
+      <link>https://jiaoshoo.com/pages/vocab/shengtiao_声调.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/vocab/shengtiao_声调.html</guid>
+      <pubDate>Mon, 20 Apr 2026 00:00:00 GMT</pubDate>
+      <description>Mandarin is tonal: the same syllable said at four different pitches means four different things. Tone is not emphasis — it is part of the word.</description>
+      <category>vocab</category>
+    </item>
     <item>
       <title>楚辞 · Songs of Chu</title>
       <link>https://jiaoshoo.com/pages/arts/topic_chuci.html</link>
@@ -173,78 +245,6 @@
       <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/gong1_工.html</guid>
       <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
       <description>Three strokes encoding heaven, earth, and the human craft connecting them — the root character for all labor, skill, and making in Chinese.</description>
-      <category>characters</category>
-    </item>
-    <item>
-      <title>国 · country, nation, state</title>
-      <link>https://jiaoshoo.com/pages/characters/guo2_国.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/guo2_国.html</guid>
-      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
-      <description>A walled enclosure protecting its people — the Chinese concept of nationhood written in a single character.</description>
-      <category>characters</category>
-    </item>
-    <item>
-      <title>好 · good; to like</title>
-      <link>https://jiaoshoo.com/pages/characters/hao3_好.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/hao3_好.html</guid>
-      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
-      <description>Good, well, to like — and the tone split that doubles its expressive range.</description>
-      <category>characters</category>
-    </item>
-    <item>
-      <title>火 · fire, flame, anger, popularity</title>
-      <link>https://jiaoshoo.com/pages/characters/huo3_火.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/huo3_火.html</guid>
-      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
-      <description>Three flames rising — the character for fire and one of the most productive radicals in Chinese.</description>
-      <category>characters</category>
-    </item>
-    <item>
-      <title>角 · corner, horn, angle</title>
-      <link>https://jiaoshoo.com/pages/characters/jiao3_角.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/jiao3_角.html</guid>
-      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
-      <description>Corner, horn, angle — the character that opens this site&apos;s name: 角落書屋.</description>
-      <category>characters</category>
-    </item>
-    <item>
-      <title>金 · gold, metal, money</title>
-      <link>https://jiaoshoo.com/pages/characters/jin1_金.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/jin1_金.html</guid>
-      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
-      <description>Nuggets of gold beneath the earth — and one of the Five Phases that governs autumn, the west, and sharpness.</description>
-      <category>characters</category>
-    </item>
-    <item>
-      <title>口 · mouth, opening, entrance</title>
-      <link>https://jiaoshoo.com/pages/characters/kou3_口.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/kou3_口.html</guid>
-      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
-      <description>A simple rectangle for an open mouth — one of the most productive radicals in the script, present in hundreds of characters for speaking, eating, and openings.</description>
-      <category>characters</category>
-    </item>
-    <item>
-      <title>老 · old, venerable, experienced</title>
-      <link>https://jiaoshoo.com/pages/characters/lao3_老.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/lao3_老.html</guid>
-      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
-      <description>A stooped elder with long hair — age as wisdom, seniority as moral authority, and the Daoist sage who wrote the Tao Te Ching.</description>
-      <category>characters</category>
-    </item>
-    <item>
-      <title>礼 · rites, ceremony, propriety</title>
-      <link>https://jiaoshoo.com/pages/characters/li3_礼.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/li3_礼.html</guid>
-      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
-      <description>The character that encodes Confucian social order — the ceremonial forms that bind family, society, and cosmos into one coherent whole.</description>
-      <category>characters</category>
-    </item>
-    <item>
-      <title>龙 · dragon, the imperial symbol</title>
-      <link>https://jiaoshoo.com/pages/characters/long2_龙.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/long2_龙.html</guid>
-      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
-      <description>China&apos;s most powerful mythic creature — benevolent, not fearsome; the emperor&apos;s emblem and the Chinese people&apos;s self-described totem.</description>
       <category>characters</category>
     </item>
   </channel>

@@ -1,5 +1,162 @@
 [
   {
+    "path": "pages/characters/gao4_告.html",
+    "type": "character",
+    "category": "characters",
+    "title": "告 · to tell, to announce, to report",
+    "desc": "A mouth aimed upward: the character for delivering words to authority — and the root of advertising, accusations, and warnings.",
+    "tags": [
+      "communication",
+      "legal",
+      "media"
+    ],
+    "status": "complete",
+    "char": "告",
+    "pinyin": "gào",
+    "tone": 4,
+    "hsk": 3,
+    "radical": "口",
+    "updated": "2026-04-20"
+  },
+  {
+    "path": "pages/characters/guang3_广.html",
+    "type": "character",
+    "category": "characters",
+    "title": "广 · wide, broad, to spread",
+    "desc": "A radical and a word: the cliff-shelter that became the prefix for everything expansive — from Guangzhou to Guangdong to radio broadcasts.",
+    "tags": [
+      "space",
+      "geography",
+      "media"
+    ],
+    "status": "complete",
+    "char": "广",
+    "pinyin": "guǎng",
+    "tone": 3,
+    "hsk": 4,
+    "radical": "广",
+    "updated": "2026-04-20"
+  },
+  {
+    "path": "pages/characters/pin3_品.html",
+    "type": "character",
+    "category": "characters",
+    "title": "品 · article, grade, character, to taste",
+    "desc": "Three mouths stacked: a character about multiplicity, evaluation, and the discerning assessment of quality — from product grades to moral character.",
+    "tags": [
+      "evaluation",
+      "quality",
+      "culture",
+      "commerce"
+    ],
+    "status": "complete",
+    "char": "品",
+    "pinyin": "pǐn",
+    "tone": 3,
+    "hsk": 3,
+    "radical": "口",
+    "updated": "2026-04-20"
+  },
+  {
+    "path": "pages/characters/tu2_图.html",
+    "type": "character",
+    "category": "characters",
+    "title": "图 · map, diagram, to plan, to seek",
+    "desc": "A character for diagrams, maps, intentions, and plots — anything that represents the world at one remove, or seeks to reshape it.",
+    "tags": [
+      "visual",
+      "planning",
+      "cartography"
+    ],
+    "status": "complete",
+    "char": "图",
+    "pinyin": "tú",
+    "tone": 2,
+    "hsk": 3,
+    "radical": "囗",
+    "updated": "2026-04-20"
+  },
+  {
+    "path": "pages/characters/zhi1_之.html",
+    "type": "character",
+    "category": "characters",
+    "title": "之 · of, going, this — the classical connective",
+    "desc": "The most-written character in classical Chinese — a possessive particle, pronoun, and verb fossilized into pure grammar.",
+    "tags": [
+      "classical",
+      "grammar",
+      "particle",
+      "literary"
+    ],
+    "status": "complete",
+    "char": "之",
+    "pinyin": "zhī",
+    "tone": 1,
+    "hsk": 5,
+    "radical": "丿",
+    "updated": "2026-04-20"
+  },
+  {
+    "path": "pages/vocab/bihua_笔画.html",
+    "type": "topic",
+    "category": "vocab",
+    "title": "笔画 · strokes — the building blocks of Chinese characters",
+    "desc": "Every Chinese character is built from a small set of standard strokes written in a prescribed order. Stroke count determines dictionary order; stroke order determines how a character looks when written by hand.",
+    "tags": [
+      "characters",
+      "writing",
+      "calligraphy",
+      "language"
+    ],
+    "status": "complete",
+    "updated": "2026-04-20"
+  },
+  {
+    "path": "pages/vocab/bushou_部首.html",
+    "type": "topic",
+    "category": "vocab",
+    "title": "部首 · radicals — the indexing keys of Chinese characters",
+    "desc": "Every Chinese character belongs to a radical family. Radicals are the organizing principle of dictionaries, the structural DNA of characters, and the fastest shortcut to guessing what an unfamiliar word means.",
+    "tags": [
+      "characters",
+      "writing",
+      "radical",
+      "language"
+    ],
+    "status": "complete",
+    "updated": "2026-04-20"
+  },
+  {
+    "path": "pages/vocab/pinyin_拼音.html",
+    "type": "topic",
+    "category": "vocab",
+    "title": "拼音 · the romanization system for Mandarin",
+    "desc": "Pinyin is the official romanization of Mandarin — the system that maps Chinese sounds to the Latin alphabet. It is a pronunciation guide, not a writing system, and it does not replace characters.",
+    "tags": [
+      "language",
+      "grammar",
+      "writing",
+      "literacy"
+    ],
+    "status": "complete",
+    "updated": "2026-04-20"
+  },
+  {
+    "path": "pages/vocab/shengtiao_声调.html",
+    "type": "topic",
+    "category": "vocab",
+    "title": "声调 · the four tones of Mandarin",
+    "desc": "Mandarin is tonal: the same syllable said at four different pitches means four different things. Tone is not emphasis — it is part of the word.",
+    "tags": [
+      "grammar",
+      "language",
+      "tones",
+      "phonology"
+    ],
+    "status": "complete",
+    "updated": "2026-04-20"
+  },
+  {
     "path": "pages/arts/topic_chuci.html",
     "type": "topic",
     "category": "arts",
@@ -195,176 +352,6 @@
     "tone": 4,
     "hsk": 1,
     "radical": "一",
-    "updated": "2026-04-19"
-  },
-  {
-    "path": "pages/characters/cha2_茶.html",
-    "type": "character",
-    "category": "characters",
-    "title": "茶 · tea",
-    "desc": "The character that gave the world its word for tea — a grass over wood over man, a plant that shaped civilization, and the locus of China's richest material culture.",
-    "tags": [
-      "tea",
-      "culture",
-      "nature",
-      "drink"
-    ],
-    "status": "complete",
-    "char": "茶",
-    "pinyin": "chá",
-    "tone": 2,
-    "hsk": 3,
-    "radical": "艹",
-    "updated": "2026-04-19"
-  },
-  {
-    "path": "pages/characters/chang2_长.html",
-    "type": "character",
-    "category": "characters",
-    "title": "长 · long; to grow; chief",
-    "desc": "A person with flowing long hair — one character, two readings: cháng (long) and zhǎng (to grow, elder), the richest dual-reading in Mandarin.",
-    "tags": [
-      "grammar",
-      "culture",
-      "family"
-    ],
-    "status": "complete",
-    "char": "长",
-    "pinyin": "cháng",
-    "tone": 2,
-    "hsk": 1,
-    "radical": "长",
-    "updated": "2026-04-19"
-  },
-  {
-    "path": "pages/characters/chi1_吃.html",
-    "type": "character",
-    "category": "characters",
-    "title": "吃 · to eat",
-    "desc": "To eat — and the extraordinary range of Chinese life encoded in a single food verb.",
-    "tags": [
-      "food",
-      "daily-life",
-      "culture"
-    ],
-    "status": "complete",
-    "char": "吃",
-    "pinyin": "chī",
-    "tone": 1,
-    "hsk": 1,
-    "radical": "口",
-    "updated": "2026-04-19"
-  },
-  {
-    "path": "pages/characters/da3_打.html",
-    "type": "character",
-    "category": "characters",
-    "title": "打 · to hit, to strike; the most versatile verb in Mandarin",
-    "desc": "To hit — and a hundred extensions: make a call, play a sport, pack a bag, get an injection. The most productive light verb in Chinese.",
-    "tags": [
-      "daily-life",
-      "grammar",
-      "culture"
-    ],
-    "status": "complete",
-    "char": "打",
-    "pinyin": "dǎ",
-    "tone": 3,
-    "hsk": 1,
-    "radical": "扌",
-    "updated": "2026-04-19"
-  },
-  {
-    "path": "pages/characters/da4_大.html",
-    "type": "character",
-    "category": "characters",
-    "title": "大 · big, great, large",
-    "desc": "Big, great, large — a person with arms wide open, the original measure of magnitude.",
-    "tags": [
-      "cosmology",
-      "scale",
-      "daily-life"
-    ],
-    "status": "complete",
-    "char": "大",
-    "pinyin": "dà",
-    "tone": 4,
-    "hsk": 1,
-    "radical": "大",
-    "updated": "2026-04-19"
-  },
-  {
-    "path": "pages/characters/di4_地.html",
-    "type": "character",
-    "category": "characters",
-    "title": "地 · earth, ground, land",
-    "desc": "Heaven above, earth below — the second power of the cosmos, and the root of every word about place, ground, and belonging.",
-    "tags": [
-      "nature",
-      "geography"
-    ],
-    "status": "complete",
-    "char": "地",
-    "pinyin": "dì",
-    "tone": 4,
-    "hsk": 1,
-    "radical": "土",
-    "updated": "2026-04-19"
-  },
-  {
-    "path": "pages/characters/dian4_电.html",
-    "type": "character",
-    "category": "characters",
-    "title": "电 · electricity, electric, telegram",
-    "desc": "Lightning descending from a rain cloud — a character that jumped from describing the weather to naming the force that defines modern civilization.",
-    "tags": [
-      "culture",
-      "daily"
-    ],
-    "status": "complete",
-    "char": "电",
-    "pinyin": "diàn",
-    "tone": 4,
-    "hsk": 2,
-    "radical": "雨",
-    "updated": "2026-04-19"
-  },
-  {
-    "path": "pages/characters/fo2_佛.html",
-    "type": "character",
-    "category": "characters",
-    "title": "佛 · Buddha, the awakened",
-    "desc": "The character that carried an entire worldview across the Silk Road — etymology, Buddhism, the 佛-family of compounds.",
-    "tags": [
-      "religion",
-      "buddhism",
-      "culture"
-    ],
-    "status": "complete",
-    "char": "佛",
-    "pinyin": "fó",
-    "tone": 2,
-    "hsk": 5,
-    "radical": "亻",
-    "updated": "2026-04-19"
-  },
-  {
-    "path": "pages/characters/fu2_福.html",
-    "type": "character",
-    "category": "characters",
-    "title": "福 · fortune, blessing, good luck",
-    "desc": "The most recognized Chinese character in the world — fortune, blessing, and the art of the upside-down 福.",
-    "tags": [
-      "culture",
-      "new-year",
-      "symbolism"
-    ],
-    "status": "complete",
-    "char": "福",
-    "pinyin": "fú",
-    "tone": 2,
-    "hsk": 3,
-    "radical": "示",
     "updated": "2026-04-19"
   }
 ]
