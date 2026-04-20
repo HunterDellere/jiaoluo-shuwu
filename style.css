@@ -1654,6 +1654,8 @@ a.pf-btn-share:focus-visible, button.pf-btn-share:focus-visible {
     max-height: calc(100vh - var(--nav-h) - 1rem);
     height: auto;
     overflow-y: auto;
+    overscroll-behavior: contain;
+    -webkit-overflow-scrolling: touch;
     border-right: none;
     border-bottom: none;
     border-top: 1px solid var(--red);
