@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="zh-Hans">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>随机 · Jiǎoluò Shūwū</title>
+<meta name="description" content="Pull a random entry from Jiǎoluò Shūwū.">
+<meta name="robots" content="noindex">
+<link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='14' fill='%238b1a1a'/><text x='50' y='60' text-anchor='middle' dominant-baseline='central' font-family='Noto Serif SC, serif' font-size='72' font-weight='700' fill='%23f2e8d5'>随</text></svg>">
+<style>
+  html, body { margin: 0; padding: 0; background: #f2e8d5; color: #1c1208; font-family: 'Cormorant Garamond', Georgia, serif; }
+  main { min-height: 100vh; display: grid; place-items: center; text-align: center; }
+  p { font-size: 1.15rem; opacity: .75; letter-spacing: .01em; }
+  .cn { font-family: 'Noto Serif SC', serif; font-size: 3rem; margin-bottom: .5rem; color: #8b1a1a; }
+</style>
+</head>
+<body>
+<main>
+  <div>
+    <div class="cn">随</div>
+    <p>Pulling a card…</p>
+  </div>
+</main>
+<script>
+(function () {
+  fetch('data/entries.json')
+    .then(function (r) { return r.json(); })
+    .then(function (entries) {
+      var complete = entries.filter(function (e) { return e.status === 'complete'; });
+      if (!complete.length) { window.location.replace('/'); return; }
+      var pick = complete[Math.floor(Math.random() * complete.length)];
+      window.location.replace('/' + pick.path);
+    })
+    .catch(function () { window.location.replace('/'); });
+})();
+</script>
+</body>
+</html>
