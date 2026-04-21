@@ -221,7 +221,7 @@ var _reveal = setInterval(function () {
     <div>
       <h1>审校台 · Site Admin</h1>
       <div class="sub">Not publicly linked. Bookmark this URL.</div>
-      <div class="meta">findings generated 21 Apr 2026, 15:18 · 1 errors · 7 warnings · 233 info</div>
+      <div class="meta">findings generated 21 Apr 2026, 15:31 · 0 errors · 7 warnings · 233 info</div>
     </div>
     <div class="adm-header-right">
       <label style="font-size:0.72rem;font-family:var(--adm-mono);color:var(--adm-ink3);display:block;margin-bottom:0.4rem">
@@ -240,17 +240,17 @@ var _reveal = setInterval(function () {
       <div class="count-card cc-missing"><div class="n">0</div><div class="l">missing</div></div>
     </div>
     <div class="sum-section">
-      <div class="count-card cc-err"><div class="n">1</div><div class="l">errors</div></div>
+      <div class="count-card cc-err"><div class="n">0</div><div class="l">errors</div></div>
       <div class="count-card cc-warn"><div class="n">7</div><div class="l">warnings</div></div>
       <div class="count-card cc-info"><div class="n">233</div><div class="l">info</div></div>
     </div>
   </div>
 
   <!-- Category chip strip -->
-  <div class="cat-chips"><button class="cat-chip cat-chip-warn" onclick="showTab('factual')" title="验 Factual">Factual <span class="cat-chip-n">7</span></button><button class="cat-chip cat-chip-warn" onclick="showTab('schema')" title="⬡ Schema &amp; Tags">Schema &amp; Tags <span class="cat-chip-n">2</span></button><button class="cat-chip cat-chip-err" onclick="showTab('links')" title="⇄ Links &amp; Anchors">Links &amp; Anchors <span class="cat-chip-n">1</span></button><button class="cat-chip cat-chip-ok" onclick="showTab('layout')" title="▤ Layout">Layout <span class="cat-chip-n">0</span></button><button class="cat-chip cat-chip-ok" onclick="showTab('health')" title="⊕ Content Health">Content Health <span class="cat-chip-n">0</span></button><button class="cat-chip cat-chip-ok" onclick="showTab('relations')" title="⬡ Relations">Relations <span class="cat-chip-n">0</span></button><button class="cat-chip cat-chip-warn" onclick="showTab('search')" title="⌕ Search">Search <span class="cat-chip-n">2</span></button><button class="cat-chip cat-chip-warn" onclick="showTab('formatting')" title="¶ Formatting">Formatting <span class="cat-chip-n">229</span></button></div>
+  <div class="cat-chips"><button class="cat-chip cat-chip-warn" onclick="showTab('factual')" title="验 Factual">Factual <span class="cat-chip-n">7</span></button><button class="cat-chip cat-chip-warn" onclick="showTab('schema')" title="⬡ Schema &amp; Tags">Schema &amp; Tags <span class="cat-chip-n">2</span></button><button class="cat-chip cat-chip-ok" onclick="showTab('links')" title="⇄ Links &amp; Anchors">Links &amp; Anchors <span class="cat-chip-n">0</span></button><button class="cat-chip cat-chip-ok" onclick="showTab('layout')" title="▤ Layout">Layout <span class="cat-chip-n">0</span></button><button class="cat-chip cat-chip-ok" onclick="showTab('health')" title="⊕ Content Health">Content Health <span class="cat-chip-n">0</span></button><button class="cat-chip cat-chip-ok" onclick="showTab('relations')" title="⬡ Relations">Relations <span class="cat-chip-n">0</span></button><button class="cat-chip cat-chip-warn" onclick="showTab('search')" title="⌕ Search">Search <span class="cat-chip-n">2</span></button><button class="cat-chip cat-chip-warn" onclick="showTab('formatting')" title="¶ Formatting">Formatting <span class="cat-chip-n">229</span></button></div>
 
   <!-- Tabs -->
-  <nav class="tabs" role="tablist"><button class="tab-btn" data-tab="needs-review" onclick="showTab('needs-review')">⚑ Needs Review (118)</button><button class="tab-btn" data-tab="factual" onclick="showTab('factual')">验 Factual (7)</button><button class="tab-btn" data-tab="schema" onclick="showTab('schema')">⬡ Schema &amp; Tags (2)</button><button class="tab-btn" data-tab="links" onclick="showTab('links')">⇄ Links &amp; Anchors (1)</button><button class="tab-btn" data-tab="layout" onclick="showTab('layout')">▤ Layout</button><button class="tab-btn" data-tab="health" onclick="showTab('health')">⊕ Content Health</button><button class="tab-btn" data-tab="relations" onclick="showTab('relations')">⬡ Relations</button><button class="tab-btn" data-tab="search" onclick="showTab('search')">⌕ Search (2)</button><button class="tab-btn" data-tab="formatting" onclick="showTab('formatting')">¶ Formatting (229)</button><button class="tab-btn" data-tab="analytics" onclick="showTab('analytics')">⊘ Analytics</button></nav>
+  <nav class="tabs" role="tablist"><button class="tab-btn" data-tab="needs-review" onclick="showTab('needs-review')">⚑ Needs Review (118)</button><button class="tab-btn" data-tab="factual" onclick="showTab('factual')">验 Factual (7)</button><button class="tab-btn" data-tab="schema" onclick="showTab('schema')">⬡ Schema &amp; Tags (2)</button><button class="tab-btn" data-tab="links" onclick="showTab('links')">⇄ Links &amp; Anchors</button><button class="tab-btn" data-tab="layout" onclick="showTab('layout')">▤ Layout</button><button class="tab-btn" data-tab="health" onclick="showTab('health')">⊕ Content Health</button><button class="tab-btn" data-tab="relations" onclick="showTab('relations')">⬡ Relations</button><button class="tab-btn" data-tab="search" onclick="showTab('search')">⌕ Search (2)</button><button class="tab-btn" data-tab="formatting" onclick="showTab('formatting')">¶ Formatting (229)</button><button class="tab-btn" data-tab="analytics" onclick="showTab('analytics')">⊘ Analytics</button></nav>
 
   <!-- Tab panels -->
   <div id="tab-needs-review" class="tab-panel">
@@ -2682,7 +2682,7 @@ var _reveal = setInterval(function () {
   </table>
   </div>
 <div id="tab-links" class="tab-panel">
-    <h2 style="font-family:var(--adm-serif);font-size:1.05rem;margin-bottom:0.75rem">Links &amp; Anchors (1)</h2>
+    <h2 style="font-family:var(--adm-serif);font-size:1.05rem;margin-bottom:0.75rem">Links &amp; Anchors (0)</h2>
     <div class="filter-bar">
     
     <label>Type <select class="f-type"><option value="">all</option><option>character</option><option>vocab</option><option>topic</option><option>grammar</option><option>chengyu</option><option>hub</option></select></label>
@@ -2693,10 +2693,7 @@ var _reveal = setInterval(function () {
     <div class="filter-actions">
       <button class="export-btn">Copy as markdown</button>
     </div>
-  </div><div class="global-findings">
-      <h3 class="global-findings-title">Global / reference findings</h3>
-      <ul class="findings-list"><li class="fi fi-error" data-category="links" data-level="ERROR"><span class="lvl lvl-error">ERROR</span> <span class="fi-msg">broken href=&quot;../_schema/tags.json&quot; — target &quot;pages/_schema/tags.json&quot; does not exist</span></li></ul>
-    </div><table class="review-table">
+  </div><table class="review-table">
     <thead>
       <tr><th data-sort="title">Page <span class="sort-arrow"></span></th><th>Findings</th><th>Action</th></tr>
     </thead>

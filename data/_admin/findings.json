@@ -1,7 +1,7 @@
 {
-  "generated": "2026-04-21T20:18:50.087Z",
+  "generated": "2026-04-21T20:31:40.568Z",
   "summary": {
-    "errors": 1,
+    "errors": 0,
     "warnings": 7,
     "info": 233
   },
@@ -1633,12 +1633,6 @@
       "file": "content/vocab/zhongyi_中医.md",
       "msg": "3 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
-    },
-    {
-      "level": "ERROR",
-      "category": "links",
-      "file": "pages/_admin/review.html",
-      "msg": "broken href=\"../_schema/tags.json\" — target \"pages/_schema/tags.json\" does not exist"
     },
     {
       "level": "WARN",

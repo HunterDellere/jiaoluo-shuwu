@@ -200,6 +200,9 @@ for (const [file, { html, meta }] of pageInfo) {
 
 // Stage 3: internal link + fragment resolution
 for (const [file, { html }] of pageInfo) {
+  // _admin/ and other _-prefixed page dirs are generated dashboards — skip link checks
+  const relPathS3 = relative(pagesDir, file);
+  if (relPathS3.startsWith('_')) continue;
   const isIndex = file === join(ROOT, 'index.html');
   const links = collectLinks(html);
   const fileDir = dirname(file);
@@ -269,7 +272,7 @@ for (const slug of pageSlugs) {
 
 // ── report ──────────────────────────────────────────────────────────────────
 
-if (EMIT && errors.length > 0) {
+if (EMIT) {
   // Classify each error string into a category based on keywords in the message.
   const adminFindings = errors.map(e => {
     const msg = e.replace(/^[^\n]+\n\s*/, ''); // strip filename prefix line
