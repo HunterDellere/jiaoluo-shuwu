@@ -16,6 +16,7 @@ pinyin: 'huǒ'
 tone: 3
 hsk: 1
 radical: '火'
+factual_review: 'pending'
 ---
 
 

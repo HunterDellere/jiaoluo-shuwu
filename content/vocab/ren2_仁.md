@@ -12,6 +12,7 @@ tags:
   - 'virtue'
 updated: '2026-04-19'
 pinyin: 'rén'
+factual_review: 'pending'
 ---
 
 

@@ -12,6 +12,7 @@ tags:
   - 'cosmology'
 updated: '2026-04-19'
 pinyin: 'shíjiān'
+factual_review: 'pending'
 ---
 
 
@@ -46,7 +47,7 @@ pinyin: 'shíjiān'
 
     <div class="scholar" data-glyph="时">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
-      <p><strong>时 shí</strong> = 日 rì (sun) + 寺 sì (phonetic: a place of regularity; a temple; an official bureau). Time as regulated by the sun — the seasons, the hours of the day. Originally meant "the right season, the right moment." In classical Chinese, 时 carries the sense of <em>timeliness</em> — the right action at the right moment. Confucius' virtue 时中 (timely balance) meant knowing not just what to do but <em>when</em>.</p>
+      <p><strong>时 shí</strong> (simplified from 時) = 日 rì (sun) + 寸 cùn (a shape-based replacement introduced in simplification). The traditional 時 = 日 + 寺 sì — where 寺 served as the phonetic (a place of regularity, a temple, an official bureau) and anchored time to the sun as regulated by institutional rhythms. The simplified 时 preserves the 日 but replaces 寺 with the shorter 寸; the etymological weight lives in the traditional form. Originally the character meant "the right season, the right moment." In classical Chinese, 时 carries the sense of <em>timeliness</em> — the right action at the right moment. Confucius' virtue 时中 (timely balance) meant knowing not just what to do but <em>when</em>.</p>
       <p><strong>间 jiān/jiàn</strong> = 门 mén (gate) + 日 rì (sun). Sunlight coming through a gate — the gap, the interval, the space between. As jiān: space between, room, interval. As jiàn: to separate, to interpose. 时间 together: the intervals between suns — the measured gaps that constitute time.</p>
     </div>
 

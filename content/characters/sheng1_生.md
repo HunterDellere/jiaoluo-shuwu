@@ -16,6 +16,7 @@ pinyin: 'shēng'
 tone: 1
 hsk: 1
 radical: '生'
+factual_review: 'pending'
 ---
 
 

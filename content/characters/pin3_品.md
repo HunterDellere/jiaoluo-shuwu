@@ -17,6 +17,7 @@ pinyin: 'pǐn'
 tone: 3
 hsk: 3
 radical: '口'
+factual_review: 'pending'
 ---
 
 

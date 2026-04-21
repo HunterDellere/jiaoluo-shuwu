@@ -16,6 +16,7 @@ pinyin: 'zài'
 tone: 4
 hsk: 1
 radical: '土'
+factual_review: 'pending'
 ---
 
 

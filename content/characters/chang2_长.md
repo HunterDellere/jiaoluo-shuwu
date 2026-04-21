@@ -16,6 +16,7 @@ pinyin: 'cháng'
 tone: 2
 hsk: 1
 radical: '长'
+factual_review: 'pending'
 ---
 
 

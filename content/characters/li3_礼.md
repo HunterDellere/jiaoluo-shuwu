@@ -16,6 +16,7 @@ pinyin: 'lǐ'
 tone: 3
 hsk: 4
 radical: '礻'
+factual_review: 'pending'
 ---
 
 

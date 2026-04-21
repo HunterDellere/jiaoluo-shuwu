@@ -16,6 +16,7 @@ pinyin: 'rì'
 tone: 4
 hsk: 2
 radical: '日'
+factual_review: 'pending'
 ---
 
 

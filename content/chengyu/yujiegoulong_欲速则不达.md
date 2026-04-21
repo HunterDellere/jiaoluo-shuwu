@@ -13,6 +13,7 @@ tags:
   - 'ethics'
 updated: '2026-04-18'
 pinyin: 'yù sù zé bù dá'
+factual_review: 'pending'
 ---
 
 

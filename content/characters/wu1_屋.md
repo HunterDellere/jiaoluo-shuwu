@@ -16,6 +16,7 @@ pinyin: 'wū'
 tone: 1
 hsk: {from: 1, to: 3}
 radical: '尸'
+factual_review: 'pending'
 ---
 
 

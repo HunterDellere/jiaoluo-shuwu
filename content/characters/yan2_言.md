@@ -15,6 +15,7 @@ pinyin: 'yán'
 tone: 2
 hsk: 4
 radical: '言'
+factual_review: 'pending'
 ---
 
 

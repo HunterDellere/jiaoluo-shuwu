@@ -17,7 +17,7 @@ import { validateEntry } from './lib/validate.mjs';
 import { buildSearchIndex } from './lib/search-index.mjs';
 import { buildRelations, buildAdjacency, renderRelatedHtml, renderAdjacencyHtml } from './lib/relations.mjs';
 import { renderHskBody } from './lib/hsk.mjs';
-import { injectStrokeOrder, buildLinkMap, autoLinkBody, addPinyinAudio, buildPageFooter, renderSourcesHtml, ensureMainContentId } from './lib/augment.mjs';
+import { injectStrokeOrder, buildLinkMap, autoLinkBody, addPinyinAudio, buildPageFooter, renderSourcesHtml, renderReviewBanner, ensureMainContentId } from './lib/augment.mjs';
 import { renderOgSvg, categoryFaviconDataUri } from './lib/og.mjs';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
@@ -546,6 +546,12 @@ for (const { fm, body, slug, category, outDir, entry } of pending) {
         augmentedBody = augmentedBody.replace('</main>', `${injection}\n  </main>`);
       }
 
+    }
+
+    // Inject review banner at the top of <main> (right after the opening tag)
+    const reviewBanner = renderReviewBanner(fm);
+    if (reviewBanner) {
+      augmentedBody = augmentedBody.replace(/(<main\b[^>]*>)/, `$1${reviewBanner}`);
     }
 
     // Inject unified footer on all pages (strips authored stub if present)

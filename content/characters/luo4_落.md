@@ -16,6 +16,7 @@ pinyin: 'luò'
 tone: 4
 hsk: {from: 3, to: 5}
 radical: '艹'
+factual_review: 'pending'
 ---
 
 

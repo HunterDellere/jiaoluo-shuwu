@@ -16,6 +16,7 @@ pinyin: 'sài wēng shī mǎ'
 sources:
   - 'Huáinánzǐ 淮南子, "Rén jiān xùn" 人间训 chapter (2nd century BCE) — original parable'
   - 'Liú Ān, court of the Han prince of Huainan — compiler'
+factual_review: 'pending'
 ---
 
 

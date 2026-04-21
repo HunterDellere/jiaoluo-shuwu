@@ -17,6 +17,7 @@ pinyin: 'yuè'
 tone: 4
 hsk: 1
 radical: '月'
+factual_review: 'pending'
 ---
 
 

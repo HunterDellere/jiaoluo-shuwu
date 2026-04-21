@@ -12,6 +12,7 @@ tags:
   - 'confucianism'
 updated: '2026-04-19'
 pinyin: 'dàodé'
+factual_review: 'pending'
 ---
 
 

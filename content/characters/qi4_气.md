@@ -17,6 +17,7 @@ tone: 4
 hsk: 3
 radical: '气'
 trad: '氣'
+factual_review: 'pending'
 ---
 
 

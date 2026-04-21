@@ -16,6 +16,7 @@ pinyin: 'guó'
 tone: 2
 hsk: 1
 radical: '囗'
+factual_review: 'pending'
 ---
 
 

@@ -17,6 +17,7 @@ pinyin: 'sè'
 tone: 4
 hsk: 2
 radical: '色'
+factual_review: 'pending'
 ---
 
 

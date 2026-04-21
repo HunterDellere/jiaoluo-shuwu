@@ -15,6 +15,7 @@ pinyin: 'mí tú zhī fǎn'
 sources:
   - 'Sān Guó Zhì 三国志 (Records of the Three Kingdoms), attributed to Chén Shòu 陈寿, 3rd century CE — earliest classical use of the idiom'
   - 'Zhōu Yì 周易 (Book of Changes), Fù 复 hexagram — philosophical root of the concept of return'
+factual_review: 'pending'
 ---
 
 <div class="shell">

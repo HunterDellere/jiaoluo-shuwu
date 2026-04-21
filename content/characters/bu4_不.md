@@ -16,6 +16,7 @@ pinyin: 'bù'
 tone: 4
 hsk: 1
 radical: '一'
+factual_review: 'pending'
 ---
 
 

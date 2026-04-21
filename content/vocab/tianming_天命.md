@@ -12,6 +12,7 @@ tags:
   - 'philosophy'
 updated: '2026-04-19'
 pinyin: 'tiānmìng'
+factual_review: 'pending'
 ---
 
 

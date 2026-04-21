@@ -15,6 +15,7 @@ pinyin: 'zǒu'
 tone: 3
 hsk: 1
 radical: '走'
+factual_review: 'pending'
 ---
 
 

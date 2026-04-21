@@ -9,20 +9,63 @@ const HZ_RE = /[\u4e00-\u9fff]/;
 
 
 /**
- * Render a small Sources block from frontmatter.sources (array of strings).
+ * Render a small Sources block from frontmatter. Merges fm.sources (general page
+ * sources) with fm.factual_sources (sources consulted for factual review).
  * Returns HTML block or empty string.
  */
 export function renderSourcesHtml(fm) {
-  if (!fm.sources || !Array.isArray(fm.sources) || fm.sources.length === 0) return '';
-  const items = fm.sources.map(s => `<li>${escapeHtmlInline(s)}</li>`).join('\n        ');
+  const general = Array.isArray(fm.sources) ? fm.sources : [];
+  const factual = Array.isArray(fm.factual_sources) ? fm.factual_sources : [];
+  if (general.length === 0 && factual.length === 0) return '';
+  // Render as a single list; factual-specific sources get a subtle prefix.
+  const seen = new Set();
+  const items = [];
+  for (const s of general) {
+    const k = String(s).trim();
+    if (seen.has(k) || !k) continue;
+    seen.add(k);
+    items.push(`<li>${escapeHtmlInline(k)}</li>`);
+  }
+  for (const s of factual) {
+    const k = String(s).trim();
+    if (seen.has(k) || !k) continue;
+    seen.add(k);
+    items.push(`<li>${escapeHtmlInline(k)}</li>`);
+  }
   return `
     <aside class="sources" aria-label="Sources">
       <span class="sources-label">Sources</span>
       <ul class="sources-list">
-        ${items}
+        ${items.join('\n        ')}
       </ul>
     </aside>`;
 }
+
+/**
+ * Render a review-status banner for pages whose factual claims haven't been
+ * verified yet. Inserted at the top of <main> so it's impossible to miss.
+ * Returns HTML block or empty string.
+ */
+export function renderReviewBanner(fm) {
+  const status = fm.factual_review;
+  if (status === 'verified' || !status) return '';
+  if (status === 'pending') {
+    return `
+    <div class="review-banner review-banner-pending" role="status">
+      <span class="rb-cn">审校中</span>
+      <span class="rb-en">Under factual review — component decomposition and etymology claims on this page are awaiting verification against Outlier and other sources. Corrections welcome.</span>
+    </div>`;
+  }
+  if (status === 'unverified') {
+    return `
+    <div class="review-banner review-banner-unverified" role="status">
+      <span class="rb-cn">未审校</span>
+      <span class="rb-en">Not yet reviewed — treat factual claims on this page as provisional.</span>
+    </div>`;
+  }
+  return '';
+}
+
 function escapeHtmlInline(s) {
   return String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
 }
