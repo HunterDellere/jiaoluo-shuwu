@@ -34,6 +34,18 @@ These are the tells of LLM-generic writing. Strip them when seen.
 - Body paragraphs: 2–5 sentences typical. Longer if the argument needs it.
 - Card definitions: 1–3 sentences. Examples carry the weight.
 
+## Topic page failure modes
+
+Topic pages fail differently from character pages. Character entries have clear etymology and compound structure to anchor them. Topic entries — religion, philosophy, history, daily life — can drift into survey-lecture register: facts arranged chronologically without an argument, every claim hedged, nothing at stake.
+
+Specific patterns to kill in topic entries:
+
+- **"Throughout history, X has been..."** — find the specific dynasty, text, or person.
+- **"This tradition has had a profound influence on..."** — name the influence and show it. A concrete example beats any number of influence-sentences.
+- **"Many scholars believe / debate / argue..."** — pick the most defensible reading and commit to it. If there's a genuine scholarly disagreement worth noting, name the sides and their reasoning, not the fact that disagreement exists.
+- **Chronological survey as structure.** A history section isn't just dates and dynasties in order. Lead with the thing that makes the history interesting, then give the facts that explain it.
+- **The closing "significance" paragraph.** Entries that end with a paragraph about why this topic matters haven't earned their landing. End on a concrete image, a quotation, a compound, or an observation — not a verdict.
+
 ## When in doubt
 
 Read the paragraph aloud. If it sounds like something a person who knows the material would actually say to you over coffee, keep it. If it sounds like a smooth stranger trying to sound knowledgeable, cut.

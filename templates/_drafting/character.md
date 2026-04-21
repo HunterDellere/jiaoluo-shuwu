@@ -82,6 +82,10 @@ After the frontmatter, output the full HTML body. Follow this exact structure:
   <main class="main">
 
     <!-- HERO -->
+    <!-- NOTE: the build auto-injects two elements you should NOT add manually:
+         1. <button class="audio-btn" data-audio="{{char}}"> — appended to .hero-pinyin
+         2. <div class="so-stage" data-char="{{char}}"> — stroke-order widget, appended after hero
+         Do not write these in the source file; the build adds them and check.mjs verifies their presence. -->
     <header class="hero">
       <div class="hero-inner">
         <div class="hero-glyph-col">

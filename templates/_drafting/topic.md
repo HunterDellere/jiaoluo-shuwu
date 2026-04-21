@@ -110,6 +110,26 @@ Tags must come from the controlled vocabulary in `content/_schema/tags.json`.
 - Scholarly but accessible — for a curious English reader learning Mandarin
 - Specific and committed prose — no hedging
 - Show the living language: modern usage, colloquial register, classical depth
+- Topic pages in particular: lead with argument, not survey. Name the emperor, the text, the year. End on a concrete image or quotation, not a verdict about significance.
+
+---
+
+## Exemplar: 禅宗 chán zōng (condensed)
+
+### Hero desc (from 禅宗):
+> The school of meditation and direct transmission — rejecting scripture, bypassing concepts, and insisting that the Buddha's mind is available right now, in this breath, in this gesture, in a single flash of recognition that cannot be taught but only pointed toward.
+
+### Opening scholar box (from 禅宗, Origins section):
+> Chan Buddhism names itself after 禅 chán — the Chinese rendering of Sanskrit *dhyāna* (meditation). The tradition traces its founding to **菩提达摩 Pútí Dámó** (Bodhidharma), an Indian or Central Asian monk who arrived in South China around 520 CE. The emperor Liang Wudi asked him: "I have built temples, copied sutras, and supported the sangha. What merit have I earned?" Bodhidharma replied: "None." The emperor asked: "Who stands before me?" Bodhidharma replied: "I don't know." He then retired to Shaolin Monastery, where he meditated facing a wall for nine years.
+>
+> This founding story encodes the Chan stance on received religion: sponsoring buildings and copying texts generates no merit because merit is not something accumulated externally. The "I don't know" response is not modesty but direct pointing to a mind that cannot be grasped conceptually.
+>
+> Chan's historical emergence is more complex than the legend suggests. The school crystallized in the late 6th and 7th centuries through the creative synthesis of Indian meditation traditions, Madhyamaka philosophy, and distinctly Chinese elements — particularly the Daoist valorization of spontaneity and the Confucian emphasis on practical cultivation over abstract doctrine.
+
+### Chengyu entry (from 禅宗):
+> **一花五叶** — "one flower, five leaves" — the single flower of Bodhidharma's transmission opening into five Chan lineages. The phrase is attributed to Bodhidharma himself in prophecy. Used to describe the diversification of a single tradition into distinct but related schools.
+
+Notice what this exemplar does: each paragraph leads with the concrete fact (the date, the exchange, the verse), then draws out the implication. Nothing is described as "profound" or "significant" — the prose lets the material earn that verdict.
 
 ---
 

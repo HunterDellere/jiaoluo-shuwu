@@ -6,7 +6,7 @@ Every character and vocab page carries a `factual_review` frontmatter field. It 
 - `pending` — claims have not yet been verified (default for backfilled pages)
 - `unverified` — treat claims as provisional
 
-A page with `status: complete` is only trustworthy to readers if `factual_review: verified`. The UI renders a banner on `pending` and `unverified` pages so readers know the state.
+A page with `status: complete` is only trustworthy to readers if `factual_review: verified`. The review state is **not shown on public pages** — it is admin-only, surfaced in the admin dashboard at `/pages/_admin/review.html`. There is no reader-facing banner; the status is purely an internal authoring signal.
 
 ---
 
