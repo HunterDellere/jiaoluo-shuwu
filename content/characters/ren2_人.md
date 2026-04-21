@@ -16,7 +16,9 @@ pinyin: 'rén'
 tone: 2
 hsk: 1
 radical: '人'
-factual_review: 'pending'
+factual_review: 'verified'
+factual_sources:
+  - 'Unihan'
 ---
 
 

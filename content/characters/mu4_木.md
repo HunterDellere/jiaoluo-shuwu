@@ -20,7 +20,9 @@ radical: '木'
 sources:
   - 'Shuōwén Jiězì 说文解字, Xǔ Shèn (c. 100 CE) — classic explication of 木 and its compounds'
   - 'Outlier Linguistic Solutions — oracle bone and bronze forms of 木'
-factual_review: 'pending'
+factual_review: 'verified'
+factual_sources:
+  - 'Unihan'
 ---
 
 

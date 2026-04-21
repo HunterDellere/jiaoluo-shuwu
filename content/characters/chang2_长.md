@@ -16,7 +16,9 @@ pinyin: 'cháng'
 tone: 2
 hsk: 1
 radical: '长'
-factual_review: 'pending'
+factual_review: 'verified'
+factual_sources:
+  - 'Unihan'
 ---
 
 

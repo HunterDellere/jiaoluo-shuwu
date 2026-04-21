@@ -15,7 +15,9 @@ pinyin: 'biàn'
 tone: 4
 hsk: 3
 radical: '又'
-factual_review: 'pending'
+factual_review: 'verified'
+factual_sources:
+  - 'Unihan'
 ---
 
 

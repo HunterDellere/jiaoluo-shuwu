@@ -15,7 +15,9 @@ pinyin: 'shí'
 tone: 2
 hsk: 1
 radical: '日'
-factual_review: 'pending'
+factual_review: 'verified'
+factual_sources:
+  - 'Unihan'
 ---
 
 

@@ -16,7 +16,9 @@ pinyin: 'qián'
 tone: 2
 hsk: 1
 radical: '钅'
-factual_review: 'pending'
+factual_review: 'verified'
+factual_sources:
+  - 'Unihan'
 ---
 
 

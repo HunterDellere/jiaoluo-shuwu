@@ -13,7 +13,9 @@ tags:
   - 'philosophy'
 updated: '2026-04-19'
 pinyin: 'xiào'
-factual_review: 'pending'
+factual_review: 'verified'
+factual_sources:
+  - 'Unihan'
 ---
 
 

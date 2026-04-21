@@ -15,7 +15,9 @@ pinyin: 'yǔ'
 tone: 3
 hsk: 2
 radical: '讠'
-factual_review: 'pending'
+factual_review: 'verified'
+factual_sources:
+  - 'Unihan'
 ---
 
 

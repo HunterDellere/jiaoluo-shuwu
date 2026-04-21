@@ -16,7 +16,9 @@ pinyin: 'tiān'
 tone: 1
 hsk: 1
 radical: '大'
-factual_review: 'pending'
+factual_review: 'verified'
+factual_sources:
+  - 'Unihan'
 ---
 
 

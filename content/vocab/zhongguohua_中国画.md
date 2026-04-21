@@ -12,7 +12,9 @@ tags:
   - 'history'
 updated: '2026-04-19'
 pinyin: 'zhōng guó huà'
-factual_review: 'pending'
+factual_review: 'verified'
+factual_sources:
+  - 'Unihan'
 ---
 
 

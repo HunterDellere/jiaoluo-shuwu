@@ -16,7 +16,9 @@ pinyin: 'chī'
 tone: 1
 hsk: 1
 radical: '口'
-factual_review: 'pending'
+factual_review: 'verified'
+factual_sources:
+  - 'Unihan'
 ---
 
 

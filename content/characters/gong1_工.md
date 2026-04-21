@@ -15,7 +15,9 @@ pinyin: 'gōng'
 tone: 1
 hsk: 2
 radical: '工'
-factual_review: 'pending'
+factual_review: 'verified'
+factual_sources:
+  - 'Unihan'
 ---
 
 

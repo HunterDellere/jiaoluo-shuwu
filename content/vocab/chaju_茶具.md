@@ -18,7 +18,9 @@ related:
   - 'vocab/gongfucha_工夫茶'
   - 'culinary/topic_cha'
   - 'culture/topic_cha_wenhua'
-factual_review: 'pending'
+factual_review: 'verified'
+factual_sources:
+  - 'Unihan'
 ---
 
 

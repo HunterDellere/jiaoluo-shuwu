@@ -15,7 +15,9 @@ pinyin: 'dì'
 tone: 4
 hsk: 1
 radical: '土'
-factual_review: 'pending'
+factual_review: 'verified'
+factual_sources:
+  - 'Unihan'
 ---
 
 

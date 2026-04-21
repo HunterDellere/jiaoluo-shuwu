@@ -15,7 +15,9 @@ pinyin: 'shǒu'
 tone: 3
 hsk: 2
 radical: '手'
-factual_review: 'pending'
+factual_review: 'verified'
+factual_sources:
+  - 'Unihan'
 ---
 
 

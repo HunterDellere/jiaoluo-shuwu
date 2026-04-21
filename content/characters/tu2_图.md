@@ -16,7 +16,9 @@ pinyin: 'tú'
 tone: 2
 hsk: 3
 radical: '囗'
-factual_review: 'pending'
+factual_review: 'verified'
+factual_sources:
+  - 'Unihan'
 ---
 
 

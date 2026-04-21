@@ -16,7 +16,9 @@ pinyin: 'kèqi'
 sources:
   - 'Yang, Mayfair Mei-hui — Gifts, Favors and Banquets: The Art of Social Relationships in China (1994)'
   - 'Hsu, Francis L. K. — Americans and Chinese: Passage to Differences (1981)'
-factual_review: 'pending'
+factual_review: 'verified'
+factual_sources:
+  - 'Unihan'
 ---
 
 

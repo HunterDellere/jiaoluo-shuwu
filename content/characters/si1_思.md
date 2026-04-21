@@ -15,7 +15,9 @@ pinyin: 'sī'
 tone: 1
 hsk: 3
 radical: '心'
-factual_review: 'pending'
+factual_review: 'verified'
+factual_sources:
+  - 'Unihan'
 ---
 
 

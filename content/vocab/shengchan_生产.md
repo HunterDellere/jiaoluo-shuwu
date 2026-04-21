@@ -16,7 +16,9 @@ pinyin: 'shēngchǎn'
 related:
   - 'characters/chan3_产'
   - 'vocab/chanpin_产品'
-factual_review: 'pending'
+factual_review: 'verified'
+factual_sources:
+  - 'Unihan'
 ---
 
 

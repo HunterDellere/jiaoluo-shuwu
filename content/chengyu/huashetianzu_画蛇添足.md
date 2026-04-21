@@ -15,7 +15,9 @@ pinyin: 'huà shé tiān zú'
 sources:
   - 'Zhànguó Cè 战国策, "Qí cè èr" 齐策二 (Warring States Strategies, late Warring States period) — original parable'
   - 'Outlier Linguistic Solutions — etymology of 画 and 蛇'
-factual_review: 'pending'
+factual_review: 'verified'
+factual_sources:
+  - 'Unihan'
 ---
 
 

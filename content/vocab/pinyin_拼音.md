@@ -12,7 +12,9 @@ tags:
   - 'writing'
   - 'literacy'
 updated: '2026-04-20'
-factual_review: 'pending'
+factual_review: 'verified'
+factual_sources:
+  - 'Unihan'
 ---
 
 

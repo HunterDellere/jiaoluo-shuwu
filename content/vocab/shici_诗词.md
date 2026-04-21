@@ -12,7 +12,9 @@ tags:
   - 'arts'
 updated: '2026-04-19'
 pinyin: 'shī cí'
-factual_review: 'pending'
+factual_review: 'verified'
+factual_sources:
+  - 'Unihan'
 ---
 
 

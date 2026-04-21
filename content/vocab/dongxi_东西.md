@@ -12,7 +12,9 @@ tags:
   - 'things'
 updated: '2026-04-18'
 pinyin: 'dōngxi'
-factual_review: 'pending'
+factual_review: 'verified'
+factual_sources:
+  - 'Unihan'
 ---
 
 

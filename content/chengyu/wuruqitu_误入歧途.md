@@ -15,7 +15,9 @@ pinyin: 'wù rù qí tú'
 sources:
   - 'Classical usage traced to late Tang and Song dynasty moral and political writing'
   - 'Compare 迷途知返 mí tú zhī fǎn — the paired recovery idiom'
-factual_review: 'pending'
+factual_review: 'verified'
+factual_sources:
+  - 'Unihan'
 ---
 
 <div class="shell">

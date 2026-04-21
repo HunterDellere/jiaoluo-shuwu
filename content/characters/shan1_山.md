@@ -16,7 +16,9 @@ pinyin: 'shān'
 tone: 1
 hsk: 1
 radical: '山'
-factual_review: 'pending'
+factual_review: 'verified'
+factual_sources:
+  - 'Unihan'
 ---
 
 

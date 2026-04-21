@@ -16,7 +16,9 @@ pinyin: 'jiǎo'
 tone: 3
 hsk: {from: 2, to: 4}
 radical: '角'
-factual_review: 'pending'
+factual_review: 'verified'
+factual_sources:
+  - 'Unihan'
 ---
 
 

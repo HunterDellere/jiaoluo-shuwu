@@ -17,7 +17,9 @@ pinyin: 'zhī'
 tone: 1
 hsk: 5
 radical: '丿'
-factual_review: 'pending'
+factual_review: 'verified'
+factual_sources:
+  - 'Unihan'
 ---
 
 
