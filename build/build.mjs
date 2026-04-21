@@ -331,21 +331,38 @@ function escapeAttr(s) {
     .replace(/</g, '&lt;');
 }
 
-function appendGloss(baseTitle, fm) {
-  if (baseTitle.includes('—') || baseTitle.includes('·')) return baseTitle;
+function extractEnglishGloss(fm) {
   // Prefer the English portion of the title field: "CN · EN [— extra]"
   if (fm.title && fm.title.includes('·')) {
     const afterDot = fm.title.split('·').slice(1).join('·').trim();
     const enGloss = afterDot.split('—')[0].trim();
-    if (enGloss && enGloss.length <= 55) return `${baseTitle} — ${enGloss}`;
+    if (enGloss && enGloss.length <= 55) return enGloss;
   }
   // Fall back to a gloss extracted from the desc first line
   if (fm.desc) {
     const byDash = fm.desc.split(' — ')[0].trim();
     const gloss = byDash.length <= 50 ? byDash : fm.desc.split(',')[0].trim();
-    if (gloss && gloss.length <= 55) return `${baseTitle} — ${gloss}`;
+    if (gloss && gloss.length <= 55) return gloss;
   }
-  return baseTitle;
+  return '';
+}
+
+function appendGloss(baseTitle, fm) {
+  if (baseTitle.includes('—') || baseTitle.includes('·')) return baseTitle;
+  const gloss = extractEnglishGloss(fm);
+  return gloss ? `${baseTitle} — ${gloss}` : baseTitle;
+}
+
+function injectTopicHeroEn(body, fm) {
+  if (!body.includes('topic-hero-title-py')) return body;
+  if (body.includes('topic-hero-en')) return body;
+  const gloss = extractEnglishGloss(fm);
+  if (!gloss) return body;
+  const escaped = gloss.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+  return body.replace(
+    /(<span class="topic-hero-title-py">[^<]*<\/span>)/,
+    `$1\n      <span class="topic-hero-en">${escaped}</span>`,
+  );
 }
 
 function renderPage(fm, body, slug, category) {
@@ -368,7 +385,7 @@ function renderPage(fm, body, slug, category) {
     .replace('{{{ogTags}}}', ogTags)
     .replace('{{{favicon}}}', favicon)
     .replace('{{{canonicalUrl}}}', canonicalUrl)
-    .replace('{{{pageBody}}}', body.trim());
+    .replace('{{{pageBody}}}', injectTopicHeroEn(body, fm).trim());
 
   return page;
 }

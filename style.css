@@ -538,6 +538,14 @@ h1, h2, h3, .section-head { text-wrap: balance; }
   color: var(--ochre);
   letter-spacing: 0.07em;
   display: block;
+  margin-bottom: 0.35rem;
+}
+.topic-hero-en {
+  display: block;
+  font-size: 1.1rem;
+  font-style: italic;
+  color: var(--ink-3);
+  line-height: 1.5;
   margin-bottom: 0.85rem;
 }
 .topic-hero-desc { font-size: 1.08rem; font-style: italic; color: var(--ink-3); line-height: 1.6; margin-bottom: 1rem; text-wrap: pretty; max-width: 60ch; }
