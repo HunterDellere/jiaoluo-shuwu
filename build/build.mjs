@@ -332,20 +332,27 @@ function escapeAttr(s) {
 }
 
 function appendGloss(baseTitle, fm) {
-  if (!fm.desc) return baseTitle;
   if (baseTitle.includes('—') || baseTitle.includes('·')) return baseTitle;
-  // Take text before " — " if present, otherwise before the first comma
-  const byDash = fm.desc.split(' — ')[0].trim();
-  const gloss = byDash.length <= 50 ? byDash : fm.desc.split(',')[0].trim();
-  if (!gloss || gloss.length > 55) return baseTitle;
-  return `${baseTitle} — ${gloss}`;
+  // Prefer the English portion of the title field: "CN · EN [— extra]"
+  if (fm.title && fm.title.includes('·')) {
+    const afterDot = fm.title.split('·').slice(1).join('·').trim();
+    const enGloss = afterDot.split('—')[0].trim();
+    if (enGloss && enGloss.length <= 55) return `${baseTitle} — ${enGloss}`;
+  }
+  // Fall back to a gloss extracted from the desc first line
+  if (fm.desc) {
+    const byDash = fm.desc.split(' — ')[0].trim();
+    const gloss = byDash.length <= 50 ? byDash : fm.desc.split(',')[0].trim();
+    if (gloss && gloss.length <= 55) return `${baseTitle} — ${gloss}`;
+  }
+  return baseTitle;
 }
 
 function renderPage(fm, body, slug, category) {
   const filename = `${slug}.html`;
   const metaComment = buildMetaComment(fm);
   const rawTitle = fm.pageTitle || buildPageTitle(fm);
-  const needsGloss = fm.type === 'character' || fm.type === 'vocab' || fm.type === 'grammar';
+  const needsGloss = fm.type === 'character' || fm.type === 'vocab' || fm.type === 'grammar' || fm.type === 'topic';
   const pageTitle = needsGloss ? appendGloss(rawTitle, fm) : rawTitle;
   const metaDesc = fm.metaDesc || fm.desc || '';
   const jsonLd = buildJsonLd(fm, slug, category);
