@@ -12,6 +12,7 @@ tags:
   - 'philosophy'
 updated: '2026-04-18'
 pinyin: 'Yègōng hào lóng'
+factual_review: 'pending'
 ---
 
 

@@ -16,6 +16,7 @@ pinyin: 'kè zhōu qiú jiàn'
 sources:
   - 'Lǚshì Chūnqiū 吕氏春秋, "Chá jīn" 察今 chapter (3rd century BCE) — original parable'
   - 'Lǚ Bùwéi, compilation patron, chancellor of Qin'
+factual_review: 'pending'
 ---
 
 

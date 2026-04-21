@@ -10,10 +10,11 @@ Run locally: `python3 -m http.server 8080` from the repo root (after running `np
 ## Build System
 
 ```
-npm run build      # generate pages/ + data/ from content/
-npm run validate   # schema-check all content files
-npm run check      # post-build invariants + link/anchor resolution + orphan detection
-npm run verify     # validate + build + check (run before pushing)
+npm run build           # generate pages/ + data/ from content/
+npm run validate        # schema-check all content files
+npm run validate:facts  # cross-check factual claims against vendored reference data
+npm run check           # post-build invariants + link/anchor resolution + orphan detection + validate:facts
+npm run verify          # validate + build + check (run before pushing)
 ```
 
 Activate the pre-push hook once per clone (blocks pushes that would break the live site):
@@ -303,6 +304,30 @@ The TOC link must point to `#etymology`. The IntersectionObserver in `toc-scroll
 ```
 
 For character stubs use `.hero` + `.hero-glyph` / `.hero-pinyin` / `.hero-en` / `.hero-chips` instead of `.topic-hero`.
+
+---
+
+## Factual Review
+
+Every character and vocab page carries a `factual_review` frontmatter field (`verified` / `pending` / `unverified`). Backfilled pages default to `pending` — the UI shows a banner so readers know the state.
+
+`npm run validate:facts` (part of `npm run check`) automatically:
+- Cross-checks frontmatter `radical`, `pinyin`, `tone` against `data/_reference/hanzi-facts.json` (a site-filtered subset of Unihan + CC-CEDICT + IDS data).
+- Extracts every `X = Y + Z` claim from etymology prose and verifies the components match the IDS decomposition, with radical-variant and simp↔trad equivalence applied.
+- Checks `phonetic` claims against the reference phonetic component.
+- Fails the build if a `status: complete` character/vocab page is missing `factual_review`, or if `factual_review: verified` lacks `factual_sources`.
+
+Before flipping a page from `pending` to `verified`: follow the checklist in `templates/_drafting/factual-review.md`, populate `factual_sources` (e.g. `['Outlier', 'Wenlin', 'Shuōwén']`), and bump `updated`.
+
+### Reference data is durable (no network dependency at build time)
+
+The raw upstream source files (makemeahanzi dictionary, OpenCC simp↔trad tables) are **committed to this repo** under `data/_reference/upstream/` with license files and a `MANIFEST.json` that records each file's source URL, fetch date, and SHA256. The build only reads these local files — upstream repositories going away does not break the build.
+
+- `npm run refresh:reference` — regenerate `hanzi-facts.json` and `simp-trad-pairs.json` from the committed upstream files (offline, reproducible).
+- `npm run refresh:reference -- --fetch` — re-download raw upstream files first (with retry/backoff), then regenerate. Updates manifest SHA256s.
+- `npm run refresh:reference -- --verify` — verify committed upstream files match the SHA256s in the manifest. Use in CI to detect tampering.
+
+`validate-facts.mjs` also emits a coverage WARNing when content uses hanzi that aren't in `hanzi-facts.json`, so if new content drifts beyond the vendored subset, you'll notice at check-time rather than silently lose validation coverage.
 
 ---
 

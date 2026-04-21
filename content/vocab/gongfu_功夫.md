@@ -12,6 +12,7 @@ tags:
   - 'martial-arts'
 updated: '2026-04-18'
 pinyin: 'gōngfu'
+factual_review: 'pending'
 ---
 
 

@@ -90,6 +90,16 @@
       "items": { "type": "string", "minLength": 1 },
       "description": "Optional list of sources cited; rendered as a small footer block on the page"
     },
+    "factual_review": {
+      "type": "string",
+      "enum": ["verified", "pending", "unverified"],
+      "description": "Review status for factual claims. 'verified' requires non-empty factual_sources. 'pending' marks the page as under review (UI shows a chip). Character/vocab pages with status:complete must set this field."
+    },
+    "factual_sources": {
+      "type": "array",
+      "items": { "type": "string", "minLength": 1 },
+      "description": "Sources consulted when reviewing factual claims (e.g. 'Outlier', 'Wenlin', 'Shuōwén', 'Baxter-Sagart OC', 'CC-CEDICT'). Required when factual_review: verified."
+    },
     "related": {
       "type": "array",
       "items": { "type": "string", "minLength": 1 },

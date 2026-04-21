@@ -12,6 +12,7 @@ tags:
   - 'culture'
 updated: '2026-04-18'
 pinyin: 'guānxi'
+factual_review: 'pending'
 ---
 
 

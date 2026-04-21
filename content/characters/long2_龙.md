@@ -15,6 +15,7 @@ pinyin: 'lóng'
 tone: 2
 hsk: 3
 radical: '龙'
+factual_review: 'pending'
 ---
 
 

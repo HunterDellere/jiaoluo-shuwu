@@ -12,6 +12,7 @@ tags:
   - 'education'
 updated: '2026-04-19'
 pinyin: 'pǔtōnghuà'
+factual_review: 'pending'
 ---
 
 

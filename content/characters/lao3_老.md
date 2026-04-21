@@ -17,6 +17,7 @@ pinyin: 'lǎo'
 tone: 3
 hsk: 2
 radical: '老'
+factual_review: 'pending'
 ---
 
 

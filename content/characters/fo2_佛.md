@@ -16,6 +16,7 @@ pinyin: 'fó'
 tone: 2
 hsk: 5
 radical: '亻'
+factual_review: 'pending'
 ---
 
 

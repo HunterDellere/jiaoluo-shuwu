@@ -16,6 +16,7 @@ pinyin: 'hǎo'
 tone: 3
 hsk: 1
 radical: '女'
+factual_review: 'pending'
 ---
 
 

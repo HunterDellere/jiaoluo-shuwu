@@ -16,6 +16,7 @@ pinyin: 'nián'
 tone: 2
 hsk: 1
 radical: '干'
+factual_review: 'pending'
 ---
 
 

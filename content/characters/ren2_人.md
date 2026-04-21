@@ -16,6 +16,7 @@ pinyin: 'rén'
 tone: 2
 hsk: 1
 radical: '人'
+factual_review: 'pending'
 ---
 
 

@@ -17,6 +17,7 @@ pinyin: 'zhōng'
 tone: 1
 hsk: 1
 radical: '丨'
+factual_review: 'pending'
 ---
 
 

@@ -16,6 +16,7 @@ pinyin: 'jiā'
 tone: 1
 hsk: 1
 radical: '宀'
+factual_review: 'pending'
 ---
 
 

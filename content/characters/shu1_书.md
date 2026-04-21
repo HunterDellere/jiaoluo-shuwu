@@ -16,6 +16,7 @@ pinyin: 'shū'
 tone: 1
 hsk: {from: 1, to: 3}
 radical: '乛'
+factual_review: 'pending'
 ---
 
 

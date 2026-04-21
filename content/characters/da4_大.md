@@ -16,6 +16,7 @@ pinyin: 'dà'
 tone: 4
 hsk: 1
 radical: '大'
+factual_review: 'pending'
 ---
 
 

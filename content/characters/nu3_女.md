@@ -16,6 +16,7 @@ pinyin: 'nǚ'
 tone: 3
 hsk: 2
 radical: '女'
+factual_review: 'pending'
 ---
 
 

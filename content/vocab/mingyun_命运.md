@@ -12,6 +12,7 @@ tags:
   - 'cosmology'
 updated: '2026-04-19'
 pinyin: 'mìngyùn'
+factual_review: 'pending'
 ---
 
 
@@ -77,7 +78,7 @@ pinyin: 'mìngyùn'
     <div class="scholar" data-glyph="命">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
       <p><strong>命 mìng</strong> = 口 kǒu (mouth; command) + 令 lìng (to order; to decree). An authoritative verbal decree. In its deepest sense, 命 is the decree issued at birth — the mandate that defines one's life-conditions, allotted lifespan, and station. 天命 tiānmìng (Heaven's mandate) is both a cosmological and political concept: Heaven decrees what must be, and the emperor's legitimacy rests on holding that mandate.</p>
-      <p><strong>运 yùn</strong> = 辶 (movement radical: to move; a path) + 军 jūn (army; troops moving together). Movement of forces in coordination. 运 captures the dynamic, mobile quality of fortune — not a fixed decree but a constantly moving wheel. 运气 yùnqi (luck) is fortune in motion; 运动 yùndòng (movement; exercise) is bodies in coordinated motion.</p>
+      <p><strong>运 yùn</strong> (simplified from 運) = 辶 (movement radical: to move; a path) + 云 yún (cloud — a shape-based replacement of the traditional 軍). The traditional 運 = 辶 + 軍 (jūn, army; troops moving together) carried the image of military forces moving in coordination — that semantic root still underwrites the modern reading. The simplification swapped the dense 軍 for the lighter 云, and the visual character today shows 辶 + 云. 运 captures the dynamic, mobile quality of fortune — not a fixed decree but a constantly moving wheel. 运气 yùnqi (luck) is fortune in motion; 运动 yùndòng (movement; exercise) is bodies in coordinated motion.</p>
       <p>命运 pairs the fixed (decreed) and the moving (circulating) — fate as both what has been issued from above and what keeps cycling through. The word holds both determinism and dynamism.</p>
     </div>
 

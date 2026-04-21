@@ -18,6 +18,7 @@ tone: 3
 hsk: 3
 radical: '亠'
 trad: '產'
+factual_review: 'pending'
 ---
 
 

@@ -13,6 +13,7 @@ tags:
   - 'philosophy'
 updated: '2026-04-19'
 pinyin: 'lǐ'
+factual_review: 'pending'
 ---
 
 

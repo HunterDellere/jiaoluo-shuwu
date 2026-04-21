@@ -16,6 +16,7 @@ pinyin: 'xīn'
 tone: 1
 hsk: 2
 radical: '心'
+factual_review: 'pending'
 ---
 
 

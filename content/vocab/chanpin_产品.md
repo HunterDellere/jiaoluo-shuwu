@@ -15,6 +15,7 @@ pinyin: 'chǎnpǐn'
 related:
   - 'characters/chan3_产'
   - 'characters/pin3_品'
+factual_review: 'pending'
 ---
 
 

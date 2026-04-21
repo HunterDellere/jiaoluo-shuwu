@@ -16,6 +16,7 @@ pinyin: 'shì'
 tone: 4
 hsk: 1
 radical: '日'
+factual_review: 'pending'
 ---
 
 

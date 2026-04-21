@@ -16,6 +16,7 @@ pinyin: 'zì'
 tone: 4
 hsk: 1
 radical: '子'
+factual_review: 'pending'
 ---
 
 

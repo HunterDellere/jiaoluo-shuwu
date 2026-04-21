@@ -16,6 +16,7 @@ pinyin: 'yǒu'
 tone: 3
 hsk: 1
 radical: '月'
+factual_review: 'pending'
 ---
 
 

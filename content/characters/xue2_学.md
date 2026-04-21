@@ -17,6 +17,7 @@ pinyin: 'xué'
 tone: 2
 hsk: 1
 radical: '子'
+factual_review: 'pending'
 ---
 
 
