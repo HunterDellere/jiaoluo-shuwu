@@ -674,11 +674,11 @@ function openDrawer(path) {
     ? '<ul class="inbound-list">' + data.inbound.map(function(p){
         var e = getEntries()[p];
         var label = e ? (e.char || e.title || p) : p;
-        return '<li><a href="' + esc(p.replace(/^pages\//,'../')) + '" target="_blank">' + esc(label) + '</a></li>';
+        return '<li><a href="' + esc(p.replace(/^pages\\//,'../')) + '" target="_blank">' + esc(label) + '</a></li>';
       }).join('') + '</ul>'
     : '<span style="color:var(--adm-ink3);font-size:0.8rem">None found.</span>';
 
-  var contentPath = path.replace(/^pages\//,'content/').replace(/\.html$/,'.md');
+  var contentPath = path.replace(/^pages\\//,'content/').replace(/\\.html$/,'.md');
   var ageDays = data.updated ? Math.round((Date.now() - new Date(data.updated)) / 86400000) : null;
   var ageStr  = ageDays !== null ? ageDays + ' days ago' : '—';
 
@@ -711,11 +711,11 @@ function openDrawer(path) {
 
     '<div class="drawer-actions">' +
       '<a class="dact" href="https://github.com/HunterDellere/jiaoluo-shuwu/blob/main/' + esc(contentPath) + '" target="_blank" rel="noopener">Edit on GitHub ↗</a>' +
-      '<a class="dact" href="' + esc(path.replace(/^pages\//,'../')) + '" target="_blank" rel="noopener">View page ↗</a>' +
+      '<a class="dact" href="' + esc(path.replace(/^pages\\//,'../')) + '" target="_blank" rel="noopener">View page ↗</a>' +
       (!resolvedNow
-        ? '<button class="dact dact-resolve" onclick="markResolved(\'' + escapeSingleQuote(path) + '\',\'\')">Mark resolved</button>'
-        : '<button class="dact" onclick="markUnresolved(\'' + escapeSingleQuote(path) + '\')">Unmark resolved</button>') +
-      '<button class="dact" onclick="copyDrawerFindings(\'' + escapeSingleQuote(path) + '\')">Copy findings</button>' +
+        ? '<button class="dact dact-resolve" onclick="markResolved(\\'' + escapeSingleQuote(path) + '\\',\\'\\')">Mark resolved</button>'
+        : '<button class="dact" onclick="markUnresolved(\\'' + escapeSingleQuote(path) + '\\')">Unmark resolved</button>') +
+      '<button class="dact" onclick="copyDrawerFindings(\\'' + escapeSingleQuote(path) + '\\')">Copy findings</button>' +
     '</div>';
 
   overlay.classList.add('open');
