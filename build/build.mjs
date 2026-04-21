@@ -221,6 +221,7 @@ function buildMetaComment(fm) {
 
 function buildPageTitle(fm) {
   if (fm.type === 'character') return `${fm.char} ${fm.pinyin}`;
+  if (fm.type === 'hub' && fm.title) return fm.title.split('—')[0].trim();
   if (fm.title) return fm.title.split('·')[0].trim();
   return fm.title || '';
 }
