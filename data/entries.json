@@ -1,5 +1,26 @@
 [
   {
+    "path": "pages/characters/qi2_其.html",
+    "type": "character",
+    "category": "characters",
+    "title": "其 · its, that, their",
+    "desc": "A winnowing basket that became the pronoun holding classical Chinese together — the silent 'its' behind thousands of literary phrases.",
+    "tags": [
+      "grammar",
+      "classical",
+      "literary",
+      "particle",
+      "language"
+    ],
+    "status": "complete",
+    "char": "其",
+    "pinyin": "qí",
+    "tone": 2,
+    "hsk": 4,
+    "radical": "八",
+    "updated": "2026-04-22"
+  },
+  {
     "path": "pages/characters/chan3_产.html",
     "type": "character",
     "category": "characters",
