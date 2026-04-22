@@ -17,16 +17,16 @@
     hubs:       { cn: "读径", py: "dú jìng",  en: "Reading Paths",       color: "var(--cat-hubs)",       desc: "Curated reading paths through thematic clusters." }
   };
 
-  // Three families: Language → Topics → Hubs.
+  // Three families: Collections → Topics → Language.
   // Topics are clustered thematically: thought → place/time → lived → making.
-  // Chengyu moves to Hubs because it reads as a curated collection alongside tea.
+  // Chengyu lives in Collections because it reads as a curated collection alongside tea.
   const CAT_ORDER = [
-    "characters","vocab","grammar",
+    "chengyu","hubs",
     "philosophy","religion",
     "history","geography",
     "culture","daily","culinary",
     "arts","science",
-    "chengyu","hubs",
+    "characters","vocab","grammar",
     "hsk"
   ];
 
