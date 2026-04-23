@@ -70,7 +70,7 @@ content_sources:
       <span class="topic-hero-eyebrow">Vocabulary · 词汇 cíhuì</span>
       <h1 class="topic-hero-title">道德</h1>
       <span class="topic-hero-title-py">dào dé</span>
-      <p class="topic-hero-desc">The compound at the center of Chinese moral philosophy — the Way and its virtue, inseparable and mutually defining. In modern Chinese, the everyday word for "morality." In its etymology, a complete theory of what it means to live well.</p>
+      <p class="topic-hero-desc">The compound at the center of Chinese moral philosophy — the Way and its virtue, inseparable and mutually defining. In modern Chinese the everyday word for "morality," but the etymology encodes a specific claim: acting rightly means walking the path, not following a list of rules.</p>
     </header>
 
     <!-- ── ETYMOLOGY ── -->
