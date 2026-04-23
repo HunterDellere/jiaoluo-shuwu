@@ -75,7 +75,7 @@ content_sources:
 
     <div class="scholar" data-glyph="品">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
-      <p>品 is composed of three <strong>口 kǒu</strong> (mouth) characters in a triangular arrangement: one on top, two below. In Chinese character construction, tripling a component signals abundance, multiplicity, or collective activity. Three mouths together suggest: many people speaking of something, many instances of a thing being compared, the act of sampling and commenting — evaluation through repeated experience.</p>
+      <p>品 is composed of three <strong>口 kǒu</strong> (mouth) characters in a triangular arrangement: one on top, two below. In Chinese character construction, tripling a component signals abundance, multiplicity, or collective activity. Three mouths together suggest many people speaking of something, many instances of a thing being compared, the act of sampling and evaluating through repeated experience.</p>
       <p>The oracle-bone form shows a similar stacked triple structure, sometimes interpreted as three vessels or three distinct objects laid out for comparison. The core meaning has always been about plurality leading to classification: when you have many things, you sort them; when you sort them, you grade them; when you grade them, you evaluate character and quality.</p>
       <p>品 never simplified — the same character in both simplified and traditional script, which is rare among common characters. The symmetrical structure may have made it resistant to abbreviation.</p>
     </div>
@@ -88,7 +88,7 @@ content_sources:
       <p><strong>Article / product / item (noun).</strong> 产品 (manufactured product), 商品 (commodity), 食品 (foodstuff), 药品 (medicine/drug). In commerce and manufacturing, 品 is the suffix that turns a category into a class of goods.</p>
       <p><strong>Grade / rank / quality level (noun).</strong> Classical Chinese had an official grading system from 一品 to 九品 (first rank to ninth rank) for imperial officials. This ranking sense persists: 上品 (top grade), 下品 (low grade), 极品 (peak grade, now colloquially "excellent" or sarcastically "outrageous").</p>
       <p><strong>Character / moral quality (noun).</strong> 人品 (a person's character), 品德 (moral character), 品行 (conduct, behavior). The evaluative dimension of 品 applies directly to people: to assess someone's 品 is to assess the whole of their moral being.</p>
-      <p><strong>To taste / to savor / to evaluate slowly (verb).</strong> 品茶 (to taste tea), 品酒 (to taste wine), 品味 (to savor, to have taste). As a verb, 品 implies slow, discerning engagement — not gulping but considering.</p>
+      <p><strong>To taste / to savor / to evaluate slowly (verb).</strong> 品茶 (to taste tea), 品酒 (to taste wine), 品味 (to savor, to have taste). As a verb, 品 implies slow, discerning engagement: not gulping but considering.</p>
     </div>
 
     <span class="section-anchor" id="compounds"></span>
@@ -169,7 +169,7 @@ content_sources:
       <div class="scholar-label">茶道智慧 chádào zhìhuì · Tea Ceremony Insight</div>
       <p>品茶 (pǐn chá) — to taste tea — is one of the canonical uses of 品 as a verb, and it illustrates the full weight of the character. In gōngfū chá (功夫茶) culture, the tasting cup is tiny specifically to encourage this kind of slow, conscious sampling: you do not drink, you 品.</p>
       <p>The progression: 闻 (wén, smell), then 观色 (guān sè, observe the color), then 品 (slowly taste, evaluate). Three stages; three mouths. The character encodes the ritual in its structure.</p>
-      <p>品 extends to any act of discerning appreciation: 品酒 (taste wine), 品书 (read appreciatively), 品乐 (listen to music with attention). Wherever the character appears as a verb, it means to engage slowly and evaluatively — the opposite of consuming.</p>
+      <p>品 extends to any act of discerning appreciation: 品酒 (taste wine), 品书 (read appreciatively), 品乐 (listen to music with attention). Wherever the character appears as a verb, slow and evaluative engagement is implied.</p>
     </div>
 
     <span class="section-anchor" id="chengyu"></span>
