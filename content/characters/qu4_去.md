@@ -102,9 +102,9 @@ content_review: 'pending'
 
     <div class="scholar" data-glyph="去">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
-      <p>The oracle bone and bronze inscription forms of 去 show a person (大 dà — a figure with outstretched arms) departing from an enclosed space or container (口 kǒu — an opening, a hole). The upper part is a person; the lower part is the space being left behind. The character encodes the moment of departure: a person moving out of a contained space. This is why 去 from its earliest use carries both senses that remain today — to leave a specific place, and to go toward a destination.</p>
-      <p>The modern decomposition 土 (earth/soil) + 厶 (a private mark or enclosure) reflects later scribal regularization rather than the original pictographic intent. The Shuōwén Jiězì classifies 去 under 去 itself (as its own radical group) and defines it as "to part from; to leave." The contrast with 来 lái was built into the grammar from the classical period: 来 = toward here; 去 = away from here. The two verbs are grammatically opposed and semantically inseparable.</p>
-      <p>In traditional four-tone systems of Chinese phonology, 去声 qùshēng (the departing tone) was named after this character — the fourth tone in Mandarin inherits the name 去声, the "going" or "departing" tone. Tone 4, which falls sharply downward in pitch, was called the departing tone because it was felt to move away, to leave the baseline. 去 lends its name to the very tonal system that governs its pronunciation.</p>
+      <p>The oracle bone and bronze inscription forms of 去 show a person (大 dà, a figure with outstretched arms) departing from an enclosed space or container (口 kǒu, an opening or hole). The upper part is a person; the lower part is the space being left behind. The character encodes the moment of departure: a person moving out of a contained space. From its earliest use, 去 carries both senses that remain today — to leave a specific place, and to go toward a destination.</p>
+      <p>The modern decomposition 土 (earth/soil) + 厶 (a private mark or enclosure) reflects later scribal regularization rather than the original pictographic intent. The Shuōwén Jiězì classifies 去 under its own radical group and defines it as "to part from; to leave." The contrast with 来 lái was built into the grammar from the classical period: 来 = toward here; 去 = away from here. The two verbs are grammatically opposed and semantically inseparable.</p>
+      <p>In traditional Chinese phonology, 去声 qùshēng (the departing tone) was named after this character. The fourth tone in Mandarin inherits that name because tone 4, falling sharply downward in pitch, was felt to move away from the baseline. 去 lends its name to the very tonal system that governs its pronunciation.</p>
     </div>
 
     <!-- ── DEPARTURE & GOING ── -->
@@ -213,8 +213,8 @@ content_review: 'pending'
 
     <div class="scholar" data-glyph="去">
       <div class="scholar-label">构词洞见 gòucí dòngjiàn · 去 and the Language of Loss</div>
-      <p>The spatial logic of 去 — things moving away — extends naturally into loss, the past, and death. What has gone cannot be retrieved. 过去 guòqù (the past) is literally "what has passed away" — time that has moved beyond the speaker's reach. 去世 qùshì (to pass away; to die) is the most common and respectful euphemism for death in standard Mandarin: the person has "gone from the world," departed from the living plane. 离去 líqù (to depart; to leave forever) carries the same weight of irreversible removal.</p>
-      <p>This is the emotional register that distinguishes 去 from the neutral verb 走 zǒu (to leave; to go). 走 is the mechanical act of leaving. 去 is departure framed relative to the speaker — something has moved away from where you are. When someone dies, they have 去世 (departed the world); when a relationship ends, the other person has 离去 (left). The speaker remains; the other has gone.</p>
+      <p>The spatial logic of 去 extends naturally into loss, the past, and death. What has gone cannot be retrieved. 过去 guòqù (the past) is literally "what has passed away," time that has moved beyond the speaker's reach. 去世 qùshì (to pass away; to die) is the most common and respectful euphemism for death in standard Mandarin: the person has "gone from the world," departed from the living plane. 离去 líqù (to depart; to leave forever) carries the same weight of irreversible removal.</p>
+      <p>This is the emotional register that distinguishes 去 from the neutral verb 走 zǒu (to leave; to go). 走 is the mechanical act of leaving. 去 frames departure relative to the speaker: something has moved away from where you are. When someone dies, they have 去世 (departed the world); when a relationship ends, the other person has 离去 (left). The speaker remains; the other has gone.</p>
     </div>
 
     <div class="cards">
@@ -455,9 +455,9 @@ content_review: 'pending'
     <!-- RETENTION IMAGE -->
     <div class="scholar" data-glyph="去">
       <div class="scholar-label">记忆法 jìyìfǎ · Master Retention Image</div>
-      <p>A person stepping out of an enclosure. That is the oracle bone. The contained space is behind; the world is ahead. 去 is the moment of stepping through the threshold away from you — not walking somewhere, but leaving here. The reference point is always the speaker, the one left behind.</p>
-      <p>Everything in the 去 family is about that departure. 去年 (last year — the year that stepped away). 过去 (the past — what has already passed through and gone). 去世 (to die — to depart from the world). 失去 (to lose — something has gone from your possession). 去除 (to remove — to make something go away). In all of them, 去 marks the direction: away from where you are now.</p>
-      <p>Hold 来 and 去 together. 旧去新来 (the old departs, the new arrives). 来去自如 (coming and going freely). Every motion in Chinese must be specified — toward the speaker or away. 来 is the world approaching you; 去 is you sending something — a person, a year, a life — away into distance. The oracle bone person stepping out of the enclosure is still in the character, five thousand years later, still walking away.</p>
+      <p>A person stepping out of an enclosure. That is the oracle bone. The contained space is behind; the world is ahead. 去 is the moment of stepping through the threshold, moving away from you, not walking somewhere but leaving here. The reference point is always the speaker, the one left behind.</p>
+      <p>Everything in the 去 family is about that departure. 去年 (last year, the year that stepped away). 过去 (the past, what has already passed through and gone). 去世 (to die, to depart from the world). 失去 (to lose, something has gone from your possession). 去除 (to remove, to make something go away). In all of them, 去 marks the direction: away from where you are now.</p>
+      <p>Hold 来 and 去 together. 旧去新来 (the old departs, the new arrives). 来去自如 (coming and going freely). Every motion in Chinese must be specified: toward the speaker or away. 来 is the world approaching you; 去 is a person, a year, a life moving away into distance. The oracle bone figure stepping out of the enclosure is still in the character, five thousand years later, still walking away.</p>
     </div>
 
     <footer class="page-footer">
