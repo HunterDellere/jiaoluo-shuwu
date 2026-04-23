@@ -73,9 +73,9 @@ pinyin: 'bǐ'
 
     <div class="scholar" data-glyph="比">
       <div class="scholar-label">语法洞见 yǔfǎ dòngjiàn · Grammar Insight</div>
-      <p><strong>比 bǐ</strong> is a preposition that introduces the standard of comparison — the item being compared against. The pattern is <strong>A + 比 + B + Adj</strong>, which means "A is more [Adj] than B." This is fundamentally different from English: Mandarin does not use "-er" suffixes or the word "more" before an adjective. The comparative relationship is entirely expressed by the position of 比 between the two items.</p>
-      <p>Critical rule: <strong>do not add 更 gèng (more) or 非常 fēicháng (very) immediately before the adjective</strong> in a 比 sentence. 他比我更高 is grammatically acceptable (更 can emphasize), but 他比我非常高 is wrong — 非常 and 很 are blocked in basic 比 sentences because the comparison itself already implies "more." The adjective stands alone: 他比我高 "he is taller than me."</p>
-      <p>比 is one of the most essential structures in Mandarin — used constantly in everyday comparison, preference statements, and descriptions. Understanding 比 also unlocks its negative counterpart 没有 (not as … as) and the equality structure 跟…一样 (as … as).</p>
+      <p><strong>比 bǐ</strong> is a preposition that introduces the standard of comparison (the item being compared against). The pattern is <strong>A + 比 + B + Adj</strong>, which means "A is more [Adj] than B." This is fundamentally different from English: Mandarin does not use "-er" suffixes or the word "more" before an adjective. The comparative relationship is entirely expressed by the position of 比 between the two items.</p>
+      <p>Critical rule: <strong>do not add 更 gèng (more) or 非常 fēicháng (very) immediately before the adjective</strong> in a 比 sentence. 他比我更高 is grammatically acceptable (更 can emphasize), but 他比我非常高 is wrong. 非常 and 很 are blocked in basic 比 sentences because the comparison already implies "more." The adjective stands alone: 他比我高 "he is taller than me."</p>
+      <p>比 is one of the most essential structures in Mandarin, used constantly in everyday comparison, preference statements, and descriptions. Understanding 比 also unlocks its negative counterpart 没有 (not as … as) and the equality structure 跟…一样 (as … as).</p>
     </div>
 
     <span class="section-anchor" id="basic"></span>
@@ -104,7 +104,7 @@ pinyin: 'bǐ'
         </div>
         <div class="tags"><span class="tag tag-v">Structure 句型 jùxíng</span></div>
         <div class="card-def">
-          The adjective at the end is unmodified by 很 or 非常 — it stands alone. The comparison is built into the structure. 比 takes the place of the English "than." The subject (A) is what is being described; 比 + B introduces the benchmark.
+          The adjective at the end is unmodified by 很 or 非常; it stands alone. The comparison is built into the structure. 比 takes the place of the English "than." The subject (A) is what is being described; 比 + B introduces the benchmark.
         </div>
         <div class="examples">
           <div class="example">
@@ -125,7 +125,7 @@ pinyin: 'bǐ'
         </div>
         <div class="note">
           <span class="note-label">注意 zhūyì · Common Error</span>
-          WRONG: 他比我更高 ✗ — 更 gèng is acceptable but redundant; 非常/很 before the adj are WRONG in basic 比 sentences. The adjective stands unmodified: 他比我高 ✓
+          WRONG: 他比我更高 ✗ (更 gèng is acceptable but redundant; 非常/很 before the adj are WRONG in basic 比 sentences). The adjective stands unmodified: 他比我高 ✓
         </div>
       </div>
 
@@ -158,7 +158,7 @@ pinyin: 'bǐ'
         </div>
         <div class="tags"><span class="tag tag-v">Structure 句型 jùxíng</span></div>
         <div class="card-def">
-          多了 duō le and 得多 de duō both mean "a lot more" — added after the adjective to signal a large degree of difference. 多了 is more colloquial; 得多 is slightly more formal but both are common. For small differences, use 一点儿 yīdiǎnr or 一些 yīxiē (a little).
+          多了 duō le and 得多 de duō both mean "a lot more," added after the adjective to signal a large degree of difference. 多了 is more colloquial; 得多 is slightly more formal but both are common. For small differences, use 一点儿 yīdiǎnr or 一些 yīxiē (a little).
         </div>
         <div class="examples">
           <div class="example">
@@ -186,11 +186,11 @@ pinyin: 'bǐ'
 
     <div class="pattern">
       <span class="label">否定句型 fǒudìng jùxíng · Negative Comparison</span>
-      To say "A is not as [Adj] as B" — use <strong>没有</strong> instead of 比:<br>
+      To say "A is not as [Adj] as B," use <strong>没有</strong> instead of 比:<br>
       A + <strong>没有</strong> + B + Adj<br>
       我没有他高。I am not as tall as him.<br>
       今天没有昨天热。Today is not as hot as yesterday.<br>
-      Do NOT say 不比 for "not as … as" — 不比 A 比 B means "not more than B," a subtle different claim.
+      Do NOT say 不比 for "not as … as." 不比 means "not more than B" — a subtly different claim.
     </div>
 
     <div class="cards">
@@ -231,7 +231,7 @@ pinyin: 'bǐ'
 
     <div class="pattern">
       <span class="label">相同句型 xiāngtóng jùxíng · Expressing Equality</span>
-      To say "A is as [Adj] as B" — use <strong>跟…一样</strong>:<br>
+      To say "A is as [Adj] as B," use <strong>跟…一样</strong>:<br>
       A + <strong>跟</strong> + B + <strong>一样</strong> + Adj<br>
       他跟我一样高。He is as tall as me.<br>
       这两件衣服跟那件一样贵。These two clothes are just as expensive as that one.<br>
