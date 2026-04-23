@@ -72,9 +72,9 @@ content_sources:
 
     <div class="scholar" data-glyph="礼">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
-      <p>The traditional form is <strong>禮</strong> — a compound of 示 shì (an altar; a ritual display to the spirits — the spirit radical) and 豊 fēng (a vessel full of offerings placed on an altar; a drum). 禮 is thus: <em>offerings arranged before the spirits in the prescribed manner.</em></p>
-      <p>The simplified 礼 retains 礻 (the abbreviated spirit radical) plus 乚 — losing the vessel image but preserving the connection to the sacred. The ritual origin is the key: 礼 was never merely about politeness. It was about the <em>correct ordering of relationships between humans and Heaven, Heaven and Earth, and humans among themselves.</em></p>
-      <p>This original meaning explains why the same character covers: cosmic rites (天地之礼), social ceremonies (婚礼 wedding), moral conduct (礼貌 courtesy), and physical gifts (送礼 to give a gift). All are the same act at different scales — placing the right offering before the right relationship in the right way.</p>
+      <p>The traditional form is <strong>禮</strong>, a compound of 示 shì (an altar; a ritual display to the spirits, the spirit radical) and 豊 fēng (a vessel full of offerings placed on an altar; a drum). 禮 is thus: <em>offerings arranged before the spirits in the prescribed manner.</em></p>
+      <p>The simplified 礼 retains 礻 (the abbreviated spirit radical) plus 乚, losing the vessel image but preserving the connection to the sacred. The ritual origin is the key: 礼 was never merely about politeness. It was about the <em>correct ordering of relationships between humans and Heaven, Heaven and Earth, and humans among themselves.</em></p>
+      <p>This original meaning explains why the same character covers: cosmic rites (天地之礼), social ceremonies (婚礼 wedding), moral conduct (礼貌 courtesy), and physical gifts (送礼 to give a gift). All are the same act at different scales, placing the right offering before the right relationship in the right way.</p>
     </div>
 
     <span class="section-anchor" id="confucius"></span>
@@ -87,9 +87,9 @@ content_sources:
 
     <div class="scholar" data-glyph="礼">
       <div class="scholar-label">哲学洞见 zhéxué dòngjiàn · Philosophical Insight</div>
-      <p>Confucius famously declared: <strong>克己复礼为仁</strong> — "To overcome oneself and return to 礼 is to achieve 仁 (benevolence)." For Confucius, 礼 was not an external constraint but the external expression of internal virtue. When a person truly has 仁 in their heart, their behavior naturally conforms to 礼. The two are inseparable: character and conduct, interiority and form.</p>
-      <p>The <em>Lǐjì</em> 礼记 (Record of Rites) — one of the Thirteen Classics — encodes the full system: the rites of birth, coming-of-age, marriage, mourning, and sacrifice; the proper postures, garments, and foods for each; the relationships between ruler and minister, parent and child, elder and younger, husband and wife, friend and friend (五伦 wǔ lún — the Five Relationships). 礼 is the social code that maintains harmony across all these bonds.</p>
-      <p>The philosopher Xunzi 荀子 argued: 礼 is what separates humans from animals. Without 礼, there is only 争 — contention, scrambling, chaos. With 礼, even scarce resources are distributed without conflict, because everyone knows their role and acts accordingly. Manners, in this view, are civilizational infrastructure.</p>
+      <p>Confucius famously declared: <strong>克己复礼为仁</strong> ("To overcome oneself and return to 礼 is to achieve 仁 — benevolence"). For Confucius, 礼 was the external expression of internal virtue, not an external constraint. When a person truly has 仁 in their heart, their behavior naturally conforms to 礼. The two are inseparable: character and conduct, interiority and form.</p>
+      <p>The <em>Lǐjì</em> 礼记 (Record of Rites), one of the Thirteen Classics, encodes the full system: the rites of birth, coming-of-age, marriage, mourning, and sacrifice; the proper postures, garments, and foods for each; the relationships between ruler and minister, parent and child, elder and younger, husband and wife, friend and friend (五伦 wǔ lún, the Five Relationships). 礼 is the social code that maintains harmony across all these bonds.</p>
+      <p>The philosopher Xunzi 荀子 argued that 礼 is what separates humans from animals. Without 礼, there is only 争: contention, scrambling, chaos. With 礼, even scarce resources are distributed without conflict, because everyone knows their role and acts accordingly. Manners, in this view, are civilizational infrastructure.</p>
     </div>
 
     <span class="section-anchor" id="compounds"></span>
@@ -110,7 +110,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N/Adj 名形词</span></div>
         <div class="card-def">
-          礼 lǐ (propriety) + 貌 mào (appearance; countenance — the visible face of inner character). Politeness as the visible face of 礼. The most common everyday word for courtesy. 有礼貌 = polite; 没礼貌 = rude. Note: behavior toward strangers is evaluated by 礼貌; behavior within relationships is evaluated by 礼.
+          礼 lǐ (propriety) + 貌 mào (appearance; countenance, the visible face of inner character). Politeness as the visible face of 礼. The most common everyday word for courtesy. 有礼貌 = polite; 没礼貌 = rude. Note: behavior toward strangers is evaluated by 礼貌; behavior within relationships is evaluated by 礼.
         </div>
         <div class="examples">
           <div class="example">
@@ -129,7 +129,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          礼 lǐ (ritual offering; gift) + 物 wù (thing; object). A ritual offering made tangible — the gift as a physical expression of a relationship. 送礼 sòng lǐ (to give a gift; also: to bribe — context disambiguates). Gift-giving in Chinese culture is governed by complex rules involving timing, amount, presentation, and reciprocity.
+          礼 lǐ (ritual offering; gift) + 物 wù (thing; object). A ritual offering made tangible, the gift as a physical expression of a relationship. 送礼 sòng lǐ (to give a gift; also: to bribe — context disambiguates). Gift-giving in Chinese culture is governed by complex rules involving timing, amount, presentation, and reciprocity.
         </div>
         <div class="examples">
           <div class="example">
@@ -194,7 +194,7 @@ content_sources:
 
     <div class="pattern">
       <span class="label">礼尚往来 lǐ shàng wǎnglái · The Principle of Reciprocity</span>
-      The classical principle governing gift-giving, visits, and social obligations: 礼尚往来 = "propriety favors mutual exchange." If someone gives you a gift, you must reciprocate (不过分 not excessively; 适当 appropriately). This is not mere courtesy — it is the maintenance of the social bond (关系 guānxi). Failing to reciprocate is a moral failing, not just rudeness.
+      The classical principle governing gift-giving, visits, and social obligations: 礼尚往来 = "propriety favors mutual exchange." If someone gives you a gift, you must reciprocate (不过分 not excessively; 适当 appropriately). This is the maintenance of the social bond (关系 guānxi), not mere courtesy. Failing to reciprocate is a moral failing, not just rudeness.
     </div>
 
     <div class="cards">
