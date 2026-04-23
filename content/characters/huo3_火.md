@@ -375,7 +375,7 @@ content_sources:
 
     <div class="scholar" data-glyph="火" style="margin-top:2.5rem;">
       <div class="scholar-label">记忆法 jìyìfǎ · Master Retention Image</div>
-      <p>Four strokes that look like a flame — because they are. The two outer strokes curl like fire tongues; the center rises like the main column of heat. Once you see it as a flame, you will see it in every character it enters: the cooking characters (煮, 烤, 熟), the heat words (热, 炎), the light words (灯, 炬). Fire is the radical that processes, transforms, and illuminates — the character of civilization itself.</p>
+      <p>Four strokes that look like a flame — because they are. The two outer strokes curl like fire tongues; the center rises like the main column of heat. Once you see it as a flame, you will see it in every character it enters: the cooking characters (煮, 烤, 熟), the heat words (热, 炎), the light words (灯, 炬).</p>
     </div>
 
     <footer class="page-footer">
