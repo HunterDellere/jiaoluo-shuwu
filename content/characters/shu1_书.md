@@ -220,7 +220,7 @@ content_sources:
       <div class="scholar-label">五体 wǔtǐ · The Five Scripts</div>
       <p>Chinese calligraphy tradition recognizes five script styles (书体 shūtǐ), each with its own aesthetic character and historical moment:</p>
       <p><strong>篆书 zhuànshū</strong> (seal script) — the oldest, rounded and archaic; used in seals and formal inscriptions. <strong>隶书 lìshū</strong> (clerical script) — the Han dynasty civil-service hand; flatter, with horizontal flicks. <strong>楷书 kǎishū</strong> (regular/standard script) — the basis for printed type and school learning; what you're reading now. <strong>行书 xíngshū</strong> (running script) — the everyday handwriting style; connected, fluid. <strong>草书 cǎoshū</strong> (cursive/grass script) — the most abstract; strokes reduced to near-symbols; readable only by trained calligraphers.</p>
-      <p>A skilled calligrapher moves between all five. The five scripts are one of China's most distinctive contributions to world art.</p>
+      <p>A skilled calligrapher moves between all five — Wang Xizhi's 兰亭序 (Preface to the Orchid Pavilion) is written in running script, while his seal-script practice left traces in his brushwork that later generations studied for two centuries.</p>
     </div>
 
     <!-- ── CALLIGRAPHY ── -->
