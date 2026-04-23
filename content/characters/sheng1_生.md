@@ -104,7 +104,7 @@ content_sources:
 
     <div class="scholar" data-glyph="生">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
-      <p><strong>生 shēng</strong> is one of the oldest and most transparent characters in the writing system. The oracle-bone form shows a plant 屮 pushing upward through the ground 土 — a sprout emerging from the earth. Life, in its most primal pictographic form: the moment of <em>emergence.</em></p>
+      <p><strong>生 shēng</strong> is one of the oldest and most transparent characters in the writing system. The oracle-bone form shows a plant 屮 pushing upward through the ground 土, a sprout emerging from the earth. Life, in its most primal pictographic form: the moment of <em>emergence.</em></p>
       <p>This single image radiates into four distinct semantic clusters that are all still active in modern Chinese: (1) <strong>life and living</strong> (生命, 生活, 生存); (2) <strong>birth and coming into being</strong> (出生, 诞生, 产生); (3) <strong>raw and unprocessed</strong> (生的, 生疏, 陌生 — things not yet cooked or cultivated); (4) <strong>student or junior person</strong> (学生, 先生 — one who is still "green," still growing).</p>
       <p>生 is also a productive radical: 性 (nature; gender), 星 (star), 姓 (surname), 胜 (victory), 剩 (leftover) all contain elements of 生's root meaning. Once you see the sprout, you see it everywhere.</p>
     </div>
