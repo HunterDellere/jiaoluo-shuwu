@@ -79,7 +79,7 @@ pinyin: 'shì…de'
       <span class="topic-hero-eyebrow">Grammar · 语法 yǔfǎ</span>
       <h1 class="topic-hero-title">是…的</h1>
       <span class="topic-hero-title-py">shì … de</span>
-      <p class="topic-hero-desc">The cleft construction — a frame that says "I already know this happened; what I want to specify is THIS particular detail." A surgical tool for adding emphasis and correcting misunderstandings.</p>
+      <p class="topic-hero-desc">The cleft construction that says "I already know this happened; what I want to specify is THIS particular detail." A surgical tool for adding emphasis and correcting misunderstandings.</p>
     </header>
 
     <!-- ── CONSTRUCTION ── -->
@@ -93,9 +93,9 @@ pinyin: 'shì…de'
 
     <div class="scholar" data-glyph="是">
       <div class="scholar-label">构式洞见 gòushì dòngjiàn · The Logic of the Cleft</div>
-      <p>The 是…的 construction is a <strong>cleft sentence</strong> — linguists call it this because it "cleaves" a sentence in two: what is presupposed (already known) and what is focused (the new or emphasized information). In English, the closest equivalent is the "It was X that…" structure: "It was <strong>in Beijing</strong> that he studied" — both speakers know he studied; the new information is <em>where</em>.</p>
-      <p>In 是…的, the 是 opens the frame ("it is the case that") and sets up the focus, while the 的 closes the frame and signals the end of the focused information. Everything between 是 and 的 is what the speaker wants to highlight. The rest of the sentence — the verb, the action itself — is presupposed background. This is why 是…的 only works with events that are <em>already completed or known to both speakers</em>.</p>
-      <p>The four things that can be focused in Chinese 是…的 sentences correspond to the four classic <em>wh-</em>questions: When? (time) · Where? (place) · How? (manner or means) · Who? (agent or doer). One sentence, four possible cleft versions — each answering a different question about the same known event.</p>
+      <p>The 是…的 construction is a <strong>cleft sentence</strong>. Linguists use that term because it "cleaves" a sentence in two: what is presupposed (already known) and what is focused (the new or emphasized information). In English, the closest equivalent is the "It was X that…" structure: "It was <strong>in Beijing</strong> that he studied." Both speakers know he studied; the new information is <em>where</em>.</p>
+      <p>In 是…的, the 是 opens the frame ("it is the case that") and sets up the focus, while the 的 closes the frame and signals the end of the focused information. Everything between 是 and 的 is what the speaker wants to highlight. The rest of the sentence (the verb, the action itself) is presupposed background. This is why 是…的 only works with events that are <em>already completed or known to both speakers</em>.</p>
+      <p>The four things that can be focused in Chinese 是…的 sentences correspond to the four classic <em>wh-</em>questions: When? (time) · Where? (place) · How? (manner or means) · Who? (agent or doer). One sentence, four possible cleft versions, each answering a different question about the same known event.</p>
     </div>
 
     <!-- ── PATTERN BOX ── -->
@@ -114,13 +114,13 @@ pinyin: 'shì…de'
       他<strong>是</strong>在北京出生<strong>的</strong>。Tā <strong>shì</strong> zài Běijīng chūshēng <strong>de</strong>. — He was born [in Beijing]. (FOCUS: place)<br>
       他<strong>是</strong>开车去<strong>的</strong>。Tā <strong>shì</strong> kāichē qù <strong>de</strong>. — He went [by car]. (FOCUS: manner)<br>
       <strong>是</strong>谁告诉你<strong>的</strong>？<strong>Shì</strong> shéi gàosu nǐ <strong>de</strong>? — Who told you? (FOCUS: agent)<br><br>
-      <strong>Critical rule:</strong> 是 can be omitted in spoken Chinese — 他去年来的 is natural — but 的 at the end is <em>obligatory</em> and cannot be dropped. The 的 is what marks the construction.
+      <strong>Critical rule:</strong> 是 can be omitted in spoken Chinese (他去年来的 is natural), but 的 at the end is <em>obligatory</em> and cannot be dropped. The 的 is what marks the construction.
     </div>
 
     <div class="scholar" data-glyph="是">
       <div class="scholar-label">学者洞见 xuézhě dòngjiàn · 是…的 Only Works with Completed/Known Events</div>
-      <p>The most important constraint on 是…的: <strong>the action must be completed or at least known to both parties.</strong> The construction presupposes that the event happened — the only question is which detail to specify.</p>
-      <p>This means 是…的 <em>cannot</em> be used for future events: <strong>*他是明天来的</strong> is ungrammatical — "tomorrow" is not a detail of a known past event. (You might say 他是明天来 without 的, which means "he's the one coming tomorrow" — but that's a different structure using 是 as the copula, not the cleft frame.)</p>
+      <p>The most important constraint on 是…的: <strong>the action must be completed or at least known to both parties.</strong> The construction presupposes that the event happened; the only question is which detail to specify.</p>
+      <p>This means 是…的 <em>cannot</em> be used for future events: <strong>*他是明天来的</strong> is ungrammatical, because "tomorrow" is not a detail of a known past event. (You might say 他是明天来 without 的, which means "he's the one coming tomorrow," but that's a different structure using 是 as the copula, not the cleft frame.)</p>
       <p>The typical test: Can you ask a <em>wh-</em>question about a past event that both speakers know occurred? If yes, 是…的 is the right structure. If the event is unknown, new, or future, use a different pattern.</p>
     </div>
 
@@ -143,7 +143,7 @@ pinyin: 'shì…de'
         </div>
         <div class="tags"><span class="tag tag-v">是…的 · time focus</span></div>
         <div class="card-def">
-          Both speakers know he came — the question is when. 是去年 places "last year" in the focus position, bracketed by 是 and …来的. The construction answers a question or corrects a misunderstanding about the timing: "No, it wasn't three years ago — it was last year."
+          Both speakers know he came; the question is when. 是去年 places "last year" in the focus position, bracketed by 是 and …来的. The construction answers a question or corrects a misunderstanding about the timing: "No, it wasn't three years ago, it was last year."
         </div>
         <div class="examples">
           <div class="example">
@@ -411,7 +411,7 @@ pinyin: 'shì…de'
       A: 你是坐飞机来的吗？— Did you come by plane?<br>
       B: 不是，我是坐火车来的。— No, I came by train.<br><br>
       A: 你是在上海学的中文吗？— Did you learn Chinese in Shanghai?<br>
-      B: 不是在上海，是在北京学的。— Not in Shanghai — I learned it in Beijing.<br><br>
+      B: 不是在上海，是在北京学的。— Not in Shanghai; I learned it in Beijing.<br><br>
       <strong>Key point:</strong> 不是…的 presupposes the same known event — it simply corrects which detail was true. It does NOT deny that the event happened; it corrects the specific focus point.
     </div>
 
