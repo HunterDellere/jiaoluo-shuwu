@@ -96,10 +96,10 @@ content_sources:
 
     <div class="scholar" data-glyph="长">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
-      <p><strong>长 cháng/zhǎng</strong> — traditional 長 — is a pictograph of a person with long flowing hair, sometimes depicted holding a staff. The oracle-bone form shows a tall figure with conspicuously long hair streaming downward. Long hair was associated with age (elders let their hair grow long) and with length as a physical quality. From a single image of elongation, the character divided into two semantic tracks.</p>
-      <p>These two readings (多音字 duōyīnzì — characters with multiple pronunciations) represent genuinely different semantic domains that converged on the same graphic form in antiquity:</p>
-      <p><strong>cháng (tone 2)</strong> — the physical and temporal dimension: long in space, long in time, length, advantage. The emphasis is on extent and duration: 长城 (long wall = Great Wall), 长江 (long river = Yangtze), 特长 (special strength/advantage).</p>
-      <p><strong>zhǎng (tone 3)</strong> — the relational and developmental sense: to grow, to increase, to be senior, to be the elder of a group. The emphasis is on change and seniority: 成长 (grow up), 生长 (grow/live), 长辈 (senior generation), 校长 (school principal — lit. "school elder").</p>
+      <p><strong>长 cháng/zhǎng</strong> (traditional 長) is a pictograph of a person with long flowing hair, sometimes depicted holding a staff. The oracle-bone form shows a tall figure with conspicuously long hair streaming downward. Long hair was associated with age (elders let their hair grow long) and with length as a physical quality. From a single image of elongation, the character divided into two semantic tracks.</p>
+      <p>These two readings (多音字 duōyīnzì, characters with multiple pronunciations) represent genuinely different semantic domains that converged on the same graphic form in antiquity:</p>
+      <p><strong>cháng (tone 2)</strong>: the physical and temporal dimension. Long in space, long in time, length, advantage. The emphasis is on extent and duration: 长城 (long wall = Great Wall), 长江 (long river = Yangtze), 特长 (special strength/advantage).</p>
+      <p><strong>zhǎng (tone 3)</strong>: the relational and developmental sense. To grow, to increase, to be senior, to be the elder of a group. The emphasis is on change and seniority: 成长 (grow up), 生长 (grow/live), 长辈 (senior generation), 校长 (school principal, lit. "school elder").</p>
     </div>
 
     <span class="section-anchor" id="chang"></span>
@@ -126,7 +126,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 专名 zhuānmíng proper noun</span></div>
         <div class="card-def">
-          长 cháng (long) + 城 chéng (city wall). The most famous structure in China — not called 大墙 "great wall" but 长城 "long wall," emphasizing its defining characteristic: extent across thousands of kilometers. Construction spanned multiple dynasties from the Qin (221 BCE) onward. 不到长城非好汉 bú dào Chángchéng fēi hǎohàn — "He who has not climbed the Great Wall is not a hero" (Mao Zedong).
+          长 cháng (long) + 城 chéng (city wall). The most famous structure in China — called 长城 "long wall," not 大墙 "great wall" — its defining characteristic is extent across thousands of kilometers. Construction spanned multiple dynasties from the Qin (221 BCE) onward. 不到长城非好汉 bú dào Chángchéng fēi hǎohàn: "He who has not climbed the Great Wall is not a hero" (Mao Zedong).
         </div>
         <div class="examples">
           <div class="example">
@@ -145,7 +145,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 专名 zhuānmíng proper noun</span></div>
         <div class="card-def">
-          长 cháng (long) + 江 jiāng (large river; river south of Huai River). The Yangtze — Asia's longest river at 6,300 km — is simply "the Long River." Compare: 黄河 Huáng Hé (Yellow River) is named for its color; 长江 is named for its length. The Yangtze is the cultural heart of southern China, and its basin contains a third of China's population.
+          长 cháng (long) + 江 jiāng (large river; river south of Huai River). The Yangtze, Asia's longest river at 6,300 km, is simply "the Long River." Compare: 黄河 Huáng Hé (Yellow River) is named for its color; 长江 is named for its length. The Yangtze is the cultural heart of southern China, and its basin contains a third of China's population.
         </div>
         <div class="examples">
           <div class="example">
@@ -164,7 +164,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          特 tè (special; particular) + 长 cháng (strength; advantage — the area where one "goes long"). 你有什么特长？"What are your special skills?" — a standard job interview question. 特长生 = a student admitted on the basis of a special talent (music, sports, art) rather than exam scores alone.
+          特 tè (special; particular) + 长 cháng (strength; advantage, the area where one "goes long"). 你有什么特长？ "What are your special skills?" is the standard job interview form. 特长生 = a student admitted on the basis of a special talent (music, sports, art) rather than exam scores alone.
         </div>
         <div class="examples">
           <div class="example">
@@ -201,7 +201,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-v">V 动词 dòngcí</span></div>
         <div class="card-def">
-          成 chéng (to become; to complete) + 长 zhǎng (to grow). The compound for the full arc of development — physical, psychological, and social maturation. 成长故事 = coming-of-age story. 成长经历 = formative experiences. Often used for personal development in adult contexts too: 这段经历让我很成长 "this experience helped me grow a lot."
+          成 chéng (to become; to complete) + 长 zhǎng (to grow). The compound for the full arc of development: physical, psychological, and social maturation. 成长故事 = coming-of-age story. 成长经历 = formative experiences. Also used for adult development: 这段经历让我很成长 "this experience helped me grow a lot."
         </div>
         <div class="examples">
           <div class="example">
@@ -220,7 +220,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          校 xiào (school) + 长 zhǎng (elder; head; chief). The head of a school at any level — from primary school principal to university president. This pattern — [institution] + 长 = head of that institution — is extraordinarily productive: 院长 (dean), 部长 (minister), 市长 (mayor), 省长 (governor), 班长 (class monitor). Knowing 长 = zhǎng unlocks dozens of institutional title words.
+          校 xiào (school) + 长 zhǎng (elder; head; chief). The head of a school at any level, from primary school principal to university president. The pattern [institution] + 长 = head of that institution is extraordinarily productive: 院长 (dean), 部长 (minister), 市长 (mayor), 省长 (governor), 班长 (class monitor). Knowing 长 = zhǎng unlocks dozens of institutional title words.
         </div>
         <div class="examples">
           <div class="example">
@@ -247,21 +247,21 @@ content_sources:
         <span class="cy-cn">取长补短</span>
         <span class="cy-py">qǔ cháng bǔ duǎn</span>
         <span class="cy-en">take strengths to補 compensate weaknesses — learn from others</span>
-        <span class="cy-note">Lit: take-long-补-short. The standard phrase for learning from others to compensate for one's own deficiencies. 互相取长补短 "learn from each other's strengths to make up for each other's weaknesses" — a common formulation in team and collaboration contexts. Both 长 and 短 (short) are used in the comparative-strength sense (cháng reading).</span>
+        <span class="cy-note">Lit: take-long-补-short. The standard phrase for learning from others to compensate for one's own deficiencies. 互相取长补短 "learn from each other's strengths to make up for each other's weaknesses" is the common collaborative formulation. Both 长 and 短 (short) are used in the comparative-strength sense (cháng reading).</span>
       </div>
 
       <div class="cy">
         <span class="cy-cn">长此以往</span>
         <span class="cy-py">cháng cǐ yǐ wǎng</span>
         <span class="cy-en">if this goes on for long — a warning about sustained bad behavior</span>
-        <span class="cy-note">Lit: long-this-by-going. Used to warn that if a current (usually bad) situation continues indefinitely, serious consequences will follow. 长此以往，身体会垮掉的 "If this keeps up, your health will collapse." Almost always negative — rarely used for positive sustained trends.</span>
+        <span class="cy-note">Lit: long-this-by-going. Used to warn that if a current (usually bad) situation continues indefinitely, serious consequences will follow. 长此以往，身体会垮掉的 "If this keeps up, your health will collapse." Almost always negative; rarely used for positive sustained trends.</span>
       </div>
 
       <div class="cy">
         <span class="cy-cn">长风破浪</span>
         <span class="cy-py">cháng fēng pò làng</span>
         <span class="cy-en">a long wind breaking through the waves — bold ambition and perseverance</span>
-        <span class="cy-note">From the Tang poet Li Bai: 长风破浪会有时，直挂云帆济沧海 — "There will come a time when the long wind breaks through the waves; I shall set my cloud-sail straight across the vast sea." One of the most beloved lines in Chinese poetry — the image of unstoppable ambition riding the great winds, no obstacle too large to overcome.</span>
+        <span class="cy-note">From the Tang poet Li Bai: 长风破浪会有时，直挂云帆济沧海 — "There will come a time when the long wind breaks through the waves; I shall set my cloud-sail straight across the vast sea." The image is unstoppable ambition riding the great winds, no obstacle too large to overcome.</span>
       </div>
 
     </div>
