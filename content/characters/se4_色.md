@@ -101,7 +101,7 @@ content_sources:
 
     <div class="scholar" data-glyph="色">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
-      <p><strong>色 sè</strong> consists of 人 rén (person) over 巴 bā (a kneeling or crouching figure). The oracle-bone analysis suggests a person bending over or kneeling beneath another — a posture of submission or intimate proximity. The original semantic field: the flush of color that comes to a person's face in emotion or desire. <em>Color as the visible manifestation of an inner state.</em></p>
+      <p><strong>色 sè</strong> consists of 人 rén (person) over 巴 bā (a kneeling or crouching figure). The oracle-bone analysis suggests a person bending over or kneeling beneath another — a posture of submission or intimate proximity. The original semantic field: the flush of color that comes to a person's face in emotion or desire, color as the surface that reveals what is within.</p>
       <p>From this root, 色 expanded into three distinct clusters: (1) <strong>color</strong> in the physical sense (颜色 yánsè, the colors of the spectrum); (2) <strong>appearance, expression, countenance</strong> (脸色 liǎnsè facial color/expression, 神色 shénsè demeanor); (3) <strong>sensual desire, carnal beauty</strong> (好色 hàosè lustful, 色情 sèqíng erotic). All three maintain the root connection: color as what shows on the surface, revealing what is within.</p>
       <p>The Buddhist Heart Sutra's most famous line deploys 色 in its full philosophical weight: <strong>色即是空，空即是色</strong> sè jí shì kōng, kōng jí shì sè — "Form is emptiness, emptiness is form." Here 色 means the entire phenomenal world of appearances — everything perceptible to the senses. The apparent and the void are not two things.</p>
     </div>
