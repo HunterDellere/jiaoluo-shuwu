@@ -77,8 +77,8 @@ pinyin: 'yuèláiyuè'
 
     <div class="scholar" data-glyph="越">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
-      <p><strong>越 yuè</strong> = 走 zǒu (to move) + 戉 yuè (a battle-axe: something that cuts through). To move by cutting through — to cross, to surpass, to go beyond a boundary. 越 is used for crossing rivers (越过), exceeding limits (越界), and surpassing standards (越来越 = surpassing further and further, "more and more").</p>
-      <p>In 越来越, the structure is: 越 (surpass) + 来 (come) + 越 (surpass). The 来 here functions as a linking element, not the directional "come." The tripling encodes a continuous crossing of thresholds: each time, the bar is cleared and a new one set. This is why 越来越 feels so dynamic — it does not describe a static state but an active, ongoing process of exceeding.</p>
+      <p><strong>越 yuè</strong> = 走 zǒu (to move) + 戉 yuè (a battle-axe: something that cuts through). To move by cutting through: to cross, to surpass, to go beyond a boundary. 越 is used for crossing rivers (越过), exceeding limits (越界), and surpassing standards (越来越 = surpassing further and further, "more and more").</p>
+      <p>In 越来越, the structure is: 越 (surpass) + 来 (come) + 越 (surpass). The 来 here functions as a linking element, not the directional "come." The tripling encodes a continuous crossing of thresholds: each time, the bar is cleared and a new one set. 越来越 describes an active, ongoing process of exceeding, not a fixed state.</p>
       <p>越 also appears in the name of the ancient state of Yue 越国 (in modern Zhejiang/Fujian) and in the name for Vietnam (越南 Yuènán — south of Yue).</p>
     </div>
 
@@ -182,7 +182,7 @@ pinyin: 'yuèláiyuè'
         </div>
         <div class="tags"><span class="tag tag-v">Pattern 句型 jùxíng</span></div>
         <div class="card-def">
-          A correlative frame where one increasing quality drives another. The first 越 is tied to the condition/cause; the second to the escalating result. Both sides must be gradable. This structure is extremely productive and versatile — a signature pattern of fluent Chinese.
+          A correlative frame where one increasing quality drives another. The first 越 is tied to the condition/cause; the second to the escalating result. Both sides must be gradable. This structure is extremely productive and versatile, a signature pattern of fluent Chinese.
         </div>
         <div class="examples">
           <div class="example">
