@@ -101,8 +101,8 @@ content_sources:
 
     <div class="scholar" data-glyph="中">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
-      <p><strong>中 zhōng</strong> — one of the most conceptually loaded characters in Chinese. The oracle-bone form shows a vertical line piercing through the center of a circle or rectangle — interpretations include: an arrow hitting the center of a target (中靶 zhòng bǎ), a flagpole at the center of a gathering place, or a rod measuring the center of a space. Whatever the precise origin, the semantic core is unmistakable: <em>the center, precisely hit</em>.</p>
-      <p>The dual reading — zhōng (tone 1, noun/adjective: middle, center) and zhòng (tone 4, verb: to hit, to be struck by, to succeed) — reflects the two sides of the "center" concept: the static location (being in the middle) and the dynamic achievement (hitting the center of a target). 中奖 zhòng jiǎng = "to win a prize" (lit. "to hit the prize"). 中毒 zhòng dú = "to be poisoned" (to be struck by poison). 中暑 zhòng shǔ = "to have heatstroke" (to be struck by summer heat).</p>
+      <p><strong>中 zhōng</strong> is one of the most conceptually loaded characters in Chinese. The oracle-bone form shows a vertical line piercing through the center of a circle or rectangle. Interpretations include an arrow hitting the center of a target (中靶 zhòng bǎ), a flagpole at the center of a gathering place, or a rod measuring the center of a space. Whatever the precise origin, the semantic core is unmistakable: <em>the center, precisely hit</em>.</p>
+      <p>中 has two readings that reflect two sides of the same concept. As zhōng (tone 1, noun/adjective): middle, center. As zhòng (tone 4, verb): to hit, to be struck by, to succeed. 中奖 zhòng jiǎng = "to win a prize" (lit. "to hit the prize"). 中毒 zhòng dú = "to be poisoned" (to be struck by poison). 中暑 zhòng shǔ = "to have heatstroke" (to be struck by summer heat).</p>
       <p>中 is among the very first characters any learner of Chinese encounters: 中国 (China), 中文 (Chinese language), 中午 (noon), 中间 (between), 中心 (center). Its frequency and cultural weight make it one of the most essential characters in the language.</p>
     </div>
 
@@ -116,9 +116,9 @@ content_sources:
 
     <div class="scholar" data-glyph="中">
       <div class="scholar-label">文化洞见 wénhuà dòngjiàn · Why China is "The Middle"</div>
-      <p><strong>中国 Zhōngguó</strong> — Middle Kingdom — is China's own name for itself, and it is older than the unified empire. In the Zhou period, 中国 referred to "the central states" — the culturally advanced states of the Yellow River plain, considered the center of the civilized world, surrounded by less-developed peripheral peoples. The "middle" is not geographic but civilizational: the center of culture, ritual, and moral order.</p>
-      <p>This concept of China as the center — and of the Chinese emperor as the Son of Heaven ruling the civilized world — is called 中华 zhōnghuá (the magnificent center) in its most elevated form. The Chinese civilization understood itself as the axial point around which the world turned. Neighboring peoples were expected to acknowledge this by sending tribute missions to the imperial court.</p>
-      <p>The name 中国 has stuck even as the self-conception has evolved. The People's Republic of China's official name in Chinese is 中华人民共和国 Zhōnghuá Rénmín Gònghéguó — the Chinese word 中华 keeps the ancient resonance even in a communist republic. Every Chinese person in the world identifies with this name.</p>
+      <p><strong>中国 Zhōngguó</strong> (Middle Kingdom) is China's own name for itself, and it is older than the unified empire. In the Zhou period, 中国 referred to "the central states," the culturally advanced states of the Yellow River plain considered the center of the civilized world, surrounded by less-developed peripheral peoples. The "middle" is civilizational, not geographic: the center of culture, ritual, and moral order.</p>
+      <p>This self-conception of China as the axial point around which the world turned is called 中华 zhōnghuá (the magnificent center) in its most elevated form. The Chinese emperor was the Son of Heaven ruling all civilization, and neighboring peoples were expected to acknowledge this by sending tribute missions to the imperial court.</p>
+      <p>The People's Republic of China's official name in Chinese is 中华人民共和国 Zhōnghuá Rénmín Gònghéguó. The word 中华 carries the ancient resonance intact inside a communist republic.</p>
     </div>
 
     <span class="section-anchor" id="confucian"></span>
@@ -131,8 +131,8 @@ content_sources:
 
     <div class="scholar" data-glyph="中">
       <div class="scholar-label">哲学洞见 zhéxué dòngjiàn · 中 as Moral Concept</div>
-      <p>中庸 zhōngyōng (the Doctrine of the Mean — one of the Four Books of Confucianism) takes 中 as its central philosophical concept: the virtue of neither excess nor deficiency, of hitting the precise right point in thought, emotion, and action. 中 here means not "compromising" or "half-hearted" but <em>exactly calibrated</em> — the arrow that hits the center, not the ones that overshoot or fall short.</p>
-      <p>This is the Confucian vision of moral life as skilled performance: the virtuous person knows the exact right response to each situation — neither too cold nor too warm, neither too strict nor too lenient. The same principle applies to ritual (not too elaborate, not too sparse), to governance (not too harsh, not too lax), and to personal cultivation (steady effort, neither frantic nor lazy).</p>
+      <p>中庸 zhōngyōng (the Doctrine of the Mean, one of the Four Books of Confucianism) takes 中 as its central philosophical concept: the virtue of neither excess nor deficiency, of hitting the precise right point in thought, emotion, and action. 中 here means <em>exactly calibrated</em>, the arrow that hits the center rather than the ones that overshoot or fall short.</p>
+      <p>The Confucian vision of moral life is skilled performance: the virtuous person knows the exact right response to each situation, neither too cold nor too warm, neither too strict nor too lenient. The same principle applies to ritual (not too elaborate, not too sparse), to governance (not too harsh, not too lax), and to personal cultivation (steady effort, neither frantic nor lazy).</p>
     </div>
 
     <span class="section-anchor" id="compounds"></span>
