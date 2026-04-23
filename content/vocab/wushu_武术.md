@@ -72,9 +72,9 @@ content_sources:
 
     <div class="scholar" data-glyph="武">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
-      <p><strong>武 wǔ</strong> is the character for "martial, military, warrior." Its etymology is one of the great surprises in Chinese writing: the character consists of 止 zhǐ (to stop; foot) + 戈 gē (a type of dagger-axe weapon). The original meaning of 武 is therefore <em>"to stop the weapon"</em> — not to wield it, but to end conflict.</p>
-      <p>This etymology is ancient wisdom encoded in the writing system: the martial arts tradition sees its highest purpose not in fighting but in stopping the need to fight. A passage in the classical text <em>Zuozhuan</em> (左传) defines 武 with seven virtues, the first of which is 禁暴 jìn bào — "to forbid violence."</p>
-      <p><strong>术 shù</strong> means skill, method, or art — the same character as in 艺术 yìshù (fine arts), 医术 yīshù (medical technique), and 技术 jìshù (technology). 武术 is therefore: <em>the disciplined method of stopping violence.</em></p>
+      <p><strong>武 wǔ</strong> is the character for "martial, military, warrior." Its etymology is one of the great surprises in Chinese writing: the character consists of 止 zhǐ (to stop; foot) + 戈 gē (a type of dagger-axe weapon). The original meaning of 武 is <em>"to stop the weapon"</em>, not to wield it but to end conflict.</p>
+      <p>A passage in the classical text <em>Zuozhuan</em> (左传) defines 武 with seven virtues, the first of which is 禁暴 jìn bào, "to forbid violence." The highest purpose of the martial arts tradition is stopping the need to fight, a reading the writing system encodes at the level of the character itself.</p>
+      <p><strong>术 shù</strong> means skill, method, or art, the same character as in 艺术 yìshù (fine arts), 医术 yīshù (medical technique), and 技术 jìshù (technology). 武术 together: <em>the disciplined method of stopping violence.</em></p>
     </div>
 
     <span class="section-anchor" id="spectrum"></span>
@@ -127,7 +127,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          太极 tàijí (the Supreme Ultimate — the Daoist concept of yin-yang in dynamic balance) + 拳 quán (fist; boxing). The slow, flowing practice is practiced by over 300 million people globally — the world's most widely practiced martial art. The movements embody the Daoist principle that yielding overcomes force. 以柔克刚 yǐ róu kè gāng: "softness overcomes hardness."
+          太极 tàijí (the Supreme Ultimate, the Daoist concept of yin-yang in dynamic balance) + 拳 quán (fist; boxing). The slow, flowing practice is practiced by over 300 million people globally, making it the world's most widely practiced martial art. The movements embody the Daoist principle that yielding overcomes force. 以柔克刚 yǐ róu kè gāng: "softness overcomes hardness."
         </div>
         <div class="examples">
           <div class="example">
@@ -150,9 +150,9 @@ content_sources:
 
     <div class="scholar" data-glyph="武">
       <div class="scholar-label">武德 wǔdé · Martial Virtue</div>
-      <p>Chinese martial arts have always been embedded in an ethical framework called <strong>武德 wǔdé</strong> (martial virtue). The classical virtues include: 仁 rén (benevolence), 义 yì (righteousness), 礼 lǐ (ritual propriety), 智 zhì (wisdom), and 信 xìn (faithfulness). A practitioner who lacks 武德 is said to have 功夫 without 道德 — physical skill without moral grounding.</p>
-      <p>The Daoist influence introduced the concept of <strong>柔弱胜刚强</strong> róu ruò shèng gāng qiáng — "softness and weakness overcome hardness and strength." This is the philosophical foundation of internal martial arts like Taiji: the goal is not greater strength but more sensitive awareness, better structure, and the capacity to redirect force rather than resist it.</p>
-      <p>The Buddhist transmission through Shaolin added the discipline of 禅 chán — meditative practice as the cultivation of martial composure. Action from stillness.</p>
+      <p>Chinese martial arts are embedded in an ethical framework called <strong>武德 wǔdé</strong> (martial virtue). The classical virtues are 仁 rén (benevolence), 义 yì (righteousness), 礼 lǐ (ritual propriety), 智 zhì (wisdom), and 信 xìn (faithfulness). A practitioner who lacks 武德 is said to have 功夫 without 道德: physical skill without moral grounding.</p>
+      <p>The Daoist influence is most visible in the concept of <strong>柔弱胜刚强</strong> róu ruò shèng gāng qiáng, "softness and weakness overcome hardness and strength." This is the philosophical foundation of internal martial arts like Taiji, where the goal is more sensitive awareness and better structure, and the capacity to redirect force rather than resist it.</p>
+      <p>The Buddhist transmission through Shaolin added 禅 chán, meditative practice as the cultivation of martial composure: action from stillness.</p>
     </div>
 
     <span class="section-anchor" id="styles"></span>
@@ -173,7 +173,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          From the 少林寺 Shàolín Sì (Shaolin Monastery) on Mount Song 嵩山, Henan. The most internationally recognized style — blending Chan Buddhist meditation with rigorous physical training. Historically credited with the development of northern Chinese external styles. 外家拳 wàijiā quán = "external school fist arts" (power-focused, external physical conditioning).
+          From the 少林寺 Shàolín Sì (Shaolin Monastery) on Mount Song 嵩山, Henan. The most internationally recognized style, blending Chan Buddhist meditation with rigorous physical training. Historically credited with the development of northern Chinese external styles. 外家拳 wàijiā quán = "external school fist arts" (power-focused, external physical conditioning).
         </div>
         <div class="examples">
           <div class="example">
@@ -192,7 +192,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          内 nèi (internal) + 家 jiā (school; tradition) + 拳 quán (fist; boxing). The internal arts — Taijiquan 太极拳, Baguazhang 八卦掌, Xingyiquan 形意拳 — emphasize cultivation of internal energy (气 qì), sensitivity, and relaxed power over brute muscular force. The internal/external distinction is fundamental to how practitioners classify martial arts.
+          内 nèi (internal) + 家 jiā (school; tradition) + 拳 quán (fist; boxing). The internal arts (Taijiquan 太极拳, Baguazhang 八卦掌, Xingyiquan 形意拳) emphasize cultivation of internal energy (气 qì), sensitivity, and relaxed power over brute muscular force. The internal/external distinction is fundamental to how practitioners classify martial arts.
         </div>
         <div class="examples">
           <div class="example">
@@ -242,7 +242,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          师 shī (teacher) + 父 fù (father). In the martial arts transmission, the teacher-student bond resembles the father-son relationship — a lifelong obligation of loyalty and gratitude. 师父带进门，修行在个人 "The master leads you to the gate; cultivation is personal."
+          师 shī (teacher) + 父 fù (father). In the martial arts transmission, the teacher-student bond resembles the father-son relationship: a lifelong obligation of loyalty and gratitude. 师父带进门，修行在个人 "The master leads you to the gate; cultivation is personal."
         </div>
         <div class="examples">
           <div class="example">
