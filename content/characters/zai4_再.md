@@ -3,7 +3,7 @@ type: 'character'
 category: 'characters'
 status: 'complete'
 title: '再 · again, then, further'
-desc: 'Again, one more time, and the subtle art of "and then" — the character that sequences and repeats.'
+desc: 'The adverb that sequences and repeats: again, one more time, and the subtle art of "and then."'
 metaDesc: "再 zài: again; one more time; and then (sequential); further — etymology, 再 vs. 又 distinction, 再说 discourse marker, and the 再也不 emphatic never-again pattern."
 pageTitle: '再 zài'
 tags:
@@ -115,9 +115,9 @@ content_sources:
 
     <div class="scholar" data-glyph="再">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
-      <p>The oracle-bone form of <strong>再 zài</strong> shows a fish being caught a second time — or, in another interpretation, a net or vessel being drawn up again after a first pull. The core image is of a repeated action: a thing done once, and then once more. From this concrete image of repetition came the abstract adverb meaning "again; once more; a second time."</p>
-      <p>The modern character is composed of the frame radical <strong>冂 jiōng</strong> (an enclosure; a frame — used graphically as a structural element rather than a meaning-carrier) over an element suggesting layers or something gathered again. While the original pictographic clarity is somewhat obscured in the modern form, the semantic core has remained perfectly stable: repetition, sequence, continuation.</p>
-      <p>The tonal homophone <strong>在 zài</strong> (to be at; location) is a source of constant confusion for learners — both are tone 4, both are extremely common, and they are entirely unrelated in meaning. The characters are clearly distinct: 再 has a "T"-shaped element inside the frame; 在 shows a seedling over earth. In handwriting, the difference is clear; in listening, context resolves it immediately.</p>
+      <p>The oracle-bone form of <strong>再 zài</strong> shows a fish being caught a second time, or in another interpretation, a net or vessel being drawn up again after a first pull. The core image is of a repeated action: a thing done once, and then once more. From this concrete image of repetition came the abstract adverb meaning "again; once more; a second time."</p>
+      <p>The modern character is composed of the frame radical <strong>冂 jiōng</strong> (an enclosure or frame, used graphically as a structural element rather than a meaning-carrier) over an element suggesting layers or something gathered again. While the original pictographic clarity is somewhat obscured in the modern form, the semantic core has remained perfectly stable: repetition, sequence, continuation.</p>
+      <p>The tonal homophone <strong>在 zài</strong> (to be at; location) is a source of constant confusion for learners, since both are tone 4 and both are extremely common, yet they are entirely unrelated in meaning. The characters are clearly distinct: 再 has a "T"-shaped element inside the frame; 在 shows a seedling over earth. In handwriting, the difference is clear; in listening, context resolves it immediately.</p>
     </div>
 
     <!-- ── WORD-FORMATION ── -->
@@ -156,7 +156,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-adj">Adv 副词 fùcí</span></div>
         <div class="card-def">
-          再 marks repetition that has not yet occurred — the action will happen again, would happen again, or is requested to happen again. 再来一次(do it one more time — request), 下次再说 (we'll talk about it next time — future), 再见 (goodbye — lit. "see again"). It is the adverb of anticipated or requested repetition. For repetition that already happened, use 又 yòu (see below).
+          再 marks repetition that has not yet occurred: the action will happen again, would happen again, or is requested to happen again. 再来一次(do it one more time — request), 下次再说 (we'll talk about it next time — future), 再见 (goodbye — lit. "see again"). It is the adverb of anticipated or requested repetition. For repetition that already happened, use 又 yòu (see below).
         </div>
         <div class="examples">
           <div class="example">
@@ -177,7 +177,7 @@ content_sources:
         </div>
         <div class="note">
           <span class="note-label">文化 wénhuà · 再见</span>
-          <strong>再见 zàijiàn</strong> (goodbye) is literally "see again" — the standard farewell in Mandarin. More casual alternatives: 拜拜 bàibài (from English "bye-bye") and 回头见 huí tóu jiàn (see you later, lit. "turn-head-see"). 再见 is appropriate in all registers and settings.
+          <strong>再见 zàijiàn</strong> (goodbye) is literally "see again," and it is the standard farewell in Mandarin. More casual alternatives: 拜拜 bàibài (from English "bye-bye") and 回头见 huí tóu jiàn (see you later, lit. "turn-head-see"). 再见 is appropriate in all registers and settings.
         </div>
       </div>
 
@@ -194,9 +194,9 @@ content_sources:
 
     <div class="scholar" data-glyph="再">
       <div class="scholar-label">语法洞见 yǔfǎ dòngjiàn · The 再 / 又 Split</div>
-      <p>The distinction between <strong>再 zài</strong> and <strong>又 yòu</strong> is one of the most important and most frequently confused points in intermediate Chinese grammar. Both mean "again" — but they operate in different time frames, and using one where the other belongs produces consistently unnatural Chinese.</p>
+      <p>The distinction between <strong>再 zài</strong> and <strong>又 yòu</strong> is one of the most important and most frequently confused points in intermediate Chinese grammar. Both mean "again," but they operate in different time frames, and using one where the other belongs produces consistently unnatural Chinese.</p>
       <p><strong>再 zài</strong>: future or hypothetical repetition. An action that will happen again, that is requested to happen again, or that would happen again in a hypothetical scenario. The repetition is anticipated, not yet done. 明天再来 (come again tomorrow — future). 再说一遍 (say it one more time — request for future action).</p>
-      <p><strong>又 yòu</strong>: past repetition, or repetition that has already occurred. An action that has already happened again — often with an undertone of surprise, annoyance, or inevitability. 他又迟到了 (He was late again — it happened, and probably you're not surprised). 又下雨了 (It's raining again — already happening). The emotional coloring of 又 is frequently negative or resigned, though not always.</p>
+      <p><strong>又 yòu</strong>: past repetition, or repetition that has already occurred. An action that has already happened again, often with an undertone of surprise, annoyance, or inevitability. 他又迟到了 (He was late again — it happened, and probably you're not surprised). 又下雨了 (It's raining again — already happening). The emotional coloring of 又 is frequently negative or resigned, though not always.</p>
     </div>
 
     <div class="cards">
@@ -255,7 +255,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-adj">Adv 副词 fùcí</span></div>
         <div class="card-def">
-          再 also sequences future steps: "first do A, then (再) do B." The logic is the same as the repetition use — B hasn't happened yet; it comes after A. This is especially common in instructions, recipes, directions, and plans: 先…再… (first…then…). 先预热烤箱，再放入食材。(First preheat the oven, then put in the ingredients.) The first step must complete before 再 can initiate the second.
+          再 also sequences future steps: "first do A, then (再) do B." The logic is the same as the repetition use: B hasn't happened yet; it comes after A. This is especially common in instructions, recipes, directions, and plans: 先…再… (first…then…). 先预热烤箱，再放入食材。(First preheat the oven, then put in the ingredients.) The first step must complete before 再 can initiate the second.
         </div>
         <div class="examples">
           <div class="example">
@@ -321,7 +321,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-adj">Adv 副词 fùcí</span></div>
         <div class="card-def">
-          再 (again) + 也 yě (also; even) + 不/没 (not). The emphatic "never again" pattern. 再也不 + verb: a strong declaration that something will not happen again (future). 再也没 + verb: that something has not happened since (past). 我再也不去那家餐厅了 (I'm never going to that restaurant again). 他再也没有联系过我 (He never contacted me again after that). The 也 intensifies — "even again would not."
+          再 (again) + 也 yě (also; even) + 不/没 (not). The emphatic "never again" pattern. 再也不 + verb: a strong declaration that something will not happen again (future). 再也没 + verb: that something has not happened since (past). 我再也不去那家餐厅了 (I'm never going to that restaurant again). 他再也没有联系过我 (He never contacted me again after that). The 也 intensifies the negation: "not even again."
         </div>
         <div class="examples">
           <div class="example">
@@ -436,7 +436,7 @@ content_sources:
         <span class="cy-cn">一而再，再而三</span>
         <span class="cy-py">yī ér zài, zài ér sān</span>
         <span class="cy-en">once, then again, then a third time — time after time; repeatedly</span>
-        <span class="cy-note">The fullest expression of Chinese repetition idiomatics. 一而再 (once to twice), 再而三 (twice to three times) — the escalating structure conveys frustration or persistence. Almost always used with a negative coloring: someone has done something they shouldn't have, repeatedly. 他一而再，再而三地失约，让人很失望。"He kept breaking his promises, time after time — it's so disappointing."</span>
+        <span class="cy-note">The fullest expression of Chinese repetition idiomatics. 一而再 (once to twice), 再而三 (twice to three times): the escalating structure conveys frustration or persistence. Almost always used with a negative coloring: someone has done something they shouldn't have, repeatedly. 他一而再，再而三地失约，让人很失望。"He kept breaking his promises, time after time — it's so disappointing."</span>
       </div>
 
       <div class="cy">
@@ -481,8 +481,8 @@ content_sources:
 
     <div class="scholar" data-glyph="再">
       <div class="scholar-label">记忆法 jìyìfǎ · Master Retention Image</div>
-      <p>Picture a net cast into water, pulled up with fish — then cast again. That is <strong>再 zài</strong>: the second cast, the one that has not yet happened. The fish caught before are in the past; 再 is the moment of throwing the net again into the open water ahead.</p>
-      <p>This is the 再/又 split in one image: 又 is the fish already in the boat (happened, completed, done again); 再 is the net leaving the hand for the next cast (not yet, requested, anticipated). The net is always moving forward — 再见, goodbye, is "until the next cast." 再也不 is "I'm putting the net down and not picking it up." 先…再 is "finish pulling in this net first, then throw it again."</p>
+      <p>Picture a net cast into water, pulled up with fish, then cast again. That is <strong>再 zài</strong>: the second cast, the one that has not yet happened. The fish caught before are in the past; 再 is the moment of throwing the net again into the open water ahead.</p>
+      <p>This is the 再/又 split in one image: 又 is the fish already in the boat (happened, completed, done again); 再 is the net leaving the hand for the next cast (not yet, requested, anticipated). The net is always moving forward. 再见, goodbye, is "until the next cast." 再也不 is "I'm putting the net down and not picking it up." 先…再 is "finish pulling in this net first, then throw it again."</p>
     </div>
 
     
