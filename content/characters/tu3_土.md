@@ -100,9 +100,9 @@ content_sources:
 
     <div class="scholar" data-glyph="土">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
-      <p><strong>土 tǔ</strong> is a simple but evocative pictograph — the oracle-bone form shows a mound of earth rising from the ground, sometimes with roots visible below. Three strokes: a horizontal baseline (the ground surface), a vertical stroke (the mound rising), and a horizontal cap (the rounded top of the mound). This is the literal image of a clod of earth or a burial mound — in ancient Chinese society, the mound was both the raw material of civilization (rammed-earth construction, field cultivation) and the marker of the ancestral grave.</p>
-      <p>土 carries a semantic cluster that runs from the physical (soil, dirt, land, ground) through the cultural (native place, local identity, home territory) to the evaluative (unsophisticated, rustic, old-fashioned — as in 土 as a slang adjective meaning "uncool, provincial"). This last usage reflects the urbanization tension: what is 土 (earthy, local, traditional) is contrasted with 洋 yáng (foreign, Western, modern).</p>
-      <p>土 is also the Five Elements' earth phase — the central, balancing element. As a radical (土字旁 tǔ zì páng), 土 appears in characters for construction (建 jiàn, 堆 duī, 坑 kēng), land types (坡 pō slope, 坝 bà dam), and place names (城 chéng city, 地 dì ground/earth). Recognizing the 土 radical immediately identifies construction, terrain, or land-related characters.</p>
+      <p><strong>土 tǔ</strong> is a simple but evocative pictograph. The oracle-bone form shows a mound of earth rising from the ground, sometimes with roots visible below: a horizontal baseline (the ground surface), a vertical stroke (the mound rising), and a horizontal cap (the rounded top of the mound). This is the literal image of a clod of earth or a burial mound. In ancient Chinese society, the mound was both the raw material of civilization (rammed-earth construction, field cultivation) and the marker of the ancestral grave.</p>
+      <p>土 carries a semantic cluster that runs from the physical (soil, dirt, land, ground) through the cultural (native place, local identity, home territory) to the evaluative (unsophisticated, rustic, old-fashioned, as in 土 as a slang adjective meaning "uncool, provincial"). This last usage reflects the urbanization tension: what is 土 (earthy, local, traditional) is contrasted with 洋 yáng (foreign, Western, modern).</p>
+      <p>土 is also the Five Elements' earth phase, the central, balancing element. As a radical (土字旁 tǔ zì páng), 土 appears in characters for construction (建 jiàn, 堆 duī, 坑 kēng), land types (坡 pō slope, 坝 bà dam), and place names (城 chéng city, 地 dì ground/earth). Recognizing the 土 radical immediately identifies construction, terrain, or land-related characters.</p>
     </div>
 
     <span class="section-anchor" id="wuxing"></span>
@@ -115,8 +115,8 @@ content_sources:
 
     <div class="scholar" data-glyph="土">
       <div class="scholar-label">五行 wǔxíng · The Earth Phase</div>
-      <p>In the Five Elements (五行 Wǔxíng — Wood 木, Fire 火, Earth 土, Metal 金, Water 水), 土 Earth occupies the unique position of the center — unlike the other four elements which map to the four cardinal directions and four seasons, Earth maps to the center and to the transitional periods between seasons (the last 18 days of each season in some systems). It is the mediating, stabilizing element: the ground on which all other transformations take place.</p>
-      <p>Earth's correspondences: direction = center (中央); season = late summer / transitional; color = yellow (黄 huáng); organ = spleen and stomach (脾胃 pí wèi); taste = sweet (甘 gān); emotion = pensiveness/worry (思 sī); planet = Saturn (土星 Tǔxīng — "earth star").</p>
+      <p>In the Five Elements (五行 Wǔxíng: Wood 木, Fire 火, Earth 土, Metal 金, Water 水), 土 Earth occupies the unique position of the center. Unlike the other four elements, which map to the four cardinal directions and four seasons, Earth maps to the center and to the transitional periods between seasons (the last 18 days of each season in some systems). It is the mediating, stabilizing element: the ground on which all other transformations take place.</p>
+      <p>Earth's correspondences: direction = center (中央); season = late summer / transitional; color = yellow (黄 huáng); organ = spleen and stomach (脾胃 pí wèi); taste = sweet (甘 gān); emotion = pensiveness/worry (思 sī); planet = Saturn (土星 Tǔxīng, "earth star").</p>
       <p>In TCM, Earth's organ system (spleen and stomach) governs digestion and the transformation of nutrients into qi and blood. When Earth is imbalanced, symptoms include digestive weakness, fatigue, overthinking, and dampness accumulation. Yellow foods (millet, pumpkin, sweet potato) are prescribed to tonify Earth. 脾土 pí tǔ (spleen-earth) is a common TCM clinical term.</p>
     </div>
 
@@ -151,7 +151,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          土 tǔ (earth) + 地 dì (ground; place; land). Land as both physical soil and territorial space. 土地改革 tǔdì gǎigé = land reform (the major policy program of the 1950s that redistributed land from landlords to peasants). 国有土地 = state-owned land (all land in China is technically state-owned; individuals hold use rights). 土地神 Tǔdì Shén = the Earth God — the local tutelary deity worshipped in village shrines and restaurants throughout China.
+          土 tǔ (earth) + 地 dì (ground; place; land). Land as both physical soil and territorial space. 土地改革 tǔdì gǎigé = land reform (the major policy program of the 1950s that redistributed land from landlords to peasants). 国有土地 = state-owned land (all land in China is technically state-owned; individuals hold use rights). 土地神 Tǔdì Shén = the Earth God, the local tutelary deity worshipped in village shrines and restaurants throughout China.
         </div>
         <div class="examples">
           <div class="example">
@@ -170,7 +170,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-adj">Adj 形容词 xíngróngcí</span></div>
         <div class="card-def">
-          本 běn (root; origin; this) + 土 tǔ (soil; native place). Native, local, domestic — contrasted with 外来 wàilái (from outside) or 进口 jìnkǒu (imported). 本土品牌 = domestic brand. 本土文化 = local culture. 本土化 běntǔhuà = localization (adapting something foreign to local conditions — a key concept in Chinese business and cultural policy). 本土人才 = locally grown talent.
+          本 běn (root; origin; this) + 土 tǔ (soil; native place). Native, local, domestic, contrasted with 外来 wàilái (from outside) or 进口 jìnkǒu (imported). 本土品牌 = domestic brand. 本土文化 = local culture. 本土化 běntǔhuà = localization (adapting something foreign to local conditions, a key concept in Chinese business and cultural policy). 本土人才 = locally grown talent.
         </div>
         <div class="examples">
           <div class="example">
@@ -189,7 +189,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-adj">Adj 形容词 xíngróngcí</span></div>
         <div class="card-def">
-          土 as a colloquial adjective means "rustic, unsophisticated, old-fashioned" — the opposite of 洋 yáng (Western/modern) and 潮 cháo (trendy). 你穿得太土了 "You're dressed so uncoolly." 这个想法太土 "This idea is so dated." The word captures urban China's ambivalence toward rural and traditional things: sometimes admired as 接地气 jiē dìqì (grounded, down-to-earth), sometimes dismissed as backward.
+          土 as a colloquial adjective means "rustic, unsophisticated, old-fashioned," the opposite of 洋 yáng (Western/modern) and 潮 cháo (trendy). 你穿得太土了 "You're dressed so uncoolly." 这个想法太土 "This idea is so dated." The word captures urban China's ambivalence toward rural and traditional things: sometimes admired as 接地气 jiē dìqì (grounded, down-to-earth), sometimes dismissed as backward.
         </div>
         <div class="examples">
           <div class="example">
