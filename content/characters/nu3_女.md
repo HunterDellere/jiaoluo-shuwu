@@ -96,8 +96,8 @@ content_sources:
 
     <div class="scholar" data-glyph="女">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
-      <p><strong>女 nǚ</strong> is a pictograph — the oracle-bone form shows a figure kneeling or seated with arms crossed at the chest. The interpretation of this posture has been debated: some scholars see a woman in a respectful or subordinate posture (reflecting the patriarchal social order in which the script was created); others see a mother nursing or a dancer in ceremonial position. Whatever the original intent, the character has always denoted "woman" or "female."</p>
-      <p>女 has an exceptionally high radical productivity — it is one of the most common radicals in Chinese, appearing in characters for female family members, proper names (many women's names use 女 radical characters), emotions, and certain concepts. Its frequency reflects the centrality of women to the family system that Chinese society was organized around.</p>
+      <p><strong>女 nǚ</strong> is a pictograph. The oracle-bone form shows a figure kneeling or seated with arms crossed at the chest. The most common reading is a woman in a respectful posture, reflecting the social order in which the script was created; others read the same form as a mother nursing or a dancer in ceremonial position. The character has always denoted "woman" or "female."</p>
+      <p>女 is one of the most common radicals in Chinese, appearing in characters for female family members, proper names, emotions, and certain concepts. The sheer number of 女-radical characters reflects how much of Chinese social vocabulary was organized around women's roles in the family system.</p>
       <p>Compound words with 女: 女儿 nǚ'ér (daughter), 女人 nǚrén (woman), 女士 nǚshì (Ms./Madam — polite address), 女孩 nǚhái (girl), 女生 nǚshēng (female student), 女朋友 nǚpéngyou (girlfriend), 女王 nǚwáng (queen). As a prefix, 女 is used to mark the female counterpart: 女演员 nǚ yǎnyuán (actress), 女医生 nǚ yīshēng (female doctor).</p>
     </div>
 
@@ -151,7 +151,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          姓 xìng (surname) + 名 míng (given name). The formal term for a full name. Note: Chinese names are surname-first, given-name-second — the opposite of Western convention. 你叫什么名字？= "What is your name?" (informal, just the name). 请问您的姓名？= "May I ask your full name?" (formal). 百家姓 Bǎijiāxìng (Book of Surnames — the famous text listing the 100 common Chinese surnames) is one of the most-memorized classical texts.
+          姓 xìng (surname) + 名 míng (given name). The formal term for a full name. Note: Chinese names are surname-first, given-name-second, the reverse of Western convention. 你叫什么名字？= "What is your name?" (informal, just the name). 请问您的姓名？= "May I ask your full name?" (formal). 百家姓 Bǎijiāxìng (the Book of Surnames, listing the 100 common Chinese surnames) is one of the most-memorized classical texts.
         </div>
         <div class="examples">
           <div class="example">
@@ -204,7 +204,7 @@ content_sources:
         <span class="cy-cn">巾帼英雄</span>
         <span class="cy-py">jīn guó yīngxióng</span>
         <span class="cy-en">heroine — a woman of exceptional courage and achievement</span>
-        <span class="cy-note">Lit: kerchief-hood hero. 巾帼 jīnguó refers to the traditional women's headdress — by extension, women collectively. A 巾帼英雄 is a female hero — a woman who has achieved what is extraordinary even by the standards of men. Hua Mulan 花木兰 is the archetype. Used to praise exceptional women in any field.</span>
+        <span class="cy-note">Lit: kerchief-hood hero. 巾帼 jīnguó is the traditional women's headdress, used by extension to mean women collectively. A 巾帼英雄 is a female hero, a woman who has achieved what is extraordinary even by the standards of men. Hua Mulan 花木兰 is the archetype. Used to praise exceptional women in any field.</span>
       </div>
 
     </div>
