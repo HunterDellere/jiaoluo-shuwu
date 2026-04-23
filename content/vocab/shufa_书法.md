@@ -93,7 +93,7 @@ content_sources:
       <div class="scholar-label">书如其人 shū rú qí rén · Writing Reveals the Person</div>
       <p>The classical principle <strong>书如其人</strong> — "writing is like the person" — holds that calligraphy reveals character as directly as conversation or action. Su Dongpo 苏东坡 wrote: "The character of calligraphy comes from the character of the writer's spirit." You cannot fake it — tension, impatience, elegance, and steadiness all leave their marks in the ink.</p>
       <p>The Daoist dimension: the ideal calligraphic state is <strong>无为 wúwéi</strong> — effortless action. The master calligrapher does not plan each stroke consciously; through years of practice, the body has internalized the principles, and writing flows from a place of stillness. Wang Xizhi 王羲之 described the ideal moment of composition: after wine, in good company, at a perfect temperature — the mind empties and the hand moves freely. The greatest works cannot be deliberately reproduced.</p>
-      <p>Calligraphy has traditionally been ranked as the highest of the arts — above painting, music, and poetry — because it combines all four: the rhythm of music (in the brush's movement), the space of painting (in the composition), the meaning of poetry (in the text), and the structure of architecture (in the bones of each character).</p>
+      <p>Calligraphy has traditionally been ranked as the highest of the arts, above painting, music, and poetry, because it combines all four: the rhythm of music (in the brush's movement), the space of painting (in the composition), the meaning of poetry (in the text), and the structure of architecture (in the bones of each character).</p>
     </div>
 
     <span class="section-anchor" id="scripts"></span>
@@ -166,8 +166,8 @@ content_sources:
     <div class="scholar" data-glyph="书">
       <div class="scholar-label">书圣 shūshèng · The Saint of Calligraphy</div>
       <p><strong>王羲之 Wáng Xīzhī</strong> (303–361 CE, Eastern Jin) — universally honored as 书圣 shūshèng, the "Sage of Calligraphy." His masterwork <em>兰亭序 Lántíng Xù</em> (Preface to the Orchid Pavilion Gathering) is considered the greatest piece of running script ever written. Written in a moment of inspiration at a spring gathering, he tried to reproduce it later and found it inferior. The original was reportedly buried with Emperor Taizong of Tang.</p>
-      <p><strong>颜真卿 Yán Zhēnqīng</strong> (709–785, Tang) — the master of regular script. His 颜体 Yán style — broad, powerful, and upright — became the model for government documents and public monuments. His calligraphy was said to embody his moral character: the same uprightness that led him to resist the An Lushan Rebellion at age 77.</p>
-      <p><strong>苏东坡 Sū Dōngpō</strong> (1037–1101, Song) — poet, statesman, calligrapher, and one of the most beloved figures in Chinese cultural history. His calligraphy is individualistic and playful — he broke the classical rules deliberately and joyfully, reflecting the Song aesthetic of personal expression over formal correctness.</p>
+      <p><strong>颜真卿 Yán Zhēnqīng</strong> (709–785, Tang) — the master of regular script. His 颜体 Yán style (broad, powerful, and upright) became the model for government documents and public monuments. His calligraphy was said to embody his moral character: the same uprightness that led him to resist the An Lushan Rebellion at age 77.</p>
+      <p><strong>苏东坡 Sū Dōngpō</strong> (1037–1101, Song) — poet, statesman, calligrapher, and one of the most beloved figures in Chinese cultural history. His calligraphy is individualistic and playful; he broke the classical rules deliberately and joyfully, reflecting the Song aesthetic of personal expression over formal correctness.</p>
     </div>
 
     <span class="section-anchor" id="tools"></span>
