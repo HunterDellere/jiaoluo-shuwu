@@ -115,9 +115,9 @@ content_sources:
 
     <div class="scholar" data-glyph="要">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
-      <p>The oracle-bone form of <strong>要 yào</strong> shows two hands pressing inward on a human waist — the body's narrowing middle, the point of compression and control. The original meaning was <em>waist</em> (腰 yāo, which later took the flesh radical 月 to clarify the body-part meaning, leaving 要 free for grammatical duty). The connection to desire and necessity runs through the waist's function: the waist is the pivot point, the essential joint — what the body cannot do without. From "the essential point of the body" came "what is essential," then "what is needed," then "to want."</p>
-      <p>This character is among Chinese grammar's most productive. From a concrete body part, 要 grammaticalized into: a main verb (to want), a modal verb (must; should), a future marker (will; going to), and an adjective component (重要 important, 主要 main). The journey from waist to will is one of the great trajectories of Chinese grammatical evolution.</p>
-      <p>Note the two readings: <strong>yào</strong> (tone 4) for all grammatical functions, and a trace of the old reading preserved in <strong>要是 yàoshi</strong> (if) and compounds. The original waist meaning survives separately as <strong>腰 yāo</strong> — same etymology, different characters, different tones.</p>
+      <p>The oracle-bone form of <strong>要 yào</strong> shows two hands pressing inward on a human waist, the body's narrowing middle, the point of compression and control. The original meaning was <em>waist</em> (腰 yāo, which later took the flesh radical 月 to clarify the body-part meaning, freeing 要 for grammatical duty). The connection to desire and necessity runs through the waist's function: the waist is the pivot point, the essential joint, the part the body cannot do without. From "the essential point of the body" came "what is essential," then "what is needed," then "to want."</p>
+      <p>From that concrete body part, 要 grammaticalized into a main verb (to want), a modal verb (must; should), a future marker (will; going to), and an adjective component (重要 important, 主要 main). Few characters in Chinese span so many grammatical categories from a single etymological root.</p>
+      <p>The original waist meaning survives separately as <strong>腰 yāo</strong>, same etymology but a different character and a different tone.</p>
     </div>
 
     <!-- ── WORD-FORMATION ── -->
@@ -156,7 +156,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-v">V 动词 dòngcí</span></div>
         <div class="card-def">
-          As a main verb, 要 expresses desire or request for something: 我要一杯咖啡 (I'd like a coffee). Stronger and more assertive than 想 xiǎng (to feel like; to think about wanting). 要 commits; 想 considers. In ordering food, shopping, or making direct requests, 要 is natural and appropriate — it is not rude. 不要 is the negation: to not want; more urgently, "don't!" as a prohibition.
+          As a main verb, 要 expresses desire or request for something: 我要一杯咖啡 (I'd like a coffee). Stronger and more assertive than 想 xiǎng (to feel like; to think about wanting). 要 commits; 想 considers. In ordering food, shopping, or making direct requests, 要 is natural and appropriate, not rude. 不要 is the negation: to not want; more urgently, "don't!" as a prohibition.
         </div>
         <div class="examples">
           <div class="example">
@@ -189,7 +189,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-v">V 动词 dòngcí</span></div>
         <div class="card-def">
-          需 xū (to need; to require — a more formal or objective necessity) + 要. 需要 focuses on objective need rather than personal desire. 我需要帮助 (I need help — genuinely require it) vs. 我要帮助 (I want help — requesting it). 需要 is often used for things one doesn't necessarily want but must have: 病人需要休息 (The patient needs rest). As a noun: 满足需要 (to meet needs/requirements).
+          需 xū (to need; to require, a more formal or objective necessity) + 要. 需要 focuses on objective need rather than personal desire. 我需要帮助 (I need help — genuinely require it) vs. 我要帮助 (I want help — requesting it). 需要 is often used for things one doesn't necessarily want but must have: 病人需要休息 (The patient needs rest). As a noun: 满足需要 (to meet needs/requirements).
         </div>
         <div class="examples">
           <div class="example">
@@ -218,8 +218,8 @@ content_sources:
 
     <div class="scholar" data-glyph="要">
       <div class="scholar-label">语法洞见 yǔfǎ dòngjiàn · Grammar Insight</div>
-      <p>When 要 precedes a verb phrase and means obligation or necessity, it sits in the same slot as English "must," "should," or "need to" — but with important gradations. <strong>要 yào</strong> as a modal means "should; need to; it is necessary to" — it is softer than 必须 bìxū (must, compelled), more prescriptive than 应该 yīnggāi (ought to, morally). 要 modal is used for practical guidance, advice, and gentle commands. It is the modal of the parent, the teacher, the experienced person telling someone what is needed.</p>
-      <p>Negation is critical: <strong>不要 bú yào</strong> means "don't!" (prohibition) — it is not the negation of the modal but a direct imperative. The negation of the obligation sense ("you don't need to / you don't have to") is <strong>不用 bù yòng</strong>. This 不要 vs. 不用 distinction trips up learners at every level.</p>
+      <p>When 要 precedes a verb phrase and means obligation or necessity, it sits in the same slot as English "must," "should," or "need to," but with important gradations. As a modal, 要 means "should; need to; it is necessary to." It is softer than 必须 bìxū (must, compelled) and more prescriptive than 应该 yīnggāi (ought to, morally). 要 modal is the register of the parent, the teacher, the experienced person telling someone what the situation demands.</p>
+      <p>Negation matters here: <strong>不要 bú yào</strong> means "don't!" (prohibition), a direct imperative. The negation of the obligation sense ("you don't need to") is <strong>不用 bù yòng</strong>. Mixing these is one of the most common errors at every level.</p>
     </div>
 
     <div class="cards">
@@ -232,7 +232,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-v">Mod 情态动词 qíngtài dòngcí</span></div>
         <div class="card-def">
-          The modal 要 precedes a verb to indicate that an action is necessary, required, or strongly advisable. It is the practical necessity modal — for rules, obligations, and what a situation demands. 你要按时交作业 (You need to hand in homework on time). In instructions and warnings: 操作时要小心 (You need to be careful when operating). In parental/teaching register: 要多吃蔬菜 (You should eat more vegetables).
+          The modal 要 precedes a verb to indicate that an action is necessary, required, or strongly advisable. It covers rules, obligations, and what a situation demands: 你要按时交作业 (You need to hand in homework on time). In instructions and warnings: 操作时要小心 (You need to be careful when operating). In parental/teaching register: 要多吃蔬菜 (You should eat more vegetables).
         </div>
         <div class="examples">
           <div class="example">
@@ -278,7 +278,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-v">构式 gòushì · Construction</span></div>
         <div class="card-def">
-          The 要…了 construction signals an imminent change of state — something is on the verge of happening. 要 sets up the expectation; 了 at the end marks the change-of-state aspect. Together they form a future-imminent frame: 要下雨了 (It's about to rain). The speaker perceives the situation as already in motion — clouds are gathering, signs are visible. This construction is mood-sensitive: the speaker is close to, aware of, and anticipating the change.
+          The 要…了 construction signals an imminent change of state, something on the verge of happening. 要 sets up the expectation; 了 at the end marks the change-of-state aspect. Together they form a future-imminent frame: 要下雨了 (It's about to rain). The speaker perceives the situation as already in motion, the clouds gathering, the signs present. This construction is mood-sensitive: the speaker is close to, aware of, and anticipating the change.
         </div>
         <div class="examples">
           <div class="example">
@@ -372,7 +372,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-adj">Adj 形容词 xíngróngcí</span></div>
         <div class="card-def">
-          主 zhǔ (master; host; main; primary) + 要 (essential). "The main/essential one." Used to identify the principal element among several: 主要问题 (the main problem) · 主要原因 (the primary reason) · 主要目标 (the primary goal). Common in analysis, journalism, and academic writing. Distinguished from 重要 (important overall) — 主要 specifies rank among options.
+          主 zhǔ (master; host; main; primary) + 要 (essential). "The main/essential one." Used to identify the principal element among several: 主要问题 (the main problem) · 主要原因 (the primary reason) · 主要目标 (the primary goal). Common in analysis, journalism, and academic writing. Where 重要 says something has significant weight overall, 主要 specifies rank among options.
         </div>
         <div class="examples">
           <div class="example">
@@ -460,21 +460,21 @@ content_sources:
         <span class="cy-cn">鱼和熊掌不可兼得</span>
         <span class="cy-py">yú hé xióng zhǎng bùkě jiān dé</span>
         <span class="cy-en">you can't have both the fish and the bear's paw — you can't have everything you want</span>
-        <span class="cy-note">From Mencius: both fish (common) and bear's paw (prized delicacy) are desirable — but you cannot have both. The Chinese expression for "you can't have your cake and eat it too." Frequently invoked when someone has to choose between two things they want equally. 鱼和熊掌不可兼得，你只能选一个。"You can't have both — pick one."</span>
+        <span class="cy-note">From Mencius: both fish (common) and bear's paw (prized delicacy) are desirable, but you cannot have both. The Chinese equivalent of "you can't have your cake and eat it too." Frequently invoked when someone has to choose between two things they want equally. 鱼和熊掌不可兼得，你只能选一个。"You can't have both. Pick one."</span>
       </div>
 
       <div class="cy">
         <span class="cy-cn">志在必得</span>
         <span class="cy-py">zhì zài bì dé</span>
         <span class="cy-en">determined to get it; fully committed to winning</span>
-        <span class="cy-note">志 zhì (will; ambition) + 在 (located in) + 必 bì (certainly) + 得 dé (to obtain). The ambition is so fixed that getting the goal is certain — not from arrogance but from total commitment. Used to describe someone who has made a full decision to achieve a goal and will not waver. 他对这个项目志在必得，不成功不罢休。</span>
+        <span class="cy-note">志 zhì (will; ambition) + 在 (located in) + 必 bì (certainly) + 得 dé (to obtain). The ambition is so fixed that obtaining the goal is taken as given, not from arrogance but from total commitment. Used to describe someone who has made a full decision and will not waver. 他对这个项目志在必得，不成功不罢休。</span>
       </div>
 
       <div class="cy">
         <span class="cy-cn">要风得风，要雨得雨</span>
         <span class="cy-py">yào fēng dé fēng, yào yǔ dé yǔ</span>
         <span class="cy-en">want wind, get wind; want rain, get rain — getting whatever one wishes</span>
-        <span class="cy-note">Used to describe someone who gets everything they ask for — a pampered child, a powerful person, or a spoiled situation. The parallelism of 要…得… (want…obtain…) is the construction backbone. Can be admiring or envious. 他在家里要风得风，要雨得雨，什么都不缺。</span>
+        <span class="cy-note">Used to describe someone who gets everything they ask for: a pampered child, a powerful person, someone in a position where nothing is refused. The parallelism of 要…得… (want…obtain…) is the construction backbone. Can be admiring or envious. 他在家里要风得风，要雨得雨，什么都不缺。</span>
       </div>
 
     </div>
@@ -505,8 +505,8 @@ content_sources:
 
     <div class="scholar" data-glyph="要">
       <div class="scholar-label">记忆法 jìyìfǎ · Master Retention Image</div>
-      <p>Picture two hands pressing on a waist — the essential joint, the pivot of the body, the part that connects everything above and below. That is <strong>要 yào</strong>: the essential point. What the body cannot do without became what the mind cannot do without, became what a situation demands, became "will" and "must" and "important."</p>
-      <p>Every use of 要 contains this core: something essential, something that cannot be missing. You want it because it's needed. You must do it because the situation demands it. It's about to happen because the signs are present. It's important because it's the load-bearing point. One character from waist to will — the same compression, the same necessity, the same pivot.</p>
+      <p>Picture two hands pressing on a waist, the body's essential joint, the pivot connecting everything above and below. That is <strong>要 yào</strong>: the essential point. What the body cannot do without became what the mind cannot do without, became what a situation demands, became "will" and "must" and "important."</p>
+      <p>Every use of 要 carries this core: something essential, something the situation cannot be without. One character that traveled from waist to will by the same logic all the way through.</p>
     </div>
 
     
