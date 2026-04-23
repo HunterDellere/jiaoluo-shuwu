@@ -70,9 +70,9 @@ pinyin: 'duì'
     <div class="scholar" data-glyph="对">
       <div class="scholar-label">语法洞见 yǔfǎ dòngjiàn · Grammar Insight</div>
       <p><strong>对 duì</strong> is one of the most frequently used words in Mandarin, appearing in three distinct grammatical roles. Understanding all three is essential for both speaking and listening comprehension.</p>
-      <p><strong>1. Preposition</strong> — 对 + [person/thing] means "toward, to, regarding, with respect to": 对我说 (say to me), 对你有帮助 (helpful to you), 对这件事感兴趣 (interested in this matter). The key sense: 对 orients an action or attitude toward its object.</p>
-      <p><strong>2. Adjective/Predicate</strong> — 对 alone means "correct, right": 你说得对 (you're right), 这个答案对 (this answer is correct). Its antonym is 错 cuò (wrong, incorrect). Used as a response: 对！(Right! Correct!) or 对对对 (Yes yes yes — emphatic agreement).</p>
-      <p><strong>3. Fixed expressions</strong> — 对 appears in some of the most common phrases in Chinese: 对不起 duìbuqǐ (I'm sorry), 对了 duì le (Oh right! — used when remembering something), 对吗？duì ma? (Is that right?), 面对 miànduì (to face), 相对 xiāngduì (relatively; relative).</p>
+      <p><strong>1. Preposition</strong> — 对 + [person/thing] means "toward, to, regarding, with respect to": 对我说 (say to me), 对你有帮助 (helpful to you), 对这件事感兴趣 (interested in this matter). 对 orients an action or attitude toward its object.</p>
+      <p><strong>2. Adjective/Predicate</strong> — 对 alone means "correct, right": 你说得对 (you're right), 这个答案对 (this answer is correct). Its antonym is 错 cuò (wrong, incorrect). Used as a response: 对！(Right! Correct!) or 对对对 (Yes yes yes, emphatic agreement).</p>
+      <p><strong>3. Fixed expressions</strong> — 对 appears in some of the most common phrases in Chinese: 对不起 duìbuqǐ (I'm sorry), 对了 duì le (Oh right!, used when remembering something), 对吗？duì ma? (Is that right?), 面对 miànduì (to face), 相对 xiāngduì (relatively; relative).</p>
     </div>
 
     <span class="section-anchor" id="preposition"></span>
@@ -159,7 +159,7 @@ pinyin: 'duì'
         </div>
         <div class="tags"><span class="tag tag-v">Fixed 固定 gùdìng</span></div>
         <div class="card-def">
-          对 duì (to face; toward) + 不起 buqǐ (cannot rise to; cannot face). Literally: "I cannot face you" — an expression of guilt and apology for having let someone down. The response is 没关系 méi guānxi (it doesn't matter) or 没事 méishì (no problem). For lighter apologies, 不好意思 bù hǎoyìsi (excuse me; I feel bad about this) is common. 对不起 is more serious than 不好意思.
+          对 duì (to face; toward) + 不起 buqǐ (cannot rise to; cannot face). Literally "I cannot face you," an expression of guilt and apology for having let someone down. The response is 没关系 méi guānxi (it doesn't matter) or 没事 méishì (no problem). For lighter apologies, 不好意思 bù hǎoyìsi (excuse me; I feel bad about this) is common. 对不起 is more serious than 不好意思.
         </div>
         <div class="examples">
           <div class="example">
@@ -178,7 +178,7 @@ pinyin: 'duì'
         </div>
         <div class="tags"><span class="tag tag-v">Fixed 固定 gùdìng</span></div>
         <div class="card-def">
-          对 duì (correct) + 了 le (change of state). "Oh right!" — used to introduce something you just remembered or to redirect a conversation. Not about correctness in this use — 对了 at the beginning of a sentence is a discourse marker meaning "Oh! I just remembered…" or "Wait, by the way…". Extremely common in natural conversation.
+          对 duì (correct) + 了 le (change of state). "Oh right!", used to introduce something you just remembered or to redirect a conversation. Not about correctness in this use: 对了 at the beginning of a sentence is a discourse marker meaning "Oh! I just remembered…" or "Wait, by the way…". Extremely common in natural conversation.
         </div>
         <div class="examples">
           <div class="example">
