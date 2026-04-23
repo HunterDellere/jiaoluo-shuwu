@@ -69,9 +69,9 @@ pinyin: 'ràng'
 
     <div class="scholar" data-glyph="让">
       <div class="scholar-label">语法洞见 yǔfǎ dòngjiàn · Grammar Insight</div>
-      <p><strong>让 ràng</strong> is a pivotal verb — one that takes both a direct object (the person being caused or permitted) and a following verb phrase (what they are caused or permitted to do). The structure is always: <strong>[Subject] + 让 + [Person] + [Verb Phrase]</strong>. The subject causes or permits the person to perform the verb.</p>
-      <p>The two meanings of 让 — causative ("make, have, cause") and permissive ("let, allow") — are both covered by the same structure and often require context to distinguish. This ambiguity mirrors English "let," which similarly covers both "you let him fall" (permission/lack of prevention) and "let me help" (more of an invitation than permission). In Mandarin, 让 spans slightly further into the causative territory than English "let."</p>
-      <p>让 is also the polite structural choice — it is softer than its colloquial counterpart 叫 jiào (which can sound commanding or brusque) and more direct than 请 qǐng (which is formal/respectful). 让 occupies the neutral middle ground of everyday spoken Mandarin.</p>
+      <p><strong>让 ràng</strong> is a pivotal verb, one that takes both a direct object (the person being caused or permitted) and a following verb phrase (what they are caused or permitted to do). The structure is always: <strong>[Subject] + 让 + [Person] + [Verb Phrase]</strong>. The subject causes or permits the person to perform the verb.</p>
+      <p>The two meanings of 让, causative ("make, have, cause") and permissive ("let, allow"), are covered by the same structure and often require context to distinguish. This ambiguity mirrors English "let," which similarly covers both "you let him fall" (permission/lack of prevention) and "let me help" (more of an invitation than permission). In Mandarin, 让 extends slightly further into causative territory than English "let."</p>
+      <p>让 is also the polite structural choice. It is softer than its colloquial counterpart 叫 jiào (which can sound commanding or brusque) and more direct than 请 qǐng (which is formal/respectful). 让 occupies the neutral middle ground of everyday spoken Mandarin.</p>
     </div>
 
     <span class="section-anchor" id="causative"></span>
@@ -100,7 +100,7 @@ pinyin: 'ràng'
         </div>
         <div class="tags"><span class="tag tag-v">Structure 句型 jùxíng</span></div>
         <div class="card-def">
-          In the causative reading, the subject exercises authority or influence to bring about the person's action. The person between 让 and the verb is the pivot — both the object of 让 and the subject of the following verb. This double grammatical role (被兼语 bèi jiānyǔ) is called a pivot construction (兼语句 jiānyǔ jù) — one of the distinctive structures of Mandarin syntax.
+          In the causative reading, the subject exercises authority or influence to bring about the person's action. The person between 让 and the verb is the pivot, both the object of 让 and the subject of the following verb. This double grammatical role (被兼语 bèi jiānyǔ) is called a pivot construction (兼语句 jiānyǔ jù), one of the distinctive structures of Mandarin syntax.
         </div>
         <div class="examples">
           <div class="example">
@@ -153,7 +153,7 @@ pinyin: 'ràng'
         </div>
         <div class="tags"><span class="tag tag-v">Structure 句型 jùxíng</span></div>
         <div class="card-def">
-          In the permissive reading, 让 grants agency rather than directing it. 不让 + verb = prohibition — the withholding of permission. This is an extremely common pattern in everyday instructions and signage. 不让抽烟 = no smoking allowed. 让我想想 = "let me think about it" — a self-directed permission to pause.
+          In the permissive reading, 让 grants agency rather than directing it. 不让 + verb = prohibition, the withholding of permission. This is an extremely common pattern in everyday instructions and signage. 不让抽烟 = no smoking allowed. 让我想想 = "let me think about it," a self-directed permission to pause.
         </div>
         <div class="examples">
           <div class="example">
