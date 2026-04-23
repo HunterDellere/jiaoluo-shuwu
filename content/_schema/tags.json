@@ -53,6 +53,7 @@
   {"slug": "mandate",           "label": "Mandate"},
   {"slug": "path",              "label": "Path"},
   {"slug": "language",          "label": "Language"},
+  {"slug": "dialect",           "label": "Dialect"},
   {"slug": "meta",              "label": "Meta"},
   {"slug": "syntax",            "label": "Syntax"},
   {"slug": "object",            "label": "Object"},
