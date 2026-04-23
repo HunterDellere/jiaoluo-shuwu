@@ -3,8 +3,8 @@ type: 'character'
 category: 'characters'
 status: 'complete'
 title: '思 · to think, to miss, thought'
-desc: 'The field of the mind above the heart — thinking as cultivation, longing as thought turned inward.'
-metaDesc: "思 sī: to think, to miss, thought. The character formed by 田 (field) over 心 (heart) — and Mencius's proof that the heart thinks."
+desc: 'The field of the mind above the heart: thinking as cultivation, longing as thought turned inward.'
+metaDesc: "思 sī: to think, to miss, thought. The character formed by 田 (field) over 心 (heart), with Mencius's proof that the heart thinks."
 pageTitle: '思 sī'
 tags:
   - 'mind'
@@ -107,9 +107,9 @@ content_sources:
 
     <div class="scholar" data-glyph="思">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
-      <p>思 is built from two components: <strong>田 tián</strong> (field; cultivated land) on top, and <strong>心 xīn</strong> (heart; mind) below. Nine brushstrokes in total — five to draw the field, four for the heart underneath it.</p>
-      <p>There are two ways to read this structure, and both are worth holding. The first is agricultural: the mind as a cultivated field. Thought is not something that simply arrives — it is something you tend, plant, and work. The field above the heart is not passive terrain; it is managed ground. This reading places 思 firmly in the Confucian tradition of moral and intellectual cultivation: one does not merely have thoughts, one tends them.</p>
-      <p>The second reading is anatomical. 田, as a pictograph, shows a square divided by interior lines into quadrants — a form that some classical commentators interpreted as a representation of the skull, with its divisions suggesting the compartments of the brain. On this reading, 思 shows the head above the heart: the two candidate organs of cognition, stacked vertically into one character. This is not accidental. Chinese thought did not settle the heart-mind question by choosing one organ and discarding the other — it fused them. 思 encodes that fusion structurally.</p>
+      <p>思 is built from two components: <strong>田 tián</strong> (field; cultivated land) on top, and <strong>心 xīn</strong> (heart; mind) below. Nine brushstrokes in total (five to draw the field, four for the heart underneath it).</p>
+      <p>There are two ways to read this structure, and both are worth holding. The first is agricultural: the mind as a cultivated field. Thought is not something that simply arrives; it is something you tend, plant, and work. The field above the heart is not passive terrain; it is managed ground. This reading places 思 firmly in the Confucian tradition of moral and intellectual cultivation: one does not merely have thoughts, one tends them.</p>
+      <p>The second reading is anatomical. 田, as a pictograph, shows a square divided by interior lines into quadrants, a form that some classical commentators interpreted as a representation of the skull, with its divisions suggesting the compartments of the brain. On this reading, 思 shows the head above the heart: the two candidate organs of cognition, stacked vertically into one character. Chinese thought did not settle the heart-mind question by choosing one organ and discarding the other. It fused them. 思 encodes that fusion structurally.</p>
       <p>Mencius made 思 central to his philosophy of the mind. His argument: <em>心之官则思 xīn zhī guān zé sī</em> — "The function of the heart is to think." He used 思 as the defining verb of what the 心 does. To think is not a cognitive act separate from feeling; it is the heart's proper work. The character 思 was, for Mencius, the proof: here is the organ (心) and here is its field of activity (田), and they are one character, one thing.</p>
     </div>
 
@@ -124,10 +124,10 @@ content_sources:
 
     <div class="scholar" data-glyph="思">
       <div class="scholar-label">语义洞见 yǔyì dòngjiàn · Semantic Insight</div>
-      <p>思 carries two meanings that in English feel entirely unrelated: to think, to reflect — and to miss, to long for someone absent. In English, these would be separate words. In Chinese, they are two aspects of the same act.</p>
-      <p>To think about someone who is far away is to miss them. The language does not draw a line between the cognitive and the emotional because it does not see one. This is the same non-division that 心 performs between thinking and feeling, extended now into the territory of memory, absence, and yearning. When 思 appears in a text, context distinguishes the shade — but the shade is always part of the same color.</p>
-      <p>The Tang poet Li Bai's most famous poem makes this ambiguity its entire engine. 静夜思 — <em>Jìng Yè Sī</em> — is translated as "Quiet Night Thoughts" or "Quiet Night Longing," depending on the translator, and the disagreement is unresolvable because the poem is both simultaneously. The sight of moonlight on the floor triggers 思 — thinking that is also longing, reflection that is also homesickness. The poem works in English only when translated twice.</p>
-      <p>This is why 思 cannot be fully replaced by 想 xiǎng (to think; to want; to miss) in certain contexts. 想 is more volitional, more directed toward present desire. 思 carries a weight of depth and duration — the kind of thinking that settles into the body, the kind of missing that is closer to ache than to wish. The field must be cultivated over time. The heart underneath it does not forget.</p>
+      <p>思 carries two meanings that in English feel entirely unrelated: to think, to reflect, and to miss, to long for someone absent. In English, these would be separate words. In Chinese, they are two aspects of the same act.</p>
+      <p>To think about someone who is far away is to miss them. The language does not draw a line between the cognitive and the emotional because it does not see one. This is the same non-division that 心 performs between thinking and feeling, extended now into the territory of memory, absence, and yearning. When 思 appears in a text, context distinguishes the shade, but the shade is always part of the same color.</p>
+      <p>The Tang poet Li Bai's most famous poem makes this ambiguity its entire engine. 静夜思 (<em>Jìng Yè Sī</em>) is translated as "Quiet Night Thoughts" or "Quiet Night Longing," depending on the translator, and the disagreement is unresolvable because the poem is both simultaneously. The sight of moonlight on the floor triggers 思, thinking that is also longing, reflection that is also homesickness. The poem works in English only when translated twice.</p>
+      <p>This is why 思 cannot be fully replaced by 想 xiǎng (to think; to want; to miss) in certain contexts. 想 is more volitional, more directed toward present desire. 思 carries a weight of depth and duration: the kind of thinking that settles into the body, the kind of missing that is closer to ache than to wish. The field must be cultivated over time. The heart underneath it does not forget.</p>
     </div>
 
     <!-- ── CORE THINKING ── -->
@@ -402,7 +402,7 @@ content_sources:
       <strong>沉 chén</strong> (to sink; submerged) + 思 = <strong>沉思</strong> chénsī (to be lost in thought; to meditate on something — thinking you have sunk into)<br>
       <strong>冥 míng</strong> (dark; obscure; the underworld) + 思 = <strong>冥思</strong> míngsi (deep contemplation; to muse — the thinking that happens in darkness and stillness)<br>
       <strong>胡 hú</strong> (reckless; wildly) + 思 + <strong>乱 luàn</strong> (chaotic) + 想 = <strong>胡思乱想</strong> (to let the mind run wild — thinking without direction or control)<br>
-      The quality of 思 is shaped by what precedes it: how deep, how critical, how still, how lost. These are not just vocabulary items — they are a map of the different textures of inner life.
+      The quality of 思 is shaped by what precedes it: how deep, how critical, how still, how lost. Together they map the different textures of inner life.
     </div>
 
     <!-- ── CHENGYU ── -->
@@ -464,9 +464,9 @@ content_sources:
     <!-- RETENTION IMAGE -->
     <div class="scholar" data-glyph="思">
       <div class="scholar-label">记忆法 jìyìfǎ · Master Retention Image</div>
-      <p>A field sitting above a heart. That is 思. Nine strokes — five for the cultivated ground, four for the organ beneath it. The image does everything: thought is not a flash, it is a field. It requires tending. The heart underneath is not a metaphor for feeling; in classical Chinese philosophy it is literally the organ that thinks. Mencius said so plainly, and he used 思 as his evidence.</p>
-      <p>The thinking-longing ambiguity is not a flaw in the language — it is the most precise thing about it. When you 思 someone who is far away, you are doing both things at once: directing the field of your mind toward them, and feeling the weight of their absence. 静夜思 — the most memorized poem in Chinese — is untranslatable in one pass because "thoughts" and "longing" are not two words that happened to collide in the title. They are the same word, pointing to the same act.</p>
-      <p>When you encounter 思 in a compound, ask which direction it is pointing: outward (思考 — thinking through a problem in front of you), or inward toward someone absent (思念, 相思, 思乡 — the longing that runs like a current between here and there, now and then). The field is the same. The heart underneath it does not change. Only the direction of the cultivation shifts.</p>
+      <p>A field sitting above a heart. That is 思. Nine strokes (five for the cultivated ground, four for the organ beneath it). Thought is not a flash, it is a field. It requires tending. The heart underneath is not a metaphor for feeling; in classical Chinese philosophy it is literally the organ that thinks. Mencius said so plainly, and he used 思 as his evidence.</p>
+      <p>The thinking-longing ambiguity is not a flaw in the language. It is the most precise thing about it. When you 思 someone who is far away, you are doing both things at once: directing the field of your mind toward them, and feeling the weight of their absence. 静夜思, the most memorized poem in Chinese, is untranslatable in one pass because "thoughts" and "longing" are not two words that happened to collide in the title. They are the same word, pointing to the same act.</p>
+      <p>When you encounter 思 in a compound, ask which direction it is pointing: outward (思考, thinking through a problem in front of you), or inward toward someone absent (思念, 相思, 思乡, the longing that runs like a current between here and there, now and then). The field is the same. The heart underneath it does not change. Only the direction of the cultivation shifts.</p>
     </div>
 
     
