@@ -93,9 +93,9 @@ pinyin: 'lái / qù'
     <div class="scholar" data-glyph="来">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
       <p><strong>来 lái</strong> is one of the oldest characters in the written language. The oracle-bone script form depicts a grain plant — likely wheat or barley — with heavy, drooping ears of grain. The phonetic borrowing to mean "to come" was complete by the early Zhou period; the original grain meaning was transferred to the character 麦 mài. The visual logic of a stalk bending <em>toward</em> you (under its own weight of ripeness, arriving at harvest time) makes for a powerful mnemonic: 来 is what comes to you, what arrives, what bends in your direction.</p>
-      <p><strong>去 qù</strong> in the oracle-bone form shows a person (大) departing from a place (口, enclosure or mouth). The person is leaving an enclosure behind. 去 is what moves away, what leaves the frame, what departs from the speaker's position. Together, 来 and 去 establish a spatial coordinate system centered entirely on the <em>speaker</em> — a deictic center that permeates the entire complement system.</p>
-      <p>This speaker-centrism is the master key to the directional system. The question is never "which direction in absolute space?" but always "toward the speaker or away from the speaker?" A person 走进来 walked in toward you (here). A person 走进去 walked in away from you (there). The same physical action — entering a room — but coded completely differently based on where you, the speaker, are standing.</p>
-      <p>Japanese and Korean have parallel systems — Japanese に来る (niku-ru, come toward speaker) and に行く (ni-iku, go away from speaker) track the same deictic logic — making this one of the most productive cross-linguistic anchors in East Asian language learning.</p>
+      <p><strong>去 qù</strong> in the oracle-bone form shows a person (大) departing from a place (口, enclosure or mouth). The person is leaving an enclosure behind. 去 is what moves away, what leaves the frame, what departs from the speaker's position. Together, 来 and 去 establish a spatial coordinate system centered entirely on the <em>speaker</em>, a deictic center that permeates the entire complement system.</p>
+      <p>This speaker-centrism is the master key to the directional system. The question is never "which direction in absolute space?" but always "toward the speaker or away from the speaker?" A person 走进来 walked in toward you (here). A person 走进去 walked in away from you (there). The same physical action, entering a room, coded completely differently based on where you, the speaker, are standing.</p>
+      <p>Japanese and Korean have parallel systems. Japanese に来る (niku-ru, come toward speaker) and に行く (ni-iku, go away from speaker) track the same deictic logic, making this one of the most productive cross-linguistic anchors in East Asian language learning.</p>
     </div>
 
     <!-- ── CORE PATTERNS ── -->
@@ -145,7 +145,7 @@ pinyin: 'lái / qù'
         </div>
         <div class="tags"><span class="tag tag-v">来/去 as main V</span></div>
         <div class="card-def">
-          At the most basic level, 来 and 去 are intransitive verbs of motion. 来 = to come, to arrive (toward speaker). 去 = to go, to depart (away from speaker). With 了, 来了 signals arrival and 去了 signals departure — both are now completed relative to the speaker's world.
+          At the most basic level, 来 and 去 are intransitive verbs of motion. 来 = to come, to arrive (toward speaker). 去 = to go, to depart (away from speaker). With 了, 来了 signals arrival and 去了 signals departure; both are now completed relative to the speaker's world.
         </div>
         <div class="examples">
           <div class="example">
