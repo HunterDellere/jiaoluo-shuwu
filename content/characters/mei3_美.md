@@ -100,7 +100,7 @@ content_sources:
 
     <div class="scholar" data-glyph="美">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
-      <p><strong>美 měi = 羊 yáng</strong> (sheep) <strong>+ 大 dà</strong> (large). The oracle-bone and bronze forms show a person wearing a large sheep-horn headdress, or simply the image of a large, magnificent sheep. The connection between sheep and beauty is not arbitrary — in ancient Chinese agropastoral culture, a large, fat sheep with impressive horns was the finest sacrificial animal and the greatest form of wealth. <em>What is most valuable and pleasing to the spirits is beautiful.</em></p>
+      <p><strong>美 měi = 羊 yáng</strong> (sheep) <strong>+ 大 dà</strong> (large). The oracle-bone and bronze forms show a person wearing a large sheep-horn headdress, or simply the image of a large, magnificent sheep. In ancient Chinese agropastoral culture, a large, fat sheep with impressive horns was the finest sacrificial animal and the greatest form of wealth — what pleased the spirits was beautiful.</p>
       <p>The same root explains why 善 shàn (morally good; skilled), 羡 xiàn (to envy), and 义 yì (righteousness) all contain the sheep radical 羊 — all connect goodness, beauty, and value through the image of the ideal sacrificial animal. Beauty in classical Chinese thought is not separate from goodness, abundance, and the sacred.</p>
       <p>The ancient philosopher Mozi observed: 美 does not consist in one sensory experience alone — it is the harmony of the whole. Confucius declared 尽善尽美 jǐn shàn jǐn měi ("utterly good, utterly beautiful") as the highest aesthetic standard. 美 was never merely decorative.</p>
     </div>
@@ -306,7 +306,7 @@ content_sources:
 
     <div class="scholar" data-glyph="美" style="margin-top:2.5rem;">
       <div class="scholar-label">记忆法 jìyìfǎ · Master Retention Image</div>
-      <p>Picture a magnificent ram — the largest, most impressive sheep — standing at the center of a sacrificial ceremony. Its horns curve perfectly; its fleece is spotless; the whole village gathers around it in admiration. That is 美: abundance, excellence, and the deepest pleasure all at once. Beauty in this character has always been about <em>the best thing, the most valued thing, the thing that pleases both humans and Heaven.</em></p>
+      <p>Picture a magnificent ram — the largest, most impressive sheep — standing at the center of a sacrificial ceremony. Its horns curve perfectly; its fleece is spotless; the whole village gathers around it in admiration. That is 美: abundance, excellence, and the deepest pleasure, all converging on the same thing.</p>
     </div>
 
     <footer class="page-footer">
