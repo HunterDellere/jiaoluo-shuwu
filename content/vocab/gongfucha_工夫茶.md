@@ -3,7 +3,7 @@ type: 'vocab'
 category: 'vocab'
 status: 'complete'
 title: '工夫茶 · Gongfu Tea'
-desc: 'The art of tea prepared with skill and time — the Southern Chinese brewing method that defines serious tea culture: small vessels, multiple short steeps, total attention.'
+desc: 'Tea prepared with skill and time: the Southern Chinese brewing method that defines serious tea culture, built on small vessels, multiple short steeps, and total attention.'
 metaDesc: "工夫茶 gōngfu chá: gongfu tea ceremony — small teapot or gaiwan, multiple short steeps, the ritual of Chaoshan tea preparation, and why 工夫 means both skill and time."
 pageTitle: '工夫茶 · Gongfu Tea'
 tags:
@@ -65,7 +65,7 @@ content_sources:
       <span class="topic-hero-eyebrow">Vocabulary · 词汇 cíhuì</span>
       <h1 class="topic-hero-title">工夫茶</h1>
       <span class="topic-hero-title-py">gōng fu chá</span>
-      <p class="topic-hero-desc">The art of tea prepared with skill and time — the Southern Chinese brewing method that defines serious tea culture: small vessels, multiple short steeps, total attention.</p>
+      <p class="topic-hero-desc">Tea prepared with skill and time: the Southern Chinese brewing method that defines serious tea culture, built on small vessels, multiple short steeps, and total attention.</p>
     </header>
 
     <span class="section-anchor" id="meaning"></span>
@@ -78,8 +78,8 @@ content_sources:
 
     <div class="scholar" data-glyph="功">
       <div class="scholar-label">工夫与功夫 · Two Characters, One Sound</div>
-      <p><strong>工夫</strong> (gōngfu) and <strong>功夫</strong> (gōngfu) are two written forms of the same spoken word, and both forms are used in 工夫茶 — you will encounter either in written sources. The meaning in the tea context is "effort invested over time" or "skill acquired through practice." It is identical to the meaning in 功夫 (martial arts) — the word does not inherently mean fighting; it means the thing you become capable of through disciplined, sustained effort. A gōngfu tea practitioner and a gōngfu martial artist share the same path: years of practice, attention to details invisible to outsiders, the building of a skill that is embodied rather than merely understood.</p>
-      <p>The name 工夫茶 is therefore a claim about what the practice is: not a recipe to be followed, but a craft to be developed. The same leaf, the same water, the same vessel — brewed by different hands with different levels of experience — will produce different tea. The seasoned practitioner knows when the rinse is complete from the sound of the water, when the correct amount of leaf has been placed by feel, when each steep is done by the color of the first drops. These are not steps that can be optimized away; they are the point.</p>
+      <p><strong>工夫</strong> (gōngfu) and <strong>功夫</strong> (gōngfu) are two written forms of the same spoken word, and both appear in written sources on 工夫茶. The meaning in the tea context is "effort invested over time" or "skill acquired through practice," identical to the meaning in 功夫 (martial arts). The word does not inherently mean fighting; it means the thing you become capable of through disciplined, sustained effort. A gōngfu tea practitioner and a gōngfu martial artist share the same path: years of practice, attention to details invisible to outsiders, the building of a skill that is embodied rather than merely understood.</p>
+      <p>The name 工夫茶 is therefore a claim about what the practice is: a craft to be developed, not a recipe to be followed. The same leaf, the same water, the same vessel, brewed by different hands with different levels of experience, will produce different tea. The seasoned practitioner knows when the rinse is complete from the sound of the water, when the correct amount of leaf has been placed by feel, when each steep is done by the color of the first drops. These are not steps that can be optimized away; they are the point.</p>
     </div>
 
     <span class="section-anchor" id="method"></span>
@@ -141,8 +141,8 @@ content_sources:
 
     <div class="scholar" data-glyph="礼">
       <div class="scholar-label">待客之道 · The Way of Receiving Guests</div>
-      <p>Gongfu tea is not performed in isolation. Its natural habitat is a table with two to six people, an unhurried afternoon, and a conversation that needs the time and structure of the ceremony to unfold properly. In Chaozhou culture — where the practice originated and remains most deeply embedded — to offer gongfu tea is not merely to offer a drink but to create a protected social space. The host's continuous attention to the pot establishes a particular social role: the one who serves does not leave, does not multitask, does not allow the conversation to be interrupted by anything other than the next steep. The guests' obligation is presence — to be there, to drink what is offered, to attend to what the tea is doing.</p>
-      <p>The Chinese etiquette of receiving tea carries specific physical expressions. Tapping two fingers on the table — 叩手礼 kòu shǒu lǐ ("knocking hand ritual") — is the standard response when tea is poured to you, equivalent to a silent "thank you." The gesture originates in court etiquette: a story holds that the Qianlong Emperor, traveling incognito, once poured tea for his attendants; they could not bow without revealing his identity, so they tapped two fingers (representing a bowing figure) instead. Whether the story is true, the gesture is now universal in Chinese tea culture and expected from any guest receiving tea at a gongfu session.</p>
+      <p>Gongfu tea is not performed in isolation. Its natural habitat is a table with two to six people, an unhurried afternoon, and a conversation that needs the time and structure of the ceremony to unfold properly. In Chaozhou culture, where the practice originated and remains most deeply embedded, offering gongfu tea creates a protected social space rather than merely delivering a drink. The host's continuous attention to the pot establishes a particular social role: the one who serves does not leave, does not multitask, does not allow the conversation to be interrupted by anything other than the next steep. The guests' obligation is presence: to be there, to drink what is offered, to attend to what the tea is doing.</p>
+      <p>The Chinese etiquette of receiving tea carries specific physical expressions. Tapping two fingers on the table (叩手礼 kòu shǒu lǐ, "knocking hand ritual") is the standard response when tea is poured to you, equivalent to a silent "thank you." The gesture originates in court etiquette: a story holds that the Qianlong Emperor, traveling incognito, once poured tea for his attendants; they could not bow without revealing his identity, so they tapped two fingers (representing a bowing figure) instead. Whether the story is true, the gesture is now universal in Chinese tea culture and expected from any guest receiving tea at a gongfu session.</p>
     </div>
 
     <span class="section-anchor" id="vocab"></span>
@@ -159,7 +159,7 @@ content_sources:
         <span class="card-py">gōngdào bēi</span>
         <span class="card-en">fairness pitcher / sharing pitcher</span>
         <span class="tag-n">n.</span>
-        <p>Also called 茶海 cháhǎi ("tea sea"). The intermediate vessel between the teapot and the drinking cups — the brewed tea is decanted into it entirely before being distributed, ensuring all cups receive tea of equal concentration. Without it, the last cup poured would be far stronger than the first. The name encodes the value: 公道 (gōngdào) means "justice" or "fairness."</p>
+        <p>Also called 茶海 cháhǎi ("tea sea"). The intermediate vessel between the teapot and the drinking cups: the brewed tea is decanted into it entirely before being distributed, ensuring all cups receive tea of equal concentration. Without it, the last cup poured would be far stronger than the first. The name encodes the value: 公道 (gōngdào) means "justice" or "fairness."</p>
       </div>
       <div class="card c-teal">
         <span class="card-cn">叩手礼</span>
@@ -173,7 +173,7 @@ content_sources:
         <span class="card-py">chápán</span>
         <span class="card-en">tea tray — the base of the gongfu setup</span>
         <span class="tag-n">n.</span>
-        <p>The tray on which all gongfu tea vessels sit, designed to collect discarded water — warming rinse, tea wash, overflows — and drain it away or hold it in a reservoir below. Ranges from simple bamboo trays to elaborate wooden or stone constructions with built-in drainage channels. Its presence is what makes the multiple-rinse and high-water-volume process of gongfu tea practical at a table.</p>
+        <p>The tray on which all gongfu tea vessels sit, designed to collect discarded water (warming rinse, tea wash, overflows) and drain it away or hold it in a reservoir below. Ranges from simple bamboo trays to elaborate wooden or stone constructions with built-in drainage channels. Its presence is what makes the multiple-rinse and high-water-volume process of gongfu tea practical at a table.</p>
       </div>
     </div>
 
