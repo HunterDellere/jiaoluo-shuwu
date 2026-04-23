@@ -425,7 +425,7 @@ content_sources:
       <div class="scholar-label">记忆法 jìyìfǎ · Master Retention Image</div>
       <p>The character 命 shows a mouth above and a body below — a command issued downward, a life received from above. That vertical image is the whole concept: heaven decrees, rulers receive, dynasties rise or fall accordingly. The Zhou invented this logic to justify a coup. Every dynasty that followed used it to explain why they deserved to be there — and used the same logic, in reverse, to explain why their predecessors had deserved to fall.</p>
       <p>What makes 天命 durable is its built-in accountability. A dynasty that floods its own population, loses wars, and fails its people is not just failing politically — it is demonstrating that heaven has withdrawn. The concept does not protect rulers; it judges them. That is why the same logic that crowned an emperor could also crown his assassin.</p>
-      <p>今天 (today) 天命 as political vocabulary has largely retired, but 命 is everywhere: in 命运 (your fate across a lifetime), in 拼命 (to stake everything on it), in 救命 (when it is in immediate danger), in 知天命 (when you are old enough to have made peace with what it is). The word that once organized dynasties now organizes lives.</p>
+      <p>天命 as political vocabulary has largely retired. But 命 is everywhere still: in 拼命 (to stake your life on something), in 救命 (when life is in immediate danger), in 知天命 (Confucius at fifty, finally understanding what heaven had assigned him). The mouth still issues from above; the body still receives below.</p>
     </div>
 
     <footer class="page-footer">
