@@ -104,7 +104,7 @@ content_sources:
 
     <div class="scholar" data-glyph="大">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
-      <p>The oracle-bone form of <strong>大</strong> is simply a person (人 rén) with arms spread wide — the body at its maximum horizontal extent. Greatness is measured against the human form. What is big fills more space than a person; what is great exceeds the human scale.</p>
+      <p>The oracle-bone form of <strong>大</strong> is simply a person (人 rén) with arms spread wide, the body at its maximum horizontal extent. Greatness is measured against the human form. What is big fills more space than a person; what is great exceeds the human scale.</p>
       <p>大 is the root radical for several related characters: 天 tiān (heaven — a person with a line above their head, something beyond the human), 夫 fū (a man with a hairpin — an adult man), 太 tài (very; excessive — 大 with an extra dot), and 夭 yāo (to die young — a person bent or falling). All are modifications of the spread-armed human figure.</p>
       <p>In Chinese cosmological thought, 大 is one of the supreme qualifiers. The Laozi writes: 道大、天大、地大、人亦大 — "The Dao is great, Heaven is great, Earth is great, and the human is also great." Four greats; the human among them.</p>
     </div>
@@ -120,8 +120,8 @@ content_sources:
 
     <div class="scholar" data-glyph="大">
       <div class="scholar-label">道德经 · Laozi Chapter 25</div>
-      <p>Laozi's chapter 25 contains the famous formula: <strong>域中有四大，而人居其一焉</strong> — "In the cosmos there are four greats, and the human occupies one of them." The four greats are: 道 dào (the Way), 天 tiān (Heaven), 地 dì (Earth), and 人 rén (the Human). This places humanity within a cosmological hierarchy — not at the top, but not excluded. The human is <em>great</em> insofar as they align with the Dao.</p>
-      <p>This framework connects 大 to the deepest questions in Chinese philosophy. 大学 Dàxué (the Great Learning) — one of the Four Books of Confucianism — is literally "great learning," the learning of how to be fully, cosmologically human. The university (大学 dàxué) carries this name.</p>
+      <p>Laozi's chapter 25 contains the famous formula: <strong>域中有四大，而人居其一焉</strong> — "In the cosmos there are four greats, and the human occupies one of them." The four greats are: 道 dào (the Way), 天 tiān (Heaven), 地 dì (Earth), and 人 rén (the Human). The human sits within a cosmological hierarchy, not at the top, but present. The human is <em>great</em> insofar as they align with the Dao.</p>
+      <p>This framework connects 大 to the deepest questions in Chinese philosophy. 大学 Dàxué (the Great Learning, one of the Four Books of Confucianism) is literally "great learning," the learning of how to be fully, cosmologically human. The university (大学 dàxué) carries this name.</p>
     </div>
 
     <!-- ── KEY COMPOUNDS ── -->
@@ -143,7 +143,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          大 dà + 学 xué (learning). In modern use: a university. In classical use: one of the Four Books of Confucianism (大学 Dàxué), outlining the path from self-cultivation to governance. The same two characters carry both meanings — the institutional and the transformative.
+          大 dà + 学 xué (learning). In modern use: a university. In classical use: one of the Four Books of Confucianism (大学 Dàxué), outlining the path from self-cultivation to governance. The same two characters carry both meanings, the institutional and the transformative.
         </div>
         <div class="examples">
           <div class="example">
@@ -162,7 +162,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-adj">Adj 形容词 xíngróngcí</span></div>
         <div class="card-def">
-          伟 wěi (towering, magnificent) + 大 dà. The highest register of greatness — used for great historical figures, great achievements, and (frequently in political contexts) the greatness of the Party or state. In everyday speech it can be slightly ironic if overused.
+          伟 wěi (towering, magnificent) + 大 dà. The highest register of greatness, used for great historical figures, great achievements, and (frequently in political contexts) the greatness of the Party or state. In everyday speech it can be slightly ironic if overused.
         </div>
         <div class="examples">
           <div class="example">
@@ -181,7 +181,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-adj">Adv 副词 fùcí</span></div>
         <div class="card-def">
-          大 dà (large, rough) + 概 gài (general outline; to level off). A rough outline — approximately, probably. One of the most natural hedges in spoken Mandarin: 大概三点 "around three o'clock."
+          大 dà (large, rough) + 概 gài (general outline; to level off). A rough outline: approximately, probably. One of the most natural hedges in spoken Mandarin: 大概三点 "around three o'clock."
         </div>
         <div class="examples">
           <div class="example">
@@ -200,7 +200,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-adj">Adj 形容词 xíngróngcí</span></div>
         <div class="card-def">
-          大 dà + 方 fāng (square; proper; generous). Having the big-square manner — poised, natural, generous, not petty. Used for both personality (generous with money) and bearing (natural and composed, not awkward). A high compliment in Chinese social contexts.
+          大 dà + 方 fāng (square; proper; generous). Having the big-square manner: poised, natural, generous, not petty. Used for both personality (generous with money) and bearing (natural and composed, not awkward). A high compliment in Chinese social contexts.
         </div>
         <div class="examples">
           <div class="example">
@@ -225,7 +225,7 @@ content_sources:
     <div class="scholar" data-glyph="大">
       <div class="scholar-label">文化洞见 wénhuà dòngjiàn · Cultural Insight</div>
       <p><strong>大家 dàjiā</strong> — "everyone; we all; all of us" — is one of the most important words in Chinese social life. Lit: "the big household / the great family." In Chinese collectivist culture, 大家 invokes the group as a unit: 大家好 (hello everyone), 大家一起来 (let's all do it together), 大家的事 (everyone's matter — a shared responsibility).</p>
-      <p>The word also means "a great master" in a second sense: 文学大家 (a literary giant). The same two characters: the master of a great household, and everyone in it. Both usages reflect Chinese social values — the individual reaches greatness by serving the collective, and the collective is animated by its masters.</p>
+      <p>The word also means "a great master" in a second sense: 文学大家 (a literary giant). The same two characters: the master of a great household, and everyone in it.</p>
     </div>
 
     <!-- ── CHENGYU ── -->
@@ -250,7 +250,7 @@ content_sources:
         <span class="cy-cn">大材小用</span>
         <span class="cy-py">dà cái xiǎo yòng</span>
         <span class="cy-en">great timber put to small use — talent wasted on a trivial task</span>
-        <span class="cy-note">Lit: great-timber-small-use. A grand beam used as a chopstick. The standard phrase for talent misallocated — someone overqualified for their position. Politely said of others (rarely oneself).</span>
+        <span class="cy-note">Lit: great-timber-small-use. A grand beam used as a chopstick. The standard phrase for talent misallocated, someone overqualified for their position. Politely said of others (rarely oneself).</span>
       </div>
 
       <div class="cy">
