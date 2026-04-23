@@ -96,9 +96,9 @@ content_sources:
 
     <div class="scholar" data-glyph="电">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
-      <p><strong>电 diàn</strong> is a simplified form of <strong>電</strong>, which originated as a pictograph showing lightning (申 shēn — a zigzag bolt) descending from a rain cloud (雨 yǔ). The original oracle-bone and bronze-script forms are dramatically vivid: a cloud at the top with a serpentine lightning bolt zigzagging downward. This was the natural phenomenon — lightning during a storm — before the character was drafted to name the force of modernity.</p>
-      <p>The traditional character 電 retains the rain radical 雨 above and the lightning component 申 below. In simplification (1956–1964), the rain component was reduced and the character compressed to 电 — five strokes versus thirteen. The simplification loses some visual poetry but preserves the phonetic connection (申 shēn is the phonetic component; the initial consonant shifted across millennia of phonological change).</p>
-      <p>电 underwent one of the most remarkable semantic expansions in the history of Chinese: originally denoting only lightning, it was appropriated in the 19th century as Chinese encountered Western electrical technology. Every new electrical technology received a 电 compound — telegraph (电报), telephone (电话), electricity itself as utility (电力/用电). This single character bootstrapped a vocabulary for the entire electrical age. When digital technology arrived, 电 extended further: 电脑 (computer — "electric brain"), 电子 (electronics — "electric child"), 电商 (e-commerce).</p>
+      <p><strong>电 diàn</strong> is a simplified form of <strong>電</strong>, which originated as a pictograph showing lightning (申 shēn, a zigzag bolt) descending from a rain cloud (雨 yǔ). The original oracle-bone and bronze-script forms are dramatically vivid: a cloud at the top with a serpentine lightning bolt zigzagging downward. This was the natural phenomenon, lightning during a storm, before the character was drafted to name the force of modernity.</p>
+      <p>The traditional character 電 retains the rain radical 雨 above and the lightning component 申 below. In the simplification of 1956–1964, the rain component was reduced and the character compressed to 电, five strokes versus thirteen. The simplification loses some visual poetry but preserves the phonetic connection (申 shēn is the phonetic component; the initial consonant shifted across millennia of phonological change).</p>
+      <p>电 underwent one of the most remarkable semantic expansions in the history of Chinese. Originally denoting only lightning, it was appropriated in the 19th century as Chinese encountered Western electrical technology. Every new electrical technology received a 电 compound: telegraph (电报), telephone (电话), electricity itself as utility (电力/用电). When digital technology arrived, 电 extended further: 电脑 (computer, "electric brain"), 电子 (electronics, "electric child"), 电商 (e-commerce).</p>
     </div>
 
     <span class="section-anchor" id="modern"></span>
@@ -132,7 +132,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          电 diàn (electric) + 脑 nǎo (brain). Computer. The Chinese coinage is philosophically more interesting than the English "computer" — it frames the machine as a brain, not a calculator. Compare: Taiwan uses 電腦 (same characters), while the PRC also accepts 计算机 jìsuànjī (calculating machine — the more literal/technical term used in academic and governmental contexts). 笔记本电脑 = laptop (lit. "notebook computer"). 台式电脑 = desktop. 手机 is now displacing 电脑 for many tasks in China.
+          电 diàn (electric) + 脑 nǎo (brain). Computer. The Chinese coinage frames the machine as a brain rather than a calculator. Compare: Taiwan uses 電腦 (same characters), while the PRC also accepts 计算机 jìsuànjī (calculating machine, the more literal/technical term used in academic and governmental contexts). 笔记本电脑 = laptop (lit. "notebook computer"). 台式电脑 = desktop. 手机 is now displacing 电脑 for many tasks in China.
         </div>
         <div class="examples">
           <div class="example">
@@ -151,7 +151,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          电 diàn (electric) + 影 yǐng (shadow; reflection; image). Film, movie — named for the projected shadows of early cinema. 看电影 = to watch a film. 电影院 = cinema. 电影节 = film festival (Cannes 戛纳电影节, Venice 威尼斯电影节, Berlin 柏林电影节, Hong Kong 香港电影节). Chinese cinema is one of the world's largest: 国产片 (domestic films) compete with 进口片 (imported films, with annual quota limits on Hollywood imports). 中国电影 has produced major directors — 张艺谋 Zhang Yimou, 陈凯歌 Chen Kaige, 贾樟柯 Jia Zhangke.
+          电 diàn (electric) + 影 yǐng (shadow; reflection; image). Film, movie — named for the projected shadows of early cinema. 看电影 = to watch a film. 电影院 = cinema. 电影节 = film festival (Cannes 戛纳电影节, Venice 威尼斯电影节, Berlin 柏林电影节, Hong Kong 香港电影节). Chinese cinema is one of the world's largest: 国产片 (domestic films) compete with 进口片 (imported films, with annual quota limits on Hollywood imports). Major directors include 张艺谋 Zhang Yimou, 陈凯歌 Chen Kaige, 贾樟柯 Jia Zhangke.
         </div>
         <div class="examples">
           <div class="example">
