@@ -75,8 +75,8 @@ pinyin: 'méiyǒu'
     <div class="scholar" data-glyph="没">
       <div class="scholar-label">语法洞见 yǔfǎ dòngjiàn · Grammar Insight</div>
       <p>Mandarin has two primary negation words, and they are <strong>not interchangeable:</strong></p>
-      <p><strong>不 bù</strong> — the <em>volitional, general, or present-state</em> negator. Negates willingness, habits, ongoing states, and non-past actions. It expresses what <em>won't happen, isn't true by nature, or is refused.</em></p>
-      <p><strong>没 méi</strong> — the <em>factual, past-event, or possession</em> negator. Negates completed actions, possession of things, and objective facts about what has or hasn't occurred. It expresses what <em>didn't happen or doesn't exist in fact.</em></p>
+      <p><strong>不 bù</strong> is the <em>volitional, general, or present-state</em> negator. It negates willingness, habits, ongoing states, and non-past actions, expressing what won't happen, isn't true by nature, or is refused.</p>
+      <p><strong>没 méi</strong> is the <em>factual, past-event, or possession</em> negator. It negates completed actions, possession of things, and objective facts about what has or hasn't occurred, expressing what didn't happen or doesn't exist in fact.</p>
       <p>The distinction is fundamentally about <strong>time and volition</strong>: 不 looks to the present/future or expresses will; 没 looks to the past or states facts about existence and occurrence.</p>
     </div>
 
@@ -337,7 +337,7 @@ pinyin: 'méiyǒu'
         </div>
         <div class="tags"><span class="tag tag-v">Set phrase</span></div>
         <div class="card-def">
-          还 hái (still; yet) + 没有 + 呢 ne (continuation particle). The standard way to say "not yet" — implying the action is expected but hasn't completed. Stronger and more colloquial than simply saying 没有.
+          还 hái (still; yet) + 没有 + 呢 ne (continuation particle). The standard way to say "not yet," implying the action is expected but hasn't completed. Stronger and more colloquial than simply saying 没有.
         </div>
         <div class="examples">
           <div class="example">
