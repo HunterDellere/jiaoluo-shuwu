@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-22T23:32:03.679Z",
+  "generated": "2026-04-23T01:36:36.910Z",
   "summary": {
     "errors": 0,
-    "warnings": 7,
+    "warnings": 8,
     "info": 233
   },
   "findings": [
@@ -1673,8 +1673,14 @@
     {
       "level": "WARN",
       "category": "factual",
+      "file": "content/characters/yi4_义.md",
+      "msg": "radical '丶' differs from reference '丿' for '义' (may be a system choice — verify)"
+    },
+    {
+      "level": "WARN",
+      "category": "factual",
       "file": "data/_reference/hanzi-facts.json",
-      "msg": "19 hanzi appear in content/ but have no reference entry: 変喫剣楽竜牀刃厶気雹臓囍哋箇珅栄浄伋龘. Claims about these characters cannot be mechanically verified. Run 'npm run refresh:reference' after updating upstream data."
+      "msg": "29 hanzi appear in content/ but have no reference entry: 変喫剣翩楽竜牀刃厶気雹臓丶凛彐鬓彗罔殆膑囍哋箇珅栄浄伋龘肰. Claims about these characters cannot be mechanically verified. Run 'npm run refresh:reference' after updating upstream data."
     }
   ]
 }

@@ -1,5 +1,24 @@
 [
   {
+    "path": "pages/characters/feng1_风.html",
+    "type": "character",
+    "category": "characters",
+    "title": "风 · wind; style; custom",
+    "desc": "The character that moves crops, carries seeds, and became the Chinese word for cultural character itself.",
+    "tags": [
+      "nature",
+      "culture",
+      "cosmology"
+    ],
+    "status": "complete",
+    "char": "风",
+    "pinyin": "fēng",
+    "tone": 1,
+    "hsk": 3,
+    "radical": "风",
+    "updated": "2026-04-22"
+  },
+  {
     "path": "pages/characters/lai2_来.html",
     "type": "character",
     "category": "characters",
@@ -97,6 +116,142 @@
     "updated": "2026-04-22"
   },
   {
+    "path": "pages/characters/xin4_信.html",
+    "type": "character",
+    "category": "characters",
+    "title": "信 · trust, faith, credibility",
+    "desc": "A person standing by their word — one of the most visually transparent characters in the language, and the virtue that holds every contract, conversation, and relationship together.",
+    "tags": [
+      "confucianism",
+      "ethics",
+      "virtue",
+      "philosophy",
+      "communication"
+    ],
+    "status": "complete",
+    "char": "信",
+    "pinyin": "xìn",
+    "tone": 4,
+    "hsk": 2,
+    "radical": "亻",
+    "updated": "2026-04-22"
+  },
+  {
+    "path": "pages/characters/yi4_义.html",
+    "type": "character",
+    "category": "characters",
+    "title": "义 · righteousness, duty, justice",
+    "desc": "The Confucian virtue of doing what is morally right — and the simplification that erased a sheep, a self, and the entire picture of what righteous form looks like.",
+    "tags": [
+      "confucianism",
+      "ethics",
+      "virtue",
+      "philosophy"
+    ],
+    "status": "complete",
+    "char": "义",
+    "pinyin": "yì",
+    "tone": 4,
+    "hsk": 3,
+    "radical": "丶",
+    "updated": "2026-04-22"
+  },
+  {
+    "path": "pages/characters/yu3_雨.html",
+    "type": "character",
+    "category": "characters",
+    "title": "雨 · rain",
+    "desc": "The oracle bone shows rain falling from the sky — one of the most transparent pictographs in the script, and the radical that organizes all Chinese weather.",
+    "tags": [
+      "nature",
+      "radical",
+      "cosmology"
+    ],
+    "status": "complete",
+    "char": "雨",
+    "pinyin": "yǔ",
+    "tone": 3,
+    "hsk": 2,
+    "radical": "雨",
+    "updated": "2026-04-22"
+  },
+  {
+    "path": "pages/characters/yun2_云.html",
+    "type": "character",
+    "category": "characters",
+    "title": "云 · cloud",
+    "desc": "The simplified 云 is older than the traditional 雲 — a rare case where the modern form recovers the ancient one.",
+    "tags": [
+      "nature",
+      "cosmology",
+      "classical"
+    ],
+    "status": "complete",
+    "char": "云",
+    "pinyin": "yún",
+    "tone": 2,
+    "hsk": 4,
+    "radical": "二",
+    "updated": "2026-04-22"
+  },
+  {
+    "path": "pages/characters/zhi4_智.html",
+    "type": "character",
+    "category": "characters",
+    "title": "智 · wisdom, moral intelligence",
+    "desc": "The Confucian virtue of knowing what is right to do — and, separately, the Buddhist prajñā that sees through the nature of things altogether.",
+    "tags": [
+      "confucianism",
+      "ethics",
+      "virtue",
+      "philosophy",
+      "buddhism"
+    ],
+    "status": "complete",
+    "char": "智",
+    "pinyin": "zhì",
+    "tone": 4,
+    "hsk": 4,
+    "radical": "日",
+    "updated": "2026-04-22"
+  },
+  {
+    "path": "pages/daily/topic_jiating.html",
+    "type": "topic",
+    "category": "daily",
+    "title": "家庭 · Family Structure",
+    "desc": "Chinese kinship terminology is a precision instrument — each relative has one specific term, and that precision maps an obligation network, not just a family tree.",
+    "tags": [
+      "family",
+      "social",
+      "culture",
+      "daily-life",
+      "confucianism",
+      "society"
+    ],
+    "status": "complete",
+    "pinyin": "jiātíng",
+    "updated": "2026-04-22"
+  },
+  {
+    "path": "pages/daily/topic_mianzi_practice.html",
+    "type": "topic",
+    "category": "daily",
+    "title": "面子实践 · Face in Practice",
+    "desc": "Face in Chinese social life is not an attitude — it is a recurring set of transactions with specific mechanics: how face is given, taken, lost, and preserved in concrete situations.",
+    "tags": [
+      "social",
+      "culture",
+      "etiquette",
+      "honor",
+      "daily-life",
+      "society"
+    ],
+    "status": "complete",
+    "pinyin": "miànzi shíjiàn",
+    "updated": "2026-04-22"
+  },
+  {
     "path": "pages/grammar/zhe_着.html",
     "type": "grammar",
     "category": "grammar",
@@ -111,6 +266,40 @@
     "status": "complete",
     "pinyin": "zhe",
     "updated": "2026-04-22"
+  },
+  {
+    "path": "pages/hubs/daode.html",
+    "type": "hub",
+    "category": "hubs",
+    "title": "道德与伦理 · Morality and Ethics — A Reading Path",
+    "desc": "Chinese ethics is not a checklist of personal virtues. It is a description of how one should relate to specific others — and what happens when those relationships are tested.",
+    "tags": [
+      "ethics",
+      "confucianism",
+      "society",
+      "hub"
+    ],
+    "status": "complete",
+    "pinyin": "dàodé yǔ lúnlǐ",
+    "updated": "2026-04-22",
+    "memberCount": 18
+  },
+  {
+    "path": "pages/hubs/dili.html",
+    "type": "hub",
+    "category": "hubs",
+    "title": "地理与语言 · Geography and Language — A Reading Path",
+    "desc": "The rivers shaped the civilization; geography fractured the language; one writing system held it together.",
+    "tags": [
+      "geography",
+      "language",
+      "dialect",
+      "hub"
+    ],
+    "status": "complete",
+    "pinyin": "dìlǐ yǔ yǔyán",
+    "updated": "2026-04-22",
+    "memberCount": 12
   },
   {
     "path": "pages/hubs/wenxue.html",
@@ -148,6 +337,22 @@
     "memberCount": 11
   },
   {
+    "path": "pages/vocab/ziran_自然.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "自然 · nature; natural; of course",
+    "desc": "Laozi placed 自然 at the center of his cosmology: the Way models itself on what is so of itself — no outside force required.",
+    "tags": [
+      "nature",
+      "daoism",
+      "philosophy",
+      "cosmology"
+    ],
+    "status": "complete",
+    "pinyin": "zìrán",
+    "updated": "2026-04-22"
+  },
+  {
     "path": "pages/characters/chan3_产.html",
     "type": "character",
     "category": "characters",
@@ -165,194 +370,6 @@
     "tone": 3,
     "hsk": 3,
     "radical": "亠",
-    "updated": "2026-04-20"
-  },
-  {
-    "path": "pages/characters/gao4_告.html",
-    "type": "character",
-    "category": "characters",
-    "title": "告 · to tell, to announce, to report",
-    "desc": "A mouth aimed upward: the character for delivering words to authority — and the root of advertising, accusations, and warnings.",
-    "tags": [
-      "communication",
-      "legal",
-      "media"
-    ],
-    "status": "complete",
-    "char": "告",
-    "pinyin": "gào",
-    "tone": 4,
-    "hsk": 3,
-    "radical": "口",
-    "updated": "2026-04-20"
-  },
-  {
-    "path": "pages/characters/guang3_广.html",
-    "type": "character",
-    "category": "characters",
-    "title": "广 · wide, broad, to spread",
-    "desc": "A radical and a word: the cliff-shelter that became the prefix for everything expansive — from Guangzhou to Guangdong to radio broadcasts.",
-    "tags": [
-      "space",
-      "geography",
-      "media"
-    ],
-    "status": "complete",
-    "char": "广",
-    "pinyin": "guǎng",
-    "tone": 3,
-    "hsk": 4,
-    "radical": "广",
-    "updated": "2026-04-20"
-  },
-  {
-    "path": "pages/characters/pin3_品.html",
-    "type": "character",
-    "category": "characters",
-    "title": "品 · article, grade, character, to taste",
-    "desc": "Three mouths stacked: a character about multiplicity, evaluation, and the discerning assessment of quality — from product grades to moral character.",
-    "tags": [
-      "evaluation",
-      "quality",
-      "culture",
-      "commerce"
-    ],
-    "status": "complete",
-    "char": "品",
-    "pinyin": "pǐn",
-    "tone": 3,
-    "hsk": 3,
-    "radical": "口",
-    "updated": "2026-04-20"
-  },
-  {
-    "path": "pages/characters/tu2_图.html",
-    "type": "character",
-    "category": "characters",
-    "title": "图 · map, diagram, to plan, to seek",
-    "desc": "A character for diagrams, maps, intentions, and plots — anything that represents the world at one remove, or seeks to reshape it.",
-    "tags": [
-      "visual",
-      "planning",
-      "cartography"
-    ],
-    "status": "complete",
-    "char": "图",
-    "pinyin": "tú",
-    "tone": 2,
-    "hsk": 3,
-    "radical": "囗",
-    "updated": "2026-04-20"
-  },
-  {
-    "path": "pages/characters/zhi1_之.html",
-    "type": "character",
-    "category": "characters",
-    "title": "之 · of, going, this — the classical connective",
-    "desc": "The most-written character in classical Chinese — a possessive particle, pronoun, and verb fossilized into pure grammar.",
-    "tags": [
-      "classical",
-      "grammar",
-      "particle",
-      "literary"
-    ],
-    "status": "complete",
-    "char": "之",
-    "pinyin": "zhī",
-    "tone": 1,
-    "hsk": 5,
-    "radical": "丿",
-    "updated": "2026-04-20"
-  },
-  {
-    "path": "pages/vocab/bihua_笔画.html",
-    "type": "topic",
-    "category": "vocab",
-    "title": "笔画 · strokes — the building blocks of Chinese characters",
-    "desc": "Every Chinese character is built from a small set of standard strokes written in a prescribed order. Stroke count determines dictionary order; stroke order determines how a character looks when written by hand.",
-    "tags": [
-      "characters",
-      "writing",
-      "calligraphy",
-      "language"
-    ],
-    "status": "complete",
-    "updated": "2026-04-20"
-  },
-  {
-    "path": "pages/vocab/bushou_部首.html",
-    "type": "topic",
-    "category": "vocab",
-    "title": "部首 · radicals — the indexing keys of Chinese characters",
-    "desc": "Every Chinese character belongs to a radical family. Radicals are the organizing principle of dictionaries, the structural DNA of characters, and the fastest shortcut to guessing what an unfamiliar word means.",
-    "tags": [
-      "characters",
-      "writing",
-      "radical",
-      "language"
-    ],
-    "status": "complete",
-    "updated": "2026-04-20"
-  },
-  {
-    "path": "pages/vocab/chanpin_产品.html",
-    "type": "vocab",
-    "category": "vocab",
-    "title": "产品 · product, manufactured good",
-    "desc": "The standard Chinese word for product — what production yields and commerce moves. From factory floor to digital marketplace, 产品 names the output of organized human effort.",
-    "tags": [
-      "commerce",
-      "economy",
-      "production"
-    ],
-    "status": "complete",
-    "pinyin": "chǎnpǐn",
-    "updated": "2026-04-20"
-  },
-  {
-    "path": "pages/vocab/pinyin_拼音.html",
-    "type": "topic",
-    "category": "vocab",
-    "title": "拼音 · the romanization system for Mandarin",
-    "desc": "Pinyin is the official romanization of Mandarin — the system that maps Chinese sounds to the Latin alphabet. It is a pronunciation guide, not a writing system, and it does not replace characters.",
-    "tags": [
-      "language",
-      "grammar",
-      "writing",
-      "literacy"
-    ],
-    "status": "complete",
-    "updated": "2026-04-20"
-  },
-  {
-    "path": "pages/vocab/shengchan_生产.html",
-    "type": "vocab",
-    "category": "vocab",
-    "title": "生产 · to produce, production, manufacturing",
-    "desc": "The foundational act of economic life — and, in China's Marxist political vocabulary, the act from which all social relations flow. Life gives rise to production; production sustains life.",
-    "tags": [
-      "economy",
-      "production",
-      "politics",
-      "industry"
-    ],
-    "status": "complete",
-    "pinyin": "shēngchǎn",
-    "updated": "2026-04-20"
-  },
-  {
-    "path": "pages/vocab/shengtiao_声调.html",
-    "type": "topic",
-    "category": "vocab",
-    "title": "声调 · the four tones of Mandarin",
-    "desc": "Mandarin is tonal: the same syllable said at four different pitches means four different things. Tone is not emphasis — it is part of the word.",
-    "tags": [
-      "grammar",
-      "language",
-      "tones",
-      "phonology"
-    ],
-    "status": "complete",
     "updated": "2026-04-20"
   }
 ]

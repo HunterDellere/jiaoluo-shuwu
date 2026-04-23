@@ -13,7 +13,7 @@
 
 These are the tells of LLM-generic writing. Strip them when seen.
 
-- **Em-dash overuse.** Em-dashes are fine in moderation, but a page with one in every paragraph reads as machine. Prefer periods, commas, and parentheses. Reserve em-dashes for genuine asides or sharp interruptions.
+- **Em-dash overuse — the single clearest AI tell.** Limit to one em-dash per page, two at absolute most. Every em-dash is a candidate for deletion: replace with a period, a comma, or a parenthetical. The only legitimate use is a sharp, unexpected interruption that a comma genuinely cannot carry. If you are reaching for an em-dash to introduce a clarification or contrast, rewrite the sentence instead.
 - **"It's not X, it's Y" / "Not just X, but Y" parallelism.** This construction is overused by LLMs as a way to sound insightful. Replace with a direct claim: "Y" instead of "not X, but Y".
 - **Throat-clearing openings.** Skip "It is worth noting that…", "One might argue…", "It is important to remember…". Just say the thing.
 - **Tricolons of three short phrases.** "Quick, cheap, and reliable." "Birth, marriage, and death." Used sparingly these are fine. Used in every paragraph they read as filler.

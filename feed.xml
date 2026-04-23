@@ -6,7 +6,15 @@
     <atom:link href="https://jiaoshoo.com/feed.xml" rel="self" type="application/rss+xml" />
     <description>Notes on Chinese language and civilisation — characters, vocabulary, grammar, history, philosophy, and the world they shaped.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 22 Apr 2026 23:32:02 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 01:36:35 GMT</lastBuildDate>
+    <item>
+      <title>风 · wind; style; custom</title>
+      <link>https://jiaoshoo.com/pages/characters/feng1_风.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/feng1_风.html</guid>
+      <pubDate>Wed, 22 Apr 2026 00:00:00 GMT</pubDate>
+      <description>The character that moves crops, carries seeds, and became the Chinese word for cultural character itself.</description>
+      <category>characters</category>
+    </item>
     <item>
       <title>来 · to come, to arrive, toward the speaker</title>
       <link>https://jiaoshoo.com/pages/characters/lai2_来.html</link>
@@ -48,12 +56,84 @@
       <category>characters</category>
     </item>
     <item>
+      <title>信 · trust, faith, credibility</title>
+      <link>https://jiaoshoo.com/pages/characters/xin4_信.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/xin4_信.html</guid>
+      <pubDate>Wed, 22 Apr 2026 00:00:00 GMT</pubDate>
+      <description>A person standing by their word — one of the most visually transparent characters in the language, and the virtue that holds every contract, conversation, and relationship together.</description>
+      <category>characters</category>
+    </item>
+    <item>
+      <title>义 · righteousness, duty, justice</title>
+      <link>https://jiaoshoo.com/pages/characters/yi4_义.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/yi4_义.html</guid>
+      <pubDate>Wed, 22 Apr 2026 00:00:00 GMT</pubDate>
+      <description>The Confucian virtue of doing what is morally right — and the simplification that erased a sheep, a self, and the entire picture of what righteous form looks like.</description>
+      <category>characters</category>
+    </item>
+    <item>
+      <title>雨 · rain</title>
+      <link>https://jiaoshoo.com/pages/characters/yu3_雨.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/yu3_雨.html</guid>
+      <pubDate>Wed, 22 Apr 2026 00:00:00 GMT</pubDate>
+      <description>The oracle bone shows rain falling from the sky — one of the most transparent pictographs in the script, and the radical that organizes all Chinese weather.</description>
+      <category>characters</category>
+    </item>
+    <item>
+      <title>云 · cloud</title>
+      <link>https://jiaoshoo.com/pages/characters/yun2_云.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/yun2_云.html</guid>
+      <pubDate>Wed, 22 Apr 2026 00:00:00 GMT</pubDate>
+      <description>The simplified 云 is older than the traditional 雲 — a rare case where the modern form recovers the ancient one.</description>
+      <category>characters</category>
+    </item>
+    <item>
+      <title>智 · wisdom, moral intelligence</title>
+      <link>https://jiaoshoo.com/pages/characters/zhi4_智.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/zhi4_智.html</guid>
+      <pubDate>Wed, 22 Apr 2026 00:00:00 GMT</pubDate>
+      <description>The Confucian virtue of knowing what is right to do — and, separately, the Buddhist prajñā that sees through the nature of things altogether.</description>
+      <category>characters</category>
+    </item>
+    <item>
+      <title>家庭 · Family Structure</title>
+      <link>https://jiaoshoo.com/pages/daily/topic_jiating.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/daily/topic_jiating.html</guid>
+      <pubDate>Wed, 22 Apr 2026 00:00:00 GMT</pubDate>
+      <description>Chinese kinship terminology is a precision instrument — each relative has one specific term, and that precision maps an obligation network, not just a family tree.</description>
+      <category>daily</category>
+    </item>
+    <item>
+      <title>面子实践 · Face in Practice</title>
+      <link>https://jiaoshoo.com/pages/daily/topic_mianzi_practice.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/daily/topic_mianzi_practice.html</guid>
+      <pubDate>Wed, 22 Apr 2026 00:00:00 GMT</pubDate>
+      <description>Face in Chinese social life is not an attitude — it is a recurring set of transactions with specific mechanics: how face is given, taken, lost, and preserved in concrete situations.</description>
+      <category>daily</category>
+    </item>
+    <item>
       <title>着 · the continuous aspect marker</title>
       <link>https://jiaoshoo.com/pages/grammar/zhe_着.html</link>
       <guid isPermaLink="true">https://jiaoshoo.com/pages/grammar/zhe_着.html</guid>
       <pubDate>Wed, 22 Apr 2026 00:00:00 GMT</pubDate>
       <description>Three distinct jobs: holding a state, linking two actions, and commanding attention — all from a single particle that beginners collapse into one.</description>
       <category>grammar</category>
+    </item>
+    <item>
+      <title>道德与伦理 · Morality and Ethics — A Reading Path</title>
+      <link>https://jiaoshoo.com/pages/hubs/daode.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/hubs/daode.html</guid>
+      <pubDate>Wed, 22 Apr 2026 00:00:00 GMT</pubDate>
+      <description>Chinese ethics is not a checklist of personal virtues. It is a description of how one should relate to specific others — and what happens when those relationships are tested.</description>
+      <category>hubs</category>
+    </item>
+    <item>
+      <title>地理与语言 · Geography and Language — A Reading Path</title>
+      <link>https://jiaoshoo.com/pages/hubs/dili.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/hubs/dili.html</guid>
+      <pubDate>Wed, 22 Apr 2026 00:00:00 GMT</pubDate>
+      <description>The rivers shaped the civilization; geography fractured the language; one writing system held it together.</description>
+      <category>hubs</category>
     </item>
     <item>
       <title>文学路径 · Literary China — A Reading Path</title>
@@ -70,6 +150,14 @@
       <pubDate>Wed, 22 Apr 2026 00:00:00 GMT</pubDate>
       <description>Chinese religiosity doesn&apos;t fit Western categories. Most people practice elements of Confucianism, Daoism, Buddhism, folk religion, and ancestor veneration simultaneously — a map of how these traditions relate.</description>
       <category>hubs</category>
+    </item>
+    <item>
+      <title>自然 · nature; natural; of course</title>
+      <link>https://jiaoshoo.com/pages/vocab/ziran_自然.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/vocab/ziran_自然.html</guid>
+      <pubDate>Wed, 22 Apr 2026 00:00:00 GMT</pubDate>
+      <description>Laozi placed 自然 at the center of his cosmology: the Way models itself on what is so of itself — no outside force required.</description>
+      <category>vocab</category>
     </item>
     <item>
       <title>产 · to produce, give birth, property, output</title>
@@ -158,94 +246,6 @@
       <pubDate>Mon, 20 Apr 2026 00:00:00 GMT</pubDate>
       <description>The foundational act of economic life — and, in China&apos;s Marxist political vocabulary, the act from which all social relations flow. Life gives rise to production; production sustains life.</description>
       <category>vocab</category>
-    </item>
-    <item>
-      <title>声调 · the four tones of Mandarin</title>
-      <link>https://jiaoshoo.com/pages/vocab/shengtiao_声调.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/vocab/shengtiao_声调.html</guid>
-      <pubDate>Mon, 20 Apr 2026 00:00:00 GMT</pubDate>
-      <description>Mandarin is tonal: the same syllable said at four different pitches means four different things. Tone is not emphasis — it is part of the word.</description>
-      <category>vocab</category>
-    </item>
-    <item>
-      <title>楚辞 · Songs of Chu</title>
-      <link>https://jiaoshoo.com/pages/arts/topic_chuci.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/arts/topic_chuci.html</guid>
-      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
-      <description>The shamanistic southern voice that gave Chinese literature its second pole — visionary, romantic, and inconsolably exiled.</description>
-      <category>arts</category>
-    </item>
-    <item>
-      <title>昆曲 · Kun Opera</title>
-      <link>https://jiaoshoo.com/pages/arts/topic_kunqu.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/arts/topic_kunqu.html</guid>
-      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
-      <description>The oldest surviving form of Chinese opera — refined to such perfection over four centuries that it nearly disappeared from its own beauty.</description>
-      <category>arts</category>
-    </item>
-    <item>
-      <title>鲁迅 · Lu Xun</title>
-      <link>https://jiaoshoo.com/pages/arts/topic_luxun.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/arts/topic_luxun.html</guid>
-      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
-      <description>The writer who looked at traditional Chinese society and saw cannibalism — and the complicated, unresolvable legacy he left behind.</description>
-      <category>arts</category>
-    </item>
-    <item>
-      <title>诗经 · Book of Songs</title>
-      <link>https://jiaoshoo.com/pages/arts/topic_shijing.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/arts/topic_shijing.html</guid>
-      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
-      <description>China oldest poetry anthology — three hundred poems that Confucius said no educated person could afford to ignore.</description>
-      <category>arts</category>
-    </item>
-    <item>
-      <title>水墨画 · Ink-Wash Painting</title>
-      <link>https://jiaoshoo.com/pages/arts/topic_shuimohua.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/arts/topic_shuimohua.html</guid>
-      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
-      <description>Where the brush meets philosophy — five tones of ink, the art of leaving space, and landscapes that are not about landscape at all.</description>
-      <category>arts</category>
-    </item>
-    <item>
-      <title>宋词 · Song Dynasty Lyric</title>
-      <link>https://jiaoshoo.com/pages/arts/topic_songci.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/arts/topic_songci.html</guid>
-      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
-      <description>The poem that sings — fixed tune patterns, named meters, and three masters who defined what the Chinese lyric could feel.</description>
-      <category>arts</category>
-    </item>
-    <item>
-      <title>文房四宝 · Four Treasures of the Study</title>
-      <link>https://jiaoshoo.com/pages/arts/topic_wenfangsibao.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/arts/topic_wenfangsibao.html</guid>
-      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
-      <description>Brush, ink, inkstone, and paper — the four instruments through which a scholar thought, wrote, painted, and demonstrated who he was.</description>
-      <category>arts</category>
-    </item>
-    <item>
-      <title>篆刻 · Seal Carving</title>
-      <link>https://jiaoshoo.com/pages/arts/topic_zhuanke.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/arts/topic_zhuanke.html</guid>
-      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
-      <description>The art of the name — bronze to stone, dynasty to dynasty, two schools of carvers, and the small red square that authenticates everything.</description>
-      <category>arts</category>
-    </item>
-    <item>
-      <title>爱 · love, to love, to cherish</title>
-      <link>https://jiaoshoo.com/pages/characters/ai4_爱.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/ai4_爱.html</guid>
-      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
-      <description>Love in all its forms — romantic, familial, and the Confucian ethic of universal benevolence.</description>
-      <category>characters</category>
-    </item>
-    <item>
-      <title>变 · to change, to transform</title>
-      <link>https://jiaoshoo.com/pages/characters/bian4_变.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/bian4_变.html</guid>
-      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
-      <description>The character at the heart of the I Ching, the dynastic cycle, and the modern vocabulary of reform — change as the one constant.</description>
-      <category>characters</category>
     </item>
   </channel>
 </rss>
