@@ -77,8 +77,8 @@ pinyin: 'rúguǒ jiù'
 
     <div class="scholar" data-glyph="如">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
-      <p><strong>如 rú</strong> (to be like; to match; to follow) + <strong>果 guǒ</strong> (fruit; result; indeed). 如 originally depicted a woman kneeling before a mouth — speech conforming to another's. 果 shows a tree bearing fruit — the natural outcome of growth. Together: "if [this condition] indeed comes to pass" — <em>if indeed, supposing.</em></p>
-      <p><strong>就 jiù</strong> is one of Mandarin's most versatile words — it marks: the consequence of a condition, immediacy ("right away"), or limitation ("just/only"). As a consequence marker, 就 picks up where 如果 leaves off: the condition having been granted, 就 says "then and only then." It ties the result tightly to the premise.</p>
+      <p><strong>如 rú</strong> (to be like; to match; to follow) + <strong>果 guǒ</strong> (fruit; result; indeed). 如 originally depicted a woman kneeling before a mouth, speech conforming to another's. 果 shows a tree bearing fruit, the natural outcome of growth. Together: "if [this condition] indeed comes to pass" — <em>if indeed, supposing.</em></p>
+      <p><strong>就 jiù</strong> is one of Mandarin's most versatile words. It marks the consequence of a condition, immediacy ("right away"), and limitation ("just/only"). As a consequence marker, 就 picks up where 如果 leaves off: the condition having been granted, 就 says "then and only then." It ties the result tightly to the premise.</p>
       <p>Chinese conditionals are structurally similar to English "if…then" but with a crucial difference: 就 is an <em>adverb</em> that sits before the verb in the consequence clause, not a conjunction. Understanding this prevents learners from omitting it or placing it in the wrong position.</p>
     </div>
 
@@ -182,8 +182,8 @@ pinyin: 'rúguǒ jiù'
     <div class="scholar" data-glyph="就">
       <div class="scholar-label">语法洞见 yǔfǎ dòngjiàn · Grammar Insight</div>
       <p>就 jiù is doing heavy grammatical lifting in this construction. As an adverb, it precedes the verb in the consequence clause and means "then and in that case." It signals: the condition having been met, this result follows <em>naturally and directly.</em></p>
-      <p>Importantly, 就 can appear even without 如果: 你早点来，我就早点走 (if/when you come earlier, I'll leave earlier). The condition-result relationship is implied by the sequential structure alone. 就 marks the result. This means that in spoken Mandarin, learners frequently drop 如果 while keeping 就 — and that's grammatically valid.</p>
-      <p>Be aware: 就 has many other uses (just; only; right away; as early as). In the conditional frame it is specifically a consequence marker. The context — a prior condition clause — is what signals its conditional function.</p>
+      <p>Importantly, 就 can appear even without 如果: 你早点来，我就早点走 (if/when you come earlier, I'll leave earlier). The condition-result relationship is implied by the sequential structure alone. 就 marks the result. In spoken Mandarin, learners frequently drop 如果 while keeping 就, and that's grammatically valid.</p>
+      <p>Be aware: 就 has many other uses (just; only; right away; as early as). In the conditional frame it is specifically a consequence marker, and a prior condition clause is what signals that function.</p>
     </div>
 
     <!-- ── VARIANTS ── -->
