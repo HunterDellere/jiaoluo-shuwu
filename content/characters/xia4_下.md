@@ -3,7 +3,7 @@ type: 'character'
 category: 'characters'
 status: 'complete'
 title: '下 · below, down, to descend, to issue'
-desc: "The mirror image of 上 — a notch below the line that governs everything from going downstairs to issuing imperial decrees."
+desc: "The mirror image of 上: a notch below the line that governs everything from going downstairs to issuing imperial decrees."
 metaDesc: "下 xià: below, down, under, next, to descend, to issue. Etymology as ideograph, contrast with 上, and key compounds from 下班 to 下雨 to 以下."
 pageTitle: '下 xià'
 tags:
@@ -102,9 +102,9 @@ content_review: 'pending'
 
     <div class="scholar" data-glyph="下">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
-      <p>下 is the exact visual counterpart of 上: a horizontal baseline with a mark placed below it. Where 上 places the notch above the line — "something is up here" — 下 places it under the line: "something is down here." Oracle bone inscriptions confirm this directly. The Shuōwén Jiězì (说文解字) records 下 as "below; the lower position" and pairs it explicitly with 上. They are born together as a minimal pair, two characters that only make sense relative to each other.</p>
-      <p>From that baseline opposition, 下 develops two major semantic directions. The first is physical and spatial: below, underneath, downstairs, the bottom of a mountain. The second is hierarchical and directional: the inferior position, the one who receives rather than gives orders, the person at the bottom of a social structure. These two meanings reinforce each other because in classical Chinese society, spatial metaphor and social hierarchy were not kept separate — to be below was to be subordinate, and to be subordinate was to be below.</p>
-      <p>A third extension is temporal: 下 can mean "next" (下周 next week, 下个月 next month). This uses the image of time as a flowing sequence where what comes next is what descends into the present from the future. 当下 (at this moment; the present) combines 当 (at; this very) with 下 (this point, this level of time) — "at this downward moment of the flow."</p>
+      <p>下 is the exact visual counterpart of 上: a horizontal baseline with a mark placed below it. Where 上 places the notch above the line ("something is up here"), 下 places it under the line ("something is down here"). Oracle bone inscriptions confirm this directly. The Shuōwén Jiězì (说文解字) records 下 as "below; the lower position" and pairs it explicitly with 上. They are born together as a minimal pair, two characters that only make sense relative to each other.</p>
+      <p>From that baseline opposition, 下 develops two major semantic directions. The first is physical and spatial: below, underneath, downstairs, the bottom of a mountain. The second is hierarchical and directional: the inferior position, the one who receives rather than gives orders, the person at the bottom of a social structure. These two meanings reinforce each other because in classical Chinese society, spatial metaphor and social hierarchy were not kept separate. To be below was to be subordinate, and to be subordinate was to be below.</p>
+      <p>A third extension is temporal: 下 can mean "next" (下周 next week, 下个月 next month). This uses the image of time as a flowing sequence where what comes next is what descends into the present from the future. 当下 (at this moment; the present) combines 当 (at; this very) with 下 (this point, this level of time), meaning "at this downward moment of the flow."</p>
     </div>
 
     <!-- ── SPATIAL USES ── -->
@@ -217,7 +217,7 @@ content_review: 'pending'
 
     <div class="scholar" data-glyph="下">
       <div class="scholar-label">构词洞见 gòucí dòngjiàn · 下 as Movement from High to Low</div>
-      <p>The verb use of 下 captures the movement from a higher position to a lower one — and this covers far more than physical descent. 下雨 (to rain) = the rain descends from the sky. 下课 (class ends) = the class descends from its peak, releasing the students. 下令 (to issue an order) = the command descends from authority to those below. 下棋 (to play chess) = placing pieces down onto the board. In each case, the agent at the higher level releases something downward.</p>
+      <p>The verb use of 下 captures movement from a higher position to a lower one, covering far more than physical descent. 下雨 (to rain) = the rain descends from the sky. 下课 (class ends) = the class descends from its peak, releasing the students. 下令 (to issue an order) = the command descends from authority to those below. 下棋 (to play chess) = placing pieces down onto the board. In each case, the agent at the higher level releases something downward.</p>
       <p>The classical sense of the ruler issuing orders downward persists in formal language: 下达 xiàdá (to transmit downward; to issue to lower levels), 下令 xiàlìng (to give orders), 下诏 xiàzhào (to issue an imperial edict). These are not metaphors but the original literal meaning of 下 in hierarchical governance: what comes from above moves down to reach those below.</p>
     </div>
 
@@ -450,7 +450,7 @@ content_review: 'pending'
     <!-- RETENTION IMAGE -->
     <div class="scholar" data-glyph="下">
       <div class="scholar-label">记忆法 jìyìfǎ · Master Retention Image</div>
-      <p>A horizontal line with a single mark placed beneath it. That is 下. Three strokes carrying everything that is lower, later, inferior, and released. The mark is not falling — it is already below, already positioned at the subordinate point.</p>
+      <p>A horizontal line with a single mark placed beneath it. That is 下. Three strokes carrying everything that is lower, later, inferior, and released. The mark is not falling; it is already below, already positioned at the subordinate point.</p>
       <p>Hold 上 and 下 side by side in your mind. 上班 (going up to work) / 下班 (coming down from work). 上课 (mounting into class) / 下课 (class descends and disperses). 上周 (last week — the week that was above this one) / 下周 (next week — the week that will descend into the present). 上面 (the top side) / 下面 (the underside). The entire working day, the entire week, the entire social hierarchy — run through the single opposition of that notch above or below the line.</p>
       <p>When it rains (下雨), the sky is 上 and the rain is 下. When an emperor issues a decree, he is 上 and the command goes 下. When a class ends (下课), the elevated pedagogical moment descends back to ordinary life. 下 is not merely the bottom of space — it is the direction that authority travels, that weather falls, that time approaches. Everything that comes to you, comes from 上 and arrives at 下.</p>
     </div>
