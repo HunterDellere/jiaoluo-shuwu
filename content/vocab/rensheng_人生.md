@@ -49,9 +49,9 @@ content_sources:
 
     <div class="scholar" data-glyph="人">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
-      <p><strong>人 rén</strong> — the pictograph of a standing person in profile: two legs, upright. The simplest representation of humanity. As a radical, 人 (and its variant 亻) appears in virtually all characters related to people, society, and human action: 他 (he), 们 (plural marker), 仁 (benevolence), 信 (trust), 休 (rest — person leaning against a tree).</p>
-      <p><strong>生 shēng</strong> — a plant sprouting from the ground: 土 (earth) with a shoot pushing upward. Original meaning: to be born, to grow, to live, raw/unprocessed. 生 is one of the most productive characters in Mandarin: 学生 (student — one who studies and grows), 先生 (teacher/Mr. — one who was born first), 医生 (doctor — one who gives life), 生活 (life/livelihood), 生命 (life/living being).</p>
-      <p>Together, 人生 = the life of a human being — specifically the <em>experiential</em> arc: the path from birth to death as it is lived, chosen, and reflected upon. Not the biological fact of being alive (生命), nor the daily texture of living (生活), but the whole shape of a life and what it means.</p>
+      <p><strong>人 rén</strong>: the pictograph of a standing person in profile, two legs, upright. The simplest representation of humanity. As a radical, 人 (and its variant 亻) appears in virtually all characters related to people, society, and human action: 他 (he), 们 (plural marker), 仁 (benevolence), 信 (trust), 休 (rest, a person leaning against a tree).</p>
+      <p><strong>生 shēng</strong>: a plant sprouting from the ground, 土 (earth) with a shoot pushing upward. Original meaning: to be born, to grow, to live, raw/unprocessed. 生 is one of the most productive characters in Mandarin: 学生 (student, one who studies and grows), 先生 (teacher/Mr., one who was born first), 医生 (doctor, one who gives life), 生活 (life/livelihood), 生命 (life/living being).</p>
+      <p>Together, 人生 = the life of a human being, specifically the <em>experiential</em> arc: the path from birth to death as it is lived, chosen, and reflected upon. Not the biological fact of being alive (生命), nor the daily texture of living (生活), but the whole shape of a life and what it means.</p>
     </div>
 
     <span class="section-anchor" id="distinctions"></span>
@@ -84,9 +84,9 @@ content_sources:
 
     <div class="scholar" data-glyph="生">
       <div class="scholar-label">思想洞见 sīxiǎng dòngjiàn · Philosophical Insight</div>
-      <p><strong>Confucian:</strong> A good life is a life of self-cultivation (修身 xiūshēn), fulfilling one's roles (filial child, loyal official, loving parent), and contributing to a harmonious social order. The good life is inherently relational — measured by relationships fulfilled, not individual satisfaction achieved.</p>
-      <p><strong>Daoist:</strong> A good life flows with nature, avoiding forced striving (无为 wúwéi). The ideal is simplicity, naturalness (自然 zìrán), and freedom from the grinding ambition that Confucianism risks encouraging. 知足者富 — those who know contentment are rich.</p>
-      <p><strong>Buddhist:</strong> Life is marked by suffering (苦 kǔ) arising from attachment and craving. The goal is liberation — not from life itself, but from the cycle of craving and loss. The good life cultivates non-attachment, compassion, and eventual awakening.</p>
+      <p><strong>Confucian:</strong> A good life is a life of self-cultivation (修身 xiūshēn), fulfilling one's roles (filial child, loyal official, loving parent), and contributing to a harmonious social order. The good life is inherently relational, measured by relationships fulfilled rather than individual satisfaction achieved.</p>
+      <p><strong>Daoist:</strong> A good life flows with nature, avoiding forced striving (无为 wúwéi). The ideal is simplicity, naturalness (自然 zìrán), and freedom from the grinding ambition that Confucianism risks encouraging. 知足者富: those who know contentment are rich.</p>
+      <p><strong>Buddhist:</strong> Life is marked by suffering (苦 kǔ) arising from attachment and craving. The goal is liberation, not from life itself, but from the cycle of craving and loss. The good life cultivates non-attachment, compassion, and eventual awakening.</p>
     </div>
 
     <span class="section-anchor" id="compounds"></span>
