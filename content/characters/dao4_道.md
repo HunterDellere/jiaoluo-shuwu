@@ -116,9 +116,9 @@ content_sources:
 
     <div class="scholar" data-glyph="道">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
-      <p><strong>道 dào = 辶 chuò</strong> (the walk-movement radical — a foot in motion, suggesting travel and path) <strong>+ 首 shǒu</strong> (head). A head moving purposefully forward along a path: the guided way, navigated with intelligence. Oracle-bone and bronze inscriptions show a crossroads with a head positioned at it — the moment of choosing direction, of reading the way ahead. 道 encodes both the physical path AND the principle of navigation simultaneously.</p>
-      <p>This ambiguity was not an accident — it was an invitation. Laozi seized it: <em>道可道，非常道</em> — "The Way that can be spoken is not the eternal Way." The first character of the <em>Dàodéjīng</em> is 道. The second character is also 道. The opening line uses the same word as both subject (the Way) and verb (to say, to name). This is how profound a single character can be made to carry.</p>
-      <p>In Japanese, 道 <em>dō</em> becomes the suffix for every traditional discipline-art that embodies a "Way" of practice and self-cultivation: 柔道 <em>jūdō</em>, 空手道 <em>karate-dō</em>, 茶道 <em>sadō</em>, 書道 <em>shodō</em> (calligraphy), 弓道 <em>kyūdō</em> (archery), 剣道 <em>kendō</em> (sword). The "Way" as a discipline of becoming — not a destination but a mode of moving through life with craft and attention. One character carrying two civilizations' deepest conceptions of what it means to pursue excellence.</p>
+      <p><strong>道 dào = 辶 chuò</strong> (the walk-movement radical, a foot in motion, suggesting travel and path) <strong>+ 首 shǒu</strong> (head). A head moving purposefully forward along a path: the guided way, navigated with intelligence. Oracle-bone and bronze inscriptions show a crossroads with a head positioned at it, the moment of choosing direction, of reading the way ahead. 道 encodes both the physical path and the principle of navigation simultaneously.</p>
+      <p>This ambiguity was not an accident. It was an invitation. Laozi seized it: <em>道可道，非常道</em> ("The Way that can be spoken is not the eternal Way"). The first character of the <em>Dàodéjīng</em> is 道. The second character is also 道. The opening line uses the same word as both subject (the Way) and verb (to say, to name) — the most compressed philosophical move in Chinese literature.</p>
+      <p>In Japanese, 道 <em>dō</em> becomes the suffix for every traditional discipline-art that embodies a "Way" of practice and self-cultivation: 柔道 <em>jūdō</em>, 空手道 <em>karate-dō</em>, 茶道 <em>sadō</em>, 書道 <em>shodō</em> (calligraphy), 弓道 <em>kyūdō</em> (archery), 剣道 <em>kendō</em> (sword). Each is a mode of moving through life with craft and attention rather than a destination.</p>
     </div>
 
     <!-- ── ROAD & PATH ── -->
@@ -135,7 +135,7 @@ content_sources:
       <strong>大 dà</strong> (big; main) + 道 = <strong>大道</strong> (main road; grand way)<br>
       <strong>铁 tiě</strong> (iron; steel) + 道 = <strong>铁道</strong> (railway; railroad)<br>
       <strong>走 zǒu</strong> (walk) + 道 = <strong>走道</strong> (corridor; walkway; aisle)<br>
-      <strong>隧 suì</strong> (tunnel) + 道 = <strong>隧道</strong> (tunnel — the way bored through solid matter)<br>
+      <strong>隧 suì</strong> (tunnel) + 道 = <strong>隧道</strong> (tunnel, the way bored through solid matter)<br>
       The physical sense of 道 as a path you traverse remains the base meaning from which all metaphorical extensions radiate.
     </div>
 
@@ -180,7 +180,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          大 dà (big; main; grand) + 道 (way; path). Physically: a wide, main thoroughfare. Philosophically: the grand way of moral order or heaven's intention. The phrase 阳关大道 yánggǔān dàdào — "the sunny broad road" — is a common idiom for a clear, righteous, and well-traveled path (as opposed to a risky shortcut).
+          大 dà (big; main; grand) + 道 (way; path). Physically: a wide, main thoroughfare. Philosophically: the grand way of moral order or heaven's intention. The phrase 阳关大道 yánggǔān dàdào ("the sunny broad road") is a common idiom for a clear, righteous, and well-traveled path (as opposed to a risky shortcut).
         </div>
         <div class="examples">
           <div class="example">
@@ -196,7 +196,7 @@ content_sources:
         </div>
         <div class="note">
           <span class="note-label">文化 wénhuà · Note</span>
-          大道之行也，天下为公 (When the great Way prevails, all under heaven is shared) — opening of the 礼记 Lǐjì passage on the Great Commonwealth. 大道 in classical texts almost always carries this double weight: road and righteous order.
+          大道之行也，天下为公 (When the great Way prevails, all under heaven is shared): opening of the 礼记 Lǐjì passage on the Great Commonwealth. 大道 in classical texts almost always carries this double weight: road and righteous order.
         </div>
       </div>
 
@@ -209,7 +209,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          铁 tiě (iron; steel) + 道 (way; path). The iron way — railway tracks as a path made of iron. Common in institutional and geographic contexts. Also 铁路 tiělù (the more common modern term for railway system). 铁道 tends to refer to the track itself; 铁路 to the railway as a transport network.
+          铁 tiě (iron; steel) + 道 (way; path). The iron way: railway tracks as a path made of iron. Common in institutional and geographic contexts. Also 铁路 tiělù (the more common modern term for railway system). 铁道 tends to refer to the track itself; 铁路 to the railway as a transport network.
         </div>
         <div class="examples">
           <div class="example">
@@ -234,7 +234,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          走 zǒu (walk; go) + 道 (way; path). The path you walk — a corridor between rooms, an aisle on a plane or train, a narrow walkway between structures. Practical and architectural: the space designated for movement through an enclosed or constrained area.
+          走 zǒu (walk; go) + 道 (way; path). The path you walk: a corridor between rooms, an aisle on a plane or train, a narrow walkway between structures. Practical and architectural: the space designated for movement through an enclosed or constrained area.
         </div>
         <div class="examples">
           <div class="example">
@@ -263,8 +263,8 @@ content_sources:
 
     <div class="scholar" data-glyph="道">
       <div class="scholar-label">构词洞见 gòucí dòngjiàn · Insight</div>
-      <p>The verb 知道 zhīdào is among the highest-frequency verbs in all of spoken Mandarin. Literally "to know the way" — knowledge as having found the path. The metaphor is not incidental: in classical Chinese epistemology, true knowing was always directional, always purposive. To know something was to have navigated to it.</p>
-      <p>报道 bàodào (news report) = "to announce the path/way of events" — journalism as the act of mapping what has happened. 说道 shuōdào (to say, in literary narration) marks the moment a character speaks. In all three verbs, 道 contributes the sense of a purposeful, directed communication.</p>
+      <p>The verb 知道 zhīdào is among the highest-frequency verbs in all of spoken Mandarin. Literally "to know the way," knowledge as having found the path. In classical Chinese epistemology, true knowing was always directional, always purposive: to know something was to have navigated to it.</p>
+      <p>报道 bàodào (news report) = "to announce the path/way of events," journalism as the act of mapping what has happened. 说道 shuōdào (to say, in literary narration) marks the moment a character speaks. In all three verbs, 道 contributes the sense of a purposeful, directed communication.</p>
     </div>
 
     <div class="cards">
@@ -278,7 +278,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-v">V 动词 dòngcí</span></div>
         <div class="card-def">
-          知 zhī (to know; knowledge) + 道 dào (way; path). The most common verb of knowledge in everyday speech. 知道 covers factual awareness, learned information, and received news — knowing that something is the case. Operates on propositions and facts.
+          知 zhī (to know; knowledge) + 道 dào (way; path). The most common verb of knowledge in everyday speech. 知道 covers factual awareness, learned information, and received news: knowing that something is the case. Operates on propositions and facts.
         </div>
         <div class="examples">
           <div class="example">
@@ -312,7 +312,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-v">V 动词 dòngcí</span></div>
         <div class="card-def">
-          不 bù (negation) + 知道. One of the most common phrases in conversational Mandarin — the honest, unadorned acknowledgment of not having found the path. As a standalone response, 不知道！is perfectly natural and socially acceptable (not rude) in most contexts.
+          不 bù (negation) + 知道. One of the most common phrases in conversational Mandarin: the honest, unadorned acknowledgment of not having found the path. As a standalone response, 不知道！is perfectly natural and socially acceptable (not rude) in most contexts.
         </div>
         <div class="examples">
           <div class="example">
@@ -346,7 +346,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-vn">V/N 动名词</span></div>
         <div class="card-def">
-          报 bào (to announce; to report; newspaper) + 道 dào (way; path). To map and announce the course of events — journalism as the act of charting what has happened. Used both as a noun (a report, a piece of coverage) and as a verb (to report on something).
+          报 bào (to announce; to report; newspaper) + 道 dào (way; path). To map and announce the course of events: journalism as the act of charting what has happened. Used both as a noun (a report, a piece of coverage) and as a verb (to report on something).
         </div>
         <div class="examples">
           <div class="example">
@@ -376,7 +376,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-v">V 动词 dòngcí</span></div>
         <div class="card-def">
-          说 shuō (to say; to speak) + 道 dào (way; to say). A literary verb used in fiction and formal narrative to introduce direct speech. Written as X说道，"……" — "X said, '……'" Seldom appears in casual spoken Chinese; it marks elevated or written register.
+          说 shuō (to say; to speak) + 道 dào (way; to say). A literary verb used in fiction and formal narrative to introduce direct speech. Written as X说道，"……" (X said, "……"). Seldom appears in casual spoken Chinese; it marks elevated or written register.
         </div>
         <div class="examples">
           <div class="example">
@@ -392,7 +392,7 @@ content_sources:
         </div>
         <div class="note">
           <span class="note-label">语域 yǔyù · Register</span>
-          说道 is literary / formal narrative. In everyday speech and informal writing, 说 alone suffices. 说道 elevates the passage slightly and signals more careful prose — common in fiction, reportage, and historical writing.
+          说道 is literary / formal narrative. In everyday speech and informal writing, 说 alone suffices. 说道 elevates the passage slightly and signals more careful prose, common in fiction, reportage, and historical writing.
         </div>
       </div>
 
@@ -418,7 +418,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          道 dào (way; path) + 理 lǐ (principle; pattern; grain of wood — the inherent structure of things). <em>"The logic of the path."</em> The way things make sense — the reason behind an argument, the principle underlying a situation, the basic logic that should govern behavior. 讲道理 (to reason; to be rational) is one of the most common verbs of argumentation in Chinese.
+          道 dào (way; path) + 理 lǐ (principle; pattern; grain of wood, the inherent structure of things). <em>"The logic of the path."</em> The way things make sense: the reason behind an argument, the principle underlying a situation, the basic logic that should govern behavior. 讲道理 (to reason; to be rational) is one of the most common verbs of argumentation in Chinese.
         </div>
         <div class="examples">
           <div class="example">
@@ -452,7 +452,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          道 dào (the Way) + 德 dé (virtue; virtue-power — the cultivated moral force within a person). <em>Lit. "Way and Virtue."</em> The compound appears in 道德经 <em>Dàodéjīng</em> — the foundational Daoist text. In modern Chinese, 道德 is the standard word for morality and ethics across all registers.
+          道 dào (the Way) + 德 dé (virtue; virtue-power, the cultivated moral force within a person). <em>Lit. "Way and Virtue."</em> The compound appears in 道德经 <em>Dàodéjīng</em>, the foundational Daoist text. In modern Chinese, 道德 is the standard word for morality and ethics across all registers.
         </div>
         <div class="examples">
           <div class="example">
@@ -473,7 +473,7 @@ content_sources:
         </div>
         <div class="note">
           <span class="note-label">辨析 biànxī · 道德 vs. 伦理</span>
-          道德 = morality in everyday and broad use (moral standards, moral person). 伦理 lúnlǐ = ethics in a more academic or systematic sense (bioethics, professional ethics). 职业道德 = professional ethics (common compound using 道德). 道德绑架 = "moral kidnapping" — using moral pressure to coerce someone.
+          道德 = morality in everyday and broad use (moral standards, moral person). 伦理 lúnlǐ = ethics in a more academic or systematic sense (bioethics, professional ethics). 职业道德 = professional ethics (common compound using 道德). 道德绑架 = "moral kidnapping," using moral pressure to coerce someone.
         </div>
       </div>
 
@@ -486,7 +486,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-v">V 动词短语 dòngcí duǎnyǔ</span></div>
         <div class="card-def">
-          有 yǒu (to have; there is) + 道理 dàolǐ (reason; logic). "To have reason" — to possess the quality of making sense. One of the most common spoken responses to an argument you find convincing, used the way "fair point," "that makes sense," and "good point" function in English.
+          有 yǒu (to have; there is) + 道理 dàolǐ (reason; logic). "To have reason," to possess the quality of making sense. One of the most common spoken responses to an argument you find convincing, used the way "fair point," "that makes sense," and "good point" function in English.
         </div>
         <div class="examples">
           <div class="example">
@@ -511,7 +511,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-adj">Adj 形容词 xíngróngcí</span></div>
         <div class="card-def">
-          没 méi (lack; without) + 道理 dàolǐ (reason; logic). "Without reason" — lacking the logic or justice to be acceptable. Used when something is not just inconvenient but genuinely wrong in its reasoning or fairness.
+          没 méi (lack; without) + 道理 dàolǐ (reason; logic). "Without reason": lacking the logic or justice to be acceptable. Used when something is not just inconvenient but genuinely wrong in its reasoning or fairness.
         </div>
         <div class="examples">
           <div class="example">
@@ -540,8 +540,8 @@ content_sources:
 
     <div class="scholar" data-glyph="道">
       <div class="scholar-label">学者洞见 xuézhě dòngjiàn · Scholar Note</div>
-      <p>In Chinese political and moral philosophy, 道 pluralizes into different "ways" depending on who or what is doing the walking. Heaven has its 道. Humanity has its 道. The ruler has his 道. These are not merely metaphors but the foundational vocabulary of Chinese political thought for over 2,500 years — from the pre-Qin philosophers through the Neo-Confucians to political discourse today.</p>
-      <p>The most consequential opposition is 王道 wángdào (the kingly way — rule through virtue) versus 霸道 bàdào (hegemony — rule through force). This dichotomy structures Chinese thinking about legitimate versus illegitimate power in ways that persist in modern political language.</p>
+      <p>In Chinese political and moral philosophy, 道 pluralizes into different "ways" depending on who or what is doing the walking. Heaven has its 道. Humanity has its 道. The ruler has his 道. These are the foundational vocabulary of Chinese political thought, used continuously from the pre-Qin philosophers through the Neo-Confucians to political discourse today.</p>
+      <p>The most consequential opposition is 王道 wángdào (the kingly way, rule through virtue) versus 霸道 bàdào (hegemony, rule through force). This dichotomy structures Chinese thinking about legitimate versus illegitimate power in ways that persist in modern political language.</p>
     </div>
 
     <div class="cards">
@@ -555,7 +555,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          天 tiān (heaven; sky; the natural cosmic order) + 道 dào (way; path). The principle by which the cosmos operates — rewarding virtue, punishing tyranny, maintaining the balance of nature. Not a personal god but an impersonal moral force. When a ruler loses the 天道, he loses the mandate of heaven and may be legitimately overthrown.
+          天 tiān (heaven; sky; the natural cosmic order) + 道 dào (way; path). The principle by which the cosmos operates: rewarding virtue, punishing tyranny, maintaining the balance of nature. An impersonal moral force, not a personal god. When a ruler loses the 天道, he loses the mandate of heaven and may be legitimately overthrown.
         </div>
         <div class="examples">
           <div class="example">
@@ -580,7 +580,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          人 rén (person; humanity) + 道 dào (way; path). How human beings ought to treat one another — the ethical standards that define human dignity. Also the root of the modern compound 人道主义 rén dào zhǔyì (humanitarianism), which appears frequently in news coverage of conflicts and disasters.
+          人 rén (person; humanity) + 道 dào (way; path). How human beings ought to treat one another: the ethical standards that define human dignity. Also the root of the modern compound 人道主义 rén dào zhǔyì (humanitarianism), which appears frequently in news coverage of conflicts and disasters.
         </div>
         <div class="examples">
           <div class="example">
@@ -625,7 +625,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          霸 bà (hegemon; overlord — one who rules by force rather than virtue) + 道 dào (way; path). Classically: governing through coercion rather than moral example — the antithesis of 王道. Colloquially in modern Mandarin: overbearing, domineering (of a person's behavior). Also used admiring strength: 这道菜真霸道 (this dish is intense/bold — used of very strong flavors).
+          霸 bà (hegemon; overlord, one who rules by force rather than virtue) + 道 dào (way; path). Classically: governing through coercion rather than moral example, the antithesis of 王道. Colloquially in modern Mandarin: overbearing, domineering (of a person's behavior). Also used to admire strength: 这道菜真霸道 (this dish is intense/bold, used of very strong flavors).
         </div>
         <div class="examples">
           <div class="example">
@@ -650,7 +650,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-adj">Adj 形容词 xíngróngcí</span></div>
         <div class="card-def">
-          无 wú (without; lacking) + 道 dào (Way; moral principle). Classical term for a ruler who has abandoned virtue and lost the mandate of heaven — whose governance has become purely arbitrary and cruel. Still used in historical and literary contexts, and occasionally in strong rhetorical condemnation.
+          无 wú (without; lacking) + 道 dào (Way; moral principle). Classical term for a ruler who has abandoned virtue and lost the mandate of heaven, whose governance has become purely arbitrary and cruel. Still used in historical and literary contexts, and occasionally in strong rhetorical condemnation.
         </div>
         <div class="examples">
           <div class="example">
@@ -679,7 +679,7 @@ content_sources:
 
     <div class="pattern">
       <span class="label">量词用法 liàngcí yòngfǎ · When to count with 道</span>
-      道 as a measure word (量词 liàngcí) counts: <strong>long thin things</strong> (beams of light, rivers, scars, rainbows), <strong>abstract sequential items</strong> (exam questions, dishes of food, commands, barriers), and <strong>things that have been issued or decreed</strong> (an order, a decree, a command). The common thread is that each requires a kind of navigation or traversal — you must get through it, answer it, or pass it.
+      道 as a measure word (量词 liàngcí) counts: <strong>long thin things</strong> (beams of light, rivers, scars, rainbows), <strong>abstract sequential items</strong> (exam questions, dishes of food, commands, barriers), and <strong>things that have been issued or decreed</strong> (an order, a decree, a command). The common thread is that each requires a kind of navigation or traversal: you must get through it, answer it, or pass it.
     </div>
 
     <div class="table-wrap">
@@ -750,8 +750,8 @@ content_sources:
 
     <div class="scholar" data-glyph="道">
       <div class="scholar-label">学者洞见 xuézhě dòngjiàn · The Foundational Text</div>
-      <p>Laozi's opening line — <em>道可道，非常道；名可名，非常名</em> — is arguably the most famous sentence in Chinese philosophical literature. "The Way that can be told is not the eternal Way; the name that can be named is not the eternal name." 道 here exceeds all language. Yet paradoxically, Laozi wrote it down — in 81 short chapters totaling roughly 5,000 characters. The <em>Dàodéjīng</em> (道德经) is the most translated Chinese text in history, and the most translated philosophical text in the world after the Bible.</p>
-      <p>The Daoist institution (道教 Dàojiào) built a religion around this wordless Way: liturgy, ritual, priesthood, temples, sacred mountains. The philosophical school (道家 Dàojiā) refined it into metaphysics: the concept of 无为 wúwéi (non-action — acting in harmony with the natural flow rather than against it), of 自然 zìrán (naturalness; the state of being as-itself). Both use the same character — the one that began as a crossroads with a head at it, choosing direction.</p>
+      <p>Laozi's opening line, <em>道可道，非常道；名可名，非常名</em>, is the most famous sentence in Chinese philosophical literature. "The Way that can be told is not the eternal Way; the name that can be named is not the eternal name." 道 here exceeds all language. Yet Laozi wrote it down in 81 short chapters totaling roughly 5,000 characters. The <em>Dàodéjīng</em> (道德经) is the most translated Chinese text in history, and the most translated philosophical text in the world after the Bible.</p>
+      <p>The Daoist institution (道教 Dàojiào) built a religion around this wordless Way: liturgy, ritual, priesthood, temples, sacred mountains. The philosophical school (道家 Dàojiā) refined it into metaphysics: the concept of 无为 wúwéi (non-action, acting in harmony with the natural flow rather than against it), of 自然 zìrán (naturalness; the state of being as-itself). Both use the same character, the one that began as a crossroads with a head at it, choosing direction.</p>
     </div>
 
     <div class="table-wrap">
@@ -874,9 +874,9 @@ content_sources:
     <!-- RETENTION IMAGE -->
     <div class="scholar" data-glyph="道">
       <div class="scholar-label">记忆法 jìyìfǎ · Master Retention Image</div>
-      <p>A crossroads at dawn. You stand at the center — four paths, no signs. The ancient character shows a head positioned at that crossroads, moving forward. 道 is not one path but the knowing of how to walk any path. The intelligence that reads the terrain and chooses direction.</p>
-      <p>When Laozi wrote <em>道可道，非常道</em>, he was standing at that crossroads, pointing at all four paths simultaneously, refusing to collapse the mystery into a single direction. The Way that gets named becomes just one path — a reduction of the original navigational intelligence into a fixed route. The eternal 道 remains the capacity to read any terrain, not the map of one particular road.</p>
-      <p>Every 道 compound is a different application of the same intelligence: 知道 (to know) = to have found the path through the facts. 道理 (reason) = the logic of the path, what makes a route navigable. 道德 (ethics) = the Way and its cultivated virtue. 一道光 (a beam of light) = a path traced by light. 一道题 (a question) = a path you must solve your way through. The road, the principle, the beam, the dish of food, the kingly way, the Daoist absolute — all named with the same character because all require navigation.</p>
+      <p>A crossroads at dawn. You stand at the center, four paths, no signs. The ancient character shows a head positioned at that crossroads, moving forward. 道 is the knowing of how to walk any path, the intelligence that reads the terrain and chooses direction.</p>
+      <p>When Laozi wrote <em>道可道，非常道</em>, he was standing at that crossroads, pointing at all four paths simultaneously, refusing to collapse the mystery into a single direction. The Way that gets named becomes just one path, a reduction of the original navigational intelligence into a fixed route. The eternal 道 remains the capacity to read any terrain, not the map of one particular road.</p>
+      <p>Every 道 compound is a different application of the same intelligence: 知道 (to know) = to have found the path through the facts. 道理 (reason) = the logic of the path, what makes a route navigable. 道德 (ethics) = the Way and its cultivated virtue. 一道光 (a beam of light) = a path traced by light. 一道题 (a question) = a path you must solve your way through. Road, principle, beam of light, dish of food, kingly way, Daoist absolute: all named with the same character because all require navigation.</p>
     </div>
 
     
