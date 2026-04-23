@@ -3,7 +3,7 @@ type: 'character'
 category: 'characters'
 status: 'complete'
 title: '不 · no, not, negation'
-desc: 'The great negator — the most used character in Mandarin and the foundation of all denial.'
+desc: 'The most used character in Mandarin, and the foundation of every denial, refusal, and negation.'
 metaDesc: "不 bù: negation, refusal, and the tonal shift before 4th-tone syllables. Etymology, tone sandhi, key patterns, and the many faces of no in Chinese."
 pageTitle: '不 bù'
 tags:
@@ -108,8 +108,8 @@ content_sources:
 
     <div class="scholar" data-glyph="不">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
-      <p>The oracle-bone form of <strong>不</strong> shows a bird in flight with wings spread — or, in another interpretation, a plant whose roots go deep into the earth while its upper stem strains upward toward something <em>beyond reach.</em> Either image encodes the same abstract: something that goes toward a limit and cannot arrive there. Negation as <em>perpetual non-arrival.</em></p>
-      <p>This etymology is surprisingly deep. 不 is not simply "the absence of X" — it is X being aimed at and missed, an action directed at a destination that remains out of reach. This is why 不 negates intention and state (不去 = not going, 不好 = not good) while 没 méi negates completed events (没去 = didn't go). 不 is the refusal of arrival; 没 is the absence of having arrived.</p>
+      <p>The oracle-bone form of <strong>不</strong> shows a bird in flight with wings spread, or in another interpretation, a plant whose roots go deep into the earth while its upper stem strains upward toward something <em>beyond reach.</em> Either image encodes the same abstract: something that goes toward a limit and cannot arrive there. Negation as perpetual non-arrival.</p>
+      <p>不 is not simply "the absence of X." It is X being aimed at and missed, an action directed at a destination that remains out of reach. This is why 不 negates intention and state (不去 = not going, 不好 = not good) while 没 méi negates completed events (没去 = didn't go). 不 is the refusal of arrival; 没 is the absence of having arrived.</p>
       <p>不 is by most frequency counts the single most used character in written and spoken Mandarin. Every sentence of negation — and most sentences of qualification — passes through it.</p>
     </div>
 
