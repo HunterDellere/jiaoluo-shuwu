@@ -72,9 +72,9 @@ content_sources:
 
     <div class="scholar" data-glyph="风">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
-      <p><strong>风 fēng</strong> (wind) + <strong>俗 sú</strong> (customs; vulgar; popular; mundane). The compound captures something profound: customs are like <em>wind</em> — they move through communities invisibly, shaping everything without being visible themselves. You feel their presence everywhere but cannot point to their source.</p>
-      <p><strong>俗 sú</strong> alone is equally revealing: the character shows a person 人 and a valley 谷 (a place where many people gather). 俗 originally meant "the ways of the common people" — the practices and preferences of ordinary folk as opposed to élite ritual (礼). This is why 俗 sometimes has the connotation of "vulgar" or "common" (通俗 tōngsú = popular; accessible; 俗气 súqi = tacky). But 俗 is also simply "the way things are done among the people" — neutral and ethnographic.</p>
-      <p>The classical phrase <strong>入乡随俗</strong> rù xiāng suí sú — "entering a village, follow its customs" — is still the standard Chinese equivalent of "when in Rome, do as the Romans do." It captures the core idea: customs are local, embodied, and learned by living among people.</p>
+      <p><strong>风 fēng</strong> (wind) + <strong>俗 sú</strong> (customs; vulgar; popular; mundane). The compound captures something precise: customs are like <em>wind</em>. They move through communities invisibly, shaping everything without being visible themselves. You feel their presence everywhere but cannot point to their source.</p>
+      <p><strong>俗 sú</strong> alone is equally revealing: the character shows a person 人 and a valley 谷 (a place where many people gather). 俗 originally meant "the ways of the common people," the practices and preferences of ordinary folk as opposed to élite ritual (礼). This is why 俗 sometimes has the connotation of "vulgar" or "common" (通俗 tōngsú = popular; accessible; 俗气 súqi = tacky), but it is also simply "the way things are done among the people," neutral and ethnographic.</p>
+      <p>The classical phrase <strong>入乡随俗</strong> rù xiāng suí sú, "entering a village, follow its customs," is still the standard Chinese equivalent of "when in Rome, do as the Romans do." It captures the core idea: customs are local, embodied, and learned by living among people.</p>
     </div>
 
     <span class="section-anchor" id="distinctions"></span>
@@ -228,7 +228,7 @@ content_sources:
       <div class="scholar-label">地域差异 dìyù chāyì · Regional Differences</div>
       <p>China's vast geography has produced pronounced regional custom variation. Some key contrasts:</p>
       <p><strong>North vs. South:</strong> Northerners (especially Beijing/Shandong) eat 饺子 dumplings for celebrations; Southerners (Guangdong, Shanghai) prefer 汤圆 tangyuan or 年糕 nián'gāo rice cake. Northern weddings tend toward larger, louder banquets; Guangdong weddings often include elaborate tea ceremonies (饮茶 yǐn chá).</p>
-      <p><strong>Sichuan:</strong> The culture of 茶馆 teahouse socializing is central — chatting for hours over tea, playing mahjong, and eating street food is not leisure but a way of life (生活方式). Sichuan's 袍哥文化 paoge culture (brotherhood networks) shaped local loyalty customs for centuries.</p>
+      <p><strong>Sichuan:</strong> The culture of 茶馆 teahouse socializing is central: chatting for hours over tea, playing mahjong, and eating street food are a way of life (生活方式), not leisure carved out from it. Sichuan's 袍哥文化 paoge culture (brotherhood networks) shaped local loyalty customs for centuries.</p>
       <p><strong>Fujian &amp; Coastal:</strong> Strong ancestor veneration, complex 妈祖 Mazu temple networks, and clan (宗族 zōngzú) organization that extends across the diaspora. Overseas Chinese communities in Southeast Asia, Taiwan, and globally maintain these coastal customs with remarkable fidelity.</p>
     </div>
 
