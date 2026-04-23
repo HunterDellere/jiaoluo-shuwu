@@ -68,8 +68,8 @@ pinyin: 'yīn wèi suǒ yǐ'
 
     <div class="scholar" data-glyph="因">
       <div class="scholar-label">语法洞见 yǔfǎ dòngjiàn · Grammar Insight</div>
-      <p><strong>因为 yīnwèi</strong> (because — lit. "cause + because of") introduces the cause clause. <strong>所以 suǒyǐ</strong> (therefore, so — lit. "that by which") introduces the result clause. In Mandarin, both conjunctions frequently appear in the same sentence — a paired structure that English rarely uses (English says "I'm late because of traffic" or "There was traffic, so I'm late," but rarely uses "because…therefore" in one sentence).</p>
-      <p>The paired structure is fully standard in Chinese: <strong>因为 + [Cause], 所以 + [Result]</strong>. Both can appear in the same sentence without being redundant. Neither is strictly required — you can use just 因为 or just 所以 alone — but the paired form is extremely common and sounds natural in spoken and written Chinese.</p>
+      <p><strong>因为 yīnwèi</strong> (because, lit. "cause + because of") introduces the cause clause. <strong>所以 suǒyǐ</strong> (therefore, so, lit. "that by which") introduces the result clause. In Mandarin, both conjunctions frequently appear in the same sentence, a paired structure that English rarely uses (English says "I'm late because of traffic" or "There was traffic, so I'm late," but rarely uses "because…therefore" in one sentence).</p>
+      <p>The paired structure is fully standard in Chinese: <strong>因为 + [Cause], 所以 + [Result]</strong>. Both can appear in the same sentence without being redundant. Neither is strictly required; you can use just 因为 or just 所以 alone. But the paired form is extremely common and sounds natural in spoken and written Chinese.</p>
       <p>Word order note: Chinese cause-effect pairs can appear in either order (cause first or effect first), but cause-first (因为…所以) is overwhelmingly more common. Effect-first with 既然 jìrán (since; given that) is a separate structure: 既然你来了，就一起吃饭吧 "Since you're here, let's eat together."</p>
     </div>
 
@@ -100,7 +100,7 @@ pinyin: 'yīn wèi suǒ yǐ'
         </div>
         <div class="tags"><span class="tag tag-v">Structure 句型 jùxíng</span></div>
         <div class="card-def">
-          The full paired conjunction. Subject placement: the subject can appear before 因为 (applying to both clauses) or after 因为 (in the cause clause only, with a separate subject in the result clause). 他因为生病了，所以没来 (He, because he got sick, didn't come — same subject). 因为下雨了，所以我们取消了计划 (Because it rained, we cancelled the plan — different implied subjects). Never place 因为 between a subject and its verb: NOT 他所以因为生病了没来 ✗.
+          The full paired conjunction. Subject placement: the subject can appear before 因为 (applying to both clauses) or after 因为 (in the cause clause only, with a separate subject in the result clause). 他因为生病了，所以没来 (He, because he got sick, didn't come, same subject). 因为下雨了，所以我们取消了计划 (Because it rained, we cancelled the plan, different implied subjects). Never place 因为 between a subject and its verb: NOT 他所以因为生病了没来 ✗.
         </div>
         <div class="examples">
           <div class="example">
@@ -153,7 +153,7 @@ pinyin: 'yīn wèi suǒ yǐ'
         </div>
         <div class="tags"><span class="tag tag-v">Formal 书面语 shūmiànyǔ</span></div>
         <div class="card-def">
-          For formal writing (reports, academic papers, journalism): 由于 yóuyú (due to; owing to) replaces 因为; 因此 yīncǐ (therefore; as a result) or 从而 cóng'ér (thereby; thus — result that follows from a preceding action) replace 所以. 由于天气恶劣，会议推迟举行 "Due to severe weather, the meeting was postponed." 由于…因此 is the standard formal causal pair in written Chinese. 从而 specifically implies that the result is an intended or natural consequence of deliberate action: 通过合作，从而实现共赢 "Through cooperation, thereby achieving mutual benefit."
+          For formal writing (reports, academic papers, journalism): 由于 yóuyú (due to; owing to) replaces 因为; 因此 yīncǐ (therefore; as a result) or 从而 cóng'ér (thereby; thus, result that follows from a preceding action) replace 所以. 由于天气恶劣，会议推迟举行 "Due to severe weather, the meeting was postponed." 由于…因此 is the standard formal causal pair in written Chinese. 从而 specifically implies that the result is an intended or natural consequence of deliberate action: 通过合作，从而实现共赢 "Through cooperation, thereby achieving mutual benefit."
         </div>
         <div class="examples">
           <div class="example">
