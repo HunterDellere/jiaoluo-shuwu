@@ -3,8 +3,8 @@ type: 'character'
 category: 'characters'
 status: 'complete'
 title: '在 · to be at, located, in progress'
-desc: 'Location, existence, and the progressive aspect — the character that puts things in place and actions in motion.'
-metaDesc: "在 zài: to be at; to exist; location marker; progressive aspect marker — etymology, 在 vs. 有 existence distinction, 在 as preposition, and the progressive 在…呢 construction."
+desc: 'The character that locates: a seedling rooted in earth, expanded into location, preposition, and progressive aspect.'
+metaDesc: "在 zài: to be at; to exist; location marker; progressive aspect marker. Etymology, 在 vs. 有 existence distinction, 在 as preposition, and the progressive 在…呢 construction."
 pageTitle: '在 zài'
 tags:
   - 'grammar'
@@ -117,9 +117,9 @@ content_sources:
 
     <div class="scholar" data-glyph="在">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
-      <p>The ancient form of <strong>在 zài</strong> shows a plant or seedling (<strong>才 cái</strong> — the phonetic component, meaning "just beginning; just emerged") growing up from earth (<strong>土 tǔ</strong> — the semantic component). A seedling rooted in earth: something that exists in a place because it is grounded there. The earliest meaning was "to exist in a place; to be present." The spatial meaning — to be at, in, or on a location — follows directly from this image of the grounded, present thing.</p>
+      <p>The ancient form of <strong>在 zài</strong> shows a plant or seedling (<strong>才 cái</strong> — the phonetic component, meaning "just beginning; just emerged") growing up from earth (<strong>土 tǔ</strong> — the semantic component). A seedling rooted in earth: something that exists in a place because it is grounded there. The earliest meaning was "to exist in a place; to be present." The spatial meaning (to be at, in, or on a location) follows directly from this image of the grounded, present thing.</p>
       <p>From location, 在 expanded into two further grammatical roles: as a <strong>preposition</strong> (placing the scene of an action before the verb: 在图书馆学习, to study at the library), and as a <strong>progressive aspect marker</strong> (indicating an action is in progress: 在吃饭, eating/in the middle of eating). All three uses share the core semantic logic of presence: something is here, occurring here, happening here now.</p>
-      <p>The phonetic component 才 cái (just; only; talent; barely) also appears in 材 (material; timber), 财 (wealth), and 裁 (to cut; to judge) — a family of characters sharing the sense of something newly emergent or precisely measured. The soil of 在 grounds this family in physical space.</p>
+      <p>The phonetic component 才 cái (just; only; talent; barely) also appears in 材 (material; timber), 财 (wealth), and 裁 (to cut; to judge), a family of characters sharing the sense of something newly emergent or precisely measured. The soil of 在 grounds this family in physical space.</p>
     </div>
 
     <!-- ── WORD-FORMATION ── -->
@@ -149,7 +149,7 @@ content_sources:
 
     <div class="scholar" data-glyph="在">
       <div class="scholar-label">语法洞见 yǔfǎ dòngjiàn · The 在 vs. 有 Distinction</div>
-      <p>The most important distinction for learners: <strong>在 zài</strong> and <strong>有 yǒu</strong> both involve location, but they work opposite ways. <strong>有</strong> introduces new information — it asserts that something exists in a place for the first time: 桌上有书 (There are books on the table — telling you something you didn't know). <strong>在</strong> locates something already known — it tells you where a given thing is: 书在桌上 (The books are on the table — locating something you already know exists).</p>
+      <p>The most important distinction for learners: <strong>在 zài</strong> and <strong>有 yǒu</strong> both involve location, but they work opposite ways. <strong>有</strong> introduces new information: it asserts that something exists in a place for the first time: 桌上有书 (There are books on the table — telling you something you didn't know). <strong>在</strong> locates something already known: it tells you where a given thing is: 书在桌上 (The books are on the table — locating something you already know exists).</p>
       <p>The structural difference mirrors this: 有 sentences start with the place (topic frame), then introduce the thing. 在 sentences start with the known thing (topic), then identify its location. 有: Place + 有 + Thing. 在: Thing + 在 + Place. Knowing which to use requires asking: is the existence of this thing news to the listener, or is only its location?</p>
     </div>
 
@@ -163,7 +163,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-v">V 动词 dòngcí</span></div>
         <div class="card-def">
-          As a main verb, 在 states the location of a known subject: Subject + 在 + Place. 他在哪里？(Where is he?) 我在家 (I'm at home) 书在桌上 (The book is on the table). The subject must be definite — you cannot say *一本书在桌上 to mean "a book is on the table"; that requires 有. 不在 (not there; absent) is the most common negation, and is used to say someone is not home or not present.
+          As a main verb, 在 states the location of a known subject: Subject + 在 + Place. 他在哪里？(Where is he?) 我在家 (I'm at home) 书在桌上 (The book is on the table). The subject must be definite: *一本书在桌上 does not work for "a book is on the table"; that requires 有. 不在 (not there; absent) is the most common negation, used to say someone is not home or not present.
         </div>
         <div class="examples">
           <div class="example">
@@ -205,7 +205,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-v">Prep 介词 jiècí</span></div>
         <div class="card-def">
-          When 在 precedes a place word and is followed by the main verb, it functions as a preposition: it sets the scene for the action. Structure: <code>Subject + 在 + Place + Verb</code>. 我在图书馆学习 (I study at the library). 她在北京工作 (She works in Beijing). 他们在公园散步 (They are walking in the park). The prepositional 在 is always before the verb — never after. This is a critical word-order rule: Chinese locative phrases precede the verb they modify.
+          When 在 precedes a place word and is followed by the main verb, it functions as a preposition: it sets the scene for the action. Structure: <code>Subject + 在 + Place + Verb</code>. 我在图书馆学习 (I study at the library). 她在北京工作 (She works in Beijing). 他们在公园散步 (They are walking in the park). The prepositional 在 is always before the verb, never after. Chinese locative phrases precede the verb they modify.
         </div>
         <div class="examples">
           <div class="example">
@@ -226,7 +226,7 @@ content_sources:
         </div>
         <div class="note">
           <span class="note-label">语法 yǔfǎ · 在 Position Rule</span>
-          In Chinese, the locative phrase always comes BEFORE the verb: 在图书馆读书 ✓ (at the library read books). Never after the verb: *读书在图书馆 ✗. This is opposite to common English patterns ("I study at the library" — "study" comes first). Internalizing the pre-verbal position of 在 is essential for natural Chinese word order.
+          In Chinese, the locative phrase always comes BEFORE the verb: 在图书馆读书 ✓ (at the library read books). Never after the verb: *读书在图书馆 ✗. English puts the verb first ("I study at the library"); Chinese puts the location first. Internalizing the pre-verbal position of 在 is essential for natural word order.
         </div>
       </div>
 
@@ -251,7 +251,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-v">构式 gòushì · Construction</span></div>
         <div class="card-def">
-          When 在 precedes a verb without a place noun, it marks the <strong>progressive aspect</strong> — an action currently in progress. The optional sentence-final particle 呢 ne reinforces the ongoing quality. Structure: <code>Subject + 在 + Verb (+ 呢)</code>. 我在吃饭 (I'm eating). 他在睡觉呢 (He's sleeping right now). 她在打电话 (She's on a phone call). The 呢 adds a sense of "as we speak" — use it when you want to emphasize that the action is happening at this very moment.
+          When 在 precedes a verb without a place noun, it marks the <strong>progressive aspect</strong>: an action currently in progress. The optional sentence-final particle 呢 ne reinforces the ongoing quality. Structure: <code>Subject + 在 + Verb (+ 呢)</code>. 我在吃饭 (I'm eating). 他在睡觉呢 (He's sleeping right now). 她在打电话 (She's on a phone call). The 呢 adds a sense of "as we speak"; use it when you want to emphasize that the action is happening at this very moment.
         </div>
         <div class="examples">
           <div class="example">
@@ -297,7 +297,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-v">V 动词 dòngcí</span></div>
         <div class="card-def">
-          在 (to be present) + 乎 hū (classical particle meaning "in; within; at"). Literally "to be located within [something]" — one's attention or concern is present inside something. 我不在乎 (I don't care / I don't mind) is one of the most frequent phrases in spoken Chinese. The negation 不在乎 is far more common than the affirmative. Used for emotional stakes: 她很在乎这段关系 (She cares deeply about this relationship).
+          在 (to be present) + 乎 hū (classical particle meaning "in; within; at"). Literally "to be located within [something]": one's attention or concern is present inside something. 我不在乎 (I don't care / I don't mind) is one of the most frequent phrases in spoken Chinese. The negation 不在乎 is far more common than the affirmative. Used for emotional stakes: 她很在乎这段关系 (She cares deeply about this relationship).
         </div>
         <div class="examples">
           <div class="example">
@@ -467,7 +467,7 @@ content_sources:
     <div class="scholar" data-glyph="在">
       <div class="scholar-label">记忆法 jìyìfǎ · Master Retention Image</div>
       <p>Picture a seedling — a single green shoot breaking through earth. That is <strong>在 zài</strong>: grounded, present, here. The seedling doesn't wander. It is exactly where it is, rooted in this particular patch of soil. Every use of 在 carries that presence: a person is at a location, an action is happening now, attention is located within something, the key point is where it lies.</p>
-      <p>The contrast with 有: 有 announces existence — "there is a seedling here." 在 locates the known — "the seedling is here." One introduces; the other places. The seedling was unknown until 有 told you it existed; 在 tells you exactly which patch of earth it is rooted in. Together, 有 and 在 account for most of what English speakers need the verb "to be" to do — split across two characters, each doing its half with precision.</p>
+      <p>The contrast with 有: 有 announces existence ("there is a seedling here"); 在 locates the known ("the seedling is here"). One introduces; the other places. The seedling was unknown until 有 told you it existed; 在 tells you exactly which patch of earth it is rooted in. Together, 有 and 在 cover most of what English speakers need "to be" to do, split across two characters, each doing its half with precision.</p>
     </div>
 
     
