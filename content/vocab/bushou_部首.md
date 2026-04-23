@@ -49,9 +49,9 @@ content_sources:
 
     <div class="scholar" data-glyph="部">
       <div class="scholar-label">定义 dìngyì · Definition</div>
-      <p>Chinese has no alphabet. Characters are not assembled from phonetic letters — they are built from components that carry meaning, sound hints, or structural roles. A <strong>radical</strong> (部首 bùshǒu) is the primary indexing component of a character: the part under which it is filed in a traditional dictionary.</p>
-      <p>部首 literally means "section head" — 部 (section, group) + 首 (head, first). When you look up a character in a radical-based dictionary, you first identify its radical, find that section, then locate the character by its remaining stroke count. Before digital input methods, this was the only way to look up an unfamiliar character.</p>
-      <p>Radicals are not phonetic. They do not tell you how to pronounce a character. They tell you — roughly — what category of thing or action a character belongs to. 氵(water) signals moisture or flow. 木 (wood) signals trees and wooden things. 口 (mouth) signals speaking, eating, openings. This is an imperfect but real semantic signal.</p>
+      <p>Chinese has no alphabet. Characters are built from components that carry meaning, sound hints, or structural roles, not from phonetic letters. A <strong>radical</strong> (部首 bùshǒu) is the primary indexing component of a character: the part under which it is filed in a traditional dictionary.</p>
+      <p>部首 literally means "section head": 部 (section, group) + 首 (head, first). When you look up a character in a radical-based dictionary, you first identify its radical, find that section, then locate the character by its remaining stroke count. Before digital input methods, this was the only way to look up an unfamiliar character.</p>
+      <p>Radicals are not phonetic. They do not tell you how to pronounce a character. They tell you, roughly, what category of thing or action a character belongs to. 氵(water) signals moisture or flow. 木 (wood) signals trees and wooden things. 口 (mouth) signals speaking, eating, openings. This is an imperfect but real semantic signal.</p>
     </div>
 
     <span class="section-anchor" id="kangxi"></span>
@@ -61,7 +61,7 @@ content_sources:
       <div class="scholar-label">康熙字典 1716 · The Kangxi Dictionary</div>
       <p>The current standard of 214 radicals comes from the <strong>Kangxi Dictionary</strong> (康熙字典 Kāngxī Zìdiǎn), compiled by imperial decree under the Kangxi Emperor and completed in 1716. It catalogued 47,035 characters under 214 radicals, ordered by stroke count from 1 stroke (一) to 17 strokes (龠).</p>
       <p>This system became the global standard for Chinese dictionaries. It is still used in Taiwan, Hong Kong, and Japanese kanji dictionaries today. Simplified Chinese dictionaries sometimes use modified radical lists (186 radicals is one common alternative), but the Kangxi 214 is the reference system underlying Unicode's CJK block organization and most scholarly tools.</p>
-      <p>The assignment of a character to its radical is not always obvious — the same character might plausibly belong under two or three components, and traditional dictionary makers made judgment calls that modern learners sometimes find counterintuitive. 道 (way) is filed under 辶 (movement), not under 首 (head), despite 首 being visually prominent.</p>
+      <p>The assignment of a character to its radical is not always obvious. The same character might plausibly belong under two or three components, and traditional dictionary makers made judgment calls that modern learners sometimes find counterintuitive. 道 (way) is filed under 辶 (movement), not under 首 (head), despite 首 being visually prominent.</p>
     </div>
 
     <span class="section-anchor" id="semantic"></span>
@@ -70,8 +70,8 @@ content_sources:
     <div class="scholar" data-glyph="意">
       <div class="scholar-label">语义信号 yǔyì xìnhào · Semantic Signals</div>
       <p>Many radicals function as reliable meaning indicators for the characters that contain them. This is most consistent with the <strong>phono-semantic compound</strong> type, which makes up roughly 80–90% of modern Chinese characters. In these characters, one component signals meaning (the semantic radical) and another hints at pronunciation (the phonetic component).</p>
-      <p>Examples of radicals with consistent semantic signals: <strong>氵/ 水</strong> (water) — 河 river, 海 sea, 泪 tears, 汗 sweat, 清 clear. <strong>火 / 灬</strong> (fire) — 烧 to burn, 热 hot, 煮 to cook, 炒 to stir-fry. <strong>心 / 忄</strong> (heart/mind) — 爱 love, 思 to think, 忘 to forget, 悲 grief. <strong>木</strong> (wood/tree) — 树 tree, 桌 table, 椅 chair, 森 forest.</p>
-      <p>Radicals are not guaranteed meaning-carriers. Some characters have been assigned to radicals purely for indexing convenience, and the radical no longer reflects the character's meaning. 买 (to buy) is filed under 乙 (the second heavenly stem — a bookkeeping radical) in some dictionaries, which tells you nothing about buying. Use radical meanings as probabilistic guides, not rules.</p>
+      <p>Examples of radicals with consistent semantic signals: <strong>氵/ 水</strong> (water): 河 river, 海 sea, 泪 tears, 汗 sweat, 清 clear. <strong>火 / 灬</strong> (fire): 烧 to burn, 热 hot, 煮 to cook, 炒 to stir-fry. <strong>心 / 忄</strong> (heart/mind): 爱 love, 思 to think, 忘 to forget, 悲 grief. <strong>木</strong> (wood/tree): 树 tree, 桌 table, 椅 chair, 森 forest.</p>
+      <p>Radicals are not guaranteed meaning-carriers. Some characters have been assigned to radicals purely for indexing convenience, and the radical no longer reflects the character's meaning. 买 (to buy) is filed under 乙 (the second heavenly stem, a bookkeeping radical) in some dictionaries, which tells you nothing about buying. Use radical meanings as probabilistic guides, not rules.</p>
     </div>
 
     <span class="section-anchor" id="forms"></span>
