@@ -116,9 +116,9 @@ content_sources:
 
     <div class="scholar" data-glyph="字">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
-      <p><strong>字 zì = 宀 mián</strong> (roof — shelter, household) <strong>+ 子 zǐ</strong> (child). A child born under a roof — the moment a new life enters the household. In classical China, this birth-moment was when a child was given its 字, its formal courtesy name. The two meanings converge with extraordinary elegance: just as a person needs a 字 (courtesy name) to be recognized socially, a word needs its 字 (written character) to exist in the literary record.</p>
-      <p>In classical usage, men received two names: the personal name 名 míng (kept relatively private — used only by elders and intimates) and the courtesy name 字 biǎozì (used in social and official life). The 字 was given at the coming-of-age ceremony at twenty. To use someone's 名 was intimate or presumptuous; to use their 字 was respectful. Confucius was known by his 字 Zhòngní 仲尼 as often as by his name Qiū 丘.</p>
-      <p>The character writes itself into its own meaning: <strong>字 is a character — and it is the character for "character."</strong> This is the most self-referential word in the language. 汉字 Hànzì = "Han characters" — the proper name for the Chinese writing system. In Japanese: 字 <em>ji</em> — 漢字 <em>kanji</em> (same system, same character, same logic). The child under the roof crossed the sea intact.</p>
+      <p><strong>字 zì = 宀 mián</strong> (roof, shelter, household) <strong>+ 子 zǐ</strong> (child). A child born under a roof: the moment a new life enters the household. In classical China, this birth-moment was when a child was given its 字, its formal courtesy name. The two meanings converge with extraordinary elegance: just as a person needs a 字 (courtesy name) to be recognized socially, a word needs its 字 (written character) to exist in the literary record.</p>
+      <p>In classical usage, men received two names: the personal name 名 míng (kept relatively private, used only by elders and intimates) and the courtesy name 字 biǎozì (used in social and official life). The 字 was given at the coming-of-age ceremony at twenty. To use someone's 名 was intimate or presumptuous; to use their 字 was respectful. Confucius was known by his 字 Zhòngní 仲尼 as often as by his name Qiū 丘.</p>
+      <p>The character writes itself into its own meaning: <strong>字 is a character — and it is the character for "character."</strong> This is the most self-referential word in the language. 汉字 Hànzì = "Han characters," the proper name for the Chinese writing system. In Japanese: 字 <em>ji</em>, 漢字 <em>kanji</em> (same system, same character, same logic). The child under the roof crossed the sea intact.</p>
     </div>
 
     <!-- ── ACTIONS WITH CHARACTERS ── -->
@@ -148,7 +148,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-v">V 动词 dòngcí</span></div>
         <div class="card-def">
-          写 xiě (to write) + 字 zì (character). The fundamental literacy act — hand meeting surface, character taking form. Specifically implies handwriting rather than typing or printing. 写字 is both the practical skill and the cultural one: in Chinese civilization, handwriting is never merely functional.
+          写 xiě (to write) + 字 zì (character). The fundamental literacy act: hand meeting surface, character taking form. Specifically implies handwriting rather than typing or printing. In Chinese civilization, handwriting is never merely functional.
         </div>
         <div class="examples">
           <div class="example">
@@ -169,7 +169,7 @@ content_sources:
         </div>
         <div class="note">
           <span class="note-label">语法 yǔfǎ · Grammar</span>
-          写字 = writing by hand (general). 写 alone can mean writing generally (writing an email, an essay). 她字写得好 = "Her handwriting is good" — here 字 alone means "handwritten characters." The degree complement 写得好/写得漂亮 is the standard way to evaluate handwriting.
+          写字 = writing by hand (general). 写 alone can mean writing generally (writing an email, an essay). 她字写得好 = "Her handwriting is good," where 字 alone means "handwritten characters." The degree complement 写得好/写得漂亮 is the standard way to evaluate handwriting.
         </div>
       </div>
 
@@ -182,7 +182,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-v">V 动词 dòngcí</span></div>
         <div class="card-def">
-          认 rèn (to recognize; to identify; to acknowledge) + 字 zì. The act of visually identifying a character and knowing its reading and meaning. Implies the foundational literacy skill. 不认字 = illiterate (cannot read) — a stark and socially significant label. Also used in the pattern 你认识这个字吗？(Do you know this character?) where 认识 replaces 认.
+          认 rèn (to recognize; to identify; to acknowledge) + 字 zì. The act of visually identifying a character and knowing its reading and meaning. Implies the foundational literacy skill. 不认字 = illiterate (cannot read), a stark and socially significant label. Also used in the pattern 你认识这个字吗？(Do you know this character?) where 认识 replaces 认.
         </div>
         <div class="examples">
           <div class="example">
@@ -203,7 +203,7 @@ content_sources:
         </div>
         <div class="note">
           <span class="note-label">辨析 biànxī · 认字 vs. 阅读</span>
-          认字 = recognizing individual characters; basic reading ability (foundational skill). 阅读 yuèdú = to read text/books — implies fluency and comprehension, not just character recognition. A child 认字; an adult 阅读. Both are needed; 认字 comes first.
+          认字 = recognizing individual characters; basic reading ability (foundational skill). 阅读 yuèdú = to read text/books, implying fluency and comprehension rather than just character recognition. A child 认字; an adult 阅读. Both are needed; 认字 comes first.
         </div>
       </div>
 
@@ -216,7 +216,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-v">V 动词 dòngcí</span></div>
         <div class="card-def">
-          打 dǎ (to hit; to strike) + 字 zì. You are "striking" the characters into existence — the same 打 used in 打球 (play ball by striking it), 打电话 (make a phone call — striking the connection), 打鼓 (beat a drum). The verb captures the original mechanical action of the typewriter keyboard, now generalized to all digital typing.
+          打 dǎ (to hit; to strike) + 字 zì. You are "striking" the characters into existence: the same 打 used in 打球 (play ball by striking it), 打电话 (make a phone call by striking a connection), 打鼓 (beat a drum). The verb captures the original mechanical action of the typewriter keyboard, now generalized to all digital typing.
         </div>
         <div class="examples">
           <div class="example">
@@ -237,7 +237,7 @@ content_sources:
         </div>
         <div class="note">
           <span class="note-label">词语 cíyǔ · Key Compound</span>
-          打字机 dǎzìjī = typewriter (lit. "character-striking machine"). The jī 机 suffix creates machines: 手机 (mobile phone — hand machine), 飞机 (airplane — flying machine), 打字机 (typewriter). The pattern is productive and transparent.
+          打字机 dǎzìjī = typewriter (lit. "character-striking machine"). The jī 机 suffix creates machines: 手机 (mobile phone, hand machine), 飞机 (airplane, flying machine), 打字机 (typewriter). The pattern is productive and transparent.
         </div>
       </div>
 
@@ -250,7 +250,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-v">V 动词 dòngcí</span></div>
         <div class="card-def">
-          练 liàn (to practice; to train; to drill — originally: to boil silk to soften it) + 字 zì. Implies regularity, discipline, and sustained improvement. 练字 is what serious students and calligraphers do — not casual doodling but deliberate, structured practice. In Chinese culture, the analogy between calligraphic practice and moral self-cultivation runs deep.
+          练 liàn (to practice; to train; to drill; originally, to boil silk to soften it) + 字 zì. Implies regularity, discipline, and sustained improvement. 练字 is deliberate, structured practice, not casual doodling. In Chinese culture, the analogy between calligraphic practice and moral self-cultivation runs deep.
         </div>
         <div class="examples">
           <div class="example">
@@ -271,7 +271,7 @@ content_sources:
         </div>
         <div class="note">
           <span class="note-label">文化 wénhuà · Culture</span>
-          In classical Chinese thought, 练字 was not merely a skill — it was a form of 修身 (self-cultivation). The brush requires stillness of mind; each character demands total presence. The great calligraphers — Wang Xizhi 王羲之, Yan Zhenqing 颜真卿 — were as revered as philosophers.
+          In classical Chinese thought, 练字 was a form of 修身 (self-cultivation). The brush requires stillness of mind; each character demands total presence. Wang Xizhi 王羲之 and Yan Zhenqing 颜真卿, the great calligraphers, were as revered as philosophers.
         </div>
       </div>
 
@@ -288,8 +288,8 @@ content_sources:
 
     <div class="scholar" data-glyph="汉">
       <div class="scholar-label">学者洞见 xuézhě dòngjiàn · Scholar Note</div>
-      <p>The scope of 汉字: the Kangxi Dictionary (1716) catalogued 47,035 characters. Modern comprehensive dictionaries list approximately 85,000. For daily functional literacy: ~3,500. For newspaper reading: ~8,000. The writing system has been in continuous use for approximately 3,500 years — the longest continuously-used writing system in the world.</p>
-      <p>Two major script variants exist: <strong>繁体字 fántǐzì</strong> (traditional characters — used in Taiwan, Hong Kong, and overseas communities) vs. <strong>简体字 jiǎntǐzì</strong> (simplified characters — used in mainland China since the 1950s–1960s reforms). Most characters are identical or near-identical in both systems. Major divergences include: 愛/爱 (love), 國/国 (nation), 龍/龙 (dragon), 書/书 (book). Neither system is "wrong" — they are two codifications of the same underlying writing tradition, with approximately 2,000 years of shared history before the 20th-century split.</p>
+      <p>The scope of 汉字: the Kangxi Dictionary (1716) catalogued 47,035 characters. Modern comprehensive dictionaries list approximately 85,000. For daily functional literacy: ~3,500. For newspaper reading: ~8,000. The writing system has been in continuous use for approximately 3,500 years, the longest continuously-used writing system in the world.</p>
+      <p>Two major script variants exist: <strong>繁体字 fántǐzì</strong> (traditional characters, used in Taiwan, Hong Kong, and overseas communities) vs. <strong>简体字 jiǎntǐzì</strong> (simplified characters, used in mainland China since the 1950s–1960s reforms). Most characters are identical or near-identical in both systems. Major divergences include: 愛/爱 (love), 國/国 (nation), 龍/龙 (dragon), 書/书 (book). Both are codifications of the same underlying writing tradition, with approximately 2,000 years of shared history before the 20th-century split.</p>
     </div>
 
     <div class="cards">
@@ -303,7 +303,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          汉 Hàn (Han — the dominant ethnic group; the Han dynasty, 206 BC–220 AD) + 字 zì (character). The proper name for the script. 汉 here refers to the Han people and their civilization — the writing system that became the cultural foundation of East Asia. In Japan: 漢字 <em>kanji</em>; in Korea (historical): 한자 <em>hanja</em>.
+          汉 Hàn (Han, the dominant ethnic group; the Han dynasty, 206 BC–220 AD) + 字 zì (character). The proper name for the script. 汉 refers to the Han people and their civilization, whose writing system became the cultural foundation of East Asia. In Japan: 漢字 <em>kanji</em>; in Korea (historical): 한자 <em>hanja</em>.
         </div>
         <div class="examples">
           <div class="example">
@@ -333,7 +333,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          繁 fán (complex; numerous) + 体 tǐ (form; body; style) + 字 zì. The original, more structurally complex character forms that preserve more visual information about component etymology. Used in Taiwan, Hong Kong, Macau, and many overseas Chinese communities. The term 繁体 (complex form) was coined retroactively — these characters were simply "the characters" until simplification.
+          繁 fán (complex; numerous) + 体 tǐ (form; body; style) + 字 zì. The original, more structurally complex character forms that preserve more visual information about component etymology. Used in Taiwan, Hong Kong, Macau, and many overseas Chinese communities. The term 繁体 (complex form) was coined retroactively; these characters were simply "the characters" until simplification.
         </div>
         <div class="examples">
           <div class="example">
@@ -349,7 +349,7 @@ content_sources:
         </div>
         <div class="note">
           <span class="note-label">辨析 biànxī · 繁体字 vs. 正体字</span>
-          Mainland Chinese use 繁体字 (complex-form characters) as the name. In Taiwan, the preferred term is <strong>正体字 zhèngtǐzì</strong> (standard/correct-form characters) — reflecting a different perspective on which system is normative.
+          Mainland Chinese use 繁体字 (complex-form characters) as the name. In Taiwan, the preferred term is <strong>正体字 zhèngtǐzì</strong> (standard/correct-form characters), reflecting a different perspective on which system is normative.
         </div>
       </div>
 
@@ -362,7 +362,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          简 jiǎn (simple; brief; bamboo slip — early writing surface) + 体 tǐ (form; style) + 字 zì. Introduced in mainland China in the 1950s–1960s under the People's Republic, with the goals of increasing literacy rates. Many simplifications were based on existing cursive forms or folk variants — they were not invented from scratch but standardized. Approximately 2,000 characters were simplified from the traditional forms.
+          简 jiǎn (simple; brief; bamboo slip, an early writing surface) + 体 tǐ (form; style) + 字 zì. Introduced in mainland China in the 1950s–1960s under the People's Republic, with the goal of increasing literacy rates. Many simplifications were based on existing cursive forms or folk variants that were standardized rather than invented from scratch. Approximately 2,000 characters were simplified from the traditional forms.
         </div>
         <div class="examples">
           <div class="example">
@@ -378,7 +378,7 @@ content_sources:
         </div>
         <div class="note">
           <span class="note-label">文化 wénhuà · Culture</span>
-          The simplified/traditional debate is often politically charged. Practically: learners of mainland Chinese learn 简体字; learners focused on Taiwan, Hong Kong, or classical texts learn 繁体字. Many educated Chinese can read both. The underlying language — spoken Mandarin — is identical.
+          The simplified/traditional debate is often politically charged. Practically: learners of mainland Chinese learn 简体字; learners focused on Taiwan, Hong Kong, or classical texts learn 繁体字. Many educated Chinese can read both. The underlying language, spoken Mandarin, is identical.
         </div>
       </div>
 
@@ -411,7 +411,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          字 zì (individual character) + 典 diǎn (canon; standard reference; classic text). A dictionary organized by radical, stroke count, or pronunciation that defines individual characters. The 典 suffix appears in 经典 jīngdiǎn (canonical classics) — a 字典 is a canonical reference for individual characters.
+          字 zì (individual character) + 典 diǎn (canon; standard reference; classic text). A dictionary organized by radical, stroke count, or pronunciation that defines individual characters. The 典 suffix appears in 经典 jīngdiǎn (canonical classics); a 字典 is a canonical reference for individual characters.
         </div>
         <div class="examples">
           <div class="example">
@@ -445,7 +445,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          词 cí (word; lyric; multi-character unit) + 典 diǎn (canonical reference). A dictionary organized alphabetically by pinyin or by topic that defines words and phrases rather than individual characters. For language learners, the 词典 is the primary tool — since most Chinese vocabulary consists of two-character compounds, the 字典 alone is insufficient.
+          词 cí (word; lyric; multi-character unit) + 典 diǎn (canonical reference). A dictionary organized alphabetically by pinyin or by topic that defines words and phrases rather than individual characters. For language learners, the 词典 is the primary tool, since most Chinese vocabulary consists of two-character compounds and the 字典 alone is insufficient.
         </div>
         <div class="examples">
           <div class="example">
@@ -470,7 +470,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          Commissioned by the Kangxi Emperor 康熙帝, completed 1716. 47,035 characters organized under 214 radicals. The definitive classical reference work — still consulted by scholars of classical Chinese today. Its 214 radicals became the international standard and remain the basis of character lookup systems worldwide.
+          Commissioned by the Kangxi Emperor 康熙帝, completed 1716. 47,035 characters organized under 214 radicals. The definitive classical reference work, still consulted by scholars of classical Chinese today. Its 214 radicals became the international standard and remain the basis of character lookup systems worldwide.
         </div>
         <div class="examples">
           <div class="example">
@@ -486,7 +486,7 @@ content_sources:
         </div>
         <div class="note">
           <span class="note-label">历史 lìshǐ · History</span>
-          The Kangxi Emperor (r. 1661–1722) was one of the longest-reigning emperors in Chinese history and a prolific patron of scholarship. The 214 Kangxi radicals are still used today in modern dictionaries, Unicode character organization, and digital input methods — a 300-year-old classification system embedded in contemporary technology.
+          The Kangxi Emperor (r. 1661–1722) was one of the longest-reigning emperors in Chinese history and a prolific patron of scholarship. The 214 Kangxi radicals are still used in modern dictionaries, Unicode character organization, and digital input methods: a 300-year-old classification system embedded in contemporary technology.
         </div>
       </div>
 
@@ -499,7 +499,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          新华 Xīnhuá (New China — the name of the official news agency and many state institutions) + 字典. The most widely-sold book in Chinese history and the standard reference for mainland Chinese students since its first edition in 1953. Simple, portable, and comprehensive for modern literacy needs. A fixture of Chinese primary education.
+          新华 Xīnhuá (New China, the name of the official news agency and many state institutions) + 字典. The most widely-sold book in Chinese history and the standard reference for mainland Chinese students since its first edition in 1953. Simple, portable, and comprehensive for modern literacy needs. A fixture of Chinese primary education.
         </div>
         <div class="examples">
           <div class="example">
@@ -537,7 +537,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          名 míng (name; fame; renown) + 字 zì (character; written form; courtesy name). Literally: "name-character." The compound fuses the spoken name (名) with its written realization (字) — you do not fully have a name until it can be written. In modern usage, 名字 refers to the full name or the given name depending on context.
+          名 míng (name; fame; renown) + 字 zì (character; written form; courtesy name). Literally: "name-character." The compound fuses the spoken name (名) with its written realization (字). A name is not fully real until it can be written. In modern usage, 名字 refers to the full name or the given name depending on context.
         </div>
         <div class="examples">
           <div class="example">
@@ -558,7 +558,7 @@ content_sources:
         </div>
         <div class="note">
           <span class="note-label">语法 yǔfǎ · Grammar</span>
-          姓 xìng = surname (family name). 名 míng = given name. 名字 míngzi = the full name or just the given name depending on context. 请问您贵姓？(May I ask your surname? — formal, polite) vs. 你叫什么名字？(What's your name? — casual). The 贵 (honorable) in 贵姓 is a politeness marker.
+          姓 xìng = surname (family name). 名 míng = given name. 名字 míngzi = the full name or just the given name depending on context. 请问您贵姓？(May I ask your surname? formal, polite) vs. 你叫什么名字？(What's your name? casual). The 贵 (honorable) in 贵姓 is a politeness marker.
         </div>
       </div>
 
@@ -571,7 +571,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          字 zì (character) + 母 mǔ (mother; source; matrix). Literally: "character-mothers." The foundational elements of an alphabetic system — the "mothers" from which all words are born. The term applies to any alphabetic system: the English alphabet, the pinyin romanization system, the Cyrillic alphabet. Hanzi are 字 (characters), not 字母.
+          字 zì (character) + 母 mǔ (mother; source; matrix). Literally: "character-mothers," the foundational elements of an alphabetic system from which all words are born. The term applies to any alphabetic system: the English alphabet, the pinyin romanization system, the Cyrillic alphabet. Hanzi are 字 (characters), not 字母.
         </div>
         <div class="examples">
           <div class="example">
@@ -600,7 +600,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          字 zì (character) + 体 tǐ (body; form; style). The physical form a character takes — whether in print, on screen, or in handwriting. Covers both digital fonts and handwriting styles. The same character can appear in multiple 字体: the same 字, different bodies.
+          字 zì (character) + 体 tǐ (body; form; style). The physical form a character takes, whether in print, on screen, or in handwriting. Covers both digital fonts and handwriting styles. The same character can appear in multiple 字体: the same 字, different bodies.
         </div>
         <div class="examples">
           <div class="example">
@@ -621,7 +621,7 @@ content_sources:
         </div>
         <div class="note">
           <span class="note-label">词语 cíyǔ · Key Terms</span>
-          楷体 Kǎitǐ (regular script — the clearest, most standard form; used in textbooks) · 宋体 Sōngtǐ (Song typeface — the most common print font, with serifs) · 黑体 Hēitǐ (sans-serif / bold block font — used for headings) · 草书 cǎoshū (cursive script — the fastest, most abbreviated style).
+          楷体 Kǎitǐ (regular script, the clearest and most standard form; used in textbooks) · 宋体 Sōngtǐ (Song typeface, the most common print font, with serifs) · 黑体 Hēitǐ (sans-serif / bold block font, used for headings) · 草书 cǎoshū (cursive script, the fastest and most abbreviated style).
         </div>
       </div>
 
@@ -634,7 +634,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          字 zì (character; text) + 幕 mù (curtain; screen — as in 银幕 yínmù, the silver screen). Literally: "character-curtain." The text that appears across the screen like writing on a curtain. A modern compound that elegantly extends the ancient components into a contemporary context.
+          字 zì (character; text) + 幕 mù (curtain; screen, as in 银幕 yínmù, the silver screen). Literally: "character-curtain." The text that appears across the screen like writing on a curtain. A modern compound that elegantly extends the ancient components into a contemporary context.
         </div>
         <div class="examples">
           <div class="example">
@@ -668,8 +668,8 @@ content_sources:
 
     <div class="scholar" data-glyph="文">
       <div class="scholar-label">学者洞见 xuézhě dòngjiàn · Scholar Note</div>
-      <p><strong>文字 wénzì</strong> = written language; script (broader than 字 alone — 文 covers the whole written tradition, the texture of civilized expression). The character as the atomic unit of Chinese culture: poetry is counted in 字 (五言绝句 = 5-character-per-line quatrain), contracts specify 字数 (character count), calligraphy is evaluated 字 by 字. A civilization measured in characters.</p>
-      <p>The great reform of Chinese writing: <strong>文言文</strong> wényánwén (classical written language — used for ~2,000 years, highly compressed: one character often equals a modern sentence) vs. <strong>白话文</strong> báihuàwén (vernacular written language — reformed after the May Fourth Movement of 1919, matches how people actually speak). Lu Xun 鲁迅 and Hu Shi 胡适 championed the shift to 白话文 as essential for mass education and national modernization.</p>
+      <p><strong>文字 wénzì</strong> = written language; script (broader than 字 alone; 文 covers the whole written tradition, the texture of civilized expression). The character as the atomic unit of Chinese culture: poetry is counted in 字 (五言绝句 = 5-character-per-line quatrain), contracts specify 字数 (character count), calligraphy is evaluated 字 by 字. A civilization measured in characters.</p>
+      <p>The great reform of Chinese writing: <strong>文言文</strong> wényánwén (classical written language, used for ~2,000 years, highly compressed: one character often equals a modern sentence) vs. <strong>白话文</strong> báihuàwén (vernacular written language, reformed after the May Fourth Movement of 1919, matches how people actually speak). Lu Xun 鲁迅 and Hu Shi 胡适 championed the shift to 白话文 as essential for mass education and national modernization.</p>
     </div>
 
     <div class="cards">
@@ -683,7 +683,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          文 wén (writing; culture; pattern; civilization) + 字 zì (character). Broader than 字 alone. 文字 covers the entire written tradition — not just individual characters but the system, the culture, and the civilization that writing makes possible. 文 itself is one of the most semantically rich characters in Chinese: it contains writing, culture, pattern, and the civilizing process.
+          文 wén (writing; culture; pattern; civilization) + 字 zì (character). Broader than 字 alone. 文字 covers the entire written tradition: individual characters, the system, the culture, and the civilization that writing makes possible. 文 itself is one of the most semantically rich characters in Chinese, carrying writing, culture, pattern, and the civilizing process.
         </div>
         <div class="examples">
           <div class="example">
@@ -713,7 +713,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          文 wén (writing; written form) + 言 yán (speech; language) + 文 wén (text). The written form of classical spoken Chinese — crystallized in the pre-Han period and used as the literary and official written standard for approximately 2,000 years. Highly compressed: a single character often carries what would require a full sentence in modern Chinese. Still read by educated Chinese and studied in secondary school.
+          文 wén (writing; written form) + 言 yán (speech; language) + 文 wén (text). The written form of classical spoken Chinese, crystallized in the pre-Han period and used as the literary and official written standard for approximately 2,000 years. Highly compressed: a single character often carries what would require a full sentence in modern Chinese. Still read by educated Chinese and studied in secondary school.
         </div>
         <div class="examples">
           <div class="example">
@@ -729,7 +729,7 @@ content_sources:
         </div>
         <div class="note">
           <span class="note-label">文化 wénhuà · Culture</span>
-          文言文 created a paradox: the same written language was used across China regardless of regional dialect — a unifying force for 2,000 years. But only the educated elite could read it. The shift to 白话文 in the 20th century was thus both a cultural revolution and a democratization of literacy.
+          文言文 created a paradox: the same written language was used across China regardless of regional dialect, a unifying force for 2,000 years, but only the educated elite could read it. The shift to 白话文 in the 20th century was both a cultural revolution and a democratization of literacy.
         </div>
       </div>
 
@@ -742,7 +742,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          白 bái (plain; white; clear; spoken) + 话 huà (speech; talk) + 文 wén (written text). Writing that matches how people actually speak. 白话 literally = "plain speech" — the ordinary spoken language as opposed to the elevated classical register. Championed by intellectuals of the May Fourth Movement (1919) as essential for national modernization and mass literacy. Now the universal standard for all Chinese writing.
+          白 bái (plain; white; clear; spoken) + 话 huà (speech; talk) + 文 wén (written text). Writing that matches how people actually speak. 白话 literally = "plain speech," the ordinary spoken language as opposed to the elevated classical register. Championed by intellectuals of the May Fourth Movement (1919) as essential for national modernization and mass literacy. Now the universal standard for all Chinese writing.
         </div>
         <div class="examples">
           <div class="example">
@@ -771,7 +771,7 @@ content_sources:
 
     <div class="scholar" data-glyph="字">
       <div class="scholar-label">系统洞见 xìtǒng dòngjiàn · System Insight</div>
-      <p>The traditional analysis of 汉字 (六书 liù shū, the "Six Writings") identifies four main formation types used in practice. Understanding them transforms learning from rote memorization into a decoding system. The critical fact: approximately <strong>80% of all characters are 形声字</strong> (semantic-phonetic compounds) — meaning most characters contain a visual hint at both their meaning AND their pronunciation. Once you see the system, you can make educated guesses about characters you have never seen before.</p>
+      <p>The traditional analysis of 汉字 (六书 liù shū, the "Six Writings") identifies four main formation types used in practice. Understanding them transforms learning from rote memorization into a decoding system. The critical fact: approximately <strong>80% of all characters are 形声字</strong> (semantic-phonetic compounds), meaning most characters contain a visual hint at both their meaning AND their pronunciation. Once you see the system, you can make educated guesses about characters you have never seen before.</p>
     </div>
 
     <div class="table-wrap">
@@ -791,7 +791,7 @@ content_sources:
             <td class="td-py">xiàngxíng zì</td>
             <td>Pictographs</td>
             <td class="td-cn td-small">日 月 山 水 木 火</td>
-            <td>Direct pictures of things. The most ancient type — the original writing. 日 = the sun (circle with a dot); 月 = the moon (crescent).</td>
+            <td>Direct pictures of things. The most ancient type, the original writing. 日 = the sun (circle with a dot); 月 = the moon (crescent).</td>
           </tr>
           <tr>
             <td class="td-cn">指事字</td>
@@ -854,7 +854,7 @@ content_sources:
         <span class="cy-cn">一字不漏</span>
         <span class="cy-py">yī zì bù lòu</span>
         <span class="cy-en">not missing a single character — word-for-word; complete and verbatim</span>
-        <span class="cy-note">漏 lòu = to leak; to omit; to miss. 他把合同一字不漏地读了一遍。(He read the contract verbatim, not missing a single character.) Used to emphasize thoroughness, total quotation, or painstaking completeness. Related: 一字不差 yī zì bù chā (not one character wrong — absolutely accurate).</span>
+        <span class="cy-note">漏 lòu = to leak; to omit; to miss. 他把合同一字不漏地读了一遍。(He read the contract verbatim, not missing a single character.) Used to emphasize thoroughness, total quotation, or painstaking completeness. Related: 一字不差 yī zì bù chā (not one character wrong, absolutely accurate).</span>
       </div>
 
     </div>
@@ -887,8 +887,8 @@ content_sources:
     <!-- RETENTION IMAGE -->
     <div class="scholar" data-glyph="字">
       <div class="scholar-label">记忆法 jìyìfǎ · Master Retention Image</div>
-      <p>A child born under a roof. That moment — the birth, the name-giving, the entry into the household record — is what 字 encodes. Writing is the same event for a word: the moment language is fixed on a surface, given a body, made recognizable and transmissible across time. A word without its 字 is like a child with no name: present but unrecognized by the social world.</p>
-      <p>The ~85,000 characters in the great dictionaries are 85,000 children under 85,000 roofs — all the thoughts the civilization decided to preserve. When you learn a new 字, you are not memorizing a shape. You are giving a word its courtesy name — the form by which it can be recognized in polite company, across centuries.</p>
+      <p>A child born under a roof. That moment, the birth, the name-giving, the entry into the household record, is what 字 encodes. Writing is the same event for a word: the moment language is fixed on a surface, given a body, made recognizable and transmissible across time. A word without its 字 is like a child with no name: present but unrecognized by the social world.</p>
+      <p>The ~85,000 characters in the great dictionaries are 85,000 children under 85,000 roofs, all the thoughts the civilization decided to preserve. When you learn a new 字, you are not memorizing a shape. You are giving a word its courtesy name, the form by which it can be recognized in polite company, across centuries.</p>
       <p>And note the self-reference: the character 字 is itself a 字. The child under the roof named itself. No other writing system has this: a word that is literally what it describes.</p>
       <p>In Japanese: 漢字 <em>kanji</em> — the same child, the same roof, the same 3,500-year tradition, still being born into new households every day.</p>
     </div>
