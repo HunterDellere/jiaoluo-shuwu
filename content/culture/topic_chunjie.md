@@ -64,8 +64,8 @@ pinyin: 'Chūnjié'
       <h2 class="section-head">The Great Migration · 春运 chūnyùn</h2>
       <div class="scholar" data-glyph="春">
         <div class="scholar-label">回家 huíjiā · Going Home</div>
-        <p><strong>春运</strong> (chūnyùn, "spring transport") is the annual migration of hundreds of millions of people traveling home for the Lunar New Year — the largest annual human migration in the world. The official window runs about forty days around the new year, and the combined number of trips can exceed three billion. Train tickets sell out within minutes of release. The queues at bus and train stations in major cities are a defining image of contemporary China.</p>
-        <p>The scale of chūnyùn reflects the scale of internal migration. Millions of workers from rural areas — <strong>农民工</strong> (nóngmíngōng, "peasant workers") — work in coastal factories and cities throughout the year and return to their home villages for the Spring Festival. The holiday is the one time the family unit reconstitutes itself in person, often after months or years of separation.</p>
+        <p><strong>春运</strong> (chūnyùn, "spring transport") is the annual migration of hundreds of millions of people traveling home for the Lunar New Year, the largest annual human migration in the world. The official window runs about forty days around the new year, and the combined number of trips can exceed three billion. Train tickets sell out within minutes of release. The queues at bus and train stations in major cities are a defining image of contemporary China.</p>
+        <p>The scale of chūnyùn reflects the scale of internal migration. Millions of workers from rural areas, <strong>农民工</strong> (nóngmíngōng, "peasant workers"), work in coastal factories and cities throughout the year and return to their home villages for the Spring Festival. The holiday is the one time the family unit reconstitutes itself in person, often after months or years of separation.</p>
         <p>For many migrant workers, the Spring Festival reunion dinner is the emotional center of the year. The pressure to return, combined with parental expectations about income, marriage, and life progress, makes chūnyùn psychologically intense as well as logistically demanding.</p>
       </div>
 
@@ -74,8 +74,8 @@ pinyin: 'Chūnjié'
       <h2 class="section-head">New Year's Eve · 除夕 chúxī</h2>
       <div class="scholar" data-glyph="夕">
         <div class="scholar-label">年夜饭 niányèfàn · Reunion Dinner</div>
-        <p><strong>除夕</strong> (chúxī, New Year's Eve) is organized around the <strong>年夜饭</strong> (niányèfàn, "year night meal") — the reunion dinner eaten by the whole family together. This meal is the emotional core of the holiday: whatever has kept people apart, whatever friction exists in the family, the reunion dinner is where the family presents itself to itself as a coherent unit.</p>
-        <p>The dishes served carry symbolic weight: whole fish (鱼 yú) sounds like "surplus" (余 yú); New Year's cake (年糕 niángāo) sounds like "year-high" — every year better than the last. Dumplings in the north (their shape resembles ancient ingots), glutinous rice balls in the south. The specific dishes vary enormously by region, but the principle is constant: food as embodied wish for the year ahead.</p>
+        <p><strong>除夕</strong> (chúxī, New Year's Eve) is organized around the <strong>年夜饭</strong> (niányèfàn, "year night meal"), the reunion dinner eaten by the whole family together. This meal is the emotional core of the holiday: whatever has kept people apart, whatever friction exists in the family, the reunion dinner is where the family presents itself to itself as a coherent unit.</p>
+        <p>The dishes served carry symbolic weight: whole fish (鱼 yú) sounds like "surplus" (余 yú); New Year's cake (年糕 niángāo) sounds like "year-high," wishing every year better than the last. Dumplings in the north (their shape resembles ancient ingots), glutinous rice balls in the south. The specific dishes vary enormously by region, but the principle is constant: food as embodied wish for the year ahead.</p>
         <p>After dinner, the family watches the CCTV Spring Festival Gala (春晚 Chūnwǎn), the most-watched television broadcast in the world, running four to five hours through the night. It is famously criticized and just as famously watched. The ubiquity makes it a shared reference point regardless of personal taste.</p>
       </div>
 
@@ -89,15 +89,15 @@ pinyin: 'Chūnjié'
         </div>
         <div class="card c-red">
           <div class="card-head">鞭炮 biānpào · Firecrackers</div>
-          <p>Firecrackers are set off to drive away evil spirits — the noise and the sulfur smoke are protective. Major cities have restricted or banned firecrackers due to air quality and fire hazard concerns, but rural areas and smaller cities still see massive displays. The transition from analog firecrackers to digital firework simulations on phones and televisions is ongoing.</p>
+          <p>Firecrackers are set off to drive away evil spirits; the noise and the sulfur smoke are protective. Major cities have restricted or banned firecrackers due to air quality and fire hazard concerns, but rural areas and smaller cities still see massive displays. The transition from analog firecrackers to digital firework simulations on phones and televisions is ongoing.</p>
         </div>
         <div class="card c-ochre">
           <div class="card-head">春联 chūnlián · Spring Couplets</div>
-          <p>Red paper strips with auspicious phrases written in black or gold calligraphy, pasted on the two sides of the front door. The paired couplets (对联 duìlián) are a compressed form of poetry — a parallel couplet on each side, a horizontal phrase above the door. The content wishes health, wealth, and harmony for the family.</p>
+          <p>Red paper strips with auspicious phrases written in black or gold calligraphy, pasted on the two sides of the front door. The paired couplets (对联 duìlián) are a compressed form of poetry: a parallel couplet on each side, a horizontal phrase above the door. The content wishes health, wealth, and harmony for the family.</p>
         </div>
         <div class="card c-ochre">
           <div class="card-head">扫尘 sǎo chén · Sweeping</div>
-          <p>The house is thoroughly cleaned before New Year's Day to sweep away bad luck from the previous year. After the new year begins, sweeping is avoided for the first few days — you might sweep out the new good luck. The timing of cleaning becomes a micro-cultural negotiation in multigenerational households.</p>
+          <p>The house is thoroughly cleaned before New Year's Day to sweep away bad luck from the previous year. After the new year begins, sweeping is avoided for the first few days; you might sweep out the new good luck. The timing of cleaning becomes a micro-cultural negotiation in multigenerational households.</p>
         </div>
       </div>
 
@@ -106,8 +106,8 @@ pinyin: 'Chūnjié'
       <h2 class="section-head">Lantern Festival · 元宵节 yuánxiāo jié</h2>
       <div class="scholar" data-glyph="元">
         <div class="scholar-label">十五 shíwǔ · The Fifteenth Day</div>
-        <p>The Spring Festival officially ends on the fifteenth day of the first lunar month with <strong>元宵节</strong> (Yuánxiāo Jié, the Lantern Festival). Lanterns of every size and shape are displayed, riddle-guessing games are played on lantern tags, and <strong>汤圆</strong> (tāngyuán) — glutinous rice balls filled with sesame, peanut, or red bean paste — are eaten, their round shape symbolizing family completeness.</p>
-        <p>The full moon of the fifteenth marks the first full moon of the new year. The Lantern Festival has an older association with courtship — historically one of the few occasions when unmarried women could move about publicly at night, making it the subject of much classical poetry about chance encounters and romantic longing.</p>
+        <p>The Spring Festival officially ends on the fifteenth day of the first lunar month with <strong>元宵节</strong> (Yuánxiāo Jié, the Lantern Festival). Lanterns of every size and shape are displayed, riddle-guessing games are played on lantern tags, and <strong>汤圆</strong> (tāngyuán, glutinous rice balls filled with sesame, peanut, or red bean paste) are eaten, their round shape symbolizing family completeness.</p>
+        <p>The full moon of the fifteenth marks the first full moon of the new year. The Lantern Festival has an older association with courtship: historically one of the few occasions when unmarried women could move about publicly at night, making it the subject of much classical poetry about chance encounters and romantic longing.</p>
       </div>
 
 
