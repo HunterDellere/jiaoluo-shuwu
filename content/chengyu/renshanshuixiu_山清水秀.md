@@ -4,7 +4,7 @@ category: 'chengyu'
 status: 'complete'
 title: '山清水秀 · Mountains Clear, Waters Lovely'
 desc: "Clear mountains, lovely waters. The standard Chinese phrase for a picturesque landscape — four characters that compress the whole aesthetic vocabulary of natural beauty."
-metaDesc: "山清水秀 shān qīng shuǐ xiù: the chengyu for a beautiful natural landscape. Mountains that are clear and clean, waters that are graceful and beautiful — China's shorthand for scenic scenery."
+metaDesc: "山清水秀 shān qīng shuǐ xiù: the chengyu for a beautiful natural landscape. Mountains that are clear and clean, waters that are graceful and beautiful — China's shorthand for landscape beauty."
 pageTitle: '山清水秀 · Mountains Clear, Waters Lovely'
 tags:
   - 'idioms'
@@ -106,7 +106,7 @@ content_review: 'pending'
         </div>
         <div class="card c-ochre">
           <div class="card-head">清 qīng</div>
-          <p>Clear, clean, pure. The water radical on the left and the phonetic component 青 (blue-green) on the right. The core meaning is clear water — water you can see through — extended to mean moral and aesthetic clarity. A 清官 is an incorruptible official; a 清心 is an undisturbed mind; 清 in a landscape description means unobscured, uncluttered, visually and morally clean.</p>
+          <p>Clear, clean, pure. The water radical on the left and the phonetic component 青 (blue-green) on the right. The core meaning is clear water, water you can see through, extended to mean moral and aesthetic clarity. A 清官 is an incorruptible official; a 清心 is an undisturbed mind; 清 in a landscape description means unobscured, uncluttered, visually and morally clean.</p>
         </div>
         <div class="card c-teal">
           <div class="card-head">水 shuǐ</div>
