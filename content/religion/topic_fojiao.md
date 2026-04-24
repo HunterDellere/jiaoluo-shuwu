@@ -65,7 +65,7 @@ pinyin: 'fójiào'
       <span class="topic-hero-eyebrow">Religion · 宗教 zōngjiào</span>
       <h1 class="topic-hero-title">佛教</h1>
       <span class="topic-hero-title-py">fójiào</span>
-      <p class="topic-hero-desc">Buddhism arrived in China via the Silk Road around the 1st century CE and underwent two millennia of creative transformation — becoming something recognizably Chinese while remaining unmistakably Buddhist, shaping the country's art, philosophy, language, and popular religion at every level.</p>
+      <p class="topic-hero-desc">Buddhism arrived in China via the Silk Road around the 1st century CE and underwent two millennia of creative transformation, becoming something recognizably Chinese while remaining unmistakably Buddhist, shaping the country's art, philosophy, language, and popular religion at every level.</p>
     </header>
 
     <!-- ── TRANSMISSION ── -->
@@ -79,9 +79,9 @@ pinyin: 'fójiào'
 
     <div class="scholar" data-glyph="佛">
       <div class="scholar-label">历史洞见 lìshǐ dòngjiàn · Historical Insight</div>
-      <p>Buddhism entered China in the 1st century CE along the Central Asian Silk Road, during the Han dynasty. The traditional date is 67 CE, when Emperor Ming of Han allegedly dreamed of a golden man and sent envoys west, returning with Indian monks and the first Buddhist texts on a white horse — commemorated in the White Horse Temple 白马寺 outside Luoyang, still the oldest Buddhist monastery in China. Historical reality was more gradual: Central Asian merchants brought Buddhism with them, small communities formed in trading cities, and texts accumulated slowly.</p>
+      <p>Buddhism entered China in the 1st century CE along the Central Asian Silk Road, during the Han dynasty. The traditional date is 67 CE, when Emperor Ming of Han allegedly dreamed of a golden man and sent envoys west, returning with Indian monks and the first Buddhist texts on a white horse. The event is commemorated in the White Horse Temple 白马寺 outside Luoyang, still the oldest Buddhist monastery in China. Historical reality was more gradual: Central Asian merchants brought Buddhism with them, small communities formed in trading cities, and texts accumulated slowly.</p>
       <p>The translation movement was the decisive intellectual enterprise. Over several centuries, Indian and Central Asian monks collaborated with Chinese scholars to render Sanskrit sutras into Chinese. The two greatest translators define the tradition: <strong>Kumārajīva 鸠摩罗什</strong> (344–413 CE) produced the definitive translations of the Diamond Sutra, Lotus Sutra, and Vimalakīrti Sutra in crystalline literary Chinese that became scriptures in their own right. <strong>Xuanzang 玄奘</strong> (602–664 CE), the monk whose 17-year journey to India inspired Journey to the West, brought back 657 texts and translated them with unprecedented scholarly precision, founding the Yogācāra school in China.</p>
-      <p>Sinicization — the process by which Indian Buddhism became Chinese Buddhism — was comprehensive and creative, not merely superficial. Chinese Buddhism incorporated filial piety (absent in Indian Buddhism, which required leaving family for the monastery), integrated with Daoist and Confucian concepts (Buddha nature 佛性 was read through the lens of the Daoist 道; the precepts were reconciled with Confucian social ethics), developed distinctly Chinese textual traditions (notably the 坛经 Platform Sutra, written entirely in China), and fostered uniquely Chinese schools that have no Indian parallels. By the Tang dynasty, Chinese Buddhism was not Indian Buddhism in translation but a new synthesis.</p>
+      <p>Sinicization, the process by which Indian Buddhism became Chinese Buddhism, was comprehensive and creative, not merely superficial. Chinese Buddhism incorporated filial piety (absent in Indian Buddhism, which required leaving family for the monastery), integrated with Daoist and Confucian concepts (Buddha nature 佛性 was read through the lens of the Daoist 道; the precepts were reconciled with Confucian social ethics), developed distinctly Chinese textual traditions (notably the 坛经 Platform Sutra, written entirely in China), and fostered uniquely Chinese schools that have no Indian parallels. By the Tang dynasty, Chinese Buddhism was a new synthesis, not Indian Buddhism in translation.</p>
     </div>
 
     <!-- ── FOUR NOBLE TRUTHS ── -->
@@ -95,8 +95,8 @@ pinyin: 'fójiào'
 
     <div class="scholar" data-glyph="苦">
       <div class="scholar-label">教义洞见 jiàoyì dòngjiàn · Doctrinal Insight</div>
-      <p>The Four Noble Truths 四圣谛 sì shèng dì are the first teaching the historical Buddha Śākyamuni 释迦牟尼 Shìjiāmóuní (c. 563–483 BCE) gave after his enlightenment — the Deer Park Sermon at Sarnath. They are the structural diagnosis-and-prescription at the heart of all Buddhist teaching: identify the problem (suffering), identify its cause (craving), establish that the cause can be eliminated (cessation), and provide the path to elimination (the Noble Eightfold Path). All subsequent Buddhist philosophy, across all schools, represents elaboration or re-interpretation of these four truths.</p>
-      <p>The Chinese translations of the four Sanskrit terms are themselves philosophically rich. 苦 kǔ for Sanskrit <em>dukkha</em> includes the connotation of bitterness, physical pain, and difficult circumstances — capturing something of dukkha's scope, though dukkha's full range (the unsatisfactoriness of even pleasant experiences, the suffering inherent in impermanence) required extensive commentary to convey.</p>
+      <p>The Four Noble Truths 四圣谛 sì shèng dì are the first teaching the historical Buddha Śākyamuni 释迦牟尼 Shìjiāmóuní (c. 563–483 BCE) gave after his enlightenment, at the Deer Park Sermon at Sarnath. They are the structural diagnosis-and-prescription at the heart of all Buddhist teaching: identify the problem (suffering), identify its cause (craving), establish that the cause can be eliminated (cessation), and provide the path to elimination (the Noble Eightfold Path). All subsequent Buddhist philosophy, across all schools, represents elaboration or re-interpretation of these four truths.</p>
+      <p>The Chinese translations of the four Sanskrit terms are themselves philosophically rich. 苦 kǔ for Sanskrit <em>dukkha</em> includes the connotation of bitterness, physical pain, and difficult circumstances, capturing something of dukkha's scope, though dukkha's full range (the unsatisfactoriness of even pleasant experiences, the suffering inherent in impermanence) required extensive commentary to convey.</p>
     </div>
 
     <div class="cards">
@@ -108,7 +108,7 @@ pinyin: 'fójiào'
           <span class="card-en">the truth of suffering — dukkha</span>
         </div>
         <div class="card-def">
-          苦 kǔ = suffering, bitterness, difficulty. Sanskrit <em>dukkha</em> — a wheel whose axle is off-center, generating grinding rather than smooth motion. The Buddha's first noble truth: life as ordinarily lived is characterized by <em>dukkha</em>. This is not pessimism but diagnosis: birth, aging, illness, death; being separated from what you love; being bound to what you don't. Even pleasant experiences are dukkha because they are impermanent. The three marks of existence are 苦 kǔ (suffering), 无常 wúcháng (impermanence), and 无我 wúwǒ (no-self).
+          苦 kǔ = suffering, bitterness, difficulty. Sanskrit <em>dukkha</em>: a wheel whose axle is off-center, generating grinding rather than smooth motion. The Buddha's first noble truth: life as ordinarily lived is characterized by <em>dukkha</em>. This is not pessimism but diagnosis: birth, aging, illness, death; being separated from what you love; being bound to what you don't. Even pleasant experiences are dukkha because they are impermanent. The three marks of existence are 苦 kǔ (suffering), 无常 wúcháng (impermanence), and 无我 wúwǒ (no-self).
         </div>
       </div>
 
@@ -119,7 +119,7 @@ pinyin: 'fójiào'
           <span class="card-en">the truth of the origin of suffering — craving and clinging</span>
         </div>
         <div class="card-def">
-          集 jí = accumulation, gathering. Sanskrit <em>samudaya</em> — arising. The cause of suffering is 贪爱 tān'ài (craving/clinging, also translated 渴爱 kě'ài, thirst): the driven, compulsive wanting and clinging to pleasant experiences, the desperate aversion to unpleasant ones, and the delusion of a fixed self that must be protected and satisfied. Crucially, it is not experience itself that causes suffering but the <em>clinging to experience</em> — the reflexive grasping.
+          集 jí = accumulation, gathering. Sanskrit <em>samudaya</em>: arising. The cause of suffering is 贪爱 tān'ài (craving/clinging, also translated 渴爱 kě'ài, thirst): the driven, compulsive wanting and clinging to pleasant experiences, the desperate aversion to unpleasant ones, and the delusion of a fixed self that must be protected and satisfied. It is not experience itself that causes suffering but the <em>clinging to experience</em>, the reflexive grasping.
         </div>
       </div>
 
@@ -130,7 +130,7 @@ pinyin: 'fójiào'
           <span class="card-en">the truth of the cessation of suffering — nirvāṇa</span>
         </div>
         <div class="card-def">
-          灭 miè = extinction, cessation. Sanskrit <em>nirodha</em>. The good news: the cause can be eliminated. When craving ceases, suffering ceases — this is <strong>涅槃 niépán</strong> (nirvāṇa), literally the "blowing out" of the fires of craving, hatred, and delusion. The Chinese 灭 captures the extinction aspect. Nirvāṇa is not annihilation (a common misunderstanding) but the cessation of the particular configuration of craving-driven experience that constitutes ordinary life.
+          灭 miè = extinction, cessation. Sanskrit <em>nirodha</em>. The good news: the cause can be eliminated. When craving ceases, suffering ceases. This is <strong>涅槃 niépán</strong> (nirvāṇa), literally the "blowing out" of the fires of craving, hatred, and delusion. The Chinese 灭 captures the extinction aspect. Nirvāṇa is not annihilation (a common misunderstanding) but the cessation of the particular configuration of craving-driven experience that constitutes ordinary life.
         </div>
       </div>
 
@@ -176,7 +176,7 @@ pinyin: 'fójiào'
           <span class="card-en">Pure Land Buddhism — the most widely practiced school in China</span>
         </div>
         <div class="card-def">
-          Pure Land centers on faith in Amitābha Buddha 阿弥陀佛 Āmítuófó and the aspiration to be reborn in his Western Pure Land 西方极乐世界, from which enlightenment is easy to attain. The primary practice is 念佛 niànfó — recitation of Amitābha's name. The school's accessibility — no monastery required, no complex meditation training — made it by far the most popular form of Buddhism among Chinese laypeople. The logic of 他力 (other-power) contrasts with Chan's 自力 (self-power). Covered in detail in the Pure Land page.
+          Pure Land centers on faith in Amitābha Buddha 阿弥陀佛 Āmítuófó and the aspiration to be reborn in his Western Pure Land 西方极乐世界, from which enlightenment is easy to attain. The primary practice is 念佛 niànfó (recitation of Amitābha's name). Its accessibility, requiring no monastery and no complex meditation training, made it by far the most popular form of Buddhism among Chinese laypeople. The logic of 他力 (other-power) contrasts with Chan's 自力 (self-power). Covered in detail in the Pure Land page.
         </div>
       </div>
 
@@ -187,7 +187,7 @@ pinyin: 'fójiào'
           <span class="card-en">Tiantai — the comprehensive synthesis school</span>
         </div>
         <div class="card-def">
-          Founded by Zhiyi 智顗 (538–597 CE) on Mount Tiantai 天台山 in Zhejiang. Tiantai's great achievement was doctrinal classification 判教 pānjìao — organizing all Buddhist scriptures into a hierarchical scheme of "five periods and eight teachings," with the Lotus Sutra 法华经 at the apex. Zhiyi's systematic meditation manual, the 摩诃止观 (Great Calming and Contemplation), remains a landmark of Buddhist philosophy. The school holds that all beings possess Buddha nature 佛性 and that the Dharma is simultaneously present in all phenomena (一念三千 — "three thousand realms in a single moment of thought").
+          Founded by Zhiyi 智顗 (538–597 CE) on Mount Tiantai 天台山 in Zhejiang. Tiantai's great achievement was doctrinal classification 判教 pānjìao: organizing all Buddhist scriptures into a hierarchical scheme of "five periods and eight teachings," with the Lotus Sutra 法华经 at the apex. Zhiyi's systematic meditation manual, the 摩诃止观 (Great Calming and Contemplation), remains a landmark of Buddhist philosophy. The school holds that all beings possess Buddha nature 佛性 and that the Dharma is simultaneously present in all phenomena (一念三千, "three thousand realms in a single moment of thought").
         </div>
       </div>
 
@@ -198,7 +198,7 @@ pinyin: 'fójiào'
           <span class="card-en">Huayan — the jewel-net philosophy of total interpenetration</span>
         </div>
         <div class="card-def">
-          Based on the 华严经 Huáyán Jīng (Avatamsaka Sutra), Huayan developed the most philosophically ambitious vision in Chinese Buddhism: the mutual interpenetration and non-obstruction of all phenomena. The image of Indra's Net — an infinite net with a jewel at each node, each jewel reflecting all others — captures the vision: every thing contains and is reflected by every other thing. Flourished in the Tang dynasty under Fazang 法藏 (643–712 CE). Though it did not survive as an independent school, Huayan philosophy deeply influenced Chan, particularly the "sudden enlightenment" teaching.
+          Based on the 华严经 Huáyán Jīng (Avatamsaka Sutra), Huayan developed the most philosophically ambitious vision in Chinese Buddhism: the mutual interpenetration and non-obstruction of all phenomena. The image of Indra's Net, an infinite net with a jewel at each node each reflecting all others, captures the vision: every thing contains and is reflected by every other thing. Flourished in the Tang dynasty under Fazang 法藏 (643–712 CE). Though it did not survive as an independent school, Huayan philosophy deeply influenced Chan, particularly the "sudden enlightenment" teaching.
         </div>
       </div>
 
@@ -226,7 +226,7 @@ pinyin: 'fójiào'
 
     <div class="scholar" data-glyph="观">
       <div class="scholar-label">概念洞见 gàiniàn dòngjiàn · Conceptual Insight</div>
-      <p>A 菩萨 púsà (bodhisattva — Sanskrit <em>bodhisattva</em>, "enlightenment being") is a being who has attained the capacity for full Buddhahood but vows to remain accessible to help all sentient beings achieve liberation before entering final nirvāṇa. Bodhisattvas are the great compassionate presences of Mahāyāna Buddhism — they accumulate merit over cosmic spans of time and make it available to ordinary practitioners. Chinese popular religion elevated four bodhisattvas as particularly important, each associated with a sacred mountain and a distinctive virtue.</p>
+      <p>A 菩萨 púsà (bodhisattva, Sanskrit "enlightenment being") is a being who has attained the capacity for full Buddhahood but vows to remain accessible to help all sentient beings achieve liberation before entering final nirvāṇa. Bodhisattvas are the great compassionate presences of Mahāyāna Buddhism, accumulating merit over cosmic spans of time and making it available to ordinary practitioners. Chinese popular religion elevated four bodhisattvas as particularly important, each associated with a sacred mountain and a distinctive virtue.</p>
     </div>
 
     <div class="cards">
@@ -238,11 +238,11 @@ pinyin: 'fójiào'
           <span class="card-en">Guanyin — bodhisattva of compassion, the most beloved in China</span>
         </div>
         <div class="card-def">
-          Sanskrit Avalokiteśvara — "the one who perceives the sounds of the world." One of the most significant transformations in Chinese Buddhist history: in Indian and Central Asian Buddhism, Avalokiteśvara is male. In China, by the Song dynasty, the bodhisattva was represented predominantly as female — the 白衣观音 (White-Robed Guanyin), 送子观音 (child-giving Guanyin), and other feminine forms. The reasons are debated but likely include absorption of pre-existing Chinese goddess traditions. Guanyin is associated with Mount Putuo 普陀山 in Zhejiang. Her name is the most commonly spoken Buddhist name in China.
+          Sanskrit Avalokiteśvara ("the one who perceives the sounds of the world"). One of the most significant transformations in Chinese Buddhist history: in Indian and Central Asian Buddhism, Avalokiteśvara is male. In China, by the Song dynasty, the bodhisattva was represented predominantly as female, in forms including the 白衣观音 (White-Robed Guanyin) and 送子观音 (child-giving Guanyin). The reasons are debated but likely include absorption of pre-existing Chinese goddess traditions. Guanyin is associated with Mount Putuo 普陀山 in Zhejiang. Her name is the most commonly spoken Buddhist name in China.
         </div>
         <div class="note">
           <span class="note-label">文化影响 · Cultural Impact</span>
-          Guanyin appears throughout Chinese art from at least the 6th century onward — paintings, sculpture, porcelain, amulets. Her image is found in Buddhist temples, Daoist temples, and private homes alike. Her famous mantra 南无观世音菩萨 Nāmó Guānshìyīn Púsà is recited by millions daily.
+          Guanyin appears throughout Chinese art from at least the 6th century onward: paintings, sculpture, porcelain, amulets. Her image is found in Buddhist temples, Daoist temples, and private homes alike. Her famous mantra 南无观世音菩萨 Nāmó Guānshìyīn Púsà is recited by millions daily.
         </div>
       </div>
 
@@ -253,7 +253,7 @@ pinyin: 'fójiào'
           <span class="card-en">Mañjuśrī — bodhisattva of wisdom</span>
         </div>
         <div class="card-def">
-          Sanskrit Mañjuśrī — "Gentle Glory." The bodhisattva of wisdom 智慧 zhìhuì, depicted holding a flaming sword (to cut through delusion) and riding a blue lion. Associated with Mount Wutai 五台山 in Shanxi — China's sacred mountain for wisdom, where Mañjuśrī was believed to reside and manifest. An important figure in Chan Buddhism, where direct insight into the nature of mind is the central project, and in Tibetan Buddhism where his mantra 嗡阿热巴扎那地 is widely practiced.
+          Sanskrit Mañjuśrī ("Gentle Glory"). The bodhisattva of wisdom 智慧 zhìhuì, depicted holding a flaming sword (to cut through delusion) and riding a blue lion. Associated with Mount Wutai 五台山 in Shanxi, China's sacred mountain for wisdom, where Mañjuśrī was believed to reside and manifest. An important figure in Chan Buddhism, where direct insight into the nature of mind is the central project, and in Tibetan Buddhism where his mantra 嗡阿热巴扎那地 is widely practiced.
         </div>
       </div>
 
@@ -264,7 +264,7 @@ pinyin: 'fójiào'
           <span class="card-en">Kṣitigarbha — guardian of hell and savior of the dead</span>
         </div>
         <div class="card-def">
-          Sanskrit Kṣitigarbha — "Earth Womb/Treasury." The bodhisattva who specifically vowed to save beings in hell realms and not enter nirvāṇa until all hells are empty. Associated with Mount Jiuhua 九华山 in Anhui. His vow: 地狱不空，誓不成佛 (If the hells are not empty, I vow not to become a Buddha). In Chinese popular religion, Dizang is particularly important in funerary and memorial contexts — his image is found in columbaria and funeral halls, and the 盂兰盆节 (Ghost Festival) invokes his saving power.
+          Sanskrit Kṣitigarbha ("Earth Womb/Treasury"). The bodhisattva who specifically vowed to save beings in hell realms and not enter nirvāṇa until all hells are empty. Associated with Mount Jiuhua 九华山 in Anhui. His vow: 地狱不空，誓不成佛 (If the hells are not empty, I vow not to become a Buddha). In Chinese popular religion, Dizang is particularly important in funerary and memorial contexts; his image is found in columbaria and funeral halls, and the 盂兰盆节 (Ghost Festival) invokes his saving power.
         </div>
       </div>
 
@@ -275,7 +275,7 @@ pinyin: 'fójiào'
           <span class="card-en">Maitreya — the future Buddha; the Laughing Buddha of popular China</span>
         </div>
         <div class="card-def">
-          Sanskrit Maitreya — the Buddha of the future age, who will appear in the world when the teachings of Śākyamuni have been entirely forgotten, to re-teach the Dharma. In Chinese popular form, Maitreya is almost universally depicted as the fat, laughing Cloth-Bag Monk 布袋和尚 (based on a historical Chinese monk), belly exposed, surrounded by children — an image of abundance, good fortune, and easygoing contentment. The fat laughing Buddha familiar in Western restaurants is Maitreya, not Śākyamuni.
+          Sanskrit Maitreya: the Buddha of the future age, who will appear in the world when the teachings of Śākyamuni have been entirely forgotten, to re-teach the Dharma. In Chinese popular form, Maitreya is almost universally depicted as the fat, laughing Cloth-Bag Monk 布袋和尚 (based on a historical Chinese monk), belly exposed, surrounded by children, an image of abundance, good fortune, and easygoing contentment. The fat laughing Buddha familiar in Western restaurants is Maitreya, not Śākyamuni.
         </div>
       </div>
 
@@ -292,7 +292,7 @@ pinyin: 'fójiào'
 
     <div class="scholar" data-glyph="界">
       <div class="scholar-label">语言洞见 yǔyán dòngjiàn · Language Insight</div>
-      <p>Buddhism's most invisible but pervasive legacy in Chinese culture is linguistic: hundreds of everyday Chinese words are Buddhist loanwords, often no longer recognized as such. <strong>世界 shìjiè</strong> (the world) — from Sanskrit <em>loka-dhātu</em> (world-realm): a Buddhist cosmological term that replaced older Chinese terms. <strong>因果 yīnguǒ</strong> (cause and effect, karma) — the Buddhist law of karmic causation now used in everyday speech. <strong>烦恼 fánnǎo</strong> (worry, distress) — from Sanskrit <em>kleśa</em> (mental affliction), now the standard modern Chinese word for "worry." <strong>觉悟 juéwù</strong> (to awaken, to become conscious) — Buddhist enlightenment; now used in Communist political discourse for ideological awakening. <strong>刹那 chànà</strong> (an instant) — from Sanskrit <em>kṣaṇa</em> (the smallest unit of time). <strong>平等 píngděng</strong> (equality) — a Buddhist concept (all sentient beings are equal in their Buddha nature) that became a foundational political value.</p>
+      <p>Buddhism's most invisible but pervasive legacy in Chinese culture is linguistic: hundreds of everyday Chinese words are Buddhist loanwords, often no longer recognized as such. <strong>世界 shìjiè</strong> (the world): from Sanskrit <em>loka-dhātu</em> (world-realm), a Buddhist cosmological term that replaced older Chinese terms. <strong>因果 yīnguǒ</strong> (cause and effect, karma): the Buddhist law of karmic causation now used in everyday speech. <strong>烦恼 fánnǎo</strong> (worry, distress): from Sanskrit <em>kleśa</em> (mental affliction), now the standard modern Chinese word for "worry." <strong>觉悟 juéwù</strong> (to awaken, to become conscious): Buddhist enlightenment, now used in Communist political discourse for ideological awakening. <strong>刹那 chànà</strong> (an instant): from Sanskrit <em>kṣaṇa</em> (the smallest unit of time). <strong>平等 píngděng</strong> (equality): a Buddhist concept (all sentient beings are equal in their Buddha nature) that became a foundational political value.</p>
     </div>
 
     <div class="cards">
@@ -304,7 +304,7 @@ pinyin: 'fójiào'
           <span class="card-en">Buddhist temple architecture — the visual language of Chinese Buddhism</span>
         </div>
         <div class="card-def">
-          The Chinese Buddhist temple complex (寺 sì or 寺庙 sìmiào) follows a distinctive axial layout: the main gate (山门 shānmén, "mountain gate," the formal Buddhist term for the entrance), then the Hall of Heavenly Kings 天王殿 (with the four directional guardians), then the main hall 大雄宝殿 (the Great Hero's Hall — Śākyamuni's throne), then further halls behind. Side buildings house dharma halls, libraries, and monks' quarters. The pagoda 塔 tǎ (stupa, evolved from the Indian reliquary mound) is often present — a distinctively Chinese evolution of Indian forms into towering multi-tiered structures like the 大雁塔 (Wild Goose Pagoda) in Xi'an.
+          The Chinese Buddhist temple complex (寺 sì or 寺庙 sìmiào) follows a distinctive axial layout: the main gate (山门 shānmén, "mountain gate," the formal Buddhist term for the entrance), then the Hall of Heavenly Kings 天王殿 (with the four directional guardians), then the main hall 大雄宝殿 (the Great Hero's Hall, Śākyamuni's throne), then further halls behind. Side buildings house dharma halls, libraries, and monks' quarters. The pagoda 塔 tǎ (stupa, evolved from the Indian reliquary mound) is often present, a distinctively Chinese evolution of Indian forms into towering multi-tiered structures like the 大雁塔 (Wild Goose Pagoda) in Xi'an.
         </div>
       </div>
 
@@ -332,8 +332,8 @@ pinyin: 'fójiào'
 
     <div class="scholar" data-glyph="灭">
       <div class="scholar-label">历史洞见 lìshǐ dòngjiàn · Historical Insight</div>
-      <p>Buddhism in China suffered four major state-sponsored suppressions, collectively known as 三武一宗之厄 Sān Wǔ Yī Zōng zhī è — "the calamity of three Wu-emperors and one Zong-emperor." The pattern in each case: a ruler aligned with Daoist or Confucian advisors, concerned about the economic drain of the monastic economy (tax-exempt monasteries, non-producing monks), moved to destroy Buddhist institutions.</p>
-      <p><strong>北魏太武帝 (Emperor Taiwu, r. 423–452 CE)</strong>: the first persecution, eliminating Buddhist clergy and destroying temples and texts, partially reversing under his successor. <strong>北周武帝 (Emperor Wu of Northern Zhou, r. 560–578 CE)</strong>: banned both Buddhism and Daoism, forcing over 3 million monks and nuns to return to lay life, destroying temples and scriptures. <strong>唐武宗 (Emperor Wuzong of Tang, r. 840–846 CE)</strong>: the most devastating, the <strong>会昌法难 Huìchāng Fánán</strong> — over 4,600 monasteries destroyed, 40,000 small temples demolished, 260,000 monks and nuns laicized. This largely ended esoteric Buddhism and significantly weakened Tiantai and Huayan; Chan and Pure Land survived because they could function outside institutional structures. <strong>后周世宗 (Emperor Shizong of Later Zhou, r. 954–959 CE)</strong>: a shorter suppression, melting bronze Buddhist statues for coins.</p>
+      <p>Buddhism in China suffered four major state-sponsored suppressions, collectively known as 三武一宗之厄 Sān Wǔ Yī Zōng zhī è ("the calamity of three Wu-emperors and one Zong-emperor"). In each case, a ruler aligned with Daoist or Confucian advisors, concerned about the economic drain of the monastic economy (tax-exempt monasteries, non-producing monks), moved to destroy Buddhist institutions.</p>
+      <p><strong>北魏太武帝 (Emperor Taiwu, r. 423–452 CE)</strong>: the first persecution, eliminating Buddhist clergy and destroying temples and texts, partially reversing under his successor. <strong>北周武帝 (Emperor Wu of Northern Zhou, r. 560–578 CE)</strong>: banned both Buddhism and Daoism, forcing over 3 million monks and nuns to return to lay life, destroying temples and scriptures. <strong>唐武宗 (Emperor Wuzong of Tang, r. 840–846 CE)</strong>: the most devastating, the <strong>会昌法难 Huìchāng Fánán</strong>: over 4,600 monasteries destroyed, 40,000 small temples demolished, 260,000 monks and nuns laicized. This largely ended esoteric Buddhism and significantly weakened Tiantai and Huayan; Chan and Pure Land survived because they could function outside institutional structures. <strong>后周世宗 (Emperor Shizong of Later Zhou, r. 954–959 CE)</strong>: a shorter suppression, melting bronze Buddhist statues for coins.</p>
       <p>These persecutions shaped which Buddhist schools survived into the modern period: Chan's emphasis on "no reliance on written words" and Pure Land's minimal institutional requirements made them resilient. The 20th-century Communist suppression (Cultural Revolution, 1966–1976) was the fifth great persecution, destroying thousands of temples and forcing all religious practice underground.</p>
     </div>
 
