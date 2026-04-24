@@ -60,9 +60,9 @@ content_sources:
     <div class="section-head"><h2>Meaning · 含义 hányì</h2></div>
     <div class="scholar" data-glyph="歧">
       <div class="scholar-label">误入歧途 · wù rù qí tú · the wrong fork taken</div>
-      <p>误入歧途 reads as a four-beat narrative: 误 (by mistake, wrongly) + 入 (to enter) + 歧途 (a diverging road, a fork leading astray). Together: to enter the wrong branch of the road by mistake. The structure is diagnostic — it names what happened without immediately assigning blame. The 误 (error, not 故意 deliberate) is important: this is a wrong turn, not a deliberate betrayal.</p>
-      <p>歧途 is the key compound. 歧 (qí) means a fork in the road, a divergence, something that branches off from the main path — and by extension, anything deviant or heterodox. 途 is a road underway (as in 迷途). 歧途 together is a road that leads you away from where you should be going: not simply a wrong road, but one that diverges from the right one at a specific, identifiable point.</p>
-      <p>The idiom sits at the beginning of a moral or practical story, not the end. It names the moment of straying, not the recovery. Its natural partner is 迷途知返 (mí tú zhī fǎn) — to realise you are lost and turn back — which picks up where 误入歧途 leaves off. Together the two idioms describe the full arc: the wrong turn, and the return.</p>
+      <p>误入歧途 reads as a four-beat narrative: 误 (by mistake, wrongly) + 入 (to enter) + 歧途 (a diverging road, a fork leading astray). Together: to enter the wrong branch of the road by mistake. The structure is diagnostic, naming what happened without immediately assigning blame. The 误 (error, not 故意 deliberate) is important: this is a wrong turn, not a deliberate betrayal.</p>
+      <p>歧途 is the key compound. 歧 (qí) means a fork in the road, a divergence, something that branches off from the main path, and by extension anything deviant or heterodox. 途 is a road underway (as in 迷途). 歧途 together is a road that leads you away from where you should be going: not simply a wrong road, but one that diverges from the right one at a specific, identifiable point.</p>
+      <p>The idiom sits at the beginning of a moral or practical story, not the end. It names the moment of straying, not the recovery. Its natural partner is 迷途知返 (mí tú zhī fǎn, to realise you are lost and turn back), which picks up where 误入歧途 leaves off. Together the two idioms describe the full arc: the wrong turn, and the return.</p>
     </div>
 
     <span class="section-anchor" id="usage"></span>
@@ -87,7 +87,7 @@ content_sources:
     <div class="scholar" data-glyph="途">
       <div class="scholar-label">误入歧途 → 迷途知返 · the wrong turn and the return</div>
       <p>误入歧途 and 迷途知返 share the character 途 (road underway) and describe opposite moments of the same experience. 误入歧途 is the diagnosis: this is where things went wrong, and it happened through error rather than intention. 迷途知返 is the prescription and the resolution: the person has recognised the mistake and is turning back.</p>
-      <p>Used together they form a complete moral arc that Chinese writing frequently employs — naming both the failure and the recovery in the same breath: 他曾经误入歧途，但最终还是迷途知返了 (tā céng jīng wù rù qí tú, dàn zuìzhōng háishì mí tú zhī fǎn le) — "He once strayed onto the wrong road, but in the end he recognised his error and turned back." The combination is neither wholly condemnatory nor wholly redemptive — it holds both truths at once, which is characteristic of how Chinese moral language tends to work.</p>
+      <p>Used together they form a complete moral arc that Chinese writing frequently employs, naming both the failure and the recovery in the same breath: 他曾经误入歧途，但最终还是迷途知返了 (tā céng jīng wù rù qí tú, dàn zuìzhōng háishì mí tú zhī fǎn le) — "He once strayed onto the wrong road, but in the end he recognised his error and turned back." The combination is neither wholly condemnatory nor wholly redemptive; it holds both truths at once, which is characteristic of how Chinese moral language tends to work.</p>
     </div>
 
     <span class="section-anchor" id="characters"></span>
