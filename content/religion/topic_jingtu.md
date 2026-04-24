@@ -4,7 +4,7 @@ category: 'religion'
 status: 'complete'
 content_review: 'pending'
 title: '净土宗 · Pure Land'
-desc: 'The most widely practiced Buddhism in China — faith, Amitabha, and the Western Paradise.'
+desc: 'Faith, Amitabha, and the Western Paradise: the most widely practiced Buddhism in China.'
 metaDesc: "净土宗 jìngtǔ zōng: Pure Land Buddhism — Amitābha's 48 vows, the Western Pure Land, the practice of nianfo, the three Pure Land sutras, folk religion integration, and the lineage of patriarchs."
 pageTitle: '净土宗 jìngtǔ zōng · Pure Land Buddhism'
 tags:
@@ -61,7 +61,7 @@ pinyin: 'jìngtǔ zōng'
       <span class="topic-hero-eyebrow">Religion · 宗教 zōngjiào</span>
       <h1 class="topic-hero-title">净土宗</h1>
       <span class="topic-hero-title-py">jìngtǔ zōng</span>
-      <p class="topic-hero-desc">The most widely practiced form of Buddhism in China — a path of faith and aspiration accessible to all, centered on the infinite compassion of Amitābha Buddha and the promise of rebirth in a realm where enlightenment is guaranteed.</p>
+      <p class="topic-hero-desc">The most widely practiced form of Buddhism in China: a path of faith and aspiration accessible to all, centered on the infinite compassion of Amitābha Buddha and the promise of rebirth in a realm where enlightenment is guaranteed.</p>
     </header>
 
     <!-- ── AMITABHA ── -->
@@ -75,8 +75,8 @@ pinyin: 'jìngtǔ zōng'
 
     <div class="scholar" data-glyph="净">
       <div class="scholar-label">教义洞见 jiàoyì dòngjiàn · Doctrinal Insight</div>
-      <p>At the center of Pure Land Buddhism stands <strong>阿弥陀佛 Āmítuófó</strong> — Amitābha, the "Buddha of Infinite Light" (or in another Sanskrit reading, Amitāyus, the "Buddha of Infinite Life"). According to the Larger Sukhāvatīvyūha Sutra (无量寿经 Wúliàngshòu Jīng), eons ago a monk named Dharmākara stood before the Buddha Lokeśvararāja and made 48 specific vows about the nature of the Buddha-field he would create when he attained Buddhahood. After eons of bodhisattva practice, he fulfilled those vows and became Amitābha Buddha. His Buddha-field is the <strong>西方极乐世界 Xīfāng Jílè Shìjiè</strong> — the Western Pure Land, or "Land of Bliss" (literally: western-direction utmost-joy world).</p>
-      <p>The most important of the 48 vows is the 18th: if any sentient being sincerely aspires to be reborn in his Pure Land and calls upon his name — even ten times — and Amitābha cannot bring them there, he vows not to become a Buddha. Since Amitābha is already a Buddha, the vow is already fulfilled. The implication is soteriologically extraordinary: the power of rebirth in the Pure Land does not depend primarily on one's own accumulated merit, wisdom, or meditation skill. It depends on <em>faith in Amitābha's completed vow</em> and sincere aspiration. This is the logic of <strong>他力 tālì</strong> (other-power), in contrast to <strong>自力 zìlì</strong> (self-power) — the term that distinguishes Pure Land from Chan's emphasis on one's own awakening through effort.</p>
+      <p>At the center of Pure Land Buddhism stands <strong>阿弥陀佛 Āmítuófó</strong> (Amitābha, the "Buddha of Infinite Light," or in another Sanskrit reading Amitāyus, the "Buddha of Infinite Life"). According to the Larger Sukhāvatīvyūha Sutra (无量寿经 Wúliàngshòu Jīng), eons ago a monk named Dharmākara stood before the Buddha Lokeśvararāja and made 48 specific vows about the nature of the Buddha-field he would create when he attained Buddhahood. After eons of bodhisattva practice, he fulfilled those vows and became Amitābha Buddha. His Buddha-field is the <strong>西方极乐世界 Xīfāng Jílè Shìjiè</strong>, the Western Pure Land or "Land of Bliss" (literally: western-direction utmost-joy world).</p>
+      <p>The most important of the 48 vows is the 18th: if any sentient being sincerely aspires to be reborn in his Pure Land and calls upon his name, even ten times, and Amitābha cannot bring them there, he vows not to become a Buddha. Since Amitābha is already a Buddha, the vow is already fulfilled. The implication is soteriologically extraordinary: the power of rebirth in the Pure Land does not depend primarily on one's own accumulated merit, wisdom, or meditation skill. It depends on <em>faith in Amitābha's completed vow</em> and sincere aspiration. This is the logic of <strong>他力 tālì</strong> (other-power), in contrast to <strong>自力 zìlì</strong> (self-power), the term that distinguishes Pure Land from Chan's emphasis on one's own awakening through effort.</p>
       <p>The Pure Land itself, as described in the sutras, is a realm where all conditions for enlightenment are optimal: no suffering, no temptation, no rebirth in lower realms. Lotus flowers bloom in jeweled ponds; heavenly music plays; the birds sing the Dharma. Practitioners reborn there will inevitably attain 不退转 bù tuìzhuǎn (non-regression, the state from which falling back into lower states is impossible) and proceed toward full Buddhahood. The Pure Land is thus not the final destination but the most favorable possible realm from which to complete the journey.</p>
     </div>
 
@@ -98,7 +98,7 @@ pinyin: 'jìngtǔ zōng'
           <span class="card-en">Buddha-recitation — the primary and most accessible practice</span>
         </div>
         <div class="card-def">
-          念 niàn (to recite; to think of; to hold in mind) + 佛 fó (Buddha). The recitation of Amitābha's name — <strong>南无阿弥陀佛 Nāmó Āmítuófó</strong> ("homage to Amitābha Buddha") — as a continuous practice. 念佛 can take several forms: <em>声念 shēng niàn</em> (audible recitation, individual or communal); <em>默念 mò niàn</em> (silent mental recitation); <em>金刚念 jīngāng niàn</em> (barely audible, lips moving). The practice is simple, portable, and requires no special equipment, training, or literacy. It can be done while walking, working, riding a bus. This accessibility is the core reason Pure Land is the most widely practiced form of Chinese Buddhism — it does not require a monastery, long retreats, or mastery of complex philosophy.
+          念 niàn (to recite; to think of; to hold in mind) + 佛 fó (Buddha). The recitation of Amitābha's name, <strong>南无阿弥陀佛 Nāmó Āmítuófó</strong> ("homage to Amitābha Buddha"), as a continuous practice. 念佛 can take several forms: <em>声念 shēng niàn</em> (audible recitation, individual or communal); <em>默念 mò niàn</em> (silent mental recitation); <em>金刚念 jīngāng niàn</em> (barely audible, lips moving). The practice is simple, portable, and requires no special equipment, training, or literacy. It can be done while walking, working, riding a bus. This accessibility is the core reason Pure Land is the most widely practiced form of Chinese Buddhism: it does not require a monastery, long retreats, or mastery of complex philosophy.
         </div>
         <div class="note">
           <span class="note-label">声音效力 · The Power of Sound</span>
@@ -113,7 +113,7 @@ pinyin: 'jìngtǔ zōng'
           <span class="card-en">visualization — contemplating the Pure Land and Amitābha in detail</span>
         </div>
         <div class="card-def">
-          观 guān (contemplate; observe) + 想 xiǎng (imagine; think). The more advanced and demanding practice outlined in the 观无量寿经 (Contemplation Sutra): systematic visualization of the Western Pure Land — its jeweled trees, lotus pools, the thrones, the light — and ultimately of Amitābha himself in full detail. The 16 contemplations prescribed in the sutra progress from simple objects (the setting sun, water, ice, lapis lazuli) through the landscape of the Pure Land to the bodily features of Amitābha and the two attendant bodhisattvas Guanyin and Dashizhi. This practice requires sustained concentration and is typically undertaken by more advanced practitioners or monastics.
+          观 guān (contemplate; observe) + 想 xiǎng (imagine; think). The more advanced and demanding practice outlined in the 观无量寿经 (Contemplation Sutra): systematic visualization of the Western Pure Land (its jeweled trees, lotus pools, the thrones, the light) and ultimately of Amitābha himself in full detail. The 16 contemplations prescribed in the sutra progress from simple objects (the setting sun, water, ice, lapis lazuli) through the landscape of the Pure Land to the bodily features of Amitābha and the two attendant bodhisattvas Guanyin and Dashizhi. This practice requires sustained concentration and is typically undertaken by more advanced practitioners or monastics.
         </div>
       </div>
 
@@ -124,7 +124,7 @@ pinyin: 'jìngtǔ zōng'
           <span class="card-en">making vows — aspiring to rebirth with sincere intention</span>
         </div>
         <div class="card-def">
-          发 fā (to make; to express) + 愿 yuàn (vow; aspiration; wish). The devotional expression of one's sincere desire to be reborn in the Pure Land. Pure Land teachers specify three essential elements: 信 xìn (faith — genuine confidence in Amitābha's vow and the reality of the Pure Land), 愿 yuàn (aspiration — genuinely wanting to be reborn there), and 行 xíng (practice — actual recitation or contemplation). Of these three, teachers debate which is primary, but all agree that 发愿 without sincere faith is ineffective. The formal aspiration prayer 往生咒 Wǎngshēng Zhòu (Vow of Rebirth Mantra) is recited at the end of most Pure Land liturgies.
+          发 fā (to make; to express) + 愿 yuàn (vow; aspiration; wish). The devotional expression of one's sincere desire to be reborn in the Pure Land. Pure Land teachers specify three essential elements: 信 xìn (faith: genuine confidence in Amitābha's vow and the reality of the Pure Land), 愿 yuàn (aspiration: genuinely wanting to be reborn there), and 行 xíng (practice: actual recitation or contemplation). Of these three, teachers debate which is primary, but all agree that 发愿 without sincere faith is ineffective. The formal aspiration prayer 往生咒 Wǎngshēng Zhòu (Vow of Rebirth Mantra) is recited at the end of most Pure Land liturgies.
         </div>
       </div>
 
@@ -159,7 +159,7 @@ pinyin: 'jìngtǔ zōng'
           <span class="card-en">Larger Sukhāvatīvyūha Sutra — the comprehensive Pure Land sutra</span>
         </div>
         <div class="card-def">
-          Also called the 大经 Dà Jīng (Great Sutra). The longest and most comprehensive Pure Land text, telling the full story of Dharmākara Bodhisattva's 48 vows and his fulfillment of them as Amitābha Buddha. Describes the Western Pure Land in elaborate detail — its landscape, inhabitants, and conditions of rebirth. Translated into Chinese multiple times; the Sanghavarman translation (252 CE) and the Kumārajīva-tradition translations are most studied. The 18th vow — the universal salvation vow — is the heart of this sutra and the doctrinal foundation of all Pure Land practice.
+          Also called the 大经 Dà Jīng (Great Sutra). The longest and most comprehensive Pure Land text, telling the full story of Dharmākara Bodhisattva's 48 vows and his fulfillment of them as Amitābha Buddha. Describes the Western Pure Land in elaborate detail: its landscape, inhabitants, and conditions of rebirth. Translated into Chinese multiple times; the Sanghavarman translation (252 CE) and the Kumārajīva-tradition translations are most studied. The 18th vow, the universal salvation vow, is the heart of this sutra and the doctrinal foundation of all Pure Land practice.
         </div>
       </div>
 
@@ -170,7 +170,7 @@ pinyin: 'jìngtǔ zōng'
           <span class="card-en">Contemplation Sutra — sixteen visualization practices</span>
         </div>
         <div class="card-def">
-          Also called the 观经 Guān Jīng. A narrative framed by Queen Vaidehi's suffering (her son has imprisoned her husband, King Bimbisāra): she asks Śākyamuni to teach her how to reach a realm free from suffering. The Buddha then teaches 16 contemplation practices for visualizing the Pure Land and Amitābha. The sutra is notable for its explicit inclusion of persons of grave evil (五逆十恶) among those who can be saved by reciting Amitābha's name at death — the most expansive vision of salvific compassion. The Tang patriarch Shandao 善导 based his entire commentary on this sutra.
+          Also called the 观经 Guān Jīng. A narrative framed by Queen Vaidehi's suffering (her son has imprisoned her husband, King Bimbisāra): she asks Śākyamuni to teach her how to reach a realm free from suffering. The Buddha then teaches 16 contemplation practices for visualizing the Pure Land and Amitābha. The sutra is notable for its explicit inclusion of persons of grave evil (五逆十恶) among those who can be saved by reciting Amitābha's name at death, the most expansive vision of salvific compassion in the tradition. The Tang patriarch Shandao 善导 based his entire commentary on this sutra.
         </div>
       </div>
 
@@ -181,7 +181,7 @@ pinyin: 'jìngtǔ zōng'
           <span class="card-en">Smaller Sukhāvatīvyūha Sutra — the daily liturgy sutra</span>
         </div>
         <div class="card-def">
-          Also called the 小经 Xiǎo Jīng (Small Sutra). The briefest of the three — translated by Kumārajīva in 402 CE in a Chinese so elegant that it became the definitive liturgical text. Describes the Pure Land, praises Amitābha, and reports that all Buddhas in the ten directions confirm and praise Pure Land practice. The crucial statement: "If a good man or good woman hears about Amitābha and recites his name with one-pointed mind, for one day, two days ... to seven days, when the time of death arrives, Amitābha and the assembly of sages will appear before them — their mind will not be confused — and they will be reborn in the Pure Land." This sutra is recited at virtually every Pure Land morning and evening liturgy in Chinese Buddhist monasteries and homes.
+          Also called the 小经 Xiǎo Jīng (Small Sutra). The briefest of the three, translated by Kumārajīva in 402 CE in a Chinese so elegant that it became the definitive liturgical text. Describes the Pure Land, praises Amitābha, and reports that all Buddhas in the ten directions confirm and praise Pure Land practice. The crucial statement: "If a good man or good woman hears about Amitābha and recites his name with one-pointed mind, for one day, two days ... to seven days, when the time of death arrives, Amitābha and the assembly of sages will appear before them, their mind will not be confused, and they will be reborn in the Pure Land." This sutra is recited at virtually every Pure Land morning and evening liturgy in Chinese Buddhist monasteries and homes.
         </div>
       </div>
 
@@ -198,9 +198,9 @@ pinyin: 'jìngtǔ zōng'
 
     <div class="scholar" data-glyph="魂">
       <div class="scholar-label">文化洞见 wénhuà dòngjiàn · Cultural Insight</div>
-      <p>Pure Land Buddhism's greatest sociological achievement in China was its merger with the deep-rooted Chinese tradition of ancestor veneration. The concern for the welfare of deceased family members — already present in pre-Buddhist Chinese religion — found in Pure Land a compelling theology: the dead exist in intermediate states, and the living can help them through prayer, merit transfer, and ritual. This is not straightforwardly Buddhist doctrine (the Theravāda tradition holds that karma is strictly personal and merit transfer is problematic), but it is thoroughly Chinese Buddhist practice, validated across centuries.</p>
+      <p>Pure Land Buddhism's greatest sociological achievement in China was its merger with the deep-rooted Chinese tradition of ancestor veneration. The concern for the welfare of deceased family members, already present in pre-Buddhist Chinese religion, found in Pure Land a compelling theology: the dead exist in intermediate states, and the living can help them through prayer, merit transfer, and ritual. This is not straightforwardly Buddhist doctrine (the Theravāda tradition holds that karma is strictly personal and merit transfer is problematic), but it is thoroughly Chinese Buddhist practice, validated across centuries.</p>
       <p>The <strong>盂兰盆节 Yúlánpén Jié</strong> (Ghost Festival, 7th lunar month) is the most important expression of this merger. The festival derives from the story of Mulian 目连 (Sanskrit Maudgalyāyana), one of the Buddha's great disciples, who discovers his deceased mother suffering in a hungry ghost realm and is told by the Buddha that only the collective merit of the assembled monastic community can save her. He makes offerings on her behalf on the 15th day of the 7th month when the monks have completed their summer retreat and are at their greatest spiritual power. The festival blends this Buddhist narrative with the Daoist belief that the 7th month is when the gates of the underworld open and spirits roam freely, and with the Confucian imperative of filial care for parents even after death.</p>
-      <p>The practice of 往生 wǎngshēng (going toward rebirth — specifically, rebirth in the Pure Land) became the central framework through which Chinese people understood and managed the experience of death. Burning paper money, paper goods, and paper depictions of servants for the deceased — though condemned by Buddhist doctrine as superstition — became integrated into the social life of Pure Land communities. The pragmatic Chinese approach: if the practice comforts the bereaved and helps the deceased, the doctrinal questions are secondary. The phrase 往生净土 (rebirth in the Pure Land) became the standard Chinese Buddhist expression for a person's death, regardless of their actual practice.</p>
+      <p>The practice of 往生 wǎngshēng (going toward rebirth, specifically rebirth in the Pure Land) became the central framework through which Chinese people understood and managed the experience of death. Burning paper money, paper goods, and paper depictions of servants for the deceased (though condemned by Buddhist doctrine as superstition) became integrated into the social life of Pure Land communities. The pragmatic Chinese approach: if the practice comforts the bereaved and helps the deceased, the doctrinal questions are secondary. The phrase 往生净土 (rebirth in the Pure Land) became the standard Chinese Buddhist expression for a person's death, regardless of their actual practice.</p>
     </div>
 
     <div class="cards">
@@ -212,7 +212,7 @@ pinyin: 'jìngtǔ zōng'
           <span class="card-en">Ghost Festival — the great Buddhist-folk religion synthesis</span>
         </div>
         <div class="card-def">
-          Held on the 15th day of the 7th lunar month, the midpoint of the "Ghost Month" 鬼月 during which the spirits of the dead are believed to return to the world of the living. Families set out food offerings, burn paper goods, and float river lanterns to guide the spirits. Monasteries conduct elaborate 水陆法会 shuǐlù fǎhuì (water-and-land rituals) lasting several days, during which priests recite sutras and perform rituals to rescue suffering spirits in all realms. One of the most widely observed popular religious events in Taiwan, Hong Kong, Southeast Asia, and wherever Southern Chinese communities settled. The Mulian story inspired a major tradition of Chinese opera — 目连戏 Mùlián xì — performed specifically to rescue the dead.
+          Held on the 15th day of the 7th lunar month, the midpoint of the "Ghost Month" 鬼月 during which the spirits of the dead are believed to return to the world of the living. Families set out food offerings, burn paper goods, and float river lanterns to guide the spirits. Monasteries conduct elaborate 水陆法会 shuǐlù fǎhuì (water-and-land rituals) lasting several days, during which priests recite sutras and perform rituals to rescue suffering spirits in all realms. One of the most widely observed popular religious events in Taiwan, Hong Kong, Southeast Asia, and wherever Southern Chinese communities settled. The Mulian story inspired a major tradition of Chinese opera, 目连戏 Mùlián xì, performed specifically to rescue the dead.
         </div>
       </div>
 
@@ -223,7 +223,7 @@ pinyin: 'jìngtǔ zōng'
           <span class="card-en">going toward rebirth — the Pure Land term for death as aspiration</span>
         </div>
         <div class="card-def">
-          往 wǎng (to go toward) + 生 shēng (life; rebirth). The Pure Land term for a practitioner's death — framed not as loss but as aspiration fulfilled. 往生了 — "they have gone toward rebirth [in the Pure Land]." The framing transforms death from an ending into a beginning: the deceased has departed for the realm where enlightenment is guaranteed. This linguistic reframing of death is one of Pure Land Buddhism's most psychologically powerful contributions to Chinese culture. The term is now used broadly for death regardless of the deceased's religious affiliation.
+          往 wǎng (to go toward) + 生 shēng (life; rebirth). The Pure Land term for a practitioner's death, framed not as loss but as aspiration fulfilled. 往生了: "they have gone toward rebirth [in the Pure Land]." The framing transforms death from an ending into a beginning: the deceased has departed for the realm where enlightenment is guaranteed. This linguistic reframing of death is one of Pure Land Buddhism's most psychologically powerful contributions to Chinese culture. The term is now used broadly for death regardless of the deceased's religious affiliation.
         </div>
       </div>
 
@@ -247,7 +247,7 @@ pinyin: 'jìngtǔ zōng'
           <span class="card-en">Huiyuan (334–416 CE) — Eastern Jin dynasty founder</span>
         </div>
         <div class="card-def">
-          Huiyuan is revered as the first patriarch of Chinese Pure Land Buddhism, though he did not use that term himself. In 402 CE on Mount Lu 庐山 (Lushan) in Jiangxi, he gathered 123 monks and laypeople before a statue of Amitābha and made a collective vow to be reborn in the Pure Land — the founding moment of the institutional tradition. He established the White Lotus Society 白莲社 (Báilián Shè), the first dedicated Pure Land practice community in Chinese history. Huiyuan was a major intellectual figure of his era, corresponding with Kumārajīva and writing one of the first Chinese treatises on karma and rebirth. His mountain retreat became a model for all subsequent Pure Land communities.
+          Huiyuan is revered as the first patriarch of Chinese Pure Land Buddhism, though he did not use that term himself. In 402 CE on Mount Lu 庐山 (Lushan) in Jiangxi, he gathered 123 monks and laypeople before a statue of Amitābha and made a collective vow to be reborn in the Pure Land, the founding moment of the institutional tradition. He established the White Lotus Society 白莲社 (Báilián Shè), the first dedicated Pure Land practice community in Chinese history. Huiyuan was a major intellectual figure of his era, corresponding with Kumārajīva and writing one of the first Chinese treatises on karma and rebirth. His mountain retreat became a model for all subsequent Pure Land communities.
         </div>
       </div>
 
@@ -258,7 +258,7 @@ pinyin: 'jìngtǔ zōng'
           <span class="card-en">Shandao (613–681 CE) — Tang dynasty codifier</span>
         </div>
         <div class="card-def">
-          Shandao is the most doctrinally influential of the Chinese Pure Land patriarchs — the figure who gave the tradition its systematic theological foundation. His extensive commentary on the Contemplation Sutra established the framework of 正行 zhèngxíng (primary practice — nianfo) and 杂行 záxíng (supplementary practices), and argued unambiguously that ordinary sinful beings (凡夫 fánfū) are the primary beneficiaries of Amitābha's compassion, not just those of high virtue. This democratizing move — salvation is most urgently for those who cannot save themselves — is the heart of Pure Land's popular appeal. Shandao's writings profoundly influenced the Japanese founder Hōnen 法然, who used them to establish independent Pure Land Buddhism in Japan.
+          Shandao is the most doctrinally influential of the Chinese Pure Land patriarchs, the figure who gave the tradition its systematic theological foundation. His extensive commentary on the Contemplation Sutra established the framework of 正行 zhèngxíng (primary practice: nianfo) and 杂行 záxíng (supplementary practices), and argued unambiguously that ordinary sinful beings (凡夫 fánfū) are the primary beneficiaries of Amitābha's compassion, not just those of high virtue. Salvation is most urgently for those who cannot save themselves: this is the heart of Pure Land's popular appeal. Shandao's writings profoundly influenced the Japanese founder Hōnen 法然, who used them to establish independent Pure Land Buddhism in Japan.
         </div>
         <div class="note">
           <span class="note-label">日本影响 · Japanese Impact</span>
@@ -273,7 +273,7 @@ pinyin: 'jìngtǔ zōng'
           <span class="card-en">Yongming Yanshou (904–975 CE) — Song dynasty Chan-Pure Land synthesis</span>
         </div>
         <div class="card-def">
-          The sixth patriarch of Pure Land and a major Chan master simultaneously — the embodiment of the Chinese Buddhist principle that the two traditions are not opposed but complementary. His great work 宗镜录 Zōngjìng Lù (Records of the Source Mirror, 100 volumes) is one of the most ambitious syntheses in Chinese Buddhist intellectual history. His famous "four options" verse: <em>禅净双修，如虎添翼</em> — those who practice both Chan and Pure Land are like a tiger with wings added; those who practice neither will sink into delusion. His synthesis shaped the direction of Chinese Buddhism from the Song dynasty to the present: most Chinese Buddhist monks today practice elements of both traditions.
+          The sixth patriarch of Pure Land and a major Chan master simultaneously, Yanshou embodied the Chinese Buddhist principle that the two traditions are not opposed but complementary. His great work 宗镜录 Zōngjìng Lù (Records of the Source Mirror, 100 volumes) is one of the most ambitious syntheses in Chinese Buddhist intellectual history. His famous "four options" verse: <em>禅净双修，如虎添翼</em> — those who practice both Chan and Pure Land are like a tiger with wings added, those who practice neither will sink into delusion. His synthesis shaped the direction of Chinese Buddhism from the Song dynasty to the present: most Chinese Buddhist monks today practice elements of both traditions.
         </div>
       </div>
 
