@@ -95,7 +95,7 @@ content_review: 'pending'
         </div>
         <div class="card c-red">
           <div class="card-head">In a sentence</div>
-          <p>他的学生已经青出于蓝了，比他当年写得还好。(Tā de xuésheng yǐjīng qīng chū yú lán le, bǐ tā dāngnián xiě de hái hǎo.) — His student has already surpassed the teacher — writes even better than he did in his day.</p>
+          <p>他的学生已经青出于蓝了，比他当年写得还好。(Tā de xuésheng yǐjīng qīng chū yú lán le, bǐ tā dāngnián xiě de hái hǎo.) — His student has already surpassed the teacher; writes even better than he did in his day.</p>
         </div>
       </div>
 
