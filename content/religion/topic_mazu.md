@@ -63,7 +63,7 @@ pinyin: 'māzǔ'
       <span class="topic-hero-eyebrow">Religion · 宗教 zōngjiào</span>
       <h1 class="topic-hero-title">妈祖</h1>
       <span class="topic-hero-title-py">māzǔ</span>
-      <p class="topic-hero-desc">A historical woman from a Fujian fishing island who died at twenty-eight, deified by sailors who survived storms she was said to have calmed — and now worshipped by hundreds of millions across the Chinese maritime world as the Heavenly Empress, protector of seafarers and the diaspora's patron goddess.</p>
+      <p class="topic-hero-desc">A historical woman from a Fujian fishing island who died at twenty-eight, deified by sailors who survived storms she was said to have calmed, and now worshipped by hundreds of millions across the Chinese maritime world as the Heavenly Empress, protector of seafarers and the diaspora's patron goddess.</p>
     </header>
 
     <!-- ── HISTORICAL ORIGIN ── -->
@@ -77,9 +77,9 @@ pinyin: 'māzǔ'
 
     <div class="scholar" data-glyph="妈">
       <div class="scholar-label">学者洞见 xuézhě dòngjiàn · From Mortal to Goddess</div>
-      <p>Mazu began as a historical woman: <strong>林默 Lín Mò</strong> (also written 林默娘 Lín Mòniáng — "Silent Lin Girl"), born in 960 CE on <strong>湄洲岛 Méizhōu Dǎo</strong> (Meizhou Island), in what is now Putian County, Fujian province. Her family were fishermen and small-time maritime traders. The legends record that she was born silent — hence 默 mò (silent) — and did not cry at birth, which her family interpreted as a portent.</p>
-      <p>Lin Mo was said to be extraordinarily gifted from childhood: she could predict weather, heal the sick, enter trances (入定 rùdìng — a meditation state associated with Buddhist and Daoist adepts), and during her trances, she was believed to send her spirit across the sea to guide ships in distress. The pivotal legend: one night she fell into trance while weaving; in her vision she guided her father and brothers through a storm. Her mother broke her trance; she woke and announced that while she had saved her brothers, she had lost her father — who was found drowned. Her spirit-rescue powers were thereafter beyond doubt.</p>
-      <p>She died in 987 CE, aged twenty-seven or twenty-eight, reportedly ascending to Heaven from a clifftop (羽化升天 yǔhuà shēngtiān — a Daoist term for spiritual ascension). Posthumous deification followed quickly: sailors who survived storms attributed their rescue to her. The <strong>Song dynasty</strong> granted her the first imperial title in 1123 CE — 顺济夫人 Shùnjì Fūrén (Lady Who Brings Favorable Winds). The escalating sequence of imperial recognition across dynasties climaxed with the Qing Kangxi Emperor's 1683 proclamation elevating her to <strong>天后 Tiānhòu</strong> — "Heavenly Empress" — the highest title any deity could receive.</p>
+      <p>Mazu began as a historical woman: <strong>林默 Lín Mò</strong> (also written 林默娘 Lín Mòniáng, "Silent Lin Girl"), born in 960 CE on <strong>湄洲岛 Méizhōu Dǎo</strong> (Meizhou Island), in what is now Putian County, Fujian province. Her family were fishermen and small-time maritime traders. The legends record that she was born silent (hence 默 mò, "silent") and did not cry at birth, which her family interpreted as a portent.</p>
+      <p>Lin Mo was said to be extraordinarily gifted from childhood: she could predict weather, heal the sick, enter trances (入定 rùdìng, a meditation state associated with Buddhist and Daoist adepts), and during her trances, she was believed to send her spirit across the sea to guide ships in distress. The pivotal legend: one night she fell into trance while weaving; in her vision she guided her father and brothers through a storm. Her mother broke her trance; she woke and announced that while she had saved her brothers, she had lost her father, who was found drowned. Her spirit-rescue powers were thereafter beyond doubt.</p>
+      <p>She died in 987 CE, aged twenty-seven or twenty-eight, reportedly ascending to Heaven from a clifftop (羽化升天 yǔhuà shēngtiān, a Daoist term for spiritual ascension). Posthumous deification followed quickly: sailors who survived storms attributed their rescue to her. The <strong>Song dynasty</strong> granted her the first imperial title in 1123 CE: 顺济夫人 Shùnjì Fūrén (Lady Who Brings Favorable Winds). The escalating sequence of imperial recognition across dynasties climaxed with the Qing Kangxi Emperor's 1683 proclamation elevating her to <strong>天后 Tiānhòu</strong> ("Heavenly Empress"), the highest title any deity could receive.</p>
     </div>
 
     <div class="table-wrap">
@@ -95,7 +95,7 @@ pinyin: 'māzǔ'
           <tr>
             <td>宋 Sòng (1123)</td>
             <td class="td-cn">顺济夫人</td>
-            <td>First imperial recognition — rewarded after Fujian envoy survived sea storm</td>
+            <td>First imperial recognition, rewarded after Fujian envoy survived sea storm</td>
           </tr>
           <tr>
             <td>元 Yuán (1281)</td>
@@ -110,7 +110,7 @@ pinyin: 'māzǔ'
           <tr>
             <td>清 Qīng (1683)</td>
             <td class="td-cn">护国庇民妙灵昭应仁慈天后</td>
-            <td>Elevated to 天后 Tiānhòu — Heavenly Empress — after Qing conquest of Taiwan</td>
+            <td>Elevated to 天后 Tiānhòu (Heavenly Empress) after Qing conquest of Taiwan</td>
           </tr>
         </tbody>
       </table>
@@ -134,7 +134,7 @@ pinyin: 'māzǔ'
           <span class="card-en">the trance-rescue — spirit-sailing to save her father</span>
         </div>
         <div class="card-def">
-          The foundational legend: Lin Mo, while weaving at home, fell into a trance. In her spirit-state, she crossed the sea, seized her father's boat with one hand and her brother's boat with the other, guiding them through a terrible storm. Her mother, alarmed by her unresponsive daughter, shook her awake — and she released her father's boat. He drowned. She had saved her brothers but lost her father to the interruption. This story establishes the mechanics of Mazu worship: she is present in the crisis, her power is real, but human interference can limit her intervention.
+          The foundational legend: Lin Mo, while weaving at home, fell into a trance. In her spirit-state, she crossed the sea, seized her father's boat with one hand and her brother's boat with the other, guiding them through a terrible storm. Her mother, alarmed by her unresponsive daughter, shook her awake, and she released her father's boat. He drowned. She had saved her brothers but lost her father to the interruption. This story establishes the mechanics of Mazu worship: she is present in the crisis, her power is real, but human interference can limit her intervention.
         </div>
         <div class="examples">
           <div class="example">
@@ -152,7 +152,7 @@ pinyin: 'māzǔ'
           <span class="card-en">subjugating the two divine generals</span>
         </div>
         <div class="card-def">
-          Two demonic generals — 千里眼 Qiānlǐyǎn (Eyes That See a Thousand Li, a green-faced demon) and 顺风耳 Shùnfēng'ěr (Ears That Hear Downwind, a red-faced demon) — terrorized the coastal people. Lin Mo defeated them in combat through her superior spiritual power, converting them to her service. They became her attendants and most distinctive iconographic markers: flanking her statue in every temple, they provide her with perfect perception of the sea, seeing and hearing distress across vast distances.
+          Two demonic generals, 千里眼 Qiānlǐyǎn (Eyes That See a Thousand Li, a green-faced demon) and 顺风耳 Shùnfēng'ěr (Ears That Hear Downwind, a red-faced demon), terrorized the coastal people. Lin Mo defeated them in combat through her superior spiritual power, converting them to her service. They became her attendants and most distinctive iconographic markers: flanking her statue in every temple, they provide her with perfect perception of the sea, seeing and hearing distress across vast distances.
         </div>
         <div class="examples">
           <div class="example">
@@ -170,7 +170,7 @@ pinyin: 'māzǔ'
           <span class="card-en">hanging her mat to calm the storm</span>
         </div>
         <div class="card-def">
-          A convoy of ships was caught in a typhoon. Crew members and merchants, terrified, invoked Mazu. Her red skirt (or in some versions a red lantern) was seen at the masthead — she was present. The storm subsided. This legend established the visual iconography of Mazu's intervention: her red garments seen at sea are the signal of her protective presence. Sailors would watch for apparitions of red at the rigging as signs that she was aboard.
+          A convoy of ships was caught in a typhoon. Crew members and merchants, terrified, invoked Mazu. Her red skirt (or in some versions a red lantern) was seen at the masthead: she was present. The storm subsided. This legend established the visual iconography of Mazu's intervention: her red garments seen at sea are the signal of her protective presence. Sailors would watch for apparitions of red at the rigging as signs that she was aboard.
         </div>
         <div class="examples">
           <div class="example">
@@ -188,7 +188,7 @@ pinyin: 'māzǔ'
           <span class="card-en">ascension to Heaven — her death and deification</span>
         </div>
         <div class="card-def">
-          In 987 CE, at age twenty-seven or twenty-eight, Lin Mo climbed Meizhou Island's highest point. Witnesses reported hearing celestial music (仙乐 xiānyuè) and seeing her surrounded by colored clouds as she ascended into the sky. This is 羽化 yǔhuà — the Daoist term for physical transformation into an immortal, literally "feathered transformation." Her body was never found. The cliff she ascended from, 升天石 Shēngtiān Shí, remains a pilgrimage site on Meizhou Island today.
+          In 987 CE, at age twenty-seven or twenty-eight, Lin Mo climbed Meizhou Island's highest point. Witnesses reported hearing celestial music (仙乐 xiānyuè) and seeing her surrounded by colored clouds as she ascended into the sky. This is 羽化 yǔhuà: the Daoist term for physical transformation into an immortal, literally "feathered transformation." Her body was never found. The cliff she ascended from, 升天石 Shēngtiān Shí, remains a pilgrimage site on Meizhou Island today.
         </div>
         <div class="examples">
           <div class="example">
@@ -212,15 +212,15 @@ pinyin: 'māzǔ'
 
     <div class="scholar" data-glyph="眼">
       <div class="scholar-label">图像志 túxiàngzhì · Iconography</div>
-      <p>The two attendants of Mazu — <strong>千里眼 Qiānlǐyǎn</strong> (Eyes-That-See-a-Thousand-Li) and <strong>顺风耳 Shùnfēng'ěr</strong> (Ears-That-Hear-Downwind) — are among the most visually distinctive figures in Chinese religious art. They appear flanking Mazu's central throne in virtually every temple.</p>
-      <p>千里眼 is green-faced, wild-eyed, hand raised to shade his eyes as he peers into the distance — a demon of hyperopic vision, seeing ships in peril far beyond the horizon. 顺风耳 is red-faced, with a cupped hand behind his enormous ear — a demon of superhuman hearing, catching the cries of drowning sailors carried on the wind. Together they give Mazu complete omniscience over the sea.</p>
-      <p>Their origin as defeated adversaries is theologically significant: in Chinese folk religion, powerful demons who are subjugated rather than destroyed become among the most loyal and capable divine servants. The energy of their former menace is redirected into protective service. The same pattern appears with many deities' attendants — the universe of Chinese folk religion is populated by redeemed adversaries.</p>
+      <p>Mazu's two attendants, <strong>千里眼 Qiānlǐyǎn</strong> (Eyes-That-See-a-Thousand-Li) and <strong>顺风耳 Shùnfēng'ěr</strong> (Ears-That-Hear-Downwind), are among the most visually distinctive figures in Chinese religious art. They appear flanking Mazu's central throne in virtually every temple.</p>
+      <p>千里眼 is green-faced, wild-eyed, hand raised to shade his eyes as he peers into the distance, a demon of hyperopic vision seeing ships in peril far beyond the horizon. 顺风耳 is red-faced, with a cupped hand behind his enormous ear, a demon of superhuman hearing catching the cries of drowning sailors carried on the wind. Together they give Mazu complete omniscience over the sea.</p>
+      <p>Their origin as defeated adversaries is theologically significant: in Chinese folk religion, powerful demons who are subjugated rather than destroyed become among the most loyal and capable divine servants. The energy of their former menace is redirected into protective service. The same pattern appears with many deities' attendants: the universe of Chinese folk religion is populated by redeemed adversaries.</p>
       <p>In the modern world, 千里眼 and 顺风耳 have become metaphors for surveillance: CCTV cameras, intelligence networks, and modern communications are popularly described with these terms. The ancient divine pair maps neatly onto contemporary panopticon imagery.</p>
     </div>
 
     <div class="pattern">
       <span class="label">妈祖像的标准图像 Standard Mazu Iconography</span>
-      <strong>面容</strong> — serene, imperial, often with elaborate headdress (凤冠 fèngguān, phoenix crown — same as empress) · <strong>服色</strong> — red robes (imperial, divine protection) · <strong>侍立两侧</strong> — 千里眼 (green, left) and 顺风耳 (red, right) · <strong>手持</strong> — tablet (笏 hù — the court official's tablet) or commander's seal (令牌 lìngpái) · <strong>神座</strong> — elevated throne facing south
+      <strong>面容</strong> — serene, imperial, often with elaborate headdress (凤冠 fèngguān, phoenix crown, same as empress) · <strong>服色</strong> — red robes (imperial, divine protection) · <strong>侍立两侧</strong> — 千里眼 (green, left) and 顺风耳 (red, right) · <strong>手持</strong> — tablet (笏 hù, the court official's tablet) or commander's seal (令牌 lìngpái) · <strong>神座</strong> — elevated throne facing south
     </div>
 
     <!-- ── GEOGRAPHIC SPREAD ── -->
@@ -234,8 +234,8 @@ pinyin: 'māzǔ'
 
     <div class="scholar" data-glyph="海">
       <div class="scholar-label">学者洞见 xuézhě dòngjiàn · Following the Migration Routes</div>
-      <p>The geography of Mazu worship maps almost perfectly onto the historical migration routes of the Hokkien (闽南人 Mǐnnán rén) and Teochew (潮州人 Cháozhōu rén) peoples of coastal Fujian and Guangdong — the groups who populated Taiwan and provided the bulk of overseas Chinese settlement in Southeast Asia from the 17th century onward. Wherever these people went by sea, they brought Mazu with them.</p>
-      <p>Estimates of worldwide Mazu worshippers range from 200 to 300 million — making her arguably the most widely venerated deity in the Chinese religious world. There are approximately 5,000 Mazu temples on Taiwan alone, and tens of thousands more globally. The Meizhou Island ancestral temple in Fujian receives millions of pilgrims annually, including large groups from Taiwan who cross the Taiwan Strait specifically for this purpose — a journey that carries both religious and political weight.</p>
+      <p>The geography of Mazu worship maps almost perfectly onto the historical migration routes of the Hokkien (闽南人 Mǐnnán rén) and Teochew (潮州人 Cháozhōu rén) peoples of coastal Fujian and Guangdong, the groups who populated Taiwan and provided the bulk of overseas Chinese settlement in Southeast Asia from the 17th century onward. Wherever these people went by sea, they brought Mazu with them.</p>
+      <p>Estimates of worldwide Mazu worshippers range from 200 to 300 million, making her arguably the most widely venerated deity in the Chinese religious world. There are approximately 5,000 Mazu temples on Taiwan alone, and tens of thousands more globally. The Meizhou Island ancestral temple in Fujian receives millions of pilgrims annually, including large groups from Taiwan who cross the Taiwan Strait specifically for this purpose, a journey that carries both religious and political weight.</p>
     </div>
 
     <div class="cards">
@@ -247,7 +247,7 @@ pinyin: 'māzǔ'
           <span class="card-en">the ancestral temple — source of all Mazu worship</span>
         </div>
         <div class="card-def">
-          The Meizhou Ancestral Temple (湄洲祖庙) on Meizhou Island, Putian, Fujian, is the origin point of all Mazu temples worldwide. The first small temple was reportedly built at her grave site not long after her death in 987 CE. It has been expanded, burned, rebuilt, and expanded again across ten centuries. Today a major complex with multiple halls, it remains the pilgrimage center to which all subsidiary temples worldwide trace their lineage. Taiwanese temple delegations regularly make the sea crossing to receive incense ash (香火 xiānghuǒ) from the Meizhou altar — this ash, carried home, spiritually links the local temple to the source.
+          The Meizhou Ancestral Temple (湄洲祖庙) on Meizhou Island, Putian, Fujian, is the origin point of all Mazu temples worldwide. The first small temple was reportedly built at her grave site not long after her death in 987 CE. It has been expanded, burned, rebuilt, and expanded again across ten centuries. Today a major complex with multiple halls, it remains the pilgrimage center to which all subsidiary temples worldwide trace their lineage. Taiwanese temple delegations regularly make the sea crossing to receive incense ash (香火 xiānghuǒ) from the Meizhou altar; this ash, carried home, spiritually links the local temple to the source.
         </div>
         <div class="examples">
           <div class="example">
@@ -265,7 +265,7 @@ pinyin: 'māzǔ'
           <span class="card-en">the Dajia Pilgrimage — one of the world's largest religious events</span>
         </div>
         <div class="card-def">
-          The annual Dajia Mazu Pilgrimage (大甲妈祖绕境进香) is a nine-day, eight-night procession covering approximately 340 kilometers through central and southern Taiwan, beginning from the Zhenglong Temple (镇澜宫 Zhènlán Gōng) in Dajia, Taichung. An estimated two to three million participants take part each year — one of the largest religious gatherings in the world. The Mazu statue is carried in a palanquin through hundreds of towns and villages; believers kneel and allow the palanquin to pass over them, believing this brings blessing and healing.
+          The annual Dajia Mazu Pilgrimage (大甲妈祖绕境进香) is a nine-day, eight-night procession covering approximately 340 kilometers through central and southern Taiwan, beginning from the Zhenglong Temple (镇澜宫 Zhènlán Gōng) in Dajia, Taichung. An estimated two to three million participants take part each year, making it one of the largest religious gatherings in the world. The Mazu statue is carried in a palanquin through hundreds of towns and villages; believers kneel and allow the palanquin to pass over them, believing this brings blessing and healing.
         </div>
         <div class="examples">
           <div class="example">
@@ -325,9 +325,9 @@ pinyin: 'māzǔ'
 
     <div class="scholar" data-glyph="洋">
       <div class="scholar-label">学者洞见 xuézhě dòngjiàn · The Protector of the Maritime Silk Road</div>
-      <p>Mazu's worship expanded dramatically with China's great age of maritime activity. The Ming dynasty admiral <strong>郑和 Zhèng Hé</strong> (Zheng He, 1371–1433), who commanded seven massive voyages to Southeast Asia, India, Arabia, and East Africa between 1405 and 1433, was a devoted Mazu worshipper. His official account of the voyages, 瀛涯胜览 Yíngyá Shènglǎn, explicitly attributes the voyages' safety to Mazu's protection. A major Mazu temple in Quanzhou — the Tianhou Palace (天妃宫) — was the site where Zheng He reportedly presented offerings before departure and upon return.</p>
-      <p>The Mongol Yuan dynasty (1271–1368), which launched major naval campaigns across Southeast Asia and attempted invasions of Japan and Java, also attributed naval survival to Mazu. Her title 护国明著天妃 — "Heavenly Consort, Manifestly Illustrious Protector of the Nation" — dates to this period. Imperial patronage reinforced popular worship, and popular worship sustained imperial faith: a virtuous cycle of state-cult reinforcement.</p>
-      <p>In 2009, <strong>UNESCO</strong> inscribed "Mazu belief and customs" (妈祖信俗) on its Representative List of the Intangible Cultural Heritage of Humanity — one of the first Chinese folk religion practices to receive this recognition. The listing acknowledged Mazu belief as a living tradition with cultural significance for communities across China, Taiwan, and the global Chinese diaspora. The PRC and Taiwan — normally at odds over UNESCO participation — cooperated on this nomination, a measure of Mazu's power as a shared cultural heritage above political division.</p>
+      <p>Mazu's worship expanded dramatically with China's great age of maritime activity. The Ming dynasty admiral <strong>郑和 Zhèng Hé</strong> (Zheng He, 1371–1433), who commanded seven massive voyages to Southeast Asia, India, Arabia, and East Africa between 1405 and 1433, was a devoted Mazu worshipper. His official account of the voyages, 瀛涯胜览 Yíngyá Shènglǎn, explicitly attributes the voyages' safety to Mazu's protection. A major Mazu temple in Quanzhou, the Tianhou Palace (天妃宫), was the site where Zheng He reportedly presented offerings before departure and upon return.</p>
+      <p>The Mongol Yuan dynasty (1271–1368), which launched major naval campaigns across Southeast Asia and attempted invasions of Japan and Java, also attributed naval survival to Mazu. Her title 护国明著天妃 ("Heavenly Consort, Manifestly Illustrious Protector of the Nation") dates to this period. Imperial patronage reinforced popular worship, and popular worship sustained imperial faith: a virtuous cycle of state-cult reinforcement.</p>
+      <p>In 2009, <strong>UNESCO</strong> inscribed "Mazu belief and customs" (妈祖信俗) on its Representative List of the Intangible Cultural Heritage of Humanity, one of the first Chinese folk religion practices to receive this recognition. The listing acknowledged Mazu belief as a living tradition with cultural significance for communities across China, Taiwan, and the global Chinese diaspora. The PRC and Taiwan, normally at odds over UNESCO participation, cooperated on this nomination, a measure of Mazu's power as a shared cultural heritage above political division.</p>
     </div>
 
     <!-- ── KEY PHRASES ── -->
