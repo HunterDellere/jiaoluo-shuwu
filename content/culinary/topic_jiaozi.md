@@ -4,7 +4,7 @@ category: 'culinary'
 status: 'complete'
 content_review: 'pending'
 title: '饺子 · Dumplings'
-desc: 'Folded, boiled, and shared — the dumpling as ritual food, family labor, and cultural marker.'
+desc: 'Folded, boiled, and shared: the dumpling as ritual food, family labor, and cultural marker.'
 metaDesc: "饺子 jiǎozi: Chinese dumplings — Northern New Year tradition, the family labor of wrapping, regional variations, and the difference between jiǎozi, bāozi, wonton, and dim sum."
 pageTitle: '饺子 · Dumplings'
 tags:
@@ -53,7 +53,7 @@ pinyin: 'jiǎozi'
       <span class="topic-hero-eyebrow">Culinary · 饮食 yǐnshí</span>
       <h1 class="topic-hero-title">饺子</h1>
       <span class="topic-hero-title-py">jiǎozi</span>
-      <p class="topic-hero-desc">Folded, boiled, and shared — the dumpling as ritual food, family labor, and cultural marker.</p>
+      <p class="topic-hero-desc">Folded, boiled, and shared: the dumpling as ritual food, family labor, and cultural marker.</p>
     </header>
 
     <span class="section-anchor" id="ritual"></span>
