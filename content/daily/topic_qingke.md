@@ -4,7 +4,7 @@ category: 'daily'
 status: 'complete'
 content_review: 'pending'
 title: '请客吃饭 · Treating to a Meal'
-desc: 'The Chinese banquet is not a meal with social dimensions — it is a social institution that happens to involve food.'
+desc: 'The Chinese banquet is a social institution that happens to involve food.'
 metaDesc: "请客吃饭 qǐngkè chīfàn: treating to a meal in Chinese culture — who pays, banquet seating, ordering strategy, the toast structure, how to refuse without offending, and why eating together is the primary form of social bonding."
 pageTitle: '请客吃饭 Treating to a Meal'
 tags:
@@ -60,7 +60,7 @@ pinyin: 'qǐngkè chīfàn'
       <span class="topic-hero-eyebrow">Everyday Life · 日常 rìcháng</span>
       <h1 class="topic-hero-title">请客吃饭</h1>
       <span class="topic-hero-title-py">qǐngkè chīfàn</span>
-      <p class="topic-hero-desc">The Chinese banquet is not a meal with social dimensions — it is a social institution that happens to involve food.</p>
+      <p class="topic-hero-desc">The Chinese banquet is a social institution that happens to involve food.</p>
     </header>
 
     <span class="section-anchor" id="meaning"></span>
