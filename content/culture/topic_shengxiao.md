@@ -64,9 +64,9 @@ pinyin: 'shēngxiào'
       <h2 class="section-head">The System · 体系 tǐxì</h2>
       <div class="scholar" data-glyph="肖">
         <div class="scholar-label">十二地支 · Twelve Earthly Branches</div>
-        <p>The Chinese zodiac (生肖 shēngxiào) assigns one of twelve animals to each year in a repeating cycle. The animals derive from the <strong>十二地支</strong> (shí'èr dìzhī, Twelve Earthly Branches) — an ancient system for counting years, months, hours, and compass directions that predates the current animal assignments.</p>
-        <p>The animal cycle combines with a ten-year cycle of Heavenly Stems (天干 tiāngān) to produce a sixty-year cycle (六十甲子 liùshí jiǎzǐ) — the basic unit of traditional Chinese time reckoning. This sixty-year cycle appears in dates throughout Chinese history and explains why a person's sixtieth birthday is a major landmark: one full cycle completed.</p>
-        <p>The animals were probably assigned to the branches during the Han dynasty (206 BCE – 220 CE), borrowing from Central Asian and Indic astronomical traditions that similarly attached animals to time units. The specific Chinese twelve — rat, ox, tiger, rabbit, dragon, snake, horse, goat, monkey, rooster, dog, pig — are culturally Chinese, though neighbors including Japan, Korea, and Vietnam adopted the same system with minor local variations.</p>
+        <p>The Chinese zodiac (生肖 shēngxiào) assigns one of twelve animals to each year in a repeating cycle. The animals derive from the <strong>十二地支</strong> (shí'èr dìzhī, Twelve Earthly Branches), an ancient system for counting years, months, hours, and compass directions that predates the current animal assignments.</p>
+        <p>The animal cycle combines with a ten-year cycle of Heavenly Stems (天干 tiāngān) to produce a sixty-year cycle (六十甲子 liùshí jiǎzǐ), the basic unit of traditional Chinese time reckoning. This sixty-year cycle appears in dates throughout Chinese history and explains why a person's sixtieth birthday is a major landmark: one full cycle completed.</p>
+        <p>The animals were probably assigned to the branches during the Han dynasty (206 BCE–220 CE), borrowing from Central Asian and Indic astronomical traditions that similarly attached animals to time units. The specific Chinese twelve (rat, ox, tiger, rabbit, dragon, snake, horse, goat, monkey, rooster, dog, pig) are culturally Chinese, though neighbors including Japan, Korea, and Vietnam adopted the same system with minor local variations.</p>
       </div>
 
 
@@ -83,19 +83,19 @@ pinyin: 'shēngxiào'
         </div>
         <div class="card c-red">
           <div class="card-head">虎 hǔ · Tiger</div>
-          <p>Bold, powerful, unpredictable. Tiger years are associated with strong personalities — brave and competitive but also impulsive. Tiger years can produce difficult babies: hospitals in China often see spikes in births in the years before and after Tiger year as families try to time around it.</p>
+          <p>Bold, powerful, unpredictable. Tiger years are associated with strong personalities, brave and competitive but also impulsive. Tiger years can produce difficult babies: hospitals in China often see spikes in births in the years before and after Tiger year as families try to time around it.</p>
         </div>
         <div class="card c-teal">
           <div class="card-head">兔 tù · Rabbit</div>
-          <p>Gentle, lucky, diplomatic. Associated with elegance and caution. The Rabbit is one of the most auspicious birth signs — believed to bring good luck, refinement, and social skill.</p>
+          <p>Gentle, lucky, diplomatic. Associated with elegance and caution. The Rabbit is one of the most auspicious birth signs, believed to bring good luck, refinement, and social skill.</p>
         </div>
         <div class="card c-red">
           <div class="card-head">龙 lóng · Dragon</div>
-          <p>The only mythological animal in the zodiac. Powerful, ambitious, charismatic. Dragon years see significant birth-rate spikes in China — Dragon babies are believed to be especially fortunate and successful. The demographic consequences of Dragon-year baby booms are measurable in school enrollment data twelve years later.</p>
+          <p>The only mythological animal in the zodiac. Powerful, ambitious, charismatic. Dragon babies are believed to be especially fortunate and successful, and Dragon years see significant birth-rate spikes as a result. The demographic consequences of Dragon-year baby booms are measurable in school enrollment data twelve years later.</p>
         </div>
         <div class="card c-ochre">
           <div class="card-head">蛇 shé · Snake</div>
-          <p>Wise, intuitive, mysterious. Associated with wisdom and beauty, but also with cunning and secrets. The relationship between snake and dragon is intimate in Chinese cosmology — the snake is sometimes called the "little dragon."</p>
+          <p>Wise, intuitive, mysterious. Associated with wisdom and beauty, but also with cunning and secrets. The snake is sometimes called the "little dragon" in Chinese cosmology, reflecting its intimate relationship with the dragon sign.</p>
         </div>
         <div class="card c-ochre">
           <div class="card-head">马 mǎ · Horse</div>
@@ -103,19 +103,19 @@ pinyin: 'shēngxiào'
         </div>
         <div class="card c-teal">
           <div class="card-head">羊 yáng · Goat/Sheep/Ram</div>
-          <p>Gentle, creative, empathetic. One of the more variable translations — the character 羊 encompasses goat, sheep, and ram depending on context. Associated with artistic temperament and sensitivity.</p>
+          <p>Gentle, creative, empathetic. One of the more variable translations: the character 羊 encompasses goat, sheep, and ram depending on context. Associated with artistic temperament and sensitivity.</p>
         </div>
         <div class="card c-sienna">
           <div class="card-head">猴 hóu · Monkey</div>
-          <p>Clever, mischievous, innovative. The Monkey is the trickster of the zodiac — associated with intelligence and wit but also with unreliability. Monkey years are considered auspicious for innovation and change.</p>
+          <p>Clever, mischievous, innovative. The Monkey is the trickster of the zodiac, associated with intelligence and wit but also with unreliability. Monkey years are considered auspicious for innovation and change.</p>
         </div>
         <div class="card c-ochre">
           <div class="card-head">鸡 jī · Rooster</div>
-          <p>Punctual, observant, hardworking. Associated with precision and conscientiousness. The rooster crows at dawn — the animal of diligence and routine.</p>
+          <p>Punctual, observant, hardworking. Associated with precision and conscientiousness. The rooster crows at dawn, the animal of diligence and routine.</p>
         </div>
         <div class="card c-teal">
           <div class="card-head">狗 gǒu · Dog</div>
-          <p>Loyal, honest, protective. Dog people are said to be devoted friends and reliable colleagues — the most straightforwardly positive characterization in the zodiac.</p>
+          <p>Loyal, honest, protective. Dog people are said to be devoted friends and reliable colleagues, the most straightforwardly positive characterization in the zodiac.</p>
         </div>
         <div class="card c-red">
           <div class="card-head">猪 zhū · Pig/Boar</div>
@@ -128,9 +128,9 @@ pinyin: 'shēngxiào'
       <h2 class="section-head">Your Zodiac Year · 本命年 běnmìngnián</h2>
       <div class="scholar" data-glyph="命">
         <div class="scholar-label">犯太岁 fàn tàisuì · Offending the Year God</div>
-        <p>The year of your own zodiac sign — your <strong>本命年</strong> (běnmìngnián, "origin-fate year") — is paradoxically considered unlucky. You are said to <strong>犯太岁</strong> (fàn tàisuì, "offend the Year God") in your own zodiac year, making it a year requiring extra caution.</p>
-        <p>The protective measure is wearing red — red underwear, red socks, red string around the wrist — ideally given as a gift by family rather than purchased for yourself. Red wards off the bad luck associated with the Year God's attention. Jewelry shops do significant business selling red cord bracelets in the months before each zodiac year.</p>
-        <p>The logic is counterintuitive to outsiders: your own animal year, which should feel celebratory, is actually a year when you're most exposed. The tradition encodes a kind of humility — don't assume good fortune; take protective measures and be careful.</p>
+        <p>The year of your own zodiac sign, your <strong>本命年</strong> (běnmìngnián, "origin-fate year"), is paradoxically considered unlucky. You are said to <strong>犯太岁</strong> (fàn tàisuì, "offend the Year God") in your own zodiac year, making it a year requiring extra caution.</p>
+        <p>The protective measure is wearing red (red underwear, red socks, red string around the wrist), ideally given as a gift by family rather than purchased for yourself. Red wards off the bad luck associated with the Year God's attention. Jewelry shops do significant business selling red cord bracelets in the months before each zodiac year.</p>
+        <p>The logic is counterintuitive to outsiders: your own animal year, which should feel celebratory, is actually a year when you're most exposed. The tradition encodes a kind of humility — don't assume good fortune; take protective measures.</p>
       </div>
 
 
@@ -138,9 +138,9 @@ pinyin: 'shēngxiào'
       <h2 class="section-head">The Zodiac Today · 现代 xiàndài</h2>
       <div class="scholar" data-glyph="现">
         <div class="scholar-label">婚配与生育 · Marriage and Birth</div>
-        <p>The zodiac remains actively relevant in contemporary China in several practical ways. Compatibility between signs is consulted in marriage decisions — some families will not approve a match between certain signs (Tiger and Monkey, for instance, or Ox and Goat). This consultation happens both through traditional fortune tellers and through smartphone apps that have modernized the practice.</p>
-        <p>Birth planning around zodiac signs is a documented demographic phenomenon. Dragon years produce measurable birth-rate spikes; Tiger years produce measurable drops. The difference is significant enough to affect hospital staffing, school enrollment cohort sizes, and — years later — the labor market entry of those cohorts.</p>
-        <p>The zodiac is also a low-stakes social vocabulary: knowing someone's sign is a quick way to locate them in a shared reference system. "What's your sign?" (你是什么属相？Nǐ shì shénme shǔxiàng?) is a casual opener at any age — and knowing the answer tells you, roughly, someone's age while giving you a personality schema to play with.</p>
+        <p>Compatibility between signs is consulted in marriage decisions: some families will not approve a match between certain signs (Tiger and Monkey, for instance, or Ox and Goat). This consultation happens both through traditional fortune tellers and through smartphone apps that have modernized the practice.</p>
+        <p>Birth planning around zodiac signs is a documented demographic phenomenon. Dragon years produce measurable birth-rate spikes; Tiger years produce measurable drops. The difference is significant enough to affect hospital staffing, school enrollment cohort sizes, and the labor market entry of those cohorts years later.</p>
+        <p>The zodiac is also a low-stakes social vocabulary: knowing someone's sign is a quick way to locate them in a shared reference system. "What's your sign?" (你是什么属相？Nǐ shì shénme shǔxiàng?) is a casual opener at any age. Knowing the answer tells you, roughly, someone's age while giving you a personality schema to play with.</p>
       </div>
 
 
