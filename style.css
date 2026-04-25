@@ -3000,6 +3000,38 @@ html[data-theme="dark"] .topnav {
   }
 }
 
+/* Topnav text: the nav bar is always dark (hardcoded near-black background).
+   When dark-mode overrides flip --papyrus-* to near-black, all nav text
+   becomes invisible. Pin the text variables back to legible light values
+   inside .topnav so they're always readable regardless of theme. */
+html[data-theme="dark"] .topnav,
+html[data-theme="dark"] .topnav * {
+  --papyrus:   #f2e8d5;
+  --papyrus-2: #ebe0c8;
+  --papyrus-3: #e0d4b8;
+  --papyrus-4: #d4c9a8;
+  --papyrus-5: #c8bda0;
+  --ochre-2:   #c07830;
+}
+@media (prefers-color-scheme: dark) {
+  html:not([data-theme="light"]) .topnav,
+  html:not([data-theme="light"]) .topnav * {
+    --papyrus:   #f2e8d5;
+    --papyrus-2: #ebe0c8;
+    --papyrus-3: #e0d4b8;
+    --papyrus-4: #d4c9a8;
+    --papyrus-5: #c8bda0;
+    --ochre-2:   #c07830;
+  }
+}
+
+/* theme-toggle: the topnav variable restoration above covers it,
+   but boost the border a touch for perceptibility on near-black. */
+html[data-theme="dark"] .theme-toggle { border-color: rgba(160,100,40,0.45); color: #c8bda0; }
+@media (prefers-color-scheme: dark) {
+  html:not([data-theme="light"]) .theme-toggle { border-color: rgba(160,100,40,0.45); color: #c8bda0; }
+}
+
 /* Mobile bottom topnav flips glow direction */
 @media (max-width: 768px) {
   html[data-theme="dark"] .topnav {
@@ -3099,23 +3131,44 @@ html[data-theme="dark"] .scholar::after {
 }
 
 /* Hover tooltip: warm dark fill */
+/* Tooltip is always dark-bg/light-text — keep text readable regardless of
+   theme by pinning to explicit light values rather than relying on variables
+   that flip in dark mode. */
 html[data-theme="dark"] .al-tooltip {
-  background: var(--papyrus-3);
+  background: #1e1810;
   box-shadow: 0 4px 18px rgba(0,0,0,0.6);
+  color: #e8dcca;
+  border-color: rgba(192,120,48,0.5);
 }
+html[data-theme="dark"] .al-tt-cn  { color: #f0e6d0; }
+html[data-theme="dark"] .al-tt-py  { color: #c07830; }
+html[data-theme="dark"] .al-tt-hsk { color: #c8bda0; background: rgba(255,255,255,0.08); }
+html[data-theme="dark"] .al-tt-desc{ color: #b0a088; }
 @media (prefers-color-scheme: dark) {
   html:not([data-theme="light"]) .al-tooltip {
-    background: var(--papyrus-3);
+    background: #1e1810;
     box-shadow: 0 4px 18px rgba(0,0,0,0.6);
+    color: #e8dcca;
+    border-color: rgba(192,120,48,0.5);
   }
+  html:not([data-theme="light"]) .al-tt-cn  { color: #f0e6d0; }
+  html:not([data-theme="light"]) .al-tt-py  { color: #c07830; }
+  html:not([data-theme="light"]) .al-tt-hsk { color: #c8bda0; background: rgba(255,255,255,0.08); }
+  html:not([data-theme="light"]) .al-tt-desc{ color: #b0a088; }
 }
 
 /* Back-to-top: stronger shadow */
 html[data-theme="dark"] .back-to-top {
+  background: #1e1810;
+  color: #e0d4b8;
+  border-color: var(--red);
   box-shadow: 0 2px 12px rgba(0,0,0,0.5);
 }
 @media (prefers-color-scheme: dark) {
   html:not([data-theme="light"]) .back-to-top {
+    background: #1e1810;
+    color: #e0d4b8;
+    border-color: var(--red);
     box-shadow: 0 2px 12px rgba(0,0,0,0.5);
   }
 }
@@ -3369,6 +3422,34 @@ html[data-theme="dark"] .hsk-stats { color: var(--ink-4); }
 html[data-theme="dark"] .map-wrapper { filter: brightness(0.92) saturate(0.9); }
 @media (prefers-color-scheme: dark) {
   html:not([data-theme="light"]) .map-wrapper { filter: brightness(0.92) saturate(0.9); }
+}
+
+/* Skip-link: always dark-bg/light-text (keyboard focus affordance). */
+html[data-theme="dark"] .skip-link {
+  background: #120e0a;
+  color: #e0d4b8;
+  border-color: rgba(192,120,48,0.6);
+}
+@media (prefers-color-scheme: dark) {
+  html:not([data-theme="light"]) .skip-link {
+    background: #120e0a;
+    color: #e0d4b8;
+    border-color: rgba(192,120,48,0.6);
+  }
+}
+
+/* Map tooltip: keep dark-bg/light-text */
+html[data-theme="dark"] .map-tooltip {
+  background: #1e1810;
+  color: #e8dcca;
+  border-color: rgba(160,100,40,0.3);
+}
+@media (prefers-color-scheme: dark) {
+  html:not([data-theme="light"]) .map-tooltip {
+    background: #1e1810;
+    color: #e8dcca;
+    border-color: rgba(160,100,40,0.3);
+  }
 }
 
 /* meta[name=theme-color] updated by JS for mobile browser chrome */
