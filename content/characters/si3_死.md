@@ -1,0 +1,381 @@
+---
+type: 'character'
+category: 'characters'
+status: 'complete'
+title: '死 · death, to die, dead, fixed'
+desc: "A figure kneeling beside a corpse. The character behind the strongest verb of finality in Chinese, the bedrock of every taboo, and the intensifier that turns 累 into 累死了."
+metaDesc: "死 sǐ: death, to die, dead. Etymology from 歹 (bare bone) and 匕 (kneeling figure), the network of taboos and number 4 avoidance, and why 死 doubles as the strongest intensifier in everyday Mandarin."
+pageTitle: '死 sǐ'
+tags:
+  - 'life'
+  - 'ritual'
+  - 'culture'
+  - 'symbolism'
+  - 'daily-life'
+updated: '2026-04-25'
+char: '死'
+pinyin: 'sǐ'
+tone: 3
+hsk: 4
+radical: '歹'
+content_review: 'pending'
+content_sources:
+  - 'Outlier Linguistics, Essentials Dictionary, entry on 死'
+  - 'Shuōwén Jiězì 説文解字, 死: 澌也，人所離也'
+  - 'CC-CEDICT, modern senses and intensifier patterns'
+  - 'Analects 12.5, 死生有命，富貴在天'
+  - 'Mengzi 6A.10, 生亦我所欲也，義亦我所欲也，二者不可得兼，舍生而取義者也'
+---
+
+
+<div class="shell">
+
+  <!-- ═══ SIDEBAR ═══ -->
+  <aside class="sidebar" id="sidebar">
+
+    <span class="toc-glyph">死</span>
+    <span class="toc-pinyin">sǐ · tone 3</span>
+
+    <div class="toc-divider"></div>
+    <span class="toc-label">On this page</span>
+
+    <ul class="toc-list">
+      <li><a href="#etymology">
+        <span class="toc-cn">字源</span> Etymology
+        <span class="toc-sub">zìyuán · the bare bone and the mourner</span>
+      </a></li>
+      <li><a href="#dying">
+        <span class="toc-cn">死亡</span> Dying &amp; the Dead
+        <span class="toc-sub">sǐwáng · the verb and its register</span>
+      </a></li>
+      <li><a href="#taboo">
+        <span class="toc-cn">忌讳</span> Taboo &amp; Euphemism
+        <span class="toc-sub">jìhuì · what 死 cannot say</span>
+      </a></li>
+      <li><a href="#intensifier">
+        <span class="toc-cn">死了</span> 死 as Intensifier
+        <span class="toc-sub">sǐ le · "to death"</span>
+      </a></li>
+      <li><a href="#fixed">
+        <span class="toc-cn">死板</span> Dead, Fixed, Inflexible
+        <span class="toc-sub">sǐbǎn · the metaphor of stuckness</span>
+      </a></li>
+      <li><a href="#chengyu">
+        <span class="toc-cn">成语</span> Idioms
+        <span class="toc-sub">chéngyǔ · set phrases</span>
+      </a></li>
+      <li><a href="#adjacent">
+        <span class="toc-cn">相邻</span> Adjacent Vocab
+        <span class="toc-sub">xiānglín cíhuì</span>
+      </a></li>
+    </ul>
+  </aside>
+
+  <!-- ═══ MAIN ═══ -->
+  <main class="main">
+
+    <!-- HERO -->
+    <header class="hero">
+      <div class="hero-inner">
+        <div class="hero-glyph-col">
+          <span class="hero-glyph">死</span>
+        </div>
+        <div class="hero-meta">
+          <div class="hero-pinyin">sǐ</div>
+          <div class="hero-en">to die · death · dead · fixed, rigid · extremely (intensifier)</div>
+          <div class="hero-chips">
+            <span class="chip chip-hsk">HSK 4</span>
+            <span class="chip">笔画 6</span>
+            <span class="chip">部首 歹 (bare bone)</span>
+            <span class="chip">声调 第三声 (dipping)</span>
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <!-- ── ETYMOLOGY ── -->
+    <span class="section-anchor" id="etymology"></span>
+    <div class="section-head">
+      <span class="sh-cn">字源</span>
+      <span class="sh-py">zìyuán</span>
+      <span class="sh-en">Etymology &amp; Structure</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="死">
+      <div class="scholar-label">字源洞见 zìyuán dòngjiàn · the bare bone and the mourner</div>
+      <p>死 is built from two parts the modern eye no longer reads cleanly. On the left, 歹 (dǎi, also read è in this composing role): a stripped, bleached bone, what remains after flesh is gone. The radical itself is the death-radical, used to write 殇 (premature death), 殡 (to lay out for burial), 殃 (calamity), 殊 (different, originally "decapitated"). On the right, 匕 (bǐ): not a knife in this character but a kneeling human figure, a variant of 人 used as a graphic component. The whole picture is a person kneeling beside a corpse stripped to the bone. Death in Chinese is encoded as the relationship of the living to the dead, not as the dead body alone.</p>
+      <p>The Shuōwén Jiězì glosses 死 as 澌也，人所離也 (sī yě, rén suǒ lí yě), "the ebbing-out, that from which a person separates." The reading is older than the medical one. To die is for the spirit-component of a person to detach from the body-component. This split survives in classical funeral vocabulary, where the corpse (尸 shī) is treated as one thing and the departed soul (魂 hún) as another. The character 死 names the moment of separation, not the still body left behind.</p>
+      <p>From the literal sense the meaning radiated in two directions. Outward into euphemism: the spoken language treats 死 as too direct for most contexts and reaches for 去世 (qùshì, "leaving the world"), 走了 (zǒu le, "gone"), 过世 (guòshì, "passed over"), 不在了 (bú zài le, "no longer here"). Inward into intensification: 死 became the strongest available marker of "to the extreme," so that 累死了 (lèi sǐ le, "tired to death") and 笑死我了 (xiào sǐ wǒ le, "laughing to death") are now the unmarked, casual register among friends. The same character is too raw to apply to a person and too useful to give up everywhere else.</p>
+      <p>Japanese inherits 死 with the readings <em>shi</em> (死亡 shibō, decease) and <em>shi(nu)</em> (死ぬ, to die). Korean keeps 사 (sa). Vietnamese reads <em>tử</em>. The same character anchors the death vocabulary across all three borrowing languages, and so does the same superstition: the syllable 四 (sì, four) is so close to 死 (sǐ) that buildings across the Sinosphere skip the fourth floor in elevators and hospital rooms with the number four are reassigned. One bone and one mourner generated a millennium of architectural avoidance.</p>
+    </div>
+
+    <!-- ── DYING ── -->
+    <span class="section-anchor" id="dying"></span>
+    <div class="section-head">
+      <span class="sh-cn">死亡</span>
+      <span class="sh-py">sǐwáng</span>
+      <span class="sh-en">Dying &amp; the Dead · the verb and its register</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="pattern">
+      <span class="label">死 by register · who can say it about whom</span>
+      <p>Modern Mandarin keeps 死 the bluntest verb available, and the speech community polices its use. Three registers stack:</p>
+      <ul>
+        <li><strong>Bare 死</strong>: used for animals, enemies, and abstract subjects (老鼠死了, the rat died). Applied to a known person it sounds harsh, sometimes cruelly so.</li>
+        <li><strong>死亡</strong> (sǐwáng): the formal noun and verb, the register of news reports, hospital records, and police reports. 死亡人数 (sǐwáng rénshù), "death toll."</li>
+        <li><strong>去世 / 过世 / 走了 / 不在了</strong>: the spoken euphemisms used for any person whose death is being mentioned in the presence of family or out of basic respect. 我爷爷三年前去世了, "my grandfather passed away three years ago."</li>
+      </ul>
+      <p>Choosing the wrong register is one of the more sensitive errors a learner can make. A foreign student saying 我的奶奶死了 to a Chinese friend will be gently corrected; the form is grammatical but emotionally tone-deaf. Use 去世 by default for human deaths; reserve 死 for animals, abstractions, and the intensifier patterns below.</p>
+    </div>
+
+    <div class="cards">
+      <div class="card c-red">
+        <div class="tags"><span class="tag tag-vn">v / n</span></div>
+        <div class="card-head">
+          <span class="card-cn">死亡</span>
+          <span class="card-py">sǐwáng</span>
+          <span class="card-en">death; to die (formal)</span>
+        </div>
+        <p class="card-def">死 + 亡 (perish, lose). The formal compound, used in writing and in any context that calls for clinical distance: medicine, law, journalism, statistics. 因病死亡 (yīn bìng sǐwáng), "died of illness." 死亡率 (sǐwánglǜ), "mortality rate."</p>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">事故造成五人死亡。</div>
+            <div class="ex-py">Shìgù zàochéng wǔ rén sǐwáng.</div>
+            <div class="ex-en">The accident caused five deaths.</div>
+          </div>
+        </div>
+      </div>
+      <div class="card c-ochre">
+        <div class="tags"><span class="tag tag-v">v</span></div>
+        <div class="card-head">
+          <span class="card-cn">去世</span>
+          <span class="card-py">qùshì</span>
+          <span class="card-en">to pass away</span>
+        </div>
+        <p class="card-def">去 (to leave) + 世 (the world). The standard respectful verb for the death of a person. Used in eulogies, condolences, and ordinary conversation about a loss. The literal sense, leaving the world, softens the fact without obscuring it. See also <a href="../characters/qu4_去.html">去 qù</a> for the parallel sense of "to depart."</p>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">他爸爸去年去世了。</div>
+            <div class="ex-py">Tā bàba qùnián qùshì le.</div>
+            <div class="ex-en">His father passed away last year.</div>
+          </div>
+        </div>
+      </div>
+      <div class="card c-teal">
+        <div class="tags"><span class="tag tag-v">v</span></div>
+        <div class="card-head">
+          <span class="card-cn">过世</span>
+          <span class="card-py">guòshì</span>
+          <span class="card-en">to pass on, to die</span>
+        </div>
+        <p class="card-def">过 (to pass over) + 世. Near-synonym of 去世, slightly warmer in tone, more common in Taiwan and southern usage. The 过 image is of crossing over rather than leaving behind.</p>
+      </div>
+      <div class="card c-violet">
+        <div class="tags"><span class="tag tag-n">n</span></div>
+        <div class="card-head">
+          <span class="card-cn">死人</span>
+          <span class="card-py">sǐrén</span>
+          <span class="card-en">a dead person; a corpse</span>
+        </div>
+        <p class="card-def">死 + 人 (person). Concrete and clinical. Used in news reporting, crime contexts, and the famous Lu Xun image of 救救孩子 set against the cannibal-feast of dead-people history. As a verb (使役 causative), 死人 also means "to cause a death": 出了车祸，死了人, "there was a crash, someone died."</p>
+      </div>
+    </div>
+
+    <!-- ── TABOO ── -->
+    <span class="section-anchor" id="taboo"></span>
+    <div class="section-head">
+      <span class="sh-cn">忌讳</span>
+      <span class="sh-py">jìhuì</span>
+      <span class="sh-en">Taboo &amp; Euphemism · what 死 cannot say</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="四">
+      <div class="scholar-label">死 and the number four</div>
+      <p>The most visible death-taboo in modern Chinese cities is architectural. 四 (sì, four) and 死 (sǐ) are near-homophones in Mandarin and exact homophones in several southern dialects. Hospitals routinely renumber rooms to skip 4, 14, 24. Many residential buildings have no fourth floor, jumping from 3 to 5. Aircraft seat maps drop row 4 in domestic Chinese carriers. License plates ending in 4 sell at a discount; ones ending in 8 (八 bā, near-homophone of 发 fā, "to prosper") sell at a premium. The avoidance is so pervasive that it functions as a kind of urban grammar: the absence of fours marks a building as a place where people sleep, eat, recover, or live, places that should not invite the bare bone.</p>
+      <p>Funeral practice extends the taboo into color, sound, and gift-giving. White is the color of mourning; flowers given to the living must be of any color other than pure white. Clocks (钟 zhōng) sound like 终 (zhōng, end), so 送钟 (sòng zhōng, "to give a clock") is a near-homophone of 送终 (sòng zhōng, "to attend a parent's death") and clocks are not given as gifts. Pears (梨 lí) sound like 离 (lí, to part) and are not split between lovers. The rule is consistent: speech and ritual cooperate to keep the syllables of separation out of the spaces of life. See also <a href="../daily/topic_yanse.html">颜色 colors and luck</a> and <a href="../daily/topic_hongbai.html">红白喜事 weddings &amp; funerals</a>.</p>
+      <p>The countervailing tradition is the willingness to face death plainly when the moment calls for it. Confucius in Analects 12.5: 死生有命，富貴在天 (sǐ shēng yǒu mìng, fù guì zài tiān), "life and death are decreed, wealth and rank are with heaven." Mengzi 6A.10 chooses 义 (yì, righteousness) over 生 (shēng, life): 舍生而取義 (shě shēng ér qǔ yì), "give up life to take righteousness." The classical philosophical literature does not whisper around 死. The avoidance is a folk practice, parallel to a tradition that has always been able to name the thing.</p>
+    </div>
+
+    <!-- ── INTENSIFIER ── -->
+    <span class="section-anchor" id="intensifier"></span>
+    <div class="section-head">
+      <span class="sh-cn">死了</span>
+      <span class="sh-py">sǐ le</span>
+      <span class="sh-en">死 as Intensifier · "to death"</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="pattern">
+      <span class="label">adjective / verb + 死了 · "X to death"</span>
+      <p>The most productive modern use of 死 is as an intensifier suffix on emotional and physical states. The pattern is fully colloquial and slightly hyperbolic in flavor:</p>
+      <ul>
+        <li>累 (lèi, tired) → 累死了 (lèi sǐ le, "exhausted")</li>
+        <li>饿 (è, hungry) → 饿死了 (è sǐ le, "starving")</li>
+        <li>困 (kùn, sleepy) → 困死了 (kùn sǐ le, "dead tired")</li>
+        <li>气 (qì, angry) → 气死了 (qì sǐ le, "furious"); 气死我了, "drives me mad"</li>
+        <li>笑 (xiào, laugh) → 笑死了 (xiào sǐ le, "hilarious"); 笑死我了, "I'm dying laughing"</li>
+        <li>烦 (fán, annoyed) → 烦死了 (fán sǐ le, "fed up")</li>
+      </ul>
+      <p>The pattern only takes states and reactions, not neutral verbs. 看死了 and 走死了 are not Chinese. The intensifier 死 always carries an implied subject who is being pushed past their endurance, which is why it pairs so easily with 我 (wǒ): 烦死我了 fronts the speaker's exhaustion as the punchline. In informal speech 死 outranks 极了 (jíle, extremely) and 得要命 (de yàomìng, terribly) in casual frequency.</p>
+    </div>
+
+    <div class="cards">
+      <div class="card c-red">
+        <div class="tags"><span class="tag tag-adj">adj</span></div>
+        <div class="card-head">
+          <span class="card-cn">累死了</span>
+          <span class="card-py">lèi sǐ le</span>
+          <span class="card-en">exhausted; dead tired</span>
+        </div>
+        <p class="card-def">累 (tired) + 死了. The default exclamation at the end of a long day. Often said while collapsing onto a chair. Compare 累极了 (lèi jí le, "extremely tired"), which is the same meaning in slightly more careful register.</p>
+        <div class="examples">
+          <div class="example">
+            <div class="ex-cn">今天加了八个小时班，累死了！</div>
+            <div class="ex-py">Jīntiān jiā le bā gè xiǎoshí bān, lèi sǐ le!</div>
+            <div class="ex-en">Eight hours of overtime today, I'm wrecked!</div>
+          </div>
+        </div>
+      </div>
+      <div class="card c-ochre">
+        <div class="tags"><span class="tag tag-adj">adj</span></div>
+        <div class="card-head">
+          <span class="card-cn">气死了</span>
+          <span class="card-py">qì sǐ le</span>
+          <span class="card-en">furious; livid</span>
+        </div>
+        <p class="card-def">气 (anger; air) + 死了. The most useful phrase to learn for arguing in Mandarin. 气死我了 (qì sǐ wǒ le), "you're driving me crazy," is the standard escalation. The 气 here is the same character as breath and life-force, suggesting anger is the emotion that overflows the body. See <a href="../characters/qi4_气.html">气 qì</a>.</p>
+      </div>
+      <div class="card c-teal">
+        <div class="tags"><span class="tag tag-adj">adj</span></div>
+        <div class="card-head">
+          <span class="card-cn">笑死我了</span>
+          <span class="card-py">xiào sǐ wǒ le</span>
+          <span class="card-en">"I'm dying laughing"; hilarious</span>
+        </div>
+        <p class="card-def">笑 (laugh) + 死 + 我 (me) + 了. The reaction to a good joke or a viral video. Online Chinese has compressed this further: 笑死 alone (sometimes typed 笑死我) is the standard one-word reply, the rough Mandarin equivalent of "lol" with more force.</p>
+      </div>
+    </div>
+
+    <!-- ── FIXED ── -->
+    <span class="section-anchor" id="fixed"></span>
+    <div class="section-head">
+      <span class="sh-cn">死板</span>
+      <span class="sh-py">sǐbǎn</span>
+      <span class="sh-en">Dead, Fixed, Inflexible · the metaphor of stuckness</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="pattern">
+      <span class="label">死 = unmoving, unchangeable</span>
+      <p>The third major use of 死 carries the corpse-image into the realm of objects and rules. Anything fixed, jammed, or unable to flex picks up the 死 prefix:</p>
+      <ul>
+        <li>死板 (sǐbǎn): rigid, inflexible (of a person or rule)</li>
+        <li>死结 (sǐjié): a knot that cannot be untied, deadlock</li>
+        <li>死路 (sǐlù): dead-end, impasse</li>
+        <li>死记 (sǐjì): rote memorization (memorizing without understanding)</li>
+        <li>死水 (sǐshuǐ): stagnant water</li>
+        <li>死心 (sǐxīn): to give up, to let a hope die</li>
+      </ul>
+      <p>The semantic logic is consistent. A live thing moves, adjusts, gives way; a dead thing holds whatever shape it had at the moment it stopped. Calling a colleague 死板 is to say their thinking has stiffened past the point where new information can reshape it. Calling a road 死路 is to say it leads nowhere alive.</p>
+    </div>
+
+    <div class="cards">
+      <div class="card c-violet">
+        <div class="tags"><span class="tag tag-adj">adj</span></div>
+        <div class="card-head">
+          <span class="card-cn">死板</span>
+          <span class="card-py">sǐbǎn</span>
+          <span class="card-en">rigid, inflexible</span>
+        </div>
+        <p class="card-def">死 + 板 (board, plank). Of a person: stuck in their ways, unable to improvise. Of a rule: applied without judgment. 他这个人太死板 (Tā zhège rén tài sǐbǎn), "he's too rigid." The opposite is 灵活 (línghuó), "agile, flexible," which carries the image of a living, supple body.</p>
+      </div>
+      <div class="card c-sienna">
+        <div class="tags"><span class="tag tag-vn">v / n</span></div>
+        <div class="card-head">
+          <span class="card-cn">死心</span>
+          <span class="card-py">sǐxīn</span>
+          <span class="card-en">to give up; to let hope die</span>
+        </div>
+        <p class="card-def">死 + 心 (heart). To kill the hope a heart was holding. Used after a long-pursued goal has finally proven impossible: 你就死心吧 (Nǐ jiù sǐxīn ba), "just let it go." The expression assumes a particular romantic, professional, or personal hope that has been alive in the speaker's heart and is now being asked to stop.</p>
+      </div>
+      <div class="card c-red">
+        <div class="tags"><span class="tag tag-n">n</span></div>
+        <div class="card-head">
+          <span class="card-cn">死路</span>
+          <span class="card-py">sǐlù</span>
+          <span class="card-en">dead end; no way out</span>
+        </div>
+        <p class="card-def">死 + 路 (road). Both literal and figurative. A street with no exit; a strategy that cannot succeed. Compare to 活路 (huólù, "live road"), "a way out, a viable option." See <a href="../characters/lu4_路.html">路 lù</a> for the broader semantic range of road and path.</p>
+      </div>
+    </div>
+
+    <!-- ── CHENGYU ── -->
+    <span class="section-anchor" id="chengyu"></span>
+    <div class="section-head">
+      <span class="sh-cn">成语</span>
+      <span class="sh-py">chéngyǔ</span>
+      <span class="sh-en">Idioms &amp; Set Phrases</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="chengyu-grid">
+      <div class="cy">
+        <div class="cy-cn">生死攸关</div>
+        <div class="cy-py">shēng sǐ yōu guān</div>
+        <div class="cy-en">"life and death are at stake": a matter of utmost importance</div>
+        <div class="cy-note">攸关 (yōu guān) is a classical pairing meaning "what is bound up with." The phrase is the standard register for emergencies where the outcome decides whether someone lives. Common in medical, military, and disaster-response contexts: 这是生死攸关的时刻, "this is the decisive moment." Pairs naturally with <a href="../characters/sheng1_生.html">生 shēng</a>, life.</div>
+      </div>
+      <div class="cy">
+        <div class="cy-cn">视死如归</div>
+        <div class="cy-py">shì sǐ rú guī</div>
+        <div class="cy-en">"to look on death as going home": to face death without fear</div>
+        <div class="cy-note">From the Hánfēizǐ and elaborated through the Records of the Grand Historian. The image is the warrior or martyr who treats dying the way a traveler treats finally reaching home: with relief, not resistance. Used today for soldiers, firefighters, and dissidents who knowingly choose paths that may end their lives. The chengyu is praise of the highest order and not lightly given.</div>
+      </div>
+      <div class="cy">
+        <div class="cy-cn">死灰复燃</div>
+        <div class="cy-py">sǐ huī fù rán</div>
+        <div class="cy-en">"dead ashes catch fire again": something thought ended revives</div>
+        <div class="cy-note">From the biography of 韩安国 Hán Ānguó in the Shǐjì. Hán was imprisoned and abused by a jailer who taunted him; he warned the man that dead ashes can re-ignite. They did, and Hán remembered. The chengyu now serves for any unwelcome resurgence: an old conflict, a banned organization, a discredited theory. The original story preserves the threat-flavor; the modern usage often carries it forward.</div>
+      </div>
+      <div class="cy">
+        <div class="cy-cn">置之死地而后生</div>
+        <div class="cy-py">zhì zhī sǐ dì ér hòu shēng</div>
+        <div class="cy-en">"place into a death-ground, then live": only by burning the bridges does one fight to win</div>
+        <div class="cy-note">From Sūnzǐ Bīngfǎ 孙子兵法, the Art of War. Sun Tzu argued that a general who leaves his soldiers no retreat will see them fight with the desperate intensity that survives. The chengyu is now used outside warfare for any all-or-nothing commitment: cutting off a fallback to force oneself to succeed. Modern startup and political-strategy literature borrows it constantly.</div>
+      </div>
+    </div>
+
+    <!-- ── ADJACENT ── -->
+    <div class="adj-wrap">
+      <span class="adj" data-relation="antonym" data-distinct="生 names birth and life as the live current; 死 names the ebbing-out and what stops"><span class="a-cn">生</span> <span class="a-py">shēng</span> <span class="a-en">life, to be born</span></span>
+      <span class="adj" data-relation="derived"><span class="a-cn">死亡</span> <span class="a-py">sǐwáng</span> <span class="a-en">death (formal)</span></span>
+      <span class="adj" data-relation="synonym" data-distinct="去世 is the polite human-death verb; 死 is bare and harsh for people"><span class="a-cn">去世</span> <span class="a-py">qùshì</span> <span class="a-en">to pass away</span></span>
+      <span class="adj" data-relation="synonym"><span class="a-cn">过世</span> <span class="a-py">guòshì</span> <span class="a-en">to pass on</span></span>
+      <span class="adj" data-relation="derived"><span class="a-cn">死板</span> <span class="a-py">sǐbǎn</span> <span class="a-en">rigid, inflexible</span></span>
+      <span class="adj" data-relation="derived"><span class="a-cn">死路</span> <span class="a-py">sǐlù</span> <span class="a-en">dead end</span></span>
+      <span class="adj" data-relation="derived"><span class="a-cn">死心</span> <span class="a-py">sǐxīn</span> <span class="a-en">to give up hope</span></span>
+      <span class="adj" data-relation="derived"><span class="a-cn">累死了</span> <span class="a-py">lèi sǐ le</span> <span class="a-en">exhausted</span></span>
+      <span class="adj" data-relation="derived"><span class="a-cn">气死了</span> <span class="a-py">qì sǐ le</span> <span class="a-en">furious</span></span>
+      <span class="adj" data-relation="collocation"><span class="a-cn">命运</span> <span class="a-py">mìngyùn</span> <span class="a-en">fate, destiny</span></span>
+      <span class="adj" data-relation="collocation"><span class="a-cn">白</span> <span class="a-py">bái</span> <span class="a-en">white (color of mourning)</span></span>
+      <span class="adj" data-relation="collocation" data-distinct="去 is the everyday verb of departure; 去世 specializes it for the soul leaving the world"><span class="a-cn">去</span> <span class="a-py">qù</span> <span class="a-en">to go, to leave</span></span>
+    </div>
+
+    <!-- ── RETENTION ── -->
+    <div class="scholar" data-glyph="死">
+      <div class="scholar-label">记忆法 jìyìfǎ · the kneeling figure</div>
+      <p>Hold the picture: a stripped bone on the left, a kneeling person on the right. The character does not show death itself but the survivor in front of it. Every modern use radiates from that posture. The euphemisms (去世, 过世, 走了) shift the focus from the corpse to the leaving spirit, sparing the kneeling figure from saying the bare thing. The intensifier (累死了, 笑死我了) pushes the speaker into the posture of being the one collapsed, half-jokingly, before their own state. The metaphor of stuckness (死板, 死路) treats anything that cannot move as a kind of corpse the world has already passed.</p>
+      <p>When you see the character on a Chinese building, look for what is missing: the fourth floor, the room ending in 4, the white flowers absent from the gift bouquet. The taboo is not silence but a careful placement of the syllable. 死 stays out of the spaces of life precisely so that 生 can occupy them fully. Pair this page with <a href="../characters/sheng1_生.html">生 shēng</a> and the system becomes legible: one character for the live current, one for the still bone, and a whole civilization arranging its calendars and elevators around the gap between them.</p>
+    </div>
+
+    <!-- FOOTER -->
+    <footer class="page-footer">
+      <span class="footer-id">Jiǎoluò Shūwū · 角落書屋 · <span>死 sǐ</span> · si3_死.html</span>
+      <a href="../../index.html" class="footer-back">← All Entries</a>
+    </footer>
+
+  </main>
+</div>

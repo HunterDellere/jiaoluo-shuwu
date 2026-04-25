@@ -1,5 +1,26 @@
 [
   {
+    "path": "pages/characters/bai2_白.html",
+    "type": "character",
+    "category": "characters",
+    "title": "白 · white, clear, plain, in vain",
+    "desc": "Sunlight on a single point. The character that names the color of mourning, the color of clarity, the empty plate, and the speech that hides nothing.",
+    "tags": [
+      "color",
+      "clarity",
+      "symbolism",
+      "daily-life",
+      "culture"
+    ],
+    "status": "complete",
+    "char": "白",
+    "pinyin": "bái",
+    "tone": 2,
+    "hsk": 1,
+    "radical": "白",
+    "updated": "2026-04-25"
+  },
+  {
     "path": "pages/characters/guan1_关.html",
     "type": "character",
     "category": "characters",
@@ -73,6 +94,27 @@
     "tone": 4,
     "hsk": 2,
     "radical": "足",
+    "updated": "2026-04-25"
+  },
+  {
+    "path": "pages/characters/si3_死.html",
+    "type": "character",
+    "category": "characters",
+    "title": "死 · death, to die, dead, fixed",
+    "desc": "A figure kneeling beside a corpse. The character behind the strongest verb of finality in Chinese, the bedrock of every taboo, and the intensifier that turns 累 into 累死了.",
+    "tags": [
+      "life",
+      "ritual",
+      "culture",
+      "symbolism",
+      "daily-life"
+    ],
+    "status": "complete",
+    "char": "死",
+    "pinyin": "sǐ",
+    "tone": 3,
+    "hsk": 4,
+    "radical": "歹",
     "updated": "2026-04-25"
   },
   {

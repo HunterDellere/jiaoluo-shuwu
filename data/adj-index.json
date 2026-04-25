@@ -155,6 +155,20 @@
     ],
     "hasPage": true
   },
+  "命运": {
+    "cn": "命运",
+    "py": "mìngyùn",
+    "en": "fate, destiny",
+    "count": 5,
+    "appearsOn": [
+      "pages/characters/si3_死.html",
+      "pages/characters/tian1_天.html",
+      "pages/vocab/rensheng_人生.html",
+      "pages/vocab/tianming_天命.html",
+      "pages/vocab/yuanfen_缘分.html"
+    ],
+    "hasPage": true
+  },
   "气": {
     "cn": "气",
     "py": "qì",
@@ -166,6 +180,20 @@
       "pages/science/topic_wuxing.html",
       "pages/vocab/fengshui_风水.html",
       "pages/vocab/yinyang_阴阳.html"
+    ],
+    "hasPage": true
+  },
+  "去": {
+    "cn": "去",
+    "py": "qù",
+    "en": "to go (away from speaker)",
+    "count": 5,
+    "appearsOn": [
+      "pages/characters/lai2_来.html",
+      "pages/characters/shang4_上.html",
+      "pages/characters/si3_死.html",
+      "pages/characters/xia4_下.html",
+      "pages/characters/zou3_走.html"
     ],
     "hasPage": true
   },
@@ -302,32 +330,6 @@
       "pages/grammar/guo_过.html",
       "pages/grammar/zhe_particle_呢.html",
       "pages/grammar/zhe_着.html"
-    ],
-    "hasPage": true
-  },
-  "命运": {
-    "cn": "命运",
-    "py": "mìngyùn",
-    "en": "fate; destiny",
-    "count": 4,
-    "appearsOn": [
-      "pages/characters/tian1_天.html",
-      "pages/vocab/rensheng_人生.html",
-      "pages/vocab/tianming_天命.html",
-      "pages/vocab/yuanfen_缘分.html"
-    ],
-    "hasPage": true
-  },
-  "去": {
-    "cn": "去",
-    "py": "qù",
-    "en": "to go (away from speaker)",
-    "count": 4,
-    "appearsOn": [
-      "pages/characters/lai2_来.html",
-      "pages/characters/shang4_上.html",
-      "pages/characters/xia4_下.html",
-      "pages/characters/zou3_走.html"
     ],
     "hasPage": true
   },
@@ -843,6 +845,17 @@
     ],
     "hasPage": true
   },
+  "白": {
+    "cn": "白",
+    "py": "bái",
+    "en": "white",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/se4_色.html",
+      "pages/characters/si3_死.html"
+    ],
+    "hasPage": true
+  },
   "般若": {
     "cn": "般若",
     "py": "bōrě",
@@ -1316,6 +1329,28 @@
     ],
     "hasPage": false
   },
+  "黑": {
+    "cn": "黑",
+    "py": "hēi",
+    "en": "black",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/bai2_白.html",
+      "pages/characters/se4_色.html"
+    ],
+    "hasPage": false
+  },
+  "红": {
+    "cn": "红",
+    "py": "hóng",
+    "en": "red",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/bai2_白.html",
+      "pages/characters/se4_色.html"
+    ],
+    "hasPage": false
+  },
   "湖": {
     "cn": "湖",
     "py": "hú",
@@ -1635,6 +1670,17 @@
     ],
     "hasPage": true
   },
+  "明白": {
+    "cn": "明白",
+    "py": "míngbai",
+    "en": "to understand",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/bai2_白.html",
+      "pages/vocab/yisi_意思.html"
+    ],
+    "hasPage": false
+  },
   "拿": {
     "cn": "拿",
     "py": "ná",
@@ -1786,6 +1832,17 @@
     "appearsOn": [
       "pages/characters/gan3_感.html",
       "pages/characters/si1_思.html"
+    ],
+    "hasPage": false
+  },
+  "去世": {
+    "cn": "去世",
+    "py": "qùshì",
+    "en": "to pass away",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/qu4_去.html",
+      "pages/characters/si3_死.html"
     ],
     "hasPage": false
   },
@@ -1951,6 +2008,28 @@
     "appearsOn": [
       "pages/characters/yu3_雨.html",
       "pages/characters/yun2_云.html"
+    ],
+    "hasPage": false
+  },
+  "死": {
+    "cn": "死",
+    "py": "sǐ",
+    "en": "death (white = mourning color)",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/bai2_白.html",
+      "pages/characters/sheng1_生.html"
+    ],
+    "hasPage": true
+  },
+  "死路": {
+    "cn": "死路",
+    "py": "sǐlù",
+    "en": "dead end (lit. and fig.)",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/lu4_路.html",
+      "pages/characters/si3_死.html"
     ],
     "hasPage": false
   },
@@ -2548,13 +2627,23 @@
     ],
     "hasPage": true
   },
-  "白": {
-    "cn": "白",
-    "py": "bái",
-    "en": "white",
+  "白白": {
+    "cn": "白白",
+    "py": "báibái",
+    "en": "in vain",
     "count": 1,
     "appearsOn": [
-      "pages/characters/se4_色.html"
+      "pages/characters/bai2_白.html"
+    ],
+    "hasPage": false
+  },
+  "白话": {
+    "cn": "白话",
+    "py": "báihuà",
+    "en": "vernacular speech",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/bai2_白.html"
     ],
     "hasPage": false
   },
@@ -2575,6 +2664,26 @@
     "count": 1,
     "appearsOn": [
       "pages/religion/topic_jingtu.html"
+    ],
+    "hasPage": false
+  },
+  "白色": {
+    "cn": "白色",
+    "py": "báisè",
+    "en": "white (color)",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/bai2_白.html"
+    ],
+    "hasPage": false
+  },
+  "白天": {
+    "cn": "白天",
+    "py": "báitiān",
+    "en": "daytime",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/bai2_白.html"
     ],
     "hasPage": false
   },
@@ -3095,6 +3204,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/jin1_金.html"
+    ],
+    "hasPage": false
+  },
+  "苍白": {
+    "cn": "苍白",
+    "py": "cāngbái",
+    "en": "pallid",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/bai2_白.html"
     ],
     "hasPage": false
   },
@@ -4928,6 +5047,16 @@
     ],
     "hasPage": false
   },
+  "过世": {
+    "cn": "过世",
+    "py": "guòshì",
+    "en": "to pass on",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/si3_死.html"
+    ],
+    "hasPage": false
+  },
   "还不如": {
     "cn": "还不如",
     "py": "hái bùrú",
@@ -5098,16 +5227,6 @@
     ],
     "hasPage": false
   },
-  "黑": {
-    "cn": "黑",
-    "py": "hēi",
-    "en": "black",
-    "count": 1,
-    "appearsOn": [
-      "pages/characters/se4_色.html"
-    ],
-    "hasPage": false
-  },
   "很多": {
     "cn": "很多",
     "py": "hěn duō",
@@ -5115,16 +5234,6 @@
     "count": 1,
     "appearsOn": [
       "pages/grammar/liangci_量词.html"
-    ],
-    "hasPage": false
-  },
-  "红": {
-    "cn": "红",
-    "py": "hóng",
-    "en": "red",
-    "count": 1,
-    "appearsOn": [
-      "pages/characters/se4_色.html"
     ],
     "hasPage": false
   },
@@ -6428,6 +6537,16 @@
     ],
     "hasPage": false
   },
+  "累死了": {
+    "cn": "累死了",
+    "py": "lèi sǐ le",
+    "en": "exhausted",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/si3_死.html"
+    ],
+    "hasPage": false
+  },
   "离去": {
     "cn": "离去",
     "py": "líqù",
@@ -7168,15 +7287,15 @@
     ],
     "hasPage": false
   },
-  "明白": {
-    "cn": "明白",
-    "py": "míngbai",
-    "en": "to understand; clear",
+  "明": {
+    "cn": "明",
+    "py": "míng",
+    "en": "bright",
     "count": 1,
     "appearsOn": [
-      "pages/vocab/yisi_意思.html"
+      "pages/characters/bai2_白.html"
     ],
-    "hasPage": false
+    "hasPage": true
   },
   "明朝": {
     "cn": "明朝",
@@ -7638,6 +7757,16 @@
     ],
     "hasPage": false
   },
+  "气死了": {
+    "cn": "气死了",
+    "py": "qì sǐ le",
+    "en": "furious",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/si3_死.html"
+    ],
+    "hasPage": false
+  },
   "气血": {
     "cn": "气血",
     "py": "qìxuè",
@@ -7735,6 +7864,16 @@
     "count": 1,
     "appearsOn": [
       "pages/grammar/zhe_particle_呢.html"
+    ],
+    "hasPage": false
+  },
+  "清白": {
+    "cn": "清白",
+    "py": "qīngbái",
+    "en": "innocence, integrity",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/bai2_白.html"
     ],
     "hasPage": false
   },
@@ -7842,16 +7981,6 @@
     "cn": "去声",
     "py": "qùshēng",
     "en": "the departing tone; tone 4",
-    "count": 1,
-    "appearsOn": [
-      "pages/characters/qu4_去.html"
-    ],
-    "hasPage": false
-  },
-  "去世": {
-    "cn": "去世",
-    "py": "qùshì",
-    "en": "to pass away",
     "count": 1,
     "appearsOn": [
       "pages/characters/qu4_去.html"
@@ -8448,6 +8577,16 @@
     ],
     "hasPage": false
   },
+  "生": {
+    "cn": "生",
+    "py": "shēng",
+    "en": "life, to be born",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/si3_死.html"
+    ],
+    "hasPage": true
+  },
   "生产者": {
     "cn": "生产者",
     "py": "shēngchǎnzhě",
@@ -8918,23 +9057,33 @@
     ],
     "hasPage": false
   },
-  "死": {
-    "cn": "死",
-    "py": "sǐ",
-    "en": "death; to die",
+  "死板": {
+    "cn": "死板",
+    "py": "sǐbǎn",
+    "en": "rigid, inflexible",
     "count": 1,
     "appearsOn": [
-      "pages/characters/sheng1_生.html"
+      "pages/characters/si3_死.html"
     ],
     "hasPage": false
   },
-  "死路": {
-    "cn": "死路",
-    "py": "sǐlù",
-    "en": "dead end (lit. and fig.)",
+  "死亡": {
+    "cn": "死亡",
+    "py": "sǐwáng",
+    "en": "death (formal)",
     "count": 1,
     "appearsOn": [
-      "pages/characters/lu4_路.html"
+      "pages/characters/si3_死.html"
+    ],
+    "hasPage": false
+  },
+  "死心": {
+    "cn": "死心",
+    "py": "sǐxīn",
+    "en": "to give up hope",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/si3_死.html"
     ],
     "hasPage": false
   },
@@ -10535,6 +10684,16 @@
     "count": 1,
     "appearsOn": [
       "pages/vocab/zhongyi_中医.html"
+    ],
+    "hasPage": false
+  },
+  "雪白": {
+    "cn": "雪白",
+    "py": "xuěbái",
+    "en": "snow-white",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/bai2_白.html"
     ],
     "hasPage": false
   },
