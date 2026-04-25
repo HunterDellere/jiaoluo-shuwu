@@ -352,7 +352,9 @@
   }
 
   /* ── Browse section — one framed container so HSK chips,
-        family headings, and category lists all read as a single context. */
+        family headings, and category lists all read as a single context.
+        (Legacy: only present if #browse markup is reintroduced. The current
+        homepage uses .families-section below instead.) */
   .browse-section {
     margin-bottom: 4rem;
     padding: 2rem 2rem 1.75rem;
@@ -371,6 +373,48 @@
   }
   .browse-panel .section-eyebrow { margin-top: 0; }
   .browse-panel .section-sub { margin-bottom: 1.4rem; }
+
+  /* ── Families section — three-card hub on the homepage,
+        the entry point into the dedicated family-index pages. */
+  .families-section {
+    margin-bottom: 4rem;
+    padding: 2rem 2rem 1.75rem;
+    background: var(--papyrus-2);
+    border: 1px solid var(--rule);
+    border-radius: var(--radius-lg);
+    box-shadow: 0 1px 0 rgba(28,18,8,0.03), 0 8px 28px rgba(28,18,8,0.04);
+    scroll-margin-top: calc(var(--nav-h) + 1rem);
+  }
+  .families-panel { padding: 0; margin-bottom: 1.4rem; }
+  .families-panel .section-eyebrow { margin-top: 0; }
+  .families-panel .section-sub { margin: 0.4rem 0 0; max-width: 60ch; }
+
+  /* Use the .family-card / .families-grid styles defined in style.css —
+     they're shared with the family-index pages. Override only for
+     homepage rhythm (a slightly tighter card height feels right above
+     the longer body). */
+  .families-section .family-card { min-height: 220px; }
+  .families-section .family-card-art { height: 130px; }
+
+  .families-foot {
+    margin-top: 1.4rem;
+    padding-top: 1rem;
+    border-top: 1px dashed var(--rule);
+    display: flex; justify-content: center;
+  }
+  .families-master-link {
+    display: inline-flex; align-items: baseline; gap: 0.5rem;
+    text-decoration: none;
+    color: var(--ink-3);
+    font-size: 0.92rem;
+    padding: 0.35rem 0.75rem;
+    border-radius: var(--radius);
+    transition: background 0.15s, color 0.15s;
+  }
+  .families-master-link:hover { background: var(--papyrus-3); color: var(--ink); }
+  .families-master-link:focus-visible { outline: none; box-shadow: 0 0 0 2px rgba(160,100,40,0.25); }
+  .fml-cn { font-family: var(--font-cn-display); font-weight: 700; font-size: 1.15rem; color: var(--ochre-2); }
+  .fml-en { color: inherit; }
   /* Inner separator between the search chrome and the results below. */
   .browse-panel + .no-results,
   .browse-panel + #categories,

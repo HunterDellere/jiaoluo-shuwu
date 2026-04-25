@@ -458,6 +458,11 @@
 
     const container = document.getElementById("categories");
     const catGroupMap = {};
+    // The Browse section was retired in favor of dedicated family-index pages
+    // (pages/families/*.html). When #categories is absent on the homepage,
+    // skip browse rendering and the expand/collapse controls. Search still
+    // works against the now-empty catGroupMap and emits flat results below.
+    const browseEnabled = Boolean(container);
 
     // Three-family grouping: Language → Topics → Hubs.
     // Divider inserted before the first rendered category of each family.
@@ -483,7 +488,7 @@
       familiesInserted.add(family);
     }
 
-    CAT_ORDER.forEach(key => {
+    if (browseEnabled) CAT_ORDER.forEach(key => {
       const entries = groups[key];
       if (!entries.length) return;
       insertGroupDivider(FAMILY_FOR.get(key));
@@ -666,19 +671,25 @@
       window.setTimeout(() => jumpToHash(window.location.hash), 60);
     }
 
-    document.getElementById("expand-all").addEventListener("click", () => {
+    // Expand/collapse and mobile-toggle controls only exist when the Browse
+    // section is rendered. Null-guard them so the homepage works whether the
+    // Browse section is present (legacy) or replaced by family cards (new).
+    const expandAllBtn = document.getElementById("expand-all");
+    const collapseAllBtn = document.getElementById("collapse-all");
+    const mobileToggleBtn = document.getElementById("mobile-toggle-all");
+    if (expandAllBtn) expandAllBtn.addEventListener("click", () => {
       Object.keys(catGroupMap).forEach(key => {
         const g = catGroupMap[key];
         toggleCategory(key, g.groupEl, g.headEl, true);
       });
     });
-    document.getElementById("collapse-all").addEventListener("click", () => {
+    if (collapseAllBtn) collapseAllBtn.addEventListener("click", () => {
       Object.keys(catGroupMap).forEach(key => {
         const g = catGroupMap[key];
         toggleCategory(key, g.groupEl, g.headEl, false);
       });
     });
-    document.getElementById("mobile-toggle-all").addEventListener("click", function () {
+    if (mobileToggleBtn) mobileToggleBtn.addEventListener("click", function () {
       const anyExpanded = Object.values(catGroupMap).some(g => !g.groupEl.classList.contains("collapsed"));
       Object.keys(catGroupMap).forEach(key => {
         const g = catGroupMap[key];
