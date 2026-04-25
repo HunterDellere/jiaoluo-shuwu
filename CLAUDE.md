@@ -40,8 +40,17 @@ Edit `content/_schema/entry.schema.json` or `content/_schema/tags.json`, then ru
 ### Adding a new category
 1. Add a folder in `content/<newcategory>/`
 2. Add the category slug to `entry.schema.json` → `category.enum`
-3. Add `CATEGORY_META` entry in `index.html`
-4. New pages follow the topic page structure in `content/<category>/<slug>.md` — no new template needed
+3. Add `CATEGORY_META` entry in `scripts/homepage.js` AND `build/lib/family-render.mjs` (kept in sync — single-source-of-truth refactor is a future task)
+4. Add the new category key to the appropriate family member array in `build/lib/family-render.mjs` → `FAMILY_MEMBERS` so it appears on the family-index page
+5. New pages follow the topic page structure in `content/<category>/<slug>.md` — no new template needed
+
+### Adding a new family
+1. Create `content/families/<key>.md` mirroring the existing four (language/topics/collections/explore) — same frontmatter shape with `category: families` and `family: <key>`
+2. Add `<key>` to the schema's `family` enum
+3. Add a `FAMILY_MEMBERS[<key>]` entry and `FAMILY_META[<key>]` in `build/lib/family-render.mjs`
+4. Add hero art + card art for `<key>` in `build/lib/family-art.mjs` following the existing palette pattern
+5. Update the homepage `<section id="explore">` cards to surface the new family if appropriate
+6. Update CSS color rules in `style.css` for `.family-card[data-family="<key>"]` and `.family-hero[data-family="<key>"]`
 
 ---
 
@@ -252,6 +261,27 @@ The build:
 - Author chips as plain `<span class="adj">`. Do **not** wrap them in `<a>` yourself — the linkify pass does that automatically when the chip matches a built page.
 
 **Reverse index:** `data/adj-index.json` (regenerated each build) maps every chip-cn → pages that mention it, with `hasPage`. Surfaced in the admin dashboard under "Relations" with strong (4+ occurrences) and soft (2-3) candidate-page suggestions for promoting chip vocab to first-class entries.
+
+---
+
+## Family-Index Pages
+
+The homepage routes browsers into four dedicated index pages under `pages/families/`:
+
+- **explore.html** — master hub: three large family cards + flat all-categories reference grid
+- **language.html** — Characters / Vocabulary / Grammar
+- **topics.html** — Philosophy / Religion / History / Geography / Culture / Daily / Culinary / Arts / Science
+- **collections.html** — Chengyu / Reading Paths
+
+Source files live at `content/families/<key>.md` with `category: families` and `family: <key>`. Each authored page contains hero markup + three marker comments that the build replaces:
+
+- `<!--FAMILY_HERO_ART-->` → inline SVG hero art (from `build/lib/family-art.mjs`)
+- `<!--FAMILY_CONTENT-->` → per-category sections with entry-card grids (or, on Explore, the three family cards + all-categories reference grid)
+- `<!--FAMILY_CROSSLINKS-->` → bottom-of-page strip linking to the other families + Explore
+
+Renderer: `build/lib/family-render.mjs` (`renderFamilyContent`, `renderFamilyCrosslinks`, `renderFamilyHeroArt`). Member configuration: `FAMILY_MEMBERS` and `FAMILY_META` constants at the top of the same file. Per-category metadata duplicates `scripts/homepage.js` `CATEGORY_META`; if you change one, change the other (single-source-of-truth refactor is a future task).
+
+The legacy `#browse` URL hash on the homepage now redirects to `pages/families/collections.html` via an inline pre-paint script in `index.html`.
 
 ---
 
