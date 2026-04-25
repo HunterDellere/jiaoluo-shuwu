@@ -1,5 +1,24 @@
 [
   {
+    "path": "pages/characters/lu4_路.html",
+    "type": "character",
+    "category": "characters",
+    "title": "路 · road, path, route",
+    "desc": "The walked road, where 道 is the navigated way: 路 is the surface beneath the foot, the route the messenger takes, the journey of a life measured in distance.",
+    "tags": [
+      "path",
+      "directions",
+      "movement"
+    ],
+    "status": "complete",
+    "char": "路",
+    "pinyin": "lù",
+    "tone": 4,
+    "hsk": 2,
+    "radical": "足",
+    "updated": "2026-04-25"
+  },
+  {
     "path": "pages/families/collections.html",
     "type": "topic",
     "category": "families",
@@ -49,6 +68,21 @@
     ],
     "status": "complete",
     "pinyin": "huàtí",
+    "updated": "2026-04-25"
+  },
+  {
+    "path": "pages/grammar/zhe_particle_呢.html",
+    "type": "grammar",
+    "category": "grammar",
+    "title": "呢 · the continuation and reciprocal-question particle",
+    "desc": "The particle that turns a finished sentence into an open conversation: softens questions, returns them to the asker, and lets a state hang in the air.",
+    "tags": [
+      "particle",
+      "pragmatics",
+      "spoken"
+    ],
+    "status": "complete",
+    "pinyin": "ne",
     "updated": "2026-04-25"
   },
   {

@@ -3,10 +3,11 @@
     "cn": "道",
     "py": "dào",
     "en": "the Way; path; principle",
-    "count": 8,
+    "count": 9,
     "appearsOn": [
       "pages/characters/bian4_变.html",
       "pages/characters/fo2_佛.html",
+      "pages/characters/lu4_路.html",
       "pages/philosophy/topic_yijing.html",
       "pages/science/topic_wuxing.html",
       "pages/vocab/daode_道德.html",
@@ -224,6 +225,20 @@
     ],
     "hasPage": true
   },
+  "着": {
+    "cn": "着",
+    "py": "zhe",
+    "en": "ongoing state aspect marker",
+    "count": 5,
+    "appearsOn": [
+      "pages/characters/zai4_在.html",
+      "pages/grammar/de_的得地.html",
+      "pages/grammar/guo_过.html",
+      "pages/grammar/le_了.html",
+      "pages/grammar/zhe_particle_呢.html"
+    ],
+    "hasPage": true
+  },
   "智": {
     "cn": "智",
     "py": "zhì",
@@ -274,6 +289,19 @@
       "pages/characters/shang4_上.html",
       "pages/characters/xia4_下.html",
       "pages/characters/zou3_走.html"
+    ],
+    "hasPage": true
+  },
+  "了": {
+    "cn": "了",
+    "py": "le",
+    "en": "aspect / change-of-state particle",
+    "count": 4,
+    "appearsOn": [
+      "pages/grammar/de_的得地.html",
+      "pages/grammar/guo_过.html",
+      "pages/grammar/zhe_particle_呢.html",
+      "pages/grammar/zhe_着.html"
     ],
     "hasPage": true
   },
@@ -407,16 +435,16 @@
     ],
     "hasPage": true
   },
-  "着": {
-    "cn": "着",
-    "py": "zhe",
-    "en": "ongoing state aspect marker",
+  "在": {
+    "cn": "在",
+    "py": "zài",
+    "en": "progressive",
     "count": 4,
     "appearsOn": [
-      "pages/characters/zai4_在.html",
-      "pages/grammar/de_的得地.html",
       "pages/grammar/guo_过.html",
-      "pages/grammar/le_了.html"
+      "pages/grammar/yibian_yibian_一边一边.html",
+      "pages/grammar/zhe_particle_呢.html",
+      "pages/grammar/zhe_着.html"
     ],
     "hasPage": true
   },
@@ -553,6 +581,18 @@
     ],
     "hasPage": true
   },
+  "脚": {
+    "cn": "脚",
+    "py": "jiǎo",
+    "en": "foot",
+    "count": 3,
+    "appearsOn": [
+      "pages/characters/lu4_路.html",
+      "pages/characters/shou3_手.html",
+      "pages/characters/zou3_走.html"
+    ],
+    "hasPage": false
+  },
   "空": {
     "cn": "空",
     "py": "kōng",
@@ -564,18 +604,6 @@
       "pages/religion/topic_fojiao.html"
     ],
     "hasPage": false
-  },
-  "了": {
-    "cn": "了",
-    "py": "le",
-    "en": "aspect / change-of-state particle",
-    "count": 3,
-    "appearsOn": [
-      "pages/grammar/de_的得地.html",
-      "pages/grammar/guo_过.html",
-      "pages/grammar/zhe_着.html"
-    ],
-    "hasPage": true
   },
   "雷": {
     "cn": "雷",
@@ -733,17 +761,17 @@
     ],
     "hasPage": false
   },
-  "在": {
-    "cn": "在",
-    "py": "zài",
-    "en": "progressive",
+  "正在": {
+    "cn": "正在",
+    "py": "zhèngzài",
+    "en": "right in the middle of (emphatic progressive)",
     "count": 3,
     "appearsOn": [
-      "pages/grammar/guo_过.html",
-      "pages/grammar/yibian_yibian_一边一边.html",
+      "pages/characters/zai4_在.html",
+      "pages/grammar/zhe_particle_呢.html",
       "pages/grammar/zhe_着.html"
     ],
-    "hasPage": true
+    "hasPage": false
   },
   "只要…就": {
     "cn": "只要…就",
@@ -768,6 +796,18 @@
       "pages/vocab/putonghua_普通话.html"
     ],
     "hasPage": false
+  },
+  "走": {
+    "cn": "走",
+    "py": "zǒu",
+    "en": "to walk; to go",
+    "count": 3,
+    "appearsOn": [
+      "pages/characters/lu4_路.html",
+      "pages/characters/qu4_去.html",
+      "pages/grammar/directional_来去.html"
+    ],
+    "hasPage": true
   },
   "爱好": {
     "cn": "爱好",
@@ -1363,17 +1403,6 @@
     ],
     "hasPage": false
   },
-  "脚": {
-    "cn": "脚",
-    "py": "jiǎo",
-    "en": "foot",
-    "count": 2,
-    "appearsOn": [
-      "pages/characters/shou3_手.html",
-      "pages/characters/zou3_走.html"
-    ],
-    "hasPage": false
-  },
   "叫": {
     "cn": "叫",
     "py": "jiào",
@@ -1537,7 +1566,7 @@
       "pages/characters/dao4_道.html",
       "pages/characters/zou3_走.html"
     ],
-    "hasPage": false
+    "hasPage": true
   },
   "马上": {
     "cn": "马上",
@@ -1614,7 +1643,7 @@
       "pages/grammar/le_了.html",
       "pages/grammar/zhe_着.html"
     ],
-    "hasPage": false
+    "hasPage": true
   },
   "涅槃": {
     "cn": "涅槃",
@@ -2309,17 +2338,6 @@
     ],
     "hasPage": false
   },
-  "正在": {
-    "cn": "正在",
-    "py": "zhèngzài",
-    "en": "right in the middle of (emphatic progressive)",
-    "count": 2,
-    "appearsOn": [
-      "pages/characters/zai4_在.html",
-      "pages/grammar/zhe_着.html"
-    ],
-    "hasPage": false
-  },
   "知识": {
     "cn": "知识",
     "py": "zhīshi",
@@ -2375,17 +2393,6 @@
     ],
     "hasPage": true
   },
-  "走": {
-    "cn": "走",
-    "py": "zǒu",
-    "en": "to walk; to leave",
-    "count": 2,
-    "appearsOn": [
-      "pages/characters/qu4_去.html",
-      "pages/grammar/directional_来去.html"
-    ],
-    "hasPage": true
-  },
   "祖先": {
     "cn": "祖先",
     "py": "zǔxiān",
@@ -2394,6 +2401,16 @@
     "appearsOn": [
       "pages/characters/li3_礼.html",
       "pages/religion/topic_zuxian.html"
+    ],
+    "hasPage": false
+  },
+  "啊": {
+    "cn": "啊",
+    "py": "a",
+    "en": "emotional / exclamatory particle",
+    "count": 1,
+    "appearsOn": [
+      "pages/grammar/zhe_particle_呢.html"
     ],
     "hasPage": false
   },
@@ -2486,6 +2503,16 @@
       "pages/grammar/ba_把.html"
     ],
     "hasPage": false
+  },
+  "吧": {
+    "cn": "吧",
+    "py": "ba",
+    "en": "suggestion / confirmation particle",
+    "count": 1,
+    "appearsOn": [
+      "pages/grammar/zhe_particle_呢.html"
+    ],
+    "hasPage": true
   },
   "白": {
     "cn": "白",
@@ -3637,6 +3664,16 @@
     ],
     "hasPage": true
   },
+  "道路": {
+    "cn": "道路",
+    "py": "dàolù",
+    "en": "road; path (compound)",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/lu4_路.html"
+    ],
+    "hasPage": false
+  },
   "道上的人": {
     "cn": "道上的人",
     "py": "dào shàng de rén",
@@ -4474,6 +4511,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/qian2_钱.html"
+    ],
+    "hasPage": false
+  },
+  "公路": {
+    "cn": "公路",
+    "py": "gōnglù",
+    "en": "highway, public road",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/lu4_路.html"
     ],
     "hasPage": false
   },
@@ -5567,6 +5614,16 @@
     ],
     "hasPage": false
   },
+  "街": {
+    "cn": "街",
+    "py": "jiē",
+    "en": "street (urban, often with shops)",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/lu4_路.html"
+    ],
+    "hasPage": false
+  },
   "节令": {
     "cn": "节令",
     "py": "jiélìng",
@@ -6587,6 +6644,26 @@
     ],
     "hasPage": false
   },
+  "吗": {
+    "cn": "吗",
+    "py": "ma",
+    "en": "yes/no question particle",
+    "count": 1,
+    "appearsOn": [
+      "pages/grammar/zhe_particle_呢.html"
+    ],
+    "hasPage": false
+  },
+  "嘛": {
+    "cn": "嘛",
+    "py": "ma",
+    "en": "\"as you know\" particle",
+    "count": 1,
+    "appearsOn": [
+      "pages/grammar/zhe_particle_呢.html"
+    ],
+    "hasPage": false
+  },
   "满族": {
     "cn": "满族",
     "py": "Mǎnzú",
@@ -7357,6 +7434,16 @@
     ],
     "hasPage": false
   },
+  "轻声": {
+    "cn": "轻声",
+    "py": "qīngshēng",
+    "en": "neutral tone",
+    "count": 1,
+    "appearsOn": [
+      "pages/grammar/zhe_particle_呢.html"
+    ],
+    "hasPage": false
+  },
   "清楚": {
     "cn": "清楚",
     "py": "qīngchǔ",
@@ -7804,6 +7891,16 @@
     "count": 1,
     "appearsOn": [
       "pages/vocab/fengshui_风水.html"
+    ],
+    "hasPage": false
+  },
+  "山路": {
+    "cn": "山路",
+    "py": "shānlù",
+    "en": "mountain path",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/lu4_路.html"
     ],
     "hasPage": false
   },
@@ -8507,6 +8604,16 @@
     ],
     "hasPage": true
   },
+  "思路": {
+    "cn": "思路",
+    "py": "sīlù",
+    "en": "train of thought",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/lu4_路.html"
+    ],
+    "hasPage": false
+  },
   "死": {
     "cn": "死",
     "py": "sǐ",
@@ -8514,6 +8621,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/sheng1_生.html"
+    ],
+    "hasPage": false
+  },
+  "死路": {
+    "cn": "死路",
+    "py": "sǐlù",
+    "en": "dead end (lit. and fig.)",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/lu4_路.html"
     ],
     "hasPage": false
   },
@@ -8834,6 +8951,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/jin1_金.html"
+    ],
+    "hasPage": false
+  },
+  "铁路": {
+    "cn": "铁路",
+    "py": "tiělù",
+    "en": "railway",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/lu4_路.html"
     ],
     "hasPage": false
   },
@@ -9534,6 +9661,16 @@
     "count": 1,
     "appearsOn": [
       "pages/history/topic_gaige.html"
+    ],
+    "hasPage": false
+  },
+  "线路": {
+    "cn": "线路",
+    "py": "xiànlù",
+    "en": "route, line, circuit",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/lu4_路.html"
     ],
     "hasPage": false
   },
@@ -10707,6 +10844,16 @@
     ],
     "hasPage": false
   },
+  "语气词": {
+    "cn": "语气词",
+    "py": "yǔqìcí",
+    "en": "modal particle",
+    "count": 1,
+    "appearsOn": [
+      "pages/grammar/zhe_particle_呢.html"
+    ],
+    "hasPage": false
+  },
   "语义": {
     "cn": "语义",
     "py": "yǔyì",
@@ -11704,6 +11851,16 @@
     "count": 1,
     "appearsOn": [
       "pages/history/topic_wenge.html"
+    ],
+    "hasPage": false
+  },
+  "足": {
+    "cn": "足",
+    "py": "zú",
+    "en": "foot (the radical of 路)",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/lu4_路.html"
     ],
     "hasPage": false
   },

@@ -6,7 +6,15 @@
     <atom:link href="https://jiaoshoo.com/feed.xml" rel="self" type="application/rss+xml" />
     <description>Notes on Chinese language and civilisation — characters, vocabulary, grammar, history, philosophy, and the world they shaped.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 25 Apr 2026 15:27:38 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Apr 2026 18:10:32 GMT</lastBuildDate>
+    <item>
+      <title>路 · road, path, route</title>
+      <link>https://jiaoshoo.com/pages/characters/lu4_路.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/lu4_路.html</guid>
+      <pubDate>Sat, 25 Apr 2026 00:00:00 GMT</pubDate>
+      <description>The walked road, where 道 is the navigated way: 路 is the surface beneath the foot, the route the messenger takes, the journey of a life measured in distance.</description>
+      <category>characters</category>
+    </item>
     <item>
       <title>集锦 · Collections</title>
       <link>https://jiaoshoo.com/pages/families/collections.html</link>
@@ -38,6 +46,14 @@
       <pubDate>Sat, 25 Apr 2026 00:00:00 GMT</pubDate>
       <description>Thought, place, time, lived life. What the Chinese language is used to say.</description>
       <category>families</category>
+    </item>
+    <item>
+      <title>呢 · the continuation and reciprocal-question particle</title>
+      <link>https://jiaoshoo.com/pages/grammar/zhe_particle_呢.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/grammar/zhe_particle_呢.html</guid>
+      <pubDate>Sat, 25 Apr 2026 00:00:00 GMT</pubDate>
+      <description>The particle that turns a finished sentence into an open conversation: softens questions, returns them to the asker, and lets a state hang in the air.</description>
+      <category>grammar</category>
     </item>
     <item>
       <title>风 · wind; style; custom</title>
@@ -230,22 +246,6 @@
       <pubDate>Wed, 22 Apr 2026 00:00:00 GMT</pubDate>
       <description>Chinese literature is not a sequence of styles that replaced each other. It is an accumulation. This path follows the layering forward in time.</description>
       <category>hubs</category>
-    </item>
-    <item>
-      <title>宗教地图 · The Religious Map — A Reading Path</title>
-      <link>https://jiaoshoo.com/pages/hubs/zongjiao.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/hubs/zongjiao.html</guid>
-      <pubDate>Wed, 22 Apr 2026 00:00:00 GMT</pubDate>
-      <description>Chinese religiosity doesn&apos;t fit Western categories. Most people practice elements of Confucianism, Daoism, Buddhism, folk religion, and ancestor veneration simultaneously — a map of how these traditions relate.</description>
-      <category>hubs</category>
-    </item>
-    <item>
-      <title>自然 · nature; natural; of course</title>
-      <link>https://jiaoshoo.com/pages/vocab/ziran_自然.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/vocab/ziran_自然.html</guid>
-      <pubDate>Wed, 22 Apr 2026 00:00:00 GMT</pubDate>
-      <description>Laozi placed 自然 at the center of his cosmology: the Way models itself on what is so of itself — no outside force required.</description>
-      <category>vocab</category>
     </item>
   </channel>
 </rss>
