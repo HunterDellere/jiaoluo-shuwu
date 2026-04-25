@@ -1412,10 +1412,16 @@ tbody tr:hover td { background: var(--papyrus-2); }
   font-size: 0.82rem;
   line-height: 1.5;
   cursor: default;
+}
+/* Linked chips (those whose .a-cn matches a built page) get the affordances:
+   pointer cursor, hover/focus styling, and a transition. Non-linked chips
+   are deliberately inert — no hover, no pointer — so the cursor doesn't
+   imply interactivity that isn't there. */
+a.adj {
+  cursor: pointer;
+  text-decoration: none;
   transition: border-color 0.15s, background 0.15s;
 }
-a.adj { cursor: pointer; text-decoration: none; }
-.adj:hover { border-color: var(--ochre); background: var(--papyrus-3); }
 a.adj:hover { border-color: var(--red); background: var(--papyrus-3); }
 a.adj:focus-visible { outline: none; border-color: var(--ochre); box-shadow: 0 0 0 2px rgba(160,100,40,0.25); }
 .a-cn { font-family: var(--font-cn); font-weight: 600; color: var(--ink); }
