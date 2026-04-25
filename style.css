@@ -1769,14 +1769,9 @@ a.pf-btn-share:focus-visible, button.pf-btn-share:focus-visible {
   border-radius: var(--radius-lg);
   margin-bottom: 2.5rem;
 }
-.family-hero-art {
-  position: absolute;
-  inset: 0;
-  pointer-events: none;
-  opacity: 0.55;
-}
-.family-hero-svg { width: 100%; height: 100%; display: block; }
-.family-hero-meta { position: relative; z-index: 1; max-width: 540px; }
+/* Hero is text-only — no background art. The hero card relies on the
+   eyebrow + h1 + desc + the category color border-top for visual weight. */
+.family-hero-meta { max-width: 640px; }
 .family-hero[data-family="language"]    { border-top: 3px solid var(--cat-grammar); }
 .family-hero[data-family="topics"]      { border-top: 3px solid var(--cat-philosophy); }
 .family-hero[data-family="collections"] { border-top: 3px solid var(--cat-chengyu); }
@@ -2100,9 +2095,6 @@ a.pf-btn-share:focus-visible, button.pf-btn-share:focus-visible {
 @media (max-width: 720px) {
   .family-hero { padding: 1.6rem 1.2rem 1.4rem; }
   .family-hero-meta { max-width: 100%; }
-  /* Fade the hero art on narrow viewports so the meta text wraps cleanly
-     across the full width without competing with the watermark glyph. */
-  .family-hero-art { opacity: 0.35; }
   .family-card { min-height: 200px; }
   .family-card-art { height: 110px; }
   .families-grid, .family-crosslinks { grid-template-columns: 1fr; }

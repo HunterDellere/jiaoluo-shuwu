@@ -19,7 +19,7 @@ import { buildRelations, buildAdjacency, renderRelatedHtml, renderAdjacencyHtml 
 import { renderHskBody } from './lib/hsk.mjs';
 import { injectStrokeOrder, buildLinkMap, autoLinkBody, addPinyinAudio, buildPageFooter, renderSourcesHtml, ensureMainContentId, buildChipLinkMap, linkifyAdjChips } from './lib/augment.mjs';
 import { buildAdjIndex } from './lib/adj-index.mjs';
-import { renderFamilyContent, renderFamilyCrosslinks, renderFamilyHeroArt } from './lib/family-render.mjs';
+import { renderFamilyContent, renderFamilyCrosslinks } from './lib/family-render.mjs';
 import { renderOgSvg, categoryFaviconDataUri } from './lib/og.mjs';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
@@ -527,8 +527,9 @@ for (const { fm, body, slug, category, outDir, entry } of pending) {
     // disturbed. (Family pages are themselves status: complete and will
     // pass through the rest of the pipeline normally.)
     if (fm.family && augmentedBody.includes('<!--FAMILY_CONTENT-->')) {
+      // Family hero is text-only — no decorative art layer behind the meta
+      // block. Card art for family-cards (familyCardArt) is unaffected.
       augmentedBody = augmentedBody
-        .replace('<!--FAMILY_HERO_ART-->',   renderFamilyHeroArt(fm.family))
         .replace('<!--FAMILY_CONTENT-->',    renderFamilyContent(fm.family, entries))
         .replace('<!--FAMILY_CROSSLINKS-->', renderFamilyCrosslinks(fm.family));
     }

@@ -17,16 +17,17 @@
  * to FAMILY_MEMBERS, FAMILY_META, and create content/families/<key>.md.
  *
  * Output is injected into family pages by build.mjs via marker replacement:
- *   <!--FAMILY_HERO_ART-->   → renderFamilyHeroArt(family)
  *   <!--FAMILY_CONTENT-->    → renderFamilyContent(family, entries)
- *   <!--FAMILY_CROSSLINKS--> → renderFamilyCrosslinks(family)
+ *   <!--FAMILY_CROSSLINKS--> → renderFamilyCrosslinks(family) (currently no-op)
+ *
+ * The family hero is text-only — there's no decorative art behind the meta
+ * block. Card art (familyCardArt below) is still used for the small cards
+ * on the homepage hub, the Explore page, and any future surfaces.
  */
 
 import { readFileSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
 import { dirname, join } from 'node:path';
-
-import { renderFamilyHeroArt } from './family-art.mjs';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const ROOT = join(__dirname, '..', '..');
@@ -286,12 +287,8 @@ export function renderFamilyCrosslinks(family) {
 
 // ── re-exports & art accessors ─────────────────────────────────────────────
 
-export { renderFamilyHeroArt };
-
 /**
- * SVG art for a family-card (smaller variant used on Explore + crosslinks
- * + homepage 3-card hub). Keep these compact — full hero art lives in
- * family-art.mjs and is used inline in the family page hero.
+ * SVG art for a family-card (used on Explore + the homepage 3-card hub).
  */
 import { familyCardArt } from './family-art.mjs';
 export { familyCardArt };
