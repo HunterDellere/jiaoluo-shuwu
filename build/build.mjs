@@ -19,6 +19,7 @@ import { buildRelations, buildAdjacency, renderRelatedHtml, renderAdjacencyHtml 
 import { renderHskBody } from './lib/hsk.mjs';
 import { injectStrokeOrder, buildLinkMap, autoLinkBody, addPinyinAudio, buildPageFooter, renderSourcesHtml, ensureMainContentId, buildChipLinkMap, linkifyAdjChips } from './lib/augment.mjs';
 import { buildAdjIndex } from './lib/adj-index.mjs';
+import { renderFamilyContent, renderFamilyCrosslinks, renderFamilyHeroArt } from './lib/family-render.mjs';
 import { renderOgSvg, categoryFaviconDataUri } from './lib/og.mjs';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
@@ -517,6 +518,19 @@ for (const { fm, body, slug, category, outDir, entry } of pending) {
           `$1\n        <ul class="toc-sublist">\n        ${sidebarListHtml}\n        </ul>`
         );
       }
+    }
+
+    // Family-index pages: replace marker comments with rendered art / grids /
+    // crosslinks. Family pages live under content/families/<key>.md and
+    // declare `family` in frontmatter; we run before status === 'complete'
+    // augmentations so their entry-cards and other autolinks aren't
+    // disturbed. (Family pages are themselves status: complete and will
+    // pass through the rest of the pipeline normally.)
+    if (fm.family && augmentedBody.includes('<!--FAMILY_CONTENT-->')) {
+      augmentedBody = augmentedBody
+        .replace('<!--FAMILY_HERO_ART-->',   renderFamilyHeroArt(fm.family))
+        .replace('<!--FAMILY_CONTENT-->',    renderFamilyContent(fm.family, entries))
+        .replace('<!--FAMILY_CROSSLINKS-->', renderFamilyCrosslinks(fm.family));
     }
 
     if (entry.status === 'complete') {

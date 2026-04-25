@@ -88,7 +88,39 @@
 
     <header class="topic-hero family-hero family-hero-topics" data-family="topics">
       <div class="family-hero-art" aria-hidden="true">
-        <!--FAMILY_HERO_ART-->
+        <svg class="family-hero-svg" viewBox="0 0 800 280" preserveAspectRatio="xMidYMid slice"
+              xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Topics family illustration">
+    <text x="78%" y="68%" text-anchor="middle" dominant-baseline="middle"
+       font-family="LXGW WenKai TC, Noto Serif SC, serif"
+       font-size="320" font-weight="700"
+       fill="var(--cat-philosophy)" opacity="0.07"
+       style="letter-spacing: -0.02em">话</text>
+    <g transform="translate(170, 140)">
+      <circle r="78" fill="none" stroke="var(--cat-philosophy)" stroke-width="1.4" opacity="0.55"/>
+      <circle r="58" fill="none" stroke="var(--cat-philosophy)" stroke-width="0.8" opacity="0.32"/>
+      <circle r="38" fill="none" stroke="var(--cat-history)" stroke-width="0.8" opacity="0.45"/>
+      <circle r="3" fill="var(--cat-history)" opacity="0.85"/>
+      <!-- 4 compass points -->
+      <line x1="0" y1="-78" x2="0" y2="-58" stroke="var(--cat-philosophy)" stroke-width="1.6"/>
+      <line x1="0" y1="58"  x2="0" y2="78"  stroke="var(--cat-philosophy)" stroke-width="1.6"/>
+      <line x1="-78" y1="0" x2="-58" y2="0" stroke="var(--cat-philosophy)" stroke-width="1.6"/>
+      <line x1="58" y1="0"  x2="78" y2="0"  stroke="var(--cat-philosophy)" stroke-width="1.6"/>
+      <!-- 4 diagonal points (smaller) -->
+      <line x1="-55" y1="-55" x2="-41" y2="-41" stroke="var(--cat-history)" stroke-width="1" opacity="0.6"/>
+      <line x1="55" y1="-55"  x2="41" y2="-41"  stroke="var(--cat-history)" stroke-width="1" opacity="0.6"/>
+      <line x1="-55" y1="55"  x2="-41" y2="41"  stroke="var(--cat-history)" stroke-width="1" opacity="0.6"/>
+      <line x1="55" y1="55"   x2="41" y2="41"   stroke="var(--cat-history)" stroke-width="1" opacity="0.6"/>
+      <!-- compass needle -->
+      <polygon points="0,-72 6,0 0,72 -6,0" fill="var(--cat-history)" opacity="0.78"/>
+      <text x="0" y="-90" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="11" letter-spacing="0.22em" fill="var(--cat-philosophy)" opacity="0.55">N</text>
+    </g>
+    <!-- horizon line -->
+    <line x1="280" y1="180" x2="540" y2="180" stroke="var(--cat-philosophy)" stroke-width="0.9" opacity="0.45"/>
+    <line x1="320" y1="200" x2="500" y2="200" stroke="var(--cat-philosophy)" stroke-width="0.6" opacity="0.28"/>
+    <!-- two tiny mountains -->
+    <path d="M 360 180 L 380 158 L 398 180 Z" fill="none" stroke="var(--cat-history)" stroke-width="1.2" opacity="0.6"/>
+    <path d="M 420 180 L 450 144 L 478 180 Z" fill="none" stroke="var(--cat-history)" stroke-width="1.2" opacity="0.6"/>
+  </svg>
       </div>
       <div class="family-hero-meta">
         <span class="topic-hero-eyebrow">话题 huàtí · Family</span>
@@ -99,9 +131,281 @@
       </div>
     </header>
 
-    <!--FAMILY_CONTENT-->
+    
+    <div class="fam-intro">
+      <span class="fam-intro-stat">106 entries · 9 categories</span>
+      <p class="fam-intro-text">Thought, place, time, lived life — what the language is used to say.</p>
+    </div>
+    <section class="cat-group fam-cat-group" id="cat-philosophy" data-category="philosophy">
+      <div class="cat-head fam-cat-head">
+        <span class="sh-cn" style="color: var(--cat-philosophy)"><a class="auto-link" href="../hubs/zhexue.html">哲学</a></span>
+        <span class="sh-py">zhéxué</span>
+        <span class="sh-en">Philosophy</span>
+        <span class="sh-rule"></span>
+        <span class="cat-count">11 entries</span>
+      </div>
+      <p class="fam-cat-desc">The hundred schools and what they argued about.</p>
+      <div class="entry-grid">
+        <a class="entry-card" href="../philosophy/topic_kongzi.html" data-category="philosophy"><span class="entry-glyph glyph-2">孔子</span><span class="entry-pinyin">kǒngzǐ</span><span class="entry-title">Confucius</span><span class="entry-desc">His life, the Analects 论语, and the civilization he shaped.</span></a>
+        <a class="entry-card" href="../philosophy/topic_mengzi.html" data-category="philosophy"><span class="entry-glyph glyph-2">孟子</span><span class="entry-pinyin">mèngzǐ</span><span class="entry-title">Mencius</span><span class="entry-desc">Human nature as inherently good — the sprouts of virtue.</span></a>
+        <a class="entry-card" href="../philosophy/topic_zhuangzi.html" data-category="philosophy"><span class="entry-glyph glyph-2">庄子</span><span class="entry-pinyin">zhuāngzǐ</span><span class="entry-title">Zhuangzi</span><span class="entry-desc">The butterfly dream, Cook Ding, and Daoist freedom from convention.</span></a>
+        <a class="entry-card" href="../philosophy/topic_xinxue.html" data-category="philosophy"><span class="entry-glyph glyph-2">心学</span><span class="entry-pinyin">xīnxué</span><span class="entry-title">Wang Yangming</span><span class="entry-desc">Innate knowing 良知 and the unity of knowledge and action.</span></a>
+        <a class="entry-card" href="../philosophy/topic_yijing.html" data-category="philosophy"><span class="entry-glyph glyph-2">易经</span><span class="entry-pinyin">yì jīng</span><span class="entry-title">The Book of Changes</span><span class="entry-desc">The oldest and most cryptic of the Chinese classics — a manual of divination, a philosophy of change, and a map of the universe encoded in 64 hexagrams.</span></a>
+        <a class="entry-card" href="../philosophy/topic_fajia.html" data-category="philosophy"><span class="entry-glyph glyph-2">法家</span><span class="entry-pinyin">fǎjiā</span><span class="entry-title">Legalism</span><span class="entry-desc">Han Feizi, statecraft, and the realpolitik that unified China.</span></a>
+        <a class="entry-card" href="../philosophy/topic_lixue.html" data-category="philosophy"><span class="entry-glyph glyph-2">理学</span><span class="entry-pinyin">lǐxué</span><span class="entry-title">Neo-Confucianism</span><span class="entry-desc">Zhu Xi, the Great Ultimate 太极, and the Song-Ming synthesis.</span></a>
+        <a class="entry-card" href="../philosophy/topic_laozi.html" data-category="philosophy"><span class="entry-glyph glyph-2">老子</span><span class="entry-pinyin">lǎozǐ</span><span class="entry-title">Laozi &amp; the Daodejing</span><span class="entry-desc">The 81 chapters, wu wei 无为, and the paradox at the heart of Daoist thought.</span></a>
+        <a class="entry-card" href="../philosophy/topic_xunzi.html" data-category="philosophy"><span class="entry-glyph glyph-2">荀子</span><span class="entry-pinyin">xúnzǐ</span><span class="entry-title">Xunzi</span><span class="entry-desc">Human nature as bad — ritual and education as correction.</span></a>
+        <a class="entry-card" href="../philosophy/topic_yinyang_wuxing.html" data-category="philosophy"><span class="entry-glyph glyph-4">阴阳五行</span><span class="entry-pinyin">yīnyáng wǔxíng</span><span class="entry-title">Yin-Yang and the Five Phases</span><span class="entry-desc">The cosmological engine of classical thought — correspondence, resonance, and transformation.</span></a>
+        <a class="entry-card" href="../philosophy/topic_mojia.html" data-category="philosophy"><span class="entry-glyph glyph-2">墨家</span><span class="entry-pinyin">mòjiā</span><span class="entry-title">Mohism</span><span class="entry-desc">Universal love, anti-war, and the utilitarian logic China nearly chose.</span></a>
+      </div>
+    </section>
 
-    <!--FAMILY_CROSSLINKS-->
+    <section class="cat-group fam-cat-group" id="cat-religion" data-category="religion">
+      <div class="cat-head fam-cat-head">
+        <span class="sh-cn" style="color: var(--cat-religion)">宗教</span>
+        <span class="sh-py">zōngjiào</span>
+        <span class="sh-en">Religion</span>
+        <span class="sh-rule"></span>
+        <span class="cat-count">10 entries</span>
+      </div>
+      <p class="fam-cat-desc">Buddhism, Daoism, folk practice, ancestor rites.</p>
+      <div class="entry-grid">
+        <a class="entry-card" href="../religion/topic_yisilan.html" data-category="religion"><span class="entry-glyph glyph-4">伊斯兰教</span><span class="entry-pinyin">yīsīlán jiào</span><span class="entry-title">Islam in China</span><span class="entry-desc">Hui Muslims, Uyghur traditions, and 1400 years of Islamic presence.</span></a>
+        <a class="entry-card" href="../religion/topic_fojiao.html" data-category="religion"><span class="entry-glyph glyph-2">佛教</span><span class="entry-pinyin">fójiào</span><span class="entry-title">Buddhism in China</span><span class="entry-desc">Two thousand years of transmission, transformation, and sinicization.</span></a>
+        <a class="entry-card" href="../religion/topic_rujia.html" data-category="religion"><span class="entry-glyph glyph-2">儒家</span><span class="entry-pinyin">rújiā</span><span class="entry-title">Confucianism</span><span class="entry-desc">The school of the ru — ritual, hierarchy, and moral cultivation as state religion.</span></a>
+        <a class="entry-card" href="../religion/topic_jingtu.html" data-category="religion"><span class="entry-glyph glyph-3">净土宗</span><span class="entry-pinyin">jìngtǔ zōng</span><span class="entry-title">Pure Land</span><span class="entry-desc">Faith, Amitabha, and the Western Paradise: the most widely practiced Buddhism in China.</span></a>
+        <a class="entry-card" href="../religion/topic_mazu.html" data-category="religion"><span class="entry-glyph glyph-2">妈祖</span><span class="entry-pinyin">māzǔ</span><span class="entry-title">the Sea Goddess</span><span class="entry-desc">Coastal goddess of sailors, fishermen, and the overseas Chinese diaspora.</span></a>
+        <a class="entry-card" href="../religion/topic_minjian.html" data-category="religion"><span class="entry-glyph glyph-4">民间信仰</span><span class="entry-pinyin">mínjiān xìnyǎng</span><span class="entry-title">Folk Religion</span><span class="entry-desc">Kitchen gods, city gods, and the living popular religion beneath Buddhism and Daoism.</span></a>
+        <a class="entry-card" href="../religion/topic_zuxian.html" data-category="religion"><span class="entry-glyph glyph-4">祖先崇拜</span><span class="entry-pinyin">zǔxiān chóngbài</span><span class="entry-title">Ancestor Veneration</span><span class="entry-desc">Tablets, offerings, and the living debt to the dead: the deep continuity of Chinese ancestor veneration.</span></a>
+        <a class="entry-card" href="../religion/topic_chan.html" data-category="religion"><span class="entry-glyph glyph-2">禅宗</span><span class="entry-pinyin">chán zōng</span><span class="entry-title">Chán Buddhism</span><span class="entry-desc">The meditative school that became Japanese Zen — sudden enlightenment and the patriarchs.</span></a>
+        <a class="entry-card" href="../religion/topic_saman.html" data-category="religion"><span class="entry-glyph glyph-3">萨满教</span><span class="entry-pinyin">sàmǎn jiào</span><span class="entry-title">Shamanism</span><span class="entry-desc">Manchu, Mongol, and northern indigenous shamanic traditions.</span></a>
+        <a class="entry-card" href="../religion/topic_daojiao.html" data-category="religion"><span class="entry-glyph glyph-2">道教</span><span class="entry-pinyin">dàojiào</span><span class="entry-title">Daoism</span><span class="entry-desc">Daoism as organized religion — distinct from Daoist philosophy.</span></a>
+      </div>
+    </section>
+
+    <section class="cat-group fam-cat-group" id="cat-history" data-category="history">
+      <div class="cat-head fam-cat-head">
+        <span class="sh-cn" style="color: var(--cat-history)">历史</span>
+        <span class="sh-py">lìshǐ</span>
+        <span class="sh-en">History</span>
+        <span class="sh-rule"></span>
+        <span class="cat-count">15 entries</span>
+      </div>
+      <p class="fam-cat-desc">Dynasties, ruptures, and the long arc.</p>
+      <div class="entry-grid">
+        <a class="entry-card" href="../history/topic_yuanchao.html" data-category="history"><span class="entry-glyph glyph-2">元朝</span><span class="entry-pinyin">yuáncháo</span><span class="entry-title">The Yuan Dynasty</span><span class="entry-desc">Kublai Khan, Mongol rule, and China as the center of a world empire.</span></a>
+        <a class="entry-card" href="../history/topic_tangchao.html" data-category="history"><span class="entry-glyph glyph-2">唐朝</span><span class="entry-pinyin">tángcháo</span><span class="entry-title">The Tang Dynasty</span><span class="entry-desc">The cosmopolitan golden age — poetry, Buddhism, and the Silk Road.</span></a>
+        <a class="entry-card" href="../history/topic_xia_shang_zhou.html" data-category="history"><span class="entry-glyph glyph-3">夏商周</span><span class="entry-pinyin">xià shāng zhōu</span><span class="entry-title">The Three Dynasties</span><span class="entry-desc">The legendary and early historical origins of Chinese civilization.</span></a>
+        <a class="entry-card" href="../history/topic_taiping.html" data-category="history"><span class="entry-glyph glyph-4">太平天国</span><span class="entry-pinyin">tàipíng tiānguó</span><span class="entry-title">The Taiping Heavenly Kingdom</span><span class="entry-desc">The millenarian rebellion that killed 20–30 million people and nearly toppled the Qing dynasty — the deadliest civil war in human history.</span></a>
+        <a class="entry-card" href="../history/topic_songchao.html" data-category="history"><span class="entry-glyph glyph-2">宋朝</span><span class="entry-pinyin">sòngcháo</span><span class="entry-title">The Song Dynasty</span><span class="entry-desc">Economic revolution, printing, compass — the dynasty modernity missed.</span></a>
+        <a class="entry-card" href="../history/topic_zhanguo.html" data-category="history"><span class="entry-glyph glyph-4">战国时期</span><span class="entry-pinyin">zhànguó shíqī</span><span class="entry-title">Warring States Period</span><span class="entry-desc">The most chaotic political era in Chinese history was also the condition that produced every major Chinese philosophical tradition. Political fragmentation and intellectual diversity are not separate stories.</span></a>
+        <a class="entry-card" href="../history/topic_gaige.html" data-category="history"><span class="entry-glyph glyph-4">改革开放</span><span class="entry-pinyin">gǎigé kāifàng</span><span class="entry-title">Reform and Opening Up</span><span class="entry-desc">Deng Xiaoping&#39;s 1978 pivot that transformed China from a closed command economy into the world&#39;s second largest economy in four decades.</span></a>
+        <a class="entry-card" href="../history/topic_wenge.html" data-category="history"><span class="entry-glyph glyph-4">文化大革命</span><span class="entry-pinyin">wénhuà dà gémìng</span><span class="entry-title">The Cultural Revolution</span><span class="entry-desc">1966–76: Red Guards, struggle sessions, and the destruction of the past.</span></a>
+        <a class="entry-card" href="../history/topic_mingchao.html" data-category="history"><span class="entry-glyph glyph-2">明朝</span><span class="entry-pinyin">míngcháo</span><span class="entry-title">The Ming Dynasty</span><span class="entry-desc">The Great Wall rebuilt, Zheng He&#39;s voyages, and the inward turn.</span></a>
+        <a class="entry-card" href="../history/topic_chunqiu.html" data-category="history"><span class="entry-glyph glyph-4">春秋时期</span><span class="entry-pinyin">chūnqiū shíqī</span><span class="entry-title">Spring and Autumn Period</span><span class="entry-desc">The age when China named itself through the text that documented it, and a philosopher who failed every audience built the tradition that outlasted every state.</span></a>
+        <a class="entry-card" href="../history/topic_hanchao.html" data-category="history"><span class="entry-glyph glyph-2">汉朝</span><span class="entry-pinyin">hàncháo</span><span class="entry-title">The Han Dynasty</span><span class="entry-desc">Why Chinese call themselves 汉人 — the dynasty that defined the civilization.</span></a>
+        <a class="entry-card" href="../history/topic_qingchao.html" data-category="history"><span class="entry-glyph glyph-2">清朝</span><span class="entry-pinyin">qīngcháo</span><span class="entry-title">The Qing Dynasty</span><span class="entry-desc">Manchu rule, the long peace, and the slow unraveling before 1911.</span></a>
+        <a class="entry-card" href="../history/topic_keju.html" data-category="history"><span class="entry-glyph glyph-2">科举</span><span class="entry-pinyin">kē jǔ</span><span class="entry-title">The Imperial Examination System</span><span class="entry-desc">The exam that governed Chinese civilization for 1,300 years — selecting officials by merit, enshrining the Confucian canon, and shaping every dynasty from the Sui through the Qing.</span></a>
+        <a class="entry-card" href="../history/topic_qin_shihuang.html" data-category="history"><span class="entry-glyph glyph-3">秦始皇</span><span class="entry-pinyin">qín shǐhuáng</span><span class="entry-title">The First Emperor</span><span class="entry-desc">Unification, standardization, and the terror that made China.</span></a>
+        <a class="entry-card" href="../history/topic_xinhai.html" data-category="history"><span class="entry-glyph glyph-4">辛亥革命</span><span class="entry-pinyin">xīnhài gémìng</span><span class="entry-title">The 1911 Revolution</span><span class="entry-desc">The end of empire, Sun Yat-sen, and the birth of the Republic.</span></a>
+      </div>
+    </section>
+
+    <section class="cat-group fam-cat-group" id="cat-geography" data-category="geography">
+      <div class="cat-head fam-cat-head">
+        <span class="sh-cn" style="color: var(--cat-geography)">地理</span>
+        <span class="sh-py">dìlǐ</span>
+        <span class="sh-en">Geography</span>
+        <span class="sh-rule"></span>
+        <span class="cat-count">10 entries</span>
+      </div>
+      <p class="fam-cat-desc">Places, dialects, and the shape of the land.</p>
+      <div class="entry-grid">
+        <a class="entry-card" href="../geography/topic_shanghai.html" data-category="geography"><span class="entry-glyph glyph-2">上海</span><span class="entry-pinyin">Shànghǎi</span><span class="entry-title">Shanghai</span><span class="entry-desc">From fishing village to the most cosmopolitan city in Asia — a port that absorbed empires, reinvented itself three times, and has never quite decided whether it belongs to China or the world.</span></a>
+        <a class="entry-card" href="../geography/topic_caixi_geography.html" data-category="geography"><span class="entry-glyph glyph-4">八大菜系</span><span class="entry-pinyin">Bādà Càixì</span><span class="entry-title">Cuisines as Geography</span><span class="entry-desc">Read the Eight Great Cuisines as a geographic document — what the land, climate, and trade routes of each region produced at the table, and what the table tells you about the land.</span></a>
+        <a class="entry-card" href="../geography/topic_beijing.html" data-category="geography"><span class="entry-glyph glyph-2">北京</span><span class="entry-pinyin">Běijīng</span><span class="entry-title">Beijing</span><span class="entry-desc">Capital geography: the hutong grid, the Forbidden City, and the northern axis that has organized Chinese power for seven centuries.</span></a>
+        <a class="entry-card" href="../geography/topic_taiwan.html" data-category="geography"><span class="entry-glyph glyph-2">台湾</span><span class="entry-pinyin">Táiwān</span><span class="entry-title">Taiwan</span><span class="entry-desc">An island with multiple names, multiple claims, and the most consequential unresolved question in East Asian geopolitics.</span></a>
+        <a class="entry-card" href="../geography/topic_xinjiang.html" data-category="geography"><span class="entry-glyph glyph-2">新疆</span><span class="entry-pinyin">Xīnjiāng</span><span class="entry-title">Xinjiang</span><span class="entry-desc">China&#39;s largest province. A vast desert interior crossed by the Silk Road, home to Uyghur civilization, bounded by the Tianshan mountains, and at the center of contested questions about identity and governance.</span></a>
+        <a class="entry-card" href="../geography/topic_fangyan.html" data-category="geography"><span class="entry-glyph glyph-2">方言</span><span class="entry-pinyin">Fāngyán</span><span class="entry-title">The Dialect Map</span><span class="entry-desc">Chinese is not one language but a family — seven major dialect groups whose speakers cannot understand one another, united by a shared written script and divided by a history of geography and migration.</span></a>
+        <a class="entry-card" href="../geography/topic_xizang.html" data-category="geography"><span class="entry-glyph glyph-2">西藏</span><span class="entry-pinyin">Xīzàng</span><span class="entry-title">Tibet</span><span class="entry-desc">The Roof of the World: a plateau so high it generates its own weather, a civilization shaped by altitude, and a Buddhism that grew from the landscape as much as from doctrine.</span></a>
+        <a class="entry-card" href="../geography/topic_changjiang.html" data-category="geography"><span class="entry-glyph glyph-2">长江</span><span class="entry-pinyin">Cháng Jiāng</span><span class="entry-title">The Yangtze River</span><span class="entry-desc">The longest river in Asia: the southern spine of Chinese civilization, the Three Gorges, and the river that divides north from south.</span></a>
+        <a class="entry-card" href="../geography/topic_xianggang.html" data-category="geography"><span class="entry-glyph glyph-2">香港</span><span class="entry-pinyin">Xiānggǎng</span><span class="entry-title">Hong Kong</span><span class="entry-desc">The entrepôt that became a world city — a harbor geography that made it the gateway between East and West, and a Cantonese identity that survived colonial rule and asks harder questions under reunification.</span></a>
+        <a class="entry-card" href="../geography/topic_huanghe.html" data-category="geography"><span class="entry-glyph glyph-2">黄河</span><span class="entry-pinyin">Huánghé</span><span class="entry-title">Yellow River</span><span class="entry-desc">The cradle of Chinese civilization — a river that floods, destroys, and nourishes in equal measure, its loess-yellow waters shaping every dynasty that tried to master it.</span></a>
+      </div>
+    </section>
+
+    <section class="cat-group fam-cat-group" id="cat-culture" data-category="culture">
+      <div class="cat-head fam-cat-head">
+        <span class="sh-cn" style="color: var(--cat-culture)">文化</span>
+        <span class="sh-py">wénhuà</span>
+        <span class="sh-en">Culture</span>
+        <span class="sh-rule"></span>
+        <span class="cat-count">9 entries</span>
+      </div>
+      <p class="fam-cat-desc">What people make and how they live with it.</p>
+      <div class="entry-grid">
+        <a class="entry-card" href="../culture/topic_zhongqiu.html" data-category="culture"><span class="entry-glyph glyph-3">中秋节</span><span class="entry-pinyin">Zhōngqiūjié</span><span class="entry-title">Mid-Autumn Festival</span><span class="entry-desc">The moon at its fullest, the family reunited: the festival that turns a celestial event into a meditation on longing and belonging.</span></a>
+        <a class="entry-card" href="../culture/topic_jingju.html" data-category="culture"><span class="entry-glyph glyph-2">京剧</span><span class="entry-pinyin">jīngjù</span><span class="entry-title">Peking Opera</span><span class="entry-desc">China&#39;s national theatrical art: acrobatics, painted faces, falsetto voices, and two centuries of stylized storytelling.</span></a>
+        <a class="entry-card" href="../culture/topic_taiji.html" data-category="culture"><span class="entry-glyph glyph-2">太极</span><span class="entry-pinyin">Tàijí</span><span class="entry-title">Tai Chi</span><span class="entry-desc">The slow-motion practice in the park at dawn. Its philosophy is older than the movements, and the movements carry the whole philosophy.</span></a>
+        <a class="entry-card" href="../culture/topic_chunjie.html" data-category="culture"><span class="entry-glyph glyph-2">春节</span><span class="entry-pinyin">Chūnjié</span><span class="entry-title">Spring Festival</span><span class="entry-desc">Lunar New Year. The largest annual human migration and the most important date on the Chinese calendar.</span></a>
+        <a class="entry-card" href="../culture/topic_hanfu.html" data-category="culture"><span class="entry-glyph glyph-2">汉服</span><span class="entry-pinyin">Hànfú</span><span class="entry-title">Traditional Han Dress</span><span class="entry-desc">Ancient silhouettes worn in modern streets: the revival of Han dynasty clothing and the identity politics it carries.</span></a>
+        <a class="entry-card" href="../culture/topic_qingming.html" data-category="culture"><span class="entry-glyph glyph-3">清明节</span><span class="entry-pinyin">Qīngmíngjié</span><span class="entry-title">Tomb-Sweeping Day</span><span class="entry-desc">The day the living visit the dead: a spring festival of grief, gratitude, and continuity across generations.</span></a>
+        <a class="entry-card" href="../culture/topic_shengxiao.html" data-category="culture"><span class="entry-glyph glyph-2">生肖</span><span class="entry-pinyin">shēngxiào</span><span class="entry-title">Chinese Zodiac</span><span class="entry-desc">The twelve animals, what they mean, and why your birth year still shapes how people see you.</span></a>
+        <a class="entry-card" href="../culture/topic_hongbao.html" data-category="culture"><span class="entry-glyph glyph-2">红包</span><span class="entry-pinyin">hóngbāo</span><span class="entry-title">Red Envelopes</span><span class="entry-desc">Money wrapped in red: the gift that is never just money, and the ritual that binds generations, occasions, and now hundreds of millions of WeChat users.</span></a>
+        <a class="entry-card" href="../culture/topic_cha_wenhua.html" data-category="culture"><span class="entry-glyph glyph-3">茶文化</span><span class="entry-pinyin">chá wénhuà</span><span class="entry-title">Tea Culture</span><span class="entry-desc">Tea as civilization: the way a leaf became a philosophical practice, a diplomatic currency, and the shape of daily life across two millennia.</span></a>
+      </div>
+    </section>
+
+    <section class="cat-group fam-cat-group" id="cat-daily" data-category="daily">
+      <div class="cat-head fam-cat-head">
+        <span class="sh-cn" style="color: var(--cat-daily)">日常</span>
+        <span class="sh-py">rìcháng</span>
+        <span class="sh-en">Everyday Life</span>
+        <span class="sh-rule"></span>
+        <span class="cat-count">12 entries</span>
+      </div>
+      <p class="fam-cat-desc">Names, numbers, gifts, gestures, taboos.</p>
+      <div class="entry-grid">
+        <a class="entry-card" href="../daily/topic_xingming.html" data-category="daily"><span class="entry-glyph glyph-2">姓名</span><span class="entry-pinyin">xìngmíng</span><span class="entry-title">Names</span><span class="entry-desc">Family name first, given name second — the structure, meaning-making, and social logic of Chinese personal names.</span></a>
+        <a class="entry-card" href="../daily/topic_jiating.html" data-category="daily"><span class="entry-glyph glyph-2">家庭</span><span class="entry-pinyin">jiātíng</span><span class="entry-title">Family Structure</span><span class="entry-desc">Chinese kinship terminology is a precision instrument — each relative has one specific term, and that precision maps an obligation network, not just a family tree.</span></a>
+        <a class="entry-card" href="../daily/topic_jingjiu.html" data-category="daily"><span class="entry-glyph glyph-2">敬酒</span><span class="entry-pinyin">jìngjiǔ</span><span class="entry-title">Toasting Culture</span><span class="entry-desc">The Chinese toast is a social instrument with its own grammar, hierarchy, and rules of engagement — not a punctuation mark at the end of a speech.</span></a>
+        <a class="entry-card" href="../daily/topic_shuzi.html" data-category="daily"><span class="entry-glyph glyph-2">数字</span><span class="entry-pinyin">shùzì</span><span class="entry-title">Lucky &amp; Unlucky Numbers</span><span class="entry-desc">In China, numbers carry sound, sound carries meaning, and meaning can determine whether you close the deal or jinx the wedding.</span></a>
+        <a class="entry-card" href="../daily/topic_chenghu.html" data-category="daily"><span class="entry-glyph glyph-2">称呼</span><span class="entry-pinyin">chēnghu</span><span class="entry-title">Forms of Address</span><span class="entry-desc">In Chinese, how you address someone is not a formality — it is a precise statement of how you understand the relationship between you.</span></a>
+        <a class="entry-card" href="../daily/topic_kuaizi.html" data-category="daily"><span class="entry-glyph glyph-2">筷子</span><span class="entry-pinyin">kuàizi</span><span class="entry-title">Chopsticks</span><span class="entry-desc">The rules, the taboos, and what not to do — the etiquette that marks insider from outsider at the Chinese table.</span></a>
+        <a class="entry-card" href="../daily/topic_hongbai.html" data-category="daily"><span class="entry-glyph glyph-4">红白喜事</span><span class="entry-pinyin">hóngbái xǐshì</span><span class="entry-title">Weddings &amp; Funerals</span><span class="entry-desc">The phrase tells the story: red and white, marriage and death, both require the whole community to show up.</span></a>
+        <a class="entry-card" href="../daily/topic_qingke.html" data-category="daily"><span class="entry-glyph glyph-4">请客吃饭</span><span class="entry-pinyin">qǐngkè chīfàn</span><span class="entry-title">Treating to a Meal</span><span class="entry-desc">The Chinese banquet is a social institution that happens to involve food.</span></a>
+        <a class="entry-card" href="../daily/topic_mixin.html" data-category="daily"><span class="entry-glyph glyph-2">迷信</span><span class="entry-pinyin">mìxìn</span><span class="entry-title">Superstitions</span><span class="entry-desc">Superstition in China is a living system that coexists comfortably with education, modernity, and pragmatism — not a holdover from ignorance.</span></a>
+        <a class="entry-card" href="../daily/topic_songli.html" data-category="daily"><span class="entry-glyph glyph-2">送礼</span><span class="entry-pinyin">sònglǐ</span><span class="entry-title">Gift-Giving</span><span class="entry-desc">Gift-giving in China is less about generosity than about maintenance — a technology for building and sustaining the relationships that make life work.</span></a>
+        <a class="entry-card" href="../daily/topic_mianzi_practice.html" data-category="daily"><span class="entry-glyph glyph-4">面子实践</span><span class="entry-pinyin">miànzi shíjiàn</span><span class="entry-title">Face in Practice</span><span class="entry-desc">Face in Chinese social life is a recurring set of transactions with specific mechanics: how face is given, taken, lost, and preserved in concrete situations.</span></a>
+        <a class="entry-card" href="../daily/topic_yanse.html" data-category="daily"><span class="entry-glyph glyph-2">颜色</span><span class="entry-pinyin">yánsè</span><span class="entry-title">Colors and Luck</span><span class="entry-desc">Red for joy, white for death, green hats and yellow emperors — the symbolic weight of color in Chinese daily life.</span></a>
+      </div>
+    </section>
+
+    <section class="cat-group fam-cat-group" id="cat-culinary" data-category="culinary">
+      <div class="cat-head fam-cat-head">
+        <span class="sh-cn" style="color: var(--cat-culinary)">饮食</span>
+        <span class="sh-py">yǐnshí</span>
+        <span class="sh-en">Culinary</span>
+        <span class="sh-rule"></span>
+        <span class="cat-count">17 entries</span>
+      </div>
+      <p class="fam-cat-desc">What is cooked, drunk, and shared at the table.</p>
+      <div class="entry-grid">
+        <a class="entry-card" href="../culinary/topic_wulong.html" data-category="culinary"><span class="entry-glyph glyph-3">乌龙茶</span><span class="entry-pinyin">wūlóng chá</span><span class="entry-title">Oolong Tea</span><span class="entry-desc">The most complex and technically demanding tea category — partially oxidized, spanning a full spectrum from near-green to near-black, with a vocabulary of flavor unmatched in tea.</span></a>
+        <a class="entry-card" href="../culinary/topic_caixi.html" data-category="culinary"><span class="entry-glyph glyph-4">八大菜系</span><span class="entry-pinyin">bā dà càixì</span><span class="entry-title">Eight Great Cuisines</span><span class="entry-desc">How geography, climate, and dynasty shaped eight distinct schools of Chinese cooking.</span></a>
+        <a class="entry-card" href="../culinary/topic_chuancai.html" data-category="culinary"><span class="entry-glyph glyph-2">川菜</span><span class="entry-pinyin">chuāncài</span><span class="entry-title">Sichuan Cuisine</span><span class="entry-desc">The mala kitchen — how a landlocked basin built the most complex spice vocabulary in the world.</span></a>
+        <a class="entry-card" href="../culinary/topic_huoguo.html" data-category="culinary"><span class="entry-glyph glyph-2">火锅</span><span class="entry-pinyin">huǒguō</span><span class="entry-title">Hotpot</span><span class="entry-desc">The communal pot at the center of the table: a social institution disguised as a meal.</span></a>
+        <a class="entry-card" href="../culinary/topic_baicha.html" data-category="culinary"><span class="entry-glyph glyph-2">白茶</span><span class="entry-pinyin">báichá</span><span class="entry-title">White Tea</span><span class="entry-desc">The most minimal of all tea categories: plucked, withered, and dried, with no firing and no rolling, yielding a tea of extraordinary delicacy.</span></a>
+        <a class="entry-card" href="../culinary/topic_baijiu.html" data-category="culinary"><span class="entry-glyph glyph-2">白酒</span><span class="entry-pinyin">báijiǔ</span><span class="entry-title">Baijiu</span><span class="entry-desc">China&#39;s fiery grain spirit — the most consumed distilled liquor in the world by volume, and what it means to drink together.</span></a>
+        <a class="entry-card" href="../culinary/topic_yuecai.html" data-category="culinary"><span class="entry-glyph glyph-2">粤菜</span><span class="entry-pinyin">yuècài</span><span class="entry-title">Cantonese Cuisine</span><span class="entry-desc">Freshness as philosophy: the cooking tradition that traveled the world and stayed true to itself.</span></a>
+        <a class="entry-card" href="../culinary/topic_hongcha.html" data-category="culinary"><span class="entry-glyph glyph-2">红茶</span><span class="entry-pinyin">hóngchá</span><span class="entry-title">Red Tea (Black Tea)</span><span class="entry-desc">Fully oxidized — what the world calls black tea, China calls red, named for the color of the liquor. From Keemun to Dianhong, China&#39;s contribution to global tea culture.</span></a>
+        <a class="entry-card" href="../culinary/topic_lücha.html" data-category="culinary"><span class="entry-glyph glyph-2">绿茶</span><span class="entry-pinyin">lǜchá</span><span class="entry-title">Green Tea</span><span class="entry-desc">The oldest and most-consumed tea category — unoxidized, fixed by heat, and expressing the full range from grassy Longjing to umami-rich Biluochun.</span></a>
+        <a class="entry-card" href="../culinary/topic_tisanes.html" data-category="culinary"><span class="entry-glyph glyph-3">花草茶</span><span class="entry-pinyin">huācǎo chá</span><span class="entry-title">Tisanes &amp; Herbal Infusions</span><span class="entry-desc">Not tea — but often called tea. The world of Chinese herbal infusions, floral teas, and medicinal brews that share the cup but not the leaf of Camellia sinensis.</span></a>
+        <a class="entry-card" href="../culinary/topic_cha.html" data-category="culinary"><span class="entry-glyph">茶</span><span class="entry-pinyin">chá</span><span class="entry-title">Tea</span><span class="entry-desc">Six tea categories, production, and the cup that connects China to the world.</span></a>
+        <a class="entry-card" href="../culinary/topic_doufu.html" data-category="culinary"><span class="entry-glyph glyph-2">豆腐</span><span class="entry-pinyin">dòufu</span><span class="entry-title">Tofu</span><span class="entry-desc">Two thousand years of soybeans and water: the food that fed a civilization without meat.</span></a>
+        <a class="entry-card" href="../culinary/topic_miantiao.html" data-category="culinary"><span class="entry-glyph glyph-2">面条</span><span class="entry-pinyin">miàntiáo</span><span class="entry-title">Noodles</span><span class="entry-desc">Four thousand years of wheat in water — noodle cultures from Lanzhou to Suzhou.</span></a>
+        <a class="entry-card" href="../culinary/topic_jiaozi.html" data-category="culinary"><span class="entry-glyph glyph-2">饺子</span><span class="entry-pinyin">jiǎozi</span><span class="entry-title">Dumplings</span><span class="entry-desc">Folded, boiled, and shared: the dumpling as ritual food, family labor, and cultural marker.</span></a>
+        <a class="entry-card" href="../culinary/topic_lucai.html" data-category="culinary"><span class="entry-glyph glyph-2">鲁菜</span><span class="entry-pinyin">lǔcài</span><span class="entry-title">Shandong Cuisine</span><span class="entry-desc">The oldest school — how the home province of Confucius fed the imperial court for two thousand years.</span></a>
+        <a class="entry-card" href="../culinary/topic_huangcha.html" data-category="culinary"><span class="entry-glyph glyph-2">黄茶</span><span class="entry-pinyin">huángchá</span><span class="entry-title">Yellow Tea</span><span class="entry-desc">The rarest of the six categories: like green tea, but mellowed by a slow smothering step that removes the raw edge and creates a silky, sweet cup.</span></a>
+        <a class="entry-card" href="../culinary/topic_heisha.html" data-category="culinary"><span class="entry-glyph glyph-2">黑茶</span><span class="entry-pinyin">hēichá</span><span class="entry-title">Dark Tea &amp; Pu-erh</span><span class="entry-desc">Post-fermented, microbially aged — the only tea category that genuinely improves with decades of storage, and the trade commodity that crossed the Tea-Horse Road to Tibet.</span></a>
+      </div>
+    </section>
+
+    <section class="cat-group fam-cat-group" id="cat-arts" data-category="arts">
+      <div class="cat-head fam-cat-head">
+        <span class="sh-cn" style="color: var(--cat-arts)">艺文</span>
+        <span class="sh-py">yìwén</span>
+        <span class="sh-en">Arts &amp; Literature</span>
+        <span class="sh-rule"></span>
+        <span class="cat-count">11 entries</span>
+      </div>
+      <p class="fam-cat-desc">Poetry, painting, calligraphy, opera.</p>
+      <div class="entry-grid">
+        <a class="entry-card" href="../arts/topic_shufa.html" data-category="arts"><span class="entry-glyph glyph-2">书法</span><span class="entry-pinyin">shūfǎ</span><span class="entry-title">Calligraphy</span><span class="entry-desc">The art of the brush — where writing becomes the most personal expression of character.</span></a>
+        <a class="entry-card" href="../arts/topic_tangshi.html" data-category="arts"><span class="entry-glyph glyph-2">唐诗</span><span class="entry-pinyin">tángshī</span><span class="entry-title">Tang Poetry</span><span class="entry-desc">Li Bai, Du Fu, and the golden age of regulated verse.</span></a>
+        <a class="entry-card" href="../arts/topic_sidaimingzhu.html" data-category="arts"><span class="entry-glyph glyph-4">四大名著</span><span class="entry-pinyin">sì dà míngzhù</span><span class="entry-title">Four Great Classical Novels</span><span class="entry-desc">The four novels every educated Chinese person has read — the canonical stories of war, outlaws, pilgrims, and dreams.</span></a>
+        <a class="entry-card" href="../arts/topic_songci.html" data-category="arts"><span class="entry-glyph glyph-2">宋词</span><span class="entry-pinyin">sòngcí</span><span class="entry-title">Song Dynasty Lyric</span><span class="entry-desc">The poem that sings — fixed tune patterns, named meters, and three masters who defined what the Chinese lyric could feel.</span></a>
+        <a class="entry-card" href="../arts/topic_wenfangsibao.html" data-category="arts"><span class="entry-glyph glyph-4">文房四宝</span><span class="entry-pinyin">wénfáng sìbǎo</span><span class="entry-title">Four Treasures of the Study</span><span class="entry-desc">The four instruments through which a scholar thought, wrote, painted, and demonstrated who he was: brush, ink, inkstone, and paper.</span></a>
+        <a class="entry-card" href="../arts/topic_kunqu.html" data-category="arts"><span class="entry-glyph glyph-2">昆曲</span><span class="entry-pinyin">kūnqǔ</span><span class="entry-title">Kun Opera</span><span class="entry-desc">The oldest surviving form of Chinese opera — refined to such perfection over four centuries that it nearly disappeared from its own beauty.</span></a>
+        <a class="entry-card" href="../arts/topic_chuci.html" data-category="arts"><span class="entry-glyph glyph-2">楚辞</span><span class="entry-pinyin">chǔcí</span><span class="entry-title">Songs of Chu</span><span class="entry-desc">The shamanistic southern voice that gave Chinese literature its second pole — visionary, romantic, and inconsolably exiled.</span></a>
+        <a class="entry-card" href="../arts/topic_shuimohua.html" data-category="arts"><span class="entry-glyph glyph-3">水墨画</span><span class="entry-pinyin">shuǐmòhuà</span><span class="entry-title">Ink-Wash Painting</span><span class="entry-desc">Where the brush meets philosophy — five tones of ink, the art of leaving space, and landscapes that are not about landscape at all.</span></a>
+        <a class="entry-card" href="../arts/topic_zhuanke.html" data-category="arts"><span class="entry-glyph glyph-2">篆刻</span><span class="entry-pinyin">zhuànkè</span><span class="entry-title">Seal Carving</span><span class="entry-desc">The art of the name — bronze to stone, dynasty to dynasty, two schools of carvers, and the small red square that authenticates everything.</span></a>
+        <a class="entry-card" href="../arts/topic_shijing.html" data-category="arts"><span class="entry-glyph glyph-2">诗经</span><span class="entry-pinyin">shījīng</span><span class="entry-title">Book of Songs</span><span class="entry-desc">China oldest poetry anthology — three hundred poems that Confucius said no educated person could afford to ignore.</span></a>
+        <a class="entry-card" href="../arts/topic_luxun.html" data-category="arts"><span class="entry-glyph glyph-2">鲁迅</span><span class="entry-pinyin">lǔxùn</span><span class="entry-title">Lu Xun</span><span class="entry-desc">The writer who looked at traditional Chinese society and saw cannibalism — and the complicated, unresolvable legacy he left behind.</span></a>
+      </div>
+    </section>
+
+    <section class="cat-group fam-cat-group" id="cat-science" data-category="science">
+      <div class="cat-head fam-cat-head">
+        <span class="sh-cn" style="color: var(--cat-science)">科技</span>
+        <span class="sh-py">kējì</span>
+        <span class="sh-en">Science &amp; Medicine</span>
+        <span class="sh-rule"></span>
+        <span class="cat-count">11 entries</span>
+      </div>
+      <p class="fam-cat-desc">Astronomy, medicine, and technology before modernity.</p>
+      <div class="entry-grid">
+        <a class="entry-card" href="../science/topic_sichou.html" data-category="science"><span class="entry-glyph glyph-2">丝绸</span><span class="entry-pinyin">sīchóu</span><span class="entry-title">Silk</span><span class="entry-desc">The thread that built the first global trade network — Chinese silk, the secret of sericulture, and the road that carried it west.</span></a>
+        <a class="entry-card" href="../science/topic_zhongyi.html" data-category="science"><span class="entry-glyph glyph-2">中医</span><span class="entry-pinyin">zhōngyī</span><span class="entry-title">Traditional Chinese Medicine</span><span class="entry-desc">Qi, yin-yang, the five phases, and a medical system that has treated a fifth of humanity for two thousand years.</span></a>
+        <a class="entry-card" href="../science/topic_jieqi.html" data-category="science"><span class="entry-glyph glyph-4">二十四节气</span><span class="entry-pinyin">èrshísì jiéqì</span><span class="entry-title">24 Solar Terms</span><span class="entry-desc">The sun moves 15 degrees and the world changes — a precision agricultural calendar that doubled as a medical manual and is now UNESCO heritage.</span></a>
+        <a class="entry-card" href="../science/topic_wuxing.html" data-category="science"><span class="entry-glyph glyph-2">五行</span><span class="entry-pinyin">wǔxíng</span><span class="entry-title">The Five Phases</span><span class="entry-desc">The five dynamic processes — wood, fire, earth, metal, water — that classical Chinese science used to map medicine, cosmology, music, politics, and time.</span></a>
+        <a class="entry-card" href="../science/topic_lifa.html" data-category="science"><span class="entry-glyph glyph-2">历法</span><span class="entry-pinyin">lìfǎ</span><span class="entry-title">The Lunisolar Calendar</span><span class="entry-desc">Neither purely solar nor purely lunar, the Chinese calendar has kept farmers, physicians, and dynasties synchronized with the cosmos for three thousand years.</span></a>
+        <a class="entry-card" href="../science/topic_sidafaming.html" data-category="science"><span class="entry-glyph glyph-4">四大发明</span><span class="entry-pinyin">sì dà fāmíng</span><span class="entry-title">Four Great Inventions</span><span class="entry-desc">Compass, gunpowder, paper, and printing — the Chinese technologies that remade the medieval world.</span></a>
+        <a class="entry-card" href="../science/topic_xingxiu.html" data-category="science"><span class="entry-glyph glyph-2">星宿</span><span class="entry-pinyin">xīngxiù</span><span class="entry-title">Chinese Constellations</span><span class="entry-desc">China mapped the entire sky independently of Greece — 1,464 stars, 28 lunar mansions, and four mythological guardians that divided the cosmos long before Ptolemy.</span></a>
+        <a class="entry-card" href="../science/topic_bencao.html" data-category="science"><span class="entry-glyph glyph-4">本草纲目</span><span class="entry-pinyin">běncǎo gāngmù</span><span class="entry-title">The Great Pharmacopeia</span><span class="entry-desc">Li Shizhen spent 27 years cataloguing 1,892 drugs — and produced one of the greatest works of natural science in any civilization.</span></a>
+        <a class="entry-card" href="../science/topic_suanpan.html" data-category="science"><span class="entry-glyph glyph-2">算盘</span><span class="entry-pinyin">suànpán</span><span class="entry-title">The Abacus</span><span class="entry-desc">Before the electronic calculator, a bead frame and trained fingers could outrun early computers on everyday arithmetic.</span></a>
+        <a class="entry-card" href="../science/topic_zhenjiu.html" data-category="science"><span class="entry-glyph glyph-2">针灸</span><span class="entry-pinyin">zhēnjiǔ</span><span class="entry-title">Acupuncture</span><span class="entry-desc">Needles, meridians, and the ancient practice that resists simple verdicts from modern science.</span></a>
+        <a class="entry-card" href="../science/topic_fengshui_science.html" data-category="science"><span class="entry-glyph glyph-2">风水</span><span class="entry-pinyin">fēngshuǐ</span><span class="entry-title">Geomancy as Proto-Science</span><span class="entry-desc">Before the terms ecology, hydrology, and orientation science existed, the fengshui master was reading the same landscape — just with a different vocabulary.</span></a>
+      </div>
+    </section>
+
+    
+    <span class="section-anchor" id="continue"></span>
+    <div class="section-head">
+      <span class="sh-cn">继续</span>
+      <span class="sh-py">jìxù</span>
+      <span class="sh-en">Continue exploring</span>
+      <span class="sh-rule"></span>
+    </div>
+    <div class="family-crosslinks">
+      <a class="family-card family-card-sm" href="language.html" data-family="language">
+        <div class="family-card-art" aria-hidden="true"><svg viewBox="0 0 200 200" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+        <rect x="36" y="36" width="128" height="128" fill="none" stroke="var(--cat-vocab)" stroke-width="2" opacity="0.5" rx="4"/>
+        <text x="100" y="118" text-anchor="middle" font-family="LXGW WenKai TC, serif" font-size="110" font-weight="700" fill="var(--cat-grammar)">语</text>
+      </svg></div>
+        <div class="family-card-meta">
+          <span class="family-card-eyebrow">语言 yǔyán</span>
+          <h3 class="family-card-title">Language</h3>
+          <span class="family-card-members">Characters · Vocabulary · Grammar</span>
+        </div>
+      </a>
+      <a class="family-card family-card-sm" href="collections.html" data-family="collections">
+        <div class="family-card-art" aria-hidden="true"><svg viewBox="0 0 200 200" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+        <rect x="40" y="40" width="55" height="55" fill="none" stroke="var(--cat-hubs)" stroke-width="1.4" opacity="0.55" rx="3"/>
+        <rect x="105" y="40" width="55" height="55" fill="none" stroke="var(--cat-hubs)" stroke-width="1.4" opacity="0.55" rx="3"/>
+        <rect x="40" y="105" width="55" height="55" fill="none" stroke="var(--cat-hubs)" stroke-width="1.4" opacity="0.55" rx="3"/>
+        <rect x="105" y="105" width="55" height="55" fill="none" stroke="var(--cat-hubs)" stroke-width="1.4" opacity="0.55" rx="3"/>
+        <text x="100" y="120" text-anchor="middle" font-family="LXGW WenKai TC, serif" font-size="92" font-weight="700" fill="var(--cat-chengyu)">集</text>
+      </svg></div>
+        <div class="family-card-meta">
+          <span class="family-card-eyebrow">集锦 jíjǐn</span>
+          <h3 class="family-card-title">Collections</h3>
+          <span class="family-card-members">Chengyu · Reading Paths</span>
+        </div>
+      </a>
+      <a class="family-card family-card-sm family-card-explore" href="explore.html" data-family="explore">
+        <div class="family-card-art" aria-hidden="true"><svg viewBox="0 0 200 200" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+        <ellipse cx="100" cy="100" rx="78" ry="42" fill="none" stroke="var(--ochre)" stroke-width="0.9" opacity="0.35" transform="rotate(-12 100 100)"/>
+        <ellipse cx="100" cy="100" rx="78" ry="42" fill="none" stroke="var(--red)" stroke-width="0.7" opacity="0.3" transform="rotate(35 100 100)"/>
+        <text x="100" y="120" text-anchor="middle" font-family="LXGW WenKai TC, serif" font-size="100" font-weight="700" fill="var(--red)">探</text>
+      </svg></div>
+        <div class="family-card-meta">
+          <span class="family-card-eyebrow">探 tàn</span>
+          <h3 class="family-card-title">Explore</h3>
+          <span class="family-card-members">All families · all categories</span>
+        </div>
+      </a>
+    </div>
 
     <span class="section-anchor" id="related"></span>
     <div class="section-head">

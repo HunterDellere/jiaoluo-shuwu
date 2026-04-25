@@ -1754,6 +1754,265 @@ a.pf-btn-share:focus-visible, button.pf-btn-share:focus-visible {
   background: transparent;
 }
 
+/* ── FAMILY-INDEX PAGES (Language / Topics / Collections / Explore) ───────
+   Used on pages/families/*.html. Shares .entry-card / .entry-grid markup
+   with the homepage so styling is shared via this block (homepage CSS
+   overrides specific bits in style-home.css). */
+
+/* Hero — full-bleed art band behind the meta block */
+.family-hero {
+  position: relative;
+  overflow: hidden;
+  padding: 2.4rem 2rem 2rem;
+  background: var(--papyrus-2);
+  border: 1px solid var(--rule);
+  border-radius: var(--radius-lg);
+  margin-bottom: 2.5rem;
+}
+.family-hero-art {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  opacity: 0.95;
+}
+.family-hero-svg { width: 100%; height: 100%; display: block; }
+.family-hero-meta { position: relative; z-index: 1; max-width: 540px; }
+.family-hero[data-family="language"]    { border-top: 3px solid var(--cat-grammar); }
+.family-hero[data-family="topics"]      { border-top: 3px solid var(--cat-philosophy); }
+.family-hero[data-family="collections"] { border-top: 3px solid var(--cat-chengyu); }
+.family-hero[data-family="explore"]     { border-top: 3px solid var(--ochre); }
+
+/* Intro strip above category sections */
+.fam-intro {
+  display: flex; align-items: baseline; gap: 1rem; flex-wrap: wrap;
+  margin: 0 0 2rem; padding: 0.7rem 0 1.1rem;
+  border-bottom: 1px dashed var(--rule);
+}
+.fam-intro-stat {
+  font-family: var(--font-mono); font-size: 0.7rem; letter-spacing: 0.18em;
+  text-transform: uppercase; color: var(--ink-5);
+  white-space: nowrap;
+}
+.fam-intro-text { margin: 0; color: var(--ink-3); font-size: 0.95rem; flex: 1; min-width: 240px; }
+
+/* Per-category section on a family page (static, always expanded) */
+.fam-cat-group { margin-bottom: 2.75rem; scroll-margin-top: calc(var(--nav-h) + 1rem); }
+.fam-cat-head {
+  display: flex; align-items: baseline; gap: 0.7rem;
+  margin-bottom: 0.55rem;
+}
+.fam-cat-head .sh-cn { font-family: var(--font-cn-display); font-size: 1.55rem; font-weight: 700; }
+.fam-cat-head .sh-py { font-family: var(--font-mono); font-size: 0.85rem; color: var(--ochre); }
+.fam-cat-head .sh-en { font-size: 0.9rem; color: var(--ink-5); font-style: italic; }
+.fam-cat-head .sh-rule { flex: 1; height: 1px; background: var(--rule-2); }
+.fam-cat-head .cat-count { font-family: var(--font-mono); font-size: 0.66rem; color: var(--ink-5); letter-spacing: 0.1em; white-space: nowrap; }
+.fam-cat-desc { color: var(--ink-4); font-size: 0.9rem; margin: 0 0 0.85rem; max-width: 60ch; line-height: 1.5; }
+
+/* Entry grid + cards — shared with homepage. Defined here (style.css) so
+   they work outside the homepage too. style-home.css adds homepage-only
+   overrides (collapse states, hubs single-column override). */
+.fam-cat-group .entry-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 0.75rem;
+}
+.fam-cat-group[data-category="hubs"] .entry-grid {
+  grid-template-columns: 1fr;
+  gap: 0.55rem;
+}
+.fam-cat-group .entry-card {
+  display: block;
+  background: var(--papyrus-2);
+  border: 1px solid var(--rule);
+  border-radius: var(--radius-lg);
+  padding: 1rem 1.1rem;
+  text-decoration: none;
+  color: var(--ink-3);
+  position: relative;
+  overflow: hidden;
+  transition: background 0.15s, border-color 0.15s, transform 0.15s, box-shadow 0.15s;
+}
+.fam-cat-group .entry-card::before {
+  content: ''; position: absolute; left: 0; top: 0; bottom: 0; width: 3px;
+  background: var(--red); opacity: 0; transition: opacity 0.15s;
+}
+.fam-cat-group .entry-card:hover {
+  background: var(--papyrus-3);
+  border-color: rgba(139,26,26,0.3);
+  transform: translateY(-2px);
+  box-shadow: 0 2px 6px rgba(28,18,8,0.06);
+}
+.fam-cat-group .entry-card:hover::before,
+.fam-cat-group .entry-card:focus-visible::before { opacity: 1; }
+.fam-cat-group .entry-card:focus-visible {
+  outline: none;
+  border-color: var(--ochre);
+  box-shadow: 0 0 0 2px rgba(160,100,40,0.25);
+}
+/* Tint the side-bar accent by target category */
+.fam-cat-group .entry-card[data-category="characters"]::before { background: var(--cat-characters); }
+.fam-cat-group .entry-card[data-category="vocab"]::before       { background: var(--cat-vocab); }
+.fam-cat-group .entry-card[data-category="grammar"]::before     { background: var(--cat-grammar); }
+.fam-cat-group .entry-card[data-category="chengyu"]::before     { background: var(--cat-chengyu); }
+.fam-cat-group .entry-card[data-category="religion"]::before    { background: var(--cat-religion); }
+.fam-cat-group .entry-card[data-category="philosophy"]::before  { background: var(--cat-philosophy); }
+.fam-cat-group .entry-card[data-category="history"]::before     { background: var(--cat-history); }
+.fam-cat-group .entry-card[data-category="geography"]::before   { background: var(--cat-geography); }
+.fam-cat-group .entry-card[data-category="culture"]::before     { background: var(--cat-culture); }
+.fam-cat-group .entry-card[data-category="culinary"]::before    { background: var(--cat-culinary); }
+.fam-cat-group .entry-card[data-category="arts"]::before        { background: var(--cat-arts); }
+.fam-cat-group .entry-card[data-category="science"]::before     { background: var(--cat-science); }
+.fam-cat-group .entry-card[data-category="daily"]::before       { background: var(--cat-daily); }
+.fam-cat-group .entry-card[data-category="hubs"]::before        { background: var(--cat-hubs); }
+
+.fam-cat-group .entry-glyph {
+  font-family: var(--font-cn-display); font-weight: 700;
+  font-size: 2.25rem; line-height: 1;
+  color: var(--red);
+  display: block; margin-bottom: 0.35rem;
+  letter-spacing: 0.02em;
+  text-shadow: 1px 1px 0 rgba(139,26,26,0.12);
+  word-break: keep-all; overflow-wrap: anywhere;
+}
+.fam-cat-group .entry-glyph.glyph-2 { font-size: 1.7rem; letter-spacing: 0.04em; }
+.fam-cat-group .entry-glyph.glyph-3 { font-size: 1.35rem; letter-spacing: 0.04em; }
+.fam-cat-group .entry-glyph.glyph-4 { font-size: 1.2rem; letter-spacing: 0.06em; }
+.fam-cat-group .entry-pinyin { font-family: var(--font-mono); font-size: 0.78rem; color: var(--ochre); letter-spacing: 0.05em; display: block; margin-bottom: 0.2rem; }
+.fam-cat-group .entry-title { font-size: 0.92rem; font-weight: 600; color: var(--ink-2); line-height: 1.35; display: block; margin-bottom: 0.2rem; }
+.fam-cat-group .entry-desc { font-size: 0.82rem; color: var(--ink-4); font-style: italic; line-height: 1.45; display: block; }
+/* Category-color glyph */
+.fam-cat-group[data-category="characters"]  .entry-glyph { color: var(--cat-characters); }
+.fam-cat-group[data-category="vocab"]       .entry-glyph { color: var(--cat-vocab); }
+.fam-cat-group[data-category="grammar"]     .entry-glyph { color: var(--cat-grammar); }
+.fam-cat-group[data-category="chengyu"]     .entry-glyph { color: var(--cat-chengyu); }
+.fam-cat-group[data-category="religion"]    .entry-glyph { color: var(--cat-religion); }
+.fam-cat-group[data-category="philosophy"]  .entry-glyph { color: var(--cat-philosophy); }
+.fam-cat-group[data-category="history"]     .entry-glyph { color: var(--cat-history); }
+.fam-cat-group[data-category="geography"]   .entry-glyph { color: var(--cat-geography); }
+.fam-cat-group[data-category="culture"]     .entry-glyph { color: var(--cat-culture); }
+.fam-cat-group[data-category="culinary"]    .entry-glyph { color: var(--cat-culinary); }
+.fam-cat-group[data-category="arts"]        .entry-glyph { color: var(--cat-arts); }
+.fam-cat-group[data-category="science"]     .entry-glyph { color: var(--cat-science); }
+.fam-cat-group[data-category="daily"]       .entry-glyph { color: var(--cat-daily); }
+.fam-cat-group[data-category="hubs"]        .entry-glyph { color: var(--cat-hubs); }
+
+/* ── Family cards (Explore page + crosslink rows + homepage hub) ─────── */
+.families-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 1rem;
+  margin-bottom: 2.5rem;
+}
+.family-card {
+  display: flex;
+  flex-direction: column;
+  background: var(--papyrus-2);
+  border: 1px solid var(--rule);
+  border-top: 3px solid var(--rule-2);
+  border-radius: var(--radius-lg);
+  text-decoration: none;
+  color: var(--ink-3);
+  overflow: hidden;
+  transition: background 0.15s, border-color 0.15s, transform 0.15s, box-shadow 0.15s;
+  min-height: 240px;
+}
+.family-card:hover {
+  background: var(--papyrus-3);
+  transform: translateY(-3px);
+  box-shadow: 0 6px 18px rgba(28,18,8,0.08);
+}
+.family-card:focus-visible {
+  outline: none;
+  border-color: var(--ochre);
+  box-shadow: 0 0 0 2px rgba(160,100,40,0.25);
+}
+.family-card[data-family="language"]    { border-top-color: var(--cat-grammar); }
+.family-card[data-family="topics"]      { border-top-color: var(--cat-philosophy); }
+.family-card[data-family="collections"] { border-top-color: var(--cat-chengyu); }
+.family-card[data-family="explore"]     { border-top-color: var(--ochre); }
+
+.family-card-art {
+  height: 140px;
+  flex-shrink: 0;
+  display: flex; align-items: center; justify-content: center;
+  background: linear-gradient(180deg, var(--papyrus) 0%, var(--papyrus-2) 100%);
+  border-bottom: 1px solid var(--rule);
+}
+.family-card-art svg { width: 100%; height: 100%; display: block; }
+
+.family-card-meta {
+  padding: 1rem 1.1rem 1.1rem;
+  display: flex; flex-direction: column; gap: 0.3rem;
+  flex: 1;
+}
+.family-card-eyebrow {
+  font-family: var(--font-mono); font-size: 0.62rem; letter-spacing: 0.18em;
+  text-transform: uppercase; color: var(--ink-5);
+}
+.family-card-title {
+  font-family: var(--font-body); font-size: 1.5rem; font-weight: 600;
+  color: var(--ink); margin: 0; line-height: 1.15;
+}
+.family-card[data-family="language"]    .family-card-title { color: var(--cat-grammar); }
+.family-card[data-family="topics"]      .family-card-title { color: var(--cat-philosophy); }
+.family-card[data-family="collections"] .family-card-title { color: var(--cat-chengyu); }
+.family-card[data-family="explore"]     .family-card-title { color: var(--ochre-2); }
+.family-card-desc { font-size: 0.88rem; color: var(--ink-3); line-height: 1.5; margin: 0.15rem 0 0; }
+.family-card-stat {
+  font-family: var(--font-mono); font-size: 0.66rem; letter-spacing: 0.12em;
+  color: var(--ochre); text-transform: uppercase; margin-top: 0.4rem;
+}
+.family-card-members {
+  font-size: 0.78rem; color: var(--ink-5); font-style: italic; line-height: 1.45;
+  margin-top: 0.15rem;
+}
+
+/* Compact card variant for crosslinks */
+.family-card-sm { min-height: 180px; }
+.family-card-sm .family-card-art { height: 100px; }
+.family-card-sm .family-card-title { font-size: 1.2rem; }
+
+.family-crosslinks {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 0.85rem;
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+}
+
+/* ── All-categories reference grid (Explore page bottom) ─────────────── */
+.all-cats-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+  gap: 0.55rem;
+  margin-top: 1rem;
+  margin-bottom: 2.5rem;
+}
+.all-cat-link {
+  display: flex; align-items: center; gap: 0.55rem;
+  padding: 0.55rem 0.75rem;
+  background: var(--papyrus-2);
+  border: 1px solid var(--rule);
+  border-radius: var(--radius);
+  text-decoration: none; color: var(--ink-3);
+  transition: background 0.12s, border-color 0.12s, transform 0.12s;
+}
+.all-cat-link:hover { background: var(--papyrus-3); border-color: var(--rule-2); transform: translateX(2px); }
+.all-cat-link:focus-visible { outline: none; border-color: var(--ochre); box-shadow: 0 0 0 2px rgba(160,100,40,0.25); }
+.acl-cn { font-family: var(--font-cn-display); font-weight: 700; font-size: 1.15rem; line-height: 1; }
+.acl-en { font-size: 0.82rem; flex: 1; color: var(--ink-3); }
+.acl-count { font-family: var(--font-mono); font-size: 0.7rem; color: var(--ink-5); }
+
+@media (max-width: 720px) {
+  .family-hero { padding: 1.6rem 1.2rem 1.4rem; }
+  .family-hero-meta { max-width: 100%; }
+  .family-card { min-height: 200px; }
+  .family-card-art { height: 110px; }
+  .families-grid, .family-crosslinks { grid-template-columns: 1fr; }
+  .fam-cat-group .entry-grid { grid-template-columns: 1fr 1fr; gap: 0.55rem; }
+  .fam-cat-group[data-category="hubs"] .entry-grid { grid-template-columns: 1fr; }
+}
+
 /* ── RESPONSIVE ──────────────────────────────────────────── */
 
 /* Tablet: sidebar still visible but narrower; hero glyph smaller */

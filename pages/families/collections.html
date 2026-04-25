@@ -81,7 +81,33 @@
 
     <header class="topic-hero family-hero family-hero-collections" data-family="collections">
       <div class="family-hero-art" aria-hidden="true">
-        <!--FAMILY_HERO_ART-->
+        <svg class="family-hero-svg" viewBox="0 0 800 280" preserveAspectRatio="xMidYMid slice"
+              xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Collections family illustration">
+    <text x="78%" y="68%" text-anchor="middle" dominant-baseline="middle"
+       font-family="LXGW WenKai TC, Noto Serif SC, serif"
+       font-size="320" font-weight="700"
+       fill="var(--cat-chengyu)" opacity="0.07"
+       style="letter-spacing: -0.02em">集</text>
+    <g transform="translate(110, 65)">
+      <!-- 2x2 chengyu grid -->
+      <rect x="0" y="0" width="70" height="70" fill="none" stroke="var(--cat-chengyu)" stroke-width="1.6" opacity="0.7" rx="3"/>
+      <rect x="78" y="0" width="70" height="70" fill="none" stroke="var(--cat-chengyu)" stroke-width="1.6" opacity="0.7" rx="3"/>
+      <rect x="0" y="78" width="70" height="70" fill="none" stroke="var(--cat-chengyu)" stroke-width="1.6" opacity="0.7" rx="3"/>
+      <rect x="78" y="78" width="70" height="70" fill="none" stroke="var(--cat-chengyu)" stroke-width="1.6" opacity="0.7" rx="3"/>
+      <text x="35" y="46" text-anchor="middle" font-family="LXGW WenKai TC, serif" font-size="40" font-weight="700" fill="var(--cat-chengyu)">画</text>
+      <text x="113" y="46" text-anchor="middle" font-family="LXGW WenKai TC, serif" font-size="40" font-weight="700" fill="var(--cat-chengyu)" opacity="0.85">蛇</text>
+      <text x="35" y="124" text-anchor="middle" font-family="LXGW WenKai TC, serif" font-size="40" font-weight="700" fill="var(--cat-chengyu)" opacity="0.85">添</text>
+      <text x="113" y="124" text-anchor="middle" font-family="LXGW WenKai TC, serif" font-size="40" font-weight="700" fill="var(--cat-chengyu)" opacity="0.7">足</text>
+    </g>
+    <!-- path line — winding "reading path" -->
+    <path d="M 290 180 Q 360 110 430 180 T 580 200 T 730 150"
+          fill="none" stroke="var(--cat-hubs)" stroke-width="1.6" opacity="0.55" stroke-dasharray="4 4"/>
+    <!-- waypoints on the path -->
+    <circle cx="290" cy="180" r="4" fill="var(--cat-hubs)" opacity="0.78"/>
+    <circle cx="430" cy="180" r="4" fill="var(--cat-hubs)" opacity="0.78"/>
+    <circle cx="580" cy="200" r="4" fill="var(--cat-hubs)" opacity="0.78"/>
+    <circle cx="730" cy="150" r="4" fill="var(--cat-hubs)" opacity="0.78"/>
+  </svg>
       </div>
       <div class="family-hero-meta">
         <span class="topic-hero-eyebrow">集锦 jíjǐn · Family</span>
@@ -92,9 +118,107 @@
       </div>
     </header>
 
-    <!--FAMILY_CONTENT-->
+    
+    <div class="fam-intro">
+      <span class="fam-intro-stat">25 entries · 2 categories</span>
+      <p class="fam-intro-text">Idioms and curated reading paths — entries grouped to be read together.</p>
+    </div>
+    <section class="cat-group fam-cat-group" id="cat-chengyu" data-category="chengyu">
+      <div class="cat-head fam-cat-head">
+        <span class="sh-cn" style="color: var(--cat-chengyu)">成语</span>
+        <span class="sh-py">chéngyǔ</span>
+        <span class="sh-en">Chengyu</span>
+        <span class="sh-rule"></span>
+        <span class="cat-count">13 entries</span>
+      </div>
+      <p class="fam-cat-desc">Four-character idioms. Compressed wisdom from classical texts.</p>
+      <div class="entry-grid">
+        <a class="entry-card" href="../chengyu/yimaobuba_一毛不拔.html" data-category="chengyu"><span class="entry-glyph glyph-4">一毛不拔</span><span class="entry-pinyin">yī máo bù bá</span><span class="entry-title">Not Give Even a Hair</span><span class="entry-desc">Refuse to give even a single hair from your body. Mencius&#39;s phrase for the Yangist philosophy of radical self-preservation — and the word for a miser that it became.</span></a>
+        <a class="entry-card" href="../chengyu/kezhouqiujian_刻舟求剑.html" data-category="chengyu"><span class="entry-glyph glyph-4">刻舟求剑</span><span class="entry-pinyin">kè zhōu qiú jiàn</span><span class="entry-title">Carving the Boat to Find the Sword</span><span class="entry-desc">He marked the boat where his sword fell into the river. When the boat reached the shore, he dived where the mark was.</span></a>
+        <a class="entry-card" href="../chengyu/yeggonghalong_叶公好龙.html" data-category="chengyu"><span class="entry-glyph glyph-4">叶公好龙</span><span class="entry-pinyin">Yègōng hào lóng</span><span class="entry-title">Lord Ye Loves Dragons</span><span class="entry-desc">He decorated his palace with dragons — until a real one appeared. The idiom for loving what you only love in the abstract.</span></a>
+        <a class="entry-card" href="../chengyu/saiwengshima_塞翁失马.html" data-category="chengyu"><span class="entry-glyph glyph-4">塞翁失马</span><span class="entry-pinyin">sài wēng shī mǎ</span><span class="entry-title">The Old Man at the Frontier Loses His Horse</span><span class="entry-desc">His horse ran off. His neighbours grieved. He shrugged. The Daoist parable that became China&#39;s word for the unknowability of fortune.</span></a>
+        <a class="entry-card" href="../chengyu/shouzhudaitu_守株待兔.html" data-category="chengyu"><span class="entry-glyph glyph-4">守株待兔</span><span class="entry-pinyin">shǒu zhū dài tù</span><span class="entry-title">Guarding the Stump, Waiting for Rabbits</span><span class="entry-desc">A rabbit ran headlong into a tree stump. The farmer dropped his plough and watched the stump for the rest of his life.</span></a>
+        <a class="entry-card" href="../chengyu/renshanshuixiu_山清水秀.html" data-category="chengyu"><span class="entry-glyph glyph-4">山清水秀</span><span class="entry-pinyin">shān qīng shuǐ xiù</span><span class="entry-title">Mountains Clear, Waters Lovely</span><span class="entry-desc">Clear mountains, lovely waters. The standard Chinese phrase for a picturesque landscape — four characters that compress the whole aesthetic vocabulary of natural beauty.</span></a>
+        <a class="entry-card" href="../chengyu/yugongyishan_愚公移山.html" data-category="chengyu"><span class="entry-glyph glyph-4">愚公移山</span><span class="entry-pinyin">yú gōng yí shān</span><span class="entry-title">The Foolish Old Man Moves the Mountains</span><span class="entry-desc">Two mountains blocked his door. He and his sons began to move them, one basket at a time. A mocker laughed. He said: when I die my sons will continue; when they die, their sons.</span></a>
+        <a class="entry-card" href="../chengyu/yujiegoulong_欲速则不达.html" data-category="chengyu"><span class="entry-glyph glyph-4">欲速则不达</span><span class="entry-pinyin">yù sù zé bù dá</span><span class="entry-title">Haste Does Not Bring Success</span><span class="entry-desc">Speed desired, arrival missed — Confucius on why rushing produces the opposite of what you intend.</span></a>
+        <a class="entry-card" href="../chengyu/huashetianzu_画蛇添足.html" data-category="chengyu"><span class="entry-glyph glyph-4">画蛇添足</span><span class="entry-pinyin">huà shé tiān zú</span><span class="entry-title">Drawing Legs on a Snake</span><span class="entry-desc">He finished first, so he kept drawing — and lost the prize. The idiom for ruining a good thing by overdoing it.</span></a>
+        <a class="entry-card" href="../chengyu/maodun_矛盾.html" data-category="chengyu"><span class="entry-glyph glyph-2">矛盾</span><span class="entry-pinyin">máodùn</span><span class="entry-title">Contradiction</span><span class="entry-desc">The spear that can pierce anything meets the shield that can stop anything — the story behind China&#39;s word for contradiction.</span></a>
+        <a class="entry-card" href="../chengyu/wuruqitu_误入歧途.html" data-category="chengyu"><span class="entry-glyph glyph-4">误入歧途</span><span class="entry-pinyin">wù rù qí tú</span><span class="entry-title">To Stray onto the Wrong Road</span><span class="entry-desc">The four-character idiom for taking a wrong turn — morally, professionally, or literally. Where 迷途知返 describes the recovery, 误入歧途 describes the moment things went wrong.</span></a>
+        <a class="entry-card" href="../chengyu/mituzhifan_迷途知返.html" data-category="chengyu"><span class="entry-glyph glyph-4">迷途知返</span><span class="entry-pinyin">mí tú zhī fǎn</span><span class="entry-title">To Realise You Are Lost and Turn Back</span><span class="entry-desc">Four characters that describe one of the most human experiences: taking a wrong road, recognising it, and finding the way home. The Chinese idiom for course-correction done with dignity.</span></a>
+        <a class="entry-card" href="../chengyu/qingchulanlan_青出于蓝.html" data-category="chengyu"><span class="entry-glyph glyph-4">青出于蓝</span><span class="entry-pinyin">qīng chū yú lán</span><span class="entry-title">The Student Surpasses the Teacher</span><span class="entry-desc">Indigo is made from the indigo plant, yet it is bluer than the plant itself. Xunzi&#39;s image for the student who surpasses the teacher through sustained effort.</span></a>
+      </div>
+    </section>
 
-    <!--FAMILY_CROSSLINKS-->
+    <section class="cat-group fam-cat-group" id="cat-hubs" data-category="hubs">
+      <div class="cat-head fam-cat-head">
+        <span class="sh-cn" style="color: var(--cat-hubs)">读径</span>
+        <span class="sh-py">dú jìng</span>
+        <span class="sh-en">Reading Paths</span>
+        <span class="sh-rule"></span>
+        <span class="cat-count">12 entries</span>
+      </div>
+      <p class="fam-cat-desc">Curated reading paths through thematic clusters.</p>
+      <div class="entry-grid">
+        <a class="entry-card" href="../hubs/zhongyi.html" data-category="hubs"><span class="entry-glyph glyph-2">中医</span><span class="entry-pinyin">zhōngyī</span><span class="entry-title">Traditional Chinese Medicine — A Reading Path</span><span class="entry-desc">A guided walk through the philosophy, practice, and vocabulary of Chinese medicine — from yin-yang and qi to acupuncture, herbology, and the five phases.</span></a>
+        <a class="entry-card" href="../hubs/tea.html" data-category="hubs"><span class="entry-glyph glyph-4">六大茶类</span><span class="entry-pinyin">liù dà chá lèi</span><span class="entry-title">The Six Teas — A Reading Path</span><span class="entry-desc">A guided tour through the six classes of Chinese tea, plus the character, the utensils, and the gongfu ceremony.</span></a>
+        <a class="entry-card" href="../hubs/zhexue.html" data-category="hubs"><span class="entry-glyph glyph-2">哲学</span><span class="entry-pinyin">zhéxué</span><span class="entry-title">Chinese Philosophy — A Reading Path</span><span class="entry-desc">A guided walk through the great schools of Chinese thought — from Confucius and Laozi to the Neo-Confucian synthesis and the living debate between order and spontaneity.</span></a>
+        <a class="entry-card" href="../hubs/faming.html" data-category="hubs"><span class="entry-glyph glyph-4">四大发明与技术</span><span class="entry-pinyin">fāmíng yǔ jìshù</span><span class="entry-title">Invention and Technology — A Reading Path</span><span class="entry-desc">Chinese technological innovation was not a story of lone inventors. It was systematic accumulation within state institutions and artisan guilds over centuries, carried by people whose names the record does not preserve.</span></a>
+        <a class="entry-card" href="../hubs/dili.html" data-category="hubs"><span class="entry-glyph glyph-4">地理与语言</span><span class="entry-pinyin">dìlǐ yǔ yǔyán</span><span class="entry-title">Geography and Language — A Reading Path</span><span class="entry-desc">The rivers shaped the civilization; geography fractured the language; one writing system held it together.</span></a>
+        <a class="entry-card" href="../hubs/zongjiao.html" data-category="hubs"><span class="entry-glyph glyph-4">宗教地图</span><span class="entry-pinyin">zōngjiào dìtú</span><span class="entry-title">The Religious Map — A Reading Path</span><span class="entry-desc">Chinese religiosity doesn&#39;t fit Western categories. Most people practice elements of Confucianism, Daoism, Buddhism, folk religion, and ancestor veneration simultaneously — a map of how these traditions relate.</span></a>
+        <a class="entry-card" href="../hubs/wenxue.html" data-category="hubs"><span class="entry-glyph glyph-4">文学路径</span><span class="entry-pinyin">wénxué lùjìng</span><span class="entry-title">Literary China — A Reading Path</span><span class="entry-desc">Chinese literature is not a sequence of styles that replaced each other. It is an accumulation. This path follows the layering forward in time.</span></a>
+        <a class="entry-card" href="../hubs/dynasties.html" data-category="hubs"><span class="entry-glyph glyph-2">朝代</span><span class="entry-pinyin">cháodài</span><span class="entry-title">The Dynasties — A Reading Path Through Chinese History</span><span class="entry-desc">A guided walk through four thousand years of Chinese dynasties, from the three founding houses to the modern ruptures that ended imperial rule.</span></a>
+        <a class="entry-card" href="../hubs/hanzi.html" data-category="hubs"><span class="entry-glyph glyph-2">汉字</span><span class="entry-pinyin">hànzì</span><span class="entry-title">The Writing System — A Reading Path</span><span class="entry-desc">A guided walk through Chinese characters — from oracle bone to modern glyph, from radical to compound, from stroke to calligraphy.</span></a>
+        <a class="entry-card" href="../hubs/hanyu.html" data-category="hubs"><span class="entry-glyph glyph-4">汉语学习路</span><span class="entry-pinyin">hànyǔ xué xí lù</span><span class="entry-title">Learning Chinese — A Reading Path</span><span class="entry-desc">A staged reading path from tones and sounds through characters, grammar, and a first encounter with classical Chinese.</span></a>
+        <a class="entry-card" href="../hubs/jieri.html" data-category="hubs"><span class="entry-glyph glyph-2">节日</span><span class="entry-pinyin">jiérì</span><span class="entry-title">The Festival Calendar — A Reading Path</span><span class="entry-desc">A guided walk through the Chinese year — the lunar calendar, the solar terms, and the great festivals that mark the turning of time.</span></a>
+        <a class="entry-card" href="../hubs/daode.html" data-category="hubs"><span class="entry-glyph glyph-4">道德与伦理</span><span class="entry-pinyin">dàodé yǔ lúnlǐ</span><span class="entry-title">Morality and Ethics — A Reading Path</span><span class="entry-desc">Chinese ethics is not a checklist of personal virtues. It is a description of how one should relate to specific others — and what happens when those relationships are tested.</span></a>
+      </div>
+    </section>
+
+    
+    <span class="section-anchor" id="continue"></span>
+    <div class="section-head">
+      <span class="sh-cn">继续</span>
+      <span class="sh-py">jìxù</span>
+      <span class="sh-en">Continue exploring</span>
+      <span class="sh-rule"></span>
+    </div>
+    <div class="family-crosslinks">
+      <a class="family-card family-card-sm" href="language.html" data-family="language">
+        <div class="family-card-art" aria-hidden="true"><svg viewBox="0 0 200 200" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+        <rect x="36" y="36" width="128" height="128" fill="none" stroke="var(--cat-vocab)" stroke-width="2" opacity="0.5" rx="4"/>
+        <text x="100" y="118" text-anchor="middle" font-family="LXGW WenKai TC, serif" font-size="110" font-weight="700" fill="var(--cat-grammar)">语</text>
+      </svg></div>
+        <div class="family-card-meta">
+          <span class="family-card-eyebrow">语言 yǔyán</span>
+          <h3 class="family-card-title">Language</h3>
+          <span class="family-card-members">Characters · Vocabulary · Grammar</span>
+        </div>
+      </a>
+      <a class="family-card family-card-sm" href="topics.html" data-family="topics">
+        <div class="family-card-art" aria-hidden="true"><svg viewBox="0 0 200 200" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+        <circle cx="100" cy="100" r="78" fill="none" stroke="var(--cat-philosophy)" stroke-width="1.4" opacity="0.45"/>
+        <circle cx="100" cy="100" r="58" fill="none" stroke="var(--cat-history)" stroke-width="0.8" opacity="0.4"/>
+        <text x="100" y="118" text-anchor="middle" font-family="LXGW WenKai TC, serif" font-size="100" font-weight="700" fill="var(--cat-philosophy)">话</text>
+      </svg></div>
+        <div class="family-card-meta">
+          <span class="family-card-eyebrow">话题 huàtí</span>
+          <h3 class="family-card-title">Topics</h3>
+          <span class="family-card-members">Philosophy · Religion · History · Geography · Culture · Everyday Life · Culinary · Arts &amp; Literature · Science &amp; Medicine</span>
+        </div>
+      </a>
+      <a class="family-card family-card-sm family-card-explore" href="explore.html" data-family="explore">
+        <div class="family-card-art" aria-hidden="true"><svg viewBox="0 0 200 200" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+        <ellipse cx="100" cy="100" rx="78" ry="42" fill="none" stroke="var(--ochre)" stroke-width="0.9" opacity="0.35" transform="rotate(-12 100 100)"/>
+        <ellipse cx="100" cy="100" rx="78" ry="42" fill="none" stroke="var(--red)" stroke-width="0.7" opacity="0.3" transform="rotate(35 100 100)"/>
+        <text x="100" y="120" text-anchor="middle" font-family="LXGW WenKai TC, serif" font-size="100" font-weight="700" fill="var(--red)">探</text>
+      </svg></div>
+        <div class="family-card-meta">
+          <span class="family-card-eyebrow">探 tàn</span>
+          <h3 class="family-card-title">Explore</h3>
+          <span class="family-card-members">All families · all categories</span>
+        </div>
+      </a>
+    </div>
 
     <span class="section-anchor" id="related"></span>
     <div class="section-head">

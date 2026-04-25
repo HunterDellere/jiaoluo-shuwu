@@ -124,10 +124,12 @@ const TYPE_INVARIANTS = {
       test: (h, m) => h.includes(`<div class="hero-glyph">${m.char}</div>`) ||
                        h.includes(`<span class="hero-glyph">${m.char}</span>`) },
   ],
-  topic:   [{ name: 'topic.topic-hero',   test: h => /<header class="topic-hero"/.test(h) }],
-  vocab:   [{ name: 'vocab.topic-hero',   test: h => /<header class="topic-hero"/.test(h) }],
-  grammar: [{ name: 'grammar.topic-hero', test: h => /<header class="topic-hero"/.test(h) }],
-  chengyu: [{ name: 'chengyu.topic-hero', test: h => /<header class="topic-hero"/.test(h) }],
+  // Topic-style hero invariant: tolerate multi-class headers (e.g.
+  // family-index pages add `family-hero` modifier classes alongside `topic-hero`).
+  topic:   [{ name: 'topic.topic-hero',   test: h => /<header class="[^"]*\btopic-hero\b/.test(h) }],
+  vocab:   [{ name: 'vocab.topic-hero',   test: h => /<header class="[^"]*\btopic-hero\b/.test(h) }],
+  grammar: [{ name: 'grammar.topic-hero', test: h => /<header class="[^"]*\btopic-hero\b/.test(h) }],
+  chengyu: [{ name: 'chengyu.topic-hero', test: h => /<header class="[^"]*\btopic-hero\b/.test(h) }],
   hub:     [{ name: 'hub.path-anchor',    test: h => /id="path"/.test(h) }],
 };
 
