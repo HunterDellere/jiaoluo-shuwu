@@ -379,7 +379,7 @@ function renderPage(fm, body, slug, category) {
   const favicon = categoryFaviconDataUri(category);
   const canonicalUrl = `${SITE_URL}/pages/${category}/${slug}.html`;
 
-  const page = LAYOUT
+  let page = LAYOUT
     .replace('{{{metaComment}}}', metaComment)
     .replace('{{{pageTitle}}}', pageTitle)
     .replace('{{{metaDesc}}}', metaDesc)
@@ -388,6 +388,12 @@ function renderPage(fm, body, slug, category) {
     .replace('{{{favicon}}}', favicon)
     .replace('{{{canonicalUrl}}}', canonicalUrl)
     .replace('{{{pageBody}}}', injectTopicHeroEn(body, fm).trim());
+
+  // On the master Explore page itself, strip the topnav "Explore" back-link
+  // (it would just point at the current page). Random link stays.
+  if (fm.family === 'explore') {
+    page = page.replace(/\s*<a [^>]*class="topnav-back"[^>]*>[\s\S]*?<\/a>/, '');
+  }
 
   return page;
 }
