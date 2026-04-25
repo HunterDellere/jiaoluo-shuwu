@@ -509,6 +509,18 @@
     ],
     "hasPage": true
   },
+  "关系": {
+    "cn": "关系",
+    "py": "guānxi",
+    "en": "relationship, connection",
+    "count": 3,
+    "appearsOn": [
+      "pages/characters/guan1_关.html",
+      "pages/vocab/keqi_客气.html",
+      "pages/vocab/mianzi_面子.html"
+    ],
+    "hasPage": true
+  },
   "过": {
     "cn": "过",
     "py": "guò",
@@ -1205,17 +1217,6 @@
     ],
     "hasPage": false
   },
-  "关系": {
-    "cn": "关系",
-    "py": "guānxì",
-    "en": "connections",
-    "count": 2,
-    "appearsOn": [
-      "pages/vocab/keqi_客气.html",
-      "pages/vocab/mianzi_面子.html"
-    ],
-    "hasPage": true
-  },
   "规矩": {
     "cn": "规矩",
     "py": "guīju",
@@ -1480,6 +1481,17 @@
     ],
     "hasPage": false
   },
+  "开": {
+    "cn": "开",
+    "py": "kāi",
+    "en": "to open, to start",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/guan1_关.html",
+      "pages/grammar/ba_把.html"
+    ],
+    "hasPage": true
+  },
   "科举": {
     "cn": "科举",
     "py": "kējǔ",
@@ -1587,6 +1599,17 @@
     "appearsOn": [
       "pages/history/topic_gaige.html",
       "pages/history/topic_wenge.html"
+    ],
+    "hasPage": false
+  },
+  "门": {
+    "cn": "门",
+    "py": "mén",
+    "en": "door, gate",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/guan1_关.html",
+      "pages/characters/kai1_开.html"
     ],
     "hasPage": false
   },
@@ -2294,6 +2317,17 @@
     ],
     "hasPage": false
   },
+  "再见": {
+    "cn": "再见",
+    "py": "zàijiàn",
+    "en": "goodbye",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/jian4_见.html",
+      "pages/characters/zai4_再.html"
+    ],
+    "hasPage": false
+  },
   "长辈": {
     "cn": "长辈",
     "py": "zhǎngbèi",
@@ -2721,6 +2755,16 @@
     "count": 1,
     "appearsOn": [
       "pages/vocab/hanzi_汉字.html"
+    ],
+    "hasPage": false
+  },
+  "闭": {
+    "cn": "闭",
+    "py": "bì",
+    "en": "to close, to shut (formal)",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/guan1_关.html"
     ],
     "hasPage": false
   },
@@ -3324,6 +3368,16 @@
     ],
     "hasPage": false
   },
+  "出现": {
+    "cn": "出现",
+    "py": "chūxiàn",
+    "en": "to appear, to emerge",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/jian4_见.html"
+    ],
+    "hasPage": false
+  },
   "除非…否则": {
     "cn": "除非…否则",
     "py": "chúfēi…fǒuzé",
@@ -3464,6 +3518,16 @@
     ],
     "hasPage": false
   },
+  "打开": {
+    "cn": "打开",
+    "py": "dǎkāi",
+    "en": "to open up",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/kai1_开.html"
+    ],
+    "hasPage": false
+  },
   "打扫": {
     "cn": "打扫",
     "py": "dǎsǎo",
@@ -3581,6 +3645,16 @@
     "count": 1,
     "appearsOn": [
       "pages/religion/topic_daojiao.html"
+    ],
+    "hasPage": false
+  },
+  "担心": {
+    "cn": "担心",
+    "py": "dānxīn",
+    "en": "to worry",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/guan1_关.html"
     ],
     "hasPage": false
   },
@@ -4034,6 +4108,16 @@
     ],
     "hasPage": false
   },
+  "发现": {
+    "cn": "发现",
+    "py": "fāxiàn",
+    "en": "to discover",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/jian4_见.html"
+    ],
+    "hasPage": false
+  },
   "法": {
     "cn": "法",
     "py": "fǎ",
@@ -4121,6 +4205,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/jia1_家.html"
+    ],
+    "hasPage": false
+  },
+  "放": {
+    "cn": "放",
+    "py": "fàng",
+    "en": "to release, to put down",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/kai1_开.html"
     ],
     "hasPage": false
   },
@@ -4301,6 +4395,16 @@
     "count": 1,
     "appearsOn": [
       "pages/vocab/tianming_天命.html"
+    ],
+    "hasPage": false
+  },
+  "改革": {
+    "cn": "改革",
+    "py": "gǎigé",
+    "en": "reform (as in 改革开放)",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/kai1_开.html"
     ],
     "hasPage": false
   },
@@ -4654,6 +4758,26 @@
     ],
     "hasPage": false
   },
+  "关": {
+    "cn": "关",
+    "py": "guān",
+    "en": "to close, to shut",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/kai1_开.html"
+    ],
+    "hasPage": true
+  },
+  "关闭": {
+    "cn": "关闭",
+    "py": "guānbì",
+    "en": "to close (formal)",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/guan1_关.html"
+    ],
+    "hasPage": false
+  },
   "关汉卿": {
     "cn": "关汉卿",
     "py": "Guān Hànqīng",
@@ -4664,6 +4788,16 @@
     ],
     "hasPage": false
   },
+  "关键": {
+    "cn": "关键",
+    "py": "guānjiàn",
+    "en": "key, crucial",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/guan1_关.html"
+    ],
+    "hasPage": false
+  },
   "关联": {
     "cn": "关联",
     "py": "guānlián",
@@ -4671,6 +4805,36 @@
     "count": 1,
     "appearsOn": [
       "pages/vocab/guanxi_关系.html"
+    ],
+    "hasPage": false
+  },
+  "关心": {
+    "cn": "关心",
+    "py": "guānxīn",
+    "en": "to care about",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/guan1_关.html"
+    ],
+    "hasPage": false
+  },
+  "关于": {
+    "cn": "关于",
+    "py": "guānyú",
+    "en": "regarding, about",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/guan1_关.html"
+    ],
+    "hasPage": false
+  },
+  "关注": {
+    "cn": "关注",
+    "py": "guānzhù",
+    "en": "to pay attention to; to follow",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/guan1_关.html"
     ],
     "hasPage": false
   },
@@ -4781,6 +4945,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/jia1_家.html"
+    ],
+    "hasPage": false
+  },
+  "海关": {
+    "cn": "海关",
+    "py": "hǎiguān",
+    "en": "customs office",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/guan1_关.html"
     ],
     "hasPage": false
   },
@@ -5482,6 +5656,26 @@
     "appearsOn": [
       "pages/grammar/bei_被.html"
     ],
+    "hasPage": true
+  },
+  "见解": {
+    "cn": "见解",
+    "py": "jiànjiě",
+    "en": "view, interpretation",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/jian4_见.html"
+    ],
+    "hasPage": false
+  },
+  "见面": {
+    "cn": "见面",
+    "py": "jiànmiàn",
+    "en": "to meet face to face",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/jian4_见.html"
+    ],
     "hasPage": false
   },
   "见外": {
@@ -5641,6 +5835,16 @@
     "count": 1,
     "appearsOn": [
       "pages/grammar/de_的得地.html"
+    ],
+    "hasPage": false
+  },
+  "结束": {
+    "cn": "结束",
+    "py": "jiéshù",
+    "en": "to conclude",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/kai1_开.html"
     ],
     "hasPage": false
   },
@@ -5914,13 +6118,63 @@
     ],
     "hasPage": false
   },
-  "开": {
-    "cn": "开",
-    "py": "kāi",
-    "en": "open; apart (directional/resultative)",
+  "开车": {
+    "cn": "开车",
+    "py": "kāi chē",
+    "en": "to drive",
     "count": 1,
     "appearsOn": [
-      "pages/grammar/ba_把.html"
+      "pages/characters/kai1_开.html"
+    ],
+    "hasPage": false
+  },
+  "开放": {
+    "cn": "开放",
+    "py": "kāifàng",
+    "en": "to open up; open-minded",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/kai1_开.html"
+    ],
+    "hasPage": false
+  },
+  "开关": {
+    "cn": "开关",
+    "py": "kāiguān",
+    "en": "a switch",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/guan1_关.html"
+    ],
+    "hasPage": false
+  },
+  "开会": {
+    "cn": "开会",
+    "py": "kāi huì",
+    "en": "to hold a meeting",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/kai1_开.html"
+    ],
+    "hasPage": false
+  },
+  "开始": {
+    "cn": "开始",
+    "py": "kāishǐ",
+    "en": "to begin",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/kai1_开.html"
+    ],
+    "hasPage": false
+  },
+  "开心": {
+    "cn": "开心",
+    "py": "kāi xīn",
+    "en": "happy, cheerful",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/kai1_开.html"
     ],
     "hasPage": false
   },
@@ -5941,6 +6195,26 @@
     "count": 1,
     "appearsOn": [
       "pages/vocab/fengshui_风水.html"
+    ],
+    "hasPage": false
+  },
+  "看": {
+    "cn": "看",
+    "py": "kàn",
+    "en": "to look at, to watch",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/jian4_见.html"
+    ],
+    "hasPage": false
+  },
+  "看见": {
+    "cn": "看见",
+    "py": "kànjiàn",
+    "en": "to see, to spot",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/jian4_见.html"
     ],
     "hasPage": false
   },
@@ -6964,6 +7238,16 @@
     ],
     "hasPage": false
   },
+  "目": {
+    "cn": "目",
+    "py": "mù",
+    "en": "eye (component)",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/jian4_见.html"
+    ],
+    "hasPage": false
+  },
   "墓地": {
     "cn": "墓地",
     "py": "mùdì",
@@ -7231,6 +7515,16 @@
     "count": 1,
     "appearsOn": [
       "pages/history/topic_wenge.html"
+    ],
+    "hasPage": false
+  },
+  "偏见": {
+    "cn": "偏见",
+    "py": "piānjiàn",
+    "en": "prejudice, bias",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/jian4_见.html"
     ],
     "hasPage": false
   },
@@ -8324,6 +8618,16 @@
     ],
     "hasPage": false
   },
+  "始": {
+    "cn": "始",
+    "py": "shǐ",
+    "en": "to begin (classical)",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/kai1_开.html"
+    ],
+    "hasPage": false
+  },
   "市场": {
     "cn": "市场",
     "py": "shìchǎng",
@@ -8961,6 +9265,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/lu4_路.html"
+    ],
+    "hasPage": false
+  },
+  "听见": {
+    "cn": "听见",
+    "py": "tīngjiàn",
+    "en": "to hear",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/jian4_见.html"
     ],
     "hasPage": false
   },
@@ -10624,6 +10938,16 @@
     ],
     "hasPage": false
   },
+  "意见": {
+    "cn": "意见",
+    "py": "yìjiàn",
+    "en": "opinion, suggestion",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/jian4_见.html"
+    ],
+    "hasPage": false
+  },
   "意图": {
     "cn": "意图",
     "py": "yìtú",
@@ -10974,6 +11298,16 @@
     ],
     "hasPage": false
   },
+  "远见": {
+    "cn": "远见",
+    "py": "yuǎnjiàn",
+    "en": "foresight",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/jian4_见.html"
+    ],
+    "hasPage": false
+  },
   "愿意": {
     "cn": "愿意",
     "py": "yuànyì",
@@ -11078,16 +11412,6 @@
     "cn": "再次",
     "py": "zàicì",
     "en": "once again; once more (formal)",
-    "count": 1,
-    "appearsOn": [
-      "pages/characters/zai4_再.html"
-    ],
-    "hasPage": false
-  },
-  "再见": {
-    "cn": "再见",
-    "py": "zàijiàn",
-    "en": "goodbye (lit. see again)",
     "count": 1,
     "appearsOn": [
       "pages/characters/zai4_再.html"

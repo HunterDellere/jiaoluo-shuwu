@@ -6,7 +6,31 @@
     <atom:link href="https://jiaoshoo.com/feed.xml" rel="self" type="application/rss+xml" />
     <description>Notes on Chinese language and civilisation — characters, vocabulary, grammar, history, philosophy, and the world they shaped.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 25 Apr 2026 18:10:32 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Apr 2026 20:38:03 GMT</lastBuildDate>
+    <item>
+      <title>关 · to close, to concern, the frontier pass</title>
+      <link>https://jiaoshoo.com/pages/characters/guan1_关.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/guan1_关.html</guid>
+      <pubDate>Sat, 25 Apr 2026 00:00:00 GMT</pubDate>
+      <description>The bolt that closes a gate, the mountain pass that controls a frontier, and the relation that ties two people together. One character holds all three.</description>
+      <category>characters</category>
+    </item>
+    <item>
+      <title>见 · to see, to meet, to appear</title>
+      <link>https://jiaoshoo.com/pages/characters/jian4_见.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/jian4_见.html</guid>
+      <pubDate>Sat, 25 Apr 2026 00:00:00 GMT</pubDate>
+      <description>An eye on legs. The character that built Chinese verbs of seeing, meeting, opinion, and the moment a thing first comes into view.</description>
+      <category>characters</category>
+    </item>
+    <item>
+      <title>开 · to open, to start, to operate</title>
+      <link>https://jiaoshoo.com/pages/characters/kai1_开.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/kai1_开.html</guid>
+      <pubDate>Sat, 25 Apr 2026 00:00:00 GMT</pubDate>
+      <description>Two hands lifting the bar across a closed gate. From that single image flow most of modern life: opening a door, starting a meeting, driving a car, writing a check, blooming.</description>
+      <category>characters</category>
+    </item>
     <item>
       <title>路 · road, path, route</title>
       <link>https://jiaoshoo.com/pages/characters/lu4_路.html</link>
@@ -221,30 +245,6 @@
       <guid isPermaLink="true">https://jiaoshoo.com/pages/hubs/dili.html</guid>
       <pubDate>Wed, 22 Apr 2026 00:00:00 GMT</pubDate>
       <description>The rivers shaped the civilization; geography fractured the language; one writing system held it together.</description>
-      <category>hubs</category>
-    </item>
-    <item>
-      <title>四大发明与技术 · Invention and Technology — A Reading Path</title>
-      <link>https://jiaoshoo.com/pages/hubs/faming.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/hubs/faming.html</guid>
-      <pubDate>Wed, 22 Apr 2026 00:00:00 GMT</pubDate>
-      <description>Chinese technological innovation was not a story of lone inventors. It was systematic accumulation within state institutions and artisan guilds over centuries, carried by people whose names the record does not preserve.</description>
-      <category>hubs</category>
-    </item>
-    <item>
-      <title>汉语学习路 · Learning Chinese — A Reading Path</title>
-      <link>https://jiaoshoo.com/pages/hubs/hanyu.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/hubs/hanyu.html</guid>
-      <pubDate>Wed, 22 Apr 2026 00:00:00 GMT</pubDate>
-      <description>A staged reading path from tones and sounds through characters, grammar, and a first encounter with classical Chinese.</description>
-      <category>hubs</category>
-    </item>
-    <item>
-      <title>文学路径 · Literary China — A Reading Path</title>
-      <link>https://jiaoshoo.com/pages/hubs/wenxue.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/hubs/wenxue.html</guid>
-      <pubDate>Wed, 22 Apr 2026 00:00:00 GMT</pubDate>
-      <description>Chinese literature is not a sequence of styles that replaced each other. It is an accumulation. This path follows the layering forward in time.</description>
       <category>hubs</category>
     </item>
   </channel>

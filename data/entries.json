@@ -1,5 +1,62 @@
 [
   {
+    "path": "pages/characters/guan1_关.html",
+    "type": "character",
+    "category": "characters",
+    "title": "关 · to close, to concern, the frontier pass",
+    "desc": "The bolt that closes a gate, the mountain pass that controls a frontier, and the relation that ties two people together. One character holds all three.",
+    "tags": [
+      "change",
+      "connections",
+      "social"
+    ],
+    "status": "complete",
+    "char": "关",
+    "pinyin": "guān",
+    "tone": 1,
+    "hsk": 1,
+    "radical": "丷",
+    "updated": "2026-04-25"
+  },
+  {
+    "path": "pages/characters/jian4_见.html",
+    "type": "character",
+    "category": "characters",
+    "title": "见 · to see, to meet, to appear",
+    "desc": "An eye on legs. The character that built Chinese verbs of seeing, meeting, opinion, and the moment a thing first comes into view.",
+    "tags": [
+      "perception",
+      "knowing",
+      "daily-life"
+    ],
+    "status": "complete",
+    "char": "见",
+    "pinyin": "jiàn",
+    "tone": 4,
+    "hsk": 1,
+    "radical": "见",
+    "updated": "2026-04-25"
+  },
+  {
+    "path": "pages/characters/kai1_开.html",
+    "type": "character",
+    "category": "characters",
+    "title": "开 · to open, to start, to operate",
+    "desc": "Two hands lifting the bar across a closed gate. From that single image flow most of modern life: opening a door, starting a meeting, driving a car, writing a check, blooming.",
+    "tags": [
+      "change",
+      "motion",
+      "daily-life"
+    ],
+    "status": "complete",
+    "char": "开",
+    "pinyin": "kāi",
+    "tone": 1,
+    "hsk": 1,
+    "radical": "廾",
+    "updated": "2026-04-25"
+  },
+  {
     "path": "pages/characters/lu4_路.html",
     "type": "character",
     "category": "characters",
