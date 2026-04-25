@@ -183,10 +183,12 @@ Each entry object shape (for reference):
 <section class="section-anchor" id="formation"> (+ .section-head) → .pattern
 <section class="section-anchor" id="[group-id]"> × N → .cards with .card.c-*
 <section class="section-anchor" id="chengyu">  → .chengyu-grid + .cy entries
-<section class="section-anchor" id="adjacent"> → .adj-wrap + .adj chips
+<div class="adj-wrap"> → .adj chips                ← see "Related section" below
 <section class="section-anchor" id="retention"> → .scholar (image/memory hook)
 <footer class="page-footer">
 ```
+
+The `<div class="adj-wrap">` block is authored inline (no surrounding section-anchor / section-head). At build time it is hoisted into the auto-generated Related section as the chips tier; the build also injects the `#related` TOC entry. **Do not author a `#adjacent` anchor or section-head — the build strips them.**
 
 Sidebar uses `.toc-glyph`, `.toc-pinyin`, `.toc-divider`, `.toc-label`, `.toc-list`.
 
@@ -202,7 +204,7 @@ Sidebar uses `.toc-glyph`, `.toc-pinyin`, `.toc-divider`, `.toc-label`, `.toc-li
 <section ...> → .pattern (for structural/grammatical patterns)
 <section ...> → .cards vocab groups (as appropriate)
 <section ...> → .chengyu-grid (as appropriate)
-<section ...> → .adj-wrap (as appropriate)
+<div class="adj-wrap"> → .adj chips (as appropriate; hoisted into Related)
 <footer class="page-footer">
 ```
 
@@ -219,6 +221,37 @@ Each scrollable section must have a `.section-anchor` for the TOC scroll-spy to 
 The TOC link must point to `#etymology`. The IntersectionObserver in `toc-scroll.js` handles activation automatically.
 
 `.section-anchor` is a hidden zero-height element with `top: calc(-1 * (var(--nav-h) + 24px))` — this negative offset ensures that when a TOC link is clicked, the section scrolls into view below the sticky nav rather than hidden behind it. Do not remove or change this class.
+
+---
+
+## Related Section (auto-generated)
+
+Every complete page gets an auto-injected `<section class="section-anchor" id="related">` near the bottom of `<main>`, with two tiers:
+
+- **Top: card gallery** (`.related-cards` → `.related-card[data-category]`). Up to 8 cards picked by `build/lib/relations.mjs` from IDF-weighted tag similarity + structural bonuses (radical, contains, hsk, category). Each card carries hanzi + pinyin + english + a one-line detail (from the target's `desc`) + a reason chip (`.rl-reason-{radical|contains|tag|hsk|category}`). Cards color-code by target category, mirroring the homepage `.start-here-item` design system.
+- **Bottom: chips tier** (`.related-chips-tier` → `.adj-wrap` → `.adj`). Hoisted from the page's authored `<div class="adj-wrap">` block. The build strips any `#adjacent` section-anchor/section-head wrapping the chips, then moves them into the Related section under a `词族 cízú · Vocabulary in this field` subhead.
+
+The build:
+1. Linkifies every `<span class="adj">` whose `.a-cn` matches a built page → upgrades to `<a class="adj" href data-category>` with a category-color left border. Runs before `autoLinkBody`, so chips become anchors first and aren't double-linked.
+2. Hoists the chips block into the Related section's chips slot.
+3. Strips the standalone `#adjacent` anchor + section-head from body.
+4. Rewrites any sidebar TOC `<a href="#adjacent">` → `<a href="#related">` with updated label `相关 Related · xiāngguān · pages & vocab`.
+5. If no `#adjacent` TOC link existed, injects the Related TOC entry at the end of the sidebar `<ul class="toc-list">`.
+
+**Authoring rules for chips:**
+
+```html
+<span class="adj"
+      data-relation="synonym|antonym|collocation|derived|contrast"  <!-- optional -->
+      data-distinct="one-line distinction vs the page subject"       <!-- optional -->
+><span class="a-cn">CN</span><span class="a-py">pinyin</span><span class="a-en">english</span></span>
+```
+
+- `data-relation` tags the semantic relationship (future styling will visually group chips by relation; backwards-compatible — chips without it render normally).
+- `data-distinct` is the high-value disambiguation slot. Fill in opportunistically when the contrast vs the page subject is non-obvious ("情绪 is more clinical/state-like than 心情"). Leave off when the chip is just a neighbor without a sharp contrast worth calling out.
+- Author chips as plain `<span class="adj">`. Do **not** wrap them in `<a>` yourself — the linkify pass does that automatically when the chip matches a built page.
+
+**Reverse index:** `data/adj-index.json` (regenerated each build) maps every chip-cn → pages that mention it, with `hasPage`. Surfaced in the admin dashboard under "Relations" with strong (4+ occurrences) and soft (2-3) candidate-page suggestions for promoting chip vocab to first-class entries.
 
 ---
 
@@ -244,7 +277,8 @@ The TOC link must point to `#etymology`. The IntersectionObserver in `toc-scroll
 - Patterns: `.pattern`
 - Vocab cards: `.cards` → `.card.c-red` / `.card.c-ochre` / `.card.c-teal` / `.card.c-violet` / `.card.c-sienna`
 - Chengyu: `.chengyu-grid` → `.cy` entries
-- Adjacent vocab: `.adj-wrap` → `.adj` chips
+- Vocab chips (hoisted into Related): `.adj-wrap` → `.adj` chips with `.a-cn`/`.a-py`/`.a-en`; chips matching a built page auto-upgrade to `<a class="adj" data-category>` with category color
+- Related section (auto-generated): `.related` → `.related-cards` (card gallery, color-coded by `data-category`) + `.related-chips-tier` (the hoisted chips)
 - Tables: `.table-wrap` → `<table>`
 - Chips (in hero): `.chip`, `.chip-hsk`, `.chip-topic`, `.chip-radical`
 - POS tags (in cards): `.tag-v`, `.tag-n`, `.tag-vn`, `.tag-adj`
