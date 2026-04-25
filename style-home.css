@@ -728,3 +728,101 @@
   @media (max-width: 380px) {
     .start-here-list { grid-template-columns: 1fr; }
   }
+
+  /* ── Homepage dark mode surface overrides ─────────────────
+     Variables handle most of it; these fix hardcoded rgba
+     values that can't be driven by token replacement alone.   */
+
+  /* Lantern glow: shifts from amber to a cooler cinnabar ember */
+  html[data-theme="dark"] .index-shell::before,
+  html:not([data-theme="light"]) .index-shell::before {
+    background:
+      radial-gradient(ellipse at center, rgba(196,48,48,0.08) 0%, rgba(196,48,48,0.03) 35%, transparent 70%);
+  }
+  @media not (prefers-color-scheme: dark) {
+    html:not([data-theme="light"]) .index-shell::before { background: initial; }
+  }
+  @media (prefers-color-scheme: dark) {
+    html:not([data-theme="light"]) .index-shell::before {
+      background:
+        radial-gradient(ellipse at center, rgba(196,48,48,0.08) 0%, rgba(196,48,48,0.03) 35%, transparent 70%);
+    }
+  }
+
+  /* Featured card top wash: invert from bright-highlight to subtle lamp tint */
+  html[data-theme="dark"] .featured-card::before {
+    background: linear-gradient(180deg, rgba(196,48,48,0.06) 0%, transparent 35%);
+  }
+  @media (prefers-color-scheme: dark) {
+    html:not([data-theme="light"]) .featured-card::before {
+      background: linear-gradient(180deg, rgba(196,48,48,0.06) 0%, transparent 35%);
+    }
+  }
+
+  /* Featured card gradient: darker ground */
+  html[data-theme="dark"] .featured-card {
+    background:
+      radial-gradient(ellipse 60% 100% at 100% 0%, rgba(196,48,48,0.07) 0%, transparent 55%),
+      linear-gradient(135deg, var(--papyrus-2) 0%, var(--papyrus-3) 100%);
+    box-shadow: 0 1px 0 rgba(0,0,0,0.12), 0 12px 28px rgba(0,0,0,0.3);
+  }
+  @media (prefers-color-scheme: dark) {
+    html:not([data-theme="light"]) .featured-card {
+      background:
+        radial-gradient(ellipse 60% 100% at 100% 0%, rgba(196,48,48,0.07) 0%, transparent 55%),
+        linear-gradient(135deg, var(--papyrus-2) 0%, var(--papyrus-3) 100%);
+      box-shadow: 0 1px 0 rgba(0,0,0,0.12), 0 12px 28px rgba(0,0,0,0.3);
+    }
+  }
+
+  /* Hero glyph chop: seal box shadow deepens */
+  html[data-theme="dark"] .index-hero-glyph {
+    box-shadow: 0 4px 0 rgba(196,48,48,0.5), 0 12px 36px rgba(196,48,48,0.28);
+  }
+  @media (prefers-color-scheme: dark) {
+    html:not([data-theme="light"]) .index-hero-glyph {
+      box-shadow: 0 4px 0 rgba(196,48,48,0.5), 0 12px 36px rgba(196,48,48,0.28);
+    }
+  }
+
+  /* Families section: deeper bg tint */
+  html[data-theme="dark"] .families-section {
+    background: linear-gradient(180deg, rgba(196,48,48,0.06) 0%, transparent 100%);
+  }
+  @media (prefers-color-scheme: dark) {
+    html:not([data-theme="light"]) .families-section {
+      background: linear-gradient(180deg, rgba(196,48,48,0.06) 0%, transparent 100%);
+    }
+  }
+
+  /* Filter bar: match dark surface */
+  html[data-theme="dark"] .filter-bar-hero,
+  html[data-theme="dark"] .filter-bar {
+    box-shadow: 0 2px 12px rgba(0,0,0,0.4);
+  }
+  @media (prefers-color-scheme: dark) {
+    html:not([data-theme="light"]) .filter-bar-hero,
+    html:not([data-theme="light"]) .filter-bar {
+      box-shadow: 0 2px 12px rgba(0,0,0,0.4);
+    }
+  }
+
+  /* Filter suggestions panel */
+  html[data-theme="dark"] .filter-suggest {
+    box-shadow: 0 6px 24px rgba(0,0,0,0.5);
+  }
+  @media (prefers-color-scheme: dark) {
+    html:not([data-theme="light"]) .filter-suggest {
+      box-shadow: 0 6px 24px rgba(0,0,0,0.5);
+    }
+  }
+
+  /* Recent cards: lift box-shadow depth */
+  html[data-theme="dark"] .recent-card:hover {
+    box-shadow: 0 2px 10px rgba(0,0,0,0.35);
+  }
+  @media (prefers-color-scheme: dark) {
+    html:not([data-theme="light"]) .recent-card:hover {
+      box-shadow: 0 2px 10px rgba(0,0,0,0.35);
+    }
+  }

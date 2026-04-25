@@ -16,9 +16,11 @@
 <link rel="alternate" hreflang="en" href="https://jiaoshoo.com/">
 <link rel="alternate" hreflang="x-default" href="https://jiaoshoo.com/">
 <link rel="manifest" href="manifest.webmanifest">
-<meta name="theme-color" content="#1c1208">
+<meta name="theme-color" content="#1c1208" id="meta-theme-color">
 <meta name="apple-mobile-web-app-title" content="角落書屋">
 <meta name="application-name" content="角落書屋">
+<!-- Flash-of-wrong-theme prevention -->
+<script>(function(){try{var t=localStorage.getItem('shuwo-theme');if(t==='dark'||t==='light'){document.documentElement.setAttribute('data-theme',t);}else if(!t&&window.matchMedia('(prefers-color-scheme: dark)').matches){document.documentElement.setAttribute('data-theme','dark');}}catch(e){}})();</script>
 
 <!-- Open Graph -->
 <meta property="og:type" content="website">
@@ -146,6 +148,10 @@
   <div class="topnav-right">
     <a href="#" class="topnav-random" data-random-entry data-entries-base="" aria-label="Open a random entry"><span aria-hidden="true">⟳</span> Random</a>
     <a href="pages/families/explore.html" class="topnav-back" aria-label="Explore all entries">Explore</a>
+    <button class="theme-toggle" type="button" aria-label="Toggle dark mode" id="theme-toggle">
+      <span class="tt-sun" aria-hidden="true">☀</span>
+      <span class="tt-moon" aria-hidden="true">☾</span>
+    </button>
   </div>
 </nav>
 <script src="scripts/enhance.js" defer></script>
