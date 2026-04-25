@@ -591,9 +591,13 @@ for (const { fm, body, slug, category, outDir, entry } of pending) {
         `<li><a href="#related">\n        <span class="toc-cn">相关</span> Related\n        <span class="toc-sub">xiāngguān · pages &amp; vocab</span>\n      </a></li>`
       );
 
-      // 5. Sources + related (cards + hoisted chips) + prev/next, injected before footer
+      // 5. Sources + related (cards + hoisted chips) + prev/next, injected before footer.
+      // Family-index pages (category: 'families') intentionally skip Related and
+      // prev-next: their sidebar already lists every other family + Explore, so
+      // bottom nav is duplicate noise.
       const sourcesHtml = renderSourcesHtml(fm);
-      const relatedHtml = renderRelatedHtml(
+      const isFamilyPage = fm.category === 'families';
+      const relatedHtml = isFamilyPage ? '' : renderRelatedHtml(
         relations.get(entry.path) || [],
         entry.path,
         { hasChips: Boolean(hoistedChipsHtml) }
@@ -603,7 +607,7 @@ for (const { fm, body, slug, category, outDir, entry } of pending) {
         : '';
       const relatedHtmlFilled = relatedHtml.replace('<!--RELATED_CHIPS_SLOT-->', chipsTier);
 
-      const adjacencyHtml = renderAdjacencyHtml(adjacency.get(entry.path), entry.path);
+      const adjacencyHtml = isFamilyPage ? '' : renderAdjacencyHtml(adjacency.get(entry.path), entry.path);
       const injection = `${sourcesHtml}${relatedHtmlFilled}${adjacencyHtml}`;
       if (injection && augmentedBody.includes('</main>')) {
         augmentedBody = augmentedBody.replace('</main>', `${injection}\n  </main>`);

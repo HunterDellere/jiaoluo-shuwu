@@ -36,7 +36,10 @@ const ROOT = join(__dirname, '..', '..');
 export const FAMILY_MEMBERS = {
   language:    ['characters', 'vocab', 'grammar'],
   topics:      ['philosophy', 'religion', 'history', 'geography', 'culture', 'daily', 'culinary', 'arts', 'science'],
-  collections: ['chengyu', 'hubs'],
+  // Reading paths lead because they're the more on-brand "collection" — guided
+  // walks through clusters of entries — and they also appear less-frequently
+  // elsewhere on the site than chengyu does.
+  collections: ['hubs', 'chengyu'],
   // explore renders the three family cards itself; no member categories here.
   explore:     [],
 };
@@ -130,6 +133,7 @@ function renderCategorySection(catKey, entries) {
       <div class="entry-grid">
         ${cards}
       </div>
+      <a class="fam-cat-top" href="#top" aria-label="Back to category jumper">↑ Top</a>
     </section>`;
 }
 
@@ -172,7 +176,25 @@ export function renderFamilyContent(family, entries) {
       <p class="fam-intro-text">${escapeHtml(meta.desc)}</p>
     </div>`;
 
-  return intro + sections;
+  // In-page category jumper (chip-bar). Renders only when the family has
+  // 2+ categories; for single-category families it would be visual noise.
+  // Sticky-positioned via CSS so long Topics scrolls keep the jumper in
+  // reach. Each chip is a same-page anchor — works without JS, and the
+  // homepage's anchor handler smooth-scrolls + flashes the target.
+  const chipBar = memberKeys.length >= 2 ? `
+    <nav class="fam-jump" aria-label="Jump to a category">
+      ${memberKeys.map(k => {
+        const m = CATEGORY_META[k];
+        const count = byCategory.get(k)?.length || 0;
+        return `<a class="fam-jump-chip" href="#cat-${k}" data-category="${k}">
+          <span class="fjc-cn">${escapeHtml(m.cn)}</span>
+          <span class="fjc-en">${escapeHtml(m.en)}</span>
+          <span class="fjc-count">${count}</span>
+        </a>`;
+      }).join('\n      ')}
+    </nav>` : '';
+
+  return intro + chipBar + sections;
 }
 
 /**

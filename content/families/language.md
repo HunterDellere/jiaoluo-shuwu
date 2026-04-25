@@ -37,14 +37,13 @@ updated: "2026-04-25"
 
   <main class="main">
 
-    <header class="topic-hero family-hero family-hero-language" data-family="language">
+    <header id="top" class="topic-hero family-hero family-hero-language" data-family="language">
       <div class="family-hero-art" aria-hidden="true">
         <!--FAMILY_HERO_ART-->
       </div>
       <div class="family-hero-meta">
         <span class="topic-hero-eyebrow">语言 yǔyán · Family</span>
         <h1 class="topic-hero-title">The Language</h1>
-        <span class="topic-hero-title-py">yǔyán</span>
         <p class="topic-hero-desc">Characters, vocabulary, grammar — the building blocks of written and spoken Chinese. Read in any order; each entry stands on its own.</p>
       </div>
     </header>

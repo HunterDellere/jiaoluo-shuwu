@@ -126,10 +126,10 @@ const TYPE_INVARIANTS = {
   ],
   // Topic-style hero invariant: tolerate multi-class headers (e.g.
   // family-index pages add `family-hero` modifier classes alongside `topic-hero`).
-  topic:   [{ name: 'topic.topic-hero',   test: h => /<header class="[^"]*\btopic-hero\b/.test(h) }],
-  vocab:   [{ name: 'vocab.topic-hero',   test: h => /<header class="[^"]*\btopic-hero\b/.test(h) }],
-  grammar: [{ name: 'grammar.topic-hero', test: h => /<header class="[^"]*\btopic-hero\b/.test(h) }],
-  chengyu: [{ name: 'chengyu.topic-hero', test: h => /<header class="[^"]*\btopic-hero\b/.test(h) }],
+  topic:   [{ name: 'topic.topic-hero',   test: h => /<header\b[^>]*\bclass="[^"]*\btopic-hero\b/.test(h) }],
+  vocab:   [{ name: 'vocab.topic-hero',   test: h => /<header\b[^>]*\bclass="[^"]*\btopic-hero\b/.test(h) }],
+  grammar: [{ name: 'grammar.topic-hero', test: h => /<header\b[^>]*\bclass="[^"]*\btopic-hero\b/.test(h) }],
+  chengyu: [{ name: 'chengyu.topic-hero', test: h => /<header\b[^>]*\bclass="[^"]*\btopic-hero\b/.test(h) }],
   hub:     [{ name: 'hub.path-anchor',    test: h => /id="path"/.test(h) }],
 };
 

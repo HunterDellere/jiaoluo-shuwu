@@ -36,14 +36,13 @@ updated: "2026-04-25"
 
   <main class="main">
 
-    <header class="topic-hero family-hero family-hero-explore" data-family="explore">
+    <header id="top" class="topic-hero family-hero family-hero-explore" data-family="explore">
       <div class="family-hero-art" aria-hidden="true">
         <!--FAMILY_HERO_ART-->
       </div>
       <div class="family-hero-meta">
         <span class="topic-hero-eyebrow">探 tàn · Master</span>
         <h1 class="topic-hero-title">Explore</h1>
-        <span class="topic-hero-title-py">tàn</span>
         <p class="topic-hero-desc">Three families gather every entry on Jiǎoluò Shūwū. Pick a family for a thematic walk, or jump straight to a category if you know what you want.</p>
       </div>
     </header>

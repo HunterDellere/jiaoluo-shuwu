@@ -22,8 +22,8 @@ updated: "2026-04-25"
     <div class="toc-divider"></div>
     <span class="toc-label">In this family</span>
     <ul class="toc-list">
-      <li><a href="#cat-chengyu"><span class="toc-cn">成语</span> Chengyu</a></li>
       <li><a href="#cat-hubs"><span class="toc-cn">读径</span> Reading Paths</a></li>
+      <li><a href="#cat-chengyu"><span class="toc-cn">成语</span> Chengyu</a></li>
     </ul>
     <div class="toc-divider"></div>
     <span class="toc-label">Other families</span>
@@ -36,14 +36,13 @@ updated: "2026-04-25"
 
   <main class="main">
 
-    <header class="topic-hero family-hero family-hero-collections" data-family="collections">
+    <header id="top" class="topic-hero family-hero family-hero-collections" data-family="collections">
       <div class="family-hero-art" aria-hidden="true">
         <!--FAMILY_HERO_ART-->
       </div>
       <div class="family-hero-meta">
         <span class="topic-hero-eyebrow">集锦 jíjǐn · Family</span>
         <h1 class="topic-hero-title">Collections</h1>
-        <span class="topic-hero-title-py">jíjǐn</span>
         <p class="topic-hero-desc">Compressed wisdom and curated walks. Four-character idioms with classical origins, plus reading paths that thread entries from across the corner into a coherent journey.</p>
       </div>
     </header>

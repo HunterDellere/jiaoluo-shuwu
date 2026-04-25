@@ -43,14 +43,13 @@ updated: "2026-04-25"
 
   <main class="main">
 
-    <header class="topic-hero family-hero family-hero-topics" data-family="topics">
+    <header id="top" class="topic-hero family-hero family-hero-topics" data-family="topics">
       <div class="family-hero-art" aria-hidden="true">
         <!--FAMILY_HERO_ART-->
       </div>
       <div class="family-hero-meta">
         <span class="topic-hero-eyebrow">话题 huàtí · Family</span>
         <h1 class="topic-hero-title">Topics</h1>
-        <span class="topic-hero-title-py">huàtí</span>
         <p class="topic-hero-desc">Where the language meets the civilisation. Philosophy and religion, history and place, what people make and how they live with it.</p>
       </div>
     </header>

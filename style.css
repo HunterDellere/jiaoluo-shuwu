@@ -1773,7 +1773,7 @@ a.pf-btn-share:focus-visible, button.pf-btn-share:focus-visible {
   position: absolute;
   inset: 0;
   pointer-events: none;
-  opacity: 0.95;
+  opacity: 0.55;
 }
 .family-hero-svg { width: 100%; height: 100%; display: block; }
 .family-hero-meta { position: relative; z-index: 1; max-width: 540px; }
@@ -1794,6 +1794,83 @@ a.pf-btn-share:focus-visible, button.pf-btn-share:focus-visible {
   white-space: nowrap;
 }
 .fam-intro-text { margin: 0; color: var(--ink-3); font-size: 0.95rem; flex: 1; min-width: 240px; }
+
+/* In-page category jumper — sticky chip-bar near the top of the body so
+   long families (Topics has 9 categories) stay scannable on long scrolls. */
+.fam-jump {
+  position: sticky;
+  top: var(--nav-h);
+  z-index: 5;
+  display: flex; flex-wrap: wrap; gap: 0.4rem;
+  padding: 0.7rem 0.9rem;
+  margin: 0 0 1.8rem;
+  background: var(--papyrus);
+  border: 1px solid var(--rule);
+  border-radius: var(--radius-lg);
+  box-shadow: 0 2px 8px rgba(28,18,8,0.04);
+  /* Hairline backdrop so the chip-bar reads as floating, not as a strip
+     of paper that's lost its margin once the page scrolls under it. */
+  backdrop-filter: saturate(1.05);
+}
+.fam-jump-chip {
+  display: inline-flex; align-items: baseline; gap: 0.35rem;
+  padding: 0.3rem 0.65rem;
+  background: var(--papyrus-2);
+  border: 1px solid var(--rule);
+  border-radius: 14px;
+  text-decoration: none;
+  color: var(--ink-3);
+  font-size: 0.82rem;
+  transition: background 0.12s, border-color 0.12s, transform 0.12s;
+}
+.fam-jump-chip:hover {
+  background: var(--papyrus-3);
+  border-color: var(--rule-2);
+  transform: translateY(-1px);
+}
+.fam-jump-chip:focus-visible {
+  outline: none;
+  border-color: var(--ochre);
+  box-shadow: 0 0 0 2px rgba(160,100,40,0.25);
+}
+.fjc-cn { font-family: var(--font-cn-display); font-weight: 700; font-size: 0.95rem; line-height: 1; }
+.fjc-en { color: var(--ink-3); font-size: 0.78rem; }
+.fjc-count {
+  font-family: var(--font-mono); font-size: 0.62rem;
+  color: var(--ink-5); background: var(--papyrus);
+  border-radius: 8px; padding: 0.05rem 0.35rem;
+  border: 1px solid var(--rule);
+}
+/* Each chip's CN glyph picks up its category color from data-category */
+.fam-jump-chip[data-category="characters"]  .fjc-cn { color: var(--cat-characters); }
+.fam-jump-chip[data-category="vocab"]       .fjc-cn { color: var(--cat-vocab); }
+.fam-jump-chip[data-category="grammar"]     .fjc-cn { color: var(--cat-grammar); }
+.fam-jump-chip[data-category="chengyu"]     .fjc-cn { color: var(--cat-chengyu); }
+.fam-jump-chip[data-category="religion"]    .fjc-cn { color: var(--cat-religion); }
+.fam-jump-chip[data-category="philosophy"]  .fjc-cn { color: var(--cat-philosophy); }
+.fam-jump-chip[data-category="history"]     .fjc-cn { color: var(--cat-history); }
+.fam-jump-chip[data-category="geography"]   .fjc-cn { color: var(--cat-geography); }
+.fam-jump-chip[data-category="culture"]     .fjc-cn { color: var(--cat-culture); }
+.fam-jump-chip[data-category="culinary"]    .fjc-cn { color: var(--cat-culinary); }
+.fam-jump-chip[data-category="arts"]        .fjc-cn { color: var(--cat-arts); }
+.fam-jump-chip[data-category="science"]     .fjc-cn { color: var(--cat-science); }
+.fam-jump-chip[data-category="daily"]       .fjc-cn { color: var(--cat-daily); }
+.fam-jump-chip[data-category="hubs"]        .fjc-cn { color: var(--cat-hubs); }
+
+/* Back-to-jumper link at the bottom of each category section */
+.fam-cat-top {
+  display: inline-block;
+  margin-top: 0.85rem;
+  font-family: var(--font-mono); font-size: 0.65rem;
+  letter-spacing: 0.15em; text-transform: uppercase;
+  color: var(--ink-5);
+  text-decoration: none;
+  padding: 0.2rem 0.5rem;
+  border-radius: var(--radius);
+  transition: color 0.12s, background 0.12s;
+}
+.fam-cat-top:hover { color: var(--red); background: var(--papyrus-3); }
+.fam-cat-top:focus-visible { outline: none; box-shadow: 0 0 0 2px rgba(160,100,40,0.25); }
 
 /* Per-category section on a family page (static, always expanded) */
 .fam-cat-group { margin-bottom: 2.75rem; scroll-margin-top: calc(var(--nav-h) + 1rem); }
@@ -2033,6 +2110,10 @@ a.pf-btn-share:focus-visible, button.pf-btn-share:focus-visible {
   .fam-cat-group[data-category="hubs"] .entry-grid { grid-template-columns: 1fr; }
   /* All-cats clusters: collapse to single column on narrow screens for readability */
   .all-cats-clusters { grid-template-columns: 1fr; gap: 1.2rem; }
+  /* Chip-bar: tighter padding, hide pinyin counts to keep chips small */
+  .fam-jump { padding: 0.5rem 0.6rem; gap: 0.3rem; margin-bottom: 1.4rem; }
+  .fam-jump-chip { padding: 0.25rem 0.5rem; }
+  .fam-jump-chip .fjc-en { display: none; }
 }
 
 /* ── RESPONSIVE ──────────────────────────────────────────── */
