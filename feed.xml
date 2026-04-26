@@ -6,7 +6,23 @@
     <atom:link href="https://jiaoshoo.com/feed.xml" rel="self" type="application/rss+xml" />
     <description>Notes on Chinese language and civilisation — characters, vocabulary, grammar, history, philosophy, and the world they shaped.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 26 Apr 2026 03:32:53 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2026 03:40:44 GMT</lastBuildDate>
+    <item>
+      <title>古琴 · the guqin zither — the scholar&apos;s instrument</title>
+      <link>https://jiaoshoo.com/pages/arts/topic_guqin.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/arts/topic_guqin.html</guid>
+      <pubDate>Sat, 25 Apr 2026 00:00:00 GMT</pubDate>
+      <description>The seven-string zither Confucius played throughout his life — and the origin of 知音, the word for a person who truly understands you.</description>
+      <category>arts</category>
+    </item>
+    <item>
+      <title>山水画 · landscape painting — mountains and water</title>
+      <link>https://jiaoshoo.com/pages/arts/topic_shanshui.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/arts/topic_shanshui.html</guid>
+      <pubDate>Sat, 25 Apr 2026 00:00:00 GMT</pubDate>
+      <description>Chinese landscape painting encodes a theory in its name: 山 (mountain, yang, permanent) and 水 (water, yin, changing) in dynamic tension — a space to inhabit in the imagination, not a view to frame.</description>
+      <category>arts</category>
+    </item>
     <item>
       <title>白 · white, clear, plain, in vain</title>
       <link>https://jiaoshoo.com/pages/characters/bai2_白.html</link>
@@ -230,22 +246,6 @@
       <pubDate>Sat, 25 Apr 2026 00:00:00 GMT</pubDate>
       <description>Characters, vocabulary, grammar. The building blocks of written and spoken Chinese.</description>
       <category>families</category>
-    </item>
-    <item>
-      <title>话题 · Topics</title>
-      <link>https://jiaoshoo.com/pages/families/topics.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/families/topics.html</guid>
-      <pubDate>Sat, 25 Apr 2026 00:00:00 GMT</pubDate>
-      <description>Thought, place, time, lived life. What the Chinese language is used to say.</description>
-      <category>families</category>
-    </item>
-    <item>
-      <title>呢 · the continuation and reciprocal-question particle</title>
-      <link>https://jiaoshoo.com/pages/grammar/zhe_particle_呢.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/grammar/zhe_particle_呢.html</guid>
-      <pubDate>Sat, 25 Apr 2026 00:00:00 GMT</pubDate>
-      <description>The particle that turns a finished sentence into an open conversation: softens questions, returns them to the asker, and lets a state hang in the air.</description>
-      <category>grammar</category>
     </item>
   </channel>
 </rss>
