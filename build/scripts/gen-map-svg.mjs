@@ -356,6 +356,111 @@ const DYNASTIES = [
   },
 ];
 
+// ── Great Wall (Ming era) ────────────────────────────────────────────────────
+// Hand-traced from authoritative scholarly maps following the Ming-era Great
+// Wall route: Jiayuguan (west terminus) → Yumen → Hexi Corridor → Yinchuan →
+// crossing the Yellow River loop → Ordos south rim → Yanmen → Datong →
+// Zhangjiakou → Beijing-area passes (Juyongguan, Gubeikou) → Shanhaiguan
+// (east terminus, where it meets the Bohai Sea). 28 waypoints.
+const GREAT_WALL_LONLAT = [
+  [98.30, 39.80],   // Jiayuguan (west terminus, Gansu)
+  [98.95, 40.00],
+  [100.40, 40.55],
+  [102.30, 40.10],
+  [103.85, 38.70],
+  [104.95, 37.85],
+  [105.90, 37.60],
+  [106.30, 37.85],
+  [106.85, 38.30],
+  [107.60, 38.95],
+  [108.65, 39.05],
+  [109.55, 38.85],
+  [110.50, 38.65],
+  [111.30, 39.20],
+  [112.30, 39.40],   // Pianguan (Yellow River crossing)
+  [112.90, 39.65],
+  [113.30, 40.00],   // Yanmen Pass
+  [113.30, 40.20],   // Datong area
+  [114.20, 40.55],
+  [115.00, 40.65],   // Zhangjiakou area
+  [115.95, 40.80],
+  [116.55, 40.55],   // Juyongguan / Badaling
+  [117.10, 40.35],
+  [117.55, 40.45],   // Gubeikou
+  [118.30, 40.30],
+  [118.85, 40.05],
+  [119.55, 40.05],   // Jinshanling / Simatai sections
+  [119.80, 40.00],   // Shanhaiguan (east terminus, where wall meets sea)
+];
+const greatWallPath = (() => {
+  const pts = GREAT_WALL_LONLAT.map(([lon, lat]) => projection([lon, lat])).filter(Boolean);
+  if (!pts.length) return '';
+  return 'M' + pts.map(p => `${p[0].toFixed(2)},${p[1].toFixed(2)}`).join(' L');
+})();
+
+// ── Silk Roads ───────────────────────────────────────────────────────────────
+// Land Silk Road: hand-traced from Chang'an (Xi'an) through the Hexi Corridor
+// to Dunhuang where it splits into northern + southern Tarim routes converging
+// at Kashgar before crossing into Central Asia.
+// Maritime Silk Road: from Quanzhou/Guangzhou southward through the South
+// China Sea — drawn only to the edge of the China-framed viewBox.
+const SILK_ROAD_LAND_MAIN = [
+  [108.95, 34.27], // Chang'an (Xi'an)
+  [104.65, 34.50], // Tianshui
+  [103.85, 36.07], // Lanzhou
+  [102.65, 37.95], // Wuwei
+  [100.45, 38.95], // Zhangye
+  [98.30, 39.80],  // Jiayuguan
+  [97.05, 40.15],  // Anxi (Guazhou)
+  [94.65, 40.15],  // Dunhuang (split point)
+];
+// Northern route: Dunhuang → Hami → Turpan → Karashahr → Kucha → Aksu → Kashgar
+const SILK_ROAD_LAND_NORTH = [
+  [94.65, 40.15],  // Dunhuang
+  [93.50, 42.83],  // Hami
+  [89.20, 42.95],  // Turpan
+  [86.55, 41.75],  // Karashahr (Yanqi)
+  [82.95, 41.72],  // Kucha (Kuqa)
+  [80.25, 41.17],  // Aksu
+  [75.99, 39.47],  // Kashgar
+];
+// Southern route: Dunhuang → Miran → Khotan → Yarkand → Kashgar
+const SILK_ROAD_LAND_SOUTH = [
+  [94.65, 40.15],  // Dunhuang
+  [89.05, 38.65],  // Miran
+  [85.20, 37.10],  // Qarqan (Cherchen)
+  [80.95, 37.10],  // Khotan
+  [77.25, 38.42],  // Yarkand
+  [75.99, 39.47],  // Kashgar
+];
+// Maritime: Quanzhou → outflow southward, plus Guangzhou → SCS edge
+const SILK_ROAD_SEA_QUANZHOU = [
+  [118.68, 24.87], // Quanzhou
+  [118.30, 23.00],
+  [117.50, 21.50],
+  [116.00, 19.80],
+  [114.00, 17.50],
+  [112.00, 14.50],
+];
+const SILK_ROAD_SEA_GUANGZHOU = [
+  [113.27, 23.13], // Guangzhou
+  [113.50, 21.50],
+  [113.00, 19.50],
+  [111.00, 16.00],
+  [109.00, 13.00],
+];
+
+function lonLatChainToPath(chain) {
+  const pts = chain.map(([lon, lat]) => projection([lon, lat])).filter(Boolean);
+  if (!pts.length) return '';
+  return 'M' + pts.map(p => `${p[0].toFixed(2)},${p[1].toFixed(2)}`).join(' L');
+}
+const silkRoadLandMain   = lonLatChainToPath(SILK_ROAD_LAND_MAIN);
+const silkRoadLandNorth  = lonLatChainToPath(SILK_ROAD_LAND_NORTH);
+const silkRoadLandSouth  = lonLatChainToPath(SILK_ROAD_LAND_SOUTH);
+const silkRoadSeaQz      = lonLatChainToPath(SILK_ROAD_SEA_QUANZHOU);
+const silkRoadSeaGz      = lonLatChainToPath(SILK_ROAD_SEA_GUANGZHOU);
+
 const dynastyExtents = DYNASTIES.map(d => {
   const projectedRing = d.ring
     .map(([lon, lat]) => projection([lon, lat]))
@@ -520,6 +625,96 @@ ${keyRows}
 
         `;
     html = html.slice(0, s) + block + html.slice(e);
+  }
+}
+
+// ── Add SVG layer groups for Great Wall + Silk Roads (order matters: SVG first
+//    so the toggle-button block below can detect already-shipped layers) ─────
+{
+  // Great Wall layer — keyed on the SVG layer marker comment, not the button
+  const wallMarker = '<!-- ── LAYER: greatwall';
+  if (!html.includes(wallMarker)) {
+    const anchor = '<!-- ── LAYER: dialects';
+    const i = html.indexOf(anchor);
+    if (i !== -1) {
+      const block =
+        `<!-- ── LAYER: greatwall ─────────────────────────── -->\n` +
+        `        <g class="map-layer layer-greatwall" data-layer="greatwall" style="display:none">\n` +
+        `          <!-- Great Wall (Ming era) — hand-traced from authoritative scholarly maps following the Ming-era route from Jiayuguan to Shanhaiguan; lon/lat projected via Mercator -->\n` +
+        `          <path d="${greatWallPath}" fill="none" stroke="#3d2e18" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" opacity="0.92"/>\n` +
+        `          <path d="${greatWallPath}" fill="none" stroke="#8b6a40" stroke-width="0.8" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="2,2" opacity="0.72"/>\n` +
+        // Endpoint labels
+        (() => {
+          const west = projection([98.30, 39.80]);
+          const east = projection([119.80, 40.00]);
+          if (!west || !east) return '';
+          return `          <circle cx="${west[0].toFixed(2)}" cy="${west[1].toFixed(2)}" r="3" fill="#3d2e18"/>\n` +
+                 `          <text x="${(west[0] - 6).toFixed(2)}" y="${(west[1] + 4).toFixed(2)}" text-anchor="end" font-family="Noto Serif SC, serif" font-size="10" fill="#3d2e18">嘉峪关</text>\n` +
+                 `          <circle cx="${east[0].toFixed(2)}" cy="${east[1].toFixed(2)}" r="3" fill="#3d2e18"/>\n` +
+                 `          <text x="${(east[0] + 6).toFixed(2)}" y="${(east[1] + 4).toFixed(2)}" text-anchor="start" font-family="Noto Serif SC, serif" font-size="10" fill="#3d2e18">山海关</text>\n`;
+        })() +
+        `        </g>\n\n        `;
+      html = html.slice(0, i) + block + html.slice(i);
+    }
+  }
+
+  // Silk Roads layer
+  const silkMarker = '<!-- ── LAYER: silkroads';
+  if (!html.includes(silkMarker)) {
+    const anchor = '<!-- ── LAYER: dialects';
+    const i = html.indexOf(anchor);
+    if (i !== -1) {
+      // Style: solid for main land trunk, dashed for the two Tarim alternatives,
+      // dot-dash for maritime
+      const block =
+        `<!-- ── LAYER: silkroads ─────────────────────────── -->\n` +
+        `        <g class="map-layer layer-silkroads" data-layer="silkroads" style="display:none">\n` +
+        `          <!-- Silk Roads — land routes from Chang'an through Hexi Corridor to Kashgar (with N+S Tarim variants); maritime routes from Quanzhou and Guangzhou southward into the South China Sea. Hand-traced from canonical waypoints. -->\n` +
+        `          <path d="${silkRoadLandMain}" fill="none" stroke="#a06428" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round" opacity="0.85"/>\n` +
+        `          <path d="${silkRoadLandNorth}" fill="none" stroke="#a06428" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="6,3" opacity="0.78"/>\n` +
+        `          <path d="${silkRoadLandSouth}" fill="none" stroke="#a06428" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="6,3" opacity="0.78"/>\n` +
+        `          <path d="${silkRoadSeaQz}" fill="none" stroke="#2a5c6b" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="2,4" opacity="0.78"/>\n` +
+        `          <path d="${silkRoadSeaGz}" fill="none" stroke="#2a5c6b" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="2,4" opacity="0.78"/>\n` +
+        // Key/legend
+        (() => {
+          // Position legend in upper-right corner of viewBox
+          const x = 600, y = 580;
+          return `          <g transform="translate(${x},${y})">\n` +
+                 `            <rect width="184" height="78" rx="4" fill="#f0e8d5" stroke="#c8b898" stroke-width="1" opacity="0.96"/>\n` +
+                 `            <text x="10" y="18" font-family="Noto Serif SC, serif" font-size="10" font-weight="600" fill="#3d2e18">丝绸之路 Silk Roads</text>\n` +
+                 `            <line x1="10" y1="32" x2="32" y2="32" stroke="#a06428" stroke-width="2"/>\n` +
+                 `            <text x="40" y="36" font-family="EB Garamond, serif" font-size="10" fill="#5a4428">Land trunk</text>\n` +
+                 `            <line x1="10" y1="48" x2="32" y2="48" stroke="#a06428" stroke-width="1.6" stroke-dasharray="6,3"/>\n` +
+                 `            <text x="40" y="52" font-family="EB Garamond, serif" font-size="10" fill="#5a4428">Tarim variants</text>\n` +
+                 `            <line x1="10" y1="64" x2="32" y2="64" stroke="#2a5c6b" stroke-width="1.8" stroke-dasharray="2,4"/>\n` +
+                 `            <text x="40" y="68" font-family="EB Garamond, serif" font-size="10" fill="#5a4428">Maritime</text>\n` +
+                 `          </g>\n`;
+        })() +
+        `        </g>\n\n        `;
+      html = html.slice(0, i) + block + html.slice(i);
+    }
+  }
+}
+
+// ── Add layer toggle buttons for Great Wall + Silk Roads (idempotent) ────────
+{
+  const NEW_TOGGLES = [
+    { layer: 'greatwall', cn: '长城',     en: 'Great Wall' },
+    { layer: 'silkroads', cn: '丝绸之路', en: 'Silk Roads' },
+  ];
+  for (const t of NEW_TOGGLES) {
+    // Idempotency check: look for the toggle button specifically (matches the
+    // exact button signature so SVG-layer mentions don't false-positive).
+    const buttonSig = `<button class="map-layer-btn" data-layer="${t.layer}"`;
+    if (html.includes(buttonSig)) continue;
+    const anchor = '<button class="map-layer-btn" data-layer="sites"';
+    const i = html.indexOf(anchor);
+    if (i === -1) continue;
+    const btn =
+      `<button class="map-layer-btn" data-layer="${t.layer}" aria-pressed="false" type="button">\n` +
+      `            <span class="btn-cn">${t.cn}</span> ${t.en}\n` +
+      `          </button>\n          `;
+    html = html.slice(0, i) + btn + html.slice(i);
   }
 }
 

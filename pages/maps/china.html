@@ -106,6 +106,12 @@
           <button class="map-layer-btn" data-layer="dialects" aria-pressed="false" type="button">
             <span class="btn-cn">方言</span> Dialects
           </button>
+          <button class="map-layer-btn" data-layer="greatwall" aria-pressed="false" type="button">
+            <span class="btn-cn">长城</span> Great Wall
+          </button>
+          <button class="map-layer-btn" data-layer="silkroads" aria-pressed="false" type="button">
+            <span class="btn-cn">丝绸之路</span> Silk Roads
+          </button>
           <button class="map-layer-btn" data-layer="sites" aria-pressed="false" type="button">
             <span class="btn-cn">地点</span> Sites
           </button>
@@ -328,6 +334,37 @@
             <rect x="10" y="108" width="16" height="8" rx="1" fill="#8e4a6e" fill-opacity="0.35" stroke="#8e4a6e" stroke-width="1" stroke-dasharray="3,2"/>
             <text x="32" y="116" font-family="EB Garamond, serif" font-size="10" fill="#5a4428">清 Qing (1644 – 1912 CE)</text>
             <text x="10" y="138" font-family="EB Garamond, serif" font-size="9" fill="#8a7060" font-style="italic">Select above to highlight extent.</text>
+          </g>
+        </g>
+
+        <!-- ── LAYER: greatwall ─────────────────────────── -->
+        <g class="map-layer layer-greatwall" data-layer="greatwall" style="display:none">
+          <!-- Great Wall (Ming era) — hand-traced from authoritative scholarly maps following the Ming-era route from Jiayuguan to Shanhaiguan; lon/lat projected via Mercator -->
+          <path d="M300.74,281.05 L310.04,277.32 L330.79,267.00 L357.98,275.45 L380.16,301.38 L395.91,316.88 L409.50,321.40 L415.23,316.88 L423.10,308.70 L433.83,296.79 L448.86,294.95 L461.74,298.63 L475.34,302.30 L486.79,292.18 L501.10,288.48 L509.69,283.84 L515.41,277.32 L515.41,273.58 L528.29,267.00 L539.74,265.12 L553.34,262.29 L561.92,267.00 L569.79,270.76 L576.24,268.88 L586.97,271.70 L594.84,276.39 L604.86,276.39 L608.44,277.32" fill="none" stroke="#3d2e18" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" opacity="0.92"/>
+          <path d="M300.74,281.05 L310.04,277.32 L330.79,267.00 L357.98,275.45 L380.16,301.38 L395.91,316.88 L409.50,321.40 L415.23,316.88 L423.10,308.70 L433.83,296.79 L448.86,294.95 L461.74,298.63 L475.34,302.30 L486.79,292.18 L501.10,288.48 L509.69,283.84 L515.41,277.32 L515.41,273.58 L528.29,267.00 L539.74,265.12 L553.34,262.29 L561.92,267.00 L569.79,270.76 L576.24,268.88 L586.97,271.70 L594.84,276.39 L604.86,276.39 L608.44,277.32" fill="none" stroke="#8b6a40" stroke-width="0.8" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="2,2" opacity="0.72"/>
+          <circle cx="300.74" cy="281.05" r="3" fill="#3d2e18"/>
+          <text x="294.74" y="285.05" text-anchor="end" font-family="Noto Serif SC, serif" font-size="10" fill="#3d2e18">嘉峪关</text>
+          <circle cx="608.44" cy="277.32" r="3" fill="#3d2e18"/>
+          <text x="614.44" y="281.32" text-anchor="start" font-family="Noto Serif SC, serif" font-size="10" fill="#3d2e18">山海关</text>
+        </g>
+
+        <!-- ── LAYER: silkroads ─────────────────────────── -->
+        <g class="map-layer layer-silkroads" data-layer="silkroads" style="display:none">
+          <!-- Silk Roads — land routes from Chang'an through Hexi Corridor to Kashgar (with N+S Tarim variants); maritime routes from Quanzhou and Guangzhou southward into the South China Sea. Hand-traced from canonical waypoints. -->
+          <path d="M453.15,380.28 L391.61,376.29 L380.16,348.76 L362.99,315.06 L331.51,296.79 L300.74,281.05 L282.85,274.51 L248.50,274.51" fill="none" stroke="#a06428" stroke-width="2.0" stroke-linecap="round" stroke-linejoin="round" opacity="0.85"/>
+          <path d="M248.50,274.51 L232.04,223.30 L170.50,220.95 L132.57,244.19 L81.05,244.77 L42.41,255.27 L-18.56,287.18" fill="none" stroke="#a06428" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="6,3" opacity="0.78"/>
+          <path d="M248.50,274.51 L168.35,302.30 L113.25,330.40 L52.43,330.40 L-0.53,306.51 L-18.56,287.18" fill="none" stroke="#a06428" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="6,3" opacity="0.78"/>
+          <path d="M592.41,535.24 L586.97,564.52 L575.52,587.72 L554.05,613.72 L525.43,648.46 L496.81,693.13" fill="none" stroke="#2a5c6b" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="2,4" opacity="0.78"/>
+          <path d="M514.98,562.50 L518.27,587.72 L511.12,618.28 L482.49,670.88 L453.87,715.24" fill="none" stroke="#2a5c6b" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="2,4" opacity="0.78"/>
+          <g transform="translate(600,580)">
+            <rect width="184" height="78" rx="4" fill="#f0e8d5" stroke="#c8b898" stroke-width="1" opacity="0.96"/>
+            <text x="10" y="18" font-family="Noto Serif SC, serif" font-size="10" font-weight="600" fill="#3d2e18">丝绸之路 Silk Roads</text>
+            <line x1="10" y1="32" x2="32" y2="32" stroke="#a06428" stroke-width="2"/>
+            <text x="40" y="36" font-family="EB Garamond, serif" font-size="10" fill="#5a4428">Land trunk</text>
+            <line x1="10" y1="48" x2="32" y2="48" stroke="#a06428" stroke-width="1.6" stroke-dasharray="6,3"/>
+            <text x="40" y="52" font-family="EB Garamond, serif" font-size="10" fill="#5a4428">Tarim variants</text>
+            <line x1="10" y1="64" x2="32" y2="64" stroke="#2a5c6b" stroke-width="1.8" stroke-dasharray="2,4"/>
+            <text x="40" y="68" font-family="EB Garamond, serif" font-size="10" fill="#5a4428">Maritime</text>
           </g>
         </g>
 

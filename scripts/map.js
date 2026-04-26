@@ -205,7 +205,7 @@
 
   function renderPins() {
     // Clear all pin groups
-    ['sites','dynasties','rivers','dialects','modern'].forEach(layer => {
+    ['sites','dynasties','rivers','dialects','modern','greatwall','silkroads'].forEach(layer => {
       const g = document.getElementById('map-pins-' + layer);
       if (g) g.innerHTML = '';
     });
@@ -319,7 +319,7 @@
       g.style.display = activeLayers.has(layer) ? '' : 'none';
     });
     // Also toggle JS-rendered pin groups
-    ['sites','dynasties','rivers','dialects','modern'].forEach(layer => {
+    ['sites','dynasties','rivers','dialects','modern','greatwall','silkroads'].forEach(layer => {
       const g = document.getElementById('map-pins-' + layer);
       if (g) g.style.display = activeLayers.has(layer) ? '' : 'none';
     });
