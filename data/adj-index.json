@@ -189,6 +189,20 @@
     ],
     "hasPage": true
   },
+  "传统": {
+    "cn": "传统",
+    "py": "chuántǒng",
+    "en": "tradition; traditional",
+    "count": 5,
+    "appearsOn": [
+      "pages/characters/jia1_家.html",
+      "pages/characters/jiu4_旧.html",
+      "pages/characters/xin1_新.html",
+      "pages/culture/topic_duanwu.html",
+      "pages/vocab/wenhua_文化.html"
+    ],
+    "hasPage": true
+  },
   "礼": {
     "cn": "礼",
     "py": "lǐ",
@@ -312,19 +326,6 @@
       "pages/characters/yi4_义.html",
       "pages/vocab/daode_道德.html",
       "pages/vocab/ren2_仁.html"
-    ],
-    "hasPage": true
-  },
-  "传统": {
-    "cn": "传统",
-    "py": "chuántǒng",
-    "en": "tradition; traditional",
-    "count": 4,
-    "appearsOn": [
-      "pages/characters/jia1_家.html",
-      "pages/characters/xin1_新.html",
-      "pages/culture/topic_duanwu.html",
-      "pages/vocab/wenhua_文化.html"
     ],
     "hasPage": true
   },
@@ -533,6 +534,19 @@
       "pages/characters/qu4_去.html",
       "pages/characters/shang4_上.html",
       "pages/characters/zai4_在.html"
+    ],
+    "hasPage": true
+  },
+  "新": {
+    "cn": "新",
+    "py": "xīn",
+    "en": "new; fresh",
+    "count": 4,
+    "appearsOn": [
+      "pages/characters/bian4_变.html",
+      "pages/characters/jin4_近.html",
+      "pages/characters/jiu4_旧.html",
+      "pages/vocab/chuantong_传统.html"
     ],
     "hasPage": true
   },
@@ -866,6 +880,18 @@
     ],
     "hasPage": false
   },
+  "邻居": {
+    "cn": "邻居",
+    "py": "línjū",
+    "en": "neighbor",
+    "count": 3,
+    "appearsOn": [
+      "pages/characters/jia1_家.html",
+      "pages/characters/jin4_近.html",
+      "pages/characters/ren2_人.html"
+    ],
+    "hasPage": false
+  },
   "路": {
     "cn": "路",
     "py": "lù",
@@ -998,6 +1024,18 @@
     ],
     "hasPage": true
   },
+  "丝绸之路": {
+    "cn": "丝绸之路",
+    "py": "Sīchóu zhī Lù",
+    "en": "Silk Road",
+    "count": 3,
+    "appearsOn": [
+      "pages/characters/xi1_西.html",
+      "pages/religion/topic_yisilan.html",
+      "pages/vocab/changjian_长城.html"
+    ],
+    "hasPage": false
+  },
   "文": {
     "cn": "文",
     "py": "wén",
@@ -1104,7 +1142,7 @@
       "pages/characters/chang2_长.html",
       "pages/history/topic_mingchao.html"
     ],
-    "hasPage": false
+    "hasPage": true
   },
   "正在": {
     "cn": "正在",
@@ -1574,6 +1612,17 @@
     ],
     "hasPage": false
   },
+  "附近": {
+    "cn": "附近",
+    "py": "fùjìn",
+    "en": "nearby; in the vicinity",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/jin4_近.html",
+      "pages/characters/zai4_在.html"
+    ],
+    "hasPage": false
+  },
   "富": {
     "cn": "富",
     "py": "fù",
@@ -1593,6 +1642,17 @@
     "appearsOn": [
       "pages/characters/gao1_高.html",
       "pages/characters/xue2_学.html"
+    ],
+    "hasPage": false
+  },
+  "高兴": {
+    "cn": "高兴",
+    "py": "gāoxìng",
+    "en": "happy; glad",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/gao1_高.html",
+      "pages/characters/kuai4_快.html"
     ],
     "hasPage": false
   },
@@ -1913,7 +1973,7 @@
       "pages/characters/bian4_变.html",
       "pages/characters/xin1_新.html"
     ],
-    "hasPage": false
+    "hasPage": true
   },
   "开": {
     "cn": "开",
@@ -1925,6 +1985,17 @@
       "pages/grammar/ba_把.html"
     ],
     "hasPage": true
+  },
+  "开心": {
+    "cn": "开心",
+    "py": "kāi xīn",
+    "en": "happy, cheerful",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/kai1_开.html",
+      "pages/characters/kuai4_快.html"
+    ],
+    "hasPage": false
   },
   "看": {
     "cn": "看",
@@ -1956,6 +2027,17 @@
     "appearsOn": [
       "pages/characters/er3_耳.html",
       "pages/characters/shou3_手.html"
+    ],
+    "hasPage": true
+  },
+  "快": {
+    "cn": "快",
+    "py": "kuài",
+    "en": "fast; soon",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/duo1_多.html",
+      "pages/characters/man4_慢.html"
     ],
     "hasPage": true
   },
@@ -2000,17 +2082,6 @@
     "appearsOn": [
       "pages/characters/dao4_道.html",
       "pages/characters/wang2_王.html"
-    ],
-    "hasPage": false
-  },
-  "邻居": {
-    "cn": "邻居",
-    "py": "línjū",
-    "en": "neighbor",
-    "count": 2,
-    "appearsOn": [
-      "pages/characters/jia1_家.html",
-      "pages/characters/ren2_人.html"
     ],
     "hasPage": false
   },
@@ -2112,6 +2183,17 @@
       "pages/vocab/yisi_意思.html"
     ],
     "hasPage": false
+  },
+  "明朝": {
+    "cn": "明朝",
+    "py": "Míngcháo",
+    "en": "Ming dynasty (1368–1644)",
+    "count": 2,
+    "appearsOn": [
+      "pages/history/topic_mingchao.html",
+      "pages/vocab/changjian_长城.html"
+    ],
+    "hasPage": true
   },
   "拿": {
     "cn": "拿",
@@ -2432,17 +2514,6 @@
     ],
     "hasPage": false
   },
-  "丝绸之路": {
-    "cn": "丝绸之路",
-    "py": "Sīchóu zhī Lù",
-    "en": "Silk Road",
-    "count": 2,
-    "appearsOn": [
-      "pages/characters/xi1_西.html",
-      "pages/religion/topic_yisilan.html"
-    ],
-    "hasPage": false
-  },
   "死": {
     "cn": "死",
     "py": "sǐ",
@@ -2462,6 +2533,17 @@
     "appearsOn": [
       "pages/characters/lu4_路.html",
       "pages/characters/si3_死.html"
+    ],
+    "hasPage": false
+  },
+  "速度": {
+    "cn": "速度",
+    "py": "sùdù",
+    "en": "speed; velocity",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/kuai4_快.html",
+      "pages/characters/man4_慢.html"
     ],
     "hasPage": false
   },
@@ -2619,6 +2701,17 @@
     ],
     "hasPage": false
   },
+  "现代": {
+    "cn": "现代",
+    "py": "xiàndài",
+    "en": "modern era (1949–present)",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/jin4_近.html",
+      "pages/vocab/chuantong_传统.html"
+    ],
+    "hasPage": false
+  },
   "香火": {
     "cn": "香火",
     "py": "xiānghuǒ",
@@ -2663,6 +2756,17 @@
     ],
     "hasPage": true
   },
+  "心情": {
+    "cn": "心情",
+    "py": "xīnqíng",
+    "en": "mood",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/gan3_感.html",
+      "pages/characters/kuai4_快.html"
+    ],
+    "hasPage": false
+  },
   "辛亥革命": {
     "cn": "辛亥革命",
     "py": "Xīnhài Gémìng",
@@ -2674,17 +2778,6 @@
     ],
     "hasPage": true
   },
-  "新": {
-    "cn": "新",
-    "py": "xīn",
-    "en": "new; fresh",
-    "count": 2,
-    "appearsOn": [
-      "pages/characters/bian4_变.html",
-      "pages/vocab/chuantong_传统.html"
-    ],
-    "hasPage": true
-  },
   "信任": {
     "cn": "信任",
     "py": "xìnrèn",
@@ -2693,6 +2786,17 @@
     "appearsOn": [
       "pages/characters/xin4_信.html",
       "pages/vocab/guanxi_关系.html"
+    ],
+    "hasPage": false
+  },
+  "幸福": {
+    "cn": "幸福",
+    "py": "xìngfú",
+    "en": "happiness; well-being",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/fu2_福.html",
+      "pages/characters/kuai4_快.html"
     ],
     "hasPage": false
   },
@@ -2726,6 +2830,16 @@
     "appearsOn": [
       "pages/religion/topic_daojiao.html",
       "pages/vocab/jieqi_节气.html"
+    ],
+    "hasPage": false
+  },
+  "遥远": {
+    "cn": "遥远",
+    "py": "yáoyuǎn",
+    "en": "remote, very far",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/yuan3_远.html"
     ],
     "hasPage": false
   },
@@ -3061,6 +3175,16 @@
     "count": 1,
     "appearsOn": [
       "pages/vocab/yisi_意思.html"
+    ],
+    "hasPage": false
+  },
+  "傲慢": {
+    "cn": "傲慢",
+    "py": "àomàn",
+    "en": "arrogant, haughty",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/man4_慢.html"
     ],
     "hasPage": false
   },
@@ -3404,6 +3528,16 @@
     ],
     "hasPage": false
   },
+  "边关": {
+    "cn": "边关",
+    "py": "biānguān",
+    "en": "border pass; frontier checkpoint",
+    "count": 1,
+    "appearsOn": [
+      "pages/vocab/changjian_长城.html"
+    ],
+    "hasPage": false
+  },
   "边角料": {
     "cn": "边角料",
     "py": "biānjiǎoliào",
@@ -3424,6 +3558,16 @@
     ],
     "hasPage": false
   },
+  "边远": {
+    "cn": "边远",
+    "py": "biānyuǎn",
+    "en": "remote and peripheral (border regions)",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/yuan3_远.html"
+    ],
+    "hasPage": false
+  },
   "鞭炮": {
     "cn": "鞭炮",
     "py": "biānpào",
@@ -3431,6 +3575,16 @@
     "count": 1,
     "appearsOn": [
       "pages/vocab/chunjie_春节.html"
+    ],
+    "hasPage": false
+  },
+  "变化": {
+    "cn": "变化",
+    "py": "biànhuà",
+    "en": "change; transformation",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/jiu4_旧.html"
     ],
     "hasPage": false
   },
@@ -3581,6 +3735,16 @@
     "count": 1,
     "appearsOn": [
       "pages/grammar/erqie_而且.html"
+    ],
+    "hasPage": false
+  },
+  "不快": {
+    "cn": "不快",
+    "py": "bùkuài",
+    "en": "displeased; unhappy",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/kuai4_快.html"
     ],
     "hasPage": false
   },
@@ -3834,6 +3998,16 @@
     ],
     "hasPage": false
   },
+  "陈旧": {
+    "cn": "陈旧",
+    "py": "chénjiù",
+    "en": "outdated; obsolete",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/jiu4_旧.html"
+    ],
+    "hasPage": false
+  },
   "趁": {
     "cn": "趁",
     "py": "chèn",
@@ -3884,6 +4058,16 @@
     ],
     "hasPage": false
   },
+  "城": {
+    "cn": "城",
+    "py": "chéng",
+    "en": "city; city wall",
+    "count": 1,
+    "appearsOn": [
+      "pages/vocab/changjian_长城.html"
+    ],
+    "hasPage": false
+  },
   "程度补语": {
     "cn": "程度补语",
     "py": "chéngdù bǔyǔ",
@@ -3931,6 +4115,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/chi1_吃.html"
+    ],
+    "hasPage": false
+  },
+  "迟缓": {
+    "cn": "迟缓",
+    "py": "chíhuǎn",
+    "en": "sluggish, tardy",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/man4_慢.html"
     ],
     "hasPage": false
   },
@@ -4144,6 +4338,16 @@
     ],
     "hasPage": false
   },
+  "从容": {
+    "cn": "从容",
+    "py": "cóngróng",
+    "en": "calm and unhurried; composed",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/man4_慢.html"
+    ],
+    "hasPage": false
+  },
   "错": {
     "cn": "错",
     "py": "cuò",
@@ -4294,6 +4498,16 @@
     ],
     "hasPage": false
   },
+  "怠慢": {
+    "cn": "怠慢",
+    "py": "dàimàn",
+    "en": "to neglect, to slight",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/man4_慢.html"
+    ],
+    "hasPage": false
+  },
   "丹田": {
     "cn": "丹田",
     "py": "dāntián",
@@ -4331,6 +4545,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/sheng1_生.html"
+    ],
+    "hasPage": false
+  },
+  "当代": {
+    "cn": "当代",
+    "py": "dāngdài",
+    "en": "contemporary era",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/jin4_近.html"
     ],
     "hasPage": false
   },
@@ -4984,6 +5208,16 @@
     ],
     "hasPage": true
   },
+  "烽火台": {
+    "cn": "烽火台",
+    "py": "fēnghuǒtái",
+    "en": "beacon tower; signal fire platform",
+    "count": 1,
+    "appearsOn": [
+      "pages/vocab/changjian_长城.html"
+    ],
+    "hasPage": false
+  },
   "凤": {
     "cn": "凤",
     "py": "fèng",
@@ -5051,16 +5285,6 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/jia1_家.html"
-    ],
-    "hasPage": false
-  },
-  "附近": {
-    "cn": "附近",
-    "py": "fùjìn",
-    "en": "nearby; in the vicinity of",
-    "count": 1,
-    "appearsOn": [
-      "pages/characters/zai4_在.html"
     ],
     "hasPage": false
   },
@@ -5198,16 +5422,6 @@
     "cn": "高手",
     "py": "gāoshǒu",
     "en": "expert; master",
-    "count": 1,
-    "appearsOn": [
-      "pages/characters/gao1_高.html"
-    ],
-    "hasPage": false
-  },
-  "高兴": {
-    "cn": "高兴",
-    "py": "gāoxìng",
-    "en": "happy; glad",
     "count": 1,
     "appearsOn": [
       "pages/characters/gao1_高.html"
@@ -5454,6 +5668,16 @@
     ],
     "hasPage": false
   },
+  "故": {
+    "cn": "故",
+    "py": "gù",
+    "en": "former; old; intentional; reason",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/jiu4_旧.html"
+    ],
+    "hasPage": false
+  },
   "故宫": {
     "cn": "故宫",
     "py": "Gùgōng",
@@ -5461,6 +5685,16 @@
     "count": 1,
     "appearsOn": [
       "pages/history/topic_mingchao.html"
+    ],
+    "hasPage": false
+  },
+  "故旧": {
+    "cn": "故旧",
+    "py": "gùjiù",
+    "en": "old friends; former associates",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/jiu4_旧.html"
     ],
     "hasPage": false
   },
@@ -5521,6 +5755,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/guan1_关.html"
+    ],
+    "hasPage": false
+  },
+  "关口": {
+    "cn": "关口",
+    "py": "guānkǒu",
+    "en": "strategic pass; checkpoint",
+    "count": 1,
+    "appearsOn": [
+      "pages/vocab/changjian_长城.html"
     ],
     "hasPage": false
   },
@@ -5974,6 +6218,26 @@
     ],
     "hasPage": false
   },
+  "怀旧": {
+    "cn": "怀旧",
+    "py": "huáijiù",
+    "en": "nostalgia; to reminisce",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/jiu4_旧.html"
+    ],
+    "hasPage": false
+  },
+  "缓慢": {
+    "cn": "缓慢",
+    "py": "huǎnmàn",
+    "en": "slow, gradual (formal)",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/man4_慢.html"
+    ],
+    "hasPage": false
+  },
   "换": {
     "cn": "换",
     "py": "huàn",
@@ -6131,6 +6395,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/qi2_其.html"
+    ],
+    "hasPage": false
+  },
+  "急": {
+    "cn": "急",
+    "py": "jí",
+    "en": "urgent, hasty, anxious",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/man4_慢.html"
     ],
     "hasPage": false
   },
@@ -6534,6 +6808,16 @@
     ],
     "hasPage": false
   },
+  "接近": {
+    "cn": "接近",
+    "py": "jiējìn",
+    "en": "to approach; to be close to",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/jin4_近.html"
+    ],
+    "hasPage": false
+  },
   "街": {
     "cn": "街",
     "py": "jiē",
@@ -6561,6 +6845,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/mu4_目.html"
+    ],
+    "hasPage": false
+  },
+  "节奏": {
+    "cn": "节奏",
+    "py": "jiézòu",
+    "en": "rhythm, pace (of life)",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/man4_慢.html"
     ],
     "hasPage": false
   },
@@ -6644,6 +6938,26 @@
     ],
     "hasPage": false
   },
+  "近": {
+    "cn": "近",
+    "py": "jìn",
+    "en": "near, close",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/yuan3_远.html"
+    ],
+    "hasPage": true
+  },
+  "近代": {
+    "cn": "近代",
+    "py": "jìndài",
+    "en": "early modern era (1840–1949)",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/jin4_近.html"
+    ],
+    "hasPage": false
+  },
   "近来": {
     "cn": "近来",
     "py": "jìnlái",
@@ -6651,6 +6965,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/lai2_来.html"
+    ],
+    "hasPage": false
+  },
+  "近视": {
+    "cn": "近视",
+    "py": "jìnshì",
+    "en": "nearsighted; myopic",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/jin4_近.html"
     ],
     "hasPage": false
   },
@@ -6744,6 +7068,36 @@
     ],
     "hasPage": false
   },
+  "久远": {
+    "cn": "久远",
+    "py": "jiǔyuǎn",
+    "en": "from the distant past",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/yuan3_远.html"
+    ],
+    "hasPage": false
+  },
+  "旧历": {
+    "cn": "旧历",
+    "py": "jiùlì",
+    "en": "the old calendar; lunar calendar",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/jiu4_旧.html"
+    ],
+    "hasPage": false
+  },
+  "旧址": {
+    "cn": "旧址",
+    "py": "jiùzhǐ",
+    "en": "former site; former address",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/jiu4_旧.html"
+    ],
+    "hasPage": false
+  },
   "就": {
     "cn": "就",
     "py": "jiù",
@@ -6824,6 +7178,16 @@
     ],
     "hasPage": false
   },
+  "距离": {
+    "cn": "距离",
+    "py": "jùlí",
+    "en": "distance, gap",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/yuan3_远.html"
+    ],
+    "hasPage": false
+  },
   "军阀": {
     "cn": "军阀",
     "py": "jūnfá",
@@ -6888,16 +7252,6 @@
     "cn": "开始",
     "py": "kāishǐ",
     "en": "to begin",
-    "count": 1,
-    "appearsOn": [
-      "pages/characters/kai1_开.html"
-    ],
-    "hasPage": false
-  },
-  "开心": {
-    "cn": "开心",
-    "py": "kāi xīn",
-    "en": "happy, cheerful",
     "count": 1,
     "appearsOn": [
       "pages/characters/kai1_开.html"
@@ -6981,6 +7335,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/xue2_学.html"
+    ],
+    "hasPage": false
+  },
+  "靠近": {
+    "cn": "靠近",
+    "py": "kàojìn",
+    "en": "to approach; to draw near",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/jin4_近.html"
     ],
     "hasPage": false
   },
@@ -7084,13 +7448,33 @@
     ],
     "hasPage": false
   },
-  "快": {
-    "cn": "快",
-    "py": "kuài",
-    "en": "fast; soon",
+  "快餐": {
+    "cn": "快餐",
+    "py": "kuàicān",
+    "en": "fast food",
     "count": 1,
     "appearsOn": [
-      "pages/characters/duo1_多.html"
+      "pages/characters/kuai4_快.html"
+    ],
+    "hasPage": false
+  },
+  "快车": {
+    "cn": "快车",
+    "py": "kuàichē",
+    "en": "express train or bus",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/kuai4_快.html"
+    ],
+    "hasPage": false
+  },
+  "快递": {
+    "cn": "快递",
+    "py": "kuàidì",
+    "en": "express delivery; courier",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/kuai4_快.html"
     ],
     "hasPage": false
   },
@@ -7174,6 +7558,16 @@
     ],
     "hasPage": false
   },
+  "懒": {
+    "cn": "懒",
+    "py": "lǎn",
+    "en": "lazy",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/man4_慢.html"
+    ],
+    "hasPage": false
+  },
   "劳动": {
     "cn": "劳动",
     "py": "láodòng",
@@ -7183,6 +7577,16 @@
       "pages/vocab/shengchan_生产.html"
     ],
     "hasPage": false
+  },
+  "老": {
+    "cn": "老",
+    "py": "lǎo",
+    "en": "old (of persons, relationships, long-standing things)",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/jiu4_旧.html"
+    ],
+    "hasPage": true
   },
   "乐在其中": {
     "cn": "乐在其中",
@@ -7584,6 +7988,16 @@
     ],
     "hasPage": false
   },
+  "路程": {
+    "cn": "路程",
+    "py": "lùchéng",
+    "en": "journey distance, road length",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/yuan3_远.html"
+    ],
+    "hasPage": false
+  },
   "露": {
     "cn": "露",
     "py": "lù",
@@ -7743,6 +8157,16 @@
       "pages/history/topic_qingchao.html"
     ],
     "hasPage": false
+  },
+  "慢": {
+    "cn": "慢",
+    "py": "màn",
+    "en": "slow",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/kuai4_快.html"
+    ],
+    "hasPage": true
   },
   "盲": {
     "cn": "盲",
@@ -7984,16 +8408,6 @@
     ],
     "hasPage": true
   },
-  "明朝": {
-    "cn": "明朝",
-    "py": "Míngcháo",
-    "en": "Ming dynasty (1368–1644)",
-    "count": 1,
-    "appearsOn": [
-      "pages/history/topic_mingchao.html"
-    ],
-    "hasPage": true
-  },
   "命": {
     "cn": "命",
     "py": "mìng",
@@ -8101,6 +8515,16 @@
     "count": 1,
     "appearsOn": [
       "pages/grammar/suiran_danshi_虽然但是.html"
+    ],
+    "hasPage": false
+  },
+  "耐心": {
+    "cn": "耐心",
+    "py": "nàixīn",
+    "en": "patience, patient",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/man4_慢.html"
     ],
     "hasPage": false
   },
@@ -8564,6 +8988,16 @@
     ],
     "hasPage": false
   },
+  "亲近": {
+    "cn": "亲近",
+    "py": "qīnjìn",
+    "en": "close and dear; intimate",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/jin4_近.html"
+    ],
+    "hasPage": false
+  },
   "亲人": {
     "cn": "亲人",
     "py": "qīnrén",
@@ -8571,6 +9005,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/jia1_家.html"
+    ],
+    "hasPage": false
+  },
+  "秦朝": {
+    "cn": "秦朝",
+    "py": "Qín cháo",
+    "en": "the Qin dynasty (221–206 BCE)",
+    "count": 1,
+    "appearsOn": [
+      "pages/vocab/changjian_长城.html"
     ],
     "hasPage": false
   },
@@ -9254,6 +9698,16 @@
     ],
     "hasPage": false
   },
+  "深远": {
+    "cn": "深远",
+    "py": "shēnyuǎn",
+    "en": "profound and far-reaching",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/yuan3_远.html"
+    ],
+    "hasPage": false
+  },
   "深圳": {
     "cn": "深圳",
     "py": "Shēnzhèn",
@@ -9614,6 +10068,16 @@
     ],
     "hasPage": false
   },
+  "守旧": {
+    "cn": "守旧",
+    "py": "shǒujiù",
+    "en": "conservative; resistant to change",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/jiu4_旧.html"
+    ],
+    "hasPage": false
+  },
   "首要": {
     "cn": "首要",
     "py": "shǒuyào",
@@ -9714,6 +10178,16 @@
     ],
     "hasPage": false
   },
+  "疏远": {
+    "cn": "疏远",
+    "py": "shūyuǎn",
+    "en": "to drift apart, estranged",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/yuan3_远.html"
+    ],
+    "hasPage": false
+  },
   "熟能生巧": {
     "cn": "熟能生巧",
     "py": "shú néng shēng qiǎo",
@@ -9771,6 +10245,16 @@
     "count": 1,
     "appearsOn": [
       "pages/history/topic_xinhai.html"
+    ],
+    "hasPage": false
+  },
+  "爽": {
+    "cn": "爽",
+    "py": "shuǎng",
+    "en": "refreshing; great; on form (colloquial)",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/kuai4_快.html"
     ],
     "hasPage": false
   },
@@ -10424,6 +10908,16 @@
     ],
     "hasPage": false
   },
+  "万里": {
+    "cn": "万里",
+    "py": "wànlǐ",
+    "en": "ten thousand li; immeasurable distance",
+    "count": 1,
+    "appearsOn": [
+      "pages/vocab/changjian_长城.html"
+    ],
+    "hasPage": false
+  },
   "万一": {
     "cn": "万一",
     "py": "wànyī",
@@ -10944,16 +11438,6 @@
     ],
     "hasPage": false
   },
-  "现代": {
-    "cn": "现代",
-    "py": "xiàndài",
-    "en": "modern; contemporary",
-    "count": 1,
-    "appearsOn": [
-      "pages/vocab/chuantong_传统.html"
-    ],
-    "hasPage": false
-  },
   "现代化": {
     "cn": "现代化",
     "py": "xiàndàihuà",
@@ -11204,16 +11688,6 @@
     ],
     "hasPage": false
   },
-  "心情": {
-    "cn": "心情",
-    "py": "xīnqíng",
-    "en": "mood",
-    "count": 1,
-    "appearsOn": [
-      "pages/characters/gan3_感.html"
-    ],
-    "hasPage": false
-  },
   "心学": {
     "cn": "心学",
     "py": "xīnxué",
@@ -11374,16 +11848,6 @@
     ],
     "hasPage": false
   },
-  "幸福": {
-    "cn": "幸福",
-    "py": "xìngfú",
-    "en": "happiness; well-being",
-    "count": 1,
-    "appearsOn": [
-      "pages/characters/fu2_福.html"
-    ],
-    "hasPage": false
-  },
   "性格": {
     "cn": "性格",
     "py": "xìnggé",
@@ -11401,6 +11865,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/jia1_家.html"
+    ],
+    "hasPage": false
+  },
+  "匈奴": {
+    "cn": "匈奴",
+    "py": "Xiōngnú",
+    "en": "the Xiongnu; northern nomadic confederation",
+    "count": 1,
+    "appearsOn": [
+      "pages/vocab/changjian_长城.html"
     ],
     "hasPage": false
   },
@@ -12054,6 +12528,16 @@
     ],
     "hasPage": false
   },
+  "悠闲": {
+    "cn": "悠闲",
+    "py": "yōuxián",
+    "en": "leisurely, at ease",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/man4_慢.html"
+    ],
+    "hasPage": false
+  },
   "尤其": {
     "cn": "尤其",
     "py": "yóuqí",
@@ -12111,6 +12595,16 @@
     "count": 1,
     "appearsOn": [
       "pages/religion/topic_mazu.html"
+    ],
+    "hasPage": false
+  },
+  "愉悦": {
+    "cn": "愉悦",
+    "py": "yúyuè",
+    "en": "joyful; delighted (literary)",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/kuai4_快.html"
     ],
     "hasPage": false
   },
@@ -12284,6 +12778,46 @@
     ],
     "hasPage": false
   },
+  "远": {
+    "cn": "远",
+    "py": "yuǎn",
+    "en": "far; distant; remote",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/jin4_近.html"
+    ],
+    "hasPage": true
+  },
+  "远处": {
+    "cn": "远处",
+    "py": "yuǎnchù",
+    "en": "in the distance",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/yuan3_远.html"
+    ],
+    "hasPage": false
+  },
+  "远大": {
+    "cn": "远大",
+    "py": "yuǎndà",
+    "en": "ambitious, far-reaching (of goals)",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/yuan3_远.html"
+    ],
+    "hasPage": false
+  },
+  "远方": {
+    "cn": "远方",
+    "py": "yuǎnfāng",
+    "en": "far-off land, the faraway",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/yuan3_远.html"
+    ],
+    "hasPage": false
+  },
   "远见": {
     "cn": "远见",
     "py": "yuǎnjiàn",
@@ -12291,6 +12825,26 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/jian4_见.html"
+    ],
+    "hasPage": false
+  },
+  "远离": {
+    "cn": "远离",
+    "py": "yuǎnlí",
+    "en": "to keep far from",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/yuan3_远.html"
+    ],
+    "hasPage": false
+  },
+  "远亲": {
+    "cn": "远亲",
+    "py": "yuǎnqīn",
+    "en": "distant relative",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/yuan3_远.html"
     ],
     "hasPage": false
   },
@@ -12534,6 +13088,16 @@
     ],
     "hasPage": false
   },
+  "展望": {
+    "cn": "展望",
+    "py": "zhǎnwàng",
+    "en": "to look ahead, to envision the future",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/yuan3_远.html"
+    ],
+    "hasPage": false
+  },
   "占有": {
     "cn": "占有",
     "py": "zhànyǒu",
@@ -12541,6 +13105,26 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/you3_有.html"
+    ],
+    "hasPage": false
+  },
+  "长": {
+    "cn": "长",
+    "py": "cháng",
+    "en": "long; length",
+    "count": 1,
+    "appearsOn": [
+      "pages/vocab/changjian_长城.html"
+    ],
+    "hasPage": true
+  },
+  "长安": {
+    "cn": "长安",
+    "py": "Cháng'ān",
+    "en": "the ancient capital (modern Xi'an)",
+    "count": 1,
+    "appearsOn": [
+      "pages/vocab/changjian_长城.html"
     ],
     "hasPage": false
   },
