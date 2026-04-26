@@ -116,11 +116,32 @@ function renderEntryCard(entry) {
  * collapse JS, since on family pages every category is expanded by default
  * (the page's purpose is browsing).
  */
+const CAT_CALLOUTS = {
+  geography: `
+      <a class="map-callout" href="../maps/china.html" aria-label="Open the Interactive Map of China">
+        <svg class="map-callout-icon" viewBox="0 0 100 90" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+          <rect width="100" height="90" fill="#dde8ef" rx="4"/>
+          <path d="M24,11 L31,9 L40,7 L52,6 L63,5 L72,5 L81,7 L88,12 L92,18 L90,25 L85,30 L82,36 L82,44 L79,52 L74,58 L67,62 L60,65 L53,67 L46,67 L39,65 L33,62 L27,57 L22,51 L18,44 L16,37 L17,29 L19,22 Z" fill="#e8dcc8" stroke="#b8a888" stroke-width="1.5"/>
+          <circle cx="75" cy="27" r="3" fill="#2a5c6b" opacity="0.8"/>
+          <circle cx="80" cy="46" r="2.5" fill="#2a5c6b" opacity="0.6"/>
+          <path d="M38,32 C45,30 55,29 63,30 C68,31 72,34 74,38 C72,42 65,44 57,43 C48,42 40,38 38,32Z" fill="none" stroke="#c8a830" stroke-width="1.8" opacity="0.7"/>
+          <text x="50" y="55" text-anchor="middle" font-family="serif" font-size="9" fill="#5a4428" opacity="0.5">中国</text>
+        </svg>
+        <div class="map-callout-body">
+          <span class="map-callout-label">Interactive · 互动地图</span>
+          <span class="map-callout-title">中国地图 · Map of China</span>
+          <span class="map-callout-desc">Toggle layers: modern provinces, dynastic extents, major rivers, dialect zones, and cultural sites. Click any marker to open the linked entry.</span>
+        </div>
+        <span class="map-callout-cta" aria-hidden="true">Open the map →</span>
+      </a>`,
+};
+
 function renderCategorySection(catKey, entries) {
   const meta = CATEGORY_META[catKey];
   if (!meta) return '';
   const cards = entries.map(renderEntryCard).join('\n        ');
   const count = entries.length;
+  const callout = CAT_CALLOUTS[catKey] || '';
   return `
     <section class="cat-group fam-cat-group" id="cat-${catKey}" data-category="${catKey}">
       <div class="cat-head fam-cat-head">
@@ -130,7 +151,7 @@ function renderCategorySection(catKey, entries) {
         <span class="sh-rule"></span>
         <span class="cat-count">${count} ${count === 1 ? 'entry' : 'entries'}</span>
       </div>
-      <p class="fam-cat-desc">${escapeHtml(meta.desc)}</p>
+      <p class="fam-cat-desc">${escapeHtml(meta.desc)}</p>${callout}
       <div class="entry-grid">
         ${cards}
       </div>
@@ -270,10 +291,22 @@ function renderExploreContent(entries) {
       <span class="sh-cn">地图</span>
       <span class="sh-en">Interactive Maps</span>
     </div>
-    <div class="scholar" data-glyph="图">
-      <div class="scholar-label">中国地图 · Zhōngguó Dìtú</div>
-      <p>An interactive map of China with togglable layers — modern provinces, dynastic territorial extents, major rivers, dialect zones, and cultural sites. Every marker links to a Shūwū entry. <a href="../maps/china.html">Open the map →</a></p>
-    </div>
+    <a class="map-callout" href="../maps/china.html" aria-label="Open the Interactive Map of China">
+      <svg class="map-callout-icon" viewBox="0 0 100 90" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+        <rect width="100" height="90" fill="#dde8ef" rx="4"/>
+        <path d="M24,11 L31,9 L40,7 L52,6 L63,5 L72,5 L81,7 L88,12 L92,18 L90,25 L85,30 L82,36 L82,44 L79,52 L74,58 L67,62 L60,65 L53,67 L46,67 L39,65 L33,62 L27,57 L22,51 L18,44 L16,37 L17,29 L19,22 Z" fill="#e8dcc8" stroke="#b8a888" stroke-width="1.5"/>
+        <circle cx="75" cy="27" r="3" fill="#2a5c6b" opacity="0.8"/>
+        <circle cx="80" cy="46" r="2.5" fill="#2a5c6b" opacity="0.6"/>
+        <path d="M38,32 C45,30 55,29 63,30 C68,31 72,34 74,38 C72,42 65,44 57,43 C48,42 40,38 38,32Z" fill="none" stroke="#c8a830" stroke-width="1.8" opacity="0.7"/>
+        <text x="50" y="55" text-anchor="middle" font-family="serif" font-size="9" fill="#5a4428" opacity="0.5">中国</text>
+      </svg>
+      <div class="map-callout-body">
+        <span class="map-callout-label">Interactive · 互动地图</span>
+        <span class="map-callout-title">中国地图 · Map of China</span>
+        <span class="map-callout-desc">Toggle layers: modern provinces, dynastic extents, major rivers, dialect zones, and cultural sites. Click any marker to open the linked entry.</span>
+      </div>
+      <span class="map-callout-cta" aria-hidden="true">Open the map →</span>
+    </a>
 
     <span class="section-anchor" id="all-categories"></span>
     <div class="all-cats-clusters">

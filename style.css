@@ -2504,7 +2504,8 @@ body[data-category="history"] .reading-progress-bar { background: linear-gradien
 
 /* Geography — slate teal */
 body[data-category="geography"] .hero::after,
-body[data-category="geography"] .topic-hero::after { background: var(--cat-geography); }
+body[data-category="geography"] .topic-hero::after,
+body[data-category="geography"] .map-page-hero::after { background: var(--cat-geography); }
 body[data-category="geography"] .topic-hero-title { color: var(--cat-geography); }
 body[data-category="geography"] .toc-list a.active,
 body[data-category="geography"] .toc-list a:hover { color: var(--cat-geography); border-left-color: var(--cat-geography); background: rgba(42,92,107,0.07); }
@@ -2622,6 +2623,12 @@ body[data-category="hubs"] { --seal-color: var(--cat-hubs); }
   padding: 2.2rem 0 1.6rem;
   border-bottom: 1px solid var(--rule);
   margin-bottom: 1.8rem;
+  position: relative;
+}
+.map-page-hero::after {
+  content: '';
+  position: absolute; bottom: -1px; left: 0;
+  width: 80px; height: 3px; background: var(--cat-geography, #2a5c6b); border-radius: 0 0 2px 2px;
 }
 .map-page-eyebrow {
   font-family: var(--font-mono);
@@ -2635,7 +2642,7 @@ body[data-category="hubs"] { --seal-color: var(--cat-hubs); }
 .map-page-title {
   font-family: var(--font-cn-display);
   font-size: clamp(2rem, 5vw, 3rem);
-  color: #2a5c6b;
+  color: var(--cat-geography, #2a5c6b);
   line-height: 1.1;
   margin: 0 0 0.25rem;
 }
@@ -2859,6 +2866,64 @@ body[data-category="hubs"] { --seal-color: var(--cat-hubs); }
   height: 12px;
   border-radius: 50%;
   flex-shrink: 0;
+}
+
+/* ── Map callout — used in topic/family pages to feature the map ── */
+.map-callout {
+  display: flex;
+  align-items: center;
+  gap: 1.2rem;
+  background: var(--papyrus-2);
+  border: 1px solid var(--rule);
+  border-left: 3px solid var(--cat-geography, #2a5c6b);
+  border-radius: var(--radius);
+  padding: 1rem 1.2rem;
+  margin-bottom: 1.4rem;
+  text-decoration: none;
+  color: inherit;
+  transition: border-left-color 0.15s, box-shadow 0.15s;
+}
+.map-callout:hover { box-shadow: 0 2px 8px var(--shadow); border-left-color: var(--cat-geography, #2a5c6b); }
+.map-callout-icon {
+  flex-shrink: 0;
+  width: 52px;
+  height: 52px;
+  opacity: 0.72;
+}
+.map-callout-body { flex: 1; min-width: 0; }
+.map-callout-label {
+  font-family: var(--font-mono);
+  font-size: 0.62rem;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  color: var(--cat-geography, #2a5c6b);
+  display: block;
+  margin-bottom: 0.2rem;
+}
+.map-callout-title {
+  font-family: var(--font-cn);
+  font-size: 1.05rem;
+  font-weight: 600;
+  color: var(--ink);
+  display: block;
+  margin-bottom: 0.2rem;
+}
+.map-callout-desc {
+  font-size: 0.83rem;
+  color: var(--ink-4);
+  line-height: 1.5;
+}
+.map-callout-cta {
+  flex-shrink: 0;
+  font-family: var(--font-mono);
+  font-size: 0.72rem;
+  color: var(--cat-geography, #2a5c6b);
+  white-space: nowrap;
+}
+@media (max-width: 520px) {
+  .map-callout { flex-wrap: wrap; }
+  .map-callout-icon { width: 36px; height: 36px; }
+  .map-callout-cta { display: none; }
 }
 
 /* ── Mobile adjustments ──────────────────────────────────── */
