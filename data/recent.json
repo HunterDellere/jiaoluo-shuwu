@@ -74,6 +74,26 @@
     "updated": "2026-04-25"
   },
   {
+    "path": "pages/characters/di1_低.html",
+    "type": "character",
+    "category": "characters",
+    "title": "低 · low; to lower; to bow down",
+    "desc": "A person stooping: the phonetic 氐 gives the sound while the human radical supplies the posture, and together they built one of the most culturally loaded words in modern Chinese.",
+    "tags": [
+      "adjectives",
+      "daily-life",
+      "scale",
+      "degree"
+    ],
+    "status": "complete",
+    "char": "低",
+    "pinyin": "dī",
+    "tone": 1,
+    "hsk": 3,
+    "radical": "亻",
+    "updated": "2026-04-25"
+  },
+  {
     "path": "pages/characters/dong1_东.html",
     "type": "character",
     "category": "characters",
@@ -359,25 +379,6 @@
     "tone": 2,
     "hsk": 2,
     "radical": "十",
-    "updated": "2026-04-25"
-  },
-  {
-    "path": "pages/characters/shao3_少.html",
-    "type": "character",
-    "category": "characters",
-    "title": "少 · few; little; young",
-    "desc": "Small with a stroke removed — the character for scarcity that doubles as the word for youth when read in falling tone.",
-    "tags": [
-      "adjectives",
-      "scale",
-      "grammar"
-    ],
-    "status": "complete",
-    "char": "少",
-    "pinyin": "shǎo",
-    "tone": 3,
-    "hsk": 1,
-    "radical": "小",
     "updated": "2026-04-25"
   }
 ]

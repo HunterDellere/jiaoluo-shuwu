@@ -6,7 +6,7 @@
     <atom:link href="https://jiaoshoo.com/feed.xml" rel="self" type="application/rss+xml" />
     <description>Notes on Chinese language and civilisation — characters, vocabulary, grammar, history, philosophy, and the world they shaped.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 26 Apr 2026 03:44:17 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2026 03:50:40 GMT</lastBuildDate>
     <item>
       <title>古琴 · the guqin zither — the scholar&apos;s instrument</title>
       <link>https://jiaoshoo.com/pages/arts/topic_guqin.html</link>
@@ -37,6 +37,14 @@
       <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/bei3_北.html</guid>
       <pubDate>Sat, 25 Apr 2026 00:00:00 GMT</pubDate>
       <description>Two people standing back-to-back — the direction of cold and turning away that became the name of China&apos;s capital.</description>
+      <category>characters</category>
+    </item>
+    <item>
+      <title>低 · low; to lower; to bow down</title>
+      <link>https://jiaoshoo.com/pages/characters/di1_低.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/di1_低.html</guid>
+      <pubDate>Sat, 25 Apr 2026 00:00:00 GMT</pubDate>
+      <description>A person stooping: the phonetic 氐 gives the sound while the human radical supplies the posture, and together they built one of the most culturally loaded words in modern Chinese.</description>
       <category>characters</category>
     </item>
     <item>
@@ -224,27 +232,19 @@
       <category>culture</category>
     </item>
     <item>
+      <title>中元节 · The Ghost Festival</title>
+      <link>https://jiaoshoo.com/pages/culture/topic_zhongyuan.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/culture/topic_zhongyuan.html</guid>
+      <pubDate>Sat, 25 Apr 2026 00:00:00 GMT</pubDate>
+      <description>On the 15th of the 7th lunar month, the gates of the underworld open and the living set out food, burn paper, and float lanterns for the dead.</description>
+      <category>culture</category>
+    </item>
+    <item>
       <title>集锦 · Collections</title>
       <link>https://jiaoshoo.com/pages/families/collections.html</link>
       <guid isPermaLink="true">https://jiaoshoo.com/pages/families/collections.html</guid>
       <pubDate>Sat, 25 Apr 2026 00:00:00 GMT</pubDate>
       <description>Idioms, curated reading paths, and reference lists. Entries grouped to be read together.</description>
-      <category>families</category>
-    </item>
-    <item>
-      <title>探 · Explore</title>
-      <link>https://jiaoshoo.com/pages/families/explore.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/families/explore.html</guid>
-      <pubDate>Sat, 25 Apr 2026 00:00:00 GMT</pubDate>
-      <description>The master entry point. Three families of entries, every category browsable from one place.</description>
-      <category>families</category>
-    </item>
-    <item>
-      <title>语言 · The Language</title>
-      <link>https://jiaoshoo.com/pages/families/language.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/families/language.html</guid>
-      <pubDate>Sat, 25 Apr 2026 00:00:00 GMT</pubDate>
-      <description>Characters, vocabulary, grammar. The building blocks of written and spoken Chinese.</description>
       <category>families</category>
     </item>
   </channel>

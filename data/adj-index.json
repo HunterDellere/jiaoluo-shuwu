@@ -3,7 +3,7 @@
     "cn": "道",
     "py": "dào",
     "en": "the Way; path; principle",
-    "count": 11,
+    "count": 12,
     "appearsOn": [
       "pages/characters/bian4_变.html",
       "pages/characters/fo2_佛.html",
@@ -14,8 +14,27 @@
       "pages/vocab/daode_道德.html",
       "pages/vocab/shenming_神明.html",
       "pages/vocab/tianming_天命.html",
+      "pages/vocab/tianren_天人.html",
       "pages/vocab/yinyang_阴阳.html",
       "pages/vocab/ziran_自然.html"
+    ],
+    "hasPage": true
+  },
+  "孔子": {
+    "cn": "孔子",
+    "py": "Kǒngzǐ",
+    "en": "Confucius",
+    "count": 9,
+    "appearsOn": [
+      "pages/characters/li3_礼.html",
+      "pages/characters/xin4_信.html",
+      "pages/characters/yi4_义.html",
+      "pages/characters/zhi4_智.html",
+      "pages/history/topic_chunqiu.html",
+      "pages/history/topic_zhoudai.html",
+      "pages/religion/topic_rujia.html",
+      "pages/vocab/daode_道德.html",
+      "pages/vocab/ren2_仁.html"
     ],
     "hasPage": true
   },
@@ -37,6 +56,76 @@
     ],
     "hasPage": true
   },
+  "天": {
+    "cn": "天",
+    "py": "tiān",
+    "en": "heaven; sky; day",
+    "count": 9,
+    "appearsOn": [
+      "pages/characters/di4_地.html",
+      "pages/characters/kong1_空.html",
+      "pages/characters/long2_龙.html",
+      "pages/characters/ri4_日.html",
+      "pages/characters/shi2_时.html",
+      "pages/characters/yun2_云.html",
+      "pages/vocab/shenming_神明.html",
+      "pages/vocab/tianren_天人.html",
+      "pages/vocab/ziran_自然.html"
+    ],
+    "hasPage": true
+  },
+  "天命": {
+    "cn": "天命",
+    "py": "tiānmìng",
+    "en": "mandate of heaven; fate",
+    "count": 9,
+    "appearsOn": [
+      "pages/characters/dao4_道.html",
+      "pages/history/topic_zhoudai.html",
+      "pages/philosophy/topic_yijing.html",
+      "pages/religion/topic_rujia.html",
+      "pages/vocab/guojia_国家.html",
+      "pages/vocab/mingyun_命运.html",
+      "pages/vocab/tianren_天人.html",
+      "pages/vocab/tianxia_天下.html",
+      "pages/vocab/zhongguo_中国.html"
+    ],
+    "hasPage": true
+  },
+  "风水": {
+    "cn": "风水",
+    "py": "fēngshuǐ",
+    "en": "geomancy",
+    "count": 8,
+    "appearsOn": [
+      "pages/characters/feng1_风.html",
+      "pages/characters/qi4_气.html",
+      "pages/philosophy/topic_yijing.html",
+      "pages/religion/topic_daojiao.html",
+      "pages/religion/topic_minjian.html",
+      "pages/science/topic_tiangan_dizhi.html",
+      "pages/science/topic_wuxing.html",
+      "pages/vocab/tianren_天人.html"
+    ],
+    "hasPage": true
+  },
+  "礼": {
+    "cn": "礼",
+    "py": "lǐ",
+    "en": "ritual propriety (Five Constants)",
+    "count": 8,
+    "appearsOn": [
+      "pages/characters/xin4_信.html",
+      "pages/characters/yi4_义.html",
+      "pages/characters/zhi4_智.html",
+      "pages/philosophy/topic_zhengming.html",
+      "pages/vocab/daode_道德.html",
+      "pages/vocab/ren2_仁.html",
+      "pages/vocab/shenming_神明.html",
+      "pages/vocab/tianren_天人.html"
+    ],
+    "hasPage": true
+  },
   "水": {
     "cn": "水",
     "py": "shuǐ",
@@ -54,83 +143,19 @@
     ],
     "hasPage": true
   },
-  "天": {
-    "cn": "天",
-    "py": "tiān",
-    "en": "heaven; sky; day",
-    "count": 8,
-    "appearsOn": [
-      "pages/characters/di4_地.html",
-      "pages/characters/kong1_空.html",
-      "pages/characters/long2_龙.html",
-      "pages/characters/ri4_日.html",
-      "pages/characters/shi2_时.html",
-      "pages/characters/yun2_云.html",
-      "pages/vocab/shenming_神明.html",
-      "pages/vocab/ziran_自然.html"
-    ],
-    "hasPage": true
-  },
-  "孔子": {
-    "cn": "孔子",
-    "py": "Kǒngzǐ",
-    "en": "Confucius",
+  "五行": {
+    "cn": "五行",
+    "py": "wǔxíng",
+    "en": "Five Elements",
     "count": 7,
     "appearsOn": [
-      "pages/characters/li3_礼.html",
-      "pages/characters/xin4_信.html",
-      "pages/characters/yi4_义.html",
-      "pages/characters/zhi4_智.html",
-      "pages/religion/topic_rujia.html",
-      "pages/vocab/daode_道德.html",
-      "pages/vocab/ren2_仁.html"
-    ],
-    "hasPage": true
-  },
-  "礼": {
-    "cn": "礼",
-    "py": "lǐ",
-    "en": "ritual propriety (Five Constants)",
-    "count": 7,
-    "appearsOn": [
-      "pages/characters/xin4_信.html",
-      "pages/characters/yi4_义.html",
-      "pages/characters/zhi4_智.html",
-      "pages/philosophy/topic_zhengming.html",
-      "pages/vocab/daode_道德.html",
-      "pages/vocab/ren2_仁.html",
-      "pages/vocab/shenming_神明.html"
-    ],
-    "hasPage": true
-  },
-  "天命": {
-    "cn": "天命",
-    "py": "tiānmìng",
-    "en": "mandate of heaven; fate",
-    "count": 7,
-    "appearsOn": [
-      "pages/characters/dao4_道.html",
-      "pages/philosophy/topic_yijing.html",
-      "pages/religion/topic_rujia.html",
-      "pages/vocab/guojia_国家.html",
-      "pages/vocab/mingyun_命运.html",
-      "pages/vocab/tianxia_天下.html",
-      "pages/vocab/zhongguo_中国.html"
-    ],
-    "hasPage": true
-  },
-  "风水": {
-    "cn": "风水",
-    "py": "fēngshuǐ",
-    "en": "geomancy",
-    "count": 6,
-    "appearsOn": [
-      "pages/characters/feng1_风.html",
-      "pages/characters/qi4_气.html",
+      "pages/characters/tu3_土.html",
       "pages/philosophy/topic_yijing.html",
       "pages/religion/topic_daojiao.html",
-      "pages/religion/topic_minjian.html",
-      "pages/science/topic_wuxing.html"
+      "pages/science/topic_tiangan_dizhi.html",
+      "pages/vocab/dongxi_东西.html",
+      "pages/vocab/fengshui_风水.html",
+      "pages/vocab/yinyang_阴阳.html"
     ],
     "hasPage": true
   },
@@ -179,21 +204,6 @@
     ],
     "hasPage": true
   },
-  "五行": {
-    "cn": "五行",
-    "py": "wǔxíng",
-    "en": "Five Elements",
-    "count": 6,
-    "appearsOn": [
-      "pages/characters/tu3_土.html",
-      "pages/philosophy/topic_yijing.html",
-      "pages/religion/topic_daojiao.html",
-      "pages/vocab/dongxi_东西.html",
-      "pages/vocab/fengshui_风水.html",
-      "pages/vocab/yinyang_阴阳.html"
-    ],
-    "hasPage": true
-  },
   "义": {
     "cn": "义",
     "py": "yì",
@@ -206,6 +216,21 @@
       "pages/vocab/daode_道德.html",
       "pages/vocab/li3_礼.html",
       "pages/vocab/ren2_仁.html"
+    ],
+    "hasPage": true
+  },
+  "阴阳": {
+    "cn": "阴阳",
+    "py": "yīnyáng",
+    "en": "yin and yang; complementary forces",
+    "count": 6,
+    "appearsOn": [
+      "pages/characters/bian4_变.html",
+      "pages/philosophy/topic_yijing.html",
+      "pages/religion/topic_daojiao.html",
+      "pages/science/topic_tiangan_dizhi.html",
+      "pages/science/topic_wuxing.html",
+      "pages/vocab/fengshui_风水.html"
     ],
     "hasPage": true
   },
@@ -349,20 +374,6 @@
     ],
     "hasPage": true
   },
-  "阴阳": {
-    "cn": "阴阳",
-    "py": "yīnyáng",
-    "en": "yin and yang; complementary forces",
-    "count": 5,
-    "appearsOn": [
-      "pages/characters/bian4_变.html",
-      "pages/philosophy/topic_yijing.html",
-      "pages/religion/topic_daojiao.html",
-      "pages/science/topic_wuxing.html",
-      "pages/vocab/fengshui_风水.html"
-    ],
-    "hasPage": true
-  },
   "着": {
     "cn": "着",
     "py": "zhe",
@@ -430,6 +441,19 @@
     ],
     "hasPage": false
   },
+  "高": {
+    "cn": "高",
+    "py": "gāo",
+    "en": "tall; high",
+    "count": 4,
+    "appearsOn": [
+      "pages/characters/chang2_长.html",
+      "pages/characters/di1_低.html",
+      "pages/characters/duo1_多.html",
+      "pages/characters/shang4_上.html"
+    ],
+    "hasPage": true
+  },
   "国": {
     "cn": "国",
     "py": "guó",
@@ -468,6 +492,19 @@
       "pages/characters/zu2_足.html"
     ],
     "hasPage": false
+  },
+  "节气": {
+    "cn": "节气",
+    "py": "jiéqì",
+    "en": "solar term",
+    "count": 4,
+    "appearsOn": [
+      "pages/characters/shi2_时.html",
+      "pages/culture/topic_duanwu.html",
+      "pages/science/topic_tiangan_dizhi.html",
+      "pages/vocab/jieqi_节气.html"
+    ],
+    "hasPage": true
   },
   "空": {
     "cn": "空",
@@ -534,6 +571,19 @@
     ],
     "hasPage": true
   },
+  "山水": {
+    "cn": "山水",
+    "py": "shānshuǐ",
+    "en": "mountains and water; landscape",
+    "count": 4,
+    "appearsOn": [
+      "pages/arts/topic_shanshui.html",
+      "pages/vocab/jiangshan_江山.html",
+      "pages/vocab/tianren_天人.html",
+      "pages/vocab/zhongguohua_中国画.html"
+    ],
+    "hasPage": false
+  },
   "文化": {
     "cn": "文化",
     "py": "wénhuà",
@@ -546,6 +596,19 @@
       "pages/vocab/guojia_国家.html"
     ],
     "hasPage": true
+  },
+  "无为": {
+    "cn": "无为",
+    "py": "wúwéi",
+    "en": "non-action; the Daoist ideal",
+    "count": 4,
+    "appearsOn": [
+      "pages/characters/dao4_道.html",
+      "pages/characters/wu2_无.html",
+      "pages/vocab/tianren_天人.html",
+      "pages/vocab/ziran_自然.html"
+    ],
+    "hasPage": false
   },
   "西": {
     "cn": "西",
@@ -690,6 +753,19 @@
     ],
     "hasPage": false
   },
+  "自然": {
+    "cn": "自然",
+    "py": "zìrán",
+    "en": "nature; naturally; as-itself",
+    "count": 4,
+    "appearsOn": [
+      "pages/characters/dao4_道.html",
+      "pages/characters/tian1_天.html",
+      "pages/characters/wu2_无.html",
+      "pages/vocab/tianren_天人.html"
+    ],
+    "hasPage": true
+  },
   "北": {
     "cn": "北",
     "py": "běi",
@@ -774,18 +850,6 @@
     ],
     "hasPage": true
   },
-  "高": {
-    "cn": "高",
-    "py": "gāo",
-    "en": "tall; high",
-    "count": 3,
-    "appearsOn": [
-      "pages/characters/chang2_长.html",
-      "pages/characters/duo1_多.html",
-      "pages/characters/shang4_上.html"
-    ],
-    "hasPage": true
-  },
   "更": {
     "cn": "更",
     "py": "gèng",
@@ -809,6 +873,18 @@
       "pages/vocab/mianzi_面子.html"
     ],
     "hasPage": true
+  },
+  "鬼": {
+    "cn": "鬼",
+    "py": "guǐ",
+    "en": "ghost; evil spirit",
+    "count": 3,
+    "appearsOn": [
+      "pages/religion/topic_minjian.html",
+      "pages/vocab/renjian_人间.html",
+      "pages/vocab/shenming_神明.html"
+    ],
+    "hasPage": false
   },
   "过": {
     "cn": "过",
@@ -903,18 +979,6 @@
       "pages/characters/long2_龙.html",
       "pages/vocab/tianming_天命.html",
       "pages/vocab/tianxia_天下.html"
-    ],
-    "hasPage": true
-  },
-  "节气": {
-    "cn": "节气",
-    "py": "jiéqì",
-    "en": "solar term",
-    "count": 3,
-    "appearsOn": [
-      "pages/characters/shi2_时.html",
-      "pages/culture/topic_duanwu.html",
-      "pages/vocab/jieqi_节气.html"
     ],
     "hasPage": true
   },
@@ -1062,6 +1126,18 @@
     ],
     "hasPage": false
   },
+  "谦虚": {
+    "cn": "谦虚",
+    "py": "qiānxū",
+    "en": "humble; modest",
+    "count": 3,
+    "appearsOn": [
+      "pages/characters/di1_低.html",
+      "pages/vocab/keqi_客气.html",
+      "pages/vocab/mianzi_面子.html"
+    ],
+    "hasPage": false
+  },
   "乾坤": {
     "cn": "乾坤",
     "py": "qiánkūn",
@@ -1074,17 +1150,17 @@
     ],
     "hasPage": false
   },
-  "山水": {
-    "cn": "山水",
-    "py": "shānshuǐ",
-    "en": "mountains and water; landscape",
+  "人": {
+    "cn": "人",
+    "py": "rén",
+    "en": "person; humanity",
     "count": 3,
     "appearsOn": [
-      "pages/arts/topic_shanshui.html",
-      "pages/vocab/jiangshan_江山.html",
-      "pages/vocab/zhongguohua_中国画.html"
+      "pages/characters/di4_地.html",
+      "pages/vocab/renjian_人间.html",
+      "pages/vocab/tianren_天人.html"
     ],
-    "hasPage": false
+    "hasPage": true
   },
   "善": {
     "cn": "善",
@@ -1134,6 +1210,18 @@
     ],
     "hasPage": false
   },
+  "天地": {
+    "cn": "天地",
+    "py": "tiāndì",
+    "en": "heaven and earth",
+    "count": 3,
+    "appearsOn": [
+      "pages/characters/tian1_天.html",
+      "pages/vocab/tianren_天人.html",
+      "pages/vocab/yinyang_阴阳.html"
+    ],
+    "hasPage": false
+  },
   "文": {
     "cn": "文",
     "py": "wén",
@@ -1145,18 +1233,6 @@
       "pages/vocab/wenhua_文化.html"
     ],
     "hasPage": true
-  },
-  "无为": {
-    "cn": "无为",
-    "py": "wúwéi",
-    "en": "non-action; the Daoist ideal",
-    "count": 3,
-    "appearsOn": [
-      "pages/characters/dao4_道.html",
-      "pages/characters/wu2_无.html",
-      "pages/vocab/ziran_自然.html"
-    ],
-    "hasPage": false
   },
   "想": {
     "cn": "想",
@@ -1290,18 +1366,6 @@
     ],
     "hasPage": false
   },
-  "自然": {
-    "cn": "自然",
-    "py": "zìrán",
-    "en": "nature; naturally; as-itself",
-    "count": 3,
-    "appearsOn": [
-      "pages/characters/dao4_道.html",
-      "pages/characters/tian1_天.html",
-      "pages/characters/wu2_无.html"
-    ],
-    "hasPage": true
-  },
   "走": {
     "cn": "走",
     "py": "zǒu",
@@ -1313,6 +1377,18 @@
       "pages/grammar/directional_来去.html"
     ],
     "hasPage": true
+  },
+  "祖先": {
+    "cn": "祖先",
+    "py": "zǔxiān",
+    "en": "ancestors",
+    "count": 3,
+    "appearsOn": [
+      "pages/characters/li3_礼.html",
+      "pages/culture/topic_zhongyuan.html",
+      "pages/religion/topic_zuxian.html"
+    ],
+    "hasPage": false
   },
   "爱国": {
     "cn": "爱国",
@@ -1534,6 +1610,17 @@
     ],
     "hasPage": false
   },
+  "春秋": {
+    "cn": "春秋",
+    "py": "Chūnqiū",
+    "en": "the Annals; spring and autumn",
+    "count": 2,
+    "appearsOn": [
+      "pages/history/topic_chunqiu.html",
+      "pages/history/topic_zhoudai.html"
+    ],
+    "hasPage": false
+  },
   "词": {
     "cn": "词",
     "py": "cí",
@@ -1622,6 +1709,17 @@
     ],
     "hasPage": true
   },
+  "道教": {
+    "cn": "道教",
+    "py": "dàojiào",
+    "en": "Daoism",
+    "count": 2,
+    "appearsOn": [
+      "pages/culture/topic_zhongyuan.html",
+      "pages/philosophy/topic_yijing.html"
+    ],
+    "hasPage": true
+  },
   "地": {
     "cn": "地",
     "py": "dì",
@@ -1653,7 +1751,7 @@
       "pages/characters/gao1_高.html",
       "pages/characters/xia4_下.html"
     ],
-    "hasPage": false
+    "hasPage": true
   },
   "东西": {
     "cn": "东西",
@@ -1743,6 +1841,17 @@
     ],
     "hasPage": false
   },
+  "佛教": {
+    "cn": "佛教",
+    "py": "fójiào",
+    "en": "Buddhism",
+    "count": 2,
+    "appearsOn": [
+      "pages/culture/topic_zhongyuan.html",
+      "pages/vocab/renjian_人间.html"
+    ],
+    "hasPage": true
+  },
   "附近": {
     "cn": "附近",
     "py": "fùjìn",
@@ -1828,17 +1937,6 @@
     "appearsOn": [
       "pages/vocab/jianghu_江湖.html",
       "pages/vocab/li3_礼.html"
-    ],
-    "hasPage": false
-  },
-  "鬼": {
-    "cn": "鬼",
-    "py": "guǐ",
-    "en": "ghost; evil spirit",
-    "count": 2,
-    "appearsOn": [
-      "pages/religion/topic_minjian.html",
-      "pages/vocab/shenming_神明.html"
     ],
     "hasPage": false
   },
@@ -2260,6 +2358,17 @@
     ],
     "hasPage": false
   },
+  "论语": {
+    "cn": "论语",
+    "py": "Lúnyǔ",
+    "en": "The Analects",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/xue2_学.html",
+      "pages/history/topic_chunqiu.html"
+    ],
+    "hasPage": false
+  },
   "妈祖": {
     "cn": "妈祖",
     "py": "Māzǔ",
@@ -2323,6 +2432,17 @@
     "appearsOn": [
       "pages/vocab/guanxi_关系.html",
       "pages/vocab/keqi_客气.html"
+    ],
+    "hasPage": true
+  },
+  "民间信仰": {
+    "cn": "民间信仰",
+    "py": "mínjiān xìnyǎng",
+    "en": "folk religion",
+    "count": 2,
+    "appearsOn": [
+      "pages/culture/topic_zhongyuan.html",
+      "pages/religion/topic_guanyin.html"
     ],
     "hasPage": true
   },
@@ -2414,6 +2534,17 @@
     ],
     "hasPage": false
   },
+  "农历": {
+    "cn": "农历",
+    "py": "nónglì",
+    "en": "lunar calendar",
+    "count": 2,
+    "appearsOn": [
+      "pages/science/topic_tiangan_dizhi.html",
+      "pages/vocab/jieqi_节气.html"
+    ],
+    "hasPage": false
+  },
   "朋友": {
     "cn": "朋友",
     "py": "péngyou",
@@ -2469,14 +2600,14 @@
     ],
     "hasPage": true
   },
-  "谦虚": {
-    "cn": "谦虚",
-    "py": "qiānxū",
-    "en": "modest",
+  "秦朝": {
+    "cn": "秦朝",
+    "py": "Qín cháo",
+    "en": "Qin dynasty",
     "count": 2,
     "appearsOn": [
-      "pages/vocab/keqi_客气.html",
-      "pages/vocab/mianzi_面子.html"
+      "pages/history/topic_zhoudai.html",
+      "pages/vocab/changjian_长城.html"
     ],
     "hasPage": false
   },
@@ -2488,6 +2619,17 @@
     "appearsOn": [
       "pages/history/topic_qingchao.html",
       "pages/history/topic_taiping.html"
+    ],
+    "hasPage": true
+  },
+  "清明节": {
+    "cn": "清明节",
+    "py": "Qīngmíng jié",
+    "en": "Tomb-Sweeping Festival",
+    "count": 2,
+    "appearsOn": [
+      "pages/culture/topic_duanwu.html",
+      "pages/culture/topic_zhongyuan.html"
     ],
     "hasPage": true
   },
@@ -2557,6 +2699,17 @@
     ],
     "hasPage": true
   },
+  "三才": {
+    "cn": "三才",
+    "py": "sāncái",
+    "en": "the Three Powers",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/di4_地.html",
+      "pages/vocab/tianren_天人.html"
+    ],
+    "hasPage": false
+  },
   "神话": {
     "cn": "神话",
     "py": "shénhuà",
@@ -2600,6 +2753,17 @@
       "pages/characters/ri4_日.html"
     ],
     "hasPage": false
+  },
+  "生肖": {
+    "cn": "生肖",
+    "py": "shēngxiào",
+    "en": "Chinese zodiac",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/long2_龙.html",
+      "pages/science/topic_tiangan_dizhi.html"
+    ],
+    "hasPage": true
   },
   "声调": {
     "cn": "声调",
@@ -2777,17 +2941,6 @@
     ],
     "hasPage": false
   },
-  "天地": {
-    "cn": "天地",
-    "py": "tiāndì",
-    "en": "heaven and earth",
-    "count": 2,
-    "appearsOn": [
-      "pages/characters/tian1_天.html",
-      "pages/vocab/yinyang_阴阳.html"
-    ],
-    "hasPage": false
-  },
   "天气": {
     "cn": "天气",
     "py": "tiānqì",
@@ -2873,6 +3026,17 @@
     "appearsOn": [
       "pages/characters/wen2_文.html",
       "pages/vocab/shici_诗词.html"
+    ],
+    "hasPage": false
+  },
+  "五经": {
+    "cn": "五经",
+    "py": "wǔ jīng",
+    "en": "the Five Classics",
+    "count": 2,
+    "appearsOn": [
+      "pages/history/topic_chunqiu.html",
+      "pages/history/topic_zhoudai.html"
     ],
     "hasPage": false
   },
@@ -3161,6 +3325,17 @@
     ],
     "hasPage": false
   },
+  "战国": {
+    "cn": "战国",
+    "py": "Zhànguó",
+    "en": "the Warring States period",
+    "count": 2,
+    "appearsOn": [
+      "pages/history/topic_chunqiu.html",
+      "pages/history/topic_zhoudai.html"
+    ],
+    "hasPage": false
+  },
   "长辈": {
     "cn": "长辈",
     "py": "zhǎngbèi",
@@ -3249,6 +3424,17 @@
     ],
     "hasPage": true
   },
+  "纸钱": {
+    "cn": "纸钱",
+    "py": "zhǐqián",
+    "en": "paper money (burnt offerings)",
+    "count": 2,
+    "appearsOn": [
+      "pages/culture/topic_zhongyuan.html",
+      "pages/religion/topic_minjian.html"
+    ],
+    "hasPage": false
+  },
   "中": {
     "cn": "中",
     "py": "zhōng",
@@ -3257,6 +3443,17 @@
     "appearsOn": [
       "pages/characters/dong1_东.html",
       "pages/vocab/zhongguo_中国.html"
+    ],
+    "hasPage": true
+  },
+  "中医": {
+    "cn": "中医",
+    "py": "zhōngyī",
+    "en": "Traditional Chinese Medicine",
+    "count": 2,
+    "appearsOn": [
+      "pages/science/topic_wuxing.html",
+      "pages/vocab/tianren_天人.html"
     ],
     "hasPage": true
   },
@@ -3282,6 +3479,17 @@
     ],
     "hasPage": false
   },
+  "诸侯": {
+    "cn": "诸侯",
+    "py": "zhūhóu",
+    "en": "feudal lords",
+    "count": 2,
+    "appearsOn": [
+      "pages/history/topic_chunqiu.html",
+      "pages/history/topic_zhoudai.html"
+    ],
+    "hasPage": false
+  },
   "注定": {
     "cn": "注定",
     "py": "zhùdìng",
@@ -3304,17 +3512,6 @@
     ],
     "hasPage": true
   },
-  "祖先": {
-    "cn": "祖先",
-    "py": "zǔxiān",
-    "en": "ancestors",
-    "count": 2,
-    "appearsOn": [
-      "pages/characters/li3_礼.html",
-      "pages/religion/topic_zuxian.html"
-    ],
-    "hasPage": false
-  },
   "阿弥陀佛": {
     "cn": "阿弥陀佛",
     "py": "Āmítuófó",
@@ -3332,6 +3529,16 @@
     "count": 1,
     "appearsOn": [
       "pages/grammar/zhe_particle_呢.html"
+    ],
+    "hasPage": false
+  },
+  "矮": {
+    "cn": "矮",
+    "py": "ǎi",
+    "en": "short (in height); squat",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/di1_低.html"
     ],
     "hasPage": false
   },
@@ -3425,6 +3632,16 @@
     ],
     "hasPage": false
   },
+  "霸主": {
+    "cn": "霸主",
+    "py": "bàzhǔ",
+    "en": "hegemon lord",
+    "count": 1,
+    "appearsOn": [
+      "pages/history/topic_chunqiu.html"
+    ],
+    "hasPage": false
+  },
   "吧": {
     "cn": "吧",
     "py": "ba",
@@ -3502,6 +3719,16 @@
     "count": 1,
     "appearsOn": [
       "pages/religion/topic_guanyin.html"
+    ],
+    "hasPage": false
+  },
+  "百家争鸣": {
+    "cn": "百家争鸣",
+    "py": "bǎijiā zhēngmíng",
+    "en": "contention of a hundred schools",
+    "count": 1,
+    "appearsOn": [
+      "pages/history/topic_chunqiu.html"
     ],
     "hasPage": false
   },
@@ -4545,6 +4772,16 @@
     ],
     "hasPage": false
   },
+  "春秋五霸": {
+    "cn": "春秋五霸",
+    "py": "chūnqiū wǔ bà",
+    "en": "the Five Hegemons",
+    "count": 1,
+    "appearsOn": [
+      "pages/history/topic_chunqiu.html"
+    ],
+    "hasPage": false
+  },
   "词语": {
     "cn": "词语",
     "py": "cíyǔ",
@@ -4835,6 +5072,16 @@
     ],
     "hasPage": false
   },
+  "道法自然": {
+    "cn": "道法自然",
+    "py": "dào fǎ zìrán",
+    "en": "the Way models nature",
+    "count": 1,
+    "appearsOn": [
+      "pages/vocab/tianren_天人.html"
+    ],
+    "hasPage": false
+  },
   "道观": {
     "cn": "道观",
     "py": "dàoguān",
@@ -4844,16 +5091,6 @@
       "pages/religion/topic_minjian.html"
     ],
     "hasPage": false
-  },
-  "道教": {
-    "cn": "道教",
-    "py": "dàojiào",
-    "en": "religious Daoism",
-    "count": 1,
-    "appearsOn": [
-      "pages/philosophy/topic_yijing.html"
-    ],
-    "hasPage": true
   },
   "道路": {
     "cn": "道路",
@@ -4925,6 +5162,16 @@
     ],
     "hasPage": false
   },
+  "地府": {
+    "cn": "地府",
+    "py": "dìfǔ",
+    "en": "the underworld",
+    "count": 1,
+    "appearsOn": [
+      "pages/vocab/renjian_人间.html"
+    ],
+    "hasPage": false
+  },
   "地球": {
     "cn": "地球",
     "py": "dìqiú",
@@ -4945,6 +5192,16 @@
     ],
     "hasPage": false
   },
+  "地支": {
+    "cn": "地支",
+    "py": "dìzhī",
+    "en": "Earthly Branches",
+    "count": 1,
+    "appearsOn": [
+      "pages/science/topic_tiangan_dizhi.html"
+    ],
+    "hasPage": false
+  },
   "登山": {
     "cn": "登山",
     "py": "dēngshān",
@@ -4962,6 +5219,56 @@
     "count": 1,
     "appearsOn": [
       "pages/history/topic_gaige.html"
+    ],
+    "hasPage": false
+  },
+  "低沉": {
+    "cn": "低沉",
+    "py": "dīchén",
+    "en": "low and deep; somber",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/di1_低.html"
+    ],
+    "hasPage": false
+  },
+  "低调": {
+    "cn": "低调",
+    "py": "dīdiào",
+    "en": "low-key; understated",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/di1_低.html"
+    ],
+    "hasPage": false
+  },
+  "低级": {
+    "cn": "低级",
+    "py": "dījí",
+    "en": "low-level; crude; vulgar",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/di1_低.html"
+    ],
+    "hasPage": false
+  },
+  "低落": {
+    "cn": "低落",
+    "py": "dīluò",
+    "en": "dispirited; low in mood",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/di1_低.html"
+    ],
+    "hasPage": false
+  },
+  "低头": {
+    "cn": "低头",
+    "py": "dītóu",
+    "en": "to lower one's head; to yield",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/di1_低.html"
     ],
     "hasPage": false
   },
@@ -5082,6 +5389,16 @@
     "count": 1,
     "appearsOn": [
       "pages/history/topic_mingchao.html"
+    ],
+    "hasPage": false
+  },
+  "东周": {
+    "cn": "东周",
+    "py": "Dōng Zhōu",
+    "en": "Eastern Zhou",
+    "count": 1,
+    "appearsOn": [
+      "pages/history/topic_zhoudai.html"
     ],
     "hasPage": false
   },
@@ -5235,6 +5552,16 @@
     ],
     "hasPage": false
   },
+  "饿鬼": {
+    "cn": "饿鬼",
+    "py": "è guǐ",
+    "en": "hungry ghost",
+    "count": 1,
+    "appearsOn": [
+      "pages/culture/topic_zhongyuan.html"
+    ],
+    "hasPage": false
+  },
   "恩怨": {
     "cn": "恩怨",
     "py": "ēnyuàn",
@@ -5302,6 +5629,16 @@
     "count": 1,
     "appearsOn": [
       "pages/religion/topic_jingtu.html"
+    ],
+    "hasPage": false
+  },
+  "凡间": {
+    "cn": "凡间",
+    "py": "fánjiān",
+    "en": "the mortal realm",
+    "count": 1,
+    "appearsOn": [
+      "pages/vocab/renjian_人间.html"
     ],
     "hasPage": false
   },
@@ -5454,6 +5791,16 @@
       "pages/characters/feng1_风.html"
     ],
     "hasPage": true
+  },
+  "封建": {
+    "cn": "封建",
+    "py": "fēngjiàn",
+    "en": "feudal investiture system",
+    "count": 1,
+    "appearsOn": [
+      "pages/history/topic_zhoudai.html"
+    ],
+    "hasPage": false
   },
   "烽火台": {
     "cn": "烽火台",
@@ -5685,6 +6032,26 @@
     ],
     "hasPage": false
   },
+  "高低": {
+    "cn": "高低",
+    "py": "gāodī",
+    "en": "height difference; social hierarchy",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/di1_低.html"
+    ],
+    "hasPage": false
+  },
+  "高调": {
+    "cn": "高调",
+    "py": "gāodiào",
+    "en": "high-key; ostentatious; attention-seeking",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/di1_低.html"
+    ],
+    "hasPage": false
+  },
   "高山流水": {
     "cn": "高山流水",
     "py": "gāoshān liúshuǐ",
@@ -5742,6 +6109,16 @@
     "count": 1,
     "appearsOn": [
       "pages/philosophy/topic_zhengming.html"
+    ],
+    "hasPage": false
+  },
+  "格物致知": {
+    "cn": "格物致知",
+    "py": "gé wù zhī zhī",
+    "en": "investigate things to extend knowledge",
+    "count": 1,
+    "appearsOn": [
+      "pages/vocab/tianren_天人.html"
     ],
     "hasPage": false
   },
@@ -6123,7 +6500,7 @@
     "appearsOn": [
       "pages/vocab/shenming_神明.html"
     ],
-    "hasPage": false
+    "hasPage": true
   },
   "光": {
     "cn": "光",
@@ -6142,6 +6519,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/jia1_家.html"
+    ],
+    "hasPage": false
+  },
+  "鬼月": {
+    "cn": "鬼月",
+    "py": "Guǐ Yuè",
+    "en": "Ghost Month (the entire 7th lunar month)",
+    "count": 1,
+    "appearsOn": [
+      "pages/culture/topic_zhongyuan.html"
     ],
     "hasPage": false
   },
@@ -6415,6 +6802,16 @@
     ],
     "hasPage": false
   },
+  "河灯": {
+    "cn": "河灯",
+    "py": "hé dēng",
+    "en": "river lanterns",
+    "count": 1,
+    "appearsOn": [
+      "pages/culture/topic_zhongyuan.html"
+    ],
+    "hasPage": false
+  },
   "红巾军": {
     "cn": "红巾军",
     "py": "Hóngjīnjūn",
@@ -6502,6 +6899,16 @@
     "count": 1,
     "appearsOn": [
       "pages/vocab/yinyang_阴阳.html"
+    ],
+    "hasPage": false
+  },
+  "花甲": {
+    "cn": "花甲",
+    "py": "huājiǎ",
+    "en": "60th birthday",
+    "count": 1,
+    "appearsOn": [
+      "pages/science/topic_tiangan_dizhi.html"
     ],
     "hasPage": false
   },
@@ -6604,6 +7011,16 @@
       "pages/vocab/jiangshan_江山.html"
     ],
     "hasPage": true
+  },
+  "黄历": {
+    "cn": "黄历",
+    "py": "huánglì",
+    "en": "traditional almanac",
+    "count": 1,
+    "appearsOn": [
+      "pages/science/topic_tiangan_dizhi.html"
+    ],
+    "hasPage": false
   },
   "回民": {
     "cn": "回民",
@@ -6915,6 +7332,16 @@
     ],
     "hasPage": false
   },
+  "甲子": {
+    "cn": "甲子",
+    "py": "jiǎzǐ",
+    "en": "the 60-year cycle",
+    "count": 1,
+    "appearsOn": [
+      "pages/science/topic_tiangan_dizhi.html"
+    ],
+    "hasPage": false
+  },
   "假": {
     "cn": "假",
     "py": "jiǎ",
@@ -6952,6 +7379,16 @@
     "count": 1,
     "appearsOn": [
       "pages/vocab/gongfu_功夫.html"
+    ],
+    "hasPage": false
+  },
+  "间": {
+    "cn": "间",
+    "py": "jiān",
+    "en": "between; space; interval",
+    "count": 1,
+    "appearsOn": [
+      "pages/vocab/renjian_人间.html"
     ],
     "hasPage": false
   },
@@ -7092,6 +7529,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/xia4_下.html"
+    ],
+    "hasPage": false
+  },
+  "降低": {
+    "cn": "降低",
+    "py": "jiàngdī",
+    "en": "to reduce; to lower",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/di1_低.html"
     ],
     "hasPage": false
   },
@@ -8015,6 +8462,26 @@
     ],
     "hasPage": false
   },
+  "礼崩乐坏": {
+    "cn": "礼崩乐坏",
+    "py": "lǐ bēng yuè huài",
+    "en": "ritual collapsed, music fell apart",
+    "count": 1,
+    "appearsOn": [
+      "pages/history/topic_chunqiu.html"
+    ],
+    "hasPage": false
+  },
+  "礼乐": {
+    "cn": "礼乐",
+    "py": "lǐ yuè",
+    "en": "ritual and music",
+    "count": 1,
+    "appearsOn": [
+      "pages/history/topic_zhoudai.html"
+    ],
+    "hasPage": false
+  },
   "李白": {
     "cn": "李白",
     "py": "Lǐ Bái",
@@ -8305,6 +8772,16 @@
     ],
     "hasPage": false
   },
+  "六道": {
+    "cn": "六道",
+    "py": "liù dào",
+    "en": "the six realms of rebirth",
+    "count": 1,
+    "appearsOn": [
+      "pages/vocab/renjian_人间.html"
+    ],
+    "hasPage": false
+  },
   "龙": {
     "cn": "龙",
     "py": "lóng",
@@ -8352,6 +8829,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/wu1_屋.html"
+    ],
+    "hasPage": false
+  },
+  "鲁国": {
+    "cn": "鲁国",
+    "py": "Lǔ Guó",
+    "en": "the state of Lu — Confucius's home state",
+    "count": 1,
+    "appearsOn": [
+      "pages/history/topic_chunqiu.html"
     ],
     "hasPage": false
   },
@@ -8412,16 +8899,6 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/se4_色.html"
-    ],
-    "hasPage": false
-  },
-  "论语": {
-    "cn": "论语",
-    "py": "Lúnyǔ",
-    "en": "The Analects",
-    "count": 1,
-    "appearsOn": [
-      "pages/characters/xue2_学.html"
     ],
     "hasPage": false
   },
@@ -8745,15 +9222,25 @@
     ],
     "hasPage": false
   },
-  "民间信仰": {
-    "cn": "民间信仰",
-    "py": "mínjiān xìnyǎng",
-    "en": "folk / popular religion",
+  "民胞物与": {
+    "cn": "民胞物与",
+    "py": "mín bāo wù yǔ",
+    "en": "all people kin, all things companions",
     "count": 1,
     "appearsOn": [
-      "pages/religion/topic_guanyin.html"
+      "pages/vocab/tianren_天人.html"
     ],
-    "hasPage": true
+    "hasPage": false
+  },
+  "民间": {
+    "cn": "民间",
+    "py": "mínjiān",
+    "en": "folk; among the people; unofficial",
+    "count": 1,
+    "appearsOn": [
+      "pages/vocab/renjian_人间.html"
+    ],
+    "hasPage": false
   },
   "民心": {
     "cn": "民心",
@@ -8882,6 +9369,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/mu4_目.html"
+    ],
+    "hasPage": false
+  },
+  "目连": {
+    "cn": "目连",
+    "py": "Mùlián",
+    "en": "Mulian (Maudgalyāyana), the filial monk",
+    "count": 1,
+    "appearsOn": [
+      "pages/culture/topic_zhongyuan.html"
     ],
     "hasPage": false
   },
@@ -9125,16 +9622,6 @@
     ],
     "hasPage": false
   },
-  "农历": {
-    "cn": "农历",
-    "py": "nónglì",
-    "en": "lunar calendar",
-    "count": 1,
-    "appearsOn": [
-      "pages/vocab/jieqi_节气.html"
-    ],
-    "hasPage": false
-  },
   "农民起义": {
     "cn": "农民起义",
     "py": "nóngmín qǐyì",
@@ -9255,6 +9742,16 @@
     ],
     "hasPage": false
   },
+  "普度": {
+    "cn": "普度",
+    "py": "pǔdù",
+    "en": "universal deliverance feast",
+    "count": 1,
+    "appearsOn": [
+      "pages/culture/topic_zhongyuan.html"
+    ],
+    "hasPage": false
+  },
   "普通话": {
     "cn": "普通话",
     "py": "pǔtōnghuà",
@@ -9282,6 +9779,26 @@
     "count": 1,
     "appearsOn": [
       "pages/history/topic_qingchao.html"
+    ],
+    "hasPage": false
+  },
+  "七月": {
+    "cn": "七月",
+    "py": "qīyuè",
+    "en": "the 7th lunar month",
+    "count": 1,
+    "appearsOn": [
+      "pages/culture/topic_zhongyuan.html"
+    ],
+    "hasPage": false
+  },
+  "齐国": {
+    "cn": "齐国",
+    "py": "Qí Guó",
+    "en": "the state of Qi — first hegemon's domain",
+    "count": 1,
+    "appearsOn": [
+      "pages/history/topic_chunqiu.html"
     ],
     "hasPage": false
   },
@@ -9455,16 +9972,6 @@
     ],
     "hasPage": false
   },
-  "秦朝": {
-    "cn": "秦朝",
-    "py": "Qín cháo",
-    "en": "the Qin dynasty (221–206 BCE)",
-    "count": 1,
-    "appearsOn": [
-      "pages/vocab/changjian_长城.html"
-    ],
-    "hasPage": false
-  },
   "琴棋书画": {
     "cn": "琴棋书画",
     "py": "qín qí shū huà",
@@ -9514,16 +10021,6 @@
       "pages/vocab/jieqi_节气.html"
     ],
     "hasPage": false
-  },
-  "清明节": {
-    "cn": "清明节",
-    "py": "Qīngmíng jié",
-    "en": "Tomb-Sweeping Festival",
-    "count": 1,
-    "appearsOn": [
-      "pages/culture/topic_duanwu.html"
-    ],
-    "hasPage": true
   },
   "情": {
     "cn": "情",
@@ -9705,16 +10202,6 @@
     ],
     "hasPage": false
   },
-  "人": {
-    "cn": "人",
-    "py": "rén",
-    "en": "person; humanity",
-    "count": 1,
-    "appearsOn": [
-      "pages/characters/di4_地.html"
-    ],
-    "hasPage": true
-  },
   "人工": {
     "cn": "人工",
     "py": "réngōng",
@@ -9722,6 +10209,26 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/gong1_工.html"
+    ],
+    "hasPage": false
+  },
+  "人间天堂": {
+    "cn": "人间天堂",
+    "py": "rénjiān tiāntáng",
+    "en": "paradise on earth",
+    "count": 1,
+    "appearsOn": [
+      "pages/vocab/renjian_人间.html"
+    ],
+    "hasPage": false
+  },
+  "人间烟火": {
+    "cn": "人间烟火",
+    "py": "rénjiān yānhuǒ",
+    "en": "smoke and fire of human life; domestic warmth",
+    "count": 1,
+    "appearsOn": [
+      "pages/vocab/renjian_人间.html"
     ],
     "hasPage": false
   },
@@ -9855,16 +10362,6 @@
     ],
     "hasPage": false
   },
-  "三才": {
-    "cn": "三才",
-    "py": "sāncái",
-    "en": "the Three Powers",
-    "count": 1,
-    "appearsOn": [
-      "pages/characters/di4_地.html"
-    ],
-    "hasPage": false
-  },
   "三角": {
     "cn": "三角",
     "py": "sānjiǎo",
@@ -9972,6 +10469,16 @@
     "count": 1,
     "appearsOn": [
       "pages/vocab/xiao4_孝.html"
+    ],
+    "hasPage": false
+  },
+  "商朝": {
+    "cn": "商朝",
+    "py": "Shāng cháo",
+    "en": "Shang dynasty",
+    "count": 1,
+    "appearsOn": [
+      "pages/history/topic_zhoudai.html"
     ],
     "hasPage": false
   },
@@ -10325,16 +10832,6 @@
     ],
     "hasPage": false
   },
-  "生肖": {
-    "cn": "生肖",
-    "py": "shēngxiào",
-    "en": "Chinese zodiac",
-    "count": 1,
-    "appearsOn": [
-      "pages/characters/long2_龙.html"
-    ],
-    "hasPage": true
-  },
   "生长": {
     "cn": "生长",
     "py": "shēngzhǎng",
@@ -10415,6 +10912,16 @@
     ],
     "hasPage": false
   },
+  "时辰": {
+    "cn": "时辰",
+    "py": "shíchen",
+    "en": "two-hour period",
+    "count": 1,
+    "appearsOn": [
+      "pages/science/topic_tiangan_dizhi.html"
+    ],
+    "hasPage": false
+  },
   "时光": {
     "cn": "时光",
     "py": "shíguāng",
@@ -10462,6 +10969,26 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/kai1_开.html"
+    ],
+    "hasPage": false
+  },
+  "世间": {
+    "cn": "世间",
+    "py": "shìjiān",
+    "en": "the world; among the world",
+    "count": 1,
+    "appearsOn": [
+      "pages/vocab/renjian_人间.html"
+    ],
+    "hasPage": false
+  },
+  "世界": {
+    "cn": "世界",
+    "py": "shìjiè",
+    "en": "the world",
+    "count": 1,
+    "appearsOn": [
+      "pages/vocab/renjian_人间.html"
     ],
     "hasPage": false
   },
@@ -11105,6 +11632,26 @@
     ],
     "hasPage": false
   },
+  "天干": {
+    "cn": "天干",
+    "py": "tiāngān",
+    "en": "Heavenly Stems",
+    "count": 1,
+    "appearsOn": [
+      "pages/science/topic_tiangan_dizhi.html"
+    ],
+    "hasPage": false
+  },
+  "天界": {
+    "cn": "天界",
+    "py": "tiānjiè",
+    "en": "the celestial realm",
+    "count": 1,
+    "appearsOn": [
+      "pages/vocab/renjian_人间.html"
+    ],
+    "hasPage": false
+  },
   "天空": {
     "cn": "天空",
     "py": "tiānkōng",
@@ -11112,6 +11659,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/kong1_空.html"
+    ],
+    "hasPage": false
+  },
+  "天人感应": {
+    "cn": "天人感应",
+    "py": "tiān rén gǎnyìng",
+    "en": "resonance between Heaven and humanity",
+    "count": 1,
+    "appearsOn": [
+      "pages/vocab/tianren_天人.html"
     ],
     "hasPage": false
   },
@@ -11123,7 +11680,7 @@
     "appearsOn": [
       "pages/vocab/tianxia_天下.html"
     ],
-    "hasPage": false
+    "hasPage": true
   },
   "天意": {
     "cn": "天意",
@@ -11835,6 +12392,16 @@
     ],
     "hasPage": false
   },
+  "西周": {
+    "cn": "西周",
+    "py": "Xī Zhōu",
+    "en": "Western Zhou",
+    "count": 1,
+    "appearsOn": [
+      "pages/history/topic_zhoudai.html"
+    ],
+    "hasPage": false
+  },
   "希望": {
     "cn": "希望",
     "py": "xīwàng",
@@ -11942,6 +12509,26 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/xia4_下.html"
+    ],
+    "hasPage": false
+  },
+  "夏朝": {
+    "cn": "夏朝",
+    "py": "Xià cháo",
+    "en": "Xia dynasty",
+    "count": 1,
+    "appearsOn": [
+      "pages/history/topic_zhoudai.html"
+    ],
+    "hasPage": false
+  },
+  "仙": {
+    "cn": "仙",
+    "py": "xiān",
+    "en": "immortal; celestial being",
+    "count": 1,
+    "appearsOn": [
+      "pages/vocab/renjian_人间.html"
     ],
     "hasPage": false
   },
@@ -12645,6 +13232,16 @@
     ],
     "hasPage": false
   },
+  "烟火": {
+    "cn": "烟火",
+    "py": "yānhuǒ",
+    "en": "smoke and fire; hearth; also: fireworks",
+    "count": 1,
+    "appearsOn": [
+      "pages/vocab/renjian_人间.html"
+    ],
+    "hasPage": false
+  },
   "炎热": {
     "cn": "炎热",
     "py": "yánrè",
@@ -13175,6 +13772,16 @@
     ],
     "hasPage": false
   },
+  "盂兰盆": {
+    "cn": "盂兰盆",
+    "py": "yúlánpén",
+    "en": "Ullambana vessel; the Buddhist festival name",
+    "count": 1,
+    "appearsOn": [
+      "pages/culture/topic_zhongyuan.html"
+    ],
+    "hasPage": false
+  },
   "渔民": {
     "cn": "渔民",
     "py": "yúmín",
@@ -13695,6 +14302,16 @@
     ],
     "hasPage": false
   },
+  "占卜": {
+    "cn": "占卜",
+    "py": "zhānbǔ",
+    "en": "divination",
+    "count": 1,
+    "appearsOn": [
+      "pages/science/topic_tiangan_dizhi.html"
+    ],
+    "hasPage": false
+  },
   "占有": {
     "cn": "占有",
     "py": "zhànyǒu",
@@ -13915,16 +14532,6 @@
     ],
     "hasPage": false
   },
-  "纸钱": {
-    "cn": "纸钱",
-    "py": "zhǐqián",
-    "en": "spirit money (paper burnt for dead)",
-    "count": 1,
-    "appearsOn": [
-      "pages/religion/topic_minjian.html"
-    ],
-    "hasPage": false
-  },
   "指南针": {
     "cn": "指南针",
     "py": "zhǐnánzhēn",
@@ -14065,16 +14672,6 @@
     ],
     "hasPage": false
   },
-  "中医": {
-    "cn": "中医",
-    "py": "zhōngyī",
-    "en": "Traditional Chinese Medicine",
-    "count": 1,
-    "appearsOn": [
-      "pages/science/topic_wuxing.html"
-    ],
-    "hasPage": true
-  },
   "中庸": {
     "cn": "中庸",
     "py": "zhōngyōng",
@@ -14135,6 +14732,16 @@
     ],
     "hasPage": false
   },
+  "重阳节": {
+    "cn": "重阳节",
+    "py": "Chóngyáng Jié",
+    "en": "Double Ninth Festival (autumn)",
+    "count": 1,
+    "appearsOn": [
+      "pages/culture/topic_zhongyuan.html"
+    ],
+    "hasPage": false
+  },
   "重要": {
     "cn": "重要",
     "py": "zhòngyào",
@@ -14142,6 +14749,26 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/yao4_要.html"
+    ],
+    "hasPage": false
+  },
+  "周朝": {
+    "cn": "周朝",
+    "py": "Zhōu Cháo",
+    "en": "the Zhou dynasty",
+    "count": 1,
+    "appearsOn": [
+      "pages/history/topic_chunqiu.html"
+    ],
+    "hasPage": true
+  },
+  "周公": {
+    "cn": "周公",
+    "py": "Zhōu gōng",
+    "en": "Duke of Zhou",
+    "count": 1,
+    "appearsOn": [
+      "pages/history/topic_zhoudai.html"
     ],
     "hasPage": false
   },
@@ -14285,6 +14912,16 @@
     ],
     "hasPage": false
   },
+  "姿态": {
+    "cn": "姿态",
+    "py": "zītài",
+    "en": "posture; attitude; stance",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/di1_低.html"
+    ],
+    "hasPage": false
+  },
   "紫禁城": {
     "cn": "紫禁城",
     "py": "Zǐjìnchéng",
@@ -14422,6 +15059,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/ming2_明.html"
+    ],
+    "hasPage": false
+  },
+  "左传": {
+    "cn": "左传",
+    "py": "Zuǒ Zhuàn",
+    "en": "the Zuo Commentary",
+    "count": 1,
+    "appearsOn": [
+      "pages/history/topic_chunqiu.html"
     ],
     "hasPage": false
   },

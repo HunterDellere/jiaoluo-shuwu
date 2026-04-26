@@ -31,6 +31,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://jiaoshoo.com/pages/characters/di1_%E4%BD%8E.html</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://jiaoshoo.com/pages/characters/dong1_%E4%B8%9C.html</loc>
     <lastmod>2026-04-25</lastmod>
     <changefreq>monthly</changefreq>
@@ -169,6 +175,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://jiaoshoo.com/pages/culture/topic_zhongyuan.html</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://jiaoshoo.com/pages/families/collections.html</loc>
     <lastmod>2026-04-25</lastmod>
     <changefreq>monthly</changefreq>
@@ -211,7 +223,31 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://jiaoshoo.com/pages/history/topic_chunqiu.html</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://jiaoshoo.com/pages/history/topic_zhoudai.html</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://jiaoshoo.com/pages/philosophy/topic_zhengming.html</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://jiaoshoo.com/pages/religion/topic_guanyin.html</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://jiaoshoo.com/pages/science/topic_tiangan_dizhi.html</loc>
     <lastmod>2026-04-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -235,7 +271,19 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://jiaoshoo.com/pages/vocab/renjian_%E4%BA%BA%E9%97%B4.html</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://jiaoshoo.com/pages/vocab/shenming_%E7%A5%9E%E6%98%8E.html</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://jiaoshoo.com/pages/vocab/tianren_%E5%A4%A9%E4%BA%BA.html</loc>
     <lastmod>2026-04-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -350,12 +398,6 @@
   </url>
   <url>
     <loc>https://jiaoshoo.com/pages/grammar/zhe_%E7%9D%80.html</loc>
-    <lastmod>2026-04-22</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://jiaoshoo.com/pages/history/topic_chunqiu.html</loc>
     <lastmod>2026-04-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>

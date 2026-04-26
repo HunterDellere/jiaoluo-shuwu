@@ -74,6 +74,26 @@
     "updated": "2026-04-25"
   },
   {
+    "path": "pages/characters/di1_低.html",
+    "type": "character",
+    "category": "characters",
+    "title": "低 · low; to lower; to bow down",
+    "desc": "A person stooping: the phonetic 氐 gives the sound while the human radical supplies the posture, and together they built one of the most culturally loaded words in modern Chinese.",
+    "tags": [
+      "adjectives",
+      "daily-life",
+      "scale",
+      "degree"
+    ],
+    "status": "complete",
+    "char": "低",
+    "pinyin": "dī",
+    "tone": 1,
+    "hsk": 3,
+    "radical": "亻",
+    "updated": "2026-04-25"
+  },
+  {
     "path": "pages/characters/dong1_东.html",
     "type": "character",
     "category": "characters",
@@ -520,6 +540,25 @@
     "updated": "2026-04-25"
   },
   {
+    "path": "pages/culture/topic_zhongyuan.html",
+    "type": "topic",
+    "category": "culture",
+    "title": "中元节 · The Ghost Festival",
+    "desc": "On the 15th of the 7th lunar month, the gates of the underworld open and the living set out food, burn paper, and float lanterns for the dead.",
+    "tags": [
+      "culture",
+      "festival",
+      "folk-religion",
+      "ancestors",
+      "buddhism",
+      "taoism",
+      "ritual"
+    ],
+    "status": "complete",
+    "pinyin": "Zhōngyuán Jié",
+    "updated": "2026-04-25"
+  },
+  {
     "path": "pages/families/collections.html",
     "type": "topic",
     "category": "families",
@@ -620,6 +659,47 @@
     "updated": "2026-04-25"
   },
   {
+    "path": "pages/history/topic_chunqiu.html",
+    "type": "topic",
+    "category": "history",
+    "title": "春秋时代 · the Spring and Autumn Period — 722–481 BCE",
+    "desc": "The era named after a chronicle Confucius wrote about it — four centuries when Zhou ritual authority collapsed in practice while remaining indispensable in theory.",
+    "tags": [
+      "history",
+      "confucianism",
+      "classical",
+      "dynasty",
+      "ancient",
+      "politics",
+      "ritual",
+      "philosophy",
+      "classics"
+    ],
+    "status": "complete",
+    "pinyin": "Chūnqiū Shídài",
+    "updated": "2026-04-25"
+  },
+  {
+    "path": "pages/history/topic_zhoudai.html",
+    "type": "topic",
+    "category": "history",
+    "title": "周朝 · The Zhou Dynasty",
+    "desc": "The longest dynasty in Chinese history and the philosophical seedbed of Chinese civilization — where the Mandate of Heaven was born, Confucius lived, and nearly every idea that shaped imperial China was first argued.",
+    "tags": [
+      "history",
+      "ancient",
+      "confucianism",
+      "classical",
+      "dynasty",
+      "ritual",
+      "philosophy",
+      "bronze-age"
+    ],
+    "status": "complete",
+    "pinyin": "Zhōu cháo",
+    "updated": "2026-04-25"
+  },
+  {
     "path": "pages/philosophy/topic_zhengming.html",
     "type": "topic",
     "category": "philosophy",
@@ -637,6 +717,40 @@
     ],
     "status": "complete",
     "pinyin": "zhèngmíng",
+    "updated": "2026-04-25"
+  },
+  {
+    "path": "pages/religion/topic_guanyin.html",
+    "type": "topic",
+    "category": "religion",
+    "title": "观音 · Guanyin — Bodhisattva of Compassion",
+    "desc": "A male Indian bodhisattva who became, by the Song dynasty, the most beloved female deity in China — and whose invocation may be the most widely spoken Buddhist phrase in the world.",
+    "tags": [
+      "religion",
+      "buddhism",
+      "folk-religion",
+      "goddess",
+      "compassion"
+    ],
+    "status": "complete",
+    "pinyin": "Guānyīn",
+    "updated": "2026-04-25"
+  },
+  {
+    "path": "pages/science/topic_tiangan_dizhi.html",
+    "type": "topic",
+    "category": "science",
+    "title": "天干地支 · Heavenly Stems and Earthly Branches — the 60-year cycle",
+    "desc": "A combinatorial timekeeping system the Shang scribes used in 1250 BCE to date their divination sessions — and that Chinese people still use to name years, hours, and contract parties today.",
+    "tags": [
+      "science",
+      "calendar",
+      "cosmology",
+      "history",
+      "divination"
+    ],
+    "status": "complete",
+    "pinyin": "Tiāngān Dìzhī",
     "updated": "2026-04-25"
   },
   {
@@ -690,6 +804,25 @@
     "updated": "2026-04-25"
   },
   {
+    "path": "pages/vocab/renjian_人间.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "人间 · the human world; the mortal realm",
+    "desc": "The world of people — where karma plays out, where flowers fade in April, and where the only beings who can hear the Dharma are born.",
+    "tags": [
+      "philosophy",
+      "buddhism",
+      "folk-religion",
+      "classical",
+      "poetry",
+      "cosmology",
+      "literary"
+    ],
+    "status": "complete",
+    "pinyin": "rénjiān",
+    "updated": "2026-04-25"
+  },
+  {
     "path": "pages/vocab/shenming_神明.html",
     "type": "vocab",
     "category": "vocab",
@@ -704,6 +837,26 @@
     ],
     "status": "complete",
     "pinyin": "shénmíng",
+    "updated": "2026-04-25"
+  },
+  {
+    "path": "pages/vocab/tianren_天人.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "天人合一 · Heaven and humanity as one — the unity of cosmic and human order",
+    "desc": "The organizing claim of Chinese cosmology: Heaven and humanity are not separate domains, and human flourishing depends on alignment with the natural order.",
+    "tags": [
+      "philosophy",
+      "confucianism",
+      "taoism",
+      "cosmology",
+      "nature",
+      "heaven",
+      "humanity",
+      "classical"
+    ],
+    "status": "complete",
+    "pinyin": "tiān rén hé yī",
     "updated": "2026-04-25"
   },
   {
@@ -1053,26 +1206,6 @@
     ],
     "status": "complete",
     "pinyin": "zhe",
-    "updated": "2026-04-22"
-  },
-  {
-    "path": "pages/history/topic_chunqiu.html",
-    "type": "topic",
-    "category": "history",
-    "title": "春秋时期 · Spring and Autumn Period",
-    "desc": "The age when China named itself through the text that documented it, and a philosopher who failed every audience built the tradition that outlasted every state.",
-    "tags": [
-      "ancient",
-      "dynasty",
-      "history",
-      "philosophy",
-      "confucius",
-      "ritual",
-      "classics",
-      "politics"
-    ],
-    "status": "complete",
-    "pinyin": "chūnqiū shíqī",
     "updated": "2026-04-22"
   },
   {

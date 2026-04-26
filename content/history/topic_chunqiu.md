@@ -3,21 +3,22 @@ type: 'topic'
 category: 'history'
 status: 'complete'
 content_review: 'pending'
-title: '春秋时期 · Spring and Autumn Period'
-desc: 'The age when China named itself through the text that documented it, and a philosopher who failed every audience built the tradition that outlasted every state.'
-metaDesc: "春秋时期 chūnqiū shíqī: Zhou political fragmentation, the five hegemons, Confucius's failed mission, ritual collapse 礼崩乐坏, and the Shijing — the four centuries that built Chinese moral thought."
-pageTitle: '春秋时期 chūnqiū shíqī'
+title: '春秋时代 · the Spring and Autumn Period — 722–481 BCE'
+desc: "The era named after a chronicle Confucius wrote about it — four centuries when Zhou ritual authority collapsed in practice while remaining indispensable in theory."
+metaDesc: "春秋时代 Chūnqiū Shídài: the Spring and Autumn Period 722–481 BCE — Zhou political fragmentation, the Five Hegemons 五霸, ritual collapse 礼崩乐坏, Confucius and his annals, and the Hundred Schools of Thought 百家争鸣."
+pageTitle: '春秋时代 Chūnqiū Shídài'
 tags:
-  - 'ancient'
-  - 'dynasty'
   - 'history'
-  - 'philosophy'
-  - 'confucius'
-  - 'ritual'
-  - 'classics'
+  - 'confucianism'
+  - 'classical'
+  - 'dynasty'
+  - 'ancient'
   - 'politics'
-updated: '2026-04-22'
-pinyin: 'chūnqiū shíqī'
+  - 'ritual'
+  - 'philosophy'
+  - 'classics'
+updated: '2026-04-25'
+pinyin: 'Chūnqiū Shídài'
 ---
 
 
@@ -27,7 +28,7 @@ pinyin: 'chūnqiū shíqī'
   <aside class="sidebar" id="sidebar">
     <button class="toc-toggle" onclick="document.getElementById('sidebar').classList.toggle('open')">目录 Contents ▾</button>
 
-    <span class="toc-topic">春秋时期</span>
+    <span class="toc-topic">春秋时代</span>
     <span class="toc-topic-en">Spring and Autumn Period</span>
 
     <div class="toc-divider"></div>
@@ -35,24 +36,20 @@ pinyin: 'chūnqiū shíqī'
 
     <ul class="toc-list">
       <li><a href="#naming">
-        <span class="toc-cn">一部编年史的名字</span>
-        <span class="toc-sub">How the Period Named Itself</span>
-      </a></li>
-      <li><a href="#collapse">
-        <span class="toc-cn">礼崩乐坏</span>
-        <span class="toc-sub">The Collapse of Ritual Order</span>
+        <span class="toc-cn">名称的来源</span>
+        <span class="toc-sub">What the Name Means</span>
       </a></li>
       <li><a href="#hegemons">
-        <span class="toc-cn">五霸与诸侯争雄</span>
-        <span class="toc-sub">The Five Hegemons</span>
+        <span class="toc-cn">霸主体制</span>
+        <span class="toc-sub">The Hegemon System</span>
       </a></li>
       <li><a href="#kongzi">
-        <span class="toc-cn">孔子：失败的政治家</span>
-        <span class="toc-sub">Confucius and the Failed Mission</span>
+        <span class="toc-cn">孔子与春秋</span>
+        <span class="toc-sub">Confucius and the Annals</span>
       </a></li>
-      <li><a href="#shijing">
-        <span class="toc-cn">诗经</span>
-        <span class="toc-sub">The Classic of Poetry</span>
+      <li><a href="#baijia">
+        <span class="toc-cn">百家争鸣</span>
+        <span class="toc-sub">The Hundred Schools</span>
       </a></li>
       <li><a href="#vocab">
         <span class="toc-cn">关键词汇</span>
@@ -62,6 +59,10 @@ pinyin: 'chūnqiū shíqī'
         <span class="toc-cn">成语</span>
         <span class="toc-sub">Idioms &amp; Key Phrases</span>
       </a></li>
+      <li><a href="#zhanguo">
+        <span class="toc-cn">走向战国</span>
+        <span class="toc-sub">Transition to Warring States</span>
+      </a></li>
     </ul>
   </aside>
 
@@ -70,59 +71,42 @@ pinyin: 'chūnqiū shíqī'
 
     <header class="topic-hero">
       <span class="topic-hero-eyebrow">History · 历史 lìshǐ</span>
-      <h1 class="topic-hero-title">春秋时期</h1>
-      <span class="topic-hero-title-py">chūnqiū shíqī</span>
-      <p class="topic-hero-desc">The age when China named itself through the text that documented it, and a philosopher who failed every audience built the tradition that outlasted every state.</p>
+      <h1 class="topic-hero-title">春秋时代</h1>
+      <span class="topic-hero-title-py">Chūnqiū Shídài</span>
+      <p class="topic-hero-desc">The era named after a chronicle Confucius wrote about it — four centuries when Zhou ritual authority collapsed in practice while remaining indispensable in theory.</p>
     </header>
 
-    <!-- ── HOW THE PERIOD NAMED ITSELF ── -->
+    <!-- ── WHAT THE NAME MEANS ── -->
     <span class="section-anchor" id="naming"></span>
     <div class="section-head">
-      <span class="sh-cn">一部编年史的名字</span>
-      <span class="sh-py">Yī Bù Biānnián Shǐ de Míngzi</span>
-      <span class="sh-en">How a Chronicle Named a Period</span>
+      <span class="sh-cn">名称的来源</span>
+      <span class="sh-py">Míngchēng de Láiyuán</span>
+      <span class="sh-en">What the Name Means</span>
       <span class="sh-rule"></span>
     </div>
 
     <div class="scholar" data-glyph="春">
       <div class="scholar-label">历史洞见 lìshǐ dòngjiàn · Historical Insight</div>
-      <p>The Spring and Autumn period (春秋时期 chūnqiū shíqī) takes its name from the <em>Spring and Autumn Annals</em> (春秋 Chūnqiū), the official chronicle of the state of Lu covering 722–479 BCE, traditionally attributed to Confucius. The circularity is worth pausing on: the period is named after a text written during it, by a person who lived in it, about the very political conditions that shaped him. Historians after Confucius read the <em>Chūnqiū</em> as the defining document of those centuries, and the name stuck.</p>
-      <p>The chronicle is famous for its economy of language. Battles are recorded in a single terse phrase; deaths of rulers in a character or two. Later interpreters (the <em>Zuǒzhuàn</em> 左传, the <em>Gōngyáng</em> 公羊, the <em>Gǔliáng</em> 谷梁 commentaries) spent centuries arguing that every word choice was a moral judgment: that when Confucius wrote "died" (卒 zú) versus "was killed" (弑 shì), he was encoding a verdict on whether the death was legitimate. This approach to reading texts, where every character carries ethical weight, became a cornerstone of Chinese classical scholarship.</p>
-      <p>The dates of the period vary by historiographical convention. The traditional Chinese framework uses 770–476 BCE, running from the Zhou court's flight east to Luoyi through the death of Confucius. Western scholarship more commonly uses 722–481 BCE, matching the <em>Chūnqiū</em> chronicle's own span. The Eastern Zhou period (东周 dōng zhōu, 770–256 BCE) encompasses both the Spring and Autumn and the subsequent Warring States periods. The broader context (the Three Dynasties and Western Zhou) is covered in <a href="../../pages/history/topic_xia_shang_zhou.html">夏商周</a>.</p>
+      <p>春秋 (chūnqiū) means "spring and autumn" — the two seasons used in classical Chinese as shorthand for a full year, in the same way English uses "moons" or "winters" to count time. The name of the period comes directly from the <em>春秋</em>, the official annals of the state of Lu covering 722–481 BCE, traditionally attributed to Confucius. A historical era named after a text written during it, by a person who lived in it, about the political breakdown he witnessed: the circularity is not coincidental. Historians after Confucius read the <em>Chūnqiū</em> as the defining document of those centuries, and the name stuck. 时代 (shídài) means era or age.</p>
+      <p>The period's traditional dates span 722–481 BCE in the Western historiographical convention (matching the <em>Chūnqiū</em>'s own range), or 770–476 BCE in the Chinese convention (running from the Zhou court's flight east to the end of the Eastern Zhou's first phase). The trigger event was 771 BCE: nomadic Quanrong raiders sacked the Western Zhou capital near modern Xi'an, killing King You of Zhou, and the court fled east to Luoyi (modern Luoyang). This ended the Western Zhou and inaugurated what historians call the Eastern Zhou period (东周 dōng zhōu, 770–256 BCE), of which the Spring and Autumn is the first half.</p>
+      <p>At the start of the period, over a hundred Zhou-enfeoffed states occupied the Central Plains. By the end, that number had contracted to roughly twenty through four centuries of warfare, annexation, and absorption. The seven dominant powers that would contest the Warring States period were already visible by 481 BCE.</p>
     </div>
 
-    <!-- ── RITUAL COLLAPSE ── -->
-    <span class="section-anchor" id="collapse"></span>
-    <div class="section-head">
-      <span class="sh-cn">礼崩乐坏</span>
-      <span class="sh-py">Lǐ Bēng Yuè Huài</span>
-      <span class="sh-en">The Collapse of Ritual Order</span>
-      <span class="sh-rule"></span>
-    </div>
-
-    <div class="scholar" data-glyph="礼">
-      <div class="scholar-label">制度洞见 zhìdù dòngjiàn · Institutional Insight</div>
-      <p>The phrase <strong>礼崩乐坏</strong> (lǐ bēng yuè huài, "ritual collapsed, music fell apart") names the central catastrophe of the Spring and Autumn period as Confucians understood it. To appreciate what "ritual" meant in this context, start with the concrete. Zhou ritual (<strong>礼 lǐ</strong>) was a precisely calibrated system: how many bronze vessels a lord of a given rank could use in sacrificial ceremonies, how many rows of dancers performed at court, what musical instruments could accompany which rites. These were not arbitrary rules. They mapped social hierarchy onto ceremony, making rank visible and enforceable through regulated display.</p>
-      <p>The <em>Analects</em> record Confucius's response when he witnessed the lord of Lu using eight rows of eight dancers (<strong>八佾 bā yì</strong>), a ceremony reserved for the Zhou king. "If this can be tolerated, what cannot be tolerated?" (是可忍，孰不可忍 shì kě rěn, shú bù kě rěn). This was not aesthetic offense. It was a lord claiming the ceremonial status of the Son of Heaven while the actual Son of Heaven sat in an impotent court at Luoyi. The dance was a claim about who held legitimate power, and the claim was false. When smaller lords started doing what the great lords did, and great lords started doing what only kings could do, the ritual grammar that mapped power onto ceremony simply ceased to function.</p>
-      <p>Music (乐 yuè) was equally political. The Zhou ritual music system assigned specific compositions to specific contexts and ranks, and its dissolution signaled the same breakdown of ordered hierarchy. The phrase 礼崩乐坏 became the shorthand for any period in which social and moral order has disintegrated beyond recognition, and it is still used this way today.</p>
-      <p>The Spring and Autumn period generated a structural paradox that would define Chinese political thought for two millennia: the Zhou king retained ritual legitimacy even as his actual power evaporated. Lords who conquered neighbors or dominated the inter-state system continued to perform ceremonies acknowledging Zhou supremacy. The king's authority was increasingly symbolic, but it was not zero. Attacking it directly would delegitimize the attacker. The lords needed the king's ritual standing precisely because they were competing for dominance beneath it.</p>
-    </div>
-
-    <!-- ── FIVE HEGEMONS ── -->
+    <!-- ── THE HEGEMON SYSTEM ── -->
     <span class="section-anchor" id="hegemons"></span>
     <div class="section-head">
-      <span class="sh-cn">五霸与诸侯争雄</span>
-      <span class="sh-py">Wǔ Bà yǔ Zhūhóu Zhēngxióng</span>
-      <span class="sh-en">The Five Hegemons and the Contest of Lords</span>
+      <span class="sh-cn">霸主体制</span>
+      <span class="sh-py">Bàzhǔ Tǐzhì</span>
+      <span class="sh-en">The Hegemon System</span>
       <span class="sh-rule"></span>
     </div>
 
     <div class="scholar" data-glyph="霸">
-      <div class="scholar-label">历史洞见 lìshǐ dòngjiàn · Historical Insight</div>
-      <p>The Spring and Autumn period produced the <strong>五霸 wǔ bà</strong> (Five Hegemons), the dominant lords who organized the inter-state system in the Zhou king's name. Lists of the five vary by source (the most common version names Qi Huangong, Jin Wengong, Chu Zhuangwang, Wu Helü, and Yue Goujian), but the concept is more important than the roster: the <strong>霸主 bàzhǔ</strong> (hegemon) was a lord powerful enough to call interstate assemblies, lead coalition forces, and act as the effective guarantor of Zhou ritual order, without actually claiming to be king.</p>
-      <p>The first and most studied hegemon was <strong>齐桓公 Qí Huán Gōng</strong> (r. 685–643 BCE), ruler of the state of Qi in modern Shandong. His minister <strong>管仲 Guǎn Zhòng</strong> transformed Qi from one state among many into the dominant power of the era through systematic economic reform: reorganizing agriculture, standardizing weights and measures, establishing salt and iron monopolies, and professionalizing the army. Guan Zhong is one of the few people Confucius praised unreservedly despite the morally compromised circumstances of his service (he served Qi Huangong after Huangong killed Guan Zhong's original master). Confucius said: "If not for Guan Zhong, we would all be wearing our hair loose and our robes buttoned on the left side," meaning we would be barbarians. Results matter.</p>
-      <p>Warfare in the Spring and Autumn period retained an aristocratic and ceremonial character that would be utterly transformed in the Warring States period. Chariot-based armies fought set battles, sometimes preceded by formal diplomatic exchange. There are accounts of engagements called off or constrained by ceremonial considerations: a Zhou king's funeral could delay a campaign; attacking an enemy while they were crossing a river was considered ungentlemanly. This code of aristocratic war coexisted uneasily with the practical logic of interstate competition, and it steadily eroded across the period as survival pressures intensified.</p>
-      <p>By the late Spring and Autumn period, the larger states were absorbing smaller ones outright. The total number of Zhou-recognized states shrank from over a hundred in the early period to roughly twenty by its close. The states of Jin, Chu, Qi, and Wu emerged as major powers; the weaker states survived through alignment rather than strength. This compression of the state system set the stage for the Warring States period and its seven-state endgame. The Warring States are covered in <a href="../../pages/history/topic_zhanguo.html">战国时期</a>.</p>
+      <div class="scholar-label">制度洞见 zhìdù dòngjiàn · Institutional Insight</div>
+      <p>The Zhou king retained nominal supremacy throughout the Spring and Autumn period, but actual power shifted to the <strong>霸主 bàzhǔ</strong> — hegemon lords strong enough to organize the interstate system in the king's name without being the king. The classical tradition identifies Five Hegemons (春秋五霸 chūnqiū wǔ bà), though the exact roster varies by source. The most common list names Duke Huan of Qi (齐桓公 Qí Huán Gōng), Duke Wen of Jin (晋文公 Jìn Wén Gōng), Duke Mu of Qin (秦穆公 Qín Mù Gōng), King Zhuang of Chu (楚庄王 Chǔ Zhuāng Wáng), and either King Fuchai of Wu (吴王夫差 Wú Wáng Fūchāi) or Duke Xiang of Song (宋襄公 Sòng Xiāng Gōng). Ancient sources disagree on the fifth.</p>
+      <p>The hegemon's instrument was the covenant assembly (<strong>盟会 ménghuì</strong>): a formal gathering of feudal lords at which the hegemon presided, alliances were renewed or redrawn, and the Zhou ritual order was publicly reaffirmed — often with sacrifices, oaths, and the smearing of blood on the mouth (歃血为盟 shà xuè wéi méng). This is the structural paradox of the Spring and Autumn period: the lords who had effectively rendered the Zhou king powerless continued to perform ceremonies acknowledging his supremacy. Attacking that ritual claim directly would have delegitimized the attacker. The king's authority was almost entirely symbolic, but "almost entirely" was not nothing.</p>
+      <p>The first and most studied hegemon was <strong>齐桓公 Qí Huán Gōng</strong> (r. 685–643 BCE). His dominance was built not through personal martial ability but through the systematic administrative reforms of his minister <strong>管仲 Guǎn Zhòng</strong>: reorganizing agriculture by district, standardizing weights and measures, establishing state salt and iron monopolies, and professionalizing the military. Guan Zhong is one of the few men Confucius praised without significant qualification despite having served under morally compromised circumstances. Confucius said: "If not for Guan Zhong, we would all be wearing our hair loose and our robes buttoned on the left" — meaning we would be barbarians. The remark is an admission that results, not just virtue, shape civilizations.</p>
+      <p>Warfare during the Spring and Autumn period retained a ceremonial quality that would not survive into the Warring States era. Chariot armies fought set-piece engagements, sometimes preceded by formal diplomatic exchange. There are accounts of lords calling off attacks because an enemy was mid-river crossing, or pausing because a Zhou royal funeral forbade campaigns. This aristocratic code coexisted uneasily with the logic of interstate competition, and it eroded steadily as larger states absorbed smaller ones and the stakes rose toward annihilation rather than prestige.</p>
     </div>
 
     <div class="cards">
@@ -131,61 +115,63 @@ pinyin: 'chūnqiū shíqī'
         <div class="card-head">
           <span class="card-cn">齐桓公与管仲</span>
           <span class="card-py">Qí Huán Gōng yǔ Guǎn Zhòng</span>
-          <span class="card-en">Duke Huan of Qi and Guan Zhong — the model of ruler and reforming minister</span>
+          <span class="card-en">Duke Huan of Qi and Guan Zhong — the classical model of ruler and reforming minister</span>
         </div>
         <div class="card-def">
-          齐桓公 Qí Huán Gōng (r. 685–643 BCE): first of the five hegemons, whose dominance was built entirely on the administrative and economic reforms of his minister 管仲 Guǎn Zhòng. Their partnership became the classical Chinese model for the relationship between a ruler who provides authority and a minister who provides competence. Confucius praised Guan Zhong's results while noting he fell short of the highest moral standard, a nuanced judgment that shaped how later thinkers treated the question of serving imperfect rulers.
+          齐桓公 Qí Huán Gōng (r. 685–643 BCE) became the dominant power of the early Spring and Autumn through the administrative genius of his minister 管仲 Guǎn Zhòng. The partnership became the canonical Chinese example of a ruler who provides authority and a minister who provides competence. Mencius later used the pair as evidence that 霸 (hegemonic dominance by force) differs fundamentally from 王 (true kingship through moral virtue) — Guan Zhong's state-craft was undeniably effective but lacked the moral foundation Mencius demanded.
         </div>
         <div class="note">
-          <span class="note-label">管仲名言 guǎn zhòng míng yán</span>
-          仓廪实而知礼节，衣食足而知荣辱。<em>Cāng lǐn shí ér zhī lǐjié, yīshí zú ér zhī róng rǔ.</em> "When granaries are full, people learn ritual propriety; when clothing and food are sufficient, people learn honor and shame." A Legalist-leaning insight attributed to Guan Zhong: moral cultivation is built on material sufficiency, not the reverse.
+          <span class="note-label">管仲语 Guǎn Zhòng yǔ · Attributed to Guan Zhong</span>
+          仓廪实而知礼节，衣食足而知荣辱。<em>Cāng lǐn shí ér zhī lǐjié, yīshí zú ér zhī róng rǔ.</em> "When granaries are full, people learn ritual propriety; when clothing and food are sufficient, people learn honor and shame." The claim — that moral cultivation requires material sufficiency as its foundation — points forward to debates between Confucians and Legalists about the proper sequence of governance.
         </div>
       </div>
 
       <div class="card c-ochre">
         <div class="card-head">
-          <span class="card-cn">晋文公</span>
-          <span class="card-py">Jìn Wén Gōng</span>
-          <span class="card-en">Duke Wen of Jin — the hegemon who returned from exile</span>
+          <span class="card-cn">盟会</span>
+          <span class="card-py">ménghuì</span>
+          <span class="card-en">covenant assembly — the ritual mechanism of Spring and Autumn interstate order</span>
         </div>
         <div class="card-def">
-          重耳 Chóng Ěr, posthumously 晋文公 Jìn Wén Gōng (r. 636–628 BCE), spent nineteen years in exile before reclaiming the Jin throne and becoming the second hegemon. His return and rise generated some of the period's most retold stories of loyalty and betrayal. The state of Jin was, through the Spring and Autumn period, one of the two dominant powers (with Qi); its partition in 403 BCE into Han, Wei, and Zhao formally opened the Warring States period.
+          The 盟会 was the formal interstate assembly convened by the hegemon lord, at which vassal states renewed oaths of loyalty and the Zhou order was publicly reaffirmed through sacrifice and blood covenant (歃血为盟 shà xuè wéi méng — smearing sacrificial blood on the lips as oath). The assembly format required elaborate ritual performance even as the ritual's underlying authority had collapsed in practice. Confucius understood the gap between the form and the reality as the defining crisis of his age, and spent his life arguing that restoring the form without first restoring the moral substance behind it was hypocrisy.
         </div>
       </div>
 
     </div>
 
-    <!-- ── CONFUCIUS ── -->
+    <!-- ── CONFUCIUS AND THE ANNALS ── -->
     <span class="section-anchor" id="kongzi"></span>
     <div class="section-head">
-      <span class="sh-cn">孔子：失败的政治家</span>
-      <span class="sh-py">Kǒngzǐ: Shībài de Zhèngzhìjiā</span>
-      <span class="sh-en">Confucius and the Failed Mission</span>
+      <span class="sh-cn">孔子与春秋</span>
+      <span class="sh-py">Kǒngzǐ yǔ Chūnqiū</span>
+      <span class="sh-en">Confucius and the Spring and Autumn Annals</span>
       <span class="sh-rule"></span>
     </div>
 
     <div class="scholar" data-glyph="孔">
       <div class="scholar-label">思想洞见 sīxiǎng dòngjiàn · Intellectual Insight</div>
-      <p>Confucius (孔子 Kǒngzǐ, 551–479 BCE) lived through the disintegration he tried to stop. He was born in the state of Lu to a minor aristocratic family, educated himself in the Zhou ritual classics, and rose to a senior administrative post in Lu (possibly minister of crime) before being forced from office around 497 BCE. What followed was thirteen years traveling from state to state with a core of disciples, seeking a ruler who would implement his program of government through moral example, ritual restoration, and the cultivation of virtuous ministers.</p>
-      <p>He found none. Every audience went nowhere. Lords valued advisors who could help them win wars or manage revenues; Confucius offered a reform of moral culture that would take generations to bear results. He returned to Lu around 484 BCE, spent his final years teaching and working on the classical texts, and died in 479 BCE without seeing any ruler adopt his ideas. His student <strong>子贡 Zǐgòng</strong> was arguably more influential in his lifetime than Confucius himself, serving as a wealthy diplomat whose commercial and political acumen made him genuinely powerful in the inter-state world his teacher wanted to reform.</p>
-      <p>The focus on ritual that makes Confucius seem conservative to modern readers was directly responsive to the Spring and Autumn context. When the ceremonial order is visibly collapsing around you, when lords are staging dances they have no right to stage and conducting sacrifices at altars they have no right to approach, the restoration of proper ceremony is a concrete political program, not nostalgia. <strong>正名 zhèngmíng</strong> (rectification of names) is the insistence that words should accurately describe the social reality they name. It was Confucius's political demand that lords who held the name of lord should act accordingly, and ministers who held the name of minister should behave as ministers, not as warlords.</p>
-      <p>His teaching, compiled by disciples into the <em>Analects</em> (论语 Lúnyǔ), is the foundational document of Chinese moral philosophy. For a full treatment, see <a href="../../pages/philosophy/topic_kongzi.html">孔子</a>. Laozi, whose thought developed in the same period as the response to Zhou disorder that went in the opposite direction, is covered in <a href="../../pages/philosophy/topic_laozi.html">老子</a>.</p>
+      <p>Confucius (孔子 Kǒngzǐ, 551–479 BCE) was born in the state of Lu, the custodian of Western Zhou ritual traditions. Lu's claim to cultural prestige rested on being the domain enfeoffed to the Duke of Zhou, the founding figure of Zhou civilization. Confucius lived through the period's final decades and died two years after the <em>Chūnqiū</em> chronicle ends. He spent his last years not on political mission but on the classical texts, and the <em>春秋</em> annals are the result.</p>
+      <p>The <em>Chūnqiū</em> is famous for compression. Battles, deaths, alliances, and disasters are recorded in a phrase or two. Later interpreters — the <em>Zuǒ Zhuàn</em> (左传), the <em>Gōngyáng</em> (公羊), the <em>Gǔliáng</em> (谷梁) commentaries — argued for centuries that every word choice encoded a moral verdict: that writing 卒 zú ("died," the word for a natural aristocratic death) versus 弑 shì ("murdered by a subordinate") was a judgment on the legitimacy of the death, not a neutral description. This hermeneutic practice — reading terse classical prose for implied ethical verdicts through word choice — became a cornerstone of Chinese classical scholarship and earned the <em>Chūnqiū</em> its place among the Five Classics (五经 wǔ jīng).</p>
+      <p>Mencius said that Confucius completed the <em>Chūnqiū</em> and "rebellious ministers and villainous sons were struck with terror" — an extraordinary claim for a dry chronicle of state events. What Mencius meant was that the annals constituted an authoritative moral record: every lord and minister who usurped ritual order, murdered a ruler, or betrayed a covenant was now documented, named, and judged. The text was the court of last resort that the actual courts of the period had ceased to be.</p>
+      <p>The <em>Zuǒ Zhuàn</em> (左传 Zuǒ Zhuàn, "Zuo Commentary"), traditionally attributed to the historian Zuo Qiuming and covering 722–468 BCE, expands the terse chronicle entries into vivid political and military narrative. Where the <em>Chūnqiū</em> records a battle in six characters, the <em>Zuǒ Zhuàn</em> gives the intelligence failures, the councils of war, the decisive moment in the field, and the diplomatic aftermath. It is the primary narrative source for the period and one of the great works of classical Chinese prose.</p>
     </div>
 
-    <!-- ── SHIJING ── -->
-    <span class="section-anchor" id="shijing"></span>
+    <!-- ── THE HUNDRED SCHOOLS ── -->
+    <span class="section-anchor" id="baijia"></span>
     <div class="section-head">
-      <span class="sh-cn">诗经</span>
-      <span class="sh-py">Shī Jīng</span>
-      <span class="sh-en">The Classic of Poetry</span>
+      <span class="sh-cn">百家争鸣</span>
+      <span class="sh-py">Bǎijiā Zhēngmíng</span>
+      <span class="sh-en">The Contention of a Hundred Schools</span>
       <span class="sh-rule"></span>
     </div>
 
-    <div class="scholar" data-glyph="诗">
-      <div class="scholar-label">文学洞见 wénxué dòngjiàn · Literary Insight</div>
-      <p>The <em>Shijing</em> (诗经 Shī Jīng, <em>Classic of Poetry</em>) is the oldest surviving anthology of Chinese poetry, comprising 305 poems traditionally dated to roughly 1046–600 BCE. Its compilation is conventionally associated with Confucius, though the attribution is probably anachronistic. More likely, Confucius selected and organized existing court collections, reducing the poems to 305 from what was apparently a much larger corpus.</p>
-      <p>The collection divides into three parts: <strong>风 Fēng</strong> (Airs, folk songs from fifteen regional states), <strong>雅 Yǎ</strong> (Elegances, court poetry), and <strong>颂 Sòng</strong> (Odes, ritual hymns for Zhou royal ceremonies). The folk songs in the Feng section are among the most remarkable documents in the anthology: direct, unguarded poems about farming, seasonal labor, longing, courtship, and war, many of them apparently women's voices. "I look toward the road to Zhou / My heart is sore" (我瞻四方，蹙蹙靡所骚). The emotional range is entirely unlike what would be expected from a ritual-instruction text.</p>
-      <p>Confucius made the <em>Shijing</em> a cornerstone of Confucian education. Learning the odes was required not for literary cultivation alone but because the odes encoded the proper names, ceremonial language, and moral vocabulary of the Zhou world. Confucius said of the <em>Shijing</em>: "The three hundred poems can be summed up in a single phrase: think no evil" (诗三百，一言以蔽之，曰：思无邪). Court diplomats were expected to quote from the odes in negotiations; their ability to deploy the right poem in the right context was a mark of education and political sophistication. For a full treatment of the <em>Shijing</em>, see <a href="../../pages/arts/topic_shijing.html">诗经</a>.</p>
+    <div class="scholar" data-glyph="百">
+      <div class="scholar-label">思想洞见 sīxiǎng dòngjiàn · Intellectual Insight</div>
+      <p>The collapse of Zhou centralized authority did not produce only political chaos. It produced the 百家争鸣 (bǎijiā zhēngmíng — "contention of a hundred schools of thought"), the most concentrated explosion of philosophical production in Chinese history. The mechanism was direct: when a single royal court no longer monopolized patronage and legitimacy, thinkers could travel between competing states, offer their ideas to rival lords, and publish positions that challenged received Zhou orthodoxy. The courts of Qi, Wei, and Chu actively recruited intellectuals; the Qi capital Linzi housed the famous Jixia Academy (稷下学宫 Jìxià Xuégōng), which at its height in the fourth and third centuries BCE supported hundreds of resident scholars from competing schools.</p>
+      <p>Confucius (551–479 BCE) stands at the beginning of the tradition rather than its center. His school, 儒家 (Rújiā — the Ru school, later called Confucianism), held that the restoration of Zhou ritual order and the cultivation of moral virtue in rulers and ministers was the only path to social stability. He traveled for thirteen years seeking a lord willing to implement his program, found none, and returned to Lu to teach. His failure was total in his lifetime. His ideas dominated Chinese political thought for the next two thousand years.</p>
+      <p>The Daoist response to the same disorder went in the opposite direction. Where Confucius saw the collapse of Zhou ritual as a crisis demanding restoration, the early Daoists (道家 Dàojiā) saw conventional social order as itself the problem. Laozi (老子), whose historical existence is uncertain but whose <em>Dàodéjīng</em> (道德经) crystallized in roughly this period, argued that the natural Way (道 dào) had been occluded by artificial human constructions: ritual, hierarchy, deliberate virtue. Zhuangzi (庄子, c. 369–286 BCE), whose school developed in the Warring States period, pushed this further into philosophy of mind and the nature of perspective.</p>
+      <p>Mozi (墨子 Mòzǐ, c. 470–391 BCE) founded the Mohist school (墨家 Mòjiā) in direct opposition to Confucius. Where Confucius graded love by relationship — a son loves his father more than a stranger's father — Mozi argued for 兼爱 (jiān ài, universal love), impartial concern for all persons equally. He was also the most practically oriented of the early philosophers: the Mohists developed early logic, siege defense technology, and what looks in retrospect like proto-engineering. The School of Names (名家 Míngjiā) explored paradoxes of language and reference. The Legalists (法家 Fǎjiā) drew on all of the above and reached conclusions that Confucius and Mozi would both have found alarming: that states succeed not through moral cultivation but through strict law, consistent punishment, and the concentration of power in the ruler.</p>
+      <p>The texts these schools produced — the <em>Analects</em>, the <em>Dàodéjīng</em>, the <em>Mòzǐ</em>, the <em>Zhuāngzǐ</em>, the <em>Hánfēizǐ</em> — defined the terms of Chinese intellectual life for the next twenty-five centuries. They were written during and immediately following the Spring and Autumn period by people who were, in one way or another, responding to the same spectacle: a civilization whose political order had visibly disintegrated while its cultural memory remained intact.</p>
     </div>
 
     <!-- ── KEY VOCABULARY ── -->
@@ -201,48 +187,70 @@ pinyin: 'chūnqiū shíqī'
 
       <div class="card c-violet">
         <div class="card-head">
-          <span class="card-cn">礼</span>
-          <span class="card-py">lǐ</span>
-          <span class="card-en">ritual propriety — the regulative system of Zhou civilization</span>
+          <span class="card-cn">霸主</span>
+          <span class="card-py">bàzhǔ</span>
+          <span class="card-en">hegemon lord — power exercised without moral mandate</span>
         </div>
         <div class="card-def">
-          In the Zhou context, 礼 lǐ was not etiquette in the modern sense. It was the complete system of ceremonies, hierarchical procedures, and behavioral norms that structured the Zhou social order: how sacrifices were conducted, who could use which ritual implements, what music accompanied which ceremony, how a son addressed his father versus how he addressed a lord. Confucius's program was the restoration of 礼 as both social practice and moral foundation. The character comprises 示 shì (altar; spirit) + 豊 (ritual vessel), pointing directly to its sacrificial origins.
+          霸 bà (dominate by force) + 主 zhǔ (lord, master). Mencius drew the sharpest formulation of the distinction between 王 wáng (true kingship through moral virtue) and 霸 bà (hegemonic dominance through military and economic power): 以力假仁者霸 "one who uses force while pretending to benevolence is a hegemon" (Mencius 2A:3). The Five Hegemons of the Spring and Autumn were in Mencius's framework imposters — powerful, sometimes effective, but lacking the moral legitimacy that alone justified authority. Modern 霸 retains this edge: 霸道 bàdào (overbearing; despotic), 霸气 bàqì (commanding dominance, often admiring in casual usage).
         </div>
         <div class="examples">
           <div class="example">
-            <div class="ex-cn">不学礼，无以立。</div>
-            <div class="ex-py">Bù xué lǐ, wú yǐ lì.</div>
-            <div class="ex-en">"Without learning ritual propriety, one has no way to stand [in the world]." — Confucius in the Analects.</div>
+            <div class="ex-cn">以力假仁者霸，霸必有大国。</div>
+            <div class="ex-py">Yǐ lì jiǎ rén zhě bà, bà bì yǒu dà guó.</div>
+            <div class="ex-en">"One who uses force while pretending benevolence is a hegemon; a hegemon must have a large state." — Mencius 2A:3.</div>
           </div>
+        </div>
+      </div>
+
+      <div class="card c-teal">
+        <div class="card-head">
+          <span class="card-cn">诸侯</span>
+          <span class="card-py">zhūhóu</span>
+          <span class="card-en">feudal lords — the Zhou-enfeoffed nobility who held the states</span>
+        </div>
+        <div class="card-def">
+          诸 zhū (all; various) + 侯 hóu (marquis; noble). The 诸侯 were the lords of the Zhou-enfeoffed states, holders of hereditary titles (Duke, Marquis, Earl, Viscount, Baron — 公侯伯子男 gōng hóu bó zǐ nán) ranked in a hierarchy below the Zhou king. In the Spring and Autumn period, the 诸侯 were simultaneously Zhou subjects in ritual terms and independent political actors in practical terms. The phrase 诸侯争霸 (zhūhóu zhēng bà, "the feudal lords competing for hegemony") names the defining dynamic of the period. Still used in modern Chinese for political and business actors competing for dominance in a fragmented landscape.
         </div>
       </div>
 
       <div class="card c-red">
         <div class="card-head">
-          <span class="card-cn">霸</span>
-          <span class="card-py">bà</span>
-          <span class="card-en">hegemon — dominance through force, distinct from moral kingship</span>
+          <span class="card-cn">礼崩乐坏</span>
+          <span class="card-py">lǐ bēng yuè huài</span>
+          <span class="card-en">ritual collapsed, music fell apart — the era's defining diagnosis</span>
         </div>
         <div class="card-def">
-          Mencius later drew a sharp distinction between 王 wáng (true kingship through moral virtue) and 霸 bà (hegemonic dominance through military and economic power). For Mencius, the Five Hegemons of the Spring and Autumn period were imposters who mimicked the forms of 王 while relying on 霸. The distinction became a standard framework in Chinese political theory for distinguishing legitimate governance from mere power. Modern 霸 carries the same edge: 霸道 bàdào (domineering; despotic behavior), 霸气 bàqì (dominance; commanding presence).
+          The four-character phrase for the Spring and Autumn crisis as Confucians understood it. 礼 lǐ was the complete system of Zhou ceremonies, hierarchical procedures, and behavioral norms — not etiquette in the modern sense but the structural grammar that made social hierarchy visible and enforceable. 乐 yuè (music, here in its classical sense of ritual musical performance) was equally political: the Zhou system assigned specific compositions to specific ranks and contexts. When lords began performing ceremonies reserved for the Zhou king, and ministers began behaving as lords, the ritual grammar ceased to function as a grammar. The phrase is still used today for any period in which moral and social norms have visibly broken down.
         </div>
         <div class="examples">
           <div class="example">
-            <div class="ex-cn">以力假仁者霸。</div>
-            <div class="ex-py">Yǐ lì jiǎ rén zhě bà.</div>
-            <div class="ex-en">"One who uses force while pretending to benevolence is a hegemon." — Mencius 2A:3.</div>
+            <div class="ex-cn">是可忍，孰不可忍？</div>
+            <div class="ex-py">Shì kě rěn, shú bù kě rěn?</div>
+            <div class="ex-en">"If this can be tolerated, what cannot be tolerated?" — Confucius in the Analects (3.1), on seeing the Lord of Lu use the eight-row dance ceremony reserved for the Zhou king.</div>
           </div>
         </div>
       </div>
 
       <div class="card c-sienna">
         <div class="card-head">
-          <span class="card-cn">正名</span>
-          <span class="card-py">zhèngmíng</span>
-          <span class="card-en">rectification of names — Confucius's political demand for semantic accuracy</span>
+          <span class="card-cn">百家争鸣</span>
+          <span class="card-py">bǎijiā zhēngmíng</span>
+          <span class="card-en">contention of a hundred schools — the philosophical explosion of the Eastern Zhou</span>
         </div>
         <div class="card-def">
-          When asked what he would do first if given power, Confucius said: 必也正名乎 "it would certainly be the rectification of names." The argument: if names are wrong, speech cannot accord with truth; if speech cannot accord with truth, affairs cannot be accomplished; if affairs cannot be accomplished, ritual and music cannot flourish; if ritual and music do not flourish, punishments will not fit the crimes; if punishments do not fit the crimes, the people will have no place to put their hands and feet. (Analects 13.3) In the Spring and Autumn context, this meant: a lord should actually be a lord, a minister actually a minister, a father actually a father.
+          百家 bǎijiā (a hundred schools) + 争鸣 zhēngmíng (contend, dispute; lit. "competing voices"). The phrase names the period of pluralistic philosophical production spanning roughly the late Spring and Autumn through the Warring States period (sixth to third centuries BCE), when the absence of central political authority enabled thinkers to travel between competing courts, publish heterodox positions, and argue publicly. The main schools: 儒家 Rújiā (Confucianism), 道家 Dàojiā (Daoism), 墨家 Mòjiā (Mohism), 法家 Fǎjiā (Legalism), 名家 Míngjiā (School of Names), 兵家 Bīngjiā (military strategists). Used today for any era or domain marked by vigorous open intellectual competition.
+        </div>
+      </div>
+
+      <div class="card c-ochre">
+        <div class="card-head">
+          <span class="card-cn">左传</span>
+          <span class="card-py">Zuǒ Zhuàn</span>
+          <span class="card-en">the Zuo Commentary — the primary narrative source for the Spring and Autumn period</span>
+        </div>
+        <div class="card-def">
+          Traditionally attributed to Zuo Qiuming (左丘明 Zuǒ Qiūmíng) and covering 722–468 BCE, the 左传 is the great narrative expansion of the <em>Chūnqiū</em> chronicle. Where the annals record a battle in six characters, the 左传 provides the intelligence failures, the war councils, the decisive engagements, and the diplomatic aftermath. It is the primary historical source for the period and one of the finest prose works in the classical Chinese canon. Its account of covenants, betrayals, battles, and the slow erosion of Zhou ceremonial order is the closest thing the Spring and Autumn period has to a continuous narrative history.
         </div>
       </div>
 
@@ -251,9 +259,9 @@ pinyin: 'chūnqiū shíqī'
     <!-- ── CHENGYU ── -->
     <span class="section-anchor" id="chengyu"></span>
     <div class="section-head">
-      <span class="sh-cn">成语与关键词</span>
-      <span class="sh-py">Chéngyǔ yǔ Guānjiàn Cí</span>
-      <span class="sh-en">Idioms &amp; Key Phrases</span>
+      <span class="sh-cn">成语</span>
+      <span class="sh-py">Chéngyǔ</span>
+      <span class="sh-en">Idioms from the Period</span>
       <span class="sh-rule"></span>
     </div>
 
@@ -263,44 +271,67 @@ pinyin: 'chūnqiū shíqī'
         <span class="cy-cn">礼崩乐坏</span>
         <span class="cy-py">lǐ bēng yuè huài</span>
         <span class="cy-en">ritual collapsed, music fell apart — the breakdown of moral and social order</span>
-        <span class="cy-note">The four-character phrase for the Spring and Autumn crisis as Confucians understood it. 崩 bēng (collapse; crumble) and 坏 huài (broken; ruined) are both vivid verbs here. Still used today for any period in which social norms and cultural standards have disintegrated: 现代社会礼崩乐坏 "modern society: ritual collapsed, music fell apart" appears regularly in conservative commentary on contemporary Chinese culture.</span>
-      </div>
-
-      <div class="cy">
-        <span class="cy-cn">是可忍，孰不可忍</span>
-        <span class="cy-py">shì kě rěn, shú bù kě rěn</span>
-        <span class="cy-en">if this can be tolerated, what cannot be? — the limit of acceptable outrage</span>
-        <span class="cy-note">Confucius's response on seeing the Lu lord use the eight-row dance ceremony (八佾) reserved for the Zhou king. The phrase is now the standard Chinese expression for something that crosses the absolute limit of what can be accepted — appearing in everything from political editorials to sports commentary to internet arguments. The classical source makes the phrase's original target clear: not personal insult, but the usurpation of legitimate ritual order.</span>
+        <span class="cy-note">崩 bēng (collapse; crumble) and 坏 huài (broken; destroyed) are vivid verbs, not adjectives — the ritual order did not merely weaken, it structurally gave way. The phrase appears regularly in contemporary Chinese conservative commentary about cultural decline, carrying the same diagnostic weight it had for Confucius: the problem is not individual moral failure but the failure of the shared frameworks that make social life coherent.</span>
       </div>
 
       <div class="cy">
         <span class="cy-cn">问鼎中原</span>
         <span class="cy-py">wèn dǐng Zhōngyuán</span>
-        <span class="cy-en">to aspire to rule China — lit. "to inquire about the cauldrons of the Central Plains"</span>
-        <span class="cy-note">A Spring and Autumn origin: the king of Chu sent envoys to ask Zhou officials about the weight of the Nine Cauldrons (九鼎), the symbols of dynastic legitimacy. The Zhou minister's reply — that virtue, not the cauldrons themselves, determines whether a dynasty falls or stands — became a celebrated statement of Mandate of Heaven doctrine. 问鼎 now means to aim for the top, used in competition, business, and politics.</span>
+        <span class="cy-en">to aspire to supreme power — lit. "to inquire about the cauldrons of the Central Plains"</span>
+        <span class="cy-note">A Spring and Autumn incident: the king of Chu sent envoys to ask Zhou officials about the weight of the Nine Cauldrons (九鼎 jiǔ dǐng), the ritual bronze vessels symbolizing dynastic legitimacy. The Zhou minister replied that legitimacy resided in virtue, not in the cauldrons themselves, and that the Zhou house, though diminished, still held the Mandate of Heaven. Asking about the cauldrons was a way of signaling ambition to replace the dynasty. 问鼎 remains the standard Chinese idiom for aiming at supreme power in any competitive domain.</span>
       </div>
 
       <div class="cy">
         <span class="cy-cn">卧薪尝胆</span>
         <span class="cy-py">wò xīn cháng dǎn</span>
-        <span class="cy-en">sleep on brushwood and taste gall — to endure hardship in pursuit of revenge or a great goal</span>
-        <span class="cy-note">From the story of <strong>越王勾践 Yuè Wáng Gōujiàn</strong>, king of Yue, who was defeated and humiliated by the king of Wu around 494 BCE. Goujian reportedly slept on rough brushwood and hung a gallbladder from his ceiling to taste daily, keeping his humiliation vivid so he would not forget his goal. He spent twenty years rebuilding Yue before eventually defeating Wu and becoming the last of the classical five hegemons. Used today for any sustained self-discipline in service of a long-term goal.</span>
+        <span class="cy-en">sleep on brushwood and taste gall — sustained self-discipline in pursuit of a long-deferred goal</span>
+        <span class="cy-note">From the story of 越王勾践 Yuè Wáng Gōujiàn, king of Yue, defeated and humiliated by the king of Wu around 494 BCE. Goujian reportedly slept on brushwood and kept a gallbladder hanging from the ceiling to taste each morning, preserving the memory of his humiliation so it would drive twenty years of patient rebuilding. He eventually destroyed Wu and became the last of the classical five hegemons. The phrase is a precise idiom: not just endurance, but methodical self-affliction as a technique for sustaining motivation across years.</span>
+      </div>
+
+      <div class="cy">
+        <span class="cy-cn">歃血为盟</span>
+        <span class="cy-py">shà xuè wéi méng</span>
+        <span class="cy-en">to smear blood on the lips as an oath — to seal a solemn covenant</span>
+        <span class="cy-note">The ritual procedure of the Spring and Autumn covenant assembly (盟会 ménghuì): participants touched their lips with the blood of a sacrificial animal — usually a bull or horse — while swearing the covenant terms. The act bound the parties through ritual sanction, not just political agreement. When Confucius complained that covenant oaths were routinely broken, the offense was not merely political betrayal but the profanation of a ritual act that had called on spirits as witnesses. Used today for any solemn agreement, often with the implication that the commitment is of unusual gravity.</span>
       </div>
 
     </div>
 
+    <!-- ── TRANSITION TO WARRING STATES ── -->
+    <span class="section-anchor" id="zhanguo"></span>
+    <div class="section-head">
+      <span class="sh-cn">走向战国</span>
+      <span class="sh-py">Zǒuxiàng Zhànguó</span>
+      <span class="sh-en">Transition to the Warring States</span>
+      <span class="sh-rule"></span>
+    </div>
+
+    <div class="scholar" data-glyph="战">
+      <div class="scholar-label">历史洞见 lìshǐ dòngjiàn · Historical Insight</div>
+      <p>The Spring and Autumn period ended not with a decisive battle but with a partition. In 453 BCE, the great state of Jin — the dominant northern power for most of the period — was effectively divided when three ministerial families (Han 韩, Wei 魏, Zhao 赵) eliminated the fourth (Zhi 智) and divided Jin's territory among themselves. The Zhou king formally recognized the three as independent feudal lords in 403 BCE. The partition of Jin is the conventional marker separating the Spring and Autumn from the Warring States period.</p>
+      <p>The shift was one of kind, not just degree. The Spring and Autumn operated on hegemonic logic: the strongest lord organized the weaker lords, maintained ritual forms, and extracted compliance without eliminating rivals. The Warring States operated on eliminationist logic: seven major states competed through a century and a half of total war aimed at annihilation of the others. The ceremonial constraints on warfare that Confucius had spent his life trying to restore — and that had already been eroding through the Spring and Autumn — did not survive the new era. The 战国 (Zhànguó) page covers what follows.</p>
+      <p>What the Spring and Autumn bequeathed to later Chinese civilization was not political order, which it conspicuously failed to maintain, but the textual and intellectual foundation on which Chinese civilization would build for the next two millennia. The five classics took their canonical form in this period or were attributed to it. The philosophical schools that would define Chinese intellectual life were founded during it. And the vocabulary of Chinese political and moral thought — 礼 lǐ, 仁 rén, 义 yì, 霸 bà, 王 wáng, 道 dào — was fixed by thinkers who were arguing, in real time, about what had gone wrong and why. Confucius died in 479 BCE without achieving anything he set out to do. Mencius, writing a century and a half later, said his legacy had made "rebellious ministers and villainous sons" fear history's judgment. He was writing in the middle of the Warring States period, when the killing had become industrial. The <em>Chūnqiū</em> was what Confucius left behind instead of a reformed kingdom.</p>
+    </div>
+
     <div class="adj-wrap">
-      <span class="adj-label">Related entries</span>
-      <a class="adj" href="../../pages/history/topic_xia_shang_zhou.html">夏商周 — Three Dynasties context</a>
-      <a class="adj" href="../../pages/history/topic_zhanguo.html">战国 — what followed</a>
-      <a class="adj" href="../../pages/history/topic_qin_shihuang.html">秦始皇 — the conclusion</a>
-      <a class="adj" href="../../pages/philosophy/topic_kongzi.html">孔子 — Confucius in depth</a>
-      <a class="adj" href="../../pages/philosophy/topic_laozi.html">老子 — Laozi and the Daodejing</a>
-      <a class="adj" href="../../pages/arts/topic_shijing.html">诗经 — the Classic of Poetry</a>
+      <span class="adj" data-relation="derived"><span class="a-cn">春秋</span><span class="a-py">Chūnqiū</span><span class="a-en">the Annals; spring and autumn</span></span>
+      <span class="adj" data-relation="collocation"><span class="a-cn">周朝</span><span class="a-py">Zhōu Cháo</span><span class="a-en">the Zhou dynasty</span></span>
+      <span class="adj" data-relation="contrast" data-distinct="战国 is eliminationist interstate war; 春秋 is hegemonic order through ritual"><span class="a-cn">战国</span><span class="a-py">Zhànguó</span><span class="a-en">the Warring States period</span></span>
+      <span class="adj" data-relation="collocation"><span class="a-cn">孔子</span><span class="a-py">Kǒngzǐ</span><span class="a-en">Confucius</span></span>
+      <span class="adj" data-relation="collocation"><span class="a-cn">诸侯</span><span class="a-py">zhūhóu</span><span class="a-en">feudal lords</span></span>
+      <span class="adj" data-relation="collocation"><span class="a-cn">霸主</span><span class="a-py">bàzhǔ</span><span class="a-en">hegemon lord</span></span>
+      <span class="adj" data-relation="collocation"><span class="a-cn">百家争鸣</span><span class="a-py">bǎijiā zhēngmíng</span><span class="a-en">contention of a hundred schools</span></span>
+      <span class="adj" data-relation="collocation"><span class="a-cn">礼崩乐坏</span><span class="a-py">lǐ bēng yuè huài</span><span class="a-en">ritual collapsed, music fell apart</span></span>
+      <span class="adj" data-relation="collocation"><span class="a-cn">左传</span><span class="a-py">Zuǒ Zhuàn</span><span class="a-en">the Zuo Commentary</span></span>
+      <span class="adj" data-relation="collocation"><span class="a-cn">五经</span><span class="a-py">wǔ jīng</span><span class="a-en">the Five Classics</span></span>
+      <span class="adj" data-relation="collocation"><span class="a-cn">论语</span><span class="a-py">Lúnyǔ</span><span class="a-en">the Analects</span></span>
+      <span class="adj" data-relation="collocation"><span class="a-cn">春秋五霸</span><span class="a-py">chūnqiū wǔ bà</span><span class="a-en">the Five Hegemons</span></span>
+      <span class="adj" data-relation="collocation"><span class="a-cn">鲁国</span><span class="a-py">Lǔ Guó</span><span class="a-en">the state of Lu — Confucius's home state</span></span>
+      <span class="adj" data-relation="collocation"><span class="a-cn">齐国</span><span class="a-py">Qí Guó</span><span class="a-en">the state of Qi — first hegemon's domain</span></span>
     </div>
 
     <footer class="page-footer">
-      <span class="footer-id">Jiǎoluò Shūwū · 角落書屋 · <span>春秋时期 chūnqiū shíqī</span> · topic_chunqiu.html</span>
+      <span class="footer-id">Jiǎoluò Shūwū · 角落書屋 · <span>春秋时代 Chūnqiū Shídài</span> · topic_chunqiu.html</span>
       <a href="../../index.html" class="footer-back">← All Entries</a>
     </footer>
 
