@@ -10,6 +10,29 @@
   const SVG_W = 800;
   const SVG_H = 700;
 
+  // Mercator projection parameters — must match build/scripts/gen-map-svg.mjs
+  // exactly so pins land where they belong on the rendered geodata.
+  const PROJ = {
+    centerLon: 103,
+    centerLat: 36,
+    scale:     820,
+    tx:        368,   // translate x (W * 0.46)
+    ty:        350,   // translate y (H * 0.50)
+  };
+
+  // Forward Mercator: (lon, lat) → (x, y) in SVG-viewBox coordinates.
+  function projectLonLat(lon, lat) {
+    const lambda = (lon - PROJ.centerLon) * Math.PI / 180;
+    const phi    = lat * Math.PI / 180;
+    const phi0   = PROJ.centerLat * Math.PI / 180;
+    // Standard spherical Mercator with center-at-phi0 vertical offset
+    const mercY  = Math.log(Math.tan(Math.PI / 4 + phi  / 2));
+    const mercY0 = Math.log(Math.tan(Math.PI / 4 + phi0 / 2));
+    const x = PROJ.tx + PROJ.scale * lambda;
+    const y = PROJ.ty - PROJ.scale * (mercY - mercY0);
+    return [x, y];
+  }
+
   /* ── State ─────────────────────────────────────────────── */
   let entries = {};          // slug → entry object
   let annotations = [];     // from map-annotations.json
@@ -129,8 +152,15 @@
     });
 
     annotations.forEach(anno => {
-      const cx = (anno.x / 100) * SVG_W;
-      const cy = (anno.y / 100) * SVG_H;
+      // Prefer projected lon/lat; fall back to legacy x/y percent for any
+      // annotation that hasn't been migrated yet.
+      let cx, cy;
+      if (typeof anno.lon === 'number' && typeof anno.lat === 'number') {
+        [cx, cy] = projectLonLat(anno.lon, anno.lat);
+      } else {
+        cx = (anno.x / 100) * SVG_W;
+        cy = (anno.y / 100) * SVG_H;
+      }
       const color = pinColor(anno);
       const icon = ICONS[anno.type] || null;
 
@@ -144,15 +174,17 @@
       g.setAttribute('aria-label', anno.label_cn + ' ' + anno.label_en);
       g.setAttribute('transform', `translate(${cx},${cy})`);
 
-      // Outer glow ring
+      // Outer glow ring (visual only — no hit-testing so hover doesn't flicker
+      // when the cursor crosses ring↔body boundaries).
       const ring = document.createElementNS('http://www.w3.org/2000/svg', 'circle');
       ring.setAttribute('r', '10');
       ring.setAttribute('fill', color);
       ring.setAttribute('opacity', '0.12');
       ring.setAttribute('class', 'pin-ring');
+      ring.setAttribute('pointer-events', 'none');
       g.appendChild(ring);
 
-      // Body shape
+      // Body shape (visual only — see above)
       if (icon) {
         const shape = document.createElementNS('http://www.w3.org/2000/svg', 'path');
         shape.setAttribute('d', icon);
@@ -160,6 +192,7 @@
         shape.setAttribute('stroke', '#f2e8d5');
         shape.setAttribute('stroke-width', '0.8');
         shape.setAttribute('class', 'pin-body');
+        shape.setAttribute('pointer-events', 'none');
         g.appendChild(shape);
       } else {
         const circle = document.createElementNS('http://www.w3.org/2000/svg', 'circle');
@@ -168,8 +201,17 @@
         circle.setAttribute('stroke', '#f2e8d5');
         circle.setAttribute('stroke-width', '1');
         circle.setAttribute('class', 'pin-body');
+        circle.setAttribute('pointer-events', 'none');
         g.appendChild(circle);
       }
+
+      // Single transparent hit-target sized to cover the ring — pointer events
+      // hit only this rect, so hover state is stable across the pin's interior.
+      const hit = document.createElementNS('http://www.w3.org/2000/svg', 'circle');
+      hit.setAttribute('r', '12');
+      hit.setAttribute('fill', 'transparent');
+      hit.setAttribute('class', 'pin-hit');
+      g.appendChild(hit);
 
       // Title for SVG accessibility
       const title = document.createElementNS('http://www.w3.org/2000/svg', 'title');
@@ -245,16 +287,34 @@
 
   /* ── Interaction: hover/click on pins ──────────────────── */
   function wireMapInteractions() {
+    let activePinId = null;
+
     svgEl.addEventListener('pointerover', e => {
       const pin = e.target.closest('.map-pin');
-      if (!pin) { hideTooltip(); return; }
+      if (!pin) return;
       const id = pin.dataset.annotationId;
+      // Only re-show / re-position when crossing onto a *different* pin.
+      // Without this guard, sub-element pointerovers cause repeated calls
+      // that re-flow the tooltip and read as glitchy flicker.
+      if (id === activePinId) return;
       const anno = annotations.find(a => a.id === id);
-      if (anno) showTooltip(anno, pin);
+      if (!anno) return;
+      activePinId = id;
+      showTooltip(anno, pin);
     });
 
     svgEl.addEventListener('pointerout', e => {
-      if (!e.relatedTarget || !e.relatedTarget.closest('.map-pin')) hideTooltip();
+      const pin = e.target.closest('.map-pin');
+      if (!pin) return;
+      // Only hide when leaving the pin's hit area entirely — `relatedTarget`
+      // null means cursor left the document/svg; otherwise it must not be
+      // inside the same pin.
+      const next = e.relatedTarget;
+      if (next && pin.contains(next)) return;
+      const nextPin = next && next.closest && next.closest('.map-pin');
+      if (nextPin && nextPin.dataset.annotationId === pin.dataset.annotationId) return;
+      activePinId = null;
+      hideTooltip();
     });
 
     svgEl.addEventListener('click', e => {
