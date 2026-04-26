@@ -6,7 +6,7 @@
  *   - Fetch (other GET, same-origin): stale-while-revalidate so visited pages and JSON load instantly.
  *   - Cross-origin (Google Fonts, Hanzi Writer CDN): runtime cache so offline reading still works.
  */
-const VERSION = 'shuwu-v6';
+const VERSION = 'shuwu-v7';
 const SHELL_CACHE = `${VERSION}-shell`;
 const RUNTIME_CACHE = `${VERSION}-runtime`;
 
@@ -20,6 +20,7 @@ const SHELL_ASSETS = [
   './scripts/enhance.js',
   './data/entries.json',
   './data/search-index.json',
+  './data/audio-manifest.json',
   './manifest.webmanifest',
   './icons/icon-192.png',
   './icons/icon-512.png',
