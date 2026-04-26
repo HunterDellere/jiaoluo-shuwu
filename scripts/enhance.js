@@ -477,10 +477,16 @@ else { window.__enhanceInit = true; (function () {
 
   // ── Hover-to-define tooltips on all internal content links ─────────────
   // Skip on touch-only devices — tooltips are unusable without hover.
+  // Selector: name every known crosslink class explicitly (to make intent
+  // obvious and survive future renames), then catch any other internal link
+  // inside <main>, the sidebar (toc-hub-link), or the page-footer.
   if (!window.matchMedia('(hover: none)').matches) {
     const internalLinks = document.querySelectorAll(
-      'a.auto-link, a.related-link, a.pn-link, a.adj, ' +
-      'main a[href]:not([href^="http"]):not([href^="#"]):not([href^="mailto:"])'
+      'a.auto-link, a.related-link, a.related-card, a.pn-link, a.adj, ' +
+      'a.hub-badge, a.toc-hub-link, a.stage-legend-item, a.card-anchor, ' +
+      'main a[href]:not([href^="http"]):not([href^="#"]):not([href^="mailto:"]), ' +
+      'aside.sidebar a[href]:not([href^="#"]):not([href^="http"]), ' +
+      'footer.page-footer a[href]:not([href^="http"]):not([href^="#"]):not([href^="mailto:"])'
     );
     if (internalLinks.length) initTooltips(internalLinks);
   }
@@ -515,11 +521,15 @@ else { window.__enhanceInit = true; (function () {
     }
 
     function resolveEntry(link) {
-      // Auto-link href is relative; reconstruct the canonical path
+      // Auto-link href is relative; reconstruct the canonical path.
+      // Decode percent-encoded segments — entries.json stores raw unicode keys,
+      // so without decoding, every link whose target has hanzi in the slug
+      // (gan3_感.html → gan3_%E6%84%9F.html) silently misses lookup.
       const abs = new URL(link.getAttribute('href'), location.href);
       const idx = abs.pathname.indexOf('/pages/');
       if (idx === -1) return null;
-      const path = abs.pathname.slice(idx + 1); // strip leading slash → "pages/.../x.html"
+      let path = abs.pathname.slice(idx + 1);
+      try { path = decodeURIComponent(path); } catch (_) { /* keep raw on bad encoding */ }
       return entriesMap && entriesMap[path] ? entriesMap[path] : null;
     }
 
@@ -528,19 +538,59 @@ else { window.__enhanceInit = true; (function () {
         const e = resolveEntry(link);
         if (!e) return;
         const tip = tooltipFor(link);
+
+        // Pull the page-level entry data
         const cn = e.char || (e.title ? e.title.split('·')[0].trim() : '');
         const py = e.pinyin || '';
         const desc = e.desc || '';
         const hskLabel = e.hsk
           ? (typeof e.hsk === 'object' ? `HSK ${e.hsk.from}–${e.hsk.to}` : `HSK ${e.hsk}`)
           : '';
+
+        // Surface a category chip so cards in the related grid (which already
+        // colour-code by category) explain themselves on hover.
+        const catLabel = (function () {
+          var c = e.category || '';
+          if (!c) return '';
+          // Mirror the homepage label set, lowercased & short
+          var map = {
+            characters: 'character', vocab: 'vocab', grammar: 'grammar',
+            chengyu: 'chengyu', religion: 'religion', philosophy: 'philosophy',
+            history: 'history', geography: 'geography', culture: 'culture',
+            culinary: 'culinary', arts: 'arts', science: 'science',
+            daily: 'daily', hubs: 'reading path', families: 'family', hsk: 'HSK',
+          };
+          return map[c] || c;
+        })();
+
+        // Character pages add a radical chip (the most useful at-a-glance fact
+        // beyond pinyin/HSK on hover). Vocab/grammar/topics fall back to type.
+        const radicalChip = (e.type === 'character' && e.radical) ? `部 ${e.radical}` : '';
+
+        // Adjacent-vocab chips can carry a `data-distinct` slot authored on the
+        // chip — that's the highest-value content because it explains the
+        // contrast with the page subject. If present, show it instead of the
+        // generic page desc; otherwise fall back to desc.
+        const distinct = link.getAttribute('data-distinct') || '';
+        const relation = link.getAttribute('data-relation') || '';
+        const detailLine = distinct || desc;
+
         tip.innerHTML =
           `<div class="al-tt-head">` +
             (cn ? `<span class="al-tt-cn">${escapeHtml(cn)}</span>` : '') +
             (py ? `<span class="al-tt-py">${escapeHtml(py)}</span>` : '') +
             (hskLabel ? `<span class="al-tt-hsk">${escapeHtml(hskLabel)}</span>` : '') +
           `</div>` +
-          `<div class="al-tt-desc">${escapeHtml(desc)}</div>`;
+          (catLabel || radicalChip || relation
+            ? `<div class="al-tt-meta">` +
+                (catLabel ? `<span class="al-tt-cat">${escapeHtml(catLabel)}</span>` : '') +
+                (radicalChip ? `<span class="al-tt-rad">${escapeHtml(radicalChip)}</span>` : '') +
+                (relation ? `<span class="al-tt-rel">${escapeHtml(relation)}</span>` : '') +
+              `</div>`
+            : '') +
+          (detailLine
+            ? `<div class="al-tt-desc${distinct ? ' al-tt-desc--distinct' : ''}">${escapeHtml(detailLine)}</div>`
+            : '');
         positionTooltip(tip, link);
         tip.classList.add('visible');
         activeLink = link;
