@@ -892,6 +892,18 @@
     ],
     "hasPage": false
   },
+  "故": {
+    "cn": "故",
+    "py": "gù",
+    "en": "former; old; intentional; reason",
+    "count": 3,
+    "appearsOn": [
+      "pages/characters/jiu4_旧.html",
+      "pages/grammar/nai_乃.html",
+      "pages/grammar/zhi_之.html"
+    ],
+    "hasPage": false
+  },
   "关系": {
     "cn": "关系",
     "py": "guānxi",
@@ -1216,6 +1228,18 @@
     ],
     "hasPage": false
   },
+  "所": {
+    "cn": "所",
+    "py": "suǒ",
+    "en": "classical nominalization marker",
+    "count": 3,
+    "appearsOn": [
+      "pages/grammar/nai_乃.html",
+      "pages/grammar/zhi_之.html",
+      "pages/grammar/zhi_者.html"
+    ],
+    "hasPage": true
+  },
   "天地": {
     "cn": "天地",
     "py": "tiāndì",
@@ -1360,6 +1384,18 @@
     ],
     "hasPage": true
   },
+  "者": {
+    "cn": "者",
+    "py": "zhě",
+    "en": "classical nominalizer",
+    "count": 3,
+    "appearsOn": [
+      "pages/grammar/nai_乃.html",
+      "pages/grammar/suo_所.html",
+      "pages/grammar/zhi_之.html"
+    ],
+    "hasPage": true
+  },
   "正在": {
     "cn": "正在",
     "py": "zhèngzài",
@@ -1371,6 +1407,18 @@
       "pages/grammar/zhe_着.html"
     ],
     "hasPage": false
+  },
+  "之": {
+    "cn": "之",
+    "py": "zhī",
+    "en": "classical genitive and pronoun",
+    "count": 3,
+    "appearsOn": [
+      "pages/grammar/nai_乃.html",
+      "pages/grammar/suo_所.html",
+      "pages/grammar/zhi_者.html"
+    ],
+    "hasPage": true
   },
   "只要…就": {
     "cn": "只要…就",
@@ -1883,6 +1931,17 @@
     ],
     "hasPage": false
   },
+  "而": {
+    "cn": "而",
+    "py": "ér",
+    "en": "and; but; then (classical)",
+    "count": 2,
+    "appearsOn": [
+      "pages/grammar/nai_乃.html",
+      "pages/grammar/zhi_之.html"
+    ],
+    "hasPage": false
+  },
   "二胡": {
     "cn": "二胡",
     "py": "èrhú",
@@ -2014,17 +2073,6 @@
       "pages/chengyu/wanzhangaolou_万丈高楼.html"
     ],
     "hasPage": true
-  },
-  "故": {
-    "cn": "故",
-    "py": "gù",
-    "en": "former; old; intentional; reason",
-    "count": 2,
-    "appearsOn": [
-      "pages/characters/jiu4_旧.html",
-      "pages/grammar/zhi_之.html"
-    ],
-    "hasPage": false
   },
   "故乡": {
     "cn": "故乡",
@@ -2344,6 +2392,17 @@
       "pages/characters/xin1_新.html"
     ],
     "hasPage": true
+  },
+  "就": {
+    "cn": "就",
+    "py": "jiù",
+    "en": "then; right away (modern)",
+    "count": 2,
+    "appearsOn": [
+      "pages/grammar/nai_乃.html",
+      "pages/grammar/zhiyou_cai_只有才.html"
+    ],
+    "hasPage": false
   },
   "开": {
     "cn": "开",
@@ -3049,17 +3108,6 @@
     ],
     "hasPage": false
   },
-  "所": {
-    "cn": "所",
-    "py": "suǒ",
-    "en": "classical nominalization marker",
-    "count": 2,
-    "appearsOn": [
-      "pages/grammar/zhi_之.html",
-      "pages/grammar/zhi_者.html"
-    ],
-    "hasPage": true
-  },
   "所有": {
     "cn": "所有",
     "py": "suǒyǒu",
@@ -3510,17 +3558,6 @@
     ],
     "hasPage": true
   },
-  "者": {
-    "cn": "者",
-    "py": "zhě",
-    "en": "subject nominalizer",
-    "count": 2,
-    "appearsOn": [
-      "pages/grammar/suo_所.html",
-      "pages/grammar/zhi_之.html"
-    ],
-    "hasPage": true
-  },
   "正名": {
     "cn": "正名",
     "py": "zhèngmíng",
@@ -3564,17 +3601,6 @@
       "pages/vocab/guojia_国家.html"
     ],
     "hasPage": false
-  },
-  "之": {
-    "cn": "之",
-    "py": "zhī",
-    "en": "genitive / object pronoun",
-    "count": 2,
-    "appearsOn": [
-      "pages/grammar/suo_所.html",
-      "pages/grammar/zhi_者.html"
-    ],
-    "hasPage": true
   },
   "知识": {
     "cn": "知识",
@@ -4215,6 +4241,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/jiu4_旧.html"
+    ],
+    "hasPage": false
+  },
+  "便": {
+    "cn": "便",
+    "py": "biàn",
+    "en": "then; thereupon (literary)",
+    "count": 1,
+    "appearsOn": [
+      "pages/grammar/nai_乃.html"
     ],
     "hasPage": false
   },
@@ -5815,16 +5851,6 @@
     "count": 1,
     "appearsOn": [
       "pages/vocab/jianghu_江湖.html"
-    ],
-    "hasPage": false
-  },
-  "而": {
-    "cn": "而",
-    "py": "ér",
-    "en": "classical conjunction: and / but / then",
-    "count": 1,
-    "appearsOn": [
-      "pages/grammar/zhi_之.html"
     ],
     "hasPage": false
   },
@@ -8218,16 +8244,6 @@
     ],
     "hasPage": false
   },
-  "就": {
-    "cn": "就",
-    "py": "jiù",
-    "en": "then; right away; exactly (consequence)",
-    "count": 1,
-    "appearsOn": [
-      "pages/grammar/zhiyou_cai_只有才.html"
-    ],
-    "hasPage": false
-  },
   "就是": {
     "cn": "就是",
     "py": "jiù shì",
@@ -9796,6 +9812,16 @@
     "appearsOn": [
       "pages/grammar/zhi_之.html"
     ],
+    "hasPage": true
+  },
+  "乃至": {
+    "cn": "乃至",
+    "py": "nǎizhì",
+    "en": "and even; to the extent of",
+    "count": 1,
+    "appearsOn": [
+      "pages/grammar/nai_乃.html"
+    ],
     "hasPage": false
   },
   "耐心": {
@@ -10598,6 +10624,16 @@
     ],
     "hasPage": false
   },
+  "然后": {
+    "cn": "然后",
+    "py": "ránhòu",
+    "en": "then; after that; only then",
+    "count": 1,
+    "appearsOn": [
+      "pages/grammar/nai_乃.html"
+    ],
+    "hasPage": false
+  },
   "燃烧": {
     "cn": "燃烧",
     "py": "ránshāo",
@@ -11325,6 +11361,16 @@
     "count": 1,
     "appearsOn": [
       "pages/religion/topic_yisilan.html"
+    ],
+    "hasPage": false
+  },
+  "失败乃成功之母": {
+    "cn": "失败乃成功之母",
+    "py": "shībài nǎi chénggōng zhī mǔ",
+    "en": "failure is the mother of success",
+    "count": 1,
+    "appearsOn": [
+      "pages/grammar/nai_乃.html"
     ],
     "hasPage": false
   },
@@ -14845,6 +14891,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/huo3_火.html"
+    ],
+    "hasPage": false
+  },
+  "则": {
+    "cn": "则",
+    "py": "zé",
+    "en": "then (logical consequence)",
+    "count": 1,
+    "appearsOn": [
+      "pages/grammar/nai_乃.html"
     ],
     "hasPage": false
   },

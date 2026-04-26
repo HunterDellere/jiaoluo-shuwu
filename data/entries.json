@@ -699,6 +699,26 @@
     "updated": "2026-04-25"
   },
   {
+    "path": "pages/grammar/nai_乃.html",
+    "type": "grammar",
+    "category": "grammar",
+    "title": "乃 · classical connective: then, thereupon, thus; to be; only then",
+    "desc": "A classical connective that marks earned consequence — the result that follows because the condition was genuinely met, not merely next in line.",
+    "tags": [
+      "grammar",
+      "classical",
+      "syntax",
+      "literary",
+      "classics",
+      "conjunction",
+      "rhetoric",
+      "copula"
+    ],
+    "status": "complete",
+    "pinyin": "nǎi",
+    "updated": "2026-04-25"
+  },
+  {
     "path": "pages/grammar/suo_所.html",
     "type": "grammar",
     "category": "grammar",
