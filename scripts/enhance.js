@@ -55,8 +55,18 @@ else { window.__enhanceInit = true; (function () {
   function loadManifest() {
     if (manifestPromise) return manifestPromise;
     const base = location.pathname.includes('/pages/') ? '../../' : './';
-    manifestPromise = fetch(base + 'data/audio-manifest.json', { cache: 'force-cache' })
+    // Default cache mode: lets the SW + HTTP cache do their normal thing.
+    // `force-cache` was masking older empty manifests served from before audio
+    // synthesis ran, which made every lookup miss and silently fall back to
+    // SpeechSynthesis. Plain fetch lets a fresh deploy invalidate naturally.
+    manifestPromise = fetch(base + 'data/audio-manifest.json')
       .then(function (r) { return r.ok ? r.json() : null; })
+      .then(function (m) {
+        // Sanity-guard: a manifest with no entries is useless; treat as null
+        // so the rest of the code falls back to synth without claiming a hit.
+        if (!m || !m.entries || !Object.keys(m.entries).length) return null;
+        return m;
+      })
       .catch(function () { return null; });
     return manifestPromise;
   }
