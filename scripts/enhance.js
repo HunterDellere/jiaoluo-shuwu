@@ -73,9 +73,16 @@ else { window.__enhanceInit = true; (function () {
 
   function entryPathForBtn(btn) {
     // Resolve canonical "pages/<cat>/<slug>.html" for the current page.
+    // location.pathname returns percent-encoded segments for non-ASCII chars
+    // (e.g. "感" → "%E6%84%9F"); the manifest stores raw unicode keys, so we
+    // must decode before looking up or every entry miss falls back to synth.
     const idx = location.pathname.indexOf('/pages/');
     if (idx === -1) return null;
-    return location.pathname.slice(idx + 1);
+    try {
+      return decodeURIComponent(location.pathname.slice(idx + 1));
+    } catch (_) {
+      return location.pathname.slice(idx + 1);
+    }
   }
   function isInline(btn) { return btn.classList.contains('audio-btn--inline'); }
 
