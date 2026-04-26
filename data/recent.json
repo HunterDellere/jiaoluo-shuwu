@@ -21,6 +21,25 @@
     "updated": "2026-04-25"
   },
   {
+    "path": "pages/characters/er3_耳.html",
+    "type": "character",
+    "category": "characters",
+    "title": "耳 · ear; to hear; handle",
+    "desc": "The pictograph of an ear that anchors Chinese words for listening, fame, and the furred handles on bronze vessels.",
+    "tags": [
+      "body",
+      "perception",
+      "radical"
+    ],
+    "status": "complete",
+    "char": "耳",
+    "pinyin": "ěr",
+    "tone": 3,
+    "hsk": 4,
+    "radical": "耳",
+    "updated": "2026-04-25"
+  },
+  {
     "path": "pages/characters/guan1_关.html",
     "type": "character",
     "category": "characters",
@@ -118,6 +137,25 @@
     "updated": "2026-04-25"
   },
   {
+    "path": "pages/characters/mu4_目.html",
+    "type": "character",
+    "category": "characters",
+    "title": "目 · eye; to look at; section heading",
+    "desc": "The pictograph of an eye that became the Chinese radical for everything seen, watched, and classified.",
+    "tags": [
+      "body",
+      "perception",
+      "radical"
+    ],
+    "status": "complete",
+    "char": "目",
+    "pinyin": "mù",
+    "tone": 4,
+    "hsk": 4,
+    "radical": "目",
+    "updated": "2026-04-25"
+  },
+  {
     "path": "pages/characters/si3_死.html",
     "type": "character",
     "category": "characters",
@@ -160,6 +198,42 @@
     "updated": "2026-04-25"
   },
   {
+    "path": "pages/characters/zu2_足.html",
+    "type": "character",
+    "category": "characters",
+    "title": "足 · foot; sufficient; enough",
+    "desc": "The foot that became the word for sufficiency — and the radical anchoring every character involving legs, running, and roads.",
+    "tags": [
+      "body",
+      "motion",
+      "radical"
+    ],
+    "status": "complete",
+    "char": "足",
+    "pinyin": "zú",
+    "tone": 2,
+    "hsk": 4,
+    "radical": "足",
+    "updated": "2026-04-25"
+  },
+  {
+    "path": "pages/culture/topic_duanwu.html",
+    "type": "topic",
+    "category": "culture",
+    "title": "端午节 · Dragon Boat Festival",
+    "desc": "Rice dumplings thrown into a river for a drowned poet — the festival that fused an act of mourning into one of China's great summer celebrations.",
+    "tags": [
+      "culture",
+      "festival",
+      "history",
+      "food",
+      "calendar"
+    ],
+    "status": "complete",
+    "pinyin": "Duānwǔ jié",
+    "updated": "2026-04-25"
+  },
+  {
     "path": "pages/grammar/zhe_particle_呢.html",
     "type": "grammar",
     "category": "grammar",
@@ -172,6 +246,38 @@
     ],
     "status": "complete",
     "pinyin": "ne",
+    "updated": "2026-04-25"
+  },
+  {
+    "path": "pages/vocab/guojia_国家.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "国家 · nation; state; country",
+    "desc": "A compound of the two most culturally loaded characters in Chinese — country and family — that encodes the Confucian political imagination in two syllables.",
+    "tags": [
+      "politics",
+      "society",
+      "confucianism",
+      "history"
+    ],
+    "status": "complete",
+    "pinyin": "guójiā",
+    "updated": "2026-04-25"
+  },
+  {
+    "path": "pages/vocab/wenhua_文化.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "文化 · culture; civilization",
+    "desc": "The word that names the organizing project of this entire site — and a concept that Chinese thought built from the ground up differently than the West did.",
+    "tags": [
+      "culture",
+      "society",
+      "language",
+      "history"
+    ],
+    "status": "complete",
+    "pinyin": "wénhuà",
     "updated": "2026-04-25"
   },
   {
@@ -267,123 +373,6 @@
     "tone": 4,
     "hsk": 1,
     "radical": "厶",
-    "updated": "2026-04-22"
-  },
-  {
-    "path": "pages/characters/shang4_上.html",
-    "type": "character",
-    "category": "characters",
-    "title": "上 · above, up, to go up, to mount",
-    "desc": "The most productive spatial primitive in Chinese — 上 starts as a notch above a line and ends up meaning everything from logging on to getting addicted.",
-    "tags": [
-      "direction",
-      "grammar",
-      "motion"
-    ],
-    "status": "complete",
-    "char": "上",
-    "pinyin": "shàng",
-    "tone": 4,
-    "hsk": 1,
-    "radical": "一",
-    "updated": "2026-04-22"
-  },
-  {
-    "path": "pages/characters/xia4_下.html",
-    "type": "character",
-    "category": "characters",
-    "title": "下 · below, down, to descend, to issue",
-    "desc": "The mirror image of 上: a notch below the line that governs everything from going downstairs to issuing imperial decrees.",
-    "tags": [
-      "direction",
-      "grammar",
-      "motion"
-    ],
-    "status": "complete",
-    "char": "下",
-    "pinyin": "xià",
-    "tone": 4,
-    "hsk": 1,
-    "radical": "一",
-    "updated": "2026-04-22"
-  },
-  {
-    "path": "pages/characters/xin4_信.html",
-    "type": "character",
-    "category": "characters",
-    "title": "信 · trust, faith, credibility",
-    "desc": "A person standing by their word — one of the most visually transparent characters in the language, and the virtue that holds every contract, conversation, and relationship together.",
-    "tags": [
-      "confucianism",
-      "ethics",
-      "virtue",
-      "philosophy",
-      "communication"
-    ],
-    "status": "complete",
-    "char": "信",
-    "pinyin": "xìn",
-    "tone": 4,
-    "hsk": 2,
-    "radical": "亻",
-    "updated": "2026-04-22"
-  },
-  {
-    "path": "pages/characters/yi4_义.html",
-    "type": "character",
-    "category": "characters",
-    "title": "义 · righteousness, duty, justice",
-    "desc": "The Confucian virtue of doing what is morally right — and the simplification that erased a sheep, a self, and the entire picture of what righteous form looks like.",
-    "tags": [
-      "confucianism",
-      "ethics",
-      "virtue",
-      "philosophy"
-    ],
-    "status": "complete",
-    "char": "义",
-    "pinyin": "yì",
-    "tone": 4,
-    "hsk": 3,
-    "radical": "丶",
-    "updated": "2026-04-22"
-  },
-  {
-    "path": "pages/characters/yu3_雨.html",
-    "type": "character",
-    "category": "characters",
-    "title": "雨 · rain",
-    "desc": "The oracle bone shows rain falling from the sky — one of the most transparent pictographs in the script, and the radical that organizes all Chinese weather.",
-    "tags": [
-      "nature",
-      "radical",
-      "cosmology"
-    ],
-    "status": "complete",
-    "char": "雨",
-    "pinyin": "yǔ",
-    "tone": 3,
-    "hsk": 2,
-    "radical": "雨",
-    "updated": "2026-04-22"
-  },
-  {
-    "path": "pages/characters/yun2_云.html",
-    "type": "character",
-    "category": "characters",
-    "title": "云 · cloud",
-    "desc": "The simplified 云 is older than the traditional 雲 — a rare case where the modern form recovers the ancient one.",
-    "tags": [
-      "nature",
-      "cosmology",
-      "classical"
-    ],
-    "status": "complete",
-    "char": "云",
-    "pinyin": "yún",
-    "tone": 2,
-    "hsk": 4,
-    "radical": "二",
     "updated": "2026-04-22"
   }
 ]

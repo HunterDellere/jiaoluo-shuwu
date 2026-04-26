@@ -6,13 +6,21 @@
     <atom:link href="https://jiaoshoo.com/feed.xml" rel="self" type="application/rss+xml" />
     <description>Notes on Chinese language and civilisation — characters, vocabulary, grammar, history, philosophy, and the world they shaped.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 25 Apr 2026 23:02:56 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2026 02:56:03 GMT</lastBuildDate>
     <item>
       <title>白 · white, clear, plain, in vain</title>
       <link>https://jiaoshoo.com/pages/characters/bai2_白.html</link>
       <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/bai2_白.html</guid>
       <pubDate>Sat, 25 Apr 2026 00:00:00 GMT</pubDate>
       <description>Sunlight on a single point. The character that names the color of mourning, the color of clarity, the empty plate, and the speech that hides nothing.</description>
+      <category>characters</category>
+    </item>
+    <item>
+      <title>耳 · ear; to hear; handle</title>
+      <link>https://jiaoshoo.com/pages/characters/er3_耳.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/er3_耳.html</guid>
+      <pubDate>Sat, 25 Apr 2026 00:00:00 GMT</pubDate>
+      <description>The pictograph of an ear that anchors Chinese words for listening, fame, and the furred handles on bronze vessels.</description>
       <category>characters</category>
     </item>
     <item>
@@ -56,6 +64,14 @@
       <category>characters</category>
     </item>
     <item>
+      <title>目 · eye; to look at; section heading</title>
+      <link>https://jiaoshoo.com/pages/characters/mu4_目.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/mu4_目.html</guid>
+      <pubDate>Sat, 25 Apr 2026 00:00:00 GMT</pubDate>
+      <description>The pictograph of an eye that became the Chinese radical for everything seen, watched, and classified.</description>
+      <category>characters</category>
+    </item>
+    <item>
       <title>死 · death, to die, dead, fixed</title>
       <link>https://jiaoshoo.com/pages/characters/si3_死.html</link>
       <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/si3_死.html</guid>
@@ -70,6 +86,22 @@
       <pubDate>Sat, 25 Apr 2026 00:00:00 GMT</pubDate>
       <description>A dancer with arms outstretched, holding nothing. The character behind every Chinese negation of having, every Daoist non-doing, and the philosophical pole that pairs with 有 to frame the whole cosmos.</description>
       <category>characters</category>
+    </item>
+    <item>
+      <title>足 · foot; sufficient; enough</title>
+      <link>https://jiaoshoo.com/pages/characters/zu2_足.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/zu2_足.html</guid>
+      <pubDate>Sat, 25 Apr 2026 00:00:00 GMT</pubDate>
+      <description>The foot that became the word for sufficiency — and the radical anchoring every character involving legs, running, and roads.</description>
+      <category>characters</category>
+    </item>
+    <item>
+      <title>端午节 · Dragon Boat Festival</title>
+      <link>https://jiaoshoo.com/pages/culture/topic_duanwu.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/culture/topic_duanwu.html</guid>
+      <pubDate>Sat, 25 Apr 2026 00:00:00 GMT</pubDate>
+      <description>Rice dumplings thrown into a river for a drowned poet — the festival that fused an act of mourning into one of China&apos;s great summer celebrations.</description>
+      <category>culture</category>
     </item>
     <item>
       <title>集锦 · Collections</title>
@@ -110,6 +142,22 @@
       <pubDate>Sat, 25 Apr 2026 00:00:00 GMT</pubDate>
       <description>The particle that turns a finished sentence into an open conversation: softens questions, returns them to the asker, and lets a state hang in the air.</description>
       <category>grammar</category>
+    </item>
+    <item>
+      <title>国家 · nation; state; country</title>
+      <link>https://jiaoshoo.com/pages/vocab/guojia_国家.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/vocab/guojia_国家.html</guid>
+      <pubDate>Sat, 25 Apr 2026 00:00:00 GMT</pubDate>
+      <description>A compound of the two most culturally loaded characters in Chinese — country and family — that encodes the Confucian political imagination in two syllables.</description>
+      <category>vocab</category>
+    </item>
+    <item>
+      <title>文化 · culture; civilization</title>
+      <link>https://jiaoshoo.com/pages/vocab/wenhua_文化.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/vocab/wenhua_文化.html</guid>
+      <pubDate>Sat, 25 Apr 2026 00:00:00 GMT</pubDate>
+      <description>The word that names the organizing project of this entire site — and a concept that Chinese thought built from the ground up differently than the West did.</description>
+      <category>vocab</category>
     </item>
     <item>
       <title>中国 · the Middle Kingdom; China</title>
@@ -198,54 +246,6 @@
       <pubDate>Wed, 22 Apr 2026 00:00:00 GMT</pubDate>
       <description>The simplified 云 is older than the traditional 雲 — a rare case where the modern form recovers the ancient one.</description>
       <category>characters</category>
-    </item>
-    <item>
-      <title>智 · wisdom, moral intelligence</title>
-      <link>https://jiaoshoo.com/pages/characters/zhi4_智.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/zhi4_智.html</guid>
-      <pubDate>Wed, 22 Apr 2026 00:00:00 GMT</pubDate>
-      <description>The Confucian virtue of knowing what is right to do; separately, the Buddhist prajñā that sees through the nature of things altogether.</description>
-      <category>characters</category>
-    </item>
-    <item>
-      <title>青出于蓝 · The Student Surpasses the Teacher</title>
-      <link>https://jiaoshoo.com/pages/chengyu/qingchulanlan_青出于蓝.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/chengyu/qingchulanlan_青出于蓝.html</guid>
-      <pubDate>Wed, 22 Apr 2026 00:00:00 GMT</pubDate>
-      <description>Indigo is made from the indigo plant, yet it is bluer than the plant itself. Xunzi&apos;s image for the student who surpasses the teacher through sustained effort.</description>
-      <category>chengyu</category>
-    </item>
-    <item>
-      <title>山清水秀 · Mountains Clear, Waters Lovely</title>
-      <link>https://jiaoshoo.com/pages/chengyu/renshanshuixiu_山清水秀.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/chengyu/renshanshuixiu_山清水秀.html</guid>
-      <pubDate>Wed, 22 Apr 2026 00:00:00 GMT</pubDate>
-      <description>Clear mountains, lovely waters. The standard Chinese phrase for a picturesque landscape — four characters that compress the whole aesthetic vocabulary of natural beauty.</description>
-      <category>chengyu</category>
-    </item>
-    <item>
-      <title>一毛不拔 · Not Give Even a Hair</title>
-      <link>https://jiaoshoo.com/pages/chengyu/yimaobuba_一毛不拔.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/chengyu/yimaobuba_一毛不拔.html</guid>
-      <pubDate>Wed, 22 Apr 2026 00:00:00 GMT</pubDate>
-      <description>Refuse to give even a single hair from your body. Mencius&apos;s phrase for the Yangist philosophy of radical self-preservation — and the word for a miser that it became.</description>
-      <category>chengyu</category>
-    </item>
-    <item>
-      <title>家庭 · Family Structure</title>
-      <link>https://jiaoshoo.com/pages/daily/topic_jiating.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/daily/topic_jiating.html</guid>
-      <pubDate>Wed, 22 Apr 2026 00:00:00 GMT</pubDate>
-      <description>Chinese kinship terminology is a precision instrument — each relative has one specific term, and that precision maps an obligation network, not just a family tree.</description>
-      <category>daily</category>
-    </item>
-    <item>
-      <title>面子实践 · Face in Practice</title>
-      <link>https://jiaoshoo.com/pages/daily/topic_mianzi_practice.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/daily/topic_mianzi_practice.html</guid>
-      <pubDate>Wed, 22 Apr 2026 00:00:00 GMT</pubDate>
-      <description>Face in Chinese social life is a recurring set of transactions with specific mechanics: how face is given, taken, lost, and preserved in concrete situations.</description>
-      <category>daily</category>
     </item>
   </channel>
 </rss>
