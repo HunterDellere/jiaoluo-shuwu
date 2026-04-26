@@ -59,6 +59,15 @@ const CATEGORY_META = JSON.parse(
   readFileSync(join(ROOT, 'data', 'category-meta.json'), 'utf8')
 );
 
+// Real-geometry China silhouette for map-callout previews. Falls back to
+// null if the reference file hasn't been generated yet (first-run before
+// gen-map-svg.mjs has produced it) — caller renders no callout in that case.
+let MAP_ICON = null;
+try {
+  const ref = JSON.parse(readFileSync(join(ROOT, 'data', '_reference', 'map-paths.json'), 'utf8'));
+  if (ref && ref.icon && ref.icon.chinaPath) MAP_ICON = ref.icon;
+} catch (_) { MAP_ICON = null; }
+
 // ── helpers ─────────────────────────────────────────────────────────────────
 
 function escapeHtml(str) {
@@ -116,17 +125,34 @@ function renderEntryCard(entry) {
  * collapse JS, since on family pages every category is expanded by default
  * (the page's purpose is browsing).
  */
+/**
+ * Render the inline thumbnail SVG for the map callout. Uses the real
+ * Natural-Earth-derived silhouette if available, falls back to a tiny
+ * hand-drawn outline so the page never breaks on first build.
+ */
+function renderMapCalloutIcon() {
+  if (MAP_ICON && MAP_ICON.chinaPath) {
+    const w = MAP_ICON.width || 100;
+    const h = MAP_ICON.height || 90;
+    return `<svg class="map-callout-icon" viewBox="0 0 ${w} ${h}" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+          <rect width="${w}" height="${h}" fill="#dde8ef" rx="4"/>
+          <path d="${MAP_ICON.chinaPath}" fill="#e8dcc8" stroke="#b8a888" stroke-width="0.6" stroke-linejoin="round"/>` +
+      (MAP_ICON.taiwanPath
+        ? `\n          <path d="${MAP_ICON.taiwanPath}" fill="#e8dcc8" stroke="#b8a888" stroke-width="0.6" stroke-linejoin="round"/>`
+        : '') + `
+        </svg>`;
+  }
+  // Fallback: original hand-drawn blob (only used if map-paths.json missing)
+  return `<svg class="map-callout-icon" viewBox="0 0 100 90" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+          <rect width="100" height="90" fill="#dde8ef" rx="4"/>
+          <path d="M24,11 L31,9 L40,7 L52,6 L63,5 L72,5 L81,7 L88,12 L92,18 L90,25 L85,30 L82,36 L82,44 L79,52 L74,58 L67,62 L60,65 L53,67 L46,67 L39,65 L33,62 L27,57 L22,51 L18,44 L16,37 L17,29 L19,22 Z" fill="#e8dcc8" stroke="#b8a888" stroke-width="1.5"/>
+        </svg>`;
+}
+
 const CAT_CALLOUTS = {
   geography: `
       <a class="map-callout admin-only" href="../maps/china.html" aria-label="Open the Interactive Map of China">
-        <svg class="map-callout-icon" viewBox="0 0 100 90" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
-          <rect width="100" height="90" fill="#dde8ef" rx="4"/>
-          <path d="M24,11 L31,9 L40,7 L52,6 L63,5 L72,5 L81,7 L88,12 L92,18 L90,25 L85,30 L82,36 L82,44 L79,52 L74,58 L67,62 L60,65 L53,67 L46,67 L39,65 L33,62 L27,57 L22,51 L18,44 L16,37 L17,29 L19,22 Z" fill="#e8dcc8" stroke="#b8a888" stroke-width="1.5"/>
-          <circle cx="75" cy="27" r="3" fill="#2a5c6b" opacity="0.8"/>
-          <circle cx="80" cy="46" r="2.5" fill="#2a5c6b" opacity="0.6"/>
-          <path d="M38,32 C45,30 55,29 63,30 C68,31 72,34 74,38 C72,42 65,44 57,43 C48,42 40,38 38,32Z" fill="none" stroke="#c8a830" stroke-width="1.8" opacity="0.7"/>
-          <text x="50" y="55" text-anchor="middle" font-family="serif" font-size="9" fill="#5a4428" opacity="0.5">中国</text>
-        </svg>
+        ${renderMapCalloutIcon()}
         <div class="map-callout-body">
           <span class="map-callout-label">Interactive · 互动地图</span>
           <span class="map-callout-title">中国地图 · Map of China</span>
@@ -297,14 +323,7 @@ function renderExploreContent(entries) {
       <span class="sh-en">Interactive Maps</span>
     </div>
     <a class="map-callout admin-only" href="../maps/china.html" aria-label="Open the Interactive Map of China">
-      <svg class="map-callout-icon" viewBox="0 0 100 90" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
-        <rect width="100" height="90" fill="#dde8ef" rx="4"/>
-        <path d="M24,11 L31,9 L40,7 L52,6 L63,5 L72,5 L81,7 L88,12 L92,18 L90,25 L85,30 L82,36 L82,44 L79,52 L74,58 L67,62 L60,65 L53,67 L46,67 L39,65 L33,62 L27,57 L22,51 L18,44 L16,37 L17,29 L19,22 Z" fill="#e8dcc8" stroke="#b8a888" stroke-width="1.5"/>
-        <circle cx="75" cy="27" r="3" fill="#2a5c6b" opacity="0.8"/>
-        <circle cx="80" cy="46" r="2.5" fill="#2a5c6b" opacity="0.6"/>
-        <path d="M38,32 C45,30 55,29 63,30 C68,31 72,34 74,38 C72,42 65,44 57,43 C48,42 40,38 38,32Z" fill="none" stroke="#c8a830" stroke-width="1.8" opacity="0.7"/>
-        <text x="50" y="55" text-anchor="middle" font-family="serif" font-size="9" fill="#5a4428" opacity="0.5">中国</text>
-      </svg>
+      ${renderMapCalloutIcon()}
       <div class="map-callout-body">
         <span class="map-callout-label">Interactive · 互动地图</span>
         <span class="map-callout-title">中国地图 · Map of China</span>

@@ -81,6 +81,64 @@ if (!taiwanFeature) { console.warn('Taiwan feature not found — will skip'); }
 const chinaPath  = path(chinaFeature);
 const taiwanPath = taiwanFeature ? path(taiwanFeature) : null;
 
+// ── Icon-scale China silhouette ──────────────────────────────────────────────
+// Generates a small, recognizable China outline for use as a thumbnail/preview
+// (e.g. on the Explore/Browse page's map callout). Same Mercator projection
+// at a smaller scale that fits inside a 100×90 icon viewBox with margin.
+// Mainland + Taiwan as separate paths so the island reads at icon scale.
+const ICON_W = 100, ICON_H = 90;
+const iconProjection = geoMercator()
+  .center([103, 36])
+  .scale(78)             // tuned so China + Taiwan fit with small margin
+  .translate([ICON_W * 0.46, ICON_H * 0.50]);
+
+// Aggressively simplify path output for the icon: round all coordinates to
+// integers (≥ 1px in icon space), and drop any L-segment that doesn't move
+// the cursor by at least 1 unit. Result is recognizable at icon scale and
+// 30–40× smaller than the unsimplified output.
+const rawIconPath = geoPath(iconProjection);
+function simplifyIconPath(d) {
+  if (!d) return '';
+  // d3-geo outputs paths as a series of subpaths each starting with M.
+  // For each subpath: round coords to integers, dedupe consecutive points,
+  // and drop any subpath whose bounding box is smaller than 2×2 px (those
+  // are tiny islands that just look like noise at icon scale).
+  const subpaths = d.match(/M[^M]*/g) || [];
+  return subpaths.map(sp => {
+    const cmds = sp.match(/[MLZ][^MLZ]*/g) || [];
+    const pts = [];
+    let closed = false;
+    for (const cmd of cmds) {
+      const op = cmd[0];
+      if (op === 'Z') { closed = true; continue; }
+      const nums = cmd.slice(1).trim().split(/[\s,]+/).map(Number);
+      for (let i = 0; i < nums.length; i += 2) {
+        pts.push([Math.round(nums[i]), Math.round(nums[i + 1])]);
+      }
+    }
+    if (pts.length < 3) return '';
+    const xs = pts.map(p => p[0]);
+    const ys = pts.map(p => p[1]);
+    if (Math.max(...xs) - Math.min(...xs) < 2 || Math.max(...ys) - Math.min(...ys) < 2) {
+      return ''; // tiny island, skip
+    }
+    // Dedupe consecutive identical rounded points
+    const dedup = [];
+    let lastX = NaN, lastY = NaN;
+    for (const [x, y] of pts) {
+      if (x === lastX && y === lastY) continue;
+      dedup.push([x, y]);
+      lastX = x; lastY = y;
+    }
+    if (dedup.length < 3) return '';
+    return 'M' + dedup[0][0] + ',' + dedup[0][1] +
+           dedup.slice(1).map(p => 'L' + p[0] + ',' + p[1]).join('') +
+           (closed ? 'Z' : '');
+  }).filter(Boolean).join('');
+}
+const iconChinaPath  = simplifyIconPath(rawIconPath(chinaFeature));
+const iconTaiwanPath = taiwanFeature ? simplifyIconPath(rawIconPath(taiwanFeature)) : '';
+
 // ── Extract province features for China ──────────────────────────────────────
 const chinaProvinces = provincesGeo.features.filter(
   f => f.properties.admin === CHINA_NAME || f.properties.adm0_a3 === 'CHN'
@@ -513,6 +571,9 @@ const out = {
   })),
   grandCanalPath,
   projection: PROJECTION_CONFIG,
+  // Icon-scale silhouette for thumbnail/preview use (e.g. map-callout on
+  // Explore page). 100×90 viewBox, same Mercator projection at scale 78.
+  icon: { width: ICON_W, height: ICON_H, chinaPath: iconChinaPath, taiwanPath: iconTaiwanPath },
 };
 const refPath = join(ROOT, 'data/_reference/map-paths.json');
 writeFileSync(refPath, JSON.stringify(out, null, 2));
