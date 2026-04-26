@@ -67,47 +67,26 @@ export function resolveAudioInputs(entry) {
 }
 
 /**
- * Build SSML that forces Microsoft sapi pronunciation per character based on
- * the page's pinyin. This handles polyphonic characters correctly.
+ * Build SSML for the given text + voice. Modern Azure neural voices for
+ * zh-CN read short hanzi sequences correctly from context without phoneme
+ * overrides, and Microsoft's `sapi` alphabet rejects many syllables we'd
+ * try to send (the lookup table is incomplete for some less-common finals).
  *
- * If the syllable count doesn't match the hanzi count, we fall back to
- * letting the TTS engine pick — better to ship correct-sounding default
- * pronunciation than a misaligned phoneme override.
+ * If a specific page has a known polyphonic miss in production, we'll add
+ * a tiny per-page override map later — much smaller blast radius than
+ * trying to phoneme-override the whole corpus.
+ *
+ * `pinyin` is currently unused but kept in the signature so we can swap in
+ * an override path without changing call sites.
  */
 export function buildSsml(text, pinyin, voiceName) {
-  const hanzi = Array.from(text).filter(c => /[一-鿿]/.test(c));
-  const syllables = pinyinToNumericSyllables(pinyin);
-
-  let inner;
-  if (hanzi.length && hanzi.length === syllables.length) {
-    inner = Array.from(text).map(ch => {
-      if (!/[一-鿿]/.test(ch)) return escapeXml(ch);
-      const idx = hanzi.indexOf(ch);
-      // indexOf will find the first occurrence — but we walk through `text`
-      // in order, so we need a positional mapping. Rebuild it:
-      return ''; // replaced below
-    }).join('');
-    // Positional mapping
-    let h = 0;
-    inner = '';
-    for (const ch of text) {
-      if (/[一-鿿]/.test(ch)) {
-        const ph = syllables[h++];
-        inner += `<phoneme alphabet="sapi" ph="${ph}">${escapeXml(ch)}</phoneme>`;
-      } else {
-        inner += escapeXml(ch);
-      }
-    }
-  } else {
-    inner = escapeXml(text);
-  }
-
+  void pinyin; // reserved for future per-syllable overrides
   return (
     `<speak version="1.0" xml:lang="zh-CN" ` +
     `xmlns="http://www.w3.org/2001/10/synthesis" ` +
     `xmlns:mstts="http://www.w3.org/2001/mstts">` +
       `<voice name="${voiceName}">` +
-        `<prosody rate="-8%">${inner}</prosody>` +
+        `<prosody rate="-8%">${escapeXml(text)}</prosody>` +
       `</voice>` +
     `</speak>`
   );
@@ -202,8 +181,11 @@ function stripTags(s) {
 
 /**
  * Synthesize one (text, voice) pair. Returns the MP3 buffer.
+ *
+ * Retries on 429 (Azure F0 free tier throttles to ~20 req/sec); transient
+ * 5xx are retried with exponential backoff. Permanent 4xx errors fail fast.
  */
-async function synthesize(ssml, key, region) {
+async function synthesize(ssml, key, region, attempt = 1) {
   const url = `https://${region}.tts.speech.microsoft.com/cognitiveservices/v1`;
   const res = await fetch(url, {
     method: 'POST',
@@ -215,12 +197,28 @@ async function synthesize(ssml, key, region) {
     },
     body: ssml,
   });
-  if (!res.ok) {
-    const errBody = await res.text().catch(() => '');
-    throw new Error(`Azure TTS ${res.status}: ${res.statusText} — ${errBody.slice(0, 200)}`);
+
+  if (res.ok) {
+    const arrayBuf = await res.arrayBuffer();
+    return Buffer.from(arrayBuf);
   }
-  const arrayBuf = await res.arrayBuffer();
-  return Buffer.from(arrayBuf);
+
+  const transient = res.status === 429 || (res.status >= 500 && res.status < 600);
+  if (transient && attempt <= 5) {
+    const retryAfter = parseInt(res.headers.get('retry-after') || '0', 10);
+    const backoffMs = retryAfter > 0
+      ? retryAfter * 1000
+      : Math.min(8000, 500 * Math.pow(2, attempt - 1));
+    await sleep(backoffMs);
+    return synthesize(ssml, key, region, attempt + 1);
+  }
+
+  const errBody = await res.text().catch(() => '');
+  throw new Error(`Azure TTS ${res.status}: ${res.statusText} — ${errBody.slice(0, 200)}`);
+}
+
+function sleep(ms) {
+  return new Promise(resolve => setTimeout(resolve, ms));
 }
 
 /**
@@ -325,7 +323,15 @@ export async function buildAudio({ root, entries, force = false } = {}) {
 
   console.log(`audio: synthesizing ${todo.length} clip(s) with Azure (${region})…`);
 
+  // Persist manifest periodically so a long synthesis run is resumable.
+  const flushManifest = () =>
+    writeFileSync(manifestPath, JSON.stringify(manifest, null, 2), 'utf8');
+
+  // F0 free tier: 20 transactions/sec. Stay safely under that with ~12 req/sec.
+  const PACE_MS = 80;
+
   let done = 0;
+  let failed = 0;
   for (const job of todo) {
     const { inputs, voice, hash, fileAbs, fileRel } = job;
     const ssml = buildSsml(inputs.text, inputs.pinyin, voice.name);
@@ -345,16 +351,23 @@ export async function buildAudio({ root, entries, force = false } = {}) {
         manifest.entries[job.entry.path].voices[voice.id] = record;
       }
       done++;
-      if (done % 10 === 0) console.log(`  …${done}/${todo.length}`);
+      if (done % 50 === 0) {
+        console.log(`  …${done}/${todo.length}`);
+        flushManifest(); // checkpoint for resumability
+      }
     } catch (err) {
+      failed++;
       const label = job.kind === 'inline' ? `inline:${job.inputs.text}` : job.entry.path;
       console.error(`  ✗ ${label} (${voice.id}): ${err.message}`);
     }
+    await sleep(PACE_MS);
   }
 
-  writeFileSync(manifestPath, JSON.stringify(manifest, null, 2), 'utf8');
-  console.log(`audio: synthesized ${done}/${todo.length} clip(s); manifest written.`);
-  return { synthesized: done, eligible: eligible.length };
+  flushManifest();
+  console.log(`audio: synthesized ${done}/${todo.length} clip(s)` +
+              (failed ? `, ${failed} failed` : '') +
+              `; manifest written.`);
+  return { synthesized: done, failed, eligible: eligible.length };
 }
 
 export { VOICES };
