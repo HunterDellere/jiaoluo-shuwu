@@ -4280,6 +4280,42 @@
           "pinyin": "yǎn"
         }
       }
+    },
+    "pages/characters/yue4_越.html": {
+      "voices": {
+        "xiaoxiao": {
+          "hash": "82d50273cc47",
+          "path": "audio/characters/yue4_越-xiaoxiao.mp3",
+          "bytes": 6912,
+          "text": "越",
+          "pinyin": "yuè"
+        },
+        "yunxi": {
+          "hash": "693664b42674",
+          "path": "audio/characters/yue4_越-yunxi.mp3",
+          "bytes": 9792,
+          "text": "越",
+          "pinyin": "yuè"
+        }
+      }
+    },
+    "pages/vocab/kuayue_跨越.html": {
+      "voices": {
+        "xiaoxiao": {
+          "hash": "405e5aada97d",
+          "path": "audio/vocab/kuayue_跨越-xiaoxiao.mp3",
+          "bytes": 8208,
+          "text": "跨越",
+          "pinyin": "kuàyuè"
+        },
+        "yunxi": {
+          "hash": "f37b81ebf997",
+          "path": "audio/vocab/kuayue_跨越-yunxi.mp3",
+          "bytes": 10512,
+          "text": "跨越",
+          "pinyin": "kuàyuè"
+        }
+      }
     }
   },
   "inline": {
@@ -60014,6 +60050,384 @@
           "bytes": 10224,
           "text": "眼力",
           "pinyin": "yǎnlì"
+        }
+      }
+    },
+    "8e29ed4ec821c2e9": {
+      "text": "越俎代庖",
+      "pinyin": "yuè zǔ dài páo",
+      "kind": "chengyu",
+      "voices": {
+        "xiaoxiao": {
+          "hash": "edf6711f0e3c",
+          "path": "audio/inline/8e29ed4ec821c2e9-xiaoxiao.mp3",
+          "bytes": 10800,
+          "text": "越俎代庖",
+          "pinyin": "yuè zǔ dài páo"
+        },
+        "yunxi": {
+          "hash": "8a5578e1e14d",
+          "path": "audio/inline/8e29ed4ec821c2e9-yunxi.mp3",
+          "bytes": 13104,
+          "text": "越俎代庖",
+          "pinyin": "yuè zǔ dài páo"
+        }
+      }
+    },
+    "c3ff2920d864a8fc": {
+      "text": "越来越好",
+      "pinyin": "yuè lái yuè hǎo",
+      "kind": "chengyu",
+      "voices": {
+        "xiaoxiao": {
+          "hash": "b4ee627747a3",
+          "path": "audio/inline/c3ff2920d864a8fc-xiaoxiao.mp3",
+          "bytes": 10224,
+          "text": "越来越好",
+          "pinyin": "yuè lái yuè hǎo"
+        },
+        "yunxi": {
+          "hash": "87acd5cf9ebf",
+          "path": "audio/inline/c3ff2920d864a8fc-yunxi.mp3",
+          "bytes": 11520,
+          "text": "越来越好",
+          "pinyin": "yuè lái yuè hǎo"
+        }
+      }
+    },
+    "357e3458da076e6c": {
+      "text": "不到长城非好汉",
+      "pinyin": "bú dào chángchéng fēi hǎo hàn",
+      "kind": "chengyu",
+      "voices": {
+        "xiaoxiao": {
+          "hash": "2d30a615d8aa",
+          "path": "audio/inline/357e3458da076e6c-xiaoxiao.mp3",
+          "bytes": 14256,
+          "text": "不到长城非好汉",
+          "pinyin": "bú dào chángchéng fēi hǎo hàn"
+        },
+        "yunxi": {
+          "hash": "4f5af90b1d5f",
+          "path": "audio/inline/357e3458da076e6c-yunxi.mp3",
+          "bytes": 15552,
+          "text": "不到长城非好汉",
+          "pinyin": "bú dào chángchéng fēi hǎo hàn"
+        }
+      }
+    },
+    "bca8c566a99b8b00": {
+      "text": "翻山越岭",
+      "pinyin": "fān shān yuè lǐng",
+      "kind": "chengyu",
+      "voices": {
+        "xiaoxiao": {
+          "hash": "be4edd5d5c77",
+          "path": "audio/inline/bca8c566a99b8b00-xiaoxiao.mp3",
+          "bytes": 10656,
+          "text": "翻山越岭",
+          "pinyin": "fān shān yuè lǐng"
+        },
+        "yunxi": {
+          "hash": "9f2c0a2ad561",
+          "path": "audio/inline/bca8c566a99b8b00-yunxi.mp3",
+          "bytes": 12960,
+          "text": "翻山越岭",
+          "pinyin": "fān shān yuè lǐng"
+        }
+      }
+    },
+    "859e2d2b941a7ae8": {
+      "text": "越陷越深",
+      "pinyin": "yuè xiàn yuè shēn",
+      "kind": "chengyu",
+      "voices": {
+        "xiaoxiao": {
+          "hash": "686e459679a1",
+          "path": "audio/inline/859e2d2b941a7ae8-xiaoxiao.mp3",
+          "bytes": 10944,
+          "text": "越陷越深",
+          "pinyin": "yuè xiàn yuè shēn"
+        },
+        "yunxi": {
+          "hash": "7306e349e776",
+          "path": "audio/inline/859e2d2b941a7ae8-yunxi.mp3",
+          "bytes": 12672,
+          "text": "越陷越深",
+          "pinyin": "yuè xiàn yuè shēn"
+        }
+      }
+    },
+    "895d3bf251bd75f4": {
+      "text": "越过",
+      "pinyin": "yuèguò",
+      "kind": "compound",
+      "voices": {
+        "xiaoxiao": {
+          "hash": "ca2f0a37d14d",
+          "path": "audio/inline/895d3bf251bd75f4-xiaoxiao.mp3",
+          "bytes": 8064,
+          "text": "越过",
+          "pinyin": "yuèguò"
+        },
+        "yunxi": {
+          "hash": "edc26cacac52",
+          "path": "audio/inline/895d3bf251bd75f4-yunxi.mp3",
+          "bytes": 10368,
+          "text": "越过",
+          "pinyin": "yuèguò"
+        }
+      }
+    },
+    "75fc0eb01a88802f": {
+      "text": "跨越",
+      "pinyin": "kuàyuè",
+      "kind": "compound",
+      "voices": {
+        "xiaoxiao": {
+          "hash": "405e5aada97d",
+          "path": "audio/inline/75fc0eb01a88802f-xiaoxiao.mp3",
+          "bytes": 8208,
+          "text": "跨越",
+          "pinyin": "kuàyuè"
+        },
+        "yunxi": {
+          "hash": "f37b81ebf997",
+          "path": "audio/inline/75fc0eb01a88802f-yunxi.mp3",
+          "bytes": 10512,
+          "text": "跨越",
+          "pinyin": "kuàyuè"
+        }
+      }
+    },
+    "775abacfaf6b80a7": {
+      "text": "翻越",
+      "pinyin": "fānyuè",
+      "kind": "compound",
+      "voices": {
+        "xiaoxiao": {
+          "hash": "b091630cfe19",
+          "path": "audio/inline/775abacfaf6b80a7-xiaoxiao.mp3",
+          "bytes": 8208,
+          "text": "翻越",
+          "pinyin": "fānyuè"
+        },
+        "yunxi": {
+          "hash": "9345a78a54a9",
+          "path": "audio/inline/775abacfaf6b80a7-yunxi.mp3",
+          "bytes": 10368,
+          "text": "翻越",
+          "pinyin": "fānyuè"
+        }
+      }
+    },
+    "c63f2b1adf8661ac": {
+      "text": "超越",
+      "pinyin": "chāoyuè",
+      "kind": "compound",
+      "voices": {
+        "xiaoxiao": {
+          "hash": "0cc79322f4db",
+          "path": "audio/inline/c63f2b1adf8661ac-xiaoxiao.mp3",
+          "bytes": 8496,
+          "text": "超越",
+          "pinyin": "chāoyuè"
+        },
+        "yunxi": {
+          "hash": "512841462c53",
+          "path": "audio/inline/c63f2b1adf8661ac-yunxi.mp3",
+          "bytes": 11232,
+          "text": "超越",
+          "pinyin": "chāoyuè"
+        }
+      }
+    },
+    "b6932a5be2435fa2": {
+      "text": "穿越",
+      "pinyin": "chuānyuè",
+      "kind": "compound",
+      "voices": {
+        "xiaoxiao": {
+          "hash": "d13765743b1e",
+          "path": "audio/inline/b6932a5be2435fa2-xiaoxiao.mp3",
+          "bytes": 8208,
+          "text": "穿越",
+          "pinyin": "chuānyuè"
+        },
+        "yunxi": {
+          "hash": "3d4d862d51e6",
+          "path": "audio/inline/b6932a5be2435fa2-yunxi.mp3",
+          "bytes": 10800,
+          "text": "穿越",
+          "pinyin": "chuānyuè"
+        }
+      }
+    },
+    "3a5c92e22888f412": {
+      "text": "越权",
+      "pinyin": "yuèquán",
+      "kind": "compound",
+      "voices": {
+        "xiaoxiao": {
+          "hash": "99e60f8758d8",
+          "path": "audio/inline/3a5c92e22888f412-xiaoxiao.mp3",
+          "bytes": 8496,
+          "text": "越权",
+          "pinyin": "yuèquán"
+        },
+        "yunxi": {
+          "hash": "147371d1f31c",
+          "path": "audio/inline/3a5c92e22888f412-yunxi.mp3",
+          "bytes": 11088,
+          "text": "越权",
+          "pinyin": "yuèquán"
+        }
+      }
+    },
+    "247851265afacde5": {
+      "text": "越来越",
+      "pinyin": "yuè lái yuè",
+      "kind": "compound",
+      "voices": {
+        "xiaoxiao": {
+          "hash": "fdabfb1f5113",
+          "path": "audio/inline/247851265afacde5-xiaoxiao.mp3",
+          "bytes": 9072,
+          "text": "越来越",
+          "pinyin": "yuè lái yuè"
+        },
+        "yunxi": {
+          "hash": "c073e3649b91",
+          "path": "audio/inline/247851265afacde5-yunxi.mp3",
+          "bytes": 10656,
+          "text": "越来越",
+          "pinyin": "yuè lái yuè"
+        }
+      }
+    },
+    "89ab9495a52aac7d": {
+      "text": "越…越…",
+      "pinyin": "yuè … yuè …",
+      "kind": "compound",
+      "voices": {
+        "xiaoxiao": {
+          "hash": "dffcd0312c0e",
+          "path": "audio/inline/89ab9495a52aac7d-xiaoxiao.mp3",
+          "bytes": 10656,
+          "text": "越…越…",
+          "pinyin": "yuè … yuè …"
+        },
+        "yunxi": {
+          "hash": "e0d2a237444d",
+          "path": "audio/inline/89ab9495a52aac7d-yunxi.mp3",
+          "bytes": 13104,
+          "text": "越…越…",
+          "pinyin": "yuè … yuè …"
+        }
+      }
+    },
+    "297d373e169d4de6": {
+      "text": "\"可以从太空看见\"",
+      "pinyin": "kěyǐ cóng tàikōng kànjiàn",
+      "kind": "compound",
+      "voices": {
+        "xiaoxiao": {
+          "hash": "fb17db94d8b8",
+          "path": "audio/inline/297d373e169d4de6-xiaoxiao.mp3",
+          "bytes": 13536,
+          "text": "\"可以从太空看见\"",
+          "pinyin": "kěyǐ cóng tàikōng kànjiàn"
+        },
+        "yunxi": {
+          "hash": "3be56a7c72f6",
+          "path": "audio/inline/297d373e169d4de6-yunxi.mp3",
+          "bytes": 15120,
+          "text": "\"可以从太空看见\"",
+          "pinyin": "kěyǐ cóng tàikōng kànjiàn"
+        }
+      }
+    },
+    "0cad1476bce2f2cd": {
+      "text": "\"秦始皇修了长城\"",
+      "pinyin": "qín shǐhuáng xiū le chángchéng",
+      "kind": "compound",
+      "voices": {
+        "xiaoxiao": {
+          "hash": "830267ef07a1",
+          "path": "audio/inline/0cad1476bce2f2cd-xiaoxiao.mp3",
+          "bytes": 14400,
+          "text": "\"秦始皇修了长城\"",
+          "pinyin": "qín shǐhuáng xiū le chángchéng"
+        },
+        "yunxi": {
+          "hash": "647cb74e184d",
+          "path": "audio/inline/0cad1476bce2f2cd-yunxi.mp3",
+          "bytes": 16272,
+          "text": "\"秦始皇修了长城\"",
+          "pinyin": "qín shǐhuáng xiū le chángchéng"
+        }
+      }
+    },
+    "ae363ccd9fd6f541": {
+      "text": "\"一道连续的墙\"",
+      "pinyin": "yī dào liánxù de qiáng",
+      "kind": "compound",
+      "voices": {
+        "xiaoxiao": {
+          "hash": "f36c18ac5769",
+          "path": "audio/inline/ae363ccd9fd6f541-xiaoxiao.mp3",
+          "bytes": 12672,
+          "text": "\"一道连续的墙\"",
+          "pinyin": "yī dào liánxù de qiáng"
+        },
+        "yunxi": {
+          "hash": "3add7a9ff0db",
+          "path": "audio/inline/ae363ccd9fd6f541-yunxi.mp3",
+          "bytes": 14400,
+          "text": "\"一道连续的墙\"",
+          "pinyin": "yī dào liánxù de qiáng"
+        }
+      }
+    },
+    "800b9c566dffc84f": {
+      "text": "\"骸骨筑入墙内\"",
+      "pinyin": "háigǔ zhù rù qiáng nèi",
+      "kind": "compound",
+      "voices": {
+        "xiaoxiao": {
+          "hash": "319a5451e2b0",
+          "path": "audio/inline/800b9c566dffc84f-xiaoxiao.mp3",
+          "bytes": 12672,
+          "text": "\"骸骨筑入墙内\"",
+          "pinyin": "háigǔ zhù rù qiáng nèi"
+        },
+        "yunxi": {
+          "hash": "6297b3fa09e8",
+          "path": "audio/inline/800b9c566dffc84f-yunxi.mp3",
+          "bytes": 14400,
+          "text": "\"骸骨筑入墙内\"",
+          "pinyin": "háigǔ zhù rù qiáng nèi"
+        }
+      }
+    },
+    "991fd7d760bac36d": {
+      "text": "跨越式",
+      "pinyin": "kuàyuè shì",
+      "kind": "compound",
+      "voices": {
+        "xiaoxiao": {
+          "hash": "3d629fd2723c",
+          "path": "audio/inline/991fd7d760bac36d-xiaoxiao.mp3",
+          "bytes": 9504,
+          "text": "跨越式",
+          "pinyin": "kuàyuè shì"
+        },
+        "yunxi": {
+          "hash": "707d0c3c6504",
+          "path": "audio/inline/991fd7d760bac36d-yunxi.mp3",
+          "bytes": 11088,
+          "text": "跨越式",
+          "pinyin": "kuàyuè shì"
         }
       }
     }
