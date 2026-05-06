@@ -629,6 +629,21 @@
     ],
     "hasPage": true
   },
+  "走": {
+    "cn": "走",
+    "py": "zǒu",
+    "en": "to walk",
+    "count": 6,
+    "appearsOn": [
+      "pages/characters/jiao3_脚.html",
+      "pages/characters/lu4_路.html",
+      "pages/characters/qu4_去.html",
+      "pages/characters/xing2_行.html",
+      "pages/characters/yue4_越.html",
+      "pages/grammar/directional_来去.html"
+    ],
+    "hasPage": true
+  },
   "祖先": {
     "cn": "祖先",
     "py": "zǔxiān",
@@ -711,6 +726,20 @@
       "pages/vocab/shehui_社会.html",
       "pages/vocab/wenhua_文化.html",
       "pages/vocab/zhongguo_中国.html"
+    ],
+    "hasPage": true
+  },
+  "过": {
+    "cn": "过",
+    "py": "guò",
+    "en": "to pass; to cross (everyday)",
+    "count": 5,
+    "appearsOn": [
+      "pages/characters/yue4_越.html",
+      "pages/grammar/de_的得地.html",
+      "pages/grammar/le_了.html",
+      "pages/grammar/zhe_着.html",
+      "pages/vocab/zhengzai_正在.html"
     ],
     "hasPage": true
   },
@@ -840,6 +869,20 @@
     ],
     "hasPage": true
   },
+  "丝绸之路": {
+    "cn": "丝绸之路",
+    "py": "Sīchóu zhī Lù",
+    "en": "Silk Road",
+    "count": 5,
+    "appearsOn": [
+      "pages/characters/xi1_西.html",
+      "pages/history/topic_changcheng.html",
+      "pages/history/topic_handai.html",
+      "pages/religion/topic_yisilan.html",
+      "pages/vocab/changjian_长城.html"
+    ],
+    "hasPage": true
+  },
   "天地": {
     "cn": "天地",
     "py": "tiāndì",
@@ -910,17 +953,17 @@
     ],
     "hasPage": true
   },
-  "走": {
-    "cn": "走",
-    "py": "zǒu",
-    "en": "to walk",
+  "长城": {
+    "cn": "长城",
+    "py": "Chángchéng",
+    "en": "Great Wall",
     "count": 5,
     "appearsOn": [
-      "pages/characters/jiao3_脚.html",
-      "pages/characters/lu4_路.html",
-      "pages/characters/qu4_去.html",
-      "pages/characters/xing2_行.html",
-      "pages/grammar/directional_来去.html"
+      "pages/characters/bei3_北.html",
+      "pages/characters/chang2_长.html",
+      "pages/characters/yue4_越.html",
+      "pages/history/topic_mingchao.html",
+      "pages/vocab/kuayue_跨越.html"
     ],
     "hasPage": true
   },
@@ -1038,19 +1081,6 @@
       "pages/vocab/guojia_国家.html",
       "pages/vocab/jiangshan_江山.html",
       "pages/vocab/zhongguo_中国.html"
-    ],
-    "hasPage": true
-  },
-  "过": {
-    "cn": "过",
-    "py": "guò",
-    "en": "experiential aspect marker",
-    "count": 4,
-    "appearsOn": [
-      "pages/grammar/de_的得地.html",
-      "pages/grammar/le_了.html",
-      "pages/grammar/zhe_着.html",
-      "pages/vocab/zhengzai_正在.html"
     ],
     "hasPage": true
   },
@@ -1236,6 +1266,19 @@
     ],
     "hasPage": true
   },
+  "秦朝": {
+    "cn": "秦朝",
+    "py": "Qín cháo",
+    "en": "the Qin dynasty (221–206 BCE)",
+    "count": 4,
+    "appearsOn": [
+      "pages/history/topic_changcheng.html",
+      "pages/history/topic_handai.html",
+      "pages/history/topic_zhoudai.html",
+      "pages/vocab/changjian_长城.html"
+    ],
+    "hasPage": false
+  },
   "山": {
     "cn": "山",
     "py": "shān",
@@ -1272,19 +1315,6 @@
       "pages/characters/kou3_口.html",
       "pages/characters/yan2_言.html",
       "pages/characters/yu3_语.html"
-    ],
-    "hasPage": true
-  },
-  "丝绸之路": {
-    "cn": "丝绸之路",
-    "py": "Sīchóu zhī Lù",
-    "en": "Silk Road",
-    "count": 4,
-    "appearsOn": [
-      "pages/characters/xi1_西.html",
-      "pages/history/topic_handai.html",
-      "pages/religion/topic_yisilan.html",
-      "pages/vocab/changjian_长城.html"
     ],
     "hasPage": true
   },
@@ -1844,6 +1874,18 @@
     ],
     "hasPage": false
   },
+  "明朝": {
+    "cn": "明朝",
+    "py": "Míng cháo",
+    "en": "the Ming dynasty (1368–1644)",
+    "count": 3,
+    "appearsOn": [
+      "pages/history/topic_changcheng.html",
+      "pages/history/topic_mingchao.html",
+      "pages/vocab/changjian_长城.html"
+    ],
+    "hasPage": true
+  },
   "南": {
     "cn": "南",
     "py": "nán",
@@ -1889,18 +1931,6 @@
       "pages/arts/topic_shanshui.html",
       "pages/arts/topic_shufa_styles.html",
       "pages/vocab/shanshuihua_山水画.html"
-    ],
-    "hasPage": false
-  },
-  "秦朝": {
-    "cn": "秦朝",
-    "py": "Qíncháo",
-    "en": "Qin dynasty",
-    "count": 3,
-    "appearsOn": [
-      "pages/history/topic_handai.html",
-      "pages/history/topic_zhoudai.html",
-      "pages/vocab/changjian_长城.html"
     ],
     "hasPage": false
   },
@@ -2059,6 +2089,18 @@
       "pages/characters/yi1_一.html"
     ],
     "hasPage": true
+  },
+  "万里": {
+    "cn": "万里",
+    "py": "wànlǐ",
+    "en": "vast distance; ten thousand li",
+    "count": 3,
+    "appearsOn": [
+      "pages/characters/wan4_万.html",
+      "pages/history/topic_changcheng.html",
+      "pages/vocab/changjian_长城.html"
+    ],
+    "hasPage": false
   },
   "万物": {
     "cn": "万物",
@@ -2252,15 +2294,15 @@
     ],
     "hasPage": true
   },
-  "长城": {
-    "cn": "长城",
-    "py": "Chángchéng",
-    "en": "Great Wall",
+  "越来越": {
+    "cn": "越来越",
+    "py": "yuèláiyuè",
+    "en": "more and more",
     "count": 3,
     "appearsOn": [
-      "pages/characters/bei3_北.html",
-      "pages/characters/chang2_长.html",
-      "pages/history/topic_mingchao.html"
+      "pages/characters/geng4_更.html",
+      "pages/characters/yue4_越.html",
+      "pages/vocab/bijiao_比较.html"
     ],
     "hasPage": true
   },
@@ -2609,6 +2651,17 @@
     ],
     "hasPage": false
   },
+  "边关": {
+    "cn": "边关",
+    "py": "biānguān",
+    "en": "border pass; frontier checkpoint",
+    "count": 2,
+    "appearsOn": [
+      "pages/history/topic_changcheng.html",
+      "pages/vocab/changjian_长城.html"
+    ],
+    "hasPage": false
+  },
   "变": {
     "cn": "变",
     "py": "biàn",
@@ -2708,6 +2761,17 @@
     ],
     "hasPage": false
   },
+  "超越": {
+    "cn": "超越",
+    "py": "chāoyuè",
+    "en": "to surpass; to exceed",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/yue4_越.html",
+      "pages/vocab/kuayue_跨越.html"
+    ],
+    "hasPage": false
+  },
   "朝代": {
     "cn": "朝代",
     "py": "cháodài",
@@ -2741,6 +2805,17 @@
     ],
     "hasPage": false
   },
+  "城": {
+    "cn": "城",
+    "py": "chéng",
+    "en": "city; city wall",
+    "count": 2,
+    "appearsOn": [
+      "pages/history/topic_changcheng.html",
+      "pages/vocab/changjian_长城.html"
+    ],
+    "hasPage": false
+  },
   "丑": {
     "cn": "丑",
     "py": "chǒu",
@@ -2760,6 +2835,17 @@
     "appearsOn": [
       "pages/characters/chu1_出.html",
       "pages/characters/jian4_见.html"
+    ],
+    "hasPage": false
+  },
+  "穿越": {
+    "cn": "穿越",
+    "py": "chuānyuè",
+    "en": "to pass through; to time-travel (fiction)",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/yue4_越.html",
+      "pages/vocab/kuayue_跨越.html"
     ],
     "hasPage": false
   },
@@ -3046,6 +3132,17 @@
     "appearsOn": [
       "pages/characters/shi2_时.html",
       "pages/vocab/shijian_时间.html"
+    ],
+    "hasPage": false
+  },
+  "烽火台": {
+    "cn": "烽火台",
+    "py": "fēnghuǒtái",
+    "en": "beacon tower; signal-fire platform",
+    "count": 2,
+    "appearsOn": [
+      "pages/history/topic_changcheng.html",
+      "pages/vocab/changjian_长城.html"
     ],
     "hasPage": false
   },
@@ -3709,6 +3806,28 @@
     ],
     "hasPage": true
   },
+  "跨": {
+    "cn": "跨",
+    "py": "kuà",
+    "en": "to stride; to span",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/yue4_越.html",
+      "pages/vocab/kuayue_跨越.html"
+    ],
+    "hasPage": false
+  },
+  "跨越": {
+    "cn": "跨越",
+    "py": "kuàyuè",
+    "en": "to leap across; to span; to transcend",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/yue4_越.html",
+      "pages/history/topic_changcheng.html"
+    ],
+    "hasPage": true
+  },
   "快": {
     "cn": "快",
     "py": "kuài",
@@ -3915,17 +4034,6 @@
     "appearsOn": [
       "pages/characters/bai2_白.html",
       "pages/vocab/shenming_神明.html"
-    ],
-    "hasPage": true
-  },
-  "明朝": {
-    "cn": "明朝",
-    "py": "Míngcháo",
-    "en": "Ming dynasty (1368–1644)",
-    "count": 2,
-    "appearsOn": [
-      "pages/history/topic_mingchao.html",
-      "pages/vocab/changjian_长城.html"
     ],
     "hasPage": true
   },
@@ -4578,17 +4686,6 @@
     ],
     "hasPage": false
   },
-  "万里": {
-    "cn": "万里",
-    "py": "wànlǐ",
-    "en": "vast distance; ten thousand li",
-    "count": 2,
-    "appearsOn": [
-      "pages/characters/wan4_万.html",
-      "pages/vocab/changjian_长城.html"
-    ],
-    "hasPage": false
-  },
   "万一": {
     "cn": "万一",
     "py": "wànyī",
@@ -4842,6 +4939,17 @@
     ],
     "hasPage": false
   },
+  "匈奴": {
+    "cn": "匈奴",
+    "py": "Xiōngnú",
+    "en": "the Xiongnu; northern nomadic confederation",
+    "count": 2,
+    "appearsOn": [
+      "pages/history/topic_changcheng.html",
+      "pages/vocab/changjian_长城.html"
+    ],
+    "hasPage": false
+  },
   "需要": {
     "cn": "需要",
     "py": "xūyào",
@@ -5083,14 +5191,14 @@
     ],
     "hasPage": false
   },
-  "越来越": {
-    "cn": "越来越",
-    "py": "yuèláiyuè",
-    "en": "more and more",
+  "越": {
+    "cn": "越",
+    "py": "yuè",
+    "en": "to cross; to surpass",
     "count": 2,
     "appearsOn": [
-      "pages/characters/geng4_更.html",
-      "pages/vocab/bijiao_比较.html"
+      "pages/history/topic_changcheng.html",
+      "pages/vocab/kuayue_跨越.html"
     ],
     "hasPage": true
   },
@@ -5148,6 +5256,17 @@
       "pages/chengyu/wangyangbuao_亡羊补牢.html"
     ],
     "hasPage": false
+  },
+  "长": {
+    "cn": "长",
+    "py": "cháng",
+    "en": "long; length",
+    "count": 2,
+    "appearsOn": [
+      "pages/history/topic_changcheng.html",
+      "pages/vocab/changjian_长城.html"
+    ],
+    "hasPage": true
   },
   "长辈": {
     "cn": "长辈",
@@ -5878,16 +5997,6 @@
     ],
     "hasPage": false
   },
-  "边关": {
-    "cn": "边关",
-    "py": "biānguān",
-    "en": "border pass; frontier checkpoint",
-    "count": 1,
-    "appearsOn": [
-      "pages/vocab/changjian_长城.html"
-    ],
-    "hasPage": false
-  },
   "边角料": {
     "cn": "边角料",
     "py": "biānjiǎoliào",
@@ -6535,16 +6644,6 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/xin4_信.html"
-    ],
-    "hasPage": false
-  },
-  "城": {
-    "cn": "城",
-    "py": "chéng",
-    "en": "city; city wall",
-    "count": 1,
-    "appearsOn": [
-      "pages/vocab/changjian_长城.html"
     ],
     "hasPage": false
   },
@@ -7918,6 +8017,16 @@
     ],
     "hasPage": false
   },
+  "发展": {
+    "cn": "发展",
+    "py": "fāzhǎn",
+    "en": "development; to develop",
+    "count": 1,
+    "appearsOn": [
+      "pages/vocab/kuayue_跨越.html"
+    ],
+    "hasPage": false
+  },
   "法": {
     "cn": "法",
     "py": "fǎ",
@@ -7945,6 +8054,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/du2_读.html"
+    ],
+    "hasPage": false
+  },
+  "翻越": {
+    "cn": "翻越",
+    "py": "fānyuè",
+    "en": "to climb over (especially mountains)",
+    "count": 1,
+    "appearsOn": [
+      "pages/vocab/kuayue_跨越.html"
     ],
     "hasPage": false
   },
@@ -8145,16 +8264,6 @@
     "count": 1,
     "appearsOn": [
       "pages/history/topic_zhoudai.html"
-    ],
-    "hasPage": false
-  },
-  "烽火台": {
-    "cn": "烽火台",
-    "py": "fēnghuǒtái",
-    "en": "beacon tower; signal fire platform",
-    "count": 1,
-    "appearsOn": [
-      "pages/vocab/changjian_长城.html"
     ],
     "hasPage": false
   },
@@ -9398,6 +9507,16 @@
     ],
     "hasPage": false
   },
+  "鸿沟": {
+    "cn": "鸿沟",
+    "py": "hónggōu",
+    "en": "a great divide; chasm",
+    "count": 1,
+    "appearsOn": [
+      "pages/vocab/kuayue_跨越.html"
+    ],
+    "hasPage": false
+  },
   "后": {
     "cn": "后",
     "py": "hòu",
@@ -10085,6 +10204,16 @@
     "count": 1,
     "appearsOn": [
       "pages/vocab/jiangshan_江山.html"
+    ],
+    "hasPage": false
+  },
+  "嘉峪关": {
+    "cn": "嘉峪关",
+    "py": "Jiāyùguān",
+    "en": "Jiayu Pass — western terminus of the Ming wall",
+    "count": 1,
+    "appearsOn": [
+      "pages/history/topic_changcheng.html"
     ],
     "hasPage": false
   },
@@ -12318,6 +12447,16 @@
     ],
     "hasPage": false
   },
+  "孟姜女": {
+    "cn": "孟姜女",
+    "py": "Mèng Jiāngnǚ",
+    "en": "Meng Jiangnu (the wall-weeping legend)",
+    "count": 1,
+    "appearsOn": [
+      "pages/history/topic_changcheng.html"
+    ],
+    "hasPage": false
+  },
   "梦": {
     "cn": "梦",
     "py": "mèng",
@@ -13408,6 +13547,16 @@
     ],
     "hasPage": false
   },
+  "桥梁": {
+    "cn": "桥梁",
+    "py": "qiáoliáng",
+    "en": "bridge; bridging structure",
+    "count": 1,
+    "appearsOn": [
+      "pages/vocab/kuayue_跨越.html"
+    ],
+    "hasPage": false
+  },
   "瞧": {
     "cn": "瞧",
     "py": "qiáo",
@@ -14105,6 +14254,16 @@
     "count": 1,
     "appearsOn": [
       "pages/vocab/fengshui_风水.html"
+    ],
+    "hasPage": false
+  },
+  "山海关": {
+    "cn": "山海关",
+    "py": "Shānhǎiguān",
+    "en": "Shanhai Pass — eastern terminus of the Ming wall",
+    "count": 1,
+    "appearsOn": [
+      "pages/history/topic_changcheng.html"
     ],
     "hasPage": false
   },
@@ -17488,16 +17647,6 @@
     ],
     "hasPage": false
   },
-  "匈奴": {
-    "cn": "匈奴",
-    "py": "Xiōngnú",
-    "en": "the Xiongnu; northern nomadic confederation",
-    "count": 1,
-    "appearsOn": [
-      "pages/vocab/changjian_长城.html"
-    ],
-    "hasPage": false
-  },
   "熊猫": {
     "cn": "熊猫",
     "py": "xióngmāo",
@@ -18968,6 +19117,36 @@
     ],
     "hasPage": false
   },
+  "越过": {
+    "cn": "越过",
+    "py": "yuèguò",
+    "en": "to cross over (everyday)",
+    "count": 1,
+    "appearsOn": [
+      "pages/vocab/kuayue_跨越.html"
+    ],
+    "hasPage": false
+  },
+  "越界": {
+    "cn": "越界",
+    "py": "yuèjiè",
+    "en": "to cross a boundary; to overstep",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/yue4_越.html"
+    ],
+    "hasPage": false
+  },
+  "越南": {
+    "cn": "越南",
+    "py": "Yuènán",
+    "en": "Vietnam (lit. \"south of Yue\")",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/yue4_越.html"
+    ],
+    "hasPage": false
+  },
   "韵律": {
     "cn": "韵律",
     "py": "yùnlǜ",
@@ -19237,16 +19416,6 @@
       "pages/arts/topic_shufa_styles.html"
     ],
     "hasPage": false
-  },
-  "长": {
-    "cn": "长",
-    "py": "cháng",
-    "en": "long; length",
-    "count": 1,
-    "appearsOn": [
-      "pages/vocab/changjian_长城.html"
-    ],
-    "hasPage": true
   },
   "长安": {
     "cn": "长安",
