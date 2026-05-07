@@ -281,11 +281,13 @@ export function autoLinkBody(body, linkMap, currentEntry) {
  * Wrap pinyin spans with a clickable audio trigger.
  *
  * - Character pages: button injected inside <div class="hero-pinyin">.
- * - Vocab pages: button injected after <span class="topic-hero-title-py">.
+ * - Vocab / topic / grammar pages: button injected after
+ *   <span class="topic-hero-title-py"> when the title's CN portion is a
+ *   single pronounceable utterance and pinyin is set. Pages whose CN title
+ *   or pinyin contain split markers ("/", "…") are skipped — they cover
+ *   multiple readings or constructions that don't render as one clip.
  *
- * Topic / grammar / hub / family pages skipped — their titles aren't always
- * pronounceable Chinese phrases (English topic names, particles with multiple
- * readings, etc.).
+ * Hub / family / hsk pages are aggregate views and remain skipped.
  *
  * Markup emitted:
  *   <button type="button" class="audio-btn" data-audio="感" data-pinyin="gǎn"
@@ -301,8 +303,8 @@ export function addPinyinAudio(body, fm) {
   if (fm.type === 'character' && fm.char) {
     return addCharacterAudio(body, fm);
   }
-  if (fm.type === 'vocab') {
-    return addVocabAudio(body, fm);
+  if (fm.type === 'vocab' || fm.type === 'topic' || fm.type === 'grammar') {
+    return addTopicHeroAudio(body, fm);
   }
   return body;
 }
@@ -319,10 +321,12 @@ function addCharacterAudio(body, fm) {
   return body;
 }
 
-function addVocabAudio(body, fm) {
-  // Vocab text is the CN portion of the title ("茶道 · the way of tea" → "茶道").
+function addTopicHeroAudio(body, fm) {
+  // CN portion of the title ("茶道 · the way of tea" → "茶道").
   const cn = fm.title ? fm.title.split('·')[0].trim() : '';
   if (!cn || !/[一-鿿]/.test(cn) || !fm.pinyin) return body;
+  // Skip pages with split readings/constructions in title or pinyin.
+  if (/[\/…]/.test(cn) || /[\/…]/.test(fm.pinyin)) return body;
 
   // Insert immediately after the closing </span> of topic-hero-title-py.
   const before = body;
@@ -330,8 +334,7 @@ function addVocabAudio(body, fm) {
     /(<span class="topic-hero-title-py">[\s\S]*?<\/span>)/,
     (m) => `${m}${buildAudioButton(cn, fm.pinyin)}`,
   );
-  // Silently no-op if the page has no topic-hero-title-py (e.g. an unusual
-  // hand-authored vocab hero) — don't fail the build.
+  // No-op if the page has no topic-hero-title-py (unusual hand-authored hero).
   return body === before ? body : body;
 }
 

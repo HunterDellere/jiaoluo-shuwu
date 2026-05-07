@@ -30,17 +30,24 @@ const RENDER_VERSION = 1;
 
 /**
  * Decide whether an entry should have audio.
- * Currently: characters (single hanzi) and vocab (multi-hanzi words).
- * Topics, grammar, hubs, families, hsk: skipped — their titles aren't always
- * pronounceable Chinese phrases, and the page's "subject" is conceptual.
+ * - characters: any complete entry with char + pinyin
+ * - vocab / topic / grammar: any complete entry whose title CN portion is
+ *   pronounceable as a single utterance (hanzi present, no split markers
+ *   like "/" or "…" in either the title CN or the pinyin)
+ *
+ * Hubs, families, hsk: skipped — these are aggregate pages, not single
+ * pronounceable subjects.
  */
 export function isAudioEligible(entry) {
   if (entry.status !== 'complete') return false;
   if (entry.type === 'character' && entry.char && entry.pinyin) return true;
-  if (entry.type === 'vocab' && entry.pinyin) {
-    // vocab entries derive their text from the title's CN portion
+  if ((entry.type === 'vocab' || entry.type === 'topic' || entry.type === 'grammar') && entry.pinyin) {
     const cn = extractCnFromTitle(entry.title);
-    return Boolean(cn);
+    if (!cn) return false;
+    // Skip pages whose subject covers multiple readings or constructions —
+    // not a single utterance the TTS can render cleanly.
+    if (/[\/…]/.test(cn) || /[\/…]/.test(entry.pinyin)) return false;
+    return true;
   }
   return false;
 }
@@ -60,7 +67,7 @@ export function resolveAudioInputs(entry) {
   if (entry.type === 'character') {
     return { text: entry.char, pinyin: entry.pinyin };
   }
-  if (entry.type === 'vocab') {
+  if (entry.type === 'vocab' || entry.type === 'topic' || entry.type === 'grammar') {
     return { text: extractCnFromTitle(entry.title), pinyin: entry.pinyin };
   }
   return null;

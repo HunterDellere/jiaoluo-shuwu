@@ -410,10 +410,10 @@ Playback uses pre-rendered Azure Neural TTS clips committed to `audio/`. Two voi
 ### What gets audio
 
 - **Character pages** (hero pinyin) — single hanzi, SSML `<phoneme alphabet="sapi">` forces the page's intended reading for polyphonic characters using frontmatter `pinyin`.
-- **Vocab + chengyu pages** (button injected after `topic-hero-title-py`) — uses the title's CN portion + frontmatter `pinyin`.
+- **Vocab / topic / grammar pages** (button injected after `topic-hero-title-py`) — uses the title's CN portion + frontmatter `pinyin`. Pages whose title CN or pinyin contain split markers (`/`, `…`) are skipped because they cover multiple readings or constructions that don't render as a single clip (e.g. `de / dé / dì`, `连…都/也`).
 - **Inline cards** — `.cy` chengyu cards and `.card` vocab compound cards within any page get a compact `.audio-btn--inline` button. These resolve through the manifest's `inline` section (content-hashed by text+pinyin so duplicate phrases across pages share one MP3).
 
-Topic / grammar / hub / family / hsk page heroes are skipped — the title isn't always a pronounceable Chinese phrase. Inline cards on those pages still get buttons.
+Hub / family / hsk page heroes are skipped — they are aggregate pages, not single pronounceable subjects. Inline cards on those pages still get buttons.
 
 ### Build pipeline
 
