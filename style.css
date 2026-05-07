@@ -1454,7 +1454,7 @@ tbody tr:hover td { background: var(--papyrus-2); }
 .pn-meta { display: flex; flex-direction: column; gap: 0.1rem; min-width: 0; }
 .pn-label {
   font-family: var(--font-mono);
-  font-size: 0.55rem;
+  font-size: 0.62rem;
   letter-spacing: 0.18em;
   text-transform: uppercase;
   color: var(--ink-5);
@@ -1894,7 +1894,7 @@ a.pf-btn-share:focus-visible, button.pf-btn-share:focus-visible {
 }
 .stub-chip {
   font-family: var(--font-mono);
-  font-size: 0.55rem;
+  font-size: 0.62rem;
   letter-spacing: 0.12em;
   text-transform: uppercase;
   padding: 0.15rem 0.5rem;
@@ -2456,7 +2456,7 @@ a.pf-btn-share:focus-visible, button.pf-btn-share:focus-visible {
   /* Hide chrome */
   .topnav, .reading-progress, .toc-toggle, .sidebar,
   .back-to-top, .audio-btn, .stroke-order, .prev-next,
-  .related, .footer-back, .skip-link,
+  .related, .footer-back, .skip-link, .theme-toggle,
   .filter-bar, .filter-suggest, .no-results,
   .start-here-section, .recent-section, .legend-section, .colophon,
   .hero-ctas, .index-stats {
@@ -2832,7 +2832,14 @@ body[data-category="hubs"] { --seal-color: var(--cat-hubs); }
  * the pin to origin). The inner <g class="map-pin-scale"> is what scales,
  * and pin-ring opacity grows on hover for a subtle halo without resizing
  * the hit target. */
-.map-pin { cursor: pointer; outline: none; }
+.map-pin { cursor: pointer; }
+.map-pin:focus-visible { outline: none; }
+/* Forced-colors / Windows High Contrast: the visible focus halo from the
+ * scale + drop-shadow trick is filtered out by the OS. Fall back to a
+ * regular outline so keyboard users keep their indicator. */
+@media (forced-colors: active) {
+  .map-pin:focus-visible { outline: 2px solid CanvasText; outline-offset: 2px; }
+}
 .map-pin .map-pin-scale {
   transform-box: fill-box;
   transform-origin: center;
@@ -3212,6 +3219,9 @@ html[data-admin="1"] .admin-indicator { display: inline-block; }
 }
 .theme-toggle .tt-sun  { display: inline; line-height: 1; }
 .theme-toggle .tt-moon { display: none;   line-height: 1; }
+@media (prefers-reduced-motion: reduce) {
+  .theme-toggle:hover { transform: none; }
+}
 
 /* ── Dark token overrides ─────────────────────────────────── */
 /* Shared variable block used by both activation paths below. */
