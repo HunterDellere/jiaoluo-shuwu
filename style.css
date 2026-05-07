@@ -152,6 +152,12 @@
   --fs-display-4:  5.5rem;
   --fs-display-5:  7.5rem;
 
+  /* Letter-spacing scale for the small-mono-uppercase "eyebrow" labels.
+     The eight existing eyebrow-style rules previously drifted across
+     0.18 / 0.2 / 0.22 / 0.24em; they collapse to these two steps. */
+  --tracking-eyebrow:       0.18em;
+  --tracking-eyebrow-loose: 0.22em;
+
   /* Per-category accent palette */
   /* Category palette — two families.
      Language: warm ink/pigment tones (红 cinnabar → 褐 umber). These four
@@ -219,6 +225,24 @@ html { scroll-behavior: smooth; }
 html {
   hanging-punctuation: first allow-end last;
   text-rendering: optimizeLegibility;
+}
+
+/* ── EYEBROW LABELS (shared base) ────────────────────────────
+   The "small mono uppercase tracked" label pattern recurs across
+   the site (TOC, scholar boxes, prev-next, sources, family stats,
+   stroke-order, topic hero eyebrow, note labels). They share these
+   three properties; per-component rules below declare only what
+   differs (font-size, color, layout, margin). */
+.toc-label,
+.topic-hero-eyebrow,
+.scholar-label,
+.note-label,
+.sources-label,
+.pn-label,
+.so-label,
+.fam-intro-stat {
+  font-family: var(--font-mono);
+  text-transform: uppercase;
 }
 
 /* ── BODY & PAPER TEXTURE ────────────────────────────────── */
@@ -507,10 +531,8 @@ body {
 
 .toc-divider { height: 1px; background: var(--rule); margin: 0 1.2rem 1.2rem; }
 .toc-label {
-  font-family: var(--font-mono);
   font-size: var(--fs-2xs);
-  letter-spacing: 0.22em;
-  text-transform: uppercase;
+  letter-spacing: var(--tracking-eyebrow-loose);
   color: var(--ink-5);
   padding: 0 1.4rem;
   margin-bottom: 0.4rem;
@@ -645,10 +667,8 @@ body {
   width: 80px; height: 3px; background: var(--red); border-radius: 0 0 2px 2px;
 }
 .topic-hero-eyebrow {
-  font-family: var(--font-mono);
   font-size: var(--fs-xs);
-  letter-spacing: 0.24em;
-  text-transform: uppercase;
+  letter-spacing: var(--tracking-eyebrow-loose);
   color: var(--ochre);
   display: block;
   margin-bottom: 0.6rem;
@@ -837,10 +857,8 @@ h1, h2, h3, .section-head { text-wrap: balance; }
   user-select: none;
 }
 .scholar-label {
-  font-family: var(--font-mono);
   font-size: var(--fs-xs);
-  letter-spacing: 0.2em;
-  text-transform: uppercase;
+  letter-spacing: var(--tracking-eyebrow);
   color: var(--sienna);
   display: flex;
   align-items: center;
@@ -991,10 +1009,8 @@ h1, h2, h3, .section-head { text-wrap: balance; }
   line-height: 1.72;
 }
 .note-label {
-  font-family: var(--font-mono);
   font-size: var(--fs-2xs);
-  letter-spacing: 0.18em;
-  text-transform: uppercase;
+  letter-spacing: var(--tracking-eyebrow);
   color: var(--teal-2);
   display: block;
   margin-bottom: 0.2rem;
@@ -1314,10 +1330,8 @@ tbody tr:hover td { background: var(--papyrus-2); }
   border-bottom: 1px solid var(--rule);
 }
 .sources-label {
-  font-family: var(--font-mono);
   font-size: var(--fs-2xs);
-  letter-spacing: 0.22em;
-  text-transform: uppercase;
+  letter-spacing: var(--tracking-eyebrow-loose);
   color: var(--ink-5);
   display: block;
   margin-bottom: 0.45rem;
@@ -1519,10 +1533,8 @@ tbody tr:hover td { background: var(--papyrus-2); }
 .pn-next .pn-arrow { order: 2; }
 .pn-meta { display: flex; flex-direction: column; gap: 0.1rem; min-width: 0; }
 .pn-label {
-  font-family: var(--font-mono);
   font-size: var(--fs-xs);
-  letter-spacing: 0.18em;
-  text-transform: uppercase;
+  letter-spacing: var(--tracking-eyebrow);
   color: var(--ink-5);
 }
 .pn-title { font-size: var(--fs-lg); color: var(--ink-2); line-height: 1.3; }
@@ -1773,8 +1785,8 @@ a.pf-btn-share:focus-visible, button.pf-btn-share:focus-visible {
 }
 .so-head { grid-column: 1 / -1; display: flex; justify-content: space-between; align-items: center; gap: 1rem; flex-wrap: wrap; }
 .so-label {
-  font-family: var(--font-mono); font-size: var(--fs-xs); letter-spacing: 0.2em;
-  text-transform: uppercase; color: var(--sienna);
+  font-size: var(--fs-xs); letter-spacing: var(--tracking-eyebrow);
+  color: var(--sienna);
 }
 .so-controls { display: flex; gap: 0.4rem; }
 .so-btn {
@@ -2004,8 +2016,8 @@ a.pf-btn-share:focus-visible, button.pf-btn-share:focus-visible {
   border-bottom: 1px dashed var(--rule);
 }
 .fam-intro-stat {
-  font-family: var(--font-mono); font-size: var(--fs-sm); letter-spacing: 0.18em;
-  text-transform: uppercase; color: var(--ink-5);
+  font-size: var(--fs-sm); letter-spacing: var(--tracking-eyebrow);
+  color: var(--ink-5);
   white-space: nowrap;
 }
 .fam-intro-text { margin: 0; color: var(--ink-3); font-size: var(--fs-lg); flex: 1; min-width: 240px; }
