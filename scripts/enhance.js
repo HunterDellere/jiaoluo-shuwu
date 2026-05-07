@@ -481,10 +481,19 @@ else { window.__enhanceInit = true; (function () {
   // obvious and survive future renames), then catch any other internal link
   // inside <main>, the sidebar (toc-hub-link), or the page-footer.
   if (!window.matchMedia('(hover: none)').matches) {
+    // Catch internal content crosslinks but skip composed cards that already
+    // present their own description on the surface (homepage family cards,
+    // start-here items, recent items, family-page entry cards, etc.) — a
+    // hover tooltip on those just repeats what's already visible.
+    const skipCard =
+      ':not(.family-card):not(.start-here-item):not(.recent-item)' +
+      ':not(.entry-card):not(.featured-card):not(.fam-jump-chip)' +
+      ':not(.families-master-link):not(.hero-cta)';
     const internalLinks = document.querySelectorAll(
       'a.auto-link, a.related-link, a.related-card, a.pn-link, a.adj, ' +
       'a.hub-badge, a.toc-hub-link, a.stage-legend-item, a.card-anchor, ' +
-      'main a[href]:not([href^="http"]):not([href^="#"]):not([href^="mailto:"]), ' +
+      'main a[href]' + skipCard +
+        ':not([href^="http"]):not([href^="#"]):not([href^="mailto:"]), ' +
       'aside.sidebar a[href]:not([href^="#"]):not([href^="http"]), ' +
       'footer.page-footer a[href]:not([href^="http"]):not([href^="#"]):not([href^="mailto:"])'
     );
