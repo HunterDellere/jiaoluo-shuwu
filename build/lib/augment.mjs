@@ -391,6 +391,20 @@ export function injectInlineAudio(body) {
     },
   );
 
+  // Section-head pairs — every topic/vocab/grammar section gets a play button
+  // next to the heading's pinyin. Pairs whose pinyin contains split markers
+  // ("/", "…") are skipped because they cover multiple readings.
+  body = body.replace(
+    /<span class="sh-cn">([\s\S]*?)<\/span>(\s*)<span class="sh-py">([\s\S]*?)<\/span>/g,
+    (m, cnInner, ws, pyInner) => {
+      const text   = stripTags(cnInner).trim();
+      const pinyin = stripTags(pyInner).trim();
+      if (!text || !pinyin || !/[一-鿿]/.test(text)) return m;
+      if (/[\/…]/.test(text) || /[\/…]/.test(pinyin)) return m;
+      return `<span class="sh-cn">${cnInner}</span>${ws}<span class="sh-py">${pyInner}</span>${buildAudioButton(text, pinyin, { inline: true })}`;
+    },
+  );
+
   return body;
 }
 
