@@ -1,5 +1,44 @@
 [
   {
+    "path": "pages/characters/kua4_跨.html",
+    "type": "character",
+    "category": "characters",
+    "title": "跨 · to stride; to span; to bestride",
+    "desc": "The character of the long stride — a foot-radical verb that reaches from \"step over a threshold\" to \"span an era\" to the modern policy vocabulary of cross-border, cross-industry, cross-cultural everything.",
+    "tags": [
+      "movement",
+      "border",
+      "modern"
+    ],
+    "status": "complete",
+    "char": "跨",
+    "pinyin": "kuà",
+    "tone": 4,
+    "hsk": 4,
+    "radical": "足",
+    "updated": "2026-05-06"
+  },
+  {
+    "path": "pages/characters/ta1_她.html",
+    "type": "character",
+    "category": "characters",
+    "title": "她 · she, her",
+    "desc": "她 is the youngest character in everyday Chinese — invented in 1917 to translate \"she,\" and the cause of one of the loudest grammatical fights in modern Chinese letters.",
+    "tags": [
+      "grammar",
+      "modern",
+      "social",
+      "language"
+    ],
+    "status": "complete",
+    "char": "她",
+    "pinyin": "tā",
+    "tone": 1,
+    "hsk": 1,
+    "radical": "女",
+    "updated": "2026-05-06"
+  },
+  {
     "path": "pages/characters/yue4_越.html",
     "type": "character",
     "category": "characters",
@@ -36,6 +75,22 @@
     ],
     "status": "complete",
     "pinyin": "cháng chéng",
+    "updated": "2026-05-06"
+  },
+  {
+    "path": "pages/vocab/fangxiang_方向.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "方向 · direction; orientation",
+    "desc": "方向 is the compass-word that holds together physical heading, life direction, political orientation, and the deeply Chinese sense that getting your bearings — 辨方向 — is the first move in any undertaking.",
+    "tags": [
+      "space",
+      "direction",
+      "philosophy"
+    ],
+    "status": "complete",
+    "pinyin": "fāngxiàng",
+    "hsk": 2,
     "updated": "2026-05-06"
   },
   {
