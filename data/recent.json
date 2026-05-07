@@ -19,6 +19,25 @@
     "updated": "2026-05-06"
   },
   {
+    "path": "pages/characters/pao3_跑.html",
+    "type": "character",
+    "category": "characters",
+    "title": "跑 · to run; to flee; to operate",
+    "desc": "The everyday verb of running — a foot-radical character whose semantic range stretches from \"the legs in motion\" to \"running an errand\" to \"the engine is running\" to a small but productive family of escape-and-flee compounds.",
+    "tags": [
+      "motion",
+      "body",
+      "daily-life"
+    ],
+    "status": "complete",
+    "char": "跑",
+    "pinyin": "pǎo",
+    "tone": 3,
+    "hsk": 2,
+    "radical": "足",
+    "updated": "2026-05-06"
+  },
+  {
     "path": "pages/characters/ta1_她.html",
     "type": "character",
     "category": "characters",
@@ -106,6 +125,38 @@
     ],
     "status": "complete",
     "pinyin": "kuàyuè",
+    "updated": "2026-05-06"
+  },
+  {
+    "path": "pages/vocab/limao_礼貌.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "礼貌 · politeness, courteous manner",
+    "desc": "The everyday word for politeness — what 礼 (ritual propriety) becomes when it is shrunk down to the scale of ordinary social life. Polite forms, polite faces, and the precise way modern Chinese distinguishes 礼貌 from 客气, 礼节, and the older 礼 itself.",
+    "tags": [
+      "courtesy",
+      "etiquette",
+      "social",
+      "daily-life"
+    ],
+    "status": "complete",
+    "pinyin": "lǐmào",
+    "updated": "2026-05-06"
+  },
+  {
+    "path": "pages/vocab/shanshui_山水.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "山水 · mountains and water; the landscape",
+    "desc": "The paired word that names the Chinese landscape — not \"scenery\" in the Western sense, but a cosmological pairing of the still and the flowing that became the central subject of a thousand years of painting and poetry.",
+    "tags": [
+      "aesthetics",
+      "nature",
+      "arts",
+      "philosophy"
+    ],
+    "status": "complete",
+    "pinyin": "shānshuǐ",
     "updated": "2026-05-06"
   },
   {
@@ -321,71 +372,6 @@
     ],
     "status": "complete",
     "pinyin": "shūfǎ fēnggé",
-    "updated": "2026-04-26"
-  },
-  {
-    "path": "pages/characters/gui3_鬼.html",
-    "type": "character",
-    "category": "characters",
-    "title": "鬼 · ghost, the wandering dead",
-    "desc": "A pictograph of a spirit with an oversized head — the disembodied soul of the unvenerated dead, a folk-religion category distinct from deity, demon, and ancestor.",
-    "tags": [
-      "folk-religion",
-      "religion",
-      "culture",
-      "classical",
-      "symbolism",
-      "ancestors"
-    ],
-    "status": "complete",
-    "char": "鬼",
-    "pinyin": "guǐ",
-    "tone": 3,
-    "hsk": 6,
-    "radical": "鬼",
-    "updated": "2026-04-26"
-  },
-  {
-    "path": "pages/characters/lei2_雷.html",
-    "type": "character",
-    "category": "characters",
-    "title": "雷 · thunder, the Arousing",
-    "desc": "Rain over fields struck by lightning — the ancient pictograph of thunder that became a deity, a Yijing trigram, and a metaphor for decisive force.",
-    "tags": [
-      "nature",
-      "cosmology",
-      "religion",
-      "gods",
-      "wuxing"
-    ],
-    "status": "complete",
-    "char": "雷",
-    "pinyin": "léi",
-    "tone": 2,
-    "hsk": 5,
-    "radical": "雨",
-    "updated": "2026-04-26"
-  },
-  {
-    "path": "pages/characters/yu4_玉.html",
-    "type": "character",
-    "category": "characters",
-    "title": "玉 · jade, precious",
-    "desc": "The material of kingship and moral cultivation — three jade discs on a cord, a glyph almost identical to king, the stone that Confucius said was virtue made visible.",
-    "tags": [
-      "nature",
-      "culture",
-      "virtue",
-      "confucianism",
-      "aesthetics",
-      "royalty",
-      "classical"
-    ],
-    "status": "complete",
-    "char": "玉",
-    "pinyin": "yù",
-    "tone": 4,
-    "radical": "玉",
     "updated": "2026-04-26"
   }
 ]

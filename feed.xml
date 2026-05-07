@@ -6,13 +6,21 @@
     <atom:link href="https://jiaoshoo.com/feed.xml" rel="self" type="application/rss+xml" />
     <description>Notes on Chinese language and civilisation — characters, vocabulary, grammar, history, philosophy, and the world they shaped.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 07 May 2026 01:21:17 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 02:22:29 GMT</lastBuildDate>
     <item>
       <title>跨 · to stride; to span; to bestride</title>
       <link>https://jiaoshoo.com/pages/characters/kua4_跨.html</link>
       <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/kua4_跨.html</guid>
       <pubDate>Wed, 06 May 2026 00:00:00 GMT</pubDate>
       <description>The character of the long stride — a foot-radical verb that reaches from &quot;step over a threshold&quot; to &quot;span an era&quot; to the modern policy vocabulary of cross-border, cross-industry, cross-cultural everything.</description>
+      <category>characters</category>
+    </item>
+    <item>
+      <title>跑 · to run; to flee; to operate</title>
+      <link>https://jiaoshoo.com/pages/characters/pao3_跑.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/pao3_跑.html</guid>
+      <pubDate>Wed, 06 May 2026 00:00:00 GMT</pubDate>
+      <description>The everyday verb of running — a foot-radical character whose semantic range stretches from &quot;the legs in motion&quot; to &quot;running an errand&quot; to &quot;the engine is running&quot; to a small but productive family of escape-and-flee compounds.</description>
       <category>characters</category>
     </item>
     <item>
@@ -53,6 +61,22 @@
       <guid isPermaLink="true">https://jiaoshoo.com/pages/vocab/kuayue_跨越.html</guid>
       <pubDate>Wed, 06 May 2026 00:00:00 GMT</pubDate>
       <description>The compound that lets the Chinese language span gaps — physical, historical, technological, generational. The verb of choice when &quot;越长城&quot; is read figuratively.</description>
+      <category>vocab</category>
+    </item>
+    <item>
+      <title>礼貌 · politeness, courteous manner</title>
+      <link>https://jiaoshoo.com/pages/vocab/limao_礼貌.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/vocab/limao_礼貌.html</guid>
+      <pubDate>Wed, 06 May 2026 00:00:00 GMT</pubDate>
+      <description>The everyday word for politeness — what 礼 (ritual propriety) becomes when it is shrunk down to the scale of ordinary social life. Polite forms, polite faces, and the precise way modern Chinese distinguishes 礼貌 from 客气, 礼节, and the older 礼 itself.</description>
+      <category>vocab</category>
+    </item>
+    <item>
+      <title>山水 · mountains and water; the landscape</title>
+      <link>https://jiaoshoo.com/pages/vocab/shanshui_山水.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/vocab/shanshui_山水.html</guid>
+      <pubDate>Wed, 06 May 2026 00:00:00 GMT</pubDate>
+      <description>The paired word that names the Chinese landscape — not &quot;scenery&quot; in the Western sense, but a cosmological pairing of the still and the flowing that became the central subject of a thousand years of painting and poetry.</description>
       <category>vocab</category>
     </item>
     <item>
@@ -222,30 +246,6 @@
       <pubDate>Sun, 26 Apr 2026 00:00:00 GMT</pubDate>
       <description>中文 names both the written script and the spoken language — the most common term among learners — but it sits alongside 汉语, 普通话, and 汉字 in a system of names that carries real distinctions.</description>
       <category>vocab</category>
-    </item>
-    <item>
-      <title>古琴 · the guqin zither — the scholar&apos;s instrument</title>
-      <link>https://jiaoshoo.com/pages/arts/topic_guqin.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/arts/topic_guqin.html</guid>
-      <pubDate>Sat, 25 Apr 2026 00:00:00 GMT</pubDate>
-      <description>The seven-string zither Confucius played throughout his life — and the origin of 知音, the word for a person who truly understands you.</description>
-      <category>arts</category>
-    </item>
-    <item>
-      <title>山水画 · landscape painting — mountains and water</title>
-      <link>https://jiaoshoo.com/pages/arts/topic_shanshui.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/arts/topic_shanshui.html</guid>
-      <pubDate>Sat, 25 Apr 2026 00:00:00 GMT</pubDate>
-      <description>Chinese landscape painting encodes a theory in its name: 山 (mountain, yang, permanent) and 水 (water, yin, changing) in dynamic tension — a space to inhabit in the imagination, not a view to frame.</description>
-      <category>arts</category>
-    </item>
-    <item>
-      <title>白 · white, clear, plain, in vain</title>
-      <link>https://jiaoshoo.com/pages/characters/bai2_白.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/bai2_白.html</guid>
-      <pubDate>Sat, 25 Apr 2026 00:00:00 GMT</pubDate>
-      <description>Sunlight on a single point. The character that names the color of mourning, the color of clarity, the empty plate, and the speech that hides nothing.</description>
-      <category>characters</category>
     </item>
   </channel>
 </rss>
