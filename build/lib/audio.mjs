@@ -175,6 +175,16 @@ export function harvestInlineClips(contentDir) {
       for (const m of body.matchAll(cardRe)) {
         pushClip(stripTags(m[1]), stripTags(m[2]), 'compound');
       }
+
+      // Section heads: sh-cn + sh-py adjacency (every topic/vocab/grammar page).
+      // Skip pairs with split markers — they cover multiple readings.
+      const shRe = /<span class="sh-cn">([\s\S]*?)<\/span>\s*<span class="sh-py">([\s\S]*?)<\/span>/g;
+      for (const m of body.matchAll(shRe)) {
+        const cn = stripTags(m[1]);
+        const py = stripTags(m[2]);
+        if (/[\/…]/.test(cn) || /[\/…]/.test(py)) continue;
+        pushClip(cn, py, 'section');
+      }
     }
   }
 
