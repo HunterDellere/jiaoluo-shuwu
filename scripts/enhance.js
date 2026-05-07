@@ -763,6 +763,11 @@ else { window.__enhanceInit = true; (function () {
           });
       });
     });
+    // Clear loading state on bfcache restore so the button works after
+    // navigating to a random entry and pressing browser back.
+    window.addEventListener('pageshow', function () {
+      randomBtns.forEach(function (btn) { btn.classList.remove('loading'); });
+    });
   }
 
   // ── Theme toggle (dark / light mode) ─────────────────────────────────────
