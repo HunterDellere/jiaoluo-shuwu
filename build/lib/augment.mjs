@@ -300,6 +300,32 @@ export function autoLinkBody(body, linkMap, currentEntry) {
  * The voice indicator text is updated client-side to reflect the user's
  * cycled choice (女 / 男). Default is 女 (zh-CN-XiaoxiaoNeural).
  */
+/**
+ * Append a "all <pinyin> readings →" chip to a character page's hero-chips
+ * block, linking to /pages/pinyin/<base>.html. Helps polyphone disambiguation
+ * for readers who arrived via search and aren't sure which reading they meant.
+ *
+ * Only injected when the target page exists in `pinyinSyllables` (the set of
+ * generated syllable bases — passed in so we don't link into thin air).
+ */
+export function injectPinyinIndexChip(body, fm, pinyinSyllables) {
+  if (fm.type !== 'character' || !fm.pinyin) return body;
+  const base = String(fm.pinyin)
+    .replace(/[āáǎà]/g, 'a').replace(/[ēéěè]/g, 'e').replace(/[īíǐì]/g, 'i')
+    .replace(/[ōóǒò]/g, 'o').replace(/[ūúǔù]/g, 'u').replace(/[ǖǘǚǜü]/g, 'u')
+    .toLowerCase().replace(/[^a-z]/g, '');
+  if (!base || !pinyinSyllables.has(base)) return body;
+
+  const chip = `<a class="chip chip-pinyin-link" href="../pinyin/${base}.html" aria-label="See all characters read as ${base}">all ${escapeAttr(base)} readings →</a>`;
+
+  const before = body;
+  body = body.replace(
+    /(<div class="hero-chips">[\s\S]*?)(<\/div>)/,
+    (m, inner, close) => /chip-pinyin-link/.test(inner) ? m : `${inner}            ${chip}\n          ${close}`,
+  );
+  return body === before ? body : body;
+}
+
 export function addPinyinAudio(body, fm) {
   if (fm.type === 'character' && fm.char) {
     return addCharacterAudio(body, fm);
