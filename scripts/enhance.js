@@ -801,6 +801,20 @@ else { window.__enhanceInit = true; (function () {
     }
   })();
 
+  // ── j/k keyboard nav between sibling pages (uses <link rel="prev/next">) ──
+  // Vim-style. Skips when the user is typing in an input/textarea or has a
+  // modifier key down. No-op on pages without rel=prev/next (most pages).
+  document.addEventListener('keydown', function (e) {
+    if (e.target && /^(INPUT|TEXTAREA|SELECT)$/.test(e.target.tagName)) return;
+    if (e.metaKey || e.ctrlKey || e.altKey || e.shiftKey) return;
+    if (e.key !== 'j' && e.key !== 'k') return;
+    var rel = e.key === 'j' ? 'next' : 'prev';
+    var link = document.querySelector('link[rel="' + rel + '"]');
+    if (!link || !link.href) return;
+    e.preventDefault();
+    location.href = link.href;
+  });
+
   // ── HSK review mode: per-row progress checkboxes, tally bar, play-all ──
   // Persisted in localStorage under shuwo-hsk-{level}; one Set per level.
   // The keys are stable (`c-爱`, `v-爱情`) so list reordering doesn't reset.
