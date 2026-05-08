@@ -61,84 +61,83 @@
     <span class="toc-topic">今日</span>
     <span class="toc-topic-en">Today</span>
     <div class="toc-divider"></div>
-    <span class="toc-label">Picks for <span data-today-date>today</span></span>
+    <span class="toc-label">On this page</span>
     <ul class="toc-list">
       <li><a href="#today-character"><span class="toc-cn">字</span> Character</a></li>
-      <li><a href="#today-vocab"><span class="toc-cn">词</span> Vocabulary</a></li>
+      <li><a href="#today-vocab"><span class="toc-cn">词</span> Word</a></li>
       <li><a href="#today-grammar"><span class="toc-cn">法</span> Grammar</a></li>
       <li><a href="#today-chengyu"><span class="toc-cn">成语</span> Chengyu</a></li>
-    </ul>
-    <div class="toc-divider"></div>
-    <span class="toc-label">Streak</span>
-    <div class="today-streak" data-today-streak>
-      <span class="today-streak-num" data-streak-count>0</span>
-      <span class="today-streak-label">day streak</span>
-    </div>
-    <div class="toc-divider"></div>
-    <span class="toc-label">Subscribe</span>
-    <ul class="toc-list">
-      <li><a href="../../feed.xml" rel="alternate" type="application/rss+xml"><span class="toc-cn">订阅</span> RSS feed</a></li>
+      <li><a href="#today-subscribe"><span class="toc-cn">订阅</span> Subscribe</a></li>
     </ul>
   </aside>
 
   <main class="main" id="main-content">
 
-    <header class="topic-hero">
-      <span class="topic-hero-eyebrow">今日 jīnrì · Today</span>
-      <h1 class="topic-hero-title">Today's reading</h1>
-      <span class="topic-hero-title-py" data-today-date-long>—</span>
-      <p class="topic-hero-desc">One character, one word, one grammar point, one chengyu. Picks rotate at UTC midnight. Bookmark this page and read a little every day — your streak below tracks consecutive visits.</p>
+    <header class="topic-hero today-hero">
+      <div class="today-hero-meta">
+        <span class="topic-hero-eyebrow">今日 jīnrì · <span data-today-date-long>Today</span></span>
+        <h1 class="topic-hero-title">Today's reading</h1>
+        <p class="topic-hero-desc">One character, one word, one grammar point, one chengyu. Picks rotate at UTC midnight.</p>
+      </div>
+      <div class="today-streak" data-today-streak>
+        <span class="today-streak-num" data-streak-count>—</span>
+        <span class="today-streak-label">day streak</span>
+        <span class="today-streak-hint">Visit daily; resets if you skip a day.</span>
+      </div>
     </header>
 
     <span class="section-anchor" id="today-character"></span>
-    <div class="section-head">
+    <div class="section-head today-section-head">
       <span class="sh-cn">字</span>
       <span class="sh-py">zì</span>
-      <span class="sh-en">Today's character</span>
+      <span class="sh-en">Character</span>
     </div>
-    <div class="cards" data-today-slot="character">
+    <div class="cards today-cards" data-today-slot="character">
       <div class="card c-red today-skeleton">Loading…</div>
     </div>
 
     <span class="section-anchor" id="today-vocab"></span>
-    <div class="section-head">
+    <div class="section-head today-section-head">
       <span class="sh-cn">词</span>
       <span class="sh-py">cí</span>
-      <span class="sh-en">Today's word</span>
+      <span class="sh-en">Word</span>
     </div>
-    <div class="cards" data-today-slot="vocab">
+    <div class="cards today-cards" data-today-slot="vocab">
       <div class="card c-teal today-skeleton">Loading…</div>
     </div>
 
     <span class="section-anchor" id="today-grammar"></span>
-    <div class="section-head">
+    <div class="section-head today-section-head">
       <span class="sh-cn">法</span>
       <span class="sh-py">fǎ</span>
-      <span class="sh-en">Today's grammar point</span>
+      <span class="sh-en">Grammar point</span>
     </div>
-    <div class="cards" data-today-slot="grammar">
+    <div class="cards today-cards" data-today-slot="grammar">
       <div class="card c-violet today-skeleton">Loading…</div>
     </div>
 
     <span class="section-anchor" id="today-chengyu"></span>
-    <div class="section-head">
+    <div class="section-head today-section-head">
       <span class="sh-cn">成语</span>
       <span class="sh-py">chéngyǔ</span>
-      <span class="sh-en">Today's chengyu</span>
+      <span class="sh-en">Chengyu</span>
     </div>
-    <div class="cards" data-today-slot="chengyu">
+    <div class="cards today-cards" data-today-slot="chengyu">
       <div class="card c-ochre today-skeleton">Loading…</div>
     </div>
 
     <span class="section-anchor" id="today-subscribe"></span>
-    <div class="section-head">
+    <div class="section-head today-section-head">
       <span class="sh-cn">订阅</span>
       <span class="sh-py">dìngyuè</span>
       <span class="sh-en">Subscribe</span>
     </div>
-    <div class="scholar">
-      <p>This page rotates daily. To read at your own pace without remembering to check, the same entries flow through the site's <a href="../../feed.xml" rel="alternate" type="application/rss+xml">RSS feed</a> as they're added — drop it into Feedly, Reeder, or any RSS reader.</p>
-      <p>You can also bookmark this page and treat it as a homepage. Your streak counter is local to this device.</p>
+    <div class="today-subscribe">
+      <a class="today-subscribe-cta" href="../../feed.xml" rel="alternate" type="application/rss+xml">
+        <span class="tsc-cn">RSS</span>
+        <span class="tsc-en">Drop the feed into Feedly, Reeder, or any reader — same entries flow through as they're added.</span>
+      </a>
+      <p class="today-subscribe-aux">Or bookmark this page and treat it as a homepage. Your streak is local to this device.</p>
     </div>
 
     <footer class="page-footer">
