@@ -2620,6 +2620,151 @@ a.pf-btn-share:focus-visible, button.pf-btn-share:focus-visible {
   }
 }
 
+/* ── HSK REVIEW BAR ──────────────────────────────────────── */
+.hsk-review-bar {
+  position: sticky;
+  top: var(--nav-h);
+  z-index: 5;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.8rem 1.2rem;
+  padding: 0.7rem 1rem;
+  margin: 0 0 1.2rem;
+  background: var(--papyrus-2);
+  border: 1px solid var(--rule);
+  border-radius: 8px;
+  box-shadow: 0 1px 2px rgba(0,0,0,0.04);
+}
+.hsk-tally {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  flex: 1 1 240px;
+  min-width: 220px;
+}
+.hsk-tally-count strong { font-size: 1.05em; color: var(--cat-hsk); }
+.hsk-tally-label { color: var(--ink-3); font-size: 0.92em; }
+.hsk-tally-bar {
+  flex: 1;
+  height: 6px;
+  background: var(--papyrus-3);
+  border-radius: 3px;
+  overflow: hidden;
+  border: 1px solid var(--rule);
+}
+.hsk-tally-bar-fill {
+  height: 100%;
+  background: var(--cat-hsk);
+  transition: width 0.3s ease;
+}
+.hsk-review-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+}
+.hsk-action {
+  font-family: inherit;
+  font-size: 0.88em;
+  padding: 0.36em 0.8em;
+  border: 1px solid var(--rule);
+  background: var(--papyrus);
+  color: var(--ink-2);
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background 0.12s, border-color 0.12s;
+}
+.hsk-action:hover { background: var(--papyrus-3); border-color: var(--ink-3); }
+.hsk-action-secondary { color: var(--ink-3); }
+.hsk-action-active {
+  background: var(--cat-hsk);
+  color: #fff;
+  border-color: var(--cat-hsk);
+}
+
+/* HSK item rows: checkbox + reviewed state */
+.hsk-check {
+  margin-right: 0.4em;
+  cursor: pointer;
+  vertical-align: middle;
+  accent-color: var(--cat-hsk);
+}
+.hsk-item-reviewed { opacity: 0.55; }
+.hsk-item-reviewed .hsk-vocab-gloss { text-decoration: line-through; }
+.hsk-item-pulse {
+  animation: hsk-pulse 1.2s ease-out;
+}
+@keyframes hsk-pulse {
+  0%   { background: var(--red-tint); }
+  100% { background: transparent; }
+}
+
+/* HSK prev/next nav */
+.hsk-prev-next {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  margin: 2.5rem 0 1.5rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--rule);
+}
+.hsk-prev, .hsk-next {
+  display: flex;
+  flex-direction: column;
+  gap: 0.15em;
+  padding: 0.7em 1em;
+  border: 1px solid var(--rule);
+  border-radius: 8px;
+  text-decoration: none;
+  color: var(--ink-2);
+  background: var(--papyrus-2);
+  transition: background 0.12s, border-color 0.12s;
+  min-width: 140px;
+}
+.hsk-prev { text-align: left; }
+.hsk-next { text-align: right; margin-left: auto; }
+.hsk-prev:hover, .hsk-next:hover { background: var(--papyrus-3); border-color: var(--cat-hsk); }
+.hsk-prev-label, .hsk-next-label { font-weight: 600; font-size: 0.94em; color: var(--cat-hsk); }
+.hsk-prev-cn, .hsk-next-cn { font-family: 'Noto Serif SC', serif; font-size: 0.92em; color: var(--ink-3); }
+.hsk-prev-placeholder, .hsk-next-placeholder { flex: 1; }
+
+/* Inline audio button on HSK rows — slimmer than the standard inline */
+.hsk-vocab-item .hsk-audio,
+.hsk-char-item .hsk-audio {
+  margin-left: 0.4em;
+  padding: 0.18em 0.36em;
+  font-size: 0.85em;
+}
+
+/* HSK print: flashcard-style sheet */
+@media print {
+  .hsk-review-bar, .hsk-prev-next, .hsk-action, .hsk-check { display: none !important; }
+  .hsk-char-grid {
+    display: grid !important;
+    grid-template-columns: repeat(6, 1fr) !important;
+    gap: 0.3rem !important;
+  }
+  .hsk-char-item {
+    page-break-inside: avoid;
+    break-inside: avoid;
+    border: 1px solid #999 !important;
+    padding: 0.5rem !important;
+    text-align: center;
+    font-size: 1.1rem;
+  }
+  .hsk-vocab-list { columns: 2; column-gap: 1rem; }
+  .hsk-vocab-item {
+    page-break-inside: avoid;
+    break-inside: avoid;
+    border-bottom: 1px solid #ccc !important;
+    padding: 0.3rem 0 !important;
+    margin-bottom: 0.2rem !important;
+  }
+  .hsk-item-reviewed { opacity: 1 !important; }
+  .hsk-item-reviewed .hsk-vocab-gloss { text-decoration: none !important; }
+}
+
 /* ── PER-CATEGORY THEMING ────────────────────────────────── */
 /*
  * body[data-category] is set at parse time by the inline script in _layout.html.

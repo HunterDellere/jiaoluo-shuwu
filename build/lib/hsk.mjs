@@ -105,6 +105,27 @@ function wordLink(word, lookup, basePath = '../../') {
 }
 
 /**
+ * Sibling level prev/next nav at the bottom of every HSK page.
+ */
+function renderPrevNext(level, siblingLevels) {
+  const order = siblingLevels.map(s => s.lvl);
+  const i = order.indexOf(level);
+  if (i < 0) return '';
+  const prev = i > 0 ? siblingLevels[i - 1] : null;
+  const next = i < order.length - 1 ? siblingLevels[i + 1] : null;
+  const prevLink = prev
+    ? `<a class="hsk-prev" href="hsk-${prev.lvl}.html" rel="prev"><span class="hsk-prev-label">← HSK ${prev.lvl === '7-9' ? '7–9' : prev.lvl}</span><span class="hsk-prev-cn">${prev.cn}</span></a>`
+    : '<span class="hsk-prev-placeholder"></span>';
+  const nextLink = next
+    ? `<a class="hsk-next" href="hsk-${next.lvl}.html" rel="next"><span class="hsk-next-label">HSK ${next.lvl === '7-9' ? '7–9' : next.lvl} →</span><span class="hsk-next-cn">${next.cn}</span></a>`
+    : '<span class="hsk-next-placeholder"></span>';
+  return `<nav class="hsk-prev-next" aria-label="HSK level navigation">
+      ${prevLink}
+      ${nextLink}
+    </nav>`;
+}
+
+/**
  * Render the body HTML for one HSK level page.
  *
  * @param {string} level   e.g. '1', '2', ..., '7-9'
@@ -157,7 +178,14 @@ export function renderHskBody(level, entries, rootDir) {
   const charHtml = chars.map(c => {
     const simp = charLink(c.simp, charLookup);
     const trad = c.trad ? ` <span class="hsk-trad">/ ${escapeHtml(c.trad)}</span>` : '';
-    return `<li class="hsk-char-item">${simp}${trad}</li>`;
+    const key = `c-${c.simp}`;
+    const check = `<input type="checkbox" class="hsk-check" data-hsk-key="${escapeHtml(key)}" aria-label="Mark ${escapeHtml(c.simp)} reviewed">`;
+    // Audio: only when we have a linked entry with a known pinyin reading
+    const linkedEntry = charLookup.get(c.simp);
+    const audioBtn = linkedEntry && linkedEntry.pinyin
+      ? `<button type="button" class="audio-btn audio-btn--inline hsk-audio" data-audio="${escapeHtml(c.simp)}" data-pinyin="${escapeHtml(linkedEntry.pinyin)}" aria-label="Play pronunciation"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M11 5 6 9H2v6h4l5 4V5z"/><path d="M15.54 8.46a5 5 0 0 1 0 7.07"/></svg></button>`
+      : '';
+    return `<li class="hsk-char-item" data-hsk-item="${escapeHtml(key)}">${check}${simp}${trad}${audioBtn}</li>`;
   }).join('\n        ');
 
   const vocabHtml = vocab.map(v => {
@@ -167,8 +195,16 @@ export function renderHskBody(level, entries, rootDir) {
       v.pinyin ? `<span class="hsk-vocab-py">${escapeHtml(v.pinyin)}</span>` : '',
       v.pos ? `<span class="hsk-vocab-pos">${escapeHtml(v.pos)}</span>` : '',
     ].filter(Boolean).join('');
-    return `<li class="hsk-vocab-item">
+    const key = `v-${v.simp}`;
+    const check = `<input type="checkbox" class="hsk-check" data-hsk-key="${escapeHtml(key)}" aria-label="Mark ${escapeHtml(v.simp)} reviewed">`;
+    // Audio button on vocab rows (uses inline-audio infra so play-all + per-row click both work)
+    const audioBtn = v.pinyin && !/[\/…]/.test(v.simp) && !/[\/…]/.test(v.pinyin)
+      ? `<button type="button" class="audio-btn audio-btn--inline hsk-audio" data-audio="${escapeHtml(v.simp)}" data-pinyin="${escapeHtml(v.pinyin)}" aria-label="Play pronunciation"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M11 5 6 9H2v6h4l5 4V5z"/><path d="M15.54 8.46a5 5 0 0 1 0 7.07"/></svg></button>`
+      : '';
+    return `<li class="hsk-vocab-item" data-hsk-item="${escapeHtml(key)}">
+          ${check}
           <span class="hsk-vocab-hz">${link}${trad}</span>
+          ${audioBtn}
           ${metaParts ? `<span class="hsk-vocab-meta">${metaParts}</span>` : ''}
           ${v.gloss ? `<span class="hsk-vocab-gloss">${escapeHtml(v.gloss)}</span>` : ''}
         </li>`;
@@ -204,6 +240,20 @@ export function renderHskBody(level, entries, rootDir) {
       </div>
     </header>
 
+    <div class="hsk-review-bar" data-hsk-level="${escapeHtml(level)}" data-hsk-total="${chars.length + vocab.length}">
+      <div class="hsk-tally">
+        <span class="hsk-tally-count"><strong data-hsk-reviewed-count>0</strong> / ${chars.length + vocab.length}</span>
+        <span class="hsk-tally-label">reviewed</span>
+        <div class="hsk-tally-bar"><div class="hsk-tally-bar-fill" data-hsk-progress-fill style="width: 0%"></div></div>
+      </div>
+      <div class="hsk-review-actions">
+        <button type="button" class="hsk-action" data-hsk-play-all aria-label="Play pronunciation of every item">▶ Play all</button>
+        <button type="button" class="hsk-action" data-hsk-jump-next aria-label="Scroll to first unreviewed item">↓ Next unreviewed</button>
+        <button type="button" class="hsk-action hsk-action-secondary" data-hsk-print aria-label="Print as flashcard sheet">⎙ Print</button>
+        <button type="button" class="hsk-action hsk-action-secondary" data-hsk-reset aria-label="Reset progress for this level">↺ Reset</button>
+      </div>
+    </div>
+
     <span class="section-anchor" id="characters"></span>
     <div class="section-head"><h2>Characters · 汉字</h2></div>
     <ul class="hsk-char-grid">
@@ -225,6 +275,8 @@ export function renderHskBody(level, entries, rootDir) {
     <div class="adj-wrap">
 ${siblingChips}
     </div>
+
+    ${renderPrevNext(level, SIBLING_LEVELS)}
   </main>
 
 </div>
