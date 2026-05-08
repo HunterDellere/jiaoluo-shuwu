@@ -410,6 +410,7 @@ content_review: 'pending'
       <span class="adj" data-relation="contrast" data-distinct="the opposing pole — profit and self-interest, what 义 must not be subordinated to"><span class="a-cn">利</span><span class="a-py">lì</span><span class="a-en">profit; self-interest</span></span>
       <span class="adj" data-relation="collocation"><span class="a-cn">仁义</span><span class="a-py">rényì</span><span class="a-en">benevolence and righteousness</span></span>
       <span class="adj" data-relation="collocation"><span class="a-cn">五常</span><span class="a-py">wǔ cháng</span><span class="a-en">the Five Constants</span></span>
+      <span class="adj" data-relation="contrast" data-distinct="意思 is everyday meaning (what does this word mean?); 意义 is weightier — significance, why something matters"><span class="a-cn">意思</span><span class="a-py">yìsi</span><span class="a-en">meaning, intention — the everyday sibling of 意义</span></span>
     </div>
 
     <!-- RETENTION SCHOLAR BOX -->

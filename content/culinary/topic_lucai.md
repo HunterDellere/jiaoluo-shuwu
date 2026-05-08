@@ -188,6 +188,15 @@ pinyin: 'lǔcài'
       </div>
     </div>
 
+    <div class="adj-wrap">
+      <span class="adj"><span class="a-cn">八大菜系</span><span class="a-py">bā dà càixì</span><span class="a-en">the Eight Great Cuisines — Shandong is the oldest of the eight</span></span>
+      <span class="adj" data-relation="contrast" data-distinct="Shandong is the oldest, imperial-court tradition; Sichuan is the loudest-flavored regional school"><span class="a-cn">川菜</span><span class="a-py">chuāncài</span><span class="a-en">Sichuan cuisine — the boldest counterpoint to Shandong's restraint</span></span>
+      <span class="adj" data-relation="contrast" data-distinct="Shandong defined northern imperial cooking; Cantonese defined the global Chinese-restaurant style"><span class="a-cn">粤菜</span><span class="a-py">yuècài</span><span class="a-en">Cantonese cuisine — the southern global ambassador</span></span>
+      <span class="adj"><span class="a-cn">豆腐</span><span class="a-py">dòufu</span><span class="a-en">tofu — Shandong braises and stuffs tofu in classical preparations</span></span>
+      <span class="adj"><span class="a-cn">饺子</span><span class="a-py">jiǎozi</span><span class="a-en">dumplings — the northern wheat-belt staple Shandong helped shape</span></span>
+      <span class="adj"><span class="a-cn">面条</span><span class="a-py">miàntiáo</span><span class="a-en">noodles — Shandong's hand-pulled lamian is a regional emblem</span></span>
+    </div>
+
     
   </main>
 </div>

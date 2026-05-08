@@ -209,6 +209,9 @@ pinyin: 'chī fàn wén huà'
       <span class="adj" data-relation="collocation"><span class="a-cn">主食</span><span class="a-py">zhǔshí</span><span class="a-en">staple food</span></span>
       <span class="adj" data-relation="collocation"><span class="a-cn">八大菜系</span><span class="a-py">bādà càixì</span><span class="a-en">eight great cuisines</span></span>
       <span class="adj" data-relation="collocation"><span class="a-cn">吃了吗</span><span class="a-py">chī le ma</span><span class="a-en">have you eaten</span></span>
+      <span class="adj" data-relation="collocation" data-distinct="敬酒 is the toasting subroutine inside the meal — hierarchy made legible through who pours and stands first"><span class="a-cn">敬酒</span><span class="a-py">jìngjiǔ</span><span class="a-en">toasting culture</span></span>
+      <span class="adj" data-relation="collocation" data-distinct="筷子 are the table-tool instrument the rest of the meal etiquette routes through"><span class="a-cn">筷子</span><span class="a-py">kuàizi</span><span class="a-en">chopsticks</span></span>
+      <span class="adj" data-relation="collocation" data-distinct="白酒 is the default spirit at formal banquets — 40-60% grain alcohol, register-marked vs. beer or red wine"><span class="a-cn">白酒</span><span class="a-py">báijiǔ</span><span class="a-en">Chinese grain spirits</span></span>
     </div>
 
     <footer class="page-footer">

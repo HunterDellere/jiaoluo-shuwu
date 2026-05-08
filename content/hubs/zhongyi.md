@@ -159,6 +159,12 @@ stages:
       <p><strong>On the evidence debate:</strong> The Cochrane Collaboration (cochrane.org) publishes systematic reviews of acupuncture, herbal medicine, and qigong research that represent the current state of the clinical evidence without advocacy in either direction.</p>
     </div>
 
+    <div class="adj-wrap">
+      <span class="adj"><span class="a-cn">哲学</span><span class="a-py">zhéxué</span><span class="a-en">Philosophy hub — yin-yang and five-phase cosmology in their original frame</span></span>
+      <span class="adj"><span class="a-cn">六大茶类</span><span class="a-py">liù dà chá lèi</span><span class="a-en">Six Teas hub — TCM cooling/warming categories shape tea culture directly</span></span>
+      <span class="adj"><span class="a-cn">四大发明与技术</span><span class="a-py">sì dà fāmíng yǔ jìshù</span><span class="a-en">Invention & Technology hub — TCM as a millennia-old technical practice</span></span>
+    </div>
+
   </main>
 
 </div>

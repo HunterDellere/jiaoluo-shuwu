@@ -244,6 +244,15 @@ pinyin: 'ràng'
 
     </div>
 
+    <div class="adj-wrap">
+      <span class="adj"><span class="a-cn">叫</span><span class="a-py">jiào</span><span class="a-en">tell / call (causative sibling of 让)</span></span>
+      <span class="adj"><span class="a-cn">使</span><span class="a-py">shǐ</span><span class="a-en">cause to (formal causative)</span></span>
+      <span class="adj"><span class="a-cn">被</span><span class="a-py">bèi</span><span class="a-en">passive marker</span></span>
+      <span class="adj"><span class="a-cn">把</span><span class="a-py">bǎ</span><span class="a-en">disposal coverb</span></span>
+      <span class="adj"><span class="a-cn">对</span><span class="a-py">duì</span><span class="a-en">toward (object-oriented coverb)</span></span>
+      <span class="adj"><span class="a-cn">可以</span><span class="a-py">kěyǐ</span><span class="a-en">may; can (permission modal)</span></span>
+    </div>
+
     <footer class="page-footer">
       <span class="footer-id">Jiǎoluò Shūwū · 角落書屋 · <span>让 ràng · causative &amp; permission</span></span>
       <a href="../../index.html" class="footer-back">← All Entries</a>

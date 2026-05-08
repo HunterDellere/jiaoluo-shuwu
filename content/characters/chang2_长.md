@@ -283,6 +283,7 @@ content_sources:
       <span class="adj"><span class="a-cn">部长</span><span class="a-py">bùzhǎng</span><span class="a-en">minister (of a ministry)</span></span>
       <span class="adj"><span class="a-cn">长城</span><span class="a-py">Chángchéng</span><span class="a-en">the Great Wall</span></span>
       <span class="adj"><span class="a-cn">长江</span><span class="a-py">Cháng Jiāng</span><span class="a-en">the Yangtze River</span></span>
+      <span class="adj"><span class="a-cn">女</span><span class="a-py">nǚ</span><span class="a-en">woman; daughter — 长女 is the eldest daughter</span></span>
     </div>
 
     <footer class="page-footer">

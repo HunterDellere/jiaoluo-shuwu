@@ -409,6 +409,8 @@ pinyin: 'yì jīng'
       <span class="adj"><span class="a-cn">儒家</span><span class="a-py">Rújiā</span><span class="a-en">Confucian school</span></span>
       <span class="adj"><span class="a-cn">道教</span><span class="a-py">dàojiào</span><span class="a-en">religious Daoism</span></span>
       <span class="adj"><span class="a-cn">乾坤</span><span class="a-py">qiánkūn</span><span class="a-en">heaven and earth; the cosmos</span></span>
+      <span class="adj" data-relation="contrast" data-distinct="刻舟求剑 dramatizes the failure to grasp 易经's core teaching that situations transform — clinging to a fixed mark in a moving world"><span class="a-cn">刻舟求剑</span><span class="a-py">kè zhōu qiú jiàn</span><span class="a-en">Carving the Boat to Find the Sword</span></span>
+      <span class="adj" data-relation="derived" data-distinct="与时俱进 is the modern reformist condensation of the 易经's central insight: keep moving with change rather than against it"><span class="a-cn">与时俱进</span><span class="a-py">yǔ shí jù jìn</span><span class="a-en">to advance together with the times</span></span>
     </div>
 
     <footer class="page-footer">

@@ -333,6 +333,7 @@ pinyin: 'jìngtǔ zōng'
       <span class="adj"><span class="a-cn">大势至</span><span class="a-py">Dàshìzhì</span><span class="a-en">Mahāsthāmaprāpta bodhisattva</span></span>
       <span class="adj"><span class="a-cn">极乐</span><span class="a-py">jílè</span><span class="a-en">supreme bliss; the Pure Land</span></span>
       <span class="adj"><span class="a-cn">白莲社</span><span class="a-py">Báilián Shè</span><span class="a-en">White Lotus Society (Huiyuan's)</span></span>
+      <span class="adj" data-relation="contrast" data-distinct="Chán is the self-power (zìlì) counterpart to Pure Land's other-power devotional path"><span class="a-cn">禅宗</span><span class="a-py">chánzōng</span><span class="a-en">Chán Buddhism (Zen)</span></span>
     </div>
 
     

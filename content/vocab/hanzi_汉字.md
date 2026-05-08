@@ -140,6 +140,8 @@ content_sources:
       <span class="adj"><span class="a-cn">简体</span><span class="a-py">jiǎntǐ</span><span class="a-en">simplified form</span></span>
       <span class="adj"><span class="a-cn">繁体</span><span class="a-py">fántǐ</span><span class="a-en">traditional form</span></span>
       <span class="adj"><span class="a-cn">象形</span><span class="a-py">xiàngxíng</span><span class="a-en">pictograph</span></span>
+      <span class="adj" data-distinct="普通话 is the spoken standard; 汉字 is the written script that unifies dialects"><span class="a-cn">普通话</span><span class="a-py">pǔtōnghuà</span><span class="a-en">Mandarin Chinese</span></span>
+      <span class="adj" data-distinct="Taiwan retains 繁体字 traditional characters in writing; mainland uses 简体字 simplified — the same script split by twentieth-century reform"><span class="a-cn">台湾</span><span class="a-py">Táiwān</span><span class="a-en">Taiwan — the principal home of traditional-character usage</span></span>
     </div>
 
     <footer class="page-footer">

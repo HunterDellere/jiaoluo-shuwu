@@ -626,6 +626,10 @@ pinyin: 'dōu'
       <span class="adj"
             data-relation="collocation"
       ><span class="a-cn">还</span><span class="a-py">hái</span><span class="a-en">still; yet (pairs with 都…了 for reproach)</span></span>
+      <span class="adj"
+            data-relation="collocation"
+            data-distinct="除了 narrows or expands a set; the pattern 除了…都 means 'all except …', pairing exclusion with universal scope"
+      ><span class="a-cn">除了</span><span class="a-py">chúle</span><span class="a-en">except; besides (pairs with 都 in 'all except' frame)</span></span>
     </div>
 
     <footer class="page-footer">

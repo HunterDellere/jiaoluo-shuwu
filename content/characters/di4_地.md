@@ -375,6 +375,7 @@ content_sources:
       <span class="adj"><span class="a-cn">土地</span><span class="a-py">tǔdì</span><span class="a-en">land; territory; soil</span></span>
       <span class="adj"><span class="a-cn">三才</span><span class="a-py">sāncái</span><span class="a-en">the Three Powers</span></span>
       <span class="adj"><span class="a-cn">乾坤</span><span class="a-py">qiánkūn</span><span class="a-en">heaven and earth; the cosmos</span></span>
+      <span class="adj" data-distinct="图 in 地图 names the representation; 地 names the territory itself"><span class="a-cn">图</span><span class="a-py">tú</span><span class="a-en">map; diagram; to plan; to seek</span></span>
     </div>
 
     <!-- RETENTION IMAGE -->

@@ -314,10 +314,13 @@ pinyin: 'yuáncháo'
       <span class="adj"><span class="a-cn">驿站</span><span class="a-py">yìzhàn</span><span class="a-en">postal relay station</span></span>
       <span class="adj"><span class="a-cn">纸币</span><span class="a-py">zhǐbì</span><span class="a-en">paper currency</span></span>
       <span class="adj"><span class="a-cn">红巾军</span><span class="a-py">Hóngjīnjūn</span><span class="a-en">Red Turban Army</span></span>
+      <span class="adj" data-distinct="Islam practiced by the 色目人 merchant class and by Yuan administrators; mosques were built and maintained throughout the dynasty"><span class="a-cn">伊斯兰教</span><span class="a-py">Yīsīlán jiào</span><span class="a-en">Islam — practiced by the 色目人 administrators and merchants of the Yuan</span></span>
       <span class="adj"><span class="a-cn">朱元璋</span><span class="a-py">Zhū Yuánzhāng</span><span class="a-en">founder of the Ming dynasty</span></span>
       <span class="adj"><span class="a-cn">科举</span><span class="a-py">kējǔ</span><span class="a-en">civil examination system</span></span>
       <span class="adj"><span class="a-cn">马可·波罗</span><span class="a-py">Mǎkě Bōluó</span><span class="a-en">Marco Polo</span></span>
       <span class="adj"><span class="a-cn">崖山之战</span><span class="a-py">Yáshān zhī Zhàn</span><span class="a-en">Battle of Yamen, final Song defeat</span></span>
+      <span class="adj" data-relation="collocation" data-distinct="Yuan formalized the Tibet–central-court relationship through the Sakya alliance — the model later inherited by Ming and Qing"><span class="a-cn">西藏</span><span class="a-py">Xīzàng</span><span class="a-en">Tibet</span></span>
+      <span class="adj" data-relation="contrast" data-distinct="宋朝 fell at the Battle of Yamen (1279); Yuan replaced Song as the first non-Han dynasty to rule all of China"><span class="a-cn">宋朝</span><span class="a-py">Sòng cháo</span><span class="a-en">Song dynasty</span></span>
     </div>
 
     

@@ -191,6 +191,8 @@ content_sources:
       <span class="adj"><span class="a-cn">东</span><span class="a-py">dōng</span><span class="a-en">east</span></span>
       <span class="adj"><span class="a-cn">西</span><span class="a-py">xī</span><span class="a-en">west</span></span>
       <span class="adj"><span class="a-cn">心</span><span class="a-py">xīn</span><span class="a-en">heart; center</span></span>
+      <span class="adj"><span class="a-cn">学</span><span class="a-py">xué</span><span class="a-en">to study — 中学 (middle school) is one of 中's most common compounds</span></span>
+      <span class="adj"><span class="a-cn">王</span><span class="a-py">wáng</span><span class="a-en">king — 王中王 (king among kings) places 中 inside the language of supremacy</span></span>
     </div>
 
     <footer class="page-footer">

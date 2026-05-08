@@ -260,6 +260,8 @@ content_review: 'pending'
       <span class="adj"><span class="a-cn">水</span><span class="a-py">shuǐ</span><span class="a-en">water</span></span>
       <span class="adj"><span class="a-cn">梅雨</span><span class="a-py">méiyǔ</span><span class="a-en">plum rains</span></span>
       <span class="adj"><span class="a-cn">语</span><span class="a-py">yǔ</span><span class="a-en">language (homophone — note)</span></span>
+      <span class="adj"><span class="a-cn">火</span><span class="a-py">huǒ</span><span class="a-en">fire; flame</span></span>
+      <span class="adj"><span class="a-cn">木</span><span class="a-py">mù</span><span class="a-en">tree; wood</span></span>
     </div>
 
     <div class="scholar" data-glyph="雨">

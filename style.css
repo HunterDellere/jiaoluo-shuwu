@@ -1548,6 +1548,44 @@ tbody tr:hover td { background: var(--papyrus-2); }
   .pn-next .pn-arrow { order: 0; }
 }
 
+/* ── FAQ ─────────────────────────────────────────────────── */
+.faq { display: flex; flex-direction: column; gap: 0.5rem; margin-top: 0.8rem; }
+.faq-item {
+  background: var(--papyrus-2);
+  border: 1px solid var(--rule);
+  border-radius: 6px;
+  padding: 0.6rem 0.85rem;
+}
+.faq-item[open] { background: var(--papyrus-3); }
+.faq-q {
+  cursor: pointer;
+  font-family: 'EB Garamond', 'Noto Serif SC', serif;
+  font-weight: 600;
+  font-size: 1.02rem;
+  color: var(--ink);
+  list-style: none;
+  position: relative;
+  padding-right: 1.5rem;
+}
+.faq-q::-webkit-details-marker { display: none; }
+.faq-q::after {
+  content: '+';
+  position: absolute;
+  right: 0;
+  top: 0;
+  font-weight: 400;
+  color: var(--ink-2);
+  transition: transform 0.15s;
+}
+.faq-item[open] .faq-q::after { content: '−'; }
+.faq-a {
+  margin-top: 0.5rem;
+  padding-top: 0.5rem;
+  border-top: 1px dashed var(--rule);
+  color: var(--ink-2);
+  line-height: 1.55;
+}
+
 /* ── ADJACENT VOCAB CHIPS ────────────────────────────────── */
 .adj-wrap { display: flex; flex-wrap: wrap; gap: 0.4rem; margin-top: 0.4rem; }
 .adj {

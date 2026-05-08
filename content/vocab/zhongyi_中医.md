@@ -181,6 +181,10 @@ content_sources:
       <span class="adj"><span class="a-cn">调理</span><span class="a-py">tiáolǐ</span><span class="a-en">to regulate; to tonify</span></span>
       <span class="adj"><span class="a-cn">体质</span><span class="a-py">tǐzhì</span><span class="a-en">constitution; body type</span></span>
       <span class="adj"><span class="a-cn">西医</span><span class="a-py">xīyī</span><span class="a-en">Western medicine</span></span>
+      <span class="adj"><span class="a-cn">气功</span><span class="a-py">qìgōng</span><span class="a-en">qigong — qi cultivation in the TCM family</span></span>
+      <span class="adj"><span class="a-cn">武术</span><span class="a-py">wǔshù</span><span class="a-en">martial arts — body cultivation paired with TCM body theory</span></span>
+      <span class="adj"><span class="a-cn">本草纲目</span><span class="a-py">běncǎo gāngmù</span><span class="a-en">The Great Pharmacopeia — Li Shizhen's Ming-era materia medica canon</span></span>
+      <span class="adj"><span class="a-cn">针灸</span><span class="a-py">zhēnjiǔ</span><span class="a-en">acupuncture — needles and moxibustion</span></span>
     </div>
 
     <footer class="page-footer">

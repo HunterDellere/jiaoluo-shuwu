@@ -187,6 +187,9 @@ updated: '2026-04-25'
       <span class="adj"
             data-relation="collocation"
       ><span class="a-cn">战国策</span><span class="a-py">Zhànguó Cè</span><span class="a-en">Stratagems of the Warring States — the source text</span></span>
+      <span class="adj" data-relation="synonym" data-distinct="迷途知返 names the same insight in moral-personal register — recognizing you've lost the way and turning back is the inner version of mending the pen"><span class="a-cn">迷途知返</span><span class="a-py">mí tú zhī fǎn</span><span class="a-en">to realize you are lost and turn back</span></span>
+      <span class="adj" data-relation="contrast" data-distinct="误入歧途 is the moment 亡羊补牢 corrects — having taken the wrong path; the chengyu is the diagnosis, 亡羊补牢 is the response"><span class="a-cn">误入歧途</span><span class="a-py">wù rù qí tú</span><span class="a-en">to take a wrong path by mistake</span></span>
+      <span class="adj" data-relation="collocation" data-distinct="事与愿违 names the precondition that makes 亡羊补牢 necessary — outcomes diverging from intent is the recurring trigger for repair"><span class="a-cn">事与愿违</span><span class="a-py">shì yǔ yuàn wéi</span><span class="a-en">things go contrary to ones wishes</span></span>
     </div>
 
     <footer class="page-footer">

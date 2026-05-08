@@ -247,6 +247,7 @@ pinyin: 'rúguǒ jiù'
       <span class="adj"><span class="a-cn">只要…就</span><span class="a-py">zhǐyào … jiù</span><span class="a-en">as long as … then</span></span>
       <span class="adj"><span class="a-cn">只有…才</span><span class="a-py">zhǐyǒu … cái</span><span class="a-en">only if … then (restrictive)</span></span>
       <span class="adj"><span class="a-cn">就算…也</span><span class="a-py">jiùsuàn … yě</span><span class="a-en">even if … still</span></span>
+      <span class="adj" data-relation="synonym" data-distinct="如果 fronts the conditional; 的话 closes it from behind. The two routinely combine — 如果…的话 — but 的话 alone is the softer, spoken-only form"><span class="a-cn">的话</span><span class="a-py">de huà</span><span class="a-en">if; in the case that (soft conditional)</span></span>
     </div>
 
     <footer class="page-footer">

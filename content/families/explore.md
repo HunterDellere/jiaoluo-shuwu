@@ -55,6 +55,12 @@ updated: "2026-04-25"
 
     <!--FAMILY_CONTENT-->
 
+    <div class="adj-wrap">
+      <span class="adj"><span class="a-cn">语言</span><span class="a-py">yǔyán</span><span class="a-en">The Language family — characters, vocabulary, grammar</span></span>
+      <span class="adj"><span class="a-cn">话题</span><span class="a-py">huàtí</span><span class="a-en">The Topics family — philosophy, religion, history, culture</span></span>
+      <span class="adj"><span class="a-cn">集锦</span><span class="a-py">jíjǐn</span><span class="a-en">The Collections family — chengyu and reading paths</span></span>
+    </div>
+
     <footer class="page-footer">
       <span class="footer-id">Jiǎoluò Shūwū · 角落書屋 · <span>探 tàn</span> · families/explore.html</span>
       <a href="../../index.html" class="footer-back">← Home</a>

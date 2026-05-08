@@ -178,6 +178,16 @@ related:
       </div>
     </div>
 
+    <div class="adj-wrap">
+      <span class="adj"><span class="a-cn">茶</span><span class="a-py">chá</span><span class="a-en">tea — the parent category</span></span>
+      <span class="adj"><span class="a-cn">工夫茶</span><span class="a-py">gōngfu chá</span><span class="a-en">gongfu tea — the small-pot brewing method most associated with oolong</span></span>
+      <span class="adj" data-relation="contrast" data-distinct="oolong is partially oxidized; green tea is unoxidized — oolong sits between green and red on the processing spectrum"><span class="a-cn">绿茶</span><span class="a-py">lǜchá</span><span class="a-en">green tea — the unoxidized end of the spectrum</span></span>
+      <span class="adj" data-relation="contrast" data-distinct="oolong is partially oxidized; red tea is fully oxidized — oolong is the closer cousin of red tea among the six"><span class="a-cn">红茶</span><span class="a-py">hóngchá</span><span class="a-en">red tea — the fully oxidized end of the spectrum</span></span>
+      <span class="adj"><span class="a-cn">白茶</span><span class="a-py">báichá</span><span class="a-en">white tea — also begins with a controlled wither</span></span>
+      <span class="adj"><span class="a-cn">黑茶</span><span class="a-py">hēichá</span><span class="a-en">dark tea & pu-erh — the post-fermented sibling</span></span>
+      <span class="adj"><span class="a-cn">黄茶</span><span class="a-py">huángchá</span><span class="a-en">yellow tea — the rarest of the six categories</span></span>
+    </div>
+
     <footer class="page-footer">
       <span class="footer-id">Jiǎoluò Shūwū · 角落書屋 · <span>乌龙茶</span></span>
       <a href="../../index.html" class="footer-back">← All Entries</a>

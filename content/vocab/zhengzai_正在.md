@@ -345,9 +345,12 @@ content_review: 'pending'
       <span class="adj" data-relation="contrast" data-distinct="了 marks completion -- the opposite of 正在"><span class="a-cn">了</span><span class="a-py">le</span><span class="a-en">completion particle</span></span>
       <span class="adj" data-relation="collocation"><span class="a-cn">呢</span><span class="a-py">ne</span><span class="a-en">sentence-final progressive particle</span></span>
       <span class="adj"><span class="a-cn">刚才</span><span class="a-py">gāngcái</span><span class="a-en">just now (time noun)</span></span>
+      <span class="adj" data-relation="contrast" data-distinct="刚 is a recency adverb modifying the verb (他刚到); 刚才 is a time noun standing alone"><span class="a-cn">刚</span><span class="a-py">gāng</span><span class="a-en">just (recency adverb)</span></span>
       <span class="adj"><span class="a-cn">进行中</span><span class="a-py">jìnxíng zhōng</span><span class="a-en">in progress (formal)</span></span>
       <span class="adj" data-relation="contrast" data-distinct="过 marks past experience, not ongoing action"><span class="a-cn">过</span><span class="a-py">guò</span><span class="a-en">experiential aspect</span></span>
       <span class="adj"><span class="a-cn">那时候</span><span class="a-py">nà shíhou</span><span class="a-en">at that time</span></span>
+      <span class="adj"><span class="a-cn">时间</span><span class="a-py">shíjiān</span><span class="a-en">time</span></span>
+      <span class="adj" data-relation="contrast" data-distinct="比较 introduces comparative scale; 正在 marks ongoing aspect — different grammatical work"><span class="a-cn">比较</span><span class="a-py">bǐjiào</span><span class="a-en">to compare; relatively, fairly</span></span>
     </div>
 
     <footer class="page-footer">

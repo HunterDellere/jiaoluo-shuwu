@@ -410,10 +410,13 @@ sources:
       <span class="adj" data-relation="derived"><span class="a-cn">开心</span> <span class="a-py">kāi xīn</span> <span class="a-en">happy, cheerful</span></span>
       <span class="adj" data-relation="derived"><span class="a-cn">开放</span> <span class="a-py">kāifàng</span> <span class="a-en">to open up; open-minded</span></span>
       <span class="adj" data-relation="derived"><span class="a-cn">打开</span> <span class="a-py">dǎkāi</span> <span class="a-en">to open up</span></span>
+      <span class="adj" data-relation="collocation" data-distinct="打 is the generic action helper that pairs with 开 to form 打开 — the default verb for opening physical objects"><span class="a-cn">打</span><span class="a-py">dǎ</span><span class="a-en">to hit, to strike; the most versatile verb in Mandarin</span></span>
       <span class="adj" data-relation="synonym" data-distinct="始 is classical/bookish; 开始 is the modern default"><span class="a-cn">始</span> <span class="a-py">shǐ</span> <span class="a-en">to begin (classical)</span></span>
       <span class="adj" data-relation="contrast" data-distinct="结束 ends a process; 关 closes a switch or door"><span class="a-cn">结束</span> <span class="a-py">jiéshù</span> <span class="a-en">to conclude</span></span>
       <span class="adj" data-relation="collocation"><span class="a-cn">改革</span> <span class="a-py">gǎigé</span> <span class="a-en">reform (as in 改革开放)</span></span>
       <span class="adj" data-relation="contrast" data-distinct="放 releases what was held; 开 opens what was closed"><span class="a-cn">放</span> <span class="a-py">fàng</span> <span class="a-en">to release, to put down</span></span>
+      <span class="adj"><span class="a-cn">出</span><span class="a-py">chū</span><span class="a-en">to exit; to emerge</span></span>
+      <span class="adj"><span class="a-cn">到</span><span class="a-py">dào</span><span class="a-en">to arrive; to reach</span></span>
     </div>
 
     <!-- ── RETENTION ── -->

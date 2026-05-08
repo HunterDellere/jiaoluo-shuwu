@@ -455,6 +455,9 @@ updated: '2026-04-25'
       <span class="adj" data-relation="collocation"><span class="a-cn">公民</span><span class="a-py">gōngmín</span><span class="a-en">citizen</span></span>
       <span class="adj" data-relation="collocation"><span class="a-cn">关系</span><span class="a-py">guānxi</span><span class="a-en">relationship; social capital</span></span>
       <span class="adj" data-relation="collocation"><span class="a-cn">面子</span><span class="a-py">miànzi</span><span class="a-en">social face; prestige</span></span>
+      <span class="adj" data-relation="collocation" data-distinct="风俗 are the folk practices that fill in 社会's everyday texture"><span class="a-cn">风俗</span><span class="a-py">fēngsú</span><span class="a-en">customs, folk practices</span></span>
+      <span class="adj" data-relation="collocation"><span class="a-cn">江湖</span><span class="a-py">jiānghú</span><span class="a-en">rivers and lakes — society's informal underside</span></span>
+      <span class="adj" data-relation="collocation" data-distinct="生产关系 (relations of production) and 生产力 (productive forces) are the Marxist categories that anchor 社会 in modern Chinese political vocabulary — society's structure follows from production"><span class="a-cn">生产</span><span class="a-py">shēngchǎn</span><span class="a-en">production; to produce; manufacturing</span></span>
     </div>
 
     <footer class="page-footer">

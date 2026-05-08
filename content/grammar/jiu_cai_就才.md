@@ -646,6 +646,7 @@ pinyin: 'jiù / cái'
       <span class="adj"><span class="a-cn">立刻</span><span class="a-py">lìkè</span><span class="a-en">immediately; at once</span></span>
       <span class="adj"><span class="a-cn">马上</span><span class="a-py">mǎshàng</span><span class="a-en">right away; immediately</span></span>
       <span class="adj"><span class="a-cn">都</span><span class="a-py">dōu</span><span class="a-en">already (emphatic with time, as in 都十点了)</span></span>
+      <span class="adj" data-relation="collocation" data-distinct="的话 is the soft conditional that frequently sets up a 就-consequent: 'X 的话, Y 就 …' — 的话 marks the premise, 就 the immediate result"><span class="a-cn">的话</span><span class="a-py">de huà</span><span class="a-en">if; in the case that (soft conditional)</span></span>
     </div>
 
     

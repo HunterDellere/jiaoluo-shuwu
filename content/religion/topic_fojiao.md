@@ -391,6 +391,8 @@ pinyin: 'fójiào'
       <span class="adj"><span class="a-cn">三宝</span><span class="a-py">Sānbǎo</span><span class="a-en">Three Jewels (Buddha, Dharma, Sangha)</span></span>
       <span class="adj"><span class="a-cn">佛法</span><span class="a-py">fófǎ</span><span class="a-en">the Dharma; Buddhist teaching</span></span>
       <span class="adj"><span class="a-cn">出家</span><span class="a-py">chūjiā</span><span class="a-en">to leave home; enter monastic life</span></span>
+      <span class="adj" data-relation="derived"><span class="a-cn">禅宗</span><span class="a-py">chánzōng</span><span class="a-en">Chán Buddhism (Zen)</span></span>
+      <span class="adj" data-relation="derived"><span class="a-cn">净土宗</span><span class="a-py">jìngtǔ zōng</span><span class="a-en">Pure Land school</span></span>
     </div>
 
     

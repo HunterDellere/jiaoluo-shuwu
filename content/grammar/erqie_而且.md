@@ -276,6 +276,7 @@ pinyin: 'érqiě'
       <span class="adj"><span class="a-cn">况且</span><span class="a-py">kuàngqiě</span><span class="a-en">moreover; besides; what's more</span></span>
       <span class="adj"><span class="a-cn">并且</span><span class="a-py">bìngqiě</span><span class="a-en">and; also; additionally (formal)</span></span>
       <span class="adj"><span class="a-cn">加上</span><span class="a-py">jiāshàng</span><span class="a-en">in addition; plus; adding to this</span></span>
+      <span class="adj" data-relation="contrast" data-distinct="而且 is additive cohesion (and on top of that …); 虽然…但是 is the opposite cohesion direction — concession (granted X, but Y). Both are paired-clause cohesion devices."><span class="a-cn">虽然…但是</span><span class="a-py">suīrán dànshì</span><span class="a-en">although … but (concession pivot)</span></span>
     </div>
 
     <footer class="page-footer">

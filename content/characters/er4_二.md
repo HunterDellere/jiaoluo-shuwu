@@ -368,6 +368,7 @@ updated: '2026-04-25'
       <span class="adj" data-relation="collocation"><span class="a-cn">阴阳</span><span class="a-py">yīnyáng</span><span class="a-en">yin and yang</span></span>
       <span class="adj" data-relation="collocation"><span class="a-cn">对</span><span class="a-py">duì</span><span class="a-en">pair; couple; correct</span></span>
       <span class="adj" data-relation="contrast" data-distinct="half rather than a doubled whole"><span class="a-cn">半</span><span class="a-py">bàn</span><span class="a-en">half</span></span>
+      <span class="adj" data-relation="collocation" data-distinct="量词 (measure words) sit between the number and the noun: 二 + 量词 + N. The choice of 二 vs. 两 in front of a 量词 follows specific rules — covered alongside the full classifier taxonomy."><span class="a-cn">量词</span><span class="a-py">liàngcí</span><span class="a-en">measure words; classifiers</span></span>
     </div>
 
     <!-- RETENTION -->

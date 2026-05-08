@@ -374,6 +374,8 @@ content_review: 'pending'
       <span class="adj"
             data-relation="collocation"
       ><span class="a-cn">长安</span><span class="a-py">Cháng'ān</span><span class="a-en">the ancient capital (modern Xi'an)</span></span>
+      <span class="adj" data-relation="collocation" data-distinct="北京 was repeatedly placed near the wall by dynasties governing from northern strength — the Ming rebuilt both at the same political moment"><span class="a-cn">北京</span><span class="a-py">Běijīng</span><span class="a-en">Beijing (Ming-era northern capital)</span></span>
+      <span class="adj" data-relation="collocation" data-distinct="新疆 sits beyond the wall — the silk-road frontier the wall was meant to guard"><span class="a-cn">新疆</span><span class="a-py">Xīnjiāng</span><span class="a-en">Xinjiang (silk-road frontier)</span></span>
     </div>
 
     <footer class="page-footer">

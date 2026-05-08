@@ -172,6 +172,9 @@ content_sources:
       <span class="adj"><span class="a-cn">鞭炮</span><span class="a-py">biānpào</span><span class="a-en">firecrackers</span></span>
       <span class="adj"><span class="a-cn">元宵节</span><span class="a-py">Yuánxiāo Jié</span><span class="a-en">Lantern Festival</span></span>
       <span class="adj"><span class="a-cn">过年</span><span class="a-py">guò nián</span><span class="a-en">to celebrate New Year</span></span>
+      <span class="adj" data-relation="collocation" data-distinct="端午节 is the early-summer dragon-boat festival; together with 春节 and 中秋 it makes up the canonical Han festival year"><span class="a-cn">端午节</span><span class="a-py">Duānwǔ Jié</span><span class="a-en">Dragon Boat Festival</span></span>
+      <span class="adj" data-relation="collocation" data-distinct="重阳节 is the autumn elder-honoring festival on the 9th of the 9th month — the late-year counterpart to 春节"><span class="a-cn">重阳节</span><span class="a-py">Chóngyáng Jié</span><span class="a-en">Double Ninth Festival</span></span>
+      <span class="adj" data-relation="collocation" data-distinct="饺子 are the canonical northern New Year's Eve food — gold-ingot shape, eaten at midnight"><span class="a-cn">饺子</span><span class="a-py">jiǎozi</span><span class="a-en">dumplings</span></span>
     </div>
 
     <footer class="page-footer">

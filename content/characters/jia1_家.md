@@ -956,6 +956,7 @@ content_sources:
       <span class="adj"><span class="a-cn">传统</span><span class="a-py">chuántǒng</span><span class="a-en">tradition; traditional</span></span>
       <span class="adj"><span class="a-cn">根</span><span class="a-py">gēn</span><span class="a-en">roots; origin</span></span>
       <span class="adj"><span class="a-cn">归宿</span><span class="a-py">guīsù</span><span class="a-en">final home; where one belongs</span></span>
+      <span class="adj"><span class="a-cn">屋</span><span class="a-py">wū</span><span class="a-en">room; house; dwelling</span></span>
     </div>
 
     <!-- RETENTION IMAGE -->

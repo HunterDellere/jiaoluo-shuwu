@@ -15,6 +15,15 @@ tags:
   - 'tcm'
 updated: '2026-04-19'
 pinyin: 'èrshísì jiéqì'
+faq:
+  - q: "What are the 24 solar terms?"
+    a: "二十四节气 èrshísì jiéqì are the 24 fifteen-degree segments of the sun's apparent annual path along the ecliptic. Each term marks a precise astronomical moment when the sun reaches a specific longitude — not a calendar date — so terms fall on roughly the same day each Gregorian year (within ±1 day). Together they form a precision agricultural calendar developed during the Han dynasty that still anchors farming, food, and traditional medicine in the Chinese-speaking world."
+  - q: "How do the 24 solar terms work?"
+    a: "The Earth's orbit is divided into 24 equal 15-degree arcs. Each arc takes about 15.2 days to traverse. Twelve of these are 'major' terms 中气 zhōngqì marking the middle of seasons (such as 春分 spring equinox, 夏至 summer solstice), and twelve are 'minor' terms 节气 jiéqì marking transitions (such as 立春 start of spring, 惊蛰 awakening of insects). Terms are calculated from the actual solar position, not the lunar months, so they fix agricultural timing across millennia."
+  - q: "Are the 24 solar terms part of UNESCO heritage?"
+    a: "Yes. UNESCO inscribed 二十四节气 on the Representative List of the Intangible Cultural Heritage of Humanity in 2016, recognising it as 'knowledge in China of time and practices developed through observation of the sun's annual motion.' The recognition covers the system itself plus the agricultural, culinary, and medical traditions associated with each term."
+  - q: "What is the relationship between the 24 solar terms and Chinese medicine?"
+    a: "Traditional Chinese Medicine 中医 treats each solar term as a distinct health window. The body's 气 qi is understood to shift with the season, so each term has associated foods, herbs, acupuncture priorities, and lifestyle adjustments. 立秋 calls for replenishing fluids; 冬至 is the deepest yin and the moment to begin tonifying the kidneys; 惊蛰 is when stagnant winter qi should be released through movement. The system is older than modern medicine and still actively followed."
 ---
 
 

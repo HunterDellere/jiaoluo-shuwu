@@ -186,6 +186,10 @@ pinyin: 'Sìchuān Péndì'
       <span class="adj" data-relation="collocation"><span class="a-cn">杜甫</span><span class="a-py">Dù Fǔ</span><span class="a-en">Tang dynasty poet</span></span>
       <span class="adj" data-relation="collocation"><span class="a-cn">熊猫</span><span class="a-py">xióngmāo</span><span class="a-en">giant panda</span></span>
       <span class="adj" data-relation="collocation"><span class="a-cn">长江</span><span class="a-py">Cháng Jiāng</span><span class="a-en">Yangtze River</span></span>
+      <span class="adj" data-relation="contrast" data-distinct="黄河 is the northern cradle of Han civilization; Sichuan basin's identity is the southern Yangtze counterpart with its own pre-Han bronze culture (Sanxingdui)"><span class="a-cn">黄河</span><span class="a-py">Huáng Hé</span><span class="a-en">Yellow River</span></span>
+      <span class="adj" data-relation="collocation" data-distinct="川菜 is one of the eight regional cuisines, defined precisely by this basin's geography"><span class="a-cn">八大菜系</span><span class="a-py">bā dà càixì</span><span class="a-en">the eight great cuisines</span></span>
+      <span class="adj" data-relation="collocation" data-distinct="火锅 in Sichuan style is the basin's most exported dish — 麻辣 rendered as a communal boiling cauldron"><span class="a-cn">火锅</span><span class="a-py">huǒguō</span><span class="a-en">hotpot</span></span>
+      <span class="adj" data-relation="collocation" data-distinct="豆腐 — 麻婆豆腐 (Chen Mapo's tofu) is the canonical home-style dish naming a Chengdu chef"><span class="a-cn">豆腐</span><span class="a-py">dòufu</span><span class="a-en">tofu</span></span>
     </div>
 
     <footer class="page-footer">

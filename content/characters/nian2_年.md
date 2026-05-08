@@ -226,6 +226,7 @@ content_sources:
       <span class="adj"><span class="a-cn">节日</span><span class="a-py">jiérì</span><span class="a-en">festival; holiday</span></span>
       <span class="adj"><span class="a-cn">生日</span><span class="a-py">shēngrì</span><span class="a-en">birthday</span></span>
       <span class="adj"><span class="a-cn">年龄</span><span class="a-py">niánlíng</span><span class="a-en">age</span></span>
+      <span class="adj"><span class="a-cn">龙</span><span class="a-py">lóng</span><span class="a-en">dragon — Year of the Dragon (龙年) is the most auspicious in the zodiac cycle</span></span>
     </div>
 
     <footer class="page-footer">

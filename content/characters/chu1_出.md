@@ -550,6 +550,7 @@ content_review: 'pending'
       <span class="adj" data-relation="derived"><span class="a-cn">出发</span><span class="a-py">chūfā</span><span class="a-en">to set out; to depart</span></span>
       <span class="adj" data-relation="derived" data-distinct="出口 is both the exit and the export port — two senses unified by the mouth/opening image"><span class="a-cn">出口</span><span class="a-py">chūkǒu</span><span class="a-en">export; exit; to speak out</span></span>
       <span class="adj" data-relation="derived"><span class="a-cn">出生</span><span class="a-py">chūshēng</span><span class="a-en">to be born</span></span>
+      <span class="adj" data-relation="collocation" data-distinct="生 is the life-emerging endpoint of 出生 — the threshold-crossing 出 encodes carries a life into being"><span class="a-cn">生</span><span class="a-py">shēng</span><span class="a-en">life, birth, raw, student</span></span>
       <span class="adj" data-relation="derived"><span class="a-cn">出版</span><span class="a-py">chūbǎn</span><span class="a-en">to publish</span></span>
       <span class="adj" data-relation="collocation"><span class="a-cn">冒出</span><span class="a-py">màochū</span><span class="a-en">to pop up; to suddenly emerge</span></span>
     </div>

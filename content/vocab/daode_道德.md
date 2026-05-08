@@ -438,6 +438,8 @@ content_sources:
       <span class="adj"><span class="a-cn">品格</span><span class="a-py">pǐngé</span><span class="a-en">character; moral caliber</span></span>
       <span class="adj"><span class="a-cn">孔子</span><span class="a-py">Kǒngzǐ</span><span class="a-en">Confucius</span></span>
       <span class="adj"><span class="a-cn">老子</span><span class="a-py">Lǎozǐ</span><span class="a-en">Laozi; author of the Daodejing</span></span>
+      <span class="adj" data-relation="collocation" data-distinct="事与愿违 names the moral predicament 道德 must reckon with — outcomes resist intention, yet the duty to act rightly remains"><span class="a-cn">事与愿违</span><span class="a-py">shì yǔ yuàn wéi</span><span class="a-en">things go contrary to ones wishes</span></span>
+      <span class="adj" data-relation="collocation" data-distinct="亡羊补牢 is 道德 as repair — the ethical demand to mend rather than abandon, even after the loss is real"><span class="a-cn">亡羊补牢</span><span class="a-py">wáng yáng bǔ láo</span><span class="a-en">mend the sheep pen after the sheep is lost</span></span>
     </div>
 
     <!-- RETENTION SCHOLAR BOX -->

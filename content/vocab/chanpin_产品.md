@@ -284,6 +284,7 @@ content_sources:
       <span class="adj"><span class="a-cn">市场</span><span class="a-py">shìchǎng</span><span class="a-en">market</span></span>
       <span class="adj"><span class="a-cn">消费者</span><span class="a-py">xiāofèizhě</span><span class="a-en">consumer</span></span>
       <span class="adj"><span class="a-cn">生产者</span><span class="a-py">shēngchǎnzhě</span><span class="a-en">producer</span></span>
+      <span class="adj" data-relation="collocation" data-distinct="生产 is the act/process; 产品 is its output. The pair forms the basic verb-object frame: 生产产品 (to produce products) — and the wider Marxist vocabulary built on 生产."><span class="a-cn">生产</span><span class="a-py">shēngchǎn</span><span class="a-en">to produce; production; manufacturing</span></span>
     </div>
 
     <div class="scholar" data-glyph="产" style="margin-top:2.5rem;">

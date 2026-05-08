@@ -369,6 +369,8 @@ content_review: 'pending'
       <span class="adj"><span class="a-cn">十干</span><span class="a-py">shígān</span><span class="a-en">Ten Heavenly Stems</span></span>
       <span class="adj"><span class="a-cn">红十字</span><span class="a-py">Hóng Shízì</span><span class="a-en">Red Cross</span></span>
       <span class="adj"><span class="a-cn">数字</span><span class="a-py">shùzì</span><span class="a-en">numeral; digit; number</span></span>
+      <span class="adj" data-distinct="算盘 is the bead-frame that mechanizes base-ten arithmetic — 十 is the place-value modulus the device runs on"><span class="a-cn">算盘</span><span class="a-py">suànpán</span><span class="a-en">abacus</span></span>
+      <span class="adj"><span class="a-cn">三</span><span class="a-py">sān</span><span class="a-en">three — the trinity that opens the counting sequence completed at 十</span></span>
     </div>
 
     <!-- RETENTION IMAGE -->

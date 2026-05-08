@@ -362,6 +362,11 @@ content_review: 'pending'
       <span class="adj" data-relation="derived"><span class="a-cn">伪君子</span><span class="a-py">wěi jūnzǐ</span><span class="a-en">hypocrite; false junzi</span></span>
       <span class="adj" data-relation="derived"><span class="a-cn">谦谦君子</span><span class="a-py">qiānqiān jūnzǐ</span><span class="a-en">the modest, self-effacing junzi</span></span>
       <span class="adj" data-relation="derived"><span class="a-cn">君子协议</span><span class="a-py">jūnzǐ xiéyì</span><span class="a-en">gentleman's agreement</span></span>
+      <span class="adj" data-relation="collocation" data-distinct="认真 is the everyday discipline of attention through which junzi character is built"><span class="a-cn">认真</span><span class="a-py">rènzhēn</span><span class="a-en">earnest, conscientious</span></span>
+      <span class="adj" data-relation="collocation" data-distinct="古琴 is the junzi's instrument — playing the qin was one of the four scholarly arts (琴棋书画) through which character was cultivated"><span class="a-cn">古琴</span><span class="a-py">gǔqín</span><span class="a-en">guqin zither</span></span>
+      <span class="adj" data-relation="derived" data-distinct="君子不器 is Confucius's terse statement that the junzi is not a single-purpose tool — the central image of junzi as fluid moral agent"><span class="a-cn">君子不器</span><span class="a-py">jūnzǐ bù qì</span><span class="a-en">the exemplary person is not a vessel</span></span>
+      <span class="adj" data-relation="collocation" data-distinct="欲速则不达 is the Analects warning the 君子 internalizes — haste subverts the patient cultivation by which character forms"><span class="a-cn">欲速则不达</span><span class="a-py">yù sù zé bù dá</span><span class="a-en">Haste Does Not Bring Success</span></span>
+      <span class="adj" data-relation="contrast" data-distinct="误入歧途 names the failure 君子 cultivation guards against — straying from the Way through compounding small misjudgments"><span class="a-cn">误入歧途</span><span class="a-py">wù rù qí tú</span><span class="a-en">To Stray onto the Wrong Road</span></span>
     </div>
 
     <footer class="page-footer">

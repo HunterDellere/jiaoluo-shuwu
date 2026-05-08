@@ -215,6 +215,15 @@ pinyin: 'tài le'
 
     </div>
 
+    <div class="adj-wrap">
+      <span class="adj"><span class="a-cn">很</span><span class="a-py">hěn</span><span class="a-en">very (neutral intensifier)</span></span>
+      <span class="adj"><span class="a-cn">非常</span><span class="a-py">fēicháng</span><span class="a-en">extremely (formal intensifier)</span></span>
+      <span class="adj"><span class="a-cn">比较</span><span class="a-py">bǐjiào</span><span class="a-en">relatively (mild comparative)</span></span>
+      <span class="adj"><span class="a-cn">了</span><span class="a-py">le</span><span class="a-en">change-of-state / sentence-final particle</span></span>
+      <span class="adj"><span class="a-cn">而且</span><span class="a-py">érqiě</span><span class="a-en">moreover (clause-additive)</span></span>
+      <span class="adj"><span class="a-cn">就</span><span class="a-py">jiù</span><span class="a-en">precisely / then</span></span>
+    </div>
+
     <footer class="page-footer">
       <span class="footer-id">Jiǎoluò Shūwū · 角落書屋 · <span>太…了 tài…le · too / so</span></span>
       <a href="../../index.html" class="footer-back">← All Entries</a>

@@ -233,6 +233,7 @@ content_review: 'pending'
       <span class="adj" data-relation="derived"><span class="a-cn">足球</span><span class="a-py">zúqiú</span><span class="a-en">soccer; football</span></span>
       <span class="adj" data-relation="collocation"><span class="a-cn">目</span><span class="a-py">mù</span><span class="a-en">eye (radical)</span></span>
       <span class="adj" data-relation="collocation"><span class="a-cn">耳</span><span class="a-py">ěr</span><span class="a-en">ear (radical)</span></span>
+      <span class="adj" data-relation="derived" data-distinct="画蛇添足 — the chengyu literally builds on 足: drawing a snake and then adding feet to it as the icon of pointless excess"><span class="a-cn">画蛇添足</span><span class="a-py">huà shé tiān zú</span><span class="a-en">to draw legs on a snake</span></span>
     </div>
 
     <!-- Retention image -->

@@ -237,6 +237,8 @@ updated: '2026-04-26'
       <span class="adj" data-relation="derived"><span class="a-cn">书</span><span class="a-py">shū</span><span class="a-en">to write; book; calligraphy</span></span>
       <span class="adj" data-relation="derived"><span class="a-cn">气韵</span><span class="a-py">qìyùn</span><span class="a-en">spirit resonance — the animating force of brushwork</span></span>
       <span class="adj" data-relation="derived"><span class="a-cn">骨力</span><span class="a-py">gǔlì</span><span class="a-en">bone-force; structural strength in a stroke</span></span>
+      <span class="adj" data-relation="collocation" data-distinct="文房四宝 names the brush, ink, paper, and inkstone — the material toolkit every script style depends on"><span class="a-cn">文房四宝</span><span class="a-py">wénfáng sìbǎo</span><span class="a-en">Four Treasures of the Study</span></span>
+      <span class="adj" data-relation="derived" data-distinct="篆刻 carves seal script into stone — the same script tradition as 篆书, expressed in a different medium"><span class="a-cn">篆刻</span><span class="a-py">zhuànkè</span><span class="a-en">seal carving</span></span>
     </div>
 
     <footer class="page-footer">

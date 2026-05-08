@@ -206,6 +206,7 @@ content_sources:
       <span class="adj"><span class="a-cn">扫墓</span><span class="a-py">sǎo mù</span><span class="a-en">tomb sweeping</span></span>
       <span class="adj"><span class="a-cn">冬至</span><span class="a-py">dōngzhì</span><span class="a-en">Winter Solstice</span></span>
       <span class="adj"><span class="a-cn">清明</span><span class="a-py">qīngmíng</span><span class="a-en">Clear and Bright (April)</span></span>
+      <span class="adj" data-relation="collocation" data-distinct="饺子 mark 冬至 (Winter Solstice) in northern China — a solar-term food, not just a New Year's one"><span class="a-cn">饺子</span><span class="a-py">jiǎozi</span><span class="a-en">dumplings</span></span>
     </div>
 
     <footer class="page-footer">

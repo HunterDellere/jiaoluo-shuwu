@@ -486,6 +486,8 @@ pinyin: 'rújiā'
       <span class="adj"><span class="a-cn">新儒家</span><span class="a-py">xīn rújiā</span><span class="a-en">New Confucianism</span></span>
       <span class="adj"><span class="a-cn">道统</span><span class="a-py">dàotǒng</span><span class="a-en">orthodox transmission of the Way</span></span>
       <span class="adj"><span class="a-cn">良知</span><span class="a-py">liángzhī</span><span class="a-en">innate moral knowledge (Wang Yangming)</span></span>
+      <span class="adj" data-relation="derived" data-distinct="易经 is one of the Five Classics — the cosmological text Confucius reportedly wished he had fifty more years to study"><span class="a-cn">易经</span><span class="a-py">Yìjīng</span><span class="a-en">Book of Changes (a Five Classic)</span></span>
+      <span class="adj" data-relation="derived" data-distinct="理学 is the Song-Ming Neo-Confucian synthesis built around Zhu Xi's reading of the classics"><span class="a-cn">理学</span><span class="a-py">lǐxué</span><span class="a-en">Neo-Confucianism (Zhu Xi's School of Principle)</span></span>
     </div>
 
     

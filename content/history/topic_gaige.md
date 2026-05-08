@@ -355,6 +355,8 @@ updated: '2026-04-19'
       <span class="adj"><span class="a-cn">现代化</span><span class="a-py">xiàndàihuà</span><span class="a-en">modernization — the stated goal</span></span>
       <span class="adj"><span class="a-cn">全球化</span><span class="a-py">quánqiúhuà</span><span class="a-en">globalization — the context and consequence</span></span>
       <span class="adj"><span class="a-cn">中国梦</span><span class="a-py">Zhōngguó mèng</span><span class="a-en">the China Dream — Xi Jinping's successor framing</span></span>
+      <span class="adj" data-relation="collocation" data-distinct="Pudong's reopening in the 1990s made Shanghai the showcase of reform-era urbanization"><span class="a-cn">上海</span><span class="a-py">Shànghǎi</span><span class="a-en">Shanghai</span></span>
+      <span class="adj" data-relation="collocation" data-distinct="香港 returned to Chinese sovereignty in 1997 under the one-country-two-systems formula Deng designed"><span class="a-cn">香港</span><span class="a-py">Xiānggǎng</span><span class="a-en">Hong Kong</span></span>
     </div>
 
     <footer class="page-footer">

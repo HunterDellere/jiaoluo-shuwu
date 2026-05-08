@@ -168,6 +168,15 @@ related:
       </div>
     </div>
 
+    <div class="adj-wrap">
+      <span class="adj"><span class="a-cn">茶</span><span class="a-py">chá</span><span class="a-en">tea — the parent category</span></span>
+      <span class="adj" data-relation="contrast" data-distinct="red tea is fully oxidized; green tea is unoxidized — the two extremes of the spectrum"><span class="a-cn">绿茶</span><span class="a-py">lǜchá</span><span class="a-en">green tea — the unoxidized opposite end of the spectrum</span></span>
+      <span class="adj"><span class="a-cn">乌龙茶</span><span class="a-py">wūlóngchá</span><span class="a-en">oolong — the partially oxidized middle ground</span></span>
+      <span class="adj" data-relation="contrast" data-distinct="red tea oxidizes via the leaf's own enzymes; pu-erh transforms via post-processing microbial fermentation"><span class="a-cn">黑茶</span><span class="a-py">hēichá</span><span class="a-en">dark tea & pu-erh — fermentation, not just oxidation</span></span>
+      <span class="adj"><span class="a-cn">白茶</span><span class="a-py">báichá</span><span class="a-en">white tea — the minimally processed sibling</span></span>
+      <span class="adj"><span class="a-cn">黄茶</span><span class="a-py">huángchá</span><span class="a-en">yellow tea — the rarest of the six categories</span></span>
+    </div>
+
     <footer class="page-footer">
       <span class="footer-id">Jiǎoluò Shūwū · 角落書屋 · <span>红茶</span></span>
       <a href="../../index.html" class="footer-back">← All Entries</a>

@@ -387,6 +387,8 @@ related:
       <span class="adj"><span class="a-cn">善</span><span class="a-py">shàn</span><span class="a-en">goodness; virtue</span></span>
       <span class="adj"><span class="a-cn">良心</span><span class="a-py">liángxīn</span><span class="a-en">conscience</span></span>
       <span class="adj"><span class="a-cn">慈悲</span><span class="a-py">cíbēi</span><span class="a-en">compassion (Buddhist)</span></span>
+      <span class="adj"><span class="a-cn">和</span><span class="a-py">hé</span><span class="a-en">harmony; and; with; peace</span></span>
+      <span class="adj" data-distinct="知 in 知行合一 (Wang Yangming) is the moral knowing inseparable from action — knowledge as a virtue alongside 仁"><span class="a-cn">知</span><span class="a-py">zhī</span><span class="a-en">to know; knowledge</span></span>
     </div>
 
     <!-- RETENTION IMAGE -->

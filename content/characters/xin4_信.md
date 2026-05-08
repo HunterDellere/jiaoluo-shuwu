@@ -408,6 +408,7 @@ content_review: 'pending'
       <span class="adj"><span class="a-cn">诚信</span><span class="a-py">chéngxìn</span><span class="a-en">integrity; good faith</span></span>
       <span class="adj"><span class="a-cn">信息</span><span class="a-py">xìnxī</span><span class="a-en">information; data</span></span>
       <span class="adj"><span class="a-cn">短信</span><span class="a-py">duǎnxìn</span><span class="a-en">text message</span></span>
+      <span class="adj"><span class="a-cn">告</span><span class="a-py">gào</span><span class="a-en">to tell; to announce; to report</span></span>
       <span class="adj"><span class="a-cn">言</span><span class="a-py">yán</span><span class="a-en">word; speech; to speak</span></span>
       <span class="adj"><span class="a-cn">诚</span><span class="a-py">chéng</span><span class="a-en">sincerity; genuine</span></span>
       <span class="adj"><span class="a-cn">孔子</span><span class="a-py">Kǒngzǐ</span><span class="a-en">Confucius</span></span>

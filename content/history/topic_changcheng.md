@@ -320,6 +320,7 @@ content_review: 'pending'
       <span class="adj"
             data-relation="collocation"
       ><span class="a-cn">嘉峪关</span><span class="a-py">Jiāyùguān</span><span class="a-en">Jiayu Pass — western terminus of the Ming wall</span></span>
+      <span class="adj" data-relation="collocation" data-distinct="秦始皇 ordered the first unified-empire wall by linking the existing Warring-States walls"><span class="a-cn">秦始皇</span><span class="a-py">Qín Shǐhuáng</span><span class="a-en">the First Emperor</span></span>
     </div>
 
     <footer class="page-footer">

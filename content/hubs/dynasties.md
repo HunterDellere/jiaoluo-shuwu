@@ -172,6 +172,13 @@ stages:
       <p><strong>On the Cultural Revolution:</strong> Frank Dikötter's <em>The Cultural Revolution: A People's History</em> (2016) and Yang Jisheng's <em>Tombstone</em> (on the Great Leap famine that preceded it) are the most rigorous accounts available in English.</p>
     </div>
 
+    <div class="adj-wrap">
+      <span class="adj"><span class="a-cn">四大发明与技术</span><span class="a-py">sì dà fāmíng yǔ jìshù</span><span class="a-en">Invention & Technology hub — what each dynasty contributed materially</span></span>
+      <span class="adj"><span class="a-cn">地理与语言</span><span class="a-py">dìlǐ yǔ yǔyán</span><span class="a-en">Geography & Language hub — the territorial expansions and dialect map of empire</span></span>
+      <span class="adj"><span class="a-cn">宗教地图</span><span class="a-py">zōngjiào dìtú</span><span class="a-en">Religious Map hub — Buddhism's spread under the Tang, Daoism under the Yuan</span></span>
+      <span class="adj"><span class="a-cn">哲学</span><span class="a-py">zhéxué</span><span class="a-en">Philosophy hub — the intellectual frame each dynasty inherited and reshaped</span></span>
+    </div>
+
   </main>
 
 </div>

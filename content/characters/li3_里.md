@@ -234,6 +234,9 @@ content_review: 'pending'
       <span class="adj"><span class="a-cn">公里</span><span class="a-py">gōnglǐ</span><span class="a-en">kilometer</span></span>
       <span class="adj" data-distinct="mileage, distance traveled — 里 as unit of progress rather than measurement"><span class="a-cn">里程</span><span class="a-py">lǐchéng</span><span class="a-en">mileage, distance covered</span></span>
       <span class="adj" data-distinct="interior in a technical or organizational sense — more formal than 里面"><span class="a-cn">内部</span><span class="a-py">nèibù</span><span class="a-en">interior, internal</span></span>
+      <span class="adj" data-distinct="corner — pairs with 落 in 角落, the namesake of this site"><span class="a-cn">角</span><span class="a-py">jiǎo</span><span class="a-en">corner; horn; angle</span></span>
+      <span class="adj"><span class="a-cn">屋</span><span class="a-py">wū</span><span class="a-en">room; house; dwelling</span></span>
+      <span class="adj" data-distinct="近 is the spatial measure 里 most often quantifies — kilometers of nearness"><span class="a-cn">近</span><span class="a-py">jìn</span><span class="a-en">near; close; recent</span></span>
     </div>
 
     <div class="scholar" data-glyph="田">

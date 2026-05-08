@@ -49,6 +49,12 @@ updated: "2026-04-25"
 
     <!--FAMILY_CROSSLINKS-->
 
+    <div class="adj-wrap">
+      <span class="adj"><span class="a-cn">探</span><span class="a-py">tàn</span><span class="a-en">Explore — the master entry point to all three families</span></span>
+      <span class="adj"><span class="a-cn">话题</span><span class="a-py">huàtí</span><span class="a-en">The Topics family — philosophy, religion, history, culture</span></span>
+      <span class="adj"><span class="a-cn">集锦</span><span class="a-py">jíjǐn</span><span class="a-en">The Collections family — chengyu and reading paths</span></span>
+    </div>
+
     <footer class="page-footer">
       <span class="footer-id">Jiǎoluò Shūwū · 角落書屋 · <span>语言 yǔyán</span> · families/language.html</span>
       <a href="../../index.html" class="footer-back">← Home</a>

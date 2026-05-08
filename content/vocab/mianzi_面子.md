@@ -694,6 +694,8 @@ content_sources:
       <span class="adj"><span class="a-cn">自尊</span><span class="a-py">zìzūn</span><span class="a-en">self-esteem</span></span>
       <span class="adj"><span class="a-cn">体面</span><span class="a-py">tǐmiàn</span><span class="a-en">decent; respectable; dignified</span></span>
       <span class="adj"><span class="a-cn">关系</span><span class="a-py">guānxi</span><span class="a-en">relationship; social capital</span></span>
+      <span class="adj" data-distinct="家庭 is the smallest unit where 面子 is most charged — kin obligations amplify face stakes"><span class="a-cn">家庭</span><span class="a-py">jiātíng</span><span class="a-en">family structure</span></span>
+      <span class="adj" data-relation="derived" data-distinct="面条 — the same 面 as 面子, the 'surface' of stretched dough; the polysemy isn't accidental"><span class="a-cn">面条</span><span class="a-py">miàntiáo</span><span class="a-en">noodles</span></span>
     </div>
 
     <!-- RETENTION SCHOLAR BOX -->

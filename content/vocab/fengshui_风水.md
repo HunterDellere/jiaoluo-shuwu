@@ -535,6 +535,7 @@ content_sources:
       <span class="adj"><span class="a-cn">化煞</span><span class="a-py">huàshā</span><span class="a-en">to neutralize bad energy</span></span>
       <span class="adj"><span class="a-cn">五行</span><span class="a-py">wǔxíng</span><span class="a-en">Five Phases</span></span>
       <span class="adj"><span class="a-cn">阴阳</span><span class="a-py">yīnyáng</span><span class="a-en">yin and yang</span></span>
+      <span class="adj" data-distinct="Hong Kong skyscraper architects routinely commission feng shui masters before breaking ground — the most visible modern application of the tradition"><span class="a-cn">香港</span><span class="a-py">Xiānggǎng</span><span class="a-en">Hong Kong — where modern feng shui consultation is most visibly institutionalized</span></span>
     </div>
 
     <!-- RETENTION SCHOLAR BOX -->

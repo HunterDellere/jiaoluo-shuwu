@@ -227,6 +227,7 @@ content_review: 'pending'
       <span class="adj"><span class="a-cn">水</span><span class="a-py">shuǐ</span><span class="a-en">water</span></span>
       <span class="adj"><span class="a-cn">行云</span><span class="a-py">xíng yún</span><span class="a-en">drifting clouds</span></span>
       <span class="adj"><span class="a-cn">曰</span><span class="a-py">yuē</span><span class="a-en">to say (classical)</span></span>
+      <span class="adj"><span class="a-cn">远</span><span class="a-py">yuǎn</span><span class="a-en">far — distant clouds 远云 are a recurring image in classical landscape poetry</span></span>
     </div>
 
     <div class="scholar" data-glyph="云">

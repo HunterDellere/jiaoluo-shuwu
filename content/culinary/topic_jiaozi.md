@@ -123,6 +123,12 @@ pinyin: 'jiǎozi'
         </div>
       </div>
 
+    <div class="adj-wrap">
+      <span class="adj" data-relation="contrast" data-distinct="dumplings dominate the wheat-belt north; noodles are the broader north-China staple"><span class="a-cn">面条</span><span class="a-py">miàntiáo</span><span class="a-en">noodles — the other great wheat-flour northern staple</span></span>
+      <span class="adj"><span class="a-cn">鲁菜</span><span class="a-py">lǔcài</span><span class="a-en">Shandong cuisine — northern wheat-belt school where dumplings are central</span></span>
+      <span class="adj"><span class="a-cn">八大菜系</span><span class="a-py">bā dà càixì</span><span class="a-en">the Eight Great Cuisines — every northern cuisine has its dumpling tradition</span></span>
+      <span class="adj"><span class="a-cn">豆腐</span><span class="a-py">dòufu</span><span class="a-en">tofu — a common vegetarian dumpling filling</span></span>
+    </div>
 
     
   </main>

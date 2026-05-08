@@ -195,6 +195,7 @@ content_review: 'pending'
       <span class="adj" data-relation="contrast" data-distinct="当代 means living-memory contemporary, distinct from both 近代 and 现代"><span class="a-cn">当代</span><span class="a-py">dāngdài</span><span class="a-en">contemporary era</span></span>
       <span class="adj" data-relation="collocation"><span class="a-cn">新</span><span class="a-py">xīn</span><span class="a-en">new; fresh; recent</span></span>
       <span class="adj" data-relation="collocation"><span class="a-cn">邻居</span><span class="a-py">línjū</span><span class="a-en">neighbor</span></span>
+      <span class="adj" data-relation="collocation" data-distinct="里 supplies the unit (公里) and the neighborhood (邻里) inside which 近 means anything"><span class="a-cn">里</span><span class="a-py">lǐ</span><span class="a-en">inside; within; Chinese mile</span></span>
     </div>
 
     <div class="scholar" data-glyph="近">

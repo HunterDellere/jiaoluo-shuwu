@@ -289,6 +289,10 @@ pinyin: 'zhèngmíng'
       <span class="adj" data-relation="contrast" data-distinct="格物 is epistemological investigation of things; 正名 is the prior step of ensuring titles carry their normative weight"><span class="a-cn">格物</span><span class="a-py">géwù</span><span class="a-en">investigation of things</span></span>
       <span class="adj" data-relation="contrast" data-distinct="名辩 is formal Mohist logic about how definitions hold; 正名 is the moral-political demand that titles match conduct"><span class="a-cn">名辩</span><span class="a-py">míngbiàn</span><span class="a-en">Mohist name-disputation</span></span>
       <span class="adj" data-relation="collocation"><span class="a-cn">政治</span><span class="a-py">zhèngzhì</span><span class="a-en">governance, politics</span></span>
+      <span class="adj" data-relation="contrast" data-distinct="墨家 produced 名辩 — the rival, formal-logical line of name-disputation that 正名 confronts as a political-moral demand"><span class="a-cn">墨家</span><span class="a-py">Mòjiā</span><span class="a-en">Mohism</span></span>
+      <span class="adj" data-relation="derived" data-distinct="理学 inherited the Confucian preoccupation with making titles match conduct, embedding it in a metaphysics of principle"><span class="a-cn">理学</span><span class="a-py">lǐxué</span><span class="a-en">Neo-Confucianism</span></span>
+      <span class="adj" data-relation="contrast" data-distinct="叶公好龙 is the perfect parable of name-without-substance — Lord Ye loved the title and image of dragons but fled the actual creature"><span class="a-cn">叶公好龙</span><span class="a-py">Yègōng hào lóng</span><span class="a-en">Lord Ye Loves Dragons</span></span>
+      <span class="adj" data-relation="contrast" data-distinct="三人成虎 is the political failure 正名 most fears: repeated assertion produces a 'name' (tiger) where reality has none"><span class="a-cn">三人成虎</span><span class="a-py">sān rén chéng hǔ</span><span class="a-en">three people make a tiger</span></span>
     </div>
 
     <footer class="page-footer">

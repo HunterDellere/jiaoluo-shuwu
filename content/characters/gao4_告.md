@@ -224,6 +224,7 @@ content_sources:
       <span class="adj">宣告 xuāngào — to proclaim, officially announce</span>
       <span class="adj">揭发 jiēfā — to expose, reveal wrongdoing</span>
       <span class="adj">举报 jǔbào — to report (wrongdoing) to authorities</span>
+      <span class="adj"><span class="a-cn">广</span><span class="a-py">guǎng</span><span class="a-en">wide; broad; to spread (paired with 告 in 广告 advertising)</span></span>
     </div>
 
     <footer class="page-footer">

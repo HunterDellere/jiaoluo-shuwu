@@ -384,6 +384,8 @@ pinyin: 'wǔ xíng'
       <span class="adj" data-relation="collocation"><span class="a-cn">八卦</span><span class="a-py">bāguà</span><span class="a-en">eight trigrams</span></span>
       <span class="adj" data-relation="collocation"><span class="a-cn">天命</span><span class="a-py">tiānmìng</span><span class="a-en">Mandate of Heaven</span></span>
       <span class="adj" data-relation="collocation"><span class="a-cn">黄帝内经</span><span class="a-py">Huángdì Nèijīng</span><span class="a-en">Yellow Emperor's Classic of Internal Medicine</span></span>
+      <span class="adj" data-relation="collocation" data-distinct="本草纲目 organizes the materia medica by Five-Phase correspondences in its later sections"><span class="a-cn">本草纲目</span><span class="a-py">běncǎo gāngmù</span><span class="a-en">The Great Pharmacopeia</span></span>
+      <span class="adj" data-relation="collocation" data-distinct="星宿 maps the heavens; the 28 lunar lodges sort under the same Five-Phase scheme"><span class="a-cn">星宿</span><span class="a-py">xīngxiù</span><span class="a-en">Chinese constellations — the 28 lunar lodges</span></span>
     </div>
 
     <footer class="page-footer">

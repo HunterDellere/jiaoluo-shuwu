@@ -357,6 +357,8 @@ updated: '2026-04-25'
       <span class="adj" data-relation="collocation" data-distinct="灵 emphasizes efficacy and responsiveness; 神 emphasizes the animating or divine quality"><span class="a-cn">灵</span><span class="a-py">líng</span><span class="a-en">spirit; efficacious</span></span>
       <span class="adj" data-relation="collocation"><span class="a-cn">道</span><span class="a-py">dào</span><span class="a-en">the Way</span></span>
       <span class="adj" data-relation="collocation" data-distinct="气 is the subtle material substrate of all things; 神 is the animating force or consciousness that moves through it"><span class="a-cn">气</span><span class="a-py">qì</span><span class="a-en">vital breath; energy</span></span>
+      <span class="adj" data-relation="collocation" data-distinct="福 is the blessing the gods bestow — 神 grants and humans receive"><span class="a-cn">福</span><span class="a-py">fú</span><span class="a-en">fortune; blessing</span></span>
+      <span class="adj" data-relation="derived" data-distinct="感 names how 神 is felt — the inward resonance of spirit"><span class="a-cn">感</span><span class="a-py">gǎn</span><span class="a-en">to feel; to resonate</span></span>
     </div>
 
     <!-- ── RETENTION ── -->

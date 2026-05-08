@@ -882,6 +882,7 @@ content_sources:
       <span class="adj"><span class="a-cn">声调</span><span class="a-py">shēngdiào</span><span class="a-en">tones</span></span>
       <span class="adj"><span class="a-cn">汉语</span><span class="a-py">Hànyǔ</span><span class="a-en">Mandarin; Chinese language</span></span>
       <span class="adj"><span class="a-cn">书写</span><span class="a-py">shūxiě</span><span class="a-en">to write; handwriting</span></span>
+      <span class="adj"><span class="a-cn">写</span><span class="a-py">xiě</span><span class="a-en">to write — the act that produces 字 on the page</span></span>
     </div>
 
     <!-- RETENTION IMAGE -->

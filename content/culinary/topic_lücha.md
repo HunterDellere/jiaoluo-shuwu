@@ -189,6 +189,16 @@ related:
       </div>
     </div>
 
+    <div class="adj-wrap">
+      <span class="adj"><span class="a-cn">茶</span><span class="a-py">chá</span><span class="a-en">tea — the parent category</span></span>
+      <span class="adj" data-relation="derived" data-distinct="yellow tea is essentially green tea plus a sealed-yellowing step, softening the grassy notes"><span class="a-cn">黄茶</span><span class="a-py">huángchá</span><span class="a-en">yellow tea — the closest sibling, one step away</span></span>
+      <span class="adj"><span class="a-cn">白茶</span><span class="a-py">báichá</span><span class="a-en">white tea — the other minimally processed category</span></span>
+      <span class="adj"><span class="a-cn">乌龙茶</span><span class="a-py">wūlóngchá</span><span class="a-en">oolong — partially oxidized, between green and red</span></span>
+      <span class="adj" data-relation="contrast" data-distinct="green tea is unoxidized; red tea is fully oxidized — opposite ends of the processing spectrum"><span class="a-cn">红茶</span><span class="a-py">hóngchá</span><span class="a-en">red tea — the fully oxidized opposite</span></span>
+      <span class="adj"><span class="a-cn">黑茶</span><span class="a-py">hēichá</span><span class="a-en">dark tea & pu-erh — the fermented sibling</span></span>
+      <span class="adj"><span class="a-cn">花草茶</span><span class="a-py">huācǎo chá</span><span class="a-en">tisanes — herbal infusions that share the cup but not the leaf</span></span>
+    </div>
+
     <footer class="page-footer">
       <span class="footer-id">Jiǎoluò Shūwū · 角落書屋 · <span>绿茶</span></span>
       <a href="../../index.html" class="footer-back">← All Entries</a>

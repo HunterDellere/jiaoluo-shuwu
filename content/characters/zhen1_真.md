@@ -527,6 +527,9 @@ content_sources:
       <span class="adj"><span class="a-cn">本来</span><span class="a-py">běnlái</span><span class="a-en">originally; as it was</span></span>
       <span class="adj"><span class="a-cn">原来</span><span class="a-py">yuánlái</span><span class="a-en">turn out to be (the real situation)</span></span>
       <span class="adj"><span class="a-cn">道</span><span class="a-py">dào</span><span class="a-en">the Way (Daoist context for 真人)</span></span>
+      <span class="adj" data-distinct="是 is the copula that asserts identity; 真 evaluates whether such an assertion is genuine"><span class="a-cn">是</span><span class="a-py">shì</span><span class="a-en">to be (copula)</span></span>
+      <span class="adj" data-distinct="知 names the act of knowing; 真 names the truth-condition that knowing aims at"><span class="a-cn">知</span><span class="a-py">zhī</span><span class="a-en">to know; knowledge</span></span>
+      <span class="adj" data-distinct="认 names the moment of recognition — when 真 (truth) becomes 认识 (acknowledged truth)"><span class="a-cn">认</span><span class="a-py">rèn</span><span class="a-en">to recognize; to acknowledge</span></span>
     </div>
 
     <!-- RETENTION IMAGE -->

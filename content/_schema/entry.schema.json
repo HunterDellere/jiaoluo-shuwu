@@ -111,6 +111,19 @@
       "enum": ["explore", "language", "topics", "collections"],
       "description": "Family-index pages only (category: 'families'). Tells the build which entry-grids to inject into the page body marker. 'explore' is the master hub showing all three family cards."
     },
+    "faq": {
+      "type": "array",
+      "description": "Optional FAQ items rendered as a visible <details> section + FAQPage JSON-LD. Use to capture long-tail question queries from GSC.",
+      "items": {
+        "type": "object",
+        "required": ["q", "a"],
+        "properties": {
+          "q": { "type": "string", "minLength": 3 },
+          "a": { "type": "string", "minLength": 3 }
+        },
+        "additionalProperties": false
+      }
+    },
     "stages": {
       "type": "array",
       "description": "Hub pages only — ordered reading stages, each with member entries.",

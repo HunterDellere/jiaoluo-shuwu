@@ -358,6 +358,10 @@ updated: '2026-04-25'
       <span class="adj"
             data-relation="collocation"
       ><span class="a-cn">阳明洞</span><span class="a-py">Yángmíng dòng</span><span class="a-en">Yangming Cave; the retreat for which he was named</span></span>
+      <span class="adj" data-relation="derived" data-distinct="心学 is the school name for Wang Yangming's tradition itself, the counterpart to Zhu Xi's 理学"><span class="a-cn">心学</span><span class="a-py">xīnxué</span><span class="a-en">School of Mind</span></span>
+      <span class="adj" data-relation="contrast" data-distinct="Xunzi held that human nature is bad and ritual must reshape it; Wang Yangming followed Mencius in trusting the inborn moral mind"><span class="a-cn">荀子</span><span class="a-py">Xúnzǐ</span><span class="a-en">Xunzi</span></span>
+      <span class="adj" data-relation="collocation" data-distinct="万丈高楼平地起 captures Wang Yangming's pedagogy: 良知 unfolds only through patient ground-level practice, not by leaping to grand realization"><span class="a-cn">万丈高楼平地起</span><span class="a-py">wàn zhàng gāo lóu píng dì qǐ</span><span class="a-en">A tower ten thousand zhang tall rises from flat ground</span></span>
+      <span class="adj" data-relation="derived" data-distinct="与时俱进 echoes Wang Yangming's 知行合一 in modern register — moral knowing must keep pace with the changing situation it acts within"><span class="a-cn">与时俱进</span><span class="a-py">yǔ shí jù jìn</span><span class="a-en">to advance together with the times</span></span>
     </div>
 
     <footer class="page-footer">

@@ -484,6 +484,7 @@ pinyin: 'lián…dōu/yě'
       <span class="adj"><span class="a-cn">毫不</span><span class="a-py">háo bù</span><span class="a-en">not at all, not in the least</span></span>
       <span class="adj"><span class="a-cn">连…都不/没</span><span class="a-py">lián…dōu bù/méi</span><span class="a-en">not even [minimum]</span></span>
       <span class="adj"><span class="a-cn">尽管</span><span class="a-py">jǐnguǎn</span><span class="a-en">even though, despite</span></span>
+      <span class="adj" data-relation="contrast" data-distinct="尽管 grants the premise; 虽然…但是 does the same with an explicit pivot to the consequent — the canonical concession frame in modern Chinese"><span class="a-cn">虽然…但是</span><span class="a-py">suīrán dànshì</span><span class="a-en">although … but (concession frame)</span></span>
     </div>
 
     

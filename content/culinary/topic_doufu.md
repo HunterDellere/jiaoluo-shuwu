@@ -193,6 +193,14 @@ pinyin: 'dòufu'
       </div>
     </div>
 
+    <div class="adj-wrap">
+      <span class="adj"><span class="a-cn">八大菜系</span><span class="a-py">bā dà càixì</span><span class="a-en">the Eight Great Cuisines — every regional school has its tofu canon</span></span>
+      <span class="adj"><span class="a-cn">川菜</span><span class="a-py">chuāncài</span><span class="a-en">Sichuan cuisine — home of mapo tofu, the dish's most famous expression</span></span>
+      <span class="adj"><span class="a-cn">鲁菜</span><span class="a-py">lǔcài</span><span class="a-en">Shandong cuisine — classical braised and stuffed tofu preparations</span></span>
+      <span class="adj"><span class="a-cn">粤菜</span><span class="a-py">yuècài</span><span class="a-en">Cantonese cuisine — steamed tofu showcasing the ingredient-first ethic</span></span>
+      <span class="adj"><span class="a-cn">火锅</span><span class="a-py">huǒguō</span><span class="a-en">hotpot — tofu (especially frozen tofu) is a staple ingredient</span></span>
+    </div>
+
     
   </main>
 </div>

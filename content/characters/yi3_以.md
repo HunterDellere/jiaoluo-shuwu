@@ -483,6 +483,7 @@ updated: '2026-04-25'
       <span class="adj"><span class="a-cn">因为</span><span class="a-py">yīnwèi</span><span class="a-en">because (cause)</span></span>
       <span class="adj"><span class="a-cn">通过</span><span class="a-py">tōngguò</span><span class="a-en">through; by means of (modern colloquial)</span></span>
       <span class="adj"><span class="a-cn">可以</span><span class="a-py">kěyǐ</span><span class="a-en">can; may; acceptable</span></span>
+      <span class="adj"><span class="a-cn">可</span><span class="a-py">kě</span><span class="a-en">can; may; worth; quite</span></span>
       <span class="adj"><span class="a-cn">为了</span><span class="a-py">wèile</span><span class="a-en">in order to; for the purpose of</span></span>
       <span class="adj"><span class="a-cn">之</span><span class="a-py">zhī</span><span class="a-en">classical possessive/pronoun particle</span></span>
     </div>

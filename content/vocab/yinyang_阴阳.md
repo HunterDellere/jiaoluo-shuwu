@@ -557,6 +557,9 @@ content_sources:
       <span class="adj"><span class="a-cn">对立</span><span class="a-py">duìlì</span><span class="a-en">opposition; contradiction</span></span>
       <span class="adj"><span class="a-cn">虚实</span><span class="a-py">xūshí</span><span class="a-en">deficient and substantial</span></span>
       <span class="adj"><span class="a-cn">寒热</span><span class="a-py">hánrè</span><span class="a-en">cold and heat (TCM diagnosis)</span></span>
+      <span class="adj" data-distinct="天干地支 is the sexagenary cycle whose stems and branches are themselves yin/yang-coded"><span class="a-cn">天干地支</span><span class="a-py">Tiāngān Dìzhī</span><span class="a-en">Heavenly Stems and Earthly Branches</span></span>
+      <span class="adj" data-distinct="针灸 selects points and needling direction by 阴阳 channel and 寒热 diagnosis"><span class="a-cn">针灸</span><span class="a-py">zhēnjiǔ</span><span class="a-en">acupuncture</span></span>
+      <span class="adj" data-relation="collocation" data-distinct="数字 in folk usage inherits 阴阳 coding — odd numbers are yang, even yin, which underlies why specific digits carry luck or taboo"><span class="a-cn">数字</span><span class="a-py">shùzì</span><span class="a-en">Lucky & Unlucky Numbers</span></span>
     </div>
 
     <!-- RETENTION SCHOLAR BOX -->

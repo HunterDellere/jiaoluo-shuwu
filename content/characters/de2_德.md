@@ -421,6 +421,8 @@ content_sources:
       <span class="adj"><span class="a-cn">礼</span><span class="a-py">lǐ</span><span class="a-en">ritual propriety</span></span>
       <span class="adj"><span class="a-cn">智</span><span class="a-py">zhì</span><span class="a-en">wisdom</span></span>
       <span class="adj"><span class="a-cn">信</span><span class="a-py">xìn</span><span class="a-en">trustworthiness</span></span>
+      <span class="adj" data-distinct="和 is the Confucian ideal of harmony — the well-ordered concord that virtue produces"><span class="a-cn">和</span><span class="a-py">hé</span><span class="a-en">harmony; and; with; peace</span></span>
+      <span class="adj" data-distinct="品 in 人品/品德 names moral character as a thing one has and others can grade"><span class="a-cn">品</span><span class="a-py">pǐn</span><span class="a-en">article; grade; character; to taste</span></span>
       <span class="adj"><span class="a-cn">道德经</span><span class="a-py">dàodéjīng</span><span class="a-en">the Daodejing</span></span>
       <span class="adj"><span class="a-cn">道德</span><span class="a-py">dàodé</span><span class="a-en">morality; ethics</span></span>
       <span class="adj"><span class="a-cn">君子</span><span class="a-py">jūnzǐ</span><span class="a-en">noble person; exemplary person</span></span>

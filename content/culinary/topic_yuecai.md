@@ -186,6 +186,14 @@ pinyin: 'yuècài'
       </div>
     </div>
 
+    <div class="adj-wrap">
+      <span class="adj"><span class="a-cn">八大菜系</span><span class="a-py">bā dà càixì</span><span class="a-en">the Eight Great Cuisines — Cantonese is the most globally recognized of the eight</span></span>
+      <span class="adj" data-relation="contrast" data-distinct="Cantonese hides the cook to showcase the ingredient; Sichuan layers a constructed flavor vocabulary on top of the ingredient"><span class="a-cn">川菜</span><span class="a-py">chuāncài</span><span class="a-en">Sichuan cuisine — the loud counterpart to Cantonese restraint</span></span>
+      <span class="adj"><span class="a-cn">鲁菜</span><span class="a-py">lǔcài</span><span class="a-en">Shandong cuisine — the elder northern imperial school</span></span>
+      <span class="adj"><span class="a-cn">豆腐</span><span class="a-py">dòufu</span><span class="a-en">tofu — Cantonese steamed tofu showcases the ingredient-first ethic</span></span>
+      <span class="adj"><span class="a-cn">茶</span><span class="a-py">chá</span><span class="a-en">tea — yum cha (drinking tea) is the ritual frame of Cantonese dim sum</span></span>
+    </div>
+
     
   </main>
 </div>

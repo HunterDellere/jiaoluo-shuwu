@@ -182,6 +182,8 @@ updated: '2026-04-25'
       <span class="adj"
             data-relation="derived"
       ><span class="a-cn">竹林七贤</span><span class="a-py">Zhúlín Qī Xián</span><span class="a-en">Seven Sages of the Bamboo Grove</span></span>
+      <span class="adj" data-relation="contrast" data-distinct="塞翁失马 holds that the same reversal of expectation is also a reversal of valence — what looks like loss may be the seed of gain"><span class="a-cn">塞翁失马</span><span class="a-py">sài wēng shī mǎ</span><span class="a-en">the old frontiersman loses his horse</span></span>
+      <span class="adj" data-relation="contrast" data-distinct="欲速则不达 names the same pattern from the agent's side — pushing too hard for the wished outcome is precisely what produces 事与愿违"><span class="a-cn">欲速则不达</span><span class="a-py">yù sù zé bù dá</span><span class="a-en">the wish for speed defeats arrival</span></span>
     </div>
 
     <footer class="page-footer">

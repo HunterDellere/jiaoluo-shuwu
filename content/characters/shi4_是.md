@@ -750,6 +750,7 @@ content_sources:
       <span class="adj"><span class="a-cn">看来是</span><span class="a-py">kànlái shì</span><span class="a-en">it seems to be</span></span>
       <span class="adj"><span class="a-cn">其实</span><span class="a-py">qíshí</span><span class="a-en">actually; in fact</span></span>
       <span class="adj"><span class="a-cn">本来</span><span class="a-py">běnlái</span><span class="a-en">originally; as it should be</span></span>
+      <span class="adj"><span class="a-cn">必</span><span class="a-py">bì</span><span class="a-en">certainly; must; necessarily</span></span>
     </div>
 
     <!-- RETENTION IMAGE -->

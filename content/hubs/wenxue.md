@@ -172,6 +172,12 @@ stages:
       <p><strong>For Lu Xun:</strong> William Lyell's translation of the <em>Diary of a Madman and Other Stories</em> (Hawaii, 1990) is the most accurate English rendering. Julia Lovell's more recent translation (Penguin, 2009) is more readable and includes helpful contextual notes. Reading either alongside Leo Ou-fan Lee's <em>Voices from the Iron House</em> (Indiana, 1987) gives the biographical and political context Lu Xun's fiction assumes.</p>
     </div>
 
+    <div class="adj-wrap">
+      <span class="adj"><span class="a-cn">哲学</span><span class="a-py">zhéxué</span><span class="a-en">Philosophy hub — the parallel intellectual track of the Warring States onward</span></span>
+      <span class="adj"><span class="a-cn">汉字</span><span class="a-py">hànzì</span><span class="a-en">Writing System hub — the medium that shaped what literature could do</span></span>
+      <span class="adj"><span class="a-cn">宗教地图</span><span class="a-py">zōngjiào dìtú</span><span class="a-en">Religious Map hub — Buddhist, Daoist, and folk-religious imagery throughout the canon</span></span>
+    </div>
+
   </main>
 
 </div>

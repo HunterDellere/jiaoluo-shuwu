@@ -302,6 +302,8 @@ content_sources:
       <span class="adj"><span class="a-cn">丑</span><span class="a-py">chǒu</span><span class="a-en">ugly; clown</span></span>
       <span class="adj"><span class="a-cn">完美</span><span class="a-py">wánměi</span><span class="a-en">perfect; flawless</span></span>
       <span class="adj"><span class="a-cn">欣赏</span><span class="a-py">xīnshǎng</span><span class="a-en">to appreciate; to enjoy</span></span>
+      <span class="adj"><span class="a-cn">品</span><span class="a-py">pǐn</span><span class="a-en">article; grade; character; to taste</span></span>
+      <span class="adj"><span class="a-cn">色</span><span class="a-py">sè</span><span class="a-en">color; appearance — the surface 美 evaluates</span></span>
     </div>
 
     <div class="scholar" data-glyph="美" style="margin-top:2.5rem;">

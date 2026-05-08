@@ -143,6 +143,8 @@ content_sources:
       <span class="adj"><span class="a-cn">表演</span><span class="a-py">biǎoyǎn</span><span class="a-en">performance; to perform</span></span>
       <span class="adj"><span class="a-cn">角色</span><span class="a-py">juésè</span><span class="a-en">role; character</span></span>
       <span class="adj"><span class="a-cn">舞台</span><span class="a-py">wǔtái</span><span class="a-en">stage</span></span>
+      <span class="adj"><span class="a-cn">生旦净末丑</span><span class="a-py">shēng dàn jìng mò chǒu</span><span class="a-en">the five Peking Opera role types</span></span>
+      <span class="adj"><span class="a-cn">古琴</span><span class="a-py">gǔqín</span><span class="a-en">guqin zither — the literati solo instrument; opposite end of the music spectrum from 京剧's percussion</span></span>
     </div>
 
     <footer class="page-footer">

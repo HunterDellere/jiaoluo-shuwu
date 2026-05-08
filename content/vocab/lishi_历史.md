@@ -372,6 +372,9 @@ updated: '2026-04-25'
             data-relation="contrast"
             data-distinct="记忆 is subjective and embodied; 历史 aspires to systematic record — though the boundary between them is contested"
       ><span class="a-cn">记忆</span><span class="a-py">jìyì</span><span class="a-en">memory</span></span>
+      <span class="adj" data-relation="collocation" data-distinct="笔记 are personal-scale records — the brush-records that became raw material for 历史"><span class="a-cn">笔记</span><span class="a-py">bǐjì</span><span class="a-en">notes, jottings</span></span>
+      <span class="adj" data-relation="collocation" data-distinct="故事 is narrative shaped for telling; 历史 aspires to systematic record"><span class="a-cn">故事</span><span class="a-py">gùshì</span><span class="a-en">story, tale, narrative</span></span>
+      <span class="adj" data-relation="collocation" data-distinct="历法 is the temporal scaffolding — calendar systems — within which 历史 organizes its dates"><span class="a-cn">历法</span><span class="a-py">lìfǎ</span><span class="a-en">calendrical system; lunisolar calendar</span></span>
     </div>
 
     <!-- RETENTION SCHOLAR BOX -->

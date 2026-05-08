@@ -226,6 +226,7 @@ content_sources:
       <span class="adj"><span class="a-cn">婚礼</span><span class="a-py">hūnlǐ</span><span class="a-en">wedding ceremony</span></span>
       <span class="adj"><span class="a-cn">好</span><span class="a-py">hǎo</span><span class="a-en">good (woman + child)</span></span>
       <span class="adj"><span class="a-cn">姓</span><span class="a-py">xìng</span><span class="a-en">surname</span></span>
+      <span class="adj"><span class="a-cn">姓名</span><span class="a-py">xìngmíng</span><span class="a-en">full name — surname + given name</span></span>
     </div>
 
     <footer class="page-footer">

@@ -293,6 +293,8 @@ content_review: 'pending'
       <span class="adj" data-relation="collocation" data-distinct="风水 uses stem-branch dates to assess spatial compatibility; the calendar is one input into the system"><span class="a-cn">风水</span><span class="a-py">fēngshuǐ</span><span class="a-en">feng shui</span></span>
       <span class="adj" data-relation="collocation" data-distinct="占卜 uses the cycle for divination; 天干地支 provides the date framework that divination readings interpret"><span class="a-cn">占卜</span><span class="a-py">zhānbǔ</span><span class="a-en">divination</span></span>
       <span class="adj" data-relation="collocation" data-distinct="阴阳 is the binary polarity underlying all Five Phases reasoning; the stems alternate yang/yin within each phase pair"><span class="a-cn">阴阳</span><span class="a-py">yīnyáng</span><span class="a-en">yin and yang</span></span>
+      <span class="adj" data-relation="collocation" data-distinct="星宿 — the 28 lunar lodges share the stem-branch dating system; ancient calendars correlated lodge transits with the sexagenary cycle"><span class="a-cn">星宿</span><span class="a-py">xīngxiù</span><span class="a-en">Chinese Constellations</span></span>
+      <span class="adj" data-relation="collocation" data-distinct="算盘 — the abacus reckons in base-10 places, the practical arithmetic alongside which the stem-branch ordinal cycle organized time"><span class="a-cn">算盘</span><span class="a-py">suànpán</span><span class="a-en">The Abacus</span></span>
     </div>
 
     <footer class="page-footer">

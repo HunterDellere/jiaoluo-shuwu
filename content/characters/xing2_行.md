@@ -519,6 +519,7 @@ content_sources:
       <span class="adj"><span class="a-cn">职业</span><span class="a-py">zhíyè</span><span class="a-en">profession; occupation</span></span>
       <span class="adj"><span class="a-cn">德</span><span class="a-py">dé</span><span class="a-en">virtue (paired with 行)</span></span>
       <span class="adj"><span class="a-cn">言</span><span class="a-py">yán</span><span class="a-en">words; speech (paired with 行)</span></span>
+      <span class="adj"><span class="a-cn">落</span><span class="a-py">luò</span><span class="a-en">to fall; to settle — where movement (行) ends</span></span>
     </div>
 
     <!-- RETENTION IMAGE -->

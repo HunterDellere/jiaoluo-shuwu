@@ -289,6 +289,15 @@ pinyin: 'ba'
       <p>None of these change the propositional content (the fact of going). They change only the <em>social and emotional stance</em> the speaker is taking. Modal particles are the most compressed pragmatic tools in the language.</p>
     </div>
 
+    <div class="adj-wrap">
+      <span class="adj" data-relation="contrast" data-distinct="啊 carries emotional intensity (surprise, urging); 吧 softens to a suggestion"><span class="a-cn">啊</span><span class="a-py">a</span><span class="a-en">emotional / exclamatory particle</span></span>
+      <span class="adj" data-relation="contrast" data-distinct="呢 marks ongoing topic or casual curiosity; 吧 softens to suggestion or guess"><span class="a-cn">呢</span><span class="a-py">ne</span><span class="a-en">topic / continuative particle</span></span>
+      <span class="adj" data-relation="contrast" data-distinct="嘛 carries a 'you-already-know-this' obvious-conclusion tone; 吧 is soft suggestion or hedged guess"><span class="a-cn">嘛</span><span class="a-py">ma</span><span class="a-en">obvious-conclusion particle</span></span>
+      <span class="adj"><span class="a-cn">了</span><span class="a-py">le</span><span class="a-en">change-of-state / sentence-final particle</span></span>
+      <span class="adj"><span class="a-cn">是的</span><span class="a-py">shì de</span><span class="a-en">it is so (focus / affirmation)</span></span>
+      <span class="adj"><span class="a-cn">的话</span><span class="a-py">de huà</span><span class="a-en">if (colloquial conditional)</span></span>
+    </div>
+
     <footer class="page-footer">
       <span class="footer-id">Jiǎoluò Shūwū · 角落書屋 · <span>吧 ba particle</span></span>
       <a href="../../index.html" class="footer-back">← All Entries</a>

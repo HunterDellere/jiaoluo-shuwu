@@ -209,6 +209,12 @@ stages:
       <p><strong>Companion hubs on this site:</strong> The <a href="hanzi.html">汉字 — Writing System hub</a> is Stage 2's full destination: character etymology, radical logic, and calligraphy as a living practice. The <a href="zhexue.html">哲学 — Philosophy hub</a> is where 之 and 其 from Stage 5 earn their weight; nearly every classical passage in the philosophy reading path uses both.</p>
     </div>
 
+    <div class="adj-wrap">
+      <span class="adj"><span class="a-cn">汉字</span><span class="a-py">hànzì</span><span class="a-en">Writing System hub — the destination of Stage 2 in this path</span></span>
+      <span class="adj"><span class="a-cn">地理与语言</span><span class="a-py">dìlǐ yǔ yǔyán</span><span class="a-en">Geography & Language hub — the dialect map every learner eventually meets</span></span>
+      <span class="adj"><span class="a-cn">哲学</span><span class="a-py">zhéxué</span><span class="a-en">Philosophy hub — where Stage 5's classical particles earn their keep</span></span>
+    </div>
+
   </main>
 
 </div>

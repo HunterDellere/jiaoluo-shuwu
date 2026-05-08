@@ -256,6 +256,7 @@ content_review: 'pending'
       <span class="adj" data-relation="synonym" data-distinct="合 emphasizes combination and fit; 和 emphasizes harmonious blending"><span class="a-cn">合</span><span class="a-py">hé</span><span class="a-en">to combine; to fit together</span></span>
       <span class="adj" data-relation="contrast" data-distinct="同 is mere sameness or agreement; 和 is harmony of different things — Confucius explicitly distinguishes the two"><span class="a-cn">同</span><span class="a-py">tóng</span><span class="a-en">same; together; to agree</span></span>
       <span class="adj" data-relation="derived"><span class="a-cn">和解</span><span class="a-py">héjiě</span><span class="a-en">reconciliation</span></span>
+      <span class="adj" data-relation="contrast" data-distinct="关 closes and bounds; 和 reconciles and joins — opposed social moves on the same connections"><span class="a-cn">关</span><span class="a-py">guān</span><span class="a-en">to close; to concern; the frontier pass</span></span>
     </div>
 
     <span class="section-anchor" id="retention"></span>

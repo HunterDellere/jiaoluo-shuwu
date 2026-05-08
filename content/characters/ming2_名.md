@@ -397,6 +397,7 @@ content_review: 'pending'
       <span class="adj" data-relation="derived"><span class="a-cn">名家</span><span class="a-py">Míngjiā</span><span class="a-en">School of Names</span></span>
       <span class="adj" data-relation="collocation"><span class="a-cn">身份</span><span class="a-py">shēnfèn</span><span class="a-en">identity; status</span></span>
       <span class="adj" data-relation="collocation"><span class="a-cn">称呼</span><span class="a-py">chēnghū</span><span class="a-en">form of address</span></span>
+      <span class="adj" data-relation="collocation" data-distinct="姓名 is the surname-plus-given-name compound; 名 alone is just the given name"><span class="a-cn">姓名</span><span class="a-py">xìngmíng</span><span class="a-en">full name (surname + given name)</span></span>
     </div>
 
     <!-- RETENTION IMAGE -->

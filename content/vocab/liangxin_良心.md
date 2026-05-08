@@ -290,6 +290,8 @@ updated: '2026-04-25'
       <span class="adj" data-relation="collocation"><span class="a-cn">知行合一</span><span class="a-py">zhīxíng hé yī</span><span class="a-en">unity of knowing and acting</span></span>
       <span class="adj"><span class="a-cn">王阳明</span><span class="a-py">Wáng Yángmíng</span><span class="a-en">Wang Yangming</span></span>
       <span class="adj" data-relation="contrast" data-distinct="羞耻心 is the capacity for shame specifically; 良心 is broader moral perception"><span class="a-cn">羞耻心</span><span class="a-py">xiūchǐ xīn</span><span class="a-en">sense of shame</span></span>
+      <span class="adj" data-relation="collocation" data-distinct="人生 is the life journey across which 良心 must be answered to"><span class="a-cn">人生</span><span class="a-py">rénshēng</span><span class="a-en">human life; one's life journey</span></span>
+      <span class="adj" data-relation="collocation" data-distinct="认真 is the attentive disposition through which 良心 is enacted in everyday work"><span class="a-cn">认真</span><span class="a-py">rènzhēn</span><span class="a-en">earnest, conscientious</span></span>
     </div>
 
     <footer class="page-footer">

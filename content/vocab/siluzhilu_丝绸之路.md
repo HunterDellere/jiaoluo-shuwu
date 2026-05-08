@@ -171,6 +171,9 @@ content_review: 'pending'
       <span class="adj"><span class="a-cn">海上</span><span class="a-py">hǎishàng</span><span class="a-en">maritime</span></span>
       <span class="adj"><span class="a-cn">贸易</span><span class="a-py">màoyì</span><span class="a-en">trade, commerce</span></span>
       <span class="adj"><span class="a-cn">西域</span><span class="a-py">xīyù</span><span class="a-en">the Western Regions</span></span>
+      <span class="adj"><span class="a-cn">丝绸</span><span class="a-py">sīchóu</span><span class="a-en">silk — the namesake commodity of the route</span></span>
+      <span class="adj"><span class="a-cn">四大发明</span><span class="a-py">sì dà fāmíng</span><span class="a-en">the Four Great Inventions — paper and printing traveled west along these routes</span></span>
+      <span class="adj"><span class="a-cn">伊斯兰教</span><span class="a-py">yīsīlán jiào</span><span class="a-en">Islam — reached Tang-dynasty China via Arab merchants on these routes</span></span>
     </div>
 
     <footer class="page-footer">

@@ -639,6 +639,7 @@ content_sources:
       <span class="adj"><span class="a-cn">义务</span><span class="a-py">yìwù</span><span class="a-en">obligation; duty</span></span>
       <span class="adj"><span class="a-cn">人情</span><span class="a-py">rénqíng</span><span class="a-en">social obligation; human feeling</span></span>
       <span class="adj"><span class="a-cn">面子</span><span class="a-py">miànzi</span><span class="a-en">face; social prestige</span></span>
+      <span class="adj" data-distinct="送礼 is one of the canonical practices through which 关系 is opened, maintained, and called in"><span class="a-cn">送礼</span><span class="a-py">sònglǐ</span><span class="a-en">gift-giving</span></span>
     </div>
 
     <!-- RETENTION SCHOLAR BOX -->

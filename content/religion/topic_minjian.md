@@ -573,6 +573,10 @@ pinyin: 'mínjiān xìnyǎng'
       <span class="adj"><span class="a-cn">香炉</span><span class="a-py">xiānglú</span><span class="a-en">incense burner</span></span>
       <span class="adj"><span class="a-cn">牌位</span><span class="a-py">páiwèi</span><span class="a-en">spirit tablet (ancestor tablet)</span></span>
       <span class="adj"><span class="a-cn">道观</span><span class="a-py">dàoguān</span><span class="a-en">Daoist temple</span></span>
+      <span class="adj" data-relation="derived"><span class="a-cn">城隍</span><span class="a-py">chénghuáng</span><span class="a-en">city god (tutelary deity)</span></span>
+      <span class="adj" data-relation="derived"><span class="a-cn">萨满教</span><span class="a-py">sàmǎn jiào</span><span class="a-en">shamanism (northern indigenous tradition)</span></span>
+      <span class="adj" data-relation="collocation" data-distinct="迷信 is the modern reframing of folk-religion practices as superstition — a polemical category, not an emic one"><span class="a-cn">迷信</span><span class="a-py">mìxìn</span><span class="a-en">superstition</span></span>
+      <span class="adj" data-relation="collocation" data-distinct="颜色 carries the lucky/unlucky charge — red for fortune, white for mourning — that 民间 ritual operationalizes"><span class="a-cn">颜色</span><span class="a-py">yánsè</span><span class="a-en">colors and luck</span></span>
     </div>
 
     

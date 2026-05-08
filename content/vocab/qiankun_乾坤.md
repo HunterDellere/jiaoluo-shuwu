@@ -366,6 +366,8 @@ updated: '2026-04-25'
       <span class="adj" data-relation="collocation"><span class="a-cn">宇宙</span><span class="a-py">yǔzhòu</span><span class="a-en">universe; cosmos</span></span>
       <span class="adj" data-relation="collocation"><span class="a-cn">万物</span><span class="a-py">wànwù</span><span class="a-en">the ten thousand things; all phenomena</span></span>
       <span class="adj" data-relation="collocation"><span class="a-cn">变化</span><span class="a-py">biànhuà</span><span class="a-en">change; transformation</span></span>
+      <span class="adj" data-relation="collocation"><span class="a-cn">天人合一</span><span class="a-py">tiān rén hé yī</span><span class="a-en">Heaven and humanity as one</span></span>
+      <span class="adj" data-relation="collocation" data-distinct="天干地支 is the sexagenary cycle — the calendrical operationalization of the same heaven-earth pairing 乾坤 names cosmologically"><span class="a-cn">天干地支</span><span class="a-py">Tiāngān Dìzhī</span><span class="a-en">Heavenly Stems and Earthly Branches</span></span>
     </div>
 
     <!-- RETENTION SCHOLAR BOX -->

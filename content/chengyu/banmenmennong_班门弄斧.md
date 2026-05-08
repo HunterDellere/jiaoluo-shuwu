@@ -244,6 +244,7 @@ content_review: 'pending'
       <span class="adj" data-relation="collocation"><span class="a-cn">技艺</span><span class="a-py">jìyì</span><span class="a-en">craft; skill</span></span>
       <span class="adj" data-relation="collocation"><span class="a-cn">大师</span><span class="a-py">dàshī</span><span class="a-en">master; grandmaster</span></span>
       <span class="adj" data-relation="collocation" data-distinct="the virtue the axe-brandisher is missing"><span class="a-cn">谦虚</span><span class="a-py">qiānxū</span><span class="a-en">humility; modesty</span></span>
+      <span class="adj" data-relation="contrast" data-distinct="青出于蓝 is the positive counterpart — the student rightly surpassing the master, not amateur showmanship before one"><span class="a-cn">青出于蓝</span><span class="a-py">qīng chū yú lán</span><span class="a-en">the student surpasses the teacher</span></span>
     </div>
 
     <!-- RETENTION SCHOLAR BOX -->

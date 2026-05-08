@@ -718,6 +718,7 @@ pinyin: 'liàngcí'
       <span class="adj"><span class="a-cn">部分</span><span class="a-py">bùfen</span><span class="a-en">part, portion</span></span>
       <span class="adj"><span class="a-cn">整个</span><span class="a-py">zhěnggè</span><span class="a-en">the whole, entire</span></span>
       <span class="adj"><span class="a-cn">动量词</span><span class="a-py">dòngliàngcí</span><span class="a-en">verbal measure word (次/遍/回)</span></span>
+      <span class="adj" data-distinct="筷子 takes the paired-object measure 双 — a textbook example for teaching pair-counting 量词"><span class="a-cn">筷子</span><span class="a-py">kuàizi</span><span class="a-en">chopsticks (a 双 — paired measure word)</span></span>
     </div>
 
     

@@ -134,6 +134,7 @@ content_review: 'pending'
       <span class="adj" data-relation="derived"><span class="a-cn">东北</span><span class="a-py">dōngběi</span><span class="a-en">Northeast; Manchuria</span></span>
       <span class="adj" data-relation="collocation"><span class="a-cn">长城</span><span class="a-py">Chángchéng</span><span class="a-en">Great Wall</span></span>
       <span class="adj" data-relation="collocation"><span class="a-cn">冬</span><span class="a-py">dōng</span><span class="a-en">winter</span></span>
+      <span class="adj" data-relation="derived"><span class="a-cn">北京</span><span class="a-py">Běijīng</span><span class="a-en">Beijing — the Northern Capital</span></span>
     </div>
 
     <div class="scholar" data-glyph="北">
