@@ -795,4 +795,160 @@ else { window.__enhanceInit = true; (function () {
     }
   })();
 
+  // ── HSK review mode: per-row progress checkboxes, tally bar, play-all ──
+  // Persisted in localStorage under shuwo-hsk-{level}; one Set per level.
+  // The keys are stable (`c-爱`, `v-爱情`) so list reordering doesn't reset.
+  (function initHsk() {
+    var bar = document.querySelector('.hsk-review-bar');
+    if (!bar) return;
+    var level = bar.dataset.hskLevel;
+    var total = parseInt(bar.dataset.hskTotal, 10) || 0;
+    var storageKey = 'shuwo-hsk-' + level;
+
+    function readProgress() {
+      try {
+        var raw = localStorage.getItem(storageKey);
+        return raw ? new Set(JSON.parse(raw)) : new Set();
+      } catch (e) { return new Set(); }
+    }
+    function writeProgress(set) {
+      try { localStorage.setItem(storageKey, JSON.stringify(Array.from(set))); } catch (e) {}
+    }
+
+    var progress = readProgress();
+    var countEl = bar.querySelector('[data-hsk-reviewed-count]');
+    var fillEl = bar.querySelector('[data-hsk-progress-fill]');
+
+    function syncTally() {
+      if (countEl) countEl.textContent = String(progress.size);
+      if (fillEl && total > 0) fillEl.style.width = (100 * progress.size / total).toFixed(1) + '%';
+    }
+
+    // Initialize: check the boxes for already-reviewed items
+    document.querySelectorAll('.hsk-check').forEach(function (cb) {
+      var key = cb.dataset.hskKey;
+      if (progress.has(key)) {
+        cb.checked = true;
+        var li = cb.closest('[data-hsk-item]');
+        if (li) li.classList.add('hsk-item-reviewed');
+      }
+    });
+    syncTally();
+
+    document.addEventListener('change', function (e) {
+      var cb = e.target.closest && e.target.closest('.hsk-check');
+      if (!cb) return;
+      var key = cb.dataset.hskKey;
+      var li = cb.closest('[data-hsk-item]');
+      if (cb.checked) {
+        progress.add(key);
+        if (li) li.classList.add('hsk-item-reviewed');
+      } else {
+        progress.delete(key);
+        if (li) li.classList.remove('hsk-item-reviewed');
+      }
+      writeProgress(progress);
+      syncTally();
+    });
+
+    // Reset
+    var resetBtn = bar.querySelector('[data-hsk-reset]');
+    if (resetBtn) {
+      resetBtn.addEventListener('click', function () {
+        if (!progress.size) return;
+        if (!confirm('Reset progress for HSK ' + level + '?')) return;
+        progress = new Set();
+        writeProgress(progress);
+        document.querySelectorAll('.hsk-check').forEach(function (cb) {
+          cb.checked = false;
+          var li = cb.closest('[data-hsk-item]');
+          if (li) li.classList.remove('hsk-item-reviewed');
+        });
+        syncTally();
+      });
+    }
+
+    // Jump to first unreviewed
+    var jumpBtn = bar.querySelector('[data-hsk-jump-next]');
+    if (jumpBtn) {
+      jumpBtn.addEventListener('click', function () {
+        var next = null;
+        var items = document.querySelectorAll('[data-hsk-item]');
+        for (var i = 0; i < items.length; i++) {
+          var k = items[i].dataset.hskItem;
+          if (!progress.has(k)) { next = items[i]; break; }
+        }
+        if (next) {
+          next.scrollIntoView({ behavior: 'smooth', block: 'center' });
+          next.classList.add('hsk-item-pulse');
+          setTimeout(function () { next.classList.remove('hsk-item-pulse'); }, 1200);
+        }
+      });
+    }
+
+    // Print
+    var printBtn = bar.querySelector('[data-hsk-print]');
+    if (printBtn) printBtn.addEventListener('click', function () { window.print(); });
+
+    // Play-all: walk every .hsk-audio in document order, click each one,
+    // wait for it to finish, then advance. Click the button again to stop.
+    var playAllBtn = bar.querySelector('[data-hsk-play-all]');
+    if (playAllBtn) {
+      var playing = false;
+      var stopFlag = false;
+      var audioBtns = Array.prototype.slice.call(document.querySelectorAll('.hsk-audio'));
+
+      function setPlayingUi(on) {
+        playAllBtn.classList.toggle('hsk-action-active', on);
+        playAllBtn.textContent = on ? '■ Stop' : '▶ Play all';
+      }
+
+      function waitForButtonEnd(btn) {
+        // Resolve when the button leaves the .playing class (signal that
+        // the underlying <audio> ended, or fell back to SpeechSynthesis end).
+        return new Promise(function (resolve) {
+          var attempts = 0;
+          var iv = setInterval(function () {
+            attempts++;
+            if (!btn.classList.contains('playing') || attempts > 200) {
+              clearInterval(iv);
+              resolve();
+            }
+          }, 80);
+        });
+      }
+
+      async function runAll() {
+        for (var i = 0; i < audioBtns.length; i++) {
+          if (stopFlag) break;
+          var btn = audioBtns[i];
+          btn.scrollIntoView({ behavior: 'smooth', block: 'center' });
+          btn.click();
+          // Small delay so .playing class is applied before we start polling
+          await new Promise(function (r) { setTimeout(r, 120); });
+          await waitForButtonEnd(btn);
+          await new Promise(function (r) { setTimeout(r, 220); });
+        }
+        playing = false;
+        stopFlag = false;
+        setPlayingUi(false);
+      }
+
+      playAllBtn.addEventListener('click', function () {
+        if (playing) {
+          stopFlag = true;
+          // Stop any currently-playing audio
+          document.querySelectorAll('.audio-btn.playing').forEach(function (b) { b.classList.remove('playing'); });
+          if (window.speechSynthesis) try { window.speechSynthesis.cancel(); } catch (e) {}
+          return;
+        }
+        if (!audioBtns.length) return;
+        playing = true;
+        stopFlag = false;
+        setPlayingUi(true);
+        runAll();
+      });
+    }
+  })();
+
 }()); }
