@@ -159,6 +159,11 @@ content_sources:
       <span class="adj"><span class="a-cn">古典</span><span class="a-py">gǔdiǎn</span><span class="a-en">classical</span></span>
       <span class="adj"><span class="a-cn">韵律</span><span class="a-py">yùnlǜ</span><span class="a-en">rhythm; meter</span></span>
       <span class="adj"><span class="a-cn">散文</span><span class="a-py">sǎnwén</span><span class="a-en">prose; essay</span></span>
+      <span class="adj"><span class="a-cn">唐诗</span><span class="a-py">tángshī</span><span class="a-en">Tang poetry — the canonical era for 诗</span></span>
+      <span class="adj"><span class="a-cn">宋词</span><span class="a-py">sòngcí</span><span class="a-en">Song lyric — the canonical era for 词</span></span>
+      <span class="adj" data-relation="collocation" data-distinct="Du Fu wrote his late masterpieces from a thatched cottage in the Sichuan Basin during the An Lushan exile years"><span class="a-cn">四川盆地</span><span class="a-py">Sìchuān péndì</span><span class="a-en">the Sichuan Basin</span></span>
+      <span class="adj" data-relation="collocation" data-distinct="唐朝 is the dynasty under which the canonical 诗 form crystallized; 唐诗 is the literary outcome, 唐朝 the political vessel"><span class="a-cn">唐朝</span><span class="a-py">Táng cháo</span><span class="a-en">Tang dynasty</span></span>
+      <span class="adj" data-relation="collocation" data-distinct="万丈高楼平地起 is the foundational-craft aphorism poets internalize: mastery rises from sustained practice on small forms"><span class="a-cn">万丈高楼平地起</span><span class="a-py">wàn zhàng gāo lóu píng dì qǐ</span><span class="a-en">A tower ten thousand zhang tall rises from flat ground</span></span>
     </div>
 
     <footer class="page-footer">

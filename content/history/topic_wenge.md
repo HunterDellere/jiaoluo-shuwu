@@ -263,6 +263,8 @@ pinyin: 'wénhuà dà gémìng'
       <span class="adj"><span class="a-cn">林彪</span><span class="a-py">Lín Biāo</span><span class="a-en">Lin Biao, Mao's designated successor (d. 1971)</span></span>
       <span class="adj"><span class="a-cn">改革开放</span><span class="a-py">Gǎigé Kāifàng</span><span class="a-en">Reform and Opening Up (Deng's response)</span></span>
       <span class="adj"><span class="a-cn">历史决议</span><span class="a-py">lìshǐ juéyì</span><span class="a-en">Resolution on Party History (1981 official verdict)</span></span>
+      <span class="adj" data-relation="collocation" data-distinct="鲁迅 was the one pre-1949 writer Mao kept canonical during the Cultural Revolution — almost everyone else was banned, but Lu Xun's anti-traditional voice was claimed for the regime"><span class="a-cn">鲁迅</span><span class="a-py">Lǔ Xùn</span><span class="a-en">Lu Xun</span></span>
+      <span class="adj" data-relation="contrast" data-distinct="昆曲 was banned during the CR as feudal art; the eight 样板戏 model operas replaced the entire traditional opera repertoire"><span class="a-cn">昆曲</span><span class="a-py">kūnqǔ</span><span class="a-en">Kun Opera</span></span>
     </div>
 
     

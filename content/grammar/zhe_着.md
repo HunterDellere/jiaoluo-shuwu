@@ -529,6 +529,7 @@ pinyin: 'zhe'
       <span class="adj"><span class="a-cn">一直</span><span class="a-py">yīzhí</span><span class="a-en">continuously, all along</span></span>
       <span class="adj"><span class="a-cn">还</span><span class="a-py">hái</span><span class="a-en">still (ongoing)</span></span>
       <span class="adj"><span class="a-cn">呢</span><span class="a-py">ne</span><span class="a-en">softening particle (used with 着 to soften)</span></span>
+      <span class="adj" data-relation="collocation" data-distinct="着 marks one ongoing action; 一边…一边 stacks two ongoing actions running in parallel. The 着 verb often nests inside an 一边 clause."><span class="a-cn">一边…一边</span><span class="a-py">yībiān yībiān</span><span class="a-en">while doing; at the same time</span></span>
     </div>
 
     <footer class="page-footer">

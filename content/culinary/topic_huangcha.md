@@ -137,6 +137,15 @@ related:
       </div>
     </div>
 
+    <div class="adj-wrap">
+      <span class="adj"><span class="a-cn">茶</span><span class="a-py">chá</span><span class="a-en">tea — the parent category</span></span>
+      <span class="adj" data-relation="derived" data-distinct="yellow tea adds the sealed-yellowing (闷黄) step to a green-tea base, producing a softer, less grassy character"><span class="a-cn">绿茶</span><span class="a-py">lǜchá</span><span class="a-en">green tea — the closest sibling, with one extra step</span></span>
+      <span class="adj"><span class="a-cn">白茶</span><span class="a-py">báichá</span><span class="a-en">white tea — the other minimally processed category</span></span>
+      <span class="adj"><span class="a-cn">乌龙茶</span><span class="a-py">wūlóngchá</span><span class="a-en">oolong — the partially oxidized middle ground</span></span>
+      <span class="adj"><span class="a-cn">红茶</span><span class="a-py">hóngchá</span><span class="a-en">red tea (Western "black tea") — the fully oxidized sibling</span></span>
+      <span class="adj"><span class="a-cn">黑茶</span><span class="a-py">hēichá</span><span class="a-en">dark tea & pu-erh — the fermented sibling</span></span>
+    </div>
+
     <footer class="page-footer">
       <span class="footer-id">Jiǎoluò Shūwū · 角落書屋 · <span>黄茶</span></span>
       <a href="../../index.html" class="footer-back">← All Entries</a>

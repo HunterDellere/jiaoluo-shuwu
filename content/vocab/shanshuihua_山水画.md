@@ -270,6 +270,10 @@ pinyin: 'shānshuǐhuà'
       <span class="adj" data-relation="derived"><span class="a-cn">王维</span><span class="a-py">Wáng Wéi</span><span class="a-en">Tang poet-painter</span></span>
       <span class="adj" data-relation="collocation" data-distinct="painting by scholar-officials as cultivation, not craft"><span class="a-cn">文人画</span><span class="a-py">wénrénhuà</span><span class="a-en">literati painting</span></span>
       <span class="adj" data-relation="derived"><span class="a-cn">六法</span><span class="a-py">liùfǎ</span><span class="a-en">Six Principles</span></span>
+      <span class="adj" data-relation="collocation" data-distinct="诗词 and 山水画 share the literati aesthetic — poems were often written directly onto landscape paintings"><span class="a-cn">诗词</span><span class="a-py">shīcí</span><span class="a-en">Chinese poetry</span></span>
+      <span class="adj" data-relation="collocation"><span class="a-cn">京剧</span><span class="a-py">jīngjù</span><span class="a-en">Peking Opera</span></span>
+      <span class="adj" data-relation="collocation" data-distinct="山清水秀 is the four-character phrase 山水画 most often visualizes — the canonical landscape ideal"><span class="a-cn">山清水秀</span><span class="a-py">shān qīng shuǐ xiù</span><span class="a-en">Mountains Clear, Waters Lovely</span></span>
+      <span class="adj" data-relation="contrast" data-distinct="东施效颦 is the cautionary tale every painter inherits — copying surface form without grasping the spirit produces ugliness"><span class="a-cn">东施效颦</span><span class="a-py">Dōng Shī xiào pín</span><span class="a-en">to imitate blindly without understanding — and make things worse</span></span>
     </div>
 
     <footer class="page-footer">

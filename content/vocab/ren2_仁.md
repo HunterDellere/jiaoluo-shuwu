@@ -357,6 +357,7 @@ content_sources:
       <span class="adj"><span class="a-cn">道德</span><span class="a-py">dàodé</span><span class="a-en">morality; ethics</span></span>
       <span class="adj"><span class="a-cn">良心</span><span class="a-py">liángxīn</span><span class="a-en">conscience</span></span>
       <span class="adj"><span class="a-cn">爱</span><span class="a-py">ài</span><span class="a-en">love; to love</span></span>
+      <span class="adj" data-relation="antonym" data-distinct="一毛不拔 is the Yangist position Mencius cites as the foil to 仁 — refusing even the smallest sacrifice for the world is exactly what 仁 dissolves"><span class="a-cn">一毛不拔</span><span class="a-py">yī máo bù bá</span><span class="a-en">Not Give Even a Hair</span></span>
     </div>
 
     <!-- RETENTION SCHOLAR BOX -->

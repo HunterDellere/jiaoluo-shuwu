@@ -128,6 +128,7 @@ content_review: 'pending'
       <span class="adj" data-relation="derived"><span class="a-cn">指南针</span><span class="a-py">zhǐnánzhēn</span><span class="a-en">compass</span></span>
       <span class="adj" data-relation="collocation"><span class="a-cn">北京</span><span class="a-py">Běijīng</span><span class="a-en">Beijing</span></span>
       <span class="adj" data-relation="collocation"><span class="a-cn">方向</span><span class="a-py">fāngxiàng</span><span class="a-en">direction</span></span>
+      <span class="adj" data-relation="collocation" data-distinct="指南针 is one of the 四大发明 — the south-pointer is the most famous compound built on 南"><span class="a-cn">四大发明</span><span class="a-py">sì dà fāmíng</span><span class="a-en">the Four Great Inventions</span></span>
     </div>
 
     <div class="scholar" data-glyph="南">

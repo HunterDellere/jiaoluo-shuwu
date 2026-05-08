@@ -37,16 +37,28 @@ function chipKeysFor(entry) {
   const keys = new Set();
   if (entry.char) keys.add(entry.char);
   if (entry.title) {
-    const m = entry.title.match(/^([㐀-鿿豈-﫿]+)/);
+    // Allow internal ellipsis (…) so grammar-pair titles like "虽然…但是"
+    // capture their full form, which matches adj-index keys that include the ellipsis joiner.
+    const m = entry.title.match(/^([㐀-鿿豈-﫿…]+)/);
     if (m) {
       const full = m[1];
       keys.add(full);
-      if (full.length >= 3) {
+      const stripped = full.replace(/…/g, '');
+      if (stripped && stripped !== full) keys.add(stripped);
+      const base = stripped || full;
+      const hadEllipsis = full.includes('…');
+      // Generate length-2,3 substrings for shorthand chip keys (e.g. 战国时期 -> 战国).
+      if (base.length >= 3) {
         for (let len = 2; len <= 3; len++) {
-          for (let i = 0; i + len <= full.length; i++) {
-            keys.add(full.slice(i, i + len));
+          for (let i = 0; i + len <= base.length; i++) {
+            keys.add(base.slice(i, i + len));
           }
         }
+      }
+      // For ellipsis titles only, also add length-1 substrings — these titles
+      // (e.g. 太…了) often have single-hanzi chip variants on referrer pages.
+      if (hadEllipsis) {
+        for (const ch of base) keys.add(ch);
       }
     }
   }

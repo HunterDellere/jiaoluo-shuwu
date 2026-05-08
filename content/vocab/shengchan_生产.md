@@ -256,6 +256,7 @@ content_sources:
       <span class="adj"><span class="a-cn">劳动</span><span class="a-py">láodòng</span><span class="a-en">labor; to labor</span></span>
       <span class="adj"><span class="a-cn">工厂</span><span class="a-py">gōngchǎng</span><span class="a-en">factory</span></span>
       <span class="adj"><span class="a-cn">效率</span><span class="a-py">xiàolǜ</span><span class="a-en">efficiency</span></span>
+      <span class="adj" data-distinct="产品 is the output of 生产 — the finished good"><span class="a-cn">产品</span><span class="a-py">chǎnpǐn</span><span class="a-en">product, manufactured good</span></span>
     </div>
 
     <div class="scholar" data-glyph="生" style="margin-top:2.5rem;">

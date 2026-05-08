@@ -142,6 +142,12 @@ stages:
       <p><strong>Key references:</strong> Kenneth Dean and Thomas Lamarre's <em>Ritual and Its Consequences</em> (2008) covers the social theory of Chinese ritual. For the practical calendar, the China Heritage website (chinaheritage.net) run by Geremie Barmé provides the best English-language contextual commentary on festivals as they occur each year.</p>
     </div>
 
+    <div class="adj-wrap">
+      <span class="adj"><span class="a-cn">宗教地图</span><span class="a-py">zōngjiào dìtú</span><span class="a-en">Religious Map hub — the religious roots beneath the festival calendar</span></span>
+      <span class="adj"><span class="a-cn">哲学</span><span class="a-py">zhéxué</span><span class="a-en">Philosophy hub — yin-yang and the cosmology behind the 24 solar terms</span></span>
+      <span class="adj"><span class="a-cn">六大茶类</span><span class="a-py">liù dà chá lèi</span><span class="a-en">Six Teas hub — festival drinks and seasonal teas</span></span>
+    </div>
+
   </main>
 
 </div>

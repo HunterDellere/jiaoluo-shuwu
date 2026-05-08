@@ -145,6 +145,7 @@ content_sources:
       <span class="adj"><span class="a-cn">踢</span><span class="a-py">tī</span><span class="a-en">to kick (football)</span></span>
       <span class="adj"><span class="a-cn">玩</span><span class="a-py">wán</span><span class="a-en">to play; to have fun</span></span>
       <span class="adj"><span class="a-cn">做</span><span class="a-py">zuò</span><span class="a-en">to do; to make; to work</span></span>
+      <span class="adj"><span class="a-cn">吃</span><span class="a-py">chī</span><span class="a-en">to eat — daily-life verb sibling</span></span>
       <span class="adj"><span class="a-cn">扌</span><span class="a-py">shǒu</span><span class="a-en">hand radical — the 手 family</span></span>
     </div>
 

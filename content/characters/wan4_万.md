@@ -308,6 +308,7 @@ content_review: 'pending'
       <span class="adj" data-relation="collocation"><span class="a-cn">千</span><span class="a-py">qiān</span><span class="a-en">thousand</span></span>
       <span class="adj" data-relation="collocation"><span class="a-cn">百</span><span class="a-py">bǎi</span><span class="a-en">hundred</span></span>
       <span class="adj" data-relation="collocation"><span class="a-cn">亿</span><span class="a-py">yì</span><span class="a-en">hundred million</span></span>
+      <span class="adj" data-relation="collocation"><span class="a-cn">十</span><span class="a-py">shí</span><span class="a-en">ten; complete</span></span>
       <span class="adj" data-relation="derived"><span class="a-cn">万物</span><span class="a-py">wànwù</span><span class="a-en">all things; the myriad phenomena</span></span>
       <span class="adj" data-relation="derived"><span class="a-cn">万岁</span><span class="a-py">wànsuì</span><span class="a-en">long live; ten thousand years</span></span>
       <span class="adj" data-relation="derived"><span class="a-cn">万一</span><span class="a-py">wànyī</span><span class="a-en">just in case; one in ten thousand</span></span>

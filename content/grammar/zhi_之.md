@@ -18,6 +18,15 @@ pinyin: 'zhī'
 content_review: 'pending'
 related:
   - 'characters/zhi1_之'
+faq:
+  - q: "What does 之 mean in classical Chinese?"
+    a: "之 zhī is one of the most versatile particles in classical Chinese. It does the work of three English words at once: the genitive particle 'of' (王之子 — the king's son), a third-person object pronoun 'him / her / it / them' (爱之 — loves them), and a nominaliser that turns a clause into a noun phrase. It is the single most common function word in literary Chinese."
+  - q: "How is 之 used as a possessive particle?"
+    a: "When 之 stands between two noun phrases, it marks possession or attribution exactly like the modern 的: A 之 B = B of A. 君子之道 = the way of the gentleman. 天地之间 = between heaven and earth. The construction is more compressed and more formal than 的, and it is still alive in modern set phrases, formal writing, titles of books, and chengyu."
+  - q: "Is 之 still used in modern Chinese?"
+    a: "Yes, but in restricted registers. 之 has been replaced by 的 in everyday speech, but it survives in chengyu (持之以恒, 之乎者也), formal writing, news headlines, book and film titles (千与千寻), legal and academic prose, and fixed phrases like 之一 (one of), 之间 (between), 之后 (after), 之前 (before), and 总之 (in short)."
+  - q: "What is the difference between 之 and 的?"
+    a: "之 and 的 cover the same possessive territory, but 之 is classical and compact while 的 is modern and unmarked. 之 belongs to literary register: book titles, chengyu, formal writing, and frozen expressions. 的 is the everyday possessive used in speech and ordinary prose. Using 之 in casual speech sounds bookish or archaic; using 的 in a four-character chengyu would break the form."
 ---
 
 
@@ -388,6 +397,8 @@ related:
       <span class="adj" data-relation="derived"><span class="a-cn">之前</span><span class="a-py">zhīqián</span><span class="a-en">before</span></span>
       <span class="adj" data-relation="derived"><span class="a-cn">之后</span><span class="a-py">zhīhòu</span><span class="a-en">after</span></span>
       <span class="adj" data-relation="collocation" data-distinct="classical causal connector; 故 marks the conclusion of a because-therefore argument"><span class="a-cn">故</span><span class="a-py">gù</span><span class="a-en">therefore / hence (classical)</span></span>
+      <span class="adj" data-relation="contrast" data-distinct="modern preposition of origin; takes over a slice of what classical 之/于 covered when marking spatial or temporal starting points"><span class="a-cn">从</span><span class="a-py">cóng</span><span class="a-en">from; since; following (modern preposition)</span></span>
+      <span class="adj" data-relation="contrast" data-distinct="modern additive conjunction; carries the cohesive load that classical 而 used to carry in compound sentences"><span class="a-cn">而且</span><span class="a-py">érqiě</span><span class="a-en">moreover, and furthermore (modern additive)</span></span>
     </div>
 
     <footer class="page-footer">

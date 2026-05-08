@@ -460,6 +460,7 @@ updated: '2026-04-25'
       <span class="adj"><span class="a-cn">会</span><span class="a-py">huì</span><span class="a-en">know how to; be likely to</span></span>
       <span class="adj"><span class="a-cn">应该</span><span class="a-py">yīnggāi</span><span class="a-en">should; ought to</span></span>
       <span class="adj"><span class="a-cn">必须</span><span class="a-py">bìxū</span><span class="a-en">must; have to</span></span>
+      <span class="adj"><span class="a-cn">必</span><span class="a-py">bì</span><span class="a-en">certainly; must; necessarily</span></span>
       <span class="adj"><span class="a-cn">允许</span><span class="a-py">yǔnxǔ</span><span class="a-en">to permit; to allow</span></span>
       <span class="adj"><span class="a-cn">不可</span><span class="a-py">bùkě</span><span class="a-en">must not; cannot (classical/formal)</span></span>
       <span class="adj"><span class="a-cn">以</span><span class="a-py">yǐ</span><span class="a-en">by means of; using; because</span></span>

@@ -563,6 +563,8 @@ content_sources:
       <span class="adj"><span class="a-cn">四海</span><span class="a-py">sìhǎi</span><span class="a-en">the four seas; everywhere</span></span>
       <span class="adj"><span class="a-cn">中原</span><span class="a-py">zhōngyuán</span><span class="a-en">Central Plains; the heartland</span></span>
       <span class="adj"><span class="a-cn">正统</span><span class="a-py">zhèngtǒng</span><span class="a-en">orthodoxy; legitimate succession</span></span>
+      <span class="adj" data-relation="derived" data-distinct="太平天国 explicitly invoked 天下 in its name — the Heavenly Kingdom of Great Peace claimed the same political theology to legitimize rebellion"><span class="a-cn">太平天国</span><span class="a-py">Tàipíng Tiānguó</span><span class="a-en">Taiping Heavenly Kingdom</span></span>
+      <span class="adj" data-relation="contrast" data-distinct="辛亥革命 ended the dynastic 天下 framework in 1911; the Republic replaced 王朝 with 国 as the unit of legitimacy"><span class="a-cn">辛亥革命</span><span class="a-py">Xīnhài Gémìng</span><span class="a-en">the 1911 Revolution</span></span>
     </div>
 
     <!-- RETENTION SCHOLAR BOX -->

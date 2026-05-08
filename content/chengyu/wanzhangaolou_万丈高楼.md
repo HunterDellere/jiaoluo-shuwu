@@ -184,6 +184,8 @@ content_review: 'pending'
       <span class="adj"
             data-relation="collocation"
       ><span class="a-cn">始于足下</span><span class="a-py">shǐ yú zú xià</span><span class="a-en">begins beneath the feet</span></span>
+      <span class="adj" data-relation="synonym" data-distinct="愚公移山 is the same gradualist conviction in human-rather-than-cosmic register — generations of stubborn effort, not metaphysical inevitability"><span class="a-cn">愚公移山</span><span class="a-py">Yú Gōng yí shān</span><span class="a-en">the foolish old man moves the mountain</span></span>
+      <span class="adj" data-relation="contrast" data-distinct="守株待兔 is the failure mode for the gradualist: not effort patiently accumulated, but waiting passively for the tree to deliver another rabbit"><span class="a-cn">守株待兔</span><span class="a-py">shǒu zhū dài tù</span><span class="a-en">guarding the stump waiting for a rabbit</span></span>
     </div>
 
     <footer class="page-footer">

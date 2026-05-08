@@ -270,6 +270,10 @@ pinyin: 'míngcháo'
       <span class="adj"><span class="a-cn">崇祯帝</span><span class="a-py">Chóngzhēn Dì</span><span class="a-en">last Ming emperor</span></span>
       <span class="adj"><span class="a-cn">靖难之役</span><span class="a-py">Jīngnán zhī Yì</span><span class="a-en">Jingnan Campaign (Yongle's usurpation)</span></span>
       <span class="adj"><span class="a-cn">西洋</span><span class="a-py">Xīyáng</span><span class="a-en">Western Ocean (Indian Ocean world)</span></span>
+      <span class="adj" data-relation="derived" data-distinct="three of the 四大名著 (Romance of the Three Kingdoms, Water Margin, Journey to the West) were compiled and printed in the Ming — the dynasty's vernacular novel boom"><span class="a-cn">四大名著</span><span class="a-py">sì dà míngzhù</span><span class="a-en">Four Great Classical Novels</span></span>
+      <span class="adj" data-relation="derived" data-distinct="昆曲 was the dominant Ming-era opera form, the prestige theatre of the late Ming literati class"><span class="a-cn">昆曲</span><span class="a-py">kūnqǔ</span><span class="a-en">Kun Opera</span></span>
+      <span class="adj" data-relation="contrast" data-distinct="元朝 was the Mongol Yuan that the Ming overthrew; Ming founder Zhu Yuanzhang framed himself as restorer of Han rule"><span class="a-cn">元朝</span><span class="a-py">Yuán cháo</span><span class="a-en">Yuan dynasty</span></span>
+      <span class="adj" data-relation="contrast" data-distinct="宋朝 was the immediate Han-Chinese predecessor to the Yuan-Ming arc; Ming consciously revived Song-style governance and aesthetics"><span class="a-cn">宋朝</span><span class="a-py">Sòng cháo</span><span class="a-en">Song dynasty</span></span>
     </div>
 
     

@@ -302,6 +302,7 @@ updated: '2026-04-25'
       <span class="adj"><span class="a-cn">兼爱</span><span class="a-py">jiān ài</span><span class="a-en">universal love</span></span>
       <span class="adj"><span class="a-cn">功利</span><span class="a-py">gōnglì</span><span class="a-en">utility; utilitarian</span></span>
       <span class="adj"><span class="a-cn">诸子百家</span><span class="a-py">zhūzǐ bǎijiā</span><span class="a-en">Hundred Schools of Thought</span></span>
+      <span class="adj" data-relation="derived" data-distinct="矛盾 originates as a Mohist-adjacent thought experiment about an unstoppable spear and an impenetrable shield — the classical Chinese paradigm for logical contradiction"><span class="a-cn">矛盾</span><span class="a-py">máodùn</span><span class="a-en">Contradiction</span></span>
     </div>
 
     <footer class="page-footer">

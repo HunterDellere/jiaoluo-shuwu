@@ -252,6 +252,8 @@ content_sources:
       <span class="adj"><span class="a-cn">玉</span><span class="a-py">yù</span><span class="a-en">jade (paired with gold)</span></span>
       <span class="adj"><span class="a-cn">富</span><span class="a-py">fù</span><span class="a-en">rich; wealthy</span></span>
       <span class="adj"><span class="a-cn">财富</span><span class="a-py">cáifù</span><span class="a-en">wealth; fortune</span></span>
+      <span class="adj"><span class="a-cn">火</span><span class="a-py">huǒ</span><span class="a-en">fire; flame (wuxing)</span></span>
+      <span class="adj"><span class="a-cn">木</span><span class="a-py">mù</span><span class="a-en">tree; wood (wuxing)</span></span>
     </div>
 
     <footer class="page-footer">

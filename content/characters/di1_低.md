@@ -244,6 +244,7 @@ content_review: 'pending'
       <span class="adj" data-relation="collocation"><span class="a-cn">谦虚</span><span class="a-py">qiānxū</span><span class="a-en">humble; modest</span></span>
       <span class="adj" data-relation="collocation"><span class="a-cn">姿态</span><span class="a-py">zītài</span><span class="a-en">posture; attitude; stance</span></span>
       <span class="adj" data-relation="contrast" data-distinct="低级 is evaluative (crude, base, or low-ranked); 低 alone is more neutral and spatial"><span class="a-cn">低级</span><span class="a-py">dījí</span><span class="a-en">low-level; crude; vulgar</span></span>
+      <span class="adj" data-relation="collocation" data-distinct="慢 is the temporal cousin of 低 — both name dialed-down, dispirited registers (低落 / 慢悠悠)"><span class="a-cn">慢</span><span class="a-py">màn</span><span class="a-en">slow; unhurried</span></span>
     </div>
 
     <div class="scholar" data-glyph="低">

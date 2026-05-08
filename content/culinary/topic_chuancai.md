@@ -202,6 +202,16 @@ pinyin: 'chuāncài'
       </div>
     </div>
 
+    <div class="adj-wrap">
+      <span class="adj"><span class="a-cn">四川盆地</span><span class="a-py">sìchuān péndì</span><span class="a-en">the Sichuan Basin — the geography that produced this cuisine's ingredients and intensity</span></span>
+      <span class="adj"><span class="a-cn">八大菜系</span><span class="a-py">bā dà càixì</span><span class="a-en">the Eight Great Cuisines — the regional taxonomy that places Sichuan</span></span>
+      <span class="adj" data-relation="contrast" data-distinct="Sichuan builds heat from a constructed flavor vocabulary; Cantonese builds from ingredient freshness with minimal seasoning"><span class="a-cn">粤菜</span><span class="a-py">yuècài</span><span class="a-en">Cantonese cuisine — the freshness-driven counterpoint</span></span>
+      <span class="adj" data-relation="contrast" data-distinct="Shandong is the oldest, imperial-court tradition; Sichuan is the loudest-flavored regional school"><span class="a-cn">鲁菜</span><span class="a-py">lǔcài</span><span class="a-en">Shandong cuisine — the imperial elder of the eight</span></span>
+      <span class="adj"><span class="a-cn">豆腐</span><span class="a-py">dòufu</span><span class="a-en">tofu — Sichuan's mapo tofu is the dish's most famous expression</span></span>
+      <span class="adj"><span class="a-cn">火锅</span><span class="a-py">huǒguō</span><span class="a-en">hotpot — the Chongqing/Sichuan málà style is now globally dominant</span></span>
+      <span class="adj"><span class="a-cn">面条</span><span class="a-py">miàntiáo</span><span class="a-en">noodles — Sichuan's dan-dan and zhajiang are signature regional forms</span></span>
+    </div>
+
     
   </main>
 </div>

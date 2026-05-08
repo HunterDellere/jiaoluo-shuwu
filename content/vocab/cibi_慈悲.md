@@ -347,6 +347,8 @@ updated: '2026-04-25'
             data-relation="synonym"
             data-distinct="悲悯 is more literary and shades toward pity; 慈悲 is the active paired practice from the Buddhist tradition"
       ><span class="a-cn">悲悯</span><span class="a-py">bēimǐn</span><span class="a-en">sympathy; compassionate pity</span></span>
+      <span class="adj" data-relation="collocation" data-distinct="慈悲 is the bodhisattva's response to the suffering of 人间 — the human realm"><span class="a-cn">人间</span><span class="a-py">rénjiān</span><span class="a-en">the human world; the mortal realm</span></span>
+      <span class="adj" data-relation="collocation"><span class="a-cn">神明</span><span class="a-py">shénmíng</span><span class="a-en">gods, deities</span></span>
     </div>
 
     <!-- RETENTION -->

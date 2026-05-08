@@ -328,6 +328,11 @@ pinyin: 'Chūnqiū Shídài'
       <span class="adj" data-relation="collocation"><span class="a-cn">春秋五霸</span><span class="a-py">chūnqiū wǔ bà</span><span class="a-en">the Five Hegemons</span></span>
       <span class="adj" data-relation="collocation"><span class="a-cn">鲁国</span><span class="a-py">Lǔ Guó</span><span class="a-en">the state of Lu — Confucius's home state</span></span>
       <span class="adj" data-relation="collocation"><span class="a-cn">齐国</span><span class="a-py">Qí Guó</span><span class="a-en">the state of Qi — first hegemon's domain</span></span>
+      <span class="adj" data-relation="collocation" data-distinct="诗经 is the canonical poetry collection traditionally credited to Confucius's editorial hand — the lyric core of the Five Classics"><span class="a-cn">诗经</span><span class="a-py">shījīng</span><span class="a-en">Book of Songs</span></span>
+      <span class="adj" data-relation="collocation" data-distinct="楚辞 is the southern Chu-state poetic counterpart to the northern 诗经 — emerging at the very end of the Spring and Autumn / early Warring States transition"><span class="a-cn">楚辞</span><span class="a-py">chǔcí</span><span class="a-en">Songs of Chu</span></span>
+      <span class="adj" data-relation="derived" data-distinct="墨家 emerged out of the Spring-and-Autumn 百家争鸣 ferment as the radical egalitarian alternative to early Confucianism"><span class="a-cn">墨家</span><span class="a-py">Mòjiā</span><span class="a-en">Mohism</span></span>
+      <span class="adj" data-relation="derived" data-distinct="法家 crystallized at the very end of this era as states tried to translate ritual order into codified statecraft"><span class="a-cn">法家</span><span class="a-py">fǎjiā</span><span class="a-en">Legalism</span></span>
+      <span class="adj" data-relation="collocation" data-distinct="夏商周 is the Three Dynasties heritage the Spring and Autumn polities still claimed to embody — the moral past whose loss 礼崩乐坏 names"><span class="a-cn">夏商周</span><span class="a-py">Xià Shāng Zhōu</span><span class="a-en">The Three Dynasties</span></span>
     </div>
 
     <footer class="page-footer">

@@ -211,6 +211,9 @@ content_review: 'pending'
       <span class="adj" data-relation="collocation"><span class="a-cn">国家</span><span class="a-py">guójiā</span><span class="a-en">nation, country</span></span>
       <span class="adj" data-relation="collocation"><span class="a-cn">中国</span><span class="a-py">Zhōngguó</span><span class="a-en">China</span></span>
       <span class="adj" data-relation="collocation"><span class="a-cn">汉字</span><span class="a-py">hànzì</span><span class="a-en">Chinese characters</span></span>
+      <span class="adj" data-relation="collocation"><span class="a-cn">笔记</span><span class="a-py">bǐjì</span><span class="a-en">notes, jottings; classical literary genre</span></span>
+      <span class="adj" data-relation="collocation"><span class="a-cn">故事</span><span class="a-py">gùshì</span><span class="a-en">story, tale, narrative</span></span>
+      <span class="adj" data-relation="collocation" data-distinct="江湖 names the parallel society outside official 文化 — wuxia's wandering world"><span class="a-cn">江湖</span><span class="a-py">jiānghú</span><span class="a-en">rivers and lakes; the wandering world</span></span>
     </div>
 
     <footer class="page-footer">

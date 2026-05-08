@@ -371,6 +371,7 @@ content_sources:
       <span class="adj"><span class="a-cn">烟</span><span class="a-py">yān</span><span class="a-en">smoke; cigarette</span></span>
       <span class="adj"><span class="a-cn">灶</span><span class="a-py">zào</span><span class="a-en">stove; kitchen hearth</span></span>
       <span class="adj"><span class="a-cn">炎热</span><span class="a-py">yánrè</span><span class="a-en">blazing hot (summer)</span></span>
+      <span class="adj" data-relation="collocation" data-distinct="火锅 is literally 'fire-pot' — the most iconic 火 compound in everyday life"><span class="a-cn">火锅</span><span class="a-py">huǒguō</span><span class="a-en">hotpot</span></span>
     </div>
 
     <div class="scholar" data-glyph="火" style="margin-top:2.5rem;">

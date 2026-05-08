@@ -156,6 +156,8 @@ content_sources:
       <span class="adj"><span class="a-cn">饱</span><span class="a-py">bǎo</span><span class="a-en">full; satiated</span></span>
       <span class="adj"><span class="a-cn">食物</span><span class="a-py">shíwù</span><span class="a-en">food (formal)</span></span>
       <span class="adj"><span class="a-cn">饮食</span><span class="a-py">yǐnshí</span><span class="a-en">diet; food and drink</span></span>
+      <span class="adj"><span class="a-cn">茶</span><span class="a-py">chá</span><span class="a-en">tea</span></span>
+      <span class="adj"><span class="a-cn">钱</span><span class="a-py">qián</span><span class="a-en">money — what a meal costs; 吃饭 and 花钱 are the daily-life pair</span></span>
     </div>
 
     <footer class="page-footer">

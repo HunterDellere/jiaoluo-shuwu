@@ -144,6 +144,7 @@ content_review: 'pending'
       <span class="adj" data-relation="derived"><span class="a-cn">提高</span><span class="a-py">tígāo</span><span class="a-en">to improve; to raise</span></span>
       <span class="adj" data-relation="collocation"><span class="a-cn">山</span><span class="a-py">shān</span><span class="a-en">mountain</span></span>
       <span class="adj" data-relation="collocation"><span class="a-cn">大</span><span class="a-py">dà</span><span class="a-en">big; large</span></span>
+      <span class="adj" data-relation="collocation" data-distinct="多 is the scalar quantifier 'many; much' — pairs with 高/大 across the same upward-magnitude axis (高 height, 大 size, 多 quantity)"><span class="a-cn">多</span><span class="a-py">duō</span><span class="a-en">many; much; more</span></span>
     </div>
 
     <div class="scholar" data-glyph="高">

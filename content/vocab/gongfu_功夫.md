@@ -591,6 +591,8 @@ content_sources:
       <span class="adj"><span class="a-cn">精通</span><span class="a-py">jīngtōng</span><span class="a-en">to master; to be proficient</span></span>
       <span class="adj"><span class="a-cn">熟能生巧</span><span class="a-py">shú néng shēng qiǎo</span><span class="a-en">practice makes perfect</span></span>
       <span class="adj"><span class="a-cn">内功</span><span class="a-py">nèigōng</span><span class="a-en">internal martial cultivation</span></span>
+      <span class="adj" data-distinct="工夫茶 borrows the same time-and-skill sense — 'gongfu' applied to tea brewing, not martial arts"><span class="a-cn">工夫茶</span><span class="a-py">gōngfu chá</span><span class="a-en">gongfu tea</span></span>
+      <span class="adj" data-distinct="气功 cultivates the breath and qi rather than the body's external technique"><span class="a-cn">气功</span><span class="a-py">qìgōng</span><span class="a-en">qigong — breath and qi cultivation</span></span>
     </div>
 
     <!-- RETENTION SCHOLAR BOX -->

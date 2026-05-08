@@ -182,6 +182,8 @@ updated: '2026-04-25'
             data-relation="collocation"
             data-distinct="active transformation rather than keeping pace — the more radical counterpart"
       ><span class="a-cn">革故鼎新</span><span class="a-py">gé gù dǐng xīn</span><span class="a-en">reform the old, establish the new</span></span>
+      <span class="adj" data-relation="contrast" data-distinct="叶公好龙 is the failure mode for keeping-pace-with-times — claiming to embrace change while panicking when it actually arrives"><span class="a-cn">叶公好龙</span><span class="a-py">Yè Gōng hào lóng</span><span class="a-en">Lord Ye loves dragons (until one shows up)</span></span>
+      <span class="adj" data-relation="synonym" data-distinct="一毛不拔 is the trait that 与时俱进 explicitly rejects in pre-modern register — refusing even minimal accommodation to the changed moment"><span class="a-cn">一毛不拔</span><span class="a-py">yī máo bù bá</span><span class="a-en">unwilling to give up even a single hair</span></span>
     </div>
 
     <footer class="page-footer">

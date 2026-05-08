@@ -281,6 +281,7 @@ content_review: 'pending'
     <div class="adj-wrap">
       <span class="adj" data-relation="collocation"><span class="a-cn">千</span><span class="a-py">qiān</span><span class="a-en">thousand</span></span>
       <span class="adj" data-relation="collocation"><span class="a-cn">万</span><span class="a-py">wàn</span><span class="a-en">ten thousand</span></span>
+      <span class="adj" data-relation="collocation"><span class="a-cn">十</span><span class="a-py">shí</span><span class="a-en">ten; complete</span></span>
       <span class="adj" data-relation="derived"><span class="a-cn">百姓</span><span class="a-py">bǎixìng</span><span class="a-en">the common people</span></span>
       <span class="adj" data-relation="derived"><span class="a-cn">百分之</span><span class="a-py">bǎi fēn zhī</span><span class="a-en">percent</span></span>
       <span class="adj" data-relation="derived"><span class="a-cn">百货</span><span class="a-py">bǎihuò</span><span class="a-en">department store; all goods</span></span>

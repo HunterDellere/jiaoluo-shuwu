@@ -187,6 +187,8 @@ content_review: 'pending'
       <span class="adj" data-relation="collocation"><span class="a-cn">传统</span><span class="a-py">chuántǒng</span><span class="a-en">tradition</span></span>
       <span class="adj" data-relation="collocation"><span class="a-cn">节日</span><span class="a-py">jiérì</span><span class="a-en">festival; holiday</span></span>
       <span class="adj" data-relation="collocation"><span class="a-cn">龙</span><span class="a-py">lóng</span><span class="a-en">dragon</span></span>
+      <span class="adj" data-relation="collocation" data-distinct="历法 is the underlying lunisolar system that fixes 端午 to the 5th day of the 5th lunar month"><span class="a-cn">历法</span><span class="a-py">lìfǎ</span><span class="a-en">lunisolar calendar</span></span>
+      <span class="adj" data-relation="collocation" data-distinct="汉服 is the festival dress worn at 端午 dragon-boat events — the visual continuity between the ancient festival and its modern revival"><span class="a-cn">汉服</span><span class="a-py">Hànfú</span><span class="a-en">Traditional Han Dress</span></span>
     </div>
 
     <footer class="page-footer">

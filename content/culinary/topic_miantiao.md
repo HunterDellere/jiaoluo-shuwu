@@ -191,6 +191,14 @@ pinyin: 'miàntiáo'
       </div>
     </div>
 
+    <div class="adj-wrap">
+      <span class="adj" data-relation="contrast" data-distinct="noodles are the wheat-belt north's everyday staple; rice is the south's"><span class="a-cn">饺子</span><span class="a-py">jiǎozi</span><span class="a-en">dumplings — the other great wheat-flour staple of the north</span></span>
+      <span class="adj"><span class="a-cn">八大菜系</span><span class="a-py">bā dà càixì</span><span class="a-en">the Eight Great Cuisines — each cuisine has its signature noodle</span></span>
+      <span class="adj"><span class="a-cn">川菜</span><span class="a-py">chuāncài</span><span class="a-en">Sichuan cuisine — home of dan-dan and zhajiang noodles</span></span>
+      <span class="adj"><span class="a-cn">鲁菜</span><span class="a-py">lǔcài</span><span class="a-en">Shandong cuisine — origin of hand-pulled lamian</span></span>
+      <span class="adj"><span class="a-cn">豆腐</span><span class="a-py">dòufu</span><span class="a-en">tofu — a frequent topping ingredient in noodle bowls</span></span>
+    </div>
+
     
   </main>
 </div>

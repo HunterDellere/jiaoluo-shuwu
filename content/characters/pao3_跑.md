@@ -391,6 +391,8 @@ content_sources:
       <span class="adj" data-relation="collocation"><span class="a-cn">足</span><span class="a-py">zú</span><span class="a-en">foot (radical of 跑)</span></span>
       <span class="adj" data-relation="collocation"><span class="a-cn">脚</span><span class="a-py">jiǎo</span><span class="a-en">foot (the body part)</span></span>
       <span class="adj" data-relation="collocation"><span class="a-cn">马拉松</span><span class="a-py">mǎlāsōng</span><span class="a-en">marathon</span></span>
+      <span class="adj"><span class="a-cn">到</span><span class="a-py">dào</span><span class="a-en">to arrive; to reach</span></span>
+      <span class="adj"><span class="a-cn">出</span><span class="a-py">chū</span><span class="a-en">to exit; to emerge</span></span>
     </div>
 
     <footer class="page-footer">

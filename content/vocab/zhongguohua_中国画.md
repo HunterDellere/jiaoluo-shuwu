@@ -173,6 +173,10 @@ content_sources:
       <span class="adj"><span class="a-cn">四君子</span><span class="a-py">sì jūnzǐ</span><span class="a-en">Four Gentlemen (plum/orchid/bamboo/chrysanthemum)</span></span>
       <span class="adj"><span class="a-cn">印章</span><span class="a-py">yìnzhāng</span><span class="a-en">seal; chop</span></span>
       <span class="adj"><span class="a-cn">题款</span><span class="a-py">tíkuǎn</span><span class="a-en">inscription on a painting</span></span>
+      <span class="adj"><span class="a-cn">京剧</span><span class="a-py">jīngjù</span><span class="a-en">Peking Opera</span></span>
+      <span class="adj"><span class="a-cn">诗词</span><span class="a-py">shīcí</span><span class="a-en">Chinese poetry</span></span>
+      <span class="adj"><span class="a-cn">古琴</span><span class="a-py">gǔqín</span><span class="a-en">guqin zither — partner of painting in 琴棋书画</span></span>
+      <span class="adj"><span class="a-cn">篆刻</span><span class="a-py">zhuànkè</span><span class="a-en">seal carving — the carved 印章 stamped on every finished painting</span></span>
     </div>
 
     <footer class="page-footer">

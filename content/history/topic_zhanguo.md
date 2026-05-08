@@ -18,6 +18,15 @@ tags:
   - 'classics'
 updated: '2026-04-22'
 pinyin: 'zhànguó shíqī'
+faq:
+  - q: "What was the Warring States Period in China?"
+    a: "战国时期 zhànguó shíqī (475–221 BCE) was the era of seven major states — 秦, 楚, 齐, 燕, 韩, 赵, 魏 — competing for dominance after the Zhou dynasty's authority collapsed. Constant warfare, mass mobilisation, large infantry armies, iron weapons, and centralising bureaucratic reforms transformed Chinese statecraft. The period ended in 221 BCE when 秦 (Qin) conquered the other six and unified China for the first time."
+  - q: "Who were the Seven Warring States?"
+    a: "The seven major states were 秦 Qin (west, eventual victor), 楚 Chu (south, the largest by territory), 齐 Qi (east coast, wealthy and cultured), 燕 Yan (northeast), and the three states formed by the partition of the older 晋 Jin: 韩 Han, 赵 Zhao, and 魏 Wei. Smaller states like 鲁, 卫, and 中山 also existed but were progressively absorbed."
+  - q: "What is 百家争鸣 (the Hundred Schools of Thought)?"
+    a: "百家争鸣 bǎijiā zhēngmíng — 'the hundred schools contend' — refers to the explosion of philosophical traditions that emerged during the Warring States. Confucianism, Mohism, Legalism, Daoism, the School of Names, the Yin-Yang school, the Diplomats, the Agriculturalists, and others all developed in this period, often funded by competing rulers seeking advantage. Almost every major Chinese philosophical tradition has its roots here."
+  - q: "Why did Qin win the Warring States?"
+    a: "Qin combined geographic advantage (the defensible Wei river valley), Shang Yang's 商鞅 ruthless Legalist reforms (meritocratic ranks, agricultural intensification, mass conscription, suppression of aristocratic privilege), military innovations (cavalry, iron weapons, large standing armies), and the diplomatic strategy of 远交近攻 — 'befriend the distant, attack the near' — to absorb its rivals one by one. By the time the other states recognised the threat, Qin had grown too strong to coordinate against."
 ---
 
 

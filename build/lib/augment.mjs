@@ -76,6 +76,7 @@ export function buildPageFooter(body, fm, slug, category) {
         <div class="page-footer-links">
           <a href="${corrUrl}" class="pf-link" target="_blank" rel="noopener noreferrer">Corrections</a>
           <a href="${reqUrl}" class="pf-link" target="_blank" rel="noopener noreferrer">Request an entry</a>
+          <a href="../../feed.xml" class="pf-link" rel="alternate" type="application/rss+xml">RSS</a>
         </div>
       </div>
       <div class="page-footer-row">

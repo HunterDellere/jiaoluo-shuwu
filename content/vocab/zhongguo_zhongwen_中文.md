@@ -196,6 +196,8 @@ updated: '2026-04-26'
       <span class="adj" data-relation="derived"><span class="a-cn">简体字</span><span class="a-py">jiǎntǐzì</span><span class="a-en">simplified characters</span></span>
       <span class="adj" data-relation="derived"><span class="a-cn">繁体字</span><span class="a-py">fántǐzì</span><span class="a-en">traditional characters</span></span>
       <span class="adj" data-relation="derived"><span class="a-cn">文</span><span class="a-py">wén</span><span class="a-en">writing, civilization, culture</span></span>
+      <span class="adj" data-distinct="Hong Kong reads written Chinese in 繁体字 traditional characters and speaks Cantonese, not Mandarin — a distinct linguistic profile within Greater China"><span class="a-cn">香港</span><span class="a-py">Xiānggǎng</span><span class="a-en">Hong Kong — Cantonese-speaking, traditional-character region</span></span>
+      <span class="adj" data-distinct="Taiwan calls standard Mandarin 国语 (Guóyǔ) and writes in 繁体字 — the same phonological standard but a different political framing"><span class="a-cn">台湾</span><span class="a-py">Táiwān</span><span class="a-en">Taiwan — uses 国语 for Mandarin and traditional characters in writing</span></span>
     </div>
 
     <footer class="page-footer">

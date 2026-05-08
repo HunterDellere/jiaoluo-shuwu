@@ -244,6 +244,9 @@ content_sources:
       <span class="adj"><span class="a-cn">枝</span> <span class="a-py">zhī</span> <span class="a-en">branch</span></span>
       <span class="adj"><span class="a-cn">叶</span> <span class="a-py">yè</span> <span class="a-en">leaf</span></span>
       <span class="adj"><span class="a-cn">春</span> <span class="a-py">chūn</span> <span class="a-en">spring (season)</span></span>
+      <span class="adj"><span class="a-cn">火</span><span class="a-py">huǒ</span><span class="a-en">fire; flame (wuxing)</span></span>
+      <span class="adj"><span class="a-cn">金</span><span class="a-py">jīn</span><span class="a-en">gold; metal — the wuxing phase that cuts wood</span></span>
+      <span class="adj"><span class="a-cn">工</span><span class="a-py">gōng</span><span class="a-en">work; craft — wood is the carpenter's primary medium</span></span>
     </div>
 
     

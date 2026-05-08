@@ -197,7 +197,17 @@ pinyin: 'kūnqǔ'
       </div>
     </div>
 
-    
+    <div class="adj-wrap">
+      <span class="adj"><span class="a-cn">京剧</span><span class="a-py">jīngjù</span><span class="a-en">Peking Opera</span></span>
+      <span class="adj" data-relation="derived" data-distinct="昆曲 is the parent tradition; 生旦净末丑 are the role types Peking Opera inherited and standardised from it"><span class="a-cn">生旦净末丑</span><span class="a-py">shēng dàn jìng mò chǒu</span><span class="a-en">opera role types</span></span>
+      <span class="adj"><span class="a-cn">古琴</span><span class="a-py">gǔqín</span><span class="a-en">scholar's seven-string zither</span></span>
+      <span class="adj"><span class="a-cn">明朝</span><span class="a-py">míng cháo</span><span class="a-en">Ming dynasty</span></span>
+      <span class="adj"><span class="a-cn">清朝</span><span class="a-py">qīng cháo</span><span class="a-en">Qing dynasty</span></span>
+      <span class="adj"><span class="a-cn">诗词</span><span class="a-py">shī cí</span><span class="a-en">classical poetry</span></span>
+      <span class="adj"><span class="a-cn">文化</span><span class="a-py">wén huà</span><span class="a-en">culture</span></span>
+      <span class="adj"><span class="a-cn">传统</span><span class="a-py">chuán tǒng</span><span class="a-en">tradition</span></span>
+    </div>
+
   </main>
 </div>
 <script src="../../scripts/toc-scroll.js"></script>

@@ -211,6 +211,16 @@ pinyin: 'bā dà càixì'
       </div>
     </div>
 
+    <div class="adj-wrap">
+      <span class="adj"><span class="a-cn">川菜</span><span class="a-py">chuāncài</span><span class="a-en">Sichuan cuisine — málà, pickling, and a constructed flavor vocabulary</span></span>
+      <span class="adj" data-relation="contrast" data-distinct="鲁菜 fed the imperial court for two millennia; 粤菜 redefined fresh-ingredient Chinese cooking and exported it globally"><span class="a-cn">鲁菜</span><span class="a-py">lǔcài</span><span class="a-en">Shandong cuisine — the oldest of the eight, the imperial palace style</span></span>
+      <span class="adj"><span class="a-cn">粤菜</span><span class="a-py">yuècài</span><span class="a-en">Cantonese cuisine — freshness, dim sum, the global ambassador</span></span>
+      <span class="adj"><span class="a-cn">豆腐</span><span class="a-py">dòufu</span><span class="a-en">tofu — a cross-cuisine staple appearing in nearly every regional school</span></span>
+      <span class="adj"><span class="a-cn">火锅</span><span class="a-py">huǒguō</span><span class="a-en">hotpot — the communal dish that escapes regional categorization</span></span>
+      <span class="adj"><span class="a-cn">饺子</span><span class="a-py">jiǎozi</span><span class="a-en">dumplings — the northern staple that crosses cuisine lines</span></span>
+      <span class="adj"><span class="a-cn">面条</span><span class="a-py">miàntiáo</span><span class="a-en">noodles — the wheat-belt staple, expressed differently in each cuisine</span></span>
+    </div>
+
     
   </main>
 </div>

@@ -133,6 +133,13 @@ pinyin: 'báijiǔ'
         </div>
       </div>
 
+    <div class="adj-wrap">
+      <span class="adj" data-relation="contrast" data-distinct="baijiu is the social-banquet spirit; tea is the social-everyday drink. Both anchor distinct hospitality rituals"><span class="a-cn">茶</span><span class="a-py">chá</span><span class="a-en">tea — baijiu's everyday counterpart on the Chinese table</span></span>
+      <span class="adj"><span class="a-cn">敬酒</span><span class="a-py">jìngjiǔ</span><span class="a-en">toasting — the central ritual built around baijiu at banquets</span></span>
+      <span class="adj"><span class="a-cn">请客吃饭</span><span class="a-py">qǐngkè chīfàn</span><span class="a-en">hosting a meal — baijiu is the host's primary tool</span></span>
+      <span class="adj"><span class="a-cn">火锅</span><span class="a-py">huǒguō</span><span class="a-en">hotpot — the most common everyday baijiu pairing</span></span>
+      <span class="adj"><span class="a-cn">八大菜系</span><span class="a-py">bā dà càixì</span><span class="a-en">the Eight Great Cuisines — every regional banquet runs on baijiu</span></span>
+    </div>
 
     
   </main>

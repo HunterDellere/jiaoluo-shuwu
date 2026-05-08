@@ -296,6 +296,7 @@ updated: '2026-04-25'
       <span class="adj"><span class="a-cn">中秋节</span><span class="a-py">Zhōngqiū Jié</span><span class="a-en">Mid-Autumn Festival</span></span>
       <span class="adj" data-relation="collocation"><span class="a-cn">菊花</span><span class="a-py">júhuā</span><span class="a-en">chrysanthemum</span></span>
       <span class="adj" data-relation="derived" data-distinct="乡愁 is the emotional key of the festival as Wang Wei defined it — longing for home across a festival distance, not grief for the dead"><span class="a-cn">乡愁</span><span class="a-py">xiāngchóu</span><span class="a-en">homesickness</span></span>
+      <span class="adj" data-relation="collocation" data-distinct="汉服 is the formal dress worn at festival reunions and observances — the visible thread that ties 重阳节 gatherings to a continuous Han identity"><span class="a-cn">汉服</span><span class="a-py">Hànfú</span><span class="a-en">Traditional Han Dress</span></span>
     </div>
 
     <footer class="page-footer">

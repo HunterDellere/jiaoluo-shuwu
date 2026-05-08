@@ -195,6 +195,15 @@ related:
       </div>
     </div>
 
+    <div class="adj-wrap">
+      <span class="adj"><span class="a-cn">茶</span><span class="a-py">chá</span><span class="a-en">tea — the parent category</span></span>
+      <span class="adj" data-relation="contrast" data-distinct="dark tea/pu-erh transforms via post-processing microbial fermentation; white tea ages via slow dry oxidation alone"><span class="a-cn">白茶</span><span class="a-py">báichá</span><span class="a-en">white tea — the other tea category prized for aging</span></span>
+      <span class="adj"><span class="a-cn">绿茶</span><span class="a-py">lǜchá</span><span class="a-en">green tea — the unoxidized opposite of pu-erh's deep transformation</span></span>
+      <span class="adj"><span class="a-cn">乌龙茶</span><span class="a-py">wūlóngchá</span><span class="a-en">oolong — the partially oxidized middle ground</span></span>
+      <span class="adj"><span class="a-cn">红茶</span><span class="a-py">hóngchá</span><span class="a-en">red tea — the fully oxidized sibling</span></span>
+      <span class="adj"><span class="a-cn">黄茶</span><span class="a-py">huángchá</span><span class="a-en">yellow tea — the rarest of the six categories</span></span>
+    </div>
+
     <footer class="page-footer">
       <span class="footer-id">Jiǎoluò Shūwū · 角落書屋 · <span>黑茶</span></span>
       <a href="../../index.html" class="footer-back">← All Entries</a>

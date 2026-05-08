@@ -495,6 +495,8 @@ updated: '2026-04-25'
       <span class="adj" data-relation="derived"><span class="a-cn">何必</span><span class="a-py">hébì</span><span class="a-en">why must; no need to</span></span>
       <span class="adj" data-relation="contrast"><span class="a-cn">也许</span><span class="a-py">yěxǔ</span><span class="a-en">perhaps; maybe</span></span>
       <span class="adj" data-relation="contrast"><span class="a-cn">可能</span><span class="a-py">kěnéng</span><span class="a-en">possibly; might</span></span>
+      <span class="adj" data-relation="contrast" data-distinct="可 is the polar opposite modal — affirming permission or possibility, not obligation"><span class="a-cn">可</span><span class="a-py">kě</span><span class="a-en">can; may; worth; quite</span></span>
+      <span class="adj" data-relation="contrast" data-distinct="the learned-ability modal — sits with 能 and 可以 as the permissive cluster 必 contrasts against"><span class="a-cn">会</span><span class="a-py">huì</span><span class="a-en">know how to; be likely to (the three 'can's)</span></span>
     </div>
 
     <!-- RETENTION IMAGE -->

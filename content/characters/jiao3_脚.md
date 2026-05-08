@@ -500,6 +500,8 @@ content_sources:
       <span class="adj" data-relation="derived"><span class="a-cn">山脚</span><span class="a-py">shānjiǎo</span><span class="a-en">foot of a mountain</span></span>
       <span class="adj" data-relation="derived"><span class="a-cn">基础</span><span class="a-py">jīchǔ</span><span class="a-en">foundation; base</span></span>
       <span class="adj" data-relation="derived"><span class="a-cn">根</span><span class="a-py">gēn</span><span class="a-en">root; base</span></span>
+      <span class="adj"><span class="a-cn">落</span><span class="a-py">luò</span><span class="a-en">to fall; to settle; to land</span></span>
+      <span class="adj"><span class="a-cn">角</span><span class="a-py">jiǎo</span><span class="a-en">corner; horn; angle</span></span>
     </div>
 
     <!-- RETENTION IMAGE -->

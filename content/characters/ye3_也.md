@@ -397,6 +397,8 @@ updated: '2026-04-25'
       <span class="adj" data-relation="collocation"><span class="a-cn">矣</span><span class="a-py">yǐ</span><span class="a-en">classical sentence-final: change of state</span></span>
       <span class="adj" data-relation="collocation"><span class="a-cn">乎</span><span class="a-py">hū</span><span class="a-en">classical sentence-final: question, address</span></span>
       <span class="adj" data-relation="collocation"><span class="a-cn">哉</span><span class="a-py">zāi</span><span class="a-en">classical sentence-final: exclamation</span></span>
+      <span class="adj" data-relation="contrast" data-distinct="也 is the classical sentence-final equational marker that 是 replaced as the copula in modern Chinese"><span class="a-cn">是</span><span class="a-py">shì</span><span class="a-en">to be (modern copula)</span></span>
+      <span class="adj" data-relation="contrast" data-distinct="不 is the negator that 也 affirms against — 也不 (also not) is the natural pairing extending negation to a new subject"><span class="a-cn">不</span><span class="a-py">bù</span><span class="a-en">no; not</span></span>
     </div>
 
     <!-- ── RETENTION ── -->

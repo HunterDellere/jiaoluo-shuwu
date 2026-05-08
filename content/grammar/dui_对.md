@@ -237,6 +237,15 @@ pinyin: 'duì'
 
     </div>
 
+    <div class="adj-wrap">
+      <span class="adj"><span class="a-cn">是的</span><span class="a-py">shì de</span><span class="a-en">it is so (focus / affirmation)</span></span>
+      <span class="adj"><span class="a-cn">把</span><span class="a-py">bǎ</span><span class="a-en">disposal coverb</span></span>
+      <span class="adj"><span class="a-cn">被</span><span class="a-py">bèi</span><span class="a-en">passive marker</span></span>
+      <span class="adj"><span class="a-cn">让</span><span class="a-py">ràng</span><span class="a-en">causative / permission</span></span>
+      <span class="adj"><span class="a-cn">从</span><span class="a-py">cóng</span><span class="a-en">from (origin)</span></span>
+      <span class="adj"><span class="a-cn">所</span><span class="a-py">suǒ</span><span class="a-en">classical nominaliser</span></span>
+    </div>
+
     <footer class="page-footer">
       <span class="footer-id">Jiǎoluò Shūwū · 角落書屋 · <span>对 duì · toward / correct</span></span>
       <a href="../../index.html" class="footer-back">← All Entries</a>

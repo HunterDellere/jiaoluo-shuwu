@@ -250,6 +250,8 @@ content_review: 'pending'
       <span class="adj" data-relation="derived"><span class="a-cn">太后</span><span class="a-py">tàihòu</span><span class="a-en">empress dowager</span></span>
       <span class="adj" data-relation="derived"><span class="a-cn">后门</span><span class="a-py">hòumén</span><span class="a-en">back door; unofficial channel</span></span>
       <span class="adj" data-relation="derived"><span class="a-cn">背后</span><span class="a-py">bèihòu</span><span class="a-en">behind someone's back</span></span>
+      <span class="adj"><span class="a-cn">时</span><span class="a-py">shí</span><span class="a-en">time; hour; season</span></span>
+      <span class="adj" data-relation="collocation" data-distinct="再 marks repetition or sequence; 然后/后 mark the temporal aftermath — together they sequence events in narrative"><span class="a-cn">再</span><span class="a-py">zài</span><span class="a-en">again; then; further</span></span>
     </div>
 
     <div class="scholar" data-glyph="后">

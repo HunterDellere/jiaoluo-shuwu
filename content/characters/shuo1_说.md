@@ -338,6 +338,7 @@ content_sources:
       <span class="adj"><span class="a-cn">话</span><span class="a-py">huà</span><span class="a-en">speech; words; what is said</span></span>
       <span class="adj"><span class="a-cn">讲</span><span class="a-py">jiǎng</span><span class="a-en">to speak; to explain; to lecture</span></span>
       <span class="adj"><span class="a-cn">告诉</span><span class="a-py">gàosu</span><span class="a-en">to tell; to inform</span></span>
+      <span class="adj"><span class="a-cn">告</span><span class="a-py">gào</span><span class="a-en">to tell; to announce; to report</span></span>
       <span class="adj"><span class="a-cn">表达</span><span class="a-py">biǎodá</span><span class="a-en">to express; expression</span></span>
       <span class="adj"><span class="a-cn">解释</span><span class="a-py">jiěshì</span><span class="a-en">to explain; explanation</span></span>
       <span class="adj"><span class="a-cn">谈</span><span class="a-py">tán</span><span class="a-en">to talk; to discuss (reciprocal)</span></span>

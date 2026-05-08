@@ -305,6 +305,8 @@ pinyin: 'ne'
       <span class="adj"><span class="a-cn">了</span><span class="a-py">le</span><span class="a-en">aspect / change-of-state marker</span></span>
       <span class="adj"><span class="a-cn">语气词</span><span class="a-py">yǔqìcí</span><span class="a-en">modal particle</span></span>
       <span class="adj"><span class="a-cn">轻声</span><span class="a-py">qīngshēng</span><span class="a-en">neutral tone</span></span>
+      <span class="adj" data-relation="collocation" data-distinct="茶 — 我喝茶，你呢？ is one of the most common 呢 example sentences in textbooks"><span class="a-cn">茶</span><span class="a-py">chá</span><span class="a-en">tea</span></span>
+      <span class="adj" data-relation="collocation" data-distinct="绿茶 — appears in the canonical topic-呢 contrastive example: 茶呢，我喜欢绿茶；咖啡呢，我不太喝"><span class="a-cn">绿茶</span><span class="a-py">lǜchá</span><span class="a-en">green tea</span></span>
     </div>
 
     <footer class="page-footer">

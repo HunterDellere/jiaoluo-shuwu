@@ -243,6 +243,15 @@ pinyin: 'de huà'
 
     </div>
 
+    <div class="adj-wrap">
+      <span class="adj"><span class="a-cn">如果</span><span class="a-py">rúguǒ</span><span class="a-en">if (general conditional)</span></span>
+      <span class="adj"><span class="a-cn">要是</span><span class="a-py">yàoshi</span><span class="a-en">if (colloquial)</span></span>
+      <span class="adj"><span class="a-cn">假如</span><span class="a-py">jiǎrú</span><span class="a-en">supposing that</span></span>
+      <span class="adj"><span class="a-cn">就</span><span class="a-py">jiù</span><span class="a-en">then (result-clause linker)</span></span>
+      <span class="adj"><span class="a-cn">虽然但是</span><span class="a-py">suīrán dànshì</span><span class="a-en">although…but (concessive)</span></span>
+      <span class="adj"><span class="a-cn">只有才</span><span class="a-py">zhǐyǒu cái</span><span class="a-en">only if…then (necessary condition)</span></span>
+    </div>
+
     <footer class="page-footer">
       <span class="footer-id">Jiǎoluò Shūwū · 角落書屋 · <span>的话 de huà · conditional</span></span>
       <a href="../../index.html" class="footer-back">← All Entries</a>

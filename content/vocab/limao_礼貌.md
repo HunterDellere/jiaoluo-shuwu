@@ -302,6 +302,9 @@ content_sources:
       <span class="adj" data-relation="antonym"><span class="a-cn">无礼</span><span class="a-py">wúlǐ</span><span class="a-en">discourteous; without 礼</span></span>
       <span class="adj" data-relation="collocation"><span class="a-cn">您</span><span class="a-py">nín</span><span class="a-en">you (formal/polite)</span></span>
       <span class="adj" data-relation="collocation"><span class="a-cn">彬彬有礼</span><span class="a-py">bīn bīn yǒu lǐ</span><span class="a-en">refined and courteous</span></span>
+      <span class="adj" data-relation="collocation" data-distinct="茶具 — pouring tea for guests is the everyday ritual where 礼貌 takes material form"><span class="a-cn">茶具</span><span class="a-py">cháju</span><span class="a-en">tea implements</span></span>
+      <span class="adj" data-relation="collocation"><span class="a-cn">工夫茶</span><span class="a-py">gōngfu chá</span><span class="a-en">gongfu tea — slow-brewed hospitality</span></span>
+      <span class="adj" data-relation="collocation" data-distinct="敬酒 is 礼貌 in its banquet form — the choreographed toast in which seating, sequence, and posture all carry social weight"><span class="a-cn">敬酒</span><span class="a-py">jìngjiǔ</span><span class="a-en">Toasting Culture</span></span>
     </div>
 
     <!-- RETENTION SCHOLAR BOX -->

@@ -232,6 +232,7 @@ content_review: 'pending'
       <span class="adj"><span class="a-cn">矿</span><span class="a-py">kuàng</span><span class="a-en">mineral, ore</span></span>
       <span class="adj" data-relation="collocation"><span class="a-cn">仁</span><span class="a-py">rén</span><span class="a-en">benevolence</span></span>
       <span class="adj" data-relation="collocation"><span class="a-cn">德</span><span class="a-py">dé</span><span class="a-en">virtue, moral power</span></span>
+      <span class="adj" data-relation="collocation" data-distinct="福 names auspicious blessing — jade pendants and 福 calligraphy share the role of inscribed good-fortune charms"><span class="a-cn">福</span><span class="a-py">fú</span><span class="a-en">fortune; blessing</span></span>
     </div>
 
     <!-- ── MEMORY HOOK ── -->

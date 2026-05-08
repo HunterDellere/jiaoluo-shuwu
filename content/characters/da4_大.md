@@ -278,6 +278,7 @@ content_sources:
       <span class="adj"><span class="a-cn">伟大</span><span class="a-py">wěidà</span><span class="a-en">great; magnificent</span></span>
       <span class="adj"><span class="a-cn">大方</span><span class="a-py">dàfang</span><span class="a-en">generous; poised</span></span>
       <span class="adj"><span class="a-cn">巨大</span><span class="a-py">jùdà</span><span class="a-en">enormous; gigantic</span></span>
+      <span class="adj" data-distinct="广 emphasizes lateral breadth and broad reach; 大 emphasizes overall size"><span class="a-cn">广</span><span class="a-py">guǎng</span><span class="a-en">wide; broad; to spread</span></span>
       <span class="adj"><span class="a-cn">天大</span><span class="a-py">tiāndà</span><span class="a-en">sky-high; enormous (informal)</span></span>
       <span class="adj"><span class="a-cn">小</span><span class="a-py">xiǎo</span><span class="a-en">small (antonym)</span></span>
       <span class="adj"><span class="a-cn">太</span><span class="a-py">tài</span><span class="a-en">too; excessively (from 大)</span></span>

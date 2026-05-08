@@ -296,6 +296,18 @@ updated: '2026-04-26'
       <span class="adj" data-relation="collocation">
         <span class="a-cn">汉武帝</span><span class="a-py">Hàn Wǔdì</span><span class="a-en">Emperor Wu of Han</span>
       </span>
+      <span class="adj" data-relation="derived" data-distinct="秦始皇 built the unifying institutional architecture in 15 violent years; the Han inherited it and made it sustainable">
+        <span class="a-cn">秦始皇</span><span class="a-py">Qín Shǐhuáng</span><span class="a-en">the First Emperor</span>
+      </span>
+      <span class="adj" data-relation="derived" data-distinct="唐朝 is the second great cosmopolitan dynasty after Han; the two are paired as 汉唐 in the imperial imagination">
+        <span class="a-cn">唐朝</span><span class="a-py">Táng cháo</span><span class="a-en">Tang dynasty</span>
+      </span>
+      <span class="adj" data-relation="derived" data-distinct="丝绸 was the headline commodity of the Han-opened westward routes; sericulture itself predates the Han but the trade is what made the dynasty's reach legible">
+        <span class="a-cn">丝绸</span><span class="a-py">sīchóu</span><span class="a-en">silk</span>
+      </span>
+      <span class="adj" data-relation="derived" data-distinct="周朝 is the Confucian-canonical past Han Confucianism reconstructed as the model for empire — the ritual order Han claimed to restore at imperial scale">
+        <span class="a-cn">周朝</span><span class="a-py">Zhōu cháo</span><span class="a-en">The Zhou Dynasty</span>
+      </span>
     </div>
 
     <footer class="page-footer">

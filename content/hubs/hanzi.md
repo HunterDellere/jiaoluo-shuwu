@@ -177,6 +177,13 @@ stages:
       <p><strong>Key references:</strong> Cecilia Lindqvist's <em>China: Empire of Living Symbols</em> (1991) is the best introductory treatment of character etymology for non-specialists. For the radical system, Rick Harbaugh's <em>Chinese Characters: A Genealogy and Dictionary</em> (Yale, 1998) remains the most useful structural reference. The online resource Outlier Linguistics (outlier-linguistics.com) provides rigorous etymological entries grounded in current scholarship.</p>
     </div>
 
+    <div class="adj-wrap">
+      <span class="adj"><span class="a-cn">汉语学习路</span><span class="a-py">hànyǔ xuéxí lù</span><span class="a-en">Learning Chinese hub — the broader curriculum this hub fits inside</span></span>
+      <span class="adj"><span class="a-cn">地理与语言</span><span class="a-py">dìlǐ yǔ yǔyán</span><span class="a-en">Geography & Language hub — the dialect and script-region map</span></span>
+      <span class="adj"><span class="a-cn">文学路径</span><span class="a-py">wénxué lùjìng</span><span class="a-en">Literary China hub — where the characters acquire their literary weight</span></span>
+      <span class="adj"><span class="a-cn">哲学</span><span class="a-py">zhéxué</span><span class="a-en">Philosophy hub — 道, 心, 文 as the vocabulary of Chinese thought</span></span>
+    </div>
+
   </main>
 
 </div>

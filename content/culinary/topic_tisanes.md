@@ -176,6 +176,14 @@ related:
       </div>
     </div>
 
+    <div class="adj-wrap">
+      <span class="adj" data-relation="contrast" data-distinct="tisanes share the cup but not the leaf — they are not made from Camellia sinensis"><span class="a-cn">茶</span><span class="a-py">chá</span><span class="a-en">tea — the true-tea parent category that tisanes are often confused with</span></span>
+      <span class="adj"><span class="a-cn">中医</span><span class="a-py">zhōngyī</span><span class="a-en">Chinese medicine — the framework most Chinese herbal infusions sit inside</span></span>
+      <span class="adj"><span class="a-cn">绿茶</span><span class="a-py">lǜchá</span><span class="a-en">green tea — sometimes blended with floral additions like jasmine</span></span>
+      <span class="adj"><span class="a-cn">红茶</span><span class="a-py">hóngchá</span><span class="a-en">red tea — sometimes blended with rose or osmanthus</span></span>
+      <span class="adj"><span class="a-cn">白茶</span><span class="a-py">báichá</span><span class="a-en">white tea — the most delicate true tea, occasionally combined with herbal infusions</span></span>
+    </div>
+
     <footer class="page-footer">
       <span class="footer-id">Jiǎoluò Shūwū · 角落書屋 · <span>花草茶</span></span>
       <a href="../../index.html" class="footer-back">← All Entries</a>

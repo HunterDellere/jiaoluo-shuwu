@@ -362,6 +362,7 @@ content_sources:
       <span class="adj" data-relation="collocation"><span class="a-cn">命运</span> <span class="a-py">mìngyùn</span> <span class="a-en">fate, destiny</span></span>
       <span class="adj" data-relation="collocation"><span class="a-cn">白</span> <span class="a-py">bái</span> <span class="a-en">white (color of mourning)</span></span>
       <span class="adj" data-relation="collocation" data-distinct="去 is the everyday verb of departure; 去世 specializes it for the soul leaving the world"><span class="a-cn">去</span> <span class="a-py">qù</span> <span class="a-en">to go, to leave</span></span>
+      <span class="adj" data-relation="collocation" data-distinct="红白喜事 pairs weddings (red) with funerals (white) under one ritual category — the framing 死 sits inside"><span class="a-cn">红白喜事</span> <span class="a-py">hóngbái xǐshì</span> <span class="a-en">weddings and funerals</span></span>
     </div>
 
     <!-- ── RETENTION ── -->

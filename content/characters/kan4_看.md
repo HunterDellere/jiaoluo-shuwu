@@ -287,6 +287,8 @@ content_review: 'pending'
       <span class="adj" data-relation="derived"><span class="a-cn">看病</span><span class="a-py">kànbìng</span><span class="a-en">to see a doctor</span></span>
       <span class="adj" data-relation="collocation"><span class="a-cn">眼</span><span class="a-py">yǎn</span><span class="a-en">eye (everyday word)</span></span>
       <span class="adj" data-relation="collocation"><span class="a-cn">目</span><span class="a-py">mù</span><span class="a-en">eye (classical); radical of 看</span></span>
+      <span class="adj"><span class="a-cn">图</span><span class="a-py">tú</span><span class="a-en">picture; map; diagram</span></span>
+      <span class="adj" data-relation="collocation" data-distinct="听 is the auditory counterpart to 看 — together they form the sensory pair through which classical learning was received"><span class="a-cn">听</span><span class="a-py">tīng</span><span class="a-en">to listen; to hear</span></span>
     </div>
 
     <!-- Retention scholar -->

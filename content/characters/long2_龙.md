@@ -527,6 +527,7 @@ content_sources:
       <span class="adj"><span class="a-cn">龙舟</span><span class="a-py">lóngzhōu</span><span class="a-en">dragon boat</span></span>
       <span class="adj"><span class="a-cn">祥瑞</span><span class="a-py">xiángruì</span><span class="a-en">auspicious omen</span></span>
       <span class="adj"><span class="a-cn">神话</span><span class="a-py">shénhuà</span><span class="a-en">mythology</span></span>
+      <span class="adj" data-relation="collocation" data-distinct="清朝 wove the dragon most aggressively into state symbolism — the imperial yellow dragon flag was the Qing's claim to mandate"><span class="a-cn">清朝</span><span class="a-py">Qīng cháo</span><span class="a-en">Qing dynasty</span></span>
     </div>
 
     <!-- RETENTION IMAGE -->

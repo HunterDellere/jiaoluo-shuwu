@@ -276,6 +276,7 @@ content_sources:
       <span class="adj"><span class="a-cn">高考</span><span class="a-py">gāokǎo</span><span class="a-en">college entrance exam</span></span>
       <span class="adj"><span class="a-cn">论语</span><span class="a-py">Lúnyǔ</span><span class="a-en">The Analects</span></span>
       <span class="adj"><span class="a-cn">书法</span><span class="a-py">shūfǎ</span><span class="a-en">calligraphy</span></span>
+      <span class="adj"><span class="a-cn">老</span><span class="a-py">lǎo</span><span class="a-en">old; venerable — 老师 (teacher) is the relational complement to 学生 (student)</span></span>
     </div>
 
     <footer class="page-footer">

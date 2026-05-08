@@ -166,6 +166,8 @@ updated: '2026-04-25'
       <span class="adj"
             data-relation="collocation"
       ><span class="a-cn">论语</span><span class="a-py">Lúnyǔ</span><span class="a-en">the Analects of Confucius</span></span>
+      <span class="adj" data-relation="contrast" data-distinct="迷途知返 is the failure-recovery move junzi cultivation makes possible — the moral self-awareness 君子不器 protects"><span class="a-cn">迷途知返</span><span class="a-py">mí tú zhī fǎn</span><span class="a-en">to realize you are lost and turn back</span></span>
+      <span class="adj" data-relation="synonym" data-distinct="青出于蓝 is the educational outcome the junzi pedagogy aims at — the pupil exceeds the teacher precisely because the junzi is 不器, never confining the student to one tool's shape"><span class="a-cn">青出于蓝</span><span class="a-py">qīng chū yú lán</span><span class="a-en">the student surpasses the teacher</span></span>
     </div>
 
     <footer class="page-footer">

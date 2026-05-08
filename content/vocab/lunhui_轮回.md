@@ -493,6 +493,9 @@ updated: '2026-04-25'
       <span class="adj" data-relation="collocation"><span class="a-cn">命运</span><span class="a-py">mìngyùn</span><span class="a-en">fate; destiny</span></span>
       <span class="adj" data-relation="collocation"><span class="a-cn">前世</span><span class="a-py">qiánshì</span><span class="a-en">previous life; past existence</span></span>
       <span class="adj" data-relation="collocation"><span class="a-cn">顿悟</span><span class="a-py">dùnwù</span><span class="a-en">sudden awakening; sudden enlightenment</span></span>
+      <span class="adj" data-relation="collocation" data-distinct="人间 is the human realm within the wheel of 轮回 — one of the six destinations"><span class="a-cn">人间</span><span class="a-py">rénjiān</span><span class="a-en">the human world; the mortal realm</span></span>
+      <span class="adj" data-relation="collocation"><span class="a-cn">神明</span><span class="a-py">shénmíng</span><span class="a-en">gods, deities</span></span>
+      <span class="adj" data-relation="contrast" data-distinct="迷信 is the polemical secular label for the karma-and-rebirth folk-Buddhist worldview 轮回 anchors"><span class="a-cn">迷信</span><span class="a-py">mìxìn</span><span class="a-en">superstition</span></span>
     </div>
 
     <!-- RETENTION SCHOLAR BOX -->

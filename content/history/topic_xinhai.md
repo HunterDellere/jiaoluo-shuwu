@@ -284,6 +284,8 @@ pinyin: 'xīnhài gémìng'
       <span class="adj"><span class="a-cn">鲁迅</span><span class="a-py">Lǔ Xùn</span><span class="a-en">Lu Xun, greatest May Fourth writer</span></span>
       <span class="adj"><span class="a-cn">国民党</span><span class="a-py">Guómíndǎng</span><span class="a-en">Kuomintang / Nationalist Party (KMT)</span></span>
       <span class="adj"><span class="a-cn">共产党</span><span class="a-py">Gòngchǎndǎng</span><span class="a-en">Communist Party, founded 1921</span></span>
+      <span class="adj" data-relation="collocation" data-distinct="台湾 became the seat of the Republic of China after 1949 and still observes Double Ten as its National Day"><span class="a-cn">台湾</span><span class="a-py">Táiwān</span><span class="a-en">Taiwan</span></span>
+      <span class="adj" data-relation="collocation" data-distinct="Shanghai's foreign concessions hosted the New Culture Movement's printing presses and the founding congress of the CCP in 1921"><span class="a-cn">上海</span><span class="a-py">Shànghǎi</span><span class="a-en">Shanghai</span></span>
     </div>
 
     

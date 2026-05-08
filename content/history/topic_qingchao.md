@@ -264,6 +264,10 @@ pinyin: 'qīngcháo'
       <span class="adj"><span class="a-cn">洋务运动</span><span class="a-py">Yángwù Yùndòng</span><span class="a-en">Self-Strengthening Movement</span></span>
       <span class="adj"><span class="a-cn">义和团</span><span class="a-py">Yìhétuán</span><span class="a-en">Boxer movement</span></span>
       <span class="adj"><span class="a-cn">溥仪</span><span class="a-py">Pǔyí</span><span class="a-en">last Qing emperor</span></span>
+      <span class="adj" data-relation="derived" data-distinct="Dream of the Red Chamber, the fourth and youngest of the 四大名著, is a Qing-dynasty masterpiece written under Qianlong"><span class="a-cn">四大名著</span><span class="a-py">sì dà míngzhù</span><span class="a-en">Four Great Classical Novels</span></span>
+      <span class="adj" data-relation="collocation" data-distinct="Qing extended formal administration over Tibet through the Lifan Yuan and the resident commissioner system, finalizing the territorial frame inherited by modern China"><span class="a-cn">西藏</span><span class="a-py">Xīzàng</span><span class="a-en">Tibet</span></span>
+      <span class="adj" data-relation="collocation" data-distinct="Qing campaigns against the Dzungars and the establishment of the Xinjiang province (1884) brought the western frontier under direct rule"><span class="a-cn">新疆</span><span class="a-py">Xīnjiāng</span><span class="a-en">Xinjiang</span></span>
+      <span class="adj" data-relation="contrast" data-distinct="元朝 is the earlier non-Han conquest dynasty paired with Qing in Chinese historiography — both expanded territorial reach while raising a recurring Han-identity question"><span class="a-cn">元朝</span><span class="a-py">Yuán cháo</span><span class="a-en">The Yuan Dynasty</span></span>
     </div>
 
     

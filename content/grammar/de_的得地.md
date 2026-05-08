@@ -580,6 +580,7 @@ pinyin: 'de / dé / dì'
       <span class="adj"><span class="a-cn">可能补语</span><span class="a-py">kěnéng bǔyǔ</span><span class="a-en">potential complement</span></span>
       <span class="adj"><span class="a-cn">状语</span><span class="a-py">zhuàngyǔ</span><span class="a-en">adverbial modifier</span></span>
       <span class="adj"><span class="a-cn">定语</span><span class="a-py">dìngyǔ</span><span class="a-en">attributive modifier</span></span>
+      <span class="adj" data-relation="collocation" data-distinct="量词 sit between a number and a noun (一本书); 的 sit between a modifier and the noun head. Both are obligatory connective particles in the noun phrase."><span class="a-cn">量词</span><span class="a-py">liàngcí</span><span class="a-en">measure words; classifiers</span></span>
     </div>
 
     

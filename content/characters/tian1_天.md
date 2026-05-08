@@ -881,6 +881,7 @@ content_sources:
       <span class="adj"><span class="a-cn">星</span><span class="a-py">xīng</span><span class="a-en">star</span></span>
       <span class="adj"><span class="a-cn">阳</span><span class="a-py">yáng</span><span class="a-en">sun-side; yang; positive</span></span>
       <span class="adj"><span class="a-cn">阴</span><span class="a-py">yīn</span><span class="a-en">shadow-side; yin; overcast</span></span>
+      <span class="adj" data-relation="collocation" data-distinct="天天 = 'day after day' (emphatic), as in 天天吃面条 — a stock example of the reduplication"><span class="a-cn">面条</span><span class="a-py">miàntiáo</span><span class="a-en">noodles</span></span>
     </div>
 
     <!-- RETENTION IMAGE -->

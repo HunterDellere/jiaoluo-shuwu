@@ -264,6 +264,7 @@ content_sources:
       <span class="adj"><span class="a-cn">登山</span><span class="a-py">dēngshān</span><span class="a-en">mountaineering; to climb</span></span>
       <span class="adj"><span class="a-cn">悬崖</span><span class="a-py">xuányá</span><span class="a-en">cliff; precipice</span></span>
       <span class="adj"><span class="a-cn">峡谷</span><span class="a-py">xiágǔ</span><span class="a-en">gorge; canyon</span></span>
+      <span class="adj" data-relation="derived" data-distinct="愚公移山 — the chengyu literally moves mountains as the icon of stubborn, generational persistence"><span class="a-cn">愚公移山</span><span class="a-py">Yú Gōng yí shān</span><span class="a-en">the foolish old man moves the mountain</span></span>
     </div>
 
     <div class="scholar" data-glyph="山" style="margin-top:2.5rem;">

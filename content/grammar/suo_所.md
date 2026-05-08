@@ -475,6 +475,10 @@ content_review: 'pending'
       <span class="adj"
             data-relation="derived"
       ><span class="a-cn">研究所</span><span class="a-py">yánjiūsuǒ</span><span class="a-en">research institute</span></span>
+      <span class="adj"
+            data-relation="collocation"
+            data-distinct="乃 is the classical consequential connector 'thereupon, then'; pairs with 所 in argumentative classical prose where 乃…所… frames a deduced result"
+      ><span class="a-cn">乃</span><span class="a-py">nǎi</span><span class="a-en">classical connective: then, thereupon</span></span>
     </div>
 
     <footer class="page-footer">

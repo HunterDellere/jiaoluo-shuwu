@@ -372,6 +372,8 @@ content_sources:
       <span class="adj" data-relation="derived"><span class="a-cn">白白</span> <span class="a-py">báibái</span> <span class="a-en">in vain</span></span>
       <span class="adj" data-relation="collocation"><span class="a-cn">明</span> <span class="a-py">míng</span> <span class="a-en">bright</span></span>
       <span class="adj" data-relation="collocation"><span class="a-cn">死</span> <span class="a-py">sǐ</span> <span class="a-en">death (white = mourning color)</span></span>
+      <span class="adj" data-relation="collocation" data-distinct="红白喜事 codifies the white-funeral / red-wedding color-symbolism pairing as one ritual category"><span class="a-cn">红白喜事</span> <span class="a-py">hóngbái xǐshì</span> <span class="a-en">weddings and funerals</span></span>
+      <span class="adj" data-relation="collocation" data-distinct="颜色 names the broader Chinese color-symbolism system in which 白 stands for purity and mourning"><span class="a-cn">颜色</span> <span class="a-py">yánsè</span> <span class="a-en">colors and luck</span></span>
     </div>
 
     <!-- ── RETENTION ── -->

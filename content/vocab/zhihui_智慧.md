@@ -420,6 +420,9 @@ content_review: 'pending'
       <span class="adj" data-relation="contrast" data-distinct="学识 is scholarly learning, erudition — accumulated through study; closer to 知识 than to 智慧"><span class="a-cn">学识</span><span class="a-py">xuéshi</span><span class="a-en">scholarly learning; erudition</span></span>
       <span class="adj" data-relation="collocation" data-distinct="识见 emphasizes perceptiveness and discernment in judgment — a mid-range term between 知识 and 智慧"><span class="a-cn">识见</span><span class="a-py">shíjiàn</span><span class="a-en">insight; discernment; perceptive judgment</span></span>
       <span class="adj" data-relation="collocation"><span class="a-cn">大智若愚</span><span class="a-py">dà zhì ruò yú</span><span class="a-en">great wisdom appears foolish</span></span>
+      <span class="adj" data-relation="collocation" data-distinct="智慧 is wisdom accumulated and applied across 人生 — the journey it presupposes"><span class="a-cn">人生</span><span class="a-py">rénshēng</span><span class="a-en">human life; one's life journey</span></span>
+      <span class="adj" data-relation="contrast" data-distinct="三人成虎 names the failure of crowd-sourced belief — repetition is not 智慧, and even sharp 聪明 can succumb to it"><span class="a-cn">三人成虎</span><span class="a-py">sān rén chéng hǔ</span><span class="a-en">three people make a tiger</span></span>
+      <span class="adj" data-relation="collocation" data-distinct="亡羊补牢 is practical 智慧 in time: late repair is still discernment, better than continuing the same loss"><span class="a-cn">亡羊补牢</span><span class="a-py">wáng yáng bǔ láo</span><span class="a-en">mend the sheep pen after the sheep is lost</span></span>
     </div>
 
     <!-- RETENTION SCHOLAR BOX -->

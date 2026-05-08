@@ -836,6 +836,9 @@ pinyin: 'le'
       <span class="adj"><span class="a-cn">都</span><span class="a-py">dōu</span><span class="a-en">already (emphatic with 了)</span></span>
       <span class="adj"><span class="a-cn">终于</span><span class="a-py">zhōngyú</span><span class="a-en">finally; at last</span></span>
       <span class="adj"><span class="a-cn">就要</span><span class="a-py">jiù yào</span><span class="a-en">about to; soon (imminent)</span></span>
+      <span class="adj" data-relation="collocation" data-distinct="从 marks the temporal starting point of a span; 了 closes it. 从…就…了 frames a duration whose beginning anchors the change-of-state"><span class="a-cn">从</span><span class="a-py">cóng</span><span class="a-en">from; since (origin of duration)</span></span>
+      <span class="adj" data-relation="collocation" data-distinct="得 is the degree-complement particle (V得 + how) — the third major post-verb structure alongside aspect 了/过/着 and resultatives 完/好"><span class="a-cn">得</span><span class="a-py">de</span><span class="a-en">degree complement particle</span></span>
+      <span class="adj" data-relation="collocation" data-distinct="嘛 is the obvious-conclusion sentence-final particle — sibling to 呢/吧 in the modal-particle family that 了 also belongs to in its sentence-final use"><span class="a-cn">嘛</span><span class="a-py">ma</span><span class="a-en">obvious-conclusion particle</span></span>
     </div>
 
     

@@ -531,6 +531,10 @@ updated: '2026-04-25'
       <span class="adj"
             data-relation="collocation"
       ><span class="a-cn">以为</span><span class="a-py">yǐwéi</span><span class="a-en">to mistakenly think; to suppose</span></span>
+      <span class="adj"
+            data-relation="collocation"
+            data-distinct="用 names the function or applied use that 为 (action) takes — 无为 vs 有用 sit at opposite poles of Daoist practical philosophy"
+      ><span class="a-cn">用</span><span class="a-py">yòng</span><span class="a-en">to use; function; expense</span></span>
     </div>
 
     <!-- RETENTION -->

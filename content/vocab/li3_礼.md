@@ -237,6 +237,11 @@ content_sources:
       <span class="adj"><span class="a-cn">规矩</span><span class="a-py">guīju</span><span class="a-en">rules; well-behaved</span></span>
       <span class="adj"><span class="a-cn">习俗</span><span class="a-py">xísú</span><span class="a-en">customs; traditions</span></span>
       <span class="adj"><span class="a-cn">感恩</span><span class="a-py">gǎn'ēn</span><span class="a-en">gratitude as virtue</span></span>
+      <span class="adj"><span class="a-cn">茶道</span><span class="a-py">chádào</span><span class="a-en">the way of tea — ritual aesthetics in everyday form</span></span>
+      <span class="adj"><span class="a-cn">茶具</span><span class="a-py">cháju</span><span class="a-en">tea implements — the material vessels of ritual hospitality</span></span>
+      <span class="adj" data-distinct="送礼 is the gift transaction through which 礼 is enacted in everyday social life"><span class="a-cn">送礼</span><span class="a-py">sònglǐ</span><span class="a-en">gift-giving</span></span>
+      <span class="adj" data-distinct="请客吃饭 is the meal-as-ritual: one of the densest performances of 礼 in daily Chinese life"><span class="a-cn">请客吃饭</span><span class="a-py">qǐngkè chīfàn</span><span class="a-en">treating to a meal</span></span>
+      <span class="adj" data-distinct="the canonical phrase 一点小意思 ('a small token of intention') downplays the gift's value while foregrounding 意思 — the intention is what 礼 counts, not the object"><span class="a-cn">意思</span><span class="a-py">yìsi</span><span class="a-en">intention; meaning — the gift-giving idiom 一点小意思 names the gift by what it carries</span></span>
     </div>
 
     <footer class="page-footer">

@@ -194,6 +194,8 @@ updated: '2026-04-25'
       <span class="adj"
             data-relation="collocation"
       ><span class="a-cn">战国策</span><span class="a-py">Zhànguó Cè</span><span class="a-en">Stratagems of the Warring States — the source text</span></span>
+      <span class="adj" data-relation="contrast" data-distinct="矛盾 is the logical paradox at the level of a single proposition; 三人成虎 is the social paradox of repetition manufacturing belief"><span class="a-cn">矛盾</span><span class="a-py">máodùn</span><span class="a-en">contradiction (the spear-shield chengyu)</span></span>
+      <span class="adj" data-relation="contrast" data-distinct="刻舟求剑 is fixed-frame error against a moving world; 三人成虎 is fixed belief against thinning evidence"><span class="a-cn">刻舟求剑</span><span class="a-py">kè zhōu qiú jiàn</span><span class="a-en">carving the boat to find the sword</span></span>
     </div>
 
     <footer class="page-footer">

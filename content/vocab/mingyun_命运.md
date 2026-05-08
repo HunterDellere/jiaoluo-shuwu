@@ -254,6 +254,7 @@ content_sources:
       <span class="adj"><span class="a-cn">宿命</span><span class="a-py">sùmìng</span><span class="a-en">predetermined fate; fatalism</span></span>
       <span class="adj"><span class="a-cn">命苦</span><span class="a-py">mìng kǔ</span><span class="a-en">hard fate; to have a bitter lot in life</span></span>
       <span class="adj"><span class="a-cn">改变命运</span><span class="a-py">gǎibiàn mìngyùn</span><span class="a-en">to change one's fate</span></span>
+      <span class="adj" data-relation="derived" data-distinct="塞翁失马 is the canonical Chinese parable of fate as nonjudgmental reversal — every loss is potentially gain, every gain potentially loss"><span class="a-cn">塞翁失马</span><span class="a-py">sài wēng shī mǎ</span><span class="a-en">the old frontiersman loses his horse</span></span>
     </div>
 
     <footer class="page-footer">

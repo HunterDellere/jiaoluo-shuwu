@@ -207,6 +207,12 @@ stages:
       <p><strong>Secondary scholarship:</strong> Kwong-loi Shun's <em>Mencius and Early Chinese Thought</em> (Stanford, 1997) is the most precise philosophical analysis of how the Five Constants were developed from Confucius to Mencius. For the social dimensions (face, guanxi, and their relationship to Confucian ethics), Mayfair Yang's <em>Gifts, Favors, and Banquets: The Art of Social Relationships in China</em> (Cornell, 1994) is still the ethnographic benchmark.</p>
     </div>
 
+    <div class="adj-wrap">
+      <span class="adj"><span class="a-cn">哲学</span><span class="a-py">zhéxué</span><span class="a-en">Chinese Philosophy hub — the intellectual foundations of Confucian ethics</span></span>
+      <span class="adj"><span class="a-cn">宗教地图</span><span class="a-py">zōngjiào dìtú</span><span class="a-en">Religious Map hub — how Buddhism and Daoism reshaped Confucian ethics</span></span>
+      <span class="adj"><span class="a-cn">文学路径</span><span class="a-py">wénxué lùjìng</span><span class="a-en">Literary China hub — moral exemplars in classical narrative</span></span>
+    </div>
+
   </main>
 
 </div>

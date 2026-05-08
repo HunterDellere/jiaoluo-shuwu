@@ -442,6 +442,7 @@ content_review: 'pending'
       <span class="adj" data-relation="collocation"><span class="a-cn">面子</span><span class="a-py">miànzi</span><span class="a-en">face; social honor</span></span>
       <span class="adj" data-relation="synonym" data-distinct="客气 is politeness as social courtesy; 谦虚 is the deeper virtue of not overclaiming"><span class="a-cn">客气</span><span class="a-py">kèqi</span><span class="a-en">polite; courteous</span></span>
       <span class="adj" data-relation="derived"><span class="a-cn">谦让</span><span class="a-py">qiānràng</span><span class="a-en">yield modestly; defer to others</span></span>
+      <span class="adj" data-relation="antonym" data-distinct="班门弄斧 names the failure mode 谦虚 prevents — flaunting one's small skill in front of a true master"><span class="a-cn">班门弄斧</span><span class="a-py">bān mén nòng fǔ</span><span class="a-en">Showing Off Before the Master</span></span>
     </div>
 
     <!-- RETENTION SCHOLAR BOX -->

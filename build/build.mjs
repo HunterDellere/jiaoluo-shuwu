@@ -292,10 +292,29 @@ function buildJsonLd(fm, slug, category) {
 
   const breadcrumb = buildBreadcrumbLd(fm, slug, category);
 
-  return [
+  const blocks = [
     `<script type="application/ld+json">${JSON.stringify(termData)}</script>`,
     `<script type="application/ld+json">${JSON.stringify(breadcrumb)}</script>`,
-  ].join('\n');
+  ];
+
+  if (Array.isArray(fm.faq) && fm.faq.length > 0) {
+    const faqLd = {
+      '@context': 'https://schema.org',
+      '@type': 'FAQPage',
+      mainEntity: fm.faq
+        .filter(qa => qa && qa.q && qa.a)
+        .map(qa => ({
+          '@type': 'Question',
+          name: String(qa.q),
+          acceptedAnswer: { '@type': 'Answer', text: String(qa.a) },
+        })),
+    };
+    if (faqLd.mainEntity.length > 0) {
+      blocks.push(`<script type="application/ld+json">${JSON.stringify(faqLd)}</script>`);
+    }
+  }
+
+  return blocks.join('\n');
 }
 
 const LANG_LOCALE = {
@@ -635,6 +654,28 @@ for (const { fm, body, slug, category, outDir, entry } of pending) {
             return `${listOpen}      <li><a href="#related">\n        <span class="toc-cn">相关</span> Related\n        <span class="toc-sub">xiāngguān · pages &amp; vocab</span>\n      </a></li>\n    ${listClose}`;
           }
         );
+      }
+    }
+
+    // Inject visible FAQ section if frontmatter has faq:
+    if (Array.isArray(fm.faq) && fm.faq.length > 0 && augmentedBody.includes('</main>')) {
+      const items = fm.faq
+        .filter(qa => qa && qa.q && qa.a)
+        .map(qa => `        <details class="faq-item"><summary class="faq-q">${escapeHtmlBuild(String(qa.q))}</summary><div class="faq-a">${escapeHtmlBuild(String(qa.a))}</div></details>`)
+        .join('\n');
+      if (items) {
+        const faqHtml = `\n    <span class="section-anchor" id="faq"></span>\n    <div class="section-head"><span class="sh-cn">常见问题</span><span class="sh-py">chángjiàn wèntí</span><span class="sh-en">Frequently Asked Questions</span></div>\n    <div class="faq">\n${items}\n    </div>\n`;
+        augmentedBody = augmentedBody.replace('</main>', `${faqHtml}  </main>`);
+        // Inject TOC entry for FAQ if not already present in sidebar
+        if (!/href="#faq"/.test((augmentedBody.split('</aside>')[0] || ''))) {
+          augmentedBody = augmentedBody.replace(
+            /(<ul class="toc-list">[\s\S]*?)(<\/ul>)/,
+            (m, listOpen, listClose) => {
+              if (/href="#faq"/.test(listOpen)) return m;
+              return `${listOpen}      <li><a href="#faq">\n        <span class="toc-cn">常见问题</span> FAQ\n        <span class="toc-sub">chángjiàn wèntí</span>\n      </a></li>\n    ${listClose}`;
+            }
+          );
+        }
       }
     }
 

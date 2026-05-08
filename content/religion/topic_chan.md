@@ -347,6 +347,7 @@ pinyin: 'chán zōng'
       <span class="adj"><span class="a-cn">临济</span><span class="a-py">Línjì</span><span class="a-en">Linji school (Rinzai in Japan)</span></span>
       <span class="adj"><span class="a-cn">曹洞</span><span class="a-py">Cáodòng</span><span class="a-en">Caodong school (Soto in Japan)</span></span>
       <span class="adj"><span class="a-cn">茶禅一味</span><span class="a-py">chá chán yī wèi</span><span class="a-en">tea and Chan: one flavor</span></span>
+      <span class="adj" data-relation="contrast" data-distinct="净土 emphasizes faith in Amitābha's saving power; Chán emphasizes direct introspection — they became the two dominant living schools of Chinese Buddhism"><span class="a-cn">净土宗</span><span class="a-py">jìngtǔ zōng</span><span class="a-en">Pure Land school</span></span>
     </div>
 
     

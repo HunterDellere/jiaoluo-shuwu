@@ -151,6 +151,7 @@ content_sources:
       <span class="adj"><span class="a-cn">红包</span><span class="a-py">hóngbāo</span><span class="a-en">red envelope; cash gift</span></span>
       <span class="adj"><span class="a-cn">金</span><span class="a-py">jīn</span><span class="a-en">gold; metal; the metal radical</span></span>
       <span class="adj"><span class="a-cn">富</span><span class="a-py">fù</span><span class="a-en">rich; wealthy; abundant</span></span>
+      <span class="adj"><span class="a-cn">产</span><span class="a-py">chǎn</span><span class="a-en">to produce; property; output</span></span>
     </div>
 
     <footer class="page-footer">

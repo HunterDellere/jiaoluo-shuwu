@@ -160,6 +160,8 @@ content_review: 'pending'
       <span class="adj" data-relation="collocation"><span class="a-cn">国家</span><span class="a-py">guójiā</span><span class="a-en">nation; state</span></span>
       <span class="adj" data-relation="collocation"><span class="a-cn">新</span><span class="a-py">xīn</span><span class="a-en">new; fresh</span></span>
       <span class="adj" data-relation="collocation"><span class="a-cn">继承</span><span class="a-py">jìchéng</span><span class="a-en">to inherit; inheritance</span></span>
+      <span class="adj" data-relation="collocation" data-distinct="风俗 are the local folk practices that compose the lived surface of 传统"><span class="a-cn">风俗</span><span class="a-py">fēngsú</span><span class="a-en">customs, folk practices</span></span>
+      <span class="adj" data-relation="collocation"><span class="a-cn">茶道</span><span class="a-py">chádào</span><span class="a-en">the way of tea</span></span>
     </div>
 
     <footer class="page-footer">

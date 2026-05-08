@@ -200,6 +200,7 @@ content_review: 'pending'
             data-relation="synonym"
             data-distinct="same failure mode, also from Zhuangzi"
       ><span class="a-cn">邯郸学步</span><span class="a-py">Hándān xué bù</span><span class="a-en">learning to walk in Handan — imitating and losing what you had</span></span>
+      <span class="adj" data-relation="contrast" data-distinct="班门弄斧 is showing off skill in the wrong arena; 东施效颦 is imitating without understanding — paired warnings about misjudged self-presentation"><span class="a-cn">班门弄斧</span><span class="a-py">bān mén nòng fǔ</span><span class="a-en">showing off before the master</span></span>
     </div>
 
     <footer class="page-footer">

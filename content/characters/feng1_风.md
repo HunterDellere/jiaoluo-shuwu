@@ -300,6 +300,7 @@ content_review: 'pending'
       <span class="adj"><span class="a-cn">风景</span><span class="a-py">fēngjǐng</span><span class="a-en">scenery</span></span>
       <span class="adj"><span class="a-cn">凤</span><span class="a-py">fèng</span><span class="a-en">phoenix</span></span>
       <span class="adj"><span class="a-cn">气</span><span class="a-py">qì</span><span class="a-en">air; breath; qi</span></span>
+      <span class="adj"><span class="a-cn">土</span><span class="a-py">tǔ</span><span class="a-en">earth; soil — 风土 names a region's climate-and-terrain together</span></span>
     </div>
 
     <div class="scholar" data-glyph="风">

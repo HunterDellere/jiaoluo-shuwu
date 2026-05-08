@@ -389,6 +389,8 @@ pinyin: 'dàojiào'
       <span class="adj"><span class="a-cn">丹田</span><span class="a-py">dāntián</span><span class="a-en">cinnabar field (energy center)</span></span>
       <span class="adj"><span class="a-cn">虚</span><span class="a-py">xū</span><span class="a-en">emptiness; vacancy (Daoist virtue)</span></span>
       <span class="adj"><span class="a-cn">逍遥</span><span class="a-py">xiāoyáo</span><span class="a-en">carefree wandering (Zhuangzi)</span></span>
+      <span class="adj" data-relation="collocation" data-distinct="city gods sit inside the Daoist celestial bureaucracy as local administrators of the divine hierarchy"><span class="a-cn">城隍</span><span class="a-py">chénghuáng</span><span class="a-en">city god</span></span>
+      <span class="adj" data-relation="contrast" data-distinct="northern shamanism predates and partly feeds the ritual technology that organized Daoism inherited"><span class="a-cn">萨满教</span><span class="a-py">sàmǎn jiào</span><span class="a-en">shamanism</span></span>
     </div>
 
     

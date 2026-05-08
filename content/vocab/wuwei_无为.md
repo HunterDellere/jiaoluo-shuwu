@@ -337,6 +337,8 @@ content_review: 'pending'
       <span class="adj" data-relation="collocation"><span class="a-cn">水善利万物</span><span class="a-py">shuǐ shàn lì wànwù</span><span class="a-en">water benefits all things; the Daoist image of yielding</span></span>
       <span class="adj" data-relation="collocation"><span class="a-cn">柔弱胜刚强</span><span class="a-py">róuruò shèng gāngqiáng</span><span class="a-en">soft overcomes hard</span></span>
       <span class="adj" data-relation="derived" data-distinct="无用之用 applies the same logic to utility — the absence does the work"><span class="a-cn">无用之用</span><span class="a-py">wúyòng zhī yòng</span><span class="a-en">the use of uselessness</span></span>
+      <span class="adj" data-relation="contrast" data-distinct="画蛇添足 is the cautionary inverse of 无为 — adding what was never needed and ruining what was already complete"><span class="a-cn">画蛇添足</span><span class="a-py">huà shé tiān zú</span><span class="a-en">Drawing Legs on a Snake</span></span>
+      <span class="adj" data-relation="contrast" data-distinct="守株待兔 is the parodic failure of 无为 — passive waiting mistaken for non-forcing action"><span class="a-cn">守株待兔</span><span class="a-py">shǒu zhū dài tù</span><span class="a-en">Guarding the Stump, Waiting for Rabbits</span></span>
     </div>
 
     <!-- RETENTION SCHOLAR BOX -->

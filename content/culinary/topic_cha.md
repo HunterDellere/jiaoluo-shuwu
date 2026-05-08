@@ -145,6 +145,18 @@ pinyin: 'chá'
         </div>
       </div>
 
+    <div class="adj-wrap">
+      <span class="adj"><span class="a-cn">绿茶</span><span class="a-py">lǜchá</span><span class="a-en">green tea — unoxidized; the dominant style in modern China</span></span>
+      <span class="adj"><span class="a-cn">白茶</span><span class="a-py">báichá</span><span class="a-en">white tea — minimally processed; wither and dry</span></span>
+      <span class="adj"><span class="a-cn">黄茶</span><span class="a-py">huángchá</span><span class="a-en">yellow tea — the rarest of the six categories</span></span>
+      <span class="adj"><span class="a-cn">乌龙茶</span><span class="a-py">wūlóngchá</span><span class="a-en">oolong — partially oxidized; the gongfu style's home category</span></span>
+      <span class="adj"><span class="a-cn">红茶</span><span class="a-py">hóngchá</span><span class="a-en">red tea — what the West calls black tea</span></span>
+      <span class="adj"><span class="a-cn">黑茶</span><span class="a-py">hēichá</span><span class="a-en">dark tea & pu-erh — the post-fermented sixth category</span></span>
+      <span class="adj" data-relation="contrast" data-distinct="tisanes share the cup but not the Camellia sinensis leaf"><span class="a-cn">花草茶</span><span class="a-py">huācǎo chá</span><span class="a-en">tisanes & herbal infusions — not true tea</span></span>
+      <span class="adj"><span class="a-cn">茶道</span><span class="a-py">chádào</span><span class="a-en">the way of tea — ritual and aesthetic</span></span>
+      <span class="adj"><span class="a-cn">茶具</span><span class="a-py">chájù</span><span class="a-en">tea ware — the pots, cups, and tools</span></span>
+      <span class="adj"><span class="a-cn">工夫茶</span><span class="a-py">gōngfu chá</span><span class="a-en">gongfu tea — small-pot, multi-steep brewing</span></span>
+    </div>
 
     
   </main>

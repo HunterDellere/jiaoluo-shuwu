@@ -228,6 +228,7 @@ updated: '2026-04-25'
       <span class="adj"><span class="a-cn">道</span><span class="a-py">dào</span><span class="a-en">the Way</span></span>
       <span class="adj"><span class="a-cn">阴阳</span><span class="a-py">yīnyáng</span><span class="a-en">yin and yang</span></span>
       <span class="adj"><span class="a-cn">良心</span><span class="a-py">liángxīn</span><span class="a-en">conscience; innate moral sense</span></span>
+      <span class="adj" data-distinct="天人合一 is the ideal alignment of cosmic and human order — the ethical extension of the 天地 dyad"><span class="a-cn">天人合一</span><span class="a-py">tiān rén hé yī</span><span class="a-en">Heaven and humanity as one</span></span>
     </div>
 
     <footer class="page-footer">

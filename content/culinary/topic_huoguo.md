@@ -164,6 +164,14 @@ pinyin: 'huǒguō'
       </div>
     </div>
 
+    <div class="adj-wrap">
+      <span class="adj"><span class="a-cn">川菜</span><span class="a-py">chuāncài</span><span class="a-en">Sichuan cuisine — Chongqing málà hotpot grew from Sichuan's flavor vocabulary</span></span>
+      <span class="adj"><span class="a-cn">八大菜系</span><span class="a-py">bā dà càixì</span><span class="a-en">the Eight Great Cuisines — hotpot escapes the regional taxonomy</span></span>
+      <span class="adj"><span class="a-cn">豆腐</span><span class="a-py">dòufu</span><span class="a-en">tofu — frozen tofu is a staple hotpot ingredient</span></span>
+      <span class="adj"><span class="a-cn">白酒</span><span class="a-py">báijiǔ</span><span class="a-en">baijiu — the spirit most often paired with a hotpot meal</span></span>
+      <span class="adj"><span class="a-cn">敬酒</span><span class="a-py">jìngjiǔ</span><span class="a-en">toasting — the social ritual that animates a hotpot table</span></span>
+    </div>
+
     
   </main>
 </div>

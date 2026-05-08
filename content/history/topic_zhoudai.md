@@ -390,6 +390,9 @@ pinyin: 'Zhōu cháo'
             data-relation="contrast"
             data-distinct="the mythological predecessor; Zhou claimed the Three Dynasties lineage as moral authority"
       ><span class="a-cn">夏朝</span><span class="a-py">Xià cháo</span><span class="a-en">Xia dynasty</span></span>
+      <span class="adj" data-relation="derived" data-distinct="诗经 is the lyric core of the Zhou Five Classics — the surviving voice of Western Zhou ritual and Eastern Zhou court life"><span class="a-cn">诗经</span><span class="a-py">shījīng</span><span class="a-en">Book of Songs</span></span>
+      <span class="adj" data-relation="collocation" data-distinct="夏商周 names the Three Dynasties lineage from which Zhou claimed its moral inheritance and to which it added the Mandate of Heaven framework"><span class="a-cn">夏商周</span><span class="a-py">Xià Shāng Zhōu</span><span class="a-en">The Three Dynasties</span></span>
+      <span class="adj" data-relation="derived" data-distinct="汉朝 inherited and institutionalized the Confucian reading of Zhou ritual — Zhou was the model the Han claimed to recover"><span class="a-cn">汉朝</span><span class="a-py">Hàn cháo</span><span class="a-en">The Han Dynasty</span></span>
     </div>
 
     <footer class="page-footer">

@@ -168,6 +168,8 @@ content_review: pending
       <span class="adj" data-relation="collocation"><span class="a-cn">范宽</span><span class="a-py">Fàn Kuān</span><span class="a-en">Fan Kuan — Northern Song master</span></span>
       <span class="adj" data-relation="collocation"><span class="a-cn">王维</span><span class="a-py">Wáng Wéi</span><span class="a-en">Wang Wei — Tang poet-painter</span></span>
       <span class="adj" data-relation="collocation"><span class="a-cn">苏轼</span><span class="a-py">Sū Shì</span><span class="a-en">Su Shi — Song literati theorist</span></span>
+      <span class="adj" data-relation="collocation" data-distinct="Wang Wei is the founding figure read through both 唐诗 and 山水画 — the same poet-painter tradition viewed from each medium"><span class="a-cn">唐诗</span><span class="a-py">tángshī</span><span class="a-en">Tang poetry</span></span>
+      <span class="adj" data-relation="collocation" data-distinct="Su Shi's 宋词 lyric voice and his theory of literati painting are two sides of the same Song-era aesthetic program"><span class="a-cn">宋词</span><span class="a-py">sòngcí</span><span class="a-en">Song Dynasty lyric</span></span>
     </div>
 
     <footer class="page-footer">

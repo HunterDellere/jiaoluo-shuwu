@@ -541,6 +541,7 @@ content_review: 'pending'
       <span class="adj" data-relation="derived"><span class="a-cn">前任</span><span class="a-py">qiánrèn</span><span class="a-en">former (person in a role); the ex</span></span>
       <span class="adj" data-relation="derived"><span class="a-cn">前天</span><span class="a-py">qiántiān</span><span class="a-en">day before yesterday</span></span>
       <span class="adj" data-relation="collocation"><span class="a-cn">方向</span><span class="a-py">fāngxiàng</span><span class="a-en">direction; orientation</span></span>
+      <span class="adj"><span class="a-cn">时</span><span class="a-py">shí</span><span class="a-en">time; hour; season</span></span>
     </div>
 
     <!-- RETENTION IMAGE -->
