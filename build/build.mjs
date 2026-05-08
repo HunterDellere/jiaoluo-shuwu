@@ -22,6 +22,7 @@ import { buildAdjIndex } from './lib/adj-index.mjs';
 import { renderFamilyContent, renderFamilyCrosslinks } from './lib/family-render.mjs';
 import { renderOgSvg, categoryFaviconDataUri } from './lib/og.mjs';
 import { emitPinyinPages, buildPinyinIndex } from './lib/pinyin-index.mjs';
+import { buildComponentIndex, renderAppearsInHtml } from './lib/component-index.mjs';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const ROOT      = join(__dirname, '..');
@@ -497,6 +498,11 @@ const pinyinSyllableSet = new Set(
   [...pinyinIndexPreview.entries()].filter(([, g]) => g.entries.length > 0).map(([s]) => s)
 );
 
+// Reverse component index: hanzi → [pages mentioning this hanzi]. Used to
+// inject an "Appears in" section on each character page (Session 4 of the
+// growth plan). Doubles internal-link density without new content.
+const componentIndex = buildComponentIndex(contentDir, entries);
+
 // Pass 2: augment body (stroke order, auto-link, pinyin audio, related, prev/next), render, write
 let built = 0;
 let autoLinkCount = 0;
@@ -649,7 +655,19 @@ for (const { fm, body, slug, category, outDir, entry } of pending) {
       const relatedHtmlFilled = relatedHtml.replace('<!--RELATED_CHIPS_SLOT-->', chipsTier);
 
       const adjacencyHtml = isFamilyPage ? '' : renderAdjacencyHtml(adjacency.get(entry.path), entry.path);
-      const injection = `${sourcesHtml}${relatedHtmlFilled}${adjacencyHtml}`;
+
+      // Reverse component index: on character pages, list every other page
+      // that contains this hanzi. Excludes self-page. Skipped on non-character
+      // and family-index pages.
+      let appearsInHtml = '';
+      if (!isFamilyPage && fm.type === 'character' && fm.char) {
+        const allMatches = (componentIndex.get(fm.char) || []).filter(e => e.path !== entry.path);
+        if (allMatches.length) {
+          appearsInHtml = renderAppearsInHtml(fm.char, allMatches, entry.path);
+        }
+      }
+
+      const injection = `${sourcesHtml}${relatedHtmlFilled}${adjacencyHtml}${appearsInHtml}`;
       if (injection && augmentedBody.includes('</main>')) {
         augmentedBody = augmentedBody.replace('</main>', `${injection}\n  </main>`);
       }
@@ -664,6 +682,17 @@ for (const { fm, body, slug, category, outDir, entry } of pending) {
             // Avoid double-injection if the regex above already added one.
             if (/href="#related"/.test(listOpen)) return m;
             return `${listOpen}      <li><a href="#related">\n        <span class="toc-cn">相关</span> Related\n        <span class="toc-sub">xiāngguān · pages &amp; vocab</span>\n      </a></li>\n    ${listClose}`;
+          }
+        );
+      }
+
+      // TOC entry for #appears-in (character pages only, when injected)
+      if (appearsInHtml && !/href="#appears-in"/.test(augmentedBody.split('</aside>')[0] || '')) {
+        augmentedBody = augmentedBody.replace(
+          /(<ul class="toc-list">[\s\S]*?)(<\/ul>)/,
+          (m, listOpen, listClose) => {
+            if (/href="#appears-in"/.test(listOpen)) return m;
+            return `${listOpen}      <li><a href="#appears-in">\n        <span class="toc-cn">出现于</span> Appears in\n        <span class="toc-sub">chūxiànyú · pages with this hanzi</span>\n      </a></li>\n    ${listClose}`;
           }
         );
       }
