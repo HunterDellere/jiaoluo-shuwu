@@ -64,13 +64,21 @@
   // Uses the "Solar Terms" epoch method: accurate to ±1 day for 1900–2100.
   // Returns { month, day, isLeap } where month/day are traditional lunar numbers.
   function lunarDate(date) {
-    // Reference: lunar new year dates 2020–2035 (Western calendar).
-    // For years outside this window we fall back gracefully.
+    // Reference: lunar new year dates (Western calendar) 2020–2055.
+    // Sourced from the Hong Kong Observatory's published lunar/Gregorian
+    // conversion tables, which agree with NASA/JPL ephemeris.
+    // Extending past 2055 requires another table refresh (~once a decade).
+    // For years outside this window we fall back gracefully (returns null;
+    // homepage drops the lunar suffix and keeps the Gregorian date).
     const LNY = {
-      2020:[1,25],2021:[2,12],2022:[2,1],2023:[1,22],2024:[2,10],
-      2025:[1,29],2026:[2,17],2027:[2,6],2028:[1,26],2029:[2,13],
-      2030:[2,3],2031:[1,23],2032:[2,11],2033:[1,31],2034:[2,19],
-      2035:[2,8]
+      2020:[1,25],2021:[2,12],2022:[2,1], 2023:[1,22],2024:[2,10],
+      2025:[1,29],2026:[2,17],2027:[2,6], 2028:[1,26],2029:[2,13],
+      2030:[2,3], 2031:[1,23],2032:[2,11],2033:[1,31],2034:[2,19],
+      2035:[2,8], 2036:[1,28],2037:[2,15],2038:[2,4], 2039:[1,24],
+      2040:[2,12],2041:[2,1], 2042:[1,22],2043:[2,10],2044:[1,30],
+      2045:[2,17],2046:[2,6], 2047:[1,26],2048:[2,14],2049:[2,2],
+      2050:[1,23],2051:[2,11],2052:[2,1], 2053:[2,19],2054:[2,8],
+      2055:[1,28]
     };
     const y = date.getFullYear();
     const lny = LNY[y] || LNY[y - 1];
