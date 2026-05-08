@@ -770,19 +770,13 @@ for (const { fm, body, slug, category, outDir, entry } of pending) {
     // Ensure skip-link target is present on every page
     augmentedBody = ensureMainContentId(augmentedBody);
 
-    // Visible prev/next nav for character pages — injected before <footer>
+    // HSK reading-order prev/next for character pages — emitted as
+    // <link rel="prev"/rel="next"> in <head> only (powers j/k keyboard nav
+    // and gives search engines an explicit reading-order graph). The
+    // existing .pn-prev/.pn-next nav at the bottom of the page handles the
+    // visible UI; we deliberately do not render a second visible block.
     const prevNext = (fm.type === 'character' && fm.status === 'complete')
       ? characterPrevNext.get(entry.path) : null;
-    if (prevNext && (prevNext.prev || prevNext.next)) {
-      const prevHtml = prevNext.prev
-        ? `<a class="char-prev" href="../characters/${prevNext.prev.path.split('/').pop()}" rel="prev"><span class="char-prev-label">← previous</span><span class="char-prev-cn" lang="zh">${escapeHtmlBuild(prevNext.prev.char)}</span><span class="char-prev-py">${escapeHtmlBuild(prevNext.prev.pinyin || '')}</span></a>`
-        : `<span class="char-prev-placeholder"></span>`;
-      const nextHtml = prevNext.next
-        ? `<a class="char-next" href="../characters/${prevNext.next.path.split('/').pop()}" rel="next"><span class="char-next-label">next →</span><span class="char-next-cn" lang="zh">${escapeHtmlBuild(prevNext.next.char)}</span><span class="char-next-py">${escapeHtmlBuild(prevNext.next.pinyin || '')}</span></a>`
-        : `<span class="char-next-placeholder"></span>`;
-      const navHtml = `\n    <nav class="char-prev-next" aria-label="Sibling characters">${prevHtml}${nextHtml}</nav>\n`;
-      augmentedBody = augmentedBody.replace(/(<footer class="page-footer")/, `${navHtml}    $1`);
-    }
 
     const html = renderPage(fm, augmentedBody, slug, category, prevNext);
     writeFileSync(join(outDir, `${slug}.html`), html, 'utf8');

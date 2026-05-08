@@ -117,11 +117,11 @@ export function buildPinyinIndex(entries) {
 }
 
 const TONE_LABEL = {
-  1: { mark: '◌̄', name: 'first tone',  pinyin: 'high level' },
-  2: { mark: '◌́', name: 'second tone', pinyin: 'rising' },
-  3: { mark: '◌̌', name: 'third tone',  pinyin: 'low / dipping' },
-  4: { mark: '◌̀', name: 'fourth tone', pinyin: 'falling' },
-  5: { mark: '·',  name: 'neutral tone', pinyin: 'unstressed' },
+  1: { mark: '◌̄', name: 'first tone',  pinyin: 'high level',     color: 'c-teal',   exemplar: 'mā' },
+  2: { mark: '◌́', name: 'second tone', pinyin: 'rising',         color: 'c-ochre',  exemplar: 'má' },
+  3: { mark: '◌̌', name: 'third tone',  pinyin: 'low / dipping',  color: 'c-violet', exemplar: 'mǎ' },
+  4: { mark: '◌̀', name: 'fourth tone', pinyin: 'falling',        color: 'c-red',    exemplar: 'mà' },
+  5: { mark: '·',  name: 'neutral tone', pinyin: 'unstressed',     color: 'c-sienna', exemplar: 'ma' },
 };
 
 function renderToneGroup(tone, items, syllableBaseStr) {
@@ -137,7 +137,7 @@ function renderToneGroup(tone, items, syllableBaseStr) {
     const hskChip = (typeof e.hsk === 'number') ? `<span class="card-tag tag-n">HSK ${e.hsk}</span>` : '';
     const path = `../${e.path.replace(/^pages\//, '')}`;
     return `
-        <a class="card c-teal" href="${path}">
+        <a class="card ${label.color}" href="${path}">
           <div class="card-head">
             <span class="card-title" lang="zh">${escapeHtml(e.char)}</span>
             <span class="card-pinyin">${escapeHtml(e.pinyin)}</span>
@@ -147,16 +147,48 @@ function renderToneGroup(tone, items, syllableBaseStr) {
         </a>`;
   }).join('');
 
+  // Section head shows the tone-marked exemplar (mā / má / mǎ / mà / ma)
+  // mapped onto this syllable base — a quick reference for what the tone
+  // sounds like, in the actual reader's syllable.
+  const toneOnBase = applyToneToBase(syllableBaseStr, tone);
+
   return `
     <span class="section-anchor" id="tone-${tone}"></span>
-    <div class="section-head">
-      <span class="sh-cn">${label.mark} ${escapeHtml(label.name)}</span>
-      <span class="sh-py">${escapeHtml(syllableBaseStr)}${tone <= 4 ? tone : ''}</span>
+    <div class="section-head pinyin-tone-head" data-tone="${tone}">
+      <span class="sh-cn">${escapeHtml(toneOnBase)}</span>
+      <span class="sh-py">tone ${tone}</span>
       <span class="sh-en">${escapeHtml(label.pinyin)}</span>
     </div>
     <div class="cards">${cards}
     </div>
 `;
+}
+
+/**
+ * Apply a tone mark to a toneless syllable base for display — "ai" + 4 → "ài".
+ * Follows standard pinyin tone-placement rules (a → o → e → final i/u/ü).
+ */
+function applyToneToBase(base, tone) {
+  if (tone === 5 || !tone) return base;
+  const marks = {
+    a: ['a','ā','á','ǎ','à'],
+    e: ['e','ē','é','ě','è'],
+    i: ['i','ī','í','ǐ','ì'],
+    o: ['o','ō','ó','ǒ','ò'],
+    u: ['u','ū','ú','ǔ','ù'],
+    'ü': ['ü','ǖ','ǘ','ǚ','ǜ'],
+  };
+  // Placement priority for tone marks
+  const order = ['a','o','e','i','u','ü'];
+  for (const target of order) {
+    const idx = base.lastIndexOf(target);
+    if (idx >= 0) {
+      const marked = marks[target] && marks[target][tone];
+      if (!marked) return base;
+      return base.slice(0, idx) + marked + base.slice(idx + 1);
+    }
+  }
+  return base;
 }
 
 function renderCompoundList(compounds, syllableBaseStr) {
@@ -210,11 +242,12 @@ function renderBody(syllable, group, allSyllables) {
     return `      <li><a href="#tone-${t}"><span class="toc-cn">${label.mark}</span> ${escapeHtml(label.name)}</a></li>`;
   }).join('\n');
 
-  // Find a small slice of nearby syllables alphabetically for browse-sideways
+  // Browse-sideways: previous + next pinyin alphabetically. Two links is
+  // less noisy than a strip of 8.
   const sortedSyl = [...allSyllables].sort();
   const idx = sortedSyl.indexOf(syllable);
-  const window = sortedSyl.slice(Math.max(0, idx - 4), idx).concat(sortedSyl.slice(idx + 1, idx + 5));
-  const nearbyHtml = window.map(s => `<a href="${s}.html" class="adj"><span class="a-cn" lang="zh">${escapeHtml(s)}</span></a>`).join('');
+  const prevSyl = idx > 0 ? sortedSyl[idx - 1] : null;
+  const nextSyl = idx < sortedSyl.length - 1 ? sortedSyl[idx + 1] : null;
 
   const compoundsToc = compounds.length
     ? `      <li><a href="#compounds"><span class="toc-cn">词</span> Compounds</a></li>`
@@ -240,25 +273,32 @@ ${compoundsToc}
 
   <main class="main" id="main-content">
 
-    <header class="topic-hero">
+    <header class="topic-hero pinyin-hero">
       <span class="topic-hero-eyebrow">Pinyin · 拼音 pīnyīn</span>
-      <h1 class="topic-hero-title" lang="en">${escapeHtml(syllable)}</h1>
-      <span class="topic-hero-title-py">${characters.length} reading${characters.length === 1 ? '' : 's'}</span>
-      <p class="topic-hero-desc">Every character on Jiǎoluò Shūwū whose pinyin reading is <em>${escapeHtml(syllable)}</em> in any tone, plus compounds and phrases containing this syllable. Pinyin without tone marks is ambiguous — pick the tone you mean.</p>
-    </header>
+      <h1 class="topic-hero-title pinyin-hero-title" lang="en">${escapeHtml(syllable)}</h1>
+      <div class="pinyin-hero-tones">
+        ${[1,2,3,4].map(t => {
+          const present = byTone.has(t);
+          const marked = applyToneToBase(syllable, t);
+          return `<span class="pinyin-hero-tone ${present ? '' : 'is-empty'}" data-tone="${t}">${escapeHtml(marked)}</span>`;
+        }).join('')}
+      </div>
+      <p class="topic-hero-desc">Every character on Jiǎoluò Shūwū read as <em>${escapeHtml(syllable)}</em> in any tone — ${characters.length} reading${characters.length === 1 ? '' : 's'} total. Pinyin without tone marks is ambiguous; pick the tone you mean.</p>
+    </header>${characters.length === 0 ? '<!--EMPTY-->' : ''}
 
     ${toneSections}
 
     ${renderCompoundList(compounds, syllable)}
 
-    ${nearbyHtml ? `
-    <span class="section-anchor" id="nearby"></span>
-    <div class="section-head">
-      <span class="sh-cn">附近</span>
-      <span class="sh-py">fùjìn</span>
-      <span class="sh-en">Nearby pinyin syllables</span>
-    </div>
-    <div class="adj-wrap">${nearbyHtml}</div>
+    ${(prevSyl || nextSyl) ? `
+    <nav class="prev-next pinyin-prev-next" aria-label="Adjacent pinyin syllables">
+      ${prevSyl
+        ? `<a class="pn-link pn-prev" href="${prevSyl}.html" rel="prev"><span class="pn-arrow">←</span><span class="pn-meta"><span class="pn-label">Previous syllable</span><span class="pn-title"><span class="pn-cn" lang="zh">${escapeHtml(prevSyl)}</span></span></span></a>`
+        : `<span class="pn-empty"></span>`}
+      ${nextSyl
+        ? `<a class="pn-link pn-next" href="${nextSyl}.html" rel="next"><span class="pn-arrow">→</span><span class="pn-meta"><span class="pn-label">Next syllable</span><span class="pn-title"><span class="pn-cn" lang="zh">${escapeHtml(nextSyl)}</span></span></span></a>`
+        : `<span class="pn-empty"></span>`}
+    </nav>
     ` : ''}
 
     <footer class="page-footer">
@@ -358,8 +398,12 @@ function renderIndexBody(index) {
 
   const sections = [...byLetter.keys()].sort().map(letter => {
     const items = byLetter.get(letter).map(s => {
-      const count = index.get(s).entries.length;
-      return `      <li><a class="adj" href="${s}.html"><span class="a-cn" lang="zh">${escapeHtml(s)}</span><span class="a-en">${count}</span></a></li>`;
+      const group = index.get(s);
+      const count = group.entries.length;
+      // Tone availability badges: which tones have a reading for this syllable.
+      const tones = new Set(group.entries.map(e => e.tone || syllableTone(e.pinyin)));
+      const toneDots = [1,2,3,4].map(t => `<span class="pl-tone${tones.has(t) ? ' is-on' : ''}" data-tone="${t}" aria-hidden="true"></span>`).join('');
+      return `      <li><a class="pinyin-letter-item" href="${s}.html"><span class="pl-syl" lang="zh">${escapeHtml(s)}</span><span class="pl-tones">${toneDots}</span><span class="pl-count">${count}</span></a></li>`;
     }).join('\n');
     return `
     <span class="section-anchor" id="letter-${letter}"></span>
@@ -367,7 +411,7 @@ function renderIndexBody(index) {
       <span class="sh-cn">${letter.toUpperCase()}</span>
       <span class="sh-py">— ${byLetter.get(letter).length} syllable${byLetter.get(letter).length === 1 ? '' : 's'}</span>
     </div>
-    <ul class="adj-wrap pinyin-letter-list">
+    <ul class="pinyin-letter-grid">
 ${items}
     </ul>
 `;

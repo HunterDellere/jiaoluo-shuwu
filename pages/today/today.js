@@ -112,7 +112,14 @@
     var box = document.querySelector('[data-today-streak]');
     if (box) {
       var label = box.querySelector('.today-streak-label');
-      if (label) label.textContent = streak === 1 ? 'day streak — welcome!' : 'day streak';
+      if (label) label.textContent = streak === 1 ? 'day' : 'days in a row';
+      var hint = box.querySelector('.today-streak-hint');
+      if (hint) {
+        if (streak === 1) hint.textContent = 'Welcome — visit again tomorrow to keep it going.';
+        else if (streak < 7) hint.textContent = 'Resets if you skip a day.';
+        else if (streak < 30) hint.textContent = 'Nice — a week-plus rhythm.';
+        else hint.textContent = 'A serious habit. 厲害.';
+      }
     }
   }
 
