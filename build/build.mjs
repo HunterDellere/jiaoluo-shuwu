@@ -17,10 +17,11 @@ import { validateEntry } from './lib/validate.mjs';
 import { buildSearchIndex } from './lib/search-index.mjs';
 import { buildRelations, buildAdjacency, renderRelatedHtml, renderAdjacencyHtml } from './lib/relations.mjs';
 import { renderHskBody } from './lib/hsk.mjs';
-import { injectStrokeOrder, buildLinkMap, autoLinkBody, addPinyinAudio, injectInlineAudio, buildPageFooter, renderSourcesHtml, ensureMainContentId, buildChipLinkMap, linkifyAdjChips } from './lib/augment.mjs';
+import { injectStrokeOrder, buildLinkMap, autoLinkBody, addPinyinAudio, injectInlineAudio, buildPageFooter, renderSourcesHtml, ensureMainContentId, buildChipLinkMap, linkifyAdjChips, injectPinyinIndexChip } from './lib/augment.mjs';
 import { buildAdjIndex } from './lib/adj-index.mjs';
 import { renderFamilyContent, renderFamilyCrosslinks } from './lib/family-render.mjs';
 import { renderOgSvg, categoryFaviconDataUri } from './lib/og.mjs';
+import { emitPinyinPages, buildPinyinIndex } from './lib/pinyin-index.mjs';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const ROOT      = join(__dirname, '..');
@@ -488,6 +489,14 @@ const relations = buildRelations(entries);
 const adjacency = buildAdjacency(entries);
 const hubMemberMap = buildHubMemberMap(pending);
 
+// Precompute the set of pinyin syllables that will get a generated index page,
+// so character-page augmentation can decide whether to render the
+// "all <pinyin> readings →" chip without dead-linking.
+const pinyinIndexPreview = buildPinyinIndex(entries);
+const pinyinSyllableSet = new Set(
+  [...pinyinIndexPreview.entries()].filter(([, g]) => g.entries.length > 0).map(([s]) => s)
+);
+
 // Pass 2: augment body (stroke order, auto-link, pinyin audio, related, prev/next), render, write
 let built = 0;
 let autoLinkCount = 0;
@@ -568,6 +577,9 @@ for (const { fm, body, slug, category, outDir, entry } of pending) {
 
       // 1. Stroke order on character pages
       augmentedBody = injectStrokeOrder(augmentedBody, fm);
+
+      // 1b. Pinyin-index chip on character pages (links to /pinyin/<base>.html)
+      augmentedBody = injectPinyinIndexChip(augmentedBody, fm, pinyinSyllableSet);
 
       // 2. Pinyin audio buttons in heroes (character + vocab/chengyu)
       augmentedBody = addPinyinAudio(augmentedBody, fm);
@@ -698,7 +710,7 @@ for (const { fm, body, slug, category, outDir, entry } of pending) {
 const expectedPaths = new Set(entries.map(e => e.path));
 let pruned = 0;
 const pagesRoot = join(ROOT, 'pages');
-const PRUNE_SKIP = new Set(['hsk', 'maps', '_admin']);
+const PRUNE_SKIP = new Set(['hsk', 'maps', '_admin', 'pinyin']);
 for (const cat of readdirSync(pagesRoot)) {
   if (PRUNE_SKIP.has(cat)) continue;
   const catDir = join(pagesRoot, cat);
@@ -780,6 +792,10 @@ try {
   console.warn('Could not emit data/featured.json:', err.message);
 }
 
+// Pinyin index pages — generated from entries; capture the long-tail
+// "[pinyin] chinese character" search query and disambiguate polyphones.
+const { generated: pinyinPaths } = emitPinyinPages(entries, pagesDir);
+
 // Sitemap + robots
 const today = new Date().toISOString().slice(0, 10);
 function encodeSitemapUrl(rawUrl) {
@@ -797,6 +813,12 @@ const urls = [
       priority: '0.8',
       changefreq: 'monthly',
     })),
+  ...pinyinPaths.map(p => ({
+    loc: encodeSitemapUrl(`${SITE_URL}/${p}`),
+    lastmod: today,
+    priority: '0.6',
+    changefreq: 'monthly',
+  })),
 ];
 const sitemapXml =
   `<?xml version="1.0" encoding="UTF-8"?>\n` +
