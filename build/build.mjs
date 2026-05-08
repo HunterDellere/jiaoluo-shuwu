@@ -710,7 +710,7 @@ for (const { fm, body, slug, category, outDir, entry } of pending) {
 const expectedPaths = new Set(entries.map(e => e.path));
 let pruned = 0;
 const pagesRoot = join(ROOT, 'pages');
-const PRUNE_SKIP = new Set(['hsk', 'maps', '_admin', 'pinyin']);
+const PRUNE_SKIP = new Set(['hsk', 'maps', '_admin', 'pinyin', 'today']);
 for (const cat of readdirSync(pagesRoot)) {
   if (PRUNE_SKIP.has(cat)) continue;
   const catDir = join(pagesRoot, cat);
@@ -819,6 +819,8 @@ const urls = [
     priority: '0.6',
     changefreq: 'monthly',
   })),
+  // Hand-authored evergreen pages
+  { loc: SITE_URL + '/pages/today/', lastmod: today, priority: '0.7', changefreq: 'daily' },
 ];
 const sitemapXml =
   `<?xml version="1.0" encoding="UTF-8"?>\n` +

@@ -354,6 +354,40 @@ body {
 .topnav-random.loading span { animation: spin 0.9s linear infinite; }
 @keyframes spin { from { transform: rotate(0deg); } to { transform: rotate(360deg); } }
 
+.topnav-today {
+  font-family: var(--font-mono);
+  font-size: var(--fs-sm);
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--topnav-fg-dim);
+  text-decoration: none;
+  transition: color var(--t-base);
+  display: inline-flex; align-items: center; gap: 0.35rem;
+}
+.topnav-today span { font-family: var(--font-mono); font-size: var(--fs-lg); color: var(--topnav-accent); display: inline-block; line-height: 1; }
+.topnav-today:hover { color: var(--topnav-fg-bright); }
+.topnav-today:focus-visible { outline: 2px solid var(--topnav-accent); outline-offset: 3px; border-radius: var(--radius-xs); }
+
+/* Today page streak + cards */
+.today-streak {
+  display: flex; align-items: baseline; gap: 0.45rem;
+  padding: 0.4rem 0.5rem; margin-top: 0.2rem;
+}
+.today-streak-num {
+  font-family: 'Noto Serif SC', serif;
+  font-size: 1.6em; font-weight: 700; color: var(--red);
+  line-height: 1;
+}
+.today-streak-label { color: var(--ink-3); font-size: 0.88em; }
+.today-skeleton, .today-empty {
+  text-align: center; opacity: 0.6; padding: 1.4rem;
+  font-style: italic;
+}
+.today-card { display: block; }
+.today-card .card-head {
+  display: flex; align-items: baseline; gap: 0.6rem; flex-wrap: wrap;
+}
+
 /* Auto-link tooltip — always dark-bg/light-text regardless of page theme */
 .al-tooltip {
   position: absolute;

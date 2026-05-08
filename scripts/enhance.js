@@ -763,6 +763,12 @@ else { window.__enhanceInit = true; (function () {
           });
       });
     });
+    // Bfcache fix: when the user hits Back into a page that triggered Random,
+    // the page is restored with the .loading class still on the button.
+    // Clear it on pageshow so the button is interactive again.
+    window.addEventListener('pageshow', function () {
+      randomBtns.forEach(function (btn) { btn.classList.remove('loading'); });
+    });
   }
 
   // ── Theme toggle (dark / light mode) ─────────────────────────────────────
