@@ -382,13 +382,16 @@ function addTopicHeroAudio(body, fm) {
   // Skip pages with split readings/constructions in title or pinyin.
   if (/[\/…]/.test(cn) || /[\/…]/.test(fm.pinyin)) return body;
 
-  // Insert immediately after the closing </span> of topic-hero-title-py.
+  // Insert INSIDE the topic-hero-title-py span (mirroring how character
+  // pages put the button inside .hero-pinyin). Putting it inside ensures
+  // the later injectTopicHeroEn pass — which inserts a sibling
+  // .topic-hero-en after title-py — can't displace the button below the
+  // English gloss.
   const before = body;
   body = body.replace(
-    /(<span class="topic-hero-title-py">[\s\S]*?<\/span>)/,
-    (m) => `${m}${buildAudioButton(cn, fm.pinyin)}`,
+    /<span class="topic-hero-title-py">([\s\S]*?)<\/span>/,
+    (m, py) => `<span class="topic-hero-title-py">${py}${buildAudioButton(cn, fm.pinyin)}</span>`,
   );
-  // No-op if the page has no topic-hero-title-py (unusual hand-authored hero).
   return body === before ? body : body;
 }
 
@@ -487,7 +490,11 @@ function escapeAttr(s) {
  */
 function splitProtected(body) {
   const segs = [];
-  const protectedTags = ['a', 'code', 'pre', 'script', 'style'];
+  // `button` is in the protect list because the audio-btn voice indicator
+  // contains `女`/`男` — a UI affordance for cycling voices, not body
+  // content. Without protection the auto-linker wraps it as a link to
+  // the 女 character page, breaking the voice toggle.
+  const protectedTags = ['a', 'button', 'code', 'pre', 'script', 'style'];
   const re = new RegExp(
     `<!--\\s*auto-link-skip\\s*-->[\\s\\S]*?<!--\\s*\\/auto-link-skip\\s*-->|` + // skip sentinel
     `<(${protectedTags.join('|')})\\b[^>]*>[\\s\\S]*?<\\/\\1>|` + // protected element trees

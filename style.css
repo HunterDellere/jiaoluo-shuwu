@@ -377,18 +377,29 @@ body {
 .topnav-right { gap: 1.1rem; }
 .topnav-right .theme-toggle { margin-left: 0.4rem; }
 
-/* Below 540px: hide the Today + Random text labels, keep their icons.
-   Explore stays as a full word (primary entry point). */
+/* Mobile topnav: keep all three of Today / Random / Explore as readable
+   word-labels (matching Explore's treatment) so the row reads as a
+   consistent set of affordances. The leading icon shrinks alongside
+   the label, and the whole link gets a 44px tap target. Only on the
+   very narrowest phones (≤380px) do the icons drop out, leaving just
+   the letter labels. The previous icon-only state below 540px gave a
+   sub-tap-target glyph cluster (◔ ⟳ alone) that read as visual noise. */
+@media (max-width: 768px) {
+  .topnav-today { font-size: var(--fs-xs); letter-spacing: 0.12em; }
+  .topnav-today span { font-size: var(--fs-md); }
+}
 @media (max-width: 540px) {
-  .topnav-right { gap: 0.7rem; }
+  .topnav-right { gap: 0.65rem; }
   .topnav-today, .topnav-random {
-    gap: 0.2rem; padding: 0;
-    font-size: 0; /* hides the trailing text; icon span resets below */
-    letter-spacing: 0;
+    gap: 0.3rem;
+    min-height: 44px;
+    align-items: center;
   }
-  .topnav-today > span, .topnav-random > span {
-    font-size: var(--fs-2xl); /* explicit reset so icons remain visible */
-  }
+}
+@media (max-width: 380px) {
+  .topnav-right { gap: 0.5rem; }
+  .topnav-today > span, .topnav-random > span { display: none; }
+  .topnav-today, .topnav-random { gap: 0; }
 }
 
 /* ── TODAY PAGE ──────────────────────────────────────────── */
@@ -451,6 +462,14 @@ body {
     grid-template-columns: 1fr;
   }
   .today-streak { justify-self: start; }
+}
+@media (max-width: 480px) {
+  /* On phones, drop the streak's hard min-width so it can shrink to fit
+     a 320–360px viewport, and tighten card padding so each day-pick
+     card doesn't feel cramped against tight content margins. */
+  .today-streak { min-width: 0; padding: 0.7rem 0.95rem; }
+  .today-card { padding: 0.95rem 1.1rem; gap: 0.3rem 1rem; }
+  .today-card .card-title { font-size: var(--fs-display-2-mobile, 1.85rem); }
 }
 
 /* Today section heads — slightly quieter than topic-page heads */
