@@ -76,10 +76,15 @@ jobs:
       (needs.audio.result == 'success' || needs.audio.result == 'skipped')
     runs-on: ubuntu-latest
     steps:
+      # Default checkout behaviour is correct for both push and pull_request:
+      # - push to main:  refs/heads/main HEAD (includes the audio commit if
+      #                  the audio job pushed one — main was already updated).
+      # - pull_request:  github.event.pull_request.head.sha (the PR tip).
+      # Previously this used `ref: ${{ github.ref }}` which on PRs becomes
+      # `refs/pull/N/merge` (a virtual merge ref). When the PR is merged
+      # quickly via gh pr merge --delete-branch, that ref disappears and
+      # the checkout fails before the run finishes.
       - uses: actions/checkout@v5
-        with:
-          # Pull the latest commit (which may include the audio commit just pushed)
-          ref: ${{ github.ref }}
       - uses: actions/setup-node@v5
         with:
           node-version: '22'
@@ -110,6 +115,11 @@ jobs:
   check:
     name: Post-build invariants & link check
     needs: build
+    # Without `if: always()`, GitHub default-skips this job whenever any
+    # transitively-needed job (e.g. `audio`) has a non-success result —
+    # which on PR runs always happens because audio is push-only-skipped.
+    # Keep running check whenever build succeeded.
+    if: always() && needs.build.result == 'success'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v5
@@ -134,8 +144,6 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v5
-        with:
-          ref: ${{ github.ref }}
       - uses: actions/setup-node@v5
         with:
           node-version: '22'
