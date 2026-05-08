@@ -7196,6 +7196,78 @@
           "pinyin": "zhōngyī"
         }
       }
+    },
+    "pages/vocab/bihua_笔画.html": {
+      "voices": {
+        "xiaoxiao": {
+          "hash": "8355c920ac5c",
+          "path": "audio/vocab/bihua_笔画-xiaoxiao.mp3",
+          "bytes": 8352,
+          "text": "笔画",
+          "pinyin": "bǐhuà"
+        },
+        "yunxi": {
+          "hash": "46f93b16a61f",
+          "path": "audio/vocab/bihua_笔画-yunxi.mp3",
+          "bytes": 10080,
+          "text": "笔画",
+          "pinyin": "bǐhuà"
+        }
+      }
+    },
+    "pages/vocab/bushou_部首.html": {
+      "voices": {
+        "xiaoxiao": {
+          "hash": "51354c61ef81",
+          "path": "audio/vocab/bushou_部首-xiaoxiao.mp3",
+          "bytes": 8064,
+          "text": "部首",
+          "pinyin": "bùshǒu"
+        },
+        "yunxi": {
+          "hash": "1de6bce2c9e6",
+          "path": "audio/vocab/bushou_部首-yunxi.mp3",
+          "bytes": 9936,
+          "text": "部首",
+          "pinyin": "bùshǒu"
+        }
+      }
+    },
+    "pages/vocab/pinyin_拼音.html": {
+      "voices": {
+        "xiaoxiao": {
+          "hash": "2b8eaf31ac3b",
+          "path": "audio/vocab/pinyin_拼音-xiaoxiao.mp3",
+          "bytes": 8208,
+          "text": "拼音",
+          "pinyin": "pīnyīn"
+        },
+        "yunxi": {
+          "hash": "88f1f1740658",
+          "path": "audio/vocab/pinyin_拼音-yunxi.mp3",
+          "bytes": 9648,
+          "text": "拼音",
+          "pinyin": "pīnyīn"
+        }
+      }
+    },
+    "pages/vocab/shengtiao_声调.html": {
+      "voices": {
+        "xiaoxiao": {
+          "hash": "aa01ba48115d",
+          "path": "audio/vocab/shengtiao_声调-xiaoxiao.mp3",
+          "bytes": 8640,
+          "text": "声调",
+          "pinyin": "shēngdiào"
+        },
+        "yunxi": {
+          "hash": "62d61a56fb0e",
+          "path": "audio/vocab/shengtiao_声调-yunxi.mp3",
+          "bytes": 11808,
+          "text": "声调",
+          "pinyin": "shēngdiào"
+        }
+      }
     }
   },
   "inline": {
