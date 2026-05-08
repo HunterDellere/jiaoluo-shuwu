@@ -70,17 +70,10 @@ export function buildAdjIndex(contentRoot, entries) {
     }
   }
 
-  for (const fp of walkMd(contentRoot)) {
-    const src = fs.readFileSync(fp, 'utf8');
-    const { content, data: fm } = matter(src);
-    // Compute the page path the same way build.mjs does:
-    //   content/<category>/<slug>.md → pages/<category>/<slug>.html
-    const rel = path.relative(contentRoot, fp).replace(/\\/g, '/');
-    const pagePath = `pages/${rel.replace(/\.md$/, '.html')}`;
-
+  function ingestChips(text, pagePath) {
     let m;
     CHIP_RE.lastIndex = 0;
-    while ((m = CHIP_RE.exec(content)) !== null) {
+    while ((m = CHIP_RE.exec(text)) !== null) {
       const cn = m[1].trim();
       const py = m[2].trim();
       const en = m[3].trim();
@@ -98,8 +91,32 @@ export function buildAdjIndex(contentRoot, entries) {
         index.set(cn, entry);
       }
       entry.count += 1;
-      // De-dupe page list (a single source page can list a chip more than once)
       if (!entry.appearsOn.includes(pagePath)) entry.appearsOn.push(pagePath);
+    }
+  }
+
+  for (const fp of walkMd(contentRoot)) {
+    const src = fs.readFileSync(fp, 'utf8');
+    const { content } = matter(src);
+    // Compute the page path the same way build.mjs does:
+    //   content/<category>/<slug>.md → pages/<category>/<slug>.html
+    const rel = path.relative(contentRoot, fp).replace(/\\/g, '/');
+    const pagePath = `pages/${rel.replace(/\.md$/, '.html')}`;
+    ingestChips(content, pagePath);
+  }
+
+  // HSK pages: bodies are generator-rendered (build/lib/hsk.mjs), so the
+  // sibling-level chip strip lives only in built HTML. Scan it here so
+  // those chips count toward inbound references for the orphan detector.
+  const projectRoot = path.dirname(contentRoot);
+  const hskOutDir = path.join(projectRoot, 'pages', 'hsk');
+  if (fs.existsSync(hskOutDir)) {
+    for (const name of fs.readdirSync(hskOutDir)) {
+      if (!name.endsWith('.html')) continue;
+      const fp = path.join(hskOutDir, name);
+      const html = fs.readFileSync(fp, 'utf8');
+      const pagePath = `pages/hsk/${name}`;
+      ingestChips(html, pagePath);
     }
   }
 

@@ -686,6 +686,111 @@
     ],
     "hasPage": true
   },
+  "第二级": {
+    "cn": "第二级",
+    "py": "dì-èr jí",
+    "en": "HSK 2 — elementary vocabulary list",
+    "count": 6,
+    "appearsOn": [
+      "pages/hsk/hsk-1.html",
+      "pages/hsk/hsk-3.html",
+      "pages/hsk/hsk-4.html",
+      "pages/hsk/hsk-5.html",
+      "pages/hsk/hsk-6.html",
+      "pages/hsk/hsk-7-9.html"
+    ],
+    "hasPage": true
+  },
+  "第六级": {
+    "cn": "第六级",
+    "py": "dì-liù jí",
+    "en": "HSK 6 — proficient vocabulary list",
+    "count": 6,
+    "appearsOn": [
+      "pages/hsk/hsk-1.html",
+      "pages/hsk/hsk-2.html",
+      "pages/hsk/hsk-3.html",
+      "pages/hsk/hsk-4.html",
+      "pages/hsk/hsk-5.html",
+      "pages/hsk/hsk-7-9.html"
+    ],
+    "hasPage": true
+  },
+  "第三级": {
+    "cn": "第三级",
+    "py": "dì-sān jí",
+    "en": "HSK 3 — intermediate vocabulary list",
+    "count": 6,
+    "appearsOn": [
+      "pages/hsk/hsk-1.html",
+      "pages/hsk/hsk-2.html",
+      "pages/hsk/hsk-4.html",
+      "pages/hsk/hsk-5.html",
+      "pages/hsk/hsk-6.html",
+      "pages/hsk/hsk-7-9.html"
+    ],
+    "hasPage": true
+  },
+  "第四级": {
+    "cn": "第四级",
+    "py": "dì-sì jí",
+    "en": "HSK 4 — upper-intermediate vocabulary list",
+    "count": 6,
+    "appearsOn": [
+      "pages/hsk/hsk-1.html",
+      "pages/hsk/hsk-2.html",
+      "pages/hsk/hsk-3.html",
+      "pages/hsk/hsk-5.html",
+      "pages/hsk/hsk-6.html",
+      "pages/hsk/hsk-7-9.html"
+    ],
+    "hasPage": true
+  },
+  "第五级": {
+    "cn": "第五级",
+    "py": "dì-wǔ jí",
+    "en": "HSK 5 — advanced vocabulary list",
+    "count": 6,
+    "appearsOn": [
+      "pages/hsk/hsk-1.html",
+      "pages/hsk/hsk-2.html",
+      "pages/hsk/hsk-3.html",
+      "pages/hsk/hsk-4.html",
+      "pages/hsk/hsk-6.html",
+      "pages/hsk/hsk-7-9.html"
+    ],
+    "hasPage": true
+  },
+  "第一级": {
+    "cn": "第一级",
+    "py": "dì-yī jí",
+    "en": "HSK 1 — entry-level vocabulary list",
+    "count": 6,
+    "appearsOn": [
+      "pages/hsk/hsk-2.html",
+      "pages/hsk/hsk-3.html",
+      "pages/hsk/hsk-4.html",
+      "pages/hsk/hsk-5.html",
+      "pages/hsk/hsk-6.html",
+      "pages/hsk/hsk-7-9.html"
+    ],
+    "hasPage": true
+  },
+  "高级": {
+    "cn": "高级",
+    "py": "gāojí",
+    "en": "HSK 7–9 — advanced/mastery vocabulary list",
+    "count": 6,
+    "appearsOn": [
+      "pages/hsk/hsk-1.html",
+      "pages/hsk/hsk-2.html",
+      "pages/hsk/hsk-3.html",
+      "pages/hsk/hsk-4.html",
+      "pages/hsk/hsk-5.html",
+      "pages/hsk/hsk-6.html"
+    ],
+    "hasPage": true
+  },
   "过": {
     "cn": "过",
     "py": "guò",
