@@ -1530,6 +1530,69 @@ tbody tr:hover td { background: var(--papyrus-2); }
   text-transform: uppercase; color: var(--ink-5);
 }
 
+/* ── APPEARS-IN (reverse component index) ─────────────────── */
+.appears-in {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 0.9rem 1rem;
+  margin: 0.6rem 0 1.2rem;
+}
+.appears-group {
+  border: 1px solid var(--rule);
+  border-radius: 8px;
+  padding: 0.65rem 0.8rem 0.8rem;
+  background: var(--papyrus);
+}
+.appears-group-head {
+  display: flex; align-items: baseline; gap: 0.5rem; flex-wrap: wrap;
+  padding-bottom: 0.4rem;
+  margin-bottom: 0.5rem;
+  border-bottom: 1px dashed var(--rule);
+}
+.appears-cn-label {
+  font-family: var(--font-cn); font-weight: 600; color: var(--ink-2); font-size: var(--fs-md);
+}
+.appears-en-label {
+  font-family: var(--font-mono); font-size: var(--fs-2xs); letter-spacing: 0.14em;
+  text-transform: uppercase; color: var(--ink-4);
+}
+.appears-count {
+  margin-left: auto;
+  font-family: var(--font-mono); font-size: var(--fs-xs); color: var(--ink-4);
+  font-variant-numeric: tabular-nums;
+}
+.appears-overflow { color: var(--ink-5); font-size: 0.92em; }
+.appears-list {
+  list-style: none; padding: 0; margin: 0;
+  display: flex; flex-direction: column; gap: 0.18rem;
+}
+.appears-in-item {
+  display: flex; align-items: baseline; gap: 0.5rem; flex-wrap: wrap;
+  padding: 0.28rem 0.4rem;
+  border-radius: 5px;
+  text-decoration: none;
+  color: var(--ink-2);
+  border-left: 2px solid transparent;
+  transition: background 0.12s, border-color 0.12s;
+}
+.appears-in-item:hover {
+  background: var(--papyrus-3);
+  border-left-color: var(--ink-3);
+}
+.appears-in-item[data-category="vocab"]:hover      { border-left-color: var(--cat-vocab); }
+.appears-in-item[data-category="chengyu"]:hover    { border-left-color: var(--cat-chengyu); }
+.appears-in-item[data-category="grammar"]:hover    { border-left-color: var(--cat-grammar); }
+.appears-in-item[data-category="characters"]:hover { border-left-color: var(--cat-characters); }
+.appears-in-item[data-category="philosophy"]:hover { border-left-color: var(--cat-philosophy); }
+.appears-in-item[data-category="religion"]:hover   { border-left-color: var(--cat-religion); }
+.appears-in-item[data-category="history"]:hover    { border-left-color: var(--cat-history); }
+.appears-in-item[data-category="culture"]:hover    { border-left-color: var(--cat-culture); }
+.appears-in-item[data-category="culinary"]:hover   { border-left-color: var(--cat-culinary); }
+.appears-cn { font-family: 'Noto Serif SC', serif; font-weight: 600; font-size: 1.05em; }
+.appears-py { font-family: var(--font-mono); font-size: var(--fs-xs); color: var(--ochre); letter-spacing: 0.03em; }
+.appears-en { color: var(--ink-3); font-size: 0.92em; }
+.appears-foot { color: var(--ink-4); font-size: 0.9em; margin: 0.4rem 0 0; font-style: italic; }
+
 @media (max-width: 600px) {
   .related-cards { grid-template-columns: 1fr 1fr; gap: 0.55rem; }
   .related-card { min-height: 78px; padding: 0.7rem 0.75rem 0.8rem; }
