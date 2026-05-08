@@ -6,6 +6,7 @@ title: '拼音 · the romanization system for Mandarin'
 desc: 'Pinyin is the official romanization of Mandarin — the system that maps Chinese sounds to the Latin alphabet. It is a pronunciation guide, not a writing system, and it does not replace characters.'
 metaDesc: "拼音 pīnyīn: Mandarin romanization — how the system works, initials, finals, tones in pinyin, common misconceptions, and how it differs from other romanization systems."
 pageTitle: '拼音 pīnyīn'
+pinyin: 'pīnyīn'
 tags:
   - 'language'
   - 'grammar'
