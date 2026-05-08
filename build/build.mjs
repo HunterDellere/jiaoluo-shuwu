@@ -388,7 +388,7 @@ function injectTopicHeroEn(body, fm) {
   );
 }
 
-function renderPage(fm, body, slug, category) {
+function renderPage(fm, body, slug, category, prevNext) {
   const filename = `${slug}.html`;
   const metaComment = buildMetaComment(fm);
   const rawTitle = fm.pageTitle || buildPageTitle(fm);
@@ -400,12 +400,30 @@ function renderPage(fm, body, slug, category) {
   const favicon = categoryFaviconDataUri(category);
   const canonicalUrl = `${SITE_URL}/pages/${category}/${slug}.html`;
 
+  // <link rel="prev"/rel="next"> for sibling characters. Lives in <head>
+  // alongside canonical so search engines pick up the reading order.
+  let prevNextLinks = '';
+  if (prevNext) {
+    const lines = [];
+    if (prevNext.prev) lines.push(`<link rel="prev" href="${SITE_URL}/${encodeURI(prevNext.prev.path)}">`);
+    if (prevNext.next) lines.push(`<link rel="next" href="${SITE_URL}/${encodeURI(prevNext.next.path)}">`);
+    prevNextLinks = lines.join('\n');
+  }
+
+  // Stub pages get noindex,nofollow so they don't dilute topical authority.
+  // Once flipped to status: complete, they index normally.
+  const robotsMeta = (fm.status === 'stub' || fm.status === 'draft')
+    ? `<meta name="robots" content="noindex,nofollow">`
+    : '';
+
   let page = LAYOUT
     .replace('{{{metaComment}}}', metaComment)
     .replace('{{{pageTitle}}}', pageTitle)
     .replace('{{{metaDesc}}}', metaDesc)
     .replace('{{{jsonLd}}}', jsonLd)
     .replace('{{{ogTags}}}', ogTags)
+    .replace('{{{prevNextLinks}}}', prevNextLinks)
+    .replace('{{{robotsMeta}}}', robotsMeta)
     .replace('{{{favicon}}}', favicon)
     .replace('{{{canonicalUrl}}}', canonicalUrl)
     .replace('{{{pageBody}}}', injectTopicHeroEn(body, fm).trim());
@@ -502,6 +520,32 @@ const pinyinSyllableSet = new Set(
 // inject an "Appears in" section on each character page (Session 4 of the
 // growth plan). Doubles internal-link density without new content.
 const componentIndex = buildComponentIndex(contentDir, entries);
+
+// Sibling-character ordering for prev/next nav + rel=prev/rel=next.
+// Order primary by HSK level (1, 2, ..., 7-9), then within each level by
+// pinyin alpha. Characters with no HSK level go to a final bucket sorted
+// the same way. Yields a stable predictable reading order.
+const characterEntries = entries
+  .filter(e => e.status === 'complete' && e.type === 'character' && e.char);
+
+function hskBucketKey(e) {
+  if (typeof e.hsk === 'number') return String(e.hsk).padStart(2, '0');
+  if (e.hsk && typeof e.hsk === 'object' && typeof e.hsk.from === 'number') return String(e.hsk.from).padStart(2, '0');
+  return '99';
+}
+const characterOrder = characterEntries.slice().sort((a, b) => {
+  const ka = hskBucketKey(a);
+  const kb = hskBucketKey(b);
+  if (ka !== kb) return ka.localeCompare(kb);
+  return String(a.pinyin || '').localeCompare(String(b.pinyin || ''));
+});
+const characterPrevNext = new Map(); // path → { prev, next }
+for (let i = 0; i < characterOrder.length; i++) {
+  characterPrevNext.set(characterOrder[i].path, {
+    prev: i > 0 ? characterOrder[i - 1] : null,
+    next: i < characterOrder.length - 1 ? characterOrder[i + 1] : null,
+  });
+}
 
 // Pass 2: augment body (stroke order, auto-link, pinyin audio, related, prev/next), render, write
 let built = 0;
@@ -726,7 +770,21 @@ for (const { fm, body, slug, category, outDir, entry } of pending) {
     // Ensure skip-link target is present on every page
     augmentedBody = ensureMainContentId(augmentedBody);
 
-    const html = renderPage(fm, augmentedBody, slug, category);
+    // Visible prev/next nav for character pages — injected before <footer>
+    const prevNext = (fm.type === 'character' && fm.status === 'complete')
+      ? characterPrevNext.get(entry.path) : null;
+    if (prevNext && (prevNext.prev || prevNext.next)) {
+      const prevHtml = prevNext.prev
+        ? `<a class="char-prev" href="../characters/${prevNext.prev.path.split('/').pop()}" rel="prev"><span class="char-prev-label">← previous</span><span class="char-prev-cn" lang="zh">${escapeHtmlBuild(prevNext.prev.char)}</span><span class="char-prev-py">${escapeHtmlBuild(prevNext.prev.pinyin || '')}</span></a>`
+        : `<span class="char-prev-placeholder"></span>`;
+      const nextHtml = prevNext.next
+        ? `<a class="char-next" href="../characters/${prevNext.next.path.split('/').pop()}" rel="next"><span class="char-next-label">next →</span><span class="char-next-cn" lang="zh">${escapeHtmlBuild(prevNext.next.char)}</span><span class="char-next-py">${escapeHtmlBuild(prevNext.next.pinyin || '')}</span></a>`
+        : `<span class="char-next-placeholder"></span>`;
+      const navHtml = `\n    <nav class="char-prev-next" aria-label="Sibling characters">${prevHtml}${nextHtml}</nav>\n`;
+      augmentedBody = augmentedBody.replace(/(<footer class="page-footer")/, `${navHtml}    $1`);
+    }
+
+    const html = renderPage(fm, augmentedBody, slug, category, prevNext);
     writeFileSync(join(outDir, `${slug}.html`), html, 'utf8');
     built++;
   } catch (err) {
@@ -832,8 +890,10 @@ function encodeSitemapUrl(rawUrl) {
   return rawUrl.replace(/[^\x00-\x7F]/g, c => encodeURIComponent(c));
 }
 
-const urls = [
+const contentUrls = [
   { loc: SITE_URL + '/', lastmod: today, priority: '1.0', changefreq: 'weekly' },
+  // Hand-authored evergreen pages — group with content for crawler ergonomics.
+  { loc: SITE_URL + '/pages/today/', lastmod: today, priority: '0.7', changefreq: 'daily' },
   ...entries
     .filter(e => e.status === 'complete')
     .map(e => ({
@@ -842,27 +902,42 @@ const urls = [
       priority: '0.8',
       changefreq: 'monthly',
     })),
-  ...pinyinPaths.map(p => ({
-    loc: encodeSitemapUrl(`${SITE_URL}/${p}`),
-    lastmod: today,
-    priority: '0.6',
-    changefreq: 'monthly',
-  })),
-  // Hand-authored evergreen pages
-  { loc: SITE_URL + '/pages/today/', lastmod: today, priority: '0.7', changefreq: 'daily' },
 ];
+const pinyinUrls = pinyinPaths.map(p => ({
+  loc: encodeSitemapUrl(`${SITE_URL}/${p}`),
+  lastmod: today,
+  priority: '0.6',
+  changefreq: 'monthly',
+}));
+
+function renderUrlset(urls) {
+  return (
+    `<?xml version="1.0" encoding="UTF-8"?>\n` +
+    `<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n` +
+    urls.map(u =>
+      `  <url>\n` +
+      `    <loc>${u.loc}</loc>\n` +
+      `    <lastmod>${u.lastmod}</lastmod>\n` +
+      `    <changefreq>${u.changefreq}</changefreq>\n` +
+      `    <priority>${u.priority}</priority>\n` +
+      `  </url>`
+    ).join('\n') +
+    `\n</urlset>\n`
+  );
+}
+
+writeFileSync(join(ROOT, 'sitemap-content.xml'), renderUrlset(contentUrls), 'utf8');
+writeFileSync(join(ROOT, 'sitemap-pinyin.xml'),  renderUrlset(pinyinUrls),  'utf8');
+
+// sitemap.xml is the index referencing the two children. Search engines
+// follow either form; this one keeps the per-section lastmod accurate
+// (a content edit doesn't bust the pinyin sitemap's freshness signal).
 const sitemapXml =
   `<?xml version="1.0" encoding="UTF-8"?>\n` +
-  `<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n` +
-  urls.map(u =>
-    `  <url>\n` +
-    `    <loc>${u.loc}</loc>\n` +
-    `    <lastmod>${u.lastmod}</lastmod>\n` +
-    `    <changefreq>${u.changefreq}</changefreq>\n` +
-    `    <priority>${u.priority}</priority>\n` +
-    `  </url>`
-  ).join('\n') +
-  `\n</urlset>\n`;
+  `<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n` +
+  `  <sitemap><loc>${SITE_URL}/sitemap-content.xml</loc><lastmod>${today}</lastmod></sitemap>\n` +
+  `  <sitemap><loc>${SITE_URL}/sitemap-pinyin.xml</loc><lastmod>${today}</lastmod></sitemap>\n` +
+  `</sitemapindex>\n`;
 writeFileSync(join(ROOT, 'sitemap.xml'), sitemapXml, 'utf8');
 
 const robotsTxt =
@@ -945,7 +1020,7 @@ writeFileSync(join(ROOT, 'manifest.webmanifest'), JSON.stringify(manifest, null,
 
 console.log(`\nBuild complete: ${built} pages written, ${pruned} pruned, ${errors} errors.`);
 console.log(`OG cards: ${ogWritten} SVGs generated.`);
-console.log(`Sitemap: ${urls.length} URLs.`);
+console.log(`Sitemap: ${contentUrls.length} content + ${pinyinUrls.length} pinyin URLs (sitemap-index).`);
 console.log(`Auto-linked: ${autoLinkCount}/${pending.length} pages.`);
 
 // ── Admin dashboard (last: depends on entries.json being fresh) ────────────

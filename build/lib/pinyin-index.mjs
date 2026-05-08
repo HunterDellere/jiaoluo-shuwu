@@ -340,6 +340,8 @@ function renderPage(syllable, group, allSyllables) {
     .replace('{{{jsonLd}}}', renderJsonLd(syllable, group))
     .replace('{{{ogTags}}}', renderOgTags(syllable, group))
     .replace('{{{favicon}}}', FAVICON)
+    .replace('{{{robotsMeta}}}', '')
+    .replace('{{{prevNextLinks}}}', '')
     .replace('{{{canonicalUrl}}}', canonicalUrl)
     .replace('{{{pageBody}}}', renderBody(syllable, group, allSyllables));
 }
@@ -443,6 +445,8 @@ function renderIndexPage(index) {
     .replace('{{{jsonLd}}}', jsonLd)
     .replace('{{{ogTags}}}', ogTags)
     .replace('{{{favicon}}}', FAVICON)
+    .replace('{{{robotsMeta}}}', '')
+    .replace('{{{prevNextLinks}}}', '')
     .replace('{{{canonicalUrl}}}', canonicalUrl)
     .replace('{{{pageBody}}}', renderIndexBody(index));
 }
