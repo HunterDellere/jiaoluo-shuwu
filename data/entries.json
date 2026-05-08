@@ -5619,7 +5619,7 @@
     "path": "pages/hsk/hsk-1.html",
     "type": "topic",
     "category": "hsk",
-    "title": "HSK 1 · Level 1",
+    "title": "第一级 · HSK 1",
     "desc": "The complete HSK 1 vocabulary, character, and grammar list — cross-linked to Jiǎoluò Shūwū entries where available.",
     "tags": [
       "hsk",
@@ -5634,7 +5634,7 @@
     "path": "pages/hsk/hsk-2.html",
     "type": "topic",
     "category": "hsk",
-    "title": "HSK 2 · Level 2",
+    "title": "第二级 · HSK 2",
     "desc": "The complete HSK 2 vocabulary, character, and grammar list — cross-linked to Jiǎoluò Shūwū entries where available.",
     "tags": [
       "hsk",
@@ -5649,7 +5649,7 @@
     "path": "pages/hsk/hsk-3.html",
     "type": "topic",
     "category": "hsk",
-    "title": "HSK 3 · Level 3",
+    "title": "第三级 · HSK 3",
     "desc": "The complete HSK 3 vocabulary, character, and grammar list — cross-linked to Jiǎoluò Shūwū entries where available.",
     "tags": [
       "hsk",
@@ -5664,7 +5664,7 @@
     "path": "pages/hsk/hsk-4.html",
     "type": "topic",
     "category": "hsk",
-    "title": "HSK 4 · Level 4",
+    "title": "第四级 · HSK 4",
     "desc": "The complete HSK 4 vocabulary, character, and grammar list — cross-linked to Jiǎoluò Shūwū entries where available.",
     "tags": [
       "hsk",
@@ -5679,7 +5679,7 @@
     "path": "pages/hsk/hsk-5.html",
     "type": "topic",
     "category": "hsk",
-    "title": "HSK 5 · Level 5",
+    "title": "第五级 · HSK 5",
     "desc": "The complete HSK 5 vocabulary, character, and grammar list — cross-linked to Jiǎoluò Shūwū entries where available.",
     "tags": [
       "hsk",
@@ -5694,7 +5694,7 @@
     "path": "pages/hsk/hsk-6.html",
     "type": "topic",
     "category": "hsk",
-    "title": "HSK 6 · Level 6",
+    "title": "第六级 · HSK 6",
     "desc": "The complete HSK 6 vocabulary, character, and grammar list — cross-linked to Jiǎoluò Shūwū entries where available.",
     "tags": [
       "hsk",
@@ -5709,7 +5709,7 @@
     "path": "pages/hsk/hsk-7-9.html",
     "type": "topic",
     "category": "hsk",
-    "title": "HSK 7-9 · Advanced",
+    "title": "高级 · HSK 7-9",
     "desc": "The combined HSK 7, 8, and 9 advanced-level vocabulary, character, and grammar list.",
     "tags": [
       "hsk",

@@ -137,6 +137,23 @@ export function renderHskBody(level, entries, rootDir) {
   const levelLabel = level === '7-9' ? '7–9' : level;
   const titleCn = level === '7-9' ? '高级 · HSK 7-9' : `第${['', '一','二','三','四','五','六'][Number(level)]||level}级 · HSK ${level}`;
 
+  // Sibling-level chips: cross-link every HSK page to the other six levels.
+  // Renders as a `.adj-wrap` chip strip; the HSK extension in build/lib/adj-index.mjs
+  // re-scans rendered HSK HTML so these chips count toward orphan-detector inbounds.
+  const SIBLING_LEVELS = [
+    { lvl: '1', cn: '第一级', py: 'dì-yī jí', en: 'HSK 1 — entry-level vocabulary list' },
+    { lvl: '2', cn: '第二级', py: 'dì-èr jí', en: 'HSK 2 — elementary vocabulary list' },
+    { lvl: '3', cn: '第三级', py: 'dì-sān jí', en: 'HSK 3 — intermediate vocabulary list' },
+    { lvl: '4', cn: '第四级', py: 'dì-sì jí', en: 'HSK 4 — upper-intermediate vocabulary list' },
+    { lvl: '5', cn: '第五级', py: 'dì-wǔ jí', en: 'HSK 5 — advanced vocabulary list' },
+    { lvl: '6', cn: '第六级', py: 'dì-liù jí', en: 'HSK 6 — proficient vocabulary list' },
+    { lvl: '7-9', cn: '高级', py: 'gāojí', en: 'HSK 7–9 — advanced/mastery vocabulary list' },
+  ];
+  const siblingChips = SIBLING_LEVELS
+    .filter(s => s.lvl !== level)
+    .map(s => `      <span class="adj"><span class="a-cn">${s.cn}</span><span class="a-py">${s.py}</span><span class="a-en">${escapeHtml(s.en)}</span></span>`)
+    .join('\n');
+
   const charHtml = chars.map(c => {
     const simp = charLink(c.simp, charLookup);
     const trad = c.trad ? ` <span class="hsk-trad">/ ${escapeHtml(c.trad)}</span>` : '';
@@ -204,6 +221,10 @@ export function renderHskBody(level, entries, rootDir) {
     <ul class="hsk-grammar-list">
       ${grammarHtml}
     </ul>
+
+    <div class="adj-wrap">
+${siblingChips}
+    </div>
   </main>
 
 </div>
