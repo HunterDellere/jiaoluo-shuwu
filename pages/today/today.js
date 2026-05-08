@@ -141,9 +141,30 @@
     document.querySelectorAll('[data-today-date-long]').forEach(function (el) { el.textContent = long; });
   }
 
+  // ── Time-of-day greeting ────────────────────────────────────────────────
+  // A small piece of personality on the hero: "good morning" / "good evening"
+  // in the reader's local time, paired with a Chinese phrase for the same.
+  function setGreeting() {
+    var hr = new Date().getHours();
+    var greeting;
+    if (hr < 5)       greeting = { en: 'late hours',     cn: '夜深',  py: 'yèshēn' };
+    else if (hr < 12) greeting = { en: 'good morning',   cn: '早上好', py: 'zǎoshang hǎo' };
+    else if (hr < 14) greeting = { en: 'midday',         cn: '中午',  py: 'zhōngwǔ' };
+    else if (hr < 18) greeting = { en: 'good afternoon', cn: '下午好', py: 'xiàwǔ hǎo' };
+    else if (hr < 22) greeting = { en: 'good evening',   cn: '晚上好', py: 'wǎnshang hǎo' };
+    else              greeting = { en: 'night reading',  cn: '夜读',  py: 'yèdú' };
+    var el = document.querySelector('[data-today-greeting]');
+    if (!el) return;
+    el.innerHTML = '<span class="greeting-cn" lang="zh">' +
+      escapeHtml(greeting.cn) + '</span> <span class="greeting-py">' +
+      escapeHtml(greeting.py) + '</span> <span class="greeting-en">· ' +
+      escapeHtml(greeting.en) + '</span>';
+  }
+
   // ── Main ────────────────────────────────────────────────────────────────
   var todayKey = todayUtcKey();
   setDateLabels(todayKey);
+  setGreeting();
   updateStreak(todayKey);
 
   fetch('../../data/entries.json', { cache: 'default' })
