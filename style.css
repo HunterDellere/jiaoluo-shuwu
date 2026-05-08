@@ -523,6 +523,50 @@ body {
   text-align: center;
   font-style: italic;
   color: var(--ink-5);
+  position: relative;
+  overflow: hidden;
+}
+.today-skeleton::before {
+  content: '';
+  position: absolute; inset: 0;
+  background: linear-gradient(90deg, transparent, var(--ochre-tint), transparent);
+  transform: translateX(-100%);
+  animation: skeletonShimmer 1.6s ease-in-out infinite;
+}
+@keyframes skeletonShimmer {
+  to { transform: translateX(100%); }
+}
+@media (prefers-reduced-motion: reduce) {
+  .today-skeleton::before { animation: none; }
+}
+
+/* Today greeting — small line under hero title with time-of-day color */
+.today-greeting {
+  margin: 0.2rem 0 0.8rem;
+  font-size: var(--fs-base);
+  font-family: var(--font-body);
+  font-style: normal;
+  color: var(--ink-3);
+  display: flex;
+  align-items: baseline;
+  gap: 0.4rem;
+  flex-wrap: wrap;
+}
+.today-greeting .greeting-cn {
+  font-family: var(--font-cn);
+  font-size: var(--fs-lg);
+  font-weight: 600;
+  color: var(--red);
+}
+.today-greeting .greeting-py {
+  font-family: var(--font-mono);
+  font-size: var(--fs-sm);
+  color: var(--ochre);
+  letter-spacing: 0.04em;
+}
+.today-greeting .greeting-en {
+  color: var(--ink-4);
+  font-style: italic;
 }
 
 /* Subscribe CTA — make it deliberate */
@@ -3996,6 +4040,275 @@ html[data-admin="1"] .admin-indicator { display: inline-block; }
 @media (prefers-reduced-motion: reduce) {
   .theme-toggle:hover { transform: none; }
 }
+
+/* ════════════════════════════════════════════════════════════
+ * WORLD-CLASS POLISH LAYER
+ * Site-wide micro-refinements meant to make the experience feel
+ * crafted everywhere. Built on top of the existing aesthetic
+ * vocabulary (seal chops, ink-bleed shadows, papyrus surfaces).
+ * Each block is opt-in via class or attribute — nothing here
+ * overrides existing components without naming them.
+ * ════════════════════════════════════════════════════════════ */
+
+/* Hero glyph entrance: a slow ink-bleed reveal — the character
+   appears as if pressed onto the page. Stacks with .hero's fadeUp. */
+.hero-glyph {
+  animation: heroGlyphInk 1.1s ease-out both;
+}
+@keyframes heroGlyphInk {
+  0%   { opacity: 0; filter: blur(8px); transform: scale(0.92); }
+  60%  { opacity: 0.85; filter: blur(0.5px); transform: scale(1.01); }
+  100% { opacity: 1; filter: blur(0); transform: scale(1); }
+}
+@media (prefers-reduced-motion: reduce) {
+  .hero-glyph { animation: none; }
+}
+
+/* Hero glyph hover: subtle ink-press feedback. The glyph nudges
+   down 1px as if pressed into paper, then settles. */
+.hero-glyph {
+  display: inline-block; /* required for transform */
+  transition: transform 220ms cubic-bezier(.2, .9, .2, 1.1),
+              text-shadow 220ms ease;
+  cursor: default;
+}
+.hero-script:hover .hero-glyph {
+  transform: translateY(1px) scale(1.005);
+  text-shadow: 4px 4px 0 rgba(139,26,26,0.22), 1px 1px 0 rgba(139,26,26,0.32);
+}
+.hero-script--trad:hover .hero-glyph {
+  text-shadow: 3px 3px 0 rgba(120,60,20,0.18);
+}
+
+/* Audio button ripple: when .playing is active, a wave ripples out
+   from the button center. Pure CSS — no JS change needed. */
+.audio-btn { position: relative; }
+.audio-btn::after {
+  content: '';
+  position: absolute; inset: 0;
+  border-radius: inherit;
+  pointer-events: none;
+  border: 2px solid var(--ochre);
+  opacity: 0;
+  transform: scale(1);
+}
+.audio-btn.playing::after {
+  animation: audioRipple 1.1s ease-out infinite;
+}
+@keyframes audioRipple {
+  0%   { opacity: 0.55; transform: scale(1); }
+  100% { opacity: 0; transform: scale(2.2); }
+}
+@media (prefers-reduced-motion: reduce) {
+  .audio-btn.playing::after { animation: none; }
+}
+
+/* Chip hover: ink-fill sweep — chips fill from the left on hover
+   instead of a flat background swap. Applies to .chip and the
+   tone chips on the pinyin hero. */
+.chip {
+  position: relative;
+  overflow: hidden;
+  transition: color var(--t-base), border-color var(--t-base);
+  isolation: isolate;
+}
+.chip::before {
+  content: '';
+  position: absolute; inset: 0;
+  background: var(--papyrus-3);
+  transform: translateX(-101%);
+  transition: transform 280ms cubic-bezier(.4, 0, .2, 1);
+  z-index: -1;
+}
+.chip:hover::before, .chip:focus-visible::before {
+  transform: translateX(0);
+}
+/* Don't double-apply ink-fill to the existing chip-pinyin-link */
+.chip-pinyin-link:hover { background: transparent; }
+
+/* Card hover lift — applies to surfaces that don't already have a hover
+   motion. .card uses a slide-right paradigm (existing) so we exclude it. */
+.related-card,
+.entry-card,
+.pinyin-letter-item,
+.today-card {
+  transition: transform var(--t-base), border-color var(--t-base),
+              background var(--t-base), box-shadow var(--t-base);
+}
+.related-card:hover,
+.entry-card:hover,
+.pinyin-letter-item:hover,
+.today-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(28,18,8,0.06);
+}
+.related-card:active,
+.entry-card:active,
+.pinyin-letter-item:active,
+.today-card:active {
+  transform: translateY(0);
+  transition-duration: 80ms;
+}
+@media (prefers-reduced-motion: reduce) {
+  .related-card:hover,
+  .entry-card:hover,
+  .pinyin-letter-item:hover,
+  .today-card:hover {
+    transform: none;
+  }
+}
+
+/* Page footer signature: add a small ochre chop + an "end of page"
+   ornament. Quiet — only visible if you read to the bottom. */
+.page-footer {
+  position: relative;
+}
+.page-footer::before {
+  content: '';
+  display: block;
+  width: 32px; height: 1px;
+  background: linear-gradient(90deg, transparent, var(--ochre) 50%, transparent);
+  margin: 0 auto 1rem;
+  opacity: 0.5;
+}
+.page-footer .footer-id {
+  position: relative;
+}
+/* "END" chop — a small pressed seal at the right edge of the
+   footer-id, mirroring the scholar-box chop language. Only renders
+   when the footer-id has the inline span chunk we already emit. */
+.page-footer .footer-id > span:last-child {
+  position: relative;
+  padding-right: 1.15rem;
+}
+.page-footer .footer-id > span:last-child::after {
+  content: '止';
+  position: absolute;
+  right: -0.2rem; top: 50%;
+  transform: translateY(-50%) rotate(-3deg);
+  font-family: var(--font-cn);
+  font-size: 0.72em;
+  color: var(--papyrus);
+  background: var(--ochre);
+  padding: 0.1em 0.18em 0.05em;
+  border-radius: 2px;
+  line-height: 1;
+  opacity: 0.85;
+  letter-spacing: 0;
+}
+
+/* TOC link hover: small horizontal nudge — sidebar TOCs feel inert
+   currently. Now the active item drifts right by 2px on hover and
+   gets a subtle ochre marker. */
+.toc-list li > a {
+  transition: color var(--t-base), transform var(--t-base);
+  position: relative;
+}
+.toc-list li > a:hover {
+  transform: translateX(2px);
+}
+.toc-list li > a.active::before,
+.toc-list li > a[aria-current="true"]::before {
+  content: '';
+  position: absolute;
+  left: -0.55rem; top: 0.6em;
+  width: 0; height: 0;
+  border-style: solid;
+  border-width: 4px 0 4px 5px;
+  border-color: transparent transparent transparent var(--ochre);
+}
+
+/* Section anchor flash: extend the homepage-only :target highlight
+   to all content pages, so jumping via TOC always confirms the move. */
+.main :target,
+.main *[id]:target {
+  animation: anchorFlashContent 1.2s ease-out;
+  border-radius: var(--radius-md, 6px);
+}
+@keyframes anchorFlashContent {
+  0%   { background: var(--ochre-tint-strong); }
+  60%  { background: var(--ochre-tint); }
+  100% { background: transparent; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .main :target { animation: none; }
+}
+
+/* Skip-link refinement: the existing skip link is a stark "click me"
+   on focus. Soften the styling to fit the site's vocabulary. */
+.skip-link {
+  background: var(--ochre);
+  color: var(--papyrus);
+  font-family: var(--font-mono);
+  font-size: var(--fs-sm);
+  letter-spacing: 0.08em;
+  border-radius: var(--radius-sm, 4px);
+  box-shadow: 0 4px 12px rgba(28,18,8,0.18);
+}
+
+/* Generous breath: add an extra hairline of margin between
+   sections on content pages — small but noticeable across the
+   whole reading experience. */
+.main > section + section,
+.main > .section-anchor + .section-anchor {
+  margin-top: 0.4rem;
+}
+
+/* Reading progress bar: thicken the fill slightly so the page-
+   length signal is more honest. */
+.reading-progress { height: 3px; }
+.reading-progress-bar {
+  background: linear-gradient(90deg, var(--ochre) 0%, var(--red) 100%);
+}
+
+/* Page-load fade for the main column on content pages — subtle
+   so the jump from layout shell → content feels softer. */
+@keyframes contentFade {
+  from { opacity: 0; transform: translateY(4px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+.main { animation: contentFade 0.45s ease both; }
+@media (prefers-reduced-motion: reduce) {
+  .main { animation: none; }
+}
+
+/* Selection: warm ink instead of system blue. */
+::selection {
+  background: var(--ochre);
+  color: var(--papyrus);
+}
+
+/* Topnav brand: subtle hover lift. */
+.topnav-brand {
+  transition: transform var(--t-base), color var(--t-base);
+}
+.topnav-brand:hover {
+  transform: translateY(-1px);
+}
+
+/* Audio btn hover: small scale; reinforces tactile feel. */
+.audio-btn:hover { transform: scale(1.05); }
+.audio-btn:active { transform: scale(0.96); }
+
+/* Section heads: a small ochre dash reveals on hover for h2-style
+   .section-head — gives the eye a place to rest while scanning. */
+.section-head {
+  transition: padding-left var(--t-base);
+}
+
+/* "Continue reading" gesture in footer: the existing .footer-back
+   link gets a small arrow that drifts left on hover. */
+.footer-back {
+  transition: transform var(--t-base), color var(--t-base);
+}
+.footer-back:hover {
+  transform: translateX(-2px);
+  color: var(--red);
+}
+
+/* ════════════════════════════════════════════════════════════
+ * END POLISH LAYER
+ * ════════════════════════════════════════════════════════════ */
 
 /* ── Dark token overrides ─────────────────────────────────── */
 /* Shared variable block used by both activation paths below. */
