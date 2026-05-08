@@ -2349,6 +2349,56 @@ a.pf-btn-share:focus-visible, button.pf-btn-share:focus-visible {
   margin: 0;
 }
 
+/* Color legend under the stroke-order stage. Pairs each Hanzi Writer
+ * color slot with what it means, so the red/ochre/teal split isn't
+ * decoration — it's labelled. The radical entry only renders when the
+ * character has a distinct radical (see build/lib/augment.mjs). */
+.so-legend {
+  grid-column: 1 / -1;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 0.4rem 1.2rem;
+  margin: 0.6rem 0 0.4rem;
+  padding: 0;
+  font-size: var(--fs-xs);
+}
+.so-legend-item {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  color: var(--ink-4);
+  white-space: nowrap;
+}
+.so-swatch {
+  width: 0.7rem; height: 0.7rem;
+  border-radius: 50%;
+  flex-shrink: 0;
+  border: 1px solid var(--rule-2);
+}
+.so-swatch--stroke   { background: #8b1a1a; border-color: #8b1a1a; } /* matches strokeColor */
+.so-swatch--radical  { background: #a06428; border-color: #a06428; } /* matches radicalColor */
+.so-swatch--drawing  { background: #1a5050; border-color: #1a5050; } /* matches drawingColor */
+.so-legend-cn {
+  font-family: var(--font-cn);
+  color: var(--ink-3);
+  font-weight: 500;
+}
+.so-legend-en {
+  font-family: var(--font-mono);
+  letter-spacing: 0.04em;
+  color: var(--ink-5);
+}
+.so-legend-item--quiz {
+  /* Quiz-input swatch is only relevant after pressing "Try drawing". A
+   * touch quieter so it doesn't compete with the stroke/radical entries. */
+  opacity: 0.78;
+}
+
+@media (max-width: 480px) {
+  .so-legend { gap: 0.3rem 0.7rem; font-size: var(--fs-2xs); }
+}
+
 /* ── AUDIO BUTTON (pinyin pronunciation) ─────────────────── */
 /* Pill-shaped button: small speaker icon on the left, 女/男 voice indicator
  * on the right. First click plays the persisted voice; subsequent clicks

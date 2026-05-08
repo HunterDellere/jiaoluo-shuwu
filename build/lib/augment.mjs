@@ -108,6 +108,22 @@ export function injectStrokeOrder(body, fm) {
   if (!body.includes('</header>')) {
     throw new Error(`injectStrokeOrder: character page "${fm.char}" has no </header> — the .hero block is required on character pages.`);
   }
+
+  // Color legend: only show the radical entry when the radical is distinct
+  // from the whole character. When the character IS its own radical (e.g. 心),
+  // Hanzi Writer paints every stroke in the radical color and there's nothing
+  // to distinguish — the legend would only confuse.
+  const hasDistinctRadical = fm.radical && fm.radical !== fm.char;
+  const radicalLegend = hasDistinctRadical
+    ? `<span class="so-legend-item"><span class="so-swatch so-swatch--radical" aria-hidden="true"></span><span class="so-legend-cn">部首</span> <span class="so-legend-en">radical (${escapeAttr(fm.radical)})</span></span>`
+    : '';
+  const legend = `
+        <div class="so-legend" aria-label="Stroke colour legend">
+          <span class="so-legend-item"><span class="so-swatch so-swatch--stroke" aria-hidden="true"></span><span class="so-legend-cn">笔画</span> <span class="so-legend-en">strokes</span></span>
+          ${radicalLegend}
+          <span class="so-legend-item so-legend-item--quiz"><span class="so-swatch so-swatch--drawing" aria-hidden="true"></span><span class="so-legend-cn">书写</span> <span class="so-legend-en">your drawing</span></span>
+        </div>`;
+
   const block = `
     <!-- STROKE ORDER -->
     <section class="stroke-order" aria-label="Stroke order animation">
@@ -120,7 +136,7 @@ export function injectStrokeOrder(body, fm) {
           <button type="button" class="so-btn" data-so-action="reset" aria-label="Reset">↻</button>
         </div>
       </div>
-      <div class="so-stage" id="so-stage" data-char="${escapeAttr(fm.char)}"></div>
+      <div class="so-stage" id="so-stage" data-char="${escapeAttr(fm.char)}"></div>${legend}
       <p class="so-hint" id="so-hint">Click the character to replay. Press <strong>Try drawing</strong> to write it yourself.</p>
     </section>`;
   return body.replace('</header>', `</header>\n${block}`);
