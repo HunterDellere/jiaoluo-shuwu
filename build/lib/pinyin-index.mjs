@@ -117,12 +117,59 @@ export function buildPinyinIndex(entries) {
 }
 
 const TONE_LABEL = {
-  1: { mark: '◌̄', name: 'first tone',  pinyin: 'high level',     color: 'c-teal',   exemplar: 'mā' },
-  2: { mark: '◌́', name: 'second tone', pinyin: 'rising',         color: 'c-ochre',  exemplar: 'má' },
-  3: { mark: '◌̌', name: 'third tone',  pinyin: 'low / dipping',  color: 'c-violet', exemplar: 'mǎ' },
-  4: { mark: '◌̀', name: 'fourth tone', pinyin: 'falling',        color: 'c-red',    exemplar: 'mà' },
-  5: { mark: '·',  name: 'neutral tone', pinyin: 'unstressed',     color: 'c-sienna', exemplar: 'ma' },
+  1: { mark: '◌̄', name: 'first tone',  pinyin: 'high level',     color: 'c-teal',   exemplar: 'mā', ord: '一', short: '1st' },
+  2: { mark: '◌́', name: 'second tone', pinyin: 'rising',         color: 'c-ochre',  exemplar: 'má', ord: '二', short: '2nd' },
+  3: { mark: '◌̌', name: 'third tone',  pinyin: 'low / dipping',  color: 'c-violet', exemplar: 'mǎ', ord: '三', short: '3rd' },
+  4: { mark: '◌̀', name: 'fourth tone', pinyin: 'falling',        color: 'c-red',    exemplar: 'mà', ord: '四', short: '4th' },
+  5: { mark: '·',  name: 'neutral tone', pinyin: 'unstressed',     color: 'c-sienna', exemplar: 'ma', ord: '·', short: 'n' },
 };
+
+/**
+ * Inline SVG of a tone's pitch contour, drawn in a 36×18 box. The shape is
+ * the standard pinyin pitch diagram: tone 1 flat-high, tone 2 rising, tone 3
+ * dipping (low V), tone 4 falling. The path uses currentColor so it inherits
+ * the tone color from CSS and adapts to dark mode.
+ */
+function pitchCurveSvg(tone, opts = {}) {
+  const cls = opts.cls || 'pitch-curve';
+  // The 5-line musical staff convention: y=2 is highest pitch, y=16 is lowest.
+  const paths = {
+    1: 'M 3 4 L 33 4',                         // flat high
+    2: 'M 3 14 L 33 4',                        // rising
+    3: 'M 3 7 Q 9 17 18 16 Q 27 14 33 4',     // dipping V
+    4: 'M 3 4 L 33 16',                        // falling
+    5: 'M 3 10 L 33 10',                       // neutral (flat mid)
+  };
+  const d = paths[tone] || paths[5];
+  return `<svg class="${cls}" data-tone="${tone}" width="36" height="18" viewBox="0 0 36 18" aria-hidden="true" focusable="false"><path d="${d}" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>`;
+}
+
+/**
+ * Highlight occurrences of a base syllable inside a pinyin string so readers
+ * can see WHERE a target syllable falls in a compound. Matches are case-
+ * insensitive and tolerant of tone marks. "shī cí" with target "shi" →
+ * "<mark>shī</mark> cí".
+ */
+function highlightSyllable(pinyin, baseSyl) {
+  if (!pinyin || !baseSyl) return escapeHtml(pinyin || '');
+  // Tokenise on whitespace / hyphen so we can compare token-by-token without
+  // splitting tone-marked vowels.
+  const out = [];
+  const re = /([\s\-]+)/;
+  const parts = String(pinyin).split(re);
+  for (const part of parts) {
+    if (!part) continue;
+    if (re.test(part)) { out.push(escapeHtml(part)); continue; }
+    // Strip tone marks and trailing tone digits to compare.
+    const stripped = syllableBase(part);
+    if (stripped === baseSyl.toLowerCase()) {
+      out.push(`<mark class="pinyin-syl-hit">${escapeHtml(part)}</mark>`);
+    } else {
+      out.push(escapeHtml(part));
+    }
+  }
+  return out.join('');
+}
 
 function renderToneGroup(tone, items, syllableBaseStr) {
   const label = TONE_LABEL[tone] || TONE_LABEL[5];
@@ -151,13 +198,14 @@ function renderToneGroup(tone, items, syllableBaseStr) {
   // mapped onto this syllable base — a quick reference for what the tone
   // sounds like, in the actual reader's syllable.
   const toneOnBase = applyToneToBase(syllableBaseStr, tone);
+  const count = items.length;
 
   return `
     <span class="section-anchor" id="tone-${tone}"></span>
     <div class="section-head pinyin-tone-head" data-tone="${tone}">
-      <span class="sh-cn">${escapeHtml(toneOnBase)}</span>
-      <span class="sh-py">tone ${tone}</span>
-      <span class="sh-en">${escapeHtml(label.pinyin)}</span>
+      <span class="sh-cn">${escapeHtml(toneOnBase)}${pitchCurveSvg(tone, { cls: 'pinyin-tone-head-curve' })}</span>
+      <span class="sh-py">tone ${tone} · ${escapeHtml(label.pinyin)}</span>
+      <span class="sh-en">${count} reading${count === 1 ? '' : 's'}</span>
     </div>
     <div class="cards">${cards}
     </div>
@@ -194,14 +242,25 @@ function applyToneToBase(base, tone) {
 function renderCompoundList(compounds, syllableBaseStr) {
   if (!compounds.length) return '';
   const capped = compounds.slice(0, 24);
-  const more = compounds.length > 24 ? `<p class="meta">…and ${compounds.length - 24} more on individual entry pages.</p>` : '';
+  const more = compounds.length > 24
+    ? `<p class="pinyin-compounds-more">… and ${compounds.length - 24} more on individual entry pages.</p>`
+    : '';
+  const TYPE_GLYPH = { vocab: '词', grammar: '法', chengyu: '语' };
   const items = capped.map(e => {
     const path = `../${e.path.replace(/^pages\//, '')}`;
     const cn = e.title?.split('·')[0]?.trim() || e.char || '';
     const en = (e.title && e.title.includes('·'))
       ? e.title.split('·').slice(1).join('·').trim().split('—')[0].trim()
       : '';
-    return `      <li><a href="${path}"><span class="ref-cn" lang="zh">${escapeHtml(cn)}</span> <span class="ref-py">${escapeHtml(e.pinyin || '')}</span>${en ? `<span class="ref-en"> · ${escapeHtml(en)}</span>` : ''}</a></li>`;
+    const typeKey = e.category === 'chengyu' ? 'chengyu' : (e.type || 'vocab');
+    const glyph = TYPE_GLYPH[typeKey] || '词';
+    const pyHtml = highlightSyllable(e.pinyin || '', syllableBaseStr);
+    return `      <a class="pinyin-compound" href="${path}" data-type="${escapeHtml(typeKey)}">
+        <span class="pc-mark" aria-hidden="true">${glyph}</span>
+        <span class="pc-cn" lang="zh">${escapeHtml(cn)}</span>
+        <span class="pc-py">${pyHtml}</span>
+        ${en ? `<span class="pc-en">${escapeHtml(en)}</span>` : ''}
+      </a>`;
   }).join('\n');
 
   return `
@@ -211,12 +270,10 @@ function renderCompoundList(compounds, syllableBaseStr) {
       <span class="sh-py">fùhécí</span>
       <span class="sh-en">Words and phrases containing ${escapeHtml(syllableBaseStr)}</span>
     </div>
-    <div class="scholar">
-      <ul class="ref-list">
+    <div class="pinyin-compounds">
 ${items}
-      </ul>
-      ${more}
     </div>
+    ${more}
 `;
 }
 
@@ -276,14 +333,27 @@ ${compoundsToc}
     <header class="topic-hero pinyin-hero">
       <span class="topic-hero-eyebrow">Pinyin · 拼音 pīnyīn</span>
       <h1 class="topic-hero-title pinyin-hero-title" lang="en">${escapeHtml(syllable)}</h1>
-      <div class="pinyin-hero-tones">
+      <p class="topic-hero-desc pinyin-hero-desc">Every character on Jiǎoluò Shūwū read as <em>${escapeHtml(syllable)}</em> in any tone — <strong>${characters.length}</strong> reading${characters.length === 1 ? '' : 's'} total across the four tones. Pick the tone you mean.</p>
+      <div class="pinyin-tone-deck" role="list">
         ${[1,2,3,4].map(t => {
-          const present = byTone.has(t);
+          const tlabel = TONE_LABEL[t];
+          const count = byTone.has(t) ? byTone.get(t).length : 0;
+          const present = count > 0;
           const marked = applyToneToBase(syllable, t);
-          return `<span class="pinyin-hero-tone ${present ? '' : 'is-empty'}" data-tone="${t}">${escapeHtml(marked)}</span>`;
+          const tag = present ? 'a' : 'div';
+          const href = present ? ` href="#tone-${t}"` : '';
+          const stateAttr = present ? '' : ' data-empty="1"';
+          return `<${tag} class="pinyin-tone-card" data-tone="${t}"${stateAttr}${href} role="listitem">
+          <span class="ptc-ord">${escapeHtml(tlabel.ord)}</span>
+          <span class="ptc-syl">${escapeHtml(marked)}</span>
+          ${pitchCurveSvg(t, { cls: 'ptc-curve' })}
+          <span class="ptc-meta">
+            <span class="ptc-name">${escapeHtml(tlabel.short)} · ${escapeHtml(tlabel.pinyin)}</span>
+            <span class="ptc-count">${present ? `${count} reading${count === 1 ? '' : 's'}` : 'no entries yet'}</span>
+          </span>
+        </${tag}>`;
         }).join('')}
       </div>
-      <p class="topic-hero-desc">Every character on Jiǎoluò Shūwū read as <em>${escapeHtml(syllable)}</em> in any tone — ${characters.length} reading${characters.length === 1 ? '' : 's'} total. Pinyin without tone marks is ambiguous; pick the tone you mean.</p>
     </header>${characters.length === 0 ? '<!--EMPTY-->' : ''}
 
     ${toneSections}
@@ -396,18 +466,42 @@ function renderIndexBody(index) {
     byLetter.get(init).push(s);
   }
 
+  // Aggregate stats for the hero band
+  let totalReadings = 0;
+  const toneTotals = { 1: 0, 2: 0, 3: 0, 4: 0 };
+  let polyphoneSyllables = 0; // syllables with 2+ tones present
+  for (const [, group] of index) {
+    totalReadings += group.entries.length;
+    const tonesHere = new Set();
+    for (const e of group.entries) {
+      const t = e.tone || syllableTone(e.pinyin);
+      if (t >= 1 && t <= 4) toneTotals[t] += 1;
+      tonesHere.add(t);
+    }
+    if (tonesHere.size > 1) polyphoneSyllables += 1;
+  }
+
   const sections = [...byLetter.keys()].sort().map(letter => {
     const items = byLetter.get(letter).map(s => {
       const group = index.get(s);
       const count = group.entries.length;
-      // Tone availability badges: which tones have a reading for this syllable.
+      // Tone availability: which tones have a reading for this syllable.
       const tones = new Set(group.entries.map(e => e.tone || syllableTone(e.pinyin)));
-      const toneDots = [1,2,3,4].map(t => `<span class="pl-tone${tones.has(t) ? ' is-on' : ''}" data-tone="${t}" aria-hidden="true"></span>`).join('');
-      return `      <li><a class="pinyin-letter-item" href="${s}.html"><span class="pl-syl" lang="zh">${escapeHtml(s)}</span><span class="pl-tones">${toneDots}</span><span class="pl-count">${count}</span></a></li>`;
+      // Build a row of 4 mini toned variants. Present ones are crisp; absent
+      // ones are faded — readers see at a glance which tones exist.
+      const toneRow = [1,2,3,4].map(t => {
+        const marked = applyToneToBase(s, t);
+        const cls = tones.has(t) ? 'pl-tone-syl is-on' : 'pl-tone-syl';
+        return `<span class="${cls}" data-tone="${t}">${escapeHtml(marked)}</span>`;
+      }).join('');
+      const countHtml = count > 1
+        ? `<span class="pl-count" title="${count} character readings">${count}</span>`
+        : '';
+      return `      <li><a class="pinyin-letter-item" href="${s}.html"><span class="pl-syl" lang="en">${escapeHtml(s)}</span>${countHtml}<span class="pl-tone-row">${toneRow}</span></a></li>`;
     }).join('\n');
     return `
     <span class="section-anchor" id="letter-${letter}"></span>
-    <div class="section-head">
+    <div class="section-head pinyin-letter-head">
       <span class="sh-cn">${letter.toUpperCase()}</span>
       <span class="sh-py">— ${byLetter.get(letter).length} syllable${byLetter.get(letter).length === 1 ? '' : 's'}</span>
     </div>
@@ -419,6 +513,16 @@ ${items}
 
   const letterToc = [...byLetter.keys()].sort()
     .map(l => `      <li><a href="#letter-${l}"><span class="toc-cn">${l.toUpperCase()}</span></a></li>`).join('\n');
+
+  // Hero stats — quick at-a-glance facts about the corpus
+  const toneStat = (t) => {
+    const tlabel = TONE_LABEL[t];
+    return `<div class="pix-stat" data-tone="${t}">
+        <span class="pix-stat-num">${toneTotals[t]}</span>
+        ${pitchCurveSvg(t, { cls: 'pix-stat-curve' })}
+        <span class="pix-stat-label">${escapeHtml(tlabel.short)} · ${escapeHtml(tlabel.pinyin)}</span>
+      </div>`;
+  };
 
   return `<div class="shell">
 
@@ -434,11 +538,19 @@ ${letterToc}
 
   <main class="main" id="main-content">
 
-    <header class="topic-hero">
+    <header class="topic-hero pinyin-index-hero">
       <span class="topic-hero-eyebrow">Pinyin · 拼音 pīnyīn</span>
       <h1 class="topic-hero-title">Pinyin index</h1>
-      <span class="topic-hero-title-py">${all.length} syllables</span>
+      <span class="topic-hero-title-py">${all.length} syllables · ${totalReadings} readings</span>
       <p class="topic-hero-desc">Every distinct pinyin reading on Jiǎoluò Shūwū. Click a syllable to see all characters that share it across the four tones — useful when you have the sound but not the character.</p>
+      <div class="pinyin-index-stats" role="list">
+        ${[1,2,3,4].map(toneStat).join('\n        ')}
+        <div class="pix-stat pix-stat-poly">
+          <span class="pix-stat-num">${polyphoneSyllables}</span>
+          <span class="pix-stat-mark" aria-hidden="true">多</span>
+          <span class="pix-stat-label">polyphone syllables</span>
+        </div>
+      </div>
     </header>
 
 ${sections}
