@@ -139,16 +139,32 @@ for (const pageFull of walkPages(PAGES)) {
   }
 
   // Body em-dash budget: count em-dashes in user-authored prose. Allow a small
-  // budget per page (3) before warning. Never count em-dashes inside section
-  // header glosses (.sh-en), card glosses (.card-en, .cy-en), or example
-  // annotation lines, which use em-dash as a deliberate gloss separator.
+  // budget per page (3) before warning. Never count em-dashes that are
+  // legitimate typographic conventions: gloss separators (.sh-en/.card-en/
+  // .cy-en/.a-en), HTML attribute values (e.g. data-distinct="…—…"), Chinese
+  // example/title text where —— is the standard 破折号 punctuation, or fenced
+  // code. The remaining count reflects only English prose em-dashes — the
+  // voice-regression risk we actually care about.
   const bodyForCount = src
     .replace(/^---[\s\S]*?\n---\n/, '')                       // strip frontmatter
+    .replace(/```[\s\S]*?```/g, '')                           // strip fenced code
+    .replace(/<!--[\s\S]*?-->/g, '')                          // strip HTML comments
     .replace(/<span class="sh-en">[\s\S]*?<\/span>/g, '')     // strip section gloss
     .replace(/<span class="card-en">[\s\S]*?<\/span>/g, '')   // strip card gloss
     .replace(/<span class="cy-en">[\s\S]*?<\/span>/g, '')     // strip chengyu gloss
-    .replace(/<span class="a-en">[\s\S]*?<\/span>/g, '');     // strip adj chip gloss
-  const emDashCount = (bodyForCount.match(/—/g) || []).length;
+    .replace(/<span class="a-en">[\s\S]*?<\/span>/g, '')      // strip adj chip gloss
+    .replace(/<div class="ex-cn">[\s\S]*?<\/div>/g, '')       // strip Chinese examples (— is 破折号)
+    .replace(/<span class="sh-cn">[\s\S]*?<\/span>/g, '')     // strip Chinese section title
+    .replace(/<span class="card-cn">[\s\S]*?<\/span>/g, '')   // strip Chinese card title
+    .replace(/<span class="cy-cn">[\s\S]*?<\/span>/g, '')     // strip Chinese chengyu
+    .replace(/<span class="a-cn">[\s\S]*?<\/span>/g, '')      // strip Chinese adj chip
+    .replace(/<span class="[^"]*td-py-sm[^"]*">[\s\S]*?<\/span>/g, '') // strip table inline gloss
+    .replace(/<[^>]*>/g, '');                                 // strip remaining HTML tags (incl. attributes)
+  // Em-dashes that follow sentence-ending punctuation (with optional close
+  // quote) are gloss separators ("Chinese sentence. — English translation"),
+  // a stable typographic convention, not voice em-dashes. Don't count them.
+  const proseEmDashes = bodyForCount.match(/—/g) || [];
+  const emDashCount = proseEmDashes.length - (bodyForCount.match(/[.!?。！？][\s"'”’)\]]*—\s/g) || []).length;
   const EM_DASH_BUDGET = 3;
   if (emDashCount > EM_DASH_BUDGET) {
     emit('WARN', relFile,
