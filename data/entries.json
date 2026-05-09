@@ -2259,7 +2259,7 @@
     "type": "topic",
     "category": "philosophy",
     "title": "王阳明 · Wang Yangming and the School of Mind",
-    "desc": "Wang Yangming broke Neo-Confucianism open: instead of investigating external things to reach moral truth, he turned inward and declared that the moral mind already knows — and that knowing and acting are one indivisible movement.",
+    "desc": "Wang Yangming broke Neo-Confucianism open: instead of investigating external things to reach moral truth, he turned inward and declared that the moral mind already knows, and that knowing and acting are one indivisible movement.",
     "tags": [
       "wang-yangming",
       "neo-confucianism",
@@ -2281,7 +2281,7 @@
     "type": "topic",
     "category": "philosophy",
     "title": "正名 · Rectification of Names",
-    "desc": "Confucius told Zilu that governing begins with calling things by their right names — because a ruler who does not rule like a ruler has no claim to the title 君.",
+    "desc": "Confucius told Zilu that governing begins with calling things by their right names, because a ruler who does not rule like a ruler has no claim to the title 君.",
     "tags": [
       "confucianism",
       "confucius",
@@ -2300,8 +2300,8 @@
     "path": "pages/religion/topic_guanyin.html",
     "type": "topic",
     "category": "religion",
-    "title": "观音 · Guanyin — Bodhisattva of Compassion",
-    "desc": "A male Indian bodhisattva who became, by the Song dynasty, the most beloved female deity in China — and whose invocation may be the most widely spoken Buddhist phrase in the world.",
+    "title": "观音 · Guanyin, Bodhisattva of Compassion",
+    "desc": "A male Indian bodhisattva who became, by the Song dynasty, the most beloved female deity in China, and whose invocation may be the most widely spoken Buddhist phrase in the world.",
     "tags": [
       "religion",
       "buddhism",
@@ -2317,8 +2317,8 @@
     "path": "pages/science/topic_tiangan_dizhi.html",
     "type": "topic",
     "category": "science",
-    "title": "天干地支 · Heavenly Stems and Earthly Branches — the 60-year cycle",
-    "desc": "A combinatorial timekeeping system the Shang scribes used in 1250 BCE to date their divination sessions — and that Chinese people still use to name years, hours, and contract parties today.",
+    "title": "天干地支 · Heavenly Stems and Earthly Branches: the 60-year cycle",
+    "desc": "A combinatorial timekeeping system the Shang scribes used in 1250 BCE to date their divination sessions, and that Chinese people still use to name years, hours, and contract parties today.",
     "tags": [
       "science",
       "calendar",
@@ -2335,7 +2335,7 @@
     "type": "topic",
     "category": "science",
     "title": "五行 · Five Phases",
-    "desc": "The Qin dynasty dressed its armies in black and flew black banners because its theorists believed they ruled under the Water phase — this is how consequentially the Five Phases shaped Chinese history.",
+    "desc": "The Qin dynasty dressed its armies in black and flew black banners because its theorists believed they ruled under the Water phase: this is how consequentially the Five Phases shaped Chinese history.",
     "tags": [
       "wuxing",
       "five-phases",
@@ -5852,7 +5852,7 @@
     "type": "topic",
     "category": "philosophy",
     "title": "易经 · The Book of Changes",
-    "desc": "The oldest and most cryptic of the Chinese classics — a manual of divination, a philosophy of change, and a map of the universe encoded in 64 hexagrams.",
+    "desc": "The oldest and most cryptic of the Chinese classics: a manual of divination, a philosophy of change, and a map of the universe encoded in 64 hexagrams.",
     "tags": [
       "philosophy",
       "divination",
@@ -5868,7 +5868,7 @@
     "type": "topic",
     "category": "science",
     "title": "本草纲目 · The Great Pharmacopeia",
-    "desc": "Li Shizhen spent 27 years cataloguing 1,892 drugs — and produced one of the greatest works of natural science in any civilization.",
+    "desc": "Li Shizhen spent 27 years cataloguing 1,892 drugs, producing one of the greatest works of natural science in any civilization.",
     "tags": [
       "medicine",
       "science",
@@ -5885,7 +5885,7 @@
     "type": "topic",
     "category": "science",
     "title": "风水 · Geomancy as Proto-Science",
-    "desc": "Before the terms ecology, hydrology, and orientation science existed, the fengshui master was reading the same landscape — just with a different vocabulary.",
+    "desc": "Before the terms ecology, hydrology, and orientation science existed, the fengshui master was reading the same landscape, just with a different vocabulary.",
     "tags": [
       "science",
       "cosmology",
@@ -5903,7 +5903,7 @@
     "type": "topic",
     "category": "science",
     "title": "二十四节气 · 24 Solar Terms",
-    "desc": "The sun moves 15 degrees and the world changes — a precision agricultural calendar that doubled as a medical manual and is now UNESCO heritage.",
+    "desc": "The sun moves 15 degrees and the world changes: a precision agricultural calendar that doubled as a medical manual and is now UNESCO heritage.",
     "tags": [
       "science",
       "history",
@@ -5954,7 +5954,7 @@
     "type": "topic",
     "category": "science",
     "title": "星宿 · Chinese Constellations",
-    "desc": "China mapped the entire sky independently of Greece — 1,464 stars, 28 lunar mansions, and four mythological guardians that divided the cosmos long before Ptolemy.",
+    "desc": "China mapped the entire sky independently of Greece: 1,464 stars, 28 lunar mansions, and four mythological guardians that divided the cosmos long before Ptolemy.",
     "tags": [
       "science",
       "cosmology",
@@ -7292,7 +7292,7 @@
     "type": "topic",
     "category": "philosophy",
     "title": "阴阳五行 · Yin-Yang and the Five Phases",
-    "desc": "The cosmological engine of classical thought — correspondence, resonance, and transformation.",
+    "desc": "The cosmological engine of classical thought: correspondence, resonance, and transformation.",
     "tags": [
       "yin-yang",
       "five-phases",
@@ -7322,7 +7322,7 @@
     "type": "topic",
     "category": "religion",
     "title": "禅宗 · Chán Buddhism",
-    "desc": "The meditative school that became Japanese Zen — sudden enlightenment and the patriarchs.",
+    "desc": "The meditative school that became Japanese Zen: sudden enlightenment and the patriarchs.",
     "tags": [
       "chan",
       "zen",
@@ -7337,7 +7337,7 @@
     "type": "topic",
     "category": "religion",
     "title": "道教 · Daoism",
-    "desc": "Daoism as organized religion — distinct from Daoist philosophy.",
+    "desc": "Daoism as organized religion: distinct from Daoist philosophy.",
     "tags": [
       "daoism",
       "religion",
@@ -7412,7 +7412,7 @@
     "type": "topic",
     "category": "religion",
     "title": "儒家 · Confucianism",
-    "desc": "The school of the ru — ritual, hierarchy, and moral cultivation as state religion.",
+    "desc": "The school of the ru: ritual, hierarchy, and moral cultivation as state religion.",
     "tags": [
       "confucianism",
       "ritual",
@@ -7472,7 +7472,7 @@
     "type": "topic",
     "category": "science",
     "title": "丝绸 · Silk",
-    "desc": "The thread that built the first global trade network — Chinese silk, the secret of sericulture, and the road that carried it west.",
+    "desc": "The thread that built the first global trade network: Chinese silk, the secret of sericulture, and the road that carried it west.",
     "tags": [
       "silk",
       "trade",
@@ -7487,7 +7487,7 @@
     "type": "topic",
     "category": "science",
     "title": "四大发明 · Four Great Inventions",
-    "desc": "Compass, gunpowder, paper, and printing — the Chinese technologies that remade the medieval world.",
+    "desc": "Compass, gunpowder, paper, and printing: the Chinese technologies that remade the medieval world.",
     "tags": [
       "technology",
       "invention",

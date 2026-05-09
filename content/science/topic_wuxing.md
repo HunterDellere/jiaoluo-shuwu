@@ -4,7 +4,7 @@ category: 'science'
 status: 'complete'
 content_review: 'pending'
 title: '五行 · Five Phases'
-desc: 'The Qin dynasty dressed its armies in black and flew black banners because its theorists believed they ruled under the Water phase — this is how consequentially the Five Phases shaped Chinese history.'
+desc: 'The Qin dynasty dressed its armies in black and flew black banners because its theorists believed they ruled under the Water phase: this is how consequentially the Five Phases shaped Chinese history.'
 metaDesc: "Five Phases (wuxing) explained: the Chinese cosmological system of Water, Wood, Fire, Earth, and Metal as five modes of transformation, covering the generation and conquest cycles, traditional Chinese medicine applications, dynastic color symbolism, and key vocabulary."
 pageTitle: '五行 wǔxíng'
 tags:

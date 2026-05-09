@@ -4,8 +4,8 @@ category: 'science'
 status: 'complete'
 content_review: 'pending'
 title: '本草纲目 · The Great Pharmacopeia'
-desc: 'Li Shizhen spent 27 years cataloguing 1,892 drugs — and produced one of the greatest works of natural science in any civilization.'
-metaDesc: "本草纲目 Běncǎo Gāngmù: Li Shizhen's 52-volume pharmacopeia — 1,892 entries, 11,096 prescriptions, its classification system, influence on European botany, and landmark drug entries."
+desc: 'Li Shizhen spent 27 years cataloguing 1,892 drugs, producing one of the greatest works of natural science in any civilization.'
+metaDesc: "本草纲目 Běncǎo Gāngmù: Li Shizhen's 52-volume pharmacopeia. 1,892 entries, 11,096 prescriptions, its classification system, influence on European botany, and landmark drug entries."
 pageTitle: '本草纲目 The Great Pharmacopeia'
 tags:
   - 'medicine'

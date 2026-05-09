@@ -3,9 +3,9 @@ type: 'topic'
 category: 'religion'
 status: 'complete'
 content_review: 'pending'
-title: '观音 · Guanyin — Bodhisattva of Compassion'
-desc: 'A male Indian bodhisattva who became, by the Song dynasty, the most beloved female deity in China — and whose invocation may be the most widely spoken Buddhist phrase in the world.'
-metaDesc: "观音 Guānyīn — from Sanskrit Avalokiteśvara to China's Bodhisattva of Compassion: the gender transformation, the Miao Shan legend, the Thousand-Armed form, and the vocabulary of compassion."
+title: '观音 · Guanyin, Bodhisattva of Compassion'
+desc: 'A male Indian bodhisattva who became, by the Song dynasty, the most beloved female deity in China, and whose invocation may be the most widely spoken Buddhist phrase in the world.'
+metaDesc: "观音 Guānyīn: from Sanskrit Avalokiteśvara to China's Bodhisattva of Compassion. The gender transformation, the Miao Shan legend, the Thousand-Armed form, and the vocabulary of compassion."
 pageTitle: '观音 Guānyīn · Bodhisattva of Compassion'
 tags:
   - 'religion'

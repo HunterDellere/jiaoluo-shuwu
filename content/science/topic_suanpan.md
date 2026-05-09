@@ -5,7 +5,7 @@ status: 'complete'
 content_review: 'pending'
 title: '算盘 · The Abacus'
 desc: 'Before the electronic calculator, a bead frame and trained fingers could outrun early computers on everyday arithmetic.'
-metaDesc: "算盘 suànpán: the Chinese abacus — its structure and bead positions, mathematical capabilities, historical origins from Han to Ming, abacus mental arithmetic, and why China kept using it longest."
+metaDesc: "算盘 suànpán: the Chinese abacus. Its structure and bead positions, mathematical capabilities, historical origins from Han to Ming, abacus mental arithmetic, and why China kept using it longest."
 pageTitle: '算盘 Abacus'
 tags:
   - 'science'

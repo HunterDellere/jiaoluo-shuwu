@@ -4,8 +4,8 @@ category: 'science'
 status: 'complete'
 content_review: 'pending'
 title: '二十四节气 · 24 Solar Terms'
-desc: 'The sun moves 15 degrees and the world changes — a precision agricultural calendar that doubled as a medical manual and is now UNESCO heritage.'
-metaDesc: "二十四节气 èrshísì jiéqì: the 24 solar terms — how each marks a 15-degree solar position, all 24 names and meanings, agricultural timing, TCM seasonal medicine, and UNESCO intangible heritage status."
+desc: 'The sun moves 15 degrees and the world changes: a precision agricultural calendar that doubled as a medical manual and is now UNESCO heritage.'
+metaDesc: "二十四节气 èrshísì jiéqì: the 24 solar terms. How each marks a 15-degree solar position, all 24 names and meanings, agricultural timing, TCM seasonal medicine, and UNESCO intangible heritage status."
 pageTitle: '二十四节气 24 Solar Terms'
 tags:
   - 'science'
@@ -17,7 +17,7 @@ updated: '2026-04-19'
 pinyin: 'èrshísì jiéqì'
 faq:
   - q: "What are the 24 solar terms?"
-    a: "二十四节气 èrshísì jiéqì are the 24 fifteen-degree segments of the sun's apparent annual path along the ecliptic. Each term marks a precise astronomical moment when the sun reaches a specific longitude — not a calendar date — so terms fall on roughly the same day each Gregorian year (within ±1 day). Together they form a precision agricultural calendar developed during the Han dynasty that still anchors farming, food, and traditional medicine in the Chinese-speaking world."
+    a: "二十四节气 èrshísì jiéqì are the 24 fifteen-degree segments of the sun's apparent annual path along the ecliptic. Each term marks a precise astronomical moment when the sun reaches a specific longitude (not a calendar date) so terms fall on roughly the same day each Gregorian year (within ±1 day). Together they form a precision agricultural calendar developed during the Han dynasty that still anchors farming, food, and traditional medicine in the Chinese-speaking world."
   - q: "How do the 24 solar terms work?"
     a: "The Earth's orbit is divided into 24 equal 15-degree arcs. Each arc takes about 15.2 days to traverse. Twelve of these are 'major' terms 中气 zhōngqì marking the middle of seasons (such as 春分 spring equinox, 夏至 summer solstice), and twelve are 'minor' terms 节气 jiéqì marking transitions (such as 立春 start of spring, 惊蛰 awakening of insects). Terms are calculated from the actual solar position, not the lunar months, so they fix agricultural timing across millennia."
   - q: "Are the 24 solar terms part of UNESCO heritage?"

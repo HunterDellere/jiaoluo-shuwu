@@ -5,7 +5,7 @@ status: 'complete'
 content_review: 'pending'
 title: '佛教 · Buddhism in China'
 desc: 'Two thousand years of transmission, transformation, and sinicization.'
-metaDesc: "佛教 fójiào: Buddhism in China — the Silk Road transmission, Four Noble Truths, Chinese Buddhist schools (Chan, Pure Land, Tiantai, Huayan), key bodhisattvas, cultural legacy, and the great persecutions."
+metaDesc: "佛教 fójiào: Buddhism in China. The Silk Road transmission, Four Noble Truths, Chinese Buddhist schools (Chan, Pure Land, Tiantai, Huayan), key bodhisattvas, cultural legacy, and the great persecutions."
 pageTitle: '佛教 fójiào · Buddhism in China'
 tags:
   - 'buddhism'

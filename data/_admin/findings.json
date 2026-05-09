@@ -1,7 +1,7 @@
 {
-  "generated": "2026-05-09T17:56:57.698Z",
+  "generated": "2026-05-09T18:01:50.486Z",
   "summary": {
-    "errors": 129,
+    "errors": 89,
     "warnings": 405,
     "info": 373
   },
@@ -4049,13 +4049,6 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
-      "level": "ERROR",
-      "category": "formatting",
-      "file": "content/philosophy/topic_yangming.md",
-      "msg": "frontmatter 'desc' contains em-dash (—) — these surface in tooltips, search snippets, and card summaries",
-      "fix": "Rewrite frontmatter desc without em-dash. Use a comma, colon, parenthetical, or split into two sentences."
-    },
-    {
       "level": "WARN",
       "category": "formatting",
       "file": "content/philosophy/topic_yangming.md",
@@ -4068,13 +4061,6 @@
       "file": "content/philosophy/topic_yangming.md",
       "msg": "7 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
-    },
-    {
-      "level": "ERROR",
-      "category": "formatting",
-      "file": "content/philosophy/topic_yijing.md",
-      "msg": "frontmatter 'desc' contains em-dash (—) — these surface in tooltips, search snippets, and card summaries",
-      "fix": "Rewrite frontmatter desc without em-dash. Use a comma, colon, parenthetical, or split into two sentences."
     },
     {
       "level": "WARN",
@@ -4091,20 +4077,6 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
-      "level": "ERROR",
-      "category": "formatting",
-      "file": "content/philosophy/topic_yinyang_wuxing.md",
-      "msg": "frontmatter 'desc' contains em-dash (—) — these surface in tooltips, search snippets, and card summaries",
-      "fix": "Rewrite frontmatter desc without em-dash. Use a comma, colon, parenthetical, or split into two sentences."
-    },
-    {
-      "level": "ERROR",
-      "category": "formatting",
-      "file": "content/philosophy/topic_yinyang_wuxing.md",
-      "msg": "frontmatter 'metaDesc' contains em-dash (—) — these surface in tooltips, search snippets, and card summaries",
-      "fix": "Rewrite frontmatter metaDesc without em-dash. Use a comma, colon, parenthetical, or split into two sentences."
-    },
-    {
       "level": "WARN",
       "category": "formatting",
       "file": "content/philosophy/topic_yinyang_wuxing.md",
@@ -4117,20 +4089,6 @@
       "file": "content/philosophy/topic_yinyang_wuxing.md",
       "msg": "5 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
-    },
-    {
-      "level": "ERROR",
-      "category": "formatting",
-      "file": "content/philosophy/topic_zhengming.md",
-      "msg": "frontmatter 'desc' contains em-dash (—) — these surface in tooltips, search snippets, and card summaries",
-      "fix": "Rewrite frontmatter desc without em-dash. Use a comma, colon, parenthetical, or split into two sentences."
-    },
-    {
-      "level": "ERROR",
-      "category": "formatting",
-      "file": "content/philosophy/topic_zhengming.md",
-      "msg": "frontmatter 'metaDesc' contains em-dash (—) — these surface in tooltips, search snippets, and card summaries",
-      "fix": "Rewrite frontmatter metaDesc without em-dash. Use a comma, colon, parenthetical, or split into two sentences."
     },
     {
       "level": "WARN",
@@ -4159,20 +4117,6 @@
       "file": "content/philosophy/topic_zhuangzi.md",
       "msg": "4 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
-    },
-    {
-      "level": "ERROR",
-      "category": "formatting",
-      "file": "content/religion/topic_chan.md",
-      "msg": "frontmatter 'desc' contains em-dash (—) — these surface in tooltips, search snippets, and card summaries",
-      "fix": "Rewrite frontmatter desc without em-dash. Use a comma, colon, parenthetical, or split into two sentences."
-    },
-    {
-      "level": "ERROR",
-      "category": "formatting",
-      "file": "content/religion/topic_chan.md",
-      "msg": "frontmatter 'metaDesc' contains em-dash (—) — these surface in tooltips, search snippets, and card summaries",
-      "fix": "Rewrite frontmatter metaDesc without em-dash. Use a comma, colon, parenthetical, or split into two sentences."
     },
     {
       "level": "WARN",
@@ -4203,20 +4147,6 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
-      "level": "ERROR",
-      "category": "formatting",
-      "file": "content/religion/topic_daojiao.md",
-      "msg": "frontmatter 'desc' contains em-dash (—) — these surface in tooltips, search snippets, and card summaries",
-      "fix": "Rewrite frontmatter desc without em-dash. Use a comma, colon, parenthetical, or split into two sentences."
-    },
-    {
-      "level": "ERROR",
-      "category": "formatting",
-      "file": "content/religion/topic_daojiao.md",
-      "msg": "frontmatter 'metaDesc' contains em-dash (—) — these surface in tooltips, search snippets, and card summaries",
-      "fix": "Rewrite frontmatter metaDesc without em-dash. Use a comma, colon, parenthetical, or split into two sentences."
-    },
-    {
       "level": "WARN",
       "category": "formatting",
       "file": "content/religion/topic_daojiao.md",
@@ -4229,13 +4159,6 @@
       "file": "content/religion/topic_daojiao.md",
       "msg": "13 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
-    },
-    {
-      "level": "ERROR",
-      "category": "formatting",
-      "file": "content/religion/topic_fojiao.md",
-      "msg": "frontmatter 'metaDesc' contains em-dash (—) — these surface in tooltips, search snippets, and card summaries",
-      "fix": "Rewrite frontmatter metaDesc without em-dash. Use a comma, colon, parenthetical, or split into two sentences."
     },
     {
       "level": "WARN",
@@ -4252,27 +4175,6 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
-      "level": "ERROR",
-      "category": "formatting",
-      "file": "content/religion/topic_guanyin.md",
-      "msg": "frontmatter 'desc' contains em-dash (—) — these surface in tooltips, search snippets, and card summaries",
-      "fix": "Rewrite frontmatter desc without em-dash. Use a comma, colon, parenthetical, or split into two sentences."
-    },
-    {
-      "level": "ERROR",
-      "category": "formatting",
-      "file": "content/religion/topic_guanyin.md",
-      "msg": "frontmatter 'metaDesc' contains em-dash (—) — these surface in tooltips, search snippets, and card summaries",
-      "fix": "Rewrite frontmatter metaDesc without em-dash. Use a comma, colon, parenthetical, or split into two sentences."
-    },
-    {
-      "level": "ERROR",
-      "category": "formatting",
-      "file": "content/religion/topic_guanyin.md",
-      "msg": "frontmatter 'title' contains em-dash (—) — these surface in tooltips, search snippets, and card summaries",
-      "fix": "Rewrite frontmatter title without em-dash. Use a comma, colon, parenthetical, or split into two sentences."
-    },
-    {
       "level": "WARN",
       "category": "formatting",
       "file": "content/religion/topic_guanyin.md",
@@ -4285,13 +4187,6 @@
       "file": "content/religion/topic_guanyin.md",
       "msg": "7 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
-    },
-    {
-      "level": "ERROR",
-      "category": "formatting",
-      "file": "content/religion/topic_jingtu.md",
-      "msg": "frontmatter 'metaDesc' contains em-dash (—) — these surface in tooltips, search snippets, and card summaries",
-      "fix": "Rewrite frontmatter metaDesc without em-dash. Use a comma, colon, parenthetical, or split into two sentences."
     },
     {
       "level": "WARN",
@@ -4308,13 +4203,6 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
-      "level": "ERROR",
-      "category": "formatting",
-      "file": "content/religion/topic_mazu.md",
-      "msg": "frontmatter 'metaDesc' contains em-dash (—) — these surface in tooltips, search snippets, and card summaries",
-      "fix": "Rewrite frontmatter metaDesc without em-dash. Use a comma, colon, parenthetical, or split into two sentences."
-    },
-    {
       "level": "WARN",
       "category": "formatting",
       "file": "content/religion/topic_mazu.md",
@@ -4327,13 +4215,6 @@
       "file": "content/religion/topic_mazu.md",
       "msg": "6 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
-    },
-    {
-      "level": "ERROR",
-      "category": "formatting",
-      "file": "content/religion/topic_minjian.md",
-      "msg": "frontmatter 'metaDesc' contains em-dash (—) — these surface in tooltips, search snippets, and card summaries",
-      "fix": "Rewrite frontmatter metaDesc without em-dash. Use a comma, colon, parenthetical, or split into two sentences."
     },
     {
       "level": "WARN",
@@ -4350,20 +4231,6 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
-      "level": "ERROR",
-      "category": "formatting",
-      "file": "content/religion/topic_rujia.md",
-      "msg": "frontmatter 'desc' contains em-dash (—) — these surface in tooltips, search snippets, and card summaries",
-      "fix": "Rewrite frontmatter desc without em-dash. Use a comma, colon, parenthetical, or split into two sentences."
-    },
-    {
-      "level": "ERROR",
-      "category": "formatting",
-      "file": "content/religion/topic_rujia.md",
-      "msg": "frontmatter 'metaDesc' contains em-dash (—) — these surface in tooltips, search snippets, and card summaries",
-      "fix": "Rewrite frontmatter metaDesc without em-dash. Use a comma, colon, parenthetical, or split into two sentences."
-    },
-    {
       "level": "WARN",
       "category": "formatting",
       "file": "content/religion/topic_rujia.md",
@@ -4376,13 +4243,6 @@
       "file": "content/religion/topic_rujia.md",
       "msg": "14 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
-    },
-    {
-      "level": "ERROR",
-      "category": "formatting",
-      "file": "content/religion/topic_saman.md",
-      "msg": "frontmatter 'metaDesc' contains em-dash (—) — these surface in tooltips, search snippets, and card summaries",
-      "fix": "Rewrite frontmatter metaDesc without em-dash. Use a comma, colon, parenthetical, or split into two sentences."
     },
     {
       "level": "WARN",
@@ -4399,13 +4259,6 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
-      "level": "ERROR",
-      "category": "formatting",
-      "file": "content/religion/topic_yisilan.md",
-      "msg": "frontmatter 'metaDesc' contains em-dash (—) — these surface in tooltips, search snippets, and card summaries",
-      "fix": "Rewrite frontmatter metaDesc without em-dash. Use a comma, colon, parenthetical, or split into two sentences."
-    },
-    {
       "level": "WARN",
       "category": "formatting",
       "file": "content/religion/topic_yisilan.md",
@@ -4418,13 +4271,6 @@
       "file": "content/religion/topic_yisilan.md",
       "msg": "9 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
-    },
-    {
-      "level": "ERROR",
-      "category": "formatting",
-      "file": "content/religion/topic_zuxian.md",
-      "msg": "frontmatter 'metaDesc' contains em-dash (—) — these surface in tooltips, search snippets, and card summaries",
-      "fix": "Rewrite frontmatter metaDesc without em-dash. Use a comma, colon, parenthetical, or split into two sentences."
     },
     {
       "level": "WARN",
@@ -4441,20 +4287,6 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
-      "level": "ERROR",
-      "category": "formatting",
-      "file": "content/science/topic_bencao.md",
-      "msg": "frontmatter 'desc' contains em-dash (—) — these surface in tooltips, search snippets, and card summaries",
-      "fix": "Rewrite frontmatter desc without em-dash. Use a comma, colon, parenthetical, or split into two sentences."
-    },
-    {
-      "level": "ERROR",
-      "category": "formatting",
-      "file": "content/science/topic_bencao.md",
-      "msg": "frontmatter 'metaDesc' contains em-dash (—) — these surface in tooltips, search snippets, and card summaries",
-      "fix": "Rewrite frontmatter metaDesc without em-dash. Use a comma, colon, parenthetical, or split into two sentences."
-    },
-    {
       "level": "WARN",
       "category": "formatting",
       "file": "content/science/topic_bencao.md",
@@ -4467,20 +4299,6 @@
       "file": "content/science/topic_bencao.md",
       "msg": "4 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
-    },
-    {
-      "level": "ERROR",
-      "category": "formatting",
-      "file": "content/science/topic_fengshui_science.md",
-      "msg": "frontmatter 'desc' contains em-dash (—) — these surface in tooltips, search snippets, and card summaries",
-      "fix": "Rewrite frontmatter desc without em-dash. Use a comma, colon, parenthetical, or split into two sentences."
-    },
-    {
-      "level": "ERROR",
-      "category": "formatting",
-      "file": "content/science/topic_fengshui_science.md",
-      "msg": "frontmatter 'metaDesc' contains em-dash (—) — these surface in tooltips, search snippets, and card summaries",
-      "fix": "Rewrite frontmatter metaDesc without em-dash. Use a comma, colon, parenthetical, or split into two sentences."
     },
     {
       "level": "WARN",
@@ -4497,20 +4315,6 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
-      "level": "ERROR",
-      "category": "formatting",
-      "file": "content/science/topic_jieqi.md",
-      "msg": "frontmatter 'desc' contains em-dash (—) — these surface in tooltips, search snippets, and card summaries",
-      "fix": "Rewrite frontmatter desc without em-dash. Use a comma, colon, parenthetical, or split into two sentences."
-    },
-    {
-      "level": "ERROR",
-      "category": "formatting",
-      "file": "content/science/topic_jieqi.md",
-      "msg": "frontmatter 'metaDesc' contains em-dash (—) — these surface in tooltips, search snippets, and card summaries",
-      "fix": "Rewrite frontmatter metaDesc without em-dash. Use a comma, colon, parenthetical, or split into two sentences."
-    },
-    {
       "level": "WARN",
       "category": "formatting",
       "file": "content/science/topic_jieqi.md",
@@ -4523,13 +4327,6 @@
       "file": "content/science/topic_jieqi.md",
       "msg": "4 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
-    },
-    {
-      "level": "ERROR",
-      "category": "formatting",
-      "file": "content/science/topic_lifa.md",
-      "msg": "frontmatter 'metaDesc' contains em-dash (—) — these surface in tooltips, search snippets, and card summaries",
-      "fix": "Rewrite frontmatter metaDesc without em-dash. Use a comma, colon, parenthetical, or split into two sentences."
     },
     {
       "level": "WARN",
@@ -4546,20 +4343,6 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
-      "level": "ERROR",
-      "category": "formatting",
-      "file": "content/science/topic_sichou.md",
-      "msg": "frontmatter 'desc' contains em-dash (—) — these surface in tooltips, search snippets, and card summaries",
-      "fix": "Rewrite frontmatter desc without em-dash. Use a comma, colon, parenthetical, or split into two sentences."
-    },
-    {
-      "level": "ERROR",
-      "category": "formatting",
-      "file": "content/science/topic_sichou.md",
-      "msg": "frontmatter 'metaDesc' contains em-dash (—) — these surface in tooltips, search snippets, and card summaries",
-      "fix": "Rewrite frontmatter metaDesc without em-dash. Use a comma, colon, parenthetical, or split into two sentences."
-    },
-    {
       "level": "WARN",
       "category": "formatting",
       "file": "content/science/topic_sichou.md",
@@ -4572,27 +4355,6 @@
       "file": "content/science/topic_sichou.md",
       "msg": "7 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
-    },
-    {
-      "level": "ERROR",
-      "category": "formatting",
-      "file": "content/science/topic_sidafaming.md",
-      "msg": "frontmatter 'desc' contains em-dash (—) — these surface in tooltips, search snippets, and card summaries",
-      "fix": "Rewrite frontmatter desc without em-dash. Use a comma, colon, parenthetical, or split into two sentences."
-    },
-    {
-      "level": "ERROR",
-      "category": "formatting",
-      "file": "content/science/topic_sidafaming.md",
-      "msg": "frontmatter 'metaDesc' contains em-dash (—) — these surface in tooltips, search snippets, and card summaries",
-      "fix": "Rewrite frontmatter metaDesc without em-dash. Use a comma, colon, parenthetical, or split into two sentences."
-    },
-    {
-      "level": "ERROR",
-      "category": "formatting",
-      "file": "content/science/topic_suanpan.md",
-      "msg": "frontmatter 'metaDesc' contains em-dash (—) — these surface in tooltips, search snippets, and card summaries",
-      "fix": "Rewrite frontmatter metaDesc without em-dash. Use a comma, colon, parenthetical, or split into two sentences."
     },
     {
       "level": "WARN",
@@ -4609,39 +4371,11 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
-      "level": "ERROR",
-      "category": "formatting",
-      "file": "content/science/topic_tiangan_dizhi.md",
-      "msg": "frontmatter 'desc' contains em-dash (—) — these surface in tooltips, search snippets, and card summaries",
-      "fix": "Rewrite frontmatter desc without em-dash. Use a comma, colon, parenthetical, or split into two sentences."
-    },
-    {
-      "level": "ERROR",
-      "category": "formatting",
-      "file": "content/science/topic_tiangan_dizhi.md",
-      "msg": "frontmatter 'metaDesc' contains em-dash (—) — these surface in tooltips, search snippets, and card summaries",
-      "fix": "Rewrite frontmatter metaDesc without em-dash. Use a comma, colon, parenthetical, or split into two sentences."
-    },
-    {
-      "level": "ERROR",
-      "category": "formatting",
-      "file": "content/science/topic_tiangan_dizhi.md",
-      "msg": "frontmatter 'title' contains em-dash (—) — these surface in tooltips, search snippets, and card summaries",
-      "fix": "Rewrite frontmatter title without em-dash. Use a comma, colon, parenthetical, or split into two sentences."
-    },
-    {
       "level": "WARN",
       "category": "formatting",
       "file": "content/science/topic_tiangan_dizhi.md",
       "msg": "28 em-dashes in body prose (budget 3). Voice regression risk.",
       "fix": "Rewrite to use commas, colons, parentheticals, or sentence splits. Keep em-dashes only for sharp interruptions a comma cannot carry."
-    },
-    {
-      "level": "ERROR",
-      "category": "formatting",
-      "file": "content/science/topic_wuxing.md",
-      "msg": "frontmatter 'desc' contains em-dash (—) — these surface in tooltips, search snippets, and card summaries",
-      "fix": "Rewrite frontmatter desc without em-dash. Use a comma, colon, parenthetical, or split into two sentences."
     },
     {
       "level": "WARN",
@@ -4656,20 +4390,6 @@
       "file": "content/science/topic_wuxing.md",
       "msg": "13 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
-    },
-    {
-      "level": "ERROR",
-      "category": "formatting",
-      "file": "content/science/topic_xingxiu.md",
-      "msg": "frontmatter 'desc' contains em-dash (—) — these surface in tooltips, search snippets, and card summaries",
-      "fix": "Rewrite frontmatter desc without em-dash. Use a comma, colon, parenthetical, or split into two sentences."
-    },
-    {
-      "level": "ERROR",
-      "category": "formatting",
-      "file": "content/science/topic_xingxiu.md",
-      "msg": "frontmatter 'metaDesc' contains em-dash (—) — these surface in tooltips, search snippets, and card summaries",
-      "fix": "Rewrite frontmatter metaDesc without em-dash. Use a comma, colon, parenthetical, or split into two sentences."
     },
     {
       "level": "WARN",

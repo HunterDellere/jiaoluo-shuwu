@@ -5,7 +5,7 @@ status: 'complete'
 content_review: 'pending'
 title: '净土宗 · Pure Land'
 desc: 'Faith, Amitabha, and the Western Paradise: the most widely practiced Buddhism in China.'
-metaDesc: "净土宗 jìngtǔ zōng: Pure Land Buddhism — Amitābha's 48 vows, the Western Pure Land, the practice of nianfo, the three Pure Land sutras, folk religion integration, and the lineage of patriarchs."
+metaDesc: "净土宗 jìngtǔ zōng: Pure Land Buddhism. Amitābha's 48 vows, the Western Pure Land, the practice of nianfo, the three Pure Land sutras, folk religion integration, and the lineage of patriarchs."
 pageTitle: '净土宗 jìngtǔ zōng · Pure Land Buddhism'
 tags:
   - 'pure-land'
