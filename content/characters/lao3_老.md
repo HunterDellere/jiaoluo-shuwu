@@ -3,7 +3,7 @@ type: 'character'
 category: 'characters'
 status: 'complete'
 title: '老 · old, venerable, experienced'
-desc: 'A stooped elder with long hair — age as wisdom, seniority as moral authority, and the Daoist sage who wrote the Tao Te Ching.'
+desc: 'A stooped elder with long hair: age as wisdom, seniority as moral authority, and the Daoist sage who wrote the Tao Te Ching.'
 metaDesc: "老 lǎo: old, venerable, experienced. Etymology, the Confucian respect for elders, Laozi and Daoism, common 老 compounds and expressions, and chengyu."
 pageTitle: '老 lǎo'
 tags:

@@ -3,7 +3,7 @@ type: 'character'
 category: 'characters'
 status: 'complete'
 title: '道 · way, path'
-desc: "The word that gave Daoism its name — and underlies every Chinese 'ism'."
+desc: "The word that gave Daoism its name, and underlies every Chinese 'ism'."
 metaDesc: "道 dào: way, path, principle, and the Word that gave Daoism its name. From road to moral order to the measure word for light and rivers."
 pageTitle: '道 dào'
 tags:

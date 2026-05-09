@@ -3,7 +3,7 @@ type: 'character'
 category: 'characters'
 status: 'complete'
 title: '来 · to come, to arrive, toward the speaker'
-desc: "Oracle bone wheat plant turned direction-word — 来 pulls everything toward the speaker, including time itself."
+desc: "Oracle bone wheat plant turned direction-word: 来 pulls everything toward the speaker, including time itself."
 metaDesc: "来 lái: to come, to arrive, toward the speaker. Etymology from wheat pictograph, speaker-centered semantics, and compounds from 来自 to 从来 to 近来."
 pageTitle: '来 lái'
 tags:

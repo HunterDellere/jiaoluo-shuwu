@@ -3,7 +3,7 @@ type: 'character'
 category: 'characters'
 status: 'complete'
 title: '角 · corner, horn, angle'
-desc: "Corner, horn, angle — the character that opens this site's name: 角落書屋."
+desc: "Corner, horn, angle: the character that opens this site's name (角落書屋)."
 metaDesc: "角 jiǎo/jué: corner, horn, angle. Etymology, spatial compounds, tone-split meanings, musical role, chengyu idioms, and usage notes."
 pageTitle: '角 jiǎo / jué'
 tags:

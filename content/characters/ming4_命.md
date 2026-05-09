@@ -3,7 +3,7 @@ type: 'character'
 category: 'characters'
 status: 'complete'
 title: '命 · life, fate, command'
-desc: 'A mouth speaking an order: 令 above, 口 inside. The character that holds together three of the heaviest words in Chinese — life, destiny, and the command from above.'
+desc: 'A mouth speaking an order: 令 above, 口 inside. The character that holds together three of the heaviest words in Chinese: life, destiny, and the command from above.'
 metaDesc: "命 mìng: life, fate, command. Etymology (令 order plus 口 mouth), the life-cluster (生命 寿命 救命), the fate-cluster (命运 算命 命中注定), and chengyu including 听天由命 and 命中注定."
 pageTitle: '命 mìng'
 tags:

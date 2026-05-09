@@ -3,7 +3,7 @@ type: 'character'
 category: 'characters'
 status: 'complete'
 title: '认 · to recognize, to acknowledge'
-desc: 'The act of recognition — knowing something for what it is, owning up to it, and the small set of compounds that turn this on the world, on others, and on oneself.'
+desc: 'The act of recognition: knowing something for what it is, owning up to it, and the small set of compounds that turn this on the world, on others, and on oneself.'
 metaDesc: "认 rèn: to recognize, acknowledge, identify, admit. Etymology, simplified vs. traditional 認, the recognition family (认识 认得 认出), the acknowledgment family (承认 认错 认输), and chengyu."
 pageTitle: '认 rèn'
 tags:

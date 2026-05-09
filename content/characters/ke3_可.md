@@ -5,7 +5,7 @@ status: 'complete'
 content_review: 'pending'
 title: '可 · can; may; worth; quite'
 desc: "A two-stroke mouth character whose ancient sense of affirming breath became the pivot of permission, capability, and worth in classical and modern Chinese."
-metaDesc: "可 ke: can, may, worth, and quite — one of the most productive characters in Chinese. Etymology, compounds including keyi, keneng, keai, and ke-negation patterns, classical usage of ke yu bu ke, and the character role in grammar."
+metaDesc: "可 ke: can, may, worth, and quite. One of the most productive characters in Chinese. Etymology, compounds including keyi, keneng, keai, and ke-negation patterns, classical usage of ke yu bu ke, and the character role in grammar."
 pageTitle: '可 kě'
 char: '可'
 pinyin: 'kě'

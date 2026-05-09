@@ -3,8 +3,8 @@ type: 'character'
 category: 'characters'
 status: 'complete'
 title: '前 · front, before, forward; former'
-desc: "Chinese places the past in front (前) and the future behind — the known faces you while the unknown approaches from behind, the inverse of the English spatial metaphor for time."
-metaDesc: "前 qián: front, forward, before, former. The character whose spatial logic reveals that in Chinese, the past is in front of you and the future at your back — a complete inversion of the English time metaphor."
+desc: "Chinese places the past in front (前) and the future behind: the known faces you while the unknown approaches from behind, the inverse of the English spatial metaphor for time."
+metaDesc: "前 qián: front, forward, before, former. The character whose spatial logic reveals that in Chinese, the past is in front of you and the future at your back, a complete inversion of the English time metaphor."
 pageTitle: '前 qián'
 tags:
   - 'direction'

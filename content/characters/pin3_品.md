@@ -3,8 +3,8 @@ type: 'character'
 category: 'characters'
 status: 'complete'
 title: '品 · article, grade, character, to taste'
-desc: 'Three mouths stacked: a character about multiplicity, evaluation, and the discerning assessment of quality — from product grades to moral character.'
-metaDesc: "品 pǐn: article, product, grade, character, to taste or sample. Three mouths stacked signal plurality and evaluation — the Chinese word for everything from commodity grades to human virtue."
+desc: 'Three mouths stacked: a character about multiplicity, evaluation, and the discerning assessment of quality, from product grades to moral character.'
+metaDesc: "品 pǐn: article, product, grade, character, to taste or sample. Three mouths stacked signal plurality and evaluation: the Chinese word for everything from commodity grades to human virtue."
 pageTitle: '品 pǐn'
 tags:
   - 'evaluation'

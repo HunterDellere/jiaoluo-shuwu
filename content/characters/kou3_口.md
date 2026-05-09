@@ -3,7 +3,7 @@ type: 'character'
 category: 'characters'
 status: 'complete'
 title: '口 · mouth, opening, entrance'
-desc: "A simple rectangle for an open mouth — one of the most productive radicals in the script, present in hundreds of characters for speaking, eating, and openings."
+desc: "A simple rectangle for an open mouth: one of the most productive radicals in the script, present in hundreds of characters for speaking, eating, and openings."
 metaDesc: "口 kǒu: mouth, opening, entrance. Etymology, the mouth radical family (吃/喝/唱/说/叫), measure word usage, and key compounds (人口/出口/入口)."
 pageTitle: '口 kǒu'
 tags:

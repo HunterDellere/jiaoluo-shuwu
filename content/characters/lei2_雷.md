@@ -3,7 +3,7 @@ type: 'character'
 category: 'characters'
 status: 'complete'
 title: '雷 · thunder, the Arousing'
-desc: "Rain over fields struck by lightning — the ancient pictograph of thunder that became a deity, a Yijing trigram, and a metaphor for decisive force."
+desc: "Rain over fields struck by lightning: the ancient pictograph of thunder that became a deity, a Yijing trigram, and a metaphor for decisive force."
 metaDesc: "雷 léi: thunder, Duke of Thunder deity, hexagram 51 in the Yijing. Etymology, cosmology, five phases, key compounds, and chengyu for decisive action."
 pageTitle: '雷 léi'
 tags:

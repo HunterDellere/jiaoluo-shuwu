@@ -3,7 +3,7 @@ type: 'character'
 category: 'characters'
 status: 'complete'
 title: '去 · to go, to leave, to depart, to remove'
-desc: "The character that marks every departure — from leaving the house to the euphemism for death, 去 is the verb of things moving away."
+desc: "The character that marks every departure, from leaving the house to the euphemism for death. 去 is the verb of things moving away."
 metaDesc: "去 qù: to go, to leave, to remove, to pass. Etymology, speaker-centered contrast with 来, and compounds from 去年 to 过去 to 去世."
 pageTitle: '去 qù'
 tags:

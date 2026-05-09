@@ -3,7 +3,7 @@ type: 'character'
 category: 'characters'
 status: 'complete'
 title: '年 · year'
-desc: 'A person carrying a harvest of grain — year as the cycle of agricultural labor, and the heart of the Chinese New Year tradition.'
+desc: 'A person carrying a harvest of grain: year as the cycle of agricultural labor, and the heart of the Chinese New Year tradition.'
 metaDesc: "年 nián: year, age, New Year. Etymology, the Chinese New Year (春节), the nian monster legend, key time compounds, and the Chinese understanding of cyclical time."
 pageTitle: '年 nián'
 tags:

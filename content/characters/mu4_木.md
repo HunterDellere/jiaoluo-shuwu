@@ -4,7 +4,7 @@ category: 'characters'
 status: 'complete'
 title: '木 · tree, wood'
 desc: "A tree seen whole: trunk, branches, roots. The pictograph that became a radical, a wuxing element, and the building block of 林, 森, 本, and 末."
-metaDesc: "木 mù: tree, wood — pictograph of a complete tree, one of the wuxing five elements, and a highly generative radical. Covers etymology, the 本/末 extension, wood-radical compounds, and key chengyu."
+metaDesc: "木 mù: tree, wood. Pictograph of a complete tree, one of the wuxing five elements, and a highly generative radical. Covers etymology, the 本/末 extension, wood-radical compounds, and key chengyu."
 pageTitle: '木 mù'
 tags:
   - 'radical'
@@ -18,8 +18,8 @@ tone: 4
 hsk: 1
 radical: '木'
 sources:
-  - 'Shuōwén Jiězì 说文解字, Xǔ Shèn (c. 100 CE) — classic explication of 木 and its compounds'
-  - 'Outlier Linguistic Solutions — oracle bone and bronze forms of 木'
+  - 'Shuōwén Jiězì 说文解字, Xǔ Shèn (c. 100 CE): classic explication of 木 and its compounds'
+  - 'Outlier Linguistic Solutions: oracle bone and bronze forms of 木'
 content_review: 'verified'
 content_sources:
   - 'Unihan'

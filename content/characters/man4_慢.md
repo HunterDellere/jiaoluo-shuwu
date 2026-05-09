@@ -4,7 +4,7 @@ category: 'characters'
 status: 'complete'
 title: '慢 · slow, unhurried'
 desc: 'Pace becomes a moral register: 慢 màn carries the same heart radical as 快, and extends from physical slowness into social neglect and arrogance.'
-metaDesc: "慢 màn (HSK 3): slow, unhurried — shares the heart radical 忄 with 快, and extends from pace into social slight (怠慢) and arrogance (傲慢). Etymology, compounds, chengyu."
+metaDesc: "慢 màn (HSK 3): slow, unhurried. Shares the heart radical 忄 with 快, and extends from pace into social slight (怠慢) and arrogance (傲慢). Etymology, compounds, chengyu."
 pageTitle: '慢 màn'
 tags:
   - 'emotion'
