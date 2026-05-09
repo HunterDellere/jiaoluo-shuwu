@@ -3,7 +3,7 @@ type: 'character'
 category: 'characters'
 status: 'complete'
 title: '学 · to study, to learn, learning'
-desc: 'Hands guiding a child beneath a roof — the character for learning as both action and institution.'
+desc: 'Hands guiding a child beneath a roof: the character for learning as both action and institution.'
 metaDesc: "学 xué: to study, to learn, school, learning. Etymology, the Confucian tradition of learning, key compounds (学习/大学/科学), and the philosophy of self-cultivation through study."
 pageTitle: '学 xué'
 tags:

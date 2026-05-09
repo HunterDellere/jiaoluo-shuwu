@@ -3,8 +3,8 @@ type: 'character'
 category: 'characters'
 status: 'complete'
 title: '玉 · jade, precious'
-desc: "The material of kingship and moral cultivation — three jade discs on a cord, a glyph almost identical to king, the stone that Confucius said was virtue made visible."
-metaDesc: "玉 yu: the Chinese character for jade — etymology, ritual uses, the Confucian virtues of jade, key compounds, and the chengyu that made jade a moral language."
+desc: "The material of kingship and moral cultivation: three jade discs on a cord, a glyph almost identical to king, the stone that Confucius said was virtue made visible."
+metaDesc: "玉 yu: the Chinese character for jade. Etymology, ritual uses, the Confucian virtues of jade, key compounds, and the chengyu that made jade a moral language."
 pageTitle: '玉 · Jade Character'
 char: '玉'
 pinyin: 'yù'

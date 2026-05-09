@@ -3,7 +3,7 @@ type: 'character'
 category: 'characters'
 status: 'complete'
 title: '一 · one; unified; as soon as'
-desc: 'The simplest mark a brush can make carries the heaviest philosophical weight in Chinese civilization — 道生一，一生二，the Dao generates One, and One generates everything.'
+desc: 'The simplest mark a brush can make carries the heaviest philosophical weight in Chinese civilization: 道生一，一生二，the Dao generates One, and One generates everything.'
 metaDesc: "一 yī: the primordial stroke, Daodejing cosmology, tone sandhi rules, the 一...就 pattern, and unity compounds. Etymology from the Shuowen, Analects, and Laozi."
 pageTitle: '一 yī'
 tags:

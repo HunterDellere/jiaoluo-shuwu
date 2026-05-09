@@ -3,8 +3,8 @@ type: 'character'
 category: 'characters'
 status: 'complete'
 title: '言 · speech, word, language'
-desc: 'The root of every word about words — the mouth open, the tongue moving, the speech rising.'
-metaDesc: "言 yán: speech, word, language. The radical at the root of 语, 说, 词, 诗, 谈, 诚, 读, 谢 — the entire territory of human language in Chinese."
+desc: 'The root of every word about words: the mouth open, the tongue moving, the speech rising.'
+metaDesc: "言 yán: speech, word, language. The radical at the root of 语, 说, 词, 诗, 谈, 诚, 读, 谢: the entire territory of human language in Chinese."
 pageTitle: '言 yán'
 tags:
   - 'radical'

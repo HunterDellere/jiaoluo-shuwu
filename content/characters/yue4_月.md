@@ -3,7 +3,7 @@ type: 'character'
 category: 'characters'
 status: 'complete'
 title: '月 · moon, month'
-desc: 'A crescent moon in profile — and one of the most poetically charged characters in Chinese literature.'
+desc: 'A crescent moon in profile, and one of the most poetically charged characters in Chinese literature.'
 metaDesc: "月 yuè: moon, month. Etymology of the crescent moon pictograph, the moon in Chinese poetry and Mid-Autumn Festival, compounds and chengyu, and why 月 also means 'month'."
 pageTitle: '月 yuè'
 tags:

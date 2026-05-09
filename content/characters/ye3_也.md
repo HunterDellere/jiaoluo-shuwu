@@ -4,7 +4,7 @@ category: 'characters'
 status: 'complete'
 content_review: 'pending'
 title: '也 · also; too; classical particle'
-desc: "A pictograph that lost its original image entirely and became one of the most load-bearing particles in classical Chinese — the gavel at the end of every verdict."
+desc: "A pictograph that lost its original image entirely and became one of the most load-bearing particles in classical Chinese: the gavel at the end of every verdict."
 metaDesc: "也 ye: also, too, either, and the classical sentence-final particle of definition and affirmation. Etymology, modern adverb use, classical wen yan wen patterns, and the chengyu built on its doubled structure."
 pageTitle: '也 yě'
 char: '也'

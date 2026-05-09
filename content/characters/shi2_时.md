@@ -3,8 +3,8 @@ type: 'character'
 category: 'characters'
 status: 'complete'
 title: '时 · time, hour, season'
-desc: 'The sun moving — time as something visible, measurable, and morally weighted.'
-metaDesc: "时 shí: time, hour, season, moment. The sun-radical character at the center of temporal vocabulary in Chinese — from 时间 to 时代 to 时机."
+desc: 'The sun moving: time as something visible, measurable, and morally weighted.'
+metaDesc: "时 shí: time, hour, season, moment. The sun-radical character at the center of temporal vocabulary in Chinese, from 时间 to 时代 to 时机."
 pageTitle: '时 shí'
 tags:
   - 'time'

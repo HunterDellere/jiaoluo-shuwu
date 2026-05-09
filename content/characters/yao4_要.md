@@ -3,8 +3,8 @@ type: 'character'
 category: 'characters'
 status: 'complete'
 title: '要 · to want, must, essential'
-desc: 'Want, need, must, and will — the grammar engine disguised as a single character.'
-metaDesc: "要 yào: to want, to need, must, will (future), important — etymology, modal uses, 需要 vs. 要, the 要…了 imminent-change pattern, and the 要是 conditional."
+desc: 'Want, need, must, and will: the grammar engine disguised as a single character.'
+metaDesc: "要 yào: to want, to need, must, will (future), important. Etymology, modal uses, 需要 vs. 要, the 要…了 imminent-change pattern, and the 要是 conditional."
 pageTitle: '要 yào'
 tags:
   - 'grammar'

@@ -3,7 +3,7 @@ type: 'character'
 category: 'characters'
 status: 'complete'
 title: '西 · west; western'
-desc: 'A bird settling into its nest at sunset — the direction that gave Chinese the word for "things" when it paired with east.'
+desc: 'A bird settling into its nest at sunset: the direction that gave Chinese the word for "things" when it paired with east.'
 metaDesc: "西 xī: west, western. Traditional form shows a bird in a nest at dusk. Etymology, the west in Chinese cosmology, 西方 as the Buddhist Pure Land, and how 东西 became the word for any thing."
 pageTitle: '西 xī'
 tags:

@@ -3,7 +3,7 @@ type: 'character'
 category: 'characters'
 status: 'complete'
 title: '眼 · eye, glance'
-desc: 'The everyday word for eye — and, by extension, any small opening, any moment of looking, any judgment made through sight. The body-part counterpart to literary 目.'
+desc: 'The everyday word for eye, and by extension any small opening, any moment of looking, any judgment made through sight. The body-part counterpart to literary 目.'
 metaDesc: "眼 yǎn: eye, glance, sight, opening. Etymology (目 eye + 艮 phonetic), the eye-as-organ family (眼睛/眼神/眼泪), eye-as-glance verbs (看一眼/眨眼), 眼 as small opening (针眼/泉眼), 眼光/眼界 (vision and discernment), and chengyu."
 pageTitle: '眼 yǎn'
 tags:

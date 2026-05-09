@@ -3,8 +3,8 @@ type: 'character'
 category: 'characters'
 status: 'complete'
 title: '云 · cloud'
-desc: 'The simplified 云 is older than the traditional 雲 — a rare case where the modern form recovers the ancient one.'
-metaDesc: "云 yún: cloud — the simplified form is more archaic than the traditional 雲. Etymology, the 雨 radical addition, classical uses, and the poetic 行云流水."
+desc: 'The simplified 云 is older than the traditional 雲, a rare case where the modern form recovers the ancient one.'
+metaDesc: "云 yún: cloud. The simplified form is more archaic than the traditional 雲. Etymology, the 雨 radical addition, classical uses, and the poetic 行云流水."
 pageTitle: '云 yún'
 tags:
   - 'nature'

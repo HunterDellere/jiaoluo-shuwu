@@ -3,8 +3,8 @@ type: 'character'
 category: 'characters'
 status: 'complete'
 title: '信 · trust, faith, credibility'
-desc: 'A person standing by their word — one of the most visually transparent characters in the language, and the virtue that holds every contract, conversation, and relationship together.'
-metaDesc: "信 xìn: trust, faith, credibility, letter. One of the Five Confucian Constants, formed from 人 (person) + 言 (word) — a person who stands by what they say."
+desc: 'A person standing by their word: one of the most visually transparent characters in the language, and the virtue that holds every contract, conversation, and relationship together.'
+metaDesc: "信 xìn: trust, faith, credibility, letter. One of the Five Confucian Constants, formed from 人 (person) + 言 (word): a person who stands by what they say."
 pageTitle: '信 xìn'
 tags:
   - 'confucianism'

@@ -3,8 +3,8 @@ type: 'character'
 category: 'characters'
 status: 'complete'
 title: '我 · I, me, myself'
-desc: "The character for 'I' began as a toothed bronze halberd — the assertive grip of a weapon became the grammatical mark of a self."
-metaDesc: "我 wǒ: the Chinese first-person pronoun whose oracle-bone form depicted a toothed halberd — weapon, identity, and selfhood fused in a single glyph."
+desc: "The character for 'I' began as a toothed bronze halberd: the assertive grip of a weapon became the grammatical mark of a self."
+metaDesc: "我 wǒ: the Chinese first-person pronoun whose oracle-bone form depicted a toothed halberd. Weapon, identity, and selfhood fused in a single glyph."
 pageTitle: '我 wǒ'
 tags:
   - 'grammar'

@@ -3,7 +3,7 @@ type: 'character'
 category: 'characters'
 status: 'complete'
 title: '新 · new; fresh; recently; novel'
-desc: 'Chopping fresh wood with an axe — the character whose compounds span New Year greetings, fresh produce, marriage, and the great question of what counts as modern.'
+desc: 'Chopping fresh wood with an axe: the character whose compounds span New Year greetings, fresh produce, marriage, and the great question of what counts as modern.'
 metaDesc: "新 xīn: new, fresh, recent, modern. Axe (斤) + phonetic 亲. Etymology, core compounds from 新年 to 新鲜, the new-old contrast with 旧, and the concept of 创新 innovation."
 pageTitle: '新 xīn'
 tags:

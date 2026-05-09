@@ -3,7 +3,7 @@ type: 'character'
 category: 'characters'
 status: 'complete'
 title: '远 · far, distant, remote'
-desc: 'Long robes trailing as you walk away — distance encoded in motion, and the ambivalence of far-off places in Chinese thought.'
+desc: 'Long robes trailing as you walk away: distance encoded in motion, and the ambivalence of far-off places in Chinese thought.'
 metaDesc: "远 yuǎn: far, distant, remote. Etymology from 辶 (movement) + 元 (simplified phonetic); spatial, temporal, and moral distance; classical usage in the Analects on the proximity of 仁."
 pageTitle: '远 yuǎn'
 tags:
