@@ -4,7 +4,7 @@ category: 'history'
 status: 'complete'
 content_review: 'pending'
 title: '汉朝 · The Han Dynasty'
-desc: "The dynasty that named the Chinese people and script — 400 years of empire, the Silk Road, Confucian statecraft, and Sima Qian writing history from prison."
+desc: "The dynasty that named the Chinese people and script: 400 years of empire, the Silk Road, Confucian statecraft, and Sima Qian writing history from prison."
 metaDesc: "汉朝 Hàn cháo: the Han dynasty (206 BCE to 220 CE). The dynasty that named the Han people and the Chinese script. Silk Road, Confucian orthodoxy, Sima Qian, and the origins of Chinese imperial civilization."
 pageTitle: '汉朝 Hàn cháo'
 pinyin: 'Hàn cháo'

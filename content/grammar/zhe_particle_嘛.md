@@ -4,7 +4,7 @@ category: 'grammar'
 status: 'complete'
 content_review: 'pending'
 title: '嘛 · the obvious-conclusion particle'
-desc: 'The particle that frames a statement as self-evident — explaining, justifying, or mildly exasperated that you even had to say it.'
+desc: 'The particle that frames a statement as self-evident: explaining, justifying, or mildly exasperated that you even had to say it.'
 metaDesc: "嘛 ma: the Mandarin sentence-final particle that marks a statement as an obvious conclusion. Usage patterns, tone, register notes, and contrast with 吧 and 呢."
 pageTitle: '嘛 ma'
 tags:

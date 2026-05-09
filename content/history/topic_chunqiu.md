@@ -3,9 +3,9 @@ type: 'topic'
 category: 'history'
 status: 'complete'
 content_review: 'pending'
-title: '春秋时代 · the Spring and Autumn Period — 722–481 BCE'
-desc: "The era named after a chronicle Confucius wrote about it — four centuries when Zhou ritual authority collapsed in practice while remaining indispensable in theory."
-metaDesc: "春秋时代 Chūnqiū Shídài: the Spring and Autumn Period 722–481 BCE — Zhou political fragmentation, the Five Hegemons 五霸, ritual collapse 礼崩乐坏, Confucius and his annals, and the Hundred Schools of Thought 百家争鸣."
+title: '春秋时代 · the Spring and Autumn Period (722–481 BCE)'
+desc: "The era named after a chronicle Confucius wrote about it: four centuries when Zhou ritual authority collapsed in practice while remaining indispensable in theory."
+metaDesc: "春秋时代 Chūnqiū Shídài: the Spring and Autumn Period 722–481 BCE. Zhou political fragmentation, the Five Hegemons 五霸, ritual collapse 礼崩乐坏, Confucius and his annals, and the Hundred Schools of Thought 百家争鸣."
 pageTitle: '春秋时代 Chūnqiū Shídài'
 tags:
   - 'history'

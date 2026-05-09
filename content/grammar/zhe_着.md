@@ -4,8 +4,8 @@ category: 'grammar'
 status: 'complete'
 content_review: 'pending'
 title: '着 · the continuous aspect marker'
-desc: 'Three distinct jobs: holding a state, linking two actions, and commanding attention — all from a single particle that beginners collapse into one.'
-metaDesc: "着 zhe: Mandarin's continuous aspect marker. Three uses — durative state (V+着), attendant circumstance (V1+着+V2), and imperative attention (你听着). Contrast with progressive 在+V and resultative 睡着了."
+desc: 'Three distinct jobs: holding a state, linking two actions, and commanding attention. All from a single particle that beginners collapse into one.'
+metaDesc: "着 zhe: Mandarin's continuous aspect marker. Three uses: durative state (V+着), attendant circumstance (V1+着+V2), and imperative attention (你听着). Contrast with progressive 在+V and resultative 睡着了."
 pageTitle: '着 zhe'
 tags:
   - 'aspect'

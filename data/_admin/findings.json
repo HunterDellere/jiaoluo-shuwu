@@ -1,7 +1,7 @@
 {
-  "generated": "2026-05-09T17:38:05.368Z",
+  "generated": "2026-05-09T17:42:32.018Z",
   "summary": {
-    "errors": 201,
+    "errors": 167,
     "warnings": 405,
     "info": 373
   },
@@ -3398,13 +3398,6 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
-      "level": "ERROR",
-      "category": "formatting",
-      "file": "content/grammar/rang_让.md",
-      "msg": "frontmatter 'desc' contains em-dash (—) — these surface in tooltips, search snippets, and card summaries",
-      "fix": "Rewrite frontmatter desc without em-dash. Use a comma, colon, parenthetical, or split into two sentences."
-    },
-    {
       "level": "WARN",
       "category": "formatting",
       "file": "content/grammar/rang_让.md",
@@ -3417,13 +3410,6 @@
       "file": "content/grammar/rang_让.md",
       "msg": "3 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
-    },
-    {
-      "level": "ERROR",
-      "category": "formatting",
-      "file": "content/grammar/ruguo_ji_如果就.md",
-      "msg": "frontmatter 'desc' contains em-dash (—) — these surface in tooltips, search snippets, and card summaries",
-      "fix": "Rewrite frontmatter desc without em-dash. Use a comma, colon, parenthetical, or split into two sentences."
     },
     {
       "level": "WARN",
@@ -3440,20 +3426,6 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
-      "level": "ERROR",
-      "category": "formatting",
-      "file": "content/grammar/shide_是的.md",
-      "msg": "frontmatter 'desc' contains em-dash (—) — these surface in tooltips, search snippets, and card summaries",
-      "fix": "Rewrite frontmatter desc without em-dash. Use a comma, colon, parenthetical, or split into two sentences."
-    },
-    {
-      "level": "ERROR",
-      "category": "formatting",
-      "file": "content/grammar/shide_是的.md",
-      "msg": "frontmatter 'metaDesc' contains em-dash (—) — these surface in tooltips, search snippets, and card summaries",
-      "fix": "Rewrite frontmatter metaDesc without em-dash. Use a comma, colon, parenthetical, or split into two sentences."
-    },
-    {
       "level": "WARN",
       "category": "formatting",
       "file": "content/grammar/shide_是的.md",
@@ -3468,13 +3440,6 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
-      "level": "ERROR",
-      "category": "formatting",
-      "file": "content/grammar/suiran_danshi_虽然但是.md",
-      "msg": "frontmatter 'desc' contains em-dash (—) — these surface in tooltips, search snippets, and card summaries",
-      "fix": "Rewrite frontmatter desc without em-dash. Use a comma, colon, parenthetical, or split into two sentences."
-    },
-    {
       "level": "WARN",
       "category": "formatting",
       "file": "content/grammar/suiran_danshi_虽然但是.md",
@@ -3487,13 +3452,6 @@
       "file": "content/grammar/suiran_danshi_虽然但是.md",
       "msg": "3 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
-    },
-    {
-      "level": "ERROR",
-      "category": "formatting",
-      "file": "content/grammar/suo_所.md",
-      "msg": "frontmatter 'desc' contains em-dash (—) — these surface in tooltips, search snippets, and card summaries",
-      "fix": "Rewrite frontmatter desc without em-dash. Use a comma, colon, parenthetical, or split into two sentences."
     },
     {
       "level": "WARN",
@@ -3503,13 +3461,6 @@
       "fix": "Rewrite to use commas, colons, parentheticals, or sentence splits. Keep em-dashes only for sharp interruptions a comma cannot carry."
     },
     {
-      "level": "ERROR",
-      "category": "formatting",
-      "file": "content/grammar/taiLe_太了.md",
-      "msg": "frontmatter 'desc' contains em-dash (—) — these surface in tooltips, search snippets, and card summaries",
-      "fix": "Rewrite frontmatter desc without em-dash. Use a comma, colon, parenthetical, or split into two sentences."
-    },
-    {
       "level": "WARN",
       "category": "formatting",
       "file": "content/grammar/taiLe_太了.md",
@@ -3524,25 +3475,11 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
-      "level": "ERROR",
-      "category": "formatting",
-      "file": "content/grammar/yibian_yibian_一边一边.md",
-      "msg": "frontmatter 'desc' contains em-dash (—) — these surface in tooltips, search snippets, and card summaries",
-      "fix": "Rewrite frontmatter desc without em-dash. Use a comma, colon, parenthetical, or split into two sentences."
-    },
-    {
       "level": "INFO",
       "category": "formatting",
       "file": "content/grammar/yibian_yibian_一边一边.md",
       "msg": "1 vocab card contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
-    },
-    {
-      "level": "ERROR",
-      "category": "formatting",
-      "file": "content/grammar/yijing_已经.md",
-      "msg": "frontmatter 'desc' contains em-dash (—) — these surface in tooltips, search snippets, and card summaries",
-      "fix": "Rewrite frontmatter desc without em-dash. Use a comma, colon, parenthetical, or split into two sentences."
     },
     {
       "level": "WARN",
@@ -3559,13 +3496,6 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
-      "level": "ERROR",
-      "category": "formatting",
-      "file": "content/grammar/yinwei_suoyi_因为所以.md",
-      "msg": "frontmatter 'desc' contains em-dash (—) — these surface in tooltips, search snippets, and card summaries",
-      "fix": "Rewrite frontmatter desc without em-dash. Use a comma, colon, parenthetical, or split into two sentences."
-    },
-    {
       "level": "WARN",
       "category": "formatting",
       "file": "content/grammar/yinwei_suoyi_因为所以.md",
@@ -3578,13 +3508,6 @@
       "file": "content/grammar/yinwei_suoyi_因为所以.md",
       "msg": "2 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
-    },
-    {
-      "level": "ERROR",
-      "category": "formatting",
-      "file": "content/grammar/yuelaiyue_越来越.md",
-      "msg": "frontmatter 'desc' contains em-dash (—) — these surface in tooltips, search snippets, and card summaries",
-      "fix": "Rewrite frontmatter desc without em-dash. Use a comma, colon, parenthetical, or split into two sentences."
     },
     {
       "level": "WARN",
@@ -3599,13 +3522,6 @@
       "file": "content/grammar/yuelaiyue_越来越.md",
       "msg": "3 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
-    },
-    {
-      "level": "ERROR",
-      "category": "formatting",
-      "file": "content/grammar/yuqi_buru_与其不如.md",
-      "msg": "frontmatter 'desc' contains em-dash (—) — these surface in tooltips, search snippets, and card summaries",
-      "fix": "Rewrite frontmatter desc without em-dash. Use a comma, colon, parenthetical, or split into two sentences."
     },
     {
       "level": "WARN",
@@ -3629,13 +3545,6 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
-      "level": "ERROR",
-      "category": "formatting",
-      "file": "content/grammar/zhe_particle_嘛.md",
-      "msg": "frontmatter 'desc' contains em-dash (—) — these surface in tooltips, search snippets, and card summaries",
-      "fix": "Rewrite frontmatter desc without em-dash. Use a comma, colon, parenthetical, or split into two sentences."
-    },
-    {
       "level": "WARN",
       "category": "formatting",
       "file": "content/grammar/zhe_particle_嘛.md",
@@ -3650,20 +3559,6 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
-      "level": "ERROR",
-      "category": "formatting",
-      "file": "content/grammar/zhe_着.md",
-      "msg": "frontmatter 'desc' contains em-dash (—) — these surface in tooltips, search snippets, and card summaries",
-      "fix": "Rewrite frontmatter desc without em-dash. Use a comma, colon, parenthetical, or split into two sentences."
-    },
-    {
-      "level": "ERROR",
-      "category": "formatting",
-      "file": "content/grammar/zhe_着.md",
-      "msg": "frontmatter 'metaDesc' contains em-dash (—) — these surface in tooltips, search snippets, and card summaries",
-      "fix": "Rewrite frontmatter metaDesc without em-dash. Use a comma, colon, parenthetical, or split into two sentences."
-    },
-    {
       "level": "WARN",
       "category": "formatting",
       "file": "content/grammar/zhe_着.md",
@@ -3676,13 +3571,6 @@
       "file": "content/grammar/zhe_着.md",
       "msg": "9 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
-    },
-    {
-      "level": "ERROR",
-      "category": "formatting",
-      "file": "content/grammar/zhi_之.md",
-      "msg": "frontmatter 'desc' contains em-dash (—) — these surface in tooltips, search snippets, and card summaries",
-      "fix": "Rewrite frontmatter desc without em-dash. Use a comma, colon, parenthetical, or split into two sentences."
     },
     {
       "level": "WARN",
@@ -3720,13 +3608,6 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
-      "level": "ERROR",
-      "category": "formatting",
-      "file": "content/grammar/zhiyou_cai_只有才.md",
-      "msg": "frontmatter 'desc' contains em-dash (—) — these surface in tooltips, search snippets, and card summaries",
-      "fix": "Rewrite frontmatter desc without em-dash. Use a comma, colon, parenthetical, or split into two sentences."
-    },
-    {
       "level": "INFO",
       "category": "formatting",
       "file": "content/grammar/zhiyou_cai_只有才.md",
@@ -3734,46 +3615,11 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
-      "level": "ERROR",
-      "category": "formatting",
-      "file": "content/history/topic_changcheng.md",
-      "msg": "frontmatter 'desc' contains em-dash (—) — these surface in tooltips, search snippets, and card summaries",
-      "fix": "Rewrite frontmatter desc without em-dash. Use a comma, colon, parenthetical, or split into two sentences."
-    },
-    {
-      "level": "ERROR",
-      "category": "formatting",
-      "file": "content/history/topic_changcheng.md",
-      "msg": "frontmatter 'metaDesc' contains em-dash (—) — these surface in tooltips, search snippets, and card summaries",
-      "fix": "Rewrite frontmatter metaDesc without em-dash. Use a comma, colon, parenthetical, or split into two sentences."
-    },
-    {
       "level": "WARN",
       "category": "formatting",
       "file": "content/history/topic_changcheng.md",
       "msg": "35 em-dashes in body prose (budget 3). Voice regression risk.",
       "fix": "Rewrite to use commas, colons, parentheticals, or sentence splits. Keep em-dashes only for sharp interruptions a comma cannot carry."
-    },
-    {
-      "level": "ERROR",
-      "category": "formatting",
-      "file": "content/history/topic_chunqiu.md",
-      "msg": "frontmatter 'desc' contains em-dash (—) — these surface in tooltips, search snippets, and card summaries",
-      "fix": "Rewrite frontmatter desc without em-dash. Use a comma, colon, parenthetical, or split into two sentences."
-    },
-    {
-      "level": "ERROR",
-      "category": "formatting",
-      "file": "content/history/topic_chunqiu.md",
-      "msg": "frontmatter 'metaDesc' contains em-dash (—) — these surface in tooltips, search snippets, and card summaries",
-      "fix": "Rewrite frontmatter metaDesc without em-dash. Use a comma, colon, parenthetical, or split into two sentences."
-    },
-    {
-      "level": "ERROR",
-      "category": "formatting",
-      "file": "content/history/topic_chunqiu.md",
-      "msg": "frontmatter 'title' contains em-dash (—) — these surface in tooltips, search snippets, and card summaries",
-      "fix": "Rewrite frontmatter title without em-dash. Use a comma, colon, parenthetical, or split into two sentences."
     },
     {
       "level": "WARN",
@@ -3790,13 +3636,6 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
-      "level": "ERROR",
-      "category": "formatting",
-      "file": "content/history/topic_gaige.md",
-      "msg": "frontmatter 'metaDesc' contains em-dash (—) — these surface in tooltips, search snippets, and card summaries",
-      "fix": "Rewrite frontmatter metaDesc without em-dash. Use a comma, colon, parenthetical, or split into two sentences."
-    },
-    {
       "level": "WARN",
       "category": "formatting",
       "file": "content/history/topic_gaige.md",
@@ -3811,20 +3650,6 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
-      "level": "ERROR",
-      "category": "formatting",
-      "file": "content/history/topic_hanchao.md",
-      "msg": "frontmatter 'desc' contains em-dash (—) — these surface in tooltips, search snippets, and card summaries",
-      "fix": "Rewrite frontmatter desc without em-dash. Use a comma, colon, parenthetical, or split into two sentences."
-    },
-    {
-      "level": "ERROR",
-      "category": "formatting",
-      "file": "content/history/topic_hanchao.md",
-      "msg": "frontmatter 'metaDesc' contains em-dash (—) — these surface in tooltips, search snippets, and card summaries",
-      "fix": "Rewrite frontmatter metaDesc without em-dash. Use a comma, colon, parenthetical, or split into two sentences."
-    },
-    {
       "level": "WARN",
       "category": "formatting",
       "file": "content/history/topic_hanchao.md",
@@ -3832,32 +3657,11 @@
       "fix": "Rewrite to use commas, colons, parentheticals, or sentence splits. Keep em-dashes only for sharp interruptions a comma cannot carry."
     },
     {
-      "level": "ERROR",
-      "category": "formatting",
-      "file": "content/history/topic_handai.md",
-      "msg": "frontmatter 'desc' contains em-dash (—) — these surface in tooltips, search snippets, and card summaries",
-      "fix": "Rewrite frontmatter desc without em-dash. Use a comma, colon, parenthetical, or split into two sentences."
-    },
-    {
       "level": "WARN",
       "category": "formatting",
       "file": "content/history/topic_handai.md",
       "msg": "27 em-dashes in body prose (budget 3). Voice regression risk.",
       "fix": "Rewrite to use commas, colons, parentheticals, or sentence splits. Keep em-dashes only for sharp interruptions a comma cannot carry."
-    },
-    {
-      "level": "ERROR",
-      "category": "formatting",
-      "file": "content/history/topic_keju.md",
-      "msg": "frontmatter 'desc' contains em-dash (—) — these surface in tooltips, search snippets, and card summaries",
-      "fix": "Rewrite frontmatter desc without em-dash. Use a comma, colon, parenthetical, or split into two sentences."
-    },
-    {
-      "level": "ERROR",
-      "category": "formatting",
-      "file": "content/history/topic_keju.md",
-      "msg": "frontmatter 'metaDesc' contains em-dash (—) — these surface in tooltips, search snippets, and card summaries",
-      "fix": "Rewrite frontmatter metaDesc without em-dash. Use a comma, colon, parenthetical, or split into two sentences."
     },
     {
       "level": "WARN",
@@ -3881,13 +3685,6 @@
       "fix": "Rewrite to use commas, colons, parentheticals, or sentence splits. Keep em-dashes only for sharp interruptions a comma cannot carry."
     },
     {
-      "level": "ERROR",
-      "category": "formatting",
-      "file": "content/history/topic_qin_shihuang.md",
-      "msg": "frontmatter 'metaDesc' contains em-dash (—) — these surface in tooltips, search snippets, and card summaries",
-      "fix": "Rewrite frontmatter metaDesc without em-dash. Use a comma, colon, parenthetical, or split into two sentences."
-    },
-    {
       "level": "WARN",
       "category": "formatting",
       "file": "content/history/topic_qin_shihuang.md",
@@ -3909,46 +3706,11 @@
       "fix": "Rewrite to use commas, colons, parentheticals, or sentence splits. Keep em-dashes only for sharp interruptions a comma cannot carry."
     },
     {
-      "level": "ERROR",
-      "category": "formatting",
-      "file": "content/history/topic_songchao.md",
-      "msg": "frontmatter 'desc' contains em-dash (—) — these surface in tooltips, search snippets, and card summaries",
-      "fix": "Rewrite frontmatter desc without em-dash. Use a comma, colon, parenthetical, or split into two sentences."
-    },
-    {
-      "level": "ERROR",
-      "category": "formatting",
-      "file": "content/history/topic_songchao.md",
-      "msg": "frontmatter 'metaDesc' contains em-dash (—) — these surface in tooltips, search snippets, and card summaries",
-      "fix": "Rewrite frontmatter metaDesc without em-dash. Use a comma, colon, parenthetical, or split into two sentences."
-    },
-    {
       "level": "WARN",
       "category": "formatting",
       "file": "content/history/topic_songchao.md",
       "msg": "6 em-dashes in body prose (budget 3). Voice regression risk.",
       "fix": "Rewrite to use commas, colons, parentheticals, or sentence splits. Keep em-dashes only for sharp interruptions a comma cannot carry."
-    },
-    {
-      "level": "ERROR",
-      "category": "formatting",
-      "file": "content/history/topic_taiping.md",
-      "msg": "frontmatter 'desc' contains em-dash (—) — these surface in tooltips, search snippets, and card summaries",
-      "fix": "Rewrite frontmatter desc without em-dash. Use a comma, colon, parenthetical, or split into two sentences."
-    },
-    {
-      "level": "ERROR",
-      "category": "formatting",
-      "file": "content/history/topic_tangchao.md",
-      "msg": "frontmatter 'desc' contains em-dash (—) — these surface in tooltips, search snippets, and card summaries",
-      "fix": "Rewrite frontmatter desc without em-dash. Use a comma, colon, parenthetical, or split into two sentences."
-    },
-    {
-      "level": "ERROR",
-      "category": "formatting",
-      "file": "content/history/topic_tangchao.md",
-      "msg": "frontmatter 'metaDesc' contains em-dash (—) — these surface in tooltips, search snippets, and card summaries",
-      "fix": "Rewrite frontmatter metaDesc without em-dash. Use a comma, colon, parenthetical, or split into two sentences."
     },
     {
       "level": "WARN",

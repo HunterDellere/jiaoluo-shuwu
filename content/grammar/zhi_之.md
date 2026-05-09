@@ -3,7 +3,7 @@ type: 'grammar'
 category: 'grammar'
 status: 'complete'
 title: '之 · classical genitive, nominalizer, and pronoun'
-desc: 'The single character that does the work of three English words — of, it, and the one who — and still shows up in modern Chinese every day.'
+desc: 'The single character that does the work of three English words (of, it, and the one who) and still shows up in modern Chinese every day.'
 metaDesc: "之 zhī: classical Chinese genitive particle, third-person pronoun, and nominalizer. The backbone of literary Chinese, still alive in modern set phrases, formal writing, and chengyu."
 pageTitle: '之 zhī'
 tags:
@@ -20,7 +20,7 @@ related:
   - 'characters/zhi1_之'
 faq:
   - q: "What does 之 mean in classical Chinese?"
-    a: "之 zhī is one of the most versatile particles in classical Chinese. It does the work of three English words at once: the genitive particle 'of' (王之子 — the king's son), a third-person object pronoun 'him / her / it / them' (爱之 — loves them), and a nominaliser that turns a clause into a noun phrase. It is the single most common function word in literary Chinese."
+    a: "之 zhī is one of the most versatile particles in classical Chinese. It does the work of three English words at once: the genitive particle 'of' (王之子, the king's son), a third-person object pronoun 'him / her / it / them' (爱之, loves them), and a nominaliser that turns a clause into a noun phrase. It is the single most common function word in literary Chinese."
   - q: "How is 之 used as a possessive particle?"
     a: "When 之 stands between two noun phrases, it marks possession or attribution exactly like the modern 的: A 之 B = B of A. 君子之道 = the way of the gentleman. 天地之间 = between heaven and earth. The construction is more compressed and more formal than 的, and it is still alive in modern set phrases, formal writing, titles of books, and chengyu."
   - q: "Is 之 still used in modern Chinese?"
