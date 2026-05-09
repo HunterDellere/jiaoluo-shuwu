@@ -2,9 +2,9 @@
 type: 'topic'
 category: 'arts'
 status: 'complete'
-title: '山水画 · landscape painting — mountains and water'
-desc: "Chinese landscape painting encodes a theory in its name: 山 (mountain, yang, permanent) and 水 (water, yin, changing) in dynamic tension — a space to inhabit in the imagination, not a view to frame."
-metaDesc: "山水画 shānshuǐhuà is the Chinese landscape painting tradition — built on the interplay of mountain and water, brush technique, negative space, and the literati ideal of painting as self-expression."
+title: '山水画 · landscape painting'
+desc: "Chinese landscape painting encodes a theory in its name: 山 (mountain, yang, permanent) and 水 (water, yin, changing) in dynamic tension. A space to inhabit in the imagination, not a view to frame."
+metaDesc: "山水画 shānshuǐhuà is the Chinese landscape painting tradition, built on the interplay of mountain and water, brush technique, negative space, and the literati ideal of painting as self-expression."
 pageTitle: '山水画 shānshuǐhuà'
 tags:
   - 'arts'

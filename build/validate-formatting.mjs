@@ -123,7 +123,40 @@ for (const pageFull of walkPages(PAGES)) {
     }
   }
 
-  // ── 6. Card examples: Chinese text without pinyin sibling ────────────────
+  // ── 6. Em-dash hygiene ───────────────────────────────────────────────────
+  // Em-dashes in tooltip/summary fields (frontmatter desc/metaDesc/title/pageTitle)
+  // are visible in Google search snippets, social shares, and homepage cards. They
+  // should be zero. Body prose has a per-page budget — many em-dashes in body =
+  // voice regression even after the 2026-04 rewrite pass.
+  const FRONTMATTER_TEXT_FIELDS = ['desc', 'metaDesc', 'title', 'pageTitle'];
+  for (const field of FRONTMATTER_TEXT_FIELDS) {
+    const v = fm[field];
+    if (typeof v === 'string' && v.includes('—')) {
+      emit('ERROR', relFile,
+        `frontmatter '${field}' contains em-dash (—) — these surface in tooltips, search snippets, and card summaries`,
+        { fix: `Rewrite frontmatter ${field} without em-dash. Use a comma, colon, parenthetical, or split into two sentences.` });
+    }
+  }
+
+  // Body em-dash budget: count em-dashes in user-authored prose. Allow a small
+  // budget per page (3) before warning. Never count em-dashes inside section
+  // header glosses (.sh-en), card glosses (.card-en, .cy-en), or example
+  // annotation lines, which use em-dash as a deliberate gloss separator.
+  const bodyForCount = src
+    .replace(/^---[\s\S]*?\n---\n/, '')                       // strip frontmatter
+    .replace(/<span class="sh-en">[\s\S]*?<\/span>/g, '')     // strip section gloss
+    .replace(/<span class="card-en">[\s\S]*?<\/span>/g, '')   // strip card gloss
+    .replace(/<span class="cy-en">[\s\S]*?<\/span>/g, '')     // strip chengyu gloss
+    .replace(/<span class="a-en">[\s\S]*?<\/span>/g, '');     // strip adj chip gloss
+  const emDashCount = (bodyForCount.match(/—/g) || []).length;
+  const EM_DASH_BUDGET = 3;
+  if (emDashCount > EM_DASH_BUDGET) {
+    emit('WARN', relFile,
+      `${emDashCount} em-dashes in body prose (budget ${EM_DASH_BUDGET}). Voice regression risk.`,
+      { fix: `Rewrite to use commas, colons, parentheticals, or sentence splits. Keep em-dashes only for sharp interruptions a comma cannot carry.` });
+  }
+
+  // ── 7. Card examples: Chinese text without pinyin sibling ────────────────
   // Look for .card elements that contain CJK characters but no .card-py or
   // .card-rd span. This is a common authoring gap.
   const cardRe = /<(?:div|article)[^>]*class="card[^"]*"[^>]*>([\s\S]*?)<\/(?:div|article)>/g;

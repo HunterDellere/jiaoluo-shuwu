@@ -4,7 +4,7 @@ category: 'arts'
 status: 'complete'
 content_review: 'pending'
 title: '鲁迅 · Lu Xun'
-desc: 'The writer who looked at traditional Chinese society and saw cannibalism — and the complicated, unresolvable legacy he left behind.'
+desc: 'The writer who looked at traditional Chinese society and saw cannibalism, and the complicated, unresolvable legacy he left behind.'
 metaDesc: "鲁迅 Lu Xun: the father of modern Chinese literature, the medical school turning point, A Madman Diary, The True Story of Ah Q, the concept of chi ren man-eating, and his relationship with the Communist Party."
 pageTitle: '鲁迅 Lǔ Xùn'
 tags:

@@ -6,7 +6,15 @@
     <atom:link href="https://jiaoshoo.com/feed.xml" rel="self" type="application/rss+xml" />
     <description>Notes on Chinese language and civilisation — characters, vocabulary, grammar, history, philosophy, and the world they shaped.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 09 May 2026 00:47:21 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2026 16:41:09 GMT</lastBuildDate>
+    <item>
+      <title>命 · life, fate, command</title>
+      <link>https://jiaoshoo.com/pages/characters/ming4_命.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/ming4_命.html</guid>
+      <pubDate>Sat, 09 May 2026 00:00:00 GMT</pubDate>
+      <description>A mouth speaking an order: 令 above, 口 inside. The character that holds together three of the heaviest words in Chinese — life, destiny, and the command from above.</description>
+      <category>characters</category>
+    </item>
     <item>
       <title>跨 · to stride; to span; to bestride</title>
       <link>https://jiaoshoo.com/pages/characters/kua4_跨.html</link>
@@ -164,7 +172,7 @@
       <link>https://jiaoshoo.com/pages/arts/topic_shufa_styles.html</link>
       <guid isPermaLink="true">https://jiaoshoo.com/pages/arts/topic_shufa_styles.html</guid>
       <pubDate>Sun, 26 Apr 2026 00:00:00 GMT</pubDate>
-      <description>Five script styles chart two thousand years of Chinese writing — from the solemn bronze inscriptions of the Zhou to the explosive cursive of the Tang masters.</description>
+      <description>Five script styles chart two thousand years of Chinese writing, from the solemn bronze inscriptions of the Zhou to the explosive cursive of the Tang masters.</description>
       <category>arts</category>
     </item>
     <item>
@@ -237,14 +245,6 @@
       <guid isPermaLink="true">https://jiaoshoo.com/pages/vocab/zhengzai_正在.html</guid>
       <pubDate>Sun, 26 Apr 2026 00:00:00 GMT</pubDate>
       <description>The primary progressive marker in Mandarin -- placed before a verb to signal an action caught in mid-motion, exactly now, still in progress.</description>
-      <category>vocab</category>
-    </item>
-    <item>
-      <title>中文 · Chinese Language and Writing</title>
-      <link>https://jiaoshoo.com/pages/vocab/zhongguo_zhongwen_中文.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/vocab/zhongguo_zhongwen_中文.html</guid>
-      <pubDate>Sun, 26 Apr 2026 00:00:00 GMT</pubDate>
-      <description>中文 names both the written script and the spoken language — the most common term among learners — but it sits alongside 汉语, 普通话, and 汉字 in a system of names that carries real distinctions.</description>
       <category>vocab</category>
     </item>
   </channel>

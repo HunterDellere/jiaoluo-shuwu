@@ -3,7 +3,7 @@ type: 'character'
 category: 'characters'
 status: 'complete'
 title: '爱 · love, to love, to cherish'
-desc: 'Love in all its forms — romantic, familial, and the Confucian ethic of universal benevolence.'
+desc: 'Love in all its forms: romantic, familial, and the Confucian ethic of universal benevolence.'
 metaDesc: "爱 ài: love, to love, to cherish. Etymology, simplified vs. traditional form, 爱 vs. 喜欢, romantic and familial compounds, the Confucian concept of 仁, and chengyu."
 pageTitle: '爱 ài'
 tags:

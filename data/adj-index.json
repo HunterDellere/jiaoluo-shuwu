@@ -3,12 +3,13 @@
     "cn": "道",
     "py": "dào",
     "en": "the Way; path; principle",
-    "count": 22,
+    "count": 23,
     "appearsOn": [
       "pages/characters/bian4_变.html",
       "pages/characters/de2_德.html",
       "pages/characters/fo2_佛.html",
       "pages/characters/lu4_路.html",
+      "pages/characters/ming4_命.html",
       "pages/characters/shen2_神.html",
       "pages/characters/wan4_万.html",
       "pages/characters/wu2_无.html",
@@ -86,6 +87,27 @@
     ],
     "hasPage": true
   },
+  "天": {
+    "cn": "天",
+    "py": "tiān",
+    "en": "heaven; sky; day",
+    "count": 12,
+    "appearsOn": [
+      "pages/characters/di4_地.html",
+      "pages/characters/kong1_空.html",
+      "pages/characters/lei2_雷.html",
+      "pages/characters/long2_龙.html",
+      "pages/characters/ming4_命.html",
+      "pages/characters/ri4_日.html",
+      "pages/characters/shi2_时.html",
+      "pages/characters/yun2_云.html",
+      "pages/vocab/shenming_神明.html",
+      "pages/vocab/tiandi_天地.html",
+      "pages/vocab/tianren_天人.html",
+      "pages/vocab/ziran_自然.html"
+    ],
+    "hasPage": true
+  },
   "智": {
     "cn": "智",
     "py": "zhì",
@@ -144,26 +166,6 @@
       "pages/religion/topic_rujia.html",
       "pages/vocab/qianxu_谦虚.html",
       "pages/vocab/ren2_仁.html"
-    ],
-    "hasPage": true
-  },
-  "天": {
-    "cn": "天",
-    "py": "tiān",
-    "en": "heaven; sky; day",
-    "count": 11,
-    "appearsOn": [
-      "pages/characters/di4_地.html",
-      "pages/characters/kong1_空.html",
-      "pages/characters/lei2_雷.html",
-      "pages/characters/long2_龙.html",
-      "pages/characters/ri4_日.html",
-      "pages/characters/shi2_时.html",
-      "pages/characters/yun2_云.html",
-      "pages/vocab/shenming_神明.html",
-      "pages/vocab/tiandi_天地.html",
-      "pages/vocab/tianren_天人.html",
-      "pages/vocab/ziran_自然.html"
     ],
     "hasPage": true
   },
@@ -1016,6 +1018,21 @@
     ],
     "hasPage": true
   },
+  "缘分": {
+    "cn": "缘分",
+    "py": "yuánfèn",
+    "en": "karmic connection; fate",
+    "count": 6,
+    "appearsOn": [
+      "pages/characters/fo2_佛.html",
+      "pages/characters/ming4_命.html",
+      "pages/vocab/lunhui_轮回.html",
+      "pages/vocab/mingyun_命运.html",
+      "pages/vocab/tianming_天命.html",
+      "pages/vocab/yuanfen_缘分.html"
+    ],
+    "hasPage": true
+  },
   "长城": {
     "cn": "长城",
     "py": "Chángchéng",
@@ -1202,6 +1219,20 @@
     ],
     "hasPage": true
   },
+  "轮回": {
+    "cn": "轮回",
+    "py": "lúnhuí",
+    "en": "samsara; cycle of rebirth",
+    "count": 5,
+    "appearsOn": [
+      "pages/characters/fo2_佛.html",
+      "pages/characters/ming4_命.html",
+      "pages/religion/topic_fojiao.html",
+      "pages/vocab/pusa_菩萨.html",
+      "pages/vocab/yuanfen_缘分.html"
+    ],
+    "hasPage": true
+  },
   "没有": {
     "cn": "没有",
     "py": "méiyǒu",
@@ -1353,20 +1384,6 @@
       "pages/characters/shui3_水.html",
       "pages/characters/yun2_云.html",
       "pages/vocab/ziran_自然.html"
-    ],
-    "hasPage": true
-  },
-  "缘分": {
-    "cn": "缘分",
-    "py": "yuánfèn",
-    "en": "karmic connection; fate",
-    "count": 5,
-    "appearsOn": [
-      "pages/characters/fo2_佛.html",
-      "pages/vocab/lunhui_轮回.html",
-      "pages/vocab/mingyun_命运.html",
-      "pages/vocab/tianming_天命.html",
-      "pages/vocab/yuanfen_缘分.html"
     ],
     "hasPage": true
   },
@@ -1710,19 +1727,6 @@
     ],
     "hasPage": true
   },
-  "轮回": {
-    "cn": "轮回",
-    "py": "lúnhuí",
-    "en": "samsara; cycle of rebirth",
-    "count": 4,
-    "appearsOn": [
-      "pages/characters/fo2_佛.html",
-      "pages/religion/topic_fojiao.html",
-      "pages/vocab/pusa_菩萨.html",
-      "pages/vocab/yuanfen_缘分.html"
-    ],
-    "hasPage": true
-  },
   "美": {
     "cn": "美",
     "py": "měi",
@@ -1811,6 +1815,19 @@
       "pages/characters/long2_龙.html",
       "pages/history/topic_qingchao.html",
       "pages/history/topic_taiping.html"
+    ],
+    "hasPage": true
+  },
+  "人生": {
+    "cn": "人生",
+    "py": "rénshēng",
+    "en": "human life",
+    "count": 4,
+    "appearsOn": [
+      "pages/characters/ming4_命.html",
+      "pages/characters/sheng1_生.html",
+      "pages/vocab/liangxin_良心.html",
+      "pages/vocab/zhihui_智慧.html"
     ],
     "hasPage": true
   },
@@ -2472,6 +2489,18 @@
     ],
     "hasPage": true
   },
+  "皇帝": {
+    "cn": "皇帝",
+    "py": "huángdì",
+    "en": "emperor",
+    "count": 3,
+    "appearsOn": [
+      "pages/characters/long2_龙.html",
+      "pages/characters/ming4_命.html",
+      "pages/vocab/jiangshan_江山.html"
+    ],
+    "hasPage": false
+  },
   "回来": {
     "cn": "回来",
     "py": "huílái",
@@ -2808,18 +2837,6 @@
     ],
     "hasPage": true
   },
-  "人生": {
-    "cn": "人生",
-    "py": "rénshēng",
-    "en": "one's life journey",
-    "count": 3,
-    "appearsOn": [
-      "pages/characters/sheng1_生.html",
-      "pages/vocab/liangxin_良心.html",
-      "pages/vocab/zhihui_智慧.html"
-    ],
-    "hasPage": true
-  },
   "儒家": {
     "cn": "儒家",
     "py": "Rújiā",
@@ -2868,6 +2885,18 @@
     ],
     "hasPage": false
   },
+  "生": {
+    "cn": "生",
+    "py": "shēng",
+    "en": "life, birth, raw, student",
+    "count": 3,
+    "appearsOn": [
+      "pages/characters/chu1_出.html",
+      "pages/characters/ming4_命.html",
+      "pages/characters/si3_死.html"
+    ],
+    "hasPage": true
+  },
   "诗": {
     "cn": "诗",
     "py": "shī",
@@ -2913,6 +2942,18 @@
       "pages/characters/jiao3_脚.html",
       "pages/characters/mu4_目.html",
       "pages/characters/zu2_足.html"
+    ],
+    "hasPage": true
+  },
+  "死": {
+    "cn": "死",
+    "py": "sǐ",
+    "en": "death (white = mourning color)",
+    "count": 3,
+    "appearsOn": [
+      "pages/characters/bai2_白.html",
+      "pages/characters/ming4_命.html",
+      "pages/characters/sheng1_生.html"
     ],
     "hasPage": true
   },
@@ -3299,6 +3340,18 @@
       "pages/vocab/bijiao_比较.html"
     ],
     "hasPage": true
+  },
+  "运气": {
+    "cn": "运气",
+    "py": "yùnqi",
+    "en": "luck; fortune in motion",
+    "count": 3,
+    "appearsOn": [
+      "pages/characters/fu2_福.html",
+      "pages/characters/ming4_命.html",
+      "pages/vocab/mingyun_命运.html"
+    ],
+    "hasPage": false
   },
   "长江": {
     "cn": "长江",
@@ -4866,17 +4919,6 @@
     ],
     "hasPage": false
   },
-  "皇帝": {
-    "cn": "皇帝",
-    "py": "huángdì",
-    "en": "emperor",
-    "count": 2,
-    "appearsOn": [
-      "pages/characters/long2_龙.html",
-      "pages/vocab/jiangshan_江山.html"
-    ],
-    "hasPage": false
-  },
   "黄河": {
     "cn": "黄河",
     "py": "Huáng Hé",
@@ -6175,17 +6217,6 @@
     ],
     "hasPage": false
   },
-  "生": {
-    "cn": "生",
-    "py": "shēng",
-    "en": "life, birth, raw, student",
-    "count": 2,
-    "appearsOn": [
-      "pages/characters/chu1_出.html",
-      "pages/characters/si3_死.html"
-    ],
-    "hasPage": true
-  },
   "生产": {
     "cn": "生产",
     "py": "shēngchǎn",
@@ -6207,6 +6238,17 @@
       "pages/vocab/jingju_京剧.html"
     ],
     "hasPage": true
+  },
+  "生活": {
+    "cn": "生活",
+    "py": "shēnghuó",
+    "en": "daily life; way of living",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/ming4_命.html",
+      "pages/vocab/rensheng_人生.html"
+    ],
+    "hasPage": false
   },
   "生日": {
     "cn": "生日",
@@ -6447,17 +6489,6 @@
     "appearsOn": [
       "pages/characters/xiang3_想.html",
       "pages/characters/xin1_心.html"
-    ],
-    "hasPage": true
-  },
-  "死": {
-    "cn": "死",
-    "py": "sǐ",
-    "en": "death (white = mourning color)",
-    "count": 2,
-    "appearsOn": [
-      "pages/characters/bai2_白.html",
-      "pages/characters/sheng1_生.html"
     ],
     "hasPage": true
   },
@@ -7601,17 +7632,6 @@
     "appearsOn": [
       "pages/characters/ke3_可.html",
       "pages/grammar/hui_neng_keyi_会能可以.html"
-    ],
-    "hasPage": false
-  },
-  "运气": {
-    "cn": "运气",
-    "py": "yùnqi",
-    "en": "luck; fortune in motion",
-    "count": 2,
-    "appearsOn": [
-      "pages/characters/fu2_福.html",
-      "pages/vocab/mingyun_命运.html"
     ],
     "hasPage": false
   },
@@ -14943,7 +14963,7 @@
     "appearsOn": [
       "pages/characters/sheng1_生.html"
     ],
-    "hasPage": false
+    "hasPage": true
   },
   "命苦": {
     "cn": "命苦",
@@ -16892,16 +16912,6 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/sheng1_生.html"
-    ],
-    "hasPage": false
-  },
-  "生活": {
-    "cn": "生活",
-    "py": "shēnghuó",
-    "en": "daily life; livelihood",
-    "count": 1,
-    "appearsOn": [
-      "pages/vocab/rensheng_人生.html"
     ],
     "hasPage": false
   },
@@ -21305,6 +21315,16 @@
     ],
     "hasPage": false
   },
+  "运": {
+    "cn": "运",
+    "py": "yùn",
+    "en": "fortune; movement; transport",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/ming4_命.html"
+    ],
+    "hasPage": false
+  },
   "韵律": {
     "cn": "韵律",
     "py": "yùnlǜ",
@@ -21582,6 +21602,16 @@
     "count": 1,
     "appearsOn": [
       "pages/religion/topic_daojiao.html"
+    ],
+    "hasPage": false
+  },
+  "长寿": {
+    "cn": "长寿",
+    "py": "chángshòu",
+    "en": "longevity; long life",
+    "count": 1,
+    "appearsOn": [
+      "pages/characters/ming4_命.html"
     ],
     "hasPage": false
   },

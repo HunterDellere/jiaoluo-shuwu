@@ -1,5 +1,26 @@
 [
   {
+    "path": "pages/characters/ming4_命.html",
+    "type": "character",
+    "category": "characters",
+    "title": "命 · life, fate, command",
+    "desc": "A mouth speaking an order: 令 above, 口 inside. The character that holds together three of the heaviest words in Chinese — life, destiny, and the command from above.",
+    "tags": [
+      "philosophy",
+      "fate",
+      "life",
+      "classical",
+      "ethics"
+    ],
+    "status": "complete",
+    "char": "命",
+    "pinyin": "mìng",
+    "tone": 4,
+    "hsk": 4,
+    "radical": "口",
+    "updated": "2026-05-09"
+  },
+  {
     "path": "pages/characters/kua4_跨.html",
     "type": "character",
     "category": "characters",
@@ -360,7 +381,7 @@
     "type": "topic",
     "category": "arts",
     "title": "书法风格 · The Five Scripts of Chinese Calligraphy",
-    "desc": "Five script styles chart two thousand years of Chinese writing — from the solemn bronze inscriptions of the Zhou to the explosive cursive of the Tang masters.",
+    "desc": "Five script styles chart two thousand years of Chinese writing, from the solemn bronze inscriptions of the Zhou to the explosive cursive of the Tang masters.",
     "tags": [
       "calligraphy",
       "arts",
@@ -578,8 +599,8 @@
     "path": "pages/arts/topic_guqin.html",
     "type": "topic",
     "category": "arts",
-    "title": "古琴 · the guqin zither — the scholar's instrument",
-    "desc": "The seven-string zither Confucius played throughout his life — and the origin of 知音, the word for a person who truly understands you.",
+    "title": "古琴 · the scholar's zither",
+    "desc": "The seven-string zither Confucius played throughout his life, and the origin of 知音, the word for a person who truly understands you.",
     "tags": [
       "arts",
       "music",
@@ -595,8 +616,8 @@
     "path": "pages/arts/topic_shanshui.html",
     "type": "topic",
     "category": "arts",
-    "title": "山水画 · landscape painting — mountains and water",
-    "desc": "Chinese landscape painting encodes a theory in its name: 山 (mountain, yang, permanent) and 水 (water, yin, changing) in dynamic tension — a space to inhabit in the imagination, not a view to frame.",
+    "title": "山水画 · landscape painting",
+    "desc": "Chinese landscape painting encodes a theory in its name: 山 (mountain, yang, permanent) and 水 (water, yin, changing) in dynamic tension. A space to inhabit in the imagination, not a view to frame.",
     "tags": [
       "arts",
       "nature",
@@ -634,7 +655,7 @@
     "type": "character",
     "category": "characters",
     "title": "百 · hundred; all kinds of",
-    "desc": "百姓 — the hundred surnames — is classical Chinese for the common people, because the full range of ordinary family names stands in for everyone who is not nobility.",
+    "desc": "百姓, the hundred surnames, is classical Chinese for the common people, because the full range of ordinary family names stands in for everyone who is not nobility.",
     "tags": [
       "scale",
       "language",
@@ -653,7 +674,7 @@
     "type": "character",
     "category": "characters",
     "title": "北 · north; northern; to flee",
-    "desc": "Two people standing back-to-back — the direction of cold and turning away that became the name of China's capital.",
+    "desc": "Two people standing back-to-back: the direction of cold and turning away that became the name of China's capital.",
     "tags": [
       "directions",
       "nature",
@@ -672,7 +693,7 @@
     "type": "character",
     "category": "characters",
     "title": "必 · certainly; must; necessarily",
-    "desc": "A character rooted in the image of a blade that divides without exception — certainty as the sharpness that leaves no room for maybe.",
+    "desc": "A character rooted in the image of a blade that divides without exception: certainty as the sharpness that leaves no room for maybe.",
     "tags": [
       "grammar",
       "modal",
@@ -694,7 +715,7 @@
     "type": "character",
     "category": "characters",
     "title": "出 · to exit, to emerge, to produce",
-    "desc": "出 is two plants growing upward out of the earth — emergence itself written as a glyph, from physical exits to publication to standing out from the crowd.",
+    "desc": "出 is two plants growing upward out of the earth: emergence itself written as a glyph, from physical exits to publication to standing out from the crowd.",
     "tags": [
       "motion",
       "direction",
@@ -3406,7 +3427,7 @@
     "type": "topic",
     "category": "arts",
     "title": "楚辞 · Songs of Chu",
-    "desc": "The shamanistic southern voice that gave Chinese literature its second pole — visionary, romantic, and inconsolably exiled.",
+    "desc": "The shamanistic southern voice that gave Chinese literature its second pole: visionary, romantic, and inconsolably exiled.",
     "tags": [
       "poetry",
       "literature",
@@ -3423,7 +3444,7 @@
     "type": "topic",
     "category": "arts",
     "title": "昆曲 · Kun Opera",
-    "desc": "The oldest surviving form of Chinese opera — refined to such perfection over four centuries that it nearly disappeared from its own beauty.",
+    "desc": "The oldest surviving form of Chinese opera, refined to such perfection over four centuries that it nearly disappeared from its own beauty.",
     "tags": [
       "opera",
       "theatre",
@@ -3442,7 +3463,7 @@
     "type": "topic",
     "category": "arts",
     "title": "鲁迅 · Lu Xun",
-    "desc": "The writer who looked at traditional Chinese society and saw cannibalism — and the complicated, unresolvable legacy he left behind.",
+    "desc": "The writer who looked at traditional Chinese society and saw cannibalism, and the complicated, unresolvable legacy he left behind.",
     "tags": [
       "literature",
       "history",
@@ -3459,7 +3480,7 @@
     "type": "topic",
     "category": "arts",
     "title": "诗经 · Book of Songs",
-    "desc": "China oldest poetry anthology — three hundred poems that Confucius said no educated person could afford to ignore.",
+    "desc": "China oldest poetry anthology: three hundred poems that Confucius said no educated person could afford to ignore.",
     "tags": [
       "poetry",
       "literature",
@@ -3476,7 +3497,7 @@
     "type": "topic",
     "category": "arts",
     "title": "水墨画 · Ink-Wash Painting",
-    "desc": "Where the brush meets philosophy — five tones of ink, the art of leaving space, and landscapes that are not about landscape at all.",
+    "desc": "Where the brush meets philosophy: five tones of ink, the art of leaving space, and landscapes that are not about landscape at all.",
     "tags": [
       "art",
       "brush",
@@ -3494,7 +3515,7 @@
     "type": "topic",
     "category": "arts",
     "title": "宋词 · Song Dynasty Lyric",
-    "desc": "The poem that sings — fixed tune patterns, named meters, and three masters who defined what the Chinese lyric could feel.",
+    "desc": "The poem that sings: fixed tune patterns, named meters, and three masters who defined what the Chinese lyric could feel.",
     "tags": [
       "poetry",
       "literature",
@@ -3530,7 +3551,7 @@
     "type": "topic",
     "category": "arts",
     "title": "篆刻 · Seal Carving",
-    "desc": "The art of the name — bronze to stone, dynasty to dynasty, two schools of carvers, and the small red square that authenticates everything.",
+    "desc": "The art of the name: bronze to stone, dynasty to dynasty, two schools of carvers, and the small red square that authenticates everything.",
     "tags": [
       "calligraphy",
       "art",
@@ -3548,7 +3569,7 @@
     "type": "character",
     "category": "characters",
     "title": "爱 · love, to love, to cherish",
-    "desc": "Love in all its forms — romantic, familial, and the Confucian ethic of universal benevolence.",
+    "desc": "Love in all its forms: romantic, familial, and the Confucian ethic of universal benevolence.",
     "tags": [
       "emotion",
       "romance",
@@ -3567,7 +3588,7 @@
     "type": "character",
     "category": "characters",
     "title": "变 · to change, to transform",
-    "desc": "The character at the heart of the I Ching, the dynastic cycle, and the modern vocabulary of reform — change as the one constant.",
+    "desc": "The character at the heart of the I Ching, the dynastic cycle, and the modern vocabulary of reform: change as the one constant.",
     "tags": [
       "philosophy",
       "change"
@@ -3604,7 +3625,7 @@
     "type": "character",
     "category": "characters",
     "title": "茶 · tea",
-    "desc": "The character that gave the world its word for tea — a grass over wood over man, a plant that shaped civilization, and the locus of China's richest material culture.",
+    "desc": "The character that gave the world its word for tea: a grass over wood over man, a plant that shaped civilization, and the locus of China's richest material culture.",
     "tags": [
       "tea",
       "culture",
@@ -3624,7 +3645,7 @@
     "type": "character",
     "category": "characters",
     "title": "长 · long; to grow; chief",
-    "desc": "A person with flowing long hair — one character, two readings: cháng (long) and zhǎng (to grow, elder), the richest dual-reading in Mandarin.",
+    "desc": "A person with flowing long hair. One character, two readings: cháng (long) and zhǎng (to grow, elder), the richest dual-reading in Mandarin.",
     "tags": [
       "grammar",
       "culture",
@@ -3643,7 +3664,7 @@
     "type": "character",
     "category": "characters",
     "title": "吃 · to eat",
-    "desc": "To eat — and the extraordinary range of Chinese life encoded in a single food verb.",
+    "desc": "To eat, and the extraordinary range of Chinese life encoded in a single food verb.",
     "tags": [
       "food",
       "daily-life",
@@ -3662,7 +3683,7 @@
     "type": "character",
     "category": "characters",
     "title": "打 · to hit, to strike; the most versatile verb in Mandarin",
-    "desc": "To hit — and a hundred extensions: make a call, play a sport, pack a bag, get an injection. The most productive light verb in Chinese.",
+    "desc": "To hit, and a hundred extensions: make a call, play a sport, pack a bag, get an injection. The most productive light verb in Chinese.",
     "tags": [
       "daily-life",
       "grammar",
@@ -3681,7 +3702,7 @@
     "type": "character",
     "category": "characters",
     "title": "大 · big, great, large",
-    "desc": "Big, great, large — a person with arms wide open, the original measure of magnitude.",
+    "desc": "Big, great, large: a person with arms wide open, the original measure of magnitude.",
     "tags": [
       "cosmology",
       "scale",
@@ -6402,7 +6423,7 @@
     "type": "topic",
     "category": "arts",
     "title": "书法 · Calligraphy",
-    "desc": "The art of the brush — where writing becomes the most personal expression of character.",
+    "desc": "The art of the brush, where writing becomes the most personal expression of character.",
     "tags": [
       "calligraphy",
       "art",
@@ -6417,7 +6438,7 @@
     "type": "topic",
     "category": "arts",
     "title": "四大名著 · Four Great Classical Novels",
-    "desc": "The four novels every educated Chinese person has read — the canonical stories of war, outlaws, pilgrims, and dreams.",
+    "desc": "The four novels every educated Chinese person has read: the canonical stories of war, outlaws, pilgrims, and dreams.",
     "tags": [
       "literature",
       "novels",

@@ -3,7 +3,7 @@ type: 'character'
 category: 'characters'
 status: 'complete'
 title: '百 · hundred; all kinds of'
-desc: '百姓 — the hundred surnames — is classical Chinese for the common people, because the full range of ordinary family names stands in for everyone who is not nobility.'
+desc: '百姓, the hundred surnames, is classical Chinese for the common people, because the full range of ordinary family names stands in for everyone who is not nobility.'
 metaDesc: "百 bǎi: hundred, all kinds of. Etymology from 一 + 白 (phonetic), 百姓 as the common people, the 百花齐放 campaign, and chengyu of perseverance and precision."
 pageTitle: '百 bǎi'
 tags:

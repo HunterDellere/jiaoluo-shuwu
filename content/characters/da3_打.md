@@ -3,7 +3,7 @@ type: 'character'
 category: 'characters'
 status: 'complete'
 title: '打 · to hit, to strike; the most versatile verb in Mandarin'
-desc: 'To hit — and a hundred extensions: make a call, play a sport, pack a bag, get an injection. The most productive light verb in Chinese.'
+desc: 'To hit, and a hundred extensions: make a call, play a sport, pack a bag, get an injection. The most productive light verb in Chinese.'
 metaDesc: "打 dǎ: to hit, to strike, to make, to do. Etymology, 打 as light verb, sports and activities, phone calls and practical uses, and chengyu."
 pageTitle: '打 dǎ'
 tags:

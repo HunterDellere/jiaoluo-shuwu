@@ -3,7 +3,7 @@ type: 'character'
 category: 'characters'
 status: 'complete'
 title: '长 · long; to grow; chief'
-desc: "A person with flowing long hair — one character, two readings: cháng (long) and zhǎng (to grow, elder), the richest dual-reading in Mandarin."
+desc: "A person with flowing long hair. One character, two readings: cháng (long) and zhǎng (to grow, elder), the richest dual-reading in Mandarin."
 metaDesc: "长 cháng/zhǎng: long, length, to grow, to be senior. The two readings explained, key compounds for each, and how context determines pronunciation."
 pageTitle: '长 cháng / zhǎng'
 tags:

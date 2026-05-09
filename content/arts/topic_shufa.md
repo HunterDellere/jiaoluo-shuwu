@@ -4,8 +4,8 @@ category: 'arts'
 status: 'complete'
 content_review: 'pending'
 title: '书法 · Calligraphy'
-desc: 'The art of the brush — where writing becomes the most personal expression of character.'
-metaDesc: "书法 shūfǎ: Chinese calligraphy — the five scripts, the Four Treasures, Wang Xizhi, and why the brush stroke is a moral and aesthetic act in one."
+desc: 'The art of the brush, where writing becomes the most personal expression of character.'
+metaDesc: "书法 shūfǎ: Chinese calligraphy. The five scripts, the Four Treasures, Wang Xizhi, and why the brush stroke is a moral and aesthetic act in one."
 pageTitle: '书法 · Calligraphy'
 tags:
   - 'calligraphy'

@@ -3,8 +3,8 @@ type: 'character'
 category: 'characters'
 status: 'complete'
 title: '茶 · tea'
-desc: "The character that gave the world its word for tea — a grass over wood over man, a plant that shaped civilization, and the locus of China's richest material culture."
-metaDesc: '茶 chá: the Chinese character for tea — etymology, radical analysis, key compounds and how one glyph spread across every major language.'
+desc: "The character that gave the world its word for tea: a grass over wood over man, a plant that shaped civilization, and the locus of China's richest material culture."
+metaDesc: '茶 chá: the Chinese character for tea. Etymology, radical analysis, key compounds and how one glyph spread across every major language.'
 pageTitle: '茶 · Tea Character'
 char: '茶'
 pinyin: 'chá'

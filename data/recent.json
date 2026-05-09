@@ -1,5 +1,26 @@
 [
   {
+    "path": "pages/characters/ming4_命.html",
+    "type": "character",
+    "category": "characters",
+    "title": "命 · life, fate, command",
+    "desc": "A mouth speaking an order: 令 above, 口 inside. The character that holds together three of the heaviest words in Chinese — life, destiny, and the command from above.",
+    "tags": [
+      "philosophy",
+      "fate",
+      "life",
+      "classical",
+      "ethics"
+    ],
+    "status": "complete",
+    "char": "命",
+    "pinyin": "mìng",
+    "tone": 4,
+    "hsk": 4,
+    "radical": "口",
+    "updated": "2026-05-09"
+  },
+  {
     "path": "pages/characters/kua4_跨.html",
     "type": "character",
     "category": "characters",
@@ -353,25 +374,6 @@
     ],
     "status": "complete",
     "pinyin": "shēng dàn jìng mò chǒu",
-    "updated": "2026-04-26"
-  },
-  {
-    "path": "pages/arts/topic_shufa_styles.html",
-    "type": "topic",
-    "category": "arts",
-    "title": "书法风格 · The Five Scripts of Chinese Calligraphy",
-    "desc": "Five script styles chart two thousand years of Chinese writing — from the solemn bronze inscriptions of the Zhou to the explosive cursive of the Tang masters.",
-    "tags": [
-      "calligraphy",
-      "arts",
-      "writing",
-      "classical",
-      "history",
-      "aesthetics",
-      "culture"
-    ],
-    "status": "complete",
-    "pinyin": "shūfǎ fēnggé",
     "updated": "2026-04-26"
   }
 ]
