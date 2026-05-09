@@ -3,7 +3,7 @@ type: 'character'
 category: 'characters'
 status: 'complete'
 title: '鬼 · ghost, the wandering dead'
-desc: "A pictograph of a spirit with an oversized head — the disembodied soul of the unvenerated dead, a folk-religion category distinct from deity, demon, and ancestor."
+desc: "A pictograph of a spirit with an oversized head: the disembodied soul of the unvenerated dead, a folk-religion category distinct from deity, demon, and ancestor."
 metaDesc: "鬼 guǐ: ghost, spirit, the unquiet dead. Etymology, Ghost Month, the Confucian attitude toward spirits, and how 鬼 moves between supernatural register and casual speech."
 pageTitle: '鬼 guǐ'
 tags:

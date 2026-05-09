@@ -185,7 +185,7 @@
     "type": "character",
     "category": "characters",
     "title": "德 · virtue, moral power",
-    "desc": "Virtue not as rule-following but as accumulated moral power — what radiates from a person whose conduct has been straight long enough to become second nature.",
+    "desc": "Virtue not as rule-following but as accumulated moral power: what radiates from a person whose conduct has been straight long enough to become second nature.",
     "tags": [
       "confucianism",
       "daoism",
@@ -206,7 +206,7 @@
     "type": "character",
     "category": "characters",
     "title": "读 · to read aloud, to study",
-    "desc": "Reading as the act of voicing what is written — the everyday verb for studying, declaiming a text, and (figuratively) interpreting a person, a situation, or a sign.",
+    "desc": "Reading as the act of voicing what is written: the everyday verb for studying, declaiming a text, and (figuratively) interpreting a person, a situation, or a sign.",
     "tags": [
       "learning",
       "language",
@@ -225,7 +225,7 @@
     "type": "character",
     "category": "characters",
     "title": "脚 · foot, base",
-    "desc": "The everyday word for foot — and, by extension, the base of any standing thing: a mountain, a wall, a script. The flesh-and-bone counterpart to literary 足.",
+    "desc": "The everyday word for foot, and by extension the base of any standing thing: a mountain, a wall, a script. The flesh-and-bone counterpart to literary 足.",
     "tags": [
       "body",
       "movement",
@@ -400,7 +400,7 @@
     "type": "character",
     "category": "characters",
     "title": "鬼 · ghost, the wandering dead",
-    "desc": "A pictograph of a spirit with an oversized head — the disembodied soul of the unvenerated dead, a folk-religion category distinct from deity, demon, and ancestor.",
+    "desc": "A pictograph of a spirit with an oversized head: the disembodied soul of the unvenerated dead, a folk-religion category distinct from deity, demon, and ancestor.",
     "tags": [
       "folk-religion",
       "religion",
@@ -734,7 +734,7 @@
     "type": "character",
     "category": "characters",
     "title": "到 · to arrive, to reach; to",
-    "desc": "As a resultative complement suffix, 到 converts any action verb into a claim of completion — 听到 means not just hearing but hearing that arrived, perception proven by contact.",
+    "desc": "As a resultative complement suffix, 到 converts any action verb into a claim of completion: 听到 means not just hearing but hearing that arrived, perception proven by contact.",
     "tags": [
       "motion",
       "grammar",
@@ -773,7 +773,7 @@
     "type": "character",
     "category": "characters",
     "title": "东 · east; eastern",
-    "desc": "The sun rising behind a tree — and the direction that anchored China's cosmological, political, and poetic imagination.",
+    "desc": "The sun rising behind a tree, and the direction that anchored China's cosmological, political, and poetic imagination.",
     "tags": [
       "directions",
       "nature",
@@ -792,7 +792,7 @@
     "type": "character",
     "category": "characters",
     "title": "多 · many; much; more; how",
-    "desc": "Two evenings stacked — the character that encodes abundance, comparison, and the most common question about quantity in Mandarin.",
+    "desc": "Two evenings stacked: the character that encodes abundance, comparison, and the most common question about quantity in Mandarin.",
     "tags": [
       "adjectives",
       "scale",
@@ -852,7 +852,7 @@
     "type": "character",
     "category": "characters",
     "title": "高 · tall; high; elevated; surname",
-    "desc": "A tall palace gate rising above the ground — and the character that anchors Chinese words for excellence, happiness, and examination pressure simultaneously.",
+    "desc": "A tall palace gate rising above the ground, and the character that anchors Chinese words for excellence, happiness, and examination pressure simultaneously.",
     "tags": [
       "adjectives",
       "scale"
@@ -931,7 +931,7 @@
     "type": "character",
     "category": "characters",
     "title": "后 · back, behind, after; empress",
-    "desc": "One simplified character collapsed two completely separate traditional forms — 後 (a trailing foot in motion) and 后 (a commanding mouth) — binding the spatial sense of behind with the imperial sense of empress in a single glyph.",
+    "desc": "One simplified character collapsed two completely separate traditional forms: 後 (a trailing foot in motion) and 后 (a commanding mouth), binding the spatial sense of behind with the imperial sense of empress in a single glyph.",
     "tags": [
       "direction",
       "time",
@@ -970,7 +970,7 @@
     "type": "character",
     "category": "characters",
     "title": "近 · near; close; recent",
-    "desc": "Walking toward something as close as a hatchet strike — and the character that covers both spatial proximity and the specific historical era Chinese scholars call the modern period.",
+    "desc": "Walking toward something as close as a hatchet strike, and the character that covers both spatial proximity and the specific historical era Chinese scholars call the modern period.",
     "tags": [
       "direction",
       "geography",
@@ -990,7 +990,7 @@
     "type": "character",
     "category": "characters",
     "title": "旧 · old; used; former; worn",
-    "desc": "The antonym of 新 — and much more than it: 旧 carries both the weight of cherished tradition and the stigma of backwardness, depending entirely on who is speaking.",
+    "desc": "The antonym of 新, and much more than it. 旧 carries both the weight of cherished tradition and the stigma of backwardness, depending entirely on who is speaking.",
     "tags": [
       "history",
       "change",
@@ -1029,7 +1029,7 @@
     "type": "character",
     "category": "characters",
     "title": "看 · to look, to watch, to read, to visit",
-    "desc": "看 = hand above eye, shielding from the sun to see in the distance — visual attention with effort, encoded in a gesture everyone has made.",
+    "desc": "看 = hand above eye, shielding from the sun to see in the distance: visual attention with effort, encoded in a gesture everyone has made.",
     "tags": [
       "perception",
       "daily-life",
@@ -3235,7 +3235,7 @@
     "type": "character",
     "category": "characters",
     "title": "告 · to tell, to announce, to report",
-    "desc": "A mouth aimed upward: the character for delivering words to authority — and the root of advertising, accusations, and warnings.",
+    "desc": "A mouth aimed upward: the character for delivering words to authority, and the root of advertising, accusations, and warnings.",
     "tags": [
       "communication",
       "legal",
@@ -3254,7 +3254,7 @@
     "type": "character",
     "category": "characters",
     "title": "广 · wide, broad, to spread",
-    "desc": "A radical and a word: the cliff-shelter that became the prefix for everything expansive — from Guangzhou to Guangdong to radio broadcasts.",
+    "desc": "A radical and a word: the cliff-shelter that became the prefix for everything expansive, from Guangzhou to Guangdong to radio broadcasts.",
     "tags": [
       "space",
       "geography",
@@ -3721,7 +3721,7 @@
     "type": "character",
     "category": "characters",
     "title": "地 · earth, ground, land",
-    "desc": "Heaven above, earth below — the second power of the cosmos, and the root of every word about place, ground, and belonging.",
+    "desc": "Heaven above, earth below: the second power of the cosmos, and the root of every word about place, ground, and belonging.",
     "tags": [
       "nature",
       "geography"
@@ -3739,7 +3739,7 @@
     "type": "character",
     "category": "characters",
     "title": "电 · electricity, electric, telegram",
-    "desc": "Lightning descending from a rain cloud — a character that jumped from describing the weather to naming the force that defines modern civilization.",
+    "desc": "Lightning descending from a rain cloud, a character that jumped from describing the weather to naming the force that defines modern civilization.",
     "tags": [
       "culture",
       "daily"
@@ -3757,7 +3757,7 @@
     "type": "character",
     "category": "characters",
     "title": "佛 · Buddha, the awakened",
-    "desc": "The character that carried an entire worldview across the Silk Road — etymology, Buddhism, the 佛-family of compounds.",
+    "desc": "The character that carried an entire worldview across the Silk Road: etymology, Buddhism, the 佛-family of compounds.",
     "tags": [
       "religion",
       "buddhism",
@@ -3776,7 +3776,7 @@
     "type": "character",
     "category": "characters",
     "title": "福 · fortune, blessing, good luck",
-    "desc": "The most recognized Chinese character in the world — fortune, blessing, and the art of the upside-down 福.",
+    "desc": "The most recognized Chinese character in the world: fortune, blessing, and the art of the upside-down 福.",
     "tags": [
       "culture",
       "new-year",
@@ -3795,7 +3795,7 @@
     "type": "character",
     "category": "characters",
     "title": "工 · work, craft, labor, worker",
-    "desc": "Three strokes encoding heaven, earth, and the human craft connecting them — the root character for all labor, skill, and making in Chinese.",
+    "desc": "Three strokes encoding heaven, earth, and the human craft connecting them: the root character for all labor, skill, and making in Chinese.",
     "tags": [
       "culture",
       "history"
@@ -3813,7 +3813,7 @@
     "type": "character",
     "category": "characters",
     "title": "国 · country, nation, state",
-    "desc": "A walled enclosure protecting its people — the Chinese concept of nationhood written in a single character.",
+    "desc": "A walled enclosure protecting its people: the Chinese concept of nationhood written in a single character.",
     "tags": [
       "politics",
       "society",
@@ -3832,7 +3832,7 @@
     "type": "character",
     "category": "characters",
     "title": "好 · good; to like",
-    "desc": "Good, well, to like — and the tone split that doubles its expressive range.",
+    "desc": "Good, well, to like, and the tone split that doubles its expressive range.",
     "tags": [
       "virtue",
       "social",
@@ -3851,7 +3851,7 @@
     "type": "character",
     "category": "characters",
     "title": "火 · fire, flame, anger, popularity",
-    "desc": "Three flames rising — the character for fire and one of the most productive radicals in Chinese.",
+    "desc": "Three flames rising: the character for fire and one of the most productive radicals in Chinese.",
     "tags": [
       "nature",
       "radical",
@@ -3892,7 +3892,7 @@
     "type": "character",
     "category": "characters",
     "title": "金 · gold, metal, money",
-    "desc": "Nuggets of gold beneath the earth — and one of the Five Phases that governs autumn, the west, and sharpness.",
+    "desc": "Nuggets of gold beneath the earth, and one of the Five Phases that governs autumn, the west, and sharpness.",
     "tags": [
       "nature",
       "radical",
@@ -6509,7 +6509,7 @@
     "type": "character",
     "category": "characters",
     "title": "家 · home, family",
-    "desc": "House, family, school of thought, nation (国家) — the fractal of belonging.",
+    "desc": "House, family, school of thought, nation (国家): the fractal of belonging.",
     "tags": [
       "family",
       "society",

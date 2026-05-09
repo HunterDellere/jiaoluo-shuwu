@@ -3,8 +3,8 @@ type: 'character'
 category: 'characters'
 status: 'complete'
 title: '家 · home, family'
-desc: 'House, family, school of thought, nation (国家) — the fractal of belonging.'
-metaDesc: "家 jiā: home, family, school of thought, and nation. The fractal of belonging — from the household pig to the state."
+desc: 'House, family, school of thought, nation (国家): the fractal of belonging.'
+metaDesc: "家 jiā: home, family, school of thought, and nation. The fractal of belonging, from the household pig to the state."
 pageTitle: '家 jiā'
 tags:
   - 'family'

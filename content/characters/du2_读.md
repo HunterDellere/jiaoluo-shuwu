@@ -3,7 +3,7 @@ type: 'character'
 category: 'characters'
 status: 'complete'
 title: '读 · to read aloud, to study'
-desc: 'Reading as the act of voicing what is written — the everyday verb for studying, declaiming a text, and (figuratively) interpreting a person, a situation, or a sign.'
+desc: 'Reading as the act of voicing what is written: the everyday verb for studying, declaiming a text, and (figuratively) interpreting a person, a situation, or a sign.'
 metaDesc: "读 dú: to read aloud, to recite, to study, to attend school. Etymology of 读/讀 (讠/言 + 卖/賣), the 读书/读者/朗读 family of compounds, the second pronunciation 读 dòu (sentence-pause in classical texts), and chengyu including 熟读唐诗三百首."
 pageTitle: '读 dú'
 tags:

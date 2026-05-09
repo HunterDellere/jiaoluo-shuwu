@@ -3,7 +3,7 @@ type: 'character'
 category: 'characters'
 status: 'complete'
 title: '旧 · old; used; former; worn'
-desc: 'The antonym of 新 — and much more than it: 旧 carries both the weight of cherished tradition and the stigma of backwardness, depending entirely on who is speaking.'
+desc: 'The antonym of 新, and much more than it. 旧 carries both the weight of cherished tradition and the stigma of backwardness, depending entirely on who is speaking.'
 metaDesc: "旧 jiù: old, used, former, worn. From traditional 舊 (owl over mortar). Etymology, core compounds 怀旧 nostalgia to 守旧 conservatism, the 新旧 pair, and chengyu from the Analects."
 pageTitle: '旧 jiù'
 tags:

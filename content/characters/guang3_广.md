@@ -3,7 +3,7 @@ type: 'character'
 category: 'characters'
 status: 'complete'
 title: '广 · wide, broad, to spread'
-desc: 'A radical and a word: the cliff-shelter that became the prefix for everything expansive — from Guangzhou to Guangdong to radio broadcasts.'
+desc: 'A radical and a word: the cliff-shelter that became the prefix for everything expansive, from Guangzhou to Guangdong to radio broadcasts.'
 metaDesc: "广 guǎng: wide, broad, to spread or expand. As radical 广 (shelter on a cliff), it scaffolds dozens of characters. As a standalone word, it runs from geography to broadcasting."
 pageTitle: '广 guǎng'
 tags:

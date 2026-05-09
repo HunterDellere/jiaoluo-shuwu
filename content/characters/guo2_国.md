@@ -3,7 +3,7 @@ type: 'character'
 category: 'characters'
 status: 'complete'
 title: '国 · country, nation, state'
-desc: 'A walled enclosure protecting its people — the Chinese concept of nationhood written in a single character.'
+desc: 'A walled enclosure protecting its people: the Chinese concept of nationhood written in a single character.'
 metaDesc: "国 guó: country, nation, state. Etymology of the walled enclosure, key compounds from 中国 to 国际, and how the character shapes Chinese political thought."
 pageTitle: '国 guó'
 tags:

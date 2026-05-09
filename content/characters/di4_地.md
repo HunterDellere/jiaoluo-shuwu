@@ -3,8 +3,8 @@ type: 'character'
 category: 'characters'
 status: 'complete'
 title: '地 · earth, ground, land'
-desc: 'Heaven above, earth below — the second power of the cosmos, and the root of every word about place, ground, and belonging.'
-metaDesc: "地 dì: earth, ground, land, place. The cosmic counterpart to 天 (heaven) — and the radical root of geography, territory, agriculture, and the grammar particle 地."
+desc: 'Heaven above, earth below: the second power of the cosmos, and the root of every word about place, ground, and belonging.'
+metaDesc: "地 dì: earth, ground, land, place. The cosmic counterpart to 天 (heaven), and the radical root of geography, territory, agriculture, and the grammar particle 地."
 pageTitle: '地 dì'
 tags:
   - 'nature'

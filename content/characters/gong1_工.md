@@ -3,7 +3,7 @@ type: 'character'
 category: 'characters'
 status: 'complete'
 title: '工 · work, craft, labor, worker'
-desc: "Three strokes encoding heaven, earth, and the human craft connecting them — the root character for all labor, skill, and making in Chinese."
+desc: "Three strokes encoding heaven, earth, and the human craft connecting them: the root character for all labor, skill, and making in Chinese."
 metaDesc: "工 gōng: work, craft, labor. Etymology, the 工 radical family, key compounds (工作/工人/工厂/工程), and the cultural weight of craft in Chinese civilization."
 pageTitle: '工 gōng'
 tags:

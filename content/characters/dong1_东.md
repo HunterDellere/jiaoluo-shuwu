@@ -3,7 +3,7 @@ type: 'character'
 category: 'characters'
 status: 'complete'
 title: '东 · east; eastern'
-desc: "The sun rising behind a tree — and the direction that anchored China's cosmological, political, and poetic imagination."
+desc: "The sun rising behind a tree, and the direction that anchored China's cosmological, political, and poetic imagination."
 metaDesc: "东 dōng: east, eastern. Traditional 東 = sun rising behind a tree. Etymology, the four directions as a system, compounds from 东方 to 东道主, and chengyu about the east in Chinese culture."
 pageTitle: '东 dōng'
 tags:

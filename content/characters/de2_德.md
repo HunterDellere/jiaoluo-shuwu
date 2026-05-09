@@ -3,7 +3,7 @@ type: 'character'
 category: 'characters'
 status: 'complete'
 title: '德 · virtue, moral power'
-desc: 'Virtue not as rule-following but as accumulated moral power — what radiates from a person whose conduct has been straight long enough to become second nature.'
+desc: 'Virtue not as rule-following but as accumulated moral power: what radiates from a person whose conduct has been straight long enough to become second nature.'
 metaDesc: "德 dé: virtue, moral power, ethics. Etymology (彳 step + 直 straight + 心 heart), the 道德 / 品德 / 德行 family, classical 上德/下德 of the Daodejing, and chengyu including 德高望重 and 以德报怨."
 pageTitle: '德 dé'
 tags:
