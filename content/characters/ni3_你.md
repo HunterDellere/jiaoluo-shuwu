@@ -98,8 +98,8 @@ content_review: 'pending'
 
     <div class="scholar" data-glyph="你">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
-      <p><strong>你 nǐ = 亻</strong> (person radical, a simplified standing figure) <strong>+ 尔 ěr</strong> (phonetic component). 尔 ěr itself was already a second-person pronoun in classical Chinese — it appears throughout the <em>Shī Jīng</em> (Book of Odes, c. 1000–600 BCE) meaning "you" or "your," and survives today in formal registers and set phrases like 尔后 ěrhòu (thereafter) and 尔虞我诈 ěryú-wǒzhà (mutual deception). Adding 亻 to 尔 created a new, distinctly personal graph for the spoken vernacular that emerged during the Tang and Song dynasties; 你 is essentially the spoken-register version of 尔, designed to look unambiguously human.</p>
-      <p>The older literary second-person pronouns were <strong>汝 rǔ</strong> and <strong>尔 ěr</strong>, both monosyllabic and bare, carrying no social freight — classical Chinese had no grammatical politeness distinction built into second-person pronouns. Modern Chinese repairs that gap through a lexical pair: the informal <strong>你</strong> for ordinary address, and the formal <strong>您 nín</strong> — which is structurally 你 with 心 (heart) fused into the base. To use 您 is, at the character level, to put your heart into the address.</p>
+      <p><strong>你 nǐ = 亻</strong> (person radical, a simplified standing figure) <strong>+ 尔 ěr</strong> (phonetic component). 尔 ěr itself was already a second-person pronoun in classical Chinese , it appears throughout the <em>Shī Jīng</em> (Book of Odes, c. 1000–600 BCE) meaning "you" or "your," and survives today in formal registers and set phrases like 尔后 ěrhòu (thereafter) and 尔虞我诈 ěryú-wǒzhà (mutual deception). Adding 亻 to 尔 created a new, distinctly personal graph for the spoken vernacular that emerged during the Tang and Song dynasties; 你 is essentially the spoken-register version of 尔, designed to look unambiguously human.</p>
+      <p>The older literary second-person pronouns were <strong>汝 rǔ</strong> and <strong>尔 ěr</strong>, both monosyllabic and bare, carrying no social freight , classical Chinese had no grammatical politeness distinction built into second-person pronouns. Modern Chinese repairs that gap through a lexical pair: the informal <strong>你</strong> for ordinary address, and the formal <strong>您 nín</strong> , which is structurally 你 with 心 (heart) fused into the base. To use 您 is, at the character level, to put your heart into the address.</p>
       <p>The pronoun paradigm is clean: <strong>我 wǒ</strong> (I) / <strong>你 nǐ</strong> (you) / <strong>他·她·它 tā</strong> (he/she/it) in the singular; <strong>我们</strong> / <strong>你们</strong> / <strong>他们</strong> in the plural, each formed by appending <strong>们 men</strong>, a collective suffix borrowed into the written language from vernacular during the Song dynasty.</p>
     </div>
 
@@ -128,7 +128,7 @@ content_review: 'pending'
           <span class="card-en">you (singular, informal)</span>
         </div>
         <div class="tags"><span class="tag-n">pronoun 代词</span></div>
-        <p class="card-def">The default second-person pronoun for all everyday speech. Used with friends, peers, family, strangers of similar age and status, and in any context where formality is not required. In written Chinese it is also the standard pronoun in casual correspondence, social media, and fiction. There is no connotation of disrespect — 你 is simply neutral.</p>
+        <p class="card-def">The default second-person pronoun for all everyday speech. Used with friends, peers, family, strangers of similar age and status, and in any context where formality is not required. In written Chinese it is also the standard pronoun in casual correspondence, social media, and fiction. There is no connotation of disrespect , 你 is simply neutral.</p>
         <div class="examples">
           <div class="ex"><span class="ex-cn">你叫什么名字？</span><span class="ex-py">Nǐ jiào shénme míngzi?</span><span class="ex-en">What is your name?</span></div>
           <div class="ex"><span class="ex-cn">你去哪儿？</span><span class="ex-py">Nǐ qù nǎr?</span><span class="ex-en">Where are you going?</span></div>
@@ -143,7 +143,7 @@ content_review: 'pending'
           <span class="card-en">you (formal, respectful)</span>
         </div>
         <div class="tags"><span class="tag-n">pronoun 代词</span></div>
-        <p class="card-def">您 is 你 with 心 (heart) appended below — the character literally encodes the act of addressing someone with heartfelt respect. It is used when speaking to elders, seniors in a hierarchy, customers, unfamiliar adults deserving deference, or in formal service contexts. Regionally, 您 is far more common in the north, particularly Beijing, where it saturates everyday polite speech; in Shanghai and southern cities it sounds markedly formal and is used more sparingly.</p>
+        <p class="card-def">您 is 你 with 心 (heart) appended below , the character literally encodes the act of addressing someone with heartfelt respect. It is used when speaking to elders, seniors in a hierarchy, customers, unfamiliar adults deserving deference, or in formal service contexts. Regionally, 您 is far more common in the north, particularly Beijing, where it saturates everyday polite speech; in Shanghai and southern cities it sounds markedly formal and is used more sparingly.</p>
         <div class="examples">
           <div class="ex"><span class="ex-cn">您好，请问有什么需要？</span><span class="ex-py">Nín hǎo, qǐngwèn yǒu shénme xūyào?</span><span class="ex-en">Hello, how may I help you? (service context)</span></div>
           <div class="ex"><span class="ex-cn">老师，您辛苦了。</span><span class="ex-py">Lǎoshī, nín xīnkǔ le.</span><span class="ex-en">Teacher, you've worked so hard. (showing respect)</span></div>
@@ -158,7 +158,7 @@ content_review: 'pending'
           <span class="card-en">you (plural)</span>
         </div>
         <div class="tags"><span class="tag-n">pronoun 代词</span></div>
-        <p class="card-def">The straightforward plural: 你 + 们 men (collective suffix). Refers to a group that includes the person or persons being addressed. In informal contexts 你们 can also carry a mildly distancing or grouping tone — distinguishing "you all" as a bloc from the speaker. In questions addressed to a group, 你们 is the default form at all registers.</p>
+        <p class="card-def">The straightforward plural: 你 + 们 men (collective suffix). Refers to a group that includes the person or persons being addressed. In informal contexts 你们 can also carry a mildly distancing or grouping tone , distinguishing "you all" as a bloc from the speaker. In questions addressed to a group, 你们 is the default form at all registers.</p>
         <div class="examples">
           <div class="ex"><span class="ex-cn">你们都来了！</span><span class="ex-py">Nǐmen dōu lái le!</span><span class="ex-en">You're all here!</span></div>
           <div class="ex"><span class="ex-cn">你们中国人怎么看这件事？</span><span class="ex-py">Nǐmen Zhōngguórén zěnme kàn zhè jiàn shì?</span><span class="ex-en">How do you Chinese people view this matter?</span></div>
@@ -178,8 +178,8 @@ content_review: 'pending'
 
     <div class="scholar" data-glyph="好">
       <div class="scholar-label">语境洞见 yǔjìng dòngjiàn · Register Insight</div>
-      <p><strong>你好 nǐ hǎo</strong> is, counterintuitively, the formal register of greeting. It is what you say to someone you have just met, to a stranger, in a customer service exchange, or when starting a phone call. In Chinese social life, close friends and family rarely greet each other with 你好 — it would sound oddly stiff and ceremonial between intimates, like a Western friend saying "Good day to you" instead of "Hey."</p>
-      <p>The intimate register greeting is <strong>你吃了吗 nǐ chī le ma</strong> — "Have you eaten?" — a question that has puzzled Western observers for generations. It is not an invitation to dinner. It is a phatic expression of care: food security was precarious for most of Chinese history, and asking after a person's meal was the most concrete form of concern imaginable. Among close acquaintances it functions exactly like "How are you?" does in English — rhetorical, relational, a ritual of connection rather than a request for information.</p>
+      <p><strong>你好 nǐ hǎo</strong> is, counterintuitively, the formal register of greeting. It is what you say to someone you have just met, to a stranger, in a customer service exchange, or when starting a phone call. In Chinese social life, close friends and family rarely greet each other with 你好 , it would sound oddly stiff and ceremonial between intimates, like a Western friend saying "Good day to you" instead of "Hey."</p>
+      <p>The intimate register greeting is <strong>你吃了吗 nǐ chī le ma</strong> , "Have you eaten?" — a question that has puzzled Western observers for generations. It is not an invitation to dinner. It is a phatic expression of care: food security was precarious for most of Chinese history, and asking after a person's meal was the most concrete form of concern imaginable. Among close acquaintances it functions exactly like "How are you?" does in English , rhetorical, relational, a ritual of connection rather than a request for information.</p>
     </div>
 
     <div class="cards">
@@ -191,7 +191,7 @@ content_review: 'pending'
           <span class="card-en">hello (formal register)</span>
         </div>
         <div class="tags"><span class="tag-n">greeting 问候语</span></div>
-        <p class="card-def">The standard greeting for strangers, new acquaintances, and professional contexts. 你 (you) + 好 (good/well). Literally "you [are] well" — a statement of goodwill framed as a declaration rather than a question. Its formal counterpart is 您好 nín hǎo, which adds the respectful pronoun without changing the structure.</p>
+        <p class="card-def">The standard greeting for strangers, new acquaintances, and professional contexts. 你 (you) + 好 (good/well). Literally "you [are] well" , a statement of goodwill framed as a declaration rather than a question. Its formal counterpart is 您好 nín hǎo, which adds the respectful pronoun without changing the structure.</p>
         <div class="examples">
           <div class="ex"><span class="ex-cn">你好！我叫李明。</span><span class="ex-py">Nǐ hǎo! Wǒ jiào Lǐ Míng.</span><span class="ex-en">Hello! My name is Li Ming.</span></div>
           <div class="ex"><span class="ex-cn">您好，欢迎光临。</span><span class="ex-py">Nín hǎo, huānyíng guānglín.</span><span class="ex-en">Hello, welcome. (retail/hospitality)</span></div>
@@ -205,7 +205,7 @@ content_review: 'pending'
           <span class="card-en">how are you? (borrowed register)</span>
         </div>
         <div class="tags"><span class="tag-n">greeting 问候语</span></div>
-        <p class="card-def">Adding the question particle 吗 ma turns 你好 into a genuine question: "Are you well?" This form is widely taught in textbooks and recognized by all speakers, but native speakers use it less than learners expect — it carries a slightly Western-influenced flavor, borrowed through the translation of "How are you?" More natural alternatives in casual speech include 最近怎么样 (how have things been lately?) or 还好吧 (you're doing okay, right?).</p>
+        <p class="card-def">Adding the question particle 吗 ma turns 你好 into a genuine question: "Are you well?" This form is widely taught in textbooks and recognized by all speakers, but native speakers use it less than learners expect , it carries a slightly Western-influenced flavor, borrowed through the translation of "How are you?" More natural alternatives in casual speech include 最近怎么样 (how have things been lately?) or 还好吧 (you're doing okay, right?).</p>
         <div class="examples">
           <div class="ex"><span class="ex-cn">你好吗？——还好，谢谢！</span><span class="ex-py">Nǐ hǎo ma? — Hái hǎo, xièxie!</span><span class="ex-en">How are you? — Fine, thanks!</span></div>
         </div>
@@ -232,7 +232,7 @@ content_review: 'pending'
           <span class="card-en">you have the nerve / how shameless of you</span>
         </div>
         <div class="tags"><span class="tag-n">expression 表达</span></div>
-        <p class="card-def">A sharp social rebuke. 好意思 means "comfortable doing [something]" or "willing to face [someone]" — literally "good sense of meaning/face." The full expression: "You feel good about doing that?" Delivered with the right tone, it cuts. Often used sarcastically. Contrast with the neutral 你的意思是 (what do you mean?) or the polite 不好意思 bù hǎo yìsi (excuse me / I'm embarrassed to ask).</p>
+        <p class="card-def">A sharp social rebuke. 好意思 means "comfortable doing [something]" or "willing to face [someone]" , literally "good sense of meaning/face." The full expression: "You feel good about doing that?" Delivered with the right tone, it cuts. Often used sarcastically. Contrast with the neutral 你的意思是 (what do you mean?) or the polite 不好意思 bù hǎo yìsi (excuse me / I'm embarrassed to ask).</p>
         <div class="examples">
           <div class="ex"><span class="ex-cn">你还好意思说！</span><span class="ex-py">Nǐ hái hǎo yìsi shuō!</span><span class="ex-en">And you have the nerve to say that!</span></div>
           <div class="ex"><span class="ex-cn">不好意思，请问一下。</span><span class="ex-py">Bù hǎo yìsi, qǐngwèn yīxià.</span><span class="ex-en">Excuse me, may I ask something? (polite hedge)</span></div>
@@ -259,7 +259,7 @@ content_review: 'pending'
         </div>
         <div class="cy-en">back and forth between people; a lively exchange</div>
         <div class="cy-body">
-          <p>Literally "you come, I go." Describes a vigorous, reciprocal exchange — whether of blows in a fight, witty remarks in a debate, or gifts in a social relationship. The rhythm of the four characters enacts the reciprocity: the pronoun pair 你/我 frames a pair of verbs 来/往.</p>
+          <p>Literally "you come, I go." Describes a vigorous, reciprocal exchange , whether of blows in a fight, witty remarks in a debate, or gifts in a social relationship. The rhythm of the four characters enacts the reciprocity: the pronoun pair 你/我 frames a pair of verbs 来/往.</p>
           <div class="examples">
             <div class="ex"><span class="ex-cn">两人你来我往，争论了很久。</span><span class="ex-py">Liǎng rén nǐ lái wǒ wǎng, zhēnglùn le hěn jiǔ.</span><span class="ex-en">The two argued back and forth for a long time.</span></div>
           </div>
@@ -289,7 +289,7 @@ content_review: 'pending'
         <div class="cy-body">
           <p>Literally "your feeling, my willingness." Used to emphasize that an arrangement or action is freely entered into by both sides, with no coercion. 情 qíng covers both emotion and the felt inclination toward something; 愿 yuàn is willing, voluntarily desiring. Often appears in legal and social contexts to assert that consent was genuine.</p>
           <div class="examples">
-            <div class="ex"><span class="ex-cn">这是你情我愿的事，没有人强迫。</span><span class="ex-py">Zhè shì nǐ qíng wǒ yuàn de shì, méiyǒu rén qiǎngpò.</span><span class="ex-en">This was mutually agreed — no one was forced.</span></div>
+            <div class="ex"><span class="ex-cn">这是你情我愿的事，没有人强迫。</span><span class="ex-py">Zhè shì nǐ qíng wǒ yuàn de shì, méiyǒu rén qiǎngpò.</span><span class="ex-en">This was mutually agreed , no one was forced.</span></div>
           </div>
         </div>
       </div>
@@ -301,7 +301,7 @@ content_review: 'pending'
         </div>
         <div class="cy-en">mutual deception; each trying to outwit the other</div>
         <div class="cy-body">
-          <p>This chengyu uses the classical second-person pronoun 尔 ěr — the very character that forms the phonetic component of 你 — in a phrase meaning "you deceive me, I swindle you." 虞 yú is to scheme or guard against; 诈 zhà is to cheat. A four-character indictment of cutthroat relations in politics or commerce. Its use of 尔 rather than 你 marks it as literary register; the meaning of the pronoun is identical, but the register is classical.</p>
+          <p>This chengyu uses the classical second-person pronoun 尔 ěr , the very character that forms the phonetic component of 你 , in a phrase meaning "you deceive me, I swindle you." 虞 yú is to scheme or guard against; 诈 zhà is to cheat. A four-character indictment of cutthroat relations in politics or commerce. Its use of 尔 rather than 你 marks it as literary register; the meaning of the pronoun is identical, but the register is classical.</p>
           <div class="examples">
             <div class="ex"><span class="ex-cn">官场上尔虞我诈，令人心寒。</span><span class="ex-py">Guānchǎng shàng ěr yú wǒ zhà, lìng rén xīnhán.</span><span class="ex-en">The mutual scheming in the bureaucracy is chilling.</span></div>
           </div>
@@ -343,8 +343,8 @@ content_review: 'pending'
     <!-- ── RETENTION ── -->
     <div class="scholar" data-glyph="您">
       <div class="scholar-label">记忆钩 jìyì gōu · Retention Hook</div>
-      <p>To remember the difference between 你 and 您: look at what was added. 您 is 你 with 心 (heart) underneath. When you use 您, you are — structurally, graphically — putting your heart into the address. That is exactly what the formal pronoun asks of you: a gesture of respect that costs something. The character is not just a label; it is a small ethical instruction.</p>
-      <p>To remember that 你 (nǐ) uses the classical phonetic 尔 (ěr): both words mean "you" — 尔 is the ancestor, 你 is the descendant. When 尔虞我诈 appears in a novel, the 尔 is the same word as the 你 you learned on day one, dressed in its classical clothes.</p>
+      <p>To remember the difference between 你 and 您: look at what was added. 您 is 你 with 心 (heart) underneath. When you use 您, you are , structurally, graphically , putting your heart into the address. That is exactly what the formal pronoun asks of you: a gesture of respect that costs something. The character is not just a label; it is a small ethical instruction.</p>
+      <p>To remember that 你 (nǐ) uses the classical phonetic 尔 (ěr): both words mean "you" , 尔 is the ancestor, 你 is the descendant. When 尔虞我诈 appears in a novel, the 尔 is the same word as the 你 you learned on day one, dressed in its classical clothes.</p>
     </div>
 
     <!-- FOOTER -->

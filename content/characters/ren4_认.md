@@ -114,11 +114,11 @@ content_sources:
     <div class="scholar" data-glyph="认">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
       <p><strong>认 rèn = 讠 (yán, speech) + 人 (rén, person)</strong>. A pictophonetic compound: 讠 supplies the meaning (something done <em>through speech</em>), 人 supplies the sound (rén → rèn). The traditional form 認 keeps the same logic with the full speech radical and 忍 (rěn) carrying the sound.</p>
-      <p>The semantic core is recognition <em>spoken aloud</em>. To 认 someone or something is to look, register what it is, and <em>say so</em>: "yes, that's the one," "yes, I know him," "yes, I did it." This is why a single character covers what English splits into several distinct verbs — recognize a face, acknowledge a fact, admit a mistake, identify an object, claim a relationship. All of them are versions of <em>seeing-and-saying-so</em>.</p>
+      <p>The semantic core is recognition <em>spoken aloud</em>. To 认 someone or something is to look, register what it is, and <em>say so</em>: "yes, that's the one," "yes, I know him," "yes, I did it." This is why a single character covers what English splits into several distinct verbs , recognize a face, acknowledge a fact, admit a mistake, identify an object, claim a relationship. All of them are versions of <em>seeing-and-saying-so</em>.</p>
       <p>Three semantic clusters fall out of this:</p>
-      <p><strong>1. Recognition</strong> — 认识 rènshi (to know a person), 认得 rènde (to recognize on sight), 认出 rènchū (to identify by spotting). Knowing-something-when-you-see-it.<br>
-      <strong>2. Acknowledgment</strong> — 承认 chéngrèn (to admit, concede), 认错 rèncuò (to admit a mistake), 认输 rènshū (to concede defeat), 否认 fǒurèn (to deny). Owning up, or refusing to.<br>
-      <strong>3. Earnestness</strong> — 认真 rènzhēn (to take seriously). Recognizing the 真 of a thing and treating it accordingly.</p>
+      <p><strong>1. Recognition</strong> , 认识 rènshi (to know a person), 认得 rènde (to recognize on sight), 认出 rènchū (to identify by spotting). Knowing-something-when-you-see-it.<br>
+      <strong>2. Acknowledgment</strong> , 承认 chéngrèn (to admit, concede), 认错 rèncuò (to admit a mistake), 认输 rènshū (to concede defeat), 否认 fǒurèn (to deny). Owning up, or refusing to.<br>
+      <strong>3. Earnestness</strong> , 认真 rènzhēn (to take seriously). Recognizing the 真 of a thing and treating it accordingly.</p>
     </div>
 
     <!-- ── WORD-FORMATION ── -->
@@ -216,7 +216,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-v">V 动词 dòngcí</span></div>
         <div class="card-def">
-          认 rèn + 出 chū (out; resultative: <em>to come into view</em>). The act of identification — picking someone out of a crowd, recognizing a familiar face after years apart, identifying a body. The 出 marks the moment recognition crystallizes.
+          认 rèn + 出 chū (out; resultative: <em>to come into view</em>). The act of identification , picking someone out of a crowd, recognizing a familiar face after years apart, identifying a body. The 出 marks the moment recognition crystallizes.
         </div>
         <div class="examples">
           <div class="example">
@@ -254,7 +254,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-v">V 动词 dòngcí</span></div>
         <div class="card-def">
-          承 chéng (to bear; to receive; to assume) + 认 rèn. To <em>shoulder the recognition</em> of something — a fact, a fault, a state's legitimacy. Spans personal admission ("I admit I was wrong") and formal recognition (one country recognizing another diplomatically).
+          承 chéng (to bear; to receive; to assume) + 认 rèn. To <em>shoulder the recognition</em> of something , a fact, a fault, a state's legitimacy. Spans personal admission ("I admit I was wrong") and formal recognition (one country recognizing another diplomatically).
         </div>
         <div class="examples">
           <div class="example">
@@ -324,7 +324,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-v">V 动词 dòngcí</span></div>
         <div class="card-def">
-          认 rèn + 输 shū (to lose). To acknowledge a loss — in a game, an argument, a contest of will. The negative 不认输 "refuses to give in" is one of the standard ways of praising tenacity.
+          认 rèn + 输 shū (to lose). To acknowledge a loss , in a game, an argument, a contest of will. The negative 不认输 "refuses to give in" is one of the standard ways of praising tenacity.
         </div>
         <div class="examples">
           <div class="example">
@@ -344,7 +344,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-vn">V/N 动名词</span></div>
         <div class="card-def">
-          默 mò (silent) + 认 rèn. <em>Silent acknowledgment</em> — agreeing by not objecting, acquiescing without explicit confirmation. In computing and modern Chinese tech vocabulary, the same word means "default": 默认设置 mòrèn shèzhì = "default settings."
+          默 mò (silent) + 认 rèn. <em>Silent acknowledgment</em> , agreeing by not objecting, acquiescing without explicit confirmation. In computing and modern Chinese tech vocabulary, the same word means "default": 默认设置 mòrèn shèzhì = "default settings."
         </div>
         <div class="examples">
           <div class="example">
@@ -373,8 +373,8 @@ content_sources:
 
     <div class="scholar" data-glyph="认">
       <div class="scholar-label">语义洞见 yǔyì dòngjiàn · Semantic Insight</div>
-      <p>The compound <strong>认真</strong> rènzhēn — "to recognize the <a href="../../pages/characters/zhen1_真.html">真</a>" — is the single most useful 认-word in adult life. It is the everyday adjective and adverb for <em>taking something seriously</em>: studying earnestly, doing a job conscientiously, treating a person's words as worth weighing rather than skimming past.</p>
-      <p>The construction is worth pausing on. 认真 is not "to be serious" abstractly. It is to <em>recognize the 真</em> of the thing — to register that it has its own truth, its own nature, and to engage with it on those terms instead of going through motions. This is why 认真 is a moral compliment in Chinese in a way that "serious" is not in English: it implies that the person has seen the 真 that others miss.</p>
+      <p>The compound <strong>认真</strong> rènzhēn , "to recognize the <a href="../../pages/characters/zhen1_真.html">真</a>" , is the single most useful 认-word in adult life. It is the everyday adjective and adverb for <em>taking something seriously</em>: studying earnestly, doing a job conscientiously, treating a person's words as worth weighing rather than skimming past.</p>
+      <p>The construction is worth pausing on. 认真 is not "to be serious" abstractly. It is to <em>recognize the 真</em> of the thing , to register that it has its own truth, its own nature, and to engage with it on those terms instead of going through motions. This is why 认真 is a moral compliment in Chinese in a way that "serious" is not in English: it implies that the person has seen the 真 that others miss.</p>
       <p>For the full vocabulary of conscientiousness, opposites (马虎, 随便), and the tonal range of 认真 in praise, criticism, and gentle teasing: <a href="../../pages/vocab/renzhen_认真.html">see the 认真 entry →</a></p>
     </div>
 

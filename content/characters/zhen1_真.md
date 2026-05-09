@@ -110,9 +110,9 @@ content_sources:
 
     <div class="scholar" data-glyph="真">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
-      <p><strong>真 zhēn = 直 zhí</strong> (straight; upright) <strong>+ 几 jī</strong> (a small table or stand). The Shuōwén glosses 真 as "the form a transcendent takes when ascending to Heaven" — but the structural reading the modern student can hold onto is the simpler one: <em>something straight, set squarely on a stand, presented without distortion.</em> Truth not as accuracy but as <em>uprightness</em>: the thing standing as it is, plumb to its own nature.</p>
-      <p>This is why the radical is 目 (eye): truth is what the eye <em>sees</em> when nothing has been bent. Counterfeit, ornament, performance — all involve a tilt away from straight. 真 is the absence of that tilt.</p>
-      <p>The character carries two distinct grammatical lives. As an adjective and noun, it means <em>real, genuine, authentic</em> — the truth of a thing's nature. As an adverb in spoken Chinese, it means <em>really, truly</em> — one of the two or three highest-frequency intensifiers in everyday speech. Both senses share the same root: emphasizing that what follows is not a tilt or an exaggeration but the plumb line.</p>
+      <p><strong>真 zhēn = 直 zhí</strong> (straight; upright) <strong>+ 几 jī</strong> (a small table or stand). The Shuōwén glosses 真 as "the form a transcendent takes when ascending to Heaven" , but the structural reading the modern student can hold onto is the simpler one: <em>something straight, set squarely on a stand, presented without distortion.</em> Truth not as accuracy but as <em>uprightness</em>: the thing standing as it is, plumb to its own nature.</p>
+      <p>This is why the radical is 目 (eye): truth is what the eye <em>sees</em> when nothing has been bent. Counterfeit, ornament, performance , all involve a tilt away from straight. 真 is the absence of that tilt.</p>
+      <p>The character carries two distinct grammatical lives. As an adjective and noun, it means <em>real, genuine, authentic</em> , the truth of a thing's nature. As an adverb in spoken Chinese, it means <em>really, truly</em> , one of the two or three highest-frequency intensifiers in everyday speech. Both senses share the same root: emphasizing that what follows is not a tilt or an exaggeration but the plumb line.</p>
     </div>
 
     <!-- ── DAOIST ── -->
@@ -126,9 +126,9 @@ content_sources:
 
     <div class="scholar" data-glyph="真">
       <div class="scholar-label">哲学背景 zhéxué bèijǐng · Philosophical Background</div>
-      <p>In the <a href="../../pages/philosophy/topic_zhuangzi.html">Zhuangzi</a>, 真 is not primarily epistemic — it is not about <em>true propositions.</em> It is ontological and ethical: the <em>真</em> of a person is the unworked, uncarved nature they carry before social roles, performance, and convention bend them out of true. The sage who has recovered this is the <strong>真人</strong> zhēnrén, the "true person" or "authentic one" — the Daoist counterpart to the Confucian <a href="../../pages/vocab/junzi_君子.html">君子</a>.</p>
-      <p>The 真人 is not honest in the moralistic sense. The 真人 is <em>undistorted</em>: their feelings are their feelings, their motions are their motions, nothing is performed for an audience or warped by ambition. This is why 真 in classical Chinese aesthetics — calligraphy, painting, poetry — names the highest praise. A poem is 真 when the poet has not bent the line for effect. A brushstroke is 真 when the wrist has not flinched.</p>
-      <p>Modern Chinese inherits this. <strong>认真</strong> (rènzhēn, earnest) literally means "to recognize the 真" — to take a thing seriously in its own terms rather than going through motions. <strong>真心</strong> (zhēnxīn, sincere heart) names a heart unbent by calculation. The whole 真-family carries this weight of <em>uncarved</em> alongside its plain meaning of <em>real.</em></p>
+      <p>In the <a href="../../pages/philosophy/topic_zhuangzi.html">Zhuangzi</a>, 真 is not primarily epistemic , it is not about <em>true propositions.</em> It is ontological and ethical: the <em>真</em> of a person is the unworked, uncarved nature they carry before social roles, performance, and convention bend them out of true. The sage who has recovered this is the <strong>真人</strong> zhēnrén, the "true person" or "authentic one" , the Daoist counterpart to the Confucian <a href="../../pages/vocab/junzi_君子.html">君子</a>.</p>
+      <p>The 真人 is not honest in the moralistic sense. The 真人 is <em>undistorted</em>: their feelings are their feelings, their motions are their motions, nothing is performed for an audience or warped by ambition. This is why 真 in classical Chinese aesthetics , calligraphy, painting, poetry , names the highest praise. A poem is 真 when the poet has not bent the line for effect. A brushstroke is 真 when the wrist has not flinched.</p>
+      <p>Modern Chinese inherits this. <strong>认真</strong> (rènzhēn, earnest) literally means "to recognize the 真" , to take a thing seriously in its own terms rather than going through motions. <strong>真心</strong> (zhēnxīn, sincere heart) names a heart unbent by calculation. The whole 真-family carries this weight of <em>uncarved</em> alongside its plain meaning of <em>real.</em></p>
     </div>
 
     <!-- ── TRUTH WORDS ── -->
@@ -142,10 +142,10 @@ content_sources:
 
     <div class="pattern">
       <span class="label">辨析 biànxī · The Four 真-Words</span>
-      <strong>真实</strong> zhēnshí — factually real (vs. fabricated)<br>
-      <strong>真正</strong> zhēnzhèng — the genuine article (vs. fake or merely nominal)<br>
-      <strong>真诚</strong> zhēnchéng — sincere in attitude (vs. performed)<br>
-      <strong>真心</strong> zhēnxīn — sincere from the heart (vs. calculating)
+      <strong>真实</strong> zhēnshí , factually real (vs. fabricated)<br>
+      <strong>真正</strong> zhēnzhèng , the genuine article (vs. fake or merely nominal)<br>
+      <strong>真诚</strong> zhēnchéng , sincere in attitude (vs. performed)<br>
+      <strong>真心</strong> zhēnxīn , sincere from the heart (vs. calculating)
     </div>
 
     <div class="cards">
@@ -272,9 +272,9 @@ content_sources:
     <div class="scholar" data-glyph="真">
       <div class="scholar-label">语法洞见 yǔfǎ dòngjiàn · Grammatical Insight</div>
       <p>Beyond its noun and adjective uses, 真 is one of the most frequent <strong>intensifying adverbs</strong> in spoken Chinese, sitting alongside 很 (hěn, "very") and 太 (tài, "too") as the everyday way to add emphasis before an adjective. The semantic difference matters:</p>
-      <p><strong>很</strong> hěn — neutral, default modifier ("X is Y"). Often loses its "very" force in actual use.<br>
-      <strong>太</strong> tài — excessive, exclamatory; often carries a <em>too</em>-much edge.<br>
-      <strong>真</strong> zhēn — <em>genuinely so</em>; expresses speaker's surprised or felt judgment that the quality is really, no-kidding present.</p>
+      <p><strong>很</strong> hěn , neutral, default modifier ("X is Y"). Often loses its "very" force in actual use.<br>
+      <strong>太</strong> tài , excessive, exclamatory; often carries a <em>too</em>-much edge.<br>
+      <strong>真</strong> zhēn , <em>genuinely so</em>; expresses speaker's surprised or felt judgment that the quality is really, no-kidding present.</p>
       <p>真好吃! "It's really delicious!" carries the speaker's authentic reaction. 很好吃 just rates it positively. The 真 intensifier is the language's gesture toward <em>I am not exaggerating, I genuinely mean this.</em></p>
     </div>
 
@@ -350,7 +350,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-adj">Adj 形容词 xíngróngcí</span></div>
         <div class="card-def">
-          认 rèn (recognize) + 真 zhēn. To <em>recognize the 真</em> of a thing — to take it on its own terms, not skim or fake it. The everyday word for taking work, study, and obligations seriously. <a href="../../pages/vocab/renzhen_认真.html">Full entry →</a>
+          认 rèn (recognize) + 真 zhēn. To <em>recognize the 真</em> of a thing , to take it on its own terms, not skim or fake it. The everyday word for taking work, study, and obligations seriously. <a href="../../pages/vocab/renzhen_认真.html">Full entry →</a>
         </div>
       </div>
 
@@ -383,7 +383,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-v">V 动词 dòngcí</span></div>
         <div class="card-def">
-          较 jiào (to compare; to dispute) + 真. To insist on getting the real, exact, literal version of something — usually said with mild disapproval. The cousin of 认真 with the dial turned past serviceable into pedantic.
+          较 jiào (to compare; to dispute) + 真. To insist on getting the real, exact, literal version of something , usually said with mild disapproval. The cousin of 认真 with the dial turned past serviceable into pedantic.
         </div>
         <div class="examples">
           <div class="example">
@@ -394,7 +394,7 @@ content_sources:
         </div>
         <div class="note">
           <span class="note-label">辨析 biànxī · 认真 vs. 较真</span>
-          Both involve taking something seriously. <strong>认真</strong> is positive — earnest, conscientious, the right disposition for work and study. <strong>较真</strong> is mildly negative — pedantic, contentious, refusing to let small things slide. The difference is whether the seriousness is appropriate to the stakes.
+          Both involve taking something seriously. <strong>认真</strong> is positive , earnest, conscientious, the right disposition for work and study. <strong>较真</strong> is mildly negative , pedantic, contentious, refusing to let small things slide. The difference is whether the seriousness is appropriate to the stakes.
         </div>
       </div>
 
@@ -407,7 +407,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          真 zhēn + 理 lǐ (principle; pattern; reason). <em>The truth</em> in the philosophical, abstract sense — the deep principle that governs, the ultimate reality. The word used in religious, scientific, and political discourse for capital-T Truth.
+          真 zhēn + 理 lǐ (principle; pattern; reason). <em>The truth</em> in the philosophical, abstract sense , the deep principle that governs, the ultimate reality. The word used in religious, scientific, and political discourse for capital-T Truth.
         </div>
         <div class="examples">
           <div class="example">
@@ -427,7 +427,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-adj">Adj 形容词 xíngróngcí</span></div>
         <div class="card-def">
-          天 tiān (heaven; nature) + 真. <em>Naturally-as-given</em> — the unworked, uncarved state. Used both warmly (a child's innocence) and critically (a naive adult who hasn't grasped how the world works).
+          天 tiān (heaven; nature) + 真. <em>Naturally-as-given</em> , the unworked, uncarved state. Used both warmly (a child's innocence) and critically (a naive adult who hasn't grasped how the world works).
         </div>
         <div class="examples">
           <div class="example">

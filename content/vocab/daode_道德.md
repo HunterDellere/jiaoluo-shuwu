@@ -36,7 +36,7 @@ content_sources:
         <span class="toc-sub">zìyuán · 道 and 德 dissected</span>
       </a></li>
       <li><a href="#daode-distinction">
-        <span class="toc-cn">道与德</span> 道 and 德 — How They Differ
+        <span class="toc-cn">道与德</span> 道 and 德 , How They Differ
         <span class="toc-sub">dào yǔ dé · path vs. inner power</span>
       </a></li>
       <li><a href="#core">
@@ -70,7 +70,7 @@ content_sources:
       <span class="topic-hero-eyebrow">Vocabulary · 词汇 cíhuì</span>
       <h1 class="topic-hero-title">道德</h1>
       <span class="topic-hero-title-py">dào dé</span>
-      <p class="topic-hero-desc">The compound at the center of Chinese moral philosophy — the Way and its virtue, inseparable and mutually defining. In modern Chinese the everyday word for "morality," but the etymology encodes a specific claim: acting rightly means walking the path, not following a list of rules.</p>
+      <p class="topic-hero-desc">The compound at the center of Chinese moral philosophy , the Way and its virtue, inseparable and mutually defining. In modern Chinese the everyday word for "morality," but the etymology encodes a specific claim: acting rightly means walking the path, not following a list of rules.</p>
     </header>
 
     <!-- ── ETYMOLOGY ── -->
@@ -84,9 +84,9 @@ content_sources:
 
     <div class="scholar" data-glyph="德">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
-      <p><strong>道 dào</strong> (the Way — in its earliest pictograph: a road with a person walking along it, a head indicating purposeful movement; the foundational concept of both Daoism and Confucianism: the right course of things, the underlying pattern of heaven and earth, the path that, when followed, aligns a person or ruler with how things ought to be) <strong>+ 德 dé</strong> (virtue; inner power; accumulated moral force — 德 is composed of 彳 [the step-by-step radical: walking, movement along a path] + 直 [upright, straight, as in a plumb line] + 心 [heart, the seat of thought and feeling in Chinese understanding]: a person whose heart is straight and whose walk is accordingly upright).</p>
-      <p>The compound 道德 fuses the path (what is right, the external order) with the inner quality required to walk it (the power cultivated in a person who has understood the Way). Neither is complete alone: a 道 without someone walking it is an abstraction; a 德 without grounding in 道 is mere conformity. Together they name something precise — not obedience to a list of rules, but the cultivated capacity to act in accordance with how things are.</p>
-      <p>In modern Chinese, 道德 is the workaday word for "morality" — found in newspapers, school curricula, and everyday arguments (这不道德！— That's immoral!). But its philosophical weight remains. When a Chinese speaker calls something 道德 or 不道德, they are invoking, however unconsciously, a tradition that stretches from Laozi's 道德经 through Confucius's 仁 to contemporary civic life. The word has never entirely shed its origin.</p>
+      <p><strong>道 dào</strong> (the Way , in its earliest pictograph: a road with a person walking along it, a head indicating purposeful movement; the foundational concept of both Daoism and Confucianism: the right course of things, the underlying pattern of heaven and earth, the path that, when followed, aligns a person or ruler with how things ought to be) <strong>+ 德 dé</strong> (virtue; inner power; accumulated moral force , 德 is composed of 彳 [the step-by-step radical: walking, movement along a path] + 直 [upright, straight, as in a plumb line] + 心 [heart, the seat of thought and feeling in Chinese understanding]: a person whose heart is straight and whose walk is accordingly upright).</p>
+      <p>The compound 道德 fuses the path (what is right, the external order) with the inner quality required to walk it (the power cultivated in a person who has understood the Way). Neither is complete alone: a 道 without someone walking it is an abstraction; a 德 without grounding in 道 is mere conformity. Together they name something precise , not obedience to a list of rules, but the cultivated capacity to act in accordance with how things are.</p>
+      <p>In modern Chinese, 道德 is the workaday word for "morality" , found in newspapers, school curricula, and everyday arguments (这不道德！— That's immoral!). But its philosophical weight remains. When a Chinese speaker calls something 道德 or 不道德, they are invoking, however unconsciously, a tradition that stretches from Laozi's 道德经 through Confucius's 仁 to contemporary civic life. The word has never entirely shed its origin.</p>
     </div>
 
     <!-- ── 道 AND 德 — HOW THEY DIFFER ── -->
@@ -100,9 +100,9 @@ content_sources:
 
     <div class="scholar" data-glyph="道">
       <div class="scholar-label">学者洞见 xuézhě dòngjiàn · Scholar Note</div>
-      <p><strong>道 dào</strong> is the external order — the pattern of heaven and earth, the right course, the Way things are when properly aligned. It is not created by humans, not owned by any school of thought, not reducible to rules. In the Daodejing, 道 is what produces all things: 道生一，一生二，二生三，三生万物 (the Way produces one, one produces two, two produces three, three produces the ten thousand things). It precedes everything and underlies everything. You cannot possess it; you can only follow it — or fail to.</p>
-      <p><strong>德 dé</strong> is the internal response — the virtue that forms in a person who has understood and aligned themselves with 道. In Daoist thought, 德 is how an individual creature holds and expresses what 道 has given it: 道 in a particular being, concentrated and expressed. In Confucian thought, 德 is moral character cultivated through sustained practice — the accumulated effect of doing right across a lifetime, visible in bearing, in relationships, in governance. A ruler with 德 does not need force; people come to him. A person with 德 does not need to announce it; it manifests.</p>
-      <p>The difference matters practically: 道 cannot be possessed, only followed; 德 can be cultivated, demonstrated, lost, and praised. This is why Chinese moral discourse so often turns on the question of whether a person or ruler has genuine 德 — whether the inner quality matches the outward claim. 口是心非 (mouth says one thing, heart thinks another) is the failure mode; 德行一致 (virtue and conduct unified) is the ideal.</p>
+      <p><strong>道 dào</strong> is the external order , the pattern of heaven and earth, the right course, the Way things are when properly aligned. It is not created by humans, not owned by any school of thought, not reducible to rules. In the Daodejing, 道 is what produces all things: 道生一，一生二，二生三，三生万物 (the Way produces one, one produces two, two produces three, three produces the ten thousand things). It precedes everything and underlies everything. You cannot possess it; you can only follow it , or fail to.</p>
+      <p><strong>德 dé</strong> is the internal response , the virtue that forms in a person who has understood and aligned themselves with 道. In Daoist thought, 德 is how an individual creature holds and expresses what 道 has given it: 道 in a particular being, concentrated and expressed. In Confucian thought, 德 is moral character cultivated through sustained practice , the accumulated effect of doing right across a lifetime, visible in bearing, in relationships, in governance. A ruler with 德 does not need force; people come to him. A person with 德 does not need to announce it; it manifests.</p>
+      <p>The difference matters practically: 道 cannot be possessed, only followed; 德 can be cultivated, demonstrated, lost, and praised. This is why Chinese moral discourse so often turns on the question of whether a person or ruler has genuine 德 , whether the inner quality matches the outward claim. 口是心非 (mouth says one thing, heart thinks another) is the failure mode; 德行一致 (virtue and conduct unified) is the ideal.</p>
     </div>
 
     <!-- ── CORE USES ── -->
@@ -124,7 +124,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          The general term for morality in modern Chinese — used wherever English uses "moral" or "ethical" as a modifier: 道德标准 dàodé biāozhǔn (moral standards), 道德观 dàodéguān (moral outlook; values framework), 道德教育 dàodé jiàoyù (moral education), 道德危机 dàodé wēijī (moral crisis). Also functions as a standalone adjective in judgment: 这件事很道德 (this is morally sound) vs. 这件事不道德 (this is immoral). The neutral weight of the word makes it the default in formal, academic, and civic contexts.
+          The general term for morality in modern Chinese , used wherever English uses "moral" or "ethical" as a modifier: 道德标准 dàodé biāozhǔn (moral standards), 道德观 dàodéguān (moral outlook; values framework), 道德教育 dàodé jiàoyù (moral education), 道德危机 dàodé wēijī (moral crisis). Also functions as a standalone adjective in judgment: 这件事很道德 (this is morally sound) vs. 这件事不道德 (this is immoral). The neutral weight of the word makes it the default in formal, academic, and civic contexts.
         </div>
         <div class="examples">
           <div class="example">
@@ -140,7 +140,7 @@ content_sources:
           <div class="example">
             <div class="ex-cn">学校不仅要传授知识，更要注重道德教育。</div>
             <div class="ex-py">Xuéxiào bùjǐn yào chuánshòu zhīshi, gèng yào zhùzhòng dàodé jiàoyù.</div>
-            <div class="ex-en">Schools must not only impart knowledge — they must above all attend to moral education.</div>
+            <div class="ex-en">Schools must not only impart knowledge , they must above all attend to moral education.</div>
           </div>
         </div>
       </div>
@@ -153,13 +153,13 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          道德 (morality) + 观 guān (view; perspective; lens through which one sees things — the same 观 in 世界观 worldview, 价值观 value system, 人生观 life philosophy). One's 道德观 is not just what one happens to believe about right and wrong, but the coherent framework — formed by upbringing, culture, and reflection — through which moral questions are approached. Discussing 道德观 is more philosophical than saying 道德标准 (standards) — it points to the structure beneath the judgments.
+          道德 (morality) + 观 guān (view; perspective; lens through which one sees things , the same 观 in 世界观 worldview, 价值观 value system, 人生观 life philosophy). One's 道德观 is not just what one happens to believe about right and wrong, but the coherent framework , formed by upbringing, culture, and reflection , through which moral questions are approached. Discussing 道德观 is more philosophical than saying 道德标准 (standards) , it points to the structure beneath the judgments.
         </div>
         <div class="examples">
           <div class="example">
             <div class="ex-cn">两人的道德观差异很大，很难在这件事上达成共识。</div>
             <div class="ex-py">Liǎng rén de dàodéguān chāyì hěn dà, hěn nán zài zhè jiàn shì shàng dáchéng gòngshí.</div>
-            <div class="ex-en">The two have very different moral outlooks — it is difficult for them to reach agreement on this matter.</div>
+            <div class="ex-en">The two have very different moral outlooks , it is difficult for them to reach agreement on this matter.</div>
           </div>
           <div class="example">
             <div class="ex-cn">儒家道德观以"仁"为核心，强调人与人之间的关系与责任。</div>
@@ -182,13 +182,13 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-adj">Adj 形容词 xíngróngcí</span></div>
         <div class="card-def">
-          不 bù (negation) + 道德. The direct negation — applied to actions, behavior, people, and policies alike. Notably versatile in everyday condemnation: this is the word a person reaches for in an argument when something feels wrong without being illegal. The gap between 不道德 (immoral) and 违法 (illegal) is a productive one in Chinese civic discourse: many things are condemned as 不道德 precisely because the law has not caught up, or because the problem is one of character rather than conduct.
+          不 bù (negation) + 道德. The direct negation , applied to actions, behavior, people, and policies alike. Notably versatile in everyday condemnation: this is the word a person reaches for in an argument when something feels wrong without being illegal. The gap between 不道德 (immoral) and 违法 (illegal) is a productive one in Chinese civic discourse: many things are condemned as 不道德 precisely because the law has not caught up, or because the problem is one of character rather than conduct.
         </div>
         <div class="examples">
           <div class="example">
             <div class="ex-cn">欺骗消费者是不道德的行为，即使不违法。</div>
             <div class="ex-py">Qīpiàn xiāofèizhě shì bùdàodé de xíngwéi, jíshǐ bù wéifǎ.</div>
-            <div class="ex-en">Deceiving consumers is immoral conduct — even if it isn't illegal.</div>
+            <div class="ex-en">Deceiving consumers is immoral conduct , even if it isn't illegal.</div>
           </div>
           <div class="example">
             <div class="ex-cn">他的行为虽然合法，但在道德上是站不住脚的。</div>
@@ -211,7 +211,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          职业 zhíyè (occupation; profession; vocation) + 道德. The morality that attaches specifically to a role — what it means to be a good doctor, journalist, teacher, or official, as distinct from merely following the general rules of society. The concept carries a Confucian resonance: each role (角色 juésè) carries its own set of obligations. 医德 yīdé (medical ethics — lit. "the virtue of medicine") is the most culturally loaded example; 师德 shīdé (the virtue of a teacher) is another. When 职业道德 breaks down, it is seen not just as wrongdoing but as a betrayal of a role's inherent meaning.
+          职业 zhíyè (occupation; profession; vocation) + 道德. The morality that attaches specifically to a role , what it means to be a good doctor, journalist, teacher, or official, as distinct from merely following the general rules of society. The concept carries a Confucian resonance: each role (角色 juésè) carries its own set of obligations. 医德 yīdé (medical ethics , lit. "the virtue of medicine") is the most culturally loaded example; 师德 shīdé (the virtue of a teacher) is another. When 职业道德 breaks down, it is seen not just as wrongdoing but as a betrayal of a role's inherent meaning.
         </div>
         <div class="examples">
           <div class="example">
@@ -227,7 +227,7 @@ content_sources:
           <div class="example">
             <div class="ex-cn">职业道德不仅是规范，更是一种对自己工作意义的承诺。</div>
             <div class="ex-py">Zhíyè dàodé bùjǐn shì guīfàn, gèng shì yī zhǒng duì zìjǐ gōngzuò yìyì de chéngnuò.</div>
-            <div class="ex-en">Professional ethics is not merely a set of rules — it is a commitment to the meaning of one's own work.</div>
+            <div class="ex-en">Professional ethics is not merely a set of rules , it is a commitment to the meaning of one's own work.</div>
           </div>
         </div>
       </div>
@@ -253,7 +253,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          德 dé (virtue; inner moral power) + 行 xíng (conduct; to walk; action). How virtue manifests in behavior — not the inner quality alone but the visible expression of it in how a person moves through the world. 德行 presupposes that genuine virtue is always legible: it shows. The compound also has a colloquial use as a sarcastic interjection (德行！— "What kind of behavior is that?!" / "Look at the state of you!" — contemptuous, ironic), a tonal flip that is distinct from the formal usage.
+          德 dé (virtue; inner moral power) + 行 xíng (conduct; to walk; action). How virtue manifests in behavior , not the inner quality alone but the visible expression of it in how a person moves through the world. 德行 presupposes that genuine virtue is always legible: it shows. The compound also has a colloquial use as a sarcastic interjection (德行！— "What kind of behavior is that?!" / "Look at the state of you!" — contemptuous, ironic), a tonal flip that is distinct from the formal usage.
         </div>
         <div class="examples">
           <div class="example">
@@ -264,12 +264,12 @@ content_sources:
           <div class="example">
             <div class="ex-cn">他平日德行出众，在社区里很受尊敬。</div>
             <div class="ex-py">Tā píngrì déxíng chūzhòng, zài shèqū lǐ hěn shòu zūnjìng.</div>
-            <div class="ex-en">His virtuous conduct stands out in daily life — he is widely respected in the community.</div>
+            <div class="ex-en">His virtuous conduct stands out in daily life , he is widely respected in the community.</div>
           </div>
           <div class="example">
             <div class="ex-cn">只说不做，谈什么德行？</div>
             <div class="ex-py">Zhǐ shuō bù zuò, tán shénme déxíng?</div>
-            <div class="ex-en">All talk and no action — what virtue is there to speak of?</div>
+            <div class="ex-en">All talk and no action , what virtue is there to speak of?</div>
           </div>
         </div>
       </div>
@@ -282,7 +282,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          品 pǐn (grade; quality; taste; bearing — 品 is three 口 [mouths], suggesting the collective assessment that emerges when many people evaluate something: reputation, caliber) + 德 dé. The overall moral quality of a person as assessed over time — not a single action but the accumulated character that underlies all actions. 品德高尚 (of noble character), 品德败坏 (of corrupted character). Used particularly in educational contexts — 品德课 is a subject in Chinese primary schools, roughly "morality and character education."
+          品 pǐn (grade; quality; taste; bearing , 品 is three 口 [mouths], suggesting the collective assessment that emerges when many people evaluate something: reputation, caliber) + 德 dé. The overall moral quality of a person as assessed over time , not a single action but the accumulated character that underlies all actions. 品德高尚 (of noble character), 品德败坏 (of corrupted character). Used particularly in educational contexts , 品德课 is a subject in Chinese primary schools, roughly "morality and character education."
         </div>
         <div class="examples">
           <div class="example">
@@ -293,12 +293,12 @@ content_sources:
           <div class="example">
             <div class="ex-cn">选拔人才不能只看学历，品德同样重要。</div>
             <div class="ex-py">Xuǎnbá réncái bù néng zhǐ kàn xuélì, pǐndé tóngyàng zhòngyào.</div>
-            <div class="ex-en">When selecting talent, you cannot look only at credentials — character matters equally.</div>
+            <div class="ex-en">When selecting talent, you cannot look only at credentials , character matters equally.</div>
           </div>
           <div class="example">
             <div class="ex-cn">她品德高尚，乐于助人，是大家学习的榜样。</div>
             <div class="ex-py">Tā pǐndé gāoshàng, lèyú zhùrén, shì dàjiā xuéxí de bǎngyàng.</div>
-            <div class="ex-en">She is of noble character, always ready to help others — a model for everyone.</div>
+            <div class="ex-en">She is of noble character, always ready to help others , a model for everyone.</div>
           </div>
         </div>
       </div>
@@ -311,13 +311,13 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          功 gōng (meritorious achievement; effort; skill) + 德 dé (virtue; moral force). The accumulated virtue that comes from righteous acts — most alive in Buddhist and popular religious usage, where performing good deeds (捐款, helping the poor, building a temple) generates 功德 that benefits the giver in this life and the next. 功德无量 (gōngdé wúliàng — boundless merit; immeasurable virtue) is the highest praise for a selfless act. In secular usage, 积功德 (to accumulate merit) retains a half-ironic flavor: 你这是在积功德呢 (you're really racking up the good karma there).
+          功 gōng (meritorious achievement; effort; skill) + 德 dé (virtue; moral force). The accumulated virtue that comes from righteous acts , most alive in Buddhist and popular religious usage, where performing good deeds (捐款, helping the poor, building a temple) generates 功德 that benefits the giver in this life and the next. 功德无量 (gōngdé wúliàng , boundless merit; immeasurable virtue) is the highest praise for a selfless act. In secular usage, 积功德 (to accumulate merit) retains a half-ironic flavor: 你这是在积功德呢 (you're really racking up the good karma there).
         </div>
         <div class="examples">
           <div class="example">
             <div class="ex-cn">他捐款修建了这座桥，乡亲们说他功德无量。</div>
             <div class="ex-py">Tā juānkuǎn xiūjiàn le zhè zuò qiáo, xiāngqīnmen shuō tā gōngdé wúliàng.</div>
-            <div class="ex-en">He donated funds to build this bridge — the villagers say his merit is boundless.</div>
+            <div class="ex-en">He donated funds to build this bridge , the villagers say his merit is boundless.</div>
           </div>
           <div class="example">
             <div class="ex-cn">寺庙里信徒们通过布施和念经来积累功德。</div>
@@ -327,7 +327,7 @@ content_sources:
           <div class="example">
             <div class="ex-cn">你帮了我这么大的忙，真是积了大功德！</div>
             <div class="ex-py">Nǐ bāng le wǒ zhème dà de máng, zhēn shì jī le dà gōngdé!</div>
-            <div class="ex-en">You've helped me so much — you've really accumulated some serious merit here!</div>
+            <div class="ex-en">You've helped me so much , you've really accumulated some serious merit here!</div>
           </div>
         </div>
       </div>
@@ -340,23 +340,23 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-adj">Adj 形容词 xíngróngcí</span></div>
         <div class="card-def">
-          缺 quē (to lack; to be deficient in) + 德 dé (virtue). Colloquial and pointed — the accusation that someone is not merely wrong but constitutionally lacking in the moral quality that should be there. 这太缺德了 (that's really low / that's despicable) is the standard form. Unlike 不道德, which is the formal, considered moral judgment, 缺德 is spontaneous and personal: it condemns the person, not just the act, as missing something fundamental. The gap between 缺德 (lacking virtue) and 无耻 (shameless) is one of intensity; 缺德 is the more restrained condemnation.
+          缺 quē (to lack; to be deficient in) + 德 dé (virtue). Colloquial and pointed , the accusation that someone is not merely wrong but constitutionally lacking in the moral quality that should be there. 这太缺德了 (that's really low / that's despicable) is the standard form. Unlike 不道德, which is the formal, considered moral judgment, 缺德 is spontaneous and personal: it condemns the person, not just the act, as missing something fundamental. The gap between 缺德 (lacking virtue) and 无耻 (shameless) is one of intensity; 缺德 is the more restrained condemnation.
         </div>
         <div class="examples">
           <div class="example">
             <div class="ex-cn">故意在别人车前停车不让路，太缺德了。</div>
             <div class="ex-py">Gùyì zài biérén chē qián tíngchē bù ràng lù, tài quēdé le.</div>
-            <div class="ex-en">Deliberately blocking someone's car and refusing to move — that's really despicable.</div>
+            <div class="ex-en">Deliberately blocking someone's car and refusing to move , that's really despicable.</div>
           </div>
           <div class="example">
             <div class="ex-cn">他拿走了捐款箱里的钱，这种缺德的事怎么做得出来？</div>
             <div class="ex-py">Tā ná zǒu le juānkuǎn xiāng lǐ de qián, zhè zhǒng quēdé de shì zěnme zuò dé chūlái?</div>
-            <div class="ex-en">He took the money from the donation box — how could anyone do something so low?</div>
+            <div class="ex-en">He took the money from the donation box , how could anyone do something so low?</div>
           </div>
           <div class="example">
             <div class="ex-cn">你这个缺德鬼，把我的东西藏起来干什么！</div>
             <div class="ex-py">Nǐ zhège quēdé guǐ, bǎ wǒ de dōngxi cáng qǐlái gàn shénme!</div>
-            <div class="ex-en">You shameless creature — why did you hide my things?! (playful or reproachful, depending on tone)</div>
+            <div class="ex-en">You shameless creature , why did you hide my things?! (playful or reproachful, depending on tone)</div>
           </div>
         </div>
       </div>
@@ -374,12 +374,12 @@ content_sources:
 
     <div class="pattern">
       <span class="label">构词规律 gòucí guīlǜ · Word-Formation</span>
-      <strong>德 dé</strong> is among the most productive characters in the Chinese moral lexicon. It appears as the second element in evaluative compounds (品德, 美德, 公德), as the first element in compound nouns (德行, 德育), as a standalone classifier of virtue (有德 / 失德), and in the fixed phrases of classical provenance (以德服人). Note the range in register: 美德 (admirable virtue — formal, classical) and 缺德 (lacking virtue — colloquial, direct) are made from the same character but inhabit entirely different tonal registers.
+      <strong>德 dé</strong> is among the most productive characters in the Chinese moral lexicon. It appears as the second element in evaluative compounds (品德, 美德, 公德), as the first element in compound nouns (德行, 德育), as a standalone classifier of virtue (有德 / 失德), and in the fixed phrases of classical provenance (以德服人). Note the range in register: 美德 (admirable virtue , formal, classical) and 缺德 (lacking virtue , colloquial, direct) are made from the same character but inhabit entirely different tonal registers.
       <ul>
-        <li><strong>美德 měidé</strong> — admirable virtue; a praiseworthy quality (美 = beautiful, excellent). 谦逊是一种美德 (humility is a virtue).</li>
-        <li><strong>道德绑架 dàodé bǎngjià</strong> — moral coercion; weaponizing moral language to pressure or manipulate others (绑架 = kidnapping; holding hostage). A modern term that has become central to Chinese social media discourse — the accusation that someone is exploiting moral norms to control behavior rather than making a genuine ethical argument.</li>
-        <li><strong>有德 yǒudé / 失德 shīdé</strong> — to have virtue / to lose one's virtue; to behave shamefully. 失德 is stronger than merely being wrong — it implies a fall from a standard that the person was assumed to hold.</li>
-        <li><strong>以德服人 yǐ dé fú rén</strong> — to win people over through virtue, not force. The ideal of moral authority as opposed to coercive authority; the quality Confucius associated with the legitimate ruler and the admirable person alike.</li>
+        <li><strong>美德 měidé</strong> , admirable virtue; a praiseworthy quality (美 = beautiful, excellent). 谦逊是一种美德 (humility is a virtue).</li>
+        <li><strong>道德绑架 dàodé bǎngjià</strong> , moral coercion; weaponizing moral language to pressure or manipulate others (绑架 = kidnapping; holding hostage). A modern term that has become central to Chinese social media discourse , the accusation that someone is exploiting moral norms to control behavior rather than making a genuine ethical argument.</li>
+        <li><strong>有德 yǒudé / 失德 shīdé</strong> , to have virtue / to lose one's virtue; to behave shamefully. 失德 is stronger than merely being wrong , it implies a fall from a standard that the person was assumed to hold.</li>
+        <li><strong>以德服人 yǐ dé fú rén</strong> , to win people over through virtue, not force. The ideal of moral authority as opposed to coercive authority; the quality Confucius associated with the legitimate ruler and the admirable person alike.</li>
       </ul>
     </div>
 
@@ -398,21 +398,21 @@ content_sources:
         <span class="cy-cn">以德报怨</span>
         <span class="cy-py">yǐ dé bào yuàn</span>
         <span class="cy-en">to repay resentment with virtue; to return good for evil</span>
-        <span class="cy-note">以 yǐ (using; by means of) + 德 dé (virtue) + 报 bào (to repay; to respond) + 怨 yuàn (resentment; grievance). The phrase sounds straightforwardly noble — and it is widely cited as a virtue. But its origin is more complicated. In the Analects (论语), someone asks Confucius: "What do you say about repaying resentment with virtue?" His answer is pointed: 何以报德？以直报怨，以德报德。(What then do you use to repay virtue? Repay resentment with justice, and repay virtue with virtue.) Confucius thought that repaying resentment with virtue was a category error — it left nothing to distinguish the good from the harmful. The phrase now circulates independently of this critique, usually as an expression of magnanimity, but knowing its context sharpens it considerably.</span>
+        <span class="cy-note">以 yǐ (using; by means of) + 德 dé (virtue) + 报 bào (to repay; to respond) + 怨 yuàn (resentment; grievance). The phrase sounds straightforwardly noble , and it is widely cited as a virtue. But its origin is more complicated. In the Analects (论语), someone asks Confucius: "What do you say about repaying resentment with virtue?" His answer is pointed: 何以报德？以直报怨，以德报德。(What then do you use to repay virtue? Repay resentment with justice, and repay virtue with virtue.) Confucius thought that repaying resentment with virtue was a category error , it left nothing to distinguish the good from the harmful. The phrase now circulates independently of this critique, usually as an expression of magnanimity, but knowing its context sharpens it considerably.</span>
       </div>
 
       <div class="cy">
         <span class="cy-cn">德才兼备</span>
         <span class="cy-py">dé cái jiān bèi</span>
         <span class="cy-en">to have both virtue and talent; the ideal of the capable and morally upright person</span>
-        <span class="cy-note">德 dé (virtue; moral character) + 才 cái (talent; ability; practical capability) + 兼 jiān (simultaneously; to combine) + 备 bèi (to possess; to be equipped with). The ideal of the complete person — someone who is not only capable and skilled (才) but also genuinely good (德). The compound encodes a longstanding tension in Chinese evaluation of people: 有才无德 (talented but without virtue) is the cautionary type, the person who has power without integrity. The examination system tested 才; whether it could test 德 was always the harder question. 德才兼备 remains the standard phrase in Chinese hiring, educational, and official assessment contexts.</span>
+        <span class="cy-note">德 dé (virtue; moral character) + 才 cái (talent; ability; practical capability) + 兼 jiān (simultaneously; to combine) + 备 bèi (to possess; to be equipped with). The ideal of the complete person , someone who is not only capable and skilled (才) but also genuinely good (德). The compound encodes a longstanding tension in Chinese evaluation of people: 有才无德 (talented but without virtue) is the cautionary type, the person who has power without integrity. The examination system tested 才; whether it could test 德 was always the harder question. 德才兼备 remains the standard phrase in Chinese hiring, educational, and official assessment contexts.</span>
       </div>
 
       <div class="cy">
         <span class="cy-cn">厚德载物</span>
         <span class="cy-py">hòu dé zài wù</span>
         <span class="cy-en">profound virtue bears all things; great moral force sustains everything it carries</span>
-        <span class="cy-note">厚 hòu (thick; deep; generous; substantial) + 德 dé (virtue; moral force) + 载 zài (to carry; to bear; to support) + 物 wù (things; the ten thousand things; all beings). From the 易经 (Book of Changes), in the commentary on 坤 ☷, the earth trigram: 地势坤，君子以厚德载物 (The earth's configuration is yielding; the exemplary person thereby uses profound virtue to support all beings). The earth supports everything without exception or complaint — mountains, rivers, people, creatures. This is the model for how profound virtue works: it sustains without rejecting, holds without controlling. The phrase appears as a motto of Tsinghua University (自强不息，厚德载物 — Strive ceaselessly; let profound virtue bear all things) and is widely used in formal aspirational contexts.</span>
+        <span class="cy-note">厚 hòu (thick; deep; generous; substantial) + 德 dé (virtue; moral force) + 载 zài (to carry; to bear; to support) + 物 wù (things; the ten thousand things; all beings). From the 易经 (Book of Changes), in the commentary on 坤 ☷, the earth trigram: 地势坤，君子以厚德载物 (The earth's configuration is yielding; the exemplary person thereby uses profound virtue to support all beings). The earth supports everything without exception or complaint , mountains, rivers, people, creatures. This is the model for how profound virtue works: it sustains without rejecting, holds without controlling. The phrase appears as a motto of Tsinghua University (自强不息，厚德载物 , Strive ceaselessly; let profound virtue bear all things) and is widely used in formal aspirational contexts.</span>
       </div>
 
     </div>
@@ -445,8 +445,8 @@ content_sources:
     <!-- RETENTION SCHOLAR BOX -->
     <div class="scholar" data-glyph="道">
       <div class="scholar-label">记忆法 jìyìfǎ · Master Retention Image</div>
-      <p>The simplest way to hold 道德: 道 is the path, 德 is what you become by walking it well. One is outside you — the pattern of things, the right course — the other is inside you, the accumulated effect of how you have moved through the world. Neither is enough alone. A 道 without 德 is a map no one follows; a 德 without 道 is good intentions without orientation.</p>
-      <p>In modern Chinese, the word has settled into something more ordinary — "morality," the way English uses it in headlines and arguments. But the etymology still breathes in it. When someone says 这不道德 (this is immoral), they are not just citing a rule. They are saying, however unconsciously: this is not the way a person walks the right path. The ancient compound survives inside the everyday word, waiting to be noticed.</p>
+      <p>The simplest way to hold 道德: 道 is the path, 德 is what you become by walking it well. One is outside you , the pattern of things, the right course , the other is inside you, the accumulated effect of how you have moved through the world. Neither is enough alone. A 道 without 德 is a map no one follows; a 德 without 道 is good intentions without orientation.</p>
+      <p>In modern Chinese, the word has settled into something more ordinary , "morality," the way English uses it in headlines and arguments. But the etymology still breathes in it. When someone says 这不道德 (this is immoral), they are not just citing a rule. They are saying, however unconsciously: this is not the way a person walks the right path. The ancient compound survives inside the everyday word, waiting to be noticed.</p>
     </div>
 
     <footer class="page-footer">

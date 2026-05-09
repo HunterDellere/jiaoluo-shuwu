@@ -69,7 +69,7 @@ content_sources:
 
     <div class="scholar" data-glyph="打">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
-      <p><strong>打 = 扌shǒu</strong> (hand radical — the simplified form of 手, hand) <strong>+ 丁 dīng</strong> (a nail; a person's name; a small unit; phonetic). The hand radical anchors 打 in the vast family of hand-action characters: 拿 (to take), 拍 (to clap), 推 (to push), 拉 (to pull), 掉 (to drop), 扔 (to throw). 丁 contributes pronunciation and the image of something pointed — a nail being struck.</p>
+      <p><strong>打 = 扌shǒu</strong> (hand radical , the simplified form of 手, hand) <strong>+ 丁 dīng</strong> (a nail; a person's name; a small unit; phonetic). The hand radical anchors 打 in the vast family of hand-action characters: 拿 (to take), 拍 (to clap), 推 (to push), 拉 (to pull), 掉 (to drop), 扔 (to throw). 丁 contributes pronunciation and the image of something pointed , a nail being struck.</p>
       <p>The original meaning was narrow: to hit with the hand, to strike. But 打 expanded through spoken Chinese into a generalized <strong>light verb</strong> (a semantically bleached action word that combines with nouns to form compound expressions). This is the pattern of 打 that makes it one of the most important verbs to learn: the doing, making, playing, and handling.</p>
     </div>
 
@@ -77,9 +77,9 @@ content_sources:
     <div class="section-head"><span class="sh-cn">轻动词</span><span class="sh-py">qīng dòngcí</span><span class="sh-en">打 as Light Verb — Make, Do, Play</span><span class="sh-rule"></span></div>
 
     <div class="scholar" data-glyph="打">
-      <div class="scholar-label">语法洞见 yǔfǎ dòngjiàn · Grammar Insight — Light Verbs</div>
-      <p>A <strong>light verb</strong> (轻动词 qīng dòngcí) is a verb that contributes little semantic content of its own — it functions as a grammatical carrier that combines with a noun or object to form a complete predicate. English has them too: "make a decision," "take a look," "have a swim." The actual meaning lives in the noun; the verb just activates it.</p>
-      <p>打 is the most productive light verb in Mandarin — far outstripping its competitors 做 zuò (do/make), 搞 gǎo (do/handle), and 玩 wán (play). The range of 打's combinations is so wide that learners must simply memorize them: 打电话 (make a call), 打针 (give/get an injection), 打包 (pack up / to-go box), 打折 (give a discount), 打招呼 (greet). The underlying logic is often a reaching-and-applying motion — but the extensions have become idiomatic and are not derivable from first principles.</p>
+      <div class="scholar-label">语法洞见 yǔfǎ dòngjiàn · Grammar Insight , Light Verbs</div>
+      <p>A <strong>light verb</strong> (轻动词 qīng dòngcí) is a verb that contributes little semantic content of its own , it functions as a grammatical carrier that combines with a noun or object to form a complete predicate. English has them too: "make a decision," "take a look," "have a swim." The actual meaning lives in the noun; the verb just activates it.</p>
+      <p>打 is the most productive light verb in Mandarin , far outstripping its competitors 做 zuò (do/make), 搞 gǎo (do/handle), and 玩 wán (play). The range of 打's combinations is so wide that learners must simply memorize them: 打电话 (make a call), 打针 (give/get an injection), 打包 (pack up / to-go box), 打折 (give a discount), 打招呼 (greet). The underlying logic is often a reaching-and-applying motion , but the extensions have become idiomatic and are not derivable from first principles.</p>
     </div>
 
     <span class="section-anchor" id="sports"></span>

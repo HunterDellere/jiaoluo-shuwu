@@ -32,7 +32,7 @@ content_sources:
     <ul class="toc-list">
       <li><a href="#etymology">
         <span class="toc-cn">字源</span> Etymology
-        <span class="toc-sub">笔 and 记 — brush and record</span>
+        <span class="toc-sub">笔 and 记 , brush and record</span>
       </a></li>
       <li><a href="#genre">
         <span class="toc-cn">文体</span> Literary Genre

@@ -59,7 +59,7 @@ content_sources:
       <span class="topic-hero-eyebrow">Vocab · 词汇 cíhuì</span>
       <h1 class="topic-hero-title">风俗</h1>
       <span class="topic-hero-title-py">fēng sú</span>
-      <p class="topic-hero-desc">The invisible rules of how people live together — customs that are neither law nor preference, but the accumulated wisdom of generations.</p>
+      <p class="topic-hero-desc">The invisible rules of how people live together , customs that are neither law nor preference, but the accumulated wisdom of generations.</p>
     </header>
 
     <span class="section-anchor" id="etymology"></span>
@@ -89,7 +89,7 @@ content_sources:
       <span class="label">三词辨析 sān cí biànxī · Three Registers of "Custom"</span>
       <strong>风俗</strong> fēngsú = collective folk practices, often regional; sociological and ethnographic<br>
       <strong>习俗</strong> xísú = similar to 风俗, slightly more formal; practices transmitted through habituation<br>
-      <strong>传统</strong> chuántǒng = tradition — practices transmitted across generations with conscious identity<br>
+      <strong>传统</strong> chuántǒng = tradition , practices transmitted across generations with conscious identity<br>
       <strong>习惯</strong> xíguàn = personal habit; also a shared practice, but more individual than 风俗
     </div>
 
@@ -103,7 +103,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">成语 chéngyǔ</span></div>
         <div class="card-def">
-          Lit: enter-village-follow-customs. The essential guide to cross-cultural conduct — observe and adopt local practices rather than imposing your own. Used practically and as a statement of cultural humility. 你到了那里，要入乡随俗 "When you get there, follow local customs."
+          Lit: enter-village-follow-customs. The essential guide to cross-cultural conduct , observe and adopt local practices rather than imposing your own. Used practically and as a statement of cultural humility. 你到了那里，要入乡随俗 "When you get there, follow local customs."
         </div>
         <div class="examples">
           <div class="example">
@@ -134,13 +134,13 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          满 mǎn (full; complete) + 月 yuè (month). When a baby has survived its first full month — historically the most dangerous period — the family celebrates with red eggs (红鸡蛋 hóng jīdàn), gifting of gold jewelry, and a feast. The custom signals that the child is likely to thrive.
+          满 mǎn (full; complete) + 月 yuè (month). When a baby has survived its first full month , historically the most dangerous period , the family celebrates with red eggs (红鸡蛋 hóng jīdàn), gifting of gold jewelry, and a feast. The custom signals that the child is likely to thrive.
         </div>
         <div class="examples">
           <div class="example">
             <div class="ex-cn">邻居家的孩子满月了，我们去送礼。</div>
             <div class="ex-py">Línjū jiā de háizi mǎnyuè le, wǒmen qù sòng lǐ.</div>
-            <div class="ex-en">The neighbors' baby has reached one month — we're going to bring a gift.</div>
+            <div class="ex-en">The neighbors' baby has reached one month , we're going to bring a gift.</div>
           </div>
         </div>
       </div>
@@ -172,7 +172,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          头 tóu (head; first) + 七 qī (seven). Traditional Chinese mourning involves rituals at seven-day intervals for 49 days — the period the soul is believed to linger. 头七 (day 7) is the most important — the family burns paper offerings and sets a place for the deceased at the table.
+          头 tóu (head; first) + 七 qī (seven). Traditional Chinese mourning involves rituals at seven-day intervals for 49 days , the period the soul is believed to linger. 头七 (day 7) is the most important — the family burns paper offerings and sets a place for the deceased at the table.
         </div>
         <div class="examples">
           <div class="example">

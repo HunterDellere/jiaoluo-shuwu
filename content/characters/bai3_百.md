@@ -34,7 +34,7 @@ content_review: 'pending'
     <ul class="toc-list">
       <li><a href="#etymology">
         <span class="toc-cn">字源</span> Etymology
-        <span class="toc-sub">one above white — a phonosemantic number</span>
+        <span class="toc-sub">one above white , a phonosemantic number</span>
       </a></li>
       <li><a href="#allkinds">
         <span class="toc-cn">百姓</span> 百 as All / Every
@@ -92,9 +92,9 @@ content_review: 'pending'
 
     <div class="scholar" data-glyph="百">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
-      <p>百 decomposes as ⿱一白: the stroke 一 (one) on top of 白 (white). The Shuōwén Jiězì reads the character as "ten tens" — a practical definition, not an etymology. The more linguistically defensible analysis treats 白 bái as a phonetic component providing the approximate sound (白 bái vs. 百 bǎi — close in final consonant and vowel, differing only in tone, with Old Chinese reconstructions suggesting an even closer match) and 一 as the semantic indicator of a number: one unit of the 白-sound-class. The character is a phonosemantic construction, not a direct ideogram of the number.</p>
-      <p>Folk etymologies abound. One reading interprets 一 above 白 as "the one bright thing" — the sun at its peak, which occurs once in a hundred days of weather. Another reads it as a stacked number, the way 万 stacks elements for scale. These readings are aesthetically appealing but philologically unsupported. The phonosemantic reading — 白 gives the sound, 一 gives the number category — is the most defensible in the context of how the Chinese script actually works: the majority of characters are phonosemantic compounds, and 百 fits the pattern cleanly.</p>
-      <p>The radical assignment (白, Kangxi #106) is genuine: 百 is filed under white because 白 is its largest visual component and because 白 was established as a radical before 百's phonosemantic structure was widely analyzed. Several compounds that use 百 as a phonetic component — 宿 (xǐu, to lodge overnight; constellation) in one Old Chinese stratum — show how productive the character became as a phonetic carrier even as it retained its number meaning.</p>
+      <p>百 decomposes as ⿱一白: the stroke 一 (one) on top of 白 (white). The Shuōwén Jiězì reads the character as "ten tens" , a practical definition, not an etymology. The more linguistically defensible analysis treats 白 bái as a phonetic component providing the approximate sound (白 bái vs. 百 bǎi , close in final consonant and vowel, differing only in tone, with Old Chinese reconstructions suggesting an even closer match) and 一 as the semantic indicator of a number: one unit of the 白-sound-class. The character is a phonosemantic construction, not a direct ideogram of the number.</p>
+      <p>Folk etymologies abound. One reading interprets 一 above 白 as "the one bright thing" , the sun at its peak, which occurs once in a hundred days of weather. Another reads it as a stacked number, the way 万 stacks elements for scale. These readings are aesthetically appealing but philologically unsupported. The phonosemantic reading , 白 gives the sound, 一 gives the number category , is the most defensible in the context of how the Chinese script actually works: the majority of characters are phonosemantic compounds, and 百 fits the pattern cleanly.</p>
+      <p>The radical assignment (白, Kangxi #106) is genuine: 百 is filed under white because 白 is its largest visual component and because 白 was established as a radical before 百's phonosemantic structure was widely analyzed. Several compounds that use 百 as a phonetic component , 宿 (xǐu, to lodge overnight; constellation) in one Old Chinese stratum , show how productive the character became as a phonetic carrier even as it retained its number meaning.</p>
     </div>
 
     <!-- ── ALL / EVERY ── -->
@@ -107,9 +107,9 @@ content_review: 'pending'
     </div>
 
     <div class="scholar" data-glyph="民">
-      <div class="scholar-label">百姓 — the full range of ordinary people</div>
-      <p>The character 百 carries a second job beyond the number: it signals totality across a domain. 百货 (bǎihuò, all kinds of goods), 百科 (bǎikē, all branches of knowledge), 百般 (bǎibān, in every way), 百年 (bǎinián, a hundred years — a full generation's span). Where English uses "all" or "every," formal Chinese often uses 百 to signal the full range of a category.</p>
-      <p>The most culturally loaded 百-compound is 百姓 (bǎixìng), "the common people." The literal meaning is "the hundred surnames." In Zhou dynasty nomenclature, 姓 (xìng, surname) was itself an aristocratic privilege: the ruling class had surnames; commoners were designated by their clan and location of origin, not a proper hereditary 姓. Over centuries the nomenclature inverted: everyone acquired surnames, and "the hundred surnames" — the full range of family names — came to mean "the ordinary people" as a class, contrasted with 贵族 (guìzú, the nobility) or 官员 (guānyuán, officials). Today 老百姓 (lǎobǎixìng, "the old hundred surnames" — the common people, the masses) is the warm colloquial phrase for "ordinary citizens." The 百 here is not counting surnames; it is naming the totality of what is not special.</p>
+      <div class="scholar-label">百姓 , the full range of ordinary people</div>
+      <p>The character 百 carries a second job beyond the number: it signals totality across a domain. 百货 (bǎihuò, all kinds of goods), 百科 (bǎikē, all branches of knowledge), 百般 (bǎibān, in every way), 百年 (bǎinián, a hundred years , a full generation's span). Where English uses "all" or "every," formal Chinese often uses 百 to signal the full range of a category.</p>
+      <p>The most culturally loaded 百-compound is 百姓 (bǎixìng), "the common people." The literal meaning is "the hundred surnames." In Zhou dynasty nomenclature, 姓 (xìng, surname) was itself an aristocratic privilege: the ruling class had surnames; commoners were designated by their clan and location of origin, not a proper hereditary 姓. Over centuries the nomenclature inverted: everyone acquired surnames, and "the hundred surnames" , the full range of family names , came to mean "the ordinary people" as a class, contrasted with 贵族 (guìzú, the nobility) or 官员 (guānyuán, officials). Today 老百姓 (lǎobǎixìng, "the old hundred surnames" , the common people, the masses) is the warm colloquial phrase for "ordinary citizens." The 百 here is not counting surnames; it is naming the totality of what is not special.</p>
     </div>
 
     <!-- ── BAIHUA / HUNDRED FLOWERS ── -->
@@ -123,9 +123,9 @@ content_review: 'pending'
 
     <div class="scholar" data-glyph="花">
       <div class="scholar-label">百花齐放，百家争鸣 · The Hundred Flowers Movement</div>
-      <p>Two 百-phrases form the twin slogans of the 1956–57 Hundred Flowers Campaign: <strong>百花齐放</strong> (bǎi huā qí fàng, "let a hundred flowers bloom") and <strong>百家争鸣</strong> (bǎi jiā zhēng míng, "let a hundred schools of thought contend"). Both phrases had ancient origins before Mao repurposed them. 百花齐放 invokes the Zhuangzi tradition of natural diversity; 百家争鸣 invokes the Warring States period (475–221 BCE), when Confucians, Daoists, Legalists, Mohists, and dozens of other schools argued openly — the last period of genuine philosophical pluralism in Chinese history before Qin unification imposed ideological conformity.</p>
+      <p>Two 百-phrases form the twin slogans of the 1956–57 Hundred Flowers Campaign: <strong>百花齐放</strong> (bǎi huā qí fàng, "let a hundred flowers bloom") and <strong>百家争鸣</strong> (bǎi jiā zhēng míng, "let a hundred schools of thought contend"). Both phrases had ancient origins before Mao repurposed them. 百花齐放 invokes the Zhuangzi tradition of natural diversity; 百家争鸣 invokes the Warring States period (475–221 BCE), when Confucians, Daoists, Legalists, Mohists, and dozens of other schools argued openly , the last period of genuine philosophical pluralism in Chinese history before Qin unification imposed ideological conformity.</p>
       <p>In 1956 Mao announced that intellectuals and party members were free to criticize policy, culture, and the state of Chinese society. The invitation looked like an opening. The response was larger and sharper than the leadership anticipated: critics attacked collectivization, the pace of industrialization, party corruption, and the Soviet model. Within a year the campaign reversed. Those who had spoken were labeled Rightists; the Anti-Rightist Campaign of 1957–58 sent hundreds of thousands to labor camps or political exile. The flowers were cut.</p>
-      <p>The phrases survive as a permanent irony. 百花齐放 appears in contemporary cultural policy documents as a genuine aspiration toward artistic diversity; the same phrase appears in dissident writing as shorthand for the campaign and its aftermath. The 百 here — the number that came to mean "all kinds of" — became the number that named what was briefly permitted and then prohibited. Both meanings coexist in the four characters, and Chinese speakers know which context they are in.</p>
+      <p>The phrases survive as a permanent irony. 百花齐放 appears in contemporary cultural policy documents as a genuine aspiration toward artistic diversity; the same phrase appears in dissident writing as shorthand for the campaign and its aftermath. The 百 here , the number that came to mean "all kinds of" , became the number that named what was briefly permitted and then prohibited. Both meanings coexist in the four characters, and Chinese speakers know which context they are in.</p>
     </div>
 
     <!-- ── COMPOUNDS ── -->
@@ -147,7 +147,7 @@ content_review: 'pending'
         </div>
         <div class="tags"><span class="tag tag-n">Prep phrase 介词短语</span></div>
         <div class="card-def">
-          百 (hundred) + 分 fēn (parts, divide) + 之 zhī (of, possessive particle). Literally: "out of a hundred parts." Chinese writes percentages as 百分之X — 百分之五十 (50%), 百分之百 (100%). The structure is the reverse of English: where English writes "50 percent," Chinese writes "hundred-parts-of-fifty." 百分之百 (bǎi fēn zhī bǎi) is both the number 100% and the idiom for "absolutely, completely": 我百分之百同意 (I agree one hundred percent).
+          百 (hundred) + 分 fēn (parts, divide) + 之 zhī (of, possessive particle). Literally: "out of a hundred parts." Chinese writes percentages as 百分之X , 百分之五十 (50%), 百分之百 (100%). The structure is the reverse of English: where English writes "50 percent," Chinese writes "hundred-parts-of-fifty." 百分之百 (bǎi fēn zhī bǎi) is both the number 100% and the idiom for "absolutely, completely": 我百分之百同意 (I agree one hundred percent).
         </div>
         <div class="examples">
           <div class="example">
@@ -185,7 +185,7 @@ content_review: 'pending'
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          百 (all kinds of) + 货 huò (goods, merchandise). 百货公司 (bǎihuò gōngsī, "all-goods company") is the standard Chinese term for a department store. The phrase originated in the early 20th century when department stores were introduced to major Chinese cities — the concept of a single building selling every category of product was novel enough to require a name that said so explicitly. Today 百货 is shortened to stand alone: 去百货 means "going to the department store."
+          百 (all kinds of) + 货 huò (goods, merchandise). 百货公司 (bǎihuò gōngsī, "all-goods company") is the standard Chinese term for a department store. The phrase originated in the early 20th century when department stores were introduced to major Chinese cities , the concept of a single building selling every category of product was novel enough to require a name that said so explicitly. Today 百货 is shortened to stand alone: 去百货 means "going to the department store."
         </div>
         <div class="examples">
           <div class="example">
@@ -229,7 +229,7 @@ content_review: 'pending'
           <div class="example">
             <div class="ex-cn">教育是百年大计，不能只看眼前利益。</div>
             <div class="ex-py">Jiàoyù shì bǎinián dàjì, bù néng zhǐ kàn yǎnqián lìyì.</div>
-            <div class="ex-en">Education is a long-term fundamental project — you cannot only look at immediate benefits.</div>
+            <div class="ex-en">Education is a long-term fundamental project , you cannot only look at immediate benefits.</div>
           </div>
         </div>
       </div>
@@ -251,14 +251,14 @@ content_review: 'pending'
         <span class="cy-cn">百发百中</span>
         <span class="cy-py">bǎi fā bǎi zhòng</span>
         <span class="cy-en">a hundred shots, a hundred hits — unerring accuracy</span>
-        <span class="cy-note">百 (hundred) + 发 fā (to shoot, release) + 百 + 中 zhòng (to hit the mark). A perfect score: every arrow finds its target. From archery contexts in the Warring States period, now applied to any domain where one's predictions, arguments, or shots unfailingly land. The doubled 百 is part of the chengyu's logic — the first hundred fires, the second hundred confirms every shot hit. 神射手百发百中 (a crack marksman never misses).</span>
+        <span class="cy-note">百 (hundred) + 发 fā (to shoot, release) + 百 + 中 zhòng (to hit the mark). A perfect score: every arrow finds its target. From archery contexts in the Warring States period, now applied to any domain where one's predictions, arguments, or shots unfailingly land. The doubled 百 is part of the chengyu's logic , the first hundred fires, the second hundred confirms every shot hit. 神射手百发百中 (a crack marksman never misses).</span>
       </div>
 
       <div class="cy">
         <span class="cy-cn">百闻不如一见</span>
         <span class="cy-py">bǎi wén bù rú yī jiàn</span>
         <span class="cy-en">hearing a hundred times is not as good as seeing once</span>
-        <span class="cy-note">From the Han Shu (Book of Han), attributed to general Zhao Chongguo (赵充国), who when asked by Emperor Xuan to estimate how many troops would be needed for a campaign said: "Hearing about a situation a hundred times is not as good as seeing it once. Military affairs are hard to estimate from a distance; I request to go to the front in person and then submit a plan." The phrase passed from military counsel into general use: direct experience outweighs accumulated secondhand accounts. The 百 here functions as the hyperbole unit — not literally one hundred hearings, but as many as you could accumulate.</span>
+        <span class="cy-note">From the Han Shu (Book of Han), attributed to general Zhao Chongguo (赵充国), who when asked by Emperor Xuan to estimate how many troops would be needed for a campaign said: "Hearing about a situation a hundred times is not as good as seeing it once. Military affairs are hard to estimate from a distance; I request to go to the front in person and then submit a plan." The phrase passed from military counsel into general use: direct experience outweighs accumulated secondhand accounts. The 百 here functions as the hyperbole unit , not literally one hundred hearings, but as many as you could accumulate.</span>
       </div>
 
       <div class="cy">

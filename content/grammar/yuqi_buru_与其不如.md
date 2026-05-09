@@ -63,7 +63,7 @@ pinyin: 'yǔqí bùrú'
       <span class="topic-hero-eyebrow">Grammar · 语法 yǔfǎ · Paired Construction 成对连词</span>
       <h1 class="topic-hero-title">与其…不如</h1>
       <span class="topic-hero-title-py">yǔqí … bùrú</span>
-      <p class="topic-hero-desc">The preference-comparison frame: "Rather than [X], it would be better to [Y]." Rejects one option in favor of a superior one — one of the most rhetorically powerful constructions in Mandarin.</p>
+      <p class="topic-hero-desc">The preference-comparison frame: "Rather than [X], it would be better to [Y]." Rejects one option in favor of a superior one , one of the most rhetorically powerful constructions in Mandarin.</p>
     </header>
 
     <!-- ── ETYMOLOGY ── -->
@@ -95,7 +95,7 @@ pinyin: 'yǔqí bùrú'
       <span class="label">基本框架 jīběn kuàngjià · Basic Frame</span>
       <strong>与其 [Option A]，不如 [Option B]</strong><br>
       "Rather than [A], it would be better to [B]"<br><br>
-      <strong>与其 [A]，倒不如 [B]</strong> — colloquial reinforcement<br>
+      <strong>与其 [A]，倒不如 [B]</strong> , colloquial reinforcement<br>
       <strong>与其说 [A]，不如说 [B]</strong> — "rather than saying A, it would be more accurate to say B"
     </div>
 

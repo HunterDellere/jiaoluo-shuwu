@@ -57,7 +57,7 @@ pinyin: 'báijiǔ'
       <span class="topic-hero-eyebrow">Culinary · 饮食 yǐnshí</span>
       <h1 class="topic-hero-title">白酒</h1>
       <span class="topic-hero-title-py">báijiǔ</span>
-      <p class="topic-hero-desc">China's fiery grain spirit — the most consumed distilled liquor in the world by volume, and what it means to drink together.</p>
+      <p class="topic-hero-desc">China's fiery grain spirit , the most consumed distilled liquor in the world by volume, and what it means to drink together.</p>
     </header>
 
     <span class="section-anchor" id="what"></span>
@@ -75,15 +75,15 @@ pinyin: 'báijiǔ'
       <div class="cards">
         <div class="card c-red">
           <div class="card-head">酱香 jiànɡxiāng · Sauce Aroma</div>
-          <p>The most complex and prestigious aroma type — intense, savory, umami-forward, with notes of soy, dried fruit, and deep grain. Associated with Moutai (茅台) from Guizhou, fermented multiple times over a year-long production cycle. An acquired taste that rewards patience.</p>
+          <p>The most complex and prestigious aroma type , intense, savory, umami-forward, with notes of soy, dried fruit, and deep grain. Associated with Moutai (茅台) from Guizhou, fermented multiple times over a year-long production cycle. An acquired taste that rewards patience.</p>
         </div>
         <div class="card c-ochre">
           <div class="card-head">浓香 nóngxiāng · Strong Aroma</div>
-          <p>The most popular category by volume — rich, sweet, with fruity and floral top notes over a grain base. Wuliangye (五粮液) and Luzhou Laojiao (泸州老窖) are its flagship brands. Made from five grains in ancient earth pits. Accessible and food-friendly.</p>
+          <p>The most popular category by volume , rich, sweet, with fruity and floral top notes over a grain base. Wuliangye (五粮液) and Luzhou Laojiao (泸州老窖) are its flagship brands. Made from five grains in ancient earth pits. Accessible and food-friendly.</p>
         </div>
         <div class="card c-teal">
           <div class="card-head">清香 qīngxiāng · Light Aroma</div>
-          <p>Cleaner, drier, and more restrained — grain-forward with light floral notes. Associated with Fenjiu (汾酒) from Shanxi, one of the oldest baijiu producers. The style influenced Korean soju and Japanese shochu through historical contact.</p>
+          <p>Cleaner, drier, and more restrained , grain-forward with light floral notes. Associated with Fenjiu (汾酒) from Shanxi, one of the oldest baijiu producers. The style influenced Korean soju and Japanese shochu through historical contact.</p>
         </div>
         <div class="card c-sienna">
           <div class="card-head">米香 mǐxiāng · Rice Aroma</div>
@@ -117,7 +117,7 @@ pinyin: 'báijiǔ'
       <div class="cards">
         <div class="card c-ochre">
           <div class="card-head"><span class="tag-n">n</span> 酒桌 jiǔzhuō</div>
-          <p>The drinking table — refers not just to the physical table but to the entire social ritual of the banquet. 酒桌文化 (jiǔzhuō wénhuà) is "drinking table culture," often discussed critically for its excesses.</p>
+          <p>The drinking table , refers not just to the physical table but to the entire social ritual of the banquet. 酒桌文化 (jiǔzhuō wénhuà) is "drinking table culture," often discussed critically for its excesses.</p>
         </div>
         <div class="card c-ochre">
           <div class="card-head"><span class="tag-v">v</span> 劝酒 quàn jiǔ</div>

@@ -59,7 +59,7 @@ faq:
       <span class="topic-hero-eyebrow">Grammar · 语法 yǔfǎ</span>
       <h1 class="topic-hero-title">之</h1>
       <span class="topic-hero-title-py">zhī</span>
-      <p class="topic-hero-desc">Three strokes that carry three grammatical jobs — genitive marker, object pronoun, and nominalizer — and that modern Chinese has never quite been able to retire.</p>
+      <p class="topic-hero-desc">Three strokes that carry three grammatical jobs , genitive marker, object pronoun, and nominalizer , and that modern Chinese has never quite been able to retire.</p>
     </header>
 
     <!-- ═══ SECTION 1: GENITIVE ═══ -->
@@ -92,7 +92,7 @@ faq:
         <div class="card-pinyin">jūnzǐ zhī dào</div>
         <div class="card-en">the way of the gentleman</div>
         <span class="tag-n">genitive</span>
-        <div class="card-note">君子 (possessor) 之 道 (head noun). The recurring formula of the Analects — 之 is doing exactly what 的 does today: 君子的道.</div>
+        <div class="card-note">君子 (possessor) 之 道 (head noun). The recurring formula of the Analects , 之 is doing exactly what 的 does today: 君子的道.</div>
       </div>
 
       <div class="card c-teal">
@@ -116,7 +116,7 @@ faq:
         <div class="card-pinyin">mín zhī suǒ yù</div>
         <div class="card-en">what the people desire</div>
         <span class="tag-n">genitive + 所</span>
-        <div class="card-note">之 here connects 民 to the 所-nominalized verb phrase 所欲 (that which is desired). 所 and 之 frequently combine in classical texts — 之所以 in modern Chinese preserves this pairing.</div>
+        <div class="card-note">之 here connects 民 to the 所-nominalized verb phrase 所欲 (that which is desired). 所 and 之 frequently combine in classical texts , 之所以 in modern Chinese preserves this pairing.</div>
       </div>
 
     </div>
@@ -140,7 +140,7 @@ faq:
     <div class="scholar" data-glyph="之">
       <div class="scholar-label">代词详解 dàicí xiángjié · Pronoun in Detail</div>
       <p>When 之 follows a transitive verb, it functions as a third-person object pronoun. The referent is whoever or whatever the text has been discussing: a lesson, a person, an idea, a way of living. Classical Chinese does not distinguish gender or animacy in this pronoun; 之 covers it, him, her, and them equally.</p>
-      <p>The most famous instance is the opening of Analects 1.1: 学而时习之，不亦说乎 (xué ér shí xí zhī, bù yì yuè hū). The sentence means: "To learn, and then to practice it at the right times — is that not a pleasure?" The 之 after 习 (practice) refers back to what was just learned. Modern Chinese paraphrases might drop the pronoun entirely: 学了之后时常温习, 不也很高兴吗. The classical version is tighter by several characters.</p>
+      <p>The most famous instance is the opening of Analects 1.1: 学而时习之，不亦说乎 (xué ér shí xí zhī, bù yì yuè hū). The sentence means: "To learn, and then to practice it at the right times , is that not a pleasure?" The 之 after 习 (practice) refers back to what was just learned. Modern Chinese paraphrases might drop the pronoun entirely: 学了之后时常温习, 不也很高兴吗. The classical version is tighter by several characters.</p>
       <p>Pronoun 之 cannot appear as a subject. Classical Chinese has 其 (qí) for third-person subjects and modifiers. This subject-object split is the first thing to fix firmly in mind when reading classical texts: 之 in object position, 其 elsewhere.</p>
     </div>
 
@@ -159,7 +159,7 @@ faq:
         <div class="card-pinyin">ài zhī</div>
         <div class="card-en">to love it / to love them</div>
         <span class="tag-v">pronoun obj</span>
-        <div class="card-note">Verb + 之. The simplest pattern. Referent depends on context. 爱之欲其生 (Analects 12.10) — "when you love someone you want them to live."</div>
+        <div class="card-note">Verb + 之. The simplest pattern. Referent depends on context. 爱之欲其生 (Analects 12.10) , "when you love someone you want them to live."</div>
       </div>
 
       <div class="card c-sienna">
@@ -167,7 +167,7 @@ faq:
         <div class="card-pinyin">zhī zhī</div>
         <div class="card-en">to know it</div>
         <span class="tag-v">pronoun obj</span>
-        <div class="card-note">The first 知 is the verb "to know"; the second 之 is the object pronoun "it." Written identically but pronounced the same way — context distinguishes them. Modern Chinese would write 知道它 or simply 知道.</div>
+        <div class="card-note">The first 知 is the verb "to know"; the second 之 is the object pronoun "it." Written identically but pronounced the same way , context distinguishes them. Modern Chinese would write 知道它 or simply 知道.</div>
       </div>
 
       <div class="card c-sienna">
@@ -199,7 +199,7 @@ faq:
     <div class="scholar" data-glyph="之">
       <div class="scholar-label">名词化 míngcíhuà · Turning Verbs into Nouns</div>
       <p>Classical Chinese can nominalize a verb phrase by placing 之 after it. The result functions as a noun phrase: "the act of X-ing" or "that which X does." This use overlaps with the pronoun function in some sentences, and classical grammarians have debated the boundary for centuries. For reading purposes, the practical test is whether 之 refers back to an established referent (pronoun) or whether it converts the preceding phrase into a nominal topic (nominalizer).</p>
-      <p>The clearest examples appear in passages where there is no prior referent for a pronoun. In 道可道，非常道 (dào kě dào, fēi cháng dào) from the Daodejing, no 之 appears — but in Mencius's argument 仁，人之安宅也；义，人之正路也 (benevolence is the peaceful dwelling of humanity; righteousness is humanity's correct path), the 之 nominalizes the possessive relationship into a topic that the predicate then comments on.</p>
+      <p>The clearest examples appear in passages where there is no prior referent for a pronoun. In 道可道，非常道 (dào kě dào, fēi cháng dào) from the Daodejing, no 之 appears , but in Mencius's argument 仁，人之安宅也；义，人之正路也 (benevolence is the peaceful dwelling of humanity; righteousness is humanity's correct path), the 之 nominalizes the possessive relationship into a topic that the predicate then comments on.</p>
       <p>Learners do not need to resolve every case definitively. The grammatical machinery is old enough that native readers of classical texts accepted structural ambiguity as part of the medium. What matters is recognizing that 之 at the end of a subject phrase signals: read what follows as a comment on what precedes.</p>
     </div>
 
@@ -210,7 +210,7 @@ faq:
         <div class="card-pinyin">hào zhī zhě bù rú lè zhī zhě</div>
         <div class="card-en">those who love it are not as good as those who find joy in it</div>
         <span class="tag-v">pronoun + 者</span>
-        <div class="card-note">Analects 6.20, second half. 者 nominalizes here, but 之 is the pronoun object. The full sentence pairs all three: 知之者 (those who know it) — 好之者 (those who love it) — 乐之者 (those who find joy in it). The progression is the argument.</div>
+        <div class="card-note">Analects 6.20, second half. 者 nominalizes here, but 之 is the pronoun object. The full sentence pairs all three: 知之者 (those who know it) , 好之者 (those who love it) , 乐之者 (those who find joy in it). The progression is the argument.</div>
       </div>
 
       <div class="card c-violet">
@@ -229,8 +229,8 @@ faq:
 
     <div class="scholar" data-glyph="之">
       <div class="scholar-label">语言化石 yǔyán huàshí · Fossils in Living Speech</div>
-      <p>Modern Mandarin replaced 之 with 的 for possessives and abandoned it as a standalone pronoun. What remains is a set of compound words and fixed phrases where 之 is frozen in place — no longer parsed as a particle, simply part of the word. These are the forms every learner of modern Chinese already knows, whether or not they realize 之 is classical grammar doing the work.</p>
-      <p>Two groups are worth separating. The first group are spatial and temporal compounds (之前, 之后, 之间, 之外) where 之 effectively means "of it" and the compound means "before of it, after of it, between of it." Modern Chinese treats these as fixed adverbs and prepositions, not as 之-phrases. The second group are connective set phrases (总之, 反之, 之所以, 之类) that carry discourse functions — summing up, contrasting, explaining cause — and that appear constantly in formal speech and writing.</p>
+      <p>Modern Mandarin replaced 之 with 的 for possessives and abandoned it as a standalone pronoun. What remains is a set of compound words and fixed phrases where 之 is frozen in place , no longer parsed as a particle, simply part of the word. These are the forms every learner of modern Chinese already knows, whether or not they realize 之 is classical grammar doing the work.</p>
+      <p>Two groups are worth separating. The first group are spatial and temporal compounds (之前, 之后, 之间, 之外) where 之 effectively means "of it" and the compound means "before of it, after of it, between of it." Modern Chinese treats these as fixed adverbs and prepositions, not as 之-phrases. The second group are connective set phrases (总之, 反之, 之所以, 之类) that carry discourse functions , summing up, contrasting, explaining cause , and that appear constantly in formal speech and writing.</p>
     </div>
 
     <div class="cards">
@@ -240,7 +240,7 @@ faq:
         <div class="card-pinyin">zhī jiān</div>
         <div class="card-en">between · among</div>
         <span class="tag-n">prep</span>
-        <div class="card-note">两国之间 (liǎng guó zhī jiān) — between the two countries. Used for physical space and abstract relationships alike. 朋友之间 — between friends.</div>
+        <div class="card-note">两国之间 (liǎng guó zhī jiān) , between the two countries. Used for physical space and abstract relationships alike. 朋友之间 , between friends.</div>
       </div>
 
       <div class="card c-teal">
@@ -248,7 +248,7 @@ faq:
         <div class="card-pinyin">zhī qián / zhī hòu</div>
         <div class="card-en">before / after</div>
         <span class="tag-n">prep</span>
-        <div class="card-note">晚饭之前 (wǎnfàn zhī qián) — before dinner. 毕业之后 (bìyè zhī hòu) — after graduation. Standard in both spoken and written modern Chinese, slightly more formal than just 前/后 alone.</div>
+        <div class="card-note">晚饭之前 (wǎnfàn zhī qián) , before dinner. 毕业之后 (bìyè zhī hòu) , after graduation. Standard in both spoken and written modern Chinese, slightly more formal than just 前/后 alone.</div>
       </div>
 
       <div class="card c-ochre">
@@ -256,7 +256,7 @@ faq:
         <div class="card-pinyin">zhī suǒ yǐ</div>
         <div class="card-en">the reason why · that's why</div>
         <span class="tag-n">conj</span>
-        <div class="card-note">我之所以来，是因为你 — the reason I came is you. Formal causal connector. Classical origin: 之 (genitive) + 所以 (that by which). Now a single lexical unit.</div>
+        <div class="card-note">我之所以来，是因为你 , the reason I came is you. Formal causal connector. Classical origin: 之 (genitive) + 所以 (that by which). Now a single lexical unit.</div>
       </div>
 
       <div class="card c-ochre">
@@ -264,7 +264,7 @@ faq:
         <div class="card-pinyin">zhī lèi</div>
         <div class="card-en">and such · and the like · and so forth</div>
         <span class="tag-n">particle</span>
-        <div class="card-note">书报之类 (shū bào zhī lèi) — books, newspapers, and such things. Slightly more formal than 等 or 什么的. Common in written enumeration.</div>
+        <div class="card-note">书报之类 (shū bào zhī lèi) , books, newspapers, and such things. Slightly more formal than 等 or 什么的. Common in written enumeration.</div>
       </div>
 
       <div class="card c-red">
@@ -272,7 +272,7 @@ faq:
         <div class="card-pinyin">zǒng zhī</div>
         <div class="card-en">in short · in sum · anyway</div>
         <span class="tag-n">adv</span>
-        <div class="card-note">总之，我们需要努力 — in short, we need to work hard. One of the most common discourse connectors in Mandarin. The 之 here is etymologically a pronoun (summing it all up), now fully grammaticalized.</div>
+        <div class="card-note">总之，我们需要努力 , in short, we need to work hard. One of the most common discourse connectors in Mandarin. The 之 here is etymologically a pronoun (summing it all up), now fully grammaticalized.</div>
       </div>
 
       <div class="card c-red">
@@ -280,7 +280,7 @@ faq:
         <div class="card-pinyin">fǎn zhī</div>
         <div class="card-en">conversely · on the other hand</div>
         <span class="tag-n">adv</span>
-        <div class="card-note">反之，如果不努力… — conversely, if one doesn't put in effort… Common in formal argument and academic writing. Pairs with 总之 as a discourse toolkit for written Chinese.</div>
+        <div class="card-note">反之，如果不努力… , conversely, if one doesn't put in effort… Common in formal argument and academic writing. Pairs with 总之 as a discourse toolkit for written Chinese.</div>
       </div>
 
       <div class="card c-violet">
@@ -288,7 +288,7 @@ faq:
         <div class="card-pinyin">jiǔ ér jiǔ zhī</div>
         <div class="card-en">over time · as time went on · gradually</div>
         <span class="tag-n">adv</span>
-        <div class="card-note">Classical structure entirely preserved. 之 as final object pronoun (it = the situation). Common in modern colloquial speech despite its classical skeleton. 久而久之，他习惯了 — over time, he got used to it.</div>
+        <div class="card-note">Classical structure entirely preserved. 之 as final object pronoun (it = the situation). Common in modern colloquial speech despite its classical skeleton. 久而久之，他习惯了 , over time, he got used to it.</div>
       </div>
 
     </div>
@@ -306,7 +306,7 @@ faq:
       <div class="scholar-label">论语 Lúnyǔ · Analects 1.1</div>
       <p><strong>学而时习之，不亦说乎？有朋自远方来，不亦乐乎？</strong></p>
       <p>xué ér shí xí zhī, bù yì yuè hū? yǒu péng zì yuǎnfāng lái, bù yì lè hū?</p>
-      <p>"To learn and at the right times practice it — is that not a pleasure? To have friends come from distant places — is that not a joy?"</p>
+      <p>"To learn and at the right times practice it , is that not a pleasure? To have friends come from distant places , is that not a joy?"</p>
       <p>The 之 after 习 is a pronoun object: it refers back to whatever was just learned. The sentence has no explicit subject; classical Chinese drops the subject when it is obvious from context. 不亦...乎 is a rhetorical question pattern that expects the answer "yes, of course."</p>
     </div>
 
@@ -315,7 +315,7 @@ faq:
       <p><strong>知之者不如好之者，好之者不如乐之者。</strong></p>
       <p>zhī zhī zhě bù rú hào zhī zhě, hào zhī zhě bù rú lè zhī zhě.</p>
       <p>"Those who know it are not as good as those who love it; those who love it are not as good as those who find joy in it."</p>
-      <p>Three 之 pronoun objects (after 知, 好, and 乐 respectively) plus three 者 nominalizers that convert each verb phrase into "the person who does X." The sentence is a compressed argument about the stages of genuine learning: cognition, affection, and finally absorption into pleasure. The referent of all three 之 is unstated — the thing worth knowing, loving, finding joy in — which is precisely the point.</p>
+      <p>Three 之 pronoun objects (after 知, 好, and 乐 respectively) plus three 者 nominalizers that convert each verb phrase into "the person who does X." The sentence is a compressed argument about the stages of genuine learning: cognition, affection, and finally absorption into pleasure. The referent of all three 之 is unstated , the thing worth knowing, loving, finding joy in , which is precisely the point.</p>
     </div>
 
     <div class="scholar" data-glyph="道">

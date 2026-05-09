@@ -95,9 +95,9 @@ content_sources:
 
     <div class="scholar" data-glyph="工">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
-      <p><strong>工 gōng</strong> is a three-stroke character whose interpretation has generated genuine scholarly debate. The most compelling reading: the top horizontal stroke is Heaven (天), the bottom is Earth (地), and the vertical stroke connecting them is the human craft that mediates between the two realms. This is not just poetic — it encodes the ancient Chinese understanding of skilled work as cosmologically significant, the activity that allows humans to transform raw nature into civilization.</p>
-      <p>A second interpretation sees 工 as a pictograph of a carpenter's square (矩 jǔ) or a mason's level — the fundamental tools of craft that allow humans to impose order and right-angle precision on the world. Either reading arrives at the same semantic core: skilled making, the transformation of materials through human intelligence and effort.</p>
-      <p>工 is one of the most common characters in modern Chinese, appearing in hundreds of compound words. It combines with virtually every domain: 工作 (work), 工人 (worker), 工厂 (factory), 工程 (engineering), 工具 (tools), 工艺 (craft/technique). The character also carries a musical meaning: 工 is the second note of the traditional Chinese pentatonic scale (工尺谱 gōngchěpǔ — the classical notation system). In the 工尺谱, 工 corresponds roughly to the second degree of the scale.</p>
+      <p><strong>工 gōng</strong> is a three-stroke character whose interpretation has generated genuine scholarly debate. The most compelling reading: the top horizontal stroke is Heaven (天), the bottom is Earth (地), and the vertical stroke connecting them is the human craft that mediates between the two realms. This is not just poetic , it encodes the ancient Chinese understanding of skilled work as cosmologically significant, the activity that allows humans to transform raw nature into civilization.</p>
+      <p>A second interpretation sees 工 as a pictograph of a carpenter's square (矩 jǔ) or a mason's level , the fundamental tools of craft that allow humans to impose order and right-angle precision on the world. Either reading arrives at the same semantic core: skilled making, the transformation of materials through human intelligence and effort.</p>
+      <p>工 is one of the most common characters in modern Chinese, appearing in hundreds of compound words. It combines with virtually every domain: 工作 (work), 工人 (worker), 工厂 (factory), 工程 (engineering), 工具 (tools), 工艺 (craft/technique). The character also carries a musical meaning: 工 is the second note of the traditional Chinese pentatonic scale (工尺谱 gōngchěpǔ , the classical notation system). In the 工尺谱, 工 corresponds roughly to the second degree of the scale.</p>
     </div>
 
     <span class="section-anchor" id="radical"></span>
@@ -131,7 +131,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-vn">V/N 动名词 dòng-míngcí</span></div>
         <div class="card-def">
-          工 gōng (work) + 作 zuò (to do; to make). Both noun (a job, a piece of work) and verb (to work, to be employed). 你做什么工作？= What do you do for work? 工作经验 = work experience. 工作量 = workload. 找工作 = to look for a job. 失业 shīyè = unemployment (lit. "lose industry"). 工作狂 = workaholic (lit. "work madman") — the Chinese concept of 内卷 nèijuǎn (involution, competitive overwork) has made this a culturally charged term.
+          工 gōng (work) + 作 zuò (to do; to make). Both noun (a job, a piece of work) and verb (to work, to be employed). 你做什么工作？= What do you do for work? 工作经验 = work experience. 工作量 = workload. 找工作 = to look for a job. 失业 shīyè = unemployment (lit. "lose industry"). 工作狂 = workaholic (lit. "work madman") , the Chinese concept of 内卷 nèijuǎn (involution, competitive overwork) has made this a culturally charged term.
         </div>
         <div class="examples">
           <div class="example">
@@ -150,7 +150,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          工程 gōngchéng (engineering; project — lit. "work + process") + 师 shī (master; teacher; professional). Engineer — one of the most respected professional titles in China, associated with the nation's modernization drive. 工程 alone means a large project or undertaking: 三峡工程 = Three Gorges Project. Types: 软件工程师 (software engineer), 机械工程师 (mechanical engineer), 建筑工程师 (civil/structural engineer). 工程师 has a slightly more elevated connotation than simply 工人 (worker).
+          工程 gōngchéng (engineering; project , lit. "work + process") + 师 shī (master; teacher; professional). Engineer , one of the most respected professional titles in China, associated with the nation's modernization drive. 工程 alone means a large project or undertaking: 三峡工程 = Three Gorges Project. Types: 软件工程师 (software engineer), 机械工程师 (mechanical engineer), 建筑工程师 (civil/structural engineer). 工程师 has a slightly more elevated connotation than simply 工人 (worker).
         </div>
         <div class="examples">
           <div class="example">
@@ -169,7 +169,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          工 gōng (work; skill) + 艺 yì (art; skill; technique). Craft as the intersection of technical skill and artistry. 工艺品 gōngyìpǐn = handicraft item; artisan product. 传统工艺 = traditional crafts. 工艺美术 = arts and crafts (as a discipline). In Chinese cultural policy, 非物质文化遗产 (intangible cultural heritage) often centers on traditional 工艺 — lacquerwork, porcelain, silk weaving, bronze casting, papermaking, woodblock printing. These crafts are sites of national identity and UNESCO recognition.
+          工 gōng (work; skill) + 艺 yì (art; skill; technique). Craft as the intersection of technical skill and artistry. 工艺品 gōngyìpǐn = handicraft item; artisan product. 传统工艺 = traditional crafts. 工艺美术 = arts and crafts (as a discipline). In Chinese cultural policy, 非物质文化遗产 (intangible cultural heritage) often centers on traditional 工艺 , lacquerwork, porcelain, silk weaving, bronze casting, papermaking, woodblock printing. These crafts are sites of national identity and UNESCO recognition.
         </div>
         <div class="examples">
           <div class="example">
@@ -196,7 +196,7 @@ content_sources:
         <span class="cy-cn">事半功倍</span>
         <span class="cy-py">shì bàn gōng bèi</span>
         <span class="cy-en">half the work, double the results — to achieve maximum output with minimum effort</span>
-        <span class="cy-note">Lit: work-half-achievement-double. The ideal of efficiency in Chinese thought — doing less to accomplish more through intelligence, timing, and method. From Mencius (孟子): "If the king governs now, the people will be pleased as if rescued from fire and water — half the work of the ancients, double the results." The counterpart is 事倍功半 shì bèi gōng bàn (double the work, half the results — wasted effort).</span>
+        <span class="cy-note">Lit: work-half-achievement-double. The ideal of efficiency in Chinese thought , doing less to accomplish more through intelligence, timing, and method. From Mencius (孟子): "If the king governs now, the people will be pleased as if rescued from fire and water , half the work of the ancients, double the results." The counterpart is 事倍功半 shì bèi gōng bàn (double the work, half the results , wasted effort).</span>
       </div>
 
       <div class="cy">

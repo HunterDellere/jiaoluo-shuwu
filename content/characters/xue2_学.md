@@ -101,9 +101,9 @@ content_sources:
 
     <div class="scholar" data-glyph="学">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
-      <p><strong>学 xué</strong> — traditional 學 — is a complex pictograph. The traditional form shows: two hands (爻 pattern at top, representing the act of teaching through counting-rods or written marks) above a cover/roof radical (冖), with 子 zǐ (child) at the bottom. The image: hands guiding and modeling above a sheltering space where a child learns. Learning as a protected, intentional act of transmission.</p>
-      <p>The simplified 学 compresses this into 8 strokes, retaining 子 at the base — the learner — and a simplified upper portion suggesting the instructive gestures. The core semantic: learning is not passive absorption but active engagement, the child reaching up toward the models set by hands above.</p>
-      <p>学 functions as both verb ("to learn, to study") and noun suffix ("-ology, -ics, field of study"): 哲学 zhéxué (philosophy), 科学 kēxué (science), 医学 yīxué (medicine), 文学 wénxué (literature), 心理学 xīnlǐxué (psychology). In this suffix role, 学 signals organized systematic knowledge — a recognized discipline with methods and accumulated tradition.</p>
+      <p><strong>学 xué</strong> , traditional 學 , is a complex pictograph. The traditional form shows: two hands (爻 pattern at top, representing the act of teaching through counting-rods or written marks) above a cover/roof radical (冖), with 子 zǐ (child) at the bottom. The image: hands guiding and modeling above a sheltering space where a child learns. Learning as a protected, intentional act of transmission.</p>
+      <p>The simplified 学 compresses this into 8 strokes, retaining 子 at the base , the learner , and a simplified upper portion suggesting the instructive gestures. The core semantic: learning is not passive absorption but active engagement, the child reaching up toward the models set by hands above.</p>
+      <p>学 functions as both verb ("to learn, to study") and noun suffix ("-ology, -ics, field of study"): 哲学 zhéxué (philosophy), 科学 kēxué (science), 医学 yīxué (medicine), 文学 wénxué (literature), 心理学 xīnlǐxué (psychology). In this suffix role, 学 signals organized systematic knowledge , a recognized discipline with methods and accumulated tradition.</p>
     </div>
 
     <span class="section-anchor" id="confucian"></span>
@@ -117,7 +117,7 @@ content_sources:
     <div class="scholar" data-glyph="学">
       <div class="scholar-label">文化洞见 wénhuà dòngjiàn · The Confucian Imperative to Learn</div>
       <p>The <em>Analects</em> (论语 Lúnyǔ) opens with 学: <strong>学而时习之，不亦说乎？</strong> "Is it not a pleasure to learn and then practice what you have learned in its proper time?" This first sentence frames the entire Confucian project: learning is not merely instrumental (useful for the exam, for the career) but intrinsically pleasurable and morally elevating. The character who learns is becoming more fully human.</p>
-      <p>The Confucian examination system 科举 kējǔ — through which scholars could rise from any social class to the highest offices — made 学 the central activity of Chinese civilization for over a millennium. The examination hall was the supreme meritocratic institution: what you knew, demonstrated through your ability to compose elegant writing on classical texts, determined your rank.</p>
+      <p>The Confucian examination system 科举 kējǔ , through which scholars could rise from any social class to the highest offices , made 学 the central activity of Chinese civilization for over a millennium. The examination hall was the supreme meritocratic institution: what you knew, demonstrated through your ability to compose elegant writing on classical texts, determined your rank.</p>
       <p>This inheritance is visible in contemporary Chinese attitudes toward education: the extraordinary pressure of the 高考 gāokǎo (college entrance exam), the cultural reverence for academic achievement, the common saying 知识就是力量 "knowledge is power."</p>
     </div>
 
@@ -139,7 +139,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-v">V 动词 dòngcí</span></div>
         <div class="card-def">
-          学 xué (to learn) + 习 xí (to practice; to review; to get accustomed to). The compound captures the Confucian dual process: 学 (receiving new knowledge) + 习 (practicing and consolidating it). Not just acquisition but repeated reinforcement. The most common word for "to study" in general. 好好学习，天天向上 — "Study well and make progress every day" (Mao's famous slogan to students).
+          学 xué (to learn) + 习 xí (to practice; to review; to get accustomed to). The compound captures the Confucian dual process: 学 (receiving new knowledge) + 习 (practicing and consolidating it). Not just acquisition but repeated reinforcement. The most common word for "to study" in general. 好好学习，天天向上 , "Study well and make progress every day" (Mao's famous slogan to students).
         </div>
         <div class="examples">
           <div class="example">
@@ -158,7 +158,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          科 kē (branch; category; department) + 学 xué (learning; -ology). Lit. "categorized learning" — the systematic division of knowledge into disciplines. Coined as a translation for Western "science" in the late 19th century. Also functions as an adjective: 科学的方法 "a scientific method." One of the most important loanword-calques of the modern period.
+          科 kē (branch; category; department) + 学 xué (learning; -ology). Lit. "categorized learning" , the systematic division of knowledge into disciplines. Coined as a translation for Western "science" in the late 19th century. Also functions as an adjective: 科学的方法 "a scientific method." One of the most important loanword-calques of the modern period.
         </div>
         <div class="examples">
           <div class="example">
@@ -177,7 +177,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          文 wén (writing; culture; pattern) + 学 xué (learning). The discipline of literature — both the creative output (novels, poetry, essays) and the scholarly study of it. 文学家 wénxuéjiā = writer, literary figure. 中国文学 = Chinese literature. 古典文学 = classical literature. 现代文学 = modern literature.
+          文 wén (writing; culture; pattern) + 学 xué (learning). The discipline of literature , both the creative output (novels, poetry, essays) and the scholarly study of it. 文学家 wénxuéjiā = writer, literary figure. 中国文学 = Chinese literature. 古典文学 = classical literature. 现代文学 = modern literature.
         </div>
         <div class="examples">
           <div class="example">
@@ -213,13 +213,13 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          大 dà (great; large) + 学 xué (learning). The modern term for university. But 大学 is also the title of one of the Four Books of Confucianism (四书 Sìshū) — the 大学 (Great Learning), a short text that outlines the program of self-cultivation leading from individual virtue to social order to universal peace. The modern university inherits its name from this ancient tradition of higher learning.
+          大 dà (great; large) + 学 xué (learning). The modern term for university. But 大学 is also the title of one of the Four Books of Confucianism (四书 Sìshū) , the 大学 (Great Learning), a short text that outlines the program of self-cultivation leading from individual virtue to social order to universal peace. The modern university inherits its name from this ancient tradition of higher learning.
         </div>
         <div class="examples">
           <div class="example">
             <div class="ex-cn">他考上了北京大学，家人都很高兴。</div>
             <div class="ex-py">Tā kǎo shàng le Běijīng Dàxué, jiārén dōu hěn gāoxìng.</div>
-            <div class="ex-en">He got into Peking University — the whole family was overjoyed.</div>
+            <div class="ex-en">He got into Peking University , the whole family was overjoyed.</div>
           </div>
         </div>
       </div>
@@ -240,7 +240,7 @@ content_sources:
         <span class="cy-cn">学无止境</span>
         <span class="cy-py">xué wú zhǐ jìng</span>
         <span class="cy-en">learning has no boundary — there is always more to know</span>
-        <span class="cy-note">Lit: learning-has-no-stopping-point. The classical formulation of intellectual humility — no matter how much one has learned, the frontier of knowledge remains inexhaustible. Used to encourage continued study and to discourage complacency. One of the most common exhortations in Chinese educational culture.</span>
+        <span class="cy-note">Lit: learning-has-no-stopping-point. The classical formulation of intellectual humility , no matter how much one has learned, the frontier of knowledge remains inexhaustible. Used to encourage continued study and to discourage complacency. One of the most common exhortations in Chinese educational culture.</span>
       </div>
 
       <div class="cy">

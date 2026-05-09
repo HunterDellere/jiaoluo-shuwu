@@ -166,19 +166,19 @@ pinyin: 'tángshī'
       <div class="cards">
         <div class="card c-ochre">
           <div class="card-head"><span class="tag-n">n</span> 律诗 lǜshī</div>
-          <p>Regulated verse — eight lines with strict tonal and parallelism rules. The dominant Tang poetic form.</p>
+          <p>Regulated verse , eight lines with strict tonal and parallelism rules. The dominant Tang poetic form.</p>
         </div>
         <div class="card c-ochre">
           <div class="card-head"><span class="tag-n">n</span> 绝句 juéjù</div>
-          <p>Quatrain — four lines of five or seven characters. The most concentrated Tang form.</p>
+          <p>Quatrain , four lines of five or seven characters. The most concentrated Tang form.</p>
         </div>
         <div class="card c-teal">
           <div class="card-head"><span class="tag-n">n</span> 对仗 duìzhàng</div>
-          <p>Tonal and semantic parallelism — the requirement that paired couplet lines mirror each other grammatically, semantically, and tonally.</p>
+          <p>Tonal and semantic parallelism , the requirement that paired couplet lines mirror each other grammatically, semantically, and tonally.</p>
         </div>
         <div class="card c-teal">
           <div class="card-head"><span class="tag-n">n</span> 意象 yìxiàng</div>
-          <p>Image, imagistic motif. Tang criticism valued the evocative image (意象) over explicit statement — show, don't tell, carried to its highest refinement.</p>
+          <p>Image, imagistic motif. Tang criticism valued the evocative image (意象) over explicit statement , show, don't tell, carried to its highest refinement.</p>
         </div>
         <div class="card c-sienna">
           <div class="card-head"><span class="tag-n">n</span> 诗仙 shīxiān</div>

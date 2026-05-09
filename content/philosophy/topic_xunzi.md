@@ -21,7 +21,7 @@ pinyin: 'xúnzǐ'
   <!-- ═══ SIDEBAR ═══ -->
   <aside class="sidebar" id="sidebar">
     <span class="toc-topic">荀子</span>
-    <span class="toc-topic-en">Xunzi — The Rigorous Confucian</span>
+    <span class="toc-topic-en">Xunzi , The Rigorous Confucian</span>
 
     <div class="toc-divider"></div>
     <span class="toc-label">On this page</span>
@@ -66,7 +66,7 @@ pinyin: 'xúnzǐ'
       <span class="topic-hero-eyebrow">Philosophy · 哲学 zhéxué</span>
       <h1 class="topic-hero-title">荀子</h1>
       <span class="topic-hero-title-py">xúnzǐ</span>
-      <p class="topic-hero-desc">The most systematic and logically rigorous of the classical Confucians argued that human nature is innately bad, that Heaven is morally indifferent, and that civilization is an entirely human achievement — and then, paradoxically, trained the two students who became the architects of Legalism.</p>
+      <p class="topic-hero-desc">The most systematic and logically rigorous of the classical Confucians argued that human nature is innately bad, that Heaven is morally indifferent, and that civilization is an entirely human achievement , and then, paradoxically, trained the two students who became the architects of Legalism.</p>
     </header>
 
     <!-- ── PERSON ── -->
@@ -100,7 +100,7 @@ pinyin: 'xúnzǐ'
       <p>Xunzi's most famous and most controversial doctrine is stated directly in the title of his twenty-third chapter: 性恶 xìng è, "Human Nature is Bad." The chapter opens with the uncompromising claim: 人之性恶，其善者伪也, "Human nature is bad; what is good in human beings is their artificial (deliberately cultivated) achievement." 伪 wèi here does not mean "fake" or "hypocritical." It means "deliberately made," "artificially produced" as opposed to naturally arising. Goodness is real, but it is an achievement, not a given.</p>
       <p>The argument against Mencius is direct and carefully constructed. Mencius claims that human beings are innately good and that bad behavior results from neglect of one's innate moral sprouts or from the distorting effects of bad environment. Xunzi asks: if human nature were innately good, why would we need ritual 礼 and morality 义 at all? The need for these things proves that they are supplements to what nature provides, not expressions of it. If nature already inclined toward goodness, the elaborate apparatus of Confucian moral education would be redundant. But clearly it is not redundant; it is urgently necessary. Therefore nature alone is insufficient, which means it cannot be innately directed toward the good.</p>
       <p>More specifically, Xunzi observes: what human beings naturally desire is pleasure, profit, and the satisfaction of appetite. Left without moral cultivation, people will pursue these desires in ways that generate conflict, disorder, and mutual destruction. This is not evil in the sense of malevolence; Xunzi does not think people are born with a will to harm others. They are born with desires that, if unregulated and untrained, will predictably generate harmful behavior. Innate badness, for Xunzi, means "innately insufficient" or "innately inclined toward disorder," not "innately malevolent."</p>
-      <p>The political consequence is significant and distinguishes Xunzi sharply from Mencius. If Mencius is right, moral cultivation involves drawing out and developing what is already present; the teacher's and ruler's task is to create conditions for natural goodness to emerge. If Xunzi is right, moral cultivation involves imposing external form on resistant natural material — it is more like the work of a craftsman shaping raw material than a gardener helping plants grow. This is why Xunzi emphasizes 礼 (ritual) and 师 (teachers) so heavily: they are the external forces that shape what nature alone cannot produce.</p>
+      <p>The political consequence is significant and distinguishes Xunzi sharply from Mencius. If Mencius is right, moral cultivation involves drawing out and developing what is already present; the teacher's and ruler's task is to create conditions for natural goodness to emerge. If Xunzi is right, moral cultivation involves imposing external form on resistant natural material , it is more like the work of a craftsman shaping raw material than a gardener helping plants grow. This is why Xunzi emphasizes 礼 (ritual) and 师 (teachers) so heavily: they are the external forces that shape what nature alone cannot produce.</p>
     </div>
 
     <div class="cards">
@@ -177,7 +177,7 @@ pinyin: 'xúnzǐ'
       <div class="scholar-label">自然主义 zìrán zhǔyì · Naturalism</div>
       <p>Xunzi's doctrine of Heaven 天 tiān is the most radical departure from the mainstream of Chinese religious and philosophical thought in the classical period, and arguably the most intellectually significant contribution he made. His chapter "On Heaven" 天论 is a systematic argument for a naturalistic understanding of the cosmos, one in which Heaven operates according to regular, impersonal principles that do not respond to human behavior, desires, or prayers.</p>
       <p>The traditional Chinese view of Heaven, shared in various forms by Confucius, Mencius, and virtually all other classical thinkers, held that Heaven had a moral will and that it communicated with humans through natural events. Good governance produced good harvests; bad governance produced floods, droughts, and solar eclipses. The Mandate of Heaven was not merely a political metaphor but a cosmological reality: Heaven watched human affairs and responded. Mencius connected this to his theory of 天命 tiānmìng (Heavenly Mandate) and the people's response as Heaven's instrument.</p>
-      <p>Xunzi rejects this view decisively. His argument: 天行有常，不为尧存，不为桀亡 — "Heaven's movements are constant; they do not persist for the sake of Yao (the sage-king) nor cease for the sake of Jie (the tyrant)." The cosmos operates according to regular natural laws that are completely indifferent to the identity or virtue of whoever happens to be ruling. The seasons turn regardless of who is on the throne. The stars move in their courses regardless of the character of the man observing them. If floods occur, they occur because of natural processes, not as Heaven's judgment on human wickedness.</p>
+      <p>Xunzi rejects this view decisively. His argument: 天行有常，不为尧存，不为桀亡 , "Heaven's movements are constant; they do not persist for the sake of Yao (the sage-king) nor cease for the sake of Jie (the tyrant)." The cosmos operates according to regular natural laws that are completely indifferent to the identity or virtue of whoever happens to be ruling. The seasons turn regardless of who is on the throne. The stars move in their courses regardless of the character of the man observing them. If floods occur, they occur because of natural processes, not as Heaven's judgment on human wickedness.</p>
       <p>An eclipse is not Heaven's disapproval of the emperor. A drought is not Heaven's punishment for corrupt officials. This demystification of natural events redirects human attention from supernatural explanation to natural investigation, an unusually proto-scientific orientation for classical Chinese thought. Xunzi's famous formula: 制天命而用之 zhì tiānmìng ér yòng zhī, "master the decrees of Heaven and use them." Rather than appealing to Heaven for favor, master the regularities of nature and put them to use.</p>
       <p>This naturalism does not make Xunzi an atheist in the modern sense. He retains a role for ritual acknowledgment of Heaven and the ancestral spirits, but in a transformed register: these rituals are valuable not because Heaven actually responds to them, but because performing them expresses and cultivates the appropriate attitudes of reverence and humility that civilization requires. The function of ritual is psychological and social, not cosmological.</p>
     </div>
@@ -209,13 +209,13 @@ pinyin: 'xúnzǐ'
           <span class="card-en">master the decrees of Heaven and use them — human agency over nature</span>
         </div>
         <div class="card-def">
-          制 zhì (master, control) + 天命 tiānmìng (Heaven's decrees — here: natural regularities) + 用之 yòng zhī (put them to use). Rather than praying to Heaven for good weather, study the patterns of weather and use them. Rather than appeasing spirits for good harvests, understand the principles of agriculture and apply them. A proto-scientific orientation: knowledge as the basis of mastery over natural processes.
+          制 zhì (master, control) + 天命 tiānmìng (Heaven's decrees , here: natural regularities) + 用之 yòng zhī (put them to use). Rather than praying to Heaven for good weather, study the patterns of weather and use them. Rather than appeasing spirits for good harvests, understand the principles of agriculture and apply them. A proto-scientific orientation: knowledge as the basis of mastery over natural processes.
         </div>
         <div class="examples">
           <div class="example">
             <div class="ex-cn">大天而思之，孰与物畜而制之？</div>
             <div class="ex-py">Dà tiān ér sī zhī, shú yǔ wù xù ér zhì zhī?</div>
-            <div class="ex-en">Exalting Heaven and longing for it — is that better than tending to things and mastering them? (荀子·天论)</div>
+            <div class="ex-en">Exalting Heaven and longing for it , is that better than tending to things and mastering them? (荀子·天论)</div>
           </div>
         </div>
       </div>
@@ -235,14 +235,14 @@ pinyin: 'xúnzǐ'
       <div class="scholar-label">教育哲学 jiàoyù zhéxué · Philosophy of Education</div>
       <p>The opening line of the Xunzi is 学不可以已, "Learning cannot stop." This is not merely an inspirational exhortation. It is a philosophical statement that follows necessarily from Xunzi's doctrine of human nature. If human beings are not innately good, if goodness must be cultivated and imposed rather than drawn out, then the process of moral learning never reaches a natural completion point. There is no moment at which one has fully become good and can stop. The process of cultivation, 学 xué, 礼 lǐ, self-examination, must be continuous.</p>
       <p>Xunzi's first chapter, 劝学 (Encouraging Learning), is one of the most celebrated essays in classical Chinese literature. It is a sustained argument for the transformative power of learning, using a series of brilliant analogies. Blue dye comes from the indigo plant but is bluer than the plant itself. Straight wood bends into a wheel when steamed and will remain bent even when the steaming stops. Metal, however sharp the original ore, becomes sharper still when ground on a whetstone. And then: 君子博学而日参省乎己，则知明而行无过矣, "The noble person who learns broadly and each day examines himself will have clear understanding and act without error." The examination of the self is the mechanism through which learning becomes internalized rather than merely memorized.</p>
-      <p>蓬生麻中，不扶而直 — "Hemp growing among mugwort will stand straight without being supported." The plant grows straight not because of its own nature but because of the environment in which it grows. Human beings are similarly shaped by their environment. This is why the choice of teachers, friends, and surroundings is so important. Institutional education, schools, courts, the systematic transmission of ritual and classical learning, is not a supplement to human development but its primary vehicle.</p>
+      <p>蓬生麻中，不扶而直 , "Hemp growing among mugwort will stand straight without being supported." The plant grows straight not because of its own nature but because of the environment in which it grows. Human beings are similarly shaped by their environment. This is why the choice of teachers, friends, and surroundings is so important. Institutional education, schools, courts, the systematic transmission of ritual and classical learning, is not a supplement to human development but its primary vehicle.</p>
     </div>
 
     <div class="pattern">
       <span class="label">学的三要素 xué de sān yàosù · Three Elements of Learning (Xunzi)</span>
-      <strong>师 shī — Teachers</strong> → the indispensable human transmitters of the tradition; learning without teachers produces errors<br>
-      <strong>礼 lǐ — Ritual</strong> → the curriculum itself; ritual is the knowledge-form that must be mastered and internalized<br>
-      <strong>积 jī — Accumulation</strong> → learning is incremental; virtue is built through sustained small acts, not sudden transformation
+      <strong>师 shī , Teachers</strong> → the indispensable human transmitters of the tradition; learning without teachers produces errors<br>
+      <strong>礼 lǐ , Ritual</strong> → the curriculum itself; ritual is the knowledge-form that must be mastered and internalized<br>
+      <strong>积 jī , Accumulation</strong> → learning is incremental; virtue is built through sustained small acts, not sudden transformation
     </div>
 
     <!-- ── PARADOX ── -->
@@ -271,7 +271,7 @@ pinyin: 'xúnzǐ'
           <span class="card-en">Han Fei — greatest Legalist theorist, student of Xunzi</span>
         </div>
         <div class="card-def">
-          韩非 (280–233 BCE): a prince of the state of Han who studied under Xunzi and became the most systematic theorist of Legalism 法家. His text, the 韩非子 Hánfēizǐ, synthesizes earlier Legalist thought and provides the fullest account of governance through law 法, technique 术, and power 势. He was eventually imprisoned and killed by Li Si — his fellow student and rival — after the Qin state conquered Han.
+          韩非 (280–233 BCE): a prince of the state of Han who studied under Xunzi and became the most systematic theorist of Legalism 法家. His text, the 韩非子 Hánfēizǐ, synthesizes earlier Legalist thought and provides the fullest account of governance through law 法, technique 术, and power 势. He was eventually imprisoned and killed by Li Si , his fellow student and rival , after the Qin state conquered Han.
         </div>
         <div class="examples">
           <div class="example">
@@ -289,7 +289,7 @@ pinyin: 'xúnzǐ'
           <span class="card-en">Li Si — prime minister of Qin, architect of the unified empire, student of Xunzi</span>
         </div>
         <div class="card-def">
-          李斯 (280–208 BCE): Xunzi's student who rose to become prime minister of the Qin state and then the unified Qin empire. He implemented many of the administrative reforms — standardization of weights, measures, script, and roads — that defined the Qin empire. He also pushed for the burning of books 焚书 and the burying of Confucian scholars 坑儒 — a policy that targeted the very tradition in which he had been educated. He was eventually executed by the second Qin emperor.
+          李斯 (280–208 BCE): Xunzi's student who rose to become prime minister of the Qin state and then the unified Qin empire. He implemented many of the administrative reforms , standardization of weights, measures, script, and roads , that defined the Qin empire. He also pushed for the burning of books 焚书 and the burying of Confucian scholars 坑儒 , a policy that targeted the very tradition in which he had been educated. He was eventually executed by the second Qin emperor.
         </div>
         <div class="examples">
           <div class="example">

@@ -352,14 +352,14 @@ pinyin: 'fójiào'
         <span class="cy-cn">立地成佛</span>
         <span class="cy-py">lì dì chéng fó</span>
         <span class="cy-en">to become a Buddha right where you stand — instant transformation is possible</span>
-        <span class="cy-note">A Chan Buddhist concept: enlightenment does not require eons of practice — it can occur in a single moment of recognition, right here, right now. Used in popular culture to say that anyone, however wicked their past, can immediately turn toward good. The full phrase: 放下屠刀，立地成佛 — "lay down the butcher's knife and become a Buddha on the spot."</span>
+        <span class="cy-note">A Chan Buddhist concept: enlightenment does not require eons of practice , it can occur in a single moment of recognition, right here, right now. Used in popular culture to say that anyone, however wicked their past, can immediately turn toward good. The full phrase: 放下屠刀，立地成佛 , "lay down the butcher's knife and become a Buddha on the spot."</span>
       </div>
 
       <div class="cy">
         <span class="cy-cn">借花献佛</span>
         <span class="cy-py">jiè huā xiàn fó</span>
         <span class="cy-en">to offer flowers borrowed from another — presenting something that isn't yours</span>
-        <span class="cy-note">Used with self-deprecating humor when giving a gift that wasn't originally yours — passing along a recommendation, re-gifting, or presenting another person's work as an offering. The image: lacking flowers of your own to offer at the Buddhist altar, you borrow someone else's. Tone is always lightly self-mocking, never accusatory.</span>
+        <span class="cy-note">Used with self-deprecating humor when giving a gift that wasn't originally yours , passing along a recommendation, re-gifting, or presenting another person's work as an offering. The image: lacking flowers of your own to offer at the Buddhist altar, you borrow someone else's. Tone is always lightly self-mocking, never accusatory.</span>
       </div>
 
       <div class="cy">

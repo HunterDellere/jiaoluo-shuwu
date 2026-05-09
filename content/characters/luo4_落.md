@@ -105,9 +105,9 @@ content_sources:
 
     <div class="scholar" data-glyph="落">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
-      <p><strong>落 = 艹</strong> (grass radical) <strong>+ 洛 luò</strong> (phonetic — a river name). The original meaning was leaves falling from plants — the grass radical anchors it to the botanical world. Water falling was already embedded in the phonetic 洛 (a river whose name evokes flowing and settling). Together: the natural downward motion of organic things arriving at rest.</p>
-      <p>This character is the second half of 角落 jiǎoluò — the corner where things settle, the nook that gives this site its name. 落 in that compound contributes not motion but <em>arrival</em> — the state of having come to rest in a particular place. A book-room in the corner is books that have landed there.</p>
-      <p>落 also appears as a phonetic-semantic pivot across many characters: 骆 luò (camel — the animal of caravans that settle at oases), 洛 Luò (the Luo River, historically crucial), 络 luò (a net; to entwine — things falling and wrapping together).</p>
+      <p><strong>落 = 艹</strong> (grass radical) <strong>+ 洛 luò</strong> (phonetic , a river name). The original meaning was leaves falling from plants , the grass radical anchors it to the botanical world. Water falling was already embedded in the phonetic 洛 (a river whose name evokes flowing and settling). Together: the natural downward motion of organic things arriving at rest.</p>
+      <p>This character is the second half of 角落 jiǎoluò , the corner where things settle, the nook that gives this site its name. 落 in that compound contributes not motion but <em>arrival</em> , the state of having come to rest in a particular place. A book-room in the corner is books that have landed there.</p>
+      <p>落 also appears as a phonetic-semantic pivot across many characters: 骆 luò (camel , the animal of caravans that settle at oases), 洛 Luò (the Luo River, historically crucial), 络 luò (a net; to entwine , things falling and wrapping together).</p>
     </div>
 
     <!-- ── FALLING ── -->
@@ -176,7 +176,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-v">V 动词 dòngcí</span></div>
         <div class="card-def">
-          落 luò + 后 hòu (behind). To lag behind others in a race, in development, or in progress. Used in sports, economics, and social commentary. Carries a normative weight — something that has fallen behind should catch up.
+          落 luò + 后 hòu (behind). To lag behind others in a race, in development, or in progress. Used in sports, economics, and social commentary. Carries a normative weight , something that has fallen behind should catch up.
         </div>
         <div class="examples">
           <div class="example">
@@ -195,7 +195,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-v">V 动词 dòngcí</span></div>
         <div class="card-def">
-          跌 diē (to stumble, to fall sharply) + 落 luò. A more violent or dramatic fall than 落 alone — prices plummeting, a person tumbling. Common in financial and news contexts.
+          跌 diē (to stumble, to fall sharply) + 落 luò. A more violent or dramatic fall than 落 alone , prices plummeting, a person tumbling. Common in financial and news contexts.
         </div>
         <div class="examples">
           <div class="example">
@@ -227,7 +227,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-v">V 动词 dòngcí</span></div>
         <div class="card-def">
-          落 luò (to land) + 实 shí (solid, real, concrete). To take something from the abstract and make it real — to land on a decision, confirm a plan, carry out a policy. One of the most important governance and management words in Chinese.
+          落 luò (to land) + 实 shí (solid, real, concrete). To take something from the abstract and make it real , to land on a decision, confirm a plan, carry out a policy. One of the most important governance and management words in Chinese.
         </div>
         <div class="examples">
           <div class="example">
@@ -270,7 +270,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-vn">V/N 动名词</span></div>
         <div class="card-def">
-          落 luò (to land) + 脚 jiǎo (foot). Where one's foot lands — to find a place to stay, to establish a base. 落脚点 luòjiǎodiǎn = a base of operations; a place to stand.
+          落 luò (to land) + 脚 jiǎo (foot). Where one's foot lands , to find a place to stay, to establish a base. 落脚点 luòjiǎodiǎn = a base of operations; a place to stand.
         </div>
         <div class="examples">
           <div class="example">
@@ -295,7 +295,7 @@ content_sources:
     <div class="scholar" data-glyph="落">
       <div class="scholar-label">词缀洞见 cízhuì dòngjiàn · Suffix Insight</div>
       <p>When 落 follows another element, it often means <em>a settled place, a cluster of things that have landed together.</em> This pattern is especially visible in place names and spatial vocabulary. A 部落 bùluò (tribe, clan) is literally a group that has settled together. A 村落 cūnluò (village) is a place where people have set down roots. An 角落 jiǎoluò (corner) is where things settle at the edge.</p>
-      <p>The same logic appears in less obvious words: 零落 línglùo (scattered, withered) describes leaves that have fallen and lie scattered; 沦落 lúnluò (to sink into degradation) is a person who has fallen to a lower place. All are variations on the image of something descending and arriving at a new — often diminished — state.</p>
+      <p>The same logic appears in less obvious words: 零落 línglùo (scattered, withered) describes leaves that have fallen and lie scattered; 沦落 lúnluò (to sink into degradation) is a person who has fallen to a lower place. All are variations on the image of something descending and arriving at a new , often diminished — state.</p>
     </div>
 
     <div class="table-wrap">

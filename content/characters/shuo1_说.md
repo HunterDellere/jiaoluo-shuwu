@@ -127,12 +127,12 @@ content_sources:
       <span class="label">读音分工 dúyīn fēngōng · Reading Split</span>
       <strong>shuō (tone 1)</strong> → to speak, to say, to explain (everyday use)<br>
       <strong>shuì (tone 4)</strong> → to persuade (political/diplomatic: 游说 yóushuì = to lobby, to canvass)<br>
-      <strong>yuè (tone 4)</strong> → to be pleased (classical only: 学而时习之，不亦说乎 — Analects opening line)
+      <strong>yuè (tone 4)</strong> → to be pleased (classical only: 学而时习之，不亦说乎 , Analects opening line)
     </div>
 
     <div class="note">
       <span class="note-label">学者注 · Scholar Note</span>
-      The yuè reading is famous from the Analects: 学而时习之，不亦<strong>说</strong>乎 — "To learn and regularly practice — is this not a pleasure?" Here 说 = 悦 yuè (delight). Classical texts use 说 for both shuō and yuè. The shuì reading (persuade) appears in Warring States political texts where itinerant persuaders (游说家) sold their counsel to rival states — the original lobbyists.
+      The yuè reading is famous from the Analects: 学而时习之，不亦<strong>说</strong>乎 , "To learn and regularly practice , is this not a pleasure?" Here 说 = 悦 yuè (delight). Classical texts use 说 for both shuō and yuè. The shuì reading (persuade) appears in Warring States political texts where itinerant persuaders (游说家) sold their counsel to rival states , the original lobbyists.
     </div>
 
     <!-- ── SPEECH VERBS ── -->
@@ -165,7 +165,7 @@ content_sources:
           <div class="example">
             <div class="ex-cn">他很会说话，让人舒服。</div>
             <div class="ex-py">Tā hěn huì shuōhuà, ràng rén shūfu.</div>
-            <div class="ex-en">He's very good with words — he puts people at ease.</div>
+            <div class="ex-en">He's very good with words , he puts people at ease.</div>
           </div>
         </div>
       </div>

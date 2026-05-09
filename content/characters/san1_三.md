@@ -103,8 +103,8 @@ content_review: 'pending'
     <div class="scholar" data-glyph="三">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
       <p><strong>三</strong> is three horizontal strokes, laid one above the other. The logic is additive: 一 is one stroke (unity), 二 is two strokes (duality), 三 is three strokes (completion). The oracle-bone form is already the same: three parallel lines, equally spaced, fully horizontal. There is no hidden complexity in the form; the transparency is the point.</p>
-      <p>The deeper interest is what three <em>means</em>. In Chinese cosmological thought, three is the number at which multiplication begins. One is undifferentiated unity. Two introduces opposition: yin and yang, heaven and earth, self and other. Three creates a third term that mediates between the two — and from that mediation, variety and abundance become possible. Three is not just a count; it is the first move toward the infinite.</p>
-      <p>The Shuowen Jiezi defines 三 as: <em>三，天地人之道也</em> — "Three: the way of Heaven, Earth, and the Human." The number is inseparable from the cosmological structure it names.</p>
+      <p>The deeper interest is what three <em>means</em>. In Chinese cosmological thought, three is the number at which multiplication begins. One is undifferentiated unity. Two introduces opposition: yin and yang, heaven and earth, self and other. Three creates a third term that mediates between the two , and from that mediation, variety and abundance become possible. Three is not just a count; it is the first move toward the infinite.</p>
+      <p>The Shuowen Jiezi defines 三 as: <em>三，天地人之道也</em> , "Three: the way of Heaven, Earth, and the Human." The number is inseparable from the cosmological structure it names.</p>
     </div>
 
     <!-- ── THREE REALMS ── -->
@@ -118,9 +118,9 @@ content_review: 'pending'
 
     <div class="scholar" data-glyph="三">
       <div class="scholar-label">道德经 · Laozi Chapter 42</div>
-      <p>The most famous sentence about three in all of Chinese literature is Laozi chapter 42: <strong>道生一，一生二，二生三，三生万物</strong> — "The Way generates one; one generates two; two generates three; three generates the ten thousand things." The sequence is not arithmetic but cosmogonic. Three is the inflection point where generation becomes exponential. Everything that exists — 万物, the ten thousand things, the whole of reality — descends from the moment that three came into being.</p>
-      <p><strong>天地人三才</strong> sāncái — the three powers or three talents — is the Yijing's foundational structure. Heaven (天) governs above; Earth (地) grounds below; the Human (人) stands between and mediates. The three horizontal strokes of 三 can be read as this cosmological stack: the top stroke is Heaven, the bottom stroke is Earth, and the middle stroke is the Human suspended between them. Whether or not this was the etymological intention, it became the interpretive tradition.</p>
-      <p>三生有幸 sān shēng yǒu xìng — "blessed in three lifetimes" — extends the pattern into time. To be fortunate across past, present, and future lives simultaneously is the fullest conceivable blessing. The phrase is used as a gracious compliment upon meeting someone distinguished: "I am honored across all three lifetimes to meet you."</p>
+      <p>The most famous sentence about three in all of Chinese literature is Laozi chapter 42: <strong>道生一，一生二，二生三，三生万物</strong> , "The Way generates one; one generates two; two generates three; three generates the ten thousand things." The sequence is not arithmetic but cosmogonic. Three is the inflection point where generation becomes exponential. Everything that exists , 万物, the ten thousand things, the whole of reality , descends from the moment that three came into being.</p>
+      <p><strong>天地人三才</strong> sāncái , the three powers or three talents , is the Yijing's foundational structure. Heaven (天) governs above; Earth (地) grounds below; the Human (人) stands between and mediates. The three horizontal strokes of 三 can be read as this cosmological stack: the top stroke is Heaven, the bottom stroke is Earth, and the middle stroke is the Human suspended between them. Whether or not this was the etymological intention, it became the interpretive tradition.</p>
+      <p>三生有幸 sān shēng yǒu xìng , "blessed in three lifetimes" , extends the pattern into time. To be fortunate across past, present, and future lives simultaneously is the fullest conceivable blessing. The phrase is used as a gracious compliment upon meeting someone distinguished: "I am honored across all three lifetimes to meet you."</p>
     </div>
 
     <!-- ── EMPHATIC USAGE ── -->
@@ -135,10 +135,10 @@ content_review: 'pending'
     <div class="pattern">
       <span class="label">构词规律 gòucí guīlǜ · 三 as "multiple times; repeatedly"</span>
       In Chinese, 三 frequently functions as a rhetorical intensifier rather than a precise count. The number three signals "enough times that it matters": consider carefully, do it thoroughly, do it again. This usage has deep classical roots and appears across registers from formal prose to everyday speech.<br><br>
-      <strong>再三</strong> zàisān — "again three times" = again and again, repeatedly. The most common pure intensifier.<br>
-      <strong>三思</strong> sānsī — "think three times" = consider carefully; think before acting (from the Analects).<br>
-      <strong>三番五次</strong> sān fān wǔ cì — "three rounds and five occasions" = time and again, repeatedly.<br>
-      <strong>三令五申</strong> sān lìng wǔ shēn — "three orders and five decrees" = to issue repeated warnings and orders.
+      <strong>再三</strong> zàisān , "again three times" = again and again, repeatedly. The most common pure intensifier.<br>
+      <strong>三思</strong> sānsī , "think three times" = consider carefully; think before acting (from the Analects).<br>
+      <strong>三番五次</strong> sān fān wǔ cì , "three rounds and five occasions" = time and again, repeatedly.<br>
+      <strong>三令五申</strong> sān lìng wǔ shēn , "three orders and five decrees" = to issue repeated warnings and orders.
     </div>
 
     <div class="cards">
@@ -175,7 +175,7 @@ content_review: 'pending'
         </div>
         <div class="tags"><span class="tag tag-v">V 动词 dòngcí</span></div>
         <div class="card-def">
-          三 sān + 思 sī (to think; to reflect). From the Analects: 季文子三思而后行 — "Ji Wenzi thought three times before acting." Confucius's comment was that twice was already sufficient, but the wisdom of pausing before action became proverbial. 三思而后行 (think three times, then move) is one of the most quoted classical phrases in modern Chinese.
+          三 sān + 思 sī (to think; to reflect). From the Analects: 季文子三思而后行 , "Ji Wenzi thought three times before acting." Confucius's comment was that twice was already sufficient, but the wisdom of pausing before action became proverbial. 三思而后行 (think three times, then move) is one of the most quoted classical phrases in modern Chinese.
         </div>
         <div class="examples">
           <div class="example">
@@ -212,7 +212,7 @@ content_review: 'pending'
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          三 sān + 国 guó (kingdom; state; country). The Three Kingdoms period (220–280 CE), when China split into Wei (魏), Shu (蜀), and Wu (吴) after the collapse of the Han dynasty. 三国演义 (Romance of the Three Kingdoms) by Luo Guanzhong is one of the Four Great Classical Novels of Chinese literature and arguably the most culturally influential novel in East Asian history. Its characters — Zhuge Liang, Cao Cao, Guan Yu — remain household names across China, Japan, Korea, and Vietnam.
+          三 sān + 国 guó (kingdom; state; country). The Three Kingdoms period (220–280 CE), when China split into Wei (魏), Shu (蜀), and Wu (吴) after the collapse of the Han dynasty. 三国演义 (Romance of the Three Kingdoms) by Luo Guanzhong is one of the Four Great Classical Novels of Chinese literature and arguably the most culturally influential novel in East Asian history. Its characters , Zhuge Liang, Cao Cao, Guan Yu , remain household names across China, Japan, Korea, and Vietnam.
         </div>
         <div class="examples">
           <div class="example">
@@ -236,7 +236,7 @@ content_review: 'pending'
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          三 sān + 民 mín (people) + 主义 zhǔyì (doctrine; -ism). Sun Yat-sen's foundational political ideology for the Republic of China, established in the early twentieth century. The three principles are: 民族 mínzú (Nationalism — self-determination for the Chinese people), 民权 mínquán (Democracy — political rights for citizens), and 民生 mínshēng (People's Livelihood — economic welfare). Remains the official ideology of the Republic of China on Taiwan.
+          三 sān + 民 mín (people) + 主义 zhǔyì (doctrine; -ism). Sun Yat-sen's foundational political ideology for the Republic of China, established in the early twentieth century. The three principles are: 民族 mínzú (Nationalism , self-determination for the Chinese people), 民权 mínquán (Democracy , political rights for citizens), and 民生 mínshēng (People's Livelihood , economic welfare). Remains the official ideology of the Republic of China on Taiwan.
         </div>
         <div class="examples">
           <div class="example">
@@ -335,7 +335,7 @@ content_review: 'pending'
         <span class="cy-cn">三顾茅庐</span>
         <span class="cy-py">sān gù máolú</span>
         <span class="cy-en">"three visits to the thatched cottage" — to seek out a person of talent with great persistence and sincerity</span>
-        <span class="cy-note">The most celebrated episode from Romance of the Three Kingdoms. Liu Bei, ruler of Shu, visits the hermit Zhuge Liang three times at his remote thatched cottage before Zhuge Liang agrees to leave seclusion and serve as his strategist. The first two visits find Zhuge Liang absent or resting; only on the third does Liu Bei wait outside in the cold until Zhuge Liang wakes. The act of triple persistence demonstrates that Liu Bei's need is genuine and his respect sincere. The idiom is now standard for any earnest, repeated effort to recruit someone talented — in business, academia, or government — where the first or second refusal is not taken as final.</span>
+        <span class="cy-note">The most celebrated episode from Romance of the Three Kingdoms. Liu Bei, ruler of Shu, visits the hermit Zhuge Liang three times at his remote thatched cottage before Zhuge Liang agrees to leave seclusion and serve as his strategist. The first two visits find Zhuge Liang absent or resting; only on the third does Liu Bei wait outside in the cold until Zhuge Liang wakes. The act of triple persistence demonstrates that Liu Bei's need is genuine and his respect sincere. The idiom is now standard for any earnest, repeated effort to recruit someone talented , in business, academia, or government — where the first or second refusal is not taken as final.</span>
       </div>
 
       <div class="cy">

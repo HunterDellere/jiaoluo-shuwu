@@ -109,7 +109,7 @@ content_sources:
     </div>
 
     <div class="pattern">
-      <span class="label">提手旁 tí shǒu páng · The 扌 Radical — Action Verbs</span>
+      <span class="label">提手旁 tí shǒu páng · The 扌 Radical , Action Verbs</span>
       <strong>打</strong> dǎ hit/do · <strong>拿</strong> ná hold/take · <strong>抓</strong> zhuā grab · <strong>推</strong> tuī push · <strong>拉</strong> lā pull · <strong>挥</strong> huī wave · <strong>握</strong> wò grasp · <strong>拍</strong> pāi pat/clap · <strong>抱</strong> bào hug · <strong>捡</strong> jiǎn pick up · <strong>拼</strong> pīn piece together · <strong>搜</strong> sōu search · <strong>换</strong> huàn exchange · <strong>操</strong> cāo operate/drill · <strong>提</strong> tí lift/raise · <strong>接</strong> jiē receive/connect
     </div>
 
@@ -131,13 +131,13 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          手 shǒu (hand) + 机 jī (machine). China's most common word for mobile phone — the machine held in the hand. Completely replaced the earlier 手提电话 and the formal 移动电话 in everyday usage. 玩手机 wán shǒujī = "to play on one's phone" (ubiquitous activity). 低头族 dītóu zú = "the tribe that looks down" — people always looking at their phones.
+          手 shǒu (hand) + 机 jī (machine). China's most common word for mobile phone , the machine held in the hand. Completely replaced the earlier 手提电话 and the formal 移动电话 in everyday usage. 玩手机 wán shǒujī = "to play on one's phone" (ubiquitous activity). 低头族 dītóu zú = "the tribe that looks down" , people always looking at their phones.
         </div>
         <div class="examples">
           <div class="example">
             <div class="ex-cn">他出门时忘了带手机，非常不方便。</div>
             <div class="ex-py">Tā chūmén shí wàng le dài shǒujī, fēicháng bù fāngbiàn.</div>
-            <div class="ex-en">He forgot to bring his phone when he went out — very inconvenient.</div>
+            <div class="ex-en">He forgot to bring his phone when he went out , very inconvenient.</div>
           </div>
         </div>
       </div>
@@ -150,7 +150,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-v">V 动词 dòngcí</span></div>
         <div class="card-def">
-          握 wò (to grasp) + 手 shǒu (hand). To shake hands — the standard formal greeting gesture in modern Chinese business and official contexts. Traditional Chinese greeting was bowing or clasping one's own hands together (拱手 gǒngshǒu) rather than hand-to-hand contact. 握手言和 wòshǒu yán hé = "shake hands and make peace" — idiom for reconciliation.
+          握 wò (to grasp) + 手 shǒu (hand). To shake hands , the standard formal greeting gesture in modern Chinese business and official contexts. Traditional Chinese greeting was bowing or clasping one's own hands together (拱手 gǒngshǒu) rather than hand-to-hand contact. 握手言和 wòshǒu yán hé = "shake hands and make peace" , idiom for reconciliation.
         </div>
         <div class="examples">
           <div class="example">
@@ -188,7 +188,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          帮 bāng (to help) + 手 shǒu (person; hand). A helper — someone who lends a hand. Also 帮忙 bāng máng (to help out — the common spoken form) and 帮助 bāngzhù (to assist — more formal). 多一个帮手 = "one more person to help out." The physical image of lending a hand is present in 帮 itself, which contains 帮 (a cloth binding — tying together as support).
+          帮 bāng (to help) + 手 shǒu (person; hand). A helper , someone who lends a hand. Also 帮忙 bāng máng (to help out , the common spoken form) and 帮助 bāngzhù (to assist , more formal). 多一个帮手 = "one more person to help out." The physical image of lending a hand is present in 帮 itself, which contains 帮 (a cloth binding , tying together as support).
         </div>
         <div class="examples">
           <div class="example">
@@ -215,7 +215,7 @@ content_sources:
         <span class="cy-cn">手到擒来</span>
         <span class="cy-py">shǒu dào qín lái</span>
         <span class="cy-en">the hand arrives and the capture is made — easily accomplished</span>
-        <span class="cy-note">Lit: hand-arrives-capture-comes. Used to describe a task accomplished with ease and confidence — the expert reaches out and the thing is done. An expression of mastery making difficulty look effortless. 对他来说，这件事手到擒来 "For him, this was a cinch."</span>
+        <span class="cy-note">Lit: hand-arrives-capture-comes. Used to describe a task accomplished with ease and confidence , the expert reaches out and the thing is done. An expression of mastery making difficulty look effortless. 对他来说，这件事手到擒来 "For him, this was a cinch."</span>
       </div>
 
       <div class="cy">

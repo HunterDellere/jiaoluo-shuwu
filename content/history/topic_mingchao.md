@@ -93,15 +93,15 @@ pinyin: 'míngcháo'
 
     <div class="pattern">
       <span class="label">年表 niánbiǎo · Ming Key Dates</span>
-      <strong>1368</strong> — Zhu Yuanzhang proclaims Ming dynasty; capital at Nanjing<br>
-      <strong>1380</strong> — Prime Minister abolished; emperor takes direct control of government<br>
-      <strong>1402</strong> — Yongle Emperor seizes throne from his nephew in the Jingnan Campaign<br>
-      <strong>1405–1433</strong> — Zheng He's seven voyages to Southeast Asia, India, Arabia, East Africa<br>
-      <strong>1420</strong> — Forbidden City completed; capital moved from Nanjing to Beijing<br>
-      <strong>1449</strong> — Tumu Crisis: Emperor Yingzong captured by Mongols (土木之变)<br>
-      <strong>1521–1567</strong> — Jiajing and Longqing reigns: coastal piracy, Japanese trade conflicts<br>
-      <strong>1572–1620</strong> — Wanli reign: longest reign; 28 years of non-cooperation with officials<br>
-      <strong>1644</strong> — Li Zicheng takes Beijing; last Ming emperor hangs himself; Manchus enter
+      <strong>1368</strong> , Zhu Yuanzhang proclaims Ming dynasty; capital at Nanjing<br>
+      <strong>1380</strong> , Prime Minister abolished; emperor takes direct control of government<br>
+      <strong>1402</strong> , Yongle Emperor seizes throne from his nephew in the Jingnan Campaign<br>
+      <strong>1405–1433</strong> , Zheng He's seven voyages to Southeast Asia, India, Arabia, East Africa<br>
+      <strong>1420</strong> , Forbidden City completed; capital moved from Nanjing to Beijing<br>
+      <strong>1449</strong> , Tumu Crisis: Emperor Yingzong captured by Mongols (土木之变)<br>
+      <strong>1521–1567</strong> , Jiajing and Longqing reigns: coastal piracy, Japanese trade conflicts<br>
+      <strong>1572–1620</strong> , Wanli reign: longest reign; 28 years of non-cooperation with officials<br>
+      <strong>1644</strong> , Li Zicheng takes Beijing; last Ming emperor hangs himself; Manchus enter
     </div>
 
     <!-- ── YONGLE EMPEROR ── -->
@@ -141,10 +141,10 @@ pinyin: 'míngcháo'
 
     <div class="pattern">
       <span class="label">七次下西洋 Qī cì xià xīyáng · The Seven Voyages at a Glance</span>
-      <strong>第一次 1405–1407</strong> — 62 large ships, ~27,800 men; reached Calicut (Kozhikode) on India's Malabar Coast<br>
-      <strong>第二次 1407–1409</strong> — consolidated tributary relationships in Southeast Asia and India<br>
-      <strong>第三次 1409–1411</strong> — Sri Lanka (锡兰 Xīlán); military intervention in dynastic dispute<br>
-      <strong>第四次 1413–1415</strong> — reached the Persian Gulf and Arabian peninsula; Hormuz<br>
+      <strong>第一次 1405–1407</strong> , 62 large ships, ~27,800 men; reached Calicut (Kozhikode) on India's Malabar Coast<br>
+      <strong>第二次 1407–1409</strong> , consolidated tributary relationships in Southeast Asia and India<br>
+      <strong>第三次 1409–1411</strong> , Sri Lanka (锡兰 Xīlán); military intervention in dynastic dispute<br>
+      <strong>第四次 1413–1415</strong> , reached the Persian Gulf and Arabian peninsula; Hormuz<br>
       <strong>第五次 1417–1419</strong> — East Africa for the first time; Malindi; brought a giraffe (麒麟) to Beijing<br>
       <strong>第六次 1421–1422</strong> — established tributary missions across the Indian Ocean world<br>
       <strong>第七次 1431–1433</strong> — Zheng He's last voyage; died at sea near Calicut, age ~62

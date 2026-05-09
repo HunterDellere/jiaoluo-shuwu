@@ -111,9 +111,9 @@ content_review: 'pending'
     <div class="pattern">
       <span class="label">构词规律 gòucí guīlǜ · 其 as possessive / attributive determiner</span>
       其 <em>qí</em> + noun = <strong>its / their / that [noun]</strong><br>
-      <strong>其人</strong> qí rén — that person; the person in question<br>
-      <strong>其实</strong> qíshí — its reality; in fact; actually<br>
-      <strong>其中</strong> qízhōng — among them; within it; therein<br>
+      <strong>其人</strong> qí rén , that person; the person in question<br>
+      <strong>其实</strong> qíshí , its reality; in fact; actually<br>
+      <strong>其中</strong> qízhōng , among them; within it; therein<br>
       In classical syntax, 其 functions exactly where English would use "its" or "that [noun]'s," attributing a property or possession to a previously identified subject without repeating the noun.
     </div>
 
@@ -127,7 +127,7 @@ content_review: 'pending'
         </div>
         <div class="tags"><span class="tag tag-n">N/Adv 名词/副词</span></div>
         <div class="card-def">
-          其 qí (its; that) + 中 zhōng (middle; within). "Within that" or "among them" — used to pick out elements from a previously named set. One of the most frequent formal connectives in written Chinese, where English might say "of these" or "among which."
+          其 qí (its; that) + 中 zhōng (middle; within). "Within that" or "among them" , used to pick out elements from a previously named set. One of the most frequent formal connectives in written Chinese, where English might say "of these" or "among which."
         </div>
         <div class="examples">
           <div class="example">
@@ -156,7 +156,7 @@ content_review: 'pending'
         </div>
         <div class="tags"><span class="tag tag-n">Adv 副词 fùcí</span></div>
         <div class="card-def">
-          其 qí (that; those) + 次 cì (order; rank; next). "Next in that sequence" — used to introduce the second point in a ranked list, following 首先 shǒuxiān (first of all) or 第一 dì yī. Slightly more formal than 然后 ránhòu, which is purely sequential.
+          其 qí (that; those) + 次 cì (order; rank; next). "Next in that sequence" , used to introduce the second point in a ranked list, following 首先 shǒuxiān (first of all) or 第一 dì yī. Slightly more formal than 然后 ránhòu, which is purely sequential.
         </div>
         <div class="examples">
           <div class="example">
@@ -180,7 +180,7 @@ content_review: 'pending'
         </div>
         <div class="tags"><span class="tag tag-adj">Adj/Pro 代词</span></div>
         <div class="card-def">
-          其 qí (that; those) + 他 tā (other). "Those others" — anything outside the named set. The variant 其它 qítā uses the non-human 它 and is preferred when referring to things rather than people, though in practice 其他 covers both. Standard in formal and written registers; spoken Chinese often prefers 别的 biéde.
+          其 qí (that; those) + 他 tā (other). "Those others" , anything outside the named set. The variant 其它 qítā uses the non-human 它 and is preferred when referring to things rather than people, though in practice 其他 covers both. Standard in formal and written registers; spoken Chinese often prefers 别的 biéde.
         </div>
         <div class="examples">
           <div class="example">
@@ -226,7 +226,7 @@ content_review: 'pending'
         </div>
         <div class="tags"><span class="tag tag-n">Adv 副词 fùcí</span></div>
         <div class="card-def">
-          尤 yóu (outstanding; especially) + 其 qí (that; those). "Especially that" — used to single out one item from a broader set as particularly true or notable. Appears before verbs, adjectives, or noun phrases. Roughly equivalent to "particularly" or "above all."
+          尤 yóu (outstanding; especially) + 其 qí (that; those). "Especially that" , used to single out one item from a broader set as particularly true or notable. Appears before verbs, adjectives, or noun phrases. Roughly equivalent to "particularly" or "above all."
         </div>
         <div class="examples">
           <div class="example">
@@ -250,7 +250,7 @@ content_review: 'pending'
         </div>
         <div class="tags"><span class="tag tag-n">Adv 副词 fùcí</span></div>
         <div class="card-def">
-          极 jí (extreme; pole; utmost) + 其 qí (its; that). "Its extreme" — intensifier placing something at the outer limit of its property. More formal and emphatic than 非常 fēicháng or 很 hěn. Common in written evaluations, literary description, and critical prose.
+          极 jí (extreme; pole; utmost) + 其 qí (its; that). "Its extreme" , intensifier placing something at the outer limit of its property. More formal and emphatic than 非常 fēicháng or 很 hěn. Common in written evaluations, literary description, and critical prose.
         </div>
         <div class="examples">
           <div class="example">
@@ -274,7 +274,7 @@ content_review: 'pending'
         </div>
         <div class="tags"><span class="tag tag-n">Conj 连词 liáncí</span></div>
         <div class="card-def">
-          与 yǔ (with; and; compare) + 其 qí (that). "Compared with that" — introduces the rejected alternative in a preference structure. Almost always paired with 不如 bùrú (not as good as; better to) or 宁可 nìngkě (would rather). The full construction: 与其 A, 不如 B — "rather than A, better to B."
+          与 yǔ (with; and; compare) + 其 qí (that). "Compared with that" , introduces the rejected alternative in a preference structure. Almost always paired with 不如 bùrú (not as good as; better to) or 宁可 nìngkě (would rather). The full construction: 与其 A, 不如 B , "rather than A, better to B."
         </div>
         <div class="examples">
           <div class="example">
@@ -307,10 +307,10 @@ content_review: 'pending'
 
     <div class="pattern">
       <span class="label">构词规律 gòucí guīlǜ · 其 in modern written registers</span>
-      <strong>其实</strong> qíshí — its reality → in fact; actually<br>
-      <strong>其余</strong> qíyú — that which remains → the rest; the remainder<br>
-      <strong>其间</strong> qíjiān — within that interval → in between; during that time<br>
-      <strong>其貌不扬</strong> qí mào bù yáng — its appearance not distinguished → plain-looking; unprepossessing (idiom)<br>
+      <strong>其实</strong> qíshí , its reality → in fact; actually<br>
+      <strong>其余</strong> qíyú , that which remains → the rest; the remainder<br>
+      <strong>其间</strong> qíjiān , within that interval → in between; during that time<br>
+      <strong>其貌不扬</strong> qí mào bù yáng , its appearance not distinguished → plain-looking; unprepossessing (idiom)<br>
       The 其 in all of these refers anaphorically to something already in context: a previous noun, a previously described situation, a set already mentioned.
     </div>
 
@@ -324,7 +324,7 @@ content_review: 'pending'
         </div>
         <div class="tags"><span class="tag tag-n">Adv 副词 fùcí</span></div>
         <div class="card-def">
-          其 qí (its) + 实 shí (reality; solid; true). "Its true nature" or "in its reality" — used to correct a false impression, reveal a hidden truth, or introduce an unexpected fact. Equivalent to "actually" or "in fact" when used to contradict or nuance a claim.
+          其 qí (its) + 实 shí (reality; solid; true). "Its true nature" or "in its reality" , used to correct a false impression, reveal a hidden truth, or introduce an unexpected fact. Equivalent to "actually" or "in fact" when used to contradict or nuance a claim.
         </div>
         <div class="examples">
           <div class="example">
@@ -353,7 +353,7 @@ content_review: 'pending'
         </div>
         <div class="tags"><span class="tag tag-n">Pro 代词 dàicí</span></div>
         <div class="card-def">
-          其 qí (those) + 余 yú (remainder; surplus; what is left). "Those that remain" — refers to everything in a set that has not already been specified. More formal than 其他; 其余 often implies a complete remainder (everything else), while 其他 may just mean "various others."
+          其 qí (those) + 余 yú (remainder; surplus; what is left). "Those that remain" , refers to everything in a set that has not already been specified. More formal than 其他; 其余 often implies a complete remainder (everything else), while 其他 may just mean "various others."
         </div>
         <div class="examples">
           <div class="example">
@@ -414,21 +414,21 @@ content_review: 'pending'
         <span class="cy-cn">名副其实</span>
         <span class="cy-py">míng fù qí shí</span>
         <span class="cy-en">name matches its reality — true to its name; the real deal</span>
-        <span class="cy-note">名 míng (name) + 副 fù (to match; conform to) + 其 qí (its) + 实 shí (reality). A person, thing, or institution that genuinely lives up to its reputation or title. Used as praise: 名副其实的专家 — a genuine expert, not just a title. The antonym 名不副实 míng bù fù shí (the name does not match the reality) is equally common as a criticism.</span>
+        <span class="cy-note">名 míng (name) + 副 fù (to match; conform to) + 其 qí (its) + 实 shí (reality). A person, thing, or institution that genuinely lives up to its reputation or title. Used as praise: 名副其实的专家 , a genuine expert, not just a title. The antonym 名不副实 míng bù fù shí (the name does not match the reality) is equally common as a criticism.</span>
       </div>
 
       <div class="cy">
         <span class="cy-cn">出其不意</span>
         <span class="cy-py">chū qí bù yì</span>
         <span class="cy-en">emerge from its unexpectedness — to catch someone off guard; to act when least expected</span>
-        <span class="cy-note">出 chū (emerge; go out) + 其 qí (their; its) + 不意 bù yì (not anticipated; unexpected). From the military classic 孙子兵法 Sūnzǐ Bīngfǎ (The Art of War): 攻其无备，出其不意 — "Attack where they are unprepared; emerge where they do not expect you." Modern usage extends to any surprising move in business, competition, or daily life.</span>
+        <span class="cy-note">出 chū (emerge; go out) + 其 qí (their; its) + 不意 bù yì (not anticipated; unexpected). From the military classic 孙子兵法 Sūnzǐ Bīngfǎ (The Art of War): 攻其无备，出其不意 , "Attack where they are unprepared; emerge where they do not expect you." Modern usage extends to any surprising move in business, competition, or daily life.</span>
       </div>
 
       <div class="cy">
         <span class="cy-cn">自行其是</span>
         <span class="cy-py">zì xíng qí shì</span>
         <span class="cy-en">to act on one's own judgment; to go one's own way regardless of others</span>
-        <span class="cy-note">自 zì (self) + 行 xíng (to act; carry out) + 其是 qí shì (what one considers right). Doing what one believes to be correct without consulting or deferring to others. Carries a mildly negative connotation in Chinese culture — implying a disregard for consensus or authority — though in some contexts it simply means independence of judgment.</span>
+        <span class="cy-note">自 zì (self) + 行 xíng (to act; carry out) + 其是 qí shì (what one considers right). Doing what one believes to be correct without consulting or deferring to others. Carries a mildly negative connotation in Chinese culture , implying a disregard for consensus or authority , though in some contexts it simply means independence of judgment.</span>
       </div>
 
       <div class="cy">

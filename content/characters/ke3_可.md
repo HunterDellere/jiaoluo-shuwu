@@ -113,8 +113,8 @@ updated: '2026-04-25'
 
     <div class="scholar" data-glyph="可">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
-      <p>In oracle bone script, <strong>可</strong> shows a mouth (口) with a mark indicating exhalation — a graphic of affirming breath, the "yes" exhaled from the body. The <em>Shuōwén Jiězì</em> defines 可 as <strong>肯也</strong> — "assent." The root meaning is the moment of saying yes: approval, the breath that signals this is permitted, this is possible, this will do.</p>
-      <p>The evolution from "assent" into "can/may" is direct and logical: what is affirmed is what is allowed or possible. From there the character spread across the grammar of capability, permission, worthiness, and colloquial emphasis — one small character covering a surprisingly wide conceptual territory.</p>
+      <p>In oracle bone script, <strong>可</strong> shows a mouth (口) with a mark indicating exhalation , a graphic of affirming breath, the "yes" exhaled from the body. The <em>Shuōwén Jiězì</em> defines 可 as <strong>肯也</strong> , "assent." The root meaning is the moment of saying yes: approval, the breath that signals this is permitted, this is possible, this will do.</p>
+      <p>The evolution from "assent" into "can/may" is direct and logical: what is affirmed is what is allowed or possible. From there the character spread across the grammar of capability, permission, worthiness, and colloquial emphasis , one small character covering a surprisingly wide conceptual territory.</p>
     </div>
 
     <!-- ── SEMANTIC RANGE ── -->
@@ -176,7 +176,7 @@ updated: '2026-04-25'
         </div>
         <div class="note">
           <span class="note-label">语法 yǔfǎ · Grammar</span>
-          Pattern: <code>Subject + 可以 + Verb phrase</code>. Negation: 不可以 (not permitted) — stronger than 不能 in permission contexts. Question form: 可以吗 / 可以不可以.
+          Pattern: <code>Subject + 可以 + Verb phrase</code>. Negation: 不可以 (not permitted) , stronger than 不能 in permission contexts. Question form: 可以吗 / 可以不可以.
         </div>
       </div>
 
@@ -293,7 +293,7 @@ updated: '2026-04-25'
         </div>
         <div class="tags"><span class="tag tag-adj">Adj 形容词 xíngróngcí</span></div>
         <div class="card-def">
-          可 (worth) + 怕 (to fear). Worth fearing. Used for things that inspire genuine dread — horror films, dangerous situations, extreme weather, powerful people.
+          可 (worth) + 怕 (to fear). Worth fearing. Used for things that inspire genuine dread , horror films, dangerous situations, extreme weather, powerful people.
         </div>
         <div class="examples">
           <div class="example">
@@ -313,7 +313,7 @@ updated: '2026-04-25'
         </div>
         <div class="tags"><span class="tag tag-adj">Adj/Adv 形容词/副词</span></div>
         <div class="card-def">
-          可 (worth) + 惜 (to pity; to regret the loss of something). Worth regretting. Functions as an adjective (这很可惜 — this is a pity) and as a sentential adverb opening a clause (可惜他没来 — unfortunately he did not come).
+          可 (worth) + 惜 (to pity; to regret the loss of something). Worth regretting. Functions as an adjective (这很可惜 , this is a pity) and as a sentential adverb opening a clause (可惜他没来 , unfortunately he did not come).
         </div>
         <div class="examples">
           <div class="example">
@@ -358,7 +358,7 @@ updated: '2026-04-25'
         </div>
         <div class="tags"><span class="tag tag-v">Adv/Conj 副词/连词</span></div>
         <div class="card-def">
-          可 (can; worth) + 见 (to see; to understand). "Can be seen" — used to introduce a logical inference or conclusion drawn from evidence. A formal connector common in essays and arguments.
+          可 (can; worth) + 见 (to see; to understand). "Can be seen" , used to introduce a logical inference or conclusion drawn from evidence. A formal connector common in essays and arguments.
         </div>
         <div class="examples">
           <div class="example">
@@ -382,10 +382,10 @@ updated: '2026-04-25'
 
     <div class="scholar" data-glyph="可">
       <div class="scholar-label">三个情态动词 sān gè qíngtài dòngcí · Modal Comparison</div>
-      <p>These three overlap significantly and learners often use them interchangeably — but each has a core meaning that the others lack.</p>
-      <p><strong>可以 kěyǐ</strong> — Permission or general acceptability. The speaker or a rule-holder grants permission. 你可以走了 (you may go). 这里可以停车吗 (is parking permitted here?). 可以 also signals "acceptable" as a predicate: 这样可以吗 (is this okay?).</p>
-      <p><strong>能 néng</strong> — Physical or contextual ability; sometimes permission. 我能游泳 (I am able to swim). 他生病了，不能来 (he is ill and cannot come — circumstantially unable). In permission contexts, 能 and 可以 are often interchangeable, but 能 foregrounds the capacity dimension.</p>
-      <p><strong>会 huì</strong> — Learned skill or future likelihood. 我会游泳 (I know how to swim — I have learned). 他明天会来 (he will probably come tomorrow). 会 is the one to use when the question is whether someone has mastered a skill, not whether they are allowed or physically able.</p>
+      <p>These three overlap significantly and learners often use them interchangeably , but each has a core meaning that the others lack.</p>
+      <p><strong>可以 kěyǐ</strong> , Permission or general acceptability. The speaker or a rule-holder grants permission. 你可以走了 (you may go). 这里可以停车吗 (is parking permitted here?). 可以 also signals "acceptable" as a predicate: 这样可以吗 (is this okay?).</p>
+      <p><strong>能 néng</strong> , Physical or contextual ability; sometimes permission. 我能游泳 (I am able to swim). 他生病了，不能来 (he is ill and cannot come , circumstantially unable). In permission contexts, 能 and 可以 are often interchangeable, but 能 foregrounds the capacity dimension.</p>
+      <p><strong>会 huì</strong> , Learned skill or future likelihood. 我会游泳 (I know how to swim , I have learned). 他明天会来 (he will probably come tomorrow). 会 is the one to use when the question is whether someone has mastered a skill, not whether they are allowed or physically able.</p>
       <p>The clearest contrast: <em>我会游泳，但这个泳池不能游，因为今天不可以进来。</em> "I know how to swim, but one cannot swim in this pool, because entry is not permitted today." All three in one sentence, each doing distinct work.</p>
     </div>
 
@@ -402,7 +402,7 @@ updated: '2026-04-25'
       <div class="scholar-label">可与不可 kě yǔ bù kě · The Classical Binary</div>
       <p>可 and 不可 form one of the central binary distinctions in classical Chinese ethical reasoning: the permissible and the impermissible, the feasible and the infeasible. In practical classical prose they are applied to situations and plans: 此举可行 (this course of action is feasible); 此路不可行 (this road is impassable; this approach will not work).</p>
       <p>In the Analects, Confucius deliberately refuses to make 可 and 不可 into fixed rules: 子曰："君子之于天下也，无适也，无莫也，义之与比。" — "The junzi, toward all under heaven, has no fixed 'must' and no fixed 'must not'; righteousness is the standard by which he judges." The point is that 可/不可 are contextual judgments, not categorical laws. Righteousness, not a fixed list of permissions, guides the junzi.</p>
-      <p>Classical compound patterns with 可: 可谓 kě wèi (one can say; it may be called), 可知 kě zhī (it can be known; evidently), 可为 kě wéi (can be done; worth doing), 岂可 qǐ kě (how could it possibly be permitted that — rhetorical question expressing indignation).</p>
+      <p>Classical compound patterns with 可: 可谓 kě wèi (one can say; it may be called), 可知 kě zhī (it can be known; evidently), 可为 kě wéi (can be done; worth doing), 岂可 qǐ kě (how could it possibly be permitted that , rhetorical question expressing indignation).</p>
     </div>
 
     <!-- ── CHENGYU ── -->
@@ -470,7 +470,7 @@ updated: '2026-04-25'
     <!-- RETENTION IMAGE -->
     <div class="scholar" data-glyph="可" style="margin-top:2.5rem;">
       <div class="scholar-label">记忆法 jìyìfǎ · Master Retention Image</div>
-      <p>Imagine 可 as an open mouth exhaling a single breath of agreement — the "yes" at the body's threshold before action. That breath does three things simultaneously: it grants permission (you may), affirms possibility (it can be done), and assigns worth (it is worth doing). Every 可-compound is one of these three judgments made specific: 可以 is the yes of permission, 可能 is the yes of possibility, 可爱 is the yes of worthiness toward the act of loving.</p>
+      <p>Imagine 可 as an open mouth exhaling a single breath of agreement , the "yes" at the body's threshold before action. That breath does three things simultaneously: it grants permission (you may), affirms possibility (it can be done), and assigns worth (it is worth doing). Every 可-compound is one of these three judgments made specific: 可以 is the yes of permission, 可能 is the yes of possibility, 可爱 is the yes of worthiness toward the act of loving.</p>
       <p>The 可 + verb pattern — once the template clicks — becomes generative: 可 + any reaction verb = an adjective describing what provokes that reaction. Worth fearing, worth regretting, worth trusting, worth laughing at. A single character covering the grammar of human evaluation.</p>
     </div>
 

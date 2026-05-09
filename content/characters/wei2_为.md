@@ -111,9 +111,9 @@ updated: '2026-04-25'
 
     <div class="scholar" data-glyph="為">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
-      <p>In oracle bone script, 为 (traditional: 為) depicts a hand leading an elephant — to guide an immense animal through skillful, directed agency. This is one of the most evocative etymologies in the Chinese script: 为 as the act of directing, causing something to happen not by brute force but by knowing how to move what is large. The traditional form 為 preserves this more legibly, with 爪 (claw or hand) over a stylized elephant body. The simplified form 为 retains a trace of the original at the top.</p>
-      <p>The Shuōwén Jiězì defines 为 as 母猴也 (a macaque) — a reading that modern scholars of oracle bone inscriptions generally dispute. The weight of graphic evidence supports the elephant-guiding etymology: the earliest forms show a hand positioned above and before a large animal, with the sense of directing it forward.</p>
-      <p>The core semantic territory is human agency acting on the world — not simply acting but acting with skill, causing outcomes through deliberate direction. From this root came both the verb of doing and, eventually, the preposition of purpose: to do something is, by extension, to do it for or toward something.</p>
+      <p>In oracle bone script, 为 (traditional: 為) depicts a hand leading an elephant , to guide an immense animal through skillful, directed agency. This is one of the most evocative etymologies in the Chinese script: 为 as the act of directing, causing something to happen not by brute force but by knowing how to move what is large. The traditional form 為 preserves this more legibly, with 爪 (claw or hand) over a stylized elephant body. The simplified form 为 retains a trace of the original at the top.</p>
+      <p>The Shuōwén Jiězì defines 为 as 母猴也 (a macaque) , a reading that modern scholars of oracle bone inscriptions generally dispute. The weight of graphic evidence supports the elephant-guiding etymology: the earliest forms show a hand positioned above and before a large animal, with the sense of directing it forward.</p>
+      <p>The core semantic territory is human agency acting on the world , not simply acting but acting with skill, causing outcomes through deliberate direction. From this root came both the verb of doing and, eventually, the preposition of purpose: to do something is, by extension, to do it for or toward something.</p>
     </div>
 
     <!-- ── TWO READINGS ── -->
@@ -127,14 +127,14 @@ updated: '2026-04-25'
 
     <div class="pattern">
       <span class="label">两读对比 liǎng dú duìbǐ · Reading at a Glance</span>
-      <strong>wéi 为</strong> (2nd tone) — verb: <em>to do, to act, to be, to serve as.</em> The active sense rooted in the oracle bone image of guiding. 认为 rènwéi = to think, to consider. 成为 chéngwéi = to become. 作为 zuòwéi = to act as.<br><br>
-      <strong>wèi 为</strong> (4th tone) — preposition: <em>for; for the sake of; because of.</em> Marks purpose, beneficiary, or cause. 为了 wèile = in order to. 因为 yīnwèi = because. 为什么 wèishénme = why (lit. "for what").
+      <strong>wéi 为</strong> (2nd tone) , verb: <em>to do, to act, to be, to serve as.</em> The active sense rooted in the oracle bone image of guiding. 认为 rènwéi = to think, to consider. 成为 chéngwéi = to become. 作为 zuòwéi = to act as.<br><br>
+      <strong>wèi 为</strong> (4th tone) , preposition: <em>for; for the sake of; because of.</em> Marks purpose, beneficiary, or cause. 为了 wèile = in order to. 因为 yīnwèi = because. 为什么 wèishénme = why (lit. "for what").
     </div>
 
     <div class="scholar" data-glyph="为">
       <div class="scholar-label">语法洞见 yǔfǎ dòngjiàn · The Split in Practice</div>
       <p>The two readings split along the line between doing and orienting toward. wéi is the action itself; wèi is the direction or reason behind action. In classical Chinese the same graph covered both, and context (or following particles) disambiguated. Modern Mandarin preserves the distinction by tone alone.</p>
-      <p>One important note: 为什么 is wèishénme (4th tone, prepositional — "for what reason"), while 认为 is rènwéi (2nd tone, verbal — "to take as one's view"). Learners sometimes hesitate at 为什么 because 什么 can trigger the question intonation; the syllable 为 itself is consistently 4th tone in this compound. The surest test: if 为 expresses purpose, cause, or beneficiary, it is wèi. If it expresses doing, being, or serving as, it is wéi.</p>
+      <p>One important note: 为什么 is wèishénme (4th tone, prepositional , "for what reason"), while 认为 is rènwéi (2nd tone, verbal , "to take as one's view"). Learners sometimes hesitate at 为什么 because 什么 can trigger the question intonation; the syllable 为 itself is consistently 4th tone in this compound. The surest test: if 为 expresses purpose, cause, or beneficiary, it is wèi. If it expresses doing, being, or serving as, it is wéi.</p>
     </div>
 
     <!-- ── wéi COMPOUNDS ── -->
@@ -156,7 +156,7 @@ updated: '2026-04-25'
         </div>
         <div class="tags"><span class="tag tag-v">V 动词 dòngcí</span></div>
         <div class="card-def">
-          认 rèn (to recognize; to take as) + 为 wéi (to be; to take as). Literally "to take X as [one's view of the matter]." The most common compound for expressing personal opinion in modern Chinese — 我认为 wǒ rènwéi (I think that...) is the standard opener for stating a perspective in speech or writing. Not the tentative hedge of 觉得 juéde, but a more settled assertion of one's considered position.
+          认 rèn (to recognize; to take as) + 为 wéi (to be; to take as). Literally "to take X as [one's view of the matter]." The most common compound for expressing personal opinion in modern Chinese , 我认为 wǒ rènwéi (I think that...) is the standard opener for stating a perspective in speech or writing. Not the tentative hedge of 觉得 juéde, but a more settled assertion of one's considered position.
         </div>
         <div class="examples">
           <div class="example">
@@ -185,7 +185,7 @@ updated: '2026-04-25'
         </div>
         <div class="tags"><span class="tag tag-vn">V/N 动名词</span></div>
         <div class="card-def">
-          作 zuò (to do; to act) + 为 wéi (to be; to serve as). Two near-synonyms combined for emphasis on role or capacity. As a preposition phrase: 作为一个老师 (in the capacity of a teacher / as a teacher). As a noun: 他很有作为 (he has accomplished a great deal; he is a person of achievement). The nominal use specifically honors agency and accomplishment — 作为 as a countable quality one can have more or less of.
+          作 zuò (to do; to act) + 为 wéi (to be; to serve as). Two near-synonyms combined for emphasis on role or capacity. As a preposition phrase: 作为一个老师 (in the capacity of a teacher / as a teacher). As a noun: 他很有作为 (he has accomplished a great deal; he is a person of achievement). The nominal use specifically honors agency and accomplishment , 作为 as a countable quality one can have more or less of.
         </div>
         <div class="examples">
           <div class="example">
@@ -238,18 +238,18 @@ updated: '2026-04-25'
         </div>
         <div class="tags"><span class="tag tag-v">V 动词 dòngcí</span></div>
         <div class="card-def">
-          以 yǐ (by means of; to take) + 为 wéi (to be; to take as). Grammaticalized from the classical pattern 以 X 为 Y (to take X as Y). In modern usage, 以为 almost always implies a mistaken assumption — you thought something was the case, and it wasn't. This is the key distinction from 认为: 认为 is one's considered position; 以为 is what one incorrectly supposed.
+          以 yǐ (by means of; to take) + 为 wéi (to be; to take as). Grammaticalized from the classical pattern 以 X 为 Y (to take X as Y). In modern usage, 以为 almost always implies a mistaken assumption , you thought something was the case, and it wasn't. This is the key distinction from 认为: 认为 is one's considered position; 以为 is what one incorrectly supposed.
         </div>
         <div class="examples">
           <div class="example">
             <div class="ex-cn">我以为他已经走了，没想到他还在。</div>
             <div class="ex-py">Wǒ yǐwéi tā yǐjīng zǒu le, méi xiǎngdào tā hái zài.</div>
-            <div class="ex-en">I assumed he had already left — I didn't expect him to still be here.</div>
+            <div class="ex-en">I assumed he had already left , I didn't expect him to still be here.</div>
           </div>
           <div class="example">
             <div class="ex-cn">你以为很简单，其实很难。</div>
             <div class="ex-py">Nǐ yǐwéi hěn jiǎndān, qíshí hěn nán.</div>
-            <div class="ex-en">You think it's simple — in reality it's very difficult.</div>
+            <div class="ex-en">You think it's simple , in reality it's very difficult.</div>
           </div>
           <div class="example">
             <div class="ex-cn">我以为他会同意，没想到他拒绝了。</div>
@@ -259,7 +259,7 @@ updated: '2026-04-25'
         </div>
         <div class="note">
           <span class="note-label">辨析 biànxī · 以为 vs. 认为</span>
-          认为 = a considered, currently held view. 以为 = an assumption that was or is likely wrong. 我认为他错了 (I think he is wrong — my position). 我以为他走了 (I thought he had left — but he hadn't). When the following context reveals a surprise or contradiction, 以为 is the correct verb.
+          认为 = a considered, currently held view. 以为 = an assumption that was or is likely wrong. 我认为他错了 (I think he is wrong , my position). 我以为他走了 (I thought he had left , but he hadn't). When the following context reveals a surprise or contradiction, 以为 is the correct verb.
         </div>
       </div>
 
@@ -329,7 +329,7 @@ updated: '2026-04-25'
         </div>
         <div class="note">
           <span class="note-label">辨析 biànxī · 为了 vs. 因为</span>
-          为了 is prospective — it points toward a purpose or goal. 因为 is retrospective — it points toward a cause or reason. 为了健康他跑步 (he runs for the sake of health — goal). 因为生病他没跑步 (because he was sick he didn't run — cause). The direction of time distinguishes them.
+          为了 is prospective , it points toward a purpose or goal. 因为 is retrospective , it points toward a cause or reason. 为了健康他跑步 (he runs for the sake of health , goal). 因为生病他没跑步 (because he was sick he didn't run , cause). The direction of time distinguishes them.
         </div>
       </div>
 
@@ -370,7 +370,7 @@ updated: '2026-04-25'
         </div>
         <div class="tags"><span class="tag tag-v">Interrog. 疑问词 yíwèncí</span></div>
         <div class="card-def">
-          为 wèi (for; because of) + 什么 shénme (what). Literally "for what." The universal question word for asking reasons and causes. The 为 is consistently 4th tone (wèi), not 2nd — it is the prepositional reading, asking for the purpose or cause behind something. Appears in direct questions and embedded questions alike.
+          为 wèi (for; because of) + 什么 shénme (what). Literally "for what." The universal question word for asking reasons and causes. The 为 is consistently 4th tone (wèi), not 2nd , it is the prepositional reading, asking for the purpose or cause behind something. Appears in direct questions and embedded questions alike.
         </div>
         <div class="examples">
           <div class="example">
@@ -428,11 +428,11 @@ updated: '2026-04-25'
 
     <div class="scholar" data-glyph="为">
       <div class="scholar-label">哲学洞见 zhéxué dòngjiàn · Philosophical Insight</div>
-      <p>The character 为 is at the center of the most important concept in the Daodejing. Laozi (老子) uses 为 throughout the text to name the human tendency toward striving, contrivance, and deliberate forcing. <strong>无为 (wúwéi)</strong> — often translated as "non-action" or "effortless action" — is not a prescription for doing nothing. It is a prescription for acting without the contrivance that 为 at its most willful implies.</p>
+      <p>The character 为 is at the center of the most important concept in the Daodejing. Laozi (老子) uses 为 throughout the text to name the human tendency toward striving, contrivance, and deliberate forcing. <strong>无为 (wúwéi)</strong> , often translated as "non-action" or "effortless action" , is not a prescription for doing nothing. It is a prescription for acting without the contrivance that 为 at its most willful implies.</p>
       <p>The Daodejing's argument, in brief: the universe sustains itself without a director. Water wears through rock not by force but by going where it is already going. The skilled ruler does not impose; the masterful craftsperson works with the material rather than against it. 无为 is the quality of action that cooperates with what is already moving.</p>
       <p>Three passages from the Daodejing anchor the concept:</p>
       <p><strong>为学日益，为道日损，损之又损，以至于无为。</strong> (Chapter 48)<br>
-      <em>In the pursuit of learning, something is gained each day. In the pursuit of the Dao, something is relinquished each day — relinquished and relinquished again until arriving at non-action.</em><br>
+      <em>In the pursuit of learning, something is gained each day. In the pursuit of the Dao, something is relinquished each day , relinquished and relinquished again until arriving at non-action.</em><br>
       The contrast is between accumulation (the way of learning, of 为) and subtraction (the way of the Dao). 无为 is reached by letting go, not by adding.</p>
       <p><strong>无为而无不为。</strong> (Chapter 48)<br>
       <em>Through non-action, nothing is left undone.</em><br>
@@ -454,8 +454,8 @@ updated: '2026-04-25'
     <div class="scholar" data-glyph="為">
       <div class="scholar-label">语法洞见 yǔfǎ dòngjiàn · Classical Constructions</div>
       <p>Two classical constructions built around 为 survived into literary and formal modern Chinese:</p>
-      <p><strong>以…为 (yǐ...wéi)</strong> — "to take X as Y; to regard X as Y." The ancient pattern from which 以为 (to mistakenly think) was grammaticalized. In classical usage, the full construction carries the full meaning: 以天下为家 (to take all under Heaven as one's home), 以和为贵 (to take harmony as the highest value). The latter phrase is still used in modern Chinese, most often in contexts of conflict resolution.</p>
-      <p><strong>为…所 (wéi...suǒ)</strong> — the classical passive construction, still alive in formal written Chinese. Subject + 为 + agent + 所 + verb. 为人所知 (to be known by people = to be well-known). 为众人所尊敬 (to be respected by everyone). This pattern appears in editorial writing, legal documents, and classical quotations. A learner who recognizes 为…所 in a text has the key to a wide range of formal passive constructions.</p>
+      <p><strong>以…为 (yǐ...wéi)</strong> , "to take X as Y; to regard X as Y." The ancient pattern from which 以为 (to mistakenly think) was grammaticalized. In classical usage, the full construction carries the full meaning: 以天下为家 (to take all under Heaven as one's home), 以和为贵 (to take harmony as the highest value). The latter phrase is still used in modern Chinese, most often in contexts of conflict resolution.</p>
+      <p><strong>为…所 (wéi...suǒ)</strong> , the classical passive construction, still alive in formal written Chinese. Subject + 为 + agent + 所 + verb. 为人所知 (to be known by people = to be well-known). 为众人所尊敬 (to be respected by everyone). This pattern appears in editorial writing, legal documents, and classical quotations. A learner who recognizes 为…所 in a text has the key to a wide range of formal passive constructions.</p>
       <p>Both patterns illustrate why 为 carries such density in the literary tradition: it bridges doing, being, and the relationship between agent and action in ways that require several English words to approximate.</p>
     </div>
 
@@ -482,21 +482,21 @@ updated: '2026-04-25'
         <span class="cy-cn">无为而治</span>
         <span class="cy-py">wú wéi ér zhì</span>
         <span class="cy-en">"governing through non-action" — the Daoist ideal of leadership through restraint</span>
-        <span class="cy-note">无为 (non-action) + 而 (and; whereby) + 治 (to govern; governance). The Daoist ideal of governance: the ruler who does not interfere, whose restraint creates the space for the natural order to function. Laozi, Daodejing Chapter 17: 太上，下知有之 — "the greatest ruler: the people barely know he exists." 无为而治 is used both admiringly (a leader who trusts people to govern themselves) and critically (a leader who abdicates responsibility under philosophical cover). Context determines which reading applies.</span>
+        <span class="cy-note">无为 (non-action) + 而 (and; whereby) + 治 (to govern; governance). The Daoist ideal of governance: the ruler who does not interfere, whose restraint creates the space for the natural order to function. Laozi, Daodejing Chapter 17: 太上，下知有之 , "the greatest ruler: the people barely know he exists." 无为而治 is used both admiringly (a leader who trusts people to govern themselves) and critically (a leader who abdicates responsibility under philosophical cover). Context determines which reading applies.</span>
       </div>
 
       <div class="cy">
         <span class="cy-cn">敢作敢为</span>
         <span class="cy-py">gǎn zuò gǎn wéi</span>
         <span class="cy-en">"dare to do, dare to act" — bold and decisive; willing to take initiative and responsibility</span>
-        <span class="cy-note">敢 (to dare) + 作 (to do) + 敢 (to dare) + 为 (to act). The positive image of 为 as confident, owned action — the opposite pole from 无为. Where 无为 counsels releasing the forcing quality of striving, 敢作敢为 describes the quality of someone who acts decisively and stands behind what they do. 这个领导敢作敢为，大家都很佩服。"This leader is bold and decisive — everyone admires him." Common in evaluations of leadership and character.</span>
+        <span class="cy-note">敢 (to dare) + 作 (to do) + 敢 (to dare) + 为 (to act). The positive image of 为 as confident, owned action , the opposite pole from 无为. Where 无为 counsels releasing the forcing quality of striving, 敢作敢为 describes the quality of someone who acts decisively and stands behind what they do. 这个领导敢作敢为，大家都很佩服。"This leader is bold and decisive , everyone admires him." Common in evaluations of leadership and character.</span>
       </div>
 
       <div class="cy">
         <span class="cy-cn">以和为贵</span>
         <span class="cy-py">yǐ hé wéi guì</span>
         <span class="cy-en">"to take harmony as the most valued thing" — prioritize peace over conflict</span>
-        <span class="cy-note">以 (to take as) + 和 (harmony; peace) + 为 (as; to be) + 贵 (precious; valued). From the classical 以…为 construction. A maxim attributed to Confucius' disciple Youzi (有子) in the Analects (论语): 礼之用，和为贵 — "In the application of ritual, harmony is most prized." Used in modern Chinese to counsel against escalating disputes, to justify compromise, or to invoke the cultural value of conflict avoidance. Often heard in interpersonal and diplomatic contexts.</span>
+        <span class="cy-note">以 (to take as) + 和 (harmony; peace) + 为 (as; to be) + 贵 (precious; valued). From the classical 以…为 construction. A maxim attributed to Confucius' disciple Youzi (有子) in the Analects (论语): 礼之用，和为贵 , "In the application of ritual, harmony is most prized." Used in modern Chinese to counsel against escalating disputes, to justify compromise, or to invoke the cultural value of conflict avoidance. Often heard in interpersonal and diplomatic contexts.</span>
       </div>
 
     </div>
@@ -540,7 +540,7 @@ updated: '2026-04-25'
     <!-- RETENTION -->
     <div class="scholar" data-glyph="為" style="margin-top:2.5rem;">
       <div class="scholar-label">记忆法 jìyìfǎ · Master Retention Image</div>
-      <p>The oracle bone image: a hand guiding an elephant forward. 为 is skilled agency — not force applied against resistance, but direction applied to something immense. The hand does not push the elephant; it leads it. That is the range of 为: from the very ordinary (做, 干, acting in daily life) to the philosophical (the kind of doing the Daodejing is arguing against).</p>
+      <p>The oracle bone image: a hand guiding an elephant forward. 为 is skilled agency , not force applied against resistance, but direction applied to something immense. The hand does not push the elephant; it leads it. That is the range of 为: from the very ordinary (做, 干, acting in daily life) to the philosophical (the kind of doing the Daodejing is arguing against).</p>
       <p>The tone split maps onto two questions. wéi (second tone): what are you doing? what do you serve as? 认为, 成为, 行为 — the world of acting and being. wèi (fourth tone): why are you doing it? for whom? 因为, 为了, 为什么 — the world of purpose and cause.</p>
       <p>And then 无为 — the paradox that dismantles the simple picture. The Daodejing does not abolish 为. It asks what happens when the forcing quality of 为 is released: 无为而无不为. Through non-action, nothing is left undone. The hand stops pushing; the elephant moves.</p>
     </div>

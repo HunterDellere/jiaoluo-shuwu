@@ -34,7 +34,7 @@ content_sources:
         <span class="toc-sub">gàilǎn · poetry in Chinese civilization</span>
       </a></li>
       <li><a href="#shi">
-        <span class="toc-cn">唐诗</span> Shi — Tang Dynasty Poetry
+        <span class="toc-cn">唐诗</span> Shi , Tang Dynasty Poetry
         <span class="toc-sub">shī · the regulated verse form</span>
       </a></li>
       <li><a href="#ci">

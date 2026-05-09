@@ -99,8 +99,8 @@ content_review: 'pending'
     </div>
 
     <div class="scholar" data-glyph="風">
-      <div class="scholar-label">几 + 虫 — wind as the thing that moves living creatures</div>
-      <p>The traditional form 風 encodes wind through biology, not meteorology. The character reads: 几 (jǐ, a table or low stool — an early depiction of something with angular form, sometimes interpreted as representing a flowing shape) as the phonetic component, and 虫 (chóng, creature, insect, living thing) below. Wind was the force that made creatures move, that bowed crops and stirred insects. Scribes encoded the relationship between wind and the behavior of living things before they had any way to describe atmospheric pressure.</p>
+      <div class="scholar-label">几 + 虫 , wind as the thing that moves living creatures</div>
+      <p>The traditional form 風 encodes wind through biology, not meteorology. The character reads: 几 (jǐ, a table or low stool , an early depiction of something with angular form, sometimes interpreted as representing a flowing shape) as the phonetic component, and 虫 (chóng, creature, insect, living thing) below. Wind was the force that made creatures move, that bowed crops and stirred insects. Scribes encoded the relationship between wind and the behavior of living things before they had any way to describe atmospheric pressure.</p>
       <p>The oracle bone and bronze inscriptions for wind include a bird form, 凤 fèng, the phoenix, whose name was homophonous with the word for wind. In early usage the same character served both meanings. Over time the two diverged: 凤 was elaborated for the phoenix, and 風 (later simplified to 风) settled on atmospheric wind. The simplified form strips the 虫 and keeps only a skeletal version of the original shape; the traditional 風 preserves the creature inside.</p>
       <p>From physical wind, the semantic range stretched in two directions that Chinese settled permanently. First, toward cultural character: just as wind gives each landscape its particular feeling (the dry northwest wind, the damp sea wind of Guangdong), 风 came to mean the characteristic manner or style of a person, an era, or a school of thought. Second, toward social custom: the prevailing 风 of a place is its local practice, its shared habits, what people do without being told. Both extensions are already visible in pre-Han texts.</p>
       <p>In Japanese, 風 (kaze for the native reading, fū or fū for Sino-Japanese) carries the same range: weather, style, and manner. 風景 fūkei is "scenery," and 風邪 kaze is "a cold" (wind-illness). The cultural-style meaning landed in Korean as 풍 pung, in compounds like 풍경 punggyeong (landscape) and 풍속 pungso (custom).</p>
@@ -122,7 +122,7 @@ content_review: 'pending'
           <span class="card-py">fēngshuǐ</span>
           <span class="card-en">geomancy; wind-and-water</span>
         </div>
-        <p class="card-def">Wind (风) and water (水) — the two elements that move freely through the landscape, carrying qi with them. The art of positioning buildings, graves, and rooms to capture favorable flows of each. See the <a href="../vocab/fengshui_风水.html">风水</a> entry for the full treatment.</p>
+        <p class="card-def">Wind (风) and water (水) , the two elements that move freely through the landscape, carrying qi with them. The art of positioning buildings, graves, and rooms to capture favorable flows of each. See the <a href="../vocab/fengshui_风水.html">风水</a> entry for the full treatment.</p>
       </div>
       <div class="card c-ochre">
         <div class="tags"><span class="tag tag-n">n</span></div>
@@ -140,7 +140,7 @@ content_review: 'pending'
           <span class="card-py">chūnfēng</span>
           <span class="card-en">spring breeze</span>
         </div>
-        <p class="card-def">Literally "spring wind" — the mild, warming wind of early spring. The most loaded meteorological phrase in classical Chinese poetry. Poets from Wáng Zhīhuàn to Bái Jūyì use it as shorthand for renewal, hope, and the specific tenderness of beginnings. 春风得意 (spring-wind pride) means to be riding high on success.</p>
+        <p class="card-def">Literally "spring wind" , the mild, warming wind of early spring. The most loaded meteorological phrase in classical Chinese poetry. Poets from Wáng Zhīhuàn to Bái Jūyì use it as shorthand for renewal, hope, and the specific tenderness of beginnings. 春风得意 (spring-wind pride) means to be riding high on success.</p>
         <div class="note">The seasonal pairing: 秋风 qiūfēng (autumn wind) carries the opposite charge in classical poetry: melancholy, decline, the end of things.</div>
       </div>
       <div class="card c-violet">
@@ -163,7 +163,7 @@ content_review: 'pending'
     </div>
 
     <div class="scholar" data-glyph="格">
-      <div class="scholar-label">风 as cultural register — manner, bearing, the quality of a thing</div>
+      <div class="scholar-label">风 as cultural register , manner, bearing, the quality of a thing</div>
       <p>When applied to people and works, 风 measures something that cannot be directly stated: the characteristic quality that makes a person recognizable, a painting unmistakable, a dynasty distinct. Confucian texts spoke of 君子之风 (jūnzǐ zhī fēng), the bearing of the exemplary person, as something felt in a room before it could be described. Tang dynasty critics used 风骨 fēnggǔ (wind-bone) to evaluate poetry: not just meaning and form, but the vitality and moral character that a poem carried. A poem with good 风骨 had backbone and breath simultaneously.</p>
     </div>
 
@@ -175,7 +175,7 @@ content_review: 'pending'
           <span class="card-py">fēnggé</span>
           <span class="card-en">style; manner</span>
         </div>
-        <p class="card-def">风 (manner) + 格 (standard, pattern). The characteristic style of a person, artist, or era. 他的写作风格很独特 — "His writing style is very distinctive." Used across arts, architecture, music, and personality description.</p>
+        <p class="card-def">风 (manner) + 格 (standard, pattern). The characteristic style of a person, artist, or era. 他的写作风格很独特 , "His writing style is very distinctive." Used across arts, architecture, music, and personality description.</p>
         <div class="examples">
           <span class="ex-cn">这位画家的风格融合了东西方元素。</span>
           <span class="ex-py">Zhè wèi huàjiā de fēnggé rónghéle dōng xīfāng yuánsù.</span>
@@ -198,7 +198,7 @@ content_review: 'pending'
           <span class="card-py">zuòfēng</span>
           <span class="card-en">work style; conduct</span>
         </div>
-        <p class="card-def">作 (zuò, to do/make) + 风 (manner). The characteristic way someone approaches their work or responsibilities. A political and institutional term in modern Chinese: 改变工作作风 (gǎibiàn gōngzuò zuòfēng) — "change work conduct" — appears regularly in official reform documents.</p>
+        <p class="card-def">作 (zuò, to do/make) + 风 (manner). The characteristic way someone approaches their work or responsibilities. A political and institutional term in modern Chinese: 改变工作作风 (gǎibiàn gōngzuò zuòfēng) , "change work conduct" , appears regularly in official reform documents.</p>
       </div>
     </div>
 
@@ -257,14 +257,14 @@ content_review: 'pending'
       <div class="cy">
         <div class="cy-cn">春风化雨</div>
         <div class="cy-py">chūnfēng huà yǔ</div>
-        <div class="cy-en">"spring wind transforms to rain" — education that nurtures without forcing</div>
+        <div class="cy-en">"spring wind transforms to rain" , education that nurtures without forcing</div>
         <div class="cy-note">From Mencius (孟子·尽心上), which speaks of the sage-king's teaching as rain and dew that reaches without commanding. The image: spring wind gentle enough to become rain, which then causes things to grow. Used of teachers, parents, or leaders whose influence is transformative precisely because it is indirect.</div>
       </div>
       <div class="cy">
         <div class="cy-cn">风马牛不相及</div>
         <div class="cy-py">fēng mǎ niú bù xiāng jí</div>
-        <div class="cy-en">"wind, horse, and cow — completely unrelated"</div>
-        <div class="cy-note">From Zuǒzhuàn, a diplomatic rebuke from the state of Chu to Qi: "Your northern state and my southern state are as far apart as horses and cattle in heat — they have no interest in each other's affairs." 风 here means "in heat, aroused to wander": animals driven by instinct that still have nothing to do with each other. Now used to say two things have absolutely nothing in common.</div>
+        <div class="cy-en">"wind, horse, and cow , completely unrelated"</div>
+        <div class="cy-note">From Zuǒzhuàn, a diplomatic rebuke from the state of Chu to Qi: "Your northern state and my southern state are as far apart as horses and cattle in heat , they have no interest in each other's affairs." 风 here means "in heat, aroused to wander": animals driven by instinct that still have nothing to do with each other. Now used to say two things have absolutely nothing in common.</div>
       </div>
       <div class="cy">
         <div class="cy-cn">随风而逝</div>

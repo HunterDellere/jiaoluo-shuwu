@@ -93,8 +93,8 @@ content_review: 'pending'
 
     <div class="scholar" data-glyph="玉">
       <div class="scholar-label">甲骨文 jiǎgǔwén · Oracle Bone Origins</div>
-      <p>玉 is a pictograph. In its oracle bone form — the writing system used in the Shang dynasty around 1200 BCE — it shows three horizontal strokes representing stacked jade discs or tablets, connected by a single vertical line: the cord that strung them together into a ritual object. Jade discs were among the most precious items in the ancient Chinese world, used as markers of rank, tokens of diplomatic exchange, and offerings to heaven.</p>
-      <p>The dot that distinguishes 玉 from 王 (wáng, king) was added later, in the small seal script standardized under the Qin dynasty. It served a necessary disambiguation: 玉 and 王 had exactly the same three-stroke structure, and the written forms had become identical. The dot differentiates jade from king — but the near-identity is not accidental. Jade was the material of kingship. The characters share their skeleton because the things they named shared their world.</p>
+      <p>玉 is a pictograph. In its oracle bone form , the writing system used in the Shang dynasty around 1200 BCE , it shows three horizontal strokes representing stacked jade discs or tablets, connected by a single vertical line: the cord that strung them together into a ritual object. Jade discs were among the most precious items in the ancient Chinese world, used as markers of rank, tokens of diplomatic exchange, and offerings to heaven.</p>
+      <p>The dot that distinguishes 玉 from 王 (wáng, king) was added later, in the small seal script standardized under the Qin dynasty. It served a necessary disambiguation: 玉 and 王 had exactly the same three-stroke structure, and the written forms had become identical. The dot differentiates jade from king , but the near-identity is not accidental. Jade was the material of kingship. The characters share their skeleton because the things they named shared their world.</p>
     </div>
 
     <!-- ── FORMATION ── -->
@@ -108,9 +108,9 @@ content_review: 'pending'
 
     <div class="pattern">
       <span class="label">玉 vs 王 · One Dot, Two Worlds</span>
-      <strong>王 wáng (king)</strong> — three horizontal strokes, no dot. The three strokes represent heaven, humanity, and earth, connected by the king who stands between them: the axis of the cosmos.<br>
-      <strong>玉 yù (jade)</strong> — same three strokes, plus a dot at lower right. That dot marks the difference between the material and the one who wields it: jade is what the king holds, offers, and is judged by.<br>
-      <strong>As a radical:</strong> 玉 serves as the radical for over 100 characters related to jade, gems, and precious materials. When 玉 appears at the left side of a character as a component, it is written 王 (without the dot) to save space — but the two are different radicals with different meanings. Examples built on the jade radical: 珍 zhēn (precious), 珠 zhū (pearl, bead), 璧 bì (flat jade disc), 琢 zhuó (to carve, to polish jade).
+      <strong>王 wáng (king)</strong> , three horizontal strokes, no dot. The three strokes represent heaven, humanity, and earth, connected by the king who stands between them: the axis of the cosmos.<br>
+      <strong>玉 yù (jade)</strong> , same three strokes, plus a dot at lower right. That dot marks the difference between the material and the one who wields it: jade is what the king holds, offers, and is judged by.<br>
+      <strong>As a radical:</strong> 玉 serves as the radical for over 100 characters related to jade, gems, and precious materials. When 玉 appears at the left side of a character as a component, it is written 王 (without the dot) to save space , but the two are different radicals with different meanings. Examples built on the jade radical: 珍 zhēn (precious), 珠 zhū (pearl, bead), 璧 bì (flat jade disc), 琢 zhuó (to carve, to polish jade).
     </div>
 
     <!-- ── VIRTUES OF JADE ── -->
@@ -126,7 +126,7 @@ content_review: 'pending'
       <div class="scholar-label">礼记 Lǐjì · The Book of Rites</div>
       <p>The most important classical text on jade is a passage in the Lǐjì (礼记, Book of Rites), in which Confucius is asked: why does the exemplary person (君子 jūnzǐ) prize jade above serpentine, a stone that is equally abundant and arguably more beautiful? His answer maps jade's physical properties onto the Confucian moral vocabulary, giving eleven virtues:</p>
       <p>Its <strong>warmth and luster</strong> represent 仁 rén (benevolence). Its <strong>translucency</strong>, through which the grain can be seen from within, represents 智 zhì (wisdom). Its <strong>notes</strong> when struck, clear and far-carrying, that fade without harshness, represent 义 yì (righteousness). Its <strong>sharpness</strong> that cuts but does not wound carelessly represents justice in measure. Its <strong>flaws</strong>, visible from within outward, not hidden, represent 诚 chéng (honesty). The list continues through courage, purity, and the heavenly reach of its sound.</p>
-      <p>The argument is not that jade causes virtue. It is that jade, in its physical nature, provides a model for the cultivated person: warm but firm, translucent but durable, cutting but controlled, honest in showing its own imperfections. Jade is virtue made material — and by wearing it, carrying it, and offering it, the junzi aligns himself with its qualities. This is why jade was never merely decorative in classical China. It was moral technology.</p>
+      <p>The argument is not that jade causes virtue. It is that jade, in its physical nature, provides a model for the cultivated person: warm but firm, translucent but durable, cutting but controlled, honest in showing its own imperfections. Jade is virtue made material , and by wearing it, carrying it, and offering it, the junzi aligns himself with its qualities. This is why jade was never merely decorative in classical China. It was moral technology.</p>
     </div>
 
     <!-- ── RITUAL JADES ── -->
@@ -140,9 +140,9 @@ content_review: 'pending'
 
     <div class="scholar" data-glyph="礼">
       <div class="scholar-label">周礼 Zhōulǐ · Zhou Ritual System</div>
-      <p>The Zhou dynasty codified six specific jade forms as the canonical ritual implements of the royal court, each associated with a direction or cosmic realm. Together, the six jades — the 六器 liù qì — oriented the entire ritual system across space and cosmology:</p>
-      <p><strong>璧 bì</strong> (flat circular disc, with central hole) — used to worship Heaven; its circular form mirrored the dome of heaven. <strong>琮 cóng</strong> (cylinder with square cross-section, hollow center) — used to worship Earth; the interplay of round interior and square exterior encoded the cosmological formula that heaven is round and earth is square. <strong>圭 guī</strong> (flat pointed tablet) — associated with the East. <strong>璋 zhāng</strong> (half-tablet, angled at one end) — associated with the South. <strong>琥 hǔ</strong> (tiger-form jade) — associated with the West. <strong>璜 huáng</strong> (half-disc, curved like a rainbow) — associated with the North.</p>
-      <p>Through these six objects, jade mediated between the human and divine worlds. The king who offered them correctly participated in the ordering of heaven and earth. A dynasty that lost its jade ritual objects — through conquest, fire, or neglect — had lost something irreplaceable: the material link between human ceremony and cosmic order.</p>
+      <p>The Zhou dynasty codified six specific jade forms as the canonical ritual implements of the royal court, each associated with a direction or cosmic realm. Together, the six jades , the 六器 liù qì , oriented the entire ritual system across space and cosmology:</p>
+      <p><strong>璧 bì</strong> (flat circular disc, with central hole) , used to worship Heaven; its circular form mirrored the dome of heaven. <strong>琮 cóng</strong> (cylinder with square cross-section, hollow center) , used to worship Earth; the interplay of round interior and square exterior encoded the cosmological formula that heaven is round and earth is square. <strong>圭 guī</strong> (flat pointed tablet) , associated with the East. <strong>璋 zhāng</strong> (half-tablet, angled at one end) , associated with the South. <strong>琥 hǔ</strong> (tiger-form jade) , associated with the West. <strong>璜 huáng</strong> (half-disc, curved like a rainbow) , associated with the North.</p>
+      <p>Through these six objects, jade mediated between the human and divine worlds. The king who offered them correctly participated in the ordering of heaven and earth. A dynasty that lost its jade ritual objects , through conquest, fire, or neglect , had lost something irreplaceable: the material link between human ceremony and cosmic order.</p>
     </div>
 
     <!-- ── COMPOUNDS ── -->
@@ -156,32 +156,32 @@ content_review: 'pending'
 
     <div class="cards">
       <div class="card c-ochre">
-        <div class="card-head"><span class="tag-n">n</span> 玉玺 yùxǐ — the imperial jade seal</div>
-        <p>玺 xǐ = seal (of authority). The 玉玺 was the supreme symbol of legitimate imperial rule. The First Emperor Qin Shi Huang had the most famous example carved from the He Shi Bi (和氏璧 Hé Shì Bì), the legendary jade disc whose discovery cost its finder Bian He both feet before its value was finally recognized. The imperial seal, lost sometime in the Han-Wei transition, became a symbol of succession so powerful that later dynasties fabricated replacements — to claim the empire required claiming the seal.</p>
+        <div class="card-head"><span class="tag-n">n</span> 玉玺 yùxǐ , the imperial jade seal</div>
+        <p>玺 xǐ = seal (of authority). The 玉玺 was the supreme symbol of legitimate imperial rule. The First Emperor Qin Shi Huang had the most famous example carved from the He Shi Bi (和氏璧 Hé Shì Bì), the legendary jade disc whose discovery cost its finder Bian He both feet before its value was finally recognized. The imperial seal, lost sometime in the Han-Wei transition, became a symbol of succession so powerful that later dynasties fabricated replacements , to claim the empire required claiming the seal.</p>
       </div>
       <div class="card c-ochre">
-        <div class="card-head"><span class="tag-n">n</span> 玉佩 yùpèi — jade pendant</div>
-        <p>佩 pèi = to wear as an ornament; pendant. The cultivated person wore jade pendants whose sound, as they moved, expressed the quality of the wearer's movement: measured, neither rushed nor sluggish. In the Liji, the sound of 玉佩 is compared to musical notes — the junzi's walk was audible, and the sound was judged. Wearing jade was therefore also performing character.</p>
+        <div class="card-head"><span class="tag-n">n</span> 玉佩 yùpèi , jade pendant</div>
+        <p>佩 pèi = to wear as an ornament; pendant. The cultivated person wore jade pendants whose sound, as they moved, expressed the quality of the wearer's movement: measured, neither rushed nor sluggish. In the Liji, the sound of 玉佩 is compared to musical notes , the junzi's walk was audible, and the sound was judged. Wearing jade was therefore also performing character.</p>
       </div>
       <div class="card c-teal">
-        <div class="card-head"><span class="tag-n">n</span> 玉米 yùmǐ — corn, maize</div>
-        <p>米 mǐ = grain, rice. Maize arrived in China from the Americas via Portuguese traders in the 16th century. The Chinese name for it — jade grain — is one of the most elegant naming decisions in the language: the golden kernels packed in orderly rows on the cob, glittering and regular, genuinely deserve the comparison. Maize is now one of China's major staple crops; its name carries no awareness of the irony that "jade grain" is an import.</p>
+        <div class="card-head"><span class="tag-n">n</span> 玉米 yùmǐ , corn, maize</div>
+        <p>米 mǐ = grain, rice. Maize arrived in China from the Americas via Portuguese traders in the 16th century. The Chinese name for it , jade grain , is one of the most elegant naming decisions in the language: the golden kernels packed in orderly rows on the cob, glittering and regular, genuinely deserve the comparison. Maize is now one of China's major staple crops; its name carries no awareness of the irony that "jade grain" is an import.</p>
       </div>
       <div class="card c-teal">
-        <div class="card-head"><span class="tag-n">n</span> 玉兰 yùlán — magnolia</div>
-        <p>兰 lán = orchid. The white magnolia blossom (particularly Magnolia denudata, native to central China) earned its name from the translucent white of its petals — jade orchid. The magnolia is one of the oldest flowering plants, predating bees, and its early spring blooming (before leaves appear) made it a symbol of purity and the uncorrupted beginning of things. Shanghai's city flower.</p>
+        <div class="card-head"><span class="tag-n">n</span> 玉兰 yùlán , magnolia</div>
+        <p>兰 lán = orchid. The white magnolia blossom (particularly Magnolia denudata, native to central China) earned its name from the translucent white of its petals , jade orchid. The magnolia is one of the oldest flowering plants, predating bees, and its early spring blooming (before leaves appear) made it a symbol of purity and the uncorrupted beginning of things. Shanghai's city flower.</p>
       </div>
       <div class="card c-teal">
-        <div class="card-head"><span class="tag-n">n</span> 玉器 yùqì — jade objects, jade artifacts</div>
+        <div class="card-head"><span class="tag-n">n</span> 玉器 yùqì , jade objects, jade artifacts</div>
         <p>器 qì = vessel, implement, artifact. The broad term for jade objects as a class, used in archaeology, museum contexts, and antique collecting. Chinese jade carving (玉雕 yù diāo) is one of the oldest continuous craft traditions in the world, with jade artifacts found at Neolithic sites in China dating back 7,000 years. The Liangzhu culture (3300-2300 BCE) produced spectacular jade cong and bi that predate the Zhou ritual system by millennia.</p>
       </div>
       <div class="card c-violet">
-        <div class="card-head"><span class="tag-n">n</span> 金玉 jīnyù — gold and jade; the precious and best</div>
-        <p>金 jīn = gold. The pairing of gold and jade is the classical formula for the most precious things. 金玉良言 jīnyù liángyán = words of gold and jade = wise counsel worth heeding. 金玉其外 jīnyù qí wài = gold and jade on the outside = fine-looking on the surface (with the implication of being hollow within — the full phrase from Dream of the Red Chamber: 金玉其外，败絮其中).</p>
+        <div class="card-head"><span class="tag-n">n</span> 金玉 jīnyù , gold and jade; the precious and best</div>
+        <p>金 jīn = gold. The pairing of gold and jade is the classical formula for the most precious things. 金玉良言 jīnyù liángyán = words of gold and jade = wise counsel worth heeding. 金玉其外 jīnyù qí wài = gold and jade on the outside = fine-looking on the surface (with the implication of being hollow within , the full phrase from Dream of the Red Chamber: 金玉其外，败絮其中).</p>
       </div>
       <div class="card c-violet">
-        <div class="card-head"><span class="tag-n">n</span> 平安扣 píng'ān kòu — the peace jade ring</div>
-        <p>平安 píng'ān = peace, safety. 扣 kòu = clasp, ring. The flat round jade ring — a simple torus with no beginning or end — is among the most popular jade gifts in contemporary China, given for protection and good fortune. The circle encodes completeness and continuity. Worn as a pendant, it is the commonest form of jade jewelry today, connecting the neolithic bi disc and the Zhou ritual circle to the modern gift economy.</p>
+        <div class="card-head"><span class="tag-n">n</span> 平安扣 píng'ān kòu , the peace jade ring</div>
+        <p>平安 píng'ān = peace, safety. 扣 kòu = clasp, ring. The flat round jade ring , a simple torus with no beginning or end , is among the most popular jade gifts in contemporary China, given for protection and good fortune. The circle encodes completeness and continuity. Worn as a pendant, it is the commonest form of jade jewelry today, connecting the neolithic bi disc and the Zhou ritual circle to the modern gift economy.</p>
       </div>
     </div>
 
@@ -200,21 +200,21 @@ content_review: 'pending'
         <span class="cy-cn">宁为玉碎，不为瓦全</span>
         <span class="cy-py">níng wéi yù suì, bù wéi wǎ quán</span>
         <span class="cy-en">Better to be shattered jade than intact tile — choose integrity over ignoble survival</span>
-        <span class="cy-note">Lit: rather be jade-shattered, not be tile-whole. The contrast is between two kinds of material: jade, which is rare, beautiful, and breaks rather than bends; and roof tile (瓦 wǎ), which is common, dull, and merely functional. The phrase draws directly on Confucius's reading of jade's toughness as righteousness: jade that breaks without yielding embodies the virtue that tile, intact but unremarkable, never does. Used when someone chooses to maintain their principles at personal cost rather than survive through compromise. 如果做不到，宁为玉碎，不为瓦全 — "If it cannot be done with integrity, better to fail with jade than succeed with tile."</span>
+        <span class="cy-note">Lit: rather be jade-shattered, not be tile-whole. The contrast is between two kinds of material: jade, which is rare, beautiful, and breaks rather than bends; and roof tile (瓦 wǎ), which is common, dull, and merely functional. The phrase draws directly on Confucius's reading of jade's toughness as righteousness: jade that breaks without yielding embodies the virtue that tile, intact but unremarkable, never does. Used when someone chooses to maintain their principles at personal cost rather than survive through compromise. 如果做不到，宁为玉碎，不为瓦全 , "If it cannot be done with integrity, better to fail with jade than succeed with tile."</span>
       </div>
 
       <div class="cy">
         <span class="cy-cn">玉石俱焚</span>
         <span class="cy-py">yùshí jùfén</span>
         <span class="cy-en">Jade and stone burn together — the innocent perish with the guilty</span>
-        <span class="cy-note">Lit: jade-stone both-burn. The image is of a fire that cannot distinguish the precious from the worthless, the innocent from the guilty: everything burns. Used when a catastrophe (war, political upheaval, unjust punishment) destroys indiscriminately. From the Shangshu (书经, Book of Documents): a warning against destroying the innocent along with the guilty. The implicit moral demand is that just authority must be precise — collateral destruction is a failure of the ruler, not merely an unfortunate consequence. 战争使玉石俱焚，无辜者与有罪者同遭其难 — "War burns jade and stone alike — the innocent suffer alongside the guilty."</span>
+        <span class="cy-note">Lit: jade-stone both-burn. The image is of a fire that cannot distinguish the precious from the worthless, the innocent from the guilty: everything burns. Used when a catastrophe (war, political upheaval, unjust punishment) destroys indiscriminately. From the Shangshu (书经, Book of Documents): a warning against destroying the innocent along with the guilty. The implicit moral demand is that just authority must be precise , collateral destruction is a failure of the ruler, not merely an unfortunate consequence. 战争使玉石俱焚，无辜者与有罪者同遭其难 , "War burns jade and stone alike , the innocent suffer alongside the guilty."</span>
       </div>
 
       <div class="cy">
         <span class="cy-cn">金玉良言</span>
         <span class="cy-py">jīnyù liángyán</span>
         <span class="cy-en">Words of gold and jade — wise counsel; advice worth heeding</span>
-        <span class="cy-note">Lit: gold-jade good-words. 良言 = good, sincere words. Used to describe advice that is genuinely valuable, from a mentor, elder, or text worth taking seriously. Sometimes used in mild irony when someone gives very obvious advice as though it were profound — 这真是金玉良言 can be sincere or gently sardonic depending on context. Contrast with 忠言逆耳 zhōngyán nì ěr (loyal words are harsh to the ear) — gold-and-jade advice is welcome; true advice is often not.</span>
+        <span class="cy-note">Lit: gold-jade good-words. 良言 = good, sincere words. Used to describe advice that is genuinely valuable, from a mentor, elder, or text worth taking seriously. Sometimes used in mild irony when someone gives very obvious advice as though it were profound , 这真是金玉良言 can be sincere or gently sardonic depending on context. Contrast with 忠言逆耳 zhōngyán nì ěr (loyal words are harsh to the ear) — gold-and-jade advice is welcome; true advice is often not.</span>
       </div>
 
     </div>

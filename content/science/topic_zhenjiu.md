@@ -123,7 +123,7 @@ pinyin: 'zhēnjiǔ'
     <div class="scholar" data-glyph="证">
       <div class="scholar-label">临床研究 línhuáng yánjiū · Clinical Research</div>
       <p>Acupuncture has attracted more Western clinical research than any other component of traditional Chinese medicine, and the evidence base is more nuanced, and more genuinely interesting, than either advocates or skeptics typically acknowledge. The central methodological challenge is constructing a credible placebo control. Unlike drug trials, where a sugar pill is visually identical to the active treatment, "sham acupuncture" is difficult to design: practitioners who know they are giving sham treatment may alter their behavior, and patients can often tell that something is different. Retractable "stage-magic" needles that appear to insert but do not penetrate skin have been used, but whether these produce no physiological effect is itself contested.</p>
-      <p>The most robust evidence is in pain management. Multiple large systematic reviews and meta-analyses — including an influential 2012 individual patient data meta-analysis of nearly 18,000 patients published in the <em>Archives of Internal Medicine</em> — find that real acupuncture outperforms both sham acupuncture and no treatment for chronic pain conditions including lower back pain, neck pain, shoulder pain, chronic headache, and knee osteoarthritis. The effect size is modest but clinically meaningful, and the superiority over sham, though smaller than the superiority over no treatment, suggests that specific needling technique contributes to the outcome beyond the non-specific effects of the clinical encounter. The World Health Organization recognizes acupuncture as appropriate treatment for approximately 30 conditions based on existing evidence, with another 70 showing promising preliminary data.</p>
+      <p>The most robust evidence is in pain management. Multiple large systematic reviews and meta-analyses , including an influential 2012 individual patient data meta-analysis of nearly 18,000 patients published in the <em>Archives of Internal Medicine</em> , find that real acupuncture outperforms both sham acupuncture and no treatment for chronic pain conditions including lower back pain, neck pain, shoulder pain, chronic headache, and knee osteoarthritis. The effect size is modest but clinically meaningful, and the superiority over sham, though smaller than the superiority over no treatment, suggests that specific needling technique contributes to the outcome beyond the non-specific effects of the clinical encounter. The World Health Organization recognizes acupuncture as appropriate treatment for approximately 30 conditions based on existing evidence, with another 70 showing promising preliminary data.</p>
       <p>The mechanisms proposed to explain acupuncture effects include local stimulation of A-delta and C nerve fibers, triggering endorphin and enkephalin release; activation of the diffuse noxious inhibitory control (DNIC) system, by which stimulation in one body region inhibits pain signals from another; and modulation of autonomic nervous system activity. None of these mechanisms maps cleanly onto the classical concept of qi circulation, and none definitively disproves it either. What the mechanistic research most clearly suggests is that inserting a fine needle into soft tissue is not a trivial physiological event, regardless of where you insert it. The specific versus non-specific contribution of point location remains genuinely unresolved and is one of the more productive open questions at the intersection of neuroscience and traditional medicine.</p>
       <p>For learners of Chinese: acupuncture terminology permeates contemporary Chinese health discourse. When someone says they are going to see a 中医 doctor for 针灸, they are navigating a healthcare system in which acupuncture is a mainstream, insurance-covered treatment option, not an alternative medicine. Understanding the vocabulary is understanding how a quarter of the world talks about pain management.</p>
     </div>
@@ -164,11 +164,11 @@ pinyin: 'zhēnjiǔ'
     <div class="cards">
       <div class="card c-teal">
         <div class="card-head"><span class="tag-n">n</span> 经络 jīngluò</div>
-        <p>The meridian network — the primary channels (经 jīng) and their collateral branches (络 luò) through which qi and blood circulate. The foundational anatomical concept of acupuncture theory, with no direct equivalent in Western anatomy.</p>
+        <p>The meridian network , the primary channels (经 jīng) and their collateral branches (络 luò) through which qi and blood circulate. The foundational anatomical concept of acupuncture theory, with no direct equivalent in Western anatomy.</p>
       </div>
       <div class="card c-ochre">
         <div class="card-head"><span class="tag-n">n</span> 穴位 xuéwèi</div>
-        <p>Acupoint — a specific location on a channel where qi gathers close to the surface and is most accessible to needling or moxa stimulation. Also called 腧穴 shùxué in classical texts. The body has 361 standard points on the 14 main channels.</p>
+        <p>Acupoint , a specific location on a channel where qi gathers close to the surface and is most accessible to needling or moxa stimulation. Also called 腧穴 shùxué in classical texts. The body has 361 standard points on the 14 main channels.</p>
       </div>
       <div class="card c-teal">
         <div class="card-head"><span class="tag-n">n</span> 得气 déqì</div>
@@ -176,7 +176,7 @@ pinyin: 'zhēnjiǔ'
       </div>
       <div class="card c-sienna">
         <div class="card-head"><span class="tag-n">n</span> 艾灸 àijiǔ</div>
-        <p>Moxibustion — burning dried mugwort at or near acupoints to warm and tonify. Paired with needling in the term 针灸 (zhēnjiǔ), which names the two techniques together. Used specifically for cold-type and deficiency-type conditions where warming stimulation is indicated.</p>
+        <p>Moxibustion , burning dried mugwort at or near acupoints to warm and tonify. Paired with needling in the term 针灸 (zhēnjiǔ), which names the two techniques together. Used specifically for cold-type and deficiency-type conditions where warming stimulation is indicated.</p>
       </div>
       <div class="card c-ochre">
         <div class="card-head"><span class="tag-n">n</span> 阿是穴 āshìxué</div>

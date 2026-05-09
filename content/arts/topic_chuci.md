@@ -63,7 +63,7 @@ pinyin: 'chǔcí'
       <span class="topic-hero-eyebrow">Arts &amp; Literature · 艺文 yìwén</span>
       <h1 class="topic-hero-title">楚辞</h1>
       <span class="topic-hero-title-py">chǔ cí</span>
-      <p class="topic-hero-desc">The shamanistic southern voice that gave Chinese literature its second pole — visionary, romantic, and inconsolably exiled.</p>
+      <p class="topic-hero-desc">The shamanistic southern voice that gave Chinese literature its second pole , visionary, romantic, and inconsolably exiled.</p>
     </header>
 
     <span class="section-anchor" id="origins"></span>
@@ -161,7 +161,7 @@ pinyin: 'chǔcí'
     <div class="cards">
       <div class="card c-ochre">
         <div class="card-head"><span class="tag-n">n</span> 骚体 sāo tǐ</div>
-        <p>The "Sao style" — the poetic tradition derived from Qu Yuan's 离骚, characterized by longer lines, the medial particle 兮 xī, lavish botanical and spiritual imagery, and the theme of exile and unrecognized virtue. One of the two foundational styles of classical Chinese poetry.</p>
+        <p>The "Sao style" , the poetic tradition derived from Qu Yuan's 离骚, characterized by longer lines, the medial particle 兮 xī, lavish botanical and spiritual imagery, and the theme of exile and unrecognized virtue. One of the two foundational styles of classical Chinese poetry.</p>
       </div>
       <div class="card c-teal">
         <div class="card-head"><span class="tag-n">n</span> 兮 xī</div>
@@ -169,7 +169,7 @@ pinyin: 'chǔcí'
       </div>
       <div class="card c-sienna">
         <div class="card-head"><span class="tag-n">n</span> 端午节 duānwǔ jié</div>
-        <p>Dragon Boat Festival — celebrated on the fifth day of the fifth lunar month. Commemorates Qu Yuan's drowning in the Miluo River. Marked by dragon boat races and the eating of 粽子 zòngzi (sticky rice dumplings wrapped in bamboo leaves).</p>
+        <p>Dragon Boat Festival , celebrated on the fifth day of the fifth lunar month. Commemorates Qu Yuan's drowning in the Miluo River. Marked by dragon boat races and the eating of 粽子 zòngzi (sticky rice dumplings wrapped in bamboo leaves).</p>
       </div>
       <div class="card c-violet">
         <div class="card-head"><span class="tag-n">n</span> 粽子 zòngzi</div>

@@ -121,8 +121,8 @@ updated: '2026-04-25'
 
     <div class="scholar" data-glyph="必">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
-      <p>In oracle bone script, <strong>必</strong> depicts a weapon: a dagger, a stake, or a handled blade gripped firmly. The visual logic is immediate. A blade strikes and divides. There is no partial cut; the result is binary. From this concrete image of decisive severance comes the abstract meaning of <em>absolute certainty</em> — the thing that admits no middle ground.</p>
-      <p>Xu Shen's <em>Shuōwén Jiězì</em> (说文解字, 100 CE) analyzes <strong>必</strong> as <strong>八</strong> bā (to divide; separate) combined with <strong>弋</strong> yì (a dart or stake on a cord). Something that divides absolutely, like a thrown weapon that either hits or misses with no negotiation. The semantic core — certainty as sharp, clean division — persists across three thousand years of usage.</p>
+      <p>In oracle bone script, <strong>必</strong> depicts a weapon: a dagger, a stake, or a handled blade gripped firmly. The visual logic is immediate. A blade strikes and divides. There is no partial cut; the result is binary. From this concrete image of decisive severance comes the abstract meaning of <em>absolute certainty</em> , the thing that admits no middle ground.</p>
+      <p>Xu Shen's <em>Shuōwén Jiězì</em> (说文解字, 100 CE) analyzes <strong>必</strong> as <strong>八</strong> bā (to divide; separate) combined with <strong>弋</strong> yì (a dart or stake on a cord). Something that divides absolutely, like a thrown weapon that either hits or misses with no negotiation. The semantic core , certainty as sharp, clean division , persists across three thousand years of usage.</p>
       <p>Modern dictionaries classify the radical as <strong>心</strong> xīn (heart), a classification that arrived later in the character's life but is not without meaning: the certainty 必 describes is not merely logical. It is a commitment of the whole person, a declaration of the heart as much as the mind.</p>
     </div>
 
@@ -137,16 +137,16 @@ updated: '2026-04-25'
 
     <div class="pattern">
       <span class="label">四种"必" · Four Domains of Must</span>
-      <strong>必须</strong> bìxū — obligation: you have no choice (external requirement or logical compulsion)<br>
-      <strong>必定</strong> bìdìng — certainty: this will happen without doubt (speaker's confident prediction)<br>
-      <strong>必然</strong> bìrán — inevitability: this cannot be otherwise (logical or historical necessity)<br>
-      <strong>必要</strong> bìyào — prerequisite: this is required for the purpose (instrumental necessity)<br><br>
+      <strong>必须</strong> bìxū , obligation: you have no choice (external requirement or logical compulsion)<br>
+      <strong>必定</strong> bìdìng , certainty: this will happen without doubt (speaker's confident prediction)<br>
+      <strong>必然</strong> bìrán , inevitability: this cannot be otherwise (logical or historical necessity)<br>
+      <strong>必要</strong> bìyào , prerequisite: this is required for the purpose (instrumental necessity)<br><br>
       <strong>Alone:</strong> 必 bì as a standalone adverb belongs to classical and literary registers. In modern spoken Chinese, it almost always appears as part of one of these four compounds.
     </div>
 
     <div class="scholar" data-glyph="必">
       <div class="scholar-label">学者洞见 xuézhě dòngjiàn · Why Four Words?</div>
-      <p>English collapses these four into "must" and "necessary," leaving the distinctions to context or auxiliary verbs. Chinese makes the distinctions lexical. <strong>必须</strong> carries the weight of obligation — someone or something is requiring this of you, and there is no acceptable alternative. <strong>必定</strong> is epistemic certainty — the speaker is staking a claim about the future. <strong>必然</strong> is philosophical: the thing could not have been otherwise, whether by logic, history, or natural law. <strong>必要</strong> is conditional and purposive: if you want X, this is a prerequisite.</p>
+      <p>English collapses these four into "must" and "necessary," leaving the distinctions to context or auxiliary verbs. Chinese makes the distinctions lexical. <strong>必须</strong> carries the weight of obligation , someone or something is requiring this of you, and there is no acceptable alternative. <strong>必定</strong> is epistemic certainty , the speaker is staking a claim about the future. <strong>必然</strong> is philosophical: the thing could not have been otherwise, whether by logic, history, or natural law. <strong>必要</strong> is conditional and purposive: if you want X, this is a prerequisite.</p>
       <p>The practical consequence: 没有必要 méiyǒu bìyào (no need to) uses 必要 because it is about instrumental purpose. 这是历史的必然 (this is historical inevitability) uses 必然 because it is a metaphysical claim. Mixing them is grammatically possible but changes the meaning precisely.</p>
     </div>
 
@@ -169,7 +169,7 @@ updated: '2026-04-25'
         </div>
         <div class="tags"><span class="tag tag-v">Adv 副词 · pre-verbal modal</span></div>
         <div class="card-def">
-          必 bì (certainly; without exception) + 须 xū (must; need; thread pulled through — the original image of necessary passage). The compound means: you must pass through this; there is no route around it. Used for genuine obligations — rules, requirements, logical necessities. Carries more weight than 要 yào in most registers.
+          必 bì (certainly; without exception) + 须 xū (must; need; thread pulled through , the original image of necessary passage). The compound means: you must pass through this; there is no route around it. Used for genuine obligations , rules, requirements, logical necessities. Carries more weight than 要 yào in most registers.
         </div>
         <div class="examples">
           <div class="example">
@@ -190,7 +190,7 @@ updated: '2026-04-25'
         </div>
         <div class="note">
           <span class="note-label">语法 yǔfǎ · Negation</span>
-          The negation of 必须 is <strong>不必</strong> bùbì or <strong>不需要</strong> bù xūyào — "there is no need to." Do not use 必须不 to mean "must not"; that is 不准 bùzhǔn or 禁止 jìnzhǐ. 你不必去 = "You don't have to go." 你不能去 = "You cannot (are not allowed to) go."
+          The negation of 必须 is <strong>不必</strong> bùbì or <strong>不需要</strong> bù xūyào , "there is no need to." Do not use 必须不 to mean "must not"; that is 不准 bùzhǔn or 禁止 jìnzhǐ. 你不必去 = "You don't have to go." 你不能去 = "You cannot (are not allowed to) go."
         </div>
       </div>
 
@@ -236,7 +236,7 @@ updated: '2026-04-25'
         </div>
         <div class="note">
           <span class="note-label">辨析 biànxī · 必定 vs. 一定</span>
-          <strong>一定</strong> yīdìng and <strong>必定</strong> bìdìng both express certainty, but 一定 is the everyday spoken form covering everything from obligation ("you must") to prediction ("it will definitely"). 必定 is slightly more formal and is specifically restricted to confident prediction or deduction — it never expresses obligation. In a formal essay, 必定 reads more precise; in conversation, 一定 is the default.
+          <strong>一定</strong> yīdìng and <strong>必定</strong> bìdìng both express certainty, but 一定 is the everyday spoken form covering everything from obligation ("you must") to prediction ("it will definitely"). 必定 is slightly more formal and is specifically restricted to confident prediction or deduction , it never expresses obligation. In a formal essay, 必定 reads more precise; in conversation, 一定 is the default.
         </div>
       </div>
 
@@ -261,7 +261,7 @@ updated: '2026-04-25'
         </div>
         <div class="tags"><span class="tag tag-adj">Adj/Adv · philosophical necessity</span></div>
         <div class="card-def">
-          必 bì (certainly; without exception) + 然 rán (so; thus; naturally so — the word for "naturally" or "as it must be"). Together: that which is naturally and necessarily the case, which could not have been otherwise. The register is philosophical, historical, or scientific. 必然 describes laws, not choices.
+          必 bì (certainly; without exception) + 然 rán (so; thus; naturally so , the word for "naturally" or "as it must be"). Together: that which is naturally and necessarily the case, which could not have been otherwise. The register is philosophical, historical, or scientific. 必然 describes laws, not choices.
         </div>
         <div class="examples">
           <div class="example">
@@ -282,7 +282,7 @@ updated: '2026-04-25'
         </div>
         <div class="note">
           <span class="note-label">文化 wénhuà · Historical Necessity</span>
-          The phrase <strong>历史的必然</strong> lìshǐ de bìrán — the inevitability of history — became a set piece of twentieth-century Chinese political rhetoric, particularly in Marxist historiography where historical materialism posits that social change follows necessary developmental stages. The phrase appears constantly in speeches, textbooks, and commentary from the Mao era onward, and carries that ideological coloring in contemporary usage, even when deployed ironically.
+          The phrase <strong>历史的必然</strong> lìshǐ de bìrán , the inevitability of history , became a set piece of twentieth-century Chinese political rhetoric, particularly in Marxist historiography where historical materialism posits that social change follows necessary developmental stages. The phrase appears constantly in speeches, textbooks, and commentary from the Mao era onward, and carries that ideological coloring in contemporary usage, even when deployed ironically.
         </div>
       </div>
 
@@ -328,7 +328,7 @@ updated: '2026-04-25'
         </div>
         <div class="note">
           <span class="note-label">语法 yǔfǎ · Key Frames</span>
-          The two most common frames for 必要 are <strong>有必要</strong> yǒu bìyào (it is necessary to; there is a need to) and <strong>没有必要</strong> méiyǒu bìyào (there is no need to). 必要 functions as a predicate adjective in these constructions, not as an adverb. Compare: 你必须去 (you must go — obligation on the person) vs. 有必要去 (there is a need to go — the situation calls for it).
+          The two most common frames for 必要 are <strong>有必要</strong> yǒu bìyào (it is necessary to; there is a need to) and <strong>没有必要</strong> méiyǒu bìyào (there is no need to). 必要 functions as a predicate adjective in these constructions, not as an adverb. Compare: 你必须去 (you must go , obligation on the person) vs. 有必要去 (there is a need to go , the situation calls for it).
         </div>
       </div>
 
@@ -347,9 +347,9 @@ updated: '2026-04-25'
       <div class="scholar-label">学者洞见 xuézhě dòngjiàn · The Weight of 必 in Classical Chinese</div>
       <p>In classical Chinese, 必 operates without the compounds that distribute its weight in modern speech. It stands alone, a single falling syllable, and the sentence crystallizes around it. The effect is absolute. There is no softening modal, no conversational hedge. What follows 必 is not a preference or a recommendation; it is a law.</p>
       <p>Three passages from the Confucian canon show the range of what 必 can carry:</p>
-      <p><strong>言必信，行必果</strong> (Analects XIII.20): "What one says must be trustworthy; what one does must bear fruit." The phrase appears as Confucius describes the <em>xiǎorén</em> 小人 — the "small person" who takes this code as their highest standard. The observation is precise and quietly unsettling. This absolute consistency of word and deed, which sounds like a virtue, is offered as the ceiling of a limited moral imagination, not as the aspiration of the junzi. The 必 here is the small person's anchor: they will not waver from what they said. But the junzi, in Confucian thought, may choose loyalty to a higher principle over consistency to a prior statement. 必 marks the line between the person who cannot bend and the person who can judge.</p>
+      <p><strong>言必信，行必果</strong> (Analects XIII.20): "What one says must be trustworthy; what one does must bear fruit." The phrase appears as Confucius describes the <em>xiǎorén</em> 小人 , the "small person" who takes this code as their highest standard. The observation is precise and quietly unsettling. This absolute consistency of word and deed, which sounds like a virtue, is offered as the ceiling of a limited moral imagination, not as the aspiration of the junzi. The 必 here is the small person's anchor: they will not waver from what they said. But the junzi, in Confucian thought, may choose loyalty to a higher principle over consistency to a prior statement. 必 marks the line between the person who cannot bend and the person who can judge.</p>
       <p><strong>君子必慎其独也</strong> (Great Learning, <em>Dàxué</em>): "The exemplary person must be careful when alone." The 必 here is a non-negotiable mark of inner cultivation. Being watched or unwatched is irrelevant to the junzi. The standard does not fluctuate. This 必 is perhaps the most demanding one in the canon: it closes every escape route. There is no private dispensation.</p>
-      <p><strong>知之必行之</strong>: Knowing it, one must act on it. This formula anticipates Wang Yangming's 知行合一 zhī xíng hé yī — the unity of knowledge and action. The 必 makes true knowing inseparable from doing. To genuinely know a thing is to be compelled by it. Anything that does not compel action was not truly known.</p>
+      <p><strong>知之必行之</strong>: Knowing it, one must act on it. This formula anticipates Wang Yangming's 知行合一 zhī xíng hé yī , the unity of knowledge and action. The 必 makes true knowing inseparable from doing. To genuinely know a thing is to be compelled by it. Anything that does not compel action was not truly known.</p>
     </div>
 
     <!-- ── COMPOUNDS ── -->
@@ -371,7 +371,7 @@ updated: '2026-04-25'
         </div>
         <div class="tags"><span class="tag tag-v">Adv 副词 · negated certainty</span></div>
         <div class="card-def">
-          未 wèi (not yet; not necessarily — the classical negator of something assumed or expected) + 必 bì (certainly). The combination reverses the certainty: what seemed certain is not settled. A courteous, measured way to challenge an assumption without direct contradiction. More thoughtful in register than simply saying 不一定.
+          未 wèi (not yet; not necessarily , the classical negator of something assumed or expected) + 必 bì (certainly). The combination reverses the certainty: what seemed certain is not settled. A courteous, measured way to challenge an assumption without direct contradiction. More thoughtful in register than simply saying 不一定.
         </div>
         <div class="examples">
           <div class="example">
@@ -400,7 +400,7 @@ updated: '2026-04-25'
         </div>
         <div class="tags"><span class="tag tag-v">Adv 副词 · rhetorical question</span></div>
         <div class="card-def">
-          何 hé (why; what; how — the classical interrogative) + 必 bì (must; certainly). A rhetorical question that questions the necessity of an action, usually suggesting that the action is excessive, unnecessary, or misguided. The rhetorical force is gentle: it invites reconsideration without direct refusal.
+          何 hé (why; what; how , the classical interrogative) + 必 bì (must; certainly). A rhetorical question that questions the necessity of an action, usually suggesting that the action is excessive, unnecessary, or misguided. The rhetorical force is gentle: it invites reconsideration without direct refusal.
         </div>
         <div class="examples">
           <div class="example">
@@ -416,7 +416,7 @@ updated: '2026-04-25'
           <div class="example">
             <div class="ex-cn">何必呢，算了吧。</div>
             <div class="ex-py">Hébì ne, suàn le ba.</div>
-            <div class="ex-en">There's really no need — let it go.</div>
+            <div class="ex-en">There's really no need , let it go.</div>
           </div>
         </div>
       </div>
@@ -462,7 +462,7 @@ updated: '2026-04-25'
         <span class="cy-cn">言必有中</span>
         <span class="cy-py">yán bì yǒu zhòng</span>
         <span class="cy-en">words that always hit the mark; speech that is measured and unfailingly accurate</span>
-        <span class="cy-note">From Analects XI.14: Confucius describes a man who rarely speaks — 不言则已，一言必中 — but when he does, always hits the target. 中 zhòng here means "center; bull's-eye," not "middle." The standard for speech that earns its right to be heard: few words, each one aimed and landing. The 必 makes hitting the mark not a habit but a law: he cannot miss. Used today as praise for someone whose rare speech carries unusual authority.</span>
+        <span class="cy-note">From Analects XI.14: Confucius describes a man who rarely speaks , 不言则已，一言必中 — but when he does, always hits the target. 中 zhòng here means "center; bull's-eye," not "middle." The standard for speech that earns its right to be heard: few words, each one aimed and landing. The 必 makes hitting the mark not a habit but a law: he cannot miss. Used today as praise for someone whose rare speech carries unusual authority.</span>
       </div>
 
       <div class="cy">

@@ -56,7 +56,7 @@ pinyin: 'ràng'
       <span class="topic-hero-eyebrow">Grammar · 语法 yǔfǎ</span>
       <h1 class="topic-hero-title">让</h1>
       <span class="topic-hero-title-py">ràng</span>
-      <p class="topic-hero-desc">The causative and permission verb — 让 + [person] + [verb] means either "make someone do something" or "let someone do something," depending on context.</p>
+      <p class="topic-hero-desc">The causative and permission verb , 让 + [person] + [verb] means either "make someone do something" or "let someone do something," depending on context.</p>
     </header>
 
     <span class="section-anchor" id="overview"></span>
@@ -87,7 +87,7 @@ pinyin: 'ràng'
       <strong>[Subject] + 让 + [Person] + [Verb Phrase]</strong><br>
       妈妈让我做作业。Mom made me do homework.<br>
       老师让学生提前交作业。The teacher had students submit work early.<br>
-      这件事让我很担心。This matter made me very worried. (emotional causative — no person agent needed)
+      这件事让我很担心。This matter made me very worried. (emotional causative , no person agent needed)
     </div>
 
     <div class="cards">
@@ -121,7 +121,7 @@ pinyin: 'ràng'
         </div>
         <div class="note">
           <span class="note-label">用法 yòngfǎ · Emotional Causative</span>
-          让 is extremely common in emotional causative sentences — where a situation or event (not a person) causes an emotional response. 这让我很高兴 "This made me very happy." 让 connects a triggering cause to an emotional result without any human agent directing the action.
+          让 is extremely common in emotional causative sentences , where a situation or event (not a person) causes an emotional response. 这让我很高兴 "This made me very happy." 让 connects a triggering cause to an emotional result without any human agent directing the action.
         </div>
       </div>
 
@@ -137,7 +137,7 @@ pinyin: 'ràng'
 
     <div class="pattern">
       <span class="label">允许句型 yǔnxǔ jùxíng · Permission Pattern</span>
-      Same structure, permissive meaning — the subject grants permission or opportunity:<br>
+      Same structure, permissive meaning , the subject grants permission or opportunity:<br>
       请让我介绍一下。Please let me introduce myself.<br>
       他让孩子自己做决定。He let the child make their own decision.<br>
       不让 = don't allow: 不让进 "not allowed to enter" · 不让拍照 "no photography allowed"
@@ -186,11 +186,11 @@ pinyin: 'ràng'
 
     <div class="pattern">
       <span class="label">使役动词 shǐyì dòngcí · The Causative Verb Family</span>
-      <strong>让</strong> ràng — neutral, everyday: make/let someone do something<br>
-      <strong>叫</strong> jiào — colloquial, slightly blunt: tell/order someone to do something (妈妈叫我去睡觉 "mom told me to go to sleep")<br>
-      <strong>请</strong> qǐng — formal/polite: please do / request that someone do (请坐 "please sit"; 请他帮忙 "ask him to help")<br>
-      <strong>使</strong> shǐ — formal/literary: cause (used in 把 and formal constructions; 使我失望 "caused me disappointment")<br>
-      <strong>令</strong> lìng — literary/elevated: cause; make (令人感动 "moving, touching" — lit. "causes people to be moved")
+      <strong>让</strong> ràng , neutral, everyday: make/let someone do something<br>
+      <strong>叫</strong> jiào , colloquial, slightly blunt: tell/order someone to do something (妈妈叫我去睡觉 "mom told me to go to sleep")<br>
+      <strong>请</strong> qǐng , formal/polite: please do / request that someone do (请坐 "please sit"; 请他帮忙 "ask him to help")<br>
+      <strong>使</strong> shǐ , formal/literary: cause (used in 把 and formal constructions; 使我失望 "caused me disappointment")<br>
+      <strong>令</strong> lìng , literary/elevated: cause; make (令人感动 "moving, touching" — lit. "causes people to be moved")
     </div>
 
     <span class="section-anchor" id="examples"></span>

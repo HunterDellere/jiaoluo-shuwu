@@ -65,7 +65,7 @@ pinyin: 'kē jǔ'
       <span class="topic-hero-eyebrow">History · 历史 lìshǐ</span>
       <h1 class="topic-hero-title">科举</h1>
       <span class="topic-hero-title-py">kē jǔ</span>
-      <p class="topic-hero-desc">The examination that governed access to power in imperial China for 1,300 years — the most consequential meritocratic institution in pre-modern history.</p>
+      <p class="topic-hero-desc">The examination that governed access to power in imperial China for 1,300 years , the most consequential meritocratic institution in pre-modern history.</p>
     </header>
 
     <!-- ── OVERVIEW ── -->
@@ -215,12 +215,12 @@ pinyin: 'kē jǔ'
           <div class="example">
             <div class="ex-cn">秀才不出门，能知天下事。</div>
             <div class="ex-py">Xiùcai bù chū mén, néng zhī tiānxià shì.</div>
-            <div class="ex-en">A scholar need not leave his door to know what happens under heaven. (proverb — often ironic today)</div>
+            <div class="ex-en">A scholar need not leave his door to know what happens under heaven. (proverb , often ironic today)</div>
           </div>
           <div class="example">
             <div class="ex-cn">你这个大秀才，连买菜都不会？</div>
             <div class="ex-py">Nǐ zhège dà xiùcai, lián mǎi cài dōu bù huì?</div>
-            <div class="ex-en">You, the great scholar — you can't even go to the market? (colloquial, teasing)</div>
+            <div class="ex-en">You, the great scholar , you can't even go to the market? (colloquial, teasing)</div>
           </div>
         </div>
       </div>
@@ -243,7 +243,7 @@ pinyin: 'kē jǔ'
           <div class="example">
             <div class="ex-cn">他的报告写得像八股文一样，没有一句有用的话。</div>
             <div class="ex-py">Tā de bàogào xiě de xiàng bāgǔwén yīyàng, méiyǒu yī jù yǒuyòng de huà.</div>
-            <div class="ex-en">His report reads like an eight-legged essay — not a single useful sentence.</div>
+            <div class="ex-en">His report reads like an eight-legged essay , not a single useful sentence.</div>
           </div>
           <div class="example">
             <div class="ex-cn">反对八股文的学者认为，这种文体扼杀了创造性思维。</div>
@@ -297,12 +297,12 @@ pinyin: 'kē jǔ'
 
       <div class="pattern-row">
         <span class="pattern-form">四书 Sì Shū · The Four Books</span>
-        <span class="pattern-gloss">The core Confucian curriculum — memorized in their entirety</span>
+        <span class="pattern-gloss">The core Confucian curriculum , memorized in their entirety</span>
       </div>
       <div class="pattern-body">
-        <p><strong>论语 Lúnyǔ</strong> — the Analects of Confucius: the record of the Master's conversations with his disciples, assembled after his death. The primary source for Confucian ethics, social relationships, and the ideal of the <em>junzi</em> (君子 jūnzǐ — the exemplary person).</p>
-        <p><strong>孟子 Mèngzǐ</strong> — the Mencius: Mencius's dialogues with rulers and students, arguing that human nature is fundamentally good and that righteous governance follows from cultivating that goodness. Mencius's arguments about the people's right to overthrow a ruler who has lost virtue made this text politically sensitive across the centuries.</p>
-        <p><strong>大学 Dàxué</strong> — the Great Learning: a short text (originally a chapter of the Book of Rites) synthesizing the path from self-cultivation to governance of the empire. Its famous eight steps (from investigating things through rectifying the mind, cultivating the self, regulating the family, governing the state, and bringing peace to the world) are the Confucian curriculum in compressed form.</p>
+        <p><strong>论语 Lúnyǔ</strong> , the Analects of Confucius: the record of the Master's conversations with his disciples, assembled after his death. The primary source for Confucian ethics, social relationships, and the ideal of the <em>junzi</em> (君子 jūnzǐ , the exemplary person).</p>
+        <p><strong>孟子 Mèngzǐ</strong> , the Mencius: Mencius's dialogues with rulers and students, arguing that human nature is fundamentally good and that righteous governance follows from cultivating that goodness. Mencius's arguments about the people's right to overthrow a ruler who has lost virtue made this text politically sensitive across the centuries.</p>
+        <p><strong>大学 Dàxué</strong> , the Great Learning: a short text (originally a chapter of the Book of Rites) synthesizing the path from self-cultivation to governance of the empire. Its famous eight steps (from investigating things through rectifying the mind, cultivating the self, regulating the family, governing the state, and bringing peace to the world) are the Confucian curriculum in compressed form.</p>
         <p><strong>中庸 Zhōngyōng</strong> — the Doctrine of the Mean: another excerpt from the Book of Rites, concerned with sincerity (诚 chéng) and the cultivation of a moral disposition that neither over-reaches nor falls short. Zhu Xi's Neo-Confucian synthesis, which became the exam's interpretive framework from the Yuan onward, drew heavily on this text.</p>
       </div>
 

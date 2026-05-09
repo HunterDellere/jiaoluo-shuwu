@@ -42,7 +42,7 @@ content_sources:
       <span class="topic-hero-eyebrow">Language · 语言 yǔyán</span>
       <h1 class="topic-hero-title">声调</h1>
       <span class="topic-hero-title-py">shēng diào</span>
-      <p class="topic-hero-desc">Mandarin has four tones — and a neutral fifth. The same syllable at four different pitches produces four unrelated words. Tone is not optional stress; it is part of the phoneme.</p>
+      <p class="topic-hero-desc">Mandarin has four tones , and a neutral fifth. The same syllable at four different pitches produces four unrelated words. Tone is not optional stress; it is part of the phoneme.</p>
     </header>
 
     <span class="section-anchor" id="what"></span>
@@ -63,29 +63,29 @@ content_sources:
       <div class="card c-teal">
         <div class="card-hanzi">第一声 ¯</div>
         <div class="card-pinyin">dì yī shēng · Tone 1</div>
-        <div class="card-en">High level — flat, sustained, like a held musical note</div>
+        <div class="card-en">High level , flat, sustained, like a held musical note</div>
         <div class="card-note">Contour: stays at the top of your pitch range throughout. Neither rising nor falling. Marked ā ē ī ō ū. Example: 妈 mā (mother), 书 shū (book), 天 tiān (sky).</div>
       </div>
 
       <div class="card c-teal">
         <div class="card-hanzi">第二声 ´</div>
         <div class="card-pinyin">dì èr shēng · Tone 2</div>
-        <div class="card-en">Rising — starts mid, rises sharply to the top</div>
+        <div class="card-en">Rising , starts mid, rises sharply to the top</div>
         <div class="card-note">Like the pitch of a question in English ("What?"). Marked á é í ó ú. Example: 麻 má (hemp, numb), 国 guó (country), 人 rén (person).</div>
       </div>
 
       <div class="card c-ochre">
         <div class="card-hanzi">第三声 ˇ</div>
         <div class="card-pinyin">dì sān shēng · Tone 3</div>
-        <div class="card-en">Dipping — falls low, then rises (in isolation); falls and stays low (in speech)</div>
+        <div class="card-en">Dipping , falls low, then rises (in isolation); falls and stays low (in speech)</div>
         <div class="card-note">The "full" third tone dips and rises like a valley. In connected speech before most syllables, it only falls; the rise is swallowed. Marked ǎ ě ǐ ǒ ǔ. Example: 马 mǎ (horse), 好 hǎo (good), 水 shuǐ (water).</div>
       </div>
 
       <div class="card c-red">
         <div class="card-hanzi">第四声 `</div>
         <div class="card-pinyin">dì sì shēng · Tone 4</div>
-        <div class="card-en">Falling — sharp, high-to-low drop</div>
-        <div class="card-note">Short and emphatic — like a command in English. Marked à è ì ò ù. Example: 骂 mà (to scold), 道 dào (way), 是 shì (to be).</div>
+        <div class="card-en">Falling , sharp, high-to-low drop</div>
+        <div class="card-note">Short and emphatic , like a command in English. Marked à è ì ò ù. Example: 骂 mà (to scold), 道 dào (way), 是 shì (to be).</div>
       </div>
 
     </div>
@@ -93,7 +93,7 @@ content_sources:
     <div class="scholar" data-glyph="调">
       <div class="scholar-label">声调对比 shēngdiào duìbǐ · Classic Minimal Set</div>
       <p>The syllable <strong>ma</strong> across all four tones demonstrates how a single pronunciation diverges into four separate words:</p>
-      <p><strong>妈 mā</strong> (tone 1) — mother · <strong>麻 má</strong> (tone 2) — hemp; numb; surname · <strong>马 mǎ</strong> (tone 3) — horse · <strong>骂 mà</strong> (tone 4) — to scold, curse</p>
+      <p><strong>妈 mā</strong> (tone 1) , mother · <strong>麻 má</strong> (tone 2) , hemp; numb; surname · <strong>马 mǎ</strong> (tone 3) , horse · <strong>骂 mà</strong> (tone 4) , to scold, curse</p>
       <p>The classic learning verse uses this set: 妈麻马骂, loosely "Mother scolds the horse for being numb." Every Mandarin learner encounters this sentence within their first week.</p>
     </div>
 

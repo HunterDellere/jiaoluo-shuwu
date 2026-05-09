@@ -69,7 +69,7 @@ pinyin: 'kūnqǔ'
       <span class="topic-hero-eyebrow">Arts &amp; Literature · 艺文 yìwén</span>
       <h1 class="topic-hero-title">昆曲</h1>
       <span class="topic-hero-title-py">kūn qǔ</span>
-      <p class="topic-hero-desc">The oldest surviving form of Chinese opera — refined to such perfection over four centuries that it nearly disappeared from its own beauty.</p>
+      <p class="topic-hero-desc">The oldest surviving form of Chinese opera , refined to such perfection over four centuries that it nearly disappeared from its own beauty.</p>
     </header>
 
     <span class="section-anchor" id="origins"></span>
@@ -84,7 +84,7 @@ pinyin: 'kūnqǔ'
       <div class="scholar-label">历史背景 lìshǐ bèijǐng · Historical Context</div>
       <p>昆曲 Kūnqǔ (also called 昆剧 Kūnjù) is the oldest living form of Chinese opera, with a continuous performance tradition dating to the sixteenth century. It emerged in the Suzhou region of Jiangsu province and takes its name from the Kunshan 昆山 area near Suzhou, where a local vocal tradition became the foundation of a new theatrical style. To call it the "oldest" Chinese opera requires a qualification: earlier forms of theatrical performance (variety shows 杂剧 zájù, southern drama 南戏 nánxì) preceded it by centuries, but 昆曲 represents the first great synthesis of literary drama, refined vocal music, and codified performance art into a single coherent aesthetic system. It is old enough to have been the prestige tradition against which all later Chinese opera forms, including Peking Opera 京剧 jīngjù, defined themselves.</p>
       <p>The foundational moment in 昆曲's history is the work of Wei Liangfu 魏良辅 in the mid-sixteenth century. Wei Liangfu was a musician and singing teacher who spent years reforming the existing Kunshan vocal tradition, drawing on elements from northern drama 北曲 and other southern regional styles to create a new mode of singing that was slower, more ornate, more emotionally nuanced, and above all more demanding than anything the local tradition had previously required. He is credited with developing the characteristic 昆曲 vocal style: a flowing, melismatic approach in which a single syllable may be extended and ornamented across many notes, the voice moving in slow waves that require exceptional breath control and tonal subtlety. He also established the defining instrumental combination: the 曲笛 qǔdí (a transverse bamboo flute pitched in a specific key) as the lead melodic instrument, supported by the 三弦 sānxián (three-string plucked lute), 琵琶 pípá (four-string pear-shaped lute), 箫 xiāo (end-blown flute), and various percussion.</p>
-      <p>The resulting style — named 水磨腔 shuǐmò qiāng, the "water-ground tone," for its smooth, polished quality — became the basis for a theatrical explosion. Within a generation of Wei Liangfu's reforms, playwrights were composing full-length dramas specifically for this new musical vehicle, and 昆曲 had spread from the Suzhou region to become the dominant theatrical form of the elite throughout China. By the late Ming dynasty, it was the theatrical language of the imperial court, of the great scholarly families, of every gathering where cultural prestige was performed. To not appreciate 昆曲 was to be outside civilization.</p>
+      <p>The resulting style , named 水磨腔 shuǐmò qiāng, the "water-ground tone," for its smooth, polished quality , became the basis for a theatrical explosion. Within a generation of Wei Liangfu's reforms, playwrights were composing full-length dramas specifically for this new musical vehicle, and 昆曲 had spread from the Suzhou region to become the dominant theatrical form of the elite throughout China. By the late Ming dynasty, it was the theatrical language of the imperial court, of the great scholarly families, of every gathering where cultural prestige was performed. To not appreciate 昆曲 was to be outside civilization.</p>
     </div>
 
     <span class="section-anchor" id="music"></span>
@@ -97,7 +97,7 @@ pinyin: 'kūnqǔ'
 
     <div class="scholar" data-glyph="笛">
       <div class="scholar-label">音乐分析 yīnyuè fēnxī · Musical Analysis</div>
-      <p>The musical architecture of 昆曲 is quite different from that of later Chinese opera forms. Rather than organizing songs around a single regional modal system 板腔体 bǎnqiāng tǐ (the "metrical aria" system used by Peking Opera and most regional opera styles), 昆曲 uses a 曲牌体 qǔpái tǐ — a "tune-title" system closely analogous to the 词牌 system of classical ci poetry. Each aria is associated with a named tune pattern 曲牌 qǔpái that specifies the melodic contour, the range of permissible note values, the tonal requirements for each syllable, and the overall structure. There are hundreds of named 曲牌 in the 昆曲 repertoire, each with its own emotional register and theatrical associations — some appropriate for grief, some for celebration, some for romantic longing, some for martial urgency.</p>
+      <p>The musical architecture of 昆曲 is quite different from that of later Chinese opera forms. Rather than organizing songs around a single regional modal system 板腔体 bǎnqiāng tǐ (the "metrical aria" system used by Peking Opera and most regional opera styles), 昆曲 uses a 曲牌体 qǔpái tǐ , a "tune-title" system closely analogous to the 词牌 system of classical ci poetry. Each aria is associated with a named tune pattern 曲牌 qǔpái that specifies the melodic contour, the range of permissible note values, the tonal requirements for each syllable, and the overall structure. There are hundreds of named 曲牌 in the 昆曲 repertoire, each with its own emotional register and theatrical associations , some appropriate for grief, some for celebration, some for romantic longing, some for martial urgency.</p>
       <p>The transverse bamboo flute 曲笛 qǔdí is the defining sound of 昆曲, as unmistakable as the erhu in contemporary folk music or the gong in Peking Opera. The 曲笛 is pitched lower than the more common 梆笛 bāngdí used in northern styles, giving it a rounder, more breathy tone that blends with the 昆曲 vocal style's smooth melismatic quality. The flute leads the orchestra, setting the pitch for the singer, ornamenting the spaces between vocal phrases, and establishing the emotional register of each scene. The combination of flute and voice in a great 昆曲 performance creates a quality of refined, almost liquid beauty that struck every historical observer as unlike anything else in Chinese theatrical performance.</p>
       <p>The vocal technique itself is the most demanding aspect of 昆曲 performance. Singers must master the precise pitch requirements of each 曲牌, the ornamental figures 润腔 rùnqiāng that decorate the bare melodic skeleton, the correct tonal inflection of the classical literary Chinese in which all the libretti are written, and the physical coordination of singing with the elaborate gestural and movement vocabulary of the performance. The classical libretti use the archaic literary language of the Ming and Song dynasties, not the vernacular spoken in the streets, which requires singers to learn a repertoire they may not fully understand without scholarly preparation. This linguistic barrier is one of the primary reasons for 昆曲's decline in the modern era: as classical Chinese became less familiar to general audiences, the beauty of the words became inaccessible to most listeners.</p>
     </div>
@@ -128,10 +128,10 @@ pinyin: 'kūnqǔ'
 
     <div class="pattern">
       <span class="label">昆曲行当 kūnqǔ hángdang · Principal Role Types</span>
-      <strong>生 shēng</strong> — male lead: 小生 xiǎo shēng (young scholar, romantic hero) · 官生 guān shēng (official) · 巾生 jīn shēng (young man of learning)<br>
-      <strong>旦 dàn</strong> — female roles (historically performed by men): 正旦 zhèng dàn (dignified young woman) · 花旦 huā dàn (lively young woman) · 老旦 lǎo dàn (older woman)<br>
-      <strong>净 jìng</strong> — painted-face male: strong, sometimes villainous characters with elaborate facial makeup patterns<br>
-      <strong>丑 chǒu</strong> — clown role: comic male character, typically wearing white patch over the nose · provides comic relief in long dramas
+      <strong>生 shēng</strong> , male lead: 小生 xiǎo shēng (young scholar, romantic hero) · 官生 guān shēng (official) · 巾生 jīn shēng (young man of learning)<br>
+      <strong>旦 dàn</strong> , female roles (historically performed by men): 正旦 zhèng dàn (dignified young woman) · 花旦 huā dàn (lively young woman) · 老旦 lǎo dàn (older woman)<br>
+      <strong>净 jìng</strong> , painted-face male: strong, sometimes villainous characters with elaborate facial makeup patterns<br>
+      <strong>丑 chǒu</strong> , clown role: comic male character, typically wearing white patch over the nose · provides comic relief in long dramas
     </div>
 
     <span class="section-anchor" id="jingju"></span>
@@ -177,11 +177,11 @@ pinyin: 'kūnqǔ'
     <div class="cards">
       <div class="card c-ochre">
         <div class="card-head"><span class="tag-n">n</span> 水磨腔 shuǐmò qiāng</div>
-        <p>Water-ground tone — the smooth, polished vocal style developed by Wei Liangfu that defines 昆曲 singing. The metaphor refers to the way stone is ground by water to a perfect smoothness. Characterized by slow tempos, elaborate ornamentation, and seamless melodic flow.</p>
+        <p>Water-ground tone , the smooth, polished vocal style developed by Wei Liangfu that defines 昆曲 singing. The metaphor refers to the way stone is ground by water to a perfect smoothness. Characterized by slow tempos, elaborate ornamentation, and seamless melodic flow.</p>
       </div>
       <div class="card c-teal">
         <div class="card-head"><span class="tag-n">n</span> 曲牌 qǔpái</div>
-        <p>Tune pattern — the named melodic templates to which 昆曲 arias are composed. Analogous to the 词牌 of Song dynasty ci poetry, each 曲牌 specifies melodic contour, range, tonal requirements, and emotional register. There are hundreds in the 昆曲 repertoire, each with specific theatrical associations.</p>
+        <p>Tune pattern , the named melodic templates to which 昆曲 arias are composed. Analogous to the 词牌 of Song dynasty ci poetry, each 曲牌 specifies melodic contour, range, tonal requirements, and emotional register. There are hundreds in the 昆曲 repertoire, each with specific theatrical associations.</p>
       </div>
       <div class="card c-sienna">
         <div class="card-head"><span class="tag-n">n</span> 水袖 shuǐxiù</div>

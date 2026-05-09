@@ -118,9 +118,9 @@ content_review: 'pending'
 
     <div class="pattern">
       <span class="label">位置用法 · 上 as spatial locator</span>
-      <strong>桌子上</strong> zhuōzi shàng — on top of the table<br>
-      <strong>楼上</strong> lóushàng — upstairs; the upper floor<br>
-      <strong>山上</strong> shān shàng — on the mountain; up the mountain<br>
+      <strong>桌子上</strong> zhuōzi shàng , on top of the table<br>
+      <strong>楼上</strong> lóushàng , upstairs; the upper floor<br>
+      <strong>山上</strong> shān shàng , on the mountain; up the mountain<br>
       <strong>上面</strong> shàngmiàn — above; on top; the upper side<br>
       <strong>以上</strong> yǐshàng — above (a number); the above-mentioned<br>
       Contrast throughout with 下: 楼下 (downstairs), 山下 (below the mountain), 以下 (below; the following).

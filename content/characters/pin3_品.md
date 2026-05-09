@@ -77,7 +77,7 @@ content_sources:
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
       <p>品 is composed of three <strong>口 kǒu</strong> (mouth) characters in a triangular arrangement: one on top, two below. In Chinese character construction, tripling a component signals abundance, multiplicity, or collective activity. Three mouths together suggest many people speaking of something, many instances of a thing being compared, the act of sampling and evaluating through repeated experience.</p>
       <p>The oracle-bone form shows a similar stacked triple structure, sometimes interpreted as three vessels or three distinct objects laid out for comparison. The core meaning has always been about plurality leading to classification: when you have many things, you sort them; when you sort them, you grade them; when you grade them, you evaluate character and quality.</p>
-      <p>品 never simplified — the same character in both simplified and traditional script, which is rare among common characters. The symmetrical structure may have made it resistant to abbreviation.</p>
+      <p>品 never simplified , the same character in both simplified and traditional script, which is rare among common characters. The symmetrical structure may have made it resistant to abbreviation.</p>
     </div>
 
     <span class="section-anchor" id="core"></span>
@@ -109,7 +109,7 @@ content_sources:
         <div class="card-pinyin">zuòpǐn</div>
         <div class="card-en">work (of art or literature)</div>
         <span class="tag-n">n</span>
-        <div class="card-note">作 (to make, create) + 品 (article, article of a certain grade). Covers literary, musical, artistic works — 文学作品 (literary work), 艺术作品 (artwork).</div>
+        <div class="card-note">作 (to make, create) + 品 (article, article of a certain grade). Covers literary, musical, artistic works , 文学作品 (literary work), 艺术作品 (artwork).</div>
       </div>
 
       <div class="card c-teal">
@@ -125,7 +125,7 @@ content_sources:
         <div class="card-pinyin">shāngpǐn</div>
         <div class="card-en">commodity · merchandise</div>
         <span class="tag-n">n</span>
-        <div class="card-note">商 (trade, commerce) + 品 (article). Specifically goods produced for exchange — the Marxist-economics sense of "commodity" maps to this word.</div>
+        <div class="card-note">商 (trade, commerce) + 品 (article). Specifically goods produced for exchange , the Marxist-economics sense of "commodity" maps to this word.</div>
       </div>
 
       <div class="card c-ochre">
@@ -141,7 +141,7 @@ content_sources:
         <div class="card-pinyin">pǐnwèi</div>
         <div class="card-en">taste · to savor · to appreciate</div>
         <span class="tag-vn">v/n</span>
-        <div class="card-note">品 (to savor) + 味 (flavor, taste). As noun: refined taste (有品味 = tasteful). As verb: to linger over and appreciate something. 品味人生 — to savor life.</div>
+        <div class="card-note">品 (to savor) + 味 (flavor, taste). As noun: refined taste (有品味 = tasteful). As verb: to linger over and appreciate something. 品味人生 , to savor life.</div>
       </div>
 
       <div class="card c-red">
@@ -157,7 +157,7 @@ content_sources:
         <div class="card-pinyin">shípǐn</div>
         <div class="card-en">food product · foodstuff</div>
         <span class="tag-n">n</span>
-        <div class="card-note">食 (eat, food) + 品 (article). The formal/commercial term for food items — used in labeling, law, and health regulations.</div>
+        <div class="card-note">食 (eat, food) + 品 (article). The formal/commercial term for food items , used in labeling, law, and health regulations.</div>
       </div>
 
     </div>
@@ -167,7 +167,7 @@ content_sources:
 
     <div class="scholar" data-glyph="品">
       <div class="scholar-label">茶道智慧 chádào zhìhuì · Tea Ceremony Insight</div>
-      <p>品茶 (pǐn chá) — to taste tea — is one of the canonical uses of 品 as a verb, and it illustrates the full weight of the character. In gōngfū chá (功夫茶) culture, the tasting cup is tiny specifically to encourage this kind of slow, conscious sampling: you do not drink, you 品.</p>
+      <p>品茶 (pǐn chá) , to taste tea , is one of the canonical uses of 品 as a verb, and it illustrates the full weight of the character. In gōngfū chá (功夫茶) culture, the tasting cup is tiny specifically to encourage this kind of slow, conscious sampling: you do not drink, you 品.</p>
       <p>The progression: 闻 (wén, smell), then 观色 (guān sè, observe the color), then 品 (slowly taste, evaluate). Three stages; three mouths. The character encodes the ritual in its structure.</p>
       <p>品 extends to any act of discerning appreciation: 品酒 (taste wine), 品书 (read appreciatively), 品乐 (listen to music with attention). Wherever the character appears as a verb, slow and evaluative engagement is implied.</p>
     </div>
@@ -197,10 +197,10 @@ content_sources:
     <div class="section-head"><span class="sh-cn">相邻词汇</span><span class="sh-py">xiānglín cíhuì</span><span class="sh-en">Adjacent Vocab</span><span class="sh-rule"></span></div>
 
     <div class="adj-wrap">
-      <span class="adj">质量 zhìliàng — quality (of goods)</span>
-      <span class="adj">等级 děngjí — level, grade, rank</span>
-      <span class="adj">档次 dàngcì — grade, tier (colloquial)</span>
-      <span class="adj">德 dé — virtue, moral character</span>
+      <span class="adj">质量 zhìliàng , quality (of goods)</span>
+      <span class="adj">等级 děngjí , level, grade, rank</span>
+      <span class="adj">档次 dàngcì , grade, tier (colloquial)</span>
+      <span class="adj">德 dé , virtue, moral character</span>
       <span class="adj">尝 cháng — to taste, sample (more casual than 品)</span>
       <span class="adj">鉴赏 jiànshǎng — to appreciate, to critique art</span>
       <span class="adj">评价 píngjià — to evaluate, assess</span>

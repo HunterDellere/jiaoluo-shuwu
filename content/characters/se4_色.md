@@ -101,9 +101,9 @@ content_sources:
 
     <div class="scholar" data-glyph="色">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
-      <p><strong>色 sè</strong> consists of 人 rén (person) over 巴 bā (a kneeling or crouching figure). The oracle-bone analysis suggests a person bending over or kneeling beneath another — a posture of submission or intimate proximity. The original semantic field: the flush of color that comes to a person's face in emotion or desire, color as the surface that reveals what is within.</p>
+      <p><strong>色 sè</strong> consists of 人 rén (person) over 巴 bā (a kneeling or crouching figure). The oracle-bone analysis suggests a person bending over or kneeling beneath another , a posture of submission or intimate proximity. The original semantic field: the flush of color that comes to a person's face in emotion or desire, color as the surface that reveals what is within.</p>
       <p>From this root, 色 expanded into three distinct clusters: (1) <strong>color</strong> in the physical sense (颜色 yánsè, the colors of the spectrum); (2) <strong>appearance, expression, countenance</strong> (脸色 liǎnsè facial color/expression, 神色 shénsè demeanor); (3) <strong>sensual desire, carnal beauty</strong> (好色 hàosè lustful, 色情 sèqíng erotic). All three maintain the root connection: color as what shows on the surface, revealing what is within.</p>
-      <p>The Buddhist Heart Sutra's most famous line deploys 色 in its full philosophical weight: <strong>色即是空，空即是色</strong> sè jí shì kōng, kōng jí shì sè — "Form is emptiness, emptiness is form." Here 色 means the entire phenomenal world of appearances — everything perceptible to the senses. The apparent and the void are not two things.</p>
+      <p>The Buddhist Heart Sutra's most famous line deploys 色 in its full philosophical weight: <strong>色即是空，空即是色</strong> sè jí shì kōng, kōng jí shì sè , "Form is emptiness, emptiness is form." Here 色 means the entire phenomenal world of appearances , everything perceptible to the senses. The apparent and the void are not two things.</p>
     </div>
 
     <span class="section-anchor" id="colors"></span>
@@ -148,7 +148,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          颜 yán (color; face — the face radical) + 色 sè. The standard compound for "color." 什么颜色？"What color?" Also used figuratively: 给你点颜色看看 gěi nǐ diǎn yánsè kànkan = "I'll show you what I'm capable of" (lit. "let you see some color" — a threat or challenge to someone who has been underestimating you).
+          颜 yán (color; face , the face radical) + 色 sè. The standard compound for "color." 什么颜色？"What color?" Also used figuratively: 给你点颜色看看 gěi nǐ diǎn yánsè kànkan = "I'll show you what I'm capable of" (lit. "let you see some color" , a threat or challenge to someone who has been underestimating you).
         </div>
         <div class="examples">
           <div class="example">
@@ -179,7 +179,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          脸 liǎn (face) + 色 sè (color; appearance). The color and expression of the face — used both medically (pale/flushed complexion) and socially (reading someone's mood from their expression). 看脸色 kàn liǎnsè = "to read someone's expression; to gauge the mood before acting." 给脸色看 = to deliberately show displeasure through expression.
+          脸 liǎn (face) + 色 sè (color; appearance). The color and expression of the face , used both medically (pale/flushed complexion) and socially (reading someone's mood from their expression). 看脸色 kàn liǎnsè = "to read someone's expression; to gauge the mood before acting." 给脸色看 = to deliberately show displeasure through expression.
         </div>
         <div class="examples">
           <div class="example">
@@ -198,13 +198,13 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          神 shén (spirit; presence; expression) + 色 sè (appearance). More elevated than 脸色 — captures the whole impression of a person's bearing and expression. 神色慌张 shénsè huāngzhāng "flustered expression" · 神色自若 "composed and calm."
+          神 shén (spirit; presence; expression) + 色 sè (appearance). More elevated than 脸色 , captures the whole impression of a person's bearing and expression. 神色慌张 shénsè huāngzhāng "flustered expression" · 神色自若 "composed and calm."
         </div>
         <div class="examples">
           <div class="example">
             <div class="ex-cn">他神色平静，似乎并不在意。</div>
             <div class="ex-py">Tā shénsè píngjìng, sìhū bìng bù zàiyì.</div>
-            <div class="ex-en">His demeanor was calm — he seemed not to care at all.</div>
+            <div class="ex-en">His demeanor was calm , he seemed not to care at all.</div>
           </div>
         </div>
       </div>
@@ -221,8 +221,8 @@ content_sources:
 
     <div class="scholar" data-glyph="色">
       <div class="scholar-label">文化洞见 wénhuà dòngjiàn · 色 and Desire</div>
-      <p>The Confucian tradition recognized the pull of physical beauty as one of the great challenges to moral cultivation. Confucius observed: 吾未见好德如好色者也 — "I have yet to see someone who loves virtue as much as they love physical beauty." This is not puritanism — it is an honest acknowledgment of human nature, and a call to redirect that intensity toward moral excellence.</p>
-      <p>The Buddhist concept of 色界 sèjiè (Form Realm — the second of the three realms of existence) and 色蕴 sèyùn (form aggregate — one of the Five Aggregates of experience) use 色 to mean all perceptible phenomena: form, shape, materiality. The famous 色即是空 "form is emptiness" addresses this sense: everything that appears (色) is without inherent, permanent existence.</p>
+      <p>The Confucian tradition recognized the pull of physical beauty as one of the great challenges to moral cultivation. Confucius observed: 吾未见好德如好色者也 , "I have yet to see someone who loves virtue as much as they love physical beauty." This is not puritanism , it is an honest acknowledgment of human nature, and a call to redirect that intensity toward moral excellence.</p>
+      <p>The Buddhist concept of 色界 sèjiè (Form Realm , the second of the three realms of existence) and 色蕴 sèyùn (form aggregate , one of the Five Aggregates of experience) use 色 to mean all perceptible phenomena: form, shape, materiality. The famous 色即是空 "form is emptiness" addresses this sense: everything that appears (色) is without inherent, permanent existence.</p>
       <p>Modern colloquial use: 色 alone as an adjective means "horny; lecherous" (他很色 "he's a lecher"). 色狼 sè láng = "sex wolf" — a lecherous man. These uses carry the original connotation of desire aroused by visible appearance.</p>
     </div>
 

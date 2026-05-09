@@ -68,35 +68,35 @@ content_sources:
       <div class="card c-teal">
         <div class="card-hanzi">横 ー</div>
         <div class="card-pinyin">héng</div>
-        <div class="card-en">horizontal stroke — left to right</div>
+        <div class="card-en">horizontal stroke , left to right</div>
         <div class="card-note">The most basic stroke. Runs left to right, slightly rising in brush calligraphy. Found in virtually every character: 一, 三, 王, 土.</div>
       </div>
 
       <div class="card c-teal">
         <div class="card-hanzi">竖 |</div>
         <div class="card-pinyin">shù</div>
-        <div class="card-en">vertical stroke — top to bottom</div>
+        <div class="card-en">vertical stroke , top to bottom</div>
         <div class="card-note">Straight down. Can end with a hanging point (悬针竖) or a rounded base (垂露竖). Found in: 中, 十, 口, 日.</div>
       </div>
 
       <div class="card c-teal">
         <div class="card-hanzi">撇 ノ</div>
         <div class="card-pinyin">piě</div>
-        <div class="card-en">left-falling stroke — top-right to bottom-left</div>
+        <div class="card-en">left-falling stroke , top-right to bottom-left</div>
         <div class="card-note">Sweeps from upper right to lower left. One of the most visually distinctive strokes. Found in: 人, 入, 大, 月.</div>
       </div>
 
       <div class="card c-teal">
         <div class="card-hanzi">捺 ＼</div>
         <div class="card-pinyin">nà</div>
-        <div class="card-en">right-falling stroke — top-left to bottom-right, with a "wave"</div>
+        <div class="card-en">right-falling stroke , top-left to bottom-right, with a "wave"</div>
         <div class="card-note">Sweeps from upper left to lower right, with a characteristic pressure swell and lifting flick at the end. Found in: 人, 大, 木, 文.</div>
       </div>
 
       <div class="card c-ochre">
         <div class="card-hanzi">点 ·</div>
         <div class="card-pinyin">diǎn</div>
-        <div class="card-en">dot — a short angled mark</div>
+        <div class="card-en">dot , a short angled mark</div>
         <div class="card-note">Not a true dot but a short angled stroke. Direction varies: can fall left or right. Found in: 心, 六, 言, 字. Water radical 氵is three dots.</div>
       </div>
 

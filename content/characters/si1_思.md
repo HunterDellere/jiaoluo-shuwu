@@ -89,7 +89,7 @@ content_sources:
           <div class="hero-chips">
             <span class="chip chip-hsk">HSK 3</span>
             <span class="chip">笔画 9</span>
-            <span class="chip">部首 心 (heart — bottom)</span>
+            <span class="chip">部首 心 (heart , bottom)</span>
             <span class="chip">声调 第一声 (flat)</span>
           </div>
         </div>
@@ -110,7 +110,7 @@ content_sources:
       <p>思 is built from two components: <strong>田 tián</strong> (field; cultivated land) on top, and <strong>心 xīn</strong> (heart; mind) below. Nine brushstrokes in total (five to draw the field, four for the heart underneath it).</p>
       <p>There are two ways to read this structure, and both are worth holding. The first is agricultural: the mind as a cultivated field. Thought is not something that simply arrives; it is something you tend, plant, and work. The field above the heart is not passive terrain; it is managed ground. This reading places 思 firmly in the Confucian tradition of moral and intellectual cultivation: one does not merely have thoughts, one tends them.</p>
       <p>The second reading is anatomical. 田, as a pictograph, shows a square divided by interior lines into quadrants, a form that some classical commentators interpreted as a representation of the skull, with its divisions suggesting the compartments of the brain. On this reading, 思 shows the head above the heart: the two candidate organs of cognition, stacked vertically into one character. Chinese thought did not settle the heart-mind question by choosing one organ and discarding the other. It fused them. 思 encodes that fusion structurally.</p>
-      <p>Mencius made 思 central to his philosophy of the mind. His argument: <em>心之官则思 xīn zhī guān zé sī</em> — "The function of the heart is to think." He used 思 as the defining verb of what the 心 does. To think is not a cognitive act separate from feeling; it is the heart's proper work. The character 思 was, for Mencius, the proof: here is the organ (心) and here is its field of activity (田), and they are one character, one thing.</p>
+      <p>Mencius made 思 central to his philosophy of the mind. His argument: <em>心之官则思 xīn zhī guān zé sī</em> , "The function of the heart is to think." He used 思 as the defining verb of what the 心 does. To think is not a cognitive act separate from feeling; it is the heart's proper work. The character 思 was, for Mencius, the proof: here is the organ (心) and here is its field of activity (田), and they are one character, one thing.</p>
     </div>
 
     <!-- ── THINK & LONG ── -->
@@ -150,7 +150,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-v">V 动词 dòngcí</span></div>
         <div class="card-def">
-          思 sī (to think; thought) + 考 kǎo (to examine; to investigate; to test). <em>Deliberate, directed thinking.</em> 思考 is the most common everyday word for careful, intentional mental activity — the kind of thinking you do when you have a problem in front of you and are genuinely working through it. It implies effort and engagement, not passive rumination.
+          思 sī (to think; thought) + 考 kǎo (to examine; to investigate; to test). <em>Deliberate, directed thinking.</em> 思考 is the most common everyday word for careful, intentional mental activity , the kind of thinking you do when you have a problem in front of you and are genuinely working through it. It implies effort and engagement, not passive rumination.
         </div>
         <div class="examples">
           <div class="example">
@@ -171,7 +171,7 @@ content_sources:
         </div>
         <div class="note">
           <span class="note-label">辨析 biànxī · Comparison</span>
-          思考 = deliberate, engaged thinking (process). 想 xiǎng = to think; to want (broader and more casual). 思考 carries more weight and intentionality — it implies you are working at something, not just letting the mind drift. Use 思考 in writing and when the effort of thinking matters.
+          思考 = deliberate, engaged thinking (process). 想 xiǎng = to think; to want (broader and more casual). 思考 carries more weight and intentionality , it implies you are working at something, not just letting the mind drift. Use 思考 in writing and when the effort of thinking matters.
         </div>
       </div>
 
@@ -184,7 +184,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          思 sī (to think; thought) + 想 xiǎng (to think; to want; idea). <em>Thought as a formed body — both personal and systematic.</em> 思想 operates on two levels. At the personal level it describes someone's habitual way of thinking, their mental orientation or values: 思想开放 (open-minded — lit. "open thought"). At the systematic level it names a body of doctrine: 毛泽东思想 (Mao Zedong Thought). The same word covers individual disposition and ideological framework.
+          思 sī (to think; thought) + 想 xiǎng (to think; to want; idea). <em>Thought as a formed body , both personal and systematic.</em> 思想 operates on two levels. At the personal level it describes someone's habitual way of thinking, their mental orientation or values: 思想开放 (open-minded , lit. "open thought"). At the systematic level it names a body of doctrine: 毛泽东思想 (Mao Zedong Thought). The same word covers individual disposition and ideological framework.
         </div>
         <div class="examples">
           <div class="example">
@@ -218,7 +218,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          思 sī (thought) + 路 lù (road; path; route). <em>Lit. "the road of thought."</em> The direction and movement of how thinking unfolds — not the conclusion but the path that leads there. 思路清晰 (a clear line of reasoning) is high praise in Chinese academic and professional contexts. 思路乱了 (the thread of thought has tangled) describes the feeling of losing the thread mid-argument.
+          思 sī (thought) + 路 lù (road; path; route). <em>Lit. "the road of thought."</em> The direction and movement of how thinking unfolds , not the conclusion but the path that leads there. 思路清晰 (a clear line of reasoning) is high praise in Chinese academic and professional contexts. 思路乱了 (the thread of thought has tangled) describes the feeling of losing the thread mid-argument.
         </div>
         <div class="examples">
           <div class="example">
@@ -248,7 +248,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          意 yì (intention; meaning) + 思 sī (thought). One of the most versatile and indispensable words in everyday Mandarin. 意思 covers: the meaning of a word or sentence (什么意思? — "What does that mean?"), someone's intention or wishes (我的意思是 — "What I mean is"), and whether something is interesting or enjoyable (有意思 — interesting; 没意思 — boring, pointless). A single compound that maps meaning, intent, and interest as one territory.
+          意 yì (intention; meaning) + 思 sī (thought). One of the most versatile and indispensable words in everyday Mandarin. 意思 covers: the meaning of a word or sentence (什么意思? — "What does that mean?"), someone's intention or wishes (我的意思是 , "What I mean is"), and whether something is interesting or enjoyable (有意思 , interesting; 没意思 , boring, pointless). A single compound that maps meaning, intent, and interest as one territory.
         </div>
         <div class="examples">
           <div class="example">
@@ -269,7 +269,7 @@ content_sources:
         </div>
         <div class="note">
           <span class="note-label">文化 wénhuà · Versatility Note</span>
-          意思 is one of the first words to reach for when something is confusing or interesting. 没意思 (without meaning/interest) is the standard way to say something is dull, pointless, or not worth doing. 小意思 (a small meaning) is used modestly when giving a gift: "It's nothing much — just a token of regard."
+          意思 is one of the first words to reach for when something is confusing or interesting. 没意思 (without meaning/interest) is the standard way to say something is dull, pointless, or not worth doing. 小意思 (a small meaning) is used modestly when giving a gift: "It's nothing much , just a token of regard."
         </div>
       </div>
 
@@ -295,7 +295,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-v">V 动词 dòngcí</span></div>
         <div class="card-def">
-          思 sī (to think; to miss) + 念 niàn (to think of; to read aloud; to remember — itself containing 心 in its lower half). <em>The compound that doubles the weight.</em> 思念 is used specifically for people — loved ones who are far away, people who have died, a home one has left. It is not the casual "I miss you" of a text message; it carries the sustained quality of a longing that has settled into one's days. The doubled heart (both 思 and 念 contain 心) makes this one of the most emotionally concentrated compound verbs in Chinese.
+          思 sī (to think; to miss) + 念 niàn (to think of; to read aloud; to remember , itself containing 心 in its lower half). <em>The compound that doubles the weight.</em> 思念 is used specifically for people , loved ones who are far away, people who have died, a home one has left. It is not the casual "I miss you" of a text message; it carries the sustained quality of a longing that has settled into one's days. The doubled heart (both 思 and 念 contain 心) makes this one of the most emotionally concentrated compound verbs in Chinese.
         </div>
         <div class="examples">
           <div class="example">
@@ -316,7 +316,7 @@ content_sources:
         </div>
         <div class="note">
           <span class="note-label">辨析 biànxī · Comparison</span>
-          思念 = deep, sustained longing for a specific person (more literary, more weight). 想念 xiǎngniàn = to miss someone (warmer, more colloquial — the everyday word). 挂念 guàniàn = to be worried and thinking about someone (implies concern for their welfare as well as longing). In speech, 想念 is standard; 思念 appears in letters, poetry, and formal writing.
+          思念 = deep, sustained longing for a specific person (more literary, more weight). 想念 xiǎngniàn = to miss someone (warmer, more colloquial , the everyday word). 挂念 guàniàn = to be worried and thinking about someone (implies concern for their welfare as well as longing). In speech, 想念 is standard; 思念 appears in letters, poetry, and formal writing.
         </div>
       </div>
 
@@ -329,7 +329,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-vn">V/N 动名词 dòngmíngcí</span></div>
         <div class="card-def">
-          相 xiāng (mutually; each other) + 思 sī (to miss; to long for). <em>The classical word for romantic yearning.</em> 相思 is not a modern word — it carries centuries of weight from classical poetry. It names the longing that moves in both directions between two people separated by distance: each is thinking of the other, the thinking flows between them like current. 相思病 (lovesickness — "the illness of mutual longing") is the traditional name for the condition.
+          相 xiāng (mutually; each other) + 思 sī (to miss; to long for). <em>The classical word for romantic yearning.</em> 相思 is not a modern word , it carries centuries of weight from classical poetry. It names the longing that moves in both directions between two people separated by distance: each is thinking of the other, the thinking flows between them like current. 相思病 (lovesickness , "the illness of mutual longing") is the traditional name for the condition.
         </div>
         <div class="examples">
           <div class="example">
@@ -350,7 +350,7 @@ content_sources:
         </div>
         <div class="note">
           <span class="note-label">文化 wénhuà · Classical Context</span>
-          相思豆 xiāngsī dòu (love peas — red seeds of the rosary pea plant, Abrus precatorius) are a classical symbol of lovesickness in Chinese poetry and folk culture, given as tokens between separated lovers. Wang Wei's poem 相思 (唐 · 王维) is the canonical text: "红豆生南国，春来发几枝。愿君多采撷，此物最相思." — "Red beans grow in the south; in spring, how many sprouts appear. I urge you to pick many — this thing most embodies longing."
+          相思豆 xiāngsī dòu (love peas , red seeds of the rosary pea plant, Abrus precatorius) are a classical symbol of lovesickness in Chinese poetry and folk culture, given as tokens between separated lovers. Wang Wei's poem 相思 (唐 · 王维) is the canonical text: "红豆生南国，春来发几枝。愿君多采撷，此物最相思." — "Red beans grow in the south; in spring, how many sprouts appear. I urge you to pick many , this thing most embodies longing."
         </div>
       </div>
 
@@ -363,7 +363,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-v">V 动词 dòngcí</span></div>
         <div class="card-def">
-          思 sī (to miss; to long for) + 乡 xiāng (hometown; native place; countryside). <em>Lit. "to miss the home place."</em> Homesickness as a deliberate, named condition — not vague discomfort but a specific directional longing, pointing back to the place of origin. The related noun 思乡情 (homesick feeling) and 乡思 (the longing for home — with the order reversed, more literary) map the same territory. In a country with centuries of migration history and a deeply rooted concept of 故乡 (the place you came from), 思乡 carries enormous cultural weight.
+          思 sī (to miss; to long for) + 乡 xiāng (hometown; native place; countryside). <em>Lit. "to miss the home place."</em> Homesickness as a deliberate, named condition , not vague discomfort but a specific directional longing, pointing back to the place of origin. The related noun 思乡情 (homesick feeling) and 乡思 (the longing for home , with the order reversed, more literary) map the same territory. In a country with centuries of migration history and a deeply rooted concept of 故乡 (the place you came from), 思乡 carries enormous cultural weight.
         </div>
         <div class="examples">
           <div class="example">
@@ -397,11 +397,11 @@ content_sources:
 
     <div class="pattern">
       <span class="label">构词规律 gòucí guīlǜ · Pattern: depth and duration as register markers</span>
-      <strong>反 fǎn</strong> (reverse; against) + 思 = <strong>反思</strong> fǎnsī (to reflect critically; to re-examine — the thinking that turns back on itself)<br>
-      <strong>深 shēn</strong> (deep) + 思 = <strong>深思</strong> shēnsī (to think deeply; to ponder — depth as a quality of the thinking)<br>
-      <strong>沉 chén</strong> (to sink; submerged) + 思 = <strong>沉思</strong> chénsī (to be lost in thought; to meditate on something — thinking you have sunk into)<br>
-      <strong>冥 míng</strong> (dark; obscure; the underworld) + 思 = <strong>冥思</strong> míngsi (deep contemplation; to muse — the thinking that happens in darkness and stillness)<br>
-      <strong>胡 hú</strong> (reckless; wildly) + 思 + <strong>乱 luàn</strong> (chaotic) + 想 = <strong>胡思乱想</strong> (to let the mind run wild — thinking without direction or control)<br>
+      <strong>反 fǎn</strong> (reverse; against) + 思 = <strong>反思</strong> fǎnsī (to reflect critically; to re-examine , the thinking that turns back on itself)<br>
+      <strong>深 shēn</strong> (deep) + 思 = <strong>深思</strong> shēnsī (to think deeply; to ponder , depth as a quality of the thinking)<br>
+      <strong>沉 chén</strong> (to sink; submerged) + 思 = <strong>沉思</strong> chénsī (to be lost in thought; to meditate on something , thinking you have sunk into)<br>
+      <strong>冥 míng</strong> (dark; obscure; the underworld) + 思 = <strong>冥思</strong> míngsi (deep contemplation; to muse , the thinking that happens in darkness and stillness)<br>
+      <strong>胡 hú</strong> (reckless; wildly) + 思 + <strong>乱 luàn</strong> (chaotic) + 想 = <strong>胡思乱想</strong> (to let the mind run wild , thinking without direction or control)<br>
       The quality of 思 is shaped by what precedes it: how deep, how critical, how still, how lost. Together they map the different textures of inner life.
     </div>
 
@@ -420,14 +420,14 @@ content_sources:
         <span class="cy-cn">深思熟虑</span>
         <span class="cy-py">shēnsī shúlǜ</span>
         <span class="cy-en">deep thought, mature deliberation — to think long and carefully before acting</span>
-        <span class="cy-note">深 shēn (deep) + 思 sī (think) + 熟 shú (mature; thoroughly cooked) + 虑 lǜ (to deliberate; to consider). A four-character description of the deliberative ideal: thought that has gone deep and has been given time to mature, like food that has cooked through completely. Used approvingly for careful decision-making and disapprovingly when someone acts without it. 这个决定是深思熟虑的结果。(This decision is the result of deep and careful deliberation.) The opposite impulse is 鲁莽 lǔmǎng — reckless, acting before thinking.</span>
+        <span class="cy-note">深 shēn (deep) + 思 sī (think) + 熟 shú (mature; thoroughly cooked) + 虑 lǜ (to deliberate; to consider). A four-character description of the deliberative ideal: thought that has gone deep and has been given time to mature, like food that has cooked through completely. Used approvingly for careful decision-making and disapprovingly when someone acts without it. 这个决定是深思熟虑的结果。(This decision is the result of deep and careful deliberation.) The opposite impulse is 鲁莽 lǔmǎng , reckless, acting before thinking.</span>
       </div>
 
       <div class="cy">
         <span class="cy-cn">朝思暮想</span>
         <span class="cy-py">zhāo sī mù xiǎng</span>
         <span class="cy-en">morning-think, evening-long — to miss someone day and night; to think of constantly</span>
-        <span class="cy-note">朝 zhāo (morning; dawn) + 思 sī (to think; to miss) + 暮 mù (evening; dusk) + 想 xiǎng (to think; to long for). A temporal sweep — from first light to last — used to say that the longing fills every hour. The pairing of 思 and 想 together intensifies both: here the two most common "think-miss" verbs appear side by side, one for morning and one for evening, covering the full arc of the day. 他朝思暮想地等待着她的回信。(He waited morning and night for her reply.) Used for romantic longing and for deep longing for home or for a deceased parent.</span>
+        <span class="cy-note">朝 zhāo (morning; dawn) + 思 sī (to think; to miss) + 暮 mù (evening; dusk) + 想 xiǎng (to think; to long for). A temporal sweep , from first light to last , used to say that the longing fills every hour. The pairing of 思 and 想 together intensifies both: here the two most common "think-miss" verbs appear side by side, one for morning and one for evening, covering the full arc of the day. 他朝思暮想地等待着她的回信。(He waited morning and night for her reply.) Used for romantic longing and for deep longing for home or for a deceased parent.</span>
       </div>
 
       <div class="cy">

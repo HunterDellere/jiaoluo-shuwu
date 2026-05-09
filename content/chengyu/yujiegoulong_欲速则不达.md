@@ -56,7 +56,7 @@ content_sources:
       <span class="topic-hero-eyebrow">Chengyu · 成语 chéngyǔ</span>
       <h1 class="topic-hero-title">欲速则不达</h1>
       <span class="topic-hero-title-py">yù sù zé bù dá</span>
-      <p class="topic-hero-desc">Speed desired, arrival missed — Confucius on why rushing produces the opposite of what you intend.</p>
+      <p class="topic-hero-desc">Speed desired, arrival missed , Confucius on why rushing produces the opposite of what you intend.</p>
     </header>
 
     <span class="section-anchor" id="source"></span>
@@ -64,8 +64,8 @@ content_sources:
       <div class="scholar" data-glyph="达">
         <div class="scholar-label">论语·子路 · Analects, Book 13</div>
         <p>The phrase comes from <strong>论语</strong> (Lúnyǔ, the Analects), Book 13, Chapter 17. Zilu, one of Confucius's disciples, has been appointed governor of a district. He asks Confucius for advice on governance. Confucius responds: "Do not seek speed. Do not be seduced by small gains. Seek speed and you will not arrive (欲速则不达). Be seduced by small gains and great affairs will not be accomplished (见小利则大事不成)."</p>
-        <p>The context is specifically about governance — the warning is against the administrator who tries to show results quickly (to demonstrate competence, to accumulate credit) at the cost of actually achieving substantive goals. It is a critique of performance over substance, of the appearance of urgency substituting for careful, patient work.</p>
-        <p>The phrase has expanded far beyond its original governmental context to become one of the most general and universally applicable sayings in the Chinese repertoire — equivalent in function to the English "haste makes waste," but with the Confucian authority of the Analects behind it.</p>
+        <p>The context is specifically about governance , the warning is against the administrator who tries to show results quickly (to demonstrate competence, to accumulate credit) at the cost of actually achieving substantive goals. It is a critique of performance over substance, of the appearance of urgency substituting for careful, patient work.</p>
+        <p>The phrase has expanded far beyond its original governmental context to become one of the most general and universally applicable sayings in the Chinese repertoire , equivalent in function to the English "haste makes waste," but with the Confucian authority of the Analects behind it.</p>
       </div>
 
 
@@ -84,7 +84,7 @@ content_sources:
       <div class="cards">
         <div class="card c-ochre">
           <div class="card-head">As general advice</div>
-          <p>做事不能着急，欲速则不达。(Zuòshì bù néng zháojí, yù sù zé bù dá.) — Don't be in such a rush with things — haste doesn't bring success. Said to someone who is cutting corners, skipping steps, or visibly anxious about pace at the expense of quality.</p>
+          <p>做事不能着急，欲速则不达。(Zuòshì bù néng zháojí, yù sù zé bù dá.) , Don't be in such a rush with things , haste doesn't bring success. Said to someone who is cutting corners, skipping steps, or visibly anxious about pace at the expense of quality.</p>
         </div>
         <div class="card c-teal">
           <div class="card-head">In business and management</div>
@@ -92,7 +92,7 @@ content_sources:
         </div>
         <div class="card c-sienna">
           <div class="card-head">In language learning</div>
-          <p>Teachers invoke 欲速则不达 to discourage students from trying to sprint through vocabulary lists and grammar rules without consolidating what they've learned. The idiom is also itself a good memory object — understanding it requires the very patient, thorough approach it recommends.</p>
+          <p>Teachers invoke 欲速则不达 to discourage students from trying to sprint through vocabulary lists and grammar rules without consolidating what they've learned. The idiom is also itself a good memory object , understanding it requires the very patient, thorough approach it recommends.</p>
         </div>
       </div>
 
@@ -102,7 +102,7 @@ content_sources:
       <div class="cards">
         <div class="card c-ochre">
           <div class="card-head">欲 yù · desire, want</div>
-          <p>To desire, to want. Classical usage — in modern Mandarin, 想要 (xiǎng yào) is more common for "to want." 欲 appears in classical idioms and literary contexts: 欲望 (yùwàng, desire/craving), 食欲 (shíyù, appetite).</p>
+          <p>To desire, to want. Classical usage , in modern Mandarin, 想要 (xiǎng yào) is more common for "to want." 欲 appears in classical idioms and literary contexts: 欲望 (yùwàng, desire/craving), 食欲 (shíyù, appetite).</p>
         </div>
         <div class="card c-ochre">
           <div class="card-head">速 sù · speed, fast</div>

@@ -75,7 +75,7 @@ faq:
       <span class="topic-hero-eyebrow">History · 历史 lìshǐ</span>
       <h1 class="topic-hero-title">宋朝</h1>
       <span class="topic-hero-title-py">sòngcháo</span>
-      <p class="topic-hero-desc">The dynasty that was militarily weak by design and culturally brilliant beyond measure — paper money, printing, gunpowder, and the compass all flourished here, along with Su Dongpo's poetry and Neo-Confucian philosophy, before the Jingkang Humiliation split the court south and the Mongols ended it all in 1279.</p>
+      <p class="topic-hero-desc">The dynasty that was militarily weak by design and culturally brilliant beyond measure , paper money, printing, gunpowder, and the compass all flourished here, along with Su Dongpo's poetry and Neo-Confucian philosophy, before the Jingkang Humiliation split the court south and the Mongols ended it all in 1279.</p>
     </header>
 
     <!-- ── FOUNDING ── -->
@@ -195,7 +195,7 @@ faq:
         <span class="cy-cn">靖康之耻</span>
         <span class="cy-py">Jǐngkāng zhī Chǐ</span>
         <span class="cy-en">the Jingkang Humiliation — national shame that demands redemption</span>
-        <span class="cy-note">The capture of the Song imperial family by the Jurchen Jin dynasty in 1127 CE. Invoked by Yue Fei and every subsequent patriot as the wound that must be avenged. Still appears in modern Chinese political rhetoric when national pride or territorial integrity is at stake. The phrase encodes the specifically Song-era emotion of 雪耻 xuě chǐ — "washing away the shame" — as a political imperative. Yue Fei's poem 满江红 contains the line 靖康耻，犹未雪 ("the Jingkang shame is still unwashed").</span>
+        <span class="cy-note">The capture of the Song imperial family by the Jurchen Jin dynasty in 1127 CE. Invoked by Yue Fei and every subsequent patriot as the wound that must be avenged. Still appears in modern Chinese political rhetoric when national pride or territorial integrity is at stake. The phrase encodes the specifically Song-era emotion of 雪耻 xuě chǐ , "washing away the shame" , as a political imperative. Yue Fei's poem 满江红 contains the line 靖康耻，犹未雪 ("the Jingkang shame is still unwashed").</span>
       </div>
 
       <div class="cy">

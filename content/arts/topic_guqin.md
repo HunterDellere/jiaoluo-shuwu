@@ -65,7 +65,7 @@ pinyin: 'gǔqín'
       <span class="topic-hero-eyebrow">Arts · 艺术 yìshù</span>
       <h1 class="topic-hero-title">古琴</h1>
       <span class="topic-hero-title-py">gǔqín</span>
-      <p class="topic-hero-desc">The seven-string zither Confucius played throughout his life — and the origin of 知音, the word for a person who truly understands you.</p>
+      <p class="topic-hero-desc">The seven-string zither Confucius played throughout his life , and the origin of 知音, the word for a person who truly understands you.</p>
     </header>
 
     <!-- ── THE INSTRUMENT ── -->
@@ -79,8 +79,8 @@ pinyin: 'gǔqín'
 
     <div class="scholar" data-glyph="琴">
       <div class="scholar-label">历史洞见 lìshǐ dòngjiàn · Historical Insight</div>
-      <p>The guqin (古琴) is a seven-string plucked zither about 130 cm long, laid flat on a table and played by a single seated musician. Its confirmed history begins in the Zhou dynasty (1046–256 BCE); probable Bronze Age origins push further back. For most of that history it was called simply 琴 qín — "ancient" was added only during or after the Tang dynasty (618–907 CE), when the erhu, pipa, and other instruments had proliferated to the point where 琴 alone was no longer specific enough. Today 琴 qín functions as a generic classifier for stringed instruments: 钢琴 gāngqín is piano, 小提琴 xiǎotíqín is violin, 吉他 jítā borrowed the sound of "guitar." Only 古琴 names this particular instrument.</p>
-      <p>The body is a wooden resonating box, traditionally made from paulownia 桐木 tóngmù on top and catalpa 梓木 zǐmù on the underside — a pairing with cosmological resonance: tong corresponds to the phoenix, zi to the dragon. The seven strings were historically silk; modern players often use steel-nylon composites for durability. Thirteen circular inlays of shell or ivory, called 徽 huī, mark the harmonic positions along the upper surface. There are no frets.</p>
+      <p>The guqin (古琴) is a seven-string plucked zither about 130 cm long, laid flat on a table and played by a single seated musician. Its confirmed history begins in the Zhou dynasty (1046–256 BCE); probable Bronze Age origins push further back. For most of that history it was called simply 琴 qín , "ancient" was added only during or after the Tang dynasty (618–907 CE), when the erhu, pipa, and other instruments had proliferated to the point where 琴 alone was no longer specific enough. Today 琴 qín functions as a generic classifier for stringed instruments: 钢琴 gāngqín is piano, 小提琴 xiǎotíqín is violin, 吉他 jítā borrowed the sound of "guitar." Only 古琴 names this particular instrument.</p>
+      <p>The body is a wooden resonating box, traditionally made from paulownia 桐木 tóngmù on top and catalpa 梓木 zǐmù on the underside , a pairing with cosmological resonance: tong corresponds to the phoenix, zi to the dragon. The seven strings were historically silk; modern players often use steel-nylon composites for durability. Thirteen circular inlays of shell or ivory, called 徽 huī, mark the harmonic positions along the upper surface. There are no frets.</p>
     </div>
 
     <!-- ── THE SCHOLAR'S INSTRUMENT ── -->
@@ -96,7 +96,7 @@ pinyin: 'gǔqín'
       <div class="scholar-label">文化洞见 wénhuà dòngjiàn · Cultural Insight</div>
       <p>The guqin was never an entertainment instrument. Its volume is low enough that Song dynasty writers described it as played "for oneself and for spirits, not for an audience." There are no guqin concertos, no court orchestras featuring it. The physical setting is intimate by design: one person, one table, ideally a quiet study, a pine forest, or a mountain pavilion.</p>
       <p><strong>孔子 Kǒngzǐ</strong> (Confucius, 551–479 BCE) is the instrument's most famous practitioner. The <em>Analects</em> 论语 record him singing to the qin during periods of hardship and political exile, and several early sources describe him studying a specific piece for ten days before feeling he had understood not just the notes but the character of the composer. In the Han dynasty (206 BCE–220 CE), the guqin became central to the literati ideal: a scholar who did not play was considered incomplete.</p>
-      <p>The four scholarly arts, 琴棋书画 qín qí shū huà — qin, chess (围棋 wéiqí), calligraphy (书法 shūfǎ), and painting (绘画 huìhuà) — define the curriculum of the educated person in the 文人 wénrén (literati) tradition. 琴 is listed first. This ordering is not arbitrary: the guqin was understood to cultivate the inner life directly. Playing it was a form of moral self-cultivation, not performance.</p>
+      <p>The four scholarly arts, 琴棋书画 qín qí shū huà , qin, chess (围棋 wéiqí), calligraphy (书法 shūfǎ), and painting (绘画 huìhuà) , define the curriculum of the educated person in the 文人 wénrén (literati) tradition. 琴 is listed first. This ordering is not arbitrary: the guqin was understood to cultivate the inner life directly. Playing it was a form of moral self-cultivation, not performance.</p>
     </div>
 
     <!-- ── BOYI BREAKING STRINGS ── -->
@@ -110,7 +110,7 @@ pinyin: 'gǔqín'
 
     <div class="scholar" data-glyph="知">
       <div class="scholar-label">故事洞见 gùshì dòngjiàn · Story Insight</div>
-      <p><strong>伯牙 Bó Yá</strong> was a master qin player of the Spring and Autumn period (770–476 BCE). <strong>钟子期 Zhōng Zǐqī</strong> was a woodcutter who heard him play and understood the music precisely. When Boya played with his mind on towering mountains, Ziqi said: "Magnificent — like Mount Tai." When Boya's thoughts turned to flowing water, Ziqi said: "Vast — like the Yellow River." Boya was astonished: he had found the one person who heard what he was actually expressing.</p>
+      <p><strong>伯牙 Bó Yá</strong> was a master qin player of the Spring and Autumn period (770–476 BCE). <strong>钟子期 Zhōng Zǐqī</strong> was a woodcutter who heard him play and understood the music precisely. When Boya played with his mind on towering mountains, Ziqi said: "Magnificent , like Mount Tai." When Boya's thoughts turned to flowing water, Ziqi said: "Vast , like the Yellow River." Boya was astonished: he had found the one person who heard what he was actually expressing.</p>
       <p>When Zhong Ziqi died, Boya took his qin, smashed it against the rocks, and never played again. His reasoning, as recorded in the <em>Liezi</em> 列子: without Ziqi, there was no one in the world worth playing for. Music without a listener who genuinely understands it is silence in a different register.</p>
       <p>The phrase 知音 zhīyīn, literally "one who knows the sound," comes directly from this story. It became the standard Chinese word for a soulmate, a person who understands you at a level deeper than words. To say someone is your 知音 is to say they hear what you are actually saying, not just the words. The concept is one of the most emotionally weighted in the language, and it originates entirely in the guqin tradition.</p>
     </div>
@@ -126,8 +126,8 @@ pinyin: 'gǔqín'
 
     <div class="scholar" data-glyph="谱">
       <div class="scholar-label">技法洞见 jìfǎ dòngjiàn · Technical Insight</div>
-      <p>The guqin uses a notation system called 减字谱 jiǎnzìpǔ (abbreviated-character notation), developed during the Tang dynasty and used continuously since. Where Western staff notation indicates pitch and duration, 减字谱 tells the player which string to use, which finger of which hand, which position on the string, and which playing technique. Duration is left to the performer's judgment. The characters are composite glyphs, each condensing several instructions into one written form — the name "abbreviated character" refers to this compression. Over 3,000 pieces survive in this notation. UNESCO inscribed the guqin on the Intangible Cultural Heritage list in 2003, citing both the instrument and its notational tradition.</p>
-      <p>Three distinct tonal registers are fundamental to guqin aesthetics and carry philosophical weight beyond their acoustic character. 散音 sǎnyīn (open strings) produces a full, resonant, earthly sound associated with the earth. 泛音 fànyīn (harmonics, produced by lightly touching the string at a 徽 position) produces a pure, bell-like, floating tone associated with heaven. 按音 ànyīn (stopped strings, the fingers pressing the string to the soundboard) produces an intimate, humanly inflected sound associated with — predictably — the human realm. Playing a piece means moving between these three registers, and the movement is understood to trace the relationship between heaven, earth, and person.</p>
+      <p>The guqin uses a notation system called 减字谱 jiǎnzìpǔ (abbreviated-character notation), developed during the Tang dynasty and used continuously since. Where Western staff notation indicates pitch and duration, 减字谱 tells the player which string to use, which finger of which hand, which position on the string, and which playing technique. Duration is left to the performer's judgment. The characters are composite glyphs, each condensing several instructions into one written form , the name "abbreviated character" refers to this compression. Over 3,000 pieces survive in this notation. UNESCO inscribed the guqin on the Intangible Cultural Heritage list in 2003, citing both the instrument and its notational tradition.</p>
+      <p>Three distinct tonal registers are fundamental to guqin aesthetics and carry philosophical weight beyond their acoustic character. 散音 sǎnyīn (open strings) produces a full, resonant, earthly sound associated with the earth. 泛音 fànyīn (harmonics, produced by lightly touching the string at a 徽 position) produces a pure, bell-like, floating tone associated with heaven. 按音 ànyīn (stopped strings, the fingers pressing the string to the soundboard) produces an intimate, humanly inflected sound associated with , predictably , the human realm. Playing a piece means moving between these three registers, and the movement is understood to trace the relationship between heaven, earth, and person.</p>
     </div>
 
     <!-- ── VOCABULARY ── -->
@@ -148,7 +148,7 @@ pinyin: 'gǔqín'
           <span class="card-en">one who truly understands you; a soulmate</span>
         </div>
         <div class="card-def">
-          知 zhī (to know) + 音 yīn (sound; music). Originally literal: the one who hears what your music is actually saying. From the 伯牙绝弦 story in the <em>Liezi</em>. Now used for any person who understands you at depth — a close friend, an ideal reader, a creative collaborator who sees what you are actually trying to do. Finding a 知音 is one of the most valued things in Chinese literary and emotional life.
+          知 zhī (to know) + 音 yīn (sound; music). Originally literal: the one who hears what your music is actually saying. From the 伯牙绝弦 story in the <em>Liezi</em>. Now used for any person who understands you at depth , a close friend, an ideal reader, a creative collaborator who sees what you are actually trying to do. Finding a 知音 is one of the most valued things in Chinese literary and emotional life.
         </div>
         <div class="examples">
           <div class="example">
@@ -159,7 +159,7 @@ pinyin: 'gǔqín'
           <div class="example">
             <div class="ex-cn">他是我的知音，一听就懂我的意思。</div>
             <div class="ex-py">Tā shì wǒ de zhīyīn, yī tīng jiù dǒng wǒ de yìsi.</div>
-            <div class="ex-en">He is my 知音 — he understands my meaning as soon as he hears it.</div>
+            <div class="ex-en">He is my 知音 , he understands my meaning as soon as he hears it.</div>
           </div>
         </div>
       </div>
@@ -189,7 +189,7 @@ pinyin: 'gǔqín'
           <span class="card-en">abbreviated-character tablature — the guqin's notational system</span>
         </div>
         <div class="card-def">
-          减 jiǎn (reduce; abbreviate) + 字 zì (character) + 谱 pǔ (notation; score). Developed in the Tang dynasty, used continuously since. Each composite character encodes string number, finger, position, and technique in a single glyph. Over 3,000 pieces survive in this notation. The system does not record duration, which remains at the performer's discretion — consistent with the guqin's emphasis on personal expression over mechanical reproduction.
+          减 jiǎn (reduce; abbreviate) + 字 zì (character) + 谱 pǔ (notation; score). Developed in the Tang dynasty, used continuously since. Each composite character encodes string number, finger, position, and technique in a single glyph. Over 3,000 pieces survive in this notation. The system does not record duration, which remains at the performer's discretion , consistent with the guqin's emphasis on personal expression over mechanical reproduction.
         </div>
       </div>
 
@@ -211,13 +211,13 @@ pinyin: 'gǔqín'
           <span class="card-en">High Mountains, Flowing Water — the most famous guqin piece</span>
         </div>
         <div class="card-def">
-          高山 gāoshān (high mountains) + 流水 liúshuǐ (flowing water). The piece Boya played when Zhong Ziqi correctly heard mountains and rivers in the music. Survives in multiple versions in the 减字谱 tradition. As a four-character phrase, 高山流水 is now used figuratively for meeting a 知音 — someone who hears precisely what you mean — and for music or art of the highest order.
+          高山 gāoshān (high mountains) + 流水 liúshuǐ (flowing water). The piece Boya played when Zhong Ziqi correctly heard mountains and rivers in the music. Survives in multiple versions in the 减字谱 tradition. As a four-character phrase, 高山流水 is now used figuratively for meeting a 知音 , someone who hears precisely what you mean , and for music or art of the highest order.
         </div>
         <div class="examples">
           <div class="example">
             <div class="ex-cn">两人一见如故，真是高山流水，相见恨晚。</div>
             <div class="ex-py">Liǎng rén yījiàn rúgù, zhēn shì gāoshān liúshuǐ, xiāngjiàn hèn wǎn.</div>
-            <div class="ex-en">The two felt immediately like old friends — a true 高山流水 meeting, wishing only that they had found each other sooner.</div>
+            <div class="ex-en">The two felt immediately like old friends , a true 高山流水 meeting, wishing only that they had found each other sooner.</div>
           </div>
         </div>
       </div>
@@ -229,7 +229,7 @@ pinyin: 'gǔqín'
           <span class="card-en">literati — the scholarly class who cultivated the guqin</span>
         </div>
         <div class="card-def">
-          文 wén (culture; writing; civil) + 人 rén (person). The educated class in imperial China: scholars, poets, painters, officials who defined their identity through cultural cultivation rather than martial or commercial pursuits. The guqin was, more than any other object, the emblem of 文人 identity. Playing it in private was a statement about the kind of person you were — or aspired to be.
+          文 wén (culture; writing; civil) + 人 rén (person). The educated class in imperial China: scholars, poets, painters, officials who defined their identity through cultural cultivation rather than martial or commercial pursuits. The guqin was, more than any other object, the emblem of 文人 identity. Playing it in private was a statement about the kind of person you were , or aspired to be.
         </div>
       </div>
 
@@ -250,7 +250,7 @@ pinyin: 'gǔqín'
         <span class="cy-cn">伯牙绝弦</span>
         <span class="cy-py">Bó Yá jué xián</span>
         <span class="cy-en">Boya breaks his strings — the loss of a 知音</span>
-        <span class="cy-note">From the <em>Liezi</em> 列子. After Zhong Ziqi died, Boya destroyed his qin and played no more. 绝弦 juéxián (severing the strings) became the image for grief over the loss of someone who truly understood you. Used today for any irreplaceable friend, mentor, or collaborator whose death ends a particular kind of expression — because what is the point of saying things that no one can hear?</span>
+        <span class="cy-note">From the <em>Liezi</em> 列子. After Zhong Ziqi died, Boya destroyed his qin and played no more. 绝弦 juéxián (severing the strings) became the image for grief over the loss of someone who truly understood you. Used today for any irreplaceable friend, mentor, or collaborator whose death ends a particular kind of expression , because what is the point of saying things that no one can hear?</span>
       </div>
 
       <div class="cy">

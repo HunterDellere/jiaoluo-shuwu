@@ -97,10 +97,10 @@ content_sources:
 
     <div class="scholar" data-glyph="跨">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
-      <p><strong>跨 = 足 (zú, foot) + 夸 (kuā, to boast; to enlarge)</strong> — a textbook pictophonetic. The semantic component <strong>足</strong> (in its component form 𧾷) anchors verbs of foot-motion: 路 (lù, road), 跑 (pǎo, to run), 跳 (tiào, to jump), 踢 (tī, to kick). The phonetic <strong>夸</strong> supplies the sound and contributes a faint shade of meaning — 夸 carries the sense of <em>making large, exaggerating, extending</em>. The whole image is a foot reaching wider than usual: <em>to take a large stride</em>.</p>
+      <p><strong>跨 = 足 (zú, foot) + 夸 (kuā, to boast; to enlarge)</strong> , a textbook pictophonetic. The semantic component <strong>足</strong> (in its component form 𧾷) anchors verbs of foot-motion: 路 (lù, road), 跑 (pǎo, to run), 跳 (tiào, to jump), 踢 (tī, to kick). The phonetic <strong>夸</strong> supplies the sound and contributes a faint shade of meaning , 夸 carries the sense of <em>making large, exaggerating, extending</em>. The whole image is a foot reaching wider than usual: <em>to take a large stride</em>.</p>
       <p>The semantic field unfolds in three directions, each more figurative than the last:</p>
-      <p><strong>1. The physical stride.</strong> A foot stepping over something — a threshold, a puddle, a low wall. 跨步 kuàbù "to take a stride"; 跨过去 kuà guòqù "to step over"; 跨上马 kuà shàng mǎ "to mount a horse" (the rider's leg swings over the saddle).<br>
-      <strong>2. To straddle; to bestride.</strong> Standing with legs on either side of something — a horse, a chair, a wall. By extension, occupying both sides of a divide simultaneously: 横跨 héngkuà "to span across" (a bridge across a river).<br>
+      <p><strong>1. The physical stride.</strong> A foot stepping over something , a threshold, a puddle, a low wall. 跨步 kuàbù "to take a stride"; 跨过去 kuà guòqù "to step over"; 跨上马 kuà shàng mǎ "to mount a horse" (the rider's leg swings over the saddle).<br>
+      <strong>2. To straddle; to bestride.</strong> Standing with legs on either side of something , a horse, a chair, a wall. By extension, occupying both sides of a divide simultaneously: 横跨 héngkuà "to span across" (a bridge across a river).<br>
       <strong>3. To cross; to span.</strong> Modern Chinese has loaded 跨 with a productive prefix-like role: <strong>跨 + X</strong> means "crossing the boundary of X." 跨国 kuàguó "transnational"; 跨界 kuàjiè "crossover (between fields)"; 跨年 kuànián "to cross over the new year." This is where 跨 has done its most work since the 1980s.</p>
       <p>The relationship to <strong>越 (yuè)</strong> is close but distinct: 跨 emphasizes the <em>action</em> of striding or spanning; 越 emphasizes the <em>boundary</em> being passed. The compound <strong>跨越 kuàyuè</strong> joins both: a stride-action that gets across a boundary. See the comparison section below.</p>
     </div>
@@ -140,7 +140,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-vn">V/N 动名词</span></div>
         <div class="card-def">
-          跨 + 步 (bù, step). The base physical sense — a single deliberate stride, often a long one. Used in athletics, dance, military drill, and figuratively for any decisive move forward.
+          跨 + 步 (bù, step). The base physical sense , a single deliberate stride, often a long one. Used in athletics, dance, military drill, and figuratively for any decisive move forward.
         </div>
         <div class="examples">
           <div class="example">
@@ -164,7 +164,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-v">V 动词</span></div>
         <div class="card-def">
-          跨 + 过 (guò, to pass). The everyday verb of stepping over a low obstacle: a threshold, a puddle, a fallen branch. By extension, getting past a difficulty in a single move. Common with 门槛 ménkǎn (threshold) — both literal and metaphorical.
+          跨 + 过 (guò, to pass). The everyday verb of stepping over a low obstacle: a threshold, a puddle, a fallen branch. By extension, getting past a difficulty in a single move. Common with 门槛 ménkǎn (threshold) , both literal and metaphorical.
         </div>
         <div class="examples">
           <div class="example">
@@ -236,7 +236,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词</span></div>
         <div class="card-def">
-          跨 + 度 (dù, degree; measure). The measurable distance from one support to another — originally an architectural and engineering term (the 跨度 of an arch or bridge), now extended to time spans, salary ranges, age gaps, and the scope of a project or career.
+          跨 + 度 (dù, degree; measure). The measurable distance from one support to another , originally an architectural and engineering term (the 跨度 of an arch or bridge), now extended to time spans, salary ranges, age gaps, and the scope of a project or career.
         </div>
         <div class="examples">
           <div class="example">
@@ -266,7 +266,7 @@ content_sources:
     <div class="scholar" data-glyph="跨">
       <div class="scholar-label">现代用法 xiàndài yòngfǎ · Modern Usage Note</div>
       <p>Since the 1980s opening-up era, 跨 has functioned as a near-prefix for boundary-crossing of every kind. The pattern <strong>跨 + 名词 (boundary noun)</strong> generates new compounds productively, and many of them are now standard policy and business vocabulary. The boundary can be national (跨国 transnational), regional (跨境 cross-border), legal/jurisdictional (跨省 inter-provincial), professional (跨界 crossover between industries), academic (跨学科 interdisciplinary), cultural (跨文化 cross-cultural), or temporal (跨年 crossing the new year, 跨世纪 across centuries).</p>
-      <p>The cluster reflects something specific about contemporary Chinese self-narration: the country and its citizens are constantly described as <em>crossing</em> things — borders, eras, technological gaps, generational divides. 跨 is the verb that does that work.</p>
+      <p>The cluster reflects something specific about contemporary Chinese self-narration: the country and its citizens are constantly described as <em>crossing</em> things , borders, eras, technological gaps, generational divides. 跨 is the verb that does that work.</p>
     </div>
 
     <div class="cards">
@@ -355,7 +355,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-v">V 动词</span></div>
         <div class="card-def">
-          跨 + 年 (nián, year). The standard verb for what one does on New Year's Eve — celebrating <em>through</em> midnight from the old year into the new. 跨年晚会 (kuànián wǎnhuì) "New Year's Eve gala" is the genre name for the live-broadcast countdown shows. The Western/solar New Year, not the Lunar New Year (春节), is what 跨年 most often refers to.
+          跨 + 年 (nián, year). The standard verb for what one does on New Year's Eve , celebrating <em>through</em> midnight from the old year into the new. 跨年晚会 (kuànián wǎnhuì) "New Year's Eve gala" is the genre name for the live-broadcast countdown shows. The Western/solar New Year, not the Lunar New Year (春节), is what 跨年 most often refers to.
         </div>
         <div class="examples">
           <div class="example">
@@ -399,9 +399,9 @@ content_sources:
     <div class="scholar" data-glyph="跨">
       <div class="scholar-label">辨析 biànxī · Disambiguation</div>
       <p>跨 and <a href="../../pages/characters/yue4_越.html">越</a> overlap at the level of "to cross," but they emphasize different aspects of the action.</p>
-      <p><strong>跨</strong> is about <em>the stride</em>. The image is a foot reaching wide, legs spreading on either side of something. It works best when the boundary is something you <em>step over</em> in a single motion (a threshold, a low wall, a small ditch) or <em>span</em> with your reach (a bridge across a river, a career across multiple fields). 跨 carries no strong sense of difficulty — the boundary is something you can simply put your leg over.</p>
-      <p><strong>越</strong> is about <em>the boundary itself and the act of going past it</em>. It works best when the boundary has weight — a mountain, a wall, a category, a limit, a rule. 越 carries a flavor of <em>exceeding, surpassing, transcending</em> that 跨 does not have on its own. You can 越权 (overstep your authority) but not 跨权; you can be told 不到长城非好汉 ("he who does not reach the Great Wall is not a true hero") with the implicit verb 越, not 跨.</p>
-      <p>The compound <strong>跨越 kuàyuè</strong> joins both meanings and is the strongest single verb in this family — a striding motion that gets across a major boundary. See the <a href="../../pages/vocab/kuayue_跨越.html">跨越 vocabulary page</a> for the full picture, and the <a href="../../pages/characters/yue4_越.html">越 page</a> for the comparative-frame use (越…越…) and the place name <em>Yuè</em>.</p>
+      <p><strong>跨</strong> is about <em>the stride</em>. The image is a foot reaching wide, legs spreading on either side of something. It works best when the boundary is something you <em>step over</em> in a single motion (a threshold, a low wall, a small ditch) or <em>span</em> with your reach (a bridge across a river, a career across multiple fields). 跨 carries no strong sense of difficulty , the boundary is something you can simply put your leg over.</p>
+      <p><strong>越</strong> is about <em>the boundary itself and the act of going past it</em>. It works best when the boundary has weight , a mountain, a wall, a category, a limit, a rule. 越 carries a flavor of <em>exceeding, surpassing, transcending</em> that 跨 does not have on its own. You can 越权 (overstep your authority) but not 跨权; you can be told 不到长城非好汉 ("he who does not reach the Great Wall is not a true hero") with the implicit verb 越, not 跨.</p>
+      <p>The compound <strong>跨越 kuàyuè</strong> joins both meanings and is the strongest single verb in this family , a striding motion that gets across a major boundary. See the <a href="../../pages/vocab/kuayue_跨越.html">跨越 vocabulary page</a> for the full picture, and the <a href="../../pages/characters/yue4_越.html">越 page</a> for the comparative-frame use (越…越…) and the place name <em>Yuè</em>.</p>
     </div>
 
     <!-- ── CHENGYU ── -->

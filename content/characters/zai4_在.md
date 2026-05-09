@@ -117,7 +117,7 @@ content_sources:
 
     <div class="scholar" data-glyph="在">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
-      <p>The ancient form of <strong>在 zài</strong> shows a plant or seedling (<strong>才 cái</strong> — the phonetic component, meaning "just beginning; just emerged") growing up from earth (<strong>土 tǔ</strong> — the semantic component). A seedling rooted in earth: something that exists in a place because it is grounded there. The earliest meaning was "to exist in a place; to be present." The spatial meaning (to be at, in, or on a location) follows directly from this image of the grounded, present thing.</p>
+      <p>The ancient form of <strong>在 zài</strong> shows a plant or seedling (<strong>才 cái</strong> , the phonetic component, meaning "just beginning; just emerged") growing up from earth (<strong>土 tǔ</strong> , the semantic component). A seedling rooted in earth: something that exists in a place because it is grounded there. The earliest meaning was "to exist in a place; to be present." The spatial meaning (to be at, in, or on a location) follows directly from this image of the grounded, present thing.</p>
       <p>From location, 在 expanded into two further grammatical roles: as a <strong>preposition</strong> (placing the scene of an action before the verb: 在图书馆学习, to study at the library), and as a <strong>progressive aspect marker</strong> (indicating an action is in progress: 在吃饭, eating/in the middle of eating). All three uses share the core semantic logic of presence: something is here, occurring here, happening here now.</p>
       <p>The phonetic component 才 cái (just; only; talent; barely) also appears in 材 (material; timber), 财 (wealth), and 裁 (to cut; to judge), a family of characters sharing the sense of something newly emergent or precisely measured. The soil of 在 grounds this family in physical space.</p>
     </div>
@@ -149,7 +149,7 @@ content_sources:
 
     <div class="scholar" data-glyph="在">
       <div class="scholar-label">语法洞见 yǔfǎ dòngjiàn · The 在 vs. 有 Distinction</div>
-      <p>The most important distinction for learners: <strong>在 zài</strong> and <strong>有 yǒu</strong> both involve location, but they work opposite ways. <strong>有</strong> introduces new information: it asserts that something exists in a place for the first time: 桌上有书 (There are books on the table — telling you something you didn't know). <strong>在</strong> locates something already known: it tells you where a given thing is: 书在桌上 (The books are on the table — locating something you already know exists).</p>
+      <p>The most important distinction for learners: <strong>在 zài</strong> and <strong>有 yǒu</strong> both involve location, but they work opposite ways. <strong>有</strong> introduces new information: it asserts that something exists in a place for the first time: 桌上有书 (There are books on the table , telling you something you didn't know). <strong>在</strong> locates something already known: it tells you where a given thing is: 书在桌上 (The books are on the table , locating something you already know exists).</p>
       <p>The structural difference mirrors this: 有 sentences start with the place (topic frame), then introduce the thing. 在 sentences start with the known thing (topic), then identify its location. 有: Place + 有 + Thing. 在: Thing + 在 + Place. Knowing which to use requires asking: is the existence of this thing news to the listener, or is only its location?</p>
     </div>
 
@@ -179,7 +179,7 @@ content_sources:
           <div class="example">
             <div class="ex-cn">钥匙在包里，别担心。</div>
             <div class="ex-py">Yàoshi zài bāo lǐ, bié dānxīn.</div>
-            <div class="ex-en">The key is in the bag — don't worry.</div>
+            <div class="ex-en">The key is in the bag , don't worry.</div>
           </div>
         </div>
       </div>
@@ -257,7 +257,7 @@ content_sources:
           <div class="example">
             <div class="ex-cn">别打扰他，他在工作呢。</div>
             <div class="ex-py">Bié dǎrǎo tā, tā zài gōngzuò ne.</div>
-            <div class="ex-en">Don't disturb him — he's working right now.</div>
+            <div class="ex-en">Don't disturb him , he's working right now.</div>
           </div>
           <div class="example">
             <div class="ex-cn">你在看什么书？</div>
@@ -267,12 +267,12 @@ content_sources:
           <div class="example">
             <div class="ex-cn">我们在开会，一会儿给你回电话。</div>
             <div class="ex-py">Wǒmen zài kāihuì, yīhuìr gěi nǐ huí diànhuà.</div>
-            <div class="ex-en">We're in a meeting — we'll call you back in a bit.</div>
+            <div class="ex-en">We're in a meeting , we'll call you back in a bit.</div>
           </div>
         </div>
         <div class="note">
           <span class="note-label">辨析 biànxī · Progressive Markers</span>
-          Chinese has three progressive/durative markers that can stack or alternate. <strong>在</strong>: action in progress (在学习). <strong>着 zhe</strong>: state ongoing from a prior action (门开着 — the door is open; 穿着衬衫 — wearing a shirt). <strong>呢</strong>: sentence-final, confirms current activity. The fullest progressive form: <strong>正在…呢</strong> (正在 + V + 呢): 他正在睡觉呢 "He is right in the middle of sleeping." 正在 adds "right now / at this very moment" precision.
+          Chinese has three progressive/durative markers that can stack or alternate. <strong>在</strong>: action in progress (在学习). <strong>着 zhe</strong>: state ongoing from a prior action (门开着 , the door is open; 穿着衬衫 , wearing a shirt). <strong>呢</strong>: sentence-final, confirms current activity. The fullest progressive form: <strong>正在…呢</strong> (正在 + V + 呢): 他正在睡觉呢 "He is right in the middle of sleeping." 正在 adds "right now / at this very moment" precision.
         </div>
       </div>
 
@@ -308,7 +308,7 @@ content_sources:
           <div class="example">
             <div class="ex-cn">他那么在乎你，你要好好珍惜。</div>
             <div class="ex-py">Tā nàme zàihu nǐ, nǐ yào hǎohǎo zhēnxī.</div>
-            <div class="ex-en">He cares about you so much — you should cherish that.</div>
+            <div class="ex-en">He cares about you so much , you should cherish that.</div>
           </div>
         </div>
       </div>
@@ -414,14 +414,14 @@ content_sources:
         <span class="cy-cn">无处不在</span>
         <span class="cy-py">wú chù bú zài</span>
         <span class="cy-en">everywhere; omnipresent — present in every place</span>
-        <span class="cy-note">Lit: no-place-not-present. The double negative (无处 "no place" + 不在 "not present") creates a strong universal affirmative: present in every place without exception. Used for things that are all-pervasive — technology, a scent, an influence. 他的影响力无处不在。"His influence is everywhere." Common in journalism and commentary.</span>
+        <span class="cy-note">Lit: no-place-not-present. The double negative (无处 "no place" + 不在 "not present") creates a strong universal affirmative: present in every place without exception. Used for things that are all-pervasive , technology, a scent, an influence. 他的影响力无处不在。"His influence is everywhere." Common in journalism and commentary.</span>
       </div>
 
       <div class="cy">
         <span class="cy-cn">心不在焉</span>
         <span class="cy-py">xīn bù zài yān</span>
         <span class="cy-en">absent-minded; not mentally present</span>
-        <span class="cy-note">Lit: heart-not-present-there. 焉 yān is a classical demonstrative "there." The heart/mind (心 xīn — the seat of consciousness in Chinese tradition) is absent from the place where the body sits. Used to describe distraction, daydreaming, or emotional distance during a conversation or task. 他上课时总是心不在焉。"He's always absent-minded in class." A classic chengyu still in active daily use.</span>
+        <span class="cy-note">Lit: heart-not-present-there. 焉 yān is a classical demonstrative "there." The heart/mind (心 xīn , the seat of consciousness in Chinese tradition) is absent from the place where the body sits. Used to describe distraction, daydreaming, or emotional distance during a conversation or task. 他上课时总是心不在焉。"He's always absent-minded in class." A classic chengyu still in active daily use.</span>
       </div>
 
       <div class="cy">
@@ -435,7 +435,7 @@ content_sources:
         <span class="cy-cn">事在人为</span>
         <span class="cy-py">shì zài rén wéi</span>
         <span class="cy-en">things depend on human effort — nothing is impossible with effort</span>
-        <span class="cy-note">Lit: matters-located-in-human-doing. The outcome of things lies in human action, not fate or circumstance. An optimistic proverb of agency: no matter how difficult, the result is in human hands. 不要灰心，事在人为。"Don't despair — it's all about what people do." Frequently used as encouragement when someone feels powerless.</span>
+        <span class="cy-note">Lit: matters-located-in-human-doing. The outcome of things lies in human action, not fate or circumstance. An optimistic proverb of agency: no matter how difficult, the result is in human hands. 不要灰心，事在人为。"Don't despair , it's all about what people do." Frequently used as encouragement when someone feels powerless.</span>
       </div>
 
     </div>
@@ -466,7 +466,7 @@ content_sources:
 
     <div class="scholar" data-glyph="在">
       <div class="scholar-label">记忆法 jìyìfǎ · Master Retention Image</div>
-      <p>Picture a seedling — a single green shoot breaking through earth. That is <strong>在 zài</strong>: grounded, present, here. The seedling doesn't wander. It is exactly where it is, rooted in this particular patch of soil. Every use of 在 carries that presence: a person is at a location, an action is happening now, attention is located within something, the key point is where it lies.</p>
+      <p>Picture a seedling , a single green shoot breaking through earth. That is <strong>在 zài</strong>: grounded, present, here. The seedling doesn't wander. It is exactly where it is, rooted in this particular patch of soil. Every use of 在 carries that presence: a person is at a location, an action is happening now, attention is located within something, the key point is where it lies.</p>
       <p>The contrast with 有: 有 announces existence ("there is a seedling here"); 在 locates the known ("the seedling is here"). One introduces; the other places. The seedling was unknown until 有 told you it existed; 在 tells you exactly which patch of earth it is rooted in. Together, 有 and 在 cover most of what English speakers need "to be" to do, split across two characters, each doing its half with precision.</p>
     </div>
 

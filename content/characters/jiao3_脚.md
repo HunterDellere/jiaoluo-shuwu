@@ -110,12 +110,12 @@ content_sources:
 
     <div class="scholar" data-glyph="脚">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
-      <p><strong>脚 = ⺼ (ròu, flesh) + 却 (què)</strong> — a classic pictophonetic. The radical ⺼ is the "flesh form" of 肉 (ròu, meat), the same component that anchors the entire body-part vocabulary of Chinese: 脸 face, 腿 leg, 肚 belly, 肝 liver, 肺 lung, 胃 stomach, 腰 waist, 背 back. Whenever you see ⺼ on the left of a character, you are looking at a body part. The right-hand 却 supplies the sound (the modern reading què has drifted from the original jiǎo, but the phonetic relation is reconstructable in older Chinese).</p>
-      <p>Note the visual confusion: ⺼ (flesh) and 月 (moon, yuè) look identical in modern fonts. They are historically distinct components — the moon-radical sits in 明 míng "bright," 朝 cháo "dawn," 期 qī "period"; the flesh-radical sits in body parts. In handwriting some traditions distinguish them by the angle of the inner strokes; in print they have merged. Knowing the difference is one of the first quiet steps from beginner to intermediate Chinese: when you see ⺼ on the left of a character, default to <em>body part</em>.</p>
+      <p><strong>脚 = ⺼ (ròu, flesh) + 却 (què)</strong> , a classic pictophonetic. The radical ⺼ is the "flesh form" of 肉 (ròu, meat), the same component that anchors the entire body-part vocabulary of Chinese: 脸 face, 腿 leg, 肚 belly, 肝 liver, 肺 lung, 胃 stomach, 腰 waist, 背 back. Whenever you see ⺼ on the left of a character, you are looking at a body part. The right-hand 却 supplies the sound (the modern reading què has drifted from the original jiǎo, but the phonetic relation is reconstructable in older Chinese).</p>
+      <p>Note the visual confusion: ⺼ (flesh) and 月 (moon, yuè) look identical in modern fonts. They are historically distinct components , the moon-radical sits in 明 míng "bright," 朝 cháo "dawn," 期 qī "period"; the flesh-radical sits in body parts. In handwriting some traditions distinguish them by the angle of the inner strokes; in print they have merged. Knowing the difference is one of the first quiet steps from beginner to intermediate Chinese: when you see ⺼ on the left of a character, default to <em>body part</em>.</p>
       <p>The character carries two semantic lives that grew from the literal foot:</p>
-      <p><strong>1. The body part.</strong> The everyday word for the foot of a human or animal — and, in much colloquial Chinese, the entire leg as well. (Standard medical Chinese keeps 脚 = foot and 腿 tuǐ = leg distinct, but spoken usage often blurs them.)<br>
+      <p><strong>1. The body part.</strong> The everyday word for the foot of a human or animal , and, in much colloquial Chinese, the entire leg as well. (Standard medical Chinese keeps 脚 = foot and 腿 tuǐ = leg distinct, but spoken usage often blurs them.)<br>
       <strong>2. The base.</strong> Anything that has a "foot" in the metaphorical sense: 山脚 the foot of a mountain, 墙脚 the foot of a wall, 注脚 a footnote, 脚本 a script (the "foot-text," what the actor stands on).</p>
-      <p>The compound <a href="../../pages/characters/zu2_足.html">足</a> zú is the literary and classical counterpart — and the actual Kangxi radical for foot characters (跑 to run, 跳 to jump, 跨 to stride). 脚 is the everyday colloquial word; 足 is the classical, formal, and radical-bearing word. Both mean "foot," but you walk on 脚 and you read about 足.</p>
+      <p>The compound <a href="../../pages/characters/zu2_足.html">足</a> zú is the literary and classical counterpart , and the actual Kangxi radical for foot characters (跑 to run, 跳 to jump, 跨 to stride). 脚 is the everyday colloquial word; 足 is the classical, formal, and radical-bearing word. Both mean "foot," but you walk on 脚 and you read about 足.</p>
     </div>
 
     <!-- ── WORD-FORMATION ── -->
@@ -179,13 +179,13 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          脚 jiǎo + 下 xià (below). Literally <em>under the foot</em> — the immediate ground one is standing on. By extension, "right here, right now," especially in the older expression 脚下 used for the immediate present.
+          脚 jiǎo + 下 xià (below). Literally <em>under the foot</em> , the immediate ground one is standing on. By extension, "right here, right now," especially in the older expression 脚下 used for the immediate present.
         </div>
         <div class="examples">
           <div class="example">
             <div class="ex-cn">小心脚下，路滑。</div>
             <div class="ex-py">Xiǎoxīn jiǎoxià, lù huá.</div>
-            <div class="ex-en">Watch your step — the road's slippery.</div>
+            <div class="ex-en">Watch your step , the road's slippery.</div>
           </div>
         </div>
       </div>
@@ -212,7 +212,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-adj">Adj/Adv 形容词</span></div>
         <div class="card-def">
-          赤 chì (red; bare; naked) + 脚. <em>Bare-footed</em>. Famously the term in <strong>赤脚医生</strong> chìjiǎo yīshēng, the "barefoot doctors" of the Mao-era rural healthcare program — village paramedics with minimal training who made primary care available across the countryside.
+          赤 chì (red; bare; naked) + 脚. <em>Bare-footed</em>. Famously the term in <strong>赤脚医生</strong> chìjiǎo yīshēng, the "barefoot doctors" of the Mao-era rural healthcare program , village paramedics with minimal training who made primary care available across the countryside.
         </div>
         <div class="examples">
           <div class="example">
@@ -232,7 +232,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          脚 jiǎo + 趾 zhǐ (toe; finger of the foot). The standard word for toe. Note the partner term: 手指 shǒuzhǐ "finger" (literally "hand-finger") — Chinese carefully distinguishes hand-fingers from foot-fingers.
+          脚 jiǎo + 趾 zhǐ (toe; finger of the foot). The standard word for toe. Note the partner term: 手指 shǒuzhǐ "finger" (literally "hand-finger") , Chinese carefully distinguishes hand-fingers from foot-fingers.
         </div>
       </div>
 
@@ -249,7 +249,7 @@ content_sources:
 
     <div class="scholar" data-glyph="脚">
       <div class="scholar-label">语义洞见 yǔyì dòngjiàn · Semantic Insight</div>
-      <p>The metaphorical extension from <em>foot of an animal</em> to <em>foot of any standing thing</em> mirrors the English usage almost exactly — and is so natural across human languages that you can read most of these compounds the first time you meet them. Mountains have feet (山脚), walls have feet (墙脚), pages have footnotes (注脚), scripts have feet because they were originally read at the foot of the page (脚本). The character has quietly become Chinese's all-purpose word for <em>the bottom on which something stands.</em></p>
+      <p>The metaphorical extension from <em>foot of an animal</em> to <em>foot of any standing thing</em> mirrors the English usage almost exactly , and is so natural across human languages that you can read most of these compounds the first time you meet them. Mountains have feet (山脚), walls have feet (墙脚), pages have footnotes (注脚), scripts have feet because they were originally read at the foot of the page (脚本). The character has quietly become Chinese's all-purpose word for <em>the bottom on which something stands.</em></p>
     </div>
 
     <div class="cards">
@@ -263,7 +263,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          山 shān (mountain) + 脚. The base of a mountain — where the slope meets the plain, where villages and trailheads sit. Standard geographical vocabulary.
+          山 shān (mountain) + 脚. The base of a mountain , where the slope meets the plain, where villages and trailheads sit. Standard geographical vocabulary.
         </div>
         <div class="examples">
           <div class="example">
@@ -283,7 +283,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          墙 qiáng (wall) + 脚. The base of a wall. The figurative idiom <strong>挖墙脚</strong> wā qiángjiǎo "to dig at the foot of the wall" means to undermine someone — poach their staff, steal their partner, erode their support — by attacking the foundation rather than confronting the wall directly.
+          墙 qiáng (wall) + 脚. The base of a wall. The figurative idiom <strong>挖墙脚</strong> wā qiángjiǎo "to dig at the foot of the wall" means to undermine someone , poach their staff, steal their partner, erode their support , by attacking the foundation rather than confronting the wall directly.
         </div>
         <div class="examples">
           <div class="example">
@@ -316,7 +316,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          脚 jiǎo + 本 běn (root; book; basis). The script for a play, film, or shoot — and, in the modern technical vocabulary, a programming script (a JavaScript file is a JS 脚本). The 脚 here gestures at the <em>foundational text</em> that the performance or program is built on.
+          脚 jiǎo + 本 běn (root; book; basis). The script for a play, film, or shoot , and, in the modern technical vocabulary, a programming script (a JavaScript file is a JS 脚本). The 脚 here gestures at the <em>foundational text</em> that the performance or program is built on.
         </div>
         <div class="examples">
           <div class="example">
@@ -336,7 +336,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          阵 zhèn (battle formation) + 脚. The <em>foot of the battle line</em> — the structural integrity of a position. The common idiom <strong>乱了阵脚</strong> luàn le zhènjiǎo "to lose one's footing" describes the moment a debater, athlete, or general is rattled and the formation collapses.
+          阵 zhèn (battle formation) + 脚. The <em>foot of the battle line</em> , the structural integrity of a position. The common idiom <strong>乱了阵脚</strong> luàn le zhènjiǎo "to lose one's footing" describes the moment a debater, athlete, or general is rattled and the formation collapses.
         </div>
       </div>
 
@@ -362,7 +362,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-v">V 动词 dòngcí</span></div>
         <div class="card-def">
-          落 luò (to fall; to land) + 脚. To <em>set the foot down</em> after travel — to find a place to stay, to settle in temporarily or permanently. 在北京落脚 "to settle in Beijing" (especially as a newcomer); 落脚点 luòjiǎodiǎn "a place to settle, a foothold."
+          落 luò (to fall; to land) + 脚. To <em>set the foot down</em> after travel , to find a place to stay, to settle in temporarily or permanently. 在北京落脚 "to settle in Beijing" (especially as a newcomer); 落脚点 luòjiǎodiǎn "a place to settle, a foothold."
         </div>
         <div class="examples">
           <div class="example">
@@ -382,13 +382,13 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-v">V 动词短语</span></div>
         <div class="card-def">
-          插 chā (to insert) + 一 yī (one) + 脚. To <em>stick a foot in</em> where it wasn't invited — usually meddlesome but sometimes opportunistic. Cousin of English "to put one's foot in." Often pejorative.
+          插 chā (to insert) + 一 yī (one) + 脚. To <em>stick a foot in</em> where it wasn't invited , usually meddlesome but sometimes opportunistic. Cousin of English "to put one's foot in." Often pejorative.
         </div>
         <div class="examples">
           <div class="example">
             <div class="ex-cn">这事跟你无关，别插一脚。</div>
             <div class="ex-py">Zhè shì gēn nǐ wúguān, bié chā yī jiǎo.</div>
-            <div class="ex-en">This has nothing to do with you — don't get involved.</div>
+            <div class="ex-en">This has nothing to do with you , don't get involved.</div>
           </div>
         </div>
       </div>
@@ -402,7 +402,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-v">V 动词 dòngcí</span></div>
         <div class="card-def">
-          歇 xiē (to rest) + 脚. The classic verb for stopping during a long walk or trip — at a tea-house, an inn, a roadside pavilion. Carries the texture of pre-modern travel; still used for any pause on a long journey.
+          歇 xiē (to rest) + 脚. The classic verb for stopping during a long walk or trip , at a tea-house, an inn, a roadside pavilion. Carries the texture of pre-modern travel; still used for any pause on a long journey.
         </div>
         <div class="examples">
           <div class="example">
@@ -450,7 +450,7 @@ content_sources:
         <span class="cy-cn">手忙脚乱</span>
         <span class="cy-py">shǒu máng jiǎo luàn</span>
         <span class="cy-en">hands busy, feet in disarray — flustered, scrambling, all-over-the-place</span>
-        <span class="cy-note">Lit: hands-busy-feet-disordered. The standard four-character description of someone overwhelmed by simultaneous tasks. The body parts split between two binomes — 手 with 忙 (busy), 脚 with 乱 (chaotic) — capture the texture of panic perfectly.</span>
+        <span class="cy-note">Lit: hands-busy-feet-disordered. The standard four-character description of someone overwhelmed by simultaneous tasks. The body parts split between two binomes , 手 with 忙 (busy), 脚 with 乱 (chaotic) , capture the texture of panic perfectly.</span>
       </div>
 
       <div class="cy">

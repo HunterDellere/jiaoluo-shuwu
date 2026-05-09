@@ -64,7 +64,7 @@ content_sources:
       <span class="topic-hero-eyebrow">Vocabulary · 词汇 cíhuì</span>
       <h1 class="topic-hero-title">方向</h1>
       <span class="topic-hero-title-py">fāng xiàng</span>
-      <p class="topic-hero-desc">The compound that holds together compass-bearing and life-bearing. 方 names a direction as a square sector of space — north, south, east, west, and the spaces between. 向 names the act of <em>facing toward</em>. Joined, 方向 is both the heading on a map and the orientation of an effort, a project, a life. To "have a 方向" in Chinese is to know what one is facing toward; to "lose 方向" is to drift.</p>
+      <p class="topic-hero-desc">The compound that holds together compass-bearing and life-bearing. 方 names a direction as a square sector of space , north, south, east, west, and the spaces between. 向 names the act of <em>facing toward</em>. Joined, 方向 is both the heading on a map and the orientation of an effort, a project, a life. To "have a 方向" in Chinese is to know what one is facing toward; to "lose 方向" is to drift.</p>
     </header>
 
     <!-- ── ETYMOLOGY ── -->
@@ -77,23 +77,23 @@ content_sources:
     </div>
 
     <div class="scholar" data-glyph="方">
-      <div class="scholar-label">字源洞见 zìyuán dòngjiàn · 方 — Square, Region, Direction</div>
+      <div class="scholar-label">字源洞见 zìyuán dòngjiàn · 方 , Square, Region, Direction</div>
       <p><strong>方 fāng</strong> is one of the oldest characters in regular use, attested from the oracle bones in a form depicting a plow or a square frame. The core meaning is <em>square</em>, and from the geometry of squareness the meanings radiate outward:</p>
-      <p>(1) <strong>square</strong> — 方形 (square shape), 长方 (rectangle), 方块字 (square-block characters, i.e. hanzi).<br>
-      (2) <strong>region; quarter; locality</strong> — 地方 (place), 四方 (the four quarters), 远方 (a distant place).<br>
-      (3) <strong>cardinal direction</strong> — 东方 (east), 西方 (west), 南方 (south), 北方 (north).<br>
-      (4) <strong>method; way; recipe</strong> — 方法 (method), 药方 (prescription), 配方 (formula).<br>
-      (5) <strong>just; about to (adverb)</strong> — 方才 (just now), 方兴未艾 (in full swing, not yet finished).</p>
+      <p>(1) <strong>square</strong> , 方形 (square shape), 长方 (rectangle), 方块字 (square-block characters, i.e. hanzi).<br>
+      (2) <strong>region; quarter; locality</strong> , 地方 (place), 四方 (the four quarters), 远方 (a distant place).<br>
+      (3) <strong>cardinal direction</strong> , 东方 (east), 西方 (west), 南方 (south), 北方 (north).<br>
+      (4) <strong>method; way; recipe</strong> , 方法 (method), 药方 (prescription), 配方 (formula).<br>
+      (5) <strong>just; about to (adverb)</strong> , 方才 (just now), 方兴未艾 (in full swing, not yet finished).</p>
       <p>The thread connecting all these is the idea of a <em>bounded sector</em>: a square has sides; a region has borders; a direction has a side of the world to which it points; a method has its proper procedure. The character carries spatial logic into nearly every domain.</p>
     </div>
 
     <div class="scholar" data-glyph="向">
-      <div class="scholar-label">字源洞见 zìyuán dòngjiàn · 向 — Facing, Toward</div>
-      <p><strong>向 xiàng</strong> originally depicted a window in a wall — the small opening one looks out of and that one's room <em>faces toward</em>. The character thus comes pre-loaded with the sense of <em>directional facing</em>. Its modern meanings:</p>
-      <p>(1) <strong>toward; facing</strong> — 向东 (toward the east), 面向 (to face), 朝向 (oriented toward).<br>
-      (2) <strong>direction; tendency</strong> — 方向, 趋向 (tendency), 走向 (the way something heads).<br>
-      (3) <strong>preposition: to (someone)</strong> — 向他借钱 (to borrow money from him), 向你学习 (to learn from you).<br>
-      (4) <strong>previously; always (literary)</strong> — 一向 (consistently), 向来 (all along).</p>
+      <div class="scholar-label">字源洞见 zìyuán dòngjiàn · 向 , Facing, Toward</div>
+      <p><strong>向 xiàng</strong> originally depicted a window in a wall , the small opening one looks out of and that one's room <em>faces toward</em>. The character thus comes pre-loaded with the sense of <em>directional facing</em>. Its modern meanings:</p>
+      <p>(1) <strong>toward; facing</strong> , 向东 (toward the east), 面向 (to face), 朝向 (oriented toward).<br>
+      (2) <strong>direction; tendency</strong> , 方向, 趋向 (tendency), 走向 (the way something heads).<br>
+      (3) <strong>preposition: to (someone)</strong> , 向他借钱 (to borrow money from him), 向你学习 (to learn from you).<br>
+      (4) <strong>previously; always (literary)</strong> , 一向 (consistently), 向来 (all along).</p>
       <p>The compound <strong>方向</strong> joins 方 (the bounded sector of space) and 向 (the act of facing toward it). The result names not just <em>where</em> something points but <em>the orientation toward a region</em>. This is why the word reaches so easily into the figurative register: a life can have a 方向 the way a ship has a heading.</p>
     </div>
 
@@ -108,19 +108,19 @@ content_sources:
 
     <div class="scholar" data-glyph="方">
       <div class="scholar-label">文化洞见 wénhuà dòngjiàn · The Chinese Compass</div>
-      <p>Chinese spatial sense is built on a four-fold (and then eight-fold) compass that has been culturally stable for over three thousand years. The four primary directions are <strong>东 dōng (east), 南 nán (south), 西 xī (west), 北 běi (north)</strong>; the four corners add up to the eight directions of <strong>八方 bāfāng</strong>. The classical convention places south at the top of maps (an emperor faces south to receive his ministers — 南面), the opposite of the European north-up convention.</p>
+      <p>Chinese spatial sense is built on a four-fold (and then eight-fold) compass that has been culturally stable for over three thousand years. The four primary directions are <strong>东 dōng (east), 南 nán (south), 西 xī (west), 北 běi (north)</strong>; the four corners add up to the eight directions of <strong>八方 bāfāng</strong>. The classical convention places south at the top of maps (an emperor faces south to receive his ministers , 南面), the opposite of the European north-up convention.</p>
       <p>Each cardinal direction carries an entire matrix of associations from the <a href="../../pages/science/topic_wuxing.html">Five Phases (五行)</a> system: east/wood/spring/Azure Dragon, south/fire/summer/Vermilion Bird, west/metal/autumn/White Tiger, north/water/winter/Black Tortoise, and center/earth as the still point. To name a direction in classical Chinese is to invoke a season, a color, an element, and a guardian beast.</p>
-      <p>The four-direction frame is the basis of nearly every Chinese spatial expression: 四方 (the four quarters → "everywhere"), 四面八方 (from all directions), 五湖四海 (the five lakes and four seas → "all over the world"), 一方 (one quarter, by extension "one side, one party"). Modern political and journalistic vocabulary still recycles these classical templates — 各方 (each side), 双方 (both sides), 多方 (multiple parties).</p>
+      <p>The four-direction frame is the basis of nearly every Chinese spatial expression: 四方 (the four quarters → "everywhere"), 四面八方 (from all directions), 五湖四海 (the five lakes and four seas → "all over the world"), 一方 (one quarter, by extension "one side, one party"). Modern political and journalistic vocabulary still recycles these classical templates , 各方 (each side), 双方 (both sides), 多方 (multiple parties).</p>
     </div>
 
     <div class="pattern">
       <span class="label">方位词 fāngwèicí · Cardinal &amp; Positional Vocabulary</span>
-      <strong>四方</strong> sì fāng — the four cardinal directions; "everywhere"<br>
-      <strong>八方</strong> bā fāng — the eight directions (four cardinal + four corners)<br>
+      <strong>四方</strong> sì fāng , the four cardinal directions; "everywhere"<br>
+      <strong>八方</strong> bā fāng , the eight directions (four cardinal + four corners)<br>
       <strong>东方</strong> dōngfāng east · <strong>西方</strong> xīfāng west · <strong>南方</strong> nánfāng south · <strong>北方</strong> běifāng north<br>
       <strong>东南</strong> dōngnán southeast · <strong>西南</strong> xīnán southwest · <strong>东北</strong> dōngběi northeast · <strong>西北</strong> xīběi northwest<br>
-      <strong>地方</strong> dìfāng — place, locality (literally "earth + region")<br>
-      <strong>远方</strong> yuǎnfāng — distant place · <strong>对方</strong> duìfāng — the other party · <strong>双方</strong> shuāngfāng — both parties
+      <strong>地方</strong> dìfāng , place, locality (literally "earth + region")<br>
+      <strong>远方</strong> yuǎnfāng , distant place · <strong>对方</strong> duìfāng , the other party · <strong>双方</strong> shuāngfāng , both parties
     </div>
 
     <!-- ── LITERAL HEADING ── -->
@@ -166,7 +166,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词</span></div>
         <div class="card-def">
-          方向 + 感 (gǎn, sense; feeling). The personal faculty of knowing where you are in space — and, by extension, where your life or project is heading. Used both literally (in conversations about getting lost) and figuratively (about clarity of purpose).
+          方向 + 感 (gǎn, sense; feeling). The personal faculty of knowing where you are in space , and, by extension, where your life or project is heading. Used both literally (in conversations about getting lost) and figuratively (about clarity of purpose).
         </div>
         <div class="examples">
           <div class="example">
@@ -190,7 +190,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词</span></div>
         <div class="card-def">
-          方 (region) + 位 (position). More technical than 方向: a fixed cardinal bearing rather than a heading. Used in geography, military, navigation, and feng shui contexts. 方位词 (fāngwèicí) is the grammatical category of "position words" — 上 above, 下 below, 前 front, 后 back, 左 left, 右 right.
+          方 (region) + 位 (position). More technical than 方向: a fixed cardinal bearing rather than a heading. Used in geography, military, navigation, and feng shui contexts. 方位词 (fāngwèicí) is the grammatical category of "position words" , 上 above, 下 below, 前 front, 后 back, 左 left, 右 right.
         </div>
         <div class="examples">
           <div class="example">
@@ -234,11 +234,11 @@ content_sources:
     <div class="scholar" data-glyph="向">
       <div class="scholar-label">语义扩展 yǔyì kuòzhǎn · Semantic Extension</div>
       <p>The figurative use of 方向 is so common that it nearly outweighs the literal one. In Chinese, almost any structured undertaking can have a 方向, and the absence of one is a recognizable kind of trouble:</p>
-      <p>— <strong>人生方向</strong> rénshēng fāngxiàng — the direction of one's life. A standard topic in self-help writing, graduation speeches, and tearful conversations between parents and 18-year-olds.<br>
-      — <strong>研究方向</strong> yánjiū fāngxiàng — research direction. The standard term in Chinese academia for one's specialty or thesis topic; on a CV, every PhD lists their 研究方向.<br>
-      — <strong>发展方向</strong> fāzhǎn fāngxiàng — direction of development. A staple phrase in policy and business writing — "the direction in which the industry/country/company is heading."<br>
-      — <strong>政治方向</strong> zhèngzhì fāngxiàng — political direction. A key term in Chinese Communist Party discourse: keeping the correct 政治方向 is one of the most-repeated obligations of cadres.<br>
-      — <strong>失去方向</strong> shīqù fāngxiàng — to lose one's direction. A standard phrase for personal crisis, organizational confusion, or political drift.</p>
+      <p>— <strong>人生方向</strong> rénshēng fāngxiàng , the direction of one's life. A standard topic in self-help writing, graduation speeches, and tearful conversations between parents and 18-year-olds.<br>
+      , <strong>研究方向</strong> yánjiū fāngxiàng , research direction. The standard term in Chinese academia for one's specialty or thesis topic; on a CV, every PhD lists their 研究方向.<br>
+      , <strong>发展方向</strong> fāzhǎn fāngxiàng , direction of development. A staple phrase in policy and business writing , "the direction in which the industry/country/company is heading."<br>
+      , <strong>政治方向</strong> zhèngzhì fāngxiàng , political direction. A key term in Chinese Communist Party discourse: keeping the correct 政治方向 is one of the most-repeated obligations of cadres.<br>
+      , <strong>失去方向</strong> shīqù fāngxiàng , to lose one's direction. A standard phrase for personal crisis, organizational confusion, or political drift.</p>
       <p>The grammar of the metaphor is consistent. You can <em>have</em> a direction (有方向), <em>find</em> a direction (找到方向), <em>lose</em> a direction (失去方向), <em>change</em> a direction (改变方向), <em>indicate</em> a direction (指出方向), <em>follow</em> a direction (沿着方向走). The same verbs work for compass-bearing and for life-purpose, which is the point: in Chinese the two are linguistically the same shape.</p>
     </div>
 
@@ -309,7 +309,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-v">V 动词短语</span></div>
         <div class="card-def">
-          指 (zhǐ, to point) + 明 (míng, clear) + 方向. The fixed phrase for guidance from a teacher, leader, or authority. Common in educational and political registers — a teacher 为学生指明方向, a leader 为国家指明方向. Carries a slightly elevated, often exhortatory tone.
+          指 (zhǐ, to point) + 明 (míng, clear) + 方向. The fixed phrase for guidance from a teacher, leader, or authority. Common in educational and political registers , a teacher 为学生指明方向, a leader 为国家指明方向. Carries a slightly elevated, often exhortatory tone.
         </div>
         <div class="examples">
           <div class="example">
@@ -337,35 +337,35 @@ content_sources:
         <span class="cy-cn">四面八方</span>
         <span class="cy-py">sì miàn bā fāng</span>
         <span class="cy-en">"four faces, eight directions" — from every direction; from everywhere</span>
-        <span class="cy-note">The most common chengyu using 方. 四面 (the four faces of a square; the four sides) + 八方 (the eight directions). Used for crowds, news, demands, attacks — anything converging from every direction. 来自四面八方的客人 (guests from all over). The classical compass system shows through clearly: the four-fold and eight-fold partitions of space are still doing real work in everyday metaphor.</span>
+        <span class="cy-note">The most common chengyu using 方. 四面 (the four faces of a square; the four sides) + 八方 (the eight directions). Used for crowds, news, demands, attacks , anything converging from every direction. 来自四面八方的客人 (guests from all over). The classical compass system shows through clearly: the four-fold and eight-fold partitions of space are still doing real work in everyday metaphor.</span>
       </div>
 
       <div class="cy">
         <span class="cy-cn">晕头转向</span>
         <span class="cy-py">yūn tóu zhuàn xiàng</span>
         <span class="cy-en">"dizzy head, spinning direction" — disoriented; thrown off; bewildered</span>
-        <span class="cy-note">晕 (yūn, dizzy) + 头 (tóu, head) + 转 (zhuàn, to spin) + 向 (xiàng, direction). The character 向 alone — not 方向 — is doing the directional work in the chengyu. Used when someone is overwhelmed, confused, or has lost track of what is going on. Very common in everyday speech: 我被他问得晕头转向 "His questions left me completely bewildered."</span>
+        <span class="cy-note">晕 (yūn, dizzy) + 头 (tóu, head) + 转 (zhuàn, to spin) + 向 (xiàng, direction). The character 向 alone , not 方向 , is doing the directional work in the chengyu. Used when someone is overwhelmed, confused, or has lost track of what is going on. Very common in everyday speech: 我被他问得晕头转向 "His questions left me completely bewildered."</span>
       </div>
 
       <div class="cy">
         <span class="cy-cn">辨方正位</span>
         <span class="cy-py">biàn fāng zhèng wèi</span>
         <span class="cy-en">"to discern direction and rectify position" — to orient oneself correctly before acting</span>
-        <span class="cy-note">From the <em>Zhouli</em> (周礼). The phrase belongs to the rituals of city-founding and palace-construction: before laying the foundations, the official must determine the cardinal directions and align the building correctly. By extension, in any major undertaking, one must first establish one's bearings. A high-register, slightly archaic chengyu — appears in formal speeches and policy writing about strategic planning.</span>
+        <span class="cy-note">From the <em>Zhouli</em> (周礼). The phrase belongs to the rituals of city-founding and palace-construction: before laying the foundations, the official must determine the cardinal directions and align the building correctly. By extension, in any major undertaking, one must first establish one's bearings. A high-register, slightly archaic chengyu , appears in formal speeches and policy writing about strategic planning.</span>
       </div>
 
       <div class="cy">
         <span class="cy-cn">改弦易辙</span>
         <span class="cy-py">gǎi xián yì zhé</span>
         <span class="cy-en">"change the bowstring, switch the wheel-rut" — to change direction; to take a new approach</span>
-        <span class="cy-note">改 (change) + 弦 (xián, bowstring) + 易 (change) + 辙 (zhé, wheel-rut). The two halves are parallel images of changing tools and changing track. Used for any decisive shift in policy, method, or life-direction. Carries no negative connotation in itself — it can be praise (someone with the courage to change course) or critique (someone who flip-flops), depending on context.</span>
+        <span class="cy-note">改 (change) + 弦 (xián, bowstring) + 易 (change) + 辙 (zhé, wheel-rut). The two halves are parallel images of changing tools and changing track. Used for any decisive shift in policy, method, or life-direction. Carries no negative connotation in itself , it can be praise (someone with the courage to change course) or critique (someone who flip-flops), depending on context.</span>
       </div>
 
       <div class="cy">
         <span class="cy-cn">南辕北辙</span>
         <span class="cy-py">nán yuán běi zhé</span>
         <span class="cy-en">"the carriage shaft points south, the wheel-ruts point north" — heading in the opposite direction from the goal</span>
-        <span class="cy-note">From the <em>Zhanguo Ce</em> (战国策). A man tells a friend he is going to the southern state of Chu; his friend points out his carriage is pointing north. The man insists his horses are fast, his carriage is sturdy, his driver is skilled — never realizing that the better the equipment, the further it carries him in the wrong direction. The chengyu names the precise predicament: doing everything right while pointed wrong. Frequent in business and political commentary.</span>
+        <span class="cy-note">From the <em>Zhanguo Ce</em> (战国策). A man tells a friend he is going to the southern state of Chu; his friend points out his carriage is pointing north. The man insists his horses are fast, his carriage is sturdy, his driver is skilled , never realizing that the better the equipment, the further it carries him in the wrong direction. The chengyu names the precise predicament: doing everything right while pointed wrong. Frequent in business and political commentary.</span>
       </div>
 
     </div>

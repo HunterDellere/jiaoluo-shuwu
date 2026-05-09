@@ -139,13 +139,13 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          中 Zhōng (China; middle) + 文 wén (language; writing). The most common general term for the Chinese language. Interchangeable with 汉语 Hànyǔ (Han Chinese language — emphasizes the ethnic/linguistic sense) in most contexts. 学中文 = "to study Chinese." 中文菜单 = "Chinese-language menu." The choice between 中文 and 汉语 is often context-dependent: 中文 is more common in everyday contexts; 汉语 is used in linguistics and formal descriptions.
+          中 Zhōng (China; middle) + 文 wén (language; writing). The most common general term for the Chinese language. Interchangeable with 汉语 Hànyǔ (Han Chinese language , emphasizes the ethnic/linguistic sense) in most contexts. 学中文 = "to study Chinese." 中文菜单 = "Chinese-language menu." The choice between 中文 and 汉语 is often context-dependent: 中文 is more common in everyday contexts; 汉语 is used in linguistics and formal descriptions.
         </div>
         <div class="examples">
           <div class="example">
             <div class="ex-cn">我学中文已经三年了，进步很大。</div>
             <div class="ex-py">Wǒ xué Zhōngwén yǐjīng sān nián le, jìnbù hěn dà.</div>
-            <div class="ex-en">I have been studying Chinese for three years now — I've made a lot of progress.</div>
+            <div class="ex-en">I have been studying Chinese for three years now , I've made a lot of progress.</div>
           </div>
         </div>
       </div>
@@ -158,7 +158,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          文 wén (writing; pattern) + 化 huà (to transform; to become). Culture as the transformation of humanity through learning and civilization. One of the most widely used words in modern Chinese — appears in: 文化遗产 (cultural heritage), 文化差异 (cultural difference), 文化大革命 (Cultural Revolution), 文化冲突 (culture clash), 文化自信 (cultural confidence — current political phrase). 没文化 méi wénhuà = uneducated, uncultured (colloquial criticism).
+          文 wén (writing; pattern) + 化 huà (to transform; to become). Culture as the transformation of humanity through learning and civilization. One of the most widely used words in modern Chinese , appears in: 文化遗产 (cultural heritage), 文化差异 (cultural difference), 文化大革命 (Cultural Revolution), 文化冲突 (culture clash), 文化自信 (cultural confidence , current political phrase). 没文化 méi wénhuà = uneducated, uncultured (colloquial criticism).
         </div>
         <div class="examples">
           <div class="example">
@@ -177,7 +177,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span><span class="tag tag-adj">Adj 形容词</span></div>
         <div class="card-def">
-          文 wén (culture; pattern) + 明 míng (bright; clear). Civilization — both the noun (中华文明 = Chinese civilization) and the adjective (文明行为 = civilized behavior; 请文明乘车 = "please behave civilly on public transit" — a common sign on buses and subways). 不文明 = uncivilized, rude behavior. The word carries both the historical-cultural meaning and an everyday behavioral meaning.
+          文 wén (culture; pattern) + 明 míng (bright; clear). Civilization , both the noun (中华文明 = Chinese civilization) and the adjective (文明行为 = civilized behavior; 请文明乘车 = "please behave civilly on public transit" — a common sign on buses and subways). 不文明 = uncivilized, rude behavior. The word carries both the historical-cultural meaning and an everyday behavioral meaning.
         </div>
         <div class="examples">
           <div class="example">

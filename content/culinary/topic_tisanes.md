@@ -63,7 +63,7 @@ related:
       <span class="topic-hero-eyebrow">Culinary · 饮食 yǐnshí</span>
       <h1 class="topic-hero-title">花草茶</h1>
       <span class="topic-hero-title-py">huā cǎo chá</span>
-      <p class="topic-hero-desc">Not tea — but often called tea. The world of Chinese herbal infusions, floral teas, and medicinal brews that share the cup but not the leaf of <em>Camellia sinensis</em>.</p>
+      <p class="topic-hero-desc">Not tea , but often called tea. The world of Chinese herbal infusions, floral teas, and medicinal brews that share the cup but not the leaf of <em>Camellia sinensis</em>.</p>
     </header>
 
     <span class="section-anchor" id="distinction"></span>
@@ -92,7 +92,7 @@ related:
     <div class="cards">
       <div class="card c-violet">
         <div class="card-head">菊花茶 Júhuā Chá · Chrysanthemum</div>
-        <p>The most widely consumed floral tisane in China — whole dried chrysanthemum flowers steeped in hot water, producing a pale gold, slightly sweet, mildly bitter infusion. Standard in Cantonese tea houses as an accompaniment to dim sum. In TCM classification, chrysanthemum is considered "cooling" (清热 qīng rè) — it clears internal heat, benefits the eyes, and soothes headaches. Often combined with wolfberries (枸杞 gǒuqǐ) for eye health, or with honeysuckle (金银花 jīnyínhuā) for clearing fever. Hangzhou chrysanthemum (杭菊 háng jú) is considered the finest grade.</p>
+        <p>The most widely consumed floral tisane in China , whole dried chrysanthemum flowers steeped in hot water, producing a pale gold, slightly sweet, mildly bitter infusion. Standard in Cantonese tea houses as an accompaniment to dim sum. In TCM classification, chrysanthemum is considered "cooling" (清热 qīng rè) , it clears internal heat, benefits the eyes, and soothes headaches. Often combined with wolfberries (枸杞 gǒuqǐ) for eye health, or with honeysuckle (金银花 jīnyínhuā) for clearing fever. Hangzhou chrysanthemum (杭菊 háng jú) is considered the finest grade.</p>
       </div>
       <div class="card c-violet">
         <div class="card-head">桂花茶 Guìhuā Chá · Osmanthus</div>
@@ -100,7 +100,7 @@ related:
       </div>
       <div class="card c-violet">
         <div class="card-head">玫瑰花茶 Méiguī Huā Chá · Rose</div>
-        <p>Dried rose petals or buds steeped in hot water — particularly 平阴玫瑰 Píngyīn méiguī, the deep crimson cultivar from Shandong considered the most fragrant Chinese rose for tea use. Rose is warming in TCM, promoting blood circulation and Qi movement, indicated for emotional stagnation, irregular menstruation, and digestive complaints. The deep red petals produce a pinkish to light crimson infusion with an intensely floral aroma. Widely consumed by women for these attributed benefits; frequently combined with red dates (红枣 hóng zǎo) and wolfberries.</p>
+        <p>Dried rose petals or buds steeped in hot water , particularly 平阴玫瑰 Píngyīn méiguī, the deep crimson cultivar from Shandong considered the most fragrant Chinese rose for tea use. Rose is warming in TCM, promoting blood circulation and Qi movement, indicated for emotional stagnation, irregular menstruation, and digestive complaints. The deep red petals produce a pinkish to light crimson infusion with an intensely floral aroma. Widely consumed by women for these attributed benefits; frequently combined with red dates (红枣 hóng zǎo) and wolfberries.</p>
       </div>
       <div class="card c-violet">
         <div class="card-head">洛神花茶 Luòshén Huā Chá · Hibiscus / Roselle</div>
@@ -151,7 +151,7 @@ related:
         <span class="card-py">yào shí tóng yuán</span>
         <span class="card-en">food and medicine share an origin</span>
         <span class="tag-n">concept</span>
-        <p>The foundational Chinese concept that all foods and medicines exist on a single continuum — every substance affects the body's balance of Qi, temperature, and moisture. This principle makes "herbal tea" and "herbal medicine" a matter of degree rather than kind, and explains why Chinese domestic tea culture integrates health function into daily drink choices.</p>
+        <p>The foundational Chinese concept that all foods and medicines exist on a single continuum , every substance affects the body's balance of Qi, temperature, and moisture. This principle makes "herbal tea" and "herbal medicine" a matter of degree rather than kind, and explains why Chinese domestic tea culture integrates health function into daily drink choices.</p>
       </div>
       <div class="card c-violet">
         <span class="card-cn">凉茶</span>

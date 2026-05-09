@@ -115,7 +115,7 @@ content_sources:
       </div>
       <div class="card c-teal">
         <div class="card-head">洗茶 / 醒茶 xǐ chá / xǐng chá</div>
-        <p>The first, very short infusion (5–10 seconds) that is poured away without drinking. Called "washing the tea" (洗茶) for its original rationale of removing dust; called "awakening the tea" (醒茶) for what it actually accomplishes — beginning to open tightly rolled oolongs or compressed puerh so subsequent steeps extract more evenly.</p>
+        <p>The first, very short infusion (5–10 seconds) that is poured away without drinking. Called "washing the tea" (洗茶) for its original rationale of removing dust; called "awakening the tea" (醒茶) for what it actually accomplishes , beginning to open tightly rolled oolongs or compressed puerh so subsequent steeps extract more evenly.</p>
       </div>
       <div class="card c-teal">
         <div class="card-head">悬壶高冲 xuán hú gāo chōng</div>

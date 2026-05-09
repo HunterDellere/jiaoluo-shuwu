@@ -115,7 +115,7 @@ content_sources:
 
     <div class="pattern">
       <span class="label">日期 rìqī · Date Formats Using 日</span>
-      <strong>年/月/日</strong> = year/month/day — the Chinese date order (largest to smallest):<br>
+      <strong>年/月/日</strong> = year/month/day , the Chinese date order (largest to smallest):<br>
       2026年4月19日 = April 19, 2026<br>
       <strong>日期</strong> rìqī = date · <strong>每日</strong> měirì = every day (formal) · <strong>节日</strong> jiérì = holiday/festival · <strong>假日</strong> jiàrì = holiday
     </div>

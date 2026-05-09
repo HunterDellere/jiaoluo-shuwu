@@ -118,12 +118,12 @@ content_review: 'pending'
 
     <div class="pattern">
       <span class="label">上下对比 shàng-xià contrast · spatial pairs</span>
-      <strong>上面 / 下面</strong> — above / below<br>
-      <strong>楼上 / 楼下</strong> — upstairs / downstairs<br>
-      <strong>山上 / 山下</strong> — on the mountain / at the foot of the mountain<br>
-      <strong>以上 / 以下</strong> — above a number; the above / below a number; the following<br>
-      <strong>上级 / 下级</strong> — superior / subordinate<br>
-      上下 together means "approximately" (三十上下 = around thirty) — the full range from top to bottom collapses into a rough estimate.
+      <strong>上面 / 下面</strong> , above / below<br>
+      <strong>楼上 / 楼下</strong> , upstairs / downstairs<br>
+      <strong>山上 / 山下</strong> , on the mountain / at the foot of the mountain<br>
+      <strong>以上 / 以下</strong> , above a number; the above / below a number; the following<br>
+      <strong>上级 / 下级</strong> , superior / subordinate<br>
+      上下 together means "approximately" (三十上下 = around thirty) , the full range from top to bottom collapses into a rough estimate.
     </div>
 
     <div class="cards">
@@ -136,7 +136,7 @@ content_review: 'pending'
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          下 xià (below; under) + 面 miàn (face; side; surface). The underside; what is below. Used for physical position (床下面 = under the bed) and for discourse organization (下面请看 = please see the following). In presentations and written texts, 下面 introduces what comes next — the speaker's "what's below on the page."
+          下 xià (below; under) + 面 miàn (face; side; surface). The underside; what is below. Used for physical position (床下面 = under the bed) and for discourse organization (下面请看 = please see the following). In presentations and written texts, 下面 introduces what comes next , the speaker's "what's below on the page."
         </div>
         <div class="examples">
           <div class="example">
@@ -160,7 +160,7 @@ content_review: 'pending'
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 / 副词 fùcí</span></div>
         <div class="card-def">
-          上 shàng (above) + 下 xià (below). The full vertical range — top to bottom — which collapses into an estimate of the middle. When placed after a number, it means "approximately" or "give or take." 三十上下 = around thirty. Also used literally: 上下楼梯 (going up and down stairs), 上下其手 (manipulating from both sides).
+          上 shàng (above) + 下 xià (below). The full vertical range , top to bottom , which collapses into an estimate of the middle. When placed after a number, it means "approximately" or "give or take." 三十上下 = around thirty. Also used literally: 上下楼梯 (going up and down stairs), 上下其手 (manipulating from both sides).
         </div>
         <div class="examples">
           <div class="example">
@@ -231,7 +231,7 @@ content_review: 'pending'
         </div>
         <div class="tags"><span class="tag tag-v">V 动词 dòngcí</span></div>
         <div class="card-def">
-          下 xià (to descend; to leave the higher platform) + 班 bān (shift; work roster). To come down from the work platform — to leave one's post at the end of the day. The indispensable pair of 上班. 下班后 (after work) is the default framing for evening activities in Chinese urban conversation.
+          下 xià (to descend; to leave the higher platform) + 班 bān (shift; work roster). To come down from the work platform , to leave one's post at the end of the day. The indispensable pair of 上班. 下班后 (after work) is the default framing for evening activities in Chinese urban conversation.
         </div>
         <div class="examples">
           <div class="example">
@@ -255,13 +255,13 @@ content_review: 'pending'
         </div>
         <div class="tags"><span class="tag tag-v">V 动词 dòngcí</span></div>
         <div class="card-def">
-          下 xià (to descend; to fall from above) + 雨 yǔ (rain). Rain descending from the sky. The 下 construction extends to all precipitation: 下雪 (to snow), 下冰雹 (to hail). Notably, 下 is the standard verb for precipitation in Mandarin — not "fall" or "pour" but "descend." The sky issues weather downward.
+          下 xià (to descend; to fall from above) + 雨 yǔ (rain). Rain descending from the sky. The 下 construction extends to all precipitation: 下雪 (to snow), 下冰雹 (to hail). Notably, 下 is the standard verb for precipitation in Mandarin , not "fall" or "pour" but "descend." The sky issues weather downward.
         </div>
         <div class="examples">
           <div class="example">
             <div class="ex-cn">外面下雨了，带把伞。</div>
             <div class="ex-py">Wàimiàn xià yǔ le, dài bǎ sǎn.</div>
-            <div class="ex-en">It's raining outside — take an umbrella.</div>
+            <div class="ex-en">It's raining outside , take an umbrella.</div>
           </div>
           <div class="example">
             <div class="ex-cn">下雪的时候城市很安静。</div>
@@ -285,7 +285,7 @@ content_review: 'pending'
           <div class="example">
             <div class="ex-cn">下课了，我们去打球吧！</div>
             <div class="ex-py">Xià kè le, wǒmen qù dǎ qiú ba!</div>
-            <div class="ex-en">Class is over — let's go play ball!</div>
+            <div class="ex-en">Class is over , let's go play ball!</div>
           </div>
           <div class="example">
             <div class="ex-cn">这门课几点下课？</div>
@@ -316,7 +316,7 @@ content_review: 'pending'
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          下 xià (next; the following) + 周 zhōu (week). The temporal use of 下: what descends next into the present from the future. Consistent across all time units: 下周 (next week), 下个月 (next month), 下年 / 明年 (next year). Note: 上周 (last week), 上个月 (last month) — the 上/下 pair governs tense in time expressions as well.
+          下 xià (next; the following) + 周 zhōu (week). The temporal use of 下: what descends next into the present from the future. Consistent across all time units: 下周 (next week), 下个月 (next month), 下年 / 明年 (next year). Note: 上周 (last week), 上个月 (last month) , the 上/下 pair governs tense in time expressions as well.
         </div>
         <div class="examples">
           <div class="example">
@@ -340,7 +340,7 @@ content_review: 'pending'
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 / 副词 fùcí</span></div>
         <div class="card-def">
-          当 dāng (at; facing; this very) + 下 xià (this point in the downward flow of time). The present moment — the point where time has currently descended to. 当下 has a slightly elevated, philosophical register compared to 现在 (now), and appears frequently in Buddhist and reflective contexts. 活在当下 (live in the present moment) is a common modern mindfulness phrase.
+          当 dāng (at; facing; this very) + 下 xià (this point in the downward flow of time). The present moment , the point where time has currently descended to. 当下 has a slightly elevated, philosophical register compared to 现在 (now), and appears frequently in Buddhist and reflective contexts. 活在当下 (live in the present moment) is a common modern mindfulness phrase.
         </div>
         <div class="examples">
           <div class="example">
@@ -364,7 +364,7 @@ content_review: 'pending'
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          地 dì (ground; earth) + 下 xià (below). Below the ground — both physical (地下室 basement; 地下铁 subway) and figurative (地下党 underground party; 地下工作 clandestine work). The underground as a space of concealment and secrecy draws on the same spatial logic as the character.
+          地 dì (ground; earth) + 下 xià (below). Below the ground , both physical (地下室 basement; 地下铁 subway) and figurative (地下党 underground party; 地下工作 clandestine work). The underground as a space of concealment and secrecy draws on the same spatial logic as the character.
         </div>
         <div class="examples">
           <div class="example">
@@ -397,28 +397,28 @@ content_review: 'pending'
         <span class="cy-cn">雪中送炭</span>
         <span class="cy-py">xuě zhōng sòng tàn</span>
         <span class="cy-en">"sending coal in the snow" — helping someone in genuine need at exactly the right moment</span>
-        <span class="cy-note">下雪 (it's snowing) creates the urgency. Coal (炭) arrives as rescue. Contrasted with 锦上添花 (adding flowers on brocade — a luxury gift for someone already doing well), 雪中送炭 is the necessary kindness that arrives when circumstances are dire. This is the chengyu Chinese cite when they want to distinguish a genuine act of help from one made for show.</span>
+        <span class="cy-note">下雪 (it's snowing) creates the urgency. Coal (炭) arrives as rescue. Contrasted with 锦上添花 (adding flowers on brocade , a luxury gift for someone already doing well), 雪中送炭 is the necessary kindness that arrives when circumstances are dire. This is the chengyu Chinese cite when they want to distinguish a genuine act of help from one made for show.</span>
       </div>
 
       <div class="cy">
         <span class="cy-cn">天下太平</span>
         <span class="cy-py">tiānxià tàipíng</span>
         <span class="cy-en">"all under heaven is at peace" — universal peace and order</span>
-        <span class="cy-note">天下 tiānxià (all under heaven — the entire world as governed territory) + 太平 (great peace). The ideal end-state of Confucian governance and the dream of every dynasty: a world so well-ordered that there is nothing left to struggle against. The phrase appears in classical texts, imperial proclamations, and the name of the Taiping Rebellion (太平天国 — Kingdom of Heavenly Peace, 1850–1864), which used the term as its aspirational banner.</span>
+        <span class="cy-note">天下 tiānxià (all under heaven , the entire world as governed territory) + 太平 (great peace). The ideal end-state of Confucian governance and the dream of every dynasty: a world so well-ordered that there is nothing left to struggle against. The phrase appears in classical texts, imperial proclamations, and the name of the Taiping Rebellion (太平天国 , Kingdom of Heavenly Peace, 1850–1864), which used the term as its aspirational banner.</span>
       </div>
 
       <div class="cy">
         <span class="cy-cn">上行下效</span>
         <span class="cy-py">shàng xíng xià xiào</span>
         <span class="cy-en">"what the top does, the bottom imitates" — leadership sets the moral tone</span>
-        <span class="cy-note">Shared with the 上 entry — this chengyu belongs to both characters equally. What moves 上 becomes, through 效 (imitation), the behavior of 下. The moral force flows downward through hierarchy. Used in organizational, political, and educational contexts to argue that changing culture requires changing leadership first.</span>
+        <span class="cy-note">Shared with the 上 entry , this chengyu belongs to both characters equally. What moves 上 becomes, through 效 (imitation), the behavior of 下. The moral force flows downward through hierarchy. Used in organizational, political, and educational contexts to argue that changing culture requires changing leadership first.</span>
       </div>
 
       <div class="cy">
         <span class="cy-cn">上下其手</span>
         <span class="cy-py">shàng xià qí shǒu</span>
         <span class="cy-en">"hands moving up and down" — to manipulate facts; to connive</span>
-        <span class="cy-note">From the Zuǒzhuàn (左传), Spring and Autumn period. A general signaled with his hand upward or downward to indicate whether a captured soldier was high-ranking (ransom-worthy) or low-ranking (irrelevant) — the signal determined the truth, not the facts. Now used to describe manipulating a situation through deceit and collusion. 上下 together represents the full range of manipulation.</span>
+        <span class="cy-note">From the Zuǒzhuàn (左传), Spring and Autumn period. A general signaled with his hand upward or downward to indicate whether a captured soldier was high-ranking (ransom-worthy) or low-ranking (irrelevant) , the signal determined the truth, not the facts. Now used to describe manipulating a situation through deceit and collusion. 上下 together represents the full range of manipulation.</span>
       </div>
 
     </div>
@@ -451,7 +451,7 @@ content_review: 'pending'
     <div class="scholar" data-glyph="下">
       <div class="scholar-label">记忆法 jìyìfǎ · Master Retention Image</div>
       <p>A horizontal line with a single mark placed beneath it. That is 下. Three strokes carrying everything that is lower, later, inferior, and released. The mark is not falling; it is already below, already positioned at the subordinate point.</p>
-      <p>Hold 上 and 下 side by side in your mind. 上班 (going up to work) / 下班 (coming down from work). 上课 (mounting into class) / 下课 (class descends and disperses). 上周 (last week — the week that was above this one) / 下周 (next week — the week that will descend into the present). 上面 (the top side) / 下面 (the underside). The entire working day, the entire week, the entire social hierarchy — run through the single opposition of that notch above or below the line.</p>
+      <p>Hold 上 and 下 side by side in your mind. 上班 (going up to work) / 下班 (coming down from work). 上课 (mounting into class) / 下课 (class descends and disperses). 上周 (last week , the week that was above this one) / 下周 (next week — the week that will descend into the present). 上面 (the top side) / 下面 (the underside). The entire working day, the entire week, the entire social hierarchy — run through the single opposition of that notch above or below the line.</p>
       <p>When it rains (下雨), the sky is 上 and the rain is 下. When an emperor issues a decree, he is 上 and the command goes 下. When a class ends (下课), the elevated pedagogical moment descends back to ordinary life. 下 is not merely the bottom of space — it is the direction that authority travels, that weather falls, that time approaches. Everything that comes to you, comes from 上 and arrives at 下.</p>
     </div>
 

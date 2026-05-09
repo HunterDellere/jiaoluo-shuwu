@@ -109,7 +109,7 @@ content_sources:
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
       <p>The traditional form 變 is the one to read first, because the simplified 变 has compressed so much away. 變 shows 糸 sī (silk threads) flanking a central 言 yán (speech; command), the whole structure resting on 攴 pū (a hand wielding a stick, the same striking radical found in 收 and 改). The composite image is deliberate: entangled silk threads, difficult to unravel and easily tangled again, ordered by a spoken command and driven by an active hand. Change is something forced, worked upon, never merely suffered. The silk threads are not decorative; they carry the sense that transformation involves unraveling a previous weave before a new one can be made.</p>
       <p>The simplified 变 keeps the bottom element (now written as 又 yòu, a hand) but compresses the upper portion to 亦 yì (also; equally), losing the visual drama of the silk and command. The phonetic component in the traditional form contributes to the reading biàn; the bottom 攴/又 has always marked the action. Even in oracle-bone and early bronze inscriptions, this character appears in contexts of ritual transformation and royal decree, change as something commanded from above and worked upon below.</p>
-      <p>The semantic range expanded early and stayed wide. 变 covers meteorological change (天气变了 — the weather has changed), biological transformation (毛毛虫变成蝴蝶 — the caterpillar becomes a butterfly), character change (人变了 — the person has changed), institutional reform (变法 — changing the laws), and metaphysical flux (万物皆变 — all things are in flux). The unifying sense across all uses is active, directional transformation: something that was one thing has become, is becoming, or will become another.</p>
+      <p>The semantic range expanded early and stayed wide. 变 covers meteorological change (天气变了 , the weather has changed), biological transformation (毛毛虫变成蝴蝶 , the caterpillar becomes a butterfly), character change (人变了 , the person has changed), institutional reform (变法 , changing the laws), and metaphysical flux (万物皆变 , all things are in flux). The unifying sense across all uses is active, directional transformation: something that was one thing has become, is becoming, or will become another.</p>
       <p>In Japanese, 変 hen is one of the charged characters of the language: 変化 henka (change), 変人 henjin (eccentric, lit. "changed person"), 大化の改新 Taika no Kaishin (the 645 reforms that transformed the Japanese state along Tang Chinese lines). The character carried the political weight of deliberate, legitimized transformation across the Sinosphere: change, when properly ordered, is not disruption but the correct working of cosmic principle.</p>
     </div>
 
@@ -160,7 +160,7 @@ content_sources:
           <div class="example">
             <div class="ex-cn">天气变化无常，要带伞。</div>
             <div class="ex-py">Tiānqì biànhuà wúcháng, yào dài sǎn.</div>
-            <div class="ex-en">The weather is unpredictable — bring an umbrella.</div>
+            <div class="ex-en">The weather is unpredictable , bring an umbrella.</div>
           </div>
           <div class="example">
             <div class="ex-cn">他的态度发生了变化。</div>
@@ -170,7 +170,7 @@ content_sources:
         </div>
         <div class="note">
           <span class="note-label">语法 yǔfǎ · Grammar</span>
-          发生变化 (fāshēng biànhuà) — "undergo change" — is a fixed collocation. You do not say 有变化 for ongoing processes; 发生变化 is the standard frame. 变化多端 biànhuà duōduān = changeable in many ways; protean.
+          发生变化 (fāshēng biànhuà) , "undergo change" , is a fixed collocation. You do not say 有变化 for ongoing processes; 发生变化 is the standard frame. 变化多端 biànhuà duōduān = changeable in many ways; protean.
         </div>
       </div>
 
@@ -223,7 +223,7 @@ content_sources:
           <div class="example">
             <div class="ex-cn">你不能改变别人，只能改变自己。</div>
             <div class="ex-py">Nǐ bù néng gǎibiàn biérén, zhǐ néng gǎibiàn zìjǐ.</div>
-            <div class="ex-en">You can't change other people — only yourself.</div>
+            <div class="ex-en">You can't change other people , only yourself.</div>
           </div>
           <div class="example">
             <div class="ex-cn">这个决定改变了我的一生。</div>
@@ -238,7 +238,7 @@ content_sources:
         </div>
         <div class="note">
           <span class="note-label">辨析 biànxī · 改变 vs 变化</span>
-          改变 is typically transitive: you 改变 something. 变化 is the noun for change as phenomenon: something undergoes 变化. In practice: 改变计划 (change the plan — agentive), 计划发生了变化 (the plan underwent changes — descriptive).
+          改变 is typically transitive: you 改变 something. 变化 is the noun for change as phenomenon: something undergoes 变化. In practice: 改变计划 (change the plan , agentive), 计划发生了变化 (the plan underwent changes , descriptive).
         </div>
       </div>
 
@@ -366,15 +366,15 @@ content_sources:
 
     <div class="pattern">
       <span class="label">构词规律 gòucí guīlǜ · Pattern: 变 + direction/result → directional change compound</span>
-      <strong>变好</strong> biàn hǎo — improve; get better (change toward good)<br>
-      <strong>变坏</strong> biàn huài — worsen; go bad (change toward bad)<br>
-      <strong>变大</strong> biàn dà — grow; get larger (change toward big)<br>
-      <strong>变小</strong> biàn xiǎo — shrink; get smaller (change toward small)<br>
-      <strong>变老</strong> biàn lǎo — age; grow old (change toward old)<br>
-      <strong>变长</strong> biàn cháng — lengthen; grow longer (change toward long)<br>
-      <strong>变成</strong> biàn chéng — become; turn into (change until completion)<br>
-      <strong>发生变化</strong> fāshēng biànhuà — undergo change (the standard nominal frame)<br>
-      变 takes a result complement or a directional adjective. The pattern is completely productive: any quality that can be the endpoint of a change can follow 变. The direction is always away from the current state — 变 encodes transition, not arrival.
+      <strong>变好</strong> biàn hǎo , improve; get better (change toward good)<br>
+      <strong>变坏</strong> biàn huài , worsen; go bad (change toward bad)<br>
+      <strong>变大</strong> biàn dà , grow; get larger (change toward big)<br>
+      <strong>变小</strong> biàn xiǎo , shrink; get smaller (change toward small)<br>
+      <strong>变老</strong> biàn lǎo , age; grow old (change toward old)<br>
+      <strong>变长</strong> biàn cháng , lengthen; grow longer (change toward long)<br>
+      <strong>变成</strong> biàn chéng , become; turn into (change until completion)<br>
+      <strong>发生变化</strong> fāshēng biànhuà , undergo change (the standard nominal frame)<br>
+      变 takes a result complement or a directional adjective. The pattern is completely productive: any quality that can be the endpoint of a change can follow 变. The direction is always away from the current state , 变 encodes transition, not arrival.
     </div>
 
     <!-- ── CHENGYU ── -->
@@ -392,7 +392,7 @@ content_sources:
         <span class="cy-cn">变化莫测</span>
         <span class="cy-py">biànhuà mò cè</span>
         <span class="cy-en">change beyond prediction — unpredictable; mercurial; always surprising</span>
-        <span class="cy-note">莫 mò = no one can; impossible to. 测 cè = measure; fathom; predict. Lit: "the changes cannot be measured." Used to describe weather, markets, political situations, and people whose behavior cannot be anticipated. The phrase implies not just unpredictability but a kind of deliberate or inherent unreadability. 他的心思变化莫测，谁也不知道他下一步要做什么。(His thinking is impossible to read — no one knows what his next move will be.) Appears in classical texts including 史记 (Shiji) and remains fully alive in modern writing.</span>
+        <span class="cy-note">莫 mò = no one can; impossible to. 测 cè = measure; fathom; predict. Lit: "the changes cannot be measured." Used to describe weather, markets, political situations, and people whose behavior cannot be anticipated. The phrase implies not just unpredictability but a kind of deliberate or inherent unreadability. 他的心思变化莫测，谁也不知道他下一步要做什么。(His thinking is impossible to read , no one knows what his next move will be.) Appears in classical texts including 史记 (Shiji) and remains fully alive in modern writing.</span>
       </div>
 
       <div class="cy">

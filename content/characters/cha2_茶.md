@@ -116,28 +116,28 @@ content_sources:
 
     <div class="cards">
       <div class="card c-teal">
-        <div class="card-head"><span class="tag-n">n</span> 茶叶 cháyè — tea leaves</div>
+        <div class="card-head"><span class="tag-n">n</span> 茶叶 cháyè , tea leaves</div>
         <p>The dry leaf product: 叶 (yè) = leaf. 茶叶 refers specifically to the dry, processed tea leaf as a commodity: what you buy, store, and measure into the pot. 茶 alone can refer to the beverage, the plant, or the dry leaf depending on context; 茶叶 is unambiguous.</p>
       </div>
       <div class="card c-teal">
-        <div class="card-head"><span class="tag-n">n</span> 茶道 chádào — the Way of Tea</div>
+        <div class="card-head"><span class="tag-n">n</span> 茶道 chádào , the Way of Tea</div>
         <p>道 (dào) = way, path, principle. The practice of tea as a discipline and aesthetic, analogous to the Japanese sadō/chanoyu (same characters). The phrase appears in Chinese texts earlier than the Japanese tradition and carries similar claims: that attending fully to the preparation and drinking of tea is a form of self-cultivation.</p>
       </div>
       <div class="card c-teal">
-        <div class="card-head"><span class="tag-n">n</span> 茶馆 cháguǎn — teahouse</div>
+        <div class="card-head"><span class="tag-n">n</span> 茶馆 cháguǎn , teahouse</div>
         <p>馆 (guǎn) = building for a specific function (also: 图书馆 library, 博物馆 museum, 饭馆 restaurant). A teahouse is a social institution particularly associated with Sichuan and Guangdong, a place to spend a morning with tea, conversation, and 点心 (snacks). The Chengdu teahouse culture (茶馆文化) is among the most distinct regional social traditions in China.</p>
       </div>
       <div class="card c-teal">
-        <div class="card-head"><span class="tag-n">n</span> 茶文化 chá wénhuà — tea culture</div>
+        <div class="card-head"><span class="tag-n">n</span> 茶文化 chá wénhuà , tea culture</div>
         <p>文化 (wénhuà) = culture. The broad field encompassing the history, aesthetics, philosophy, ceremony, trade, and social significance of tea in Chinese civilization. Tea traveled from China to shape Japanese, Korean, British, and South Asian cultures in turn, carrying recognizably Chinese forms and vocabularies with it.</p>
       </div>
       <div class="card c-ochre">
-        <div class="card-head"><span class="tag-v">v</span> 泡茶 pào chá — to brew tea</div>
+        <div class="card-head"><span class="tag-v">v</span> 泡茶 pào chá , to brew tea</div>
         <p>泡 (pào) = to soak, to steep, to foam. The standard verb for making tea in most contexts: 你泡茶了吗？(nǐ pào chá le ma? — "Have you made tea?"). The verb choice reflects the dominant Ming-period method of steeping loose leaf in hot water; older methods (boiling, grinding, whisking) had different verb clusters.</p>
       </div>
       <div class="card c-ochre">
-        <div class="card-head"><span class="tag-v">v</span> 喝茶 hē chá — to drink tea</div>
-        <p>喝 (hē) = to drink. The basic phrase for the act of drinking tea. Also used as a casual invitation: 来喝茶 (lái hē chá — "come drink tea"), which functions as a general social invitation in the same way that "come over for coffee" does in some Western cultures. In contemporary slang, 被喝茶 (bèi hē chá — "to be made to drink tea") means to be summoned for a police or security interview.</p>
+        <div class="card-head"><span class="tag-v">v</span> 喝茶 hē chá , to drink tea</div>
+        <p>喝 (hē) = to drink. The basic phrase for the act of drinking tea. Also used as a casual invitation: 来喝茶 (lái hē chá , "come drink tea"), which functions as a general social invitation in the same way that "come over for coffee" does in some Western cultures. In contemporary slang, 被喝茶 (bèi hē chá — "to be made to drink tea") means to be summoned for a police or security interview.</p>
       </div>
       <div class="card c-sienna">
         <div class="card-head"><span class="tag-n">n</span> 茶经 Chájīng — Classic of Tea</div>

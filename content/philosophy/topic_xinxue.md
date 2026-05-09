@@ -66,7 +66,7 @@ pinyin: 'xīnxué'
       <span class="topic-hero-eyebrow">Philosophy · 哲学 zhéxué</span>
       <h1 class="topic-hero-title">心学</h1>
       <span class="topic-hero-title-py">xīnxué</span>
-      <p class="topic-hero-desc">Wang Yangming's radical inversion of Neo-Confucianism: moral principle is not outside the mind awaiting investigation, but is the mind itself — and every person already possesses the innate moral knowledge to be a sage.</p>
+      <p class="topic-hero-desc">Wang Yangming's radical inversion of Neo-Confucianism: moral principle is not outside the mind awaiting investigation, but is the mind itself , and every person already possesses the innate moral knowledge to be a sage.</p>
     </header>
 
     <!-- ── LIFE ── -->
@@ -100,7 +100,7 @@ pinyin: 'xīnxué'
       <p>The story of Wang Yangming and the bamboo is one of the most famous philosophical anecdotes in Chinese history, and it bears careful reading because it encodes precisely what was at stake in the debate between the School of Principle (理学) and the School of Mind (心学).</p>
       <p>As a young man committed to Zhu Xi's method of <strong>格物致知</strong>, investigating things to extend moral knowledge, Wang Yangming determined to begin systematically. He sat before a bamboo grove and devoted himself to probing the principle (理 lǐ) of the bamboo. He stayed for three days. He stayed for seven days. He found no moral principle; he learned only that bamboo has joints, is hollow, bends in wind. He became ill, exhausted, probably running a fever. He concluded that either the method was wrong or he lacked the moral constitution to execute it. He blamed himself and tried other things for years.</p>
       <p>The critique he eventually developed was devastating in its logic. Zhu Xi's doctrine requires that moral principle exists in external things and affairs, that by investigating the bamboo, a table, a human relationship, a classical text, one gradually accumulates the components of moral knowledge until it coheres in a sudden comprehensive insight. But Wang Yangming asked: what exactly is the moral principle of bamboo? Bamboo has a botanical structure; it has properties; it grows and dies according to its nature. None of this tells you anything about how to be a good son, a loyal minister, a humane ruler. Either 格物 in Zhu Xi's sense cannot deliver moral knowledge, or the bamboo was the wrong thing to investigate, or the principle does not reside <em>in</em> the bamboo at all. Wang Yangming chose the third answer.</p>
-      <p>Where does it reside? In the mind that perceives the bamboo. In the moral consciousness that the mind brings to every encounter with the world. This was the seed of his counter-doctrine: <strong>心即理 xīn jí lǐ</strong> — mind is principle.</p>
+      <p>Where does it reside? In the mind that perceives the bamboo. In the moral consciousness that the mind brings to every encounter with the world. This was the seed of his counter-doctrine: <strong>心即理 xīn jí lǐ</strong> , mind is principle.</p>
     </div>
 
     <!-- ── XIN JI LI ── -->
@@ -186,14 +186,14 @@ pinyin: 'xīnxué'
         <span class="cy-cn">知行合一</span>
         <span class="cy-py">zhī xíng hé yī</span>
         <span class="cy-en">the unity of knowledge and action — genuine knowing is inherently motivating</span>
-        <span class="cy-note">Wang Yangming's most famous doctrine and the phrase by which he is most often remembered in both China and Japan. In modern usage, 知行合一 has broadened into a general exhortation to match words with deeds and theory with practice — making it useful far beyond its original philosophical context. It appears in corporate mission statements, self-help books, and political speeches, usually with the specific epistemological claim stripped away. Understanding the original argument restores its full force: it is not merely "walk the talk" but a claim about the very nature of moral knowledge.</span>
+        <span class="cy-note">Wang Yangming's most famous doctrine and the phrase by which he is most often remembered in both China and Japan. In modern usage, 知行合一 has broadened into a general exhortation to match words with deeds and theory with practice , making it useful far beyond its original philosophical context. It appears in corporate mission statements, self-help books, and political speeches, usually with the specific epistemological claim stripped away. Understanding the original argument restores its full force: it is not merely "walk the talk" but a claim about the very nature of moral knowledge.</span>
       </div>
 
       <div class="cy">
         <span class="cy-cn">此心光明，亦复何言</span>
         <span class="cy-py">cǐ xīn guāngmíng, yì fù hé yán</span>
         <span class="cy-en">this mind is bright and clear — what more is there to say?</span>
-        <span class="cy-note">Wang Yangming's last words, spoken on his deathbed in 1529 when a student asked if he had any final instructions. His response — that his mind was luminous (光明 guāngmíng), and that this was sufficient — encapsulates his entire philosophy. A mind in which 良知 operates freely and is not obscured by selfishness or intellectual overlay is a 光明 mind. At the moment of death, having lived as he believed one should, he found there was nothing left to say about how to live. The phrase is one of the great death-sentences in Chinese intellectual history.</span>
+        <span class="cy-note">Wang Yangming's last words, spoken on his deathbed in 1529 when a student asked if he had any final instructions. His response , that his mind was luminous (光明 guāngmíng), and that this was sufficient , encapsulates his entire philosophy. A mind in which 良知 operates freely and is not obscured by selfishness or intellectual overlay is a 光明 mind. At the moment of death, having lived as he believed one should, he found there was nothing left to say about how to live. The phrase is one of the great death-sentences in Chinese intellectual history.</span>
       </div>
 
       <div class="cy">

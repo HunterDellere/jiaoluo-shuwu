@@ -97,12 +97,12 @@ content_sources:
 
     <div class="scholar" data-glyph="越">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
-      <p><strong>越 = 走 (zǒu, to walk/run) + 戉 (yuè, an ancient halberd-axe)</strong> — a classic pictophonetic. The semantic component <strong>走</strong> on the lower-left wraps under the right side; it carries the meaning of motion on foot, the same component that anchors 起 (qǐ, to rise), 赶 (gǎn, to pursue), 趋 (qū, to hasten), and 超 (chāo, to overtake). The phonetic <strong>戉</strong> supplies the sound — a now-rare character originally depicting a long-handled battle-axe, related to 钺 (yuè) the bronze ceremonial axe.</p>
+      <p><strong>越 = 走 (zǒu, to walk/run) + 戉 (yuè, an ancient halberd-axe)</strong> , a classic pictophonetic. The semantic component <strong>走</strong> on the lower-left wraps under the right side; it carries the meaning of motion on foot, the same component that anchors 起 (qǐ, to rise), 赶 (gǎn, to pursue), 趋 (qū, to hasten), and 超 (chāo, to overtake). The phonetic <strong>戉</strong> supplies the sound , a now-rare character originally depicting a long-handled battle-axe, related to 钺 (yuè) the bronze ceremonial axe.</p>
       <p>The image the character composes is concrete and physical: <em>walking-running motion that goes past or over something</em>. From this base, the meanings fan outward in a logical sequence:</p>
       <p><strong>1. To physically cross over.</strong> Stepping over a threshold, a wall, a mountain, a river. 越过 yuèguò "to cross over"; 翻越 fānyuè "to climb over (especially a mountain)"; 跨越 kuàyuè "to stride across; to span."<br>
       <strong>2. To exceed; to surpass.</strong> If you go past a boundary, you exceed it. 超越 chāoyuè "to surpass"; 越权 yuèquán "to exceed one's authority"; 越位 yuèwèi "offside" (in soccer).<br>
       <strong>3. The more, the more.</strong> The comparative pattern <strong>越 X 越 Y</strong> uses 越 in pure grammatical function: the more X, the more Y. 越来越好 yuè lái yuè hǎo "better and better"; 越多越好 yuè duō yuè hǎo "the more the better."</p>
-      <p>越 also serves as a proper noun: the ancient state of <strong>越 (Yuè)</strong> in modern Zhejiang, famous for King Goujian, and by extension <strong>越南 (Yuènán)</strong>, Vietnam — literally "south of Yue." This is why pinyin tone matters: the verb is <em>yuè</em> tone 4; the place name is the same. Context disambiguates.</p>
+      <p>越 also serves as a proper noun: the ancient state of <strong>越 (Yuè)</strong> in modern Zhejiang, famous for King Goujian, and by extension <strong>越南 (Yuènán)</strong>, Vietnam , literally "south of Yue." This is why pinyin tone matters: the verb is <em>yuè</em> tone 4; the place name is the same. Context disambiguates.</p>
     </div>
 
     <!-- ── WORD-FORMATION ── -->
@@ -236,7 +236,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-v">V 动词 dòngcí</span></div>
         <div class="card-def">
-          穿 (chuān, to pierce; to wear) + 越. Cutting through a region (forest, desert, crowd). In contemporary popular culture, 穿越 is also the standard verb for time-travel — the entire genre of <strong>穿越剧</strong> (chuānyuè jù, "time-travel dramas") in which a modern character is thrown into a Tang or Qing court is one of the most popular forms of Chinese television.
+          穿 (chuān, to pierce; to wear) + 越. Cutting through a region (forest, desert, crowd). In contemporary popular culture, 穿越 is also the standard verb for time-travel , the entire genre of <strong>穿越剧</strong> (chuānyuè jù, "time-travel dramas") in which a modern character is thrown into a Tang or Qing court is one of the most popular forms of Chinese television.
         </div>
         <div class="examples">
           <div class="example">
@@ -260,7 +260,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-v">V 动词 dòngcí</span></div>
         <div class="card-def">
-          越 + 权 (quán, authority; power). Acting beyond what your position permits — a serious accusation in any organization, especially in the bureaucratic hierarchies that have shaped Chinese institutional life since imperial times.
+          越 + 权 (quán, authority; power). Acting beyond what your position permits , a serious accusation in any organization, especially in the bureaucratic hierarchies that have shaped Chinese institutional life since imperial times.
         </div>
         <div class="examples">
           <div class="example">
@@ -284,7 +284,7 @@ content_sources:
 
     <div class="scholar" data-glyph="越">
       <div class="scholar-label">语法洞见 yǔfǎ dòngjiàn · Grammatical Insight</div>
-      <p>Beyond its lexical life as a verb, 越 supplies one of Chinese's most useful grammatical patterns: the doubled construction <strong>越 X 越 Y</strong>, meaning "the more X, the more Y." The two slots can be adjectives, verbs, or even short clauses, and the construction expresses a tracking relationship — as one quantity changes, the other changes with it.</p>
+      <p>Beyond its lexical life as a verb, 越 supplies one of Chinese's most useful grammatical patterns: the doubled construction <strong>越 X 越 Y</strong>, meaning "the more X, the more Y." The two slots can be adjectives, verbs, or even short clauses, and the construction expresses a tracking relationship , as one quantity changes, the other changes with it.</p>
       <p>The most frequent specialized form is <strong>越来越</strong> (yuè lái yuè), built from 越 + 来 (lái, to come) + 越, meaning "more and more" with the implication of <em>a process unfolding over time</em>: 越来越好 better and better; 越来越冷 colder and colder; 越来越多人喜欢 more and more people like it.</p>
       <p>The construction is examined in its own right on the dedicated grammar page: <a href="../../pages/grammar/yuelaiyue_越来越.html">越来越 yuèláiyuè</a>.</p>
     </div>
@@ -347,7 +347,7 @@ content_sources:
 
     <div class="scholar" data-glyph="越">
       <div class="scholar-label">历史洞见 lìshǐ dòngjiàn · Historical Note</div>
-      <p>越 doubles as a proper noun for an ancient southern state and, by extension, modern Vietnam. The classical state of <strong>越 Yuè</strong> sat in modern Zhejiang during the Spring and Autumn and Warring States periods, capital at Kuaiji (会稽, modern Shaoxing). Its most famous king, <strong>勾践 Gōujiàn</strong> (r. 496–465 BCE), was defeated and humiliated by the rival state of Wu (吴), spent years in captivity sleeping on firewood and tasting bile to remember his shame, and eventually returned to crush Wu — a story preserved in the chengyu <strong>卧薪尝胆</strong> (wò xīn cháng dǎn, "to sleep on firewood and taste gall," now a stock metaphor for patient revenge or long preparation).</p>
+      <p>越 doubles as a proper noun for an ancient southern state and, by extension, modern Vietnam. The classical state of <strong>越 Yuè</strong> sat in modern Zhejiang during the Spring and Autumn and Warring States periods, capital at Kuaiji (会稽, modern Shaoxing). Its most famous king, <strong>勾践 Gōujiàn</strong> (r. 496–465 BCE), was defeated and humiliated by the rival state of Wu (吴), spent years in captivity sleeping on firewood and tasting bile to remember his shame, and eventually returned to crush Wu , a story preserved in the chengyu <strong>卧薪尝胆</strong> (wò xīn cháng dǎn, "to sleep on firewood and taste gall," now a stock metaphor for patient revenge or long preparation).</p>
       <p>The southern peoples whom Han chroniclers called <strong>百越</strong> (Bǎi Yuè, "the Hundred Yue") inhabited a vast region from modern Zhejiang down through Fujian, Guangdong, Guangxi, and into northern Vietnam. The modern country name <strong>越南 Yuènán</strong> means literally "south of Yue" and reflects this older geographic memory. 越剧 (Yuèjù) is the regional opera form of Zhejiang; 越南 is Vietnam; 越南语 (Yuènányǔ) is Vietnamese.</p>
     </div>
 
@@ -366,7 +366,7 @@ content_sources:
         <span class="cy-cn">越俎代庖</span>
         <span class="cy-py">yuè zǔ dài páo</span>
         <span class="cy-en">"to overstep the sacrificial vessel and take the cook's place" — to do someone else's job, to overstep one's role</span>
-        <span class="cy-note">From the <em>Zhuangzi</em> (庄子). 俎 zǔ is the sacrificial chopping block — the priest's tool — and 庖 páo is the kitchen's domain. The original image is of a priest abandoning the altar to do the cook's work. Used today in formal contexts to criticize someone who has stepped outside their proper role to do work that was not theirs to do, especially when their interference is unwelcome. 你别越俎代庖，让他自己处理。"Don't take over his job — let him handle it himself."</span>
+        <span class="cy-note">From the <em>Zhuangzi</em> (庄子). 俎 zǔ is the sacrificial chopping block , the priest's tool , and 庖 páo is the kitchen's domain. The original image is of a priest abandoning the altar to do the cook's work. Used today in formal contexts to criticize someone who has stepped outside their proper role to do work that was not theirs to do, especially when their interference is unwelcome. 你别越俎代庖，让他自己处理。"Don't take over his job , let him handle it himself."</span>
       </div>
 
       <div class="cy">

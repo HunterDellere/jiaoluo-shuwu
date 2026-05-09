@@ -95,9 +95,9 @@ content_review: 'pending'
 
     <div class="scholar" data-glyph="雷">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
-      <p><strong>雷 léi</strong> is a compound ideograph: <strong>雨</strong> (rain) sits at the top, and below it three or four <strong>田</strong> (field) shapes fan outward. In oracle-bone and seal-script forms, the field-like marks represent the rolling, spreading sound of thunder across the landscape — a pictographic evocation of rumbling that radiates in all directions from beneath a storm cloud. The image is meteorological before it is symbolic: thunder happens during rain, and it rolls across flat ground.</p>
-      <p>The 田 components are not "fields" in the agricultural sense here — they are schematic representations of the circular, concentric boom of sound, the same way a struck drum sends rings outward. Early Chinese scribes captured the phenomenon visually rather than phonetically: you see the storm above, you feel the reverberations spreading below.</p>
-      <p>雷 belongs to the 雨 radical family (alongside 电, 霜, 雪, 霞, 霜), which groups together atmospheric phenomena under the rain-cloud. Unlike 电 diàn (lightning), which emphasizes the flash, 雷 is sound — the announcement that something powerful has happened in the sky.</p>
+      <p><strong>雷 léi</strong> is a compound ideograph: <strong>雨</strong> (rain) sits at the top, and below it three or four <strong>田</strong> (field) shapes fan outward. In oracle-bone and seal-script forms, the field-like marks represent the rolling, spreading sound of thunder across the landscape , a pictographic evocation of rumbling that radiates in all directions from beneath a storm cloud. The image is meteorological before it is symbolic: thunder happens during rain, and it rolls across flat ground.</p>
+      <p>The 田 components are not "fields" in the agricultural sense here , they are schematic representations of the circular, concentric boom of sound, the same way a struck drum sends rings outward. Early Chinese scribes captured the phenomenon visually rather than phonetically: you see the storm above, you feel the reverberations spreading below.</p>
+      <p>雷 belongs to the 雨 radical family (alongside 电, 霜, 雪, 霞, 霜), which groups together atmospheric phenomena under the rain-cloud. Unlike 电 diàn (lightning), which emphasizes the flash, 雷 is sound , the announcement that something powerful has happened in the sky.</p>
     </div>
 
     <span class="section-anchor" id="deity"></span>
@@ -110,15 +110,15 @@ content_review: 'pending'
 
     <div class="scholar" data-glyph="公">
       <div class="scholar-label">神话 shénhuà · Mythology</div>
-      <p><strong>雷公</strong> (Léigōng, Duke of Thunder) is one of the oldest deities in the Chinese pantheon — attested in the <em>Shanhaijing</em> (山海经, Classic of Mountains and Seas) and venerated across millennia. He is depicted with a bird's beak, eagle's wings, and clawed feet, his body ringed by a series of drums. He beats these drums with a mallet to produce thunder. His human form exists but is secondary; his bird-of-prey physiognomy links him to the pre-agricultural religion of the Yellow River cultures, where raptor-deities commanded storm phenomena.</p>
-      <p>He works in tandem with <strong>电母</strong> (Diàn Mǔ, Mother of Lightning), who carries two mirrors. She flashes the mirrors to produce the bolt of lightning that precedes thunder. The sequence is cosmologically ordered: light (Diàn Mǔ) comes first, sound (Léigōng) follows — matching what observers actually experience in a storm. The pairing encodes meteorological accuracy inside the myth.</p>
-      <p>In the <strong>Five Phases</strong> (五行 wǔxíng) system, thunder is associated with the <strong>Wood phase</strong> (木 mù), the <strong>east</strong>, and <strong>spring</strong>. This is not arbitrary: thunder is the force that breaks the frozen earth open, that announces the thaw, that signals the return of growing energy after winter. Léigōng's drum-beats are the voice of the season turning — the arousing signal that dormant life can stir again. His anger is not punishment; it is vitality, the crack of the earth waking up.</p>
-      <p>Popular religion across southern China and Taiwan maintains active temples to 雷公 and 电母. Thunder during a drought is a sign the deity is dissatisfied with ritual neglect; thunder at New Year is auspicious, clearing the old year's stagnant energies. In Daoist liturgical texts, 雷 is associated with the voice of heaven (天声 tiānshēng) — not as wrath, but as proclamation.</p>
+      <p><strong>雷公</strong> (Léigōng, Duke of Thunder) is one of the oldest deities in the Chinese pantheon , attested in the <em>Shanhaijing</em> (山海经, Classic of Mountains and Seas) and venerated across millennia. He is depicted with a bird's beak, eagle's wings, and clawed feet, his body ringed by a series of drums. He beats these drums with a mallet to produce thunder. His human form exists but is secondary; his bird-of-prey physiognomy links him to the pre-agricultural religion of the Yellow River cultures, where raptor-deities commanded storm phenomena.</p>
+      <p>He works in tandem with <strong>电母</strong> (Diàn Mǔ, Mother of Lightning), who carries two mirrors. She flashes the mirrors to produce the bolt of lightning that precedes thunder. The sequence is cosmologically ordered: light (Diàn Mǔ) comes first, sound (Léigōng) follows , matching what observers actually experience in a storm. The pairing encodes meteorological accuracy inside the myth.</p>
+      <p>In the <strong>Five Phases</strong> (五行 wǔxíng) system, thunder is associated with the <strong>Wood phase</strong> (木 mù), the <strong>east</strong>, and <strong>spring</strong>. This is not arbitrary: thunder is the force that breaks the frozen earth open, that announces the thaw, that signals the return of growing energy after winter. Léigōng's drum-beats are the voice of the season turning , the arousing signal that dormant life can stir again. His anger is not punishment; it is vitality, the crack of the earth waking up.</p>
+      <p>Popular religion across southern China and Taiwan maintains active temples to 雷公 and 电母. Thunder during a drought is a sign the deity is dissatisfied with ritual neglect; thunder at New Year is auspicious, clearing the old year's stagnant energies. In Daoist liturgical texts, 雷 is associated with the voice of heaven (天声 tiānshēng) , not as wrath, but as proclamation.</p>
     </div>
 
     <div class="pattern">
       <span class="label">Five Phases Correspondence · 五行 wǔxíng</span>
-      <strong>Phase:</strong> 木 mù (Wood) · <strong>Direction:</strong> 东 dōng (East) · <strong>Season:</strong> 春 chūn (Spring) · <strong>Color:</strong> 青 qīng (Blue-green) · <strong>Emotion:</strong> 怒 nù (Righteous anger) · <strong>Organ:</strong> 肝 gān (Liver) · <strong>Sound:</strong> 雷 léi (Thunder) — the crack that initiates
+      <strong>Phase:</strong> 木 mù (Wood) · <strong>Direction:</strong> 东 dōng (East) · <strong>Season:</strong> 春 chūn (Spring) · <strong>Color:</strong> 青 qīng (Blue-green) · <strong>Emotion:</strong> 怒 nù (Righteous anger) · <strong>Organ:</strong> 肝 gān (Liver) · <strong>Sound:</strong> 雷 léi (Thunder) , the crack that initiates
     </div>
 
     <span class="section-anchor" id="yijing"></span>
@@ -131,10 +131,10 @@ content_review: 'pending'
 
     <div class="scholar" data-glyph="震">
       <div class="scholar-label">易经 yìjīng · The Book of Changes</div>
-      <p>In the <em>Yijing</em> (易经, Book of Changes), the trigram <strong>震</strong> (Zhèn) represents thunder — and is directly identified with 雷. The trigram is one solid line at the bottom, two broken lines above: ☳. The solid yang line erupts upward through yielding yin.震 is the Arousing, the Shock, the initiating force that breaks through inertia.</p>
-      <p>In the eight-trigram (八卦 bāguà) system, 震 = <strong>east</strong>, <strong>spring</strong>, the <strong>eldest son</strong>. When this trigram is doubled —震 over 震 — the result is <strong>hexagram 51</strong>, also called 震 (the Arousing / Shock). The <em>Yijing</em> commentary for hexagram 51 begins: <em>震, hēng</em> — "Thunder: success." The shock comes; the wise person does not panic but uses the moment of jolting to recalibrate, to clear away the habitual and face what is real.</p>
-      <p>The <em>Tuanzhuan</em> commentary elaborates: "The shock frightens for a hundred miles — and yet the sacrificial vessel and the libation spoon are not dropped." The highest response to sudden upheaval is not flight but composure and continuity. Thunder announces; it does not destroy. The one who hears thunder and keeps the ritual vessel steady — who is not scattered by the shock — is the one the <em>Yijing</em> endorses.</p>
-      <p>This cosmological role of 雷 as <em>initiating force</em> resonates through the entire classical tradition. 雷 is not the climax of the storm; it is the beginning of movement. It awakens. It breaks open. In medical cosmology, 雷 corresponds to the liver, which in Chinese medicine governs the free flow of qi — blocked qi produces the stagnation that thunder (metaphorically) must crack open to restore circulation.</p>
+      <p>In the <em>Yijing</em> (易经, Book of Changes), the trigram <strong>震</strong> (Zhèn) represents thunder , and is directly identified with 雷. The trigram is one solid line at the bottom, two broken lines above: ☳. The solid yang line erupts upward through yielding yin.震 is the Arousing, the Shock, the initiating force that breaks through inertia.</p>
+      <p>In the eight-trigram (八卦 bāguà) system, 震 = <strong>east</strong>, <strong>spring</strong>, the <strong>eldest son</strong>. When this trigram is doubled —震 over 震 , the result is <strong>hexagram 51</strong>, also called 震 (the Arousing / Shock). The <em>Yijing</em> commentary for hexagram 51 begins: <em>震, hēng</em> , "Thunder: success." The shock comes; the wise person does not panic but uses the moment of jolting to recalibrate, to clear away the habitual and face what is real.</p>
+      <p>The <em>Tuanzhuan</em> commentary elaborates: "The shock frightens for a hundred miles , and yet the sacrificial vessel and the libation spoon are not dropped." The highest response to sudden upheaval is not flight but composure and continuity. Thunder announces; it does not destroy. The one who hears thunder and keeps the ritual vessel steady , who is not scattered by the shock , is the one the <em>Yijing</em> endorses.</p>
+      <p>This cosmological role of 雷 as <em>initiating force</em> resonates through the entire classical tradition. 雷 is not the climax of the storm; it is the beginning of movement. It awakens. It breaks open. In medical cosmology, 雷 corresponds to the liver, which in Chinese medicine governs the free flow of qi , blocked qi produces the stagnation that thunder (metaphorically) must crack open to restore circulation.</p>
     </div>
 
     <span class="section-anchor" id="compounds"></span>
@@ -155,13 +155,13 @@ content_review: 'pending'
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          雷 léi (thunder) + 雨 yǔ (rain). A thunderstorm — rain accompanied by thunder and lightning. Also the title of one of the most important plays in modern Chinese literature: <em>雷雨</em> (Léiyǔ, 1934) by Cao Yu (曹禺), a family tragedy of suppressed desire and social constraint. The storm in that play is both literal and metaphorical — the natural thunder that breaks over the house as the human catastrophe breaks apart the family.
+          雷 léi (thunder) + 雨 yǔ (rain). A thunderstorm , rain accompanied by thunder and lightning. Also the title of one of the most important plays in modern Chinese literature: <em>雷雨</em> (Léiyǔ, 1934) by Cao Yu (曹禺), a family tragedy of suppressed desire and social constraint. The storm in that play is both literal and metaphorical , the natural thunder that breaks over the house as the human catastrophe breaks apart the family.
         </div>
         <div class="examples">
           <div class="example">
             <div class="ex-cn">明天会有雷雨，出门记得带伞。</div>
             <div class="ex-py">Míngtiān huì yǒu léiyǔ, chūmén jìdé dài sǎn.</div>
-            <div class="ex-en">Tomorrow there will be thunderstorms — remember to bring an umbrella when you go out.</div>
+            <div class="ex-en">Tomorrow there will be thunderstorms , remember to bring an umbrella when you go out.</div>
           </div>
         </div>
       </div>
@@ -174,7 +174,7 @@ content_review: 'pending'
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          雷 léi (thunder) + 声 shēng (sound). The rumble or crack of thunder. Often used in the phrase 雷声大，雨点小 (léishēng dà, yǔdiǎn xiǎo) — "thunder loud, raindrops small" — meaning all bluster and announcement with little actual follow-through. A sharp colloquial critique of grand promises with minimal execution.
+          雷 léi (thunder) + 声 shēng (sound). The rumble or crack of thunder. Often used in the phrase 雷声大，雨点小 (léishēng dà, yǔdiǎn xiǎo) , "thunder loud, raindrops small" , meaning all bluster and announcement with little actual follow-through. A sharp colloquial critique of grand promises with minimal execution.
         </div>
         <div class="examples">
           <div class="example">
@@ -193,7 +193,7 @@ content_review: 'pending'
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí (proper)</span></div>
         <div class="card-def">
-          雷 léi (thunder) + 公 gōng (duke; honorific for male deities and elder men). The personified god of thunder, depicted with a bird beak, wings, and ring of drums. Works alongside 电母 (Diàn Mǔ, Mother of Lightning). Still actively venerated in southern Chinese folk religion and Daoist liturgical tradition. In colloquial use, 雷公 can be invoked humorously — 雷公打你 (may Léigōng strike you) as a mild imprecation.
+          雷 léi (thunder) + 公 gōng (duke; honorific for male deities and elder men). The personified god of thunder, depicted with a bird beak, wings, and ring of drums. Works alongside 电母 (Diàn Mǔ, Mother of Lightning). Still actively venerated in southern Chinese folk religion and Daoist liturgical tradition. In colloquial use, 雷公 can be invoked humorously , 雷公打你 (may Léigōng strike you) as a mild imprecation.
         </div>
       </div>
 
@@ -205,13 +205,13 @@ content_review: 'pending'
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          地 dì (earth; ground) + 雷 léi (thunder). Landmine — an explosive buried in the ground that detonates on contact. The compound is viscerally accurate: a mine hidden in the earth that erupts like thunder when triggered. Also used colloquially for a hidden problem or social trap — 踩雷 (cǎiléi, to step on a mine) means to stumble into an unforeseen disaster, blunder into a sensitive topic, or get stuck with a bad investment.
+          地 dì (earth; ground) + 雷 léi (thunder). Landmine , an explosive buried in the ground that detonates on contact. The compound is viscerally accurate: a mine hidden in the earth that erupts like thunder when triggered. Also used colloquially for a hidden problem or social trap , 踩雷 (cǎiléi, to step on a mine) means to stumble into an unforeseen disaster, blunder into a sensitive topic, or get stuck with a bad investment.
         </div>
         <div class="examples">
           <div class="example">
             <div class="ex-cn">那个话题是家庭聚会上的地雷，最好别碰。</div>
             <div class="ex-py">Nàge huàtí shì jiātíng jùhuì shàng de dìléi, zuìhǎo bié pèng.</div>
-            <div class="ex-en">That topic is a landmine at family gatherings — best to leave it alone.</div>
+            <div class="ex-en">That topic is a landmine at family gatherings , best to leave it alone.</div>
           </div>
         </div>
       </div>
@@ -224,7 +224,7 @@ content_review: 'pending'
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          Phonetic transliteration of the English "radar" (Radio Detection And Ranging). 雷 léi (thunder) + 达 dá (to reach; to arrive). A felicitous loanword: the chosen characters evoke the technology's function — a signal (like thunder, striking out from a source) that reaches and returns. 雷达 is now also used metaphorically — 进入某人的雷达 (to appear on someone's radar) mirrors the English idiom exactly.
+          Phonetic transliteration of the English "radar" (Radio Detection And Ranging). 雷 léi (thunder) + 达 dá (to reach; to arrive). A felicitous loanword: the chosen characters evoke the technology's function , a signal (like thunder, striking out from a source) that reaches and returns. 雷达 is now also used metaphorically , 进入某人的雷达 (to appear on someone's radar) mirrors the English idiom exactly.
         </div>
         <div class="examples">
           <div class="example">
@@ -243,7 +243,7 @@ content_review: 'pending'
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          避 bì (to avoid; to deflect) + 雷 léi (thunder/lightning) + 针 zhēn (needle; pin). Lightning rod. Literally: the needle that deflects the thunder. Metaphorically, a 避雷针 is a person or thing that absorbs blame or controversy on behalf of someone else — a lightning rod in the political sense. 当避雷针 (dāng bìléizhēn) means to serve as someone's scapegoat or deflector of criticism.
+          避 bì (to avoid; to deflect) + 雷 léi (thunder/lightning) + 针 zhēn (needle; pin). Lightning rod. Literally: the needle that deflects the thunder. Metaphorically, a 避雷针 is a person or thing that absorbs blame or controversy on behalf of someone else , a lightning rod in the political sense. 当避雷针 (dāng bìléizhēn) means to serve as someone's scapegoat or deflector of criticism.
         </div>
       </div>
 

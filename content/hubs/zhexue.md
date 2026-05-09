@@ -145,13 +145,13 @@ stages:
       <span class="topic-hero-eyebrow">Hubs · 门户 ménhù</span>
       <h1 class="topic-hero-title">哲学</h1>
       <span class="topic-hero-title-py">zhéxué</span>
-      <p class="topic-hero-desc">Chinese philosophy is not a sequence of schools that replaced each other — it is a conversation that has been running for 2,500 years.</p>
+      <p class="topic-hero-desc">Chinese philosophy is not a sequence of schools that replaced each other , it is a conversation that has been running for 2,500 years.</p>
     </header>
 
     <span class="section-anchor" id="overview"></span>
     <div class="section-head"><h2>The Conversation</h2></div>
     <div class="scholar" data-glyph="道">
-      <div class="scholar-label">百家争鸣 · bǎi jiā zhēng míng — The Hundred Schools Contend</div>
+      <div class="scholar-label">百家争鸣 · bǎi jiā zhēng míng , The Hundred Schools Contend</div>
       <p>Confucius and Laozi are not in opposition; they are in dialogue. Both lived through the same fracturing of the Zhou world order, both watched the old ritual structures fail to hold society together, and both asked the same question: what does it mean to live well? They gave radically different answers, and Chinese thought has been working through the tension ever since.</p>
       <p>The Warring States period (475–221 BCE) produced the 百家争鸣 (the contention of a hundred schools), and nearly every idea Chinese civilisation has been debating ever since was first articulated in those two and a half centuries. Confucians, Daoists, Mohists, Legalists, and a dozen smaller schools argued in courts, academies, and written texts about the same irreducible problems: the nature of human beings, the source of political order, the relationship between the individual and the cosmos.</p>
       <p>The core tension runs between 礼 (lǐ, ritual order) and 道 (dào, the spontaneous way), and between 仁 (rén, humaneness cultivated through practice) and 自然 (zìrán, things as they are of themselves). Is the human being born good and gradually corrupted, or born rough and improved by culture? Should the ruler govern through moral example or through clearly stated law? Can language reach the deepest truths, or does it always fall short? These questions never closed. This path moves roughly chronologically but follows the argument wherever it leads.</p>
@@ -162,7 +162,7 @@ stages:
     <span class="section-anchor" id="questions"></span>
     <div class="section-head"><h2>Open Questions</h2></div>
     <div class="pattern">
-      <span class="label">问题 · wèntí — questions this hub leaves open</span>
+      <span class="label">问题 · wèntí , questions this hub leaves open</span>
       <p><strong>Is the Mencius-Xunzi debate settled?</strong> Mencius said human nature is good; Xunzi said it is raw. Contemporary moral psychology has data on both sides. Chinese philosophy has been living inside this disagreement for 2,300 years without resolution, and that unresolution is productive.</p>
       <p><strong>What did Mohism's disappearance cost?</strong> Mozi's universal impartial love and his proto-utilitarian ethics nearly gave China a very different philosophical foundation. The Qin unification eliminated Mohism as a living school. Imagining a China where Mohism survived is the most interesting counterfactual in Chinese intellectual history.</p>
       <p><strong>Where does Neo-Confucianism end and Buddhist thought begin?</strong> The Song Confucian revival absorbed Buddhist metaphysics so thoroughly that Zhu Xi's concept of 理 (principle) is sometimes indistinguishable from Buddhist dharma-theory. The boundary is real but harder to draw than either tradition admits.</p>

@@ -66,7 +66,7 @@ pinyin: 'Xīnjiāng'
       <span class="topic-hero-eyebrow">Geography · 地理 dìlǐ</span>
       <h1 class="topic-hero-title">新疆</h1>
       <span class="topic-hero-title-py">Xīnjiāng</span>
-      <p class="topic-hero-desc">China's largest province — a vast desert interior crossed by the Silk Road, home to Uyghur civilization, bounded by the Tianshan mountains, and at the center of contested questions about identity and governance.</p>
+      <p class="topic-hero-desc">China's largest province , a vast desert interior crossed by the Silk Road, home to Uyghur civilization, bounded by the Tianshan mountains, and at the center of contested questions about identity and governance.</p>
     </header>
 
     <span class="section-anchor" id="geography"></span>
@@ -82,10 +82,10 @@ pinyin: 'Xīnjiāng'
       <div class="pattern">
         <span class="label">新疆地理一览 Xīnjiāng dìlǐ · Geographic Overview</span>
         <strong>Total area</strong> → ~1.66 million km² (largest provincial unit in China)<br>
-        <strong>Northern basin</strong> → 准噶尔盆地 Junggar Basin — semi-arid steppe, historical nomadic zone<br>
-        <strong>Central spine</strong> → 天山 Tianshan — peaks to 7,443 m; glaciated; climate divide<br>
-        <strong>Southern basin</strong> → 塔里木盆地 Tarim Basin — enclosed; hyperarid<br>
-        <strong>Core desert</strong> → 塔克拉玛干 Taklamakan — 337,000 km², world's second-largest sand desert<br>
+        <strong>Northern basin</strong> → 准噶尔盆地 Junggar Basin , semi-arid steppe, historical nomadic zone<br>
+        <strong>Central spine</strong> → 天山 Tianshan , peaks to 7,443 m; glaciated; climate divide<br>
+        <strong>Southern basin</strong> → 塔里木盆地 Tarim Basin , enclosed; hyperarid<br>
+        <strong>Core desert</strong> → 塔克拉玛干 Taklamakan , 337,000 km², world's second-largest sand desert<br>
         <strong>Key oasis cities</strong> → 喀什 Kashgar · 吐鲁番 Turpan · 和田 Khotan · 库车 Kucha<br>
         <strong>Capital</strong> → 乌鲁木齐 Ürümqi (elevation ~920 m; northern basin)
       </div>
@@ -136,15 +136,15 @@ pinyin: 'Xīnjiāng'
       <div class="cards">
         <div class="card c-ochre">
           <div class="card-head"><span class="tag-n">n</span> 维吾尔族 Wéiwú'ěrzú</div>
-          <p>The Uyghur people — the Turkic-speaking Muslim majority population of the Tarim Basin oasis cities, one of China's fifty-five recognized ethnic minorities. The word Uyghur (维吾尔) is a transliteration of the Turkic name for the people, meaning roughly "united" or "allied."</p>
+          <p>The Uyghur people , the Turkic-speaking Muslim majority population of the Tarim Basin oasis cities, one of China's fifty-five recognized ethnic minorities. The word Uyghur (维吾尔) is a transliteration of the Turkic name for the people, meaning roughly "united" or "allied."</p>
         </div>
         <div class="card c-teal">
           <div class="card-head"><span class="tag-n">n</span> 喀什 Kāshí</div>
-          <p>Kashgar — the westernmost major city in China, situated at the edge of the Tarim Basin near the Kyrgyz and Tajik borders. Historically the greatest bazaar city on the Silk Road, where the northern and southern routes reconverged. The old city (老城 lǎochéng) retains much of its traditional character.</p>
+          <p>Kashgar , the westernmost major city in China, situated at the edge of the Tarim Basin near the Kyrgyz and Tajik borders. Historically the greatest bazaar city on the Silk Road, where the northern and southern routes reconverged. The old city (老城 lǎochéng) retains much of its traditional character.</p>
         </div>
         <div class="card c-sienna">
           <div class="card-head"><span class="tag-n">n</span> 木卡姆 Mùkǎmǔ</div>
-          <p>The Uyghur Muqam — twelve suites of music incorporating song, instrumental performance, and dance, each built on a distinct modal system. A living art form and UNESCO Intangible Cultural Heritage, the Muqam is considered the highest expression of Uyghur musical culture.</p>
+          <p>The Uyghur Muqam , twelve suites of music incorporating song, instrumental performance, and dance, each built on a distinct modal system. A living art form and UNESCO Intangible Cultural Heritage, the Muqam is considered the highest expression of Uyghur musical culture.</p>
         </div>
         <div class="card c-violet">
           <div class="card-head"><span class="tag-n">n</span> 坎儿井 kǎn'erjǐng</div>

@@ -56,7 +56,7 @@ content_review: 'pending'
       <span class="topic-hero-eyebrow">Chengyu · 成语 chéngyǔ</span>
       <h1 class="topic-hero-title">山清水秀</h1>
       <span class="topic-hero-title-py">shān qīng shuǐ xiù</span>
-      <p class="topic-hero-desc">Clear mountains, lovely waters. The standard Chinese phrase for a picturesque landscape — four characters that compress the whole aesthetic vocabulary of natural beauty.</p>
+      <p class="topic-hero-desc">Clear mountains, lovely waters. The standard Chinese phrase for a picturesque landscape , four characters that compress the whole aesthetic vocabulary of natural beauty.</p>
     </header>
 
     <span class="section-anchor" id="story"></span>

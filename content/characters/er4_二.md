@@ -118,10 +118,10 @@ updated: '2026-04-25'
     <div class="pattern">
       <span class="label">部首功能 bùshǒu gōngnéng · 二 as a Radical</span>
       二 is both a standalone numeral and the Kangxi radical #7. It contributes a "two / duality / layered" semantic element to characters built on it. Characters sharing this radical include:
-      <strong>元</strong> yuán (origin; primary; dollar) — two strokes above 儿, suggesting primacy above all else;
-      <strong>亘</strong> gèn (to extend across; perpetual) — 二 above 日, spanning from horizon to horizon;
-      <strong>互</strong> hù (mutual; reciprocal) — two interlocking horizontal elements suggesting exchange;
-      <strong>井</strong> jǐng (well; orderly grid) — originally the grid shape of a water well, classified under 二 in some systems.
+      <strong>元</strong> yuán (origin; primary; dollar) , two strokes above 儿, suggesting primacy above all else;
+      <strong>亘</strong> gèn (to extend across; perpetual) , 二 above 日, spanning from horizon to horizon;
+      <strong>互</strong> hù (mutual; reciprocal) , two interlocking horizontal elements suggesting exchange;
+      <strong>井</strong> jǐng (well; orderly grid) , originally the grid shape of a water well, classified under 二 in some systems.
     </div>
 
     <!-- ── COMPOUNDS ── -->
@@ -134,7 +134,7 @@ updated: '2026-04-25'
     </div>
 
     <div class="scholar" data-glyph="二">
-      <div class="scholar-label">辨析 biànxī · 二 vs. 两 — The Essential Distinction</div>
+      <div class="scholar-label">辨析 biànxī · 二 vs. 两 , The Essential Distinction</div>
       <p>Both 二 èr and 两 liǎng mean "two," but they are not interchangeable. <strong>二 èr</strong> is used in counting sequences (一、二、三…), arithmetic (二加二等于四), ordinal compounds (第二 dì-èr "second"), and positions in a series (二月 Èryuè "February"). <strong>两 liǎng</strong> is used before measure words when specifying a quantity of something: 两个人 liǎng gè rén "two people," 两本书 liǎng běn shū "two books." Using 二 before a measure word sounds unnatural in standard Mandarin, except in certain fixed expressions and regional varieties. This distinction trips learners at every level.</p>
     </div>
 

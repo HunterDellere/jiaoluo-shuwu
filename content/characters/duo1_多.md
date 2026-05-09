@@ -61,25 +61,25 @@ content_review: 'pending'
 
     <div class="scholar" data-glyph="多">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
-      <p>多 is composed of two 夕 (xī, evening, night) stacked vertically: ⿱夕夕. The ideographic logic is transparent: one night is one night; two nights are many nights — or more nights than expected. Two repetitions of the same element encoding multiplication is a common ideographic strategy in oracle bone script. Compare 从 cóng (to follow — two people, one behind the other) and 森 sēn (dense forest — three trees). Repeating an element signals accumulation, plurality, intensity.</p>
-      <p>The Shuōwén Jiězì (100 CE) confirms the stacked-evening analysis: 多，重也 — "多 means stacked." The concrete image of "many nights" generalized to "much," "many," and "an amount exceeding what is expected or normal." From there, 多 developed into a question word: 多少 (how many), 多大 (how big), 多长 (how long) — all use 多 as an intensifier-cum-question-word asking about the degree of the following adjective.</p>
-      <p>In Japanese, 多 (ōi in the native reading, ta/ta in Sino-Japanese) maintains the same meaning: 多い means "there are many" (a predicate adjective), and 多数 tasū means "majority, the many." The Korean reading 다 (da) appears in 다수 (many, majority). The character's simple visual logic — double the evening, double the count — made it travel cleanly across Sinographic cultures.</p>
+      <p>多 is composed of two 夕 (xī, evening, night) stacked vertically: ⿱夕夕. The ideographic logic is transparent: one night is one night; two nights are many nights , or more nights than expected. Two repetitions of the same element encoding multiplication is a common ideographic strategy in oracle bone script. Compare 从 cóng (to follow , two people, one behind the other) and 森 sēn (dense forest , three trees). Repeating an element signals accumulation, plurality, intensity.</p>
+      <p>The Shuōwén Jiězì (100 CE) confirms the stacked-evening analysis: 多，重也 , "多 means stacked." The concrete image of "many nights" generalized to "much," "many," and "an amount exceeding what is expected or normal." From there, 多 developed into a question word: 多少 (how many), 多大 (how big), 多长 (how long) , all use 多 as an intensifier-cum-question-word asking about the degree of the following adjective.</p>
+      <p>In Japanese, 多 (ōi in the native reading, ta/ta in Sino-Japanese) maintains the same meaning: 多い means "there are many" (a predicate adjective), and 多数 tasū means "majority, the many." The Korean reading 다 (da) appears in 다수 (many, majority). The character's simple visual logic , double the evening, double the count , made it travel cleanly across Sinographic cultures.</p>
     </div>
 
     <span class="section-anchor" id="grammar"></span>
     <div class="section-head"><span class="sh-cn">用法</span><span class="sh-py">yòngfǎ</span><span class="sh-en">Grammar — 多少, 很多, 越来越多</span><span class="sh-rule"></span></div>
 
     <div class="pattern">
-      <span class="label">多 in grammar — four core constructions</span>
-      <strong>很多 hěn duō</strong> → "very many / a lot" — the most common way to say "a lot"<br>
+      <span class="label">多 in grammar , four core constructions</span>
+      <strong>很多 hěn duō</strong> → "very many / a lot" , the most common way to say "a lot"<br>
       <strong>多少 duōshao</strong> → "how many/much?" — a question word pair (多 how + 少 little)<br>
       <strong>多 + adj → how + adj</strong> → 多大 (how big), 多高 (how tall), 多贵 (how expensive)<br>
-      <strong>越来越多 yuèláiyuè duō</strong> → "more and more" — the 越来越 intensification pattern
+      <strong>越来越多 yuèláiyuè duō</strong> → "more and more" , the 越来越 intensification pattern
     </div>
 
     <div class="scholar" data-glyph="多">
-      <div class="scholar-label">多少 — a question word built from opposites</div>
-      <p>多少 (duōshao) puts the largest quantity word (多) next to the smallest (少) — "how-many/how-few" — and the pair collapses into a question: "how much?" The same strategy appears in 大小 dàxiǎo (size — big-small), 长短 chángduǎn (length — long-short), and 高低 gāodī (height — tall-low). Chinese encodes measurement questions by naming both poles of the scale. 多少钱 (how much money) is the single most-used shopping question in Mandarin.</p>
+      <div class="scholar-label">多少 , a question word built from opposites</div>
+      <p>多少 (duōshao) puts the largest quantity word (多) next to the smallest (少) , "how-many/how-few" , and the pair collapses into a question: "how much?" The same strategy appears in 大小 dàxiǎo (size , big-small), 长短 chángduǎn (length , long-short), and 高低 gāodī (height , tall-low). Chinese encodes measurement questions by naming both poles of the scale. 多少钱 (how much money) is the single most-used shopping question in Mandarin.</p>
     </div>
 
     <span class="section-anchor" id="compounds"></span>
@@ -89,7 +89,7 @@ content_review: 'pending'
       <div class="card c-red">
         <div class="card-head"><span class="card-cn">多少</span><span class="card-py">duōshao</span><span class="card-en">how many; how much; some amount</span></div>
         <div class="tags"><span class="tag tag-n">QW 疑问词</span></div>
-        <div class="card-def">多 (how much/many) + 少 (few, little). The standard how-much/how-many question word. 多少钱 (how much does it cost); 多少人 (how many people); 多少岁 (how old — literally "how many years"). When used without a question context, 多少 can mean "some amount" or "more or less": 多少有点儿 (somewhat, a little bit).</div>
+        <div class="card-def">多 (how much/many) + 少 (few, little). The standard how-much/how-many question word. 多少钱 (how much does it cost); 多少人 (how many people); 多少岁 (how old , literally "how many years"). When used without a question context, 多少 can mean "some amount" or "more or less": 多少有点儿 (somewhat, a little bit).</div>
         <div class="examples">
           <div class="example"><div class="ex-cn">这件衣服多少钱？</div><div class="ex-py">Zhè jiàn yīfu duōshao qián?</div><div class="ex-en">How much is this piece of clothing?</div></div>
         </div>
@@ -113,7 +113,7 @@ content_review: 'pending'
       <div class="card c-violet">
         <div class="card-head"><span class="card-cn">多亏</span><span class="card-py">duōkuī</span><span class="card-en">thanks to; fortunately (because of)</span></div>
         <div class="tags"><span class="tag tag-adv">Adv 副词</span></div>
-        <div class="card-def">多 (much) + 亏 (kuī, to be indebted to, to owe). "Much-owed-to" — fortunately thanks to X. Expresses relief that something good or fortunate happened because of another person or circumstance: 多亏你帮忙，要不然就麻烦了 (thanks to your help, otherwise it would have been a problem). Colloquial and warm in register.</div>
+        <div class="card-def">多 (much) + 亏 (kuī, to be indebted to, to owe). "Much-owed-to" , fortunately thanks to X. Expresses relief that something good or fortunate happened because of another person or circumstance: 多亏你帮忙，要不然就麻烦了 (thanks to your help, otherwise it would have been a problem). Colloquial and warm in register.</div>
         <div class="examples">
           <div class="example"><div class="ex-cn">多亏了你，我们才按时完成了任务。</div><div class="ex-py">Duōkuīle nǐ, wǒmen cái ànshí wánchéngle rènwù.</div><div class="ex-en">Thanks to you, we managed to finish the task on time.</div></div>
         </div>
@@ -134,13 +134,13 @@ content_review: 'pending'
         <span class="cy-cn">多此一举</span>
         <span class="cy-py">duō cǐ yī jǔ</span>
         <span class="cy-en">"one unnecessary action too many" — to do something superfluous</span>
-        <span class="cy-note">多 (extra, unnecessary) + 此 (this) + 一举 (one action). An extra action that wasn't needed — wasted effort that doesn't improve the result. A gentle criticism of overcaution or unnecessary elaboration: 你不用解释，多此一举 ("you don't need to explain — that's unnecessary"). Related in spirit to 画蛇添足 (adding feet to a snake), but the register is more practical and less allegorical.</span>
+        <span class="cy-note">多 (extra, unnecessary) + 此 (this) + 一举 (one action). An extra action that wasn't needed , wasted effort that doesn't improve the result. A gentle criticism of overcaution or unnecessary elaboration: 你不用解释，多此一举 ("you don't need to explain , that's unnecessary"). Related in spirit to 画蛇添足 (adding feet to a snake), but the register is more practical and less allegorical.</span>
       </div>
       <div class="cy">
         <span class="cy-cn">博采众长</span>
         <span class="cy-py">bó cǎi zhòng cháng</span>
         <span class="cy-en">"broadly gather the strengths of many" — to learn from many sources</span>
-        <span class="cy-note">博 (broad) + 采 (to gather, to select) + 众 (many, the crowd) + 长 (strengths, advantages). A virtue in learning: drawing on the best from many teachers and traditions rather than following a single school. Used for scholarship, artistic development, and leadership style. The opposite of 独树一帜 (planting one's own unique flag) — here you gather widely before synthesizing.</span>
+        <span class="cy-note">博 (broad) + 采 (to gather, to select) + 众 (many, the crowd) + 长 (strengths, advantages). A virtue in learning: drawing on the best from many teachers and traditions rather than following a single school. Used for scholarship, artistic development, and leadership style. The opposite of 独树一帜 (planting one's own unique flag) , here you gather widely before synthesizing.</span>
       </div>
     </div>
 
@@ -156,7 +156,7 @@ content_review: 'pending'
 
     <div class="scholar" data-glyph="多">
       <div class="scholar-label">记忆法 jìyìfǎ · Master Retention Image</div>
-      <p>Two evenings piled on top of each other: 夕夕 = 多. One night is one night; two nights is "many nights" — an accumulation beyond what is expected. The oracle bone scribes used doubling as their primary strategy for encoding plurality and intensity.</p>
+      <p>Two evenings piled on top of each other: 夕夕 = 多. One night is one night; two nights is "many nights" , an accumulation beyond what is expected. The oracle bone scribes used doubling as their primary strategy for encoding plurality and intensity.</p>
       <p>多少 (how much/many) puts 多 next to 少 (few), spanning the scale from maximum to minimum, and the result is a question: when you encompass the whole range, you need to know where on it you are. The most useful shopping question in Mandarin — 多少钱 — carries this ancient logic: measuring where something sits on the spectrum from none to everything.</p>
     </div>
 

@@ -110,7 +110,7 @@ content_sources:
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
       <p><strong>明 míng = 日 rì</strong> (sun) <strong>+ 月 yuè</strong> (moon). The two great lights of heaven joined in a single character. When both the sun and moon are present, what do you have? Maximum luminosity: a scene so bright nothing can hide. This is the core semantic logic: 明 means bright because it conjures the only scenario where both celestial lights shine together.</p>
       <p>In the oracle-bone script, early forms show a window with sunlight streaming through, the light of the sun entering an interior and making the dark visible. Later the moon was substituted for the window, intensifying the image. Either way, 明 has always captured the <em>meeting of light and darkness overcome.</em></p>
-      <p>The semantic spread is exact: physical brightness (明亮), mental clarity (明白, 明确), temporal horizon (明天 "the bright day coming"), and moral illumination (英明, 明君 the enlightened ruler). Light, knowledge, and tomorrow are all the same thing — what comes after darkness.</p>
+      <p>The semantic spread is exact: physical brightness (明亮), mental clarity (明白, 明确), temporal horizon (明天 "the bright day coming"), and moral illumination (英明, 明君 the enlightened ruler). Light, knowledge, and tomorrow are all the same thing , what comes after darkness.</p>
     </div>
 
     <!-- ── BRIGHTNESS ── -->

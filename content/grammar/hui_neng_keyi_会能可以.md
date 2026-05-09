@@ -78,7 +78,7 @@ pinyin: 'huì / néng / kěyǐ'
       <span class="topic-hero-eyebrow">Grammar · 语法 yǔfǎ</span>
       <h1 class="topic-hero-title">会 / 能 / 可以</h1>
       <span class="topic-hero-title-py">huì · néng · kěyǐ</span>
-      <p class="topic-hero-desc">Three modal verbs that all translate as "can" — but 会 asks <em>did you learn it?</em>, 能 asks <em>are you capable right now?</em>, and 可以 asks <em>are you allowed?</em></p>
+      <p class="topic-hero-desc">Three modal verbs that all translate as "can" , but 会 asks <em>did you learn it?</em>, 能 asks <em>are you capable right now?</em>, and 可以 asks <em>are you allowed?</em></p>
     </header>
 
     <!-- ── ETYMOLOGY ── -->
@@ -92,10 +92,10 @@ pinyin: 'huì / néng / kěyǐ'
 
     <div class="scholar" data-glyph="会">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
-      <p><strong>会 huì</strong> originally means "to assemble, to gather, to come together" — the oracle-bone form shows a lid on a vessel, things being brought together and contained. This sense of "convergence" extends to meeting (会议 conference), opportunity (机会 chance), and understanding (领会 to grasp). The path to "learned ability" runs through this: when things come together in a person through practice, they acquire a skill. 我会游泳 — the knowledge of swimming has gathered in me through training.</p>
-      <p><strong>能 néng</strong> is a pictograph of a bear — specifically the North American black bear (熊, in its older form). Bears are among the most capable and powerful animals: strong, intelligent, adaptable. The character encodes raw, intrinsic power and capacity. This is why 能 covers physical capability, functional capacity, and circumstantial ability — it is about what your nature or current situation allows, not what you have learned.</p>
-      <p><strong>可以 kěyǐ</strong> is a compound: 可 kě (acceptable, may, can — a person's mouth opening, suggesting voiced assent) + 以 yǐ (to use, by means of, in accordance with). Together: "acceptable to use; permissible by means of [rules/norms]." The original sense of 可 as assent makes 可以 fundamentally about social permission — someone or some rule has opened the gate.</p>
-      <p>These three etymological personalities persist in the grammar: 会 is the studious one (what have you learned?), 能 is the capable one (what can your body/situation do?), 可以 is the social one (what do the rules allow?). The three dimensions — learned skill, physical capacity, social permission — are genuinely distinct, which is why all three modals have survived rather than merging.</p>
+      <p><strong>会 huì</strong> originally means "to assemble, to gather, to come together" , the oracle-bone form shows a lid on a vessel, things being brought together and contained. This sense of "convergence" extends to meeting (会议 conference), opportunity (机会 chance), and understanding (领会 to grasp). The path to "learned ability" runs through this: when things come together in a person through practice, they acquire a skill. 我会游泳 , the knowledge of swimming has gathered in me through training.</p>
+      <p><strong>能 néng</strong> is a pictograph of a bear , specifically the North American black bear (熊, in its older form). Bears are among the most capable and powerful animals: strong, intelligent, adaptable. The character encodes raw, intrinsic power and capacity. This is why 能 covers physical capability, functional capacity, and circumstantial ability , it is about what your nature or current situation allows, not what you have learned.</p>
+      <p><strong>可以 kěyǐ</strong> is a compound: 可 kě (acceptable, may, can , a person's mouth opening, suggesting voiced assent) + 以 yǐ (to use, by means of, in accordance with). Together: "acceptable to use; permissible by means of [rules/norms]." The original sense of 可 as assent makes 可以 fundamentally about social permission , someone or some rule has opened the gate.</p>
+      <p>These three etymological personalities persist in the grammar: 会 is the studious one (what have you learned?), 能 is the capable one (what can your body/situation do?), 可以 is the social one (what do the rules allow?). The three dimensions , learned skill, physical capacity, social permission , are genuinely distinct, which is why all three modals have survived rather than merging.</p>
     </div>
 
     <!-- ── CORE PATTERN ── -->
@@ -109,19 +109,19 @@ pinyin: 'huì / néng / kěyǐ'
 
     <div class="pattern">
       <span class="label">能愿动词 néngyuàn dòngcí · Modal Verb Position</span>
-      <strong>Subject + 会 + Verb</strong> → 我<strong>会</strong>说中文 — learned ability (I learned Chinese)<br>
-      <strong>Subject + 能 + Verb</strong> → 我<strong>能</strong>去 — physical/circumstantial ability (I'm able to go)<br>
-      <strong>Subject + 可以 + Verb</strong> → 你<strong>可以</strong>进来 — permission (you may come in)<br>
+      <strong>Subject + 会 + Verb</strong> → 我<strong>会</strong>说中文 , learned ability (I learned Chinese)<br>
+      <strong>Subject + 能 + Verb</strong> → 我<strong>能</strong>去 , physical/circumstantial ability (I'm able to go)<br>
+      <strong>Subject + 可以 + Verb</strong> → 你<strong>可以</strong>进来 , permission (you may come in)<br>
       All three take negation with 不 before the modal: 不会 · 不能 · 不可以
     </div>
 
     <div class="scholar" data-glyph="能">
       <div class="scholar-label">学者洞见 xuézhě dòngjiàn · The Core Contrast in One Sentence</div>
       <p>The same person, same skill, three different frames:</p>
-      <p><strong>我会游泳</strong> Wǒ huì yóuyǒng — I can swim. (I learned how. I have this skill in my repertoire.)</p>
-      <p><strong>我能游泳</strong> Wǒ néng yóuyǒng — I can swim. (I am physically capable of swimming right now. My arm isn't broken, the pool is open, circumstances permit.)</p>
+      <p><strong>我会游泳</strong> Wǒ huì yóuyǒng , I can swim. (I learned how. I have this skill in my repertoire.)</p>
+      <p><strong>我能游泳</strong> Wǒ néng yóuyǒng , I can swim. (I am physically capable of swimming right now. My arm isn't broken, the pool is open, circumstances permit.)</p>
       <p><strong>我可以游泳吗？</strong> Wǒ kěyǐ yóuyǒng ma? — May I swim? (Is it allowed? Is this pool open to the public? Is there a rule against it?)</p>
-      <p>In practice, 能 and 可以 overlap in permission contexts — both can mean "may I." But 会 never overlaps with the other two on the permission dimension. 会 is exclusively about acquired skill and future likelihood.</p>
+      <p>In practice, 能 and 可以 overlap in permission contexts , both can mean "may I." But 会 never overlaps with the other two on the permission dimension. 会 is exclusively about acquired skill and future likelihood.</p>
     </div>
 
     <!-- ── 会 LEARNED SKILL ── -->
@@ -143,7 +143,7 @@ pinyin: 'huì / néng / kěyǐ'
         </div>
         <div class="tags"><span class="tag tag-v">会 + V (learned skill)</span></div>
         <div class="card-def">
-          会 indicates that a skill was acquired through learning, training, or practice. The speaker once did not have this ability and now does — through effort. This is the fundamental meaning: <em>know how to.</em> Skills that fall under 会 are typically those a person could conceivably study or be taught: languages, instruments, sports, cooking techniques, driving.
+          会 indicates that a skill was acquired through learning, training, or practice. The speaker once did not have this ability and now does , through effort. This is the fundamental meaning: <em>know how to.</em> Skills that fall under 会 are typically those a person could conceivably study or be taught: languages, instruments, sports, cooking techniques, driving.
         </div>
         <div class="examples">
           <div class="example">
@@ -164,7 +164,7 @@ pinyin: 'huì / néng / kěyǐ'
         </div>
         <div class="note">
           <span class="note-label">语法 yǔfǎ · 不会 as "don't know how"</span>
-          不会 is the standard way to say you don't know how to do something: 我不会 (I can't / I don't know how). In response to an offer of help: 你会吗？不会 (Can you? No, I can't). 不会 can also soften a refusal politely — 这个我不太会 "I'm not really very good at this."
+          不会 is the standard way to say you don't know how to do something: 我不会 (I can't / I don't know how). In response to an offer of help: 你会吗？不会 (Can you? No, I can't). 不会 can also soften a refusal politely , 这个我不太会 "I'm not really very good at this."
         </div>
       </div>
 
@@ -189,7 +189,7 @@ pinyin: 'huì / néng / kěyǐ'
         </div>
         <div class="tags"><span class="tag tag-v">会 + V (prediction)</span></div>
         <div class="card-def">
-          会 has a second major function entirely distinct from learned ability: expressing expectation, likelihood, or prediction about a future event. This 会 does not mean "has learned how to" — rain cannot "learn" to rain. Instead, it signals the speaker's confident expectation that something will occur. This is essentially a future/predictive modal.
+          会 has a second major function entirely distinct from learned ability: expressing expectation, likelihood, or prediction about a future event. This 会 does not mean "has learned how to" , rain cannot "learn" to rain. Instead, it signals the speaker's confident expectation that something will occur. This is essentially a future/predictive modal.
         </div>
         <div class="examples">
           <div class="example">
@@ -235,7 +235,7 @@ pinyin: 'huì / néng / kěyǐ'
         </div>
         <div class="tags"><span class="tag tag-v">能 (circumstantial)</span></div>
         <div class="card-def">
-          能 covers physical capacity (your body can or cannot do something) and circumstantial ability (the situation allows or does not allow). When you say 不能去, you are not saying you don't know how to go somewhere — you are saying current conditions prevent it: illness, conflicting schedule, physical barrier. The bear character is apt: the bear's capacity is contingent on its condition and situation.
+          能 covers physical capacity (your body can or cannot do something) and circumstantial ability (the situation allows or does not allow). When you say 不能去, you are not saying you don't know how to go somewhere , you are saying current conditions prevent it: illness, conflicting schedule, physical barrier. The bear character is apt: the bear's capacity is contingent on its condition and situation.
         </div>
         <div class="examples">
           <div class="example">
@@ -286,7 +286,7 @@ pinyin: 'huì / néng / kěyǐ'
         </div>
         <div class="tags"><span class="tag tag-v">可以 (permission)</span></div>
         <div class="card-def">
-          可以 is the canonical permission modal. It asks or grants social authorization — whether rules, norms, context, or a person in authority allows an action. The asker knows they have the physical ability; the question is whether they have the social right. This is the modal you reach for when entering an office, asking to take a photo, requesting to leave, checking rules.
+          可以 is the canonical permission modal. It asks or grants social authorization , whether rules, norms, context, or a person in authority allows an action. The asker knows they have the physical ability; the question is whether they have the social right. This is the modal you reach for when entering an office, asking to take a photo, requesting to leave, checking rules.
         </div>
         <div class="examples">
           <div class="example">
@@ -312,7 +312,7 @@ pinyin: 'huì / néng / kěyǐ'
         </div>
         <div class="note">
           <span class="note-label">辨析 biànxī · 不可以 vs. 不能 in prohibition</span>
-          Both 不可以 and 不能 can express prohibition, but with different emphasis. <strong>不可以</strong> = you are not permitted (rule-based). <strong>不能</strong> = you are not able to / must not (the circumstance or condition does not allow it). In practice the distinction is soft — both work in most prohibition contexts. But signs and official notices tend toward 不可以 or 禁止 (forbidden), while personal constraints use 不能.
+          Both 不可以 and 不能 can express prohibition, but with different emphasis. <strong>不可以</strong> = you are not permitted (rule-based). <strong>不能</strong> = you are not able to / must not (the circumstance or condition does not allow it). In practice the distinction is soft , both work in most prohibition contexts. But signs and official notices tend toward 不可以 or 禁止 (forbidden), while personal constraints use 不能.
         </div>
       </div>
 
@@ -361,7 +361,7 @@ pinyin: 'huì / néng / kěyǐ'
         </div>
         <div class="tags"><span class="tag tag-v">overlap zone</span></div>
         <div class="card-def">
-          When asking about skills, 会 is the baseline question (do you know how?). 能 asks whether current conditions allow you to exercise that skill. 你会游泳吗 asks if you learned swimming. 你现在能游泳吗 asks whether you can swim right now (implying there might be a reason you couldn't — injury, no pool, no swimsuit). In practice, both are used loosely and context usually disambiguates.
+          When asking about skills, 会 is the baseline question (do you know how?). 能 asks whether current conditions allow you to exercise that skill. 你会游泳吗 asks if you learned swimming. 你现在能游泳吗 asks whether you can swim right now (implying there might be a reason you couldn't , injury, no pool, no swimsuit). In practice, both are used loosely and context usually disambiguates.
         </div>
         <div class="examples">
           <div class="example">
@@ -372,7 +372,7 @@ pinyin: 'huì / néng / kěyǐ'
         </div>
         <div class="note">
           <span class="note-label">规律 guīlǜ · The iron rule</span>
-          会 NEVER means "is permitted to." 不会 NEVER means "is not allowed to." If the question is about permission or prohibition, 会/不会 is wrong — use 可以/不可以 or 能/不能. This is the one firm boundary: 会 stays in the domain of learned ability and future expectation only.
+          会 NEVER means "is permitted to." 不会 NEVER means "is not allowed to." If the question is about permission or prohibition, 会/不会 is wrong , use 可以/不可以 or 能/不能. This is the one firm boundary: 会 stays in the domain of learned ability and future expectation only.
         </div>
       </div>
 
@@ -423,7 +423,7 @@ pinyin: 'huì / néng / kěyǐ'
           <tr>
             <td class="td-cn">— (overlap)</td>
             <td>能 ≈ 可以 in permission (colloquial)</td>
-            <td colspan="3">你能来吗 ≈ 你可以来吗 — both natural in casual speech</td>
+            <td colspan="3">你能来吗 ≈ 你可以来吗 , both natural in casual speech</td>
           </tr>
         </tbody>
       </table>
@@ -451,7 +451,7 @@ pinyin: 'huì / néng / kěyǐ'
         <span class="cy-cn">各有所能</span>
         <span class="cy-py">gè yǒu suǒ néng</span>
         <span class="cy-en">each has their own abilities — everyone has something they're good at</span>
-        <span class="cy-note">Lit: each-has-what-[they]-can[do]. A Confucian-flavored observation about the distribution of talent. Used to affirm that different people excel in different domains — a polite and diplomatic formula. 人各有所能，没什么好比较的 "Everyone has their own abilities; there's nothing to compare."</span>
+        <span class="cy-note">Lit: each-has-what-[they]-can[do]. A Confucian-flavored observation about the distribution of talent. Used to affirm that different people excel in different domains , a polite and diplomatic formula. 人各有所能，没什么好比较的 "Everyone has their own abilities; there's nothing to compare."</span>
       </div>
 
       <div class="cy">
@@ -465,7 +465,7 @@ pinyin: 'huì / néng / kěyǐ'
         <span class="cy-cn">能屈能伸</span>
         <span class="cy-py">néng qū néng shēn</span>
         <span class="cy-en">able to bend and able to stretch — flexible and adaptable</span>
-        <span class="cy-note">Lit: can-yield-can-extend. Describes someone who knows when to be humble and when to assert themselves — a virtue prized in Chinese social thought. 大丈夫能屈能伸 "A real man of character can yield and can rise again." 屈 = to yield, bow; 伸 = to stretch out, extend.</span>
+        <span class="cy-note">Lit: can-yield-can-extend. Describes someone who knows when to be humble and when to assert themselves , a virtue prized in Chinese social thought. 大丈夫能屈能伸 "A real man of character can yield and can rise again." 屈 = to yield, bow; 伸 = to stretch out, extend.</span>
       </div>
 
     </div>

@@ -110,10 +110,10 @@ updated: '2026-04-25'
 
     <div class="scholar" data-glyph="更">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
-      <p>更 is composed of <strong>丙 bǐng</strong> (the third Heavenly Stem, a pictograph variously interpreted as a fish tail or a flat table surface) plus a modifying element that scholars associate with a hand holding a tool. Oracle bone and bronze inscriptions show the hand-and-object combination clearly: something being grasped to mark or alter. The core semantic territory is <em>alteration</em> and <em>replacement</em> — the hand changes what is held.</p>
+      <p>更 is composed of <strong>丙 bǐng</strong> (the third Heavenly Stem, a pictograph variously interpreted as a fish tail or a flat table surface) plus a modifying element that scholars associate with a hand holding a tool. Oracle bone and bronze inscriptions show the hand-and-object combination clearly: something being grasped to mark or alter. The core semantic territory is <em>alteration</em> and <em>replacement</em> , the hand changes what is held.</p>
       <p>The radical 曰 yuē (speech; to say) appears in the modern simplified form, but this is a graphic accident of script simplification rather than a semantic component. The older form preserves the hand-tool relationship more legibly.</p>
-      <p>Two distinct Old Chinese words converged onto this one graph. The word meaning "to change, to replace" gave the first-tone reading gēng. The comparative adverb meaning "even more, still more" — related to going further, extending beyond — gave the fourth-tone reading gèng. Modern Mandarin carries both forward, distinguished only by tone.</p>
-      <p>The bridge between them is the <strong>night watch</strong>. Each 更 gēng was a change of guard — a replacement of the watchman walking rounds through the sleeping city. 更 became the standard unit of night-time precisely because each unit marked a replacement, a turning of the wheel.</p>
+      <p>Two distinct Old Chinese words converged onto this one graph. The word meaning "to change, to replace" gave the first-tone reading gēng. The comparative adverb meaning "even more, still more" , related to going further, extending beyond , gave the fourth-tone reading gèng. Modern Mandarin carries both forward, distinguished only by tone.</p>
+      <p>The bridge between them is the <strong>night watch</strong>. Each 更 gēng was a change of guard , a replacement of the watchman walking rounds through the sleeping city. 更 became the standard unit of night-time precisely because each unit marked a replacement, a turning of the wheel.</p>
     </div>
 
     <!-- ── TWO READINGS ── -->
@@ -127,8 +127,8 @@ updated: '2026-04-25'
 
     <div class="pattern">
       <span class="label">两读对比 liǎng dú duìbǐ · Reading at a Glance</span>
-      <strong>gèng 更</strong> (4th tone) — comparative adverb: <em>even more, still more</em>. Pushes a comparison further. 这个更好。This one is even better.<br>
-      <strong>gēng 更</strong> (1st tone) — verb: <em>to change, to replace, to renew</em>. Also: the unit of the night-watch division. 万象更新。All things are renewed. 三更。The third watch — midnight.
+      <strong>gèng 更</strong> (4th tone) , comparative adverb: <em>even more, still more</em>. Pushes a comparison further. 这个更好。This one is even better.<br>
+      <strong>gēng 更</strong> (1st tone) , verb: <em>to change, to replace, to renew</em>. Also: the unit of the night-watch division. 万象更新。All things are renewed. 三更。The third watch , midnight.
     </div>
 
     <!-- ── GRAMMAR PATTERNS ── -->
@@ -143,7 +143,7 @@ updated: '2026-04-25'
     <div class="scholar" data-glyph="更">
       <div class="scholar-label">语法洞见 yǔfǎ dòngjiàn · Grammar Insight</div>
       <p>更 gèng is the workhorse of Chinese comparative escalation. Where English piles on "even" before an already comparative form ("even better"), Chinese inserts 更 directly before the adjective or verb. It can stand alone or compound into 更加 gèngjiā for additional force. In formal registers, 更加 is strongly preferred; in speech, bare 更 is entirely natural.</p>
-      <p>The 比 comparison frame — A 比 B 更 Adj — is the standard written structure, though in spoken Chinese the 更 often appears without 比: 我更喜欢这个 "I like this one more." Both are correct; the 比 frame makes the comparison object explicit.</p>
+      <p>The 比 comparison frame , A 比 B 更 Adj , is the standard written structure, though in spoken Chinese the 更 often appears without 比: 我更喜欢这个 "I like this one more." Both are correct; the 比 frame makes the comparison object explicit.</p>
       <p>更何况 gèng hékuàng functions as a rhetorical escalator: "if even X is the case, then 更何况 Y" (let alone Y, much less Y). It introduces the more extreme case and is common in argumentative prose and debate.</p>
     </div>
 
@@ -261,7 +261,7 @@ updated: '2026-04-25'
           <div class="example">
             <div class="ex-cn">连我都不知道，更何况他。</div>
             <div class="ex-py">Lián wǒ dōu bù zhīdào, gèng hékuàng tā.</div>
-            <div class="ex-en">Even I don't know — let alone him.</div>
+            <div class="ex-en">Even I don't know , let alone him.</div>
           </div>
         </div>
         <div class="note">
@@ -302,7 +302,7 @@ updated: '2026-04-25'
           <div class="example">
             <div class="ex-cn">万象更新，新年快乐！</div>
             <div class="ex-py">Wànxiàng gēngxīn, xīnnián kuàilè!</div>
-            <div class="ex-en">All things are renewed — Happy New Year!</div>
+            <div class="ex-en">All things are renewed , Happy New Year!</div>
           </div>
         </div>
         <div class="note">
@@ -395,8 +395,8 @@ updated: '2026-04-25'
 
     <div class="scholar" data-glyph="更">
       <div class="scholar-label">历史文化 lìshǐ wénhuà · Historical Culture</div>
-      <p>Before clocks, the Chinese night had its own arithmetic. The hours between sunset and sunrise were divided into five 更 gēng, each running approximately two hours. A watchman — the 更夫 gēngfū — walked his circuit and beat a drum or wooden clapper to announce each new watch. That sound was the sonic clock of premodern China: you did not check the time, you heard it arrive.</p>
-      <p><strong>打更 dǎ gēng</strong> — to beat the watch — was an official municipal function. In large cities the watchmen moved in coordinated circuits; in smaller towns a single man might cover the whole settlement. The drum strokes themselves carried information: the number of beats corresponded to the watch number, so a listener anywhere in the city could orient themselves in the night by sound alone.</p>
+      <p>Before clocks, the Chinese night had its own arithmetic. The hours between sunset and sunrise were divided into five 更 gēng, each running approximately two hours. A watchman , the 更夫 gēngfū , walked his circuit and beat a drum or wooden clapper to announce each new watch. That sound was the sonic clock of premodern China: you did not check the time, you heard it arrive.</p>
+      <p><strong>打更 dǎ gēng</strong> , to beat the watch , was an official municipal function. In large cities the watchmen moved in coordinated circuits; in smaller towns a single man might cover the whole settlement. The drum strokes themselves carried information: the number of beats corresponded to the watch number, so a listener anywhere in the city could orient themselves in the night by sound alone.</p>
     </div>
 
     <div class="table-wrap">
@@ -440,7 +440,7 @@ updated: '2026-04-25'
 
     <div class="scholar" data-glyph="更">
       <div class="scholar-label">词汇延伸 cíhuì yánshēn · Vocabulary from the Watch</div>
-      <p><strong>三更半夜 sāngēng bànyè</strong> — "the third watch, past midnight" — is the phrase that survived into modern colloquial Chinese. Use it when someone calls at an unreasonable hour: 你三更半夜打电话干什么？What are you calling in the middle of the night for? The 更 here is gēng, first tone; the phrase preserves the classical timekeeping system in everyday speech without most speakers noticing its etymology.</p>
+      <p><strong>三更半夜 sāngēng bànyè</strong> , "the third watch, past midnight" , is the phrase that survived into modern colloquial Chinese. Use it when someone calls at an unreasonable hour: 你三更半夜打电话干什么？What are you calling in the middle of the night for? The 更 here is gēng, first tone; the phrase preserves the classical timekeeping system in everyday speech without most speakers noticing its etymology.</p>
       <p>The phrase maps to a specific time window — roughly 11 pm to 1 am — but in modern use functions simply as "the dead of night," any hour that feels unreasonably late or dark.</p>
     </div>
 

@@ -252,14 +252,14 @@ sources:
     </div>
 
     <div class="pattern">
-      <span class="label">A 跟 B 有关系 / 没关系 — connection structure</span>
+      <span class="label">A 跟 B 有关系 / 没关系 , connection structure</span>
       <p>关系 (guānxi, relation) anchors a productive set of patterns for asserting or denying that two things are connected.</p>
       <p><code>A 跟 B 有 / 没 + 关系</code></p>
       <ul>
-        <li>这件事跟我没关系。(Zhè jiàn shì gēn wǒ méi guānxi.) — This has nothing to do with me.</li>
-        <li>他和那家公司有关系。(Tā hé nà jiā gōngsī yǒu guānxi.) — He has a connection to that company.</li>
-        <li>没关系。(Méi guānxi.) — It doesn't matter. / No problem. (one of the ten most-used phrases in Mandarin)</li>
-        <li>没关系，下次再来。(Méi guānxi, xià cì zài lái.) — Don't worry about it, come again next time.</li>
+        <li>这件事跟我没关系。(Zhè jiàn shì gēn wǒ méi guānxi.) , This has nothing to do with me.</li>
+        <li>他和那家公司有关系。(Tā hé nà jiā gōngsī yǒu guānxi.) , He has a connection to that company.</li>
+        <li>没关系。(Méi guānxi.) , It doesn't matter. / No problem. (one of the ten most-used phrases in Mandarin)</li>
+        <li>没关系，下次再来。(Méi guānxi, xià cì zài lái.) , Don't worry about it, come again next time.</li>
       </ul>
       <p>没关系 began as the literal "there is no connection" and has worn into a softener used wherever English would say "it's fine" or "no problem." The standalone 关于 (guānyú) functions as a preposition meaning "regarding, about": 关于这个问题 (guānyú zhè ge wèntí), "regarding this question."</p>
     </div>
@@ -327,7 +327,7 @@ sources:
           <span class="card-py">guānzhù</span>
           <span class="card-en">to pay attention to; to follow (a person, topic, account)</span>
         </div>
-        <p class="card-def">关 (turn toward) + 注 (pour, focus). A more sustained, attentional kind of caring: to keep one's eye on a developing situation, a public figure, or a news story. On Weibo and other social platforms, 关注 is the verb for "follow" — the button you press to subscribe to someone's posts. 我关注他很久了 (Wǒ guānzhù tā hěn jiǔ le), "I've been following him for a long time."</p>
+        <p class="card-def">关 (turn toward) + 注 (pour, focus). A more sustained, attentional kind of caring: to keep one's eye on a developing situation, a public figure, or a news story. On Weibo and other social platforms, 关注 is the verb for "follow" , the button you press to subscribe to someone's posts. 我关注他很久了 (Wǒ guānzhù tā hěn jiǔ le), "I've been following him for a long time."</p>
       </div>
       <div class="card c-violet">
         <div class="tags"><span class="tag tag-v">v</span></div>
@@ -350,14 +350,14 @@ sources:
     </div>
 
     <div class="pattern">
-      <span class="label">关 / 开 — the universal switch pair</span>
+      <span class="label">关 / 开 , the universal switch pair</span>
       <p>关 is the inverse of 开 across the household and the device drawer. Anything 开 turns on, 关 turns off; any door 开 opens, 关 shuts. The pairing is so tight that the two characters appear together as a noun: 开关 (kāiguān), "switch."</p>
       <ul>
-        <li>关门 / 开门 — close the door / open the door</li>
-        <li>关灯 / 开灯 — turn off the light / turn on the light</li>
-        <li>关机 / 开机 — power off / power on</li>
-        <li>关电视 / 开电视 — turn off the TV / turn on the TV</li>
-        <li>开关 (kāiguān) — a switch (the noun for the device itself)</li>
+        <li>关门 / 开门 , close the door / open the door</li>
+        <li>关灯 / 开灯 , turn off the light / turn on the light</li>
+        <li>关机 / 开机 , power off / power on</li>
+        <li>关电视 / 开电视 , turn off the TV / turn on the TV</li>
+        <li>开关 (kāiguān) , a switch (the noun for the device itself)</li>
       </ul>
       <p>The two diverge once you leave the device drawer. Where 开 stretches into starting (开始), driving (开车), holding meetings (开会), and blooming (开花), 关 stays close to the gate. The endings of those events are not 关 but 结束 (jiéshù, conclude), 散 (sàn, disperse), or 谢 (xiè, wither). The pairing is symmetric for switches; for events, the ending verb is chosen by what kind of event it is.</p>
     </div>
@@ -375,7 +375,7 @@ sources:
       <div class="cy">
         <div class="cy-cn">关门大吉</div>
         <div class="cy-py">guān mén dà jí</div>
-        <div class="cy-en">"close the door, great fortune" — wrap things up auspiciously; (sardonically) shut down for good</div>
+        <div class="cy-en">"close the door, great fortune" , wrap things up auspiciously; (sardonically) shut down for good</div>
         <div class="cy-note">Originally a polite phrase wishing a shop or project a fortunate close to the day's business. Modern usage is largely sardonic: said of a venture that is failing and might as well shut down. Newspaper writers use it to describe bankrupt companies.</div>
       </div>
       <div class="cy">

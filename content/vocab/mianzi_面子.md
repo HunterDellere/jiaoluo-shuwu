@@ -118,18 +118,18 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          The core concept — one's standing, prestige, and dignity in the social network. 面子 is earned through status (wealth, position, age, education), accumulated through demonstrated competence and respect, and managed through careful social performance. It can be given, lost, saved, and taken.
+          The core concept , one's standing, prestige, and dignity in the social network. 面子 is earned through status (wealth, position, age, education), accumulated through demonstrated competence and respect, and managed through careful social performance. It can be given, lost, saved, and taken.
         </div>
         <div class="examples">
           <div class="example">
             <div class="ex-cn">他很爱面子，不喜欢在人前承认错误。</div>
             <div class="ex-py">Tā hěn ài miànzi, bù xǐhuān zài rén qián chéngrèn cuòwù.</div>
-            <div class="ex-en">He cares a lot about face — he doesn't like admitting mistakes in front of people.</div>
+            <div class="ex-en">He cares a lot about face , he doesn't like admitting mistakes in front of people.</div>
           </div>
           <div class="example">
             <div class="ex-cn">给他留点面子，别当众批评他。</div>
             <div class="ex-py">Gěi tā liú diǎn miànzi, bié dāngzhòng pīpíng tā.</div>
-            <div class="ex-en">Leave him some face — don't criticize him in public.</div>
+            <div class="ex-en">Leave him some face , don't criticize him in public.</div>
           </div>
           <div class="example">
             <div class="ex-cn">在朋友面前有面子，他感到很高兴。</div>
@@ -147,7 +147,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-adj">Adj phrase 形容词短语</span></div>
         <div class="card-def">
-          To possess and display face — to be in a position of recognized prestige or to feel that your standing has been acknowledged or elevated. Certain possessions, positions, and associations give face: luxury goods, titles, famous friends, prestigious education. Being seen with the right people or in the right places gives face.
+          To possess and display face , to be in a position of recognized prestige or to feel that your standing has been acknowledged or elevated. Certain possessions, positions, and associations give face: luxury goods, titles, famous friends, prestigious education. Being seen with the right people or in the right places gives face.
         </div>
         <div class="examples">
           <div class="example">
@@ -158,7 +158,7 @@ content_sources:
           <div class="example">
             <div class="ex-cn">他在同学面前很有面子，大家都尊重他。</div>
             <div class="ex-py">Tā zài tóngxué miànqián hěn yǒu miànzi, dàjiā dōu zūnzhòng tā.</div>
-            <div class="ex-en">He has a lot of face among his classmates — everyone respects him.</div>
+            <div class="ex-en">He has a lot of face among his classmates , everyone respects him.</div>
           </div>
           <div class="example">
             <div class="ex-cn">你来参加我的婚礼，让我很有面子。</div>
@@ -176,7 +176,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-adj">Adj phrase 形容词短语</span></div>
         <div class="card-def">
-          To be without face — whether because one has lost it through embarrassing behavior or because one's status is insufficient to command it. 没面子 is the social embarrassment register, distinct from the moral shame of 丢脸. Being criticized publicly, failing in front of peers, or having one's status undermined all create 没面子 situations.
+          To be without face , whether because one has lost it through embarrassing behavior or because one's status is insufficient to command it. 没面子 is the social embarrassment register, distinct from the moral shame of 丢脸. Being criticized publicly, failing in front of peers, or having one's status undermined all create 没面子 situations.
         </div>
         <div class="examples">
           <div class="example">
@@ -192,7 +192,7 @@ content_sources:
           <div class="example">
             <div class="ex-cn">在客户面前出了这么大的错，真没面子。</div>
             <div class="ex-py">Zài kèhù miànqián chū le zhème dà de cuò, zhēn méi miànzi.</div>
-            <div class="ex-en">Making such a big mistake in front of a client — that's really face-losing.</div>
+            <div class="ex-en">Making such a big mistake in front of a client , that's really face-losing.</div>
           </div>
         </div>
       </div>
@@ -218,18 +218,18 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-v">V phrase 动词短语</span></div>
         <div class="card-def">
-          给 (to give) + 面子. To actively enhance or protect someone else's face. Can mean: attending their event (your presence honors them), publicly praising them, deferring to them in front of others, or not challenging them when they are wrong — to spare their embarrassment. A powerful social act of generosity.
+          给 (to give) + 面子. To actively enhance or protect someone else's face. Can mean: attending their event (your presence honors them), publicly praising them, deferring to them in front of others, or not challenging them when they are wrong , to spare their embarrassment. A powerful social act of generosity.
         </div>
         <div class="examples">
           <div class="example">
             <div class="ex-cn">他亲自来了，给了我很大的面子。</div>
             <div class="ex-py">Tā qīnzì lái le, gěi le wǒ hěn dà de miànzi.</div>
-            <div class="ex-en">He came in person — that gave me enormous face.</div>
+            <div class="ex-en">He came in person , that gave me enormous face.</div>
           </div>
           <div class="example">
             <div class="ex-cn">给他个面子，这件事就算了吧。</div>
             <div class="ex-py">Gěi tā gè miànzi, zhè jiàn shì jiù suàn le ba.</div>
-            <div class="ex-en">Give him face — let's just let this matter drop.</div>
+            <div class="ex-en">Give him face , let's just let this matter drop.</div>
           </div>
           <div class="example">
             <div class="ex-cn">在众人面前夸他，是在给他面子。</div>
@@ -247,13 +247,13 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-v">V phrase 动词短语</span></div>
         <div class="card-def">
-          丢 diū (to lose; to throw away — the losing of something you once had). To lose face is not merely to feel embarrassed privately; it is to have one's standing visibly diminished in the eyes of others. The public, witnessed nature of face-loss is what makes it significant. Private failure is survivable; public face-loss restructures relationships.
+          丢 diū (to lose; to throw away , the losing of something you once had). To lose face is not merely to feel embarrassed privately; it is to have one's standing visibly diminished in the eyes of others. The public, witnessed nature of face-loss is what makes it significant. Private failure is survivable; public face-loss restructures relationships.
         </div>
         <div class="examples">
           <div class="example">
             <div class="ex-cn">当着那么多人的面出错，真的很丢面子。</div>
             <div class="ex-py">Dāng zhe nàme duō rén de miàn chū cuò, zhēn de hěn diū miànzi.</div>
-            <div class="ex-en">Making a mistake in front of so many people — that really loses face.</div>
+            <div class="ex-en">Making a mistake in front of so many people , that really loses face.</div>
           </div>
           <div class="example">
             <div class="ex-cn">他不想在重要客户面前丢面子。</div>
@@ -263,7 +263,7 @@ content_sources:
           <div class="example">
             <div class="ex-cn">这次失败让他丢了很多面子，恢复起来不容易。</div>
             <div class="ex-py">Zhè cì shībài ràng tā diū le hěn duō miànzi, huīfù qǐlái bù róngyì.</div>
-            <div class="ex-en">This failure cost him a lot of face — recovering from it won't be easy.</div>
+            <div class="ex-en">This failure cost him a lot of face , recovering from it won't be easy.</div>
           </div>
         </div>
       </div>
@@ -276,13 +276,13 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-v">V phrase 动词短语</span></div>
         <div class="card-def">
-          爱 (to love; to value; to be attached to). 爱面子 describes someone who places unusually high value on face — so much so that their behavior is shaped by the desire to maintain appearances even when it conflicts with practical sense. The phrase is mildly critical: it implies that face-consciousness has reached an impractical level.
+          爱 (to love; to value; to be attached to). 爱面子 describes someone who places unusually high value on face , so much so that their behavior is shaped by the desire to maintain appearances even when it conflicts with practical sense. The phrase is mildly critical: it implies that face-consciousness has reached an impractical level.
         </div>
         <div class="examples">
           <div class="example">
             <div class="ex-cn">他太爱面子了，有时候明明不懂也不肯问。</div>
             <div class="ex-py">Tā tài ài miànzi le, yǒushíhou míngmíng bù dǒng yě bù kěn wèn.</div>
-            <div class="ex-en">He cares too much about face — sometimes he clearly doesn't understand something but refuses to ask.</div>
+            <div class="ex-en">He cares too much about face , sometimes he clearly doesn't understand something but refuses to ask.</div>
           </div>
           <div class="example">
             <div class="ex-cn">爱面子是好事，但过度就会给自己添麻烦。</div>
@@ -300,7 +300,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-v">V phrase 动词短语</span></div>
         <div class="card-def">
-          顾 gù (to consider; to look after; to take into account). 顾面子 means to take face into consideration when making decisions or acting — whether one's own face or someone else's. More deliberate and conscious than simply 给面子. Suggests a thoughtful navigation of face dynamics.
+          顾 gù (to consider; to look after; to take into account). 顾面子 means to take face into consideration when making decisions or acting , whether one's own face or someone else's. More deliberate and conscious than simply 给面子. Suggests a thoughtful navigation of face dynamics.
         </div>
         <div class="examples">
           <div class="example">
@@ -344,7 +344,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          The face of moral character — what you can show because you have acted with integrity. 要脸 (to care about one's dignity/honor) and 不要脸 (shameless — lit. "doesn't want face") are both about this moral dimension. 脸 is your due as a person of character; it cannot be given by others, only earned and lost.
+          The face of moral character , what you can show because you have acted with integrity. 要脸 (to care about one's dignity/honor) and 不要脸 (shameless , lit. "doesn't want face") are both about this moral dimension. 脸 is your due as a person of character; it cannot be given by others, only earned and lost.
         </div>
         <div class="examples">
           <div class="example">
@@ -355,17 +355,17 @@ content_sources:
           <div class="example">
             <div class="ex-cn">他是个要脸的人，绝对不会这样做。</div>
             <div class="ex-py">Tā shì gè yào liǎn de rén, juéduì bù huì zhèyàng zuò.</div>
-            <div class="ex-en">He's a person who cares about his integrity — he would absolutely never do that.</div>
+            <div class="ex-en">He's a person who cares about his integrity , he would absolutely never do that.</div>
           </div>
           <div class="example">
             <div class="ex-cn">这件事太丢脸了，我没脸见人。</div>
             <div class="ex-py">Zhè jiàn shì tài diū liǎn le, wǒ méi liǎn jiàn rén.</div>
-            <div class="ex-en">This matter is too shameful — I can't face anyone.</div>
+            <div class="ex-en">This matter is too shameful , I can't face anyone.</div>
           </div>
         </div>
         <div class="note">
           <span class="note-label">辨析 biànxī · 面子 vs. 脸 summary</span>
-          <strong>面子</strong> = social prestige; given by others; recoverable. <strong>脸</strong> = moral character; inherent; harder to recover once lost. <strong>丢面子</strong> = social embarrassment. <strong>丢脸</strong> = moral shame. <strong>给面子</strong> = honor someone socially. <strong>不要脸</strong> = shameless (moral insult — use with caution; highly offensive).
+          <strong>面子</strong> = social prestige; given by others; recoverable. <strong>脸</strong> = moral character; inherent; harder to recover once lost. <strong>丢面子</strong> = social embarrassment. <strong>丢脸</strong> = moral shame. <strong>给面子</strong> = honor someone socially. <strong>不要脸</strong> = shameless (moral insult , use with caution; highly offensive).
         </div>
       </div>
 
@@ -377,7 +377,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-v">V phrase 动词短语</span></div>
         <div class="card-def">
-          More severe than 丢面子. 丢脸 involves an element of moral failure — betrayal, cheating, acting in ways that contradict one's stated principles. Can affect not just the individual but their family and group. The scope is broader and the damage more lasting than simple social embarrassment.
+          More severe than 丢面子. 丢脸 involves an element of moral failure , betrayal, cheating, acting in ways that contradict one's stated principles. Can affect not just the individual but their family and group. The scope is broader and the damage more lasting than simple social embarrassment.
         </div>
         <div class="examples">
           <div class="example">
@@ -388,7 +388,7 @@ content_sources:
           <div class="example">
             <div class="ex-cn">考试作弊是很丢脸的事，不只是处分的问题。</div>
             <div class="ex-py">Kǎoshì zuòbì shì hěn diū liǎn de shì, bù zhǐ shì chǔfēn de wèntí.</div>
-            <div class="ex-en">Cheating on exams is deeply shameful — it's not just a matter of punishment.</div>
+            <div class="ex-en">Cheating on exams is deeply shameful , it's not just a matter of punishment.</div>
           </div>
         </div>
       </div>
@@ -401,7 +401,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          A compound that fuses both face concepts. 脸面 covers the full spectrum — both the social prestige dimension of 面子 and the moral character dimension of 脸. Often used in contexts where both are at stake: 要顾脸面 (to consider one's dignity) means both social standing and personal integrity.
+          A compound that fuses both face concepts. 脸面 covers the full spectrum , both the social prestige dimension of 面子 and the moral character dimension of 脸. Often used in contexts where both are at stake: 要顾脸面 (to consider one's dignity) means both social standing and personal integrity.
         </div>
         <div class="examples">
           <div class="example">
@@ -412,7 +412,7 @@ content_sources:
           <div class="example">
             <div class="ex-cn">他是个很有脸面的人，在当地很受尊敬。</div>
             <div class="ex-py">Tā shì gè hěn yǒu liǎnmiàn de rén, zài dāngdì hěn shòu zūnjìng.</div>
-            <div class="ex-en">He's a person of great face — very respected in the local community.</div>
+            <div class="ex-en">He's a person of great face , very respected in the local community.</div>
           </div>
         </div>
       </div>
@@ -438,13 +438,13 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          The same 面 character. In northern China, 面 = wheat-flour dough → noodles. The flat, surface-like sheet of worked dough becomes strips (条 tiáo = strip). A vivid reminder that 面 means "surface/face" in the most general sense — the flat plane. 手擀面 (hand-rolled noodles), 拉面 (pulled noodles), 刀削面 (knife-shaved noodles) all use this 面.
+          The same 面 character. In northern China, 面 = wheat-flour dough → noodles. The flat, surface-like sheet of worked dough becomes strips (条 tiáo = strip). A vivid reminder that 面 means "surface/face" in the most general sense , the flat plane. 手擀面 (hand-rolled noodles), 拉面 (pulled noodles), 刀削面 (knife-shaved noodles) all use this 面.
         </div>
         <div class="examples">
           <div class="example">
             <div class="ex-cn">我想吃面条，来一碗手擀面。</div>
             <div class="ex-py">Wǒ xiǎng chī miàntiáo, lái yī wǎn shǒu gǎn miàn.</div>
-            <div class="ex-en">I want noodles — a bowl of hand-rolled noodles, please.</div>
+            <div class="ex-en">I want noodles , a bowl of hand-rolled noodles, please.</div>
           </div>
           <div class="example">
             <div class="ex-cn">北方人喜欢吃面条，南方人偏爱米饭。</div>
@@ -483,7 +483,7 @@ content_sources:
           <div class="example">
             <div class="ex-cn">我们必须面对现实，情况没有我们想的那么好。</div>
             <div class="ex-py">Wǒmen bìxū miànduì xiànshí, qíngkuàng méiyǒu wǒmen xiǎng de nàme hǎo.</div>
-            <div class="ex-en">We must face reality — the situation is not as good as we thought.</div>
+            <div class="ex-en">We must face reality , the situation is not as good as we thought.</div>
           </div>
         </div>
       </div>
@@ -496,7 +496,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          方 (direction; side) + 面 (face; surface). A particular "side" or "face" of a topic — one of the aspects of a multi-sided issue. Extremely common in academic, journalistic, and analytical Chinese. 在这方面 (in this regard), 各个方面 (all aspects), and 经济方面 (in terms of economics) are standard expressions.
+          方 (direction; side) + 面 (face; surface). A particular "side" or "face" of a topic , one of the aspects of a multi-sided issue. Extremely common in academic, journalistic, and analytical Chinese. 在这方面 (in this regard), 各个方面 (all aspects), and 经济方面 (in terms of economics) are standard expressions.
         </div>
         <div class="examples">
           <div class="example">
@@ -507,7 +507,7 @@ content_sources:
           <div class="example">
             <div class="ex-cn">这个问题涉及很多方面，不能简单处理。</div>
             <div class="ex-py">Zhège wèntí shèjí hěn duō fāngmiàn, bù néng jiǎndān chǔlǐ.</div>
-            <div class="ex-en">This issue involves many aspects — it can't be handled simplistically.</div>
+            <div class="ex-en">This issue involves many aspects , it can't be handled simplistically.</div>
           </div>
           <div class="example">
             <div class="ex-cn">在技术方面，我们已经取得了很大进步。</div>
@@ -525,7 +525,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          界 (boundary; boundary marker) + 面 (surface; face). The surface at the boundary between two things. In technology and computing: the user interface (用户界面 yònghù jièmiàn), screen interface. In science: the interface between two phases or systems. The conceptual core — a 面 (surface) at the 界 (boundary) — is the same in both domains.
+          界 (boundary; boundary marker) + 面 (surface; face). The surface at the boundary between two things. In technology and computing: the user interface (用户界面 yònghù jièmiàn), screen interface. In science: the interface between two phases or systems. The conceptual core , a 面 (surface) at the 界 (boundary) , is the same in both domains.
         </div>
         <div class="examples">
           <div class="example">
@@ -554,7 +554,7 @@ content_sources:
 
     <div class="pattern">
       <span class="label">面子动词 miànzi dòngcí · The Verbs of Face</span>
-      Face in Chinese is not a passive quality — it is actively transacted through specific verbs. These verb-face combinations are the grammar of social interaction and must be learned as fixed units.
+      Face in Chinese is not a passive quality , it is actively transacted through specific verbs. These verb-face combinations are the grammar of social interaction and must be learned as fixed units.
     </div>
 
     <div class="table-wrap">
@@ -584,7 +584,7 @@ content_sources:
             <td class="td-cn">留面子</td>
             <td class="td-py">liú miànzi</td>
             <td>to leave/preserve someone's face</td>
-            <td>给他留点面子，别当众批评。<span class="td-small td-py-sm">Leave him some face — don't criticize in public.</span></td>
+            <td>给他留点面子，别当众批评。<span class="td-small td-py-sm">Leave him some face , don't criticize in public.</span></td>
           </tr>
           <tr>
             <td class="td-cn">顾面子</td>
@@ -647,28 +647,28 @@ content_sources:
         <span class="cy-cn">面面俱到</span>
         <span class="cy-py">miàn miàn jù dào</span>
         <span class="cy-en">"every face/side fully reached" — thorough; covering all aspects; comprehensive</span>
-        <span class="cy-note">Lit: face-face-all-reached. Used approvingly for work that covers every angle and leaves nothing out. 他的报告面面俱到，没有遗漏任何一个细节。"His report was thorough — it left out no detail." Can also carry a slightly critical implication that something is overly cautious or tries to please everyone.</span>
+        <span class="cy-note">Lit: face-face-all-reached. Used approvingly for work that covers every angle and leaves nothing out. 他的报告面面俱到，没有遗漏任何一个细节。"His report was thorough , it left out no detail." Can also carry a slightly critical implication that something is overly cautious or tries to please everyone.</span>
       </div>
 
       <div class="cy">
         <span class="cy-cn">面不改色</span>
         <span class="cy-py">miàn bù gǎi sè</span>
         <span class="cy-en">"face doesn't change color" — unruffled; keeping composure under pressure; poker-faced</span>
-        <span class="cy-note">Lit: face-not-change-color. The mark of composure under pressure — your face doesn't betray fear, surprise, or discomfort. 他面不改色地接受了批评，继续进行演讲。"He received the criticism without changing expression and continued his speech." Often admired as a sign of courage or self-discipline.</span>
+        <span class="cy-note">Lit: face-not-change-color. The mark of composure under pressure , your face doesn't betray fear, surprise, or discomfort. 他面不改色地接受了批评，继续进行演讲。"He received the criticism without changing expression and continued his speech." Often admired as a sign of courage or self-discipline.</span>
       </div>
 
       <div class="cy">
         <span class="cy-cn">丢人现眼</span>
         <span class="cy-py">diū rén xiàn yǎn</span>
         <span class="cy-en">"lose people, show eyes" — to make a spectacle of oneself; disgraceful public behavior</span>
-        <span class="cy-note">Lit: lose-person-expose-eyes. A stronger and more colorful version of 丢脸 — specifically about embarrassing public display. 现眼 (to expose one's eyes to public ridicule) adds the dimension of being stared at and judged. 你在这里大吵大闹，真是丢人现眼！"Making a big scene here — you're really making a spectacle of yourself!"</span>
+        <span class="cy-note">Lit: lose-person-expose-eyes. A stronger and more colorful version of 丢脸 , specifically about embarrassing public display. 现眼 (to expose one's eyes to public ridicule) adds the dimension of being stared at and judged. 你在这里大吵大闹，真是丢人现眼！"Making a big scene here , you're really making a spectacle of yourself!"</span>
       </div>
 
       <div class="cy">
         <span class="cy-cn">死要面子活受罪</span>
         <span class="cy-py">sǐ yào miànzi huó shòuzuì</span>
         <span class="cy-en">"dying for face, living in torment" — to suffer rather than ask for help because of pride</span>
-        <span class="cy-note">A seven-character folk saying rather than a classical 成语, but extremely widely used. Describes the pattern of letting one's face-consciousness cause unnecessary suffering — not asking for help, not admitting failure, not seeking medical attention — because doing so would cost face. 他一直撑着，死要面子活受罪，其实找人帮忙早就解决了。"He kept struggling on — dying for face, living in torment — when asking for help would have solved it long ago."</span>
+        <span class="cy-note">A seven-character folk saying rather than a classical 成语, but extremely widely used. Describes the pattern of letting one's face-consciousness cause unnecessary suffering , not asking for help, not admitting failure, not seeking medical attention — because doing so would cost face. 他一直撑着，死要面子活受罪，其实找人帮忙早就解决了。"He kept struggling on — dying for face, living in torment — when asking for help would have solved it long ago."</span>
       </div>
 
     </div>

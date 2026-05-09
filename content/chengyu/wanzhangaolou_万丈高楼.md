@@ -94,7 +94,7 @@ content_review: 'pending'
       </div>
       <div class="card c-sienna">
         <div class="card-head">平地起 píng dì qǐ · rises from flat ground</div>
-        <p><strong>平</strong> (píng) is flat, level, ordinary. 平时 (píngshí) is ordinary times; 平凡 (píngfán) is the unremarkable everyday. The flat ground here is not a flaw in the starting condition — it is simply where things begin.</p>
+        <p><strong>平</strong> (píng) is flat, level, ordinary. 平时 (píngshí) is ordinary times; 平凡 (píngfán) is the unremarkable everyday. The flat ground here is not a flaw in the starting condition , it is simply where things begin.</p>
         <p><strong>起</strong> (qǐ) means to rise, to stand, to start. The 走 (zǒu) radical at the bottom signals motion from a base; the phonetic component contributes the sound. 起 appears across dozens of compounds: 起床 (qǐchuáng) to get out of bed, 起点 (qǐdiǎn) starting point, 起步 (qǐbù) to take the first steps. In this proverb, 起 is the verb, the action, the moment the tower begins becoming itself.</p>
       </div>
     </div>

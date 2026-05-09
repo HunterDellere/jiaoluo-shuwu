@@ -61,7 +61,7 @@ pinyin: 'de'
       <span class="topic-hero-eyebrow">Grammar · 语法 yǔfǎ</span>
       <h1 class="topic-hero-title">得</h1>
       <span class="topic-hero-title-py">de · (neutral tone)</span>
-      <p class="topic-hero-desc">The structural particle that bridges an action to its result or quality — how well, how fast, how beautifully something was done.</p>
+      <p class="topic-hero-desc">The structural particle that bridges an action to its result or quality , how well, how fast, how beautifully something was done.</p>
     </header>
 
     <span class="section-anchor" id="overview"></span>
@@ -74,7 +74,7 @@ pinyin: 'de'
 
     <div class="scholar" data-glyph="得">
       <div class="scholar-label">语法洞见 yǔfǎ dòngjiàn · Grammar Insight</div>
-      <p>In Mandarin, the particle <strong>得 de</strong> (neutral tone) marks the beginning of a <em>degree complement</em> (程度补语 chéngdù bǔyǔ) or a <em>result/potential complement</em>. This page covers the degree complement — describing <em>how well or in what manner an action was performed.</em></p>
+      <p>In Mandarin, the particle <strong>得 de</strong> (neutral tone) marks the beginning of a <em>degree complement</em> (程度补语 chéngdù bǔyǔ) or a <em>result/potential complement</em>. This page covers the degree complement , describing <em>how well or in what manner an action was performed.</em></p>
       <p>The core pattern is <strong>V + 得 + Description</strong>: the verb comes first, then 得, then an adjective or phrase that evaluates the quality of that verb. "She sings well" → 她唱得很好. "He runs fast" → 他跑得很快. "They spoke [in a way that was] very lively" → 他们说得很生动.</p>
       <p>Note: 得 here is NOT the same as 得 dé (to get; to obtain) or 得 děi (must; have to). All three are written identically but are different words. Context and tone disambiguate.</p>
     </div>
@@ -103,7 +103,7 @@ pinyin: 'de'
         </div>
         <div class="tags"><span class="tag tag-v">Structure 句型 jùxíng</span></div>
         <div class="card-def">
-          得 bridges the verb to a phrase describing the quality or degree of the action. The description after 得 can be an adjective, adverb + adjective, or a clause. The description modifies the <em>manner</em> of the action — not the action itself.
+          得 bridges the verb to a phrase describing the quality or degree of the action. The description after 得 can be an adjective, adverb + adjective, or a clause. The description modifies the <em>manner</em> of the action , not the action itself.
         </div>
         <div class="examples">
           <div class="example">
@@ -129,7 +129,7 @@ pinyin: 'de'
         </div>
         <div class="note">
           <span class="note-label">语法 yǔfǎ · Key Point</span>
-          The adverb 很 hěn is usually required before adjectives in complements (unless another adverb replaces it). ✓ 写得很好 ✓ 写得非常好 ✓ 写得不好 — but ✗ 写得好 (sounds incomplete without a following contrast). Exception: 极了 and similar intensifiers don't need 很: 写得好极了 "written superbly."
+          The adverb 很 hěn is usually required before adjectives in complements (unless another adverb replaces it). ✓ 写得很好 ✓ 写得非常好 ✓ 写得不好 , but ✗ 写得好 (sounds incomplete without a following contrast). Exception: 极了 and similar intensifiers don't need 很: 写得好极了 "written superbly."
         </div>
       </div>
 
@@ -175,7 +175,7 @@ pinyin: 'de'
           <div class="example">
             <div class="ex-cn">中文她说得很流利。</div>
             <div class="ex-py">Zhōngwén tā shuō de hěn liúlì.</div>
-            <div class="ex-en">Chinese — she speaks it fluently. (topic-comment)</div>
+            <div class="ex-en">Chinese , she speaks it fluently. (topic-comment)</div>
           </div>
         </div>
         <div class="note">
@@ -257,16 +257,16 @@ pinyin: 'de'
     <div class="pattern">
       <span class="label">地 vs. 得 · The Critical Distinction</span>
       <strong>Adj + 地 + Verb</strong> → adverb before the verb (how you do something as you do it)<br>
-      认真地学习 "to study diligently" — 地 describes your manner while studying<br><br>
+      认真地学习 "to study diligently" , 地 describes your manner while studying<br><br>
       <strong>Verb + 得 + Adj</strong> → degree complement after the verb (evaluation of the result)<br>
-      学习得很认真 "studied in a diligent way" — 得 evaluates how the studying came out
+      学习得很认真 "studied in a diligent way" , 得 evaluates how the studying came out
     </div>
 
     <div class="scholar" data-glyph="得">
       <div class="scholar-label">辨析 biànxī · 地/得 Minimal Pair</div>
-      <p><strong>她快乐地唱歌。</strong> Tā kuàilè de chànggē. — She sings happily. <em>(She is happy while singing — 地 modifies the manner)</em></p>
-      <p><strong>她歌唱得很好。</strong> Tā gēchàng de hěn hǎo. — She sings very well. <em>(Her singing results in being good — 得 evaluates the outcome)</em></p>
-      <p>The distinction is time and viewpoint: 地 describes the manner <em>during</em> the action; 得 evaluates the <em>result or quality</em> of the action. In speech they sound identical (both are neutral-tone "de") — context and position clarify.</p>
+      <p><strong>她快乐地唱歌。</strong> Tā kuàilè de chànggē. — She sings happily. <em>(She is happy while singing , 地 modifies the manner)</em></p>
+      <p><strong>她歌唱得很好。</strong> Tā gēchàng de hěn hǎo. — She sings very well. <em>(Her singing results in being good , 得 evaluates the outcome)</em></p>
+      <p>The distinction is time and viewpoint: 地 describes the manner <em>during</em> the action; 得 evaluates the <em>result or quality</em> of the action. In speech they sound identical (both are neutral-tone "de") , context and position clarify.</p>
     </div>
 
     <span class="section-anchor" id="examples"></span>

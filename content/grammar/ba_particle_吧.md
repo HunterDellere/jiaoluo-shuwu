@@ -60,7 +60,7 @@ pinyin: 'ba'
       <span class="topic-hero-eyebrow">Grammar · 语法 yǔfǎ</span>
       <h1 class="topic-hero-title">吧</h1>
       <span class="topic-hero-title-py">ba · (neutral tone)</span>
-      <p class="topic-hero-desc">A single neutral-tone syllable that softens, confirms, suggests, and reads the room — the pragmatic particle every Mandarin learner must master.</p>
+      <p class="topic-hero-desc">A single neutral-tone syllable that softens, confirms, suggests, and reads the room , the pragmatic particle every Mandarin learner must master.</p>
     </header>
 
     <span class="section-anchor" id="overview"></span>
@@ -74,7 +74,7 @@ pinyin: 'ba'
     <div class="scholar" data-glyph="吧">
       <div class="scholar-label">语法洞见 yǔfǎ dòngjiàn · Grammar Insight</div>
       <p><strong>吧 ba</strong> is a <em>sentence-final modal particle</em>, one of a class of words (also including 啊 a, 呢 ne, 嘛 ma, 嗯 en) that appear at the end of a sentence to modify its pragmatic force without changing its basic meaning. 吧 is pronounced in the <strong>neutral tone</strong> (轻声 qīngshēng), light and unstressed.</p>
-      <p>吧 has four core functions: (1) <strong>suggestion</strong> — proposing an action (let's do X); (2) <strong>confirmation-seeking</strong> — checking a shared assumption (X is true, right?); (3) <strong>hedged assertion</strong> — expressing an uncertain guess (probably X); (4) <strong>command-softening</strong> — making an order sound like a polite request. In all four uses, 吧 signals that the speaker is reaching toward the listener's perspective rather than simply declaring from their own.</p>
+      <p>吧 has four core functions: (1) <strong>suggestion</strong> , proposing an action (let's do X); (2) <strong>confirmation-seeking</strong> , checking a shared assumption (X is true, right?); (3) <strong>hedged assertion</strong> , expressing an uncertain guess (probably X); (4) <strong>command-softening</strong> , making an order sound like a polite request. In all four uses, 吧 signals that the speaker is reaching toward the listener's perspective rather than simply declaring from their own.</p>
     </div>
 
     <span class="section-anchor" id="suggestion"></span>
@@ -107,12 +107,12 @@ pinyin: 'ba'
           <div class="example">
             <div class="ex-cn">我们走吧，已经很晚了。</div>
             <div class="ex-py">Wǒmen zǒu ba, yǐjīng hěn wǎn le.</div>
-            <div class="ex-en">Let's go — it's already very late.</div>
+            <div class="ex-en">Let's go , it's already very late.</div>
           </div>
           <div class="example">
             <div class="ex-cn">你试试吧，没有关系。</div>
             <div class="ex-py">Nǐ shìshi ba, méiyǒu guānxi.</div>
-            <div class="ex-en">Give it a try — no worries.</div>
+            <div class="ex-en">Give it a try , no worries.</div>
           </div>
           <div class="example">
             <div class="ex-cn">先吃饭，之后再聊吧。</div>
@@ -251,12 +251,12 @@ pinyin: 'ba'
           <div class="example">
             <div class="ex-cn">说吧，我在听。</div>
             <div class="ex-py">Shuō ba, wǒ zài tīng.</div>
-            <div class="ex-en">Go ahead and speak — I'm listening.</div>
+            <div class="ex-en">Go ahead and speak , I'm listening.</div>
           </div>
           <div class="example">
             <div class="ex-cn">你先走吧，不用等我。</div>
             <div class="ex-py">Nǐ xiān zǒu ba, bùyòng děng wǒ.</div>
-            <div class="ex-en">Go ahead without me — no need to wait.</div>
+            <div class="ex-en">Go ahead without me , no need to wait.</div>
           </div>
         </div>
       </div>

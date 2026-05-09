@@ -55,7 +55,7 @@ pinyin: 'yīn wèi suǒ yǐ'
       <span class="topic-hero-eyebrow">Grammar · 语法 yǔfǎ</span>
       <h1 class="topic-hero-title">因为…所以</h1>
       <span class="topic-hero-title-py">yīnwèi … suǒyǐ</span>
-      <p class="topic-hero-desc">Because…therefore — Chinese causal structure often uses both halves of the conjunction pair where English drops one. 因为 introduces the cause; 所以 announces the consequence; together they form an explicit logical chain.</p>
+      <p class="topic-hero-desc">Because…therefore , Chinese causal structure often uses both halves of the conjunction pair where English drops one. 因为 introduces the cause; 所以 announces the consequence; together they form an explicit logical chain.</p>
     </header>
 
     <span class="section-anchor" id="overview"></span>
@@ -128,7 +128,7 @@ pinyin: 'yīn wèi suǒ yǐ'
 
     <div class="pattern">
       <span class="label">单用规则 dānyòng guīzé · Single Conjunction Rules</span>
-      <strong>因为 alone</strong> — used when the result is already known or obvious from context:<br>
+      <strong>因为 alone</strong> , used when the result is already known or obvious from context:<br>
       "你为什么没来？" "因为我生病了。" ("Why didn't you come?" "Because I was sick.")<br><br>
       <strong>所以 alone</strong> — used when the cause is understood or has been stated earlier:<br>
       "我昨天睡得很晚，所以今天很累。" (I stayed up late last night, so I'm tired today.)<br><br>

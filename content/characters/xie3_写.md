@@ -73,9 +73,9 @@ content_review: 'pending'
 
     <div class="scholar" data-glyph="寫">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
-      <p>The traditional form <strong>寫</strong> is built from <strong>宀</strong> (a roof; shelter) over <strong>舄 xì</strong>. The component 舄 is primarily understood as a phonetic borrowing — its pronunciation was close enough to the ancient reading of 寫 to serve as a sound marker. This is the phonosemantic reading: 宀 provides category (something done indoors, under cover) and 舄 provides the sound.</p>
-      <p>A second, older interpretive tradition reads 舄 as a pictograph of a magpie — a bird renowned in Chinese culture for its mimicry of human speech. Under this reading, 寫 depicts a magpie sheltered under a roof: writing as the domesticated mimicry of sound, the act of capturing voice and giving it a fixed form on a surface. This is not the mainstream philological position, but it survives in dictionaries and commentary because the image is exact: the magpie is the transmitter, the roof is the shelter that makes transmission durable.</p>
-      <p>The simplified form <strong>写</strong> replaces the full structure with <strong>冖</strong> (a cover or lid, the abbreviated roof) over <strong>与 yǔ</strong> (to give; to bestow). "To give form under a cover" — writing as sheltered giving. The phonosemantic logic is preserved (冖 signals category, 与 carries a phonetic echo), and the semantic residue of giving is a felicitous accident: writing transmits, hands over, delivers.</p>
+      <p>The traditional form <strong>寫</strong> is built from <strong>宀</strong> (a roof; shelter) over <strong>舄 xì</strong>. The component 舄 is primarily understood as a phonetic borrowing , its pronunciation was close enough to the ancient reading of 寫 to serve as a sound marker. This is the phonosemantic reading: 宀 provides category (something done indoors, under cover) and 舄 provides the sound.</p>
+      <p>A second, older interpretive tradition reads 舄 as a pictograph of a magpie , a bird renowned in Chinese culture for its mimicry of human speech. Under this reading, 寫 depicts a magpie sheltered under a roof: writing as the domesticated mimicry of sound, the act of capturing voice and giving it a fixed form on a surface. This is not the mainstream philological position, but it survives in dictionaries and commentary because the image is exact: the magpie is the transmitter, the roof is the shelter that makes transmission durable.</p>
+      <p>The simplified form <strong>写</strong> replaces the full structure with <strong>冖</strong> (a cover or lid, the abbreviated roof) over <strong>与 yǔ</strong> (to give; to bestow). "To give form under a cover" , writing as sheltered giving. The phonosemantic logic is preserved (冖 signals category, 与 carries a phonetic echo), and the semantic residue of giving is a felicitous accident: writing transmits, hands over, delivers.</p>
     </div>
 
     <div class="pattern">
@@ -110,7 +110,7 @@ content_review: 'pending'
           <span class="card-en">to write; to compose — literary register</span>
         </div>
         <div class="tags"><span class="tag-v">verb</span><span class="tag-n">noun</span></div>
-        <p class="card-def">写 xiě + 作 zuò (to make; to create; to do). Writing in the literary or compositional sense — essays, articles, fiction, journalism. 写作 implies deliberate craft, distinguishing it from casual note-taking. 写作能力 = writing ability; 写作风格 = writing style.</p>
+        <p class="card-def">写 xiě + 作 zuò (to make; to create; to do). Writing in the literary or compositional sense , essays, articles, fiction, journalism. 写作 implies deliberate craft, distinguishing it from casual note-taking. 写作能力 = writing ability; 写作风格 = writing style.</p>
         <div class="examples">
           <div class="ex"><span class="ex-cn">她从小就喜欢写作，现在是一位小说家。</span><span class="ex-py">Tā cóng xiǎo jiù xǐhuān xiězuò, xiànzài shì yī wèi xiǎoshuōjiā.</span><span class="ex-en">She loved writing from childhood; she is now a novelist.</span></div>
         </div>
@@ -123,7 +123,7 @@ content_review: 'pending'
           <span class="card-en">to write a letter</span>
         </div>
         <div class="tags"><span class="tag-v">verb</span></div>
-        <p class="card-def">写 xiě + 信 xìn (letter; correspondence). The fixed phrase for letter-writing. In an era of messaging apps, 写信 carries a deliberate, personal register — the choice to write a letter rather than send a message. 寄信 (to mail a letter) is the next step after 写信.</p>
+        <p class="card-def">写 xiě + 信 xìn (letter; correspondence). The fixed phrase for letter-writing. In an era of messaging apps, 写信 carries a deliberate, personal register , the choice to write a letter rather than send a message. 寄信 (to mail a letter) is the next step after 写信.</p>
         <div class="examples">
           <div class="ex"><span class="ex-cn">我想给你写一封信，说一些平时说不出口的话。</span><span class="ex-py">Wǒ xiǎng gěi nǐ xiě yī fēng xìn, shuō yīxiē píngshí shuō bu chūkǒu de huà.</span><span class="ex-en">I want to write you a letter and say things I cannot say out loud.</span></div>
         </div>
@@ -136,7 +136,7 @@ content_review: 'pending'
           <span class="card-en">to write formally; written expression</span>
         </div>
         <div class="tags"><span class="tag-v">verb</span><span class="tag-n">noun</span></div>
-        <p class="card-def">书 shū (book; writing; calligraphy) + 写 xiě. The formal, literary register of writing — closer to "inscription" or "penmanship" than ordinary note-taking. 书写系统 = writing system; 书写工具 = writing instruments. Used in academic, cultural, and calligraphic contexts where 写 alone would sound too casual.</p>
+        <p class="card-def">书 shū (book; writing; calligraphy) + 写 xiě. The formal, literary register of writing , closer to "inscription" or "penmanship" than ordinary note-taking. 书写系统 = writing system; 书写工具 = writing instruments. Used in academic, cultural, and calligraphic contexts where 写 alone would sound too casual.</p>
         <div class="examples">
           <div class="ex"><span class="ex-cn">汉字的书写历史超过三千年。</span><span class="ex-py">Hànzì de shūxiě lìshǐ chāoguò sānqiān nián.</span><span class="ex-en">The written history of Chinese characters spans more than three thousand years.</span></div>
         </div>
@@ -156,7 +156,7 @@ content_review: 'pending'
           <span class="card-en">to describe; to depict; to portray</span>
         </div>
         <div class="tags"><span class="tag-v">verb</span><span class="tag-n">noun</span></div>
-        <p class="card-def">描 miáo (to trace; to copy an outline) + 写 xiě (to write). To describe by tracing the contours of something — whether a person, a scene, or an emotion. Used in literary criticism (细节描写 = detailed description), art (描写手法 = descriptive technique), and everyday analysis. The compound inherits the mimetic thread of 写: writing as tracing a likeness.</p>
+        <p class="card-def">描 miáo (to trace; to copy an outline) + 写 xiě (to write). To describe by tracing the contours of something , whether a person, a scene, or an emotion. Used in literary criticism (细节描写 = detailed description), art (描写手法 = descriptive technique), and everyday analysis. The compound inherits the mimetic thread of 写: writing as tracing a likeness.</p>
         <div class="examples">
           <div class="ex"><span class="ex-cn">这首诗描写了江南水乡的美丽景色。</span><span class="ex-py">Zhè shǒu shī miáoxiě le Jiāngnán shuǐxiāng de měilì jǐngsè.</span><span class="ex-en">This poem depicts the beautiful scenery of the Jiangnan waterways.</span></div>
         </div>
@@ -169,7 +169,7 @@ content_review: 'pending'
           <span class="card-en">a portrayal; a true reflection of reality</span>
         </div>
         <div class="tags"><span class="tag-n">noun</span></div>
-        <p class="card-def">写 xiě + 照 zhào (to illuminate; to shine on; a photograph; a reflection). Literally "write-illuminate" — a portrayal so accurate it functions as a reflection. Used to say that something faithfully captures the essence of a situation or person: 这是当代年轻人心态的真实写照 (this is a true portrait of the modern young person's mindset). Literary and slightly elevated in register.</p>
+        <p class="card-def">写 xiě + 照 zhào (to illuminate; to shine on; a photograph; a reflection). Literally "write-illuminate" , a portrayal so accurate it functions as a reflection. Used to say that something faithfully captures the essence of a situation or person: 这是当代年轻人心态的真实写照 (this is a true portrait of the modern young person's mindset). Literary and slightly elevated in register.</p>
         <div class="examples">
           <div class="ex"><span class="ex-cn">他的故事是无数移民经历的真实写照。</span><span class="ex-py">Tā de gùshì shì wúshù yímín jīnglì de zhēnshí xiězhào.</span><span class="ex-en">His story is a faithful portrait of the experiences of countless immigrants.</span></div>
         </div>
@@ -182,7 +182,7 @@ content_review: 'pending'
           <span class="card-en">realism; to depict reality faithfully</span>
         </div>
         <div class="tags"><span class="tag-n">noun</span><span class="tag-adj">adj</span></div>
-        <p class="card-def">写 xiě + 实 shí (reality; actuality; solid; true). "Write reality" — the Chinese term for realism in art, literature, and film. 写实主义 = Realism (as a movement); 写实风格 = realistic style. Contrasts with 写意 xiěyì (the impressionist or expressive mode), which captures spirit over surface detail.</p>
+        <p class="card-def">写 xiě + 实 shí (reality; actuality; solid; true). "Write reality" , the Chinese term for realism in art, literature, and film. 写实主义 = Realism (as a movement); 写实风格 = realistic style. Contrasts with 写意 xiěyì (the impressionist or expressive mode), which captures spirit over surface detail.</p>
         <div class="examples">
           <div class="ex"><span class="ex-cn">这幅油画风格写实，细节令人惊叹。</span><span class="ex-py">Zhè fú yóuhuà fēnggé xiěshí, xìjié lìng rén jīngtàn.</span><span class="ex-en">This oil painting is realistic in style, with astonishing detail.</span></div>
         </div>
@@ -195,8 +195,8 @@ content_review: 'pending'
 
     <div class="scholar" data-glyph="写">
       <div class="scholar-label">书法洞见 shūfǎ dòngjiàn · Calligraphic Insight</div>
-      <p>In the calligraphy tradition, 写 is not merely transcription — it is a practice of embodied attention. The discipline of <strong>临写 línxiě</strong> (copying a model) is the foundational method: the student places a sheet over a master's work and traces each stroke, internalizing the weight, direction, and rhythm before attempting original work. A master's copy is called a 帖 tiè, and studying 帖 is called 临帖. The goal of 临写 is absorption, not reproduction.</p>
-      <p><strong>写意 xiěyì</strong> (write-intention/spirit) names the opposite pole of Chinese art: the mode that captures the vital force of a subject rather than its surface likeness. A 写意 painting of bamboo does not measure the nodes — it transmits the character of bamboo through confident, rapid brushwork. The term explicitly borrows 写 (the writing act) and applies it to painting, signaling that brushwork across calligraphy and ink painting shares the same gesture.</p>
+      <p>In the calligraphy tradition, 写 is not merely transcription , it is a practice of embodied attention. The discipline of <strong>临写 línxiě</strong> (copying a model) is the foundational method: the student places a sheet over a master's work and traces each stroke, internalizing the weight, direction, and rhythm before attempting original work. A master's copy is called a 帖 tiè, and studying 帖 is called 临帖. The goal of 临写 is absorption, not reproduction.</p>
+      <p><strong>写意 xiěyì</strong> (write-intention/spirit) names the opposite pole of Chinese art: the mode that captures the vital force of a subject rather than its surface likeness. A 写意 painting of bamboo does not measure the nodes , it transmits the character of bamboo through confident, rapid brushwork. The term explicitly borrows 写 (the writing act) and applies it to painting, signaling that brushwork across calligraphy and ink painting shares the same gesture.</p>
     </div>
 
     <div class="cards">
@@ -234,9 +234,9 @@ content_review: 'pending'
           <span class="card-en">method of writing a character; stroke order</span>
         </div>
         <div class="tags"><span class="tag-n">noun</span></div>
-        <p class="card-def">写 xiě + 法 fǎ (method; law; way). The correct method of writing a character — its stroke order, proportions, and form conventions. Teachers ask 这个字的写法是什么？ (What is the correct way to write this character?). In broader usage, 写法 can also mean writing style or compositional approach in literature.</p>
+        <p class="card-def">写 xiě + 法 fǎ (method; law; way). The correct method of writing a character , its stroke order, proportions, and form conventions. Teachers ask 这个字的写法是什么？ (What is the correct way to write this character?). In broader usage, 写法 can also mean writing style or compositional approach in literature.</p>
         <div class="examples">
-          <div class="ex"><span class="ex-cn">笔顺是写法的基础，从小就要养成正确的习惯。</span><span class="ex-py">Bǐshùn shì xiěfǎ de jīchǔ, cóng xiǎo jiù yào yǎngchéng zhèngquè de xíguàn.</span><span class="ex-en">Stroke order is the foundation of writing technique — correct habits must be formed from childhood.</span></div>
+          <div class="ex"><span class="ex-cn">笔顺是写法的基础，从小就要养成正确的习惯。</span><span class="ex-py">Bǐshùn shì xiěfǎ de jīchǔ, cóng xiǎo jiù yào yǎngchéng zhèngquè de xíguàn.</span><span class="ex-en">Stroke order is the foundation of writing technique , correct habits must be formed from childhood.</span></div>
         </div>
       </div>
 
@@ -247,9 +247,9 @@ content_review: 'pending'
           <span class="card-en">impressionist; expressive — capturing spirit over likeness</span>
         </div>
         <div class="tags"><span class="tag-adj">adj</span><span class="tag-n">noun</span></div>
-        <p class="card-def">写 xiě + 意 yì (intention; spirit; meaning; mind). The expressive mode in Chinese painting and calligraphy that prioritizes vital force (气韵 qìyùn) over faithful surface representation. A 写意 painting of a crab has the character of a crab without measuring its legs. Contrasts with 工笔 gōngbǐ (meticulous brushwork — the realistic mode). 写意 also appears in everyday speech to mean "comfortable; at ease" in Taiwan Mandarin.</p>
+        <p class="card-def">写 xiě + 意 yì (intention; spirit; meaning; mind). The expressive mode in Chinese painting and calligraphy that prioritizes vital force (气韵 qìyùn) over faithful surface representation. A 写意 painting of a crab has the character of a crab without measuring its legs. Contrasts with 工笔 gōngbǐ (meticulous brushwork , the realistic mode). 写意 also appears in everyday speech to mean "comfortable; at ease" in Taiwan Mandarin.</p>
         <div class="examples">
-          <div class="ex"><span class="ex-cn">齐白石的虾是写意风格的经典之作，寥寥几笔，生动至极。</span><span class="ex-py">Qí Báishí de xiā shì xiěyì fēnggé de jīngdiǎn zhī zuò, liáoliáo jǐ bǐ, shēngdòng zhìjí.</span><span class="ex-en">Qi Baishi's shrimp are classics of the expressive mode — a few strokes, strikingly alive.</span></div>
+          <div class="ex"><span class="ex-cn">齐白石的虾是写意风格的经典之作，寥寥几笔，生动至极。</span><span class="ex-py">Qí Báishí de xiā shì xiěyì fēnggé de jīngdiǎn zhī zuò, liáoliáo jǐ bǐ, shēngdòng zhìjí.</span><span class="ex-en">Qi Baishi's shrimp are classics of the expressive mode , a few strokes, strikingly alive.</span></div>
         </div>
       </div>
 
@@ -275,7 +275,7 @@ content_review: 'pending'
         <span class="cy-cn">妙笔生花</span>
         <span class="cy-py">miào bǐ shēng huā</span>
         <span class="cy-en">a wondrous brush gives birth to flowers — gifted writing that makes words bloom</span>
-        <span class="cy-note">Lit: wondrous-brush-give birth-flowers. From a Tang dynasty story about the poet Li Bai dreaming that his brush sprouted flowers, foretelling his literary gifts. Used to praise writing of exceptional beauty or imagination — prose or verse that transforms language into something alive.</span>
+        <span class="cy-note">Lit: wondrous-brush-give birth-flowers. From a Tang dynasty story about the poet Li Bai dreaming that his brush sprouted flowers, foretelling his literary gifts. Used to praise writing of exceptional beauty or imagination , prose or verse that transforms language into something alive.</span>
       </div>
     </div>
 

@@ -126,7 +126,7 @@ content_sources:
     <div class="scholar" data-glyph="地">
       <div class="scholar-label">宇宙洞见 yǔzhòu dòngjiàn · Cosmological Insight</div>
       <p>In Chinese cosmology, 天地 is the pairing that precedes all others. 天 is active, generative, yang: the source of weather, time, and the heavenly mandate that legitimizes rule. 地 is receptive, nourishing, yin: the stable ground that holds everything the heavens send down. Together they are the frame of the universe, and the pairing structures physics, politics, ethics, and language simultaneously.</p>
-      <p>It structures <strong>physics</strong>: 天气 tiānqì (weather — lit. "heaven's breath") comes from above; 地震 dìzhèn (earthquake — lit. "earth shakes") comes from below. The two directions of force are named by the two powers.</p>
+      <p>It structures <strong>physics</strong>: 天气 tiānqì (weather , lit. "heaven's breath") comes from above; 地震 dìzhèn (earthquake , lit. "earth shakes") comes from below. The two directions of force are named by the two powers.</p>
       <p>It structures <strong>politics</strong>: the emperor held the 天命 tiānmìng (Mandate of Heaven) and performed rituals at the 天坛 tiāntán (Temple of Heaven) and the 地坛 dìtán (Temple of Earth) to sustain the cosmos. When the mandate was lost, through corruption or military defeat, 天 had withdrawn its approval. The ruler mediated between the two powers; the moment that mediation failed, the dynasty fell.</p>
       <p>It structures <strong>ethics</strong>: to be 顶天立地 dǐng tiān lì dì, to stand with head at heaven and feet planted on earth, is to be a person of complete integrity and heroic stature. The idiom describes moral verticality, not physical height: anchored below, reaching above, fully human in between.</p>
       <p>The Three Powers cosmology (三才 sāncái: 天 heaven, 地 earth, 人 humanity) places humanity not below the other two but <em>between</em> them, responsible for honoring and harmonizing both. The Book of Changes (易经 Yìjīng) organizes its hexagrams around this triad. The concept remained central to Chinese statecraft, ritual, agriculture, and medicine for over two millennia.</p>
@@ -152,7 +152,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          土 tǔ (soil; earth as raw material) + 地 dì (earth; ground). <em>Lit. "earth-earth" — but two different registers of the same substance.</em> Where 土 is the physical material (soil you can hold in your hand, the substance of agriculture), 土地 is land as a category of ownership, geography, or territory — the arable earth that feeds a civilization, or the parcel of ground that a farmer works. In Chinese popular religion, 土地神 tǔdì shén (the Earth God, the local territory deity) is one of the most widely worshipped figures in the popular pantheon — a protective deity specific to each village, neighborhood, or even household, responsible for the soil and the people who live on it.
+          土 tǔ (soil; earth as raw material) + 地 dì (earth; ground). <em>Lit. "earth-earth" , but two different registers of the same substance.</em> Where 土 is the physical material (soil you can hold in your hand, the substance of agriculture), 土地 is land as a category of ownership, geography, or territory , the arable earth that feeds a civilization, or the parcel of ground that a farmer works. In Chinese popular religion, 土地神 tǔdì shén (the Earth God, the local territory deity) is one of the most widely worshipped figures in the popular pantheon , a protective deity specific to each village, neighborhood, or even household, responsible for the soil and the people who live on it.
         </div>
         <div class="examples">
           <div class="example">
@@ -173,7 +173,7 @@ content_sources:
         </div>
         <div class="note">
           <span class="note-label">文化 wénhuà · Culture</span>
-          土地神 tǔdì shén — the local Earth God — is distinct from the cosmic 地 of classical cosmology. Each community has its own 土地神, a humble, localized deity who knows the specific soil and its people. Offerings are made at small 土地庙 shrines. The same two characters — 土地 — carry both the agrarian and the sacred.
+          土地神 tǔdì shén , the local Earth God , is distinct from the cosmic 地 of classical cosmology. Each community has its own 土地神, a humble, localized deity who knows the specific soil and its people. Offerings are made at small 土地庙 shrines. The same two characters , 土地 , carry both the agrarian and the sacred.
         </div>
       </div>
 
@@ -186,7 +186,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          地 dì (earth; ground) + 方 fāng (direction; square; method; side). <em>Lit. "earth-direction" — a located region of the world.</em> The most natural, most versatile word for "place" in everyday Mandarin. 地方 can refer to a specific location (这个地方 — this place), a region or locality in contrast to the center (地方 vs. 中央 — local vs. central government), or a point in an argument or text (这个地方有问题 — there's a problem at this point).
+          地 dì (earth; ground) + 方 fāng (direction; square; method; side). <em>Lit. "earth-direction" , a located region of the world.</em> The most natural, most versatile word for "place" in everyday Mandarin. 地方 can refer to a specific location (这个地方 , this place), a region or locality in contrast to the center (地方 vs. 中央 , local vs. central government), or a point in an argument or text (这个地方有问题 , there's a problem at this point).
         </div>
         <div class="examples">
           <div class="example">
@@ -207,7 +207,7 @@ content_sources:
         </div>
         <div class="note">
           <span class="note-label">辨析 biànxī · Comparison</span>
-          地方 dìfāng = place (general, colloquial, flexible). 地点 dìdiǎn = specific location or venue (more precise — used for meeting places, crime scenes, event sites). 地区 dìqū = region, area (administrative or geographic — larger scale than 地方). In conversation, 地方 covers most situations.
+          地方 dìfāng = place (general, colloquial, flexible). 地点 dìdiǎn = specific location or venue (more precise , used for meeting places, crime scenes, event sites). 地区 dìqū = region, area (administrative or geographic , larger scale than 地方). In conversation, 地方 covers most situations.
         </div>
       </div>
 
@@ -220,7 +220,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          地 dì (earth; ground) + 图 tú (diagram; picture; plan). <em>Lit. "earth diagram."</em> A transparent compound — the earth drawn out as a picture. 地图 is the standard word for any kind of map, from a hand-drawn sketch to a satellite navigation app. The compound logic extends productively: 地图册 = atlas (map-volume), 地图软件 = mapping software, 电子地图 = digital map.
+          地 dì (earth; ground) + 图 tú (diagram; picture; plan). <em>Lit. "earth diagram."</em> A transparent compound , the earth drawn out as a picture. 地图 is the standard word for any kind of map, from a hand-drawn sketch to a satellite navigation app. The compound logic extends productively: 地图册 = atlas (map-volume), 地图软件 = mapping software, 电子地图 = digital map.
         </div>
         <div class="examples">
           <div class="example">
@@ -250,7 +250,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          地 dì (earth) + 球 qiú (ball; sphere). <em>Lit. "earth ball."</em> The modern scientific term for the planet — a coinage that dates to the late 19th century, when Chinese translators had to name the heliocentric model. The choice of 球 (ball) rather than 星 (star, heavenly body) reflects a decision to foreground the planet's shape over its celestial nature. Used universally in science education, environmental discourse, and everyday speech whenever the planet as a whole is meant.
+          地 dì (earth) + 球 qiú (ball; sphere). <em>Lit. "earth ball."</em> The modern scientific term for the planet , a coinage that dates to the late 19th century, when Chinese translators had to name the heliocentric model. The choice of 球 (ball) rather than 星 (star, heavenly body) reflects a decision to foreground the planet's shape over its celestial nature. Used universally in science education, environmental discourse, and everyday speech whenever the planet as a whole is meant.
         </div>
         <div class="examples">
           <div class="example">
@@ -271,7 +271,7 @@ content_sources:
         </div>
         <div class="note">
           <span class="note-label">词族 cízú · Word Family</span>
-          地球仪 dìqiúyí = globe (a physical model). 地球科学 = earth science. 全球 quánqiú = the whole globe; global (a high-frequency compound in international news and business). Note: 全球化 quánqiúhuà = globalization — lit. "whole-globe-ize."
+          地球仪 dìqiúyí = globe (a physical model). 地球科学 = earth science. 全球 quánqiú = the whole globe; global (a high-frequency compound in international news and business). Note: 全球化 quánqiúhuà = globalization , lit. "whole-globe-ize."
         </div>
       </div>
 
@@ -288,14 +288,14 @@ content_sources:
 
     <div class="pattern">
       <span class="label">构词规律 gòucí guīlǜ · Fixed expressions using 地</span>
-      <strong>天地</strong> tiāndì — heaven and earth; the universe; the whole world<br>
-      <strong>大地</strong> dàdì — the great earth; the land (poetic, vast in scale)<br>
-      <strong>各地</strong> gèdì — various places; everywhere; all regions (各 = each)<br>
-      <strong>当地</strong> dāngdì — local; the local area; on-site (当 = the present, the relevant)<br>
-      <strong>外地</strong> wàidì — outside the local area; from another region (外 = outside, foreign)<br>
-      <strong>就地</strong> jiùdì — on the spot; right there (就 = right at; precisely at)<br>
-      <strong>顶天立地</strong> dǐng tiān lì dì — head at heaven, feet on earth: upright, heroic, a person of integrity<br>
-      These expressions move across registers — from the cosmic (天地) to the bureaucratic (当地政府) to the spatial (就地解决). The same character holds them all.
+      <strong>天地</strong> tiāndì , heaven and earth; the universe; the whole world<br>
+      <strong>大地</strong> dàdì , the great earth; the land (poetic, vast in scale)<br>
+      <strong>各地</strong> gèdì , various places; everywhere; all regions (各 = each)<br>
+      <strong>当地</strong> dāngdì , local; the local area; on-site (当 = the present, the relevant)<br>
+      <strong>外地</strong> wàidì , outside the local area; from another region (外 = outside, foreign)<br>
+      <strong>就地</strong> jiùdì , on the spot; right there (就 = right at; precisely at)<br>
+      <strong>顶天立地</strong> dǐng tiān lì dì , head at heaven, feet on earth: upright, heroic, a person of integrity<br>
+      These expressions move across registers , from the cosmic (天地) to the bureaucratic (当地政府) to the spatial (就地解决). The same character holds them all.
     </div>
 
     <!-- ── GRAMMAR PARTICLE ── -->
@@ -311,11 +311,11 @@ content_sources:
       <div class="scholar-label">语法洞见 yǔfǎ dòngjiàn · Grammar Insight</div>
       <p>地 has a second life entirely: as one of three structural particles (的 de, 得 de, 地 de), all pronounced as a neutral, unstressed syllable. Together they are one of the most important grammar points in all of Mandarin, and one of the most commonly confused in writing.</p>
       <p>地 (neutral tone) connects adverbs and adverbial phrases to the verbs they modify. The structure is: <strong>Adj / Adv + 地 + V</strong>. Think of 地 as the surface, the ground across which the action travels, with the adverb describing <em>how</em> the movement proceeds.</p>
-      <p>Examples: 慢慢地走 màn màn de zǒu (to walk slowly — slowly + 地 + walk). 认真地工作 rènzhēn de gōngzuò (to work seriously — seriously + 地 + work). 高兴地笑 gāoxìng de xiào (to smile happily — happily + 地 + smile). 安静地坐着 ānjìng de zuòzhe (to sit quietly — quietly + 地 + sit).</p>
+      <p>Examples: 慢慢地走 màn màn de zǒu (to walk slowly , slowly + 地 + walk). 认真地工作 rènzhēn de gōngzuò (to work seriously , seriously + 地 + work). 高兴地笑 gāoxìng de xiào (to smile happily , happily + 地 + smile). 安静地坐着 ānjìng de zuòzhe (to sit quietly , quietly + 地 + sit).</p>
       <p>The three-way distinction to master:</p>
-      <p><strong>的 de</strong> — noun-modifying particle: 漂亮的花 (beautiful flowers). Adj/N + 的 + N.<br>
-      <strong>地 de</strong> — adverbial marker: 慢慢地走 (to walk slowly). Adj/Adv + 地 + V.<br>
-      <strong>得 de</strong> — verb-complement connector: 跑得很快 (runs very fast). V + 得 + degree complement.</p>
+      <p><strong>的 de</strong> , noun-modifying particle: 漂亮的花 (beautiful flowers). Adj/N + 的 + N.<br>
+      <strong>地 de</strong> , adverbial marker: 慢慢地走 (to walk slowly). Adj/Adv + 地 + V.<br>
+      <strong>得 de</strong> , verb-complement connector: 跑得很快 (runs very fast). V + 得 + degree complement.</p>
       <p>In informal digital writing, all three are frequently collapsed into 的. Formal writing, journalism, and academic Chinese maintain the distinction strictly. Mastering 的得地 is a clear signal of literacy in Chinese, and understanding the origin of 地 the particle (earth, ground, the surface things move across) gives the grammar point something to anchor to rather than three nearly identical sounds to memorize in the abstract.</p>
     </div>
 
@@ -334,14 +334,14 @@ content_sources:
         <span class="cy-cn">顶天立地</span>
         <span class="cy-py">dǐng tiān lì dì</span>
         <span class="cy-en">head touching heaven, feet on earth — a person of complete integrity and heroic stature</span>
-        <span class="cy-note">顶 dǐng = to stand at the top of; to press against from below. 立 lì = to stand; to be upright. The image is of a person so morally complete that they fill the entire vertical axis of the universe — feet firmly planted on earth, head pressing against heaven. Not a description of physical size, but of moral verticality: grounded, upright, uncompromising. 他是个顶天立地的汉子。(He is a man of complete integrity — a real man who stands tall between heaven and earth.) Closely related to the 三才 cosmology: a fully realized human being is one who honors both 天 and 地.</span>
+        <span class="cy-note">顶 dǐng = to stand at the top of; to press against from below. 立 lì = to stand; to be upright. The image is of a person so morally complete that they fill the entire vertical axis of the universe , feet firmly planted on earth, head pressing against heaven. Not a description of physical size, but of moral verticality: grounded, upright, uncompromising. 他是个顶天立地的汉子。(He is a man of complete integrity , a real man who stands tall between heaven and earth.) Closely related to the 三才 cosmology: a fully realized human being is one who honors both 天 and 地.</span>
       </div>
 
       <div class="cy">
         <span class="cy-cn">天南地北</span>
         <span class="cy-py">tiān nán dì běi</span>
         <span class="cy-en">heaven south, earth north — from all corners of the world; talking about everything under the sun</span>
-        <span class="cy-note">南 nán = south; 北 běi = north. The phrase works in two ways. Used of people: 天南地北的朋友 (friends from all corners of the world — scattered to the four directions, heaven-south and earth-north). Used of conversation: 聊天南地北 (to chat about everything — ranging across all topics with no particular direction). The image is of a compass rose expanded to cosmic scale: 天 marking the south, 地 marking the north, the whole world between them.</span>
+        <span class="cy-note">南 nán = south; 北 běi = north. The phrase works in two ways. Used of people: 天南地北的朋友 (friends from all corners of the world , scattered to the four directions, heaven-south and earth-north). Used of conversation: 聊天南地北 (to chat about everything — ranging across all topics with no particular direction). The image is of a compass rose expanded to cosmic scale: 天 marking the south, 地 marking the north, the whole world between them.</span>
       </div>
 
       <div class="cy">

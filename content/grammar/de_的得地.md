@@ -78,7 +78,7 @@ pinyin: 'de / dé / dì'
       <span class="topic-hero-eyebrow">Grammar · 语法 yǔfǎ</span>
       <h1 class="topic-hero-title">的 / 得 / 地</h1>
       <span class="topic-hero-title-py">de · de · de</span>
-      <p class="topic-hero-desc">Three particles pronounced identically in speech, written differently in script — each locked to a distinct grammatical position that determines which character must appear.</p>
+      <p class="topic-hero-desc">Three particles pronounced identically in speech, written differently in script , each locked to a distinct grammatical position that determines which character must appear.</p>
     </header>
 
     <!-- ── ETYMOLOGY ── -->
@@ -92,7 +92,7 @@ pinyin: 'de / dé / dì'
 
     <div class="scholar" data-glyph="的">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
-      <p>All three particles are pronounced <strong>de</strong> in neutral tone in modern Mandarin — there is no phonetic distinction in fluent speech. Only writing forces the distinction. The three characters were not originally related; they were recruited from their own semantic worlds and grammaticalized into particles over centuries.</p>
+      <p>All three particles are pronounced <strong>de</strong> in neutral tone in modern Mandarin , there is no phonetic distinction in fluent speech. Only writing forces the distinction. The three characters were not originally related; they were recruited from their own semantic worlds and grammaticalized into particles over centuries.</p>
       <p><strong>的 de</strong> originally meant "bright, glistening." Notice the 白 bái (white/bright) component at right within 勺 (spoon). In classical poetry it described the gleam of moonlight on water. By the Tang dynasty it was being pressed into service as a nominalizing and attributive particle, eventually swallowing this grammatical role entirely.</p>
       <p><strong>得 de</strong> literally means "to get, to obtain": 彳 (step, movement) + 貝 bèi (cowrie shell, value). Its grammatical function as a complement marker retains a ghost of this meaning, in that the verb "gets" or "arrives at" a result. The resultative and potential complement uses both encode achievement, whether an action reached its goal.</p>
       <p><strong>地 de</strong> is the word for "earth, ground, land": 土 tǔ (soil) + 也 yě (phonetic component, also a classical particle). Its grammaticalization as an adverbial marker is more recent and more contested. The adverb is the "ground" on which the verb stands. Notably, in informal writing and texting, many educated Chinese use 的 for all three positions; the distinction is enforced by formal style, school curriculum, and careful editors, not by speech.</p>
@@ -168,7 +168,7 @@ pinyin: 'de / dé / dì'
         </div>
         <div class="tags"><span class="tag tag-n">Pronoun + 的 + N</span></div>
         <div class="card-def">
-          的 marks possession and belonging: pronoun or noun + 的 + noun. This is structurally identical to the adjective pattern — the modifier always comes before 的 which always precedes the noun.
+          的 marks possession and belonging: pronoun or noun + 的 + noun. This is structurally identical to the adjective pattern , the modifier always comes before 的 which always precedes the noun.
         </div>
         <div class="examples">
           <div class="example">
@@ -196,7 +196,7 @@ pinyin: 'de / dé / dì'
         </div>
         <div class="tags"><span class="tag tag-n">Clause + 的 + N</span></div>
         <div class="card-def">
-          的 can follow entire clauses or verb phrases to mark modification of the following noun. This is Chinese's primary relative clause mechanism — there are no separate relative pronouns. The entire clause precedes 的 which directly precedes the noun being modified.
+          的 can follow entire clauses or verb phrases to mark modification of the following noun. This is Chinese's primary relative clause mechanism , there are no separate relative pronouns. The entire clause precedes 的 which directly precedes the noun being modified.
         </div>
         <div class="examples">
           <div class="example">
@@ -238,7 +238,7 @@ pinyin: 'de / dé / dì'
         </div>
         <div class="tags"><span class="tag tag-n">的 as N-substitute</span></div>
         <div class="card-def">
-          When the noun after 的 is already understood from context, it can be dropped — leaving 的 to function as a standalone noun phrase meaning "the one(s) that are X." This is the nominalizing function of 的, productive across all the adjective and clause patterns above.
+          When the noun after 的 is already understood from context, it can be dropped , leaving 的 to function as a standalone noun phrase meaning "the one(s) that are X." This is the nominalizing function of 的, productive across all the adjective and clause patterns above.
         </div>
         <div class="examples">
           <div class="example">
@@ -259,7 +259,7 @@ pinyin: 'de / dé / dì'
         </div>
         <div class="note">
           <span class="note-label">语法 yǔfǎ · 的 in emphatic structures</span>
-          A special construction: <strong>是…的</strong> shì…de isolates the time, place, manner, or agent of a completed action. 他是昨天来的 "It was yesterday that he came." 你是怎么来的 "How did you come (what means of transport)?" These are not result complements — they are focus-marking clefts.
+          A special construction: <strong>是…的</strong> shì…de isolates the time, place, manner, or agent of a completed action. 他是昨天来的 "It was yesterday that he came." 你是怎么来的 "How did you come (what means of transport)?" These are not result complements , they are focus-marking clefts.
         </div>
       </div>
 
@@ -322,7 +322,7 @@ pinyin: 'de / dé / dì'
         </div>
         <div class="tags"><span class="tag tag-adj">Adj + 得 + V</span></div>
         <div class="card-def">
-          得 can also follow an adjective (not just a verb) when the adjective itself takes a result clause. The structure is Adj + 得 + [result] — "so [adj] that [result]." This is the correlative "so…that" pattern.
+          得 can also follow an adjective (not just a verb) when the adjective itself takes a result clause. The structure is Adj + 得 + [result] , "so [adj] that [result]." This is the correlative "so…that" pattern.
         </div>
         <div class="examples">
           <div class="example">
@@ -359,7 +359,7 @@ pinyin: 'de / dé / dì'
         </div>
         <div class="tags"><span class="tag tag-v">V + 得/不 + Result</span></div>
         <div class="card-def">
-          The potential complement inserts 得 or 不 between a verb and its result complement to express whether the result <em>can</em> or <em>cannot</em> be achieved. This is a completely separate structure from the degree complement above — the difference is in what follows 得/不. Potential: the complement is a result verb or direction. Degree: the complement is an adjective or manner clause.
+          The potential complement inserts 得 or 不 between a verb and its result complement to express whether the result <em>can</em> or <em>cannot</em> be achieved. This is a completely separate structure from the degree complement above , the difference is in what follows 得/不. Potential: the complement is a result verb or direction. Degree: the complement is an adjective or manner clause.
         </div>
         <div class="examples">
           <div class="example">
@@ -385,7 +385,7 @@ pinyin: 'de / dé / dì'
         </div>
         <div class="note">
           <span class="note-label">辨析 biànxī · Degree vs. Potential</span>
-          <strong>说得好</strong> (degree) = "speaks well" — describes how something was done.<br>
+          <strong>说得好</strong> (degree) = "speaks well" , describes how something was done.<br>
           <strong>说得出来</strong> (potential) = "can say it" — describes whether something can be done.<br>
           The distinction: degree complements use adjectives or manner expressions; potential complements use result or directional verbs (动, 到, 出来, 完, etc.).
         </div>

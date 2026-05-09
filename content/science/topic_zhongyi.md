@@ -70,7 +70,7 @@ pinyin: 'zhōngyī'
         <div class="scholar-label">气 qì · The Animating Force</div>
         <p>Traditional Chinese Medicine (中医, zhōngyī) is built on a set of cosmological principles applied to the body. The central concept is <strong>气</strong> (qì), the vital force that flows through the body along channels called <strong>经络</strong> (jīngluò, meridians). Health is unobstructed qi flow; disease is blockage, deficiency, or excess.</p>
         <p>The body is understood through the framework of <strong>阴阳</strong> (yīnyáng), complementary forces that must remain in dynamic balance. Yin corresponds to cold, interior, feminine, passive, and descending qualities; yang to heat, exterior, masculine, active, and ascending. Most symptoms can be categorized as yin excess (cold, damp, pale), yang excess (hot, dry, flushed), yin deficiency, or yang deficiency, and treatment aims to restore balance.</p>
-        <p>The <strong>五行</strong> (wǔxíng, Five Phases) — Wood, Fire, Earth, Metal, Water — map onto organ systems, seasons, emotions, tastes, colors, and directions in a comprehensive correspondence table. The liver (肝) corresponds to Wood, Spring, anger, sour taste, and the color green. Treating liver qi stagnation might therefore involve sour foods, the color green, and addressing the patient's anger. The five phases provide a symbolic anatomy that integrates body and cosmos.</p>
+        <p>The <strong>五行</strong> (wǔxíng, Five Phases) , Wood, Fire, Earth, Metal, Water , map onto organ systems, seasons, emotions, tastes, colors, and directions in a comprehensive correspondence table. The liver (肝) corresponds to Wood, Spring, anger, sour taste, and the color green. Treating liver qi stagnation might therefore involve sour foods, the color green, and addressing the patient's anger. The five phases provide a symbolic anatomy that integrates body and cosmos.</p>
       </div>
 
 
@@ -119,7 +119,7 @@ pinyin: 'zhōngyī'
       <div class="cards">
         <div class="card c-ochre">
           <div class="card-head"><span class="tag-n">n</span> 望闻问切 wàng wén wèn qiē</div>
-          <p>The four examinations — looking (observation of complexion, tongue, posture), listening/smelling (voice, breath), asking (history, symptoms), and touching (pulse diagnosis). The complete TCM diagnostic protocol compressed into four characters.</p>
+          <p>The four examinations , looking (observation of complexion, tongue, posture), listening/smelling (voice, breath), asking (history, symptoms), and touching (pulse diagnosis). The complete TCM diagnostic protocol compressed into four characters.</p>
         </div>
         <div class="card c-ochre">
           <div class="card-head"><span class="tag-n">n</span> 上火 shàng huǒ</div>

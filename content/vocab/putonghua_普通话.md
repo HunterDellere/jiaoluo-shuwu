@@ -58,7 +58,7 @@ content_sources:
       <span class="topic-hero-eyebrow">Vocab · 词汇 cíhuì</span>
       <h1 class="topic-hero-title">普通话</h1>
       <span class="topic-hero-title-py">pǔ tōng huà</span>
-      <p class="topic-hero-desc">Common speech — the official standard language of the People's Republic of China, spoken natively or as a second language by over a billion people.</p>
+      <p class="topic-hero-desc">Common speech , the official standard language of the People's Republic of China, spoken natively or as a second language by over a billion people.</p>
     </header>
 
     <span class="section-anchor" id="what"></span>
@@ -116,9 +116,9 @@ content_sources:
 
     <div class="pattern">
       <span class="label">四声 sì shēng · The Four Tones of Mandarin</span>
-      <strong>第一声 ā</strong> — high and level (55) · 妈 mā mother<br>
-      <strong>第二声 á</strong> — rising (35) · 麻 má hemp; numb<br>
-      <strong>第三声 ǎ</strong> — dipping then rising (214) · 马 mǎ horse<br>
+      <strong>第一声 ā</strong> , high and level (55) · 妈 mā mother<br>
+      <strong>第二声 á</strong> , rising (35) · 麻 má hemp; numb<br>
+      <strong>第三声 ǎ</strong> , dipping then rising (214) · 马 mǎ horse<br>
       <strong>第四声 à</strong> — falling sharply (51) · 骂 mà to scold<br>
       <strong>中性/轻声</strong> — neutral/light tone (unstressed, short) · 吗 ma (question particle)
     </div>

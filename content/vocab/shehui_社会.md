@@ -79,15 +79,15 @@ updated: '2026-04-25'
 
     <div class="scholar" data-glyph="社">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
-      <p><strong>社 shè</strong> is built from 礻(示 shì, the spirit or altar radical — a pictograph of a sacrificial stand with offerings above) and <strong>土 tǔ</strong> (earth, soil). 社 was the altar of the earth deity: the sacred mound or post at the center of every ancient village where the tutelary earth spirit was venerated. Every settlement of any size had one. Communal planting prayers were offered there before the spring sowing; communal harvest rites followed in autumn. These gatherings were called 社日 (shè rì, community days) — occasions for collective ritual, feasting, and the reaffirmation of shared belonging. The 社 altar was, in practical terms, the focal point that made a collection of households into a community.</p>
-      <p><strong>会 huì</strong> means to gather, to assemble, to meet. The traditional form 會 is a pictograph of layers converging at a common point — the idea of things or people coming together into one. In modern simplified Chinese, 会 retains both the convergence sense (开会 kāi huì, to hold a meeting) and the competence sense (会 huì, to know how to do something — one has absorbed knowledge until the pieces converge).</p>
-      <p>Together, 社会 captures the premodern community with precision: the assembly (会) around the earth altar (社), the village bound together by shared ritual obligation to the same tutelary spirit. That is the original meaning — concrete, local, rooted in the agricultural calendar and the ground beneath people's feet.</p>
+      <p><strong>社 shè</strong> is built from 礻(示 shì, the spirit or altar radical , a pictograph of a sacrificial stand with offerings above) and <strong>土 tǔ</strong> (earth, soil). 社 was the altar of the earth deity: the sacred mound or post at the center of every ancient village where the tutelary earth spirit was venerated. Every settlement of any size had one. Communal planting prayers were offered there before the spring sowing; communal harvest rites followed in autumn. These gatherings were called 社日 (shè rì, community days) , occasions for collective ritual, feasting, and the reaffirmation of shared belonging. The 社 altar was, in practical terms, the focal point that made a collection of households into a community.</p>
+      <p><strong>会 huì</strong> means to gather, to assemble, to meet. The traditional form 會 is a pictograph of layers converging at a common point , the idea of things or people coming together into one. In modern simplified Chinese, 会 retains both the convergence sense (开会 kāi huì, to hold a meeting) and the competence sense (会 huì, to know how to do something , one has absorbed knowledge until the pieces converge).</p>
+      <p>Together, 社会 captures the premodern community with precision: the assembly (会) around the earth altar (社), the village bound together by shared ritual obligation to the same tutelary spirit. That is the original meaning , concrete, local, rooted in the agricultural calendar and the ground beneath people's feet.</p>
     </div>
 
     <div class="scholar" data-glyph="会">
-      <div class="scholar-label">和制漢語 — The Meiji Detour</div>
-      <p>The modern meaning of 社会 as "society" in the sociological sense — the anonymous collectivity, the macro-level social world described by Tönnies, Durkheim, and Weber — arrived through Japan. In the 19th century, Meiji-era Japanese translators faced the task of rendering Western conceptual vocabulary into Chinese characters. For the German Gesellschaft and French société, they selected 社会 (Japanese: shakai), reasoning that the idea of people assembling (会) at a shared communal structure (社) captured something of the Western concept's meaning.</p>
-      <p>This practice of coining new Chinese-character compounds to translate Western concepts is called 和制漢語 (wasei-kango, "Japanese-made Chinese words"). Chinese reformers of the late Qing and Republican eras — encountering Japanese books on sociology, political science, and philosophy — absorbed many of these compounds back into Chinese. 社会 was among the most successful. By the 1900s it had displaced older approximate terms and became the standard word. Other wasei-kango that entered Chinese through the same route: 经济 (jīngjì, economy), 文化 (wénhuà, culture), 哲学 (zhéxué, philosophy), 科学 (kēxué, science).</p>
+      <div class="scholar-label">和制漢語 , The Meiji Detour</div>
+      <p>The modern meaning of 社会 as "society" in the sociological sense , the anonymous collectivity, the macro-level social world described by Tönnies, Durkheim, and Weber , arrived through Japan. In the 19th century, Meiji-era Japanese translators faced the task of rendering Western conceptual vocabulary into Chinese characters. For the German Gesellschaft and French société, they selected 社会 (Japanese: shakai), reasoning that the idea of people assembling (会) at a shared communal structure (社) captured something of the Western concept's meaning.</p>
+      <p>This practice of coining new Chinese-character compounds to translate Western concepts is called 和制漢語 (wasei-kango, "Japanese-made Chinese words"). Chinese reformers of the late Qing and Republican eras , encountering Japanese books on sociology, political science, and philosophy , absorbed many of these compounds back into Chinese. 社会 was among the most successful. By the 1900s it had displaced older approximate terms and became the standard word. Other wasei-kango that entered Chinese through the same route: 经济 (jīngjì, economy), 文化 (wénhuà, culture), 哲学 (zhéxué, philosophy), 科学 (kēxué, science).</p>
       <p>The compound had traveled from China to Japan as classical vocabulary, been refashioned into a translation for a European concept, and returned to China carrying that new conceptual weight. The ancient altar is still there in the character, beneath the sociology.</p>
     </div>
 
@@ -110,7 +110,7 @@ updated: '2026-04-25'
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          Used alone, 社会 refers to the macro-level social world: the collectivity of human beings in organized relationship with one another. In Chinese public discourse it appears constantly — in phrases like 走向社会 (zǒu xiàng shèhuì, to enter society, used of graduates or people leaving institutional life), 对社会有贡献 (to contribute to society), and 社会问题 (shèhuì wèntí, social problems). The word carries the full weight of the Western sociological concept it was coined to translate.
+          Used alone, 社会 refers to the macro-level social world: the collectivity of human beings in organized relationship with one another. In Chinese public discourse it appears constantly , in phrases like 走向社会 (zǒu xiàng shèhuì, to enter society, used of graduates or people leaving institutional life), 对社会有贡献 (to contribute to society), and 社会问题 (shèhuì wèntí, social problems). The word carries the full weight of the Western sociological concept it was coined to translate.
         </div>
         <div class="examples">
           <div class="example">
@@ -172,13 +172,13 @@ updated: '2026-04-25'
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          社会 + 关系 (guānxi, relationship; connection). One's web of social connections. In Chinese social contexts, 社会关系 encompasses what is often simply called 关系 — the practical network of relationships that enables things to get done. Having broad 社会关系 is a recognized asset in professional and personal life.
+          社会 + 关系 (guānxi, relationship; connection). One's web of social connections. In Chinese social contexts, 社会关系 encompasses what is often simply called 关系 , the practical network of relationships that enables things to get done. Having broad 社会关系 is a recognized asset in professional and personal life.
         </div>
         <div class="examples">
           <div class="example">
             <div class="ex-cn">他的社会关系很广，认识各行各业的人。</div>
             <div class="ex-py">Tā de shèhuì guānxi hěn guǎng, rènshi gè háng gè yè de rén.</div>
-            <div class="ex-en">His social network is broad — he knows people in every field and industry.</div>
+            <div class="ex-en">His social network is broad , he knows people in every field and industry.</div>
           </div>
         </div>
       </div>
@@ -191,7 +191,7 @@ updated: '2026-04-25'
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          社会 + 地位 (dìwèi, position; standing; status). One's rank or standing within the social order. Closely related to 面子 — social status is the structural foundation from which face is generated and maintained. Hierarchically sensitive: 地位 implies a vertical ordering.
+          社会 + 地位 (dìwèi, position; standing; status). One's rank or standing within the social order. Closely related to 面子 , social status is the structural foundation from which face is generated and maintained. Hierarchically sensitive: 地位 implies a vertical ordering.
         </div>
         <div class="examples">
           <div class="example">
@@ -210,13 +210,13 @@ updated: '2026-04-25'
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          社会 + 责任 (zérèn, responsibility; obligation; duty). The obligation one has to the broader social world. Used both in the CSR (Corporate Social Responsibility) sense — 企业社会责任 (qǐyè shèhuì zérèn) — and in the broader sense of individual duty to society. Resonates with the classical Confucian idea that one's obligations extend beyond the self and the immediate family.
+          社会 + 责任 (zérèn, responsibility; obligation; duty). The obligation one has to the broader social world. Used both in the CSR (Corporate Social Responsibility) sense , 企业社会责任 (qǐyè shèhuì zérèn) , and in the broader sense of individual duty to society. Resonates with the classical Confucian idea that one's obligations extend beyond the self and the immediate family.
         </div>
         <div class="examples">
           <div class="example">
             <div class="ex-cn">企业不能只追求利润，还要承担社会责任。</div>
             <div class="ex-py">Qǐyè bù néng zhǐ zhuīqiú lìrùn, hái yào chéngdān shèhuì zérèn.</div>
-            <div class="ex-en">Companies cannot pursue profit alone — they must also take on social responsibility.</div>
+            <div class="ex-en">Companies cannot pursue profit alone , they must also take on social responsibility.</div>
           </div>
         </div>
       </div>
@@ -292,8 +292,8 @@ updated: '2026-04-25'
     <div class="scholar" data-glyph="伦">
       <div class="scholar-label">思想洞见 sīxiǎng dòngjiàn · Philosophical Note</div>
       <p>The Confucian 五伦 (wǔ lún, five relationships) defines the structure of 社会 as a hierarchy of named, reciprocal obligations. The five: ruler and subject (君臣 jūn chén), father and son (父子 fù zǐ), husband and wife (夫妇 fū fù), elder and younger brother (兄弟 xiōng dì), friend and friend (朋友 péng yǒu). Each carries specific defined duties (义务 yìwù) in both directions. The ruler owes the subject benevolent governance; the subject owes the ruler loyalty. The father owes the son guidance and provision; the son owes the father filial respect (孝 xiào).</p>
-      <p>In this framework, 社会 is not an aggregate of interchangeable individuals who have entered into a social contract. It is a web of specific, named relationships, each with defined ethical weight. The individual does not pre-exist society and then choose to enter it; the individual exists within these relationships from birth and is constituted by them. One's identity is relational: son, elder brother, subject, friend — these are not roles one plays on top of a prior self. They are the self.</p>
-      <p>This contrast with Western social-contract theory — Locke's and Rousseau's vision of individuals who exist in a state of nature prior to and independent of society, and who construct political society through voluntary agreement — runs through modern Chinese political philosophy and shapes how concepts like rights, obligations, the individual, and the state are understood and argued about.</p>
+      <p>In this framework, 社会 is not an aggregate of interchangeable individuals who have entered into a social contract. It is a web of specific, named relationships, each with defined ethical weight. The individual does not pre-exist society and then choose to enter it; the individual exists within these relationships from birth and is constituted by them. One's identity is relational: son, elder brother, subject, friend , these are not roles one plays on top of a prior self. They are the self.</p>
+      <p>This contrast with Western social-contract theory , Locke's and Rousseau's vision of individuals who exist in a state of nature prior to and independent of society, and who construct political society through voluntary agreement , runs through modern Chinese political philosophy and shapes how concepts like rights, obligations, the individual, and the state are understood and argued about.</p>
     </div>
 
     <div class="pattern">
@@ -303,27 +303,27 @@ updated: '2026-04-25'
         <div class="pattern-row">
           <span class="pat-cn">君臣</span>
           <span class="pat-py">jūn chén</span>
-          <span class="pat-gloss">ruler — subject: benevolence (仁 rén) ↔ loyalty (忠 zhōng)</span>
+          <span class="pat-gloss">ruler , subject: benevolence (仁 rén) ↔ loyalty (忠 zhōng)</span>
         </div>
         <div class="pattern-row">
           <span class="pat-cn">父子</span>
           <span class="pat-py">fù zǐ</span>
-          <span class="pat-gloss">father — son: love (慈 cí) ↔ filial piety (孝 xiào)</span>
+          <span class="pat-gloss">father , son: love (慈 cí) ↔ filial piety (孝 xiào)</span>
         </div>
         <div class="pattern-row">
           <span class="pat-cn">夫妇</span>
           <span class="pat-py">fū fù</span>
-          <span class="pat-gloss">husband — wife: righteousness (义 yì) ↔ obedience (顺 shùn)</span>
+          <span class="pat-gloss">husband , wife: righteousness (义 yì) ↔ obedience (顺 shùn)</span>
         </div>
         <div class="pattern-row">
           <span class="pat-cn">兄弟</span>
           <span class="pat-py">xiōng dì</span>
-          <span class="pat-gloss">elder — younger brother: care (友 yǒu) ↔ respect (恭 gōng)</span>
+          <span class="pat-gloss">elder , younger brother: care (友 yǒu) ↔ respect (恭 gōng)</span>
         </div>
         <div class="pattern-row">
           <span class="pat-cn">朋友</span>
           <span class="pat-py">péng yǒu</span>
-          <span class="pat-gloss">friend — friend: trust (信 xìn) ↔ trust (信 xìn) — the only symmetrical pair</span>
+          <span class="pat-gloss">friend , friend: trust (信 xìn) ↔ trust (信 xìn) , the only symmetrical pair</span>
         </div>
       </div>
     </div>
@@ -339,7 +339,7 @@ updated: '2026-04-25'
 
     <div class="scholar" data-glyph="和">
       <div class="scholar-label">当代语境 dāngdài yǔjìng · Contemporary Context</div>
-      <p>社会 sits at the center of contemporary Chinese governance language. The phrase 社会主义和谐社会 (shèhuì zhǔyì héxié shèhuì, socialist harmonious society), introduced by Hu Jintao in 2004, placed 社会 as both the object to be harmonized and the modifier of the system doing the harmonizing. Xi Jinping's 共同富裕 (gòngtóng fùyù, common prosperity) program similarly makes 社会 equity its stated aim — prosperity that extends across 社会 rather than concentrating in a stratum.</p>
+      <p>社会 sits at the center of contemporary Chinese governance language. The phrase 社会主义和谐社会 (shèhuì zhǔyì héxié shèhuì, socialist harmonious society), introduced by Hu Jintao in 2004, placed 社会 as both the object to be harmonized and the modifier of the system doing the harmonizing. Xi Jinping's 共同富裕 (gòngtóng fùyù, common prosperity) program similarly makes 社会 equity its stated aim , prosperity that extends across 社会 rather than concentrating in a stratum.</p>
       <p>When official discourse says 社会稳定 (shèhuì wěndìng, social stability), the stakes are concrete and the term is not a neutral descriptor. Maintaining 社会稳定 is a governing priority that shapes policy across domains from internet regulation to protest management to housing. The word anchors claims about what the state owes its people and what people owe the state.</p>
       <p>The 社会信用体系 (shèhuì xìnyòng tǐxì, social credit system) uses 社会 to name the domain it governs: a platform — understood differently by different analysts as a reputation management infrastructure, a financial credit system, or a surveillance and behavioral control apparatus — that tracks and scores conduct across 社会. The word doing the naming is not incidental.</p>
     </div>

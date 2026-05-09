@@ -112,13 +112,13 @@ related:
 
     <div class="scholar" data-glyph="仁">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
-      <p><strong>仁 rén = 亻 (rén, person, the left-side form of 人) + 二 (èr, two)</strong>. An ideographic compound — meaning is built directly into the structure rather than carried by a phonetic component. The character's structure is its definition: <em>humaneness is what happens between two people.</em></p>
-      <p>This is not a private interior quality. It is not something a person cultivates in isolation. It is a relational achievement — a quality that can only exist in the space between a self and another. You cannot be 仁 alone. The character itself encodes the philosophy: the self (亻) standing in relation to another (二), and from that relation, humaneness.</p>
+      <p><strong>仁 rén = 亻 (rén, person, the left-side form of 人) + 二 (èr, two)</strong>. An ideographic compound , meaning is built directly into the structure rather than carried by a phonetic component. The character's structure is its definition: <em>humaneness is what happens between two people.</em></p>
+      <p>This is not a private interior quality. It is not something a person cultivates in isolation. It is a relational achievement , a quality that can only exist in the space between a self and another. You cannot be 仁 alone. The character itself encodes the philosophy: the self (亻) standing in relation to another (二), and from that relation, humaneness.</p>
       <p>The pronunciation also matters. 仁 rén is a near-homophone of 人 rén (person). In classical texts the two were sometimes written interchangeably. To be fully human, in the Confucian understanding, is to possess 仁; the word for the virtue and the word for the person who can hold it are almost the same word.</p>
       <p>Two living senses fall out of one root:</p>
-      <p><strong>1. The moral sense</strong> — humaneness as the supreme virtue. 仁爱 rén'ài (benevolence and love), 仁义 rényì (humaneness and righteousness), 仁慈 réncí (compassion), 不仁 bùrén (callous; numb).<br>
-      <strong>2. The botanical sense</strong> — the living kernel inside a fruit's shell. 杏仁 xìngrén (apricot kernel; almond), 桃仁 táorén (peach kernel), 花生仁 huāshēngrén (peanut kernel). Both senses share the same image: the generative core, the seed from which life grows.</p>
-      <p>For the philosophical depth — Confucius's many definitions, the 五常 (Five Constants), Wang Yangming's seed metaphor — see the topic-page treatment: <a href="../../pages/vocab/ren2_仁.html">仁 · humaneness →</a>.</p>
+      <p><strong>1. The moral sense</strong> , humaneness as the supreme virtue. 仁爱 rén'ài (benevolence and love), 仁义 rényì (humaneness and righteousness), 仁慈 réncí (compassion), 不仁 bùrén (callous; numb).<br>
+      <strong>2. The botanical sense</strong> , the living kernel inside a fruit's shell. 杏仁 xìngrén (apricot kernel; almond), 桃仁 táorén (peach kernel), 花生仁 huāshēngrén (peanut kernel). Both senses share the same image: the generative core, the seed from which life grows.</p>
+      <p>For the philosophical depth , Confucius's many definitions, the 五常 (Five Constants), Wang Yangming's seed metaphor , see the topic-page treatment: <a href="../../pages/vocab/ren2_仁.html">仁 · humaneness →</a>.</p>
     </div>
 
     <!-- ── WORD-FORMATION ── -->
@@ -168,7 +168,7 @@ related:
           <div class="example">
             <div class="ex-cn">医者仁心，仁爱是行医的根本。</div>
             <div class="ex-py">Yī zhě rén xīn, rén'ài shì xíngyī de gēnběn.</div>
-            <div class="ex-en">The physician's heart is humane — benevolence is the root of medical practice.</div>
+            <div class="ex-en">The physician's heart is humane , benevolence is the root of medical practice.</div>
           </div>
         </div>
       </div>
@@ -232,7 +232,7 @@ related:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          仁 rén + 者 zhě (the one who…; nominalizer in classical Chinese). The classical term for a person who has cultivated 仁. Most famous in Confucius's own definition <em>仁者爱人</em> — "the humane person loves others." Also in 仁者无敌 "the humane have no enemies" and 仁者乐山 "the humane delight in mountains" (the classical pairing with 智者乐水 "the wise delight in water").
+          仁 rén + 者 zhě (the one who…; nominalizer in classical Chinese). The classical term for a person who has cultivated 仁. Most famous in Confucius's own definition <em>仁者爱人</em> , "the humane person loves others." Also in 仁者无敌 "the humane have no enemies" and 仁者乐山 "the humane delight in mountains" (the classical pairing with 智者乐水 "the wise delight in water").
         </div>
         <div class="examples">
           <div class="example">
@@ -256,9 +256,9 @@ related:
 
     <div class="scholar" data-glyph="仁">
       <div class="scholar-label">语义洞见 yǔyì dòngjiàn · Semantic Insight</div>
-      <p>The negation 不仁 reveals the full weight of the concept. To be without 仁 is not merely to be unkind — it is to be <em>morally deadened</em>, incapable of feeling for others. Strikingly, classical and modern Chinese medicine use the same word for <strong>physical numbness</strong>: 手脚不仁 means "hands and feet gone numb," limbs that have lost sensation.</p>
-      <p>The two uses are not coincidental. The moral imagination of the word holds that the person without humaneness and the limb without sensation are the same kind of thing: cut off from the vital connection that makes them responsive to the world. The chengyu <strong>麻木不仁</strong> (numb and inhumane) brings the two senses together explicitly — the heart that has gone wooden the way a foot can go wooden.</p>
-      <p>Wang Yangming made this image central to Neo-Confucian ethics: the person of 仁 feels the suffering of others the way a healthy body feels pain — immediately, involuntarily, as a sign of aliveness. The numbed person has lost that responsiveness. Cultivating 仁 is keeping the seed alive.</p>
+      <p>The negation 不仁 reveals the full weight of the concept. To be without 仁 is not merely to be unkind , it is to be <em>morally deadened</em>, incapable of feeling for others. Strikingly, classical and modern Chinese medicine use the same word for <strong>physical numbness</strong>: 手脚不仁 means "hands and feet gone numb," limbs that have lost sensation.</p>
+      <p>The two uses are not coincidental. The moral imagination of the word holds that the person without humaneness and the limb without sensation are the same kind of thing: cut off from the vital connection that makes them responsive to the world. The chengyu <strong>麻木不仁</strong> (numb and inhumane) brings the two senses together explicitly , the heart that has gone wooden the way a foot can go wooden.</p>
+      <p>Wang Yangming made this image central to Neo-Confucian ethics: the person of 仁 feels the suffering of others the way a healthy body feels pain , immediately, involuntarily, as a sign of aliveness. The numbed person has lost that responsiveness. Cultivating 仁 is keeping the seed alive.</p>
     </div>
 
     <!-- ── KERNEL ── -->
@@ -280,7 +280,7 @@ related:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          杏 xìng (apricot) + 仁 (kernel). The seed inside the apricot pit — the everyday Chinese word also used for almonds in modern usage (e.g. 杏仁奶 "almond milk"). In Chinese medicine, 苦杏仁 is a classical herb used to "moisten the lung and stop coughing."
+          杏 xìng (apricot) + 仁 (kernel). The seed inside the apricot pit , the everyday Chinese word also used for almonds in modern usage (e.g. 杏仁奶 "almond milk"). In Chinese medicine, 苦杏仁 is a classical herb used to "moisten the lung and stop coughing."
         </div>
         <div class="examples">
           <div class="example">
@@ -299,7 +299,7 @@ related:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          The pattern is fully productive: any fruit name + 仁 = the seed/kernel inside. 桃仁 is the peach pit's inner kernel, used in traditional medicine. 花生仁 names the inner peanut once the shell has been removed. The character 仁 picks out <em>the living core</em> — what is inside the outer shell, the part from which the next plant could grow.
+          The pattern is fully productive: any fruit name + 仁 = the seed/kernel inside. 桃仁 is the peach pit's inner kernel, used in traditional medicine. 花生仁 names the inner peanut once the shell has been removed. The character 仁 picks out <em>the living core</em> , what is inside the outer shell, the part from which the next plant could grow.
         </div>
       </div>
 
@@ -332,7 +332,7 @@ related:
         <span class="cy-cn">仁者爱人</span>
         <span class="cy-py">rén zhě ài rén</span>
         <span class="cy-en">the humane person loves others</span>
-        <span class="cy-note">From the Analects (论语) — Confucius's shortest definition of 仁, given when Fan Chi asked about it directly. Four characters that compress the whole ethic: 仁 is not love of an abstract principle but love directed toward actual people. The statement also implies its converse — you can identify the person of 仁 by how they treat the people around them.</span>
+        <span class="cy-note">From the Analects (论语) , Confucius's shortest definition of 仁, given when Fan Chi asked about it directly. Four characters that compress the whole ethic: 仁 is not love of an abstract principle but love directed toward actual people. The statement also implies its converse , you can identify the person of 仁 by how they treat the people around them.</span>
       </div>
 
       <div class="cy">
@@ -346,7 +346,7 @@ related:
         <span class="cy-cn">麻木不仁</span>
         <span class="cy-py">má mù bù rén</span>
         <span class="cy-en">numb and inhumane; deadened to feeling — both physically and morally</span>
-        <span class="cy-note">麻木 (numb; without sensation — 麻 hemp's pricking, 木 wood's deadness) + 不仁. Originally a medical term for limbs that have lost sensation; transferred to the moral realm as the heart that can no longer feel for others. Lu Xun (鲁迅) used the concept repeatedly to diagnose modern Chinese society — the numbed crowd watching suffering without response.</span>
+        <span class="cy-note">麻木 (numb; without sensation , 麻 hemp's pricking, 木 wood's deadness) + 不仁. Originally a medical term for limbs that have lost sensation; transferred to the moral realm as the heart that can no longer feel for others. Lu Xun (鲁迅) used the concept repeatedly to diagnose modern Chinese society , the numbed crowd watching suffering without response.</span>
       </div>
 
       <div class="cy">

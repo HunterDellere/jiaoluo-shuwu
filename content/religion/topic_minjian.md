@@ -320,7 +320,7 @@ pinyin: 'mínjiān xìnyǎng'
 
     <div class="pattern">
       <span class="label">庙会 miàohuì · Temple Fair Elements</span>
-      <strong>神明生日</strong> shénmíng shēngrì (deity's birthday — the focal occasion) → <strong>迎神绕境</strong> yíngshén ràojìng (divine procession through the community — blessing each home) → <strong>野台戏</strong> yětái xì (outdoor opera performed for the god) → <strong>市集</strong> shìjí (market stalls — food, crafts, incense) → <strong>乩童</strong> jītóng (spirit medium entering trance) → 施放鞭炮 shī fàng biānpào (firecrackers)
+      <strong>神明生日</strong> shénmíng shēngrì (deity's birthday , the focal occasion) → <strong>迎神绕境</strong> yíngshén ràojìng (divine procession through the community , blessing each home) → <strong>野台戏</strong> yětái xì (outdoor opera performed for the god) → <strong>市集</strong> shìjí (market stalls , food, crafts, incense) → <strong>乩童</strong> jītóng (spirit medium entering trance) → 施放鞭炮 shī fàng biānpào (firecrackers)
     </div>
 
     <div class="cards">
@@ -387,7 +387,7 @@ pinyin: 'mínjiān xìnyǎng'
           <span class="card-en">Number Symbolism</span>
         </div>
         <div class="card-def">
-          <strong>4 (四 sì)</strong> — inauspicious; sounds like 死 sǐ (death). Buildings skip floor 4, hospitals avoid room 4. <strong>8 (八 bā)</strong> — extremely auspicious; sounds like 发 fā (prosper). License plates with 8s sell at premium. <strong>6 (六 liù)</strong> — smooth, flowing; 六六大顺 liù liù dà shùn "everything goes smoothly." <strong>9 (九 jiǔ)</strong> — eternal; sounds like 久 jiǔ (long time). Given at weddings for lasting union. <strong>2 (二 èr)</strong> — good things come in pairs; gifts and offerings often doubled.
+          <strong>4 (四 sì)</strong> , inauspicious; sounds like 死 sǐ (death). Buildings skip floor 4, hospitals avoid room 4. <strong>8 (八 bā)</strong> , extremely auspicious; sounds like 发 fā (prosper). License plates with 8s sell at premium. <strong>6 (六 liù)</strong> , smooth, flowing; 六六大顺 liù liù dà shùn "everything goes smoothly." <strong>9 (九 jiǔ)</strong> , eternal; sounds like 久 jiǔ (long time). Given at weddings for lasting union. <strong>2 (二 èr)</strong> , good things come in pairs; gifts and offerings often doubled.
         </div>
         <div class="examples">
           <div class="example">
@@ -405,7 +405,7 @@ pinyin: 'mínjiān xìnyǎng'
           <span class="card-en">Color Symbolism</span>
         </div>
         <div class="card-def">
-          <strong>红 hóng (red)</strong> — the color of luck, celebration, life force. Worn at weddings, hung at new year, placed in red envelopes (红包 hóngbāo). <strong>白 bái (white)</strong> — the color of mourning; worn at funerals, avoided at celebrations. Note: this is the inverse of Western convention; Western white wedding dresses are jarring in traditional contexts. <strong>黑 hēi (black)</strong> — also mourning-associated. <strong>黄 huáng (yellow)</strong> — imperial, celestial. <strong>绿 lǜ (green)</strong> — generally positive; exception: a green hat (绿帽子 lǜ màozi) signals a cuckolded husband, never to be gifted.
+          <strong>红 hóng (red)</strong> , the color of luck, celebration, life force. Worn at weddings, hung at new year, placed in red envelopes (红包 hóngbāo). <strong>白 bái (white)</strong> , the color of mourning; worn at funerals, avoided at celebrations. Note: this is the inverse of Western convention; Western white wedding dresses are jarring in traditional contexts. <strong>黑 hēi (black)</strong> , also mourning-associated. <strong>黄 huáng (yellow)</strong> , imperial, celestial. <strong>绿 lǜ (green)</strong> , generally positive; exception: a green hat (绿帽子 lǜ màozi) signals a cuckolded husband, never to be gifted.
         </div>
         <div class="examples">
           <div class="example">

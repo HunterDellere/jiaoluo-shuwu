@@ -62,7 +62,7 @@ related:
       <span class="topic-hero-eyebrow">Culinary · 饮食 yǐnshí</span>
       <h1 class="topic-hero-title">红茶</h1>
       <span class="topic-hero-title-py">hóng chá</span>
-      <p class="topic-hero-desc">Fully oxidized — what the world calls black tea, China calls red, named for the color of the liquor. From Keemun to Dianhong, China's contribution to global tea culture.</p>
+      <p class="topic-hero-desc">Fully oxidized , what the world calls black tea, China calls red, named for the color of the liquor. From Keemun to Dianhong, China's contribution to global tea culture.</p>
     </header>
 
     <span class="section-anchor" id="naming"></span>
@@ -76,7 +76,7 @@ related:
     <div class="scholar" data-glyph="红">
       <div class="scholar-label">颜色之辩 · A Matter of Which Color You're Looking At</div>
       <p>The same tea is called "red tea" (红茶 hóngchá) in Chinese and "black tea" in English, a naming discrepancy that confuses learners and creates practical problems at tea shops. The explanation is that each language named the tea by a different physical property. English-speaking traders who first encountered this category in the seventeenth century named it by the color of the <em>dry leaf</em>, which is dark brown to black after full oxidation. Chinese consumers named it by the color of the <em>brewed liquor</em>, which is a clear amber-red. Neither name is wrong; they simply describe different aspects of the same object.</p>
-      <p>The distinction matters linguistically because Chinese tea taxonomy is internally consistent: 绿茶 (green tea) has green leaves and light green-gold liquor; 白茶 (white tea) has pale silvery-white leaves; 黄茶 (yellow tea) has yellowed leaves and yellow liquor; 红茶 (red tea) has red liquor; 黑茶 (black/dark tea) has dark, compressed, post-fermented material. If you use the Chinese system, you must remember that 黑茶 is pu-erh and dark fermented teas — not what English speakers mean by "black tea."</p>
+      <p>The distinction matters linguistically because Chinese tea taxonomy is internally consistent: 绿茶 (green tea) has green leaves and light green-gold liquor; 白茶 (white tea) has pale silvery-white leaves; 黄茶 (yellow tea) has yellowed leaves and yellow liquor; 红茶 (red tea) has red liquor; 黑茶 (black/dark tea) has dark, compressed, post-fermented material. If you use the Chinese system, you must remember that 黑茶 is pu-erh and dark fermented teas , not what English speakers mean by "black tea."</p>
     </div>
 
     <span class="section-anchor" id="processing"></span>
@@ -132,7 +132,7 @@ related:
 
     <div class="scholar" data-glyph="界">
       <div class="scholar-label">鸦片战争的起源 · The Root of the Opium Wars</div>
-      <p>Red tea — particularly Lapsang Souchong and Bohea (武夷茶 Wǔyí chá) — was the commodity whose demand in eighteenth-century Britain created one of history's most consequential trade imbalances. British consumers were consuming enormous quantities of Chinese tea; China had no comparable desire for British manufactured goods; silver was flowing from Britain to China at a rate that alarmed the British government and the East India Company. The eventual British response — forcing opium grown in British India into China as a counter-commodity — led directly to the First Opium War (1839–1842) and the treaty concessions that began China's "century of humiliation."</p>
+      <p>Red tea , particularly Lapsang Souchong and Bohea (武夷茶 Wǔyí chá) — was the commodity whose demand in eighteenth-century Britain created one of history's most consequential trade imbalances. British consumers were consuming enormous quantities of Chinese tea; China had no comparable desire for British manufactured goods; silver was flowing from Britain to China at a rate that alarmed the British government and the East India Company. The eventual British response — forcing opium grown in British India into China as a counter-commodity — led directly to the First Opium War (1839–1842) and the treaty concessions that began China's "century of humiliation."</p>
       <p>Britain's parallel strategy was industrial espionage. In 1848, the botanist Robert Fortune traveled to Fujian in disguise, obtained tea plants and seeds, and exported them to Darjeeling, India, simultaneously extracting the secrets of tea processing from Chinese workers. The resulting Indian tea industry eventually displaced Chinese tea in British markets entirely, and by the early twentieth century China's tea export dominance was broken. From the Chinese perspective, the history of red tea is inseparable from the history of colonial extraction.</p>
     </div>
 

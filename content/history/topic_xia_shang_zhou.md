@@ -88,11 +88,11 @@ pinyin: 'xià shāng zhōu'
 
     <div class="pattern">
       <span class="label">关键词 guānjiàn cí · Key Terms</span>
-      <strong>大禹治水</strong> Dà Yǔ zhì shuǐ — Great Yu Controls the Floods (founding myth)<br>
-      <strong>九鼎</strong> jiǔ dǐng — Nine Cauldrons (supreme symbol of dynastic legitimacy)<br>
-      <strong>禅让</strong> shànràng — abdication to the most virtuous (pre-dynastic ideal)<br>
-      <strong>二里头</strong> Èrlǐtóu — Bronze Age site, possible Xia capital (c. 1900–1500 BCE)<br>
-      <strong>夏桀</strong> Xià Jié — the last depraved Xia king; archetype of the "bad last ruler"
+      <strong>大禹治水</strong> Dà Yǔ zhì shuǐ , Great Yu Controls the Floods (founding myth)<br>
+      <strong>九鼎</strong> jiǔ dǐng , Nine Cauldrons (supreme symbol of dynastic legitimacy)<br>
+      <strong>禅让</strong> shànràng , abdication to the most virtuous (pre-dynastic ideal)<br>
+      <strong>二里头</strong> Èrlǐtóu , Bronze Age site, possible Xia capital (c. 1900–1500 BCE)<br>
+      <strong>夏桀</strong> Xià Jié , the last depraved Xia king; archetype of the "bad last ruler"
     </div>
 
     <!-- ── SHANG ── -->
@@ -107,7 +107,7 @@ pinyin: 'xià shāng zhōu'
     <div class="scholar" data-glyph="商">
       <div class="scholar-label">历史洞见 lìshǐ dòngjiàn · Historical Insight</div>
       <p>The Shang dynasty (商朝 Shāngcháo, c. 1600–1046 BCE) is the first Chinese dynasty confirmed by both archaeology and contemporary writing. Its existence was not proven until the late nineteenth century, when peasants near the city of <strong>安阳 Ānyáng</strong> in Henan province began turning up mysterious inscribed bones and turtle shells, sold to apothecaries as "dragon bones" (龙骨 lónggǔ) for medicinal use. Scholars eventually recognized these as <strong>甲骨文 jiǎgǔwén</strong> (oracle bone script): the earliest systematically recorded form of Chinese writing, dating to the Late Shang period (c. 1250–1046 BCE).</p>
-      <p>Oracle bones were used for divination. A Shang king or diviner would pose a question — Will the harvest be good? Will the king's toothache heal? Will the army prevail? — carve the question on ox scapulae or turtle plastrons, apply a heated bronze rod to create cracks, and read the answer from the crack patterns. The question, the crack, and sometimes the outcome were inscribed on the bone. Over 150,000 inscribed pieces have been recovered, giving historians an extraordinary window into Shang life, religion, and political thought.</p>
+      <p>Oracle bones were used for divination. A Shang king or diviner would pose a question , Will the harvest be good? Will the king's toothache heal? Will the army prevail? — carve the question on ox scapulae or turtle plastrons, apply a heated bronze rod to create cracks, and read the answer from the crack patterns. The question, the crack, and sometimes the outcome were inscribed on the bone. Over 150,000 inscribed pieces have been recovered, giving historians an extraordinary window into Shang life, religion, and political thought.</p>
       <p>The Shang capital known to us best is <strong>殷 Yīn</strong> (near modern Anyang), giving rise to the historical term <strong>殷商 Yīn Shāng</strong>. The city was enormous: royal tombs, workshops for bronze casting, stables, and sacrifice pits. The word for "business" or "commerce" in modern Chinese (<strong>商业 shāngyè</strong>, <strong>商人 shāngrén</strong> merchant) derives from the Shang, because Shang survivors displaced after 1046 BCE became itinerant traders.</p>
       <p>The Shang's material achievement was <strong>青铜器 qīngtóngqì</strong> (bronze ritual vessels) of extraordinary technical and artistic sophistication. The great bronze cauldrons (<strong>鼎 dǐng</strong>), wine vessels (<strong>爵 jué</strong>), and ritual bells were instruments of communication with ancestors and spirits, deployed in elaborate ceremonies rather than put to utilitarian use. The most famous surviving Shang bronze is the <strong>后母戊鼎 Hòumǔwù Dǐng</strong>, weighing 832.84 kg, cast c. 1250 BCE for a queen, the largest bronze vessel ever cast in the ancient world.</p>
       <p>Shang religion centered on ancestor veneration and divination. The supreme deity <strong>帝 Dì</strong> or <strong>上帝 Shàngdì</strong> presided over a divine court mirroring the Shang royal court; deceased Shang kings became part of this divine hierarchy and could intercede on behalf of the living. Human sacrifice was practiced on a significant scale, particularly at royal burials, where retainers, soldiers, and captives were interred with, or killed for, the deceased ruler. Excavations of the royal tombs at Anyang have revealed hundreds of sacrificial victims.</p>
@@ -148,9 +148,9 @@ pinyin: 'xià shāng zhōu'
         </div>
         <div class="examples">
           <div class="example">
-            <div class="ex-cn">问鼎中原 — to aspire to rule all of China</div>
+            <div class="ex-cn">问鼎中原 , to aspire to rule all of China</div>
             <div class="ex-py">wèn dǐng Zhōngyuán</div>
-            <div class="ex-en">Lit. "to inquire about the cauldrons of the Central Plains" — a set phrase for political ambition, derived from the legend that the Zhou king's cauldrons embodied the Mandate of Heaven.</div>
+            <div class="ex-en">Lit. "to inquire about the cauldrons of the Central Plains" , a set phrase for political ambition, derived from the legend that the Zhou king's cauldrons embodied the Mandate of Heaven.</div>
           </div>
         </div>
       </div>
@@ -166,7 +166,7 @@ pinyin: 'xià shāng zhōu'
         </div>
         <div class="note">
           <span class="note-label">以德配天 yǐ dé pèi tiān</span>
-          "To match Heaven through virtue" — the corollary to 天命. The ruler must maintain his virtue to keep the Mandate. This established a reciprocal moral-political logic that persisted through the Qing dynasty (1912 CE): rulers were responsible for their own fall.
+          "To match Heaven through virtue" , the corollary to 天命. The ruler must maintain his virtue to keep the Mandate. This established a reciprocal moral-political logic that persisted through the Qing dynasty (1912 CE): rulers were responsible for their own fall.
         </div>
       </div>
 
@@ -192,12 +192,12 @@ pinyin: 'xià shāng zhōu'
 
     <div class="pattern">
       <span class="label">西周关键词 Xī Zhōu · Western Zhou Key Terms</span>
-      <strong>封建制</strong> fēngjiàn zhì — the enfeoffment/feudal system<br>
-      <strong>诸侯</strong> zhūhóu — the feudal lords (lit. "the various marquises")<br>
-      <strong>周公</strong> Zhōu Gōng — the Duke of Zhou; Confucius's moral hero<br>
-      <strong>制礼作乐</strong> zhì lǐ zuò yuè — codifying ritual and music (Zhou Gong's achievement)<br>
-      <strong>天命</strong> tiānmìng — Mandate of Heaven<br>
-      <strong>以德配天</strong> yǐ dé pèi tiān — to match Heaven through virtue
+      <strong>封建制</strong> fēngjiàn zhì , the enfeoffment/feudal system<br>
+      <strong>诸侯</strong> zhūhóu , the feudal lords (lit. "the various marquises")<br>
+      <strong>周公</strong> Zhōu Gōng , the Duke of Zhou; Confucius's moral hero<br>
+      <strong>制礼作乐</strong> zhì lǐ zuò yuè , codifying ritual and music (Zhou Gong's achievement)<br>
+      <strong>天命</strong> tiānmìng , Mandate of Heaven<br>
+      <strong>以德配天</strong> yǐ dé pèi tiān , to match Heaven through virtue
     </div>
 
     <!-- ── SPRING AND AUTUMN ── -->

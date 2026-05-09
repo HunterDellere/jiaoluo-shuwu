@@ -101,9 +101,9 @@ content_review: 'pending'
 
     <div class="scholar" data-glyph="聽">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
-      <p>The simplified character 听 is a phonosemantic compound: 口 kǒu (mouth) on the left provides a loose semantic hint toward speech and sound, while 斤 jīn (axe; unit of weight) on the right contributes the phonetic. The structure is functional but sparse — a working character that has shed the complexity of its ancestor.</p>
-      <p>The traditional form 聽 is an entirely different proposition. It is one of the most semantically dense characters in the classical script. Scholars identify the following components: 耳 ěr (ear) as the semantic core — the organ doing the work; 壬 rén (upright figure, a person standing straight — associated with virtue and moral uprightness) directly below the ear; 心 xīn (heart) at the bottom center; and 目 mù (eye) flanking the right side along with 一 (one, completing the structure). The traditional character places ear, eye, heart, and upright posture all inside a single glyph.</p>
-      <p>This is a picture of Confucian listening. To truly hear another person, you align your ear to their words, your eye to their expression and bearing, your heart to their meaning, and you stand upright — attentive, not slouched in indifference. The moral dimension of 聽 is structural: the character does not merely describe an action but encodes an ideal. Listening is not passive reception; it is an ethical posture, a form of respect made physical.</p>
+      <p>The simplified character 听 is a phonosemantic compound: 口 kǒu (mouth) on the left provides a loose semantic hint toward speech and sound, while 斤 jīn (axe; unit of weight) on the right contributes the phonetic. The structure is functional but sparse , a working character that has shed the complexity of its ancestor.</p>
+      <p>The traditional form 聽 is an entirely different proposition. It is one of the most semantically dense characters in the classical script. Scholars identify the following components: 耳 ěr (ear) as the semantic core , the organ doing the work; 壬 rén (upright figure, a person standing straight , associated with virtue and moral uprightness) directly below the ear; 心 xīn (heart) at the bottom center; and 目 mù (eye) flanking the right side along with 一 (one, completing the structure). The traditional character places ear, eye, heart, and upright posture all inside a single glyph.</p>
+      <p>This is a picture of Confucian listening. To truly hear another person, you align your ear to their words, your eye to their expression and bearing, your heart to their meaning, and you stand upright , attentive, not slouched in indifference. The moral dimension of 聽 is structural: the character does not merely describe an action but encodes an ideal. Listening is not passive reception; it is an ethical posture, a form of respect made physical.</p>
       <p>The 20th-century simplification collapsed this into 口 + 斤 for efficiency. The shape became easier to write. What was lost was the diagram: the traditional form was a portable reminder that genuine listening requires the full person.</p>
     </div>
 
@@ -117,7 +117,7 @@ content_review: 'pending'
     </div>
 
     <div class="pattern">
-      <span class="label">The deliberate–passive distinction — parallels 看 kàn vs 见 jiàn for vision</span>
+      <span class="label">The deliberate–passive distinction , parallels 看 kàn vs 见 jiàn for vision</span>
       <strong>听 tīng</strong> → to listen (active, deliberate attention directed at a sound source)<br>
       <strong>闻 wén</strong> → to hear (passive arrival of sound at the ear); also: to smell (modern)<br>
       <strong>看 kàn</strong> → to look (active, deliberate) :: <strong>见 jiàn</strong> → to see (passive)<br>
@@ -127,9 +127,9 @@ content_review: 'pending'
 
     <div class="scholar" data-glyph="闻">
       <div class="scholar-label">辨析 biànxī · The 听 / 闻 Distinction</div>
-      <p>In classical Chinese, 闻 wén (traditional 聞) is 耳 (ear) with 門 (gate) as a phonetic component: the sound that enters through the gate, arriving at the ear on its own. The character captures the passive arrival of sound without the agency of the listener. In modern Mandarin, 闻 has also taken on the meaning "to smell" — the nose, like the ear, receives sensations that come to it.</p>
-      <p>听 carries the agency. 我在听音乐 (wǒ zài tīng yīnyuè) — I am listening to music: deliberate, directed attention. 我听到一个声音 (wǒ tīng dào yīgè shēngyīn) — I heard a sound (it arrived; 到 marks arrival). 听到 bridges the two senses: the verb 听 plus the resultative complement 到 (reached; arrived) describes the moment when active listening catches something. 听 as pure perception shades toward 闻 when combined with 到.</p>
-      <p>In classical texts, 闻 also carries the meaning of reputation — what has reached people's ears. 名闻天下 (míng wén tiānxià) means your name has spread to every ear under heaven. This "to become known" sense connects the passive ear to the social circulation of information: reputation is what others have passively received without you broadcasting it directly.</p>
+      <p>In classical Chinese, 闻 wén (traditional 聞) is 耳 (ear) with 門 (gate) as a phonetic component: the sound that enters through the gate, arriving at the ear on its own. The character captures the passive arrival of sound without the agency of the listener. In modern Mandarin, 闻 has also taken on the meaning "to smell" , the nose, like the ear, receives sensations that come to it.</p>
+      <p>听 carries the agency. 我在听音乐 (wǒ zài tīng yīnyuè) , I am listening to music: deliberate, directed attention. 我听到一个声音 (wǒ tīng dào yīgè shēngyīn) , I heard a sound (it arrived; 到 marks arrival). 听到 bridges the two senses: the verb 听 plus the resultative complement 到 (reached; arrived) describes the moment when active listening catches something. 听 as pure perception shades toward 闻 when combined with 到.</p>
+      <p>In classical texts, 闻 also carries the meaning of reputation , what has reached people's ears. 名闻天下 (míng wén tiānxià) means your name has spread to every ear under heaven. This "to become known" sense connects the passive ear to the social circulation of information: reputation is what others have passively received without you broadcasting it directly.</p>
     </div>
 
     <!-- SECTION: Obedience -->
@@ -143,15 +143,15 @@ content_review: 'pending'
 
     <div class="scholar" data-glyph="听">
       <div class="scholar-label">语义延伸 yǔyì yánshēn · Semantic Extension</div>
-      <p>The semantic link between hearing and obeying is direct: if you have truly listened, you act on what you heard. 听 in this sense means to follow instructions, to comply, to do as one is told. The connection is not metaphorical — it is the logical completion of the act. Hearing fully, in the Confucian framework the traditional 聽 encodes, was never merely acoustic. It implied reception and response.</p>
-      <p>This gives 听 a range that English distributes across "to hear," "to listen to," and "to obey." A child who 听话 is not just one who hears the words of their parents — they are one who follows those words. The teacher asks 你听懂了吗？(Did you understand what you heard?). The army commander issues an order with the expectation of 听从 (compliance). 听命 tīngmìng (to receive orders; to obey commands) is the formal register used in military and official contexts.</p>
+      <p>The semantic link between hearing and obeying is direct: if you have truly listened, you act on what you heard. 听 in this sense means to follow instructions, to comply, to do as one is told. The connection is not metaphorical , it is the logical completion of the act. Hearing fully, in the Confucian framework the traditional 聽 encodes, was never merely acoustic. It implied reception and response.</p>
+      <p>This gives 听 a range that English distributes across "to hear," "to listen to," and "to obey." A child who 听话 is not just one who hears the words of their parents , they are one who follows those words. The teacher asks 你听懂了吗？(Did you understand what you heard?). The army commander issues an order with the expectation of 听从 (compliance). 听命 tīngmìng (to receive orders; to obey commands) is the formal register used in military and official contexts.</p>
     </div>
 
     <div class="cards">
       <div class="card c-red">
         <div class="card-head"><span class="card-cn">听话</span><span class="card-py">tīnghuà</span><span class="card-en">obedient; to do as one is told</span></div>
         <div class="tags"><span class="tag tag-adj">Adj 形容词</span></div>
-        <div class="card-def">听 (to listen) + 话 huà (words; speech). Obedient in the sense of listening to what is said and acting accordingly. The standard word for a well-behaved child: 这孩子很听话 (this child is very obedient). Applied to adults, the tone shifts — 他很听话 can suggest someone who complies too readily, a subordinate who never pushes back.</div>
+        <div class="card-def">听 (to listen) + 话 huà (words; speech). Obedient in the sense of listening to what is said and acting accordingly. The standard word for a well-behaved child: 这孩子很听话 (this child is very obedient). Applied to adults, the tone shifts , 他很听话 can suggest someone who complies too readily, a subordinate who never pushes back.</div>
         <div class="examples">
           <div class="example"><div class="ex-cn">小时候，我不太听话。</div><div class="ex-py">Xiǎo shíhòu, wǒ bú tài tīnghuà.</div><div class="ex-en">When I was young, I wasn't very obedient.</div></div>
           <div class="example"><div class="ex-cn">孩子很听话，从不让父母操心。</div><div class="ex-py">Háizi hěn tīnghuà, cóng bù ràng fùmǔ cāoxīn.</div><div class="ex-en">The child is very obedient and never gives her parents cause for worry.</div></div>
@@ -161,7 +161,7 @@ content_review: 'pending'
       <div class="card c-ochre">
         <div class="card-head"><span class="card-cn">听从</span><span class="card-py">tīngcóng</span><span class="card-en">to comply with; to follow (advice, instructions)</span></div>
         <div class="tags"><span class="tag tag-v">V 动词</span></div>
-        <div class="card-def">听 (to listen, to heed) + 从 cóng (to follow; to comply). To hear and act accordingly — to accept and follow guidance, instructions, or authority. Used for following medical advice (听从医嘱 tīngcóng yīzhǔ), following a superior's direction, or complying with a decision. More formal than 听话; applies freely to adults in professional and institutional contexts.</div>
+        <div class="card-def">听 (to listen, to heed) + 从 cóng (to follow; to comply). To hear and act accordingly , to accept and follow guidance, instructions, or authority. Used for following medical advice (听从医嘱 tīngcóng yīzhǔ), following a superior's direction, or complying with a decision. More formal than 听话; applies freely to adults in professional and institutional contexts.</div>
         <div class="examples">
           <div class="example"><div class="ex-cn">请听从医生的建议。</div><div class="ex-py">Qǐng tīngcóng yīshēng de jiànyì.</div><div class="ex-en">Please follow the doctor's advice.</div></div>
           <div class="example"><div class="ex-cn">他拒绝听从命令。</div><div class="ex-py">Tā jùjué tīngcóng mìnglìng.</div><div class="ex-en">He refused to follow the order.</div></div>
@@ -180,10 +180,10 @@ content_review: 'pending'
       <div class="card c-violet">
         <div class="card-head"><span class="card-cn">听懂</span><span class="card-py">tīngdǒng</span><span class="card-en">to understand what one hears; to follow spoken language</span></div>
         <div class="tags"><span class="tag tag-v">V 动词</span></div>
-        <div class="card-def">听 (to listen) + 懂 dǒng (to understand). The resultative complement 懂 marks successful comprehension — listening that reached understanding. Constant in language learning contexts: 你听懂了吗？ (Did you understand what you heard?) contrasts with 你听到了吗？ (Did you hear it? — did the sound reach you?). The former asks about comprehension; the latter about physical reception.</div>
+        <div class="card-def">听 (to listen) + 懂 dǒng (to understand). The resultative complement 懂 marks successful comprehension , listening that reached understanding. Constant in language learning contexts: 你听懂了吗？ (Did you understand what you heard?) contrasts with 你听到了吗？ (Did you hear it? — did the sound reach you?). The former asks about comprehension; the latter about physical reception.</div>
         <div class="examples">
           <div class="example"><div class="ex-cn">对不起，我没听懂你说的。</div><div class="ex-py">Duìbuqǐ, wǒ méi tīngdǒng nǐ shuō de.</div><div class="ex-en">Sorry, I didn't understand what you said.</div></div>
-          <div class="example"><div class="ex-cn">第一遍没听懂，请再说一遍。</div><div class="ex-py">Dì yī biàn méi tīngdǒng, qǐng zài shuō yī biàn.</div><div class="ex-en">I didn't catch it the first time — please say it again.</div></div>
+          <div class="example"><div class="ex-cn">第一遍没听懂，请再说一遍。</div><div class="ex-py">Dì yī biàn méi tīngdǒng, qǐng zài shuō yī biàn.</div><div class="ex-en">I didn't catch it the first time , please say it again.</div></div>
         </div>
       </div>
     </div>
@@ -201,10 +201,10 @@ content_review: 'pending'
       <div class="card c-red">
         <div class="card-head"><span class="card-cn">好听</span><span class="card-py">hǎotīng</span><span class="card-en">pleasant-sounding; beautiful (of music, voice, speech)</span></div>
         <div class="tags"><span class="tag tag-adj">Adj 形容词</span></div>
-        <div class="card-def">好 hǎo (good; well) + 听 (to listen). The auditory parallel of 好看 hǎokàn (nice-looking). Applied to music, voices, songs, and speech. 不好听 carries two levels: the literal "unpleasant-sounding" and the social "offensive to hear" — 说话不好听 can mean someone speaks rudely or harshly, words that are unpleasant to receive. The compliment 你声音很好听 (your voice is very pleasant) is common and direct.</div>
+        <div class="card-def">好 hǎo (good; well) + 听 (to listen). The auditory parallel of 好看 hǎokàn (nice-looking). Applied to music, voices, songs, and speech. 不好听 carries two levels: the literal "unpleasant-sounding" and the social "offensive to hear" , 说话不好听 can mean someone speaks rudely or harshly, words that are unpleasant to receive. The compliment 你声音很好听 (your voice is very pleasant) is common and direct.</div>
         <div class="examples">
           <div class="example"><div class="ex-cn">这首歌很好听。</div><div class="ex-py">Zhè shǒu gē hěn hǎotīng.</div><div class="ex-en">This song is beautiful.</div></div>
-          <div class="example"><div class="ex-cn">他说话不好听，总是直接批评人。</div><div class="ex-py">Tā shuōhuà bù hǎotīng, zǒngshì zhíjiē pīpíng rén.</div><div class="ex-en">The way he speaks is unpleasant — he always criticizes people directly.</div></div>
+          <div class="example"><div class="ex-cn">他说话不好听，总是直接批评人。</div><div class="ex-py">Tā shuōhuà bù hǎotīng, zǒngshì zhíjiē pīpíng rén.</div><div class="ex-en">The way he speaks is unpleasant , he always criticizes people directly.</div></div>
         </div>
       </div>
 
@@ -214,14 +214,14 @@ content_review: 'pending'
         <div class="card-def">听 (to hear) + 说 shuō (to say; to speak). A hedging marker for secondhand information: "I've heard it said that…" Placed at the start of a clause to flag that the speaker did not witness the information directly. 听说他去北京了 (I heard he went to Beijing). Similar to English "apparently" or "I heard that." An extremely frequent discourse particle in everyday conversation.</div>
         <div class="examples">
           <div class="example"><div class="ex-cn">听说明天会下雨。</div><div class="ex-py">Tīngshuō míngtiān huì xià yǔ.</div><div class="ex-en">I've heard it might rain tomorrow.</div></div>
-          <div class="example"><div class="ex-cn">听说她要结婚了，是真的吗？</div><div class="ex-py">Tīngshuō tā yào jiéhūn le, shì zhēn de ma?</div><div class="ex-en">I heard she's getting married — is that true?</div></div>
+          <div class="example"><div class="ex-cn">听说她要结婚了，是真的吗？</div><div class="ex-py">Tīngshuō tā yào jiéhūn le, shì zhēn de ma?</div><div class="ex-en">I heard she's getting married , is that true?</div></div>
         </div>
       </div>
 
       <div class="card c-teal">
         <div class="card-head"><span class="card-cn">倾听</span><span class="card-py">qīngtīng</span><span class="card-en">to listen attentively; to lean in and hear</span></div>
         <div class="tags"><span class="tag tag-v">V 动词</span></div>
-        <div class="card-def">倾 qīng (to lean; to incline; to pour out) + 听 (to listen). Listening with the body inclined toward the speaker — attentive, empathetic, fully directed. The formal and literary register for careful listening: 倾听民声 (listen attentively to the voice of the people), used in political speech; 倾听内心 (listen to the voice of your inner heart). Counselors, therapists, and journalists 倾听. Children 听话.</div>
+        <div class="card-def">倾 qīng (to lean; to incline; to pour out) + 听 (to listen). Listening with the body inclined toward the speaker , attentive, empathetic, fully directed. The formal and literary register for careful listening: 倾听民声 (listen attentively to the voice of the people), used in political speech; 倾听内心 (listen to the voice of your inner heart). Counselors, therapists, and journalists 倾听. Children 听话.</div>
         <div class="examples">
           <div class="example"><div class="ex-cn">她善于倾听，总让人感到被理解。</div><div class="ex-py">Tā shànyú qīngtīng, zǒng ràng rén gǎndào bèi lǐjiě.</div><div class="ex-en">She is good at listening attentively, and always makes people feel understood.</div></div>
           <div class="example"><div class="ex-cn">领导人应倾听百姓的声音。</div><div class="ex-py">Lǐngdǎo rén yīng qīngtīng bǎixìng de shēngyīn.</div><div class="ex-en">Leaders should listen attentively to the voice of the people.</div></div>
@@ -231,7 +231,7 @@ content_review: 'pending'
       <div class="card c-sienna">
         <div class="card-head"><span class="card-cn">听音乐</span><span class="card-py">tīng yīnyuè</span><span class="card-en">to listen to music</span></div>
         <div class="tags"><span class="tag tag-v">V 动词</span></div>
-        <div class="card-def">听 (to listen) + 音乐 yīnyuè (music — 音 sound/tone + 乐 joy/music). The most common collocation for 听 in daily life. 听歌 tīng gē (to listen to songs) is the slightly more casual form. Related: 听众 tīngzhòng (audience of listeners — 众 zhòng people, crowd), the word for a radio audience or concert audience. 听力 tīnglì (listening ability; aural comprehension) is the term used in language tests.</div>
+        <div class="card-def">听 (to listen) + 音乐 yīnyuè (music , 音 sound/tone + 乐 joy/music). The most common collocation for 听 in daily life. 听歌 tīng gē (to listen to songs) is the slightly more casual form. Related: 听众 tīngzhòng (audience of listeners , 众 zhòng people, crowd), the word for a radio audience or concert audience. 听力 tīnglì (listening ability; aural comprehension) is the term used in language tests.</div>
         <div class="examples">
           <div class="example"><div class="ex-cn">她喜欢一边跑步，一边听音乐。</div><div class="ex-py">Tā xǐhuān yībiān pǎobù, yībiān tīng yīnyuè.</div><div class="ex-en">She likes to listen to music while jogging.</div></div>
           <div class="example"><div class="ex-cn">听力测试要求你仔细听然后回答问题。</div><div class="ex-py">Tīnglì cèshì yāoqiú nǐ zǐxì tīng rán hòu huídá wèntí.</div><div class="ex-en">The listening test requires you to listen carefully and then answer questions.</div></div>
@@ -253,25 +253,25 @@ content_review: 'pending'
         <span class="cy-cn">言听计从</span>
         <span class="cy-py">yán tīng jì cóng</span>
         <span class="cy-en">"words heard, plans followed" — to comply with every word and plan</span>
-        <span class="cy-note">言 (words) + 听 (heeded) + 计 (plans, strategies) + 从 (followed). Whatever someone says is accepted; whatever they plan is implemented. Used to describe a relationship of complete compliance — a ruler who accepts all counsel from a trusted advisor, or a person who follows another uncritically. Depending on context, this can be praise (complete trust) or criticism (lack of independent judgment). 她对他言听计从，从不提出自己的意见 — She follows his every word and plan, never voicing her own opinion.</span>
+        <span class="cy-note">言 (words) + 听 (heeded) + 计 (plans, strategies) + 从 (followed). Whatever someone says is accepted; whatever they plan is implemented. Used to describe a relationship of complete compliance , a ruler who accepts all counsel from a trusted advisor, or a person who follows another uncritically. Depending on context, this can be praise (complete trust) or criticism (lack of independent judgment). 她对他言听计从，从不提出自己的意见 , She follows his every word and plan, never voicing her own opinion.</span>
       </div>
       <div class="cy">
         <span class="cy-cn">耳听八方</span>
         <span class="cy-py">ěr tīng bāfāng</span>
         <span class="cy-en">"ears listening in all eight directions" — alert and perceptive to everything around</span>
-        <span class="cy-note">耳 (ears) + 听 (listening) + 八方 (the eight directions — north, south, east, west, and the four diagonals; by extension, all sides). The full phrase is usually 眼观六路，耳听八方 (eyes watching six paths, ears listening in eight directions) — the perceptual alertness of the skilled warrior, leader, or administrator who misses nothing happening around them. Used admiringly of someone who is constantly aware of their environment.</span>
+        <span class="cy-note">耳 (ears) + 听 (listening) + 八方 (the eight directions , north, south, east, west, and the four diagonals; by extension, all sides). The full phrase is usually 眼观六路，耳听八方 (eyes watching six paths, ears listening in eight directions) , the perceptual alertness of the skilled warrior, leader, or administrator who misses nothing happening around them. Used admiringly of someone who is constantly aware of their environment.</span>
       </div>
       <div class="cy">
         <span class="cy-cn">听天由命</span>
         <span class="cy-py">tīng tiān yóu mìng</span>
         <span class="cy-en">"listen to heaven, yield to fate" — resignation to what cannot be controlled</span>
-        <span class="cy-note">听 (to submit to; to accept) + 天 (heaven) + 由 (to follow; to yield to) + 命 (fate; life; mandate). When all effort is exhausted or when the outcome is beyond one's control, one yields to what heaven decides. The attitude is neither joyful acceptance nor despair — it is a deliberate releasing of agency. 尽人事，听天命 (do what humans can do, then submit to heaven's fate) is the fuller proverb that pairs effort with acceptance.</span>
+        <span class="cy-note">听 (to submit to; to accept) + 天 (heaven) + 由 (to follow; to yield to) + 命 (fate; life; mandate). When all effort is exhausted or when the outcome is beyond one's control, one yields to what heaven decides. The attitude is neither joyful acceptance nor despair , it is a deliberate releasing of agency. 尽人事，听天命 (do what humans can do, then submit to heaven's fate) is the fuller proverb that pairs effort with acceptance.</span>
       </div>
       <div class="cy">
         <span class="cy-cn">听而不闻</span>
         <span class="cy-py">tīng ér bù wén</span>
         <span class="cy-en">"listen and yet not hear" — to hear without registering; selective inattention</span>
-        <span class="cy-note">听 (the act of listening) + 而 (and yet, connecting contrast) + 不闻 (not actually hearing). The distinction between 听 (the directed act) and 闻 (what the ear actually receives) sharpens into an idiom: you can perform the physical act of listening without anything penetrating. From the 大学 (Great Learning), one of the Confucian Four Books: 心不在焉，视而不见，听而不闻，食而不知其味 — "When the heart is absent, you look but do not see, listen but do not hear, eat but do not taste the flavor." The inattentive person goes through the motions without the inner engagement that gives them meaning.</span>
+        <span class="cy-note">听 (the act of listening) + 而 (and yet, connecting contrast) + 不闻 (not actually hearing). The distinction between 听 (the directed act) and 闻 (what the ear actually receives) sharpens into an idiom: you can perform the physical act of listening without anything penetrating. From the 大学 (Great Learning), one of the Confucian Four Books: 心不在焉，视而不见，听而不闻，食而不知其味 , "When the heart is absent, you look but do not see, listen but do not hear, eat but do not taste the flavor." The inattentive person goes through the motions without the inner engagement that gives them meaning.</span>
       </div>
     </div>
 

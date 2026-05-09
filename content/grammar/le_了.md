@@ -79,7 +79,7 @@ pinyin: 'le'
       <span class="topic-hero-eyebrow">Grammar · 语法 yǔfǎ</span>
       <h1 class="topic-hero-title">了</h1>
       <span class="topic-hero-title-py">le / liǎo</span>
-      <p class="topic-hero-desc">The most notorious particle in Mandarin — a single character with two pronunciations, two grammatical functions, and the ability to appear twice in one sentence doing two different jobs simultaneously.</p>
+      <p class="topic-hero-desc">The most notorious particle in Mandarin , a single character with two pronunciations, two grammatical functions, and the ability to appear twice in one sentence doing two different jobs simultaneously.</p>
     </header>
 
     <!-- ── ETYMOLOGY ── -->
@@ -93,8 +93,8 @@ pinyin: 'le'
 
     <div class="scholar" data-glyph="了">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
-      <p><strong>了</strong> is one of the most visually simple characters in the language — two strokes — yet one of the most semantically complex particles in Mandarin. Its ancient form depicts a swaddled infant with limbs tucked in, or alternatively a person with bent, crossed arms: the image of something having reached its final, resting position. From this concrete visual of a thing concluded, folded into completeness, comes the abstract sense of <em>being finished, clear, done.</em></p>
-      <p>The character derives historically from <strong>瞭 liǎo</strong>, meaning "clear-sighted; to see to the end." This original sense of clarity and full comprehension lives on in the <em>liǎo</em> pronunciation family: 了解 liǎojiě (to understand thoroughly), 了结 liǎojié (to conclude a matter), 了不起 liǎobuqǐ (remarkable — beyond what can be "surpassed or concluded"). The grammatical particle sense developed separately for the <em>le</em> pronunciation.</p>
+      <p><strong>了</strong> is one of the most visually simple characters in the language , two strokes , yet one of the most semantically complex particles in Mandarin. Its ancient form depicts a swaddled infant with limbs tucked in, or alternatively a person with bent, crossed arms: the image of something having reached its final, resting position. From this concrete visual of a thing concluded, folded into completeness, comes the abstract sense of <em>being finished, clear, done.</em></p>
+      <p>The character derives historically from <strong>瞭 liǎo</strong>, meaning "clear-sighted; to see to the end." This original sense of clarity and full comprehension lives on in the <em>liǎo</em> pronunciation family: 了解 liǎojiě (to understand thoroughly), 了结 liǎojié (to conclude a matter), 了不起 liǎobuqǐ (remarkable , beyond what can be "surpassed or concluded"). The grammatical particle sense developed separately for the <em>le</em> pronunciation.</p>
       <p>The result is a character carrying two distinct pronunciations and two distinct grammatical worlds: <strong>le</strong> as particle marking perfective aspect and new situations, and <strong>liǎo</strong> as bound morpheme marking clarity, ability, and conclusion. Understanding this split is the first step toward taming 了.</p>
     </div>
 
@@ -109,18 +109,18 @@ pinyin: 'le'
 
     <div class="pattern">
       <span class="label">位置决定功能 wèizhi juédìng gōngnéng · Position Determines Function</span>
-      <strong>Position 1 — Post-verb 了 (动词后了)</strong><br>
+      <strong>Position 1 , Post-verb 了 (动词后了)</strong><br>
       <code>Subject + Verb + 了 + Object</code><br>
       他吃<strong>了</strong>饭。Tā chī <strong>le</strong> fàn. — He ate (the action of eating was completed).<br><br>
-      <strong>Position 2 — Sentence-final 了 (句末了)</strong><br>
+      <strong>Position 2 , Sentence-final 了 (句末了)</strong><br>
       <code>Subject + Verb + Object + 了</code><br>
       他结婚<strong>了</strong>。Tā jiéhūn <strong>le</strong>. — He got married (new situation: he is now married).<br><br>
-      <strong>Key distinction:</strong> Post-verb 了 marks <em>completed action</em>. Sentence-final 了 announces a <em>new state of affairs</em> — it does not require past tense and can refer to the present or even an approaching future.
+      <strong>Key distinction:</strong> Post-verb 了 marks <em>completed action</em>. Sentence-final 了 announces a <em>new state of affairs</em> , it does not require past tense and can refer to the present or even an approaching future.
     </div>
 
     <div class="scholar" data-glyph="了">
       <div class="scholar-label">学者洞见 xuézhě dòngjiàn · 了 is Aspect, Not Tense</div>
-      <p>The most persistent learner error is equating 了 with English past tense. This is wrong in both directions. Sentence-final 了 can announce an approaching future situation: <strong>明天就要下雨了</strong> Míngtiān jiù yào xià yǔ le — "It's going to rain tomorrow" (the change is coming and now relevant). And Chinese past reference is possible without any 了 at all: 昨天我去了图书馆 and 昨天我去图书馆 are both grammatical, the difference being one of aspect emphasis. 了 marks <em>aspect</em> (completion, change of state), not <em>tense</em> (time). This distinction, once internalized, unlocks the entire system.</p>
+      <p>The most persistent learner error is equating 了 with English past tense. This is wrong in both directions. Sentence-final 了 can announce an approaching future situation: <strong>明天就要下雨了</strong> Míngtiān jiù yào xià yǔ le , "It's going to rain tomorrow" (the change is coming and now relevant). And Chinese past reference is possible without any 了 at all: 昨天我去了图书馆 and 昨天我去图书馆 are both grammatical, the difference being one of aspect emphasis. 了 marks <em>aspect</em> (completion, change of state), not <em>tense</em> (time). This distinction, once internalized, unlocks the entire system.</p>
     </div>
 
     <!-- ── POST-VERB 了 ── -->
@@ -175,7 +175,7 @@ pinyin: 'le'
         </div>
         <div class="tags"><span class="tag tag-v">V + 了 · completed action</span></div>
         <div class="card-def">
-          Transactional and decisional verbs with 了 are extremely common in everyday conversation. The completion is commercially and practically significant — the item has been acquired, the deal is done, the decision has been executed. These verbs (买 buy, 卖 sell, 租 rent, 订 order, 选 choose) pair naturally with post-verb 了.
+          Transactional and decisional verbs with 了 are extremely common in everyday conversation. The completion is commercially and practically significant , the item has been acquired, the deal is done, the decision has been executed. These verbs (买 buy, 卖 sell, 租 rent, 订 order, 选 choose) pair naturally with post-verb 了.
         </div>
         <div class="examples">
           <div class="example">
@@ -225,7 +225,7 @@ pinyin: 'le'
         </div>
         <div class="note">
           <span class="note-label">辨析 biànxī · Contrast with Double-了</span>
-          Compare: 我学了三年中文 (studied for three years — completed, possibly done) vs. 我学中文学了三年了 (I have been studying Chinese for three years — and still am). The added sentence-final 了 signals the activity continues into the present moment.
+          Compare: 我学了三年中文 (studied for three years , completed, possibly done) vs. 我学中文学了三年了 (I have been studying Chinese for three years , and still am). The added sentence-final 了 signals the activity continues into the present moment.
         </div>
       </div>
 
@@ -279,7 +279,7 @@ pinyin: 'le'
         </div>
         <div class="tags"><span class="tag tag-v">Sentence-final 了 · change of situation</span></div>
         <div class="card-def">
-          The canonical example of sentence-final 了 announcing a new situation. There is no past tense here — the rain is starting <em>now</em>, and the 了 signals a change of state has occurred or is occurring. This 了 carries the meaning: "now things are different from before."
+          The canonical example of sentence-final 了 announcing a new situation. There is no past tense here , the rain is starting <em>now</em>, and the 了 signals a change of state has occurred or is occurring. This 了 carries the meaning: "now things are different from before."
         </div>
         <div class="examples">
           <div class="example">
@@ -312,7 +312,7 @@ pinyin: 'le'
         </div>
         <div class="tags"><span class="tag tag-v">Sentence-final 了 · mental state entry</span></div>
         <div class="card-def">
-          State-change verbs like 明白 (understand), 知道 (know), 懂 (grasp), 累 (tired), 饿 (hungry), 高兴 (happy) pair powerfully with sentence-final 了. The 了 marks the <em>entry into</em> that state — the moment the change occurs. Before: didn't understand. After: understands.
+          State-change verbs like 明白 (understand), 知道 (know), 懂 (grasp), 累 (tired), 饿 (hungry), 高兴 (happy) pair powerfully with sentence-final 了. The 了 marks the <em>entry into</em> that state , the moment the change occurs. Before: didn't understand. After: understands.
         </div>
         <div class="examples">
           <div class="example">
@@ -323,7 +323,7 @@ pinyin: 'le'
           <div class="example">
             <div class="ex-cn">我累了，想休息一下。</div>
             <div class="ex-py">Wǒ lèi le, xiǎng xiūxi yīxià.</div>
-            <div class="ex-en">I'm tired now — I want to rest a bit.</div>
+            <div class="ex-en">I'm tired now , I want to rest a bit.</div>
           </div>
           <div class="example">
             <div class="ex-cn">饿了吗？吃点东西吧。</div>
@@ -341,7 +341,7 @@ pinyin: 'le'
         </div>
         <div class="tags"><span class="tag tag-v">Sentence-final 了 · life event</span></div>
         <div class="card-def">
-          Major life transitions — marriage, graduation, birth, death, career changes — are natural territory for sentence-final 了. The 了 frames the event as a change that affects the current situation: the relevant new fact is that he is now married. It answers an implicit question about the present.
+          Major life transitions , marriage, graduation, birth, death, career changes , are natural territory for sentence-final 了. The 了 frames the event as a change that affects the current situation: the relevant new fact is that he is now married. It answers an implicit question about the present.
         </div>
         <div class="examples">
           <div class="example">
@@ -365,13 +365,13 @@ pinyin: 'le'
         </div>
         <div class="tags"><span class="tag tag-v">Sentence-final 了 · noun + 了 (no verb)</span></div>
         <div class="card-def">
-          One of the most elegant features of sentence-final 了: it can attach directly to a noun phrase, without any verb, to announce that the situation has become that thing. This works because 了 marks change of state — and "it has become spring" is a state change even with no overt verb present. This construction signals entry into a new category or condition.
+          One of the most elegant features of sentence-final 了: it can attach directly to a noun phrase, without any verb, to announce that the situation has become that thing. This works because 了 marks change of state , and "it has become spring" is a state change even with no overt verb present. This construction signals entry into a new category or condition.
         </div>
         <div class="examples">
           <div class="example">
             <div class="ex-cn">春天了，花都开了。</div>
             <div class="ex-py">Chūntiān le, huā dōu kāi le.</div>
-            <div class="ex-en">It's spring now — all the flowers have bloomed.</div>
+            <div class="ex-en">It's spring now , all the flowers have bloomed.</div>
           </div>
           <div class="example">
             <div class="ex-cn">都十二点了！</div>
@@ -402,11 +402,11 @@ pinyin: 'le'
     </div>
 
     <div class="scholar" data-glyph="了">
-      <div class="scholar-label">学者洞见 xuézhě dòngjiàn · 他吃了饭了 — Two 了, Two Jobs</div>
+      <div class="scholar-label">学者洞见 xuézhě dòngjiàn · 他吃了饭了 , Two 了, Two Jobs</div>
       <p>了 can appear <strong>twice in a single sentence</strong>, each doing a completely different job. This is grammatical precision that native speakers deploy without thinking. The first 了 (post-verb) marks the completion of the action; the second 了 (sentence-final) signals that this completed state is a currently relevant fact about the world.</p>
       <p><strong>他吃了饭了。</strong> Tā chī le fàn le.<br>
       Post-verb 了: the eating is complete. Sentence-final 了: the fact that he has eaten is now relevant to our current situation. The closest English rendering: "He has already eaten" (so don't worry about feeding him, or we can leave now).</p>
-      <p>The double-了 is especially common when a completed action has <em>ongoing relevance</em>. Compare: 我学了三年中文 = "I studied Chinese for three years" (and have now moved on, or it's a completed fact about my past) vs. 我学中文学了三年了 = "I've been studying Chinese for three years" (and am still doing so — the situation continues into the present). The second sentence-final 了 keeps the door open.</p>
+      <p>The double-了 is especially common when a completed action has <em>ongoing relevance</em>. Compare: 我学了三年中文 = "I studied Chinese for three years" (and have now moved on, or it's a completed fact about my past) vs. 我学中文学了三年了 = "I've been studying Chinese for three years" (and am still doing so , the situation continues into the present). The second sentence-final 了 keeps the door open.</p>
     </div>
 
     <div class="cards">
@@ -419,7 +419,7 @@ pinyin: 'le'
         </div>
         <div class="tags"><span class="tag tag-v">Double 了 · duration still ongoing</span></div>
         <div class="card-def">
-          The double-了 construction with a duration complement is one of its most important uses. The first 了 marks the initial arrival (completed action of coming); the second 了 marks the current relevance — she is still here now. Without the second 了, the sentence implies the visit is concluded.
+          The double-了 construction with a duration complement is one of its most important uses. The first 了 marks the initial arrival (completed action of coming); the second 了 marks the current relevance , she is still here now. Without the second 了, the sentence implies the visit is concluded.
         </div>
         <div class="examples">
           <div class="example">
@@ -453,10 +453,10 @@ pinyin: 'le'
 
     <div class="pattern">
       <span class="label">否定规律 fǒudìng guīlǜ · The Negation System</span>
-      <strong>Negating post-verb 了 (completed action):</strong> use 没(有) méi(yǒu) — which simultaneously removes 了<br>
+      <strong>Negating post-verb 了 (completed action):</strong> use 没(有) méi(yǒu) , which simultaneously removes 了<br>
       吃了 → 没吃 / 没有吃 (did not eat / have not eaten). Never say 没吃了.<br><br>
       <strong>Negating sentence-final 了 (new situation):</strong> use 不…了 bù…le to say "no longer" or "won't anymore"<br>
-      他来了 → 他不来了 (he's not coming anymore — situation has reversed)<br><br>
+      他来了 → 他不来了 (he's not coming anymore , situation has reversed)<br><br>
       <strong>"Not yet" construction:</strong> 还没…呢 hái méi… ne<br>
       他还没吃呢。Tā hái méi chī ne. — He hasn't eaten yet. (expectation unfulfilled)
     </div>
@@ -469,9 +469,9 @@ pinyin: 'le'
           <span class="card-py">méi chī</span>
           <span class="card-en">didn't eat; have not eaten</span>
         </div>
-        <div class="tags"><span class="tag tag-v">没 + V — negates completed action</span></div>
+        <div class="tags"><span class="tag tag-v">没 + V , negates completed action</span></div>
         <div class="card-def">
-          没(有) is the standard negator for completed actions. It replaces 了 entirely — you never say 没吃了, because 没 already carries the information that no completion occurred. The 了 is superfluous and wrong. This is a near-universal rule: 没 and post-verb 了 are mutually exclusive.
+          没(有) is the standard negator for completed actions. It replaces 了 entirely , you never say 没吃了, because 没 already carries the information that no completion occurred. The 了 is superfluous and wrong. This is a near-universal rule: 没 and post-verb 了 are mutually exclusive.
         </div>
         <div class="examples">
           <div class="example">
@@ -493,7 +493,7 @@ pinyin: 'le'
         <div class="note">
           <span class="note-label">常见错误 chángjiàn cuòwù · Common Error</span>
           <strong>Wrong:</strong> 我没吃了饭 / 我不吃了饭<br>
-          <strong>Right:</strong> 我没吃饭 — 不 is for habitual negation and future refusals, not for negating completed past actions. 不 and 没 are not interchangeable here.
+          <strong>Right:</strong> 我没吃饭 , 不 is for habitual negation and future refusals, not for negating completed past actions. 不 and 没 are not interchangeable here.
         </div>
       </div>
 
@@ -503,15 +503,15 @@ pinyin: 'le'
           <span class="card-py">bù lái le</span>
           <span class="card-en">not coming anymore; decided not to come</span>
         </div>
-        <div class="tags"><span class="tag tag-v">不 + V + 了 — situation reversal</span></div>
+        <div class="tags"><span class="tag tag-v">不 + V + 了 , situation reversal</span></div>
         <div class="card-def">
-          不…了 is the negation of sentence-final 了 — it signals a reversal of an expected or prior state. The 了 here paradoxically signals a <em>new</em> situation: the new situation is "not doing X anymore." Extremely common for announcing changed plans, habits that have been given up, or states that have ended.
+          不…了 is the negation of sentence-final 了 , it signals a reversal of an expected or prior state. The 了 here paradoxically signals a <em>new</em> situation: the new situation is "not doing X anymore." Extremely common for announcing changed plans, habits that have been given up, or states that have ended.
         </div>
         <div class="examples">
           <div class="example">
             <div class="ex-cn">我不去了，太远了。</div>
             <div class="ex-py">Wǒ bù qù le, tài yuǎn le.</div>
-            <div class="ex-en">I'm not going anymore — it's too far.</div>
+            <div class="ex-en">I'm not going anymore , it's too far.</div>
           </div>
           <div class="example">
             <div class="ex-cn">他不喝酒了。</div>
@@ -532,7 +532,7 @@ pinyin: 'le'
           <span class="card-py">hái méi … ne</span>
           <span class="card-en">not yet; hasn't happened yet</span>
         </div>
-        <div class="tags"><span class="tag tag-v">还没 + V + 呢 — unfulfilled expectation</span></div>
+        <div class="tags"><span class="tag tag-v">还没 + V + 呢 , unfulfilled expectation</span></div>
         <div class="card-def">
           还没…呢 is the "not yet" structure, implying the action was expected but has not been completed. The 还 (still, yet) sets up the expectation; 没 negates completion; and 呢 adds mild emphasis or a sense of mild surprise at the non-completion. Together they create a tone of "can you believe it hasn't happened yet."
         </div>
@@ -568,8 +568,8 @@ pinyin: 'le'
 
     <div class="scholar" data-glyph="了">
       <div class="scholar-label">学者洞见 xuézhě dòngjiàn · The liǎo Bound Morpheme Family</div>
-      <p>When 了 is pronounced <strong>liǎo</strong>, it functions as a bound morpheme — never a standalone particle — carrying the meaning of <em>clarity, completion, ability to reach an end, or conclusion.</em> This is the older, more literary face of the character, closer to its origin in 瞭 liǎo (clear-sighted; to see all the way through). The liǎo family includes some of the most common and colorful expressions in the language.</p>
-      <p>The potential complement construction is particularly important: <strong>V + 得/不 + 了 liǎo</strong>, meaning "can / cannot complete the action." 吃得了 = able to eat it all; 受不了 = cannot endure. This 了 tests whether an action can reach completion — a direct echo of its etymological meaning of "seeing through to the end."</p>
+      <p>When 了 is pronounced <strong>liǎo</strong>, it functions as a bound morpheme , never a standalone particle , carrying the meaning of <em>clarity, completion, ability to reach an end, or conclusion.</em> This is the older, more literary face of the character, closer to its origin in 瞭 liǎo (clear-sighted; to see all the way through). The liǎo family includes some of the most common and colorful expressions in the language.</p>
+      <p>The potential complement construction is particularly important: <strong>V + 得/不 + 了 liǎo</strong>, meaning "can / cannot complete the action." 吃得了 = able to eat it all; 受不了 = cannot endure. This 了 tests whether an action can reach completion , a direct echo of its etymological meaning of "seeing through to the end."</p>
     </div>
 
     <div class="cards">
@@ -582,13 +582,13 @@ pinyin: 'le'
         </div>
         <div class="tags"><span class="tag tag-adj">Adj 形容词</span></div>
         <div class="card-def">
-          了 liǎo (to conclude; to surpass) + 不 + 起 (unable to rise above; potential complement marker). Literally "cannot be surpassed or concluded" — what cannot be surpassed is extraordinary. A high-praise adjective in everyday speech. The negative form 没什么了不起的 (nothing so remarkable) is equally common as a dismissive.
+          了 liǎo (to conclude; to surpass) + 不 + 起 (unable to rise above; potential complement marker). Literally "cannot be surpassed or concluded" , what cannot be surpassed is extraordinary. A high-praise adjective in everyday speech. The negative form 没什么了不起的 (nothing so remarkable) is equally common as a dismissive.
         </div>
         <div class="examples">
           <div class="example">
             <div class="ex-cn">他真了不起，二十岁就当上了经理。</div>
             <div class="ex-py">Tā zhēn liǎobuqǐ, èrshí suì jiù dāng shàng le jīnglǐ.</div>
-            <div class="ex-en">He's truly remarkable — became a manager at twenty.</div>
+            <div class="ex-en">He's truly remarkable , became a manager at twenty.</div>
           </div>
           <div class="example">
             <div class="ex-cn">没什么了不起的。</div>
@@ -606,7 +606,7 @@ pinyin: 'le'
         </div>
         <div class="tags"><span class="tag tag-v">V + 不 + 了 · potential complement (negative)</span></div>
         <div class="card-def">
-          受 shòu (to endure; to receive) + 不了 liǎo (cannot complete the action of enduring). The potential complement with 不了 means the action cannot reach completion — endurance hits its limit. One of the most frequently used expressions in daily speech for frustration, exhaustion, or overwhelm. The affirmative 受得了 = "can handle it."
+          受 shòu (to endure; to receive) + 不了 liǎo (cannot complete the action of enduring). The potential complement with 不了 means the action cannot reach completion , endurance hits its limit. One of the most frequently used expressions in daily speech for frustration, exhaustion, or overwhelm. The affirmative 受得了 = "can handle it."
         </div>
         <div class="examples">
           <div class="example">
@@ -617,7 +617,7 @@ pinyin: 'le'
           <div class="example">
             <div class="ex-cn">他太烦了，我受不了他。</div>
             <div class="ex-py">Tā tài fán le, wǒ shòu bu liǎo tā.</div>
-            <div class="ex-en">He's so annoying — I can't stand him.</div>
+            <div class="ex-en">He's so annoying , I can't stand him.</div>
           </div>
         </div>
         <div class="note">
@@ -634,7 +634,7 @@ pinyin: 'le'
         </div>
         <div class="tags"><span class="tag tag-vn">V/N 动名词</span></div>
         <div class="card-def">
-          了 liǎo (clear-sighted; complete) + 解 jiě (to unravel; to untie). The full unraveling of something until it is entirely clear — understanding that goes all the way through, not just surface knowledge. More thorough than 知道 zhīdao (to know a fact). Common across casual speech and formal registers.
+          了 liǎo (clear-sighted; complete) + 解 jiě (to unravel; to untie). The full unraveling of something until it is entirely clear , understanding that goes all the way through, not just surface knowledge. More thorough than 知道 zhīdao (to know a fact). Common across casual speech and formal registers.
         </div>
         <div class="examples">
           <div class="example">
@@ -658,7 +658,7 @@ pinyin: 'le'
         </div>
         <div class="tags"><span class="tag tag-v">V 动词 · formal register</span></div>
         <div class="card-def">
-          了 liǎo (to conclude) + 结 jié (knot; tied up; settled). To tie off and close a matter definitively. Used for settling disputes, concluding legal cases, or resolving something that has dragged on without resolution. Has a formal or literary flavor — matters of weight are 了结d.
+          了 liǎo (to conclude) + 结 jié (knot; tied up; settled). To tie off and close a matter definitively. Used for settling disputes, concluding legal cases, or resolving something that has dragged on without resolution. Has a formal or literary flavor , matters of weight are 了结d.
         </div>
         <div class="examples">
           <div class="example">
@@ -786,7 +786,7 @@ pinyin: 'le'
         <span class="cy-cn">不了了之</span>
         <span class="cy-py">bù liǎo liǎo zhī</span>
         <span class="cy-en">to let a matter fade away unresolved; to end without proper conclusion</span>
-        <span class="cy-note">Lit: not-conclude-conclude-it. Uses 了 liǎo as a verb twice — "to not conclude [a matter], to conclude [it anyway]." A set phrase for when a problem or investigation is allowed to dissolve without resolution — bureaucratic negligence, diplomatic evasion, quiet abandonment. 这件事就这样不了了之了。"The matter was just quietly dropped."</span>
+        <span class="cy-note">Lit: not-conclude-conclude-it. Uses 了 liǎo as a verb twice , "to not conclude [a matter], to conclude [it anyway]." A set phrase for when a problem or investigation is allowed to dissolve without resolution , bureaucratic negligence, diplomatic evasion, quiet abandonment. 这件事就这样不了了之了。"The matter was just quietly dropped."</span>
       </div>
 
       <div class="cy">
@@ -800,14 +800,14 @@ pinyin: 'le'
         <span class="cy-cn">善始善终</span>
         <span class="cy-py">shàn shǐ shàn zhōng</span>
         <span class="cy-en">good beginning, good ending; to see something through properly from start to finish</span>
-        <span class="cy-note">Lit: good-start-good-end. The virtue of completing what one begins, and completing it well. 终 zhōng (end, conclusion) is the Classical Chinese counterpart to the grammatical 了 — both mark the reaching of an end. This idiom captures the moral weight of completion.</span>
+        <span class="cy-note">Lit: good-start-good-end. The virtue of completing what one begins, and completing it well. 终 zhōng (end, conclusion) is the Classical Chinese counterpart to the grammatical 了 , both mark the reaching of an end. This idiom captures the moral weight of completion.</span>
       </div>
 
       <div class="cy">
         <span class="cy-cn">尘埃落定</span>
         <span class="cy-py">chén'āi luò dìng</span>
         <span class="cy-en">the dust has settled; a situation has finally reached resolution</span>
-        <span class="cy-note">Lit: dust-settle-fixed. Evokes the moment after turmoil when everything finally comes to rest and the outcome is clear. Title of Alai's celebrated Tibetan novel. Used to announce that a long-contested situation has finally reached a definitive state — the sentence-final 了 feeling captured in idiom form.</span>
+        <span class="cy-note">Lit: dust-settle-fixed. Evokes the moment after turmoil when everything finally comes to rest and the outcome is clear. Title of Alai's celebrated Tibetan novel. Used to announce that a long-contested situation has finally reached a definitive state , the sentence-final 了 feeling captured in idiom form.</span>
       </div>
 
     </div>

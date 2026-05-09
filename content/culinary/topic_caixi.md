@@ -138,7 +138,7 @@ pinyin: 'bā dà càixì'
         <span class="card-py">Sūcài</span>
         <span class="card-en">Jiangsu Cuisine</span>
         <span class="tag-n">n.</span>
-        <p>The refined cooking of the Yangtze Delta — Nanjing, Suzhou, Yangzhou. Known for meticulous knife work, harmonious sweet-savory seasoning, and dishes that present elegantly. Yangzhou fried rice is its most recognizable export; the "Lion's Head" braised meatball (狮子头 shīzitóu) its most celebrated centerpiece.</p>
+        <p>The refined cooking of the Yangtze Delta , Nanjing, Suzhou, Yangzhou. Known for meticulous knife work, harmonious sweet-savory seasoning, and dishes that present elegantly. Yangzhou fried rice is its most recognizable export; the "Lion's Head" braised meatball (狮子头 shīzitóu) its most celebrated centerpiece.</p>
       </div>
       <div class="card c-sienna">
         <span class="card-cn">湘菜</span>
@@ -152,7 +152,7 @@ pinyin: 'bā dà càixì'
         <span class="card-py">Zhècài</span>
         <span class="card-en">Zhejiang Cuisine</span>
         <span class="tag-n">n.</span>
-        <p>Hangzhou's West Lake fish in vinegar sauce (西湖醋鱼) and the brined-then-braised pork Dongpo Rou (东坡肉, named for the Song poet Su Dongpo) are the icons. Shaoxing wine — China's most important cooking wine — originates here and pervades the cuisine's characteristic flavor: faintly sweet, wine-fragrant, never assertive.</p>
+        <p>Hangzhou's West Lake fish in vinegar sauce (西湖醋鱼) and the brined-then-braised pork Dongpo Rou (东坡肉, named for the Song poet Su Dongpo) are the icons. Shaoxing wine , China's most important cooking wine , originates here and pervades the cuisine's characteristic flavor: faintly sweet, wine-fragrant, never assertive.</p>
       </div>
     </div>
 
@@ -193,7 +193,7 @@ pinyin: 'bā dà càixì'
         <span class="card-py">wǔ wèi</span>
         <span class="card-en">five flavors: sour, sweet, bitter, pungent, salty</span>
         <span class="tag-n">n.</span>
-        <p>The foundational flavor taxonomy of Chinese cooking and traditional medicine. Sour (酸 suān) — sweet (甜 tián) — bitter (苦 kǔ) — pungent/spicy (辣 là) — salty (咸 xián). Balance among these five is the aim of all sophisticated Chinese cooking.</p>
+        <p>The foundational flavor taxonomy of Chinese cooking and traditional medicine. Sour (酸 suān) , sweet (甜 tián) , bitter (苦 kǔ) — pungent/spicy (辣 là) — salty (咸 xián). Balance among these five is the aim of all sophisticated Chinese cooking.</p>
       </div>
       <div class="card c-sienna">
         <span class="card-cn">火候</span>

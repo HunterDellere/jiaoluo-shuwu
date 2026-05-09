@@ -65,7 +65,7 @@ pinyin: 'rújiā'
       <span class="topic-hero-eyebrow">Religion · 宗教 zōngjiào</span>
       <h1 class="topic-hero-title">儒家</h1>
       <span class="topic-hero-title-py">rújiā</span>
-      <p class="topic-hero-desc">The school of the 儒 rú — ritual specialists and moral scholars — whose vision of cultivated personhood, hierarchical relationships, and virtuous governance shaped over two millennia of Chinese civilization and remains the bedrock of East Asian social ethics.</p>
+      <p class="topic-hero-desc">The school of the 儒 rú , ritual specialists and moral scholars , whose vision of cultivated personhood, hierarchical relationships, and virtuous governance shaped over two millennia of Chinese civilization and remains the bedrock of East Asian social ethics.</p>
     </header>
 
     <!-- ── ORIGINS ── -->
@@ -79,9 +79,9 @@ pinyin: 'rújiā'
 
     <div class="scholar" data-glyph="儒">
       <div class="scholar-label">历史洞见 lìshǐ dòngjiàn · Historical Insight</div>
-      <p>Kong Qiu 孔丘 (551–479 BCE), known by his honorific <strong>Kǒngzǐ 孔子</strong> — Master Kong — was born in the state of Lu in what is now Shandong Province, during the turbulent Spring and Autumn Period. He was not the founder of a religion in the Western sense: he was the inheritor and systematizer of a much older tradition of 礼 lǐ (ritual and propriety), the ceremonial practices that the Zhou dynasty (1046–256 BCE) had used to organize aristocratic life and court behavior.</p>
-      <p>The 儒 rú were professional ritual specialists — men who knew how to conduct funerals, sacrifices, archery contests, and court ceremonies properly. Confucius elevated this technical role into a comprehensive moral philosophy. The rú's mastery of 礼 was not merely procedure; it was the outward form of inner virtue. A man who performed ritual correctly was, by that performance, cultivating his character.</p>
-      <p>During Confucius's lifetime the school had limited political impact. It was the Han dynasty (206 BCE – 220 CE) that transformed Confucianism into state orthodoxy. Emperor Wu of Han (r. 141–87 BCE), advised by the scholar Dong Zhongshu 董仲舒, established the Imperial Academy (太学 Tàixué) and made mastery of the Confucian classics the prerequisite for government office. This linkage of Confucian learning with political power — which would persist in the form of the 科举 kējǔ examination system until 1905 — is arguably Confucianism's single most consequential institutional achievement.</p>
+      <p>Kong Qiu 孔丘 (551–479 BCE), known by his honorific <strong>Kǒngzǐ 孔子</strong> , Master Kong , was born in the state of Lu in what is now Shandong Province, during the turbulent Spring and Autumn Period. He was not the founder of a religion in the Western sense: he was the inheritor and systematizer of a much older tradition of 礼 lǐ (ritual and propriety), the ceremonial practices that the Zhou dynasty (1046–256 BCE) had used to organize aristocratic life and court behavior.</p>
+      <p>The 儒 rú were professional ritual specialists , men who knew how to conduct funerals, sacrifices, archery contests, and court ceremonies properly. Confucius elevated this technical role into a comprehensive moral philosophy. The rú's mastery of 礼 was not merely procedure; it was the outward form of inner virtue. A man who performed ritual correctly was, by that performance, cultivating his character.</p>
+      <p>During Confucius's lifetime the school had limited political impact. It was the Han dynasty (206 BCE – 220 CE) that transformed Confucianism into state orthodoxy. Emperor Wu of Han (r. 141–87 BCE), advised by the scholar Dong Zhongshu 董仲舒, established the Imperial Academy (太学 Tàixué) and made mastery of the Confucian classics the prerequisite for government office. This linkage of Confucian learning with political power , which would persist in the form of the 科举 kējǔ examination system until 1905 , is arguably Confucianism's single most consequential institutional achievement.</p>
     </div>
 
     <!-- ── FIVE CONSTANTS ── -->
@@ -95,8 +95,8 @@ pinyin: 'rújiā'
 
     <div class="scholar" data-glyph="仁">
       <div class="scholar-label">概念洞见 gàiniàn dòngjiàn · Conceptual Insight</div>
-      <p>The Five Constants 五常 wǔcháng are the five virtues that Confucian thinkers, codified most fully by Dong Zhongshu in the Han, identified as the fundamental moral dispositions of a fully cultivated human being. They describe what proper human nature naturally tends toward when developed rather than obstructed. Mencius (372–289 BCE) argued that the seeds of all five are innate — we are born with the capacity for them; education and ritual practice draw them out.</p>
-      <p>The sequence 仁义礼智信 is standard. 仁 rén is primary — Confucius used it over 100 times in the Analects and never gave a single definition, because it is the master virtue from which all others flow. The five together constitute what it means to be a 君子 jūnzǐ — a person of moral excellence, often translated "gentleman" but more precisely "exemplary person."</p>
+      <p>The Five Constants 五常 wǔcháng are the five virtues that Confucian thinkers, codified most fully by Dong Zhongshu in the Han, identified as the fundamental moral dispositions of a fully cultivated human being. They describe what proper human nature naturally tends toward when developed rather than obstructed. Mencius (372–289 BCE) argued that the seeds of all five are innate , we are born with the capacity for them; education and ritual practice draw them out.</p>
+      <p>The sequence 仁义礼智信 is standard. 仁 rén is primary , Confucius used it over 100 times in the Analects and never gave a single definition, because it is the master virtue from which all others flow. The five together constitute what it means to be a 君子 jūnzǐ , a person of moral excellence, often translated "gentleman" but more precisely "exemplary person."</p>
     </div>
 
     <div class="cards">
@@ -108,7 +108,7 @@ pinyin: 'rújiā'
           <span class="card-en">benevolence; humaneness; the master virtue</span>
         </div>
         <div class="card-def">
-          Written as 人 (person) beside 二 (two) — the virtue that arises between persons. Often translated "benevolence" or "humaneness," but Confucius deliberately resisted defining it too narrowly, giving different answers to different students. At its core: <em>treating others as genuinely mattering.</em> The classical formulation: 仁者爱人 — "the benevolent person loves others."
+          Written as 人 (person) beside 二 (two) , the virtue that arises between persons. Often translated "benevolence" or "humaneness," but Confucius deliberately resisted defining it too narrowly, giving different answers to different students. At its core: <em>treating others as genuinely mattering.</em> The classical formulation: 仁者爱人 , "the benevolent person loves others."
         </div>
         <div class="examples">
           <div class="example">
@@ -124,7 +124,7 @@ pinyin: 'rújiā'
         </div>
         <div class="note">
           <span class="note-label">核心地位 · Central Role</span>
-          仁 rén is the source virtue from which all others derive their meaning. 义 yì without 仁 becomes rigid moralism; 礼 lǐ without 仁 is empty ceremony. Confucius said even a 君子 jūnzǐ (exemplary person) might not always achieve 仁 — it is an asymptotic ideal.
+          仁 rén is the source virtue from which all others derive their meaning. 义 yì without 仁 becomes rigid moralism; 礼 lǐ without 仁 is empty ceremony. Confucius said even a 君子 jūnzǐ (exemplary person) might not always achieve 仁 , it is an asymptotic ideal.
         </div>
       </div>
 
@@ -135,7 +135,7 @@ pinyin: 'rújiā'
           <span class="card-en">righteousness; moral rightness; duty</span>
         </div>
         <div class="card-def">
-          义 yì (also written 義 in traditional form — a sheep 羊 over self/I 我, suggesting the sacrifice of ego for the greater moral order). Rightness: doing what is correct in a given situation, regardless of personal benefit. Mencius contrasted 义 with 利 lì (profit/advantage): the true king rules by rightness; the hegemon governs by advantage alone. 义 is the standard by which actions are judged.
+          义 yì (also written 義 in traditional form , a sheep 羊 over self/I 我, suggesting the sacrifice of ego for the greater moral order). Rightness: doing what is correct in a given situation, regardless of personal benefit. Mencius contrasted 义 with 利 lì (profit/advantage): the true king rules by rightness; the hegemon governs by advantage alone. 义 is the standard by which actions are judged.
         </div>
         <div class="examples">
           <div class="example">
@@ -146,7 +146,7 @@ pinyin: 'rújiā'
         </div>
         <div class="note">
           <span class="note-label">现代汉语 · Modern Usage</span>
-          义气 yìqì — "righteous spirit," loyalty to friends and sworn brothers — is a living descendant in modern Chinese. Also: 义务 yìwù (obligation), 正义 zhèngyì (justice), 仁义 rényì (benevolence-and-righteousness, the core Confucian pairing).
+          义气 yìqì , "righteous spirit," loyalty to friends and sworn brothers , is a living descendant in modern Chinese. Also: 义务 yìwù (obligation), 正义 zhèngyì (justice), 仁义 rényì (benevolence-and-righteousness, the core Confucian pairing).
         </div>
       </div>
 
@@ -157,7 +157,7 @@ pinyin: 'rújiā'
           <span class="card-en">ritual propriety; rites; social order through ceremony</span>
         </div>
         <div class="card-def">
-          礼 lǐ is the most distinctively Confucian virtue — the one that sets the school apart. It covers everything from state sacrifices and court protocol to the proper way to greet an elder or set a table. For Confucius, ritual is not mere formality: it is <em>the technology of moral cultivation.</em> When you bow correctly, you are not just performing a gesture — you are practicing the inner orientation of respect until it becomes habitual. Ritual trains the body so the character follows.
+          礼 lǐ is the most distinctively Confucian virtue , the one that sets the school apart. It covers everything from state sacrifices and court protocol to the proper way to greet an elder or set a table. For Confucius, ritual is not mere formality: it is <em>the technology of moral cultivation.</em> When you bow correctly, you are not just performing a gesture , you are practicing the inner orientation of respect until it becomes habitual. Ritual trains the body so the character follows.
         </div>
         <div class="examples">
           <div class="example">
@@ -168,7 +168,7 @@ pinyin: 'rújiā'
         </div>
         <div class="note">
           <span class="note-label">文化注释 · Cultural Note</span>
-          The three great ritual texts — 周礼 (Rites of Zhou), 仪礼 (Etiquette and Ceremonial), 礼记 (Record of Rites) — are among the Five Classics. Modern descendants: 礼貌 lǐmào (polite manners), 礼物 lǐwù (gift — a ritual object), 礼节 lǐjié (etiquette).
+          The three great ritual texts , 周礼 (Rites of Zhou), 仪礼 (Etiquette and Ceremonial), 礼记 (Record of Rites) , are among the Five Classics. Modern descendants: 礼貌 lǐmào (polite manners), 礼物 lǐwù (gift , a ritual object), 礼节 lǐjié (etiquette).
         </div>
       </div>
 
@@ -179,13 +179,13 @@ pinyin: 'rújiā'
           <span class="card-en">wisdom; moral discernment; practical knowledge</span>
         </div>
         <div class="card-def">
-          智 zhì — wisdom as moral discernment, the capacity to know what the right thing to do is in complex situations. Not merely book-learning (though study 学习 xuéxí is essential): wisdom requires applying principle to particular circumstances. Mencius called the innate seed of wisdom the "heart of right and wrong" 是非之心 — every person is born able to recognize moral distinctions.
+          智 zhì , wisdom as moral discernment, the capacity to know what the right thing to do is in complex situations. Not merely book-learning (though study 学习 xuéxí is essential): wisdom requires applying principle to particular circumstances. Mencius called the innate seed of wisdom the "heart of right and wrong" 是非之心 , every person is born able to recognize moral distinctions.
         </div>
         <div class="examples">
           <div class="example">
             <div class="ex-cn">知之为知之，不知为不知，是知也。</div>
             <div class="ex-py">Zhī zhī wéi zhī zhī, bù zhī wéi bù zhī, shì zhī yě.</div>
-            <div class="ex-en">To know what you know and to know what you do not know — that is wisdom. <em>(Analects 2.17)</em></div>
+            <div class="ex-en">To know what you know and to know what you do not know , that is wisdom. <em>(Analects 2.17)</em></div>
           </div>
         </div>
       </div>
@@ -197,7 +197,7 @@ pinyin: 'rújiā'
           <span class="card-en">trustworthiness; faithfulness; keeping one's word</span>
         </div>
         <div class="card-def">
-          信 xìn — trustworthiness, the reliability between word and deed. Written as 人 (person) beside 言 (speech): a person whose speech and actions are aligned. Without 信, no relationship — and therefore no society — is possible. Confucius said a state could survive without wealth and without an army, but not without the people's trust: 民无信不立 mín wú xìn bù lì.
+          信 xìn , trustworthiness, the reliability between word and deed. Written as 人 (person) beside 言 (speech): a person whose speech and actions are aligned. Without 信, no relationship , and therefore no society , is possible. Confucius said a state could survive without wealth and without an army, but not without the people's trust: 民无信不立 mín wú xìn bù lì.
         </div>
         <div class="examples">
           <div class="example">
@@ -208,7 +208,7 @@ pinyin: 'rújiā'
         </div>
         <div class="note">
           <span class="note-label">现代汉语 · Modern Compounds</span>
-          信任 xìnrèn (trust), 信用 xìnyòng (credit, trustworthiness), 诚信 chéngxìn (integrity — a key term in Chinese business culture), 失信 shīxìn (to break trust).
+          信任 xìnrèn (trust), 信用 xìnyòng (credit, trustworthiness), 诚信 chéngxìn (integrity , a key term in Chinese business culture), 失信 shīxìn (to break trust).
         </div>
       </div>
 
@@ -225,8 +225,8 @@ pinyin: 'rújiā'
 
     <div class="scholar" data-glyph="伦">
       <div class="scholar-label">社会洞见 shèhuì dòngjiàn · Social Insight</div>
-      <p>One of the most fundamental contrasts between Confucian and modern Western social thought is the unit of moral analysis. Western liberalism tends to begin with the autonomous individual and ask how individuals can coexist. Confucianism begins with the <em>relationship</em>: the individual is not a pre-social atom but a node in a web of structured connections. You are not simply "a person" — you are always already a son or daughter, a sibling, a subject, a friend. These roles are not constraints on your selfhood; they are its constitutive fabric.</p>
-      <p>Mencius articulated the Five Relationships 五伦 wǔlún as the definitive structure of human sociality. Three of the five are hierarchical (ruler-subject, parent-child, husband-wife, elder-younger sibling); the relationship between friends is the sole reciprocal and egalitarian one. Crucially, the hierarchy is not one-directional: the ruler owes benevolent governance, the parent owes nurture and example, the husband owes provision and respect. Failure to meet these upward obligations delegitimizes the hierarchy entirely — this is the Confucian justification for the "right to remonstrate" against rulers.</p>
+      <p>One of the most fundamental contrasts between Confucian and modern Western social thought is the unit of moral analysis. Western liberalism tends to begin with the autonomous individual and ask how individuals can coexist. Confucianism begins with the <em>relationship</em>: the individual is not a pre-social atom but a node in a web of structured connections. You are not simply "a person" , you are always already a son or daughter, a sibling, a subject, a friend. These roles are not constraints on your selfhood; they are its constitutive fabric.</p>
+      <p>Mencius articulated the Five Relationships 五伦 wǔlún as the definitive structure of human sociality. Three of the five are hierarchical (ruler-subject, parent-child, husband-wife, elder-younger sibling); the relationship between friends is the sole reciprocal and egalitarian one. Crucially, the hierarchy is not one-directional: the ruler owes benevolent governance, the parent owes nurture and example, the husband owes provision and respect. Failure to meet these upward obligations delegitimizes the hierarchy entirely , this is the Confucian justification for the "right to remonstrate" against rulers.</p>
     </div>
 
     <div class="cards">
@@ -242,7 +242,7 @@ pinyin: 'rújiā'
         </div>
         <div class="note">
           <span class="note-label">等级关系 · Hierarchical</span>
-          The ruler holds formal authority, but Confucian scholars held that moral authority could challenge political authority. The tradition of 谏 jiàn (court remonstrance) — officials formally criticizing the emperor — is a structural product of this relationship.
+          The ruler holds formal authority, but Confucian scholars held that moral authority could challenge political authority. The tradition of 谏 jiàn (court remonstrance) , officials formally criticizing the emperor , is a structural product of this relationship.
         </div>
       </div>
 
@@ -253,11 +253,11 @@ pinyin: 'rújiā'
           <span class="card-en">parent and child — the root relationship; filial piety</span>
         </div>
         <div class="card-def">
-          The foundational relationship — described by Confucians as the root from which all other social virtues grow. The child's obligation is 孝 xiào (filial piety): obedience, care in old age, ritual mourning at death, and continuation of the family line. The parent's obligation is love, provision, and moral example. 孝经 Xiào Jīng (Classic of Filial Piety) elevated this relationship to cosmological significance.
+          The foundational relationship , described by Confucians as the root from which all other social virtues grow. The child's obligation is 孝 xiào (filial piety): obedience, care in old age, ritual mourning at death, and continuation of the family line. The parent's obligation is love, provision, and moral example. 孝经 Xiào Jīng (Classic of Filial Piety) elevated this relationship to cosmological significance.
         </div>
         <div class="note">
           <span class="note-label">核心地位 · Root of All Virtues</span>
-          The Analects open with the claim that 孝弟 xiào-tì (filial piety and fraternal respect) are the root of 仁 rén. The logic: a person who loves and respects their parents — those who gave them life — will naturally extend that orientation outward to all people.
+          The Analects open with the claim that 孝弟 xiào-tì (filial piety and fraternal respect) are the root of 仁 rén. The logic: a person who loves and respects their parents , those who gave them life , will naturally extend that orientation outward to all people.
         </div>
       </div>
 
@@ -279,7 +279,7 @@ pinyin: 'rújiā'
           <span class="card-en">elder and younger sibling — fraternal respect</span>
         </div>
         <div class="card-def">
-          悌 tì — fraternal respect — is the virtue governing sibling relations. The elder brother owes kindness and example; the younger owes deference and respect. This relationship trains the social dispositions that will later be deployed in public life: deferring to elders, respecting those above while caring for those below.
+          悌 tì , fraternal respect , is the virtue governing sibling relations. The elder brother owes kindness and example; the younger owes deference and respect. This relationship trains the social dispositions that will later be deployed in public life: deferring to elders, respecting those above while caring for those below.
         </div>
       </div>
 
@@ -290,7 +290,7 @@ pinyin: 'rújiā'
           <span class="card-en">friend and friend — the sole reciprocal relationship</span>
         </div>
         <div class="card-def">
-          The only horizontal relationship among the five. Friends are bound by mutual 信 xìn (trustworthiness) and 义 yì (moral duty to one another). True friendship in the Confucian sense is not merely shared enjoyment but moral companionship — friends hold each other to the standard of the 君子 jūnzǐ. The Analects open: 有朋自远方来，不亦乐乎 — "Is it not a joy when a friend comes from afar?"
+          The only horizontal relationship among the five. Friends are bound by mutual 信 xìn (trustworthiness) and 义 yì (moral duty to one another). True friendship in the Confucian sense is not merely shared enjoyment but moral companionship , friends hold each other to the standard of the 君子 jūnzǐ. The Analects open: 有朋自远方来，不亦乐乎 , "Is it not a joy when a friend comes from afar?"
         </div>
       </div>
 
@@ -314,13 +314,13 @@ pinyin: 'rújiā'
       ↓ <strong>治国</strong> zhì guó · govern the state<br>
       ↓ <strong>平天下</strong> píng tiānxià · bring peace to all under Heaven<br>
       <br>
-      The sequence is <em>nested and unidirectional</em>: each outer stage is impossible without the inner stages being achieved first. A ruler who has not cultivated himself cannot govern well; a man who has not regulated his family cannot order the state. The personal is political — not as metaphor but as structural precondition.
+      The sequence is <em>nested and unidirectional</em>: each outer stage is impossible without the inner stages being achieved first. A ruler who has not cultivated himself cannot govern well; a man who has not regulated his family cannot order the state. The personal is political , not as metaphor but as structural precondition.
     </div>
 
     <div class="scholar" data-glyph="学">
       <div class="scholar-label">文本洞见 wénběn dòngjiàn · Text Insight</div>
       <p>The 大学 Dàxué (Great Learning) is one of the shortest and most consequential texts in Chinese intellectual history. Originally a chapter of the 礼记 (Record of Rites), it was elevated by Zhu Xi 朱熹 (1130–1200 CE) to become one of the Four Books and the standard opening text for all Neo-Confucian education. Its opening lines were memorized by every educated person in imperial China from the Song dynasty onward.</p>
-      <p>The Neo-Confucian philosopher Zhu Xi made 格物致知 gé wù zhì zhī — "investigating things to extend knowledge" — the epistemological foundation of the program. Wang Yangming 王阳明 (1472–1529 CE) later challenged this, arguing that 致知 was not about investigating external objects but about <em>extending the innate moral knowledge</em> (良知 liángzhī) already present within the mind. This debate between Zhu Xi's rationalism and Wang Yangming's intuitionism is one of the great fault lines of Chinese philosophy.</p>
+      <p>The Neo-Confucian philosopher Zhu Xi made 格物致知 gé wù zhì zhī , "investigating things to extend knowledge" , the epistemological foundation of the program. Wang Yangming 王阳明 (1472–1529 CE) later challenged this, arguing that 致知 was not about investigating external objects but about <em>extending the innate moral knowledge</em> (良知 liángzhī) already present within the mind. This debate between Zhu Xi's rationalism and Wang Yangming's intuitionism is one of the great fault lines of Chinese philosophy.</p>
     </div>
 
     <!-- ── CANONICAL TEXTS ── -->
@@ -334,9 +334,9 @@ pinyin: 'rújiā'
 
     <div class="pattern">
       <span class="label">四书五经 · The Confucian Canon in Brief</span>
-      <strong>四书</strong> Sìshū (Four Books — Song dynasty canon, compiled by Zhu Xi):<br>
+      <strong>四书</strong> Sìshū (Four Books , Song dynasty canon, compiled by Zhu Xi):<br>
       论语 · 孟子 · 大学 · 中庸<br><br>
-      <strong>五经</strong> Wǔjīng (Five Classics — Han dynasty canon):<br>
+      <strong>五经</strong> Wǔjīng (Five Classics , Han dynasty canon):<br>
       诗经 · 书经 · 礼记 · 易经 · 春秋
     </div>
 
@@ -349,7 +349,7 @@ pinyin: 'rújiā'
           <span class="card-en">The Analects — collected sayings of Confucius</span>
         </div>
         <div class="card-def">
-          The primary source for Confucius's thought — a collection of conversations, aphorisms, and biographical fragments assembled by his disciples after his death. 20 chapters, roughly 500 passages. Not a systematic treatise but a teacher's recorded wisdom: situational, sometimes contradictory, demanding interpretation. Memorized in full by educated Chinese for over 2,000 years.
+          The primary source for Confucius's thought , a collection of conversations, aphorisms, and biographical fragments assembled by his disciples after his death. 20 chapters, roughly 500 passages. Not a systematic treatise but a teacher's recorded wisdom: situational, sometimes contradictory, demanding interpretation. Memorized in full by educated Chinese for over 2,000 years.
         </div>
         <div class="examples">
           <div class="example">
@@ -367,7 +367,7 @@ pinyin: 'rújiā'
           <span class="card-en">Mencius — the second great Confucian philosopher</span>
         </div>
         <div class="card-def">
-          Mengzi (372–289 BCE) developed Confucian thought in two crucial directions: the argument for the innate goodness of human nature (性善论 xìngshàn lùn — humans are naturally oriented toward virtue), and a robust theory of political legitimacy based on the welfare of the people. "The people are most important, the state is secondary, the ruler is least important" (民为贵，社稷次之，君为轻). A richly argued, often polemical text.
+          Mengzi (372–289 BCE) developed Confucian thought in two crucial directions: the argument for the innate goodness of human nature (性善论 xìngshàn lùn , humans are naturally oriented toward virtue), and a robust theory of political legitimacy based on the welfare of the people. "The people are most important, the state is secondary, the ruler is least important" (民为贵，社稷次之，君为轻). A richly argued, often polemical text.
         </div>
       </div>
 
@@ -378,7 +378,7 @@ pinyin: 'rújiā'
           <span class="card-en">Great Learning · Doctrine of the Mean</span>
         </div>
         <div class="card-def">
-          Originally chapters of the 礼记, elevated to independent classic status by Zhu Xi. 大学 Dàxué outlines the nested self-cultivation program (修身齐家治国平天下). 中庸 Zhōngyōng — "Doctrine of the Mean" or "Centrality and Ordinariness" — teaches that virtue lies in consistent, balanced practice, not extraordinary feats: the sage's way is found in daily life. 中庸 is also a Chinese idiom for measured moderation.
+          Originally chapters of the 礼记, elevated to independent classic status by Zhu Xi. 大学 Dàxué outlines the nested self-cultivation program (修身齐家治国平天下). 中庸 Zhōngyōng , "Doctrine of the Mean" or "Centrality and Ordinariness" , teaches that virtue lies in consistent, balanced practice, not extraordinary feats: the sage's way is found in daily life. 中庸 is also a Chinese idiom for measured moderation.
         </div>
       </div>
 
@@ -389,7 +389,7 @@ pinyin: 'rújiā'
           <span class="card-en">Classic of Poetry · Classic of Documents</span>
         </div>
         <div class="card-def">
-          Two of the Five Classics. 诗经 Shījīng (Classic of Poetry, c. 11th–6th century BCE) — 305 poems ranging from folk songs to court hymns; Confucius allegedly edited the collection and praised it as the foundation of literary education. 书经 Shūjīng (Classic of Documents) — speeches, proclamations, and records from the legendary sage-kings (Yao, Shun) through the early Zhou, serving as a model of royal virtue and governance.
+          Two of the Five Classics. 诗经 Shījīng (Classic of Poetry, c. 11th–6th century BCE) , 305 poems ranging from folk songs to court hymns; Confucius allegedly edited the collection and praised it as the foundation of literary education. 书经 Shūjīng (Classic of Documents) , speeches, proclamations, and records from the legendary sage-kings (Yao, Shun) through the early Zhou, serving as a model of royal virtue and governance.
         </div>
       </div>
 
@@ -400,7 +400,7 @@ pinyin: 'rújiā'
           <span class="card-en">Record of Rites · I Ching · Spring and Autumn Annals</span>
         </div>
         <div class="card-def">
-          The three remaining classics. 礼记 Lǐjì — encyclopedic compilation of ritual texts. 易经 Yìjīng (I Ching, Book of Changes) — 64 hexagrams with commentaries, used for divination and cosmological reasoning; Confucius reportedly said he would need 50 more years to study it fully. 春秋 Chūnqiū (Spring and Autumn Annals) — a terse chronicle of Lu's history (722–481 BCE), allegedly edited by Confucius, whose moral judgments were believed to be embedded in the choice of words — the famous "Spring and Autumn brush style" 春秋笔法.
+          The three remaining classics. 礼记 Lǐjì , encyclopedic compilation of ritual texts. 易经 Yìjīng (I Ching, Book of Changes) , 64 hexagrams with commentaries, used for divination and cosmological reasoning; Confucius reportedly said he would need 50 more years to study it fully. 春秋 Chūnqiū (Spring and Autumn Annals) , a terse chronicle of Lu's history (722–481 BCE), allegedly edited by Confucius, whose moral judgments were believed to be embedded in the choice of words , the famous "Spring and Autumn brush style" 春秋笔法.
         </div>
       </div>
 
@@ -417,9 +417,9 @@ pinyin: 'rújiā'
 
     <div class="scholar" data-glyph="考">
       <div class="scholar-label">制度洞见 zhìdù dòngjiàn · Institutional Insight</div>
-      <p>The most consequential institutional expression of Confucianism was the <strong>科举 kējǔ</strong> system — the imperial civil service examination that operated from 605 CE (Sui dynasty) to 1905 CE (abolished by the Qing in response to Western pressure), a span of 1,300 years. Any male commoner could in theory sit the examinations; success required mastery of the Confucian canon, classical composition, and the eight-legged essay (八股文 bāgǔwén) format. The system created a meritocratic ideal — however imperfectly realized — by which talent rather than birth was supposed to determine who governed. It also created a unified literati class (士大夫 shìdàfū) sharing a common cultural vocabulary across the entire empire.</p>
+      <p>The most consequential institutional expression of Confucianism was the <strong>科举 kējǔ</strong> system , the imperial civil service examination that operated from 605 CE (Sui dynasty) to 1905 CE (abolished by the Qing in response to Western pressure), a span of 1,300 years. Any male commoner could in theory sit the examinations; success required mastery of the Confucian canon, classical composition, and the eight-legged essay (八股文 bāgǔwén) format. The system created a meritocratic ideal , however imperfectly realized , by which talent rather than birth was supposed to determine who governed. It also created a unified literati class (士大夫 shìdàfū) sharing a common cultural vocabulary across the entire empire.</p>
       <p>Beyond the exam system, Confucianism structured the Chinese family: the three-generational household as norm, ancestor veneration as religious practice, the primacy of filial duty, and the preference for male heirs. These patterns remain visible in Chinese family culture today even after a century of modernization and Communist critique.</p>
-      <p>The May Fourth Movement (五四运动 Wǔ Sì Yùndòng, 1919) mounted the most sustained modern critique of Confucianism, blaming the "Confucian shop" (孔家店 kǒng jiā diàn) for China's weakness in the face of imperial powers. Intellectuals like Chen Duxiu called for "Mr. Democracy" and "Mr. Science" to replace Confucian hierarchy and tradition. The critique targeted specifically the way Confucian rhetoric had been used to justify oppression — not always what Confucius himself had argued. Contemporary "New Confucianism" (当代新儒家) has sought to reconstruct a Confucian humanism compatible with democratic values — an ongoing project in Chinese intellectual life.</p>
+      <p>The May Fourth Movement (五四运动 Wǔ Sì Yùndòng, 1919) mounted the most sustained modern critique of Confucianism, blaming the "Confucian shop" (孔家店 kǒng jiā diàn) for China's weakness in the face of imperial powers. Intellectuals like Chen Duxiu called for "Mr. Democracy" and "Mr. Science" to replace Confucian hierarchy and tradition. The critique targeted specifically the way Confucian rhetoric had been used to justify oppression , not always what Confucius himself had argued. Contemporary "New Confucianism" (当代新儒家) has sought to reconstruct a Confucian humanism compatible with democratic values , an ongoing project in Chinese intellectual life.</p>
     </div>
 
     <!-- ── CHENGYU ── -->

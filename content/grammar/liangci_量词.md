@@ -78,7 +78,7 @@ pinyin: 'liàngcí'
       <span class="topic-hero-eyebrow">Grammar · 语法 yǔfǎ</span>
       <h1 class="topic-hero-title">量词</h1>
       <span class="topic-hero-title-py">liàngcí</span>
-      <p class="topic-hero-desc">Chinese cannot count nouns directly — a measure word (classifier) must stand between every number and noun, and the choice of classifier reveals how the language categorizes the physical and social world.</p>
+      <p class="topic-hero-desc">Chinese cannot count nouns directly , a measure word (classifier) must stand between every number and noun, and the choice of classifier reveals how the language categorizes the physical and social world.</p>
     </header>
 
     <!-- ── ETYMOLOGY ── -->
@@ -93,9 +93,9 @@ pinyin: 'liàngcí'
     <div class="scholar" data-glyph="量">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
       <p><strong>量词 liàngcí</strong> = 量 liàng (to measure; quantity) + 词 cí (word). The name encodes the function: these are "measuring words" that specify the unit or category in which a noun is counted. English has a vestige of this system ("a sheet of paper," "a head of cattle," "a school of fish"), but those constructions are optional. In Chinese they are mandatory for every count.</p>
-      <p>The system reflects a deep cognitive choice: Chinese treats nouns as category labels rather than inherently countable units. To count, you must first specify what dimension or kind of unit you're counting along. A fish (鱼) has length and shape — hence 条. A piece of paper has flatness — hence 张. A book has bound volume — hence 本. The classifier is a semantic lens that reveals how the language perceives each object's essential nature.</p>
-      <p>Classifier languages are widespread in East and Southeast Asia (Mandarin, Cantonese, Thai, Japanese, Korean, Vietnamese all have them). Japanese borrowed extensively from Chinese: 本 hon (long cylindrical objects), 枚 mai (flat thin objects), 頭 tō (large animals) — the classifier logic traveled with the characters. This makes classifiers one of the most productive cross-linguistic anchors for learners of Chinese and Japanese together.</p>
-      <p>Even counting "one" requires a classifier: 一个人 (one person), 一本书 (one book), 一条鱼 (one fish). The generic classifier <strong>个 gè</strong> can substitute for most concrete nouns in informal speech — but overuse marks the speaker as linguistically inexperienced or deliberately casual. Choosing the right classifier is a mark of fluency and cultural literacy.</p>
+      <p>The system reflects a deep cognitive choice: Chinese treats nouns as category labels rather than inherently countable units. To count, you must first specify what dimension or kind of unit you're counting along. A fish (鱼) has length and shape , hence 条. A piece of paper has flatness , hence 张. A book has bound volume , hence 本. The classifier is a semantic lens that reveals how the language perceives each object's essential nature.</p>
+      <p>Classifier languages are widespread in East and Southeast Asia (Mandarin, Cantonese, Thai, Japanese, Korean, Vietnamese all have them). Japanese borrowed extensively from Chinese: 本 hon (long cylindrical objects), 枚 mai (flat thin objects), 頭 tō (large animals) , the classifier logic traveled with the characters. This makes classifiers one of the most productive cross-linguistic anchors for learners of Chinese and Japanese together.</p>
+      <p>Even counting "one" requires a classifier: 一个人 (one person), 一本书 (one book), 一条鱼 (one fish). The generic classifier <strong>个 gè</strong> can substitute for most concrete nouns in informal speech , but overuse marks the speaker as linguistically inexperienced or deliberately casual. Choosing the right classifier is a mark of fluency and cultural literacy.</p>
     </div>
 
     <!-- ── CORE PATTERNS ── -->
@@ -111,13 +111,13 @@ pinyin: 'liàngcí'
       <span class="label">量词位置 liàngcí wèizhì · Where classifiers appear</span>
       <strong>Number + Classifier + Noun</strong> → 三<strong>本</strong>书 / 一<strong>条</strong>鱼 / 两<strong>个</strong>人<br>
       <strong>这/那/哪 + Classifier + Noun</strong> → 这<strong>本</strong>书 / 那<strong>条</strong>路 / 哪<strong>位</strong>老师<br>
-      <strong>Number + Classifier (standalone)</strong> → 我要两<strong>个</strong> (I want two [of them]) — noun understood from context
+      <strong>Number + Classifier (standalone)</strong> → 我要两<strong>个</strong> (I want two [of them]) , noun understood from context
     </div>
 
     <div class="scholar" data-glyph="个">
       <div class="scholar-label">学者洞见 xuézhě dòngjiàn · The 个 Fallback</div>
-      <p>个 gè is the most frequent classifier in Mandarin by a wide margin — it appears in corpora more often than all other classifiers combined. Historically it was a classifier specifically for certain objects, but it has generalized almost universally for concrete, countable nouns among informal speakers. In fast speech, 个 can replace 本 (books), 条 (long things), 张 (flat things), 只 (animals/one of a pair), and most others.</p>
-      <p>This is not "wrong" — it parallels the English spread of "thing" into every semantic gap. But in formal writing, educated registers, and careful speech, specific classifiers are expected and their absence is noticed. Knowing the system beyond 个 is one of the clearest markers of advanced Mandarin proficiency.</p>
+      <p>个 gè is the most frequent classifier in Mandarin by a wide margin , it appears in corpora more often than all other classifiers combined. Historically it was a classifier specifically for certain objects, but it has generalized almost universally for concrete, countable nouns among informal speakers. In fast speech, 个 can replace 本 (books), 条 (long things), 张 (flat things), 只 (animals/one of a pair), and most others.</p>
+      <p>This is not "wrong" , it parallels the English spread of "thing" into every semantic gap. But in formal writing, educated registers, and careful speech, specific classifiers are expected and their absence is noticed. Knowing the system beyond 个 is one of the clearest markers of advanced Mandarin proficiency.</p>
     </div>
 
     <!-- ── CONTAINER CLASSIFIERS ── -->
@@ -139,7 +139,7 @@ pinyin: 'liàngcí'
         </div>
         <div class="tags"><span class="tag tag-n">容器 container</span></div>
         <div class="card-def">
-          杯 bēi (cup, glass) counts liquids held in cups or glasses. The container becomes the classifier. This is the most transparent type: the classifier is the vessel. A large class of classifiers work this way — 碗, 盘, 瓶, 桶, 壶 — each named for the physical container holding the substance.
+          杯 bēi (cup, glass) counts liquids held in cups or glasses. The container becomes the classifier. This is the most transparent type: the classifier is the vessel. A large class of classifiers work this way , 碗, 盘, 瓶, 桶, 壶 , each named for the physical container holding the substance.
         </div>
         <div class="examples">
           <div class="example">
@@ -163,15 +163,15 @@ pinyin: 'liàngcí'
         </div>
         <div class="tags"><span class="tag tag-n">容器 container</span></div>
         <div class="card-def">
-          碗 wǎn (bowl) — for rice, noodles, soup. Flat-bottomed dishes.<br>
-          盘 pán (plate, dish) — for stir-fried dishes, presented food at a restaurant.<br>
-          瓶 píng (bottle) — for bottled drinks, liquids in bottles.
+          碗 wǎn (bowl) , for rice, noodles, soup. Flat-bottomed dishes.<br>
+          盘 pán (plate, dish) , for stir-fried dishes, presented food at a restaurant.<br>
+          瓶 píng (bottle) , for bottled drinks, liquids in bottles.
         </div>
         <div class="examples">
           <div class="example">
             <div class="ex-cn">再来一碗，我还没吃饱。</div>
             <div class="ex-py">Zài lái yī wǎn, wǒ hái méi chī bǎo.</div>
-            <div class="ex-en">One more bowl — I'm not full yet.</div>
+            <div class="ex-en">One more bowl , I'm not full yet.</div>
           </div>
           <div class="example">
             <div class="ex-cn">服务员，再来一瓶啤酒！</div>
@@ -196,7 +196,7 @@ pinyin: 'liàngcí'
 
       <div class="card c-n">
         <div class="card-head">
-          <span class="card-cn">条 tiáo — long and sinuous</span>
+          <span class="card-cn">条 tiáo , long and sinuous</span>
           <span class="card-py">tiáo</span>
           <span class="card-en">for long, flexible, strip-like things</span>
         </div>
@@ -224,13 +224,13 @@ pinyin: 'liàngcí'
 
       <div class="card c-n">
         <div class="card-head">
-          <span class="card-cn">张 zhāng — flat and spread out</span>
+          <span class="card-cn">张 zhāng , flat and spread out</span>
           <span class="card-py">zhāng</span>
           <span class="card-en">for flat, sheet-like things</span>
         </div>
         <div class="tags"><span class="tag tag-n">形状 shape</span></div>
         <div class="card-def">
-          张 zhāng originally meant "to spread open, to stretch" — a bow drawn taut. It classifies anything that is flat and spreadable: paper, tables, faces, maps, tickets, photos, blankets, bows (archery). The connection to "spreading flat" unifies this seemingly disparate class.
+          张 zhāng originally meant "to spread open, to stretch" , a bow drawn taut. It classifies anything that is flat and spreadable: paper, tables, faces, maps, tickets, photos, blankets, bows (archery). The connection to "spreading flat" unifies this seemingly disparate class.
         </div>
         <div class="examples">
           <div class="example">
@@ -248,13 +248,13 @@ pinyin: 'liàngcí'
 
       <div class="card c-n">
         <div class="card-head">
-          <span class="card-cn">根 gēn — rod-like and slender</span>
+          <span class="card-cn">根 gēn , rod-like and slender</span>
           <span class="card-py">gēn</span>
           <span class="card-en">for slender, rigid, rod-shaped things</span>
         </div>
         <div class="tags"><span class="tag tag-n">形状 shape</span></div>
         <div class="card-def">
-          根 gēn means "root" (the root of a plant — slender, rigid, going down). It classifies anything slender and relatively rigid: chopsticks, nails, needles, bones, hair strands, candles, cigarettes. Where 条 implies flexibility, 根 implies stiffness.
+          根 gēn means "root" (the root of a plant , slender, rigid, going down). It classifies anything slender and relatively rigid: chopsticks, nails, needles, bones, hair strands, candles, cigarettes. Where 条 implies flexibility, 根 implies stiffness.
         </div>
         <div class="examples">
           <div class="example">
@@ -267,13 +267,13 @@ pinyin: 'liàngcí'
 
       <div class="card c-n">
         <div class="card-head">
-          <span class="card-cn">颗 kē — small and round</span>
+          <span class="card-cn">颗 kē , small and round</span>
           <span class="card-py">kē</span>
           <span class="card-en">for small, round, or grain-like objects</span>
         </div>
         <div class="tags"><span class="tag tag-n">形状 shape</span></div>
         <div class="card-def">
-          颗 kē classifies small, roundish objects — seeds, pills, stars, tears, pearls, bullets, and poetically, hearts. The "small round thing" logic extends metaphorically: 一颗心 (a heart) treats the heart as a precious small sphere; 一颗星星 (a star) treats celestial bodies as glittering seeds in the night sky.
+          颗 kē classifies small, roundish objects , seeds, pills, stars, tears, pearls, bullets, and poetically, hearts. The "small round thing" logic extends metaphorically: 一颗心 (a heart) treats the heart as a precious small sphere; 一颗星星 (a star) treats celestial bodies as glittering seeds in the night sky.
         </div>
         <div class="examples">
           <div class="example">
@@ -304,13 +304,13 @@ pinyin: 'liàngcí'
 
       <div class="card c-n">
         <div class="card-head">
-          <span class="card-cn">个 — the safe default</span>
+          <span class="card-cn">个 , the safe default</span>
           <span class="card-py">gè</span>
           <span class="card-en">generic classifier for people, objects, abstract concepts</span>
         </div>
         <div class="tags"><span class="tag tag-n">通用 universal</span></div>
         <div class="card-def">
-          个 gè is the most versatile classifier in Mandarin. It is required for people (一个人), serves as the correct classifier for a vast range of concrete nouns (苹果, 问题, 办法, 国家), and in informal speech substitutes for almost any other classifier. Its shape was originally 箇 — a classifier for bamboo segments. The modern simplified form 个 dominates all registers.
+          个 gè is the most versatile classifier in Mandarin. It is required for people (一个人), serves as the correct classifier for a vast range of concrete nouns (苹果, 问题, 办法, 国家), and in informal speech substitutes for almost any other classifier. Its shape was originally 箇 , a classifier for bamboo segments. The modern simplified form 个 dominates all registers.
         </div>
         <div class="examples">
           <div class="example">
@@ -350,7 +350,7 @@ pinyin: 'liàngcí'
 
       <div class="card c-n">
         <div class="card-head">
-          <span class="card-cn">次 cì — times / occurrences</span>
+          <span class="card-cn">次 cì , times / occurrences</span>
           <span class="card-py">cì</span>
           <span class="card-en">for repeated or countable events and opportunities</span>
         </div>
@@ -374,7 +374,7 @@ pinyin: 'liàngcí'
 
       <div class="card c-n">
         <div class="card-head">
-          <span class="card-cn">场 chǎng — sessions and performances</span>
+          <span class="card-cn">场 chǎng , sessions and performances</span>
           <span class="card-py">chǎng</span>
           <span class="card-en">for extended events, performances, weather, illnesses</span>
         </div>
@@ -398,7 +398,7 @@ pinyin: 'liàngcí'
 
       <div class="card c-n">
         <div class="card-head">
-          <span class="card-cn">件 jiàn · 段 duàn — discrete and extended</span>
+          <span class="card-cn">件 jiàn · 段 duàn , discrete and extended</span>
           <span class="card-py">jiàn · duàn</span>
           <span class="card-en">件: discrete items/matters · 段: stretches of time or space</span>
         </div>
@@ -442,7 +442,7 @@ pinyin: 'liàngcí'
         </div>
         <div class="tags"><span class="tag tag-n">集合 collective</span></div>
         <div class="card-def">
-          <strong>群 qún</strong> = a group gathered in one place: 一群人 (a group of people), 一群鸟 (a flock of birds), 一群学生. The 羊 (sheep) component in 群 suggests flocking behavior — animals moving together.<br>
+          <strong>群 qún</strong> = a group gathered in one place: 一群人 (a group of people), 一群鸟 (a flock of birds), 一群学生. The 羊 (sheep) component in 群 suggests flocking behavior , animals moving together.<br>
           <strong>批 pī</strong> = a batch processed or handled together, often commercial or official: 一批货 (a consignment of goods), 一批学生 (a cohort of students), 第一批 (the first batch/wave).
         </div>
         <div class="examples">

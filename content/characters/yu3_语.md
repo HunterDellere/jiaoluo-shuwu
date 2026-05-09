@@ -112,7 +112,7 @@ content_sources:
     <div class="pattern">
       <span class="label">世界语言 shìjiè yǔyán · Language Names</span>
       <strong>汉语</strong> Hànyǔ Chinese (language of the Han) · <strong>普通话</strong> Pǔtōnghuà Mandarin (common speech) · <strong>英语</strong> Yīngyǔ English · <strong>法语</strong> Fǎyǔ French · <strong>德语</strong> Déyǔ German · <strong>西班牙语</strong> Xībānyáyǔ Spanish · <strong>葡萄牙语</strong> Pútáoyáyǔ Portuguese · <strong>俄语</strong> Éyǔ Russian · <strong>阿拉伯语</strong> Ālābóyǔ Arabic · <strong>日语</strong> Rìyǔ Japanese · <strong>韩语</strong> Hányǔ Korean · <strong>印地语</strong> Yìndìyǔ Hindi<br><br>
-      Note: 汉语 vs. 中文 — both mean "Chinese language." 汉语 is the ethnolinguistic term (language of the Han people); 中文 is more informal and refers to written Chinese or Chinese in general. 粤语 Yuèyǔ = Cantonese (not a 语 of a foreign nation but a variety of Chinese).
+      Note: 汉语 vs. 中文 , both mean "Chinese language." 汉语 is the ethnolinguistic term (language of the Han people); 中文 is more informal and refers to written Chinese or Chinese in general. 粤语 Yuèyǔ = Cantonese (not a 语 of a foreign nation but a variety of Chinese).
     </div>
 
     <span class="section-anchor" id="compounds"></span>
@@ -133,7 +133,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          语 yǔ (speech; words) + 言 yán (speech; to speak — used as a noun here). Language as a systematic phenomenon — the academic/formal word for language as a system, not a specific language. 语言学 yǔyánxué = linguistics. 语言障碍 = language barrier. 语言天才 = language genius (gifted polyglot). 肢体语言 = body language. 语言和言语的区别 = the distinction between langue and parole (language system vs. speech act) — a distinction Ferdinand de Saussure made famous in Western linguistics, which Chinese linguists discuss using these exact terms.
+          语 yǔ (speech; words) + 言 yán (speech; to speak , used as a noun here). Language as a systematic phenomenon , the academic/formal word for language as a system, not a specific language. 语言学 yǔyánxué = linguistics. 语言障碍 = language barrier. 语言天才 = language genius (gifted polyglot). 肢体语言 = body language. 语言和言语的区别 = the distinction between langue and parole (language system vs. speech act) , a distinction Ferdinand de Saussure made famous in Western linguistics, which Chinese linguists discuss using these exact terms.
         </div>
         <div class="examples">
           <div class="example">
@@ -152,13 +152,13 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          成 chéng (to become; set; established) + 语 yǔ (speech; phrase). Set phrases — the four-character classical idioms that are one of the most distinctive features of Chinese. 成语 are compressed narratives, mostly four characters, encoding a story from history or classical literature. Fluency in 成语 signals education and cultural depth; overuse signals pedantry. There are approximately 5,000 commonly used 成语, with a corpus of over 30,000. 歇后语 xiēhòuyǔ (two-part allegorical sayings) are a related form.
+          成 chéng (to become; set; established) + 语 yǔ (speech; phrase). Set phrases , the four-character classical idioms that are one of the most distinctive features of Chinese. 成语 are compressed narratives, mostly four characters, encoding a story from history or classical literature. Fluency in 成语 signals education and cultural depth; overuse signals pedantry. There are approximately 5,000 commonly used 成语, with a corpus of over 30,000. 歇后语 xiēhòuyǔ (two-part allegorical sayings) are a related form.
         </div>
         <div class="examples">
           <div class="example">
             <div class="ex-cn">他说话时常引用成语，让人觉得很有学问。</div>
             <div class="ex-py">Tā shuōhuà shí cháng yǐnyòng chéngyǔ, ràng rén juéde hěn yǒu xuéwèn.</div>
-            <div class="ex-en">He often quotes chengyu when speaking — it makes him seem very learned.</div>
+            <div class="ex-en">He often quotes chengyu when speaking , it makes him seem very learned.</div>
           </div>
         </div>
       </div>
@@ -171,7 +171,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          母 mǔ (mother) + 语 yǔ (language). Mother tongue — the language absorbed in childhood, tied to family and home. 母语为汉语的人 = native Chinese speakers. 母语习得 = first language acquisition. 目标语 mùbiāoyǔ = target language (the language being learned). 外语 wàiyǔ = foreign language. The Chinese language learning community uses 汉语作为外语 (Chinese as a foreign language) and 对外汉语 (Chinese for foreigners) — the field now called 国际中文教育 (International Chinese Education).
+          母 mǔ (mother) + 语 yǔ (language). Mother tongue , the language absorbed in childhood, tied to family and home. 母语为汉语的人 = native Chinese speakers. 母语习得 = first language acquisition. 目标语 mùbiāoyǔ = target language (the language being learned). 外语 wàiyǔ = foreign language. The Chinese language learning community uses 汉语作为外语 (Chinese as a foreign language) and 对外汉语 (Chinese for foreigners) — the field now called 国际中文教育 (International Chinese Education).
         </div>
         <div class="examples">
           <div class="example">

@@ -75,8 +75,8 @@ content_sources:
 
     <div class="scholar" data-glyph="之">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
-      <p>The oracle-bone form of <strong>之</strong> shows a foot (<strong>止 zhǐ</strong>, three toes pointing upward) above a horizontal baseline — a person stepping forward from a fixed point onto open ground. The original meaning was simply <em>to go, to move toward</em>. The three strokes of the modern character are a stylized trace of that departing foot: a dot (the raised toe), a curved stroke (the arch), and a final horizontal sweep (the ground being left behind).</p>
-      <p>From this concrete verb of motion, 之 was borrowed in classical writing to stand in for whatever the verb pointed at — the thing being gone toward. That pronoun use ("it, them, this") then collapsed further into a pure grammatical connector. Today 之 is one of the rarest characters etymologically: it began as a physical act and ended as a piece of invisible glue between words.</p>
+      <p>The oracle-bone form of <strong>之</strong> shows a foot (<strong>止 zhǐ</strong>, three toes pointing upward) above a horizontal baseline , a person stepping forward from a fixed point onto open ground. The original meaning was simply <em>to go, to move toward</em>. The three strokes of the modern character are a stylized trace of that departing foot: a dot (the raised toe), a curved stroke (the arch), and a final horizontal sweep (the ground being left behind).</p>
+      <p>From this concrete verb of motion, 之 was borrowed in classical writing to stand in for whatever the verb pointed at , the thing being gone toward. That pronoun use ("it, them, this") then collapsed further into a pure grammatical connector. Today 之 is one of the rarest characters etymologically: it began as a physical act and ended as a piece of invisible glue between words.</p>
     </div>
 
     <span class="section-anchor" id="classical"></span>
@@ -97,7 +97,7 @@ content_sources:
     <div class="scholar" data-glyph="之">
       <div class="scholar-label">三种用法 sān zhǒng yòngfǎ · Three Classical Uses</div>
       <p><strong>1. Structural particle (的 in classical form).</strong> 之 links a modifier or possessor to a head noun: 君子之道 (the way of the gentleman), 天下之大 (the vastness of all under heaven). This is by far its most common classical use and the one that survives most clearly in modern formal writing.</p>
-      <p><strong>2. Pronoun (it / them / this).</strong> When 之 follows a verb it acts as the object: 爱之 (love it / love them), 知之者不如好之者 (those who know it are not as good as those who love it — Confucius, Analects 6.18). The pronoun can refer to a person, thing, or idea introduced earlier.</p>
+      <p><strong>2. Pronoun (it / them / this).</strong> When 之 follows a verb it acts as the object: 爱之 (love it / love them), 知之者不如好之者 (those who know it are not as good as those who love it , Confucius, Analects 6.18). The pronoun can refer to a person, thing, or idea introduced earlier.</p>
       <p><strong>3. Verb (to go to).</strong> In the earliest texts, 之 still functions as a full verb of motion: 吾欲之南海 (I wish to go to the southern sea). This use is rare in received classical texts and almost extinct in modern writing, surviving only as an etymological echo.</p>
     </div>
 
@@ -106,9 +106,9 @@ content_sources:
 
     <div class="scholar" data-glyph="之">
       <div class="scholar-label">语言化石 yǔyán huàshí · Linguistic Fossil</div>
-      <p>Modern Mandarin replaced 之 with 的 for possessives and dropped it as a pronoun entirely — but 之 persists in three clear contexts:</p>
+      <p>Modern Mandarin replaced 之 with 的 for possessives and dropped it as a pronoun entirely , but 之 persists in three clear contexts:</p>
       <p><strong>Formal and literary registers.</strong> Legal documents, official announcements, academic titles, and newspaper editorials use 之 to signal weight and authority. 国家之责任 (the responsibility of the state) sounds more gravitas-laden than 国家的责任.</p>
-      <p><strong>Fixed compounds.</strong> Dozens of common modern words freeze 之 in place: 之前 (before), 之后 (after), 之间 (between), 之外 (outside of), 之所以 (the reason why), 总之 (in sum). In these words 之 is not parsed as a particle — it is simply part of the word.</p>
+      <p><strong>Fixed compounds.</strong> Dozens of common modern words freeze 之 in place: 之前 (before), 之后 (after), 之间 (between), 之外 (outside of), 之所以 (the reason why), 总之 (in sum). In these words 之 is not parsed as a particle , it is simply part of the word.</p>
       <p><strong>Chengyu and quotations.</strong> Classical four-character idioms preserve 之 in its original grammatical roles. Anyone reading or writing chengyu encounters it constantly.</p>
     </div>
 
@@ -122,7 +122,7 @@ content_sources:
         <div class="card-pinyin">zhī qián</div>
         <div class="card-en">before · prior to</div>
         <span class="tag-n">n/prep</span>
-        <div class="card-note">饭之前 — before the meal. The most common modern use of 之.</div>
+        <div class="card-note">饭之前 , before the meal. The most common modern use of 之.</div>
       </div>
 
       <div class="card c-teal">
@@ -130,7 +130,7 @@ content_sources:
         <div class="card-pinyin">zhī hòu</div>
         <div class="card-en">after · afterward</div>
         <span class="tag-n">n/prep</span>
-        <div class="card-note">毕业之后 — after graduation. Paired with 之前 in most discussions of sequence.</div>
+        <div class="card-note">毕业之后 , after graduation. Paired with 之前 in most discussions of sequence.</div>
       </div>
 
       <div class="card c-teal">
@@ -138,7 +138,7 @@ content_sources:
         <div class="card-pinyin">zhī jiān</div>
         <div class="card-en">between · among</div>
         <span class="tag-n">n/prep</span>
-        <div class="card-note">朋友之间 — between friends. Used for both physical and abstract "betweenness."</div>
+        <div class="card-note">朋友之间 , between friends. Used for both physical and abstract "betweenness."</div>
       </div>
 
       <div class="card c-teal">
@@ -146,7 +146,7 @@ content_sources:
         <div class="card-pinyin">zhī wài</div>
         <div class="card-en">outside of · beyond · apart from</div>
         <span class="tag-n">n/prep</span>
-        <div class="card-note">工作之外 — outside of work. 除此之外 (beyond this) is a very common formal connector.</div>
+        <div class="card-note">工作之外 , outside of work. 除此之外 (beyond this) is a very common formal connector.</div>
       </div>
 
       <div class="card c-ochre">
@@ -154,7 +154,7 @@ content_sources:
         <div class="card-pinyin">zhī suǒ yǐ</div>
         <div class="card-en">the reason why · that's why</div>
         <span class="tag-n">conj</span>
-        <div class="card-note">我之所以来是因为… — the reason I came is because… Formal causal connector.</div>
+        <div class="card-note">我之所以来是因为… , the reason I came is because… Formal causal connector.</div>
       </div>
 
       <div class="card c-ochre">
@@ -178,7 +178,7 @@ content_sources:
         <div class="card-pinyin">jūnzǐ zhī jiāo</div>
         <div class="card-en">the friendship of gentlemen</div>
         <span class="tag-n">set phrase</span>
-        <div class="card-note">Full phrase: 君子之交淡如水 — a gentleman's friendship is as plain as water. 之 as classical possessive.</div>
+        <div class="card-note">Full phrase: 君子之交淡如水 , a gentleman's friendship is as plain as water. 之 as classical possessive.</div>
       </div>
 
     </div>
@@ -192,7 +192,7 @@ content_sources:
         <div class="cy-hanzi">求之不得</div>
         <div class="cy-py">qiú zhī bù dé</div>
         <div class="cy-en">to seek it and not obtain it → something one wishes for but cannot have; also used ironically for "couldn't be better"</div>
-        <div class="cy-note">之 as pronoun object of 求. 这正是求之不得的机会 — this is exactly the opportunity I couldn't ask for.</div>
+        <div class="cy-note">之 as pronoun object of 求. 这正是求之不得的机会 , this is exactly the opportunity I couldn't ask for.</div>
       </div>
 
       <div class="cy">
@@ -222,12 +222,12 @@ content_sources:
     <div class="section-head"><span class="sh-cn">相邻词汇</span><span class="sh-py">xiānglín cíhuì</span><span class="sh-en">Adjacent Vocab</span><span class="sh-rule"></span></div>
 
     <div class="adj-wrap">
-      <span class="adj">的 de — modern possessive particle (replaced 之 in speech)</span>
-      <span class="adj">其 qí — classical pronoun: his/her/its/their</span>
-      <span class="adj">乎 hū — classical question/exclamation particle</span>
-      <span class="adj">者 zhě — classical nominalizer: one who / that which</span>
-      <span class="adj">所 suǒ — classical passive/nominalization marker</span>
-      <span class="adj">而 ér — classical coordinating conjunction: and, but, then</span>
+      <span class="adj">的 de , modern possessive particle (replaced 之 in speech)</span>
+      <span class="adj">其 qí , classical pronoun: his/her/its/their</span>
+      <span class="adj">乎 hū , classical question/exclamation particle</span>
+      <span class="adj">者 zhě , classical nominalizer: one who / that which</span>
+      <span class="adj">所 suǒ , classical passive/nominalization marker</span>
+      <span class="adj">而 ér , classical coordinating conjunction: and, but, then</span>
       <span class="adj">以 yǐ — by means of, with, because of</span>
       <span class="adj">乃 nǎi — then, thereupon (classical)</span>
     </div>

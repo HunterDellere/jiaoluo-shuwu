@@ -63,7 +63,7 @@ pinyin: 'xīngxiù'
       <span class="topic-hero-eyebrow">Science &amp; Medicine · 科技 kējì</span>
       <h1 class="topic-hero-title">星宿</h1>
       <span class="topic-hero-title-py">xīngxiù</span>
-      <p class="topic-hero-desc">China mapped the entire sky independently of Greece — 1,464 stars, 28 lunar mansions, and four mythological guardians that divided the cosmos long before Ptolemy.</p>
+      <p class="topic-hero-desc">China mapped the entire sky independently of Greece , 1,464 stars, 28 lunar mansions, and four mythological guardians that divided the cosmos long before Ptolemy.</p>
     </header>
 
     <span class="section-anchor" id="tradition"></span>
@@ -93,7 +93,7 @@ pinyin: 'xīngxiù'
       <div class="scholar-label">月亮的驿站 yuèliàng de yìzhàn · The Moon's Resting Places</div>
       <p>The most important organizational structure in Chinese astronomy is the system of twenty-eight lunar mansions, <strong>二十八宿</strong> (èrshíbā xiù). The word 宿 (xiù) means "lodge" or "resting place": these are the stations where the moon lodges each night as it makes its monthly circuit around the sky. The lunar month is approximately 27.3 days (sidereal month), so the moon passes through roughly one mansion per day. The mansions divide the ecliptic and the celestial equator into 28 unequal segments, each defined by a lead star (距星 jùxīng) and spanning a variable number of degrees depending on where bright reference stars fall.</p>
       <p>The mansions are grouped into four sets of seven, each set corresponding to one of the four directional symbols (discussed below). The east is the Azure Dragon (seven mansions), the north is the Black Tortoise (seven mansions), the west is the White Tiger (seven mansions), and the south is the Vermilion Bird (seven mansions). Together they span the full 360 degrees of the sky, providing a complete framework for tracking the positions of the moon, the sun, and the planets.</p>
-      <p>A very similar system of 27 or 28 lunar mansions — the <em>nakshatras</em> — exists in the Indian astronomical tradition, and a nearly identical 28-mansion system appears in ancient Arabian astronomy (the <em>manazil al-qamar</em>). Whether these represent independent invention or diffusion from a common source is one of the genuinely contested questions in the history of astronomy. The evidence for independent Chinese invention is reasonably strong: the specific stars chosen for the Chinese mansions differ substantially from the Indian mansions, suggesting adaptation to a different observing latitude and a different symbolic framework. Chinese astronomers were observing from roughly 35° N latitude (the Yellow River valley); Indian astronomers from further south; both chose mansion systems that worked for their local sky.</p>
+      <p>A very similar system of 27 or 28 lunar mansions , the <em>nakshatras</em> , exists in the Indian astronomical tradition, and a nearly identical 28-mansion system appears in ancient Arabian astronomy (the <em>manazil al-qamar</em>). Whether these represent independent invention or diffusion from a common source is one of the genuinely contested questions in the history of astronomy. The evidence for independent Chinese invention is reasonably strong: the specific stars chosen for the Chinese mansions differ substantially from the Indian mansions, suggesting adaptation to a different observing latitude and a different symbolic framework. Chinese astronomers were observing from roughly 35° N latitude (the Yellow River valley); Indian astronomers from further south; both chose mansion systems that worked for their local sky.</p>
     </div>
 
     <div class="pattern">
@@ -110,7 +110,7 @@ pinyin: 'xīngxiù'
       <strong>南方朱雀 Vermilion Bird of the South (7 mansions)</strong><br>
       井 Jǐng Well · 鬼 Guǐ Ghost · 柳 Liǔ Willow · 星 Xīng Star · 张 Zhāng Extended Net · 翼 Yì Wings · 轸 Zhěn Chariot<br>
       <br>
-      <em>Note: 参 Shēn (Three Stars) covers the area of Orion's belt — one of the most recognizable asterisms in either tradition. The Chinese "Heart" mansion (心 Xīn) covers Antares, the red giant at the heart of Scorpius. Both traditions independently recognized this star's cardiac position.</em>
+      <em>Note: 参 Shēn (Three Stars) covers the area of Orion's belt , one of the most recognizable asterisms in either tradition. The Chinese "Heart" mansion (心 Xīn) covers Antares, the red giant at the heart of Scorpius. Both traditions independently recognized this star's cardiac position.</em>
     </div>
 
     <span class="section-anchor" id="foursymbols"></span>

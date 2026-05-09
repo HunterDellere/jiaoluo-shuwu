@@ -41,7 +41,7 @@ pinyin: 'Fāngyán'
       </a></li>
       <li><a href="#intelligibility">
         <span class="toc-cn">互通性</span> Mutual Intelligibility
-        <span class="toc-sub">who can understand whom — and who cannot</span>
+        <span class="toc-sub">who can understand whom , and who cannot</span>
       </a></li>
       <li><a href="#putonghua">
         <span class="toc-cn">普通话</span> The Standard
@@ -65,7 +65,7 @@ pinyin: 'Fāngyán'
       <span class="topic-hero-eyebrow">Geography · 地理 dìlǐ</span>
       <h1 class="topic-hero-title">方言</h1>
       <span class="topic-hero-title-py">Fāngyán</span>
-      <p class="topic-hero-desc">Chinese is not one language but a family — seven major dialect groups whose speakers cannot understand one another, united by a shared written script and divided by a history of geography and migration.</p>
+      <p class="topic-hero-desc">Chinese is not one language but a family , seven major dialect groups whose speakers cannot understand one another, united by a shared written script and divided by a history of geography and migration.</p>
     </header>
 
     <span class="section-anchor" id="problem"></span>
@@ -127,9 +127,9 @@ pinyin: 'Fāngyán'
       <h2 class="section-head">Written vs. Spoken · 书面语与口语 shūmiànyǔ yǔ kǒuyǔ</h2>
       <div class="scholar" data-glyph="文">
         <div class="scholar-label">书面语 · 口语 · The Gap Between Text and Speech</div>
-        <p>One of the most distinctive features of the Chinese linguistic situation is the gap between written and spoken registers, a gap much wider than in most major languages. Classical Chinese (文言文 wényánwén) was the written standard for two thousand years and was already diverging from spoken language during the Han dynasty. A document written in classical Chinese in the Tang dynasty (618–907) was a learned register, acquired through education, modeled on ancient texts, and used for formal writing by elites across all topolect regions — not a transcription of how people spoke. A Cantonese official and a northern Mandarin speaker could exchange formal documents in classical Chinese without difficulty, even though their spoken languages were mutually incomprehensible.</p>
+        <p>One of the most distinctive features of the Chinese linguistic situation is the gap between written and spoken registers, a gap much wider than in most major languages. Classical Chinese (文言文 wényánwén) was the written standard for two thousand years and was already diverging from spoken language during the Han dynasty. A document written in classical Chinese in the Tang dynasty (618–907) was a learned register, acquired through education, modeled on ancient texts, and used for formal writing by elites across all topolect regions , not a transcription of how people spoke. A Cantonese official and a northern Mandarin speaker could exchange formal documents in classical Chinese without difficulty, even though their spoken languages were mutually incomprehensible.</p>
         <p>The May Fourth Movement of 1919 produced a push for written vernacular Chinese (白话文 báihuàwén), writing that more closely followed spoken Mandarin, eliminating the learned obscurity of classical Chinese. The success of this movement transformed Chinese literature, journalism, and eventually official writing. But the vernacular standard that won was Mandarin-based, leaving speakers of other topolects in a position where the "vernacular" written language was still a second register learned from education rather than a transcription of their mother tongue.</p>
-        <p>Cantonese writing represents the most developed exception to this pattern. Cantonese has an extensive system of written representation — including characters unique to Cantonese (like 係 haih, "is") and standard characters used with Cantonese-specific readings and meanings — that allows Cantonese to be written as it is spoken. This written Cantonese appears in social media, comic books, informal correspondence, and advertising throughout Hong Kong and Guangdong. It is not taught in schools as a standard, but its existence demonstrates that the claim that Chinese characters can only represent Mandarin is wrong. The other major topolects have similar capabilities but less developed written traditions for the vernacular.</p>
+        <p>Cantonese writing represents the most developed exception to this pattern. Cantonese has an extensive system of written representation , including characters unique to Cantonese (like 係 haih, "is") and standard characters used with Cantonese-specific readings and meanings , that allows Cantonese to be written as it is spoken. This written Cantonese appears in social media, comic books, informal correspondence, and advertising throughout Hong Kong and Guangdong. It is not taught in schools as a standard, but its existence demonstrates that the claim that Chinese characters can only represent Mandarin is wrong. The other major topolects have similar capabilities but less developed written traditions for the vernacular.</p>
       </div>
 
 
@@ -138,15 +138,15 @@ pinyin: 'Fāngyán'
       <div class="cards">
         <div class="card c-ochre">
           <div class="card-head"><span class="tag-n">n</span> 普通话 Pǔtōnghuà</div>
-          <p>Common speech — the official standard spoken Mandarin of the PRC, based on Beijing phonology with northern literary vocabulary. Taught in all schools, used in all national broadcast media. The corresponding terms in Taiwan (國語 Guóyǔ) and Singapore (华语 Huáyǔ) refer to the same spoken standard.</p>
+          <p>Common speech , the official standard spoken Mandarin of the PRC, based on Beijing phonology with northern literary vocabulary. Taught in all schools, used in all national broadcast media. The corresponding terms in Taiwan (國語 Guóyǔ) and Singapore (华语 Huáyǔ) refer to the same spoken standard.</p>
         </div>
         <div class="card c-teal">
           <div class="card-head"><span class="tag-n">n</span> 方言 fāngyán</div>
-          <p>Topolect, regional speech — the Chinese term for what English often calls "dialect." Applied to the major regional speech varieties: Cantonese, Wu, Min, Hakka, Gan, Xiang. The term implies these are "dialects" of Chinese rather than distinct languages, a classification that is politically meaningful but linguistically contested.</p>
+          <p>Topolect, regional speech , the Chinese term for what English often calls "dialect." Applied to the major regional speech varieties: Cantonese, Wu, Min, Hakka, Gan, Xiang. The term implies these are "dialects" of Chinese rather than distinct languages, a classification that is politically meaningful but linguistically contested.</p>
         </div>
         <div class="card c-sienna">
           <div class="card-head"><span class="tag-n">n</span> 闽南语 Mǐnnányǔ</div>
-          <p>Southern Min — the Hokkien topolect spoken in southern Fujian, Taiwan (as 台語 Táiyǔ or 台灣話 Táiwānhuà), and across Southeast Asian Chinese communities in Malaysia, Singapore, Indonesia, and the Philippines. One of the most geographically dispersed Chinese topolects due to historical Fujianese maritime migration.</p>
+          <p>Southern Min , the Hokkien topolect spoken in southern Fujian, Taiwan (as 台語 Táiyǔ or 台灣話 Táiwānhuà), and across Southeast Asian Chinese communities in Malaysia, Singapore, Indonesia, and the Philippines. One of the most geographically dispersed Chinese topolects due to historical Fujianese maritime migration.</p>
         </div>
         <div class="card c-violet">
           <div class="card-head"><span class="tag-n">n</span> 白话文 báihuàwén</div>

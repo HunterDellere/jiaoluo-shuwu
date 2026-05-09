@@ -120,7 +120,7 @@ content_review: 'pending'
 
     <div class="pattern">
       <span class="label">构词规律 gòucí guīlǜ · Learner Warning: 意义 vs 义</span>
-      A common and persistent error: confusing <strong>意义 yìyì</strong> (meaning; significance — 意 yì = intention, thought) with 义 yì alone (righteousness; moral rightness). The two characters are different: <strong>义</strong> (righteousness — the one on this page) vs <strong>意</strong> (thought; intention — containing 心, the heart radical). 意义 uses 意, not 义. When a Chinese learner sees 义 in a compound and assumes it means "meaning," they are reading 意 by mistake. The fix: look for 心 at the bottom. If it's there, it's 意. If it's not, it's 义.
+      A common and persistent error: confusing <strong>意义 yìyì</strong> (meaning; significance , 意 yì = intention, thought) with 义 yì alone (righteousness; moral rightness). The two characters are different: <strong>义</strong> (righteousness , the one on this page) vs <strong>意</strong> (thought; intention , containing 心, the heart radical). 意义 uses 意, not 义. When a Chinese learner sees 义 in a compound and assumes it means "meaning," they are reading 意 by mistake. The fix: look for 心 at the bottom. If it's there, it's 意. If it's not, it's 义.
     </div>
 
     <div class="cards">
@@ -170,12 +170,12 @@ content_review: 'pending'
           <div class="example">
             <div class="ex-cn">朋友有难，他二话不说就出手帮忙，真够义气。</div>
             <div class="ex-py">Péngyou yǒu nàn, tā èr huà bù shuō jiù chūshǒu bāngmáng, zhēn gòu yìqì.</div>
-            <div class="ex-en">When his friend was in trouble, he stepped in without a word — genuinely standup.</div>
+            <div class="ex-en">When his friend was in trouble, he stepped in without a word , genuinely standup.</div>
           </div>
           <div class="example">
             <div class="ex-cn">他们是过命的兄弟，讲究的就是一个义气。</div>
             <div class="ex-py">Tāmen shì guòmìng de xiōngdì, jiǎngjiū de jiùshì yīgè yìqì.</div>
-            <div class="ex-en">They are brothers who would die for each other — what they value above all is loyalty.</div>
+            <div class="ex-en">They are brothers who would die for each other , what they value above all is loyalty.</div>
           </div>
           <div class="example">
             <div class="ex-cn">为了义气帮人做了错事，事后也后悔不已。</div>
@@ -198,7 +198,7 @@ content_review: 'pending'
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          <a href="../vocab/ren2_仁.html">仁</a> rén (humaneness — genuine care for others) + 义 yì (righteousness — acting rightly on that care). The foundational ethical pairing in Confucian moral thought. The Mencius (孟子) treats 仁义 as inseparable: "仁, the human heart; 义, the human path." To have 仁 is to feel the pull toward others; to practice 义 is to follow that pull to its right conclusion. 仁义道德 rényì dàodé (humaneness, righteousness, the Way, virtue) is the full classical moral vocabulary — used earnestly in classical texts, often deployed with irony in modern speech.
+          <a href="../vocab/ren2_仁.html">仁</a> rén (humaneness , genuine care for others) + 义 yì (righteousness , acting rightly on that care). The foundational ethical pairing in Confucian moral thought. The Mencius (孟子) treats 仁义 as inseparable: "仁, the human heart; 义, the human path." To have 仁 is to feel the pull toward others; to practice 义 is to follow that pull to its right conclusion. 仁义道德 rényì dàodé (humaneness, righteousness, the Way, virtue) is the full classical moral vocabulary , used earnestly in classical texts, often deployed with irony in modern speech.
         </div>
         <div class="examples">
           <div class="example">
@@ -241,7 +241,7 @@ content_review: 'pending'
         </div>
         <div class="tags"><span class="tag tag-n">N/Adj 名形词</span></div>
         <div class="card-def">
-          正 zhèng (correct; upright; proper — the character shows a foot 止 walking toward a target 一, straight on) + 义 yì (righteousness; moral rightness). Together: righteousness that is properly aligned — justice as it should be, not merely as claimed. 正义感 zhèngyìgǎn = a sense of justice. 主持正义 zhǔchí zhèngyì = to uphold justice. 伸张正义 shēnzhāng zhèngyì = to champion justice (more emphatic). The compound is common in formal, legal, and political contexts.
+          正 zhèng (correct; upright; proper , the character shows a foot 止 walking toward a target 一, straight on) + 义 yì (righteousness; moral rightness). Together: righteousness that is properly aligned , justice as it should be, not merely as claimed. 正义感 zhèngyìgǎn = a sense of justice. 主持正义 zhǔchí zhèngyì = to uphold justice. 伸张正义 shēnzhāng zhèngyì = to champion justice (more emphatic). The compound is common in formal, legal, and political contexts.
         </div>
         <div class="examples">
           <div class="example">
@@ -271,7 +271,7 @@ content_review: 'pending'
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          大 dà (great; large) + 义 yì (righteousness; moral duty). The righteousness that supersedes personal ties, individual interest, or clan loyalty. 大义灭亲 dàyì mièqīn = to put righteousness above family (a set phrase for reporting or condemning a family member for the sake of the greater moral order). 深明大义 shēn míng dàyì = to have deep understanding of moral principle (high praise). 大义 frames 义 in its most elevated, impersonal register — not the loyalty between friends but the moral order that stands above all loyalties.
+          大 dà (great; large) + 义 yì (righteousness; moral duty). The righteousness that supersedes personal ties, individual interest, or clan loyalty. 大义灭亲 dàyì mièqīn = to put righteousness above family (a set phrase for reporting or condemning a family member for the sake of the greater moral order). 深明大义 shēn míng dàyì = to have deep understanding of moral principle (high praise). 大义 frames 义 in its most elevated, impersonal register , not the loyalty between friends but the moral order that stands above all loyalties.
         </div>
         <div class="examples">
           <div class="example">
@@ -301,7 +301,7 @@ content_review: 'pending'
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          道 dào (the Way; the correct path; principle) + 义 yì (righteousness; moral duty). The pairing of the Way as principle and righteousness as conduct — what a person owes to the moral order. 道义上的责任 dàoyì shàng de zérèn = moral responsibility (as opposed to legal obligation). 道义支持 dàoyì zhīchí = moral support (supporting something on ethical grounds, not material ones). Used in formal and semi-formal contexts to invoke moral obligation without the force of law.
+          道 dào (the Way; the correct path; principle) + 义 yì (righteousness; moral duty). The pairing of the Way as principle and righteousness as conduct , what a person owes to the moral order. 道义上的责任 dàoyì shàng de zérèn = moral responsibility (as opposed to legal obligation). 道义支持 dàoyì zhīchí = moral support (supporting something on ethical grounds, not material ones). Used in formal and semi-formal contexts to invoke moral obligation without the force of law.
         </div>
         <div class="examples">
           <div class="example">
@@ -317,7 +317,7 @@ content_review: 'pending'
           <div class="example">
             <div class="ex-cn">做生意要讲道义，不能只顾利润。</div>
             <div class="ex-py">Zuò shēngyi yào jiǎng dàoyì, bùnéng zhǐ gù lìrùn.</div>
-            <div class="ex-en">In business, one should uphold moral principle — you can't only think about profit.</div>
+            <div class="ex-en">In business, one should uphold moral principle , you can't only think about profit.</div>
           </div>
         </div>
       </div>
@@ -336,17 +336,17 @@ content_review: 'pending'
     <div class="scholar" data-glyph="义">
       <div class="scholar-label">哲学洞见 zhéxué dòngjiàn · Philosophical Insight</div>
       <p>The Five Constants (五常 wǔcháng) are: <strong><a href="../vocab/ren2_仁.html">仁 rén</a></strong> (humaneness), <strong>义 yì</strong> (righteousness), <strong><a href="li3_礼.html">礼 lǐ</a></strong> (ritual propriety), <strong><a href="zhi4_智.html">智 zhì</a></strong> (wisdom), <strong><a href="xin4_信.html">信 xìn</a></strong> (trustworthiness). They were codified as a set by the Han dynasty thinker Dong Zhongshu (董仲舒, c. 179–104 BCE), who embedded them in a cosmological framework linking the five virtues to the Five Phases (五行 wǔxíng) and the moral order of Heaven. Together they define the 君子 (noble person), the Confucian ideal of moral formation.</p>
-      <p>In this system, 义 is the virtue of correct action under moral pressure. 仁 tells you to care; 义 tells you what caring requires when the right course is difficult or costly. Mencius (孟子) distinguishes 义 sharply from mere benefit (利 lì): the person of 义 asks "what is right?" not "what do I gain?" His most famous statement on this: when King Hui of Liang asked Mencius what profit he had brought, Mencius replied, "Why must Your Majesty speak of profit? What I have to offer is humaneness and righteousness — nothing more."</p>
+      <p>In this system, 义 is the virtue of correct action under moral pressure. 仁 tells you to care; 义 tells you what caring requires when the right course is difficult or costly. Mencius (孟子) distinguishes 义 sharply from mere benefit (利 lì): the person of 义 asks "what is right?" not "what do I gain?" His most famous statement on this: when King Hui of Liang asked Mencius what profit he had brought, Mencius replied, "Why must Your Majesty speak of profit? What I have to offer is humaneness and righteousness , nothing more."</p>
       <p>义 also has a negative marker that shows its force: 不义 bùyì (unrighteous; unjust) is a serious moral indictment, and actions condemned as 不义 are understood to violate the fabric of proper human relations. 见利忘义 jiàn lì wàng yì ("seeing profit and forgetting righteousness") is the standard phrase for moral failure, the condition Mencius warned against at the very opening of his book.</p>
     </div>
 
     <div class="pattern">
       <span class="label">五常 wǔcháng · The Five Constant Virtues</span>
-      <strong><a href="../vocab/ren2_仁.html">仁 rén</a></strong> humaneness — the foundation; genuine care for others<br>
-      <strong>义 yì</strong> righteousness — acting rightly on that care; moral courage<br>
-      <strong><a href="li3_礼.html">礼 lǐ</a></strong> ritual propriety — conducting relationships through correct form<br>
-      <strong><a href="zhi4_智.html">智 zhì</a></strong> wisdom — moral discernment; knowing what the right action is<br>
-      <strong><a href="xin4_信.html">信 xìn</a></strong> trustworthiness — reliability in word and conduct<br><br>
+      <strong><a href="../vocab/ren2_仁.html">仁 rén</a></strong> humaneness , the foundation; genuine care for others<br>
+      <strong>义 yì</strong> righteousness , acting rightly on that care; moral courage<br>
+      <strong><a href="li3_礼.html">礼 lǐ</a></strong> ritual propriety , conducting relationships through correct form<br>
+      <strong><a href="zhi4_智.html">智 zhì</a></strong> wisdom , moral discernment; knowing what the right action is<br>
+      <strong><a href="xin4_信.html">信 xìn</a></strong> trustworthiness , reliability in word and conduct<br><br>
       义 is the virtue of moral action under pressure. Without it, 仁 remains feeling without consequence.
     </div>
 
@@ -372,7 +372,7 @@ content_review: 'pending'
         <span class="cy-cn">见义勇为</span>
         <span class="cy-py">jiàn yì yǒng wéi</span>
         <span class="cy-en">see righteousness and act with courage — to step up when others need help</span>
-        <span class="cy-note">见 jiàn (to see; to perceive) + 义 yì (righteous action; what is right) + 勇 yǒng (courage; bravery) + 为 wéi (to do; to act). From the Analects (论语): 见义不为，无勇也 — "To see what is right and not do it is a want of courage" (Confucius, 2.24). The four-character chengyu that followed expands this: not just failing to be cowardly, but actively stepping forward. 见义勇为者 (those who act with moral courage) is the official designation in China for people who intervene to stop a crime or help accident victims — a legally recognized category since the 1990s.</span>
+        <span class="cy-note">见 jiàn (to see; to perceive) + 义 yì (righteous action; what is right) + 勇 yǒng (courage; bravery) + 为 wéi (to do; to act). From the Analects (论语): 见义不为，无勇也 , "To see what is right and not do it is a want of courage" (Confucius, 2.24). The four-character chengyu that followed expands this: not just failing to be cowardly, but actively stepping forward. 见义勇为者 (those who act with moral courage) is the official designation in China for people who intervene to stop a crime or help accident victims — a legally recognized category since the 1990s.</span>
       </div>
 
       <div class="cy">

@@ -93,10 +93,10 @@ content_review: 'pending'
 
     <div class="scholar" data-glyph="知">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
-      <p>知 is composed of <strong>矢 shǐ</strong> (arrow) on the left and <strong>口 kǒu</strong> (mouth) on the right. The oracle-bone script makes the arrow component especially clear: a projectile in flight, directional and irreversible. The standard reading of this pairing: knowing as the quality of speech that arrives like an arrow — swift, accurate, committed. An arrow does not hover; it either hits or misses. To speak what you know is to release something that cannot be called back.</p>
+      <p>知 is composed of <strong>矢 shǐ</strong> (arrow) on the left and <strong>口 kǒu</strong> (mouth) on the right. The oracle-bone script makes the arrow component especially clear: a projectile in flight, directional and irreversible. The standard reading of this pairing: knowing as the quality of speech that arrives like an arrow , swift, accurate, committed. An arrow does not hover; it either hits or misses. To speak what you know is to release something that cannot be called back.</p>
       <p>A second reading, noted by scholars such as those at Outlier Linguistics, is phonosemantic: 矢 shǐ may function partly as a phonetic component (an imperfect rhyme in Old Chinese phonology), with 口 indicating that speech or utterance is involved. These two readings are not mutually exclusive. Chinese characters frequently layer visual-semantic logic onto phonetic structure, and the arrow-mouth image is vivid enough to have been pedagogically productive for centuries even if the original motivation was partly sound-based.</p>
-      <p>The Confucian formulation from Analects 2.17 has defined 知 epistemically for over two millennia: <strong>知之为知之，不知为不知，是知也</strong> (zhī zhī wéi zhī zhī, bù zhī wéi bù zhī, shì zhī yě). "To know what you know and to know what you don't know — that is knowledge." The closing 是知也 uses 知 as its own definition: the sharpest arrow is the one that knows where it cannot reach.</p>
-      <p>In everyday modern Chinese, 知 rarely appears alone. It anchors compounds: <strong>知道 zhīdào</strong> (to know a fact), <strong>知识 zhīshi</strong> (knowledge as a body of learning), <strong>知名 zhīmíng</strong> (well-known), <strong>先知 xiānzhī</strong> (prophet — one who knows before others do). The character's register shifts with context: 知道 is utterly ordinary; 知 alone carries classical weight.</p>
+      <p>The Confucian formulation from Analects 2.17 has defined 知 epistemically for over two millennia: <strong>知之为知之，不知为不知，是知也</strong> (zhī zhī wéi zhī zhī, bù zhī wéi bù zhī, shì zhī yě). "To know what you know and to know what you don't know , that is knowledge." The closing 是知也 uses 知 as its own definition: the sharpest arrow is the one that knows where it cannot reach.</p>
+      <p>In everyday modern Chinese, 知 rarely appears alone. It anchors compounds: <strong>知道 zhīdào</strong> (to know a fact), <strong>知识 zhīshi</strong> (knowledge as a body of learning), <strong>知名 zhīmíng</strong> (well-known), <strong>先知 xiānzhī</strong> (prophet , one who knows before others do). The character's register shifts with context: 知道 is utterly ordinary; 知 alone carries classical weight.</p>
     </div>
 
     <!-- ── 知道 KNOWING THAT ── -->
@@ -113,19 +113,19 @@ content_review: 'pending'
       <div class="pattern-formula">
         <span class="pf-slot pf-noun">知道 zhīdào</span>
         <span class="pf-arrow">→</span>
-        <span class="pf-slot pf-result">factual knowledge — to know that X is the case</span>
+        <span class="pf-slot pf-result">factual knowledge , to know that X is the case</span>
       </div>
       <div class="pattern-formula">
         <span class="pf-slot pf-noun">了解 liǎojiě</span>
         <span class="pf-arrow">→</span>
-        <span class="pf-slot pf-result">contextual understanding — to understand X deeply</span>
+        <span class="pf-slot pf-result">contextual understanding , to understand X deeply</span>
       </div>
       <div class="pattern-formula">
         <span class="pf-slot pf-noun">认识 rènshi</span>
         <span class="pf-arrow">→</span>
-        <span class="pf-slot pf-result">acquaintance / recognition — to know a person; to recognize</span>
+        <span class="pf-slot pf-result">acquaintance / recognition , to know a person; to recognize</span>
       </div>
-      <div class="pattern-note">知道 is the workhorse of factual knowledge. 了解 implies depth and familiarity with context. 认识 applies primarily to people and concrete objects — you can 认识 someone but you cannot 认识 a fact.</div>
+      <div class="pattern-note">知道 is the workhorse of factual knowledge. 了解 implies depth and familiarity with context. 认识 applies primarily to people and concrete objects , you can 认识 someone but you cannot 认识 a fact.</div>
     </div>
 
     <div class="cards">
@@ -139,7 +139,7 @@ content_review: 'pending'
         </div>
         <div class="tags"><span class="tag tag-v">V 动词 dòngcí</span></div>
         <div class="card-def">
-          知 zhī (to know) + 道 dào (way; path — in this compound, the sense is closer to "the way things are," the factual lay of things). The most common and unrestricted verb of knowing in modern Mandarin. Followed by a factual clause: 我知道他来了 (I know he came); 你知道答案吗？(Do you know the answer?). Also used to acknowledge information received: 知道了 (understood; got it — literally "I know now") is one of the most common single utterances in everyday speech.
+          知 zhī (to know) + 道 dào (way; path , in this compound, the sense is closer to "the way things are," the factual lay of things). The most common and unrestricted verb of knowing in modern Mandarin. Followed by a factual clause: 我知道他来了 (I know he came); 你知道答案吗？(Do you know the answer?). Also used to acknowledge information received: 知道了 (understood; got it , literally "I know now") is one of the most common single utterances in everyday speech.
         </div>
         <div class="examples">
           <div class="example">
@@ -160,7 +160,7 @@ content_review: 'pending'
         </div>
         <div class="note">
           <span class="note-label">辨析 biànxī · 知道 vs 了解 vs 认识</span>
-          知道 targets facts and propositions. 了解 implies having gone through something, having absorbed context over time — 我了解他 means I understand his character, not merely that I have his phone number. 认识 is reserved for people and objects you have encountered directly — you 认识 a person; you cannot 认识 a fact. The three verbs carve up different aspects of what English covers with a single "know."
+          知道 targets facts and propositions. 了解 implies having gone through something, having absorbed context over time , 我了解他 means I understand his character, not merely that I have his phone number. 认识 is reserved for people and objects you have encountered directly , you 认识 a person; you cannot 认识 a fact. The three verbs carve up different aspects of what English covers with a single "know."
         </div>
       </div>
 
@@ -173,7 +173,7 @@ content_review: 'pending'
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          知 zhī (to know) + 识 shí (to recognize; to know; consciousness — 识 contains 言 speech + 戠 zhī, a phonetic/semantic component: knowledge that comes through hearing and recognizing). Together: the body of what is known, learning accumulated. 知识 is the standard modern word for knowledge as a subject or commodity: 知识就是力量 (zhīshi jiùshì lìliàng, knowledge is power — a slogan drawn from Bacon via Soviet influence). 知识分子 zhīshi fènzǐ = intellectuals, the knowledge class. The reduplication of knowing-recognizing in the compound emphasizes that knowledge is active, not merely received.
+          知 zhī (to know) + 识 shí (to recognize; to know; consciousness , 识 contains 言 speech + 戠 zhī, a phonetic/semantic component: knowledge that comes through hearing and recognizing). Together: the body of what is known, learning accumulated. 知识 is the standard modern word for knowledge as a subject or commodity: 知识就是力量 (zhīshi jiùshì lìliàng, knowledge is power , a slogan drawn from Bacon via Soviet influence). 知识分子 zhīshi fènzǐ = intellectuals, the knowledge class. The reduplication of knowing-recognizing in the compound emphasizes that knowledge is active, not merely received.
         </div>
         <div class="examples">
           <div class="example">
@@ -184,12 +184,12 @@ content_review: 'pending'
           <div class="example">
             <div class="ex-cn">他的知识面非常广，什么都懂一点。</div>
             <div class="ex-py">Tā de zhīshi miàn fēicháng guǎng, shénme dōu dǒng yīdiǎn.</div>
-            <div class="ex-en">His breadth of knowledge is very wide — he knows a little about everything.</div>
+            <div class="ex-en">His breadth of knowledge is very wide , he knows a little about everything.</div>
           </div>
           <div class="example">
             <div class="ex-cn">这本书传授的不只是知识，还有思考的方法。</div>
             <div class="ex-py">Zhè běn shū chuánshòu de bùzhǐ shì zhīshi, hái yǒu sīkǎo de fāngfǎ.</div>
-            <div class="ex-en">This book imparts more than knowledge — it also teaches a method of thinking.</div>
+            <div class="ex-en">This book imparts more than knowledge , it also teaches a method of thinking.</div>
           </div>
         </div>
       </div>
@@ -236,9 +236,9 @@ content_review: 'pending'
     </div>
 
     <div class="scholar" data-glyph="知">
-      <div class="scholar-label">典故 diǎngù · Classical Allusion — Boya and Ziqi</div>
+      <div class="scholar-label">典故 diǎngù · Classical Allusion , Boya and Ziqi</div>
       <p>In the Liezi (列子) and Lüshi Chunqiu (吕氏春秋), the musician Boya (伯牙 Bó Yá) was renowned for his mastery of the qin. His friend Zhong Ziqi (钟子期 Zhōng Zǐqī) could 知 his music as no one else could: when Boya's heart was in mountain heights, Ziqi heard mountain heights; when his heart was in flowing water, Ziqi heard flowing water. When Ziqi died, Boya smashed his qin and never played again. He reasoned: there was no one left in the world who could truly 知 what he was playing. The story gives the language two indispensable compounds.</p>
-      <p><strong>知己 zhījǐ</strong> — literally "know-self," the person who knows you as you are. A 知己 sees through surface to interior; their knowledge of you is accurate in the way the arrow is accurate. The phrase runs in both directions: 你是我的知己 (you are my true friend who knows me) carries the same weight as the proverb 知己知彼 (know yourself and know your opponent — Sun Tzu). <strong>知音 zhīyīn</strong> — literally "know-sound/music," the kindred spirit who understands your creative or spiritual register. 高山流水觅知音 (among the tall mountains and flowing streams, seeking a kindred spirit) is the classical invocation of the Boya-Ziqi story.</p>
+      <p><strong>知己 zhījǐ</strong> , literally "know-self," the person who knows you as you are. A 知己 sees through surface to interior; their knowledge of you is accurate in the way the arrow is accurate. The phrase runs in both directions: 你是我的知己 (you are my true friend who knows me) carries the same weight as the proverb 知己知彼 (know yourself and know your opponent , Sun Tzu). <strong>知音 zhīyīn</strong> , literally "know-sound/music," the kindred spirit who understands your creative or spiritual register. 高山流水觅知音 (among the tall mountains and flowing streams, seeking a kindred spirit) is the classical invocation of the Boya-Ziqi story.</p>
       <p>The two compounds are close but distinct. 知己 is about being deeply, accurately known as a person; 知音 is about having your creative or inner expression understood by another. A person can be your 知音 without knowing the daily facts of your life; a 知己 may or may not understand your art but knows who you are.</p>
     </div>
 
@@ -253,18 +253,18 @@ content_review: 'pending'
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          知 zhī (to know) + 己 jǐ (self; oneself). The person who knows your self — your character, your interior, your true situation — as accurately as you know it yourself. In classical and literary usage, 知己 implies a rarity: most people are acquaintances (相识 xiāngshí), some are friends (朋友 péngyou), but a 知己 is rare and irreplaceable. The proverb <strong>人生得一知己足矣</strong> (rénshēng dé yī zhījǐ zú yǐ) — "In a lifetime, to find one true friend is enough" — frames the rarity as the point.
+          知 zhī (to know) + 己 jǐ (self; oneself). The person who knows your self , your character, your interior, your true situation , as accurately as you know it yourself. In classical and literary usage, 知己 implies a rarity: most people are acquaintances (相识 xiāngshí), some are friends (朋友 péngyou), but a 知己 is rare and irreplaceable. The proverb <strong>人生得一知己足矣</strong> (rénshēng dé yī zhījǐ zú yǐ) , "In a lifetime, to find one true friend is enough" , frames the rarity as the point.
         </div>
         <div class="examples">
           <div class="example">
             <div class="ex-cn">他是我多年的知己，什么话都可以跟他说。</div>
             <div class="ex-py">Tā shì wǒ duōnián de zhījǐ, shénme huà dōu kěyǐ gēn tā shuō.</div>
-            <div class="ex-en">He is a longtime true friend of mine — I can say anything to him.</div>
+            <div class="ex-en">He is a longtime true friend of mine , I can say anything to him.</div>
           </div>
           <div class="example">
             <div class="ex-cn">人生得一知己足矣，斯世当以同怀视之。</div>
             <div class="ex-py">Rénshēng dé yī zhījǐ zú yǐ, sī shì dāng yǐ tóng huái shì zhī.</div>
-            <div class="ex-en">In a lifetime, to find one true friend is enough — in this world, regard them as one who shares your heart.</div>
+            <div class="ex-en">In a lifetime, to find one true friend is enough , in this world, regard them as one who shares your heart.</div>
           </div>
           <div class="example">
             <div class="ex-cn">她在异乡漂泊多年，终于找到了一位知己。</div>
@@ -294,7 +294,7 @@ content_review: 'pending'
           <div class="example">
             <div class="ex-cn">高山流水觅知音，可遇而不可求。</div>
             <div class="ex-py">Gāoshān liúshuǐ mì zhīyīn, kě yù ér bùkě qiú.</div>
-            <div class="ex-en">Among tall mountains and flowing streams one seeks a kindred spirit — something you can encounter but cannot pursue.</div>
+            <div class="ex-en">Among tall mountains and flowing streams one seeks a kindred spirit , something you can encounter but cannot pursue.</div>
           </div>
           <div class="example">
             <div class="ex-cn">这首诗写了很多年才遇到真正的知音。</div>
@@ -317,17 +317,17 @@ content_review: 'pending'
 
     <div class="scholar" data-glyph="知">
       <div class="scholar-label">哲学洞见 zhéxué dòngjiàn · Philosophical Insight</div>
-      <p><strong>知行合一 zhī xíng hé yī</strong> — "the unity of knowing and acting" — is the philosophical claim most associated with Wang Yangming (王阳明, 1472–1529), the Ming-dynasty Neo-Confucian thinker whose influence reached Japan (where his school became 陽明學 Yōmeigaku) and shaped figures as distant as modern Chinese revolutionaries. The claim: genuine knowledge and action are a single thing, not two things in sequence.</p>
+      <p><strong>知行合一 zhī xíng hé yī</strong> , "the unity of knowing and acting" , is the philosophical claim most associated with Wang Yangming (王阳明, 1472–1529), the Ming-dynasty Neo-Confucian thinker whose influence reached Japan (where his school became 陽明學 Yōmeigaku) and shaped figures as distant as modern Chinese revolutionaries. The claim: genuine knowledge and action are a single thing, not two things in sequence.</p>
       <p>The argument is pointed at the Cheng-Zhu school (程朱理学), particularly Zhu Xi (朱熹, 1130–1200), who held that knowledge must come first and guide action: investigate things (格物 gé wù), extend knowledge (致知 zhì zhī), then act rightly. Wang Yangming's objection: if you say you know benevolence (仁) but act without care for others, you do not actually know 仁. What you have is mere information about the word. Real knowledge is already in motion. The person who knows fire is hot has already pulled back from the flame. To truly know is to have already begun to act accordingly.</p>
       <p>The corollary is equally sharp: if your action falls short, the diagnosis is not weak will but incomplete knowledge. You have not yet fully known. This makes 知行合一 a framework for self-examination rather than self-excuse: the gap between what you believe you know and what you do is precisely the measure of how superficially you have known it.</p>
-      <p>Wang Yangming's related concept, <strong>致良知 zhì liángjzhī</strong> (extending innate moral knowledge), holds that every person carries within them an immediate, pre-reflective moral sense — a capacity to know right and wrong directly, before reasoning. This innate knowing (良知) is already a form of acting; to extend it is to let it govern your life without suppression or distortion.</p>
+      <p>Wang Yangming's related concept, <strong>致良知 zhì liángjzhī</strong> (extending innate moral knowledge), holds that every person carries within them an immediate, pre-reflective moral sense , a capacity to know right and wrong directly, before reasoning. This innate knowing (良知) is already a form of acting; to extend it is to let it govern your life without suppression or distortion.</p>
     </div>
 
     <div class="pattern">
       <div class="pattern-label">知行合一 · The Two Competing Views</div>
       <strong>Zhu Xi (程朱理学)</strong>: First investigate → then know → then act rightly. Knowledge precedes action; the sequence is essential.<br>
       <strong>Wang Yangming (阳明心学)</strong>: Genuine knowing is already acting. The separation is an artifact of incomplete understanding.<br><br>
-      The practical test: if you claim to know benevolence and act without care, Wang Yangming's diagnosis is not that you lack willpower — it is that you do not yet know.
+      The practical test: if you claim to know benevolence and act without care, Wang Yangming's diagnosis is not that you lack willpower , it is that you do not yet know.
     </div>
 
     <!-- ── CHENGYU ── -->
@@ -345,21 +345,21 @@ content_review: 'pending'
         <span class="cy-cn">知己知彼</span>
         <span class="cy-py">zhī jǐ zhī bǐ</span>
         <span class="cy-en">know yourself and know your opponent — thorough strategic understanding</span>
-        <span class="cy-note">From Sun Tzu's Art of War (孙子兵法·谋攻篇): 知彼知己，百战不殆 (zhī bǐ zhī jǐ, bǎi zhàn bù dài) — "Know your opponent and know yourself, and in a hundred battles you will not be imperiled." The fuller phrase is often compressed to 知己知彼. 知 here carries full weight: accurate, arrow-like knowledge of both sides, the kind that leaves no room for wishful assessment. The military context is the original; the phrase has expanded into any situation requiring clear-eyed mutual understanding. 知己 in this usage does not mean "friend" — it means "know self/own side."</span>
+        <span class="cy-note">From Sun Tzu's Art of War (孙子兵法·谋攻篇): 知彼知己，百战不殆 (zhī bǐ zhī jǐ, bǎi zhàn bù dài) , "Know your opponent and know yourself, and in a hundred battles you will not be imperiled." The fuller phrase is often compressed to 知己知彼. 知 here carries full weight: accurate, arrow-like knowledge of both sides, the kind that leaves no room for wishful assessment. The military context is the original; the phrase has expanded into any situation requiring clear-eyed mutual understanding. 知己 in this usage does not mean "friend" , it means "know self/own side."</span>
       </div>
 
       <div class="cy">
         <span class="cy-cn">知足常乐</span>
         <span class="cy-py">zhī zú cháng lè</span>
         <span class="cy-en">knowing sufficiency brings lasting happiness — contentment is the source of joy</span>
-        <span class="cy-note">From Laozi (老子·道德经, Chapter 33): 知足者富 (zhī zú zhě fù) — "Those who know sufficiency are wealthy." The fuller proverb 知足常乐 is not directly from the Daodejing text but is a Taoist-derived commonplace built on that chapter's logic. 足 zú here is "enough, sufficient" (the same character as the foot radical — the foot that has reached where it needed to go). To know that you have enough is not merely cognitive: it is a reorientation of desire. This proverb sits in quiet counterpoint to the Confucian drive for self-cultivation; Taoism offers 知足 as its own kind of knowing.</span>
+        <span class="cy-note">From Laozi (老子·道德经, Chapter 33): 知足者富 (zhī zú zhě fù) , "Those who know sufficiency are wealthy." The fuller proverb 知足常乐 is not directly from the Daodejing text but is a Taoist-derived commonplace built on that chapter's logic. 足 zú here is "enough, sufficient" (the same character as the foot radical , the foot that has reached where it needed to go). To know that you have enough is not merely cognitive: it is a reorientation of desire. This proverb sits in quiet counterpoint to the Confucian drive for self-cultivation; Taoism offers 知足 as its own kind of knowing.</span>
       </div>
 
       <div class="cy">
         <span class="cy-cn">知恩图报</span>
         <span class="cy-py">zhī ēn tú bào</span>
         <span class="cy-en">knowing a kindness and planning to repay it — grateful; not forgetting a debt of gratitude</span>
-        <span class="cy-note">知 zhī (to know; to be aware of) + 恩 ēn (kindness; grace; favor) + 图 tú (to plan; to intend) + 报 bào (to repay; to respond). The compound 知恩 — knowing that a kindness has been done to you — is the first act; 图报 — planning how to return it — is the second. The phrase asserts that genuine knowledge of a kindness is already a form of moral obligation, a light version of the 知行合一 logic: to truly know you were helped is to already be in motion toward repayment. Its opposite, 忘恩负义 wàng'ēn fùyì (forgetting kindness; ingratitude), is one of the sharpest moral reproaches in the language.</span>
+        <span class="cy-note">知 zhī (to know; to be aware of) + 恩 ēn (kindness; grace; favor) + 图 tú (to plan; to intend) + 报 bào (to repay; to respond). The compound 知恩 , knowing that a kindness has been done to you , is the first act; 图报 , planning how to return it — is the second. The phrase asserts that genuine knowledge of a kindness is already a form of moral obligation, a light version of the 知行合一 logic: to truly know you were helped is to already be in motion toward repayment. Its opposite, 忘恩负义 wàng'ēn fùyì (forgetting kindness; ingratitude), is one of the sharpest moral reproaches in the language.</span>
       </div>
 
     </div>

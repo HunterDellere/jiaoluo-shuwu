@@ -53,10 +53,10 @@ content_review: 'pending'
 
     <!-- HERO -->
     <header class="topic-hero">
-      <span class="topic-hero-eyebrow">Vocabulary · 词汇 cíhuì — Philosophy · 哲学 zhéxué</span>
+      <span class="topic-hero-eyebrow">Vocabulary · 词汇 cíhuì , Philosophy · 哲学 zhéxué</span>
       <h1 class="topic-hero-title">义</h1>
       <span class="topic-hero-title-py">yì</span>
-      <p class="topic-hero-desc">Righteousness, duty, justice — the second of the Five Constants, and the concept that gives 仁 a road to walk on.</p>
+      <p class="topic-hero-desc">Righteousness, duty, justice , the second of the Five Constants, and the concept that gives 仁 a road to walk on.</p>
     </header>
 
     <!-- ── THE FIVE CONSTANTS ── -->
@@ -70,19 +70,19 @@ content_review: 'pending'
 
     <div class="scholar" data-glyph="义">
       <div class="scholar-label">儒家核心 rújiā héxīn · Confucian Core</div>
-      <p>The <strong>五常</strong> (wǔ cháng, Five Constants) are the five cardinal virtues of Confucian ethics: <strong>仁义礼智信</strong> — rén yì lǐ zhì xìn — benevolence, righteousness, ritual propriety, wisdom, and faithfulness. Together they describe the moral constitution of the exemplary person (君子 jūnzǐ).</p>
-      <p><strong>义</strong> holds the second position, which is not incidental. 仁 (rén, benevolence) is the root virtue — the disposition of genuine care and fellow-feeling that Confucius placed at the center of moral life. But 仁 without 义 has no direction. 义 is how 仁 is enacted in concrete situations: the discernment to know what is right, and the commitment to do it regardless of what it costs.</p>
+      <p>The <strong>五常</strong> (wǔ cháng, Five Constants) are the five cardinal virtues of Confucian ethics: <strong>仁义礼智信</strong> , rén yì lǐ zhì xìn , benevolence, righteousness, ritual propriety, wisdom, and faithfulness. Together they describe the moral constitution of the exemplary person (君子 jūnzǐ).</p>
+      <p><strong>义</strong> holds the second position, which is not incidental. 仁 (rén, benevolence) is the root virtue , the disposition of genuine care and fellow-feeling that Confucius placed at the center of moral life. But 仁 without 义 has no direction. 义 is how 仁 is enacted in concrete situations: the discernment to know what is right, and the commitment to do it regardless of what it costs.</p>
       <p>Mencius formulated the relationship precisely: <strong>仁，人心也；义，人路也</strong> (Mengzi 告子上). "仁 is the human heart; 义 is the human road." 仁 is the inner source from which moral life flows; 义 is the outward path that that flow must take. The metaphor is worth sitting with: you can have the heart and still lose the road. Mencius was often speaking to people who had done exactly that.</p>
-      <p>A further Mencian formulation sharpens the concept: <strong>羞恶之心，义之端也</strong> — "the feeling of shame and dislike is the beginning of 义." This is not the shame of embarrassment (losing face, 丢面子) but the deeper moral recoiling from what is wrong. That recoil is the seed; cultivated, it becomes 义.</p>
+      <p>A further Mencian formulation sharpens the concept: <strong>羞恶之心，义之端也</strong> , "the feeling of shame and dislike is the beginning of 义." This is not the shame of embarrassment (losing face, 丢面子) but the deeper moral recoiling from what is wrong. That recoil is the seed; cultivated, it becomes 义.</p>
     </div>
 
     <div class="pattern">
       <span class="label">五常 wǔ cháng · The Five Constants in sequence</span>
-      <strong>仁 rén</strong> — benevolence; the root disposition of genuine care for others<br>
-      <strong>义 yì</strong> — righteousness; doing what is right in each situation, regardless of cost<br>
-      <strong>礼 lǐ</strong> — ritual propriety; the forms and ceremonies that structure social life correctly<br>
-      <strong>智 zhì</strong> — wisdom; the capacity to understand, discern, and judge<br>
-      <strong>信 xìn</strong> — faithfulness; keeping one's word and being reliable
+      <strong>仁 rén</strong> , benevolence; the root disposition of genuine care for others<br>
+      <strong>义 yì</strong> , righteousness; doing what is right in each situation, regardless of cost<br>
+      <strong>礼 lǐ</strong> , ritual propriety; the forms and ceremonies that structure social life correctly<br>
+      <strong>智 zhì</strong> , wisdom; the capacity to understand, discern, and judge<br>
+      <strong>信 xìn</strong> , faithfulness; keeping one's word and being reliable
     </div>
 
     <!-- ── YI VS. LI ── -->
@@ -97,10 +97,10 @@ content_review: 'pending'
     <div class="scholar" data-glyph="利">
       <div class="scholar-label">孟子 Mèngzǐ · Warring States period</div>
       <p>The opposition between <strong>义</strong> and <strong>利</strong> (lì, profit; benefit; self-interest) is one of the most enduring structuring tensions in Confucian ethics. Mencius opens the book named for him with an exchange that sets this opposition in its sharpest form.</p>
-      <p>King Hui of Liang greets Mencius with: 叟！不远千里而来，亦将有以利吾国乎？— "Old man! You have come a thousand li without reckoning the distance — will you also have something to profit my state?" Mencius replies: 王何必曰利？亦有仁义而已矣 — "Why must Your Majesty speak of profit? There is only 仁 and 义."</p>
-      <p>The Confucian argument is not that material outcomes are irrelevant. The argument is sequential: a state that pursues 义 as its governing principle will, in the long run, have 利 as well. But a state that pursues 利 directly — through calculation, expediency, and self-interest — destroys the conditions for 义, and with it the conditions for any stable, lasting prosperity. The pursuit of 利 as an end produces its own undoing.</p>
+      <p>King Hui of Liang greets Mencius with: 叟！不远千里而来，亦将有以利吾国乎？— "Old man! You have come a thousand li without reckoning the distance , will you also have something to profit my state?" Mencius replies: 王何必曰利？亦有仁义而已矣 , "Why must Your Majesty speak of profit? There is only 仁 and 义."</p>
+      <p>The Confucian argument is not that material outcomes are irrelevant. The argument is sequential: a state that pursues 义 as its governing principle will, in the long run, have 利 as well. But a state that pursues 利 directly , through calculation, expediency, and self-interest , destroys the conditions for 义, and with it the conditions for any stable, lasting prosperity. The pursuit of 利 as an end produces its own undoing.</p>
       <p>This argument recurs in every major Confucian text and in centuries of Chinese political philosophy. It is not a rejection of material welfare; it is a claim about causal order. 义 first, and 利 follows. 利 first, and both are lost.</p>
-      <p>The Analects provides the classic formulation: <strong>君子喻于义，小人喻于利</strong> (论语 4.16) — "The gentleman understands 义; the petty person understands 利." 喻 here means to be moved by, to understand instinctively, to be drawn toward. The contrast is not an accusation but a diagnostic: where does your moral understanding naturally land?</p>
+      <p>The Analects provides the classic formulation: <strong>君子喻于义，小人喻于利</strong> (论语 4.16) , "The gentleman understands 义; the petty person understands 利." 喻 here means to be moved by, to understand instinctively, to be drawn toward. The contrast is not an accusation but a diagnostic: where does your moral understanding naturally land?</p>
     </div>
 
     <!-- ── COMPOUNDS ── -->
@@ -122,7 +122,7 @@ content_review: 'pending'
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          义 (what is right) + 务 (affair; task; work). The affair of doing what is right — the tasks that fall to you not because you chose them but because they are the right ones for someone in your position. 义务 spans the full range from formal legal obligation to moral duty. In compound: 义务教育 (compulsory education), 义务劳动 (voluntary work, lit. "duty labor"), 义务兵役 (compulsory military service).
+          义 (what is right) + 务 (affair; task; work). The affair of doing what is right , the tasks that fall to you not because you chose them but because they are the right ones for someone in your position. 义务 spans the full range from formal legal obligation to moral duty. In compound: 义务教育 (compulsory education), 义务劳动 (voluntary work, lit. "duty labor"), 义务兵役 (compulsory military service).
         </div>
         <div class="examples">
           <div class="example">
@@ -151,7 +151,7 @@ content_review: 'pending'
         </div>
         <div class="tags"><span class="tag tag-n">N/Adj 名词/形容词</span></div>
         <div class="card-def">
-          正 (correct; upright; proper) + 义. The righteousness that is correct and proper — justice at the social and political level, not merely the individual. 正义 is the word for justice in philosophical discourse, legal contexts, and political speech. 伸张正义 (to uphold justice), 追求正义 (to pursue justice), and 维护正义 (to defend justice) are standard collocations. As an adjective: 正义的战争 (a just war), 正义的事业 (a righteous cause).
+          正 (correct; upright; proper) + 义. The righteousness that is correct and proper , justice at the social and political level, not merely the individual. 正义 is the word for justice in philosophical discourse, legal contexts, and political speech. 伸张正义 (to uphold justice), 追求正义 (to pursue justice), and 维护正义 (to defend justice) are standard collocations. As an adjective: 正义的战争 (a just war), 正义的事业 (a righteous cause).
         </div>
         <div class="examples">
           <div class="example">
@@ -180,7 +180,7 @@ content_review: 'pending'
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          意 (meaning; intention; sense) + 义 (meaning; significance). The compound doubled gives the concept of meaning-with-weight — not just what something says but what it signifies, why it matters. 有意义 (meaningful; significant; worthwhile), 没有意义 (meaningless), and 重大意义 (of great significance) are among the most common patterns in academic and reflective writing. Note the orthographic coincidence: the first 意 and second 义 carry different characters but share the same pinyin and tone — distinguishable only by writing or context.
+          意 (meaning; intention; sense) + 义 (meaning; significance). The compound doubled gives the concept of meaning-with-weight , not just what something says but what it signifies, why it matters. 有意义 (meaningful; significant; worthwhile), 没有意义 (meaningless), and 重大意义 (of great significance) are among the most common patterns in academic and reflective writing. Note the orthographic coincidence: the first 意 and second 义 carry different characters but share the same pinyin and tone , distinguishable only by writing or context.
         </div>
         <div class="examples">
           <div class="example">
@@ -213,28 +213,28 @@ content_review: 'pending'
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          义 (righteousness; what is right) + 气 (spirit; energy; disposition). The disposition to do right by the people bound to you — friends, brothers, colleagues, sworn companions. 义气 operates in a different register from 正义: where 正义 is institutional and universal, 义气 is personal and relational. It is the code of loyalty in folk culture, gangster movies, and close friendships alike. 讲义气 (to be loyal, to be stand-up) is high praise in colloquial speech. 不讲义气 (to not be loyal, to let someone down) is a serious social charge between friends.
+          义 (righteousness; what is right) + 气 (spirit; energy; disposition). The disposition to do right by the people bound to you , friends, brothers, colleagues, sworn companions. 义气 operates in a different register from 正义: where 正义 is institutional and universal, 义气 is personal and relational. It is the code of loyalty in folk culture, gangster movies, and close friendships alike. 讲义气 (to be loyal, to be stand-up) is high praise in colloquial speech. 不讲义气 (to not be loyal, to let someone down) is a serious social charge between friends.
         </div>
         <div class="examples">
           <div class="example">
             <div class="ex-cn">他是个很讲义气的人，朋友有难一定出手相助。</div>
             <div class="ex-py">Tā shì gè hěn jiǎng yìqi de rén, péngyou yǒu nàn yīdìng chūshǒu xiāngzhù.</div>
-            <div class="ex-en">He's a very loyal person — when a friend is in trouble, he'll always step up to help.</div>
+            <div class="ex-en">He's a very loyal person , when a friend is in trouble, he'll always step up to help.</div>
           </div>
           <div class="example">
             <div class="ex-cn">朋友最关键的时候你不出现，太不讲义气了。</div>
             <div class="ex-py">Péngyou zuì guānjiàn de shíhou nǐ bù chūxiàn, tài bù jiǎng yìqi le.</div>
-            <div class="ex-en">You didn't show up at the most critical moment for your friend — that's really not standing by your people.</div>
+            <div class="ex-en">You didn't show up at the most critical moment for your friend , that's really not standing by your people.</div>
           </div>
           <div class="example">
             <div class="ex-cn">江湖上讲义气，不能出卖兄弟。</div>
             <div class="ex-py">Jiānghú shang jiǎng yìqi, bù néng chūmài xiōngdì.</div>
-            <div class="ex-en">In the jianghu world, you stand by the code — you don't sell out your brothers.</div>
+            <div class="ex-en">In the jianghu world, you stand by the code , you don't sell out your brothers.</div>
           </div>
         </div>
         <div class="note">
           <span class="note-label">辨析 biànxī · 义气 vs. 正义</span>
-          <strong>义气</strong> is loyalty to people — your people, specifically. It can coexist with actions that violate <strong>正义</strong> (universal justice): a gang member who is extremely 讲义气 within his circle may be acting against 正义 in the broader social sense. This tension between personal loyalty and broader justice runs through Chinese literature and film. 义气 is personal and relational; 正义 is impersonal and universal.
+          <strong>义气</strong> is loyalty to people , your people, specifically. It can coexist with actions that violate <strong>正义</strong> (universal justice): a gang member who is extremely 讲义气 within his circle may be acting against 正义 in the broader social sense. This tension between personal loyalty and broader justice runs through Chinese literature and film. 义气 is personal and relational; 正义 is impersonal and universal.
         </div>
       </div>
 
@@ -246,7 +246,7 @@ content_review: 'pending'
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          大 (great; overriding) + 义. The supreme principle that outranks personal interest, sentiment, or smaller obligations. 大义灭亲 dàyì miè qīn (to put righteousness above family — to turn in or denounce a family member for the sake of the greater good) is a classical set phrase. 顾全大局，明白大义 (to consider the overall situation and understand the greater principle) describes the statesman-like quality of putting the larger cause ahead of personal considerations.
+          大 (great; overriding) + 义. The supreme principle that outranks personal interest, sentiment, or smaller obligations. 大义灭亲 dàyì miè qīn (to put righteousness above family , to turn in or denounce a family member for the sake of the greater good) is a classical set phrase. 顾全大局，明白大义 (to consider the overall situation and understand the greater principle) describes the statesman-like quality of putting the larger cause ahead of personal considerations.
         </div>
         <div class="examples">
           <div class="example">
@@ -257,12 +257,12 @@ content_review: 'pending'
           <div class="example">
             <div class="ex-cn">临危不惧，坚守大义，才是真正的英雄。</div>
             <div class="ex-py">Lín wēi bù jù, jiānshǒu dàyì, cái shì zhēnzhèng de yīngxióng.</div>
-            <div class="ex-en">Facing danger without fear and holding fast to the greater principle — that is the true hero.</div>
+            <div class="ex-en">Facing danger without fear and holding fast to the greater principle , that is the true hero.</div>
           </div>
           <div class="example">
             <div class="ex-cn">大义灭亲，虽然痛苦，但这是他唯一的选择。</div>
             <div class="ex-py">Dàyì miè qīn, suīrán tòngkǔ, dàn zhè shì tā wéiyī de xuǎnzé.</div>
-            <div class="ex-en">Putting righteousness above family ties — painful as it was, it was his only choice.</div>
+            <div class="ex-en">Putting righteousness above family ties , painful as it was, it was his only choice.</div>
           </div>
         </div>
       </div>
@@ -275,7 +275,7 @@ content_review: 'pending'
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          义 (righteous) + 举 (act; move; deed; to raise up). A deed that rises to the level of a principled act — something done not for personal gain but for a cause recognized as right. Often used of charitable acts, acts of solidarity, or historical deeds that defended the weak or resisted injustice. 义举 carries a tone of admiration: the person who performed it did not have to, but chose to anyway.
+          义 (righteous) + 举 (act; move; deed; to raise up). A deed that rises to the level of a principled act , something done not for personal gain but for a cause recognized as right. Often used of charitable acts, acts of solidarity, or historical deeds that defended the weak or resisted injustice. 义举 carries a tone of admiration: the person who performed it did not have to, but chose to anyway.
         </div>
         <div class="examples">
           <div class="example">
@@ -291,7 +291,7 @@ content_review: 'pending'
           <div class="example">
             <div class="ex-cn">捐出全部积蓄帮助灾民，这是真正的义举。</div>
             <div class="ex-py">Juān chū quánbù jīxù bāngzhù zāimín, zhè shì zhēnzhèng de yìjǔ.</div>
-            <div class="ex-en">Donating all one's savings to help disaster victims — that is a genuinely righteous act.</div>
+            <div class="ex-en">Donating all one's savings to help disaster victims , that is a genuinely righteous act.</div>
           </div>
         </div>
       </div>
@@ -309,10 +309,10 @@ content_review: 'pending'
 
     <div class="scholar" data-glyph="仁">
       <div class="scholar-label">政治词汇 zhèngzhì cíhuì · Political Vocabulary</div>
-      <p>义 is not confined to the ethics of individuals. In Chinese political and historical discourse it provides the vocabulary for legitimacy, rebellion, and just war. The capacity to invoke 义 — and the obligation to demonstrate that one's actions are 义 — runs through Chinese political thought from the Analects to contemporary usage.</p>
-      <p><strong>仁义之师</strong> (rényì zhī shī, "an army of benevolence and righteousness") is the classical phrase for a morally legitimate military campaign. The phrase appears in texts ranging from the Mencius to official historical accounts and is still used today. Its logic: an army that fights for a righteous cause rather than for conquest or profit is 仁义 in both motivation and conduct. The opposite — an army motivated by 利 — was in classical thought inherently illegitimate regardless of its victories.</p>
-      <p><strong>起义</strong> (qǐyì, to rise up in righteous rebellion) is the standard Chinese word for peasant uprisings, righteous revolts, and revolutionary movements. The 义 in 起义 is doing real work: the act of rising up is framed as righteous from the outset, not merely as revolt. This framing appears in the names of major historical movements: 太平天国起义 (the Taiping Heavenly Kingdom uprising), 义和团 (the Righteous Harmonious Fists, the Boxers). The Wuchang Uprising of 1911 — the start of the revolution that ended the Qing dynasty — is called 武昌起义. The moral valence of 义 is embedded in the name of the event.</p>
-      <p><strong>义士</strong> (yìshì, a righteous person; a man of principle) describes someone who sacrifices personal safety or interest for a cause recognized as right, particularly in historical contexts. 义士 is distinct from 英雄 (hero) in that the emphasis falls on the principled motivation rather than the deed itself. A person who refused an unjust order, who surrendered property rather than compromise, who died rather than betray — all 义士.</p>
+      <p>义 is not confined to the ethics of individuals. In Chinese political and historical discourse it provides the vocabulary for legitimacy, rebellion, and just war. The capacity to invoke 义 , and the obligation to demonstrate that one's actions are 义 , runs through Chinese political thought from the Analects to contemporary usage.</p>
+      <p><strong>仁义之师</strong> (rényì zhī shī, "an army of benevolence and righteousness") is the classical phrase for a morally legitimate military campaign. The phrase appears in texts ranging from the Mencius to official historical accounts and is still used today. Its logic: an army that fights for a righteous cause rather than for conquest or profit is 仁义 in both motivation and conduct. The opposite , an army motivated by 利 , was in classical thought inherently illegitimate regardless of its victories.</p>
+      <p><strong>起义</strong> (qǐyì, to rise up in righteous rebellion) is the standard Chinese word for peasant uprisings, righteous revolts, and revolutionary movements. The 义 in 起义 is doing real work: the act of rising up is framed as righteous from the outset, not merely as revolt. This framing appears in the names of major historical movements: 太平天国起义 (the Taiping Heavenly Kingdom uprising), 义和团 (the Righteous Harmonious Fists, the Boxers). The Wuchang Uprising of 1911 , the start of the revolution that ended the Qing dynasty , is called 武昌起义. The moral valence of 义 is embedded in the name of the event.</p>
+      <p><strong>义士</strong> (yìshì, a righteous person; a man of principle) describes someone who sacrifices personal safety or interest for a cause recognized as right, particularly in historical contexts. 义士 is distinct from 英雄 (hero) in that the emphasis falls on the principled motivation rather than the deed itself. A person who refused an unjust order, who surrendered property rather than compromise, who died rather than betray , all 义士.</p>
     </div>
 
     <div class="cards">
@@ -354,7 +354,7 @@ content_review: 'pending'
         </div>
         <div class="tags"><span class="tag tag-n">N phrase 名词短语</span></div>
         <div class="card-def">
-          仁义 (benevolence and righteousness) + 之 (attributive particle) + 师 (army; force; teacher). The classical designation for a military force whose campaign is morally legitimate — one fighting for a righteous cause, treating civilians and prisoners with 仁, and motivated by 义 rather than conquest or plunder. The phrase contrasts with armies that fight for 利 and whose conduct reflects that motivation. Still used in political and ceremonial speech to describe military forces framed as defensive or humanitarian.
+          仁义 (benevolence and righteousness) + 之 (attributive particle) + 师 (army; force; teacher). The classical designation for a military force whose campaign is morally legitimate , one fighting for a righteous cause, treating civilians and prisoners with 仁, and motivated by 义 rather than conquest or plunder. The phrase contrasts with armies that fight for 利 and whose conduct reflects that motivation. Still used in political and ceremonial speech to describe military forces framed as defensive or humanitarian.
         </div>
         <div class="examples">
           <div class="example">
@@ -384,12 +384,12 @@ content_review: 'pending'
           <div class="example">
             <div class="ex-cn">他被后人称为义士，因为他宁死不屈，不肯出卖同伴。</div>
             <div class="ex-py">Tā bèi hòurén chēng wéi yìshì, yīnwèi tā nìng sǐ bù qū, bù kěn chūmài tóngbàn.</div>
-            <div class="ex-en">Posterity called him a righteous person — he would rather die than yield and refused to betray his companions.</div>
+            <div class="ex-en">Posterity called him a righteous person , he would rather die than yield and refused to betray his companions.</div>
           </div>
           <div class="example">
             <div class="ex-cn">历史上不乏慷慨赴义的义士，他们的精神值得铭记。</div>
             <div class="ex-py">Lìshǐ shang bùfá kāngkǎi fù yì de yìshì, tāmen de jīngshén zhíde míngjì.</div>
-            <div class="ex-en">History is not short of righteous people who went willingly to death for a cause — their spirit deserves to be remembered.</div>
+            <div class="ex-en">History is not short of righteous people who went willingly to death for a cause , their spirit deserves to be remembered.</div>
           </div>
         </div>
       </div>
@@ -416,7 +416,7 @@ content_review: 'pending'
     <!-- RETENTION SCHOLAR BOX -->
     <div class="scholar" data-glyph="义" style="margin-top:2.5rem;">
       <div class="scholar-label">记忆法 jìyìfǎ · Retention Image</div>
-      <p>Mencius gave 义 its most durable image: 仁，人心也；义，人路也. The heart and the road. 仁 is what you feel; 义 is what you do with that feeling when a situation requires something from you. The two are inseparable — you cannot walk a road you cannot see, and you cannot find the road without the heart that cares which way to go.</p>
+      <p>Mencius gave 义 its most durable image: 仁，人心也；义，人路也. The heart and the road. 仁 is what you feel; 义 is what you do with that feeling when a situation requires something from you. The two are inseparable , you cannot walk a road you cannot see, and you cannot find the road without the heart that cares which way to go.</p>
       <p>The 义 vs. 利 tension is the practical test of this. Every situation of genuine ethical weight involves some version of the question: do you pursue what is right, or what benefits you? The Confucian answer is not that 利 is evil — it is that pursuing 义 first is the only reliable path to any sustainable good. Pursuing 利 directly unravels the conditions that make 利 worth having.</p>
       <p>义 is also a word that scales. In the individual it is the disposition to act rightly. In a friendship it is 义气 — the code of loyalty that defines what you owe to the people bound to you. In politics it is the difference between 起义 (a righteous uprising) and 叛乱 (treason). The same character, the same root claim: this is being done because it is right, not because it is easy or profitable. Whether that claim holds is always the question.</p>
     </div>

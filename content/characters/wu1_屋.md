@@ -104,9 +104,9 @@ content_sources:
 
     <div class="scholar" data-glyph="屋">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
-      <p><strong>屋 = 尸 shī</strong> (body — a person bent or lying, representing the human form) <strong>+ 至 zhì</strong> (to arrive). A person arriving at a place and staying — a <em>shelter into which one arrives and remains.</em> The 尸 radical is not about death; in its original form it represents a person crouching or at rest, and it recurs in characters about human habitation and posture: 居 jū (to dwell), 层 céng (floor/story), 尾 wěi (tail — the rear end of a body).</p>
-      <p>The distinction between 屋 wū and 房 fáng is subtle but real: 房 (a room, typically in a building) emphasizes walls and division; 屋 (a room or dwelling) emphasizes the whole shelter, the space one inhabits. In practice they overlap, but 屋 has a more intimate, complete quality — it is the whole of one's dwelling.</p>
-      <p>屋 appears in the name of this site: 角落<strong>書屋</strong> — the corner book-room. A small, complete dwelling for books and reading.</p>
+      <p><strong>屋 = 尸 shī</strong> (body , a person bent or lying, representing the human form) <strong>+ 至 zhì</strong> (to arrive). A person arriving at a place and staying , a <em>shelter into which one arrives and remains.</em> The 尸 radical is not about death; in its original form it represents a person crouching or at rest, and it recurs in characters about human habitation and posture: 居 jū (to dwell), 层 céng (floor/story), 尾 wěi (tail , the rear end of a body).</p>
+      <p>The distinction between 屋 wū and 房 fáng is subtle but real: 房 (a room, typically in a building) emphasizes walls and division; 屋 (a room or dwelling) emphasizes the whole shelter, the space one inhabits. In practice they overlap, but 屋 has a more intimate, complete quality , it is the whole of one's dwelling.</p>
+      <p>屋 appears in the name of this site: 角落<strong>書屋</strong> , the corner book-room. A small, complete dwelling for books and reading.</p>
     </div>
 
     <!-- ── ROOMS & SPACES ── -->
@@ -171,7 +171,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          屋 wū (dwelling) + 顶 dǐng (top; summit; to carry on the head). The roof — the top of a dwelling. 在屋顶上 = on the rooftop. Also used figuratively in the idiom 屋漏偏逢连夜雨.
+          屋 wū (dwelling) + 顶 dǐng (top; summit; to carry on the head). The roof , the top of a dwelling. 在屋顶上 = on the rooftop. Also used figuratively in the idiom 屋漏偏逢连夜雨.
         </div>
         <div class="examples">
           <div class="example">
@@ -210,7 +210,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          茅 máo (thatch grass) + 屋 wū (dwelling). A simple hut roofed with grass. The 茅屋 is a literary image of humble, virtuous poverty — the dwelling of the reclusive scholar or hermit. Du Fu's famous poem 茅屋为秋风所破歌 (My Thatched Roof Is Torn Apart by Autumn Wind) made this one of the most potent dwellings in Chinese literature.
+          茅 máo (thatch grass) + 屋 wū (dwelling). A simple hut roofed with grass. The 茅屋 is a literary image of humble, virtuous poverty , the dwelling of the reclusive scholar or hermit. Du Fu's famous poem 茅屋为秋风所破歌 (My Thatched Roof Is Torn Apart by Autumn Wind) made this one of the most potent dwellings in Chinese literature.
         </div>
         <div class="examples">
           <div class="example">
@@ -229,7 +229,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          小 xiǎo (small) + 屋 wū. A small dwelling — intimate, often cozy or rustic. In fiction and poetry, 小屋 carries warmth: a retreat, a nest, a place apart. In real estate, sometimes used lightly for a studio flat.
+          小 xiǎo (small) + 屋 wū. A small dwelling , intimate, often cozy or rustic. In fiction and poetry, 小屋 carries warmth: a retreat, a nest, a place apart. In real estate, sometimes used lightly for a studio flat.
         </div>
         <div class="examples">
           <div class="example">
@@ -253,7 +253,7 @@ content_sources:
 
     <div class="scholar" data-glyph="屋">
       <div class="scholar-label">斋号 zhāihào · The Scholar's Studio Name</div>
-      <p>A deep tradition in Chinese literary culture is the naming of one's study or studio — the 斋号 zhāihào or 书斋名. Scholars, poets, and painters gave their private workrooms evocative names, often ending in 屋, 斋, 楼, 轩, or 堂. The name expressed their aesthetic, philosophical identity, or aspirations.</p>
+      <p>A deep tradition in Chinese literary culture is the naming of one's study or studio , the 斋号 zhāihào or 书斋名. Scholars, poets, and painters gave their private workrooms evocative names, often ending in 屋, 斋, 楼, 轩, or 堂. The name expressed their aesthetic, philosophical identity, or aspirations.</p>
       <p>Examples: 苏轼 Su Shi called his studio 雪堂 (Snow Hall). 蒲松龄 Pu Songling worked in 聊斋 (Idle Studio) — giving his ghost story collection its name 聊斋志异. 鲁迅 Lu Xun worked in 三味书屋 (Three-Flavor Book House) as a boy — 三味 refers to the taste of reading poetry, history, and philosophy.</p>
       <p>This site follows the same tradition: <strong>角落書屋</strong> — the Corner Book-Room. A small named place where reading happens.</p>
     </div>

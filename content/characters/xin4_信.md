@@ -124,7 +124,7 @@ content_review: 'pending'
         </div>
         <div class="tags"><span class="tag tag-vn">V/N 动名词</span></div>
         <div class="card-def">
-          信 xìn (trustworthiness; to trust) + 任 rèn (to appoint; to entrust; to allow — 任 carries the sense of delegating responsibility to someone). To trust is to appoint a person as worthy of reliance. 信任危机 xìnrèn wéijī = a crisis of trust (institutional or personal). 建立信任 jiànlì xìnrèn = to build trust. 失去信任 shīqù xìnrèn = to lose trust. The compound is the standard, neutral word for trust in modern Chinese — used across personal, institutional, and diplomatic contexts.
+          信 xìn (trustworthiness; to trust) + 任 rèn (to appoint; to entrust; to allow , 任 carries the sense of delegating responsibility to someone). To trust is to appoint a person as worthy of reliance. 信任危机 xìnrèn wéijī = a crisis of trust (institutional or personal). 建立信任 jiànlì xìnrèn = to build trust. 失去信任 shīqù xìnrèn = to lose trust. The compound is the standard, neutral word for trust in modern Chinese , used across personal, institutional, and diplomatic contexts.
         </div>
         <div class="examples">
           <div class="example">
@@ -154,18 +154,18 @@ content_review: 'pending'
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          信 xìn (trustworthiness) + 用 yòng (use; to use; practical application). Trustworthiness made actionable — the record of a person or institution reliably standing by its commitments. 信用卡 xìnyòng kǎ = credit card. 信用评级 xìnyòng píngjí = credit rating. 失信 shīxìn = to break trust; to default (literally "to lose 信"). The Chinese social credit system (社会信用体系 shèhuì xìnyòng tǐxì) extends the logic of financial credit scoring into behavioral domains — a controversial application of the ancient virtue, and a reminder that 信 has always had an institutional as well as a personal dimension.
+          信 xìn (trustworthiness) + 用 yòng (use; to use; practical application). Trustworthiness made actionable , the record of a person or institution reliably standing by its commitments. 信用卡 xìnyòng kǎ = credit card. 信用评级 xìnyòng píngjí = credit rating. 失信 shīxìn = to break trust; to default (literally "to lose 信"). The Chinese social credit system (社会信用体系 shèhuì xìnyòng tǐxì) extends the logic of financial credit scoring into behavioral domains , a controversial application of the ancient virtue, and a reminder that 信 has always had an institutional as well as a personal dimension.
         </div>
         <div class="examples">
           <div class="example">
             <div class="ex-cn">他信用良好，银行很快批准了他的贷款。</div>
             <div class="ex-py">Tā xìnyòng liánghǎo, yínháng hěn kuài pīzhǔn le tā de dàikuǎn.</div>
-            <div class="ex-en">He has good credit — the bank approved his loan quickly.</div>
+            <div class="ex-en">He has good credit , the bank approved his loan quickly.</div>
           </div>
           <div class="example">
             <div class="ex-cn">做生意最重要的是讲信用，说话算数。</div>
             <div class="ex-py">Zuò shēngyi zuì zhòngyào de shì jiǎng xìnyòng, shuōhuà suàn shù.</div>
-            <div class="ex-en">The most important thing in business is keeping your word — what you say must count.</div>
+            <div class="ex-en">The most important thing in business is keeping your word , what you say must count.</div>
           </div>
           <div class="example">
             <div class="ex-cn">一旦失信于人，重建信用需要付出很大代价。</div>
@@ -184,13 +184,13 @@ content_review: 'pending'
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          诚 chéng (sincerity; genuine; true to one's heart — 诚 is itself 言 + 成 chéng, words that have been completed, words that have come to pass; sincerity as the alignment of word with reality) + 信 xìn (trustworthiness). The pairing of inner sincerity and outer reliability: 诚信 names the complete ethical profile — not merely being trustworthy in your external behavior (信) but being sincere in your inner intention (诚). 诚信经营 chéngxìn jīngyíng = operating a business in good faith. 诚信建设 chéngxìn jiànshè = integrity-building (a common phrase in governance and education contexts in China).
+          诚 chéng (sincerity; genuine; true to one's heart , 诚 is itself 言 + 成 chéng, words that have been completed, words that have come to pass; sincerity as the alignment of word with reality) + 信 xìn (trustworthiness). The pairing of inner sincerity and outer reliability: 诚信 names the complete ethical profile , not merely being trustworthy in your external behavior (信) but being sincere in your inner intention (诚). 诚信经营 chéngxìn jīngyíng = operating a business in good faith. 诚信建设 chéngxìn jiànshè = integrity-building (a common phrase in governance and education contexts in China).
         </div>
         <div class="examples">
           <div class="example">
             <div class="ex-cn">学术界要求研究者诚信对待数据，不得造假。</div>
             <div class="ex-py">Xuéshùjiè yāoqiú yánjiū zhě chéngxìn duìdài shùjù, bùdé zàojiǎ.</div>
-            <div class="ex-en">The academic world requires researchers to handle data with integrity — fabrication is forbidden.</div>
+            <div class="ex-en">The academic world requires researchers to handle data with integrity , fabrication is forbidden.</div>
           </div>
           <div class="example">
             <div class="ex-cn">诚信是中华传统美德之一，历代都受推崇。</div>
@@ -227,13 +227,13 @@ content_review: 'pending'
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          信 xìn (trustworthy word; communication) + 息 xī (breath; rest; news — 息 contains 自 zì, nose, over 心 xīn, heart: breath as the sign of life; by extension, news and tidings). A word that travels and carries meaning — information as a form of 信. 信息时代 xìnxī shídài = the information age. 信息安全 xìnxī ānquán = information security. In everyday speech, 信息 is the standard word for information, news updates, and data: 有什么信息？(Any news? What's the latest?). The compound connects ancient communication ethics to the modern data economy.
+          信 xìn (trustworthy word; communication) + 息 xī (breath; rest; news , 息 contains 自 zì, nose, over 心 xīn, heart: breath as the sign of life; by extension, news and tidings). A word that travels and carries meaning , information as a form of 信. 信息时代 xìnxī shídài = the information age. 信息安全 xìnxī ānquán = information security. In everyday speech, 信息 is the standard word for information, news updates, and data: 有什么信息？(Any news? What's the latest?). The compound connects ancient communication ethics to the modern data economy.
         </div>
         <div class="examples">
           <div class="example">
             <div class="ex-cn">我们正处于信息爆炸的时代，真假难辨。</div>
             <div class="ex-py">Wǒmen zhèng chǔyú xìnxī bàozhà de shídài, zhēn jiǎ nán biàn.</div>
-            <div class="ex-en">We are in an era of information explosion — truth and falsehood are hard to distinguish.</div>
+            <div class="ex-en">We are in an era of information explosion , truth and falsehood are hard to distinguish.</div>
           </div>
           <div class="example">
             <div class="ex-cn">请及时给我反馈相关信息。</div>
@@ -243,7 +243,7 @@ content_review: 'pending'
           <div class="example">
             <div class="ex-cn">个人信息要妥善保护，不要随便泄露。</div>
             <div class="ex-py">Gèrén xìnxī yào tuǒshàn bǎohù, bùyào suíbiàn xièlù.</div>
-            <div class="ex-en">Personal information must be properly protected — don't disclose it casually.</div>
+            <div class="ex-en">Personal information must be properly protected , don't disclose it casually.</div>
           </div>
         </div>
       </div>
@@ -263,17 +263,17 @@ content_review: 'pending'
           <div class="example">
             <div class="ex-cn">这里信号很差，电话打不通。</div>
             <div class="ex-py">Zhèlǐ xìnhào hěn chà, diànhuà dǎ bù tōng.</div>
-            <div class="ex-en">The signal is very bad here — the call won't go through.</div>
+            <div class="ex-en">The signal is very bad here , the call won't go through.</div>
           </div>
           <div class="example">
             <div class="ex-cn">他的行为是一个危险信号，我们应该警觉。</div>
             <div class="ex-py">Tā de xíngwéi shì yīgè wēixiǎn xìnhào, wǒmen yīnggāi jǐngjué.</div>
-            <div class="ex-en">His behavior is a danger signal — we should be alert.</div>
+            <div class="ex-en">His behavior is a danger signal , we should be alert.</div>
           </div>
           <div class="example">
             <div class="ex-cn">市场发出了积极的信号，投资者情绪有所好转。</div>
             <div class="ex-py">Shìchǎng fāchū le jījí de xìnhào, tóuzī zhě qíngxù yǒusuǒ hǎozhuǎn.</div>
-            <div class="ex-en">The market has sent positive signals — investor sentiment has improved somewhat.</div>
+            <div class="ex-en">The market has sent positive signals , investor sentiment has improved somewhat.</div>
           </div>
         </div>
       </div>
@@ -292,8 +292,8 @@ content_review: 'pending'
     <div class="scholar" data-glyph="信">
       <div class="scholar-label">学者洞见 xuézhě dòngjiàn · Scholar Note</div>
       <p>信 xìn as a noun meaning "letter" reveals something important about how the classical tradition understood writing. A letter is a word that travels, carrying the writer's commitment across distance and binding the sender to what they put on paper even when they are not present to defend or clarify it. The letter is 信 made physical: a person's word, preserved and delivered.</p>
-      <p>The compounds are telling: <strong>书信 shūxìn</strong> (classical formal letter — 书 shū is writing, text, book; the compound pairs the two words for written communication), <strong>信封 xìnfēng</strong> (envelope — the wrapper that holds the word), <strong>信纸 xìnzhǐ</strong> (letter paper), <strong>回信 huíxìn</strong> (to reply to a letter), <strong>写信 xiě xìn</strong> (to write a letter). The modern compound <strong>短信 duǎnxìn</strong> (text message — 短 duǎn, short + 信 xìn, word/letter) applies the classical sense directly to the mobile phone era: a short letter. 短信 is how the language mapped ancient epistolary ethics onto SMS.</p>
-      <p>The phrase 言而有信 — to have trust in one's words, to be as good as your word — is the chengyu that binds the epistolary and the ethical senses together most directly. Whether the word is spoken or written, the person of 信 stands by it.</p>
+      <p>The compounds are telling: <strong>书信 shūxìn</strong> (classical formal letter , 书 shū is writing, text, book; the compound pairs the two words for written communication), <strong>信封 xìnfēng</strong> (envelope , the wrapper that holds the word), <strong>信纸 xìnzhǐ</strong> (letter paper), <strong>回信 huíxìn</strong> (to reply to a letter), <strong>写信 xiě xìn</strong> (to write a letter). The modern compound <strong>短信 duǎnxìn</strong> (text message , 短 duǎn, short + 信 xìn, word/letter) applies the classical sense directly to the mobile phone era: a short letter. 短信 is how the language mapped ancient epistolary ethics onto SMS.</p>
+      <p>The phrase 言而有信 , to have trust in one's words, to be as good as your word , is the chengyu that binds the epistolary and the ethical senses together most directly. Whether the word is spoken or written, the person of 信 stands by it.</p>
     </div>
 
     <div class="cards">
@@ -306,7 +306,7 @@ content_review: 'pending'
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          短 duǎn (short; brief) + 信 xìn (word; letter; communication). A short letter. The compound maps the ancient sense of 信 as written communication directly to the mobile-phone era — there was no borrowing from English, no phonetic transcription, just a classical compound structure applied to a new technology. 发短信 fā duǎnxìn = to send a text. 回短信 huí duǎnxìn = to reply by text. Compare 邮件 yóujiàn (email — mail-item), 电报 diànbào (telegram — electric-report), 微信 Wēixìn (WeChat — micro-trust-word).
+          短 duǎn (short; brief) + 信 xìn (word; letter; communication). A short letter. The compound maps the ancient sense of 信 as written communication directly to the mobile-phone era , there was no borrowing from English, no phonetic transcription, just a classical compound structure applied to a new technology. 发短信 fā duǎnxìn = to send a text. 回短信 huí duǎnxìn = to reply by text. Compare 邮件 yóujiàn (email , mail-item), 电报 diànbào (telegram , electric-report), 微信 Wēixìn (WeChat , micro-trust-word).
         </div>
         <div class="examples">
           <div class="example">
@@ -347,11 +347,11 @@ content_review: 'pending'
 
     <div class="pattern">
       <span class="label">五常 wǔcháng · The Five Constant Virtues</span>
-      <strong><a href="../vocab/ren2_仁.html">仁 rén</a></strong> humaneness — the foundation; genuine care for others<br>
-      <strong><a href="yi4_义.html">义 yì</a></strong> righteousness — acting rightly on that care; moral courage<br>
-      <strong><a href="li3_礼.html">礼 lǐ</a></strong> ritual propriety — conducting relationships through correct form<br>
-      <strong><a href="zhi4_智.html">智 zhì</a></strong> wisdom — moral discernment; knowing what the right action is<br>
-      <strong>信 xìn</strong> trustworthiness — reliability in word and conduct; the ground of all others<br><br>
+      <strong><a href="../vocab/ren2_仁.html">仁 rén</a></strong> humaneness , the foundation; genuine care for others<br>
+      <strong><a href="yi4_义.html">义 yì</a></strong> righteousness , acting rightly on that care; moral courage<br>
+      <strong><a href="li3_礼.html">礼 lǐ</a></strong> ritual propriety , conducting relationships through correct form<br>
+      <strong><a href="zhi4_智.html">智 zhì</a></strong> wisdom , moral discernment; knowing what the right action is<br>
+      <strong>信 xìn</strong> trustworthiness , reliability in word and conduct; the ground of all others<br><br>
       信 completes the set. Without it, the other four virtues remain private; 信 is what makes them legible and effective in the world.
     </div>
 
@@ -370,14 +370,14 @@ content_review: 'pending'
         <span class="cy-cn">言而有信</span>
         <span class="cy-py">yán ér yǒu xìn</span>
         <span class="cy-en">to speak and be trustworthy — to be as good as one's word</span>
-        <span class="cy-note">言 yán (to speak; words) + 而 ér (and; then; connecting two qualities) + 有 yǒu (to have; to possess) + 信 xìn (trustworthiness). From the Analects (论语), Confucius's description of what makes a person worthy of being called a mature adult: 言必信，行必果 — "When you speak, be trustworthy; when you act, be decisive." 言而有信 is the condensed form: the quality of a person whose words reliably predict their actions. Used as a compliment (他这个人言而有信) and as a standard against which someone's behavior is measured.</span>
+        <span class="cy-note">言 yán (to speak; words) + 而 ér (and; then; connecting two qualities) + 有 yǒu (to have; to possess) + 信 xìn (trustworthiness). From the Analects (论语), Confucius's description of what makes a person worthy of being called a mature adult: 言必信，行必果 , "When you speak, be trustworthy; when you act, be decisive." 言而有信 is the condensed form: the quality of a person whose words reliably predict their actions. Used as a compliment (他这个人言而有信) and as a standard against which someone's behavior is measured.</span>
       </div>
 
       <div class="cy">
         <span class="cy-cn">信口开河</span>
         <span class="cy-py">xìn kǒu kāi hé</span>
         <span class="cy-en">to open the mouth like a river — to speak carelessly; to say whatever comes to mind without regard for truth</span>
-        <span class="cy-note">信 xìn here shifts sense: 信 kǒu = to trust one's mouth, to follow wherever the mouth goes (the archaic sense of 信 as "to follow freely"). 开河 kāi hé = to open a river, to let it flow unobstructed. The idiom describes speech that flows freely and unrestricted by concern for truth or consequence — rambling, boasting, making things up. Despite containing 信, the compound describes a failure of 信: the person who 信口开河 is precisely the person whose words cannot be trusted. A useful demonstration that context determines which sense of 信 is active.</span>
+        <span class="cy-note">信 xìn here shifts sense: 信 kǒu = to trust one's mouth, to follow wherever the mouth goes (the archaic sense of 信 as "to follow freely"). 开河 kāi hé = to open a river, to let it flow unobstructed. The idiom describes speech that flows freely and unrestricted by concern for truth or consequence , rambling, boasting, making things up. Despite containing 信, the compound describes a failure of 信: the person who 信口开河 is precisely the person whose words cannot be trusted. A useful demonstration that context determines which sense of 信 is active.</span>
       </div>
 
       <div class="cy">

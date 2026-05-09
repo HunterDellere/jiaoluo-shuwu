@@ -57,7 +57,7 @@ pinyin: 'de huà'
       <span class="topic-hero-eyebrow">Grammar · 语法 yǔfǎ</span>
       <h1 class="topic-hero-title">的话</h1>
       <span class="topic-hero-title-py">de huà</span>
-      <p class="topic-hero-desc">A two-character phrase placed at the end of a condition clause — the most flexible and colloquial way to say "if" in Mandarin.</p>
+      <p class="topic-hero-desc">A two-character phrase placed at the end of a condition clause , the most flexible and colloquial way to say "if" in Mandarin.</p>
     </header>
 
     <span class="section-anchor" id="overview"></span>
@@ -126,7 +126,7 @@ pinyin: 'de huà'
         </div>
         <div class="note">
           <span class="note-label">语法 yǔfǎ · The Role of 就</span>
-          就 jiù frequently appears in the result clause — it functions as a logical connector: "then; in that case." 如果/的话… 就 is one of the most common conditional pairs in Mandarin. But 就 is not obligatory — the conditional meaning is clear from 的话 alone.
+          就 jiù frequently appears in the result clause , it functions as a logical connector: "then; in that case." 如果/的话… 就 is one of the most common conditional pairs in Mandarin. But 就 is not obligatory , the conditional meaning is clear from 的话 alone.
         </div>
       </div>
 
@@ -142,7 +142,7 @@ pinyin: 'de huà'
 
     <div class="pattern">
       <span class="label">条件词搭配 tiáojiàn cí dāpèi · Conditional Pairing Patterns</span>
-      <strong>如果…的话,…就…</strong> — formal/neutral: If… then…<br>
+      <strong>如果…的话,…就…</strong> , formal/neutral: If… then…<br>
       <strong>要是…的话,…就…</strong> — more colloquial, slightly warmer register<br>
       <strong>假如…的话,…就…</strong> — formal, hypothetical register<br>
       <strong>Clause + 的话</strong> — 的话 alone, most conversational

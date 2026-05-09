@@ -64,7 +64,7 @@ pinyin: 'zhuànkè'
       <span class="topic-hero-eyebrow">Arts &amp; Literature · 艺文 yìwén</span>
       <h1 class="topic-hero-title">篆刻</h1>
       <span class="topic-hero-title-py">zhuàn kè</span>
-      <p class="topic-hero-desc">The art of the name — bronze to stone, dynasty to dynasty, two schools of carvers, and the small red square that authenticates everything.</p>
+      <p class="topic-hero-desc">The art of the name , bronze to stone, dynasty to dynasty, two schools of carvers, and the small red square that authenticates everything.</p>
     </header>
 
     <span class="section-anchor" id="history"></span>
@@ -146,15 +146,15 @@ pinyin: 'zhuànkè'
     <div class="cards">
       <div class="card c-ochre">
         <div class="card-head">朱文 zhūwén · Red Writing</div>
-        <p>Positive seal carving — the ground is cut away, leaving the characters raised. When inked in vermilion and impressed, the characters print in red on white paper. The most common form of personal name and leisure seals. Creates a lighter, more open visual impression than white writing.</p>
+        <p>Positive seal carving , the ground is cut away, leaving the characters raised. When inked in vermilion and impressed, the characters print in red on white paper. The most common form of personal name and leisure seals. Creates a lighter, more open visual impression than white writing.</p>
       </div>
       <div class="card c-teal">
         <div class="card-head">白文 báiwén · White Writing</div>
-        <p>Negative seal carving — the characters themselves are cut into the stone, so that when inked and impressed, the characters print in white (the color of the paper) against a red ground. Creates a denser, more solid visual impression. Official seals are traditionally white writing.</p>
+        <p>Negative seal carving , the characters themselves are cut into the stone, so that when inked and impressed, the characters print in white (the color of the paper) against a red ground. Creates a denser, more solid visual impression. Official seals are traditionally white writing.</p>
       </div>
       <div class="card c-sienna">
         <div class="card-head">闲章 xiánzhāng · Leisure Seal</div>
-        <p>Studio or phrase seal — carries a text of the artist's choosing, typically a poem line, a literary reference, or an aesthetic statement rather than a name. The most personal and expressive category of seal, where the carver has maximum freedom of both text choice and design. Essentially a small artist's statement in carved form.</p>
+        <p>Studio or phrase seal , carries a text of the artist's choosing, typically a poem line, a literary reference, or an aesthetic statement rather than a name. The most personal and expressive category of seal, where the carver has maximum freedom of both text choice and design. Essentially a small artist's statement in carved form.</p>
       </div>
       <div class="card c-violet">
         <div class="card-head">寿山石 shòushān shí · Soapstone</div>
@@ -173,15 +173,15 @@ pinyin: 'zhuànkè'
     <div class="cards">
       <div class="card c-ochre">
         <div class="card-head"><span class="tag-n">n</span> 小篆 xiǎozhuàn</div>
-        <p>Lesser Seal Script — standardized by the Qin minister Li Si as part of the First Emperor's unification project. Characterized by even-weight strokes, systematic construction, and balanced proportions. The foundation of the classical seal aesthetic and the primary script taught in seal-carving instruction.</p>
+        <p>Lesser Seal Script , standardized by the Qin minister Li Si as part of the First Emperor's unification project. Characterized by even-weight strokes, systematic construction, and balanced proportions. The foundation of the classical seal aesthetic and the primary script taught in seal-carving instruction.</p>
       </div>
       <div class="card c-teal">
         <div class="card-head"><span class="tag-n">n</span> 大篆 dàzhuàn</div>
-        <p>Greater Seal Script — the broad category encompassing the varied script forms of the Zhou dynasty bronze inscriptions, Stone Drum text, and oracle bone script. More organically varied than the standardized 小篆; its regional diversity gives seal carvers who work in this style a wider range of graphic possibilities.</p>
+        <p>Greater Seal Script , the broad category encompassing the varied script forms of the Zhou dynasty bronze inscriptions, Stone Drum text, and oracle bone script. More organically varied than the standardized 小篆; its regional diversity gives seal carvers who work in this style a wider range of graphic possibilities.</p>
       </div>
       <div class="card c-sienna">
         <div class="card-head"><span class="tag-n">n</span> 印泥 yìnní</div>
-        <p>Seal paste — the vermilion medium used to ink seals. Made from cinnabar 朱砂 (mercuric sulfide), sesame oil, and mugwort fiber. The highest-quality seal paste is made in Zhangzhou, Fujian. The deep red of a well-inked seal impression on white paper — called 印红 yìn hóng — is one of the most distinctive visual elements of Chinese calligraphy and painting.</p>
+        <p>Seal paste , the vermilion medium used to ink seals. Made from cinnabar 朱砂 (mercuric sulfide), sesame oil, and mugwort fiber. The highest-quality seal paste is made in Zhangzhou, Fujian. The deep red of a well-inked seal impression on white paper , called 印红 yìn hóng — is one of the most distinctive visual elements of Chinese calligraphy and painting.</p>
       </div>
       <div class="card c-violet">
         <div class="card-head"><span class="tag-n">n</span> 金石学 jīnshí xué</div>

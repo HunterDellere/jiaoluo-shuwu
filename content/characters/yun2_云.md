@@ -97,7 +97,7 @@ content_review: 'pending'
     <div class="scholar" data-glyph="雲">
       <div class="scholar-label">simplified ← archaic; traditional ← elaborated</div>
       <p>云 is one of the few simplified characters that is genuinely older than its traditional counterpart. The oracle bone form of cloud was already 云: two curved lines rising from a horizontal base, a direct sketch of cumulus clouds piling up in the sky. This form persisted for centuries as both "cloud" and "to say" (classical Chinese used 云曰 yún yuē together in quotation formulas).</p>
-      <p>When the two meanings needed to be distinguished in formal writing, scribes added 雨 (rain radical) to the top of the cloud drawing to create 雲 — a cloud that was specifically a weather phenomenon, not a verb of speech. That elaborated form became the traditional standard. The 20th-century simplification campaign selected the original, pre-elaboration form 云 for modern use, a rare case of simplification recovering antiquity rather than creating it.</p>
+      <p>When the two meanings needed to be distinguished in formal writing, scribes added 雨 (rain radical) to the top of the cloud drawing to create 雲 , a cloud that was specifically a weather phenomenon, not a verb of speech. That elaborated form became the traditional standard. The 20th-century simplification campaign selected the original, pre-elaboration form 云 for modern use, a rare case of simplification recovering antiquity rather than creating it.</p>
       <p>The classical verb use (子曰, 诗云 "the odes say," 古人云 "as the ancients said") is frozen in literary set phrases and remains in educated Chinese as a formal quotation marker. Contemporary speakers do not use 云 as a verb in everyday speech, but they encounter it constantly in classical quotations, proverbs, and literary titles.</p>
       <p>In Japanese, 雲 (kumo) is the standard form for cloud, and the archaic 云 (also kumo or i) appears mainly in classical texts and proper names. In Korean, 운 (un) carries the same range: cloud and the classical "to say."</p>
     </div>
@@ -132,7 +132,7 @@ content_review: 'pending'
           <span class="card-py">duō yún</span>
           <span class="card-en">cloudy (weather forecast)</span>
         </div>
-        <p class="card-def">多 (many) + 云 (cloud). The standard weather forecast term for "cloudy," appearing on every Chinese weather app and in daily forecasts. 多云转晴 (duō yún zhuǎn qíng) means "cloudy turning clear" — a full weather narrative in four characters.</p>
+        <p class="card-def">多 (many) + 云 (cloud). The standard weather forecast term for "cloudy," appearing on every Chinese weather app and in daily forecasts. 多云转晴 (duō yún zhuǎn qíng) means "cloudy turning clear" , a full weather narrative in four characters.</p>
       </div>
       <div class="card c-red">
         <div class="tags"><span class="tag tag-n">n</span></div>
@@ -145,7 +145,7 @@ content_review: 'pending'
         <div class="examples">
           <span class="ex-cn">乌云密布，快要下雨了。</span>
           <span class="ex-py">Wūyún mì bù, kuài yào xià yǔ le.</span>
-          <span class="ex-en">Dark clouds are massing — it's about to rain.</span>
+          <span class="ex-en">Dark clouds are massing , it's about to rain.</span>
         </div>
       </div>
       <div class="card c-violet">
@@ -168,7 +168,7 @@ content_review: 'pending'
     </div>
 
     <div class="scholar" data-glyph="曰">
-      <div class="scholar-label">古人云 gǔrén yún — as the ancients said</div>
+      <div class="scholar-label">古人云 gǔrén yún , as the ancients said</div>
       <p>Before 雨 was added to create 雲 for "cloud," the single form 云 carried both meanings: the weather phenomenon and the act of saying. Classical Chinese texts use 云 as a quotation verb: 诗云 (shī yún, "the Odes say"), 古人云 (gǔrén yún, "as the ancients said"), 子云 (zǐ yún, "the Master said," a variant of the more famous 子曰). This use is now restricted to set phrases and classical quotation formulas; it does not appear in contemporary speech.</p>
       <p>The confusion of these two words by later generations who encountered the single character without context led directly to the addition of the 雨 radical. The elaboration was a disambiguation tool. Modern learners who see 云 in a classical text and wonder whether it means "cloud" or "said" can usually resolve it from surrounding grammar: 云 as "to say" almost always follows a subject or precedes a quotation.</p>
     </div>
@@ -185,14 +185,14 @@ content_review: 'pending'
       <div class="cy">
         <div class="cy-cn">行云流水</div>
         <div class="cy-py">xíng yún liú shuǐ</div>
-        <div class="cy-en">"moving clouds, flowing water" — effortlessly fluid execution</div>
-        <div class="cy-note">The highest praise for natural, unforced skill — in calligraphy, music, speech, or movement. Clouds that drift without effort, water that runs without being pushed. Su Shi used related imagery to describe the ideal prose style: writing that moves to where it naturally goes, stops where it naturally stops. Now applied across domains wherever someone performs with complete ease.</div>
+        <div class="cy-en">"moving clouds, flowing water" , effortlessly fluid execution</div>
+        <div class="cy-note">The highest praise for natural, unforced skill , in calligraphy, music, speech, or movement. Clouds that drift without effort, water that runs without being pushed. Su Shi used related imagery to describe the ideal prose style: writing that moves to where it naturally goes, stops where it naturally stops. Now applied across domains wherever someone performs with complete ease.</div>
       </div>
       <div class="cy">
         <div class="cy-cn">腾云驾雾</div>
         <div class="cy-py">téng yún jià wù</div>
-        <div class="cy-en">"rising on clouds, riding mist" — flying through the supernatural air</div>
-        <div class="cy-note">A phrase from the world of xianxia (immortal hero) fiction and traditional mythology — the ability of immortals and gods to travel through the sky. Used figuratively for being in a dazed or dreamlike state, as if floating above the ground. 晕头转向，腾云驾雾一般 — "dizzy and disoriented, as if riding clouds and mist."</div>
+        <div class="cy-en">"rising on clouds, riding mist" , flying through the supernatural air</div>
+        <div class="cy-note">A phrase from the world of xianxia (immortal hero) fiction and traditional mythology , the ability of immortals and gods to travel through the sky. Used figuratively for being in a dazed or dreamlike state, as if floating above the ground. 晕头转向，腾云驾雾一般 — "dizzy and disoriented, as if riding clouds and mist."</div>
       </div>
       <div class="cy">
         <div class="cy-cn">云消雾散</div>

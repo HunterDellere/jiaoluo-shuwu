@@ -169,7 +169,7 @@ sources:
           <div class="example">
             <div class="ex-cn">开门见山。</div>
             <div class="ex-py">Kāi mén jiàn shān.</div>
-            <div class="ex-en">"Open the door and see the mountain" — speak directly, get to the point.</div>
+            <div class="ex-en">"Open the door and see the mountain" , speak directly, get to the point.</div>
           </div>
         </div>
       </div>
@@ -205,9 +205,9 @@ sources:
       <p>开 attaches to many verbs to mean "begin doing." The most general is the standalone compound 开始 (kāishǐ, to begin), which behaves like a regular verb and takes a verbal object:</p>
       <p><code>Subject + 开始 + Verb-Phrase</code></p>
       <ul>
-        <li>我们开始上课。(Wǒmen kāishǐ shàngkè.) — Let's begin class.</li>
-        <li>她开始学中文了。(Tā kāishǐ xué Zhōngwén le.) — She has started studying Chinese.</li>
-        <li>从明天开始，我每天跑步。(Cóng míngtiān kāishǐ, wǒ měi tiān pǎobù.) — Starting tomorrow, I run every day.</li>
+        <li>我们开始上课。(Wǒmen kāishǐ shàngkè.) , Let's begin class.</li>
+        <li>她开始学中文了。(Tā kāishǐ xué Zhōngwén le.) , She has started studying Chinese.</li>
+        <li>从明天开始，我每天跑步。(Cóng míngtiān kāishǐ, wǒ měi tiān pǎobù.) , Starting tomorrow, I run every day.</li>
       </ul>
       <p>开始 also works as a noun ("the beginning"): 一切的开始 (yíqiè de kāishǐ, "the beginning of everything"). The 始 (shǐ, "begin") on its own is classical and bookish; 开始 is the modern, neutral way to say start.</p>
     </div>
@@ -229,7 +229,7 @@ sources:
           <span class="card-py">kāi xué</span>
           <span class="card-en">school starts; the start of term</span>
         </div>
-        <p class="card-def">The verb that organizes the academic calendar. 九月一号开学 (Jiǔ yuè yī hào kāi xué) — "Term starts September 1." The opposite is 放假 (fàngjià), to "release on holiday."</p>
+        <p class="card-def">The verb that organizes the academic calendar. 九月一号开学 (Jiǔ yuè yī hào kāi xué) , "Term starts September 1." The opposite is 放假 (fàngjià), to "release on holiday."</p>
       </div>
       <div class="card c-red">
         <div class="tags"><span class="tag tag-v">v</span></div>
@@ -266,7 +266,7 @@ sources:
           <span class="card-py">kāi chē</span>
           <span class="card-en">to drive (a car)</span>
         </div>
-        <p class="card-def">The default verb for driving. 我会开车 (Wǒ huì kāi chē) — "I can drive." 开车去 (kāi chē qù) — "drive there." Modern slang has reclaimed 开车 to mean "to tell a risqué story": starting the engine of a conversation that is heading somewhere off-color. Context disambiguates instantly.</p>
+        <p class="card-def">The default verb for driving. 我会开车 (Wǒ huì kāi chē) , "I can drive." 开车去 (kāi chē qù) , "drive there." Modern slang has reclaimed 开车 to mean "to tell a risqué story": starting the engine of a conversation that is heading somewhere off-color. Context disambiguates instantly.</p>
         <div class="examples">
           <div class="example">
             <div class="ex-cn">他开车送我回家。</div>
@@ -282,7 +282,7 @@ sources:
           <span class="card-py">kāi huì</span>
           <span class="card-en">to hold a meeting; to attend a meeting</span>
         </div>
-        <p class="card-def">The verb works in both directions: the chair "opens" the meeting and the participants "go to" it. 我下午有会要开 (Wǒ xiàwǔ yǒu huì yào kāi) — "I have a meeting this afternoon." 开了一个会 (kāi le yí ge huì) — "had a meeting."</p>
+        <p class="card-def">The verb works in both directions: the chair "opens" the meeting and the participants "go to" it. 我下午有会要开 (Wǒ xiàwǔ yǒu huì yào kāi) , "I have a meeting this afternoon." 开了一个会 (kāi le yí ge huì) , "had a meeting."</p>
       </div>
       <div class="card c-ochre">
         <div class="tags"><span class="tag tag-v">v</span></div>
@@ -291,7 +291,7 @@ sources:
           <span class="card-py">kāi jī</span>
           <span class="card-en">to power on (a device); to start filming</span>
         </div>
-        <p class="card-def">机 (jī, machine). Two registers. Everyday: turn on a phone, computer, or appliance. Film industry: the first day of shooting on a production. 今天电影开机 (Jīntiān diànyǐng kāi jī) — "the film starts shooting today." Closing the device is 关机 (guān jī).</p>
+        <p class="card-def">机 (jī, machine). Two registers. Everyday: turn on a phone, computer, or appliance. Film industry: the first day of shooting on a production. 今天电影开机 (Jīntiān diànyǐng kāi jī) , "the film starts shooting today." Closing the device is 关机 (guān jī).</p>
       </div>
     </div>
 
@@ -312,7 +312,7 @@ sources:
           <span class="card-py">kāi huā</span>
           <span class="card-en">to bloom; to flower</span>
         </div>
-        <p class="card-def">Literal for plants: 樱花开了 (Yīnghuā kāi le) — "the cherry blossoms have opened." Figurative for any breakthrough or visible result: 努力开花结果 (nǔlì kāi huā jié guǒ) — "effort blossoms and bears fruit."</p>
+        <p class="card-def">Literal for plants: 樱花开了 (Yīnghuā kāi le) , "the cherry blossoms have opened." Figurative for any breakthrough or visible result: 努力开花结果 (nǔlì kāi huā jié guǒ) , "effort blossoms and bears fruit."</p>
       </div>
       <div class="card c-teal">
         <div class="tags"><span class="tag tag-vn">v/adj</span></div>
@@ -337,7 +337,7 @@ sources:
           <span class="card-py">kāi xīn</span>
           <span class="card-en">happy; cheerful (lit. "open-hearted")</span>
         </div>
-        <p class="card-def">心 (xīn, heart/mind). The image is the heart "opening": letting in light, letting out joy. Distinct from 高兴 (gāoxìng, pleased about a particular thing): 开心 is the more sustained, atmospheric kind of happiness. 玩得很开心 (wán de hěn kāi xīn) — "had a great time."</p>
+        <p class="card-def">心 (xīn, heart/mind). The image is the heart "opening": letting in light, letting out joy. Distinct from 高兴 (gāoxìng, pleased about a particular thing): 开心 is the more sustained, atmospheric kind of happiness. 玩得很开心 (wán de hěn kāi xīn) , "had a great time."</p>
       </div>
     </div>
 
@@ -351,15 +351,15 @@ sources:
     </div>
 
     <div class="pattern">
-      <span class="label">开 / 关 — the universal switch pair</span>
+      <span class="label">开 / 关 , the universal switch pair</span>
       <p>关 (guān, to close, to shut) is the inverse of 开 across nearly the whole semantic range. Every device that 开 turns on, 关 turns off. Every door that 开 opens, 关 shuts.</p>
       <ul>
-        <li>开门 / 关门 — open the door / close the door</li>
-        <li>开灯 / 关灯 — turn on the light / turn off the light</li>
-        <li>开电视 / 关电视 — turn on the TV / turn off the TV</li>
-        <li>开机 / 关机 — power on / power off</li>
-        <li>开学 / 放假 — term starts / term ends (here the opposite is 放假, not 关学)</li>
-        <li>开会 / 散会 — meeting starts / meeting ends (the opposite is 散会, lit. "the meeting disperses")</li>
+        <li>开门 / 关门 , open the door / close the door</li>
+        <li>开灯 / 关灯 , turn on the light / turn off the light</li>
+        <li>开电视 / 关电视 , turn on the TV / turn off the TV</li>
+        <li>开机 / 关机 , power on / power off</li>
+        <li>开学 / 放假 , term starts / term ends (here the opposite is 放假, not 关学)</li>
+        <li>开会 / 散会 , meeting starts / meeting ends (the opposite is 散会, lit. "the meeting disperses")</li>
       </ul>
       <p>The pattern is not perfectly symmetric. For physical switches the 开/关 pair is exact. For events that begin and end, modern Chinese tends to reach for a different verb of ending: 结束 (jiéshù, conclude), 散 (sàn, disperse), 放 (fàng, release). 关 keeps to the literal closing of doors, gates, valves, and circuits.</p>
     </div>
@@ -377,7 +377,7 @@ sources:
       <div class="cy">
         <div class="cy-cn">开门见山</div>
         <div class="cy-py">kāi mén jiàn shān</div>
-        <div class="cy-en">"open the door, see the mountain" — get straight to the point</div>
+        <div class="cy-en">"open the door, see the mountain" , get straight to the point</div>
         <div class="cy-note">A virtue in Chinese rhetoric: speak directly, no preamble, no throat-clearing. Used as praise of a writer or speaker who declines to circle the subject. The Tang poet 李白 was credited with this style; the phrase entered literary criticism through readers comparing his openings to the experience of stepping outside and finding a mountain right in front of you.</div>
       </div>
       <div class="cy">

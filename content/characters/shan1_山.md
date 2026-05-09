@@ -96,7 +96,7 @@ content_sources:
 
     <div class="scholar" data-glyph="山">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
-      <p><strong>山 shān</strong> is one of the purest pictographs in Chinese writing — three peaks rising from the earth, with the central peak tallest. The oracle-bone and bronze script forms are almost identical to the modern character: three vertical strokes, the middle slightly taller. You are looking at a silhouette of a mountain range as seen from a distance.</p>
+      <p><strong>山 shān</strong> is one of the purest pictographs in Chinese writing , three peaks rising from the earth, with the central peak tallest. The oracle-bone and bronze script forms are almost identical to the modern character: three vertical strokes, the middle slightly taller. You are looking at a silhouette of a mountain range as seen from a distance.</p>
       <p>Mountain is also among the most productive radicals in Chinese: 岛 dǎo (island, a mountain in water), 岩 yán (cliff; rock), 峰 fēng (peak; summit), 峡 xiá (gorge; strait), 崇 chóng (to revere; lofty; originally a tall mountain with an ancestor tablet), 崩 bēng (to collapse, a mountain falling). The radical appears in hundreds of characters relating to height, terrain, and reverence.</p>
       <p>In classical Chinese geography, mountains were <em>axes.</em> They were where Heaven and Earth met, where the emperor offered sacrifices, and where hermits and monks went to cultivate wisdom.</p>
     </div>
@@ -112,11 +112,11 @@ content_sources:
     <div class="scholar" data-glyph="山">
       <div class="scholar-label">文化洞见 wénhuà dòngjiàn · Cultural Note</div>
       <p>The <strong>五岳 Wǔ Yuè</strong> (Five Sacred Peaks) define the ritual geography of China, each guarding one of the five cardinal directions (including center). Emperors sent offerings or climbed them personally to legitimate their rule:</p>
-      <p><strong>东岳</strong> Dōng Yuè — 泰山 Tài Shān (Mount Tai, Shandong) · The most sacred of all, site of the 封禅 fēngshàn sacrificial rite. Saying 稳如泰山 "stable as Mount Tai" is the highest praise for steadiness.<br>
-      <strong>西岳</strong> Xī Yuè — 华山 Huà Shān (Mount Hua, Shaanxi) · Famous for vertical cliffs and Daoist temples; pilgrimage continues today.<br>
-      <strong>南岳</strong> Nán Yuè — 衡山 Héng Shān (Mount Heng, Hunan) · Associated with 寿 longevity; Buddhist and Daoist monasteries.<br>
-      <strong>北岳</strong> Běi Yuè — 恒山 Héng Shān (Mount Heng, Shanxi) · Hanging Temple 悬空寺 carved into the cliff face.<br>
-      <strong>中岳</strong> Zhōng Yuè — 嵩山 Sōng Shān (Mount Song, Henan) · Home of the Shaolin Temple 少林寺.</p>
+      <p><strong>东岳</strong> Dōng Yuè , 泰山 Tài Shān (Mount Tai, Shandong) · The most sacred of all, site of the 封禅 fēngshàn sacrificial rite. Saying 稳如泰山 "stable as Mount Tai" is the highest praise for steadiness.<br>
+      <strong>西岳</strong> Xī Yuè , 华山 Huà Shān (Mount Hua, Shaanxi) · Famous for vertical cliffs and Daoist temples; pilgrimage continues today.<br>
+      <strong>南岳</strong> Nán Yuè , 衡山 Héng Shān (Mount Heng, Hunan) · Associated with 寿 longevity; Buddhist and Daoist monasteries.<br>
+      <strong>北岳</strong> Běi Yuè , 恒山 Héng Shān (Mount Heng, Shanxi) · Hanging Temple 悬空寺 carved into the cliff face.<br>
+      <strong>中岳</strong> Zhōng Yuè , 嵩山 Sōng Shān (Mount Song, Henan) · Home of the Shaolin Temple 少林寺.</p>
     </div>
 
     <span class="section-anchor" id="compounds"></span>
@@ -156,7 +156,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          山 shān + 峰 fēng (peak — itself contains 山). The redundancy is expressive emphasis. Used literally (climbing a peak) and figuratively (事业的山峰 "the peak of one's career").
+          山 shān + 峰 fēng (peak , itself contains 山). The redundancy is expressive emphasis. Used literally (climbing a peak) and figuratively (事业的山峰 "the peak of one's career").
         </div>
         <div class="examples">
           <div class="example">

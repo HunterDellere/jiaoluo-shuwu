@@ -117,8 +117,8 @@ content_sources:
     <div class="scholar" data-glyph="家">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
       <p><strong>家 jiā = 宀 mián</strong> (the "crown" radical, representing shelter) <strong>+ 豕 shǐ</strong> (a pig). A roof with a pig under it: a home. In ancient China, pigs were kept under the same roof as the family. The pig was the domestic animal par excellence, the sign of a self-sustaining household. 家 thus encodes: shelter + livestock = the self-sufficient family unit. This is not metaphor; it is archaeology.</p>
-      <p>家 scales fractally. The household becomes the model for the state. Confucius taught: <strong>修身、齐家、治国、平天下</strong> — cultivate yourself → order your family → govern the state → bring peace to all under heaven. <strong>国家 guójiā</strong> (nation-state) = "country-family." In Chinese, the nation is literally the family scaled up. The compound structured centuries of governance, moral philosophy, and political expectation.</p>
-      <p>In Japanese: 家 is read <em>ka / ie / ya</em> — 家族 <em>kazoku</em> (family), 家 <em>ie</em> (house/home), 作家 <em>sakka</em> (writer, the same X+家 pattern as Chinese). The roof over the pig traveled intact across the sea, carrying its entire conceptual freight.</p>
+      <p>家 scales fractally. The household becomes the model for the state. Confucius taught: <strong>修身、齐家、治国、平天下</strong> , cultivate yourself → order your family → govern the state → bring peace to all under heaven. <strong>国家 guójiā</strong> (nation-state) = "country-family." In Chinese, the nation is literally the family scaled up. The compound structured centuries of governance, moral philosophy, and political expectation.</p>
+      <p>In Japanese: 家 is read <em>ka / ie / ya</em> , 家族 <em>kazoku</em> (family), 家 <em>ie</em> (house/home), 作家 <em>sakka</em> (writer, the same X+家 pattern as Chinese). The roof over the pig traveled intact across the sea, carrying its entire conceptual freight.</p>
     </div>
 
     <!-- ── FAMILY UNIT ── -->
@@ -170,7 +170,7 @@ content_sources:
         </div>
         <div class="note">
           <span class="note-label">语法 yǔfǎ · Grammar</span>
-          家 alone = "home/family." 家里 jiālǐ = "at home; inside the family." The full arc: 在家 zài jiā (to be at home — state) → 回家 huí jiā (going home — direction) → 到家 dào jiā (arrived home — completion). Note that 我家 wǒ jiā can mean both "my home" (location) and "my family" (people).
+          家 alone = "home/family." 家里 jiālǐ = "at home; inside the family." The full arc: 在家 zài jiā (to be at home , state) → 回家 huí jiā (going home , direction) → 到家 dào jiā (arrived home , completion). Note that 我家 wǒ jiā can mean both "my home" (location) and "my family" (people).
         </div>
       </div>
 
@@ -204,7 +204,7 @@ content_sources:
         </div>
         <div class="note">
           <span class="note-label">辨析 biànxī · Comparison</span>
-          家人 (intimate, spoken) vs. 家庭成员 jiātíng chéngyuán (formal, administrative) vs. 亲人 qīnrén (loved ones — emotionally charged, often used in contexts of loss or longing). In casual speech, 家人 is overwhelmingly preferred.
+          家人 (intimate, spoken) vs. 家庭成员 jiātíng chéngyuán (formal, administrative) vs. 亲人 qīnrén (loved ones , emotionally charged, often used in contexts of loss or longing). In casual speech, 家人 is overwhelmingly preferred.
         </div>
       </div>
 
@@ -238,7 +238,7 @@ content_sources:
         </div>
         <div class="note">
           <span class="note-label">词语 cíyǔ · Key Compounds</span>
-          家庭收入 jiātíng shōurù (household income) · 家庭背景 jiātíng bèijǐng (family background) · 家庭生活 jiātíng shēnghuó (family life) · 家庭作业 jiātíng zuòyè (homework — lit. "household work," a calque of the domestic-education link in Confucian thought).
+          家庭收入 jiātíng shōurù (household income) · 家庭背景 jiātíng bèijǐng (family background) · 家庭生活 jiātíng shēnghuó (family life) · 家庭作业 jiātíng zuòyè (homework , lit. "household work," a calque of the domestic-education link in Confucian thought).
         </div>
       </div>
 
@@ -272,7 +272,7 @@ content_sources:
         </div>
         <div class="note">
           <span class="note-label">辨析 biànxī · 家乡 vs. 故乡</span>
-          家乡 jiāxiāng = hometown (neutral, factual, common in speech). 故乡 gùxiāng = native land (literary, more emotionally charged — appears in poetry and formal writing). Both appear in Du Fu's famous line: 月是故乡明 (the moon is brightest over one's hometown).
+          家乡 jiāxiāng = hometown (neutral, factual, common in speech). 故乡 gùxiāng = native land (literary, more emotionally charged , appears in poetry and formal writing). Both appear in Du Fu's famous line: 月是故乡明 (the moon is brightest over one's hometown).
         </div>
       </div>
 
@@ -306,7 +306,7 @@ content_sources:
         </div>
         <div class="note">
           <span class="note-label">语法 yǔfǎ · Grammar</span>
-          The three-part arc: 回家 huí jiā (going home — direction) → 到家 dào jiā (arrived home — completion) → 在家 zài jiā (being at home — state). The distinction between 回 (return) and 去 (go) matters: 回家 carries the connotation of home as origin, not just destination.
+          The three-part arc: 回家 huí jiā (going home , direction) → 到家 dào jiā (arrived home , completion) → 在家 zài jiā (being at home , state). The distinction between 回 (return) and 去 (go) matters: 回家 carries the connotation of home as origin, not just destination.
         </div>
       </div>
 
@@ -393,7 +393,7 @@ content_sources:
         </div>
         <div class="note">
           <span class="note-label">辨析 biànxī · 大家 vs. 所有人 vs. 各位</span>
-          大家 = warm, inclusive, collective (the big family — most common in speech). 所有人 suǒyǒu rén = every person (neutral, often legal or administrative). 各位 gè wèi = honorable guests/colleagues (formal address, typically in written or ceremonial contexts). Learn 大家 first; it covers 90% of everyday usage.
+          大家 = warm, inclusive, collective (the big family , most common in speech). 所有人 suǒyǒu rén = every person (neutral, often legal or administrative). 各位 gè wèi = honorable guests/colleagues (formal address, typically in written or ceremonial contexts). Learn 大家 first; it covers 90% of everyday usage.
         </div>
       </div>
 
@@ -412,7 +412,7 @@ content_sources:
           <div class="example">
             <div class="ex-cn">都是自家人，不用客气。</div>
             <div class="ex-py">Dōu shì zìjiā rén, bù yòng kèqi.</div>
-            <div class="ex-en">We're all family here — no need to be polite.</div>
+            <div class="ex-en">We're all family here , no need to be polite.</div>
           </div>
           <div class="example">
             <div class="ex-cn">这是自家种的菜。</div>
@@ -529,7 +529,7 @@ content_sources:
         </div>
         <div class="note">
           <span class="note-label">辨析 biànxī · Comparison</span>
-          作家 (literary writer) vs. 记者 jìzhě (journalist) vs. 编辑 biānjí (editor) vs. 诗人 shīrén (poet — uses 人, not 家). Key pattern: 家 implies mastery of a creative discipline; 者 implies a professional role; 人 implies a more general personal identity.
+          作家 (literary writer) vs. 记者 jìzhě (journalist) vs. 编辑 biānjí (editor) vs. 诗人 shīrén (poet , uses 人, not 家). Key pattern: 家 implies mastery of a creative discipline; 者 implies a professional role; 人 implies a more general personal identity.
         </div>
       </div>
 
@@ -608,7 +608,7 @@ content_sources:
         </div>
         <div class="note">
           <span class="note-label">辨析 biànxī · 政治家 vs. 政客</span>
-          政治家 (statesman — dignified, has mastered governance) vs. 政客 zhèngkè (politician — often pejorative, implies self-interest). The 家 vs. 客 distinction is telling: 家 = someone who belongs here, has made this their home; 客 = a visitor, a temporary guest, someone who doesn't truly belong.
+          政治家 (statesman , dignified, has mastered governance) vs. 政客 zhèngkè (politician , often pejorative, implies self-interest). The 家 vs. 客 distinction is telling: 家 = someone who belongs here, has made this their home; 客 = a visitor, a temporary guest, someone who doesn't truly belong.
         </div>
       </div>
 
@@ -733,7 +733,7 @@ content_sources:
         </div>
         <div class="note">
           <span class="note-label">成语 chéngyǔ · Idiom</span>
-          <strong>家常便饭</strong> jiācháng biànfàn — literally "homestyle convenient meal"; figuratively "everyday occurrence; nothing special." One of the most useful idioms in the 家 family. 这种事已经是家常便饭了 = "This sort of thing is routine now."
+          <strong>家常便饭</strong> jiācháng biànfàn , literally "homestyle convenient meal"; figuratively "everyday occurrence; nothing special." One of the most useful idioms in the 家 family. 这种事已经是家常便饭了 = "This sort of thing is routine now."
         </div>
       </div>
 
@@ -821,7 +821,7 @@ content_sources:
         </div>
         <div class="note">
           <span class="note-label">成语 chéngyǔ · Set Phrase</span>
-          <strong>成家立业</strong> chéngjiā lìyè — "start a family and establish a career." The two milestones of adult life in traditional Chinese culture, stated in their expected order. The family comes first; the career is built to support it.
+          <strong>成家立业</strong> chéngjiā lìyè , "start a family and establish a career." The two milestones of adult life in traditional Chinese culture, stated in their expected order. The family comes first; the career is built to support it.
         </div>
       </div>
 
@@ -928,7 +928,7 @@ content_sources:
         <span class="cy-cn">四海为家</span>
         <span class="cy-py">sì hǎi wéi jiā</span>
         <span class="cy-en">to make one's home in all four seas — at home anywhere; cosmopolitan; rootless wandering</span>
-        <span class="cy-note">四海 = the four seas = everywhere under heaven. 为 = to treat as; to make into. The whole globe is one's household. Used for travelers, exiles, and those rootlessly at ease anywhere. Both admiring (cosmopolitan freedom) and elegiac (loss of fixed roots) — depending on context.</span>
+        <span class="cy-note">四海 = the four seas = everywhere under heaven. 为 = to treat as; to make into. The whole globe is one's household. Used for travelers, exiles, and those rootlessly at ease anywhere. Both admiring (cosmopolitan freedom) and elegiac (loss of fixed roots) , depending on context.</span>
       </div>
 
     </div>

@@ -41,7 +41,7 @@ content_sources:
       <span class="topic-hero-eyebrow">Vocab · Grammar · 词汇语法</span>
       <h1 class="topic-hero-title">比较</h1>
       <span class="topic-hero-title-py">bǐjiào</span>
-      <p class="topic-hero-desc">To compare — and to qualify. 比较 functions as both a verb (comparing two things) and an adverb (softening a claim: "fairly," "relatively," "rather"). Mastering both uses unlocks a key dimension of natural Mandarin.</p>
+      <p class="topic-hero-desc">To compare , and to qualify. 比较 functions as both a verb (comparing two things) and an adverb (softening a claim: "fairly," "relatively," "rather"). Mastering both uses unlocks a key dimension of natural Mandarin.</p>
     </header>
 
     <span class="section-anchor" id="etymology"></span>
@@ -49,8 +49,8 @@ content_sources:
 
     <div class="scholar" data-glyph="比">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
-      <p><strong>比 bǐ</strong> — two people standing side by side (the oracle bone form shows two matching human figures). The original meaning: to stand next to, to be aligned, to compare. Extended meanings: ratio (比例), for example (比如), score (比分). The side-by-side posture gives the character its core sense: comparison requires proximity.</p>
-      <p><strong>较 jiào</strong> — 车 chē (chariot) + 交 jiāo (to cross; to intersect). Originally referred to the axle or hitch of a chariot, things that cross and connect. Extended to: to compare, to contend, to calculate. Together, 比较 = to stand beside and measure, comparison as both physical proximity and calculated difference.</p>
+      <p><strong>比 bǐ</strong> , two people standing side by side (the oracle bone form shows two matching human figures). The original meaning: to stand next to, to be aligned, to compare. Extended meanings: ratio (比例), for example (比如), score (比分). The side-by-side posture gives the character its core sense: comparison requires proximity.</p>
+      <p><strong>较 jiào</strong> , 车 chē (chariot) + 交 jiāo (to cross; to intersect). Originally referred to the axle or hitch of a chariot, things that cross and connect. Extended to: to compare, to contend, to calculate. Together, 比较 = to stand beside and measure, comparison as both physical proximity and calculated difference.</p>
     </div>
 
     <span class="section-anchor" id="verb"></span>

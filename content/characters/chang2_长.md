@@ -126,7 +126,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 专名 zhuānmíng proper noun</span></div>
         <div class="card-def">
-          长 cháng (long) + 城 chéng (city wall). The most famous structure in China — called 长城 "long wall," not 大墙 "great wall" — its defining characteristic is extent across thousands of kilometers. Construction spanned multiple dynasties from the Qin (221 BCE) onward. 不到长城非好汉 bú dào Chángchéng fēi hǎohàn: "He who has not climbed the Great Wall is not a hero" (Mao Zedong).
+          长 cháng (long) + 城 chéng (city wall). The most famous structure in China , called 长城 "long wall," not 大墙 "great wall" , its defining characteristic is extent across thousands of kilometers. Construction spanned multiple dynasties from the Qin (221 BCE) onward. 不到长城非好汉 bú dào Chángchéng fēi hǎohàn: "He who has not climbed the Great Wall is not a hero" (Mao Zedong).
         </div>
         <div class="examples">
           <div class="example">
