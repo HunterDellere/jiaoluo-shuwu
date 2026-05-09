@@ -77,6 +77,11 @@
       <div class="today-hero-meta">
         <span class="topic-hero-eyebrow">今日 jīnrì · <span data-today-date-long>Today</span></span>
         <h1 class="topic-hero-title">Today's reading</h1>
+        <div class="today-date-stamp" data-today-cn-date aria-hidden="true">
+          <span class="tds-year"></span>
+          <span class="tds-md"></span>
+          <span class="tds-dow"></span>
+        </div>
         <p class="today-greeting" data-today-greeting>—</p>
         <p class="topic-hero-desc">One character, one word, one grammar point, one chengyu. Picks rotate at UTC midnight.</p>
       </div>
@@ -88,40 +93,44 @@
     </header>
 
     <span class="section-anchor" id="today-character"></span>
-    <div class="section-head today-section-head">
+    <div class="section-head today-section-head" data-ord="1">
+      <span class="today-ord" aria-hidden="true">一</span>
       <span class="sh-cn">字</span>
       <span class="sh-py">zì</span>
-      <span class="sh-en">Character</span>
+      <span class="sh-en">Character of the day</span>
     </div>
     <div class="cards today-cards" data-today-slot="character">
       <div class="card c-red today-skeleton">Loading…</div>
     </div>
 
     <span class="section-anchor" id="today-vocab"></span>
-    <div class="section-head today-section-head">
+    <div class="section-head today-section-head" data-ord="2">
+      <span class="today-ord" aria-hidden="true">二</span>
       <span class="sh-cn">词</span>
       <span class="sh-py">cí</span>
-      <span class="sh-en">Word</span>
+      <span class="sh-en">Word of the day</span>
     </div>
     <div class="cards today-cards" data-today-slot="vocab">
       <div class="card c-teal today-skeleton">Loading…</div>
     </div>
 
     <span class="section-anchor" id="today-grammar"></span>
-    <div class="section-head today-section-head">
+    <div class="section-head today-section-head" data-ord="3">
+      <span class="today-ord" aria-hidden="true">三</span>
       <span class="sh-cn">法</span>
       <span class="sh-py">fǎ</span>
-      <span class="sh-en">Grammar point</span>
+      <span class="sh-en">Grammar point of the day</span>
     </div>
     <div class="cards today-cards" data-today-slot="grammar">
       <div class="card c-violet today-skeleton">Loading…</div>
     </div>
 
     <span class="section-anchor" id="today-chengyu"></span>
-    <div class="section-head today-section-head">
+    <div class="section-head today-section-head" data-ord="4">
+      <span class="today-ord" aria-hidden="true">四</span>
       <span class="sh-cn">成语</span>
       <span class="sh-py">chéngyǔ</span>
-      <span class="sh-en">Chengyu</span>
+      <span class="sh-en">Chengyu of the day</span>
     </div>
     <div class="cards today-cards" data-today-slot="chengyu">
       <div class="card c-ochre today-skeleton">Loading…</div>
@@ -137,6 +146,7 @@
       <a class="today-subscribe-cta" href="../../feed.xml" rel="alternate" type="application/rss+xml">
         <span class="tsc-cn">RSS</span>
         <span class="tsc-en">Drop the feed into Feedly, Reeder, or any reader — same entries flow through as they're added.</span>
+        <span class="tsc-arrow" aria-hidden="true">→</span>
       </a>
       <p class="today-subscribe-aux">Or bookmark this page and treat it as a homepage. Your streak is local to this device.</p>
     </div>

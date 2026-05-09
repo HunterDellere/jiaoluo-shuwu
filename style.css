@@ -410,6 +410,51 @@ body {
   align-items: end;
 }
 .today-hero-meta { min-width: 0; }
+
+/* Calligraphic Chinese date stamp on the hero — three lines of CN numerals
+   in the almanac (黄历) style. Sits between title and greeting. The year line
+   is small and numeric, the month/day line is the dominant calligraphic
+   element, and the weekday is a brushed-tag underneath. */
+.today-date-stamp {
+  display: inline-grid;
+  grid-template-columns: auto auto;
+  align-items: baseline;
+  gap: 0.15rem 0.7rem;
+  margin: 0.8rem 0 0.6rem;
+  padding: 0.55rem 0.95rem 0.5rem;
+  border-left: 3px solid var(--red);
+  background: linear-gradient(to right, var(--red-tint), transparent 70%);
+  font-family: var(--font-cn-display, var(--font-cn));
+  border-radius: 0 var(--radius-sm, 4px) var(--radius-sm, 4px) 0;
+}
+.today-date-stamp .tds-year {
+  grid-column: 1 / span 2;
+  font-family: var(--font-mono);
+  font-size: var(--fs-xs);
+  letter-spacing: 0.24em;
+  color: var(--ink-5);
+  text-transform: none;
+}
+.today-date-stamp .tds-md {
+  grid-column: 1;
+  font-size: var(--fs-display, 2.1rem);
+  font-weight: 700;
+  color: var(--red);
+  line-height: 1.05;
+  letter-spacing: 0.02em;
+}
+.today-date-stamp .tds-dow {
+  grid-column: 2;
+  align-self: end;
+  margin-bottom: 0.15rem;
+  font-family: var(--font-cn);
+  font-size: var(--fs-xl);
+  color: var(--ochre);
+  letter-spacing: 0.06em;
+}
+.today-date-stamp:empty { display: none; }
+.today-date-stamp:has(.tds-year:empty):has(.tds-md:empty):has(.tds-dow:empty) { display: none; }
+
 .today-streak {
   display: grid;
   grid-template-columns: auto 1fr;
@@ -421,6 +466,7 @@ body {
   background: var(--papyrus-2);
   min-width: 220px;
   position: relative;
+  box-shadow: 0 1px 0 0 rgba(20, 17, 10, 0.04);
 }
 .today-streak::before {
   /* Decorative eyebrow tab */
@@ -432,6 +478,16 @@ body {
   background: var(--papyrus-2);
   padding: 0 0.35rem;
   letter-spacing: 0.04em;
+}
+.today-streak::after {
+  /* Decorative red corner-clip — almanac stamp feel */
+  content: '';
+  position: absolute; top: 0; right: 0;
+  width: 10px; height: 10px;
+  background: var(--red);
+  clip-path: polygon(100% 0, 0 0, 100% 100%);
+  opacity: 0.6;
+  border-top-right-radius: var(--radius-lg, 8px);
 }
 .today-streak-num {
   font-family: var(--font-cn-display, var(--font-cn));
@@ -462,6 +518,7 @@ body {
     grid-template-columns: 1fr;
   }
   .today-streak { justify-self: start; }
+  .today-date-stamp .tds-md { font-size: var(--fs-6xl); }
 }
 @media (max-width: 480px) {
   /* On phones, drop the streak's hard min-width so it can shrink to fit
@@ -472,10 +529,32 @@ body {
   .today-card .card-title { font-size: var(--fs-display-2-mobile, 1.85rem); }
 }
 
-/* Today section heads — slightly quieter than topic-page heads */
+/* Today section heads — large CN numeral ordinal (一/二/三/四) sits to the
+   left as a brushed marker, then the standard CN/pinyin/EN row follows. */
+.today-section-head { position: relative; }
 .today-section-head .sh-cn {
   color: var(--red);
 }
+.today-section-head .today-ord {
+  display: inline-block;
+  font-family: var(--font-cn-display, var(--font-cn));
+  font-size: var(--fs-3xl);
+  font-weight: 700;
+  color: var(--ochre);
+  letter-spacing: 0.04em;
+  margin-right: 0.55rem;
+  vertical-align: 0.05em;
+  padding: 0.05rem 0.45rem;
+  border: 1px solid var(--ochre);
+  border-radius: var(--radius-xs, 3px);
+  line-height: 1;
+  background: var(--papyrus);
+  box-shadow: inset 0 0 0 1px var(--papyrus);
+}
+.today-section-head[data-ord="1"] .today-ord { color: var(--red);        border-color: var(--red); }
+.today-section-head[data-ord="2"] .today-ord { color: var(--teal-2);     border-color: var(--teal-2); }
+.today-section-head[data-ord="3"] .today-ord { color: var(--violet-ink); border-color: var(--violet-ink); }
+.today-section-head[data-ord="4"] .today-ord { color: var(--ochre);      border-color: var(--ochre); }
 
 /* Today cards: bigger and more deliberate than .cards default */
 .today-cards {
@@ -591,7 +670,7 @@ body {
 .today-subscribe { margin-bottom: 1.4rem; }
 .today-subscribe-cta {
   display: grid;
-  grid-template-columns: auto 1fr;
+  grid-template-columns: auto 1fr auto;
   gap: 0.3rem 1.2rem;
   align-items: center;
   padding: 1.1rem 1.3rem;
@@ -602,6 +681,7 @@ body {
   transition: border-color var(--t-base), transform var(--t-base);
 }
 .today-subscribe-cta:hover { border-color: var(--ochre); transform: translateY(-1px); }
+.today-subscribe-cta:hover .tsc-arrow { transform: translateX(2px); color: var(--ochre); }
 .tsc-cn {
   font-family: var(--font-mono);
   font-size: var(--fs-2xl);
@@ -616,6 +696,17 @@ body {
   color: var(--ink-3);
   font-size: var(--fs-base);
   line-height: 1.45;
+}
+.tsc-arrow {
+  font-family: var(--font-mono);
+  font-size: var(--fs-2xl);
+  color: var(--ink-5);
+  transition: transform var(--t-base), color var(--t-base);
+  font-weight: 600;
+}
+@media (max-width: 480px) {
+  .today-subscribe-cta { grid-template-columns: auto 1fr; row-gap: 0.4rem; }
+  .tsc-arrow { grid-column: 2; justify-self: end; }
 }
 .today-subscribe-aux {
   margin: 0.6rem 0 0;
@@ -998,24 +1089,347 @@ h1, h2, h3, .section-head { text-wrap: balance; }
 .chip-pinyin-link:hover { background: var(--papyrus-2); border-color: var(--ink-3); color: var(--ink-2); }
 .family-hero-aux { font-size: 0.92em; color: var(--ink-3); margin-top: 0.6em; }
 .family-hero-aux a { font-weight: 600; }
-/* Pinyin index page (/pages/pinyin/index.html) — syllable wall.
-   Each letter section becomes a tight grid of cells; each cell shows the
-   syllable + 4 tone dots + entry count. Reads as a reference, not a list. */
+/* ── PINYIN PAGES ─────────────────────────────────────────────
+   Two surfaces share this block: the per-syllable disambiguation
+   pages (/pages/pinyin/<base>.html) and the alphabetical index
+   (/pages/pinyin/index.html). Both lean on a single 4-tone color
+   scheme (teal / ochre / violet / red for 1/2/3/4) that recurs
+   from hero deck → section heads → compound markers. */
+
+/* Per-tone color tokens — used across hero deck, section heads,
+   index stats, and compound highlights. */
+.pinyin-hero,
+.pinyin-index-hero,
+.pinyin-tone-head,
+.pinyin-tone-card,
+.pinyin-compound,
+.pl-tone-syl {
+  --p-tone-1: var(--teal-2);
+  --p-tone-2: var(--ochre-2);
+  --p-tone-3: var(--violet-ink);
+  --p-tone-4: var(--red-2);
+  --p-tone-5: var(--sienna);
+}
+
+/* Per-syllable hero — the title + description + 4-card tone deck.
+   The deck is the navigation: each card is an anchor link to that
+   tone's section, plus shows pitch contour + count. */
+.pinyin-hero { padding-bottom: 1.4rem; }
+.pinyin-hero-title {
+  font-family: var(--font-mono);
+  letter-spacing: 0.04em;
+  font-size: var(--fs-display-2);
+  font-weight: 600;
+  color: var(--ink);
+  margin-bottom: 0.4rem;
+}
+.pinyin-hero-desc { margin-bottom: 1rem; }
+.pinyin-hero-desc strong { color: var(--ink); font-weight: 700; font-style: normal; }
+
+.pinyin-tone-deck {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 0.6rem;
+  margin: 0.4rem 0 0;
+}
+.pinyin-tone-card {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  grid-template-rows: auto auto;
+  column-gap: 0.65rem;
+  row-gap: 0.15rem;
+  padding: 0.7rem 0.85rem;
+  border: 1px solid var(--rule);
+  border-left: 3px solid var(--rule);
+  border-radius: var(--radius-md, 6px);
+  background: var(--papyrus);
+  text-decoration: none;
+  color: var(--ink-2);
+  position: relative;
+  transition: border-color var(--t-base), background var(--t-base), transform var(--t-base);
+}
+.pinyin-tone-card[data-tone="1"] { border-left-color: var(--p-tone-1); }
+.pinyin-tone-card[data-tone="2"] { border-left-color: var(--p-tone-2); }
+.pinyin-tone-card[data-tone="3"] { border-left-color: var(--p-tone-3); }
+.pinyin-tone-card[data-tone="4"] { border-left-color: var(--p-tone-4); }
+.pinyin-tone-card:hover {
+  background: var(--papyrus-2);
+  transform: translateY(-1px);
+}
+.pinyin-tone-card[data-tone="1"]:hover { border-color: var(--p-tone-1); }
+.pinyin-tone-card[data-tone="2"]:hover { border-color: var(--p-tone-2); }
+.pinyin-tone-card[data-tone="3"]:hover { border-color: var(--p-tone-3); }
+.pinyin-tone-card[data-tone="4"]:hover { border-color: var(--p-tone-4); }
+.pinyin-tone-card[data-empty="1"] {
+  background: transparent;
+  border-style: dashed;
+  border-left-style: dashed;
+  border-left-color: var(--rule);
+  opacity: 0.75;
+}
+.pinyin-tone-card[data-empty="1"]:hover { transform: none; background: transparent; }
+.ptc-ord {
+  grid-column: 1; grid-row: 1 / span 2;
+  align-self: center;
+  font-family: var(--font-cn);
+  font-size: var(--fs-3xl);
+  color: var(--ink-5);
+  letter-spacing: 0.02em;
+}
+.pinyin-tone-card[data-tone="1"] .ptc-ord { color: var(--p-tone-1); }
+.pinyin-tone-card[data-tone="2"] .ptc-ord { color: var(--p-tone-2); }
+.pinyin-tone-card[data-tone="3"] .ptc-ord { color: var(--p-tone-3); }
+.pinyin-tone-card[data-tone="4"] .ptc-ord { color: var(--p-tone-4); }
+.pinyin-tone-card[data-empty="1"] .ptc-ord { color: var(--ink-5); opacity: 0.5; }
+.ptc-syl {
+  grid-column: 2; grid-row: 1;
+  font-family: var(--font-mono);
+  font-size: var(--fs-4xl);
+  font-weight: 600;
+  letter-spacing: 0.01em;
+  line-height: 1.1;
+  color: var(--ink);
+  align-self: end;
+}
+.pinyin-tone-card[data-empty="1"] .ptc-syl { color: var(--ink-5); }
+.ptc-curve {
+  position: absolute;
+  top: 0.65rem; right: 0.7rem;
+  width: 32px; height: 16px;
+}
+.pinyin-tone-card[data-tone="1"] .ptc-curve { color: var(--p-tone-1); }
+.pinyin-tone-card[data-tone="2"] .ptc-curve { color: var(--p-tone-2); }
+.pinyin-tone-card[data-tone="3"] .ptc-curve { color: var(--p-tone-3); }
+.pinyin-tone-card[data-tone="4"] .ptc-curve { color: var(--p-tone-4); }
+.pinyin-tone-card[data-empty="1"] .ptc-curve { color: var(--rule-2); opacity: 0.7; }
+.ptc-meta {
+  grid-column: 2; grid-row: 2;
+  display: flex;
+  flex-direction: column;
+  gap: 0.05rem;
+}
+.ptc-name {
+  font-family: var(--font-mono);
+  font-size: var(--fs-xs);
+  letter-spacing: 0.04em;
+  color: var(--ink-4);
+  text-transform: lowercase;
+}
+.ptc-count {
+  font-family: var(--font-mono);
+  font-size: var(--fs-xs);
+  letter-spacing: 0.06em;
+  color: var(--ink-5);
+}
+.pinyin-tone-card[data-empty="1"] .ptc-count { font-style: italic; }
+
+@media (max-width: 720px) {
+  .pinyin-tone-deck { grid-template-columns: repeat(2, 1fr); }
+  .ptc-curve { width: 26px; height: 14px; top: 0.55rem; right: 0.55rem; }
+}
+@media (max-width: 380px) {
+  .pinyin-tone-deck { grid-template-columns: 1fr; }
+}
+
+/* Tone section heads — pitch contour sits inline next to the toned syllable. */
+.pinyin-tone-head { position: relative; }
+.pinyin-tone-head .sh-cn {
+  font-family: var(--font-mono);
+  letter-spacing: 0.02em;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+.pinyin-tone-head[data-tone="1"] .sh-cn { color: var(--p-tone-1); }
+.pinyin-tone-head[data-tone="2"] .sh-cn { color: var(--p-tone-2); }
+.pinyin-tone-head[data-tone="3"] .sh-cn { color: var(--p-tone-3); }
+.pinyin-tone-head[data-tone="4"] .sh-cn { color: var(--p-tone-4); }
+.pinyin-tone-head[data-tone="5"] .sh-cn { color: var(--p-tone-5); }
+.pinyin-tone-head-curve {
+  width: 36px; height: 18px;
+  vertical-align: -0.3em;
+  flex-shrink: 0;
+}
+
+/* Centered prev-next on per-syllable pages */
+.pinyin-prev-next { margin-top: 2rem; }
+
+/* ── PINYIN COMPOUNDS LIST ────────────────────────────────────
+   Compounds (vocab / chengyu / grammar) that mention this syllable.
+   Replaces the bare ref-list with a three-column card grid that
+   highlights the matching syllable inside the pinyin string. */
+.pinyin-compounds {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 0.55rem;
+  margin: 0.6rem 0 0;
+}
+.pinyin-compound {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  grid-template-rows: auto auto auto;
+  column-gap: 0.7rem;
+  row-gap: 0.15rem;
+  padding: 0.7rem 0.85rem 0.7rem 0.7rem;
+  border: 1px solid var(--rule);
+  border-left: 3px solid var(--rule);
+  border-radius: var(--radius-md, 6px);
+  background: var(--papyrus);
+  text-decoration: none;
+  color: var(--ink-2);
+  transition: border-color var(--t-base), background var(--t-base), transform var(--t-base);
+}
+.pinyin-compound[data-type="vocab"]    { border-left-color: var(--cat-vocab); }
+.pinyin-compound[data-type="grammar"]  { border-left-color: var(--cat-grammar); }
+.pinyin-compound[data-type="chengyu"]  { border-left-color: var(--cat-chengyu); }
+.pinyin-compound:hover {
+  background: var(--papyrus-2);
+  transform: translateY(-1px);
+}
+.pinyin-compound[data-type="vocab"]:hover    { border-color: var(--cat-vocab); }
+.pinyin-compound[data-type="grammar"]:hover  { border-color: var(--cat-grammar); }
+.pinyin-compound[data-type="chengyu"]:hover  { border-color: var(--cat-chengyu); }
+.pc-mark {
+  grid-column: 1; grid-row: 1 / span 3;
+  align-self: center;
+  font-family: var(--font-cn);
+  font-size: var(--fs-3xl);
+  color: var(--ink-5);
+  opacity: 0.7;
+}
+.pinyin-compound[data-type="vocab"]   .pc-mark { color: var(--cat-vocab); }
+.pinyin-compound[data-type="grammar"] .pc-mark { color: var(--cat-grammar); }
+.pinyin-compound[data-type="chengyu"] .pc-mark { color: var(--cat-chengyu); }
+.pc-cn {
+  grid-column: 2; grid-row: 1;
+  font-family: var(--font-cn);
+  font-size: var(--fs-2xl);
+  font-weight: 600;
+  color: var(--ink);
+  line-height: 1.1;
+}
+.pc-py {
+  grid-column: 2; grid-row: 2;
+  font-family: var(--font-mono);
+  font-size: var(--fs-base);
+  color: var(--ochre);
+  letter-spacing: 0.04em;
+}
+.pc-py mark.pinyin-syl-hit {
+  background: var(--ochre-tint-strong);
+  color: var(--red);
+  padding: 0 2px;
+  border-radius: 2px;
+  font-weight: 700;
+}
+.pc-en {
+  grid-column: 2; grid-row: 3;
+  color: var(--ink-4);
+  font-size: var(--fs-md);
+  font-style: italic;
+  line-height: 1.45;
+}
+.pinyin-compounds-more {
+  margin: 0.7rem 0 0;
+  font-size: var(--fs-md);
+  color: var(--ink-5);
+  font-style: italic;
+}
+
+/* ── PINYIN INDEX PAGE ──────────────────────────────────────── */
+.pinyin-index-hero { padding-bottom: 1.4rem; }
+.pinyin-index-stats {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 0.55rem;
+  margin: 1rem 0 0;
+}
+.pix-stat {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  grid-template-rows: auto auto;
+  column-gap: 0.55rem;
+  row-gap: 0.05rem;
+  padding: 0.55rem 0.75rem;
+  border: 1px solid var(--rule);
+  border-radius: var(--radius-md, 6px);
+  background: var(--papyrus);
+  align-items: center;
+}
+.pix-stat[data-tone="1"] { border-left: 3px solid var(--p-tone-1); }
+.pix-stat[data-tone="2"] { border-left: 3px solid var(--p-tone-2); }
+.pix-stat[data-tone="3"] { border-left: 3px solid var(--p-tone-3); }
+.pix-stat[data-tone="4"] { border-left: 3px solid var(--p-tone-4); }
+.pix-stat-poly { border-left: 3px solid var(--ochre); }
+.pix-stat-num {
+  grid-column: 1; grid-row: 1 / span 2;
+  font-family: var(--font-cn-display, var(--font-cn));
+  font-size: var(--fs-display, 2.1rem);
+  font-weight: 700;
+  color: var(--ink);
+  line-height: 1;
+  font-variant-numeric: tabular-nums;
+}
+.pix-stat[data-tone="1"] .pix-stat-num { color: var(--p-tone-1); }
+.pix-stat[data-tone="2"] .pix-stat-num { color: var(--p-tone-2); }
+.pix-stat[data-tone="3"] .pix-stat-num { color: var(--p-tone-3); }
+.pix-stat[data-tone="4"] .pix-stat-num { color: var(--p-tone-4); }
+.pix-stat-poly .pix-stat-num { color: var(--ochre); }
+.pix-stat-curve {
+  grid-column: 2; grid-row: 1;
+  width: 28px; height: 14px;
+  align-self: end;
+  margin-bottom: 0.05rem;
+}
+.pix-stat[data-tone="1"] .pix-stat-curve { color: var(--p-tone-1); }
+.pix-stat[data-tone="2"] .pix-stat-curve { color: var(--p-tone-2); }
+.pix-stat[data-tone="3"] .pix-stat-curve { color: var(--p-tone-3); }
+.pix-stat[data-tone="4"] .pix-stat-curve { color: var(--p-tone-4); }
+.pix-stat-mark {
+  grid-column: 2; grid-row: 1;
+  font-family: var(--font-cn);
+  font-size: var(--fs-3xl);
+  color: var(--ochre);
+  align-self: end;
+  line-height: 1;
+}
+.pix-stat-label {
+  grid-column: 2; grid-row: 2;
+  font-family: var(--font-mono);
+  font-size: var(--fs-xs);
+  letter-spacing: 0.06em;
+  color: var(--ink-5);
+}
+@media (max-width: 720px) {
+  .pinyin-index-stats { grid-template-columns: repeat(2, 1fr); }
+}
+
+/* Letter-section heads — bigger letter, quieter sublabel */
+.pinyin-letter-head .sh-cn {
+  font-family: var(--font-mono);
+  font-size: var(--fs-display);
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  color: var(--ochre);
+}
+
+/* Syllable tiles — 4 toned variants stacked under the toneless headword.
+   Present tones glow in their tone color; absent tones fade to a faint mark. */
 .pinyin-letter-grid {
   list-style: none;
   padding: 0;
   margin: 0.6rem 0 1.4rem;
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(110px, 1fr));
-  gap: 0.4rem;
+  grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+  gap: 0.5rem;
 }
 .pinyin-letter-item {
   display: grid;
   grid-template-rows: auto auto;
   grid-template-columns: 1fr auto;
   align-items: baseline;
-  gap: 0.1rem 0.5rem;
-  padding: 0.55rem 0.7rem 0.5rem;
+  gap: 0.3rem 0.5rem;
+  padding: 0.65rem 0.8rem 0.6rem;
   border: 1px solid var(--rule);
   border-radius: var(--radius-md, 6px);
   text-decoration: none;
@@ -1031,73 +1445,42 @@ h1, h2, h3, .section-head { text-wrap: balance; }
 .pl-syl {
   grid-column: 1;
   font-family: var(--font-mono);
-  font-size: var(--fs-2xl);
+  font-size: var(--fs-3xl);
   color: var(--ink-2);
-  letter-spacing: 0.02em;
+  letter-spacing: 0.04em;
+  font-weight: 600;
 }
 .pl-count {
   grid-column: 2;
   font-family: var(--font-mono);
   font-size: var(--fs-xs);
-  color: var(--ink-5);
+  color: var(--ochre);
   font-variant-numeric: tabular-nums;
-  align-self: end;
+  align-self: center;
+  background: var(--ochre-tint);
+  padding: 0.05rem 0.4rem;
+  border-radius: 999px;
+  letter-spacing: 0.03em;
 }
-.pl-tones {
+.pl-tone-row {
   grid-column: 1 / span 2;
   display: flex;
-  gap: 0.18rem;
-  margin-top: 0.1rem;
-}
-.pl-tone {
-  width: 6px; height: 6px; border-radius: 50%;
-  background: var(--rule-2);
-}
-.pl-tone.is-on[data-tone="1"] { background: var(--teal-2); }
-.pl-tone.is-on[data-tone="2"] { background: var(--ochre-2); }
-.pl-tone.is-on[data-tone="3"] { background: var(--violet-ink); }
-.pl-tone.is-on[data-tone="4"] { background: var(--red-2); }
-
-/* Per-syllable page (/pages/pinyin/<base>.html) — hero adjustments and
-   tone-color section heads. */
-.pinyin-hero { padding-bottom: 1.1rem; }
-.pinyin-hero-title {
+  gap: 0.45rem;
+  flex-wrap: wrap;
   font-family: var(--font-mono);
+  font-size: var(--fs-base);
   letter-spacing: 0.02em;
-  font-size: var(--fs-display-2);
-  font-weight: 600;
-  color: var(--ink);
 }
-.pinyin-hero-tones {
-  display: flex; gap: 0.85rem;
-  font-family: var(--font-mono);
-  font-size: var(--fs-3xl);
-  margin: 0.4rem 0 0.6rem;
+.pl-tone-syl {
+  color: var(--ink-5);
+  opacity: 0.32;
+  transition: opacity var(--t-base);
 }
-.pinyin-hero-tone {
-  letter-spacing: 0.02em;
-  padding: 0.05rem 0.4rem;
-  border-radius: var(--radius-xs, 3px);
-  border-bottom: 2px solid transparent;
-}
-.pinyin-hero-tone[data-tone="1"] { color: var(--teal-2);    border-color: var(--teal-2); }
-.pinyin-hero-tone[data-tone="2"] { color: var(--ochre-2);   border-color: var(--ochre-2); }
-.pinyin-hero-tone[data-tone="3"] { color: var(--violet-ink); border-color: var(--violet-ink); }
-.pinyin-hero-tone[data-tone="4"] { color: var(--red-2);     border-color: var(--red-2); }
-.pinyin-hero-tone.is-empty { opacity: 0.28; border-color: transparent; }
-
-/* Tone-section heads on per-syllable pages — color the toned syllable */
-.pinyin-tone-head .sh-cn {
-  font-family: var(--font-mono); letter-spacing: 0.02em;
-}
-.pinyin-tone-head[data-tone="1"] .sh-cn { color: var(--teal-2); }
-.pinyin-tone-head[data-tone="2"] .sh-cn { color: var(--ochre-2); }
-.pinyin-tone-head[data-tone="3"] .sh-cn { color: var(--violet-ink); }
-.pinyin-tone-head[data-tone="4"] .sh-cn { color: var(--red-2); }
-.pinyin-tone-head[data-tone="5"] .sh-cn { color: var(--sienna); }
-
-/* Use the existing .prev-next styling but center it for pinyin */
-.pinyin-prev-next { margin-top: 2rem; }
+.pl-tone-syl.is-on { opacity: 1; font-weight: 600; }
+.pl-tone-syl.is-on[data-tone="1"] { color: var(--p-tone-1); }
+.pl-tone-syl.is-on[data-tone="2"] { color: var(--p-tone-2); }
+.pl-tone-syl.is-on[data-tone="3"] { color: var(--p-tone-3); }
+.pl-tone-syl.is-on[data-tone="4"] { color: var(--p-tone-4); }
 
 /* ── SECTION ANCHORS ─────────────────────────────────────── */
 .section-anchor { display: block; position: relative; top: calc(-1 * (var(--nav-h) + 24px)); visibility: hidden; }

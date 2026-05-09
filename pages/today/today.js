@@ -139,6 +139,54 @@
     } catch (e) { long = short; }
     document.querySelectorAll('[data-today-date]').forEach(function (el) { el.textContent = short; });
     document.querySelectorAll('[data-today-date-long]').forEach(function (el) { el.textContent = long; });
+    setChineseDateStamp(todayKey);
+  }
+
+  // Render a small calligraphic date stamp on the hero — year, month/day,
+  // weekday — using Chinese numerals so the page reads as a Chinese almanac
+  // (黄历 huánglì) rather than a generic dashboard. Year uses zodiac /
+  // numeral-by-digit formatting (二〇二六年), month/day use plain numerals,
+  // weekday uses 周X (周一 … 周日).
+  var CN_DIGITS = ['〇','一','二','三','四','五','六','七','八','九'];
+  function cnNumber(n) {
+    // Small positive integers written with the simple compound form
+    // (e.g. 12 → 十二, 25 → 二十五). Used for month/day values 1–31.
+    n = Math.max(0, Math.floor(n));
+    if (n === 0) return '〇';
+    if (n < 10) return CN_DIGITS[n];
+    if (n === 10) return '十';
+    if (n < 20) return '十' + CN_DIGITS[n - 10];
+    if (n < 100) {
+      var tens = Math.floor(n / 10);
+      var ones = n % 10;
+      return CN_DIGITS[tens] + '十' + (ones ? CN_DIGITS[ones] : '');
+    }
+    return String(n);
+  }
+  function cnYearDigits(year) {
+    // 2026 → 二〇二六 (digit-by-digit, the standard year form).
+    return String(year).split('').map(function (d) {
+      return CN_DIGITS[parseInt(d, 10)] || d;
+    }).join('');
+  }
+  function setChineseDateStamp(todayKey) {
+    var box = document.querySelector('[data-today-cn-date]');
+    if (!box) return;
+    try {
+      var d = new Date(todayKey + 'T00:00:00Z');
+      var year = d.getUTCFullYear();
+      var month = d.getUTCMonth() + 1;
+      var day = d.getUTCDate();
+      // 0 = Sun, 1 = Mon, …, 6 = Sat. Chinese week labels start with Mon.
+      var dowMap = ['日','一','二','三','四','五','六']; // index by getUTCDay
+      var dow = dowMap[d.getUTCDay()];
+      var yEl = box.querySelector('.tds-year');
+      var mdEl = box.querySelector('.tds-md');
+      var dowEl = box.querySelector('.tds-dow');
+      if (yEl) yEl.textContent = cnYearDigits(year) + '年';
+      if (mdEl) mdEl.textContent = cnNumber(month) + '月' + cnNumber(day) + '日';
+      if (dowEl) dowEl.textContent = '周' + dow;
+    } catch (e) { /* leave empty */ }
   }
 
   // ── Time-of-day greeting ────────────────────────────────────────────────
