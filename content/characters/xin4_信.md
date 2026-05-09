@@ -384,7 +384,7 @@ content_review: 'pending'
         <span class="cy-cn">半信半疑</span>
         <span class="cy-py">bàn xìn bàn yí</span>
         <span class="cy-en">half believing, half doubting — skeptical; not fully convinced</span>
-        <span class="cy-note">半 bàn (half) + 信 xìn (to believe; to trust) + 半 bàn (half) + 疑 yí (to doubt; to suspect). The state of being precisely between trust and doubt — believing something enough to entertain it, doubting it enough not to act on it. 我对他说的话半信半疑 = I'm not sure whether to believe what he said. Widely used in everyday speech; the four-character structure is a natural fit for the perfectly balanced undecidedness it names. Used both seriously (a person evaluating a dubious claim) and lightly (responding to a claim that sounds implausible but can't be dismissed).</span>
+        <span class="cy-note">半 bàn (half) + 信 xìn (to believe; to trust) + 半 bàn (half) + 疑 yí (to doubt; to suspect). The state of being precisely between trust and doubt: believing something enough to entertain it, doubting it enough not to act on it. 我对他说的话半信半疑 = I'm not sure whether to believe what he said. Widely used in everyday speech; the four-character structure is a natural fit for the perfectly balanced undecidedness it names. Used both seriously (a person evaluating a dubious claim) and lightly (responding to a claim that sounds implausible but can't be dismissed).</span>
       </div>
 
     </div>
@@ -419,7 +419,7 @@ content_review: 'pending'
       <div class="scholar-label">记忆法 jìyìfǎ · Master Retention Image</div>
       <p>The character is already the retention image. A person (亻) standing beside their word (言). Nine strokes: the person on the left, quiet and upright; the word on the right, structured and specific. The picture does not move. It does not hedge. It shows you the virtue and its definition in the same graphic act.</p>
       <p>Confucius said that without 信 the people cannot stand. The standing itself fails, not merely the quality of governance. 信 is the condition that allows human beings to take positions, make plans, enter into relationships, and expect those relationships to hold. When a person's words mean nothing, they cannot effectively occupy a position in the social world. The character is the argument: without the word (言), the person (亻) has no ground to stand on.</p>
-      <p>The three noun senses meet at the same point: faith and trust (what 信 holds between people), a letter (the word that travels and remains binding), credit (the institutional form of accumulated 信). When you see 信 in any compound — 信任, 信息, 短信, 微信, 信用 — you are seeing that same standing figure, that same word held steady beside it.</p>
+      <p>The three noun senses meet at the same point: faith and trust (what 信 holds between people), a letter (the word that travels and remains binding), credit (the institutional form of accumulated 信). When you see 信 in any compound (信任, 信息, 短信, 微信, 信用), you are seeing that same standing figure, that same word held steady beside it.</p>
     </div>
 
     <footer class="page-footer">

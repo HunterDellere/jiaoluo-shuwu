@@ -297,14 +297,14 @@ content_sources:
         <span class="cy-cn">言行一致</span>
         <span class="cy-py">yán xíng yīzhì</span>
         <span class="cy-en">words and actions align — to practice what you preach</span>
-        <span class="cy-note">言 yán (words) + 行 xíng (actions) + 一致 yīzhì (consistent; in agreement). The Confucian virtue of correspondence between speech and conduct. Used as a positive description of trustworthy, reliable people — and as a standard against which behaviour is measured. 他是一个言行一致的人 = "He is a man whose words and actions match." The failure of this standard is 言行不一 (words and deeds diverge) — a serious character criticism. Central to political discourse as well: officials are regularly evaluated on whether their 言行 align.</span>
+        <span class="cy-note">言 yán (words) + 行 xíng (actions) + 一致 yīzhì (consistent; in agreement). The Confucian virtue of correspondence between speech and conduct. Used as a positive description of trustworthy, reliable people, and as a standard against which behaviour is measured. 他是一个言行一致的人 = "He is a man whose words and actions match." The failure of this standard is 言行不一 (words and deeds diverge), a serious character criticism. Central to political discourse as well: officials are regularly evaluated on whether their 言行 align.</span>
       </div>
 
       <div class="cy">
         <span class="cy-cn">一言既出，驷马难追</span>
         <span class="cy-py">yī yán jì chū, sìmǎ nán zhuī</span>
         <span class="cy-en">once a word is spoken, four horses cannot chase it back — a promise is binding</span>
-        <span class="cy-note">驷 sì = a team of four horses (the fastest vehicle in ancient China); 追 zhuī = to chase, to pursue. Once you have spoken, no speed can retrieve the words. Used to impress on someone that speech is irreversible — a commitment made out loud becomes binding. The four-horse chariot is the ancient image of maximum speed; even that cannot catch a word once released. Often shortened to 一言既出 in modern speech, with the second clause understood. A common way to seal an agreement: 一言为定 (it's a deal) carries the same weight in a shorter form.</span>
+        <span class="cy-note">驷 sì = a team of four horses (the fastest vehicle in ancient China); 追 zhuī = to chase, to pursue. Once you have spoken, no speed can retrieve the words. Used to impress on someone that speech is irreversible: a commitment made out loud becomes binding. The four-horse chariot is the ancient image of maximum speed; even that cannot catch a word once released. Often shortened to 一言既出 in modern speech, with the second clause understood. A common way to seal an agreement: 一言为定 (it's a deal) carries the same weight in a shorter form.</span>
       </div>
 
     </div>

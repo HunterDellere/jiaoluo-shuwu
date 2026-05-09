@@ -127,7 +127,7 @@ content_review: 'pending'
         <span class="cy-cn">焕然一新</span>
         <span class="cy-py">huàn rán yī xīn</span>
         <span class="cy-en">"completely transformed to something new" — completely renewed; a total makeover</span>
-        <span class="cy-note">焕然 (huànrán, resplendently bright — the appearance of something that has been renovated or refreshed) + 一新 (completely new). The appearance of something that has undergone a total transformation: 装修完工后，房间焕然一新 (after the renovation was complete, the room was completely transformed). Used for renovated buildings, redesigned products, reformed institutions, or any situation where change is total and immediately visible.</span>
+        <span class="cy-note">焕然 (huànrán, resplendently bright; the appearance of something that has been renovated or refreshed) + 一新 (completely new). The appearance of something that has undergone a total transformation: 装修完工后，房间焕然一新 (after the renovation was complete, the room was completely transformed). Used for renovated buildings, redesigned products, reformed institutions, or any situation where change is total and immediately visible.</span>
       </div>
     </div>
 
@@ -143,8 +143,8 @@ content_review: 'pending'
 
     <div class="scholar" data-glyph="新">
       <div class="scholar-label">记忆法 jìyìfǎ · Master Retention Image</div>
-      <p>An axe cutting fresh wood: the cut surface is white and wet, not yet weathered. 新 is the moment right after the axe hits — the exposed wood that has never seen air before. That is what "new" means at its root: not merely recent, but freshly cut, freshly exposed, still carrying the smell of the live tree.</p>
-      <p>新年 (New Year) is a new year in this sense: cut from the old one, freshly exposed. 新鲜 (fresh) applies the same logic to food: vegetables that are 新鲜 have just been cut from the plant; fish that is 新鲜 was recently alive. When 新 appears in compounds, look for the cutting image — something severed from what came before, now standing on its own for the first time.</p>
+      <p>An axe cutting fresh wood: the cut surface is white and wet, not yet weathered. 新 is the moment right after the axe hits: the exposed wood that has never seen air before. That is what "new" means at its root: not merely recent, but freshly cut, freshly exposed, still carrying the smell of the live tree.</p>
+      <p>新年 (New Year) is a new year in this sense: cut from the old one, freshly exposed. 新鲜 (fresh) applies the same logic to food: vegetables that are 新鲜 have just been cut from the plant; fish that is 新鲜 was recently alive. When 新 appears in compounds, look for the cutting image: something severed from what came before, now standing on its own for the first time.</p>
     </div>
 
     <footer class="page-footer">

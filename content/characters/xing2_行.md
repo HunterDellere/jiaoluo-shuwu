@@ -525,7 +525,7 @@ content_sources:
     <!-- RETENTION IMAGE -->
     <div class="scholar" data-glyph="行" style="margin-top:2.5rem;">
       <div class="scholar-label">记忆法 jìyìfǎ · Master Retention Image</div>
-      <p>The whole character is a four-way crossroads seen from above — two roads intersecting. From that one image, two whole vocabularies unfold: <strong>xíng</strong>, the verb-side — what one does on the road (walk, go, act, conduct oneself), and <strong>háng</strong>, the noun-side — what lines up along the road (rows of stalls, trades, firms). When you see 行 in a new compound, ask: is this character naming an action (xíng) or a row/trade (háng)? The answer is almost always clean.</p>
+      <p>The whole character is a four-way crossroads seen from above: two roads intersecting. From that one image, two whole vocabularies unfold: <strong>xíng</strong>, the verb-side, what one does on the road (walk, go, act, conduct oneself); and <strong>háng</strong>, the noun-side, what lines up along the road (rows of stalls, trades, firms). When you see 行 in a new compound, ask: is this character naming an action (xíng) or a row/trade (háng)? The answer is almost always clean.</p>
       <p>The single trap to learn first: <strong>银行 = yínháng</strong>, not yínxíng. A bank is a row, not a verb. Get this one right and most of the rest follows.</p>
     </div>
 

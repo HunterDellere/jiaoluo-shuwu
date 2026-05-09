@@ -299,7 +299,7 @@ content_sources:
         </div>
         <div class="note">
           <span class="note-label">辨析 biànxī · 要…了 vs. 就要…了 vs. 快要…了</span>
-          All three express imminence, with varying degrees of urgency. <strong>要…了</strong>: neutral , it's going to happen soon. <strong>就要…了</strong>: more imminent , very soon now. <strong>快要…了</strong>: most urgent — almost already happening. 火车要来了 / 火车就要来了 / 火车快要来了 — each one accelerates the urgency. 快要 is the most dramatic.
+          All three express imminence, with varying degrees of urgency. <strong>要…了</strong>: neutral , it's going to happen soon. <strong>就要…了</strong>: more imminent , very soon now. <strong>快要…了</strong>: most urgent, almost already happening. 火车要来了 / 火车就要来了 / 火车快要来了: each one accelerates the urgency. 快要 is the most dramatic.
         </div>
       </div>
 
@@ -354,7 +354,7 @@ content_sources:
           <div class="example">
             <div class="ex-cn">这个决定非常重要，请认真考虑。</div>
             <div class="ex-py">Zhège juédìng fēicháng zhòngyào, qǐng rènzhēn kǎolǜ.</div>
-            <div class="ex-en">This decision is very important — please consider it carefully.</div>
+            <div class="ex-en">This decision is very important, so please consider it carefully.</div>
           </div>
           <div class="example">
             <div class="ex-cn">最重要的是，你要保持健康。</div>

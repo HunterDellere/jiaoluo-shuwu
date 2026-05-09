@@ -247,14 +247,14 @@ content_sources:
         <span class="cy-cn">活到老，学到老</span>
         <span class="cy-py">huó dào lǎo, xué dào lǎo</span>
         <span class="cy-en">live until old, learn until old — lifelong learning</span>
-        <span class="cy-note">The most common proverb for lifelong learning — you learn for as long as you live. An encouragement to keep studying at any age, and a gentle reminder that no one has ever learned enough to stop. Equivalent in spirit to the English "you're never too old to learn."</span>
+        <span class="cy-note">The most common proverb for lifelong learning: you learn for as long as you live. An encouragement to keep studying at any age, and a gentle reminder that no one has ever learned enough to stop. Equivalent in spirit to the English "you're never too old to learn."</span>
       </div>
 
       <div class="cy">
         <span class="cy-cn">学以致用</span>
         <span class="cy-py">xué yǐ zhì yòng</span>
         <span class="cy-en">learn in order to apply — practical application of knowledge</span>
-        <span class="cy-note">Lit: learn-by-means-of-reach-use. The Confucian insistence that learning is not ornamental but practical — knowledge must be applied in action to have value. The opposite of empty book-learning (书呆子 shū dāizi — "bookworm" in the pejorative sense). 学以致用 is the standard phrase for applied learning in education policy discussions.</span>
+        <span class="cy-note">Lit: learn-by-means-of-reach-use. The Confucian insistence that learning is not ornamental but practical: knowledge must be applied in action to have value. The opposite of empty book-learning (书呆子 shū dāizi, "bookworm" in the pejorative sense). 学以致用 is the standard phrase for applied learning in education policy discussions.</span>
       </div>
 
     </div>
