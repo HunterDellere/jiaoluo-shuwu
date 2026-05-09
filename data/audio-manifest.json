@@ -86290,6 +86290,384 @@
           "pinyin": "gémìng"
         }
       }
+    },
+    "7c7cd3813a8cf8bf": {
+      "text": "生 , 男性正面角色",
+      "pinyin": "shēng , nánxìng zhèngmiàn juésè",
+      "kind": "section",
+      "voices": {
+        "xiaoxiao": {
+          "hash": "8f4275fe9ea1",
+          "path": "audio/inline/7c7cd3813a8cf8bf-xiaoxiao.mp3",
+          "bytes": 16848,
+          "text": "生 , 男性正面角色",
+          "pinyin": "shēng , nánxìng zhèngmiàn juésè"
+        },
+        "yunxi": {
+          "hash": "f9b08dab54b4",
+          "path": "audio/inline/7c7cd3813a8cf8bf-yunxi.mp3",
+          "bytes": 20016,
+          "text": "生 , 男性正面角色",
+          "pinyin": "shēng , nánxìng zhèngmiàn juésè"
+        }
+      }
+    },
+    "4160a48c7ea69196": {
+      "text": "旦 , 女性角色",
+      "pinyin": "dàn — nǚxìng juésè",
+      "kind": "section",
+      "voices": {
+        "xiaoxiao": {
+          "hash": "d4f39e08f7c4",
+          "path": "audio/inline/4160a48c7ea69196-xiaoxiao.mp3",
+          "bytes": 13968,
+          "text": "旦 , 女性角色",
+          "pinyin": "dàn — nǚxìng juésè"
+        },
+        "yunxi": {
+          "hash": "2fbccf3fdfb4",
+          "path": "audio/inline/4160a48c7ea69196-yunxi.mp3",
+          "bytes": 16704,
+          "text": "旦 , 女性角色",
+          "pinyin": "dàn — nǚxìng juésè"
+        }
+      }
+    },
+    "38301d6451eb6ba1": {
+      "text": "都 , 全体",
+      "pinyin": "dōu , quántǐ",
+      "kind": "compound",
+      "voices": {
+        "xiaoxiao": {
+          "hash": "25358430dfce",
+          "path": "audio/inline/38301d6451eb6ba1-xiaoxiao.mp3",
+          "bytes": 11808,
+          "text": "都 , 全体",
+          "pinyin": "dōu , quántǐ"
+        },
+        "yunxi": {
+          "hash": "cde8f1556846",
+          "path": "audio/inline/38301d6451eb6ba1-yunxi.mp3",
+          "bytes": 14112,
+          "text": "都 , 全体",
+          "pinyin": "dōu , quántǐ"
+        }
+      }
+    },
+    "e6e0b4765ffb0af2": {
+      "text": "也 , 追加",
+      "pinyin": "yě , zhuījiā",
+      "kind": "compound",
+      "voices": {
+        "xiaoxiao": {
+          "hash": "dbf9b0cf8125",
+          "path": "audio/inline/e6e0b4765ffb0af2-xiaoxiao.mp3",
+          "bytes": 11232,
+          "text": "也 , 追加",
+          "pinyin": "yě , zhuījiā"
+        },
+        "yunxi": {
+          "hash": "789afe1a16ff",
+          "path": "audio/inline/e6e0b4765ffb0af2-yunxi.mp3",
+          "bytes": 15120,
+          "text": "也 , 追加",
+          "pinyin": "yě , zhuījiā"
+        }
+      }
+    },
+    "7f0117ebd751eec4": {
+      "text": "条 tiáo , long and sinuous",
+      "pinyin": "tiáo",
+      "kind": "compound",
+      "voices": {
+        "xiaoxiao": {
+          "hash": "67ee4d11b948",
+          "path": "audio/inline/7f0117ebd751eec4-xiaoxiao.mp3",
+          "bytes": 16272,
+          "text": "条 tiáo , long and sinuous",
+          "pinyin": "tiáo"
+        },
+        "yunxi": {
+          "hash": "00424bdb7815",
+          "path": "audio/inline/7f0117ebd751eec4-yunxi.mp3",
+          "bytes": 19152,
+          "text": "条 tiáo , long and sinuous",
+          "pinyin": "tiáo"
+        }
+      }
+    },
+    "098f12086e06061f": {
+      "text": "张 zhāng , flat and spread out",
+      "pinyin": "zhāng",
+      "kind": "compound",
+      "voices": {
+        "xiaoxiao": {
+          "hash": "d7b6cc053bf1",
+          "path": "audio/inline/098f12086e06061f-xiaoxiao.mp3",
+          "bytes": 18432,
+          "text": "张 zhāng , flat and spread out",
+          "pinyin": "zhāng"
+        },
+        "yunxi": {
+          "hash": "b58f84d9275f",
+          "path": "audio/inline/098f12086e06061f-yunxi.mp3",
+          "bytes": 20016,
+          "text": "张 zhāng , flat and spread out",
+          "pinyin": "zhāng"
+        }
+      }
+    },
+    "2ea684bf38c76bc6": {
+      "text": "根 gēn , rod-like and slender",
+      "pinyin": "gēn",
+      "kind": "compound",
+      "voices": {
+        "xiaoxiao": {
+          "hash": "f124fdedc141",
+          "path": "audio/inline/2ea684bf38c76bc6-xiaoxiao.mp3",
+          "bytes": 18000,
+          "text": "根 gēn , rod-like and slender",
+          "pinyin": "gēn"
+        },
+        "yunxi": {
+          "hash": "de3106c923c8",
+          "path": "audio/inline/2ea684bf38c76bc6-yunxi.mp3",
+          "bytes": 19728,
+          "text": "根 gēn , rod-like and slender",
+          "pinyin": "gēn"
+        }
+      }
+    },
+    "b8edb3d34622e934": {
+      "text": "颗 kē , small and round",
+      "pinyin": "kē",
+      "kind": "compound",
+      "voices": {
+        "xiaoxiao": {
+          "hash": "b9fdd66b1f75",
+          "path": "audio/inline/b8edb3d34622e934-xiaoxiao.mp3",
+          "bytes": 15840,
+          "text": "颗 kē , small and round",
+          "pinyin": "kē"
+        },
+        "yunxi": {
+          "hash": "e4b04f5b97ec",
+          "path": "audio/inline/b8edb3d34622e934-yunxi.mp3",
+          "bytes": 19008,
+          "text": "颗 kē , small and round",
+          "pinyin": "kē"
+        }
+      }
+    },
+    "0309496c2b924c58": {
+      "text": "个 , the safe default",
+      "pinyin": "gè",
+      "kind": "compound",
+      "voices": {
+        "xiaoxiao": {
+          "hash": "64672a9c5db7",
+          "path": "audio/inline/0309496c2b924c58-xiaoxiao.mp3",
+          "bytes": 14544,
+          "text": "个 , the safe default",
+          "pinyin": "gè"
+        },
+        "yunxi": {
+          "hash": "a7eb5c21e456",
+          "path": "audio/inline/0309496c2b924c58-yunxi.mp3",
+          "bytes": 16560,
+          "text": "个 , the safe default",
+          "pinyin": "gè"
+        }
+      }
+    },
+    "395cc1d6c1c5fb10": {
+      "text": "次 cì , times / occurrences",
+      "pinyin": "cì",
+      "kind": "compound",
+      "voices": {
+        "xiaoxiao": {
+          "hash": "41b3d998c9ea",
+          "path": "audio/inline/395cc1d6c1c5fb10-xiaoxiao.mp3",
+          "bytes": 17856,
+          "text": "次 cì , times / occurrences",
+          "pinyin": "cì"
+        },
+        "yunxi": {
+          "hash": "250b1613f14a",
+          "path": "audio/inline/395cc1d6c1c5fb10-yunxi.mp3",
+          "bytes": 20160,
+          "text": "次 cì , times / occurrences",
+          "pinyin": "cì"
+        }
+      }
+    },
+    "047da3b9cbe202ed": {
+      "text": "场 chǎng , sessions and performances",
+      "pinyin": "chǎng",
+      "kind": "compound",
+      "voices": {
+        "xiaoxiao": {
+          "hash": "225bd101110a",
+          "path": "audio/inline/047da3b9cbe202ed-xiaoxiao.mp3",
+          "bytes": 20304,
+          "text": "场 chǎng , sessions and performances",
+          "pinyin": "chǎng"
+        },
+        "yunxi": {
+          "hash": "ee107923d0c6",
+          "path": "audio/inline/047da3b9cbe202ed-yunxi.mp3",
+          "bytes": 21888,
+          "text": "场 chǎng , sessions and performances",
+          "pinyin": "chǎng"
+        }
+      }
+    },
+    "8d03695af5d3c1d2": {
+      "text": "件 jiàn · 段 duàn , discrete and extended",
+      "pinyin": "jiàn · duàn",
+      "kind": "compound",
+      "voices": {
+        "xiaoxiao": {
+          "hash": "d7a5e83daff3",
+          "path": "audio/inline/8d03695af5d3c1d2-xiaoxiao.mp3",
+          "bytes": 24336,
+          "text": "件 jiàn · 段 duàn , discrete and extended",
+          "pinyin": "jiàn · duàn"
+        },
+        "yunxi": {
+          "hash": "7b87a6b57252",
+          "path": "audio/inline/8d03695af5d3c1d2-yunxi.mp3",
+          "bytes": 24912,
+          "text": "件 jiàn · 段 duàn , discrete and extended",
+          "pinyin": "jiàn · duàn"
+        }
+      }
+    },
+    "c9b8dcd213db6aa7": {
+      "text": "嘛 vs 吧 , side by side",
+      "pinyin": "ma vs ba",
+      "kind": "compound",
+      "voices": {
+        "xiaoxiao": {
+          "hash": "a81710f04825",
+          "path": "audio/inline/c9b8dcd213db6aa7-xiaoxiao.mp3",
+          "bytes": 17712,
+          "text": "嘛 vs 吧 , side by side",
+          "pinyin": "ma vs ba"
+        },
+        "yunxi": {
+          "hash": "c4e54ebd53de",
+          "path": "audio/inline/c9b8dcd213db6aa7-yunxi.mp3",
+          "bytes": 21744,
+          "text": "嘛 vs 吧 , side by side",
+          "pinyin": "ma vs ba"
+        }
+      }
+    },
+    "a6ac11b1f3e07672": {
+      "text": "水 shuǐ · Water",
+      "pinyin": "润下 rùn xià , moistening, flowing downward",
+      "kind": "compound",
+      "voices": {
+        "xiaoxiao": {
+          "hash": "85305e4fbf36",
+          "path": "audio/inline/a6ac11b1f3e07672-xiaoxiao.mp3",
+          "bytes": 13248,
+          "text": "水 shuǐ · Water",
+          "pinyin": "润下 rùn xià , moistening, flowing downward"
+        },
+        "yunxi": {
+          "hash": "ff5ebe895875",
+          "path": "audio/inline/a6ac11b1f3e07672-yunxi.mp3",
+          "bytes": 16128,
+          "text": "水 shuǐ · Water",
+          "pinyin": "润下 rùn xià , moistening, flowing downward"
+        }
+      }
+    },
+    "0281b8b68b24142f": {
+      "text": "木 mù · Wood",
+      "pinyin": "曲直 qū zhí , bending and straightening",
+      "kind": "compound",
+      "voices": {
+        "xiaoxiao": {
+          "hash": "0d38c77fd7c7",
+          "path": "audio/inline/0281b8b68b24142f-xiaoxiao.mp3",
+          "bytes": 11232,
+          "text": "木 mù · Wood",
+          "pinyin": "曲直 qū zhí , bending and straightening"
+        },
+        "yunxi": {
+          "hash": "f5a3f3ae254b",
+          "path": "audio/inline/0281b8b68b24142f-yunxi.mp3",
+          "bytes": 14400,
+          "text": "木 mù · Wood",
+          "pinyin": "曲直 qū zhí , bending and straightening"
+        }
+      }
+    },
+    "bc372dd7cebcafe4": {
+      "text": "火 huǒ · Fire",
+      "pinyin": "炎上 yán shàng , blazing, rising",
+      "kind": "compound",
+      "voices": {
+        "xiaoxiao": {
+          "hash": "b2df3d91e377",
+          "path": "audio/inline/bc372dd7cebcafe4-xiaoxiao.mp3",
+          "bytes": 11952,
+          "text": "火 huǒ · Fire",
+          "pinyin": "炎上 yán shàng , blazing, rising"
+        },
+        "yunxi": {
+          "hash": "2d0a01c3d2ec",
+          "path": "audio/inline/bc372dd7cebcafe4-yunxi.mp3",
+          "bytes": 16128,
+          "text": "火 huǒ · Fire",
+          "pinyin": "炎上 yán shàng , blazing, rising"
+        }
+      }
+    },
+    "fa387bb0ac34676b": {
+      "text": "土 tǔ · Earth",
+      "pinyin": "稼穑 jià sè , sowing and harvesting",
+      "kind": "compound",
+      "voices": {
+        "xiaoxiao": {
+          "hash": "bf26d4df3f40",
+          "path": "audio/inline/fa387bb0ac34676b-xiaoxiao.mp3",
+          "bytes": 12240,
+          "text": "土 tǔ · Earth",
+          "pinyin": "稼穑 jià sè , sowing and harvesting"
+        },
+        "yunxi": {
+          "hash": "5063d507845d",
+          "path": "audio/inline/fa387bb0ac34676b-yunxi.mp3",
+          "bytes": 15696,
+          "text": "土 tǔ · Earth",
+          "pinyin": "稼穑 jià sè , sowing and harvesting"
+        }
+      }
+    },
+    "9635d012d0162b49": {
+      "text": "金 jīn · Metal",
+      "pinyin": "从革 cóng gé , following and changing form",
+      "kind": "compound",
+      "voices": {
+        "xiaoxiao": {
+          "hash": "aba5d073edd8",
+          "path": "audio/inline/9635d012d0162b49-xiaoxiao.mp3",
+          "bytes": 11232,
+          "text": "金 jīn · Metal",
+          "pinyin": "从革 cóng gé , following and changing form"
+        },
+        "yunxi": {
+          "hash": "ae46403569e9",
+          "path": "audio/inline/9635d012d0162b49-yunxi.mp3",
+          "bytes": 13536,
+          "text": "金 jīn · Metal",
+          "pinyin": "从革 cóng gé , following and changing form"
+        }
+      }
     }
   }
 }
