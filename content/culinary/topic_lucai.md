@@ -4,8 +4,8 @@ category: 'culinary'
 status: 'complete'
 content_review: 'pending'
 title: '鲁菜 · Shandong Cuisine'
-desc: 'The oldest school — how the home province of Confucius fed the imperial court for two thousand years.'
-metaDesc: "鲁菜 Lǔcài: Shandong cuisine — imperial history, seafood tradition, braising techniques, and the foundation of Chinese court cooking."
+desc: 'The oldest school: how the home province of Confucius fed the imperial court for two thousand years.'
+metaDesc: "鲁菜 Lǔcài: Shandong cuisine. Imperial history, seafood tradition, braising techniques, and the foundation of Chinese court cooking."
 pageTitle: '鲁菜 Shandong Cuisine'
 tags:
   - 'food'

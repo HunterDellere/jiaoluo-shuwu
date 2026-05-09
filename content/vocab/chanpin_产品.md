@@ -3,8 +3,8 @@ type: 'vocab'
 category: 'vocab'
 status: 'complete'
 title: '产品 · product, manufactured good'
-desc: 'The standard Chinese word for product — what production yields and commerce moves. From factory floor to digital marketplace, 产品 names the output of organized human effort.'
-metaDesc: "产品 chǎnpǐn: product, manufactured good, output. The core commerce and industry term for what is made and sold — spanning physical goods, software, and agricultural output."
+desc: 'The standard Chinese word for product: what production yields and commerce moves. From factory floor to digital marketplace, 产品 names the output of organized human effort.'
+metaDesc: "产品 chǎnpǐn: product, manufactured good, output. The core commerce and industry term for what is made and sold: spanning physical goods, software, and agricultural output."
 pageTitle: '产品 chǎnpǐn'
 tags:
   - 'commerce'

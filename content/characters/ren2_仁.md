@@ -3,7 +3,7 @@ type: 'character'
 category: 'characters'
 status: 'complete'
 title: '仁 · humaneness, the kernel of human relation'
-desc: 'The character that anchors Confucian ethics — 亻 + 二, the self in relation to another. Etymology, the virtue-cluster compounds, and the seed-kernel sense that links moral and botanical 仁.'
+desc: 'The character that anchors Confucian ethics: 亻 + 二, the self in relation to another. Etymology, the virtue-cluster compounds, and the seed-kernel sense that links moral and botanical 仁.'
 metaDesc: "仁 rén: humaneness, benevolence, kernel. Etymology (亻 person + 二 two), the virtue family (仁爱 仁义 仁慈 不仁), the botanical seed sense (杏仁 桃仁), and chengyu including 仁者爱人 and 麻木不仁."
 pageTitle: '仁 rén'
 tags:

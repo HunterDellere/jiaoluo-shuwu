@@ -4,7 +4,7 @@ category: 'characters'
 status: 'complete'
 title: '低 · low; to lower; to bow down'
 desc: 'A person stooping: the phonetic 氐 gives the sound while the human radical supplies the posture, and together they built one of the most culturally loaded words in modern Chinese.'
-metaDesc: "低 dī: low, to lower, to bow. Etymology from 亻(person) + 氐 (bottom, foundation). Covers 低头, 低调, 降低, 高低 — and the modern cultural weight of keeping a low profile in Chinese society."
+metaDesc: "低 dī: low, to lower, to bow. Etymology from 亻(person) + 氐 (bottom, foundation). Covers 低头, 低调, 降低, 高低, and the modern cultural weight of keeping a low profile in Chinese society."
 pageTitle: '低 dī'
 tags:
   - 'adjectives'

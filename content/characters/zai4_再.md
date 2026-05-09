@@ -4,7 +4,7 @@ category: 'characters'
 status: 'complete'
 title: '再 · again, then, further'
 desc: 'The adverb that sequences and repeats: again, one more time, and the subtle art of "and then."'
-metaDesc: "再 zài: again; one more time; and then (sequential); further — etymology, 再 vs. 又 distinction, 再说 discourse marker, and the 再也不 emphatic never-again pattern."
+metaDesc: "再 zài: again; one more time; and then (sequential); further. Etymology, 再 vs. 又 distinction, 再说 discourse marker, and the 再也不 emphatic never-again pattern."
 pageTitle: '再 zài'
 tags:
   - 'grammar'

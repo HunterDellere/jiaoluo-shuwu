@@ -1,7 +1,7 @@
 ---
 type: hub
 category: hubs
-title: "汉语学习路 · Learning Chinese — A Reading Path"
+title: "汉语学习路 · Learning Chinese: A Reading Path"
 pinyin: "hànyǔ xué xí lù"
 desc: "A staged reading path from tones and sounds through characters, grammar, and a first encounter with classical Chinese."
 status: complete
@@ -12,26 +12,26 @@ stages:
   - name: "声音"
     name_en: "Sound System"
     color: teal
-    note: "Start here — tones and romanisation before any characters."
+    note: "Start here: tones and romanisation before any characters."
     members:
       - slug: vocab/putonghua_普通话
         label_cn: "普通话 · Standard Chinese"
         label_en: "What you are learning"
         type: Vocab
         mins: 5
-        note: "The standard variety based on Beijing phonology, written 普通话 (pǔtōnghuà) — 'common speech.' Understanding what Mandarin is and is not (not the only variety, not the historical literary language) clears up confusion that follows learners for years."
+        note: "The standard variety based on Beijing phonology, written 普通话 (pǔtōnghuà), 'common speech.' Understanding what Mandarin is and is not (not the only variety, not the historical literary language) clears up confusion that follows learners for years."
       - slug: vocab/shengtiao_声调
         label_cn: "声调 · Tones"
         label_en: "The hardest adjustment"
         type: Vocab
         mins: 6
-        note: "Mandarin has four tones plus a neutral tone. The difficulty for English speakers is not that the tones are arbitrary — they are consistent — but that English uses pitch prosodically rather than lexically. This entry explains the distinction and gives the four tones their linguistic grounding."
+        note: "Mandarin has four tones plus a neutral tone. The difficulty for English speakers is not that the tones are arbitrary (they are consistent) but that English uses pitch prosodically rather than lexically. This entry explains the distinction and gives the four tones their linguistic grounding."
       - slug: vocab/pinyin_拼音
         label_cn: "拼音 · Romanisation"
         label_en: "The scaffold, not the target"
         type: Vocab
         mins: 5
-        note: "Pinyin is the official romanisation system developed in the 1950s. It is a scaffold for acquiring pronunciation — not a writing system to stay in. Read this entry to understand what pinyin represents before treating it as a crutch."
+        note: "Pinyin is the official romanisation system developed in the 1950s. It is a scaffold for acquiring pronunciation, not a writing system to stay in. Read this entry to understand what pinyin represents before treating it as a crutch."
   - name: "字形"
     name_en: "The Written System"
     color: ochre
@@ -48,7 +48,7 @@ stages:
         label_en: "The organising logic"
         type: Vocab
         mins: 6
-        note: "Radicals are not decorative — they are the semantic signposts inside each character. Learning the 50–100 most common radicals transforms character learning from brute memorisation into pattern recognition."
+        note: "Radicals are not decorative: they are the semantic signposts inside each character. Learning the 50–100 most common radicals transforms character learning from brute memorisation into pattern recognition."
       - slug: vocab/bihua_笔画
         label_cn: "笔画 · Stroke Order"
         label_en: "The physical grammar"
@@ -60,7 +60,7 @@ stages:
         label_en: "Go deeper"
         type: Topic
         mins: 35
-        note: "The full writing system reading path — from pictographic foundations through key radicals to calligraphy. Stage 2 of this path terminates here. If the writing system is what drew you to Chinese, follow this hub before continuing."
+        note: "The full writing system reading path: from pictographic foundations through key radicals to calligraphy. Stage 2 of this path terminates here. If the writing system is what drew you to Chinese, follow this hub before continuing."
   - name: "词"
     name_en: "Words and Meaning"
     color: sienna
@@ -71,7 +71,7 @@ stages:
         label_en: "The core concept"
         type: Vocab
         mins: 5
-        note: "意思 (yìsi) is the word for 'meaning,' but it carries far more: implication, suggestion, intention, and a dozen idiomatic uses. Starting with the word for 'meaning' is not accidental — it is an argument about how Mandarin encodes intention."
+        note: "意思 (yìsi) is the word for 'meaning,' but it carries far more: implication, suggestion, intention, and a dozen idiomatic uses. Starting with the word for 'meaning' is not accidental: it is an argument about how Mandarin encodes intention."
       - slug: vocab/dongxi_东西
         label_cn: "东西 · Thing"
         label_en: "How ordinary words carry history"
@@ -83,11 +83,11 @@ stages:
         label_en: "Core grammatical function"
         type: Vocab
         mins: 5
-        note: "Comparison in Mandarin works without inflection — no comparative or superlative suffixes. 比较 (bǐjiào) is the gateway into understanding how Mandarin constructs these relationships structurally."
+        note: "Comparison in Mandarin works without inflection: no comparative or superlative suffixes. 比较 (bǐjiào) is the gateway into understanding how Mandarin constructs these relationships structurally."
   - name: "语法"
     name_en: "Grammar Core"
     color: violet
-    note: "The five structures that cause the most confusion for English speakers — and are worth learning in exactly this order."
+    note: "The five structures that cause the most confusion for English speakers, worth learning in exactly this order."
     members:
       - slug: grammar/de_的得地
         label_cn: "的得地 · The de Particles"
@@ -100,7 +100,7 @@ stages:
         label_en: "The most misunderstood particle"
         type: Grammar
         mins: 9
-        note: "了 is not a past tense marker — it indicates completion of an action or a new state of affairs. English speakers try to map it onto past tense and get confused by every exception. This entry explains what 了 is actually tracking."
+        note: "了 is not a past tense marker: it indicates completion of an action or a new state of affairs. English speakers try to map it onto past tense and get confused by every exception. This entry explains what 了 is actually tracking."
       - slug: grammar/ba_把
         label_cn: "把 · Disposal Construction"
         label_en: "Object before verb"
@@ -112,13 +112,13 @@ stages:
         label_en: "When the action happens to you"
         type: Grammar
         mins: 7
-        note: "被 introduces the passive construction — but Chinese passives carry pragmatic weight that English passives don't. 被 typically implies that something unwelcome happened. Read alongside 把 to understand both sides of the result-focused construction."
+        note: "被 introduces the passive construction, but Chinese passives carry pragmatic weight that English passives don't. 被 typically implies that something unwelcome happened. Read alongside 把 to understand both sides of the result-focused construction."
       - slug: grammar/liangci_量词
         label_cn: "量词 · Measure Words"
         label_en: "The classifier system"
         type: Grammar
         mins: 7
-        note: "Mandarin requires a measure word between a number and a noun: not 'three books' but 'three 本 books.' The system is large but not arbitrary — each measure word groups nouns by shape, material, or cultural association. Learning the 20 most common covers the vast majority of everyday use."
+        note: "Mandarin requires a measure word between a number and a noun: not 'three books' but 'three 本 books.' The system is large but not arbitrary: each measure word groups nouns by shape, material, or cultural association. Learning the 20 most common covers the vast majority of everyday use."
   - name: "古文"
     name_en: "Into the Classical"
     color: red
@@ -129,7 +129,7 @@ stages:
         label_en: "The most common classical character"
         type: Character
         mins: 6
-        note: "之 is the possessive and connective particle of classical Chinese — the equivalent of 的 in a register that shaped two thousand years of poetry, philosophy, and history. Recognising it unlocks the syntax of classical passages; being able to read it transforms what the classical content on this site means."
+        note: "之 is the possessive and connective particle of classical Chinese, the equivalent of 的 in a register that shaped two thousand years of poetry, philosophy, and history. Recognising it unlocks the syntax of classical passages; being able to read it transforms what the classical content on this site means."
       - slug: characters/qi2_其
         label_cn: "其 · Its / Their"
         label_en: "Classical pronoun and intensifier"
@@ -141,7 +141,7 @@ stages:
         label_en: "The bridge to classical usage"
         type: Grammar
         mins: 7
-        note: "着 marks an ongoing or sustained action in modern Mandarin — but it also bridges to the classical durative, appearing in literary and formal registers. It is the one modern grammar particle that changes character when the register shifts."
+        note: "着 marks an ongoing or sustained action in modern Mandarin, but it also bridges to the classical durative, appearing in literary and formal registers. It is the one modern grammar particle that changes character when the register shifts."
 ---
 
 <div class="shell">

@@ -4,8 +4,8 @@ category: 'religion'
 status: 'complete'
 content_review: 'pending'
 title: '道教 · Daoism'
-desc: 'Daoism as organized religion — distinct from Daoist philosophy.'
-metaDesc: "道教 dàojiào: Daoism as philosophy and religion — the Daodejing, non-action, the Daoist pantheon, inner alchemy, temple institutions, and the pervasive influence of Daoist thought on Chinese culture."
+desc: 'Daoism as organized religion: distinct from Daoist philosophy.'
+metaDesc: "道教 dàojiào: Daoism as philosophy and religion. The Daodejing, non-action, the Daoist pantheon, inner alchemy, temple institutions, and the pervasive influence of Daoist thought on Chinese culture."
 pageTitle: '道教 dàojiào · Daoism'
 tags:
   - 'daoism'

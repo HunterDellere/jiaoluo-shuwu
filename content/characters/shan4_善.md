@@ -4,8 +4,8 @@ category: 'characters'
 status: 'complete'
 content_review: 'pending'
 title: '善 · goodness; virtue; skilled'
-desc: 'The character at the heart of Mencius argument that human nature is originally good — the moral sprouts waiting to be cultivated.'
-metaDesc: "善 shàn: goodness, virtue, and moral skill — the character central to Mencian ethics, Daoist natural giving, and the Chinese philosophical debate over human nature. Etymology, vocabulary compounds, chengyu idioms, and usage notes."
+desc: 'The character at the heart of Mencius argument that human nature is originally good: the moral sprouts waiting to be cultivated.'
+metaDesc: "善 shàn: goodness, virtue, and moral skill. The character central to Mencian ethics, Daoist natural giving, and the Chinese philosophical debate over human nature. Etymology, vocabulary compounds, chengyu idioms, and usage notes."
 pageTitle: '善 shàn'
 char: '善'
 pinyin: 'shàn'

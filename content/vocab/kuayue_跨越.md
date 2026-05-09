@@ -3,7 +3,7 @@ type: 'vocab'
 category: 'vocab'
 status: 'complete'
 title: '跨越 · to leap across, to span, to transcend'
-desc: 'The compound that lets the Chinese language span gaps — physical, historical, technological, generational. The verb of choice when "越长城" is read figuratively.'
+desc: 'The compound that lets the Chinese language span gaps: physical, historical, technological, generational. The verb of choice when "越长城" is read figuratively.'
 metaDesc: "跨越 kuàyuè: to leap across, to span, to transcend. Decomposition of 跨 (to stride) + 越 (to cross over), the family of crossing-verbs (越过 / 翻越 / 超越 / 穿越), and how 跨越 carries the figurative load of phrases like 跨越长城 (to cross over the Great Wall) and 跨越式发展 (leap-forward development)."
 pageTitle: '跨越 kuàyuè'
 tags:

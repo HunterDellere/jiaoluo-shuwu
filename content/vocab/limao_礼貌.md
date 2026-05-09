@@ -3,8 +3,8 @@ type: 'vocab'
 category: 'vocab'
 status: 'complete'
 title: '礼貌 · politeness, courteous manner'
-desc: 'The everyday word for politeness — what 礼 (ritual propriety) becomes when it is shrunk down to the scale of ordinary social life. Polite forms, polite faces, and the precise way modern Chinese distinguishes 礼貌 from 客气, 礼节, and the older 礼 itself.'
-metaDesc: "礼貌 lǐmào: politeness, courteous manner. How modern Chinese distinguishes everyday politeness from classical 礼 (ritual propriety), the social ritual of 客气 (guest-manners), and 礼节 (formal etiquette) — and what 有礼貌 vs 没礼貌 actually marks in Chinese social judgment."
+desc: 'The everyday word for politeness: what 礼 (ritual propriety) becomes when it is shrunk down to the scale of ordinary social life. Polite forms, polite faces, and the precise way modern Chinese distinguishes 礼貌 from 客气, 礼节, and the older 礼 itself.'
+metaDesc: "礼貌 lǐmào: politeness, courteous manner. How modern Chinese distinguishes everyday politeness from classical 礼 (ritual propriety), the social ritual of 客气 (guest-manners), and 礼节 (formal etiquette): and what 有礼貌 vs 没礼貌 actually marks in Chinese social judgment."
 pageTitle: '礼貌 lǐmào'
 tags:
   - 'courtesy'

@@ -1,10 +1,31 @@
 [
   {
+    "path": "pages/characters/ming4_命.html",
+    "type": "character",
+    "category": "characters",
+    "title": "命 · life, fate, command",
+    "desc": "A mouth speaking an order: 令 above, 口 inside. The character that holds together three of the heaviest words in Chinese: life, destiny, and the command from above.",
+    "tags": [
+      "philosophy",
+      "fate",
+      "life",
+      "classical",
+      "ethics"
+    ],
+    "status": "complete",
+    "char": "命",
+    "pinyin": "mìng",
+    "tone": 4,
+    "hsk": 4,
+    "radical": "口",
+    "updated": "2026-05-09"
+  },
+  {
     "path": "pages/characters/kua4_跨.html",
     "type": "character",
     "category": "characters",
     "title": "跨 · to stride; to span; to bestride",
-    "desc": "The character of the long stride — a foot-radical verb that reaches from \"step over a threshold\" to \"span an era\" to the modern policy vocabulary of cross-border, cross-industry, cross-cultural everything.",
+    "desc": "The character of the long stride: a foot-radical verb that reaches from \"step over a threshold\" to \"span an era\" to the modern policy vocabulary of cross-border, cross-industry, cross-cultural everything.",
     "tags": [
       "movement",
       "border",
@@ -23,7 +44,7 @@
     "type": "character",
     "category": "characters",
     "title": "跑 · to run; to flee; to operate",
-    "desc": "The everyday verb of running — a foot-radical character whose semantic range stretches from \"the legs in motion\" to \"running an errand\" to \"the engine is running\" to a small but productive family of escape-and-flee compounds.",
+    "desc": "The everyday verb of running: a foot-radical character whose semantic range stretches from \"the legs in motion\" to \"running an errand\" to \"the engine is running\" to a small but productive family of escape-and-flee compounds.",
     "tags": [
       "motion",
       "body",
@@ -42,7 +63,7 @@
     "type": "character",
     "category": "characters",
     "title": "她 · she, her",
-    "desc": "她 is the youngest character in everyday Chinese — invented in 1917 to translate \"she,\" and the cause of one of the loudest grammatical fights in modern Chinese letters.",
+    "desc": "她 is the youngest character in everyday Chinese, invented in 1917 to translate \"she,\" and the cause of one of the loudest grammatical fights in modern Chinese letters.",
     "tags": [
       "grammar",
       "modern",
@@ -62,7 +83,7 @@
     "type": "character",
     "category": "characters",
     "title": "越 · to cross over, to surpass",
-    "desc": "The character of crossing-and-exceeding — a foot-radical verb that travels from \"stride over a barrier\" to \"the more, the more\" to a Chinese state name and a national poetic gesture.",
+    "desc": "The character of crossing-and-exceeding: a foot-radical verb that travels from \"stride over a barrier\" to \"the more, the more\" to a Chinese state name and a national poetic gesture.",
     "tags": [
       "movement",
       "comparison",
@@ -81,7 +102,7 @@
     "type": "topic",
     "category": "history",
     "title": "长城 · The Great Wall",
-    "desc": "Two millennia of walls, watchtowers, and beacon fires — what the Great Wall actually was, and why \"the wall\" is a translation that flattens a complicated history.",
+    "desc": "Two millennia of walls, watchtowers, and beacon fires: what the Great Wall actually was, and why \"the wall\" is a translation that flattens a complicated history.",
     "tags": [
       "history",
       "fortification",
@@ -101,7 +122,7 @@
     "type": "vocab",
     "category": "vocab",
     "title": "方向 · direction; orientation",
-    "desc": "方向 is the compass-word that holds together physical heading, life direction, political orientation, and the deeply Chinese sense that getting your bearings — 辨方向 — is the first move in any undertaking.",
+    "desc": "方向 is the compass-word that holds together physical heading, life direction, political orientation, and the deeply Chinese sense that getting your bearings: 辨方向, is the first move in any undertaking.",
     "tags": [
       "space",
       "direction",
@@ -117,7 +138,7 @@
     "type": "vocab",
     "category": "vocab",
     "title": "跨越 · to leap across, to span, to transcend",
-    "desc": "The compound that lets the Chinese language span gaps — physical, historical, technological, generational. The verb of choice when \"越长城\" is read figuratively.",
+    "desc": "The compound that lets the Chinese language span gaps: physical, historical, technological, generational. The verb of choice when \"越长城\" is read figuratively.",
     "tags": [
       "movement",
       "border",
@@ -132,7 +153,7 @@
     "type": "vocab",
     "category": "vocab",
     "title": "礼貌 · politeness, courteous manner",
-    "desc": "The everyday word for politeness — what 礼 (ritual propriety) becomes when it is shrunk down to the scale of ordinary social life. Polite forms, polite faces, and the precise way modern Chinese distinguishes 礼貌 from 客气, 礼节, and the older 礼 itself.",
+    "desc": "The everyday word for politeness: what 礼 (ritual propriety) becomes when it is shrunk down to the scale of ordinary social life. Polite forms, polite faces, and the precise way modern Chinese distinguishes 礼貌 from 客气, 礼节, and the older 礼 itself.",
     "tags": [
       "courtesy",
       "etiquette",
@@ -148,7 +169,7 @@
     "type": "vocab",
     "category": "vocab",
     "title": "山水 · mountains and water; the landscape",
-    "desc": "The paired word that names the Chinese landscape — not \"scenery\" in the Western sense, but a cosmological pairing of the still and the flowing that became the central subject of a thousand years of painting and poetry.",
+    "desc": "The paired word that names the Chinese landscape: not \"scenery\" in the Western sense, but a cosmological pairing of the still and the flowing that became the central subject of a thousand years of painting and poetry.",
     "tags": [
       "aesthetics",
       "nature",
@@ -164,7 +185,7 @@
     "type": "character",
     "category": "characters",
     "title": "德 · virtue, moral power",
-    "desc": "Virtue not as rule-following but as accumulated moral power — what radiates from a person whose conduct has been straight long enough to become second nature.",
+    "desc": "Virtue not as rule-following but as accumulated moral power: what radiates from a person whose conduct has been straight long enough to become second nature.",
     "tags": [
       "confucianism",
       "daoism",
@@ -185,7 +206,7 @@
     "type": "character",
     "category": "characters",
     "title": "读 · to read aloud, to study",
-    "desc": "Reading as the act of voicing what is written — the everyday verb for studying, declaiming a text, and (figuratively) interpreting a person, a situation, or a sign.",
+    "desc": "Reading as the act of voicing what is written: the everyday verb for studying, declaiming a text, and (figuratively) interpreting a person, a situation, or a sign.",
     "tags": [
       "learning",
       "language",
@@ -204,7 +225,7 @@
     "type": "character",
     "category": "characters",
     "title": "脚 · foot, base",
-    "desc": "The everyday word for foot — and, by extension, the base of any standing thing: a mountain, a wall, a script. The flesh-and-bone counterpart to literary 足.",
+    "desc": "The everyday word for foot, and by extension the base of any standing thing: a mountain, a wall, a script. The flesh-and-bone counterpart to literary 足.",
     "tags": [
       "body",
       "movement",
@@ -223,7 +244,7 @@
     "type": "character",
     "category": "characters",
     "title": "仁 · humaneness, the kernel of human relation",
-    "desc": "The character that anchors Confucian ethics — 亻 + 二, the self in relation to another. Etymology, the virtue-cluster compounds, and the seed-kernel sense that links moral and botanical 仁.",
+    "desc": "The character that anchors Confucian ethics: 亻 + 二, the self in relation to another. Etymology, the virtue-cluster compounds, and the seed-kernel sense that links moral and botanical 仁.",
     "tags": [
       "confucianism",
       "ethics",
@@ -243,7 +264,7 @@
     "type": "character",
     "category": "characters",
     "title": "行 · to walk, to act, a row, a trade",
-    "desc": "One of the great polyphonic characters: xíng \"to walk; to act; conduct\" and háng \"row; profession; firm.\" A pictograph of a four-way crossroads — the place where walking and the world are organized.",
+    "desc": "One of the great polyphonic characters: xíng \"to walk; to act; conduct\" and háng \"row; profession; firm.\" A pictograph of a four-way crossroads, the place where walking and the world are organized.",
     "tags": [
       "movement",
       "motion",
@@ -265,7 +286,7 @@
     "type": "character",
     "category": "characters",
     "title": "眼 · eye, glance",
-    "desc": "The everyday word for eye — and, by extension, any small opening, any moment of looking, any judgment made through sight. The body-part counterpart to literary 目.",
+    "desc": "The everyday word for eye, and by extension any small opening, any moment of looking, any judgment made through sight. The body-part counterpart to literary 目.",
     "tags": [
       "body",
       "perception",
@@ -284,7 +305,7 @@
     "type": "character",
     "category": "characters",
     "title": "认 · to recognize, to acknowledge",
-    "desc": "The act of recognition — knowing something for what it is, owning up to it, and the small set of compounds that turn this on the world, on others, and on oneself.",
+    "desc": "The act of recognition: knowing something for what it is, owning up to it, and the small set of compounds that turn this on the world, on others, and on oneself.",
     "tags": [
       "knowing",
       "mind",
@@ -306,7 +327,7 @@
     "type": "character",
     "category": "characters",
     "title": "真 · real, true, genuine",
-    "desc": "Truth not as accuracy but as authenticity — the unadorned thing itself, prized in Daoist self-cultivation and in everyday emphasis.",
+    "desc": "Truth not as accuracy but as authenticity: the unadorned thing itself, prized in Daoist self-cultivation and in everyday emphasis.",
     "tags": [
       "knowing",
       "daoism",
@@ -326,7 +347,7 @@
     "type": "vocab",
     "category": "vocab",
     "title": "认真 · earnest, conscientious, taking it seriously",
-    "desc": "To recognize the 真 of a thing and engage with it on its own terms — the everyday word for taking work, study, and other people seriously rather than going through motions.",
+    "desc": "To recognize the 真 of a thing and engage with it on its own terms: the everyday word for taking work, study, and other people seriously rather than going through motions.",
     "tags": [
       "virtue",
       "ethics",
@@ -360,7 +381,7 @@
     "type": "topic",
     "category": "arts",
     "title": "书法风格 · The Five Scripts of Chinese Calligraphy",
-    "desc": "Five script styles chart two thousand years of Chinese writing — from the solemn bronze inscriptions of the Zhou to the explosive cursive of the Tang masters.",
+    "desc": "Five script styles chart two thousand years of Chinese writing, from the solemn bronze inscriptions of the Zhou to the explosive cursive of the Tang masters.",
     "tags": [
       "calligraphy",
       "arts",
@@ -379,7 +400,7 @@
     "type": "character",
     "category": "characters",
     "title": "鬼 · ghost, the wandering dead",
-    "desc": "A pictograph of a spirit with an oversized head — the disembodied soul of the unvenerated dead, a folk-religion category distinct from deity, demon, and ancestor.",
+    "desc": "A pictograph of a spirit with an oversized head: the disembodied soul of the unvenerated dead, a folk-religion category distinct from deity, demon, and ancestor.",
     "tags": [
       "folk-religion",
       "religion",
@@ -401,7 +422,7 @@
     "type": "character",
     "category": "characters",
     "title": "雷 · thunder, the Arousing",
-    "desc": "Rain over fields struck by lightning — the ancient pictograph of thunder that became a deity, a Yijing trigram, and a metaphor for decisive force.",
+    "desc": "Rain over fields struck by lightning: the ancient pictograph of thunder that became a deity, a Yijing trigram, and a metaphor for decisive force.",
     "tags": [
       "nature",
       "cosmology",
@@ -422,7 +443,7 @@
     "type": "character",
     "category": "characters",
     "title": "玉 · jade, precious",
-    "desc": "The material of kingship and moral cultivation — three jade discs on a cord, a glyph almost identical to king, the stone that Confucius said was virtue made visible.",
+    "desc": "The material of kingship and moral cultivation: three jade discs on a cord, a glyph almost identical to king, the stone that Confucius said was virtue made visible.",
     "tags": [
       "nature",
       "culture",
@@ -444,7 +465,7 @@
     "type": "topic",
     "category": "daily",
     "title": "吃饭文化 · Chinese Food Culture",
-    "desc": "Eating in China is not primarily about food — it is the medium through which relationships are initiated, obligations are incurred, hierarchies are performed, and social bonds are maintained.",
+    "desc": "Eating in China is not primarily about food. It is the medium through which relationships are initiated, obligations are incurred, hierarchies are performed, and social bonds are maintained.",
     "tags": [
       "daily-life",
       "food",
@@ -481,7 +502,7 @@
     "type": "topic",
     "category": "history",
     "title": "汉朝 · The Han Dynasty",
-    "desc": "The dynasty that named the Chinese people and script — 400 years of empire, the Silk Road, Confucian statecraft, and Sima Qian writing history from prison.",
+    "desc": "The dynasty that named the Chinese people and script: 400 years of empire, the Silk Road, Confucian statecraft, and Sima Qian writing history from prison.",
     "tags": [
       "history",
       "dynasty",
@@ -559,7 +580,7 @@
     "type": "vocab",
     "category": "vocab",
     "title": "中文 · Chinese Language and Writing",
-    "desc": "中文 names both the written script and the spoken language — the most common term among learners — but it sits alongside 汉语, 普通话, and 汉字 in a system of names that carries real distinctions.",
+    "desc": "中文 names both the written script and the spoken language: the most common term among learners, but it sits alongside 汉语, 普通话, and 汉字 in a system of names that carries real distinctions.",
     "tags": [
       "language",
       "writing",
@@ -578,8 +599,8 @@
     "path": "pages/arts/topic_guqin.html",
     "type": "topic",
     "category": "arts",
-    "title": "古琴 · the guqin zither — the scholar's instrument",
-    "desc": "The seven-string zither Confucius played throughout his life — and the origin of 知音, the word for a person who truly understands you.",
+    "title": "古琴 · the scholar's zither",
+    "desc": "The seven-string zither Confucius played throughout his life, and the origin of 知音, the word for a person who truly understands you.",
     "tags": [
       "arts",
       "music",
@@ -595,8 +616,8 @@
     "path": "pages/arts/topic_shanshui.html",
     "type": "topic",
     "category": "arts",
-    "title": "山水画 · landscape painting — mountains and water",
-    "desc": "Chinese landscape painting encodes a theory in its name: 山 (mountain, yang, permanent) and 水 (water, yin, changing) in dynamic tension — a space to inhabit in the imagination, not a view to frame.",
+    "title": "山水画 · landscape painting",
+    "desc": "Chinese landscape painting encodes a theory in its name: 山 (mountain, yang, permanent) and 水 (water, yin, changing) in dynamic tension. A space to inhabit in the imagination, not a view to frame.",
     "tags": [
       "arts",
       "nature",
@@ -634,7 +655,7 @@
     "type": "character",
     "category": "characters",
     "title": "百 · hundred; all kinds of",
-    "desc": "百姓 — the hundred surnames — is classical Chinese for the common people, because the full range of ordinary family names stands in for everyone who is not nobility.",
+    "desc": "百姓, the hundred surnames, is classical Chinese for the common people, because the full range of ordinary family names stands in for everyone who is not nobility.",
     "tags": [
       "scale",
       "language",
@@ -653,7 +674,7 @@
     "type": "character",
     "category": "characters",
     "title": "北 · north; northern; to flee",
-    "desc": "Two people standing back-to-back — the direction of cold and turning away that became the name of China's capital.",
+    "desc": "Two people standing back-to-back: the direction of cold and turning away that became the name of China's capital.",
     "tags": [
       "directions",
       "nature",
@@ -672,7 +693,7 @@
     "type": "character",
     "category": "characters",
     "title": "必 · certainly; must; necessarily",
-    "desc": "A character rooted in the image of a blade that divides without exception — certainty as the sharpness that leaves no room for maybe.",
+    "desc": "A character rooted in the image of a blade that divides without exception: certainty as the sharpness that leaves no room for maybe.",
     "tags": [
       "grammar",
       "modal",
@@ -694,7 +715,7 @@
     "type": "character",
     "category": "characters",
     "title": "出 · to exit, to emerge, to produce",
-    "desc": "出 is two plants growing upward out of the earth — emergence itself written as a glyph, from physical exits to publication to standing out from the crowd.",
+    "desc": "出 is two plants growing upward out of the earth: emergence itself written as a glyph, from physical exits to publication to standing out from the crowd.",
     "tags": [
       "motion",
       "direction",
@@ -713,7 +734,7 @@
     "type": "character",
     "category": "characters",
     "title": "到 · to arrive, to reach; to",
-    "desc": "As a resultative complement suffix, 到 converts any action verb into a claim of completion — 听到 means not just hearing but hearing that arrived, perception proven by contact.",
+    "desc": "As a resultative complement suffix, 到 converts any action verb into a claim of completion: 听到 means not just hearing but hearing that arrived, perception proven by contact.",
     "tags": [
       "motion",
       "grammar",
@@ -752,7 +773,7 @@
     "type": "character",
     "category": "characters",
     "title": "东 · east; eastern",
-    "desc": "The sun rising behind a tree — and the direction that anchored China's cosmological, political, and poetic imagination.",
+    "desc": "The sun rising behind a tree, and the direction that anchored China's cosmological, political, and poetic imagination.",
     "tags": [
       "directions",
       "nature",
@@ -771,7 +792,7 @@
     "type": "character",
     "category": "characters",
     "title": "多 · many; much; more; how",
-    "desc": "Two evenings stacked — the character that encodes abundance, comparison, and the most common question about quantity in Mandarin.",
+    "desc": "Two evenings stacked: the character that encodes abundance, comparison, and the most common question about quantity in Mandarin.",
     "tags": [
       "adjectives",
       "scale",
@@ -831,7 +852,7 @@
     "type": "character",
     "category": "characters",
     "title": "高 · tall; high; elevated; surname",
-    "desc": "A tall palace gate rising above the ground — and the character that anchors Chinese words for excellence, happiness, and examination pressure simultaneously.",
+    "desc": "A tall palace gate rising above the ground, and the character that anchors Chinese words for excellence, happiness, and examination pressure simultaneously.",
     "tags": [
       "adjectives",
       "scale"
@@ -910,7 +931,7 @@
     "type": "character",
     "category": "characters",
     "title": "后 · back, behind, after; empress",
-    "desc": "One simplified character collapsed two completely separate traditional forms — 後 (a trailing foot in motion) and 后 (a commanding mouth) — binding the spatial sense of behind with the imperial sense of empress in a single glyph.",
+    "desc": "One simplified character collapsed two completely separate traditional forms: 後 (a trailing foot in motion) and 后 (a commanding mouth), binding the spatial sense of behind with the imperial sense of empress in a single glyph.",
     "tags": [
       "direction",
       "time",
@@ -949,7 +970,7 @@
     "type": "character",
     "category": "characters",
     "title": "近 · near; close; recent",
-    "desc": "Walking toward something as close as a hatchet strike — and the character that covers both spatial proximity and the specific historical era Chinese scholars call the modern period.",
+    "desc": "Walking toward something as close as a hatchet strike, and the character that covers both spatial proximity and the specific historical era Chinese scholars call the modern period.",
     "tags": [
       "direction",
       "geography",
@@ -969,7 +990,7 @@
     "type": "character",
     "category": "characters",
     "title": "旧 · old; used; former; worn",
-    "desc": "The antonym of 新 — and much more than it: 旧 carries both the weight of cherished tradition and the stigma of backwardness, depending entirely on who is speaking.",
+    "desc": "The antonym of 新, and much more than it. 旧 carries both the weight of cherished tradition and the stigma of backwardness, depending entirely on who is speaking.",
     "tags": [
       "history",
       "change",
@@ -1008,7 +1029,7 @@
     "type": "character",
     "category": "characters",
     "title": "看 · to look, to watch, to read, to visit",
-    "desc": "看 = hand above eye, shielding from the sun to see in the distance — visual attention with effort, encoded in a gesture everyone has made.",
+    "desc": "看 = hand above eye, shielding from the sun to see in the distance: visual attention with effort, encoded in a gesture everyone has made.",
     "tags": [
       "perception",
       "daily-life",
@@ -1147,7 +1168,7 @@
     "type": "character",
     "category": "characters",
     "title": "名 · name, fame, reputation",
-    "desc": "名 is 夕 dusk plus 口 mouth: darkness falls, you cannot see who approaches, so you call out a name — identity asserted through speech.",
+    "desc": "名 is 夕 dusk plus 口 mouth: darkness falls, you cannot see who approaches, so you call out a name. Identity asserted through speech.",
     "tags": [
       "confucianism",
       "language",
@@ -1186,7 +1207,7 @@
     "type": "character",
     "category": "characters",
     "title": "南 · south; southern",
-    "desc": "The direction that Chinese buildings face and emperors receive guests — warmth, productivity, and the seat of imperial ritual power.",
+    "desc": "The direction that Chinese buildings face and emperors receive guests: warmth, productivity, and the seat of imperial ritual power.",
     "tags": [
       "directions",
       "nature",
@@ -1205,7 +1226,7 @@
     "type": "character",
     "category": "characters",
     "title": "你 · you",
-    "desc": "The everyday second-person pronoun whose formal twin 您 embeds 心 (heart) directly into the character — address with warmth.",
+    "desc": "The everyday second-person pronoun whose formal twin 您 embeds 心 (heart) directly into the character: address with warmth.",
     "tags": [
       "grammar",
       "social",
@@ -1224,7 +1245,7 @@
     "type": "character",
     "category": "characters",
     "title": "前 · front, before, forward; former",
-    "desc": "Chinese places the past in front (前) and the future behind — the known faces you while the unknown approaches from behind, the inverse of the English spatial metaphor for time.",
+    "desc": "Chinese places the past in front (前) and the future behind: the known faces you while the unknown approaches from behind, the inverse of the English spatial metaphor for time.",
     "tags": [
       "direction",
       "time",
@@ -1244,7 +1265,7 @@
     "type": "character",
     "category": "characters",
     "title": "三 · three; thrice; repeatedly",
-    "desc": "Three is the number of completion in Chinese cosmology — Heaven, Earth, Human — and the numeral that generates the ten thousand things in Daoist thought.",
+    "desc": "Three is the number of completion in Chinese cosmology (Heaven, Earth, Human), and the numeral that generates the ten thousand things in Daoist thought.",
     "tags": [
       "cosmology",
       "philosophy",
@@ -1263,7 +1284,7 @@
     "type": "character",
     "category": "characters",
     "title": "善 · goodness; virtue; skilled",
-    "desc": "The character at the heart of Mencius argument that human nature is originally good — the moral sprouts waiting to be cultivated.",
+    "desc": "The character at the heart of Mencius argument that human nature is originally good: the moral sprouts waiting to be cultivated.",
     "tags": [
       "ethics",
       "virtue",
@@ -1286,7 +1307,7 @@
     "type": "character",
     "category": "characters",
     "title": "少 · few; little; young",
-    "desc": "Small with a stroke removed — the character for scarcity that doubles as the word for youth when read in falling tone.",
+    "desc": "Small with a stroke removed: the character for scarcity that doubles as the word for youth when read in falling tone.",
     "tags": [
       "adjectives",
       "scale",
@@ -1305,7 +1326,7 @@
     "type": "character",
     "category": "characters",
     "title": "神 · spirit; deity; divine",
-    "desc": "The character that names both the gods of Chinese folk religion and the focused attention of the human mind — because in Chinese thought they belong to the same category of phenomenon.",
+    "desc": "The character that names both the gods of Chinese folk religion and the focused attention of the human mind, because in Chinese thought they belong to the same category of phenomenon.",
     "tags": [
       "religion",
       "folk-religion",
@@ -1329,7 +1350,7 @@
     "type": "character",
     "category": "characters",
     "title": "十 · ten; complete; cross",
-    "desc": "十 is written as a cross — a vertical stroke cutting through a horizontal one — the point where all four cardinal directions meet, making ten the numeral of total completion.",
+    "desc": "十 is written as a cross (a vertical stroke cutting through a horizontal one), the point where all four cardinal directions meet, making ten the numeral of total completion.",
     "tags": [
       "language",
       "cosmology",
@@ -1408,7 +1429,7 @@
     "type": "character",
     "category": "characters",
     "title": "万 · ten thousand; myriad; all",
-    "desc": "万 is the Chinese hyperbole unit — where English reaches for millions, Chinese reaches for 万 to express the immeasurable, because the written number 10,000 originally meant scorpion.",
+    "desc": "万 is the Chinese hyperbole unit. Where English reaches for millions, Chinese reaches for 万 to express the immeasurable, because the written number 10,000 originally meant scorpion.",
     "tags": [
       "cosmology",
       "scale",
@@ -1427,7 +1448,7 @@
     "type": "character",
     "category": "characters",
     "title": "为 · to do; to act; for; because of",
-    "desc": "In oracle bone script, a hand leading an elephant — to guide an immense force through skillful agency — and the character at the center of the Daoist concept of non-action.",
+    "desc": "In oracle bone script, a hand leading an elephant (to guide an immense force through skillful agency), and the character at the center of the Daoist concept of non-action.",
     "tags": [
       "grammar",
       "classical",
@@ -1450,7 +1471,7 @@
     "type": "character",
     "category": "characters",
     "title": "我 · I, me, myself",
-    "desc": "The character for 'I' began as a toothed bronze halberd — the assertive grip of a weapon became the grammatical mark of a self.",
+    "desc": "The character for 'I' began as a toothed bronze halberd: the assertive grip of a weapon became the grammatical mark of a self.",
     "tags": [
       "grammar",
       "humanity",
@@ -1490,7 +1511,7 @@
     "type": "character",
     "category": "characters",
     "title": "西 · west; western",
-    "desc": "A bird settling into its nest at sunset — the direction that gave Chinese the word for \"things\" when it paired with east.",
+    "desc": "A bird settling into its nest at sunset: the direction that gave Chinese the word for \"things\" when it paired with east.",
     "tags": [
       "directions",
       "nature",
@@ -1510,7 +1531,7 @@
     "type": "character",
     "category": "characters",
     "title": "想 · to think, to want, to miss",
-    "desc": "想 = 相 (mutual, facing) + 心 (heart) — the heart turned toward something, carrying the full range from thought to desire to longing in a single gesture.",
+    "desc": "想 = 相 (mutual, facing) + 心 (heart): the heart turned toward something, carrying the full range from thought to desire to longing in a single gesture.",
     "tags": [
       "mind",
       "emotion",
@@ -1548,7 +1569,7 @@
     "type": "character",
     "category": "characters",
     "title": "写 · to write; to describe",
-    "desc": "写 simplified from 寫, which shows a magpie under a roof — the bird that mimics and transmits, giving its voice to the written mark.",
+    "desc": "写 simplified from 寫, which shows a magpie under a roof: the bird that mimics and transmits, giving its voice to the written mark.",
     "tags": [
       "writing",
       "language",
@@ -1568,7 +1589,7 @@
     "type": "character",
     "category": "characters",
     "title": "新 · new; fresh; recently; novel",
-    "desc": "Chopping fresh wood with an axe — the character whose compounds span New Year greetings, fresh produce, marriage, and the great question of what counts as modern.",
+    "desc": "Chopping fresh wood with an axe: the character whose compounds span New Year greetings, fresh produce, marriage, and the great question of what counts as modern.",
     "tags": [
       "adjectives",
       "change",
@@ -1587,7 +1608,7 @@
     "type": "character",
     "category": "characters",
     "title": "也 · also; too; classical particle",
-    "desc": "A pictograph that lost its original image entirely and became one of the most load-bearing particles in classical Chinese — the gavel at the end of every verdict.",
+    "desc": "A pictograph that lost its original image entirely and became one of the most load-bearing particles in classical Chinese: the gavel at the end of every verdict.",
     "tags": [
       "grammar",
       "particle",
@@ -1608,7 +1629,7 @@
     "type": "character",
     "category": "characters",
     "title": "一 · one; unified; as soon as",
-    "desc": "The simplest mark a brush can make carries the heaviest philosophical weight in Chinese civilization — 道生一，一生二，the Dao generates One, and One generates everything.",
+    "desc": "The simplest mark a brush can make carries the heaviest philosophical weight in Chinese civilization: 道生一，一生二，the Dao generates One, and One generates everything.",
     "tags": [
       "cosmology",
       "philosophy",
@@ -1628,7 +1649,7 @@
     "type": "character",
     "category": "characters",
     "title": "以 · by means of; using; because; in order to",
-    "desc": "A classical Chinese preposition and conjunction so versatile that it anchors half the grammar of formal Chinese — the word that turns one thing into the means, standard, or cause of another.",
+    "desc": "A classical Chinese preposition and conjunction so versatile that it anchors half the grammar of formal Chinese: the word that turns one thing into the means, standard, or cause of another.",
     "tags": [
       "grammar",
       "classical",
@@ -1650,7 +1671,7 @@
     "type": "character",
     "category": "characters",
     "title": "用 · to use; function; expense",
-    "desc": "用 began as a pictograph of a bucket or bell — a vessel put to work — and became the character that Zhuangzi inverted in his doctrine of 无用之用: the use of uselessness.",
+    "desc": "用 began as a pictograph of a bucket or bell (a vessel put to work) and became the character that Zhuangzi inverted in his doctrine of 无用之用: the use of uselessness.",
     "tags": [
       "daoism",
       "philosophy",
@@ -1670,7 +1691,7 @@
     "type": "character",
     "category": "characters",
     "title": "右 · right; to assist; to favor",
-    "desc": "A right hand raised to a mouth — the hand that feeds and speaks, whose authority in Chinese extended to favoring, protecting, and placing the highest things to the right of the seat.",
+    "desc": "A right hand raised to a mouth: the hand that feeds and speaks, whose authority in Chinese extended to favoring, protecting, and placing the highest things to the right of the seat.",
     "tags": [
       "direction",
       "space",
@@ -1689,7 +1710,7 @@
     "type": "character",
     "category": "characters",
     "title": "远 · far, distant, remote",
-    "desc": "Long robes trailing as you walk away — distance encoded in motion, and the ambivalence of far-off places in Chinese thought.",
+    "desc": "Long robes trailing as you walk away: distance encoded in motion, and the ambivalence of far-off places in Chinese thought.",
     "tags": [
       "direction",
       "geography",
@@ -1711,7 +1732,7 @@
     "type": "character",
     "category": "characters",
     "title": "知 · to know; knowledge",
-    "desc": "知 = arrow + mouth: knowledge as the swift, target-hitting utterance — and in Wang Yangming, the act of knowing is inseparable from the act of doing.",
+    "desc": "知 = arrow + mouth: knowledge as the swift, target-hitting utterance, and in Wang Yangming, the act of knowing is inseparable from the act of doing.",
     "tags": [
       "knowing",
       "philosophy",
@@ -1731,7 +1752,7 @@
     "type": "character",
     "category": "characters",
     "title": "足 · foot; sufficient; enough",
-    "desc": "The foot that became the word for sufficiency — and the radical anchoring every character involving legs, running, and roads.",
+    "desc": "The foot that became the word for sufficiency, and the radical anchoring every character involving legs, running, and roads.",
     "tags": [
       "body",
       "motion",
@@ -1750,7 +1771,7 @@
     "type": "character",
     "category": "characters",
     "title": "左 · left; unorthodox; to assist",
-    "desc": "A left hand holding a carpenter's square — the assisting hand at the ruler, and by extension the word for unorthodox, heterodox, and everything that deviates from the orthodox path.",
+    "desc": "A left hand holding a carpenter's square: the assisting hand at the ruler, and by extension the word for unorthodox, heterodox, and everything that deviates from the orthodox path.",
     "tags": [
       "direction",
       "space",
@@ -1769,7 +1790,7 @@
     "type": "vocab",
     "category": "chengyu",
     "title": "班门弄斧 · Showing Off Before the Master",
-    "desc": "Brandishing an axe at Lu Ban's door — the idiom for presuming to display skill before someone who has mastered it.",
+    "desc": "Brandishing an axe at Lu Ban's door: the idiom for presuming to display skill before someone who has mastered it.",
     "tags": [
       "chengyu",
       "classical",
@@ -1785,8 +1806,8 @@
     "path": "pages/chengyu/dongshixiaopin_东施效颦.html",
     "type": "vocab",
     "category": "chengyu",
-    "title": "东施效颦 · to imitate blindly without understanding — and make things worse",
-    "desc": "A homely woman copies Xi Shi's famous frown and clears the street — Zhuangzi's parable about form without essence.",
+    "title": "东施效颦 · to imitate blindly without understanding, and make things worse",
+    "desc": "A homely woman copies Xi Shi's famous frown and clears the street: Zhuangzi's parable about form without essence.",
     "tags": [
       "chengyu",
       "classical",
@@ -1803,7 +1824,7 @@
     "type": "vocab",
     "category": "chengyu",
     "title": "君子不器 · the exemplary person is not a vessel",
-    "desc": "Confucius says the junzi is not a utensil — not defined by function, not limited to one use. The Analects' argument against reducing a person to their usefulness.",
+    "desc": "Confucius says the junzi is not a utensil: not defined by function, not limited to one use. The Analects' argument against reducing a person to their usefulness.",
     "tags": [
       "chengyu",
       "classical",
@@ -1865,7 +1886,7 @@
     "type": "vocab",
     "category": "chengyu",
     "title": "亡羊补牢 · mend the sheep pen after the sheep is lost",
-    "desc": "From the Zhanguo Ce: a man loses sheep through a hole in his pen and is told he is too late to repair it. A neighbor corrects the fatalist — remediation after a loss is not too late, it is exactly right.",
+    "desc": "From the Zhanguo Ce: a man loses sheep through a hole in his pen and is told he is too late to repair it. A neighbor corrects the fatalist: remediation after a loss is not too late, it is exactly right.",
     "tags": [
       "chengyu",
       "classical",
@@ -1905,7 +1926,7 @@
     "type": "vocab",
     "category": "chengyu",
     "title": "与时俱进 · to advance together with the times",
-    "desc": "A classical phrase that became a political slogan in 2001, used to justify the Communist Party accommodating private enterprise — and criticized for justifying whatever the party currently does.",
+    "desc": "A classical phrase that became a political slogan in 2001, used to justify the Communist Party accommodating private enterprise, and criticized for justifying whatever the party currently does.",
     "tags": [
       "chengyu",
       "classical",
@@ -1925,7 +1946,7 @@
     "type": "topic",
     "category": "culture",
     "title": "端午节 · Dragon Boat Festival",
-    "desc": "Rice dumplings thrown into a river for a drowned poet — the festival that fused an act of mourning into one of China's great summer celebrations.",
+    "desc": "Rice dumplings thrown into a river for a drowned poet: the festival that fused an act of mourning into one of China's great summer celebrations.",
     "tags": [
       "culture",
       "festival",
@@ -1942,7 +1963,7 @@
     "type": "topic",
     "category": "culture",
     "title": "重阳节 · Double Ninth Festival",
-    "desc": "The festival named for two nines produced one of the Tang dynasty most memorized poems — and a linguistic trick that lets urban dwellers eat a cake instead of climbing a mountain.",
+    "desc": "The festival named for two nines produced one of the Tang dynasty most memorized poems, and a linguistic trick that lets urban dwellers eat a cake instead of climbing a mountain.",
     "tags": [
       "festival",
       "culture",
@@ -2033,8 +2054,8 @@
     "path": "pages/grammar/dou_都.html",
     "type": "grammar",
     "category": "grammar",
-    "title": "都 · all, both, even — the universal scope adverb",
-    "desc": "The adverb that quantifies everything before it, not after — and whose position in a sentence determines whether you mean \"none\" or \"not all.\"",
+    "title": "都 · all, both, even: the universal scope adverb",
+    "desc": "The adverb that quantifies everything before it, not after, and whose position in a sentence determines whether you mean \"none\" or \"not all.\"",
     "tags": [
       "adverb",
       "grammar",
@@ -2050,8 +2071,8 @@
     "path": "pages/grammar/hai_还.html",
     "type": "grammar",
     "category": "grammar",
-    "title": "还 · still, also, even — the continuative adverb",
-    "desc": "One adverb, four distinct jobs — and a single thread connecting all of them: something continues past the expected boundary.",
+    "title": "还 · still, also, even: the continuative adverb",
+    "desc": "One adverb, four distinct jobs, and a single thread connecting all of them: something continues past the expected boundary.",
     "tags": [
       "adverb",
       "grammar",
@@ -2067,7 +2088,7 @@
     "type": "grammar",
     "category": "grammar",
     "title": "乃 · classical connective: then, thereupon, thus; to be; only then",
-    "desc": "A classical connective that marks earned consequence — the result that follows because the condition was genuinely met, not merely next in line.",
+    "desc": "A classical connective that marks earned consequence: the result that follows because the condition was genuinely met, not merely next in line.",
     "tags": [
       "grammar",
       "classical",
@@ -2087,7 +2108,7 @@
     "type": "grammar",
     "category": "grammar",
     "title": "所 · classical nominalizer and passive marker",
-    "desc": "The function word that turns verbs into noun phrases — and has been doing so since Confucius quoted it in the Analects.",
+    "desc": "The function word that turns verbs into noun phrases, and has been doing so since Confucius quoted it in the Analects.",
     "tags": [
       "grammar",
       "classical",
@@ -2122,7 +2143,7 @@
     "type": "grammar",
     "category": "grammar",
     "title": "嘛 · the obvious-conclusion particle",
-    "desc": "The particle that frames a statement as self-evident — explaining, justifying, or mildly exasperated that you even had to say it.",
+    "desc": "The particle that frames a statement as self-evident: explaining, justifying, or mildly exasperated that you even had to say it.",
     "tags": [
       "particle",
       "particles",
@@ -2140,7 +2161,7 @@
     "type": "grammar",
     "category": "grammar",
     "title": "之 · classical genitive, nominalizer, and pronoun",
-    "desc": "The single character that does the work of three English words — of, it, and the one who — and still shows up in modern Chinese every day.",
+    "desc": "The single character that does the work of three English words (of, it, and the one who) and still shows up in modern Chinese every day.",
     "tags": [
       "grammar",
       "classical",
@@ -2158,7 +2179,7 @@
     "type": "grammar",
     "category": "grammar",
     "title": "者 · classical nominalizer \"the one who; that which\"",
-    "desc": "The particle that turns a verb or adjective into a person — and that never stopped working.",
+    "desc": "The particle that turns a verb or adjective into a person, and that never stopped working.",
     "tags": [
       "grammar",
       "classical",
@@ -2174,8 +2195,8 @@
     "path": "pages/history/topic_chunqiu.html",
     "type": "topic",
     "category": "history",
-    "title": "春秋时代 · the Spring and Autumn Period — 722–481 BCE",
-    "desc": "The era named after a chronicle Confucius wrote about it — four centuries when Zhou ritual authority collapsed in practice while remaining indispensable in theory.",
+    "title": "春秋时代 · the Spring and Autumn Period (722–481 BCE)",
+    "desc": "The era named after a chronicle Confucius wrote about it: four centuries when Zhou ritual authority collapsed in practice while remaining indispensable in theory.",
     "tags": [
       "history",
       "confucianism",
@@ -2196,7 +2217,7 @@
     "type": "topic",
     "category": "history",
     "title": "周朝 · The Zhou Dynasty",
-    "desc": "The longest dynasty in Chinese history and the philosophical seedbed of Chinese civilization — where the Mandate of Heaven was born, Confucius lived, and nearly every idea that shaped imperial China was first argued.",
+    "desc": "The longest dynasty in Chinese history and the philosophical seedbed of Chinese civilization: where the Mandate of Heaven was born, Confucius lived, and nearly every idea that shaped imperial China was first argued.",
     "tags": [
       "history",
       "ancient",
@@ -2238,7 +2259,7 @@
     "type": "topic",
     "category": "philosophy",
     "title": "王阳明 · Wang Yangming and the School of Mind",
-    "desc": "Wang Yangming broke Neo-Confucianism open: instead of investigating external things to reach moral truth, he turned inward and declared that the moral mind already knows — and that knowing and acting are one indivisible movement.",
+    "desc": "Wang Yangming broke Neo-Confucianism open: instead of investigating external things to reach moral truth, he turned inward and declared that the moral mind already knows, and that knowing and acting are one indivisible movement.",
     "tags": [
       "wang-yangming",
       "neo-confucianism",
@@ -2260,7 +2281,7 @@
     "type": "topic",
     "category": "philosophy",
     "title": "正名 · Rectification of Names",
-    "desc": "Confucius told Zilu that governing begins with calling things by their right names — because a ruler who does not rule like a ruler has no claim to the title 君.",
+    "desc": "Confucius told Zilu that governing begins with calling things by their right names, because a ruler who does not rule like a ruler has no claim to the title 君.",
     "tags": [
       "confucianism",
       "confucius",
@@ -2279,8 +2300,8 @@
     "path": "pages/religion/topic_guanyin.html",
     "type": "topic",
     "category": "religion",
-    "title": "观音 · Guanyin — Bodhisattva of Compassion",
-    "desc": "A male Indian bodhisattva who became, by the Song dynasty, the most beloved female deity in China — and whose invocation may be the most widely spoken Buddhist phrase in the world.",
+    "title": "观音 · Guanyin, Bodhisattva of Compassion",
+    "desc": "A male Indian bodhisattva who became, by the Song dynasty, the most beloved female deity in China, and whose invocation may be the most widely spoken Buddhist phrase in the world.",
     "tags": [
       "religion",
       "buddhism",
@@ -2296,8 +2317,8 @@
     "path": "pages/science/topic_tiangan_dizhi.html",
     "type": "topic",
     "category": "science",
-    "title": "天干地支 · Heavenly Stems and Earthly Branches — the 60-year cycle",
-    "desc": "A combinatorial timekeeping system the Shang scribes used in 1250 BCE to date their divination sessions — and that Chinese people still use to name years, hours, and contract parties today.",
+    "title": "天干地支 · Heavenly Stems and Earthly Branches: the 60-year cycle",
+    "desc": "A combinatorial timekeeping system the Shang scribes used in 1250 BCE to date their divination sessions, and that Chinese people still use to name years, hours, and contract parties today.",
     "tags": [
       "science",
       "calendar",
@@ -2314,7 +2335,7 @@
     "type": "topic",
     "category": "science",
     "title": "五行 · Five Phases",
-    "desc": "The Qin dynasty dressed its armies in black and flew black banners because its theorists believed they ruled under the Water phase — this is how consequentially the Five Phases shaped Chinese history.",
+    "desc": "The Qin dynasty dressed its armies in black and flew black banners because its theorists believed they ruled under the Water phase: this is how consequentially the Five Phases shaped Chinese history.",
     "tags": [
       "wuxing",
       "five-phases",
@@ -2335,7 +2356,7 @@
     "type": "vocab",
     "category": "vocab",
     "title": "长城 · the Great Wall",
-    "desc": "A series of fortification systems built across multiple dynasties, whose most visible sections are Ming-era brick — not the continuous ancient rampart of popular imagination.",
+    "desc": "A series of fortification systems built across multiple dynasties, whose most visible sections are Ming-era brick: not the continuous ancient rampart of popular imagination.",
     "tags": [
       "history",
       "geography",
@@ -2354,7 +2375,7 @@
     "type": "vocab",
     "category": "vocab",
     "title": "传统 · tradition; traditional",
-    "desc": "The thread passed down through generations — and the concept that sits at the center of every Chinese debate about modernity, identity, and what to keep.",
+    "desc": "The thread passed down through generations: and the concept that sits at the center of every Chinese debate about modernity, identity, and what to keep.",
     "tags": [
       "culture",
       "history",
@@ -2369,7 +2390,7 @@
     "type": "vocab",
     "category": "vocab",
     "title": "慈悲 · compassion; mercy",
-    "desc": "Two Sanskrit terms fused into one Chinese compound: the wish that beings be happy and the wish that they be free from suffering — both directions of the same opening movement.",
+    "desc": "Two Sanskrit terms fused into one Chinese compound: the wish that beings be happy and the wish that they be free from suffering: both directions of the same opening movement.",
     "tags": [
       "buddhism",
       "compassion",
@@ -2388,7 +2409,7 @@
     "type": "vocab",
     "category": "vocab",
     "title": "国家 · nation; state; country",
-    "desc": "A compound of the two most culturally loaded characters in Chinese — country and family — that encodes the Confucian political imagination in two syllables.",
+    "desc": "A compound of the two most culturally loaded characters in Chinese: country and family, that encodes the Confucian political imagination in two syllables.",
     "tags": [
       "politics",
       "society",
@@ -2404,7 +2425,7 @@
     "type": "vocab",
     "category": "vocab",
     "title": "君子 · the exemplary person",
-    "desc": "The Confucian moral ideal that replaced aristocratic birth with cultivated virtue as the basis of social authority — anyone who does the work of 仁义礼智信 qualifies.",
+    "desc": "The Confucian moral ideal that replaced aristocratic birth with cultivated virtue as the basis of social authority: anyone who does the work of 仁义礼智信 qualifies.",
     "tags": [
       "confucianism",
       "ethics",
@@ -2439,7 +2460,7 @@
     "type": "vocab",
     "category": "vocab",
     "title": "历史 · history",
-    "desc": "The character for historian shows a hand holding a brush over a vessel — in ancient China, the scribe who held the brush held power.",
+    "desc": "The character for historian shows a hand holding a brush over a vessel: in ancient China, the scribe who held the brush held power.",
     "tags": [
       "history",
       "culture",
@@ -2457,7 +2478,7 @@
     "type": "vocab",
     "category": "vocab",
     "title": "轮回 · samsara; the cycle of rebirth",
-    "desc": "The Buddhist karmic wheel that turns through six realms of existence — the foundational concept that motivates all Buddhist practice as a path toward liberation.",
+    "desc": "The Buddhist karmic wheel that turns through six realms of existence: the foundational concept that motivates all Buddhist practice as a path toward liberation.",
     "tags": [
       "buddhism",
       "religion",
@@ -2476,7 +2497,7 @@
     "type": "vocab",
     "category": "vocab",
     "title": "菩萨 · Bodhisattva",
-    "desc": "菩萨 is the being who stands at the threshold of complete enlightenment and turns back — choosing to remain within the cycle of existence until every sentient being can be liberated alongside them.",
+    "desc": "菩萨 is the being who stands at the threshold of complete enlightenment and turns back: choosing to remain within the cycle of existence until every sentient being can be liberated alongside them.",
     "tags": [
       "buddhism",
       "religion",
@@ -2512,7 +2533,7 @@
     "type": "vocab",
     "category": "vocab",
     "title": "谦虚 · humility, modesty",
-    "desc": "谦虚 is both a Confucian virtue and a social practice — in Chinese interaction, it functions as a required performative register, not just an internal attitude.",
+    "desc": "谦虚 is both a Confucian virtue and a social practice: in Chinese interaction, it functions as a required performative register, not just an internal attitude.",
     "tags": [
       "confucianism",
       "virtue",
@@ -2528,7 +2549,7 @@
     "type": "vocab",
     "category": "vocab",
     "title": "人间 · the human world; the mortal realm",
-    "desc": "The world of people — where karma plays out, where flowers fade in April, and where the only beings who can hear the Dharma are born.",
+    "desc": "The world of people: where karma plays out, where flowers fade in April, and where the only beings who can hear the Dharma are born.",
     "tags": [
       "philosophy",
       "buddhism",
@@ -2547,7 +2568,7 @@
     "type": "vocab",
     "category": "vocab",
     "title": "社会 · society",
-    "desc": "The word for society that China borrowed from Japan, which had borrowed the characters from China — a compound forged at the altar of the earth.",
+    "desc": "The word for society that China borrowed from Japan, which had borrowed the characters from China: a compound forged at the altar of the earth.",
     "tags": [
       "society",
       "social",
@@ -2566,7 +2587,7 @@
     "type": "vocab",
     "category": "vocab",
     "title": "神明 · gods, spirits, deities; divine intelligence",
-    "desc": "The generic term for any deity in the Chinese religious world — and, in classical philosophy, the luminous intelligence that distinguishes the divine from the merely powerful.",
+    "desc": "The generic term for any deity in the Chinese religious world: and, in classical philosophy, the luminous intelligence that distinguishes the divine from the merely powerful.",
     "tags": [
       "religion",
       "folk-religion",
@@ -2583,7 +2604,7 @@
     "type": "vocab",
     "category": "vocab",
     "title": "丝绸之路 · the Silk Road",
-    "desc": "The term Silk Road was coined by a German geographer in 1877 — the Chinese themselves had no single name for the trade network that defined their contact with the world for a millennium.",
+    "desc": "The term Silk Road was coined by a German geographer in 1877: the Chinese themselves had no single name for the trade network that defined their contact with the world for a millennium.",
     "tags": [
       "history",
       "geography",
@@ -2617,7 +2638,7 @@
     "path": "pages/vocab/tianren_天人.html",
     "type": "vocab",
     "category": "vocab",
-    "title": "天人合一 · Heaven and humanity as one — the unity of cosmic and human order",
+    "title": "天人合一 · Heaven and humanity as one: the unity of cosmic and human order",
     "desc": "The organizing claim of Chinese cosmology: Heaven and humanity are not separate domains, and human flourishing depends on alignment with the natural order.",
     "tags": [
       "philosophy",
@@ -2638,7 +2659,7 @@
     "type": "vocab",
     "category": "vocab",
     "title": "文化 · culture; civilization",
-    "desc": "The word that names the organizing project of this entire site — and a concept that Chinese thought built from the ground up differently than the West did.",
+    "desc": "The word that names the organizing project of this entire site: and a concept that Chinese thought built from the ground up differently than the West did.",
     "tags": [
       "culture",
       "society",
@@ -2654,7 +2675,7 @@
     "type": "vocab",
     "category": "vocab",
     "title": "无为 · non-action; acting in accord with nature",
-    "desc": "无为 is the Daoist elimination of forced, ego-driven action — the master principle behind effortless effectiveness, sage governance, and Zhuangzi's cook whose knife stays forever sharp.",
+    "desc": "无为 is the Daoist elimination of forced, ego-driven action: the master principle behind effortless effectiveness, sage governance, and Zhuangzi's cook whose knife stays forever sharp.",
     "tags": [
       "daoism",
       "daodejing",
@@ -2670,8 +2691,8 @@
     "path": "pages/vocab/yi4_义.html",
     "type": "vocab",
     "category": "vocab",
-    "title": "义 · Righteousness — The Second Constant",
-    "desc": "Doing what is right because it is right — 义 as the enacted path of Confucian ethics, the constant that gives 仁 its direction.",
+    "title": "义 · Righteousness: The Second Constant",
+    "desc": "Doing what is right because it is right: 义 as the enacted path of Confucian ethics, the constant that gives 仁 its direction.",
     "tags": [
       "philosophy",
       "confucianism",
@@ -2688,7 +2709,7 @@
     "type": "vocab",
     "category": "vocab",
     "title": "智慧 · wisdom; prajna",
-    "desc": "智慧 brings together Confucian moral discernment and Buddhist prajna under one compound — two traditions, one word, different objects of knowing.",
+    "desc": "智慧 brings together Confucian moral discernment and Buddhist prajna under one compound: two traditions, one word, different objects of knowing.",
     "tags": [
       "philosophy",
       "buddhism",
@@ -2721,7 +2742,7 @@
     "type": "vocab",
     "category": "vocab",
     "title": "祖先 · ancestors; forebears",
-    "desc": "祖先 sits at the center of Chinese religious life — ancestor veneration is a living practice through which families maintain active, reciprocal continuity with the dead.",
+    "desc": "祖先 sits at the center of Chinese religious life: ancestor veneration is a living practice through which families maintain active, reciprocal continuity with the dead.",
     "tags": [
       "ancestors",
       "family",
@@ -2757,7 +2778,7 @@
     "type": "character",
     "category": "characters",
     "title": "来 · to come, to arrive, toward the speaker",
-    "desc": "Oracle bone wheat plant turned direction-word — 来 pulls everything toward the speaker, including time itself.",
+    "desc": "Oracle bone wheat plant turned direction-word: 来 pulls everything toward the speaker, including time itself.",
     "tags": [
       "direction",
       "motion",
@@ -2776,7 +2797,7 @@
     "type": "character",
     "category": "characters",
     "title": "其 · its, that, their",
-    "desc": "A winnowing basket that became the pronoun holding classical Chinese together — the silent 'its' behind thousands of literary phrases.",
+    "desc": "A winnowing basket that became the pronoun holding classical Chinese together: the silent 'its' behind thousands of literary phrases.",
     "tags": [
       "grammar",
       "classical",
@@ -2797,7 +2818,7 @@
     "type": "character",
     "category": "characters",
     "title": "去 · to go, to leave, to depart, to remove",
-    "desc": "The character that marks every departure — from leaving the house to the euphemism for death, 去 is the verb of things moving away.",
+    "desc": "The character that marks every departure, from leaving the house to the euphemism for death. 去 is the verb of things moving away.",
     "tags": [
       "direction",
       "motion",
@@ -2816,7 +2837,7 @@
     "type": "character",
     "category": "characters",
     "title": "上 · above, up, to go up, to mount",
-    "desc": "The most productive spatial primitive in Chinese — 上 starts as a notch above a line and ends up meaning everything from logging on to getting addicted.",
+    "desc": "The most productive spatial primitive in Chinese. 上 starts as a notch above a line and ends up meaning everything from logging on to getting addicted.",
     "tags": [
       "direction",
       "grammar",
@@ -2854,7 +2875,7 @@
     "type": "character",
     "category": "characters",
     "title": "信 · trust, faith, credibility",
-    "desc": "A person standing by their word — one of the most visually transparent characters in the language, and the virtue that holds every contract, conversation, and relationship together.",
+    "desc": "A person standing by their word: one of the most visually transparent characters in the language, and the virtue that holds every contract, conversation, and relationship together.",
     "tags": [
       "confucianism",
       "ethics",
@@ -2875,7 +2896,7 @@
     "type": "character",
     "category": "characters",
     "title": "义 · righteousness, duty, justice",
-    "desc": "The Confucian virtue of doing what is morally right — and the simplification that erased a sheep, a self, and the entire picture of what righteous form looks like.",
+    "desc": "The Confucian virtue of doing what is morally right, and the simplification that erased a sheep, a self, and the entire picture of what righteous form looks like.",
     "tags": [
       "confucianism",
       "ethics",
@@ -2895,7 +2916,7 @@
     "type": "character",
     "category": "characters",
     "title": "雨 · rain",
-    "desc": "The oracle bone shows rain falling from the sky — one of the most transparent pictographs in the script, and the radical that organizes all Chinese weather.",
+    "desc": "The oracle bone shows rain falling from the sky: one of the most transparent pictographs in the script, and the radical that organizes all Chinese weather.",
     "tags": [
       "nature",
       "radical",
@@ -2914,7 +2935,7 @@
     "type": "character",
     "category": "characters",
     "title": "云 · cloud",
-    "desc": "The simplified 云 is older than the traditional 雲 — a rare case where the modern form recovers the ancient one.",
+    "desc": "The simplified 云 is older than the traditional 雲, a rare case where the modern form recovers the ancient one.",
     "tags": [
       "nature",
       "cosmology",
@@ -2970,7 +2991,7 @@
     "type": "vocab",
     "category": "chengyu",
     "title": "山清水秀 · Mountains Clear, Waters Lovely",
-    "desc": "Clear mountains, lovely waters. The standard Chinese phrase for a picturesque landscape — four characters that compress the whole aesthetic vocabulary of natural beauty.",
+    "desc": "Clear mountains, lovely waters. The standard Chinese phrase for a picturesque landscape: four characters that compress the whole aesthetic vocabulary of natural beauty.",
     "tags": [
       "idioms",
       "classical",
@@ -2986,7 +3007,7 @@
     "type": "vocab",
     "category": "chengyu",
     "title": "一毛不拔 · Not Give Even a Hair",
-    "desc": "Refuse to give even a single hair from your body. Mencius's phrase for the Yangist philosophy of radical self-preservation — and the word for a miser that it became.",
+    "desc": "Refuse to give even a single hair from your body. Mencius's phrase for the Yangist philosophy of radical self-preservation, and the word for a miser that it became.",
     "tags": [
       "idioms",
       "classical",
@@ -3002,7 +3023,7 @@
     "type": "topic",
     "category": "daily",
     "title": "家庭 · Family Structure",
-    "desc": "Chinese kinship terminology is a precision instrument — each relative has one specific term, and that precision maps an obligation network, not just a family tree.",
+    "desc": "Chinese kinship terminology is a precision instrument: each relative has one specific term, and that precision maps an obligation network, not just a family tree.",
     "tags": [
       "family",
       "social",
@@ -3038,7 +3059,7 @@
     "type": "grammar",
     "category": "grammar",
     "title": "着 · the continuous aspect marker",
-    "desc": "Three distinct jobs: holding a state, linking two actions, and commanding attention — all from a single particle that beginners collapse into one.",
+    "desc": "Three distinct jobs: holding a state, linking two actions, and commanding attention. All from a single particle that beginners collapse into one.",
     "tags": [
       "aspect",
       "particle",
@@ -3073,8 +3094,8 @@
     "path": "pages/hubs/daode.html",
     "type": "hub",
     "category": "hubs",
-    "title": "道德与伦理 · Morality and Ethics — A Reading Path",
-    "desc": "Chinese ethics is not a checklist of personal virtues. It is a description of how one should relate to specific others — and what happens when those relationships are tested.",
+    "title": "道德与伦理 · Morality and Ethics: A Reading Path",
+    "desc": "Chinese ethics is not a checklist of personal virtues. It is a description of how one should relate to specific others, and what happens when those relationships are tested.",
     "tags": [
       "ethics",
       "confucianism",
@@ -3090,7 +3111,7 @@
     "path": "pages/hubs/dili.html",
     "type": "hub",
     "category": "hubs",
-    "title": "地理与语言 · Geography and Language — A Reading Path",
+    "title": "地理与语言 · Geography and Language: A Reading Path",
     "desc": "The rivers shaped the civilization; geography fractured the language; one writing system held it together.",
     "tags": [
       "geography",
@@ -3107,7 +3128,7 @@
     "path": "pages/hubs/faming.html",
     "type": "hub",
     "category": "hubs",
-    "title": "四大发明与技术 · Invention and Technology — A Reading Path",
+    "title": "四大发明与技术 · Invention and Technology: A Reading Path",
     "desc": "Chinese technological innovation was not a story of lone inventors. It was systematic accumulation within state institutions and artisan guilds over centuries, carried by people whose names the record does not preserve.",
     "tags": [
       "science",
@@ -3124,7 +3145,7 @@
     "path": "pages/hubs/hanyu.html",
     "type": "hub",
     "category": "hubs",
-    "title": "汉语学习路 · Learning Chinese — A Reading Path",
+    "title": "汉语学习路 · Learning Chinese: A Reading Path",
     "desc": "A staged reading path from tones and sounds through characters, grammar, and a first encounter with classical Chinese.",
     "tags": [
       "language",
@@ -3142,7 +3163,7 @@
     "path": "pages/hubs/wenxue.html",
     "type": "hub",
     "category": "hubs",
-    "title": "文学路径 · Literary China — A Reading Path",
+    "title": "文学路径 · Literary China: A Reading Path",
     "desc": "Chinese literature is not a sequence of styles that replaced each other. It is an accumulation. This path follows the layering forward in time.",
     "tags": [
       "literature",
@@ -3159,8 +3180,8 @@
     "path": "pages/hubs/zongjiao.html",
     "type": "hub",
     "category": "hubs",
-    "title": "宗教地图 · The Religious Map — A Reading Path",
-    "desc": "Chinese religiosity doesn't fit Western categories. Most people practice elements of Confucianism, Daoism, Buddhism, folk religion, and ancestor veneration simultaneously — a map of how these traditions relate.",
+    "title": "宗教地图 · The Religious Map: A Reading Path",
+    "desc": "Chinese religiosity doesn't fit Western categories. Most people practice elements of Confucianism, Daoism, Buddhism, folk religion, and ancestor veneration simultaneously: a map of how these traditions relate.",
     "tags": [
       "religion",
       "buddhism",
@@ -3178,7 +3199,7 @@
     "type": "vocab",
     "category": "vocab",
     "title": "自然 · nature; natural; of course",
-    "desc": "Laozi placed 自然 at the center of his cosmology: the Way models itself on what is so of itself — no outside force required.",
+    "desc": "Laozi placed 自然 at the center of his cosmology: the Way models itself on what is so of itself: no outside force required.",
     "tags": [
       "nature",
       "daoism",
@@ -3214,7 +3235,7 @@
     "type": "character",
     "category": "characters",
     "title": "告 · to tell, to announce, to report",
-    "desc": "A mouth aimed upward: the character for delivering words to authority — and the root of advertising, accusations, and warnings.",
+    "desc": "A mouth aimed upward: the character for delivering words to authority, and the root of advertising, accusations, and warnings.",
     "tags": [
       "communication",
       "legal",
@@ -3233,7 +3254,7 @@
     "type": "character",
     "category": "characters",
     "title": "广 · wide, broad, to spread",
-    "desc": "A radical and a word: the cliff-shelter that became the prefix for everything expansive — from Guangzhou to Guangdong to radio broadcasts.",
+    "desc": "A radical and a word: the cliff-shelter that became the prefix for everything expansive, from Guangzhou to Guangdong to radio broadcasts.",
     "tags": [
       "space",
       "geography",
@@ -3252,7 +3273,7 @@
     "type": "character",
     "category": "characters",
     "title": "品 · article, grade, character, to taste",
-    "desc": "Three mouths stacked: a character about multiplicity, evaluation, and the discerning assessment of quality — from product grades to moral character.",
+    "desc": "Three mouths stacked: a character about multiplicity, evaluation, and the discerning assessment of quality, from product grades to moral character.",
     "tags": [
       "evaluation",
       "quality",
@@ -3272,7 +3293,7 @@
     "type": "character",
     "category": "characters",
     "title": "图 · map, diagram, to plan, to seek",
-    "desc": "A character for diagrams, maps, intentions, and plots — anything that represents the world at one remove, or seeks to reshape it.",
+    "desc": "A character for diagrams, maps, intentions, and plots: anything that represents the world at one remove, or seeks to reshape it.",
     "tags": [
       "visual",
       "planning",
@@ -3290,8 +3311,8 @@
     "path": "pages/characters/zhi1_之.html",
     "type": "character",
     "category": "characters",
-    "title": "之 · of, going, this — the classical connective",
-    "desc": "The most-written character in classical Chinese — a possessive particle, pronoun, and verb fossilized into pure grammar.",
+    "title": "之 · of, going, this: the classical connective",
+    "desc": "The most-written character in classical Chinese: a possessive particle, pronoun, and verb fossilized into pure grammar.",
     "tags": [
       "classical",
       "grammar",
@@ -3310,7 +3331,7 @@
     "path": "pages/vocab/bihua_笔画.html",
     "type": "topic",
     "category": "vocab",
-    "title": "笔画 · strokes — the building blocks of Chinese characters",
+    "title": "笔画 · strokes: the building blocks of Chinese characters",
     "desc": "Every Chinese character is built from a small set of standard strokes written in a prescribed order. Stroke count determines dictionary order; stroke order determines how a character looks when written by hand.",
     "tags": [
       "characters",
@@ -3326,7 +3347,7 @@
     "path": "pages/vocab/bushou_部首.html",
     "type": "topic",
     "category": "vocab",
-    "title": "部首 · radicals — the indexing keys of Chinese characters",
+    "title": "部首 · radicals: the indexing keys of Chinese characters",
     "desc": "Every Chinese character belongs to a radical family. Radicals are the organizing principle of dictionaries, the structural DNA of characters, and the fastest shortcut to guessing what an unfamiliar word means.",
     "tags": [
       "characters",
@@ -3343,7 +3364,7 @@
     "type": "vocab",
     "category": "vocab",
     "title": "产品 · product, manufactured good",
-    "desc": "The standard Chinese word for product — what production yields and commerce moves. From factory floor to digital marketplace, 产品 names the output of organized human effort.",
+    "desc": "The standard Chinese word for product: what production yields and commerce moves. From factory floor to digital marketplace, 产品 names the output of organized human effort.",
     "tags": [
       "commerce",
       "economy",
@@ -3358,7 +3379,7 @@
     "type": "topic",
     "category": "vocab",
     "title": "拼音 · the romanization system for Mandarin",
-    "desc": "Pinyin is the official romanization of Mandarin — the system that maps Chinese sounds to the Latin alphabet. It is a pronunciation guide, not a writing system, and it does not replace characters.",
+    "desc": "Pinyin is the official romanization of Mandarin: the system that maps Chinese sounds to the Latin alphabet. It is a pronunciation guide, not a writing system, and it does not replace characters.",
     "tags": [
       "language",
       "grammar",
@@ -3374,7 +3395,7 @@
     "type": "vocab",
     "category": "vocab",
     "title": "生产 · to produce, production, manufacturing",
-    "desc": "The foundational act of economic life — and, in China's Marxist political vocabulary, the act from which all social relations flow. Life gives rise to production; production sustains life.",
+    "desc": "The foundational act of economic life: and, in China's Marxist political vocabulary, the act from which all social relations flow. Life gives rise to production; production sustains life.",
     "tags": [
       "economy",
       "production",
@@ -3390,7 +3411,7 @@
     "type": "topic",
     "category": "vocab",
     "title": "声调 · the four tones of Mandarin",
-    "desc": "Mandarin is tonal: the same syllable said at four different pitches means four different things. Tone is not emphasis — it is part of the word.",
+    "desc": "Mandarin is tonal: the same syllable said at four different pitches means four different things. Tone is not emphasis: it is part of the word.",
     "tags": [
       "grammar",
       "language",
@@ -3406,7 +3427,7 @@
     "type": "topic",
     "category": "arts",
     "title": "楚辞 · Songs of Chu",
-    "desc": "The shamanistic southern voice that gave Chinese literature its second pole — visionary, romantic, and inconsolably exiled.",
+    "desc": "The shamanistic southern voice that gave Chinese literature its second pole: visionary, romantic, and inconsolably exiled.",
     "tags": [
       "poetry",
       "literature",
@@ -3423,7 +3444,7 @@
     "type": "topic",
     "category": "arts",
     "title": "昆曲 · Kun Opera",
-    "desc": "The oldest surviving form of Chinese opera — refined to such perfection over four centuries that it nearly disappeared from its own beauty.",
+    "desc": "The oldest surviving form of Chinese opera, refined to such perfection over four centuries that it nearly disappeared from its own beauty.",
     "tags": [
       "opera",
       "theatre",
@@ -3442,7 +3463,7 @@
     "type": "topic",
     "category": "arts",
     "title": "鲁迅 · Lu Xun",
-    "desc": "The writer who looked at traditional Chinese society and saw cannibalism — and the complicated, unresolvable legacy he left behind.",
+    "desc": "The writer who looked at traditional Chinese society and saw cannibalism, and the complicated, unresolvable legacy he left behind.",
     "tags": [
       "literature",
       "history",
@@ -3459,7 +3480,7 @@
     "type": "topic",
     "category": "arts",
     "title": "诗经 · Book of Songs",
-    "desc": "China oldest poetry anthology — three hundred poems that Confucius said no educated person could afford to ignore.",
+    "desc": "China oldest poetry anthology: three hundred poems that Confucius said no educated person could afford to ignore.",
     "tags": [
       "poetry",
       "literature",
@@ -3476,7 +3497,7 @@
     "type": "topic",
     "category": "arts",
     "title": "水墨画 · Ink-Wash Painting",
-    "desc": "Where the brush meets philosophy — five tones of ink, the art of leaving space, and landscapes that are not about landscape at all.",
+    "desc": "Where the brush meets philosophy: five tones of ink, the art of leaving space, and landscapes that are not about landscape at all.",
     "tags": [
       "art",
       "brush",
@@ -3494,7 +3515,7 @@
     "type": "topic",
     "category": "arts",
     "title": "宋词 · Song Dynasty Lyric",
-    "desc": "The poem that sings — fixed tune patterns, named meters, and three masters who defined what the Chinese lyric could feel.",
+    "desc": "The poem that sings: fixed tune patterns, named meters, and three masters who defined what the Chinese lyric could feel.",
     "tags": [
       "poetry",
       "literature",
@@ -3530,7 +3551,7 @@
     "type": "topic",
     "category": "arts",
     "title": "篆刻 · Seal Carving",
-    "desc": "The art of the name — bronze to stone, dynasty to dynasty, two schools of carvers, and the small red square that authenticates everything.",
+    "desc": "The art of the name: bronze to stone, dynasty to dynasty, two schools of carvers, and the small red square that authenticates everything.",
     "tags": [
       "calligraphy",
       "art",
@@ -3548,7 +3569,7 @@
     "type": "character",
     "category": "characters",
     "title": "爱 · love, to love, to cherish",
-    "desc": "Love in all its forms — romantic, familial, and the Confucian ethic of universal benevolence.",
+    "desc": "Love in all its forms: romantic, familial, and the Confucian ethic of universal benevolence.",
     "tags": [
       "emotion",
       "romance",
@@ -3567,7 +3588,7 @@
     "type": "character",
     "category": "characters",
     "title": "变 · to change, to transform",
-    "desc": "The character at the heart of the I Ching, the dynastic cycle, and the modern vocabulary of reform — change as the one constant.",
+    "desc": "The character at the heart of the I Ching, the dynastic cycle, and the modern vocabulary of reform: change as the one constant.",
     "tags": [
       "philosophy",
       "change"
@@ -3604,7 +3625,7 @@
     "type": "character",
     "category": "characters",
     "title": "茶 · tea",
-    "desc": "The character that gave the world its word for tea — a grass over wood over man, a plant that shaped civilization, and the locus of China's richest material culture.",
+    "desc": "The character that gave the world its word for tea: a grass over wood over man, a plant that shaped civilization, and the locus of China's richest material culture.",
     "tags": [
       "tea",
       "culture",
@@ -3624,7 +3645,7 @@
     "type": "character",
     "category": "characters",
     "title": "长 · long; to grow; chief",
-    "desc": "A person with flowing long hair — one character, two readings: cháng (long) and zhǎng (to grow, elder), the richest dual-reading in Mandarin.",
+    "desc": "A person with flowing long hair. One character, two readings: cháng (long) and zhǎng (to grow, elder), the richest dual-reading in Mandarin.",
     "tags": [
       "grammar",
       "culture",
@@ -3643,7 +3664,7 @@
     "type": "character",
     "category": "characters",
     "title": "吃 · to eat",
-    "desc": "To eat — and the extraordinary range of Chinese life encoded in a single food verb.",
+    "desc": "To eat, and the extraordinary range of Chinese life encoded in a single food verb.",
     "tags": [
       "food",
       "daily-life",
@@ -3662,7 +3683,7 @@
     "type": "character",
     "category": "characters",
     "title": "打 · to hit, to strike; the most versatile verb in Mandarin",
-    "desc": "To hit — and a hundred extensions: make a call, play a sport, pack a bag, get an injection. The most productive light verb in Chinese.",
+    "desc": "To hit, and a hundred extensions: make a call, play a sport, pack a bag, get an injection. The most productive light verb in Chinese.",
     "tags": [
       "daily-life",
       "grammar",
@@ -3681,7 +3702,7 @@
     "type": "character",
     "category": "characters",
     "title": "大 · big, great, large",
-    "desc": "Big, great, large — a person with arms wide open, the original measure of magnitude.",
+    "desc": "Big, great, large: a person with arms wide open, the original measure of magnitude.",
     "tags": [
       "cosmology",
       "scale",
@@ -3700,7 +3721,7 @@
     "type": "character",
     "category": "characters",
     "title": "地 · earth, ground, land",
-    "desc": "Heaven above, earth below — the second power of the cosmos, and the root of every word about place, ground, and belonging.",
+    "desc": "Heaven above, earth below: the second power of the cosmos, and the root of every word about place, ground, and belonging.",
     "tags": [
       "nature",
       "geography"
@@ -3718,7 +3739,7 @@
     "type": "character",
     "category": "characters",
     "title": "电 · electricity, electric, telegram",
-    "desc": "Lightning descending from a rain cloud — a character that jumped from describing the weather to naming the force that defines modern civilization.",
+    "desc": "Lightning descending from a rain cloud, a character that jumped from describing the weather to naming the force that defines modern civilization.",
     "tags": [
       "culture",
       "daily"
@@ -3736,7 +3757,7 @@
     "type": "character",
     "category": "characters",
     "title": "佛 · Buddha, the awakened",
-    "desc": "The character that carried an entire worldview across the Silk Road — etymology, Buddhism, the 佛-family of compounds.",
+    "desc": "The character that carried an entire worldview across the Silk Road: etymology, Buddhism, the 佛-family of compounds.",
     "tags": [
       "religion",
       "buddhism",
@@ -3755,7 +3776,7 @@
     "type": "character",
     "category": "characters",
     "title": "福 · fortune, blessing, good luck",
-    "desc": "The most recognized Chinese character in the world — fortune, blessing, and the art of the upside-down 福.",
+    "desc": "The most recognized Chinese character in the world: fortune, blessing, and the art of the upside-down 福.",
     "tags": [
       "culture",
       "new-year",
@@ -3774,7 +3795,7 @@
     "type": "character",
     "category": "characters",
     "title": "工 · work, craft, labor, worker",
-    "desc": "Three strokes encoding heaven, earth, and the human craft connecting them — the root character for all labor, skill, and making in Chinese.",
+    "desc": "Three strokes encoding heaven, earth, and the human craft connecting them: the root character for all labor, skill, and making in Chinese.",
     "tags": [
       "culture",
       "history"
@@ -3792,7 +3813,7 @@
     "type": "character",
     "category": "characters",
     "title": "国 · country, nation, state",
-    "desc": "A walled enclosure protecting its people — the Chinese concept of nationhood written in a single character.",
+    "desc": "A walled enclosure protecting its people: the Chinese concept of nationhood written in a single character.",
     "tags": [
       "politics",
       "society",
@@ -3811,7 +3832,7 @@
     "type": "character",
     "category": "characters",
     "title": "好 · good; to like",
-    "desc": "Good, well, to like — and the tone split that doubles its expressive range.",
+    "desc": "Good, well, to like, and the tone split that doubles its expressive range.",
     "tags": [
       "virtue",
       "social",
@@ -3830,7 +3851,7 @@
     "type": "character",
     "category": "characters",
     "title": "火 · fire, flame, anger, popularity",
-    "desc": "Three flames rising — the character for fire and one of the most productive radicals in Chinese.",
+    "desc": "Three flames rising: the character for fire and one of the most productive radicals in Chinese.",
     "tags": [
       "nature",
       "radical",
@@ -3849,7 +3870,7 @@
     "type": "character",
     "category": "characters",
     "title": "角 · corner, horn, angle",
-    "desc": "Corner, horn, angle — the character that opens this site's name: 角落書屋.",
+    "desc": "Corner, horn, angle: the character that opens this site's name (角落書屋).",
     "tags": [
       "space",
       "geometry",
@@ -3871,7 +3892,7 @@
     "type": "character",
     "category": "characters",
     "title": "金 · gold, metal, money",
-    "desc": "Nuggets of gold beneath the earth — and one of the Five Phases that governs autumn, the west, and sharpness.",
+    "desc": "Nuggets of gold beneath the earth, and one of the Five Phases that governs autumn, the west, and sharpness.",
     "tags": [
       "nature",
       "radical",
@@ -3890,7 +3911,7 @@
     "type": "character",
     "category": "characters",
     "title": "口 · mouth, opening, entrance",
-    "desc": "A simple rectangle for an open mouth — one of the most productive radicals in the script, present in hundreds of characters for speaking, eating, and openings.",
+    "desc": "A simple rectangle for an open mouth: one of the most productive radicals in the script, present in hundreds of characters for speaking, eating, and openings.",
     "tags": [
       "body",
       "culture"
@@ -3908,7 +3929,7 @@
     "type": "character",
     "category": "characters",
     "title": "老 · old, venerable, experienced",
-    "desc": "A stooped elder with long hair — age as wisdom, seniority as moral authority, and the Daoist sage who wrote the Tao Te Ching.",
+    "desc": "A stooped elder with long hair: age as wisdom, seniority as moral authority, and the Daoist sage who wrote the Tao Te Ching.",
     "tags": [
       "confucianism",
       "family",
@@ -3987,7 +4008,7 @@
     "type": "character",
     "category": "characters",
     "title": "美 · beautiful, USA, delicious",
-    "desc": "A large sheep carrying horns — beauty as abundance, sacrifice, and the pleasure of the highest good.",
+    "desc": "A large sheep carrying horns: beauty as abundance, sacrifice, and the pleasure of the highest good.",
     "tags": [
       "aesthetics",
       "culture",
@@ -4006,7 +4027,7 @@
     "type": "character",
     "category": "characters",
     "title": "明 · bright, clear, tomorrow",
-    "desc": "Sun and moon combined — brightness, clarity, dawn, and understanding.",
+    "desc": "Sun and moon combined: brightness, clarity, dawn, and understanding.",
     "tags": [
       "light",
       "clarity",
@@ -4045,7 +4066,7 @@
     "type": "character",
     "category": "characters",
     "title": "年 · year",
-    "desc": "A person carrying a harvest of grain — year as the cycle of agricultural labor, and the heart of the Chinese New Year tradition.",
+    "desc": "A person carrying a harvest of grain: year as the cycle of agricultural labor, and the heart of the Chinese New Year tradition.",
     "tags": [
       "culture",
       "history",
@@ -4064,7 +4085,7 @@
     "type": "character",
     "category": "characters",
     "title": "女 · woman, female",
-    "desc": "A kneeling figure with crossed arms — one of the most productive radicals in the script, present in characters for family relationships, feelings, and cultural concepts.",
+    "desc": "A kneeling figure with crossed arms: one of the most productive radicals in the script, present in characters for family relationships, feelings, and cultural concepts.",
     "tags": [
       "family",
       "culture",
@@ -4083,7 +4104,7 @@
     "type": "character",
     "category": "characters",
     "title": "钱 · money, coin, currency",
-    "desc": "Money — the character that drives markets, proverbs, and the Chinese conversation about wealth.",
+    "desc": "Money: the character that drives markets, proverbs, and the Chinese conversation about wealth.",
     "tags": [
       "daily-life",
       "economy",
@@ -4102,7 +4123,7 @@
     "type": "character",
     "category": "characters",
     "title": "日 · sun, day, Japan",
-    "desc": "The oldest pictograph in the script — a circle with a dot for the sun, now a radical in hundreds of characters related to time, light, and warmth.",
+    "desc": "The oldest pictograph in the script: a circle with a dot for the sun, now a radical in hundreds of characters related to time, light, and warmth.",
     "tags": [
       "culture",
       "history",
@@ -4121,7 +4142,7 @@
     "type": "character",
     "category": "characters",
     "title": "色 · color, appearance, desire",
-    "desc": "A kneeling figure beneath a person — color as visible manifestation, and the character that links aesthetics to desire.",
+    "desc": "A kneeling figure beneath a person: color as visible manifestation, and the character that links aesthetics to desire.",
     "tags": [
       "aesthetics",
       "culture",
@@ -4141,7 +4162,7 @@
     "type": "character",
     "category": "characters",
     "title": "山 · mountain, hill, sacred peak",
-    "desc": "Three peaks rising from the earth — the oldest pictograph and the axis of Chinese sacred geography.",
+    "desc": "Three peaks rising from the earth: the oldest pictograph and the axis of Chinese sacred geography.",
     "tags": [
       "nature",
       "geography",
@@ -4160,7 +4181,7 @@
     "type": "character",
     "category": "characters",
     "title": "生 · life, birth, raw, student",
-    "desc": "A sprouting plant — life emerging from the earth. The most generative radical in Chinese.",
+    "desc": "A sprouting plant: life emerging from the earth. The most generative radical in Chinese.",
     "tags": [
       "life",
       "radical",
@@ -4179,7 +4200,7 @@
     "type": "character",
     "category": "characters",
     "title": "时 · time, hour, season",
-    "desc": "The sun moving — time as something visible, measurable, and morally weighted.",
+    "desc": "The sun moving: time as something visible, measurable, and morally weighted.",
     "tags": [
       "time",
       "daily"
@@ -4197,7 +4218,7 @@
     "type": "character",
     "category": "characters",
     "title": "手 · hand",
-    "desc": "A five-fingered hand drawn from life — one of the most productive radicals in the script, present in hundreds of action characters.",
+    "desc": "A five-fingered hand drawn from life: one of the most productive radicals in the script, present in hundreds of action characters.",
     "tags": [
       "body",
       "culture"
@@ -4215,7 +4236,7 @@
     "type": "character",
     "category": "characters",
     "title": "书 · book, writing, letter",
-    "desc": "Book, writing, calligraphy — the character that holds civilization together.",
+    "desc": "Book, writing, calligraphy: the character that holds civilization together.",
     "tags": [
       "literacy",
       "culture",
@@ -4257,7 +4278,7 @@
     "type": "character",
     "category": "characters",
     "title": "说 · to speak, to say, to explain",
-    "desc": "To speak, say, explain, and persuade — the character at the center of all communication.",
+    "desc": "To speak, say, explain, and persuade: the character at the center of all communication.",
     "tags": [
       "language",
       "communication",
@@ -4294,7 +4315,7 @@
     "type": "character",
     "category": "characters",
     "title": "土 · earth, soil, local, native",
-    "desc": "A mound of soil with a base — the earth phase of the Five Elements, and the root of hundreds of characters for land, construction, and cultural belonging.",
+    "desc": "A mound of soil with a base: the earth phase of the Five Elements, and the root of hundreds of characters for land, construction, and cultural belonging.",
     "tags": [
       "cosmology",
       "culture",
@@ -4313,7 +4334,7 @@
     "type": "character",
     "category": "characters",
     "title": "王 · king",
-    "desc": "Three horizontals joined by one vertical — the ruler who connects heaven, earth, and humanity. Also the most common Chinese surname, and a radical that is secretly 玉 (jade) in disguise.",
+    "desc": "Three horizontals joined by one vertical: the ruler who connects heaven, earth, and humanity. Also the most common Chinese surname, and a radical that is secretly 玉 (jade) in disguise.",
     "tags": [
       "radical",
       "royalty",
@@ -4333,7 +4354,7 @@
     "type": "character",
     "category": "characters",
     "title": "文 · writing, culture, civil",
-    "desc": "A tattooed figure — writing as marks on the body, culture as the accumulated markings of civilization.",
+    "desc": "A tattooed figure: writing as marks on the body, culture as the accumulated markings of civilization.",
     "tags": [
       "confucianism",
       "culture",
@@ -4353,7 +4374,7 @@
     "type": "character",
     "category": "characters",
     "title": "屋 · room, house, dwelling",
-    "desc": "Room, dwelling, and the human need for shelter — the character at home.",
+    "desc": "Room, dwelling, and the human need for shelter: the character at home.",
     "tags": [
       "space",
       "dwelling",
@@ -4375,7 +4396,7 @@
     "type": "character",
     "category": "characters",
     "title": "学 · to study, to learn, learning",
-    "desc": "Hands guiding a child beneath a roof — the character for learning as both action and institution.",
+    "desc": "Hands guiding a child beneath a roof: the character for learning as both action and institution.",
     "tags": [
       "confucianism",
       "education",
@@ -4395,7 +4416,7 @@
     "type": "character",
     "category": "characters",
     "title": "言 · speech, word, language",
-    "desc": "The root of every word about words — the mouth open, the tongue moving, the speech rising.",
+    "desc": "The root of every word about words: the mouth open, the tongue moving, the speech rising.",
     "tags": [
       "radical",
       "language"
@@ -4413,7 +4434,7 @@
     "type": "character",
     "category": "characters",
     "title": "要 · to want, must, essential",
-    "desc": "Want, need, must, and will — the grammar engine disguised as a single character.",
+    "desc": "Want, need, must, and will: the grammar engine disguised as a single character.",
     "tags": [
       "grammar",
       "modal"
@@ -4431,7 +4452,7 @@
     "type": "character",
     "category": "characters",
     "title": "语 · language, speech, words",
-    "desc": "Speech radical plus the phonetic 吾 (I, me) — the character for language carries the self within it, encoding the idea that language is the medium through which the self speaks to the world.",
+    "desc": "Speech radical plus the phonetic 吾 (I, me): the character for language carries the self within it, encoding the idea that language is the medium through which the self speaks to the world.",
     "tags": [
       "grammar",
       "culture"
@@ -4449,7 +4470,7 @@
     "type": "character",
     "category": "characters",
     "title": "月 · moon, month",
-    "desc": "A crescent moon in profile — and one of the most poetically charged characters in Chinese literature.",
+    "desc": "A crescent moon in profile, and one of the most poetically charged characters in Chinese literature.",
     "tags": [
       "nature",
       "radical",
@@ -4506,7 +4527,7 @@
     "type": "character",
     "category": "characters",
     "title": "中 · middle, China, to hit the mark",
-    "desc": "An arrow piercing through the center of a target — the character that names China as the Middle Kingdom and encodes the Confucian virtue of equilibrium.",
+    "desc": "An arrow piercing through the center of a target: the character that names China as the Middle Kingdom and encodes the Confucian virtue of equilibrium.",
     "tags": [
       "confucianism",
       "culture",
@@ -4526,7 +4547,7 @@
     "type": "character",
     "category": "characters",
     "title": "走 · to walk, to go, to leave",
-    "desc": "A figure in motion with feet below — the basic verb of movement that Chinese uses where English uses dozens of different words.",
+    "desc": "A figure in motion with feet below: the basic verb of movement that Chinese uses where English uses dozens of different words.",
     "tags": [
       "grammar",
       "culture"
@@ -4544,7 +4565,7 @@
     "type": "vocab",
     "category": "chengyu",
     "title": "画蛇添足 · Drawing Legs on a Snake",
-    "desc": "He finished first, so he kept drawing — and lost the prize. The idiom for ruining a good thing by overdoing it.",
+    "desc": "He finished first, so he kept drawing, and lost the prize. The idiom for ruining a good thing by overdoing it.",
     "tags": [
       "idioms",
       "classical",
@@ -4621,7 +4642,7 @@
     "type": "vocab",
     "category": "chengyu",
     "title": "误入歧途 · To Stray onto the Wrong Road",
-    "desc": "The four-character idiom for taking a wrong turn — morally, professionally, or literally. Where 迷途知返 describes the recovery, 误入歧途 describes the moment things went wrong.",
+    "desc": "The four-character idiom for taking a wrong turn, whether morally, professionally, or literally. Where 迷途知返 describes the recovery, 误入歧途 describes the moment things went wrong.",
     "tags": [
       "idioms",
       "classical",
@@ -4683,7 +4704,7 @@
     "type": "topic",
     "category": "culinary",
     "title": "川菜 · Sichuan Cuisine",
-    "desc": "The mala kitchen — how a landlocked basin built the most complex spice vocabulary in the world.",
+    "desc": "The mala kitchen: how a landlocked basin built the most complex spice vocabulary in the world.",
     "tags": [
       "food",
       "culture",
@@ -4716,7 +4737,7 @@
     "type": "topic",
     "category": "culinary",
     "title": "黑茶 · Dark Tea & Pu-erh",
-    "desc": "Post-fermented, microbially aged — the only tea category that genuinely improves with decades of storage, and the trade commodity that crossed the Tea-Horse Road to Tibet.",
+    "desc": "Post-fermented, microbially aged: the only tea category that genuinely improves with decades of storage, and the trade commodity that crossed the Tea-Horse Road to Tibet.",
     "tags": [
       "tea",
       "dark-tea",
@@ -4734,7 +4755,7 @@
     "type": "topic",
     "category": "culinary",
     "title": "红茶 · Red Tea (Black Tea)",
-    "desc": "Fully oxidized — what the world calls black tea, China calls red, named for the color of the liquor. From Keemun to Dianhong, China's contribution to global tea culture.",
+    "desc": "Fully oxidized: what the world calls black tea, China calls red, named for the color of the liquor. From Keemun to Dianhong, China's contribution to global tea culture.",
     "tags": [
       "tea",
       "black-tea",
@@ -4783,7 +4804,7 @@
     "type": "topic",
     "category": "culinary",
     "title": "鲁菜 · Shandong Cuisine",
-    "desc": "The oldest school — how the home province of Confucius fed the imperial court for two thousand years.",
+    "desc": "The oldest school: how the home province of Confucius fed the imperial court for two thousand years.",
     "tags": [
       "food",
       "culture",
@@ -4800,7 +4821,7 @@
     "type": "topic",
     "category": "culinary",
     "title": "绿茶 · Green Tea",
-    "desc": "The oldest and most-consumed tea category — unoxidized, fixed by heat, and expressing the full range from grassy Longjing to umami-rich Biluochun.",
+    "desc": "The oldest and most-consumed tea category: unoxidized, fixed by heat, and expressing the full range from grassy Longjing to umami-rich Biluochun.",
     "tags": [
       "tea",
       "green-tea",
@@ -4817,7 +4838,7 @@
     "type": "topic",
     "category": "culinary",
     "title": "面条 · Noodles",
-    "desc": "Four thousand years of wheat in water — noodle cultures from Lanzhou to Suzhou.",
+    "desc": "Four thousand years of wheat in water: noodle cultures from Lanzhou to Suzhou.",
     "tags": [
       "food",
       "culture",
@@ -4833,7 +4854,7 @@
     "type": "topic",
     "category": "culinary",
     "title": "花草茶 · Tisanes & Herbal Infusions",
-    "desc": "Not tea — but often called tea. The world of Chinese herbal infusions, floral teas, and medicinal brews that share the cup but not the leaf of Camellia sinensis.",
+    "desc": "Not tea, but often called tea. The world of Chinese herbal infusions, floral teas, and medicinal brews that share the cup but not the leaf of Camellia sinensis.",
     "tags": [
       "tea",
       "tisane",
@@ -4851,7 +4872,7 @@
     "type": "topic",
     "category": "culinary",
     "title": "乌龙茶 · Oolong Tea",
-    "desc": "The most complex and technically demanding tea category — partially oxidized, spanning a full spectrum from near-green to near-black, with a vocabulary of flavor unmatched in tea.",
+    "desc": "The most complex and technically demanding tea category: partially oxidized, spanning a full spectrum from near-green to near-black, with a vocabulary of flavor unmatched in tea.",
     "tags": [
       "tea",
       "oolong",
@@ -4987,7 +5008,7 @@
     "type": "topic",
     "category": "daily",
     "title": "称呼 · Forms of Address",
-    "desc": "In Chinese, how you address someone is not a formality — it is a precise statement of how you understand the relationship between you.",
+    "desc": "In Chinese, how you address someone is not a formality. It is a precise statement of how you understand the relationship between you.",
     "tags": [
       "social",
       "culture",
@@ -5024,7 +5045,7 @@
     "type": "topic",
     "category": "daily",
     "title": "敬酒 · Toasting Culture",
-    "desc": "The Chinese toast is a social instrument with its own grammar, hierarchy, and rules of engagement — not a punctuation mark at the end of a speech.",
+    "desc": "The Chinese toast is a social instrument with its own grammar, hierarchy, and rules of engagement, not a punctuation mark at the end of a speech.",
     "tags": [
       "social",
       "culture",
@@ -5042,7 +5063,7 @@
     "type": "topic",
     "category": "daily",
     "title": "迷信 · Superstitions",
-    "desc": "Superstition in China is a living system that coexists comfortably with education, modernity, and pragmatism — not a holdover from ignorance.",
+    "desc": "Superstition in China is a living system that coexists comfortably with education, modernity, and pragmatism, not a holdover from ignorance.",
     "tags": [
       "folk-religion",
       "symbolism",
@@ -5095,7 +5116,7 @@
     "type": "topic",
     "category": "daily",
     "title": "送礼 · Gift-Giving",
-    "desc": "Gift-giving in China is less about generosity than about maintenance — a technology for building and sustaining the relationships that make life work.",
+    "desc": "Gift-giving in China is less about generosity than about maintenance: a technology for building and sustaining the relationships that make life work.",
     "tags": [
       "gift",
       "social",
@@ -5113,7 +5134,7 @@
     "type": "topic",
     "category": "geography",
     "title": "八大菜系 · Cuisines as Geography",
-    "desc": "Read the Eight Great Cuisines as a geographic document — what the land, climate, and trade routes of each region produced at the table, and what the table tells you about the land.",
+    "desc": "Read the Eight Great Cuisines as a geographic document: what the land, climate, and trade routes of each region produced at the table, and what the table tells you about the land.",
     "tags": [
       "geography",
       "food",
@@ -5132,7 +5153,7 @@
     "type": "topic",
     "category": "geography",
     "title": "方言 · The Dialect Map",
-    "desc": "Chinese is not one language but a family — seven major dialect groups whose speakers cannot understand one another, united by a shared written script and divided by a history of geography and migration.",
+    "desc": "Chinese is not one language but a family: seven major dialect groups whose speakers cannot understand one another, united by a shared written script and divided by a history of geography and migration.",
     "tags": [
       "language",
       "geography",
@@ -5151,7 +5172,7 @@
     "type": "topic",
     "category": "geography",
     "title": "黄河 · Yellow River",
-    "desc": "The cradle of Chinese civilization — a river that floods, destroys, and nourishes in equal measure, its loess-yellow waters shaping every dynasty that tried to master it.",
+    "desc": "The cradle of Chinese civilization: a river that floods, destroys, and nourishes in equal measure, its loess-yellow waters shaping every dynasty that tried to master it.",
     "tags": [
       "geography",
       "river",
@@ -5168,7 +5189,7 @@
     "type": "topic",
     "category": "geography",
     "title": "上海 · Shanghai",
-    "desc": "From fishing village to the most cosmopolitan city in Asia — a port that absorbed empires, reinvented itself three times, and has never quite decided whether it belongs to China or the world.",
+    "desc": "From fishing village to the most cosmopolitan city in Asia: a port that absorbed empires, reinvented itself three times, and has never quite decided whether it belongs to China or the world.",
     "tags": [
       "geography",
       "history",
@@ -5186,7 +5207,7 @@
     "type": "topic",
     "category": "geography",
     "title": "香港 · Hong Kong",
-    "desc": "The entrepôt that became a world city — a harbor geography that made it the gateway between East and West, and a Cantonese identity that survived colonial rule and asks harder questions under reunification.",
+    "desc": "The entrepôt that became a world city: a harbor geography that made it the gateway between East and West, and a Cantonese identity that survived colonial rule and asks harder questions under reunification.",
     "tags": [
       "geography",
       "history",
@@ -5244,7 +5265,7 @@
     "type": "grammar",
     "category": "grammar",
     "title": "吧 · the suggestion and confirmation particle",
-    "desc": "The softest word in Mandarin — how one syllable softens commands, hedges statements, and reads the room.",
+    "desc": "The softest word in Mandarin: how one syllable softens commands, hedges statements, and reads the room.",
     "tags": [
       "particle",
       "pragmatics",
@@ -5259,7 +5280,7 @@
     "type": "grammar",
     "category": "grammar",
     "title": "比 · comparison structure",
-    "desc": "Mandarin's primary comparison marker — A 比 B + Adj expresses difference, not just ranking.",
+    "desc": "Mandarin's primary comparison marker: A 比 B + Adj expresses difference, not just ranking.",
     "tags": [
       "grammar",
       "syntax",
@@ -5274,7 +5295,7 @@
     "type": "grammar",
     "category": "grammar",
     "title": "除了 · except, besides, in addition to",
-    "desc": "The dual-function exclusion/inclusion marker — 除了 can narrow a set to everything except one thing, or expand it to include one more thing, depending on which particle follows.",
+    "desc": "The dual-function exclusion/inclusion marker: 除了 can narrow a set to everything except one thing, or expand it to include one more thing, depending on which particle follows.",
     "tags": [
       "grammar",
       "syntax"
@@ -5288,7 +5309,7 @@
     "type": "grammar",
     "category": "grammar",
     "title": "从 · from, since, following",
-    "desc": "The preposition of origin and following — 从 marks the starting point of movement in space and time, and appears in essential patterns for expressing duration, routes, and rules.",
+    "desc": "The preposition of origin and following: 从 marks the starting point of movement in space and time, and appears in essential patterns for expressing duration, routes, and rules.",
     "tags": [
       "grammar",
       "syntax"
@@ -5302,7 +5323,7 @@
     "type": "grammar",
     "category": "grammar",
     "title": "得 · the degree complement",
-    "desc": "The bridge between action and result — how 得 links what you did to how well you did it.",
+    "desc": "The bridge between action and result: how 得 links what you did to how well you did it.",
     "tags": [
       "complement",
       "degree",
@@ -5318,7 +5339,7 @@
     "type": "grammar",
     "category": "grammar",
     "title": "的话 · if; in the case that",
-    "desc": "The soft conditional — how 的话 marks a premise without committing to it.",
+    "desc": "The soft conditional: how 的话 marks a premise without committing to it.",
     "tags": [
       "conditional",
       "syntax",
@@ -5334,7 +5355,7 @@
     "type": "grammar",
     "category": "grammar",
     "title": "对 · toward, regarding, correct",
-    "desc": "A preposition, adjective, and verb rolled into one — 对 introduces the object of an action, asserts correctness, and forms the backbone of Chinese directional expressions.",
+    "desc": "A preposition, adjective, and verb rolled into one: 对 introduces the object of an action, asserts correctness, and forms the backbone of Chinese directional expressions.",
     "tags": [
       "grammar",
       "syntax",
@@ -5349,7 +5370,7 @@
     "type": "grammar",
     "category": "grammar",
     "title": "而且 · moreover, and furthermore",
-    "desc": "Additive conjunction that layers information — not just \"and\" but \"and on top of that.\"",
+    "desc": "Additive conjunction that layers information: not just \"and\" but \"and on top of that.\"",
     "tags": [
       "conjunction",
       "additive",
@@ -5364,7 +5385,7 @@
     "type": "grammar",
     "category": "grammar",
     "title": "刚 · just now, just happened",
-    "desc": "The recency adverb — 刚 marks that something happened very recently, and contrast with 刚才, 刚刚, 才, and 已经.",
+    "desc": "The recency adverb: 刚 marks that something happened very recently, and contrast with 刚才, 刚刚, 才, and 已经.",
     "tags": [
       "grammar",
       "syntax",
@@ -5379,7 +5400,7 @@
     "type": "grammar",
     "category": "grammar",
     "title": "过 · the experiential aspect marker",
-    "desc": "The particle that says 'I have ever done this' — not when, not how often, just that it once happened. The most-confused pair with 了.",
+    "desc": "The particle that says 'I have ever done this'. Not when, not how often, just that it once happened. The most-confused pair with 了.",
     "tags": [
       "aspect",
       "particle",
@@ -5394,7 +5415,7 @@
     "type": "grammar",
     "category": "grammar",
     "title": "没有 · negation of possession and past action",
-    "desc": "The two most important negation characters — 不 and 没 — and why they cannot be swapped.",
+    "desc": "The two most important negation characters, 不 and 没, and why they cannot be swapped.",
     "tags": [
       "negation",
       "past-tense",
@@ -5409,8 +5430,8 @@
     "path": "pages/grammar/qilai_起来.html",
     "type": "grammar",
     "category": "grammar",
-    "title": "起来 · directional complement — upward, inward, beginning",
-    "desc": "The most versatile directional complement in Mandarin — three distinct grammatical lives.",
+    "title": "起来 · directional complement: upward, inward, beginning",
+    "desc": "The most versatile directional complement in Mandarin: three distinct grammatical lives.",
     "tags": [
       "complement",
       "directional",
@@ -5425,7 +5446,7 @@
     "type": "grammar",
     "category": "grammar",
     "title": "让 · causative and permission structure",
-    "desc": "One verb, two functions: 让 makes someone do something, and lets someone do something — the core Chinese causative and permissive structure.",
+    "desc": "One verb, two functions: 让 makes someone do something, and lets someone do something. The core Chinese causative and permissive structure.",
     "tags": [
       "grammar",
       "syntax",
@@ -5440,7 +5461,7 @@
     "type": "grammar",
     "category": "grammar",
     "title": "如果…就 · if … then",
-    "desc": "The foundational conditional frame — the engine of hypothetical reasoning in Mandarin.",
+    "desc": "The foundational conditional frame: the engine of hypothetical reasoning in Mandarin.",
     "tags": [
       "conjunction",
       "syntax",
@@ -5455,7 +5476,7 @@
     "type": "grammar",
     "category": "grammar",
     "title": "虽然…但是 · although … but",
-    "desc": "The concession frame — granting the premise but pivoting to the real point.",
+    "desc": "The concession frame: granting the premise but pivoting to the real point.",
     "tags": [
       "conjunction",
       "concession",
@@ -5470,7 +5491,7 @@
     "type": "grammar",
     "category": "grammar",
     "title": "太…了 · too, excessively",
-    "desc": "The emphatic degree structure — 太…了 expresses excess and strong feeling, from complaints to enthusiastic praise.",
+    "desc": "The emphatic degree structure: 太…了 expresses excess and strong feeling, from complaints to enthusiastic praise.",
     "tags": [
       "grammar",
       "syntax",
@@ -5485,7 +5506,7 @@
     "type": "grammar",
     "category": "grammar",
     "title": "一边…一边 · while doing; at the same time",
-    "desc": "Simultaneous actions — the frame for describing two things happening at once.",
+    "desc": "Simultaneous actions: the frame for describing two things happening at once.",
     "tags": [
       "grammar",
       "aspect",
@@ -5500,7 +5521,7 @@
     "type": "grammar",
     "category": "grammar",
     "title": "已经 · already",
-    "desc": "Mandarin's 'already' adverb — how 已经 differs from English, its placement before the verb, and its relationship with 了 and 还没有.",
+    "desc": "Mandarin's 'already' adverb: how 已经 differs from English, its placement before the verb, and its relationship with 了 and 还没有.",
     "tags": [
       "grammar",
       "syntax",
@@ -5515,7 +5536,7 @@
     "type": "grammar",
     "category": "grammar",
     "title": "因为…所以 · because…therefore",
-    "desc": "The causal conjunction pair — 因为 states the cause and 所以 announces the result, forming a two-clause logical structure that Chinese uses more explicitly than English.",
+    "desc": "The causal conjunction pair: 因为 states the cause and 所以 announces the result, forming a two-clause logical structure that Chinese uses more explicitly than English.",
     "tags": [
       "grammar",
       "syntax"
@@ -5529,7 +5550,7 @@
     "type": "grammar",
     "category": "grammar",
     "title": "越来越 · more and more; increasingly",
-    "desc": "The degree escalation pattern — expressing a quality that grows continuously over time.",
+    "desc": "The degree escalation pattern: expressing a quality that grows continuously over time.",
     "tags": [
       "complement",
       "comparison",
@@ -5544,7 +5565,7 @@
     "type": "grammar",
     "category": "grammar",
     "title": "与其…不如 · rather than … it would be better to",
-    "desc": "Comparative preference construction — the most elegant way to argue for one choice over another.",
+    "desc": "Comparative preference construction: the most elegant way to argue for one choice over another.",
     "tags": [
       "conjunction",
       "comparison",
@@ -5559,7 +5580,7 @@
     "type": "grammar",
     "category": "grammar",
     "title": "只有…才 · only if…then; the restrictive conditional",
-    "desc": "The exclusive condition — only when X is met can Y happen. The grammatical frame for necessity.",
+    "desc": "The exclusive condition: only when X is met can Y happen. The grammatical frame for necessity.",
     "tags": [
       "grammar",
       "conditional",
@@ -5590,7 +5611,7 @@
     "type": "topic",
     "category": "history",
     "title": "科举 · The Imperial Examination System",
-    "desc": "The exam that governed Chinese civilization for 1,300 years — selecting officials by merit, enshrining the Confucian canon, and shaping every dynasty from the Sui through the Qing.",
+    "desc": "The exam that governed Chinese civilization for 1,300 years: selecting officials by merit, enshrining the Confucian canon, and shaping every dynasty from the Sui through the Qing.",
     "tags": [
       "history",
       "confucianism",
@@ -5608,7 +5629,7 @@
     "type": "topic",
     "category": "history",
     "title": "太平天国 · The Taiping Heavenly Kingdom",
-    "desc": "The millenarian rebellion that killed 20–30 million people and nearly toppled the Qing dynasty — the deadliest civil war in human history.",
+    "desc": "The millenarian rebellion that killed 20–30 million people and nearly toppled the Qing dynasty: the deadliest civil war in human history.",
     "tags": [
       "history",
       "qing",
@@ -5624,7 +5645,7 @@
     "type": "topic",
     "category": "hsk",
     "title": "第一级 · HSK 1",
-    "desc": "The complete HSK 1 vocabulary, character, and grammar list — cross-linked to Jiǎoluò Shūwū entries where available.",
+    "desc": "The complete HSK 1 vocabulary, character, and grammar list, cross-linked to Jiǎoluò Shūwū entries where available.",
     "tags": [
       "hsk",
       "vocabulary",
@@ -5639,7 +5660,7 @@
     "type": "topic",
     "category": "hsk",
     "title": "第二级 · HSK 2",
-    "desc": "The complete HSK 2 vocabulary, character, and grammar list — cross-linked to Jiǎoluò Shūwū entries where available.",
+    "desc": "The complete HSK 2 vocabulary, character, and grammar list, cross-linked to Jiǎoluò Shūwū entries where available.",
     "tags": [
       "hsk",
       "vocabulary",
@@ -5654,7 +5675,7 @@
     "type": "topic",
     "category": "hsk",
     "title": "第三级 · HSK 3",
-    "desc": "The complete HSK 3 vocabulary, character, and grammar list — cross-linked to Jiǎoluò Shūwū entries where available.",
+    "desc": "The complete HSK 3 vocabulary, character, and grammar list, cross-linked to Jiǎoluò Shūwū entries where available.",
     "tags": [
       "hsk",
       "vocabulary",
@@ -5669,7 +5690,7 @@
     "type": "topic",
     "category": "hsk",
     "title": "第四级 · HSK 4",
-    "desc": "The complete HSK 4 vocabulary, character, and grammar list — cross-linked to Jiǎoluò Shūwū entries where available.",
+    "desc": "The complete HSK 4 vocabulary, character, and grammar list, cross-linked to Jiǎoluò Shūwū entries where available.",
     "tags": [
       "hsk",
       "vocabulary",
@@ -5684,7 +5705,7 @@
     "type": "topic",
     "category": "hsk",
     "title": "第五级 · HSK 5",
-    "desc": "The complete HSK 5 vocabulary, character, and grammar list — cross-linked to Jiǎoluò Shūwū entries where available.",
+    "desc": "The complete HSK 5 vocabulary, character, and grammar list, cross-linked to Jiǎoluò Shūwū entries where available.",
     "tags": [
       "hsk",
       "vocabulary",
@@ -5699,7 +5720,7 @@
     "type": "topic",
     "category": "hsk",
     "title": "第六级 · HSK 6",
-    "desc": "The complete HSK 6 vocabulary, character, and grammar list — cross-linked to Jiǎoluò Shūwū entries where available.",
+    "desc": "The complete HSK 6 vocabulary, character, and grammar list, cross-linked to Jiǎoluò Shūwū entries where available.",
     "tags": [
       "hsk",
       "vocabulary",
@@ -5732,7 +5753,7 @@
     "path": "pages/hubs/dynasties.html",
     "type": "hub",
     "category": "hubs",
-    "title": "朝代 · The Dynasties — A Reading Path Through Chinese History",
+    "title": "朝代 · The Dynasties: A Reading Path Through Chinese History",
     "desc": "A guided walk through four thousand years of Chinese dynasties, from the three founding houses to the modern ruptures that ended imperial rule.",
     "tags": [
       "history",
@@ -5748,8 +5769,8 @@
     "path": "pages/hubs/hanzi.html",
     "type": "hub",
     "category": "hubs",
-    "title": "汉字 · The Writing System — A Reading Path",
-    "desc": "A guided walk through Chinese characters — from oracle bone to modern glyph, from radical to compound, from stroke to calligraphy.",
+    "title": "汉字 · The Writing System: A Reading Path",
+    "desc": "A guided walk through Chinese characters: from oracle bone to modern glyph, from radical to compound, from stroke to calligraphy.",
     "tags": [
       "characters",
       "hanzi",
@@ -5764,8 +5785,8 @@
     "path": "pages/hubs/jieri.html",
     "type": "hub",
     "category": "hubs",
-    "title": "节日 · The Festival Calendar — A Reading Path",
-    "desc": "A guided walk through the Chinese year — the lunar calendar, the solar terms, and the great festivals that mark the turning of time.",
+    "title": "节日 · The Festival Calendar: A Reading Path",
+    "desc": "A guided walk through the Chinese year: the lunar calendar, the solar terms, and the great festivals that mark the turning of time.",
     "tags": [
       "culture",
       "festival",
@@ -5781,7 +5802,7 @@
     "path": "pages/hubs/tea.html",
     "type": "hub",
     "category": "hubs",
-    "title": "六大茶类 · The Six Teas — A Reading Path",
+    "title": "六大茶类 · The Six Teas: A Reading Path",
     "desc": "A guided tour through the six classes of Chinese tea, plus the character, the utensils, and the gongfu ceremony.",
     "tags": [
       "tea",
@@ -5797,8 +5818,8 @@
     "path": "pages/hubs/zhexue.html",
     "type": "hub",
     "category": "hubs",
-    "title": "哲学 · Chinese Philosophy — A Reading Path",
-    "desc": "A guided walk through the great schools of Chinese thought — from Confucius and Laozi to the Neo-Confucian synthesis and the living debate between order and spontaneity.",
+    "title": "哲学 · Chinese Philosophy: A Reading Path",
+    "desc": "A guided walk through the great schools of Chinese thought: from Confucius and Laozi to the Neo-Confucian synthesis and the living debate between order and spontaneity.",
     "tags": [
       "philosophy",
       "confucianism",
@@ -5814,8 +5835,8 @@
     "path": "pages/hubs/zhongyi.html",
     "type": "hub",
     "category": "hubs",
-    "title": "中医 · Traditional Chinese Medicine — A Reading Path",
-    "desc": "A guided walk through the philosophy, practice, and vocabulary of Chinese medicine — from yin-yang and qi to acupuncture, herbology, and the five phases.",
+    "title": "中医 · Traditional Chinese Medicine: A Reading Path",
+    "desc": "A guided walk through the philosophy, practice, and vocabulary of Chinese medicine: from yin-yang and qi to acupuncture, herbology, and the five phases.",
     "tags": [
       "tcm",
       "health",
@@ -5831,7 +5852,7 @@
     "type": "topic",
     "category": "philosophy",
     "title": "易经 · The Book of Changes",
-    "desc": "The oldest and most cryptic of the Chinese classics — a manual of divination, a philosophy of change, and a map of the universe encoded in 64 hexagrams.",
+    "desc": "The oldest and most cryptic of the Chinese classics: a manual of divination, a philosophy of change, and a map of the universe encoded in 64 hexagrams.",
     "tags": [
       "philosophy",
       "divination",
@@ -5847,7 +5868,7 @@
     "type": "topic",
     "category": "science",
     "title": "本草纲目 · The Great Pharmacopeia",
-    "desc": "Li Shizhen spent 27 years cataloguing 1,892 drugs — and produced one of the greatest works of natural science in any civilization.",
+    "desc": "Li Shizhen spent 27 years cataloguing 1,892 drugs, producing one of the greatest works of natural science in any civilization.",
     "tags": [
       "medicine",
       "science",
@@ -5864,7 +5885,7 @@
     "type": "topic",
     "category": "science",
     "title": "风水 · Geomancy as Proto-Science",
-    "desc": "Before the terms ecology, hydrology, and orientation science existed, the fengshui master was reading the same landscape — just with a different vocabulary.",
+    "desc": "Before the terms ecology, hydrology, and orientation science existed, the fengshui master was reading the same landscape, just with a different vocabulary.",
     "tags": [
       "science",
       "cosmology",
@@ -5882,7 +5903,7 @@
     "type": "topic",
     "category": "science",
     "title": "二十四节气 · 24 Solar Terms",
-    "desc": "The sun moves 15 degrees and the world changes — a precision agricultural calendar that doubled as a medical manual and is now UNESCO heritage.",
+    "desc": "The sun moves 15 degrees and the world changes: a precision agricultural calendar that doubled as a medical manual and is now UNESCO heritage.",
     "tags": [
       "science",
       "history",
@@ -5933,7 +5954,7 @@
     "type": "topic",
     "category": "science",
     "title": "星宿 · Chinese Constellations",
-    "desc": "China mapped the entire sky independently of Greece — 1,464 stars, 28 lunar mansions, and four mythological guardians that divided the cosmos long before Ptolemy.",
+    "desc": "China mapped the entire sky independently of Greece: 1,464 stars, 28 lunar mansions, and four mythological guardians that divided the cosmos long before Ptolemy.",
     "tags": [
       "science",
       "cosmology",
@@ -5982,7 +6003,7 @@
     "type": "vocab",
     "category": "vocab",
     "title": "比较 · to compare; relatively, fairly",
-    "desc": "Compare and qualify — the word that measures differences and hedges claims in everyday Mandarin.",
+    "desc": "Compare and qualify: the word that measures differences and hedges claims in everyday Mandarin.",
     "tags": [
       "grammar",
       "comparison",
@@ -5997,7 +6018,7 @@
     "type": "vocab",
     "category": "vocab",
     "title": "茶道 · the way of tea",
-    "desc": "From wild forest leaf to civilizational ritual — how tea became China's quintessential art of presence.",
+    "desc": "From wild forest leaf to civilizational ritual: how tea became China's quintessential art of presence.",
     "tags": [
       "tea",
       "culture",
@@ -6013,7 +6034,7 @@
     "type": "vocab",
     "category": "vocab",
     "title": "茶具 · Tea Implements",
-    "desc": "The vessels, tools, and objects of the tea table — from the Yixing purple clay teapot to the fairness pitcher, each implement with a name, a function, and an aesthetic logic.",
+    "desc": "The vessels, tools, and objects of the tea table: from the Yixing purple clay teapot to the fairness pitcher, each implement with a name, a function, and an aesthetic logic.",
     "tags": [
       "tea",
       "teaware",
@@ -6045,7 +6066,7 @@
     "type": "vocab",
     "category": "vocab",
     "title": "道德 · morality, ethics, virtue",
-    "desc": "The compound at the center of Chinese moral philosophy — the Way and its virtue, inseparable and mutually defining.",
+    "desc": "The compound at the center of Chinese moral philosophy: the Way and its virtue, inseparable and mutually defining.",
     "tags": [
       "philosophy",
       "ethics",
@@ -6060,7 +6081,7 @@
     "type": "vocab",
     "category": "vocab",
     "title": "风俗 · customs, traditions, folk practices",
-    "desc": "The wind of culture and the ways of the people — how 风俗 differs from 习惯 and why the distinction matters.",
+    "desc": "The wind of culture and the ways of the people: how 风俗 differs from 习惯 and why the distinction matters.",
     "tags": [
       "culture",
       "daily-life",
@@ -6093,7 +6114,7 @@
     "type": "vocab",
     "category": "vocab",
     "title": "故事 · story, tale, narrative",
-    "desc": "Old affairs made into meaning — how the Chinese word for story encodes a philosophy of the past as the source of truth.",
+    "desc": "Old affairs made into meaning: how the Chinese word for story encodes a philosophy of the past as the source of truth.",
     "tags": [
       "culture",
       "history",
@@ -6108,7 +6129,7 @@
     "type": "vocab",
     "category": "vocab",
     "title": "汉字 · Chinese characters",
-    "desc": "The world's oldest continuously used writing system — how Chinese characters work, why they look the way they do, and the categories every learner needs to know.",
+    "desc": "The world's oldest continuously used writing system: how Chinese characters work, why they look the way they do, and the categories every learner needs to know.",
     "tags": [
       "culture",
       "history",
@@ -6124,7 +6145,7 @@
     "type": "vocab",
     "category": "vocab",
     "title": "江山 · rivers and mountains, the realm",
-    "desc": "The classical Chinese word for the nation — not a territory but a landscape; not a state but a living geography that dynasties rose and fell to possess.",
+    "desc": "The classical Chinese word for the nation: not a territory but a landscape; not a state but a living geography that dynasties rose and fell to possess.",
     "tags": [
       "history",
       "politics",
@@ -6139,7 +6160,7 @@
     "type": "vocab",
     "category": "vocab",
     "title": "节气 · the 24 solar terms",
-    "desc": "China's ancient agricultural calendar — 24 precise moments that mark the turning of the year, still shaping food, medicine, and daily life.",
+    "desc": "China's ancient agricultural calendar: 24 precise moments that mark the turning of the year, still shaping food, medicine, and daily life.",
     "tags": [
       "culture",
       "history",
@@ -6170,7 +6191,7 @@
     "type": "vocab",
     "category": "vocab",
     "title": "客气 · politeness, ceremony",
-    "desc": "The polite manners owed to guests — and the gentle dance of refusal, insistence, and ritual modesty that runs through every Chinese social interaction.",
+    "desc": "The polite manners owed to guests: and the gentle dance of refusal, insistence, and ritual modesty that runs through every Chinese social interaction.",
     "tags": [
       "social",
       "culture",
@@ -6186,7 +6207,7 @@
     "type": "vocab",
     "category": "vocab",
     "title": "礼 · ritual, propriety, gift, courtesy",
-    "desc": "The cosmic blueprint Confucius spent his life trying to restore — and why manners are a civilizational technology.",
+    "desc": "The cosmic blueprint Confucius spent his life trying to restore: and why manners are a civilizational technology.",
     "tags": [
       "confucianism",
       "ritual",
@@ -6232,7 +6253,7 @@
     "type": "vocab",
     "category": "vocab",
     "title": "气功 · qigong",
-    "desc": "Cultivating the vital breath — China's ancient practice of aligning body, breath, and mind.",
+    "desc": "Cultivating the vital breath: China's ancient practice of aligning body, breath, and mind.",
     "tags": [
       "tcm",
       "body",
@@ -6248,7 +6269,7 @@
     "type": "vocab",
     "category": "vocab",
     "title": "仁 · humaneness, benevolence",
-    "desc": "The supreme Confucian virtue — the quality of genuine care for other people that holds civilization together.",
+    "desc": "The supreme Confucian virtue: the quality of genuine care for other people that holds civilization together.",
     "tags": [
       "confucianism",
       "ethics",
@@ -6263,7 +6284,7 @@
     "type": "vocab",
     "category": "vocab",
     "title": "人生 · human life; one's life journey",
-    "desc": "Human life — not biological existence, but the arc of a life lived: its meaning, its seasons, its reckoning.",
+    "desc": "Human life: not biological existence, but the arc of a life lived: its meaning, its seasons, its reckoning.",
     "tags": [
       "philosophy",
       "confucianism",
@@ -6293,7 +6314,7 @@
     "type": "vocab",
     "category": "vocab",
     "title": "时间 · time",
-    "desc": "Time — the compound that anchors all temporal expression in Mandarin.",
+    "desc": "Time: the compound that anchors all temporal expression in Mandarin.",
     "tags": [
       "time",
       "daily-life",
@@ -6308,7 +6329,7 @@
     "type": "vocab",
     "category": "vocab",
     "title": "书法 · calligraphy",
-    "desc": "The art where writing becomes a performance of character — and why the Chinese brush is a philosophical instrument.",
+    "desc": "The art where writing becomes a performance of character: and why the Chinese brush is a philosophical instrument.",
     "tags": [
       "calligraphy",
       "arts",
@@ -6324,7 +6345,7 @@
     "type": "vocab",
     "category": "vocab",
     "title": "天命 · the Mandate of Heaven",
-    "desc": "The political and cosmological concept that legitimized three thousand years of Chinese dynasty — heaven's appointment of the rightful ruler.",
+    "desc": "The political and cosmological concept that legitimized three thousand years of Chinese dynasty: heaven's appointment of the rightful ruler.",
     "tags": [
       "history",
       "politics",
@@ -6339,7 +6360,7 @@
     "type": "vocab",
     "category": "vocab",
     "title": "武术 · martial arts",
-    "desc": "The art of stopping weapons — how China systematized combat into a living philosophy of the body.",
+    "desc": "The art of stopping weapons: how China systematized combat into a living philosophy of the body.",
     "tags": [
       "martial-arts",
       "body",
@@ -6355,7 +6376,7 @@
     "type": "vocab",
     "category": "vocab",
     "title": "孝 · filial piety",
-    "desc": "An elder supported by a child's hands — the cardinal Confucian virtue that placed care for parents at the foundation of all moral life.",
+    "desc": "An elder supported by a child's hands: the cardinal Confucian virtue that placed care for parents at the foundation of all moral life.",
     "tags": [
       "confucianism",
       "family",
@@ -6386,7 +6407,7 @@
     "type": "vocab",
     "category": "vocab",
     "title": "中医 · Traditional Chinese Medicine",
-    "desc": "Two thousand years of systematic medical thought — qi, yin-yang, the Five Elements, acupuncture, and the living tradition that treats the person, not the disease.",
+    "desc": "Two thousand years of systematic medical thought: qi, yin-yang, the Five Elements, acupuncture, and the living tradition that treats the person, not the disease.",
     "tags": [
       "tcm",
       "body",
@@ -6402,7 +6423,7 @@
     "type": "topic",
     "category": "arts",
     "title": "书法 · Calligraphy",
-    "desc": "The art of the brush — where writing becomes the most personal expression of character.",
+    "desc": "The art of the brush, where writing becomes the most personal expression of character.",
     "tags": [
       "calligraphy",
       "art",
@@ -6417,7 +6438,7 @@
     "type": "topic",
     "category": "arts",
     "title": "四大名著 · Four Great Classical Novels",
-    "desc": "The four novels every educated Chinese person has read — the canonical stories of war, outlaws, pilgrims, and dreams.",
+    "desc": "The four novels every educated Chinese person has read: the canonical stories of war, outlaws, pilgrims, and dreams.",
     "tags": [
       "literature",
       "novels",
@@ -6447,7 +6468,7 @@
     "type": "character",
     "category": "characters",
     "title": "道 · way, path",
-    "desc": "The word that gave Daoism its name — and underlies every Chinese 'ism'.",
+    "desc": "The word that gave Daoism its name, and underlies every Chinese 'ism'.",
     "tags": [
       "daoism",
       "philosophy",
@@ -6488,7 +6509,7 @@
     "type": "character",
     "category": "characters",
     "title": "家 · home, family",
-    "desc": "House, family, school of thought, nation (国家) — the fractal of belonging.",
+    "desc": "House, family, school of thought, nation (国家): the fractal of belonging.",
     "tags": [
       "family",
       "society",
@@ -6526,7 +6547,7 @@
     "type": "character",
     "category": "characters",
     "title": "人 · person, humanity",
-    "desc": "The character for human being, and its echo in 仁 rén — Confucian benevolence.",
+    "desc": "The character for human being, and its echo in 仁 rén, Confucian benevolence.",
     "tags": [
       "humanity",
       "confucianism",
@@ -6621,7 +6642,7 @@
     "type": "character",
     "category": "characters",
     "title": "字 · character, written word",
-    "desc": "The character that names itself — and the whole system of 汉字.",
+    "desc": "The character that names itself, and the whole system of 汉字.",
     "tags": [
       "writing",
       "language",
@@ -6640,7 +6661,7 @@
     "type": "vocab",
     "category": "chengyu",
     "title": "矛盾 · Contradiction",
-    "desc": "The spear that can pierce anything meets the shield that can stop anything — the story behind China's word for contradiction.",
+    "desc": "The spear that can pierce anything meets the shield that can stop anything: the story behind China's word for contradiction.",
     "tags": [
       "idioms",
       "logic",
@@ -6655,7 +6676,7 @@
     "type": "vocab",
     "category": "chengyu",
     "title": "叶公好龙 · Lord Ye Loves Dragons",
-    "desc": "He decorated his palace with dragons — until a real one appeared. The idiom for loving what you only love in the abstract.",
+    "desc": "He decorated his palace with dragons, until a real one appeared. The idiom for loving what you only love in the abstract.",
     "tags": [
       "idioms",
       "classical",
@@ -6670,7 +6691,7 @@
     "type": "vocab",
     "category": "chengyu",
     "title": "欲速则不达 · Haste Does Not Bring Success",
-    "desc": "Speed desired, arrival missed — Confucius on why rushing produces the opposite of what you intend.",
+    "desc": "Speed desired, arrival missed: Confucius on why rushing produces the opposite of what you intend.",
     "tags": [
       "idioms",
       "confucianism",
@@ -6686,7 +6707,7 @@
     "type": "topic",
     "category": "culinary",
     "title": "白酒 · Baijiu",
-    "desc": "China's fiery grain spirit — the most consumed distilled liquor in the world by volume, and what it means to drink together.",
+    "desc": "China's fiery grain spirit: the most consumed distilled liquor in the world by volume, and what it means to drink together.",
     "tags": [
       "drink",
       "spirits",
@@ -6776,7 +6797,7 @@
     "type": "topic",
     "category": "daily",
     "title": "筷子 · Chopsticks",
-    "desc": "The rules, the taboos, and what not to do — the etiquette that marks insider from outsider at the Chinese table.",
+    "desc": "The rules, the taboos, and what not to do: the etiquette that marks insider from outsider at the Chinese table.",
     "tags": [
       "food",
       "etiquette",
@@ -6791,7 +6812,7 @@
     "type": "topic",
     "category": "daily",
     "title": "姓名 · Names",
-    "desc": "Family name first, given name second — the structure, meaning-making, and social logic of Chinese personal names.",
+    "desc": "Family name first, given name second: the structure, meaning-making, and social logic of Chinese personal names.",
     "tags": [
       "names",
       "social",
@@ -6806,7 +6827,7 @@
     "type": "topic",
     "category": "daily",
     "title": "颜色 · Colors and Luck",
-    "desc": "Red for joy, white for death, green hats and yellow emperors — the symbolic weight of color in Chinese daily life.",
+    "desc": "Red for joy, white for death, green hats and yellow emperors: the symbolic weight of color in Chinese daily life.",
     "tags": [
       "color",
       "symbolism",
@@ -6866,7 +6887,7 @@
     "type": "grammar",
     "category": "grammar",
     "title": "把 · the disposal construction",
-    "desc": "Moving the object before the verb — when and why.",
+    "desc": "Moving the object before the verb: when and why.",
     "tags": [
       "syntax",
       "object",
@@ -6896,7 +6917,7 @@
     "type": "grammar",
     "category": "grammar",
     "title": "的 · 得 · 地 · the three de's",
-    "desc": "Attribution, result complement, and adverbial marker — distinguished once and for all.",
+    "desc": "Attribution, result complement, and adverbial marker: distinguished once and for all.",
     "tags": [
       "particle",
       "complement",
@@ -6911,7 +6932,7 @@
     "type": "grammar",
     "category": "grammar",
     "title": "来 · 去 · directional complements",
-    "desc": "上来, 下去, 出去, 进来 — the motion complement system mapped.",
+    "desc": "上来, 下去, 出去, 进来: the motion complement system mapped.",
     "tags": [
       "direction",
       "complement",
@@ -6926,7 +6947,7 @@
     "type": "grammar",
     "category": "grammar",
     "title": "会 · 能 · 可以 · the three 'can's",
-    "desc": "Learned ability vs. situational capacity vs. permission — not interchangeable.",
+    "desc": "Learned ability vs. situational capacity vs. permission: not interchangeable.",
     "tags": [
       "modal",
       "ability",
@@ -6941,7 +6962,7 @@
     "type": "grammar",
     "category": "grammar",
     "title": "就 vs. 才 · sooner vs. later",
-    "desc": "The timing and emphasis pair — speaker attitude encoded in one syllable.",
+    "desc": "The timing and emphasis pair: speaker attitude encoded in one syllable.",
     "tags": [
       "adverb",
       "timing",
@@ -6956,7 +6977,7 @@
     "type": "grammar",
     "category": "grammar",
     "title": "了 · the perfective particle",
-    "desc": "Perfective aspect vs. change-of-state — the single most-confused particle.",
+    "desc": "Perfective aspect vs. change-of-state: the single most-confused particle.",
     "tags": [
       "aspect",
       "particle",
@@ -6971,7 +6992,7 @@
     "type": "grammar",
     "category": "grammar",
     "title": "连…都/也 · even X",
-    "desc": "The intensifier construction — raising the stakes of a claim.",
+    "desc": "The intensifier construction: raising the stakes of a claim.",
     "tags": [
       "intensifier",
       "even",
@@ -6986,7 +7007,7 @@
     "type": "grammar",
     "category": "grammar",
     "title": "量词 · measure words",
-    "desc": "个, 只, 条, 本, 张 — the classifier taxonomy and the logic behind it.",
+    "desc": "个, 只, 条, 本, 张: the classifier taxonomy and the logic behind it.",
     "tags": [
       "measure-words",
       "classifiers",
@@ -7001,7 +7022,7 @@
     "type": "grammar",
     "category": "grammar",
     "title": "是…的 · the cleft construction",
-    "desc": "Focus and past-detail marking — the construction that trips every learner.",
+    "desc": "Focus and past-detail marking: the construction that trips every learner.",
     "tags": [
       "focus",
       "cleft",
@@ -7016,7 +7037,7 @@
     "type": "topic",
     "category": "history",
     "title": "汉朝 · The Han Dynasty",
-    "desc": "Why Chinese call themselves 汉人 — the dynasty that defined the civilization.",
+    "desc": "Why Chinese call themselves 汉人: the dynasty that defined the civilization.",
     "tags": [
       "han",
       "dynasty",
@@ -7076,7 +7097,7 @@
     "type": "topic",
     "category": "history",
     "title": "宋朝 · The Song Dynasty",
-    "desc": "Economic revolution, printing, compass — the dynasty modernity missed.",
+    "desc": "Economic revolution, printing, compass: the dynasty modernity missed.",
     "tags": [
       "song",
       "economy",
@@ -7091,7 +7112,7 @@
     "type": "topic",
     "category": "history",
     "title": "唐朝 · The Tang Dynasty",
-    "desc": "The cosmopolitan golden age — poetry, Buddhism, and the Silk Road.",
+    "desc": "The cosmopolitan golden age: poetry, Buddhism, and the Silk Road.",
     "tags": [
       "tang",
       "golden-age",
@@ -7226,7 +7247,7 @@
     "type": "topic",
     "category": "philosophy",
     "title": "孟子 · Mencius",
-    "desc": "Human nature as inherently good — the sprouts of virtue.",
+    "desc": "Human nature as inherently good: the sprouts of virtue.",
     "tags": [
       "mencius",
       "human-nature",
@@ -7256,7 +7277,7 @@
     "type": "topic",
     "category": "philosophy",
     "title": "荀子 · Xunzi",
-    "desc": "Human nature as bad — ritual and education as correction.",
+    "desc": "Human nature as bad: ritual and education as correction.",
     "tags": [
       "xunzi",
       "ritual",
@@ -7271,7 +7292,7 @@
     "type": "topic",
     "category": "philosophy",
     "title": "阴阳五行 · Yin-Yang and the Five Phases",
-    "desc": "The cosmological engine of classical thought — correspondence, resonance, and transformation.",
+    "desc": "The cosmological engine of classical thought: correspondence, resonance, and transformation.",
     "tags": [
       "yin-yang",
       "five-phases",
@@ -7301,7 +7322,7 @@
     "type": "topic",
     "category": "religion",
     "title": "禅宗 · Chán Buddhism",
-    "desc": "The meditative school that became Japanese Zen — sudden enlightenment and the patriarchs.",
+    "desc": "The meditative school that became Japanese Zen: sudden enlightenment and the patriarchs.",
     "tags": [
       "chan",
       "zen",
@@ -7316,7 +7337,7 @@
     "type": "topic",
     "category": "religion",
     "title": "道教 · Daoism",
-    "desc": "Daoism as organized religion — distinct from Daoist philosophy.",
+    "desc": "Daoism as organized religion: distinct from Daoist philosophy.",
     "tags": [
       "daoism",
       "religion",
@@ -7391,7 +7412,7 @@
     "type": "topic",
     "category": "religion",
     "title": "儒家 · Confucianism",
-    "desc": "The school of the ru — ritual, hierarchy, and moral cultivation as state religion.",
+    "desc": "The school of the ru: ritual, hierarchy, and moral cultivation as state religion.",
     "tags": [
       "confucianism",
       "ritual",
@@ -7451,7 +7472,7 @@
     "type": "topic",
     "category": "science",
     "title": "丝绸 · Silk",
-    "desc": "The thread that built the first global trade network — Chinese silk, the secret of sericulture, and the road that carried it west.",
+    "desc": "The thread that built the first global trade network: Chinese silk, the secret of sericulture, and the road that carried it west.",
     "tags": [
       "silk",
       "trade",
@@ -7466,7 +7487,7 @@
     "type": "topic",
     "category": "science",
     "title": "四大发明 · Four Great Inventions",
-    "desc": "Compass, gunpowder, paper, and printing — the Chinese technologies that remade the medieval world.",
+    "desc": "Compass, gunpowder, paper, and printing: the Chinese technologies that remade the medieval world.",
     "tags": [
       "technology",
       "invention",
@@ -7496,7 +7517,7 @@
     "type": "vocab",
     "category": "vocab",
     "title": "东西 · things",
-    "desc": "East-west as the word for 'stuff' — a window into directional cosmology.",
+    "desc": "East-west as the word for 'stuff': a window into directional cosmology.",
     "tags": [
       "directions",
       "colloquial",
@@ -7526,7 +7547,7 @@
     "type": "vocab",
     "category": "vocab",
     "title": "功夫 · effort, skill over time",
-    "desc": "Mastery earned through time — martial arts is the paradigm case, but the word covers any deeply cultivated skill.",
+    "desc": "Mastery earned through time: martial arts is the paradigm case, but the word covers any deeply cultivated skill.",
     "tags": [
       "mastery",
       "time",
@@ -7541,7 +7562,7 @@
     "type": "vocab",
     "category": "vocab",
     "title": "关系 · relationship, connections",
-    "desc": "The untranslatable social fabric — relational leverage, it matters.",
+    "desc": "The untranslatable social fabric: relational leverage, it matters.",
     "tags": [
       "social",
       "connections",
@@ -7571,7 +7592,7 @@
     "type": "vocab",
     "category": "vocab",
     "title": "面子 · face, honor",
-    "desc": "Giving, losing, and saving face — the social grammar of dignity.",
+    "desc": "Giving, losing, and saving face: the social grammar of dignity.",
     "tags": [
       "social",
       "honor",
@@ -7586,7 +7607,7 @@
     "type": "vocab",
     "category": "vocab",
     "title": "天下 · all under heaven",
-    "desc": "The pre-nation-state Chinese political imagination — the civilized world.",
+    "desc": "The pre-nation-state Chinese political imagination: the civilized world.",
     "tags": [
       "politics",
       "history",

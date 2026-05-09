@@ -3,8 +3,8 @@ type: 'vocab'
 category: 'vocab'
 status: 'complete'
 title: '无为 · non-action; acting in accord with nature'
-desc: '无为 is the Daoist elimination of forced, ego-driven action — the master principle behind effortless effectiveness, sage governance, and Zhuangzi''s cook whose knife stays forever sharp.'
-metaDesc: "无为 wuwei: the Daoist ideal of non-forced action. Not passivity but the elimination of ego-driven interference — the art of acting in full accord with nature."
+desc: '无为 is the Daoist elimination of forced, ego-driven action: the master principle behind effortless effectiveness, sage governance, and Zhuangzi''s cook whose knife stays forever sharp.'
+metaDesc: "无为 wuwei: the Daoist ideal of non-forced action. Not passivity but the elimination of ego-driven interference: the art of acting in full accord with nature."
 pageTitle: '无为 wúwéi'
 tags:
   - 'daoism'

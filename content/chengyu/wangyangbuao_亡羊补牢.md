@@ -4,7 +4,7 @@ category: 'chengyu'
 status: 'complete'
 content_review: 'pending'
 title: '亡羊补牢 · mend the sheep pen after the sheep is lost'
-desc: "From the Zhanguo Ce: a man loses sheep through a hole in his pen and is told he is too late to repair it. A neighbor corrects the fatalist — remediation after a loss is not too late, it is exactly right."
+desc: "From the Zhanguo Ce: a man loses sheep through a hole in his pen and is told he is too late to repair it. A neighbor corrects the fatalist: remediation after a loss is not too late, it is exactly right."
 metaDesc: "亡羊补牢 wang yang bu lao: mend the sheep pen after the sheep has escaped. From the Zhanguo Ce Chu Strategies, the chengyu argues that corrective action after a loss is still worthwhile. The idiom against fatalism and for remediation."
 pageTitle: '亡羊补牢 wáng yáng bǔ láo'
 pinyin: 'wáng yáng bǔ láo'

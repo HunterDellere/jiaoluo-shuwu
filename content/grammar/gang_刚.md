@@ -4,7 +4,7 @@ category: 'grammar'
 status: 'complete'
 content_review: 'pending'
 title: '刚 · just now, just happened'
-desc: "The recency adverb — 刚 marks that something happened very recently, and contrast with 刚才, 刚刚, 才, and 已经."
+desc: "The recency adverb: 刚 marks that something happened very recently, and contrast with 刚才, 刚刚, 才, and 已经."
 metaDesc: "刚 gāng: just now, just happened in Mandarin. How 刚 expresses immediate recency, how it differs from 刚才 and 才, and the key contrast with 已经 (already)."
 pageTitle: '刚 gāng · Just Now'
 tags:

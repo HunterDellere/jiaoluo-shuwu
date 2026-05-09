@@ -5,7 +5,7 @@ status: 'complete'
 content_review: 'pending'
 title: '秦始皇 · The First Emperor'
 desc: 'Unification, standardization, and the terror that made China.'
-metaDesc: "秦始皇 Qín Shǐhuáng: Ying Zheng's unification of China in 221 BCE — standardization, the Great Wall, the Terracotta Army, burning books, and an obsession with immortality that consumed the empire."
+metaDesc: "秦始皇 Qín Shǐhuáng: Ying Zheng's unification of China in 221 BCE. Standardization, the Great Wall, the Terracotta Army, burning books, and an obsession with immortality that consumed the empire."
 pageTitle: '秦始皇 · The First Emperor'
 tags:
   - 'qin'

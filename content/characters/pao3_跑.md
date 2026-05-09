@@ -3,7 +3,7 @@ type: 'character'
 category: 'characters'
 status: 'complete'
 title: '跑 · to run; to flee; to operate'
-desc: 'The everyday verb of running — a foot-radical character whose semantic range stretches from "the legs in motion" to "running an errand" to "the engine is running" to a small but productive family of escape-and-flee compounds.'
+desc: 'The everyday verb of running: a foot-radical character whose semantic range stretches from "the legs in motion" to "running an errand" to "the engine is running" to a small but productive family of escape-and-flee compounds.'
 metaDesc: "跑 pǎo: to run, to flee, to do errands, to operate. Etymology (足 foot + 包 phonetic), the foot-radical motion family (走/跑/跳/跨/踢), and the Chinese semantic stretch from physical running to 跑步 jogging, 跑腿 running errands, and 跑了 'it got away.'"
 pageTitle: '跑 pǎo'
 tags:

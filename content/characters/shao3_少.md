@@ -3,7 +3,7 @@ type: 'character'
 category: 'characters'
 status: 'complete'
 title: '少 · few; little; young'
-desc: 'Small with a stroke removed — the character for scarcity that doubles as the word for youth when read in falling tone.'
+desc: 'Small with a stroke removed: the character for scarcity that doubles as the word for youth when read in falling tone.'
 metaDesc: "少 shǎo/shào: few, little (shǎo) and young, youthful (shào). Two readings from one character. Etymology, the 多少 pair, compounds from 减少 to 少年, and the Daoist virtue of knowing when enough is enough."
 pageTitle: '少 shǎo'
 tags:

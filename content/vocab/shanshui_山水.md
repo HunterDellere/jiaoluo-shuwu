@@ -3,8 +3,8 @@ type: 'vocab'
 category: 'vocab'
 status: 'complete'
 title: '山水 · mountains and water; the landscape'
-desc: 'The paired word that names the Chinese landscape — not "scenery" in the Western sense, but a cosmological pairing of the still and the flowing that became the central subject of a thousand years of painting and poetry.'
-metaDesc: "山水 shānshuǐ: mountains and water; the landscape; landscape as cosmological pairing. From the Lúnyǔ couplet 智者乐水，仁者乐山 to the Song-dynasty 山水画 tradition — why Chinese landscape is always a dyad, never a single view."
+desc: 'The paired word that names the Chinese landscape: not "scenery" in the Western sense, but a cosmological pairing of the still and the flowing that became the central subject of a thousand years of painting and poetry.'
+metaDesc: "山水 shānshuǐ: mountains and water; the landscape; landscape as cosmological pairing. From the Lúnyǔ couplet 智者乐水，仁者乐山 to the Song-dynasty 山水画 tradition: why Chinese landscape is always a dyad, never a single view."
 pageTitle: '山水 shānshuǐ'
 tags:
   - 'aesthetics'

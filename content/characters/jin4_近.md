@@ -3,7 +3,7 @@ type: 'character'
 category: 'characters'
 status: 'complete'
 title: '近 · near; close; recent'
-desc: 'Walking toward something as close as a hatchet strike — and the character that covers both spatial proximity and the specific historical era Chinese scholars call the modern period.'
+desc: 'Walking toward something as close as a hatchet strike, and the character that covers both spatial proximity and the specific historical era Chinese scholars call the modern period.'
 metaDesc: "近 jìn: near, close, recent. Walk-movement radical 辶 plus axe phonetic 斤. Etymology, compounds from 附近 to 近视, and why 近代 means 1840–1949 and nothing else."
 pageTitle: '近 jìn'
 tags:

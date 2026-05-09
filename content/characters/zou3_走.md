@@ -3,7 +3,7 @@ type: 'character'
 category: 'characters'
 status: 'complete'
 title: '走 · to walk, to go, to leave'
-desc: "A figure in motion with feet below — the basic verb of movement that Chinese uses where English uses dozens of different words."
+desc: "A figure in motion with feet below: the basic verb of movement that Chinese uses where English uses dozens of different words."
 metaDesc: "走 zǒu: to walk, to go, to leave, to travel. Etymology, how 走 functions as a general movement verb, key compounds (走路/走开/走私), and contrast with 去/来/行."
 pageTitle: '走 zǒu'
 tags:

@@ -1,9 +1,9 @@
 ---
 type: hub
 category: hubs
-title: "宗教地图 · The Religious Map — A Reading Path"
+title: "宗教地图 · The Religious Map: A Reading Path"
 pinyin: "zōngjiào dìtú"
-desc: "Chinese religiosity doesn't fit Western categories. Most people practice elements of Confucianism, Daoism, Buddhism, folk religion, and ancestor veneration simultaneously — a map of how these traditions relate."
+desc: "Chinese religiosity doesn't fit Western categories. Most people practice elements of Confucianism, Daoism, Buddhism, folk religion, and ancestor veneration simultaneously: a map of how these traditions relate."
 status: complete
 content_review: 'pending'
 updated: "2026-04-22"
@@ -12,14 +12,14 @@ stages:
   - name: "三教"
     name_en: "The Three Teachings"
     color: teal
-    note: "Start here — the three traditions that Chinese people have held together for over a millennium."
+    note: "Start here: the three traditions that Chinese people have held together for over a millennium."
     members:
       - slug: religion/topic_rujia
         label_cn: "儒家 · Confucianism"
         label_en: "The social architecture"
         type: Topic
         mins: 12
-        note: "Confucianism is the frame through which Chinese people understand family obligation, social hierarchy, and political legitimacy. It is less a religion than an ethics made sacred by repetition — but its rituals, especially ancestor rites, make the boundary between ethics and religion impossible to draw cleanly."
+        note: "Confucianism is the frame through which Chinese people understand family obligation, social hierarchy, and political legitimacy. It is less a religion than an ethics made sacred by repetition, but its rituals, especially ancestor rites, make the boundary between ethics and religion impossible to draw cleanly."
       - slug: religion/topic_daojiao
         label_cn: "道教 · Religious Daoism"
         label_en: "The ritual ecology"
@@ -35,7 +35,7 @@ stages:
   - name: "佛教流派"
     name_en: "Buddhist Schools in China"
     color: ochre
-    note: "Buddhism fractured into schools on Chinese soil. These two are the ones that survived everything — persecution, civil war, and the twentieth century."
+    note: "Buddhism fractured into schools on Chinese soil. These two are the ones that survived everything: persecution, civil war, and the twentieth century."
     members:
       - slug: religion/topic_chan
         label_cn: "禅宗 · Chan Buddhism"
@@ -48,7 +48,7 @@ stages:
         label_en: "The popular school"
         type: Topic
         mins: 9
-        note: "Pure Land is by far the most widely practiced form of Buddhism in China — accessible to laypeople, requiring no monastery and no complex meditation training, centered on reciting Amitābha Buddha's name. Where Chan is 自力 (self-power), Pure Land is 他力 (other-power). Read these two together to see the full range of Chinese Buddhist practice."
+        note: "Pure Land is by far the most widely practiced form of Buddhism in China: accessible to laypeople, requiring no monastery and no complex meditation training, centered on reciting Amitābha Buddha's name. Where Chan is 自力 (self-power), Pure Land is 他力 (other-power). Read these two together to see the full range of Chinese Buddhist practice."
   - name: "民间"
     name_en: "Folk and Local"
     color: sienna
@@ -59,13 +59,13 @@ stages:
         label_en: "The living substrate"
         type: Topic
         mins: 9
-        note: "Chinese folk religion is not a system — it is a landscape. Deities borrowed from Daoism, Buddhism, and local cults; rituals performed by spirit mediums and Daoist priests alike; practices that mix prayer, divination, and community celebration. C.K. Yang called it 'diffused religion' — woven into family, economic, and communal life rather than organized into separate institutions."
+        note: "Chinese folk religion is not a system: it is a landscape. Deities borrowed from Daoism, Buddhism, and local cults; rituals performed by spirit mediums and Daoist priests alike; practices that mix prayer, divination, and community celebration. C.K. Yang called it 'diffused religion,' woven into family, economic, and communal life rather than organized into separate institutions."
       - slug: religion/topic_zuxian
         label_cn: "祖先崇拜 · Ancestor Veneration"
         label_en: "The obligation that underlies everything"
         type: Topic
         mins: 8
-        note: "Ancestor veneration predates all three teachings and survives all attempts to replace it. The family altar, the Qingming grave-sweeping, the burning of paper offerings, the Hungry Ghost Festival — these practices run continuously from the Shang dynasty oracle bones to the present. Confucianism gave ancestor veneration a philosophical rationale (filial piety extended beyond death), but the practice itself is older than Confucianism."
+        note: "Ancestor veneration predates all three teachings and survives all attempts to replace it. The family altar, the Qingming grave-sweeping, the burning of paper offerings, the Hungry Ghost Festival: these practices run continuously from the Shang dynasty oracle bones to the present. Confucianism gave ancestor veneration a philosophical rationale (filial piety extended beyond death), but the practice itself is older than Confucianism."
       - slug: religion/topic_mazu
         label_cn: "妈祖 · Mazu"
         label_en: "A case study in how gods are made"
@@ -75,20 +75,20 @@ stages:
   - name: "边缘"
     name_en: "At the Edges"
     color: violet
-    note: "Two traditions that remained at the margins of Chinese religious life despite centuries of presence — and what that marginality reveals."
+    note: "Two traditions that remained at the margins of Chinese religious life despite centuries of presence, and what that marginality reveals."
     members:
       - slug: religion/topic_yisilan
         label_cn: "伊斯兰教 · Islam in China"
         label_en: "The long presence, the difficult integration"
         type: Topic
         mins: 9
-        note: "Islam arrived in China earlier than Buddhism arrived in Europe — via Silk Road merchants in the Tang dynasty — and the Hui Muslim community has been part of Chinese society for over a millennium. Yet Islam remained a community faith rather than spreading widely. The reasons illuminate what made Buddhism's sinicization possible and what made it so unusual."
+        note: "Islam arrived in China earlier than Buddhism arrived in Europe (via Silk Road merchants in the Tang dynasty) and the Hui Muslim community has been part of Chinese society for over a millennium. Yet Islam remained a community faith rather than spreading widely. The reasons illuminate what made Buddhism's sinicization possible and what made it so unusual."
       - slug: religion/topic_saman
         label_cn: "萨满教 · Shamanism"
         label_en: "The tradition before the traditions"
         type: Topic
         mins: 7
-        note: "Shamanic practice in northern and northeastern China predates all the named traditions and continues alongside them. The oracle bone divination of the Shang dynasty shares structural features with Inner Asian shamanism. Read this last — it recontextualizes the others by showing what Chinese religiosity looked like before the philosophical schools arrived."
+        note: "Shamanic practice in northern and northeastern China predates all the named traditions and continues alongside them. The oracle bone divination of the Shang dynasty shares structural features with Inner Asian shamanism. Read this last: it recontextualizes the others by showing what Chinese religiosity looked like before the philosophical schools arrived."
   - name: "关键词"
     name_en: "The Keyword"
     color: red
@@ -99,7 +99,7 @@ stages:
         label_en: "The most consequential loanword"
         type: Vocab
         mins: 5
-        note: "佛 fó is the Chinese phonetic rendering of Sanskrit 'Buddha' — chosen because its pronunciation approximated the Sanskrit sound, not because of its meaning (which was originally 'person who lacks hair'). How China transliterated a foreign concept tells you a great deal about how translation shapes religion."
+        note: "佛 fó is the Chinese phonetic rendering of Sanskrit 'Buddha,' chosen because its pronunciation approximated the Sanskrit sound, not because of its meaning (which was originally 'person who lacks hair'). How China transliterated a foreign concept tells you a great deal about how translation shapes religion."
 ---
 
 <div class="shell">

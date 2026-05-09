@@ -3,8 +3,8 @@ type: 'character'
 category: 'characters'
 status: 'complete'
 title: '生 · life, birth, raw, student'
-desc: 'A sprouting plant — life emerging from the earth. The most generative radical in Chinese.'
-metaDesc: "生 shēng: life, birth, raw, to give birth. The most productive character in Chinese — compounds spanning biology, education, daily life, and philosophy. Etymology, compounds, chengyu."
+desc: 'A sprouting plant: life emerging from the earth. The most generative radical in Chinese.'
+metaDesc: "生 shēng: life, birth, raw, to give birth. The most productive character in Chinese, with compounds spanning biology, education, daily life, and philosophy. Etymology, compounds, chengyu."
 pageTitle: '生 shēng'
 tags:
   - 'life'

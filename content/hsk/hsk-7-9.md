@@ -5,7 +5,7 @@ status: 'complete'
 content_review: 'pending'
 title: '高级 · HSK 7-9'
 desc: 'The combined HSK 7, 8, and 9 advanced-level vocabulary, character, and grammar list.'
-metaDesc: 'HSK 7-9 (advanced Chinese proficiency) — full character list, vocabulary list, and grammar points, sourced from the 2021 国际中文教育中文水平等级标准.'
+metaDesc: 'HSK 7-9 (advanced Chinese proficiency). Full character list, vocabulary list, and grammar points, sourced from the 2021 国际中文教育中文水平等级标准.'
 pageTitle: 'HSK 7-9'
 tags:
   - 'hsk'

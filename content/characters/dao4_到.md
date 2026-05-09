@@ -3,7 +3,7 @@ type: 'character'
 category: 'characters'
 status: 'complete'
 title: '到 · to arrive, to reach; to'
-desc: 'As a resultative complement suffix, 到 converts any action verb into a claim of completion — 听到 means not just hearing but hearing that arrived, perception proven by contact.'
+desc: 'As a resultative complement suffix, 到 converts any action verb into a claim of completion: 听到 means not just hearing but hearing that arrived, perception proven by contact.'
 metaDesc: "到 dào: to arrive, to reach, and the resultative complement suffix that makes every perception verb a claim of success. Etymology, grammar, and chengyu."
 pageTitle: '到 dào'
 tags:

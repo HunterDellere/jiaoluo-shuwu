@@ -3,7 +3,7 @@ type: 'character'
 category: 'characters'
 status: 'complete'
 title: '你 · you'
-desc: 'The everyday second-person pronoun whose formal twin 您 embeds 心 (heart) directly into the character — address with warmth.'
+desc: 'The everyday second-person pronoun whose formal twin 您 embeds 心 (heart) directly into the character: address with warmth.'
 metaDesc: '你 nǐ: the everyday Chinese second-person pronoun. Etymology, 你 vs 您 distinction, greeting culture, and the full pronoun paradigm.'
 pageTitle: '你 nǐ'
 tags:

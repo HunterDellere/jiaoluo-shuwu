@@ -3,8 +3,8 @@ type: 'vocab'
 category: 'vocab'
 status: 'complete'
 title: '茶道 · the way of tea'
-desc: "From wild forest leaf to civilizational ritual — how tea became China's quintessential art of presence."
-metaDesc: "茶道 chádào: the Chinese way of tea. History, ceremony, vocabulary, and philosophy of Chinese tea culture — gongfu cha, the six categories of tea, and the aesthetics of the tea space."
+desc: "From wild forest leaf to civilizational ritual: how tea became China's quintessential art of presence."
+metaDesc: "茶道 chádào: the Chinese way of tea. History, ceremony, vocabulary, and philosophy of Chinese tea culture: gongfu cha, the six categories of tea, and the aesthetics of the tea space."
 pageTitle: '茶道 chádào'
 tags:
   - 'tea'

@@ -1,7 +1,7 @@
 ---
 type: hub
 category: hubs
-title: "六大茶类 · The Six Teas — A Reading Path"
+title: "六大茶类 · The Six Teas: A Reading Path"
 pinyin: "liù dà chá lèi"
 desc: "A guided tour through the six classes of Chinese tea, plus the character, the utensils, and the gongfu ceremony."
 status: complete
@@ -12,7 +12,7 @@ stages:
   - name: "字与总览"
     name_en: "Character & Overview"
     color: teal
-    note: "Start here — the word itself and the broad frame."
+    note: "Start here: the word itself and the broad frame."
     members:
       - slug: characters/cha2_茶
         label_cn: "茶 · The Character"
@@ -29,7 +29,7 @@ stages:
   - name: "六大类"
     name_en: "The Six Classes"
     color: ochre
-    note: "The oxidation ladder — from no oxidation to full, then post-fermented."
+    note: "The oxidation ladder: from no oxidation to full, then post-fermented."
     members:
       - slug: culinary/topic_lücha
         label_cn: "绿茶 · Green"
@@ -54,13 +54,13 @@ stages:
         label_en: "The widest flavour range"
         type: Topic
         mins: 8
-        note: "Partially oxidised (15–85%), shaped into balls or twisted strips. Floral Tieguanyin to roasted rock oolongs — the broadest flavour range of any class."
+        note: "Partially oxidised (15–85%), shaped into balls or twisted strips. Floral Tieguanyin to roasted rock oolongs: the broadest flavour range of any class."
       - slug: culinary/topic_hongcha
         label_cn: "红茶 · Black"
         label_en: "Fully oxidised"
         type: Topic
         mins: 7
-        note: "What the West calls 'black tea,' Chinese calls red — for the colour of the liquor, not the leaf. Keemun and Dianhong are the benchmarks."
+        note: "What the West calls 'black tea,' Chinese calls red, for the colour of the liquor, not the leaf. Keemun and Dianhong are the benchmarks."
       - slug: culinary/topic_heisha
         label_cn: "黑茶 · Dark"
         label_en: "Post-fermented and aged"
@@ -83,7 +83,7 @@ stages:
         label_en: "The slow art of brewing"
         type: Vocab
         mins: 7
-        note: "Small pot, tiny cups, multiple short steeps — a discipline that turns preparation into attention."
+        note: "Small pot, tiny cups, multiple short steeps: a discipline that turns preparation into attention."
       - slug: vocab/chaju_茶具
         label_cn: "茶具 · Utensils"
         label_en: "The material culture"

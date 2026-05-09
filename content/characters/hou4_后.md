@@ -3,7 +3,7 @@ type: 'character'
 category: 'characters'
 status: 'complete'
 title: '后 · back, behind, after; empress'
-desc: "One simplified character collapsed two completely separate traditional forms — 後 (a trailing foot in motion) and 后 (a commanding mouth) — binding the spatial sense of behind with the imperial sense of empress in a single glyph."
+desc: "One simplified character collapsed two completely separate traditional forms: 後 (a trailing foot in motion) and 后 (a commanding mouth), binding the spatial sense of behind with the imperial sense of empress in a single glyph."
 metaDesc: "后 hòu: behind, after, the future; and empress, queen. Etymology of two merged traditional characters, Chinese time metaphor, imperial vocabulary, and chengyu."
 pageTitle: '后 hòu'
 tags:

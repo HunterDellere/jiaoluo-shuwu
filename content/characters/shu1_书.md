@@ -3,7 +3,7 @@ type: 'character'
 category: 'characters'
 status: 'complete'
 title: '书 · book, writing, letter'
-desc: 'Book, writing, calligraphy — the character that holds civilization together.'
+desc: 'Book, writing, calligraphy: the character that holds civilization together.'
 metaDesc: "书 shū: book, writing, calligraphy, letter. Etymology, the four treasures, the five scripts, key compounds, chengyu idioms, and cultural context."
 pageTitle: '书 shū'
 tags:

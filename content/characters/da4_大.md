@@ -3,7 +3,7 @@ type: 'character'
 category: 'characters'
 status: 'complete'
 title: '大 · big, great, large'
-desc: 'Big, great, large — a person with arms wide open, the original measure of magnitude.'
+desc: 'Big, great, large: a person with arms wide open, the original measure of magnitude.'
 metaDesc: "大 dà: big, great, large. Etymology, the dà/dài/tài tone family, cosmological greatness, key compounds, and chengyu idioms."
 pageTitle: '大 dà'
 tags:

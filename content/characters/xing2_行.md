@@ -3,7 +3,7 @@ type: 'character'
 category: 'characters'
 status: 'complete'
 title: '行 · to walk, to act, a row, a trade'
-desc: 'One of the great polyphonic characters: xíng "to walk; to act; conduct" and háng "row; profession; firm." A pictograph of a four-way crossroads — the place where walking and the world are organized.'
+desc: 'One of the great polyphonic characters: xíng "to walk; to act; conduct" and háng "row; profession; firm." A pictograph of a four-way crossroads, the place where walking and the world are organized.'
 metaDesc: "行 xíng / háng: to walk, to do, conduct; row, profession, business firm. Etymology (a four-way crossroads), the xíng family (行动 行为 旅行 进行), the háng family (银行 行业 内行), and chengyu including 行云流水 and 三人行必有我师."
 pageTitle: '行 xíng / háng'
 tags:

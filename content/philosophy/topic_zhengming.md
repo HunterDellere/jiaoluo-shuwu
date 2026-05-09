@@ -4,8 +4,8 @@ category: 'philosophy'
 status: 'complete'
 content_review: 'pending'
 title: '正名 · Rectification of Names'
-desc: 'Confucius told Zilu that governing begins with calling things by their right names — because a ruler who does not rule like a ruler has no claim to the title 君.'
-metaDesc: "正名 zhèngmíng — Confucius's doctrine from Analects 13.3 that correct governance begins with correct naming: when titles match conduct, society holds; when they don't, it unravels."
+desc: 'Confucius told Zilu that governing begins with calling things by their right names, because a ruler who does not rule like a ruler has no claim to the title 君.'
+metaDesc: "正名 zhèngmíng: Confucius's doctrine from Analects 13.3 that correct governance begins with correct naming. When titles match conduct, society holds; when they don't, it unravels."
 pageTitle: '正名 zhèngmíng · Rectification of Names'
 tags:
   - 'confucianism'

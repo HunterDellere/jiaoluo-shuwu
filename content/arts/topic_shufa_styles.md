@@ -4,7 +4,7 @@ category: 'arts'
 status: 'complete'
 content_review: 'pending'
 title: '书法风格 · The Five Scripts of Chinese Calligraphy'
-desc: "Five script styles chart two thousand years of Chinese writing — from the solemn bronze inscriptions of the Zhou to the explosive cursive of the Tang masters."
+desc: "Five script styles chart two thousand years of Chinese writing, from the solemn bronze inscriptions of the Zhou to the explosive cursive of the Tang masters."
 metaDesc: "The five scripts of Chinese calligraphy: seal script, clerical, standard, running, and cursive. Each style, its historical origins, aesthetic ideal, and key masters."
 pageTitle: '书法风格 shūfǎ fēnggé'
 pinyin: 'shūfǎ fēnggé'

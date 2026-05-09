@@ -4,8 +4,8 @@ category: 'geography'
 status: 'complete'
 content_review: 'pending'
 title: '上海 · Shanghai'
-desc: 'From fishing village to the most cosmopolitan city in Asia — a port that absorbed empires, reinvented itself three times, and has never quite decided whether it belongs to China or the world.'
-metaDesc: "上海 Shànghǎi: Shanghai — colonial history, the Bund, the 1920s golden era, Pudong, Shanghainese identity, and the tension between cosmopolitanism and Chineseness."
+desc: 'From fishing village to the most cosmopolitan city in Asia: a port that absorbed empires, reinvented itself three times, and has never quite decided whether it belongs to China or the world.'
+metaDesc: "上海 Shànghǎi: Shanghai. Colonial history, the Bund, the 1920s golden era, Pudong, Shanghainese identity, and the tension between cosmopolitanism and Chineseness."
 pageTitle: '上海 · Shanghai'
 tags:
   - 'geography'

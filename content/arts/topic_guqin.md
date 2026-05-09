@@ -3,9 +3,9 @@ type: 'topic'
 category: 'arts'
 status: 'complete'
 content_review: 'pending'
-title: "古琴 · the guqin zither — the scholar's instrument"
-desc: "The seven-string zither Confucius played throughout his life — and the origin of 知音, the word for a person who truly understands you."
-metaDesc: "古琴 gǔqín — the seven-string scholar's zither with Zhou dynasty origins, the 伯牙绝弦 story that gave Chinese the word 知音, tablature notation 减字谱, and the four scholarly arts 琴棋书画."
+title: "古琴 · the scholar's zither"
+desc: "The seven-string zither Confucius played throughout his life, and the origin of 知音, the word for a person who truly understands you."
+metaDesc: "古琴 gǔqín: the seven-string scholar's zither with Zhou dynasty origins, the 伯牙绝弦 story that gave Chinese the word 知音, tablature notation 减字谱, and the four scholarly arts 琴棋书画."
 pageTitle: '古琴 gǔqín · the guqin zither'
 tags:
   - 'arts'

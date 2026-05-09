@@ -5,7 +5,7 @@ status: 'complete'
 content_review: 'pending'
 title: '被 · the passive'
 desc: 'Agentive passive, unmarked passive, and the adversarial connotation.'
-metaDesc: "被 bèi: the Chinese passive — adversative in flavor, derived from 'being covered.' Classical origins in 见 and 为…所, colloquial variants with 叫/让/给, and the ironic internet 被XX neologism."
+metaDesc: "被 bèi: the Chinese passive. Adversative in flavor, derived from 'being covered.' Classical origins in 见 and 为…所, colloquial variants with 叫/让/给, and the ironic internet 被XX neologism."
 pageTitle: '被 bèi'
 tags:
   - 'passive'

@@ -4,8 +4,8 @@ category: 'culinary'
 status: 'complete'
 content_review: 'pending'
 title: '绿茶 · Green Tea'
-desc: 'The oldest and most-consumed tea category — unoxidized, fixed by heat, and expressing the full range from grassy Longjing to umami-rich Biluochun.'
-metaDesc: "绿茶 lǜchá: Chinese green tea — processing, major varieties (Longjing, Biluochun, Maojian), brewing, and the history of China's oldest tea category."
+desc: 'The oldest and most-consumed tea category: unoxidized, fixed by heat, and expressing the full range from grassy Longjing to umami-rich Biluochun.'
+metaDesc: "绿茶 lǜchá: Chinese green tea. Processing, major varieties (Longjing, Biluochun, Maojian), brewing, and the history of China's oldest tea category."
 pageTitle: '绿茶 · Green Tea'
 tags:
   - 'tea'

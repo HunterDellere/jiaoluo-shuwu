@@ -1,7 +1,7 @@
 ---
 type: hub
 category: hubs
-title: "朝代 · The Dynasties — A Reading Path Through Chinese History"
+title: "朝代 · The Dynasties: A Reading Path Through Chinese History"
 pinyin: "cháodài"
 desc: "A guided walk through four thousand years of Chinese dynasties, from the three founding houses to the modern ruptures that ended imperial rule."
 status: complete
@@ -12,24 +12,24 @@ stages:
   - name: "根基"
     name_en: "The Foundation"
     color: teal
-    note: "Start here — the two characters that define China's idea of itself."
+    note: "Start here: the two characters that define China's idea of itself."
     members:
       - slug: characters/guo2_国
         label_cn: "国 · Nation"
         label_en: "Territory and authority compressed"
         type: Character
         mins: 5
-        note: "The glyph for 'nation' — an enclosure radical surrounding a jade symbol for kingship. Every dynasty claimed this image of territory, authority, and legitimacy."
+        note: "The glyph for 'nation': an enclosure radical surrounding a jade symbol for kingship. Every dynasty claimed this image of territory, authority, and legitimacy."
       - slug: characters/zhong1_中
         label_cn: "中 · Middle"
         label_en: "Centrality, not geography"
         type: Character
         mins: 5
-        note: "The 'middle' in 中国: not geographical centre but cultural centrality — the self-designation of a civilisation that considered itself the axis of the known world."
+        note: "The 'middle' in 中国: not geographical centre but cultural centrality, the self-designation of a civilisation that considered itself the axis of the known world."
   - name: "奠基"
     name_en: "The Founding Houses"
     color: ochre
-    note: "From myth to the first unified empire — 1600 BCE to 206 BCE."
+    note: "From myth to the first unified empire: 1600 BCE to 206 BCE."
     members:
       - slug: history/topic_xia_shang_zhou
         label_cn: "夏商周"
@@ -76,13 +76,13 @@ stages:
         label_en: "The Mongol century"
         type: Topic
         mins: 8
-        note: "Kublai Khan's China — the only time the whole empire was ruled by outsiders, connecting the Middle Kingdom to a world-spanning Mongol trade network."
+        note: "Kublai Khan's China: the only time the whole empire was ruled by outsiders, connecting the Middle Kingdom to a world-spanning Mongol trade network."
       - slug: history/topic_mingchao
         label_cn: "明朝 · The Ming"
         label_en: "The Great Wall rebuilt"
         type: Topic
         mins: 9
-        note: "Builders of the Wall as it stands today, dispatchers of Zheng He's treasure fleets, and authors of the great vernacular novels — then the dynasty that retreated inward and closed the ports."
+        note: "Builders of the Wall as it stands today, dispatchers of Zheng He's treasure fleets, and authors of the great vernacular novels, then the dynasty that retreated inward and closed the ports."
       - slug: history/topic_qingchao
         label_cn: "清朝 · The Qing"
         label_en: "The last dynasty"
@@ -92,11 +92,11 @@ stages:
   - name: "断裂"
     name_en: "The Ruptures"
     color: red
-    note: "The end of the dynastic cycle — and why it matters for reading the tradition."
+    note: "The end of the dynastic cycle: and why it matters for reading the tradition."
     members:
       - slug: history/topic_xinhai
         label_cn: "辛亥革命"
-        label_en: "1911 — the year the cycle ended"
+        label_en: "1911, the year the cycle ended"
         type: Topic
         mins: 8
         note: "Sun Yat-sen's republicans dismantled the dynastic system, ending three thousand years of imperial rule and opening the contested question of what China would become."

@@ -4,7 +4,7 @@ category: 'characters'
 status: 'complete'
 content_review: 'pending'
 title: '神 · spirit; deity; divine'
-desc: "The character that names both the gods of Chinese folk religion and the focused attention of the human mind — because in Chinese thought they belong to the same category of phenomenon."
+desc: "The character that names both the gods of Chinese folk religion and the focused attention of the human mind, because in Chinese thought they belong to the same category of phenomenon."
 metaDesc: "神 shén: spirit, deity, divine energy, consciousness. Etymology from the altar radical 示 and lightning component 申, semantic range across religion and psychology, compounds including 精神, 神秘, 神经, chengyu, and the folk tradition of the door gods 门神."
 pageTitle: '神 shén'
 char: '神'

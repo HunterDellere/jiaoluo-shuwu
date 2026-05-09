@@ -3,8 +3,8 @@ type: 'vocab'
 category: 'chengyu'
 status: 'complete'
 title: '山清水秀 · Mountains Clear, Waters Lovely'
-desc: "Clear mountains, lovely waters. The standard Chinese phrase for a picturesque landscape — four characters that compress the whole aesthetic vocabulary of natural beauty."
-metaDesc: "山清水秀 shān qīng shuǐ xiù: the chengyu for a beautiful natural landscape. Mountains that are clear and clean, waters that are graceful and beautiful — China's shorthand for landscape beauty."
+desc: "Clear mountains, lovely waters. The standard Chinese phrase for a picturesque landscape: four characters that compress the whole aesthetic vocabulary of natural beauty."
+metaDesc: "山清水秀 shān qīng shuǐ xiù: the chengyu for a beautiful natural landscape. Mountains that are clear and clean, waters that are graceful and beautiful: China's shorthand for landscape beauty."
 pageTitle: '山清水秀 · Mountains Clear, Waters Lovely'
 tags:
   - 'idioms'

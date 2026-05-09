@@ -4,8 +4,8 @@ category: 'science'
 status: 'complete'
 content_review: 'pending'
 title: '四大发明 · Four Great Inventions'
-desc: 'Compass, gunpowder, paper, and printing — the Chinese technologies that remade the medieval world.'
-metaDesc: "四大发明 sì dà fāmíng: China's Four Great Inventions — compass, gunpowder, paper, and printing — the technologies, their Chinese origins, and how each transformed the world beyond China."
+desc: 'Compass, gunpowder, paper, and printing: the Chinese technologies that remade the medieval world.'
+metaDesc: "四大发明 sì dà fāmíng: China's Four Great Inventions: compass, gunpowder, paper, and printing. The technologies, their Chinese origins, and how each transformed the world beyond China."
 pageTitle: '四大发明 · Four Great Inventions'
 tags:
   - 'technology'

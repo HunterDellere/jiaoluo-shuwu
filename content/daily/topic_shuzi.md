@@ -5,7 +5,7 @@ status: 'complete'
 content_review: 'pending'
 title: '数字 · Lucky & Unlucky Numbers'
 desc: 'In China, numbers carry sound, sound carries meaning, and meaning can determine whether you close the deal or jinx the wedding.'
-metaDesc: "数字 shùzì: lucky and unlucky numbers in Chinese culture — why 4 means death, why 8 made the Beijing Olympics open on 8/8/08, and the lengths people go to obtain or avoid particular digits."
+metaDesc: "数字 shùzì: lucky and unlucky numbers in Chinese culture. Why 4 means death, why 8 made the Beijing Olympics open on 8/8/08, and the lengths people go to obtain or avoid particular digits."
 pageTitle: '数字 Lucky & Unlucky Numbers'
 tags:
   - 'symbolism'

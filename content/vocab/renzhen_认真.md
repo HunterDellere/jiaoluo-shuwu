@@ -3,8 +3,8 @@ type: 'vocab'
 category: 'vocab'
 status: 'complete'
 title: '认真 · earnest, conscientious, taking it seriously'
-desc: 'To recognize the 真 of a thing and engage with it on its own terms — the everyday word for taking work, study, and other people seriously rather than going through motions.'
-metaDesc: "认真 rènzhēn: earnest, conscientious, serious. The Chinese ethic of taking things on their own terms — what it praises, what it gently teases, the opposites (马虎, 随便), and how it differs from 较真 and 严肃."
+desc: 'To recognize the 真 of a thing and engage with it on its own terms: the everyday word for taking work, study, and other people seriously rather than going through motions.'
+metaDesc: "认真 rènzhēn: earnest, conscientious, serious. The Chinese ethic of taking things on their own terms: what it praises, what it gently teases, the opposites (马虎, 随便), and how it differs from 较真 and 严肃."
 pageTitle: '认真 rènzhēn'
 tags:
   - 'virtue'

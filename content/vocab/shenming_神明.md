@@ -3,7 +3,7 @@ type: 'vocab'
 category: 'vocab'
 status: 'complete'
 title: '神明 · gods, spirits, deities; divine intelligence'
-desc: 'The generic term for any deity in the Chinese religious world — and, in classical philosophy, the luminous intelligence that distinguishes the divine from the merely powerful.'
+desc: 'The generic term for any deity in the Chinese religious world: and, in classical philosophy, the luminous intelligence that distinguishes the divine from the merely powerful.'
 metaDesc: "神明 shénmíng: gods, spirits, and divine intelligence in Chinese folk religion, Zhuangzi, and Han Confucianism. The word that covers every altar deity from 妈祖 to 关帝."
 pageTitle: '神明 shénmíng'
 tags:

@@ -2,9 +2,9 @@
 type: 'character'
 category: 'characters'
 status: 'complete'
-title: '之 · of, going, this — the classical connective'
-desc: 'The most-written character in classical Chinese — a possessive particle, pronoun, and verb fossilized into pure grammar.'
-metaDesc: "之 zhī: classical possessive particle, pronoun, and verb — the backbone of Literary Chinese, surviving in modern set phrases, chengyu, and formal writing."
+title: '之 · of, going, this: the classical connective'
+desc: 'The most-written character in classical Chinese: a possessive particle, pronoun, and verb fossilized into pure grammar.'
+metaDesc: "之 zhī: classical possessive particle, pronoun, and verb. The backbone of Literary Chinese, surviving in modern set phrases, chengyu, and formal writing."
 pageTitle: '之 zhī'
 tags:
   - 'classical'

@@ -3,7 +3,7 @@ type: 'character'
 category: 'characters'
 status: 'complete'
 title: '语 · language, speech, words'
-desc: "Speech radical plus the phonetic 吾 (I, me) — the character for language carries the self within it, encoding the idea that language is the medium through which the self speaks to the world."
+desc: "Speech radical plus the phonetic 吾 (I, me): the character for language carries the self within it, encoding the idea that language is the medium through which the self speaks to the world."
 metaDesc: "语 yǔ: language, speech, words. Etymology, 语 as a naming element for the world's languages, key compounds (汉语/语言/成语/语法), and the cultural significance of naming languages in Chinese."
 pageTitle: '语 yǔ'
 tags:

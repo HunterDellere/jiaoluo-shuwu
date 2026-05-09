@@ -3,7 +3,7 @@ type: 'vocab'
 category: 'vocab'
 status: 'complete'
 title: '方向 · direction; orientation'
-desc: '方向 is the compass-word that holds together physical heading, life direction, political orientation, and the deeply Chinese sense that getting your bearings — 辨方向 — is the first move in any undertaking.'
+desc: '方向 is the compass-word that holds together physical heading, life direction, political orientation, and the deeply Chinese sense that getting your bearings: 辨方向, is the first move in any undertaking.'
 metaDesc: "方向 fāngxiàng: direction, orientation, heading. The 方 (square; cardinal direction) + 向 (toward; facing) compound, the four-and-eight cardinal system, the figurative life-direction sense, and the canonical 方向感 (sense of direction)."
 pageTitle: '方向 fāngxiàng'
 tags:

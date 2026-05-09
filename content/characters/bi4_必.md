@@ -4,7 +4,7 @@ category: 'characters'
 status: 'complete'
 content_review: 'pending'
 title: '必 · certainly; must; necessarily'
-desc: 'A character rooted in the image of a blade that divides without exception — certainty as the sharpness that leaves no room for maybe.'
+desc: 'A character rooted in the image of a blade that divides without exception: certainty as the sharpness that leaves no room for maybe.'
 metaDesc: "必 bi: the Chinese character for must, certainly, and inevitability. Etymology from oracle bone script, the four-way distinction between bixu, biding, biran, and biyao, classical Analects usage, and key compounds including weibì and hébì."
 pageTitle: '必 bì'
 char: '必'

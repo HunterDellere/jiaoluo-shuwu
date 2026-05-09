@@ -5,7 +5,7 @@ status: 'complete'
 content_review: 'pending'
 title: '历法 · The Lunisolar Calendar'
 desc: 'Neither purely solar nor purely lunar, the Chinese calendar has kept farmers, physicians, and dynasties synchronized with the cosmos for three thousand years.'
-metaDesc: "历法 lìfǎ: the Chinese lunisolar calendar — intercalary months, the 60-year cycle of Heavenly Stems and Earthly Branches, agricultural and medical applications, and why it still governs festivals today."
+metaDesc: "历法 lìfǎ: the Chinese lunisolar calendar. Intercalary months, the 60-year cycle of Heavenly Stems and Earthly Branches, agricultural and medical applications, and why it still governs festivals today."
 pageTitle: '历法 Lunisolar Calendar'
 tags:
   - 'science'

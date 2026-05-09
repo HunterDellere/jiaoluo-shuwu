@@ -3,7 +3,7 @@ type: 'character'
 category: 'characters'
 status: 'complete'
 title: '脚 · foot, base'
-desc: 'The everyday word for foot — and, by extension, the base of any standing thing: a mountain, a wall, a script. The flesh-and-bone counterpart to literary 足.'
+desc: 'The everyday word for foot, and by extension the base of any standing thing: a mountain, a wall, a script. The flesh-and-bone counterpart to literary 足.'
 metaDesc: "脚 jiǎo: foot, leg, base, foundation. Etymology (⺼ flesh + 却 phonetic), the foot-as-body family (脚步/脚下/赤脚), foot-as-base extensions (山脚/墙脚/注脚), and the colloquial verbs (落脚/插一脚)."
 pageTitle: '脚 jiǎo'
 tags:

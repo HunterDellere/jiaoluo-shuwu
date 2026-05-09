@@ -1,9 +1,9 @@
 ---
 type: hub
 category: hubs
-title: "中医 · Traditional Chinese Medicine — A Reading Path"
+title: "中医 · Traditional Chinese Medicine: A Reading Path"
 pinyin: "zhōngyī"
-desc: "A guided walk through the philosophy, practice, and vocabulary of Chinese medicine — from yin-yang and qi to acupuncture, herbology, and the five phases."
+desc: "A guided walk through the philosophy, practice, and vocabulary of Chinese medicine: from yin-yang and qi to acupuncture, herbology, and the five phases."
 status: complete
 content_review: 'pending'
 updated: "2026-04-19"
@@ -12,7 +12,7 @@ stages:
   - name: "基础"
     name_en: "Foundations"
     color: teal
-    note: "Start here — the two concepts without which nothing else in TCM makes sense."
+    note: "Start here: the two concepts without which nothing else in TCM makes sense."
     members:
       - slug: vocab/yinyang_阴阳
         label_cn: "阴阳 · Yin-Yang"
@@ -29,7 +29,7 @@ stages:
   - name: "理论"
     name_en: "Theory"
     color: ochre
-    note: "The theoretical pillars — qi, the five phases, and the philosophical bedrock."
+    note: "The theoretical pillars: qi, the five phases, and the philosophical bedrock."
     members:
       - slug: characters/qi4_气
         label_cn: "气 · Qi"
@@ -71,11 +71,11 @@ stages:
         label_en: "Self-cultivation from within"
         type: Vocab
         mins: 6
-        note: "Where acupuncture acts on the body from outside, qigong trains the practitioner to regulate their own flow from within — through coordinated movement, breath, and intention."
+        note: "Where acupuncture acts on the body from outside, qigong trains the practitioner to regulate their own flow from within: through coordinated movement, breath, and intention."
   - name: "历史与全貌"
     name_en: "History & Depth"
     color: violet
-    note: "The full clinical and historical scope — canonical texts to contemporary practice."
+    note: "The full clinical and historical scope: canonical texts to contemporary practice."
     members:
       - slug: science/topic_zhongyi
         label_cn: "中医 · Clinical Depth"

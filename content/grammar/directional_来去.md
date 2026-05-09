@@ -4,7 +4,7 @@ category: 'grammar'
 status: 'complete'
 content_review: 'pending'
 title: '来 · 去 · directional complements'
-desc: '上来, 下去, 出去, 进来 — the motion complement system mapped.'
+desc: '上来, 下去, 出去, 进来: the motion complement system mapped.'
 metaDesc: '来 lái and 去 qù extend far beyond simple motion verbs into a vast system of directional complements. Etymology, the speaker-center principle, compound directionals, and idiomatic 来/去 patterns.'
 pageTitle: '来 / 去 · Directional Complements'
 tags:

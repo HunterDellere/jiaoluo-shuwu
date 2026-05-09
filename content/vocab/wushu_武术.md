@@ -3,7 +3,7 @@ type: 'vocab'
 category: 'vocab'
 status: 'complete'
 title: '武术 · martial arts'
-desc: 'The art of stopping weapons — how China systematized combat into a living philosophy of the body.'
+desc: 'The art of stopping weapons: how China systematized combat into a living philosophy of the body.'
 metaDesc: "武术 wǔshù: Chinese martial arts. Etymology of the 'weapon-stopping' character, the spectrum from wushu to gongfu to taichi, and the philosophy of the martial arts tradition."
 pageTitle: '武术 wǔshù'
 tags:

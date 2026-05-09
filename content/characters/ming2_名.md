@@ -3,7 +3,7 @@ type: 'character'
 category: 'characters'
 status: 'complete'
 title: '名 · name, fame, reputation'
-desc: '名 is 夕 dusk plus 口 mouth: darkness falls, you cannot see who approaches, so you call out a name — identity asserted through speech.'
+desc: '名 is 夕 dusk plus 口 mouth: darkness falls, you cannot see who approaches, so you call out a name. Identity asserted through speech.'
 metaDesc: '名 míng: the character for name and fame built from dusk and mouth. Etymology, Confucius 正名 doctrine, vocabulary compounds, and chengyu idioms.'
 pageTitle: '名 míng'
 tags:

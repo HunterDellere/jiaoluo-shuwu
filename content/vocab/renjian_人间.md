@@ -3,8 +3,8 @@ type: 'vocab'
 category: 'vocab'
 status: 'complete'
 title: '人间 · the human world; the mortal realm'
-desc: 'The world of people — where karma plays out, where flowers fade in April, and where the only beings who can hear the Dharma are born.'
-metaDesc: "人间 rénjiān: the human world, the mortal realm — loaded with Buddhist cosmology, Tang and Song poetry, and the bittersweet weight of ordinary life."
+desc: 'The world of people: where karma plays out, where flowers fade in April, and where the only beings who can hear the Dharma are born.'
+metaDesc: "人间 rénjiān: the human world, the mortal realm: loaded with Buddhist cosmology, Tang and Song poetry, and the bittersweet weight of ordinary life."
 pageTitle: '人间 rénjiān'
 tags:
   - 'philosophy'

@@ -3,7 +3,7 @@ type: 'character'
 category: 'characters'
 status: 'complete'
 title: '金 · gold, metal, money'
-desc: 'Nuggets of gold beneath the earth — and one of the Five Phases that governs autumn, the west, and sharpness.'
+desc: 'Nuggets of gold beneath the earth, and one of the Five Phases that governs autumn, the west, and sharpness.'
 metaDesc: "金 jīn: gold, metal, money. Etymology of the nuggets-in-earth pictogram, the Five Phase associations, financial vocabulary, and family names. HSK 3."
 pageTitle: '金 jīn'
 tags:

@@ -3,7 +3,7 @@ type: 'character'
 category: 'characters'
 status: 'complete'
 title: '土 · earth, soil, local, native'
-desc: "A mound of soil with a base — the earth phase of the Five Elements, and the root of hundreds of characters for land, construction, and cultural belonging."
+desc: "A mound of soil with a base: the earth phase of the Five Elements, and the root of hundreds of characters for land, construction, and cultural belonging."
 metaDesc: "土 tǔ: earth, soil, local, native. Etymology, the Five Elements earth phase, the 土 radical family, key compounds (土地/故土/本土), and the cultural weight of earth in Chinese thought."
 pageTitle: '土 tǔ'
 tags:

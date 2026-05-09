@@ -1,9 +1,9 @@
 ---
 type: hub
 category: hubs
-title: "哲学 · Chinese Philosophy — A Reading Path"
+title: "哲学 · Chinese Philosophy: A Reading Path"
 pinyin: "zhéxué"
-desc: "A guided walk through the great schools of Chinese thought — from Confucius and Laozi to the Neo-Confucian synthesis and the living debate between order and spontaneity."
+desc: "A guided walk through the great schools of Chinese thought: from Confucius and Laozi to the Neo-Confucian synthesis and the living debate between order and spontaneity."
 status: complete
 content_review: 'pending'
 updated: "2026-04-19"
@@ -12,14 +12,14 @@ stages:
   - name: "锚点"
     name_en: "Anchors"
     color: teal
-    note: "Start here — the two poles of the 2,500-year conversation."
+    note: "Start here: the two poles of the 2,500-year conversation."
     members:
       - slug: philosophy/topic_kongzi
         label_cn: "孔子 · Confucius"
         label_en: "The fixed point"
         type: Topic
         mins: 10
-        note: "Confucius (551–479 BCE) is the axis around which all later Chinese thought orients itself — either building on him or arguing against him."
+        note: "Confucius (551–479 BCE) is the axis around which all later Chinese thought orients itself, either building on him or arguing against him."
       - slug: philosophy/topic_laozi
         label_cn: "老子 · Laozi"
         label_en: "The counterweight"
@@ -29,7 +29,7 @@ stages:
   - name: "论辩"
     name_en: "The Arguments"
     color: ochre
-    note: "The Warring States debates — competing answers to the same questions."
+    note: "The Warring States debates: competing answers to the same questions."
     members:
       - slug: philosophy/topic_mengzi
         label_cn: "孟子 · Mencius"
@@ -54,7 +54,7 @@ stages:
         label_en: "The road not taken"
         type: Topic
         mins: 7
-        note: "Mozi rejected graded Confucian love and argued for 兼爱 (universal impartial love). Mohism nearly vanished after Qin unification — imagining it is imagining a different China."
+        note: "Mozi rejected graded Confucian love and argued for 兼爱 (universal impartial love). Mohism nearly vanished after Qin unification; imagining it is imagining a different China."
       - slug: philosophy/topic_fajia
         label_cn: "法家 · Legalism"
         label_en: "The school that built the empire"
@@ -64,7 +64,7 @@ stages:
   - name: "宇宙论"
     name_en: "The Cosmological Frame"
     color: sienna
-    note: "The framework beneath the philosophy — how the natural world was mapped onto human and political order."
+    note: "The framework beneath the philosophy: how the natural world was mapped onto human and political order."
     members:
       - slug: philosophy/topic_yinyang_wuxing
         label_cn: "阴阳五行"
@@ -87,7 +87,7 @@ stages:
   - name: "邻居"
     name_en: "The Neighbours"
     color: violet
-    note: "How philosophy met religion — the mutual shaping of Daoism and Buddhism."
+    note: "How philosophy met religion: the mutual shaping of Daoism and Buddhism."
     members:
       - slug: religion/topic_daojiao
         label_cn: "道教 · Religious Daoism"

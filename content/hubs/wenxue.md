@@ -1,7 +1,7 @@
 ---
 type: hub
 category: hubs
-title: "文学路径 · Literary China — A Reading Path"
+title: "文学路径 · Literary China: A Reading Path"
 pinyin: "wénxué lùjìng"
 desc: "Chinese literature is not a sequence of styles that replaced each other. It is an accumulation. This path follows the layering forward in time."
 status: complete
@@ -12,7 +12,7 @@ stages:
   - name: "先秦"
     name_en: "Pre-Imperial"
     color: teal
-    note: "The founding texts — composed before China was one country, still read by everyone who came after."
+    note: "The founding texts: composed before China was one country, still read by everyone who came after."
     members:
       - slug: arts/topic_shijing
         label_cn: "诗经 · Book of Songs"
@@ -42,13 +42,13 @@ stages:
         label_en: "The high-water mark"
         type: Topic
         mins: 10
-        note: "The Tang dynasty (618–907 CE) produced the poetry that defined the form. Li Bai, Du Fu, and Wang Wei — three contemporaries, three completely different aesthetics — represent a concentration of talent with few parallels in literary history."
+        note: "The Tang dynasty (618–907 CE) produced the poetry that defined the form. Li Bai, Du Fu, and Wang Wei (three contemporaries, three completely different aesthetics) represent a concentration of talent with few parallels in literary history."
       - slug: arts/topic_songci
         label_cn: "宋词 · Song Lyrics"
         label_en: "A new form from a smaller canvas"
         type: Topic
         mins: 9
-        note: "When the Tang political order collapsed, the Song literati turned inward. The ci lyric form — words fitted to existing tunes, with irregular line lengths — became the vehicle for a more personal, sometimes melancholy register that Tang regulated verse could not carry."
+        note: "When the Tang political order collapsed, the Song literati turned inward. The ci lyric form (words fitted to existing tunes, with irregular line lengths) became the vehicle for a more personal, sometimes melancholy register that Tang regulated verse could not carry."
       - slug: vocab/shici_诗词
         label_cn: "诗词 · Poetry"
         label_en: "The shared vocabulary"
@@ -65,7 +65,7 @@ stages:
         label_en: "The aristocrat of Chinese theater"
         type: Topic
         mins: 8
-        note: "Kunqu (developed in the Ming, flourished in the Qing) is the oldest surviving form of Chinese music-theater. The librettos — particularly Tang Xianzu's Peony Pavilion (牡丹亭) — are also significant literary texts read independently from performance."
+        note: "Kunqu (developed in the Ming, flourished in the Qing) is the oldest surviving form of Chinese music-theater. The librettos (particularly Tang Xianzu's Peony Pavilion 牡丹亭) are also significant literary texts read independently from performance."
       - slug: arts/topic_sidaimingzhu
         label_cn: "四大名著 · Four Great Novels"
         label_en: "The vernacular canon"
@@ -82,7 +82,7 @@ stages:
         label_en: "Where writing is art"
         type: Topic
         mins: 8
-        note: "In the Chinese tradition, how a character is written is as significant as what it says. The great calligraphers — Wang Xizhi, Su Shi, Yan Zhenqing — are as celebrated as the great poets, often because they were the same people."
+        note: "In the Chinese tradition, how a character is written is as significant as what it says. The great calligraphers (Wang Xizhi, Su Shi, Yan Zhenqing) are as celebrated as the great poets, often because they were the same people."
       - slug: arts/topic_zhuanke
         label_cn: "篆刻 · Seal Carving"
         label_en: "The compressed poem"
@@ -94,7 +94,7 @@ stages:
         label_en: "Brush, ink, paper, stone"
         type: Topic
         mins: 7
-        note: "Brush, ink stick, paper, and inkstone: the four objects without which nothing in the literary tradition could be produced. These were not mere tools — they were collected, written about, and given as gifts. Su Shi wrote essays about inkstones."
+        note: "Brush, ink stick, paper, and inkstone: the four objects without which nothing in the literary tradition could be produced. These were not mere tools; they were collected, written about, and given as gifts. Su Shi wrote essays about inkstones."
   - name: "现代"
     name_en: "The Break"
     color: red
@@ -105,7 +105,7 @@ stages:
         label_en: "The first modern voice"
         type: Topic
         mins: 9
-        note: "Lu Xun (1881–1936) chose to write in the spoken vernacular rather than classical Chinese at a moment when that choice was a political act. His short stories — particularly 'A Madman's Diary' and 'The True Story of Ah Q' — are the founding texts of modern Chinese literature."
+        note: "Lu Xun (1881–1936) chose to write in the spoken vernacular rather than classical Chinese at a moment when that choice was a political act. His short stories (particularly 'A Madman's Diary' and 'The True Story of Ah Q') are the founding texts of modern Chinese literature."
 ---
 
 <div class="shell">

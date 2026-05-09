@@ -5,7 +5,7 @@ status: 'complete'
 content_review: 'pending'
 title: '汉服 · Traditional Han Dress'
 desc: 'Ancient silhouettes worn in modern streets: the revival of Han dynasty clothing and the identity politics it carries.'
-metaDesc: "汉服 Hànfú: traditional Han Chinese clothing — historical forms, the modern Hanfu Revival movement, and the cultural identity questions dress reopens."
+metaDesc: "汉服 Hànfú: traditional Han Chinese clothing. Historical forms, the modern Hanfu Revival movement, and the cultural identity questions dress reopens."
 pageTitle: '汉服 · Traditional Han Dress'
 tags:
   - 'culture'

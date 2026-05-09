@@ -4,7 +4,7 @@ category: 'vocab'
 status: 'complete'
 title: '江湖 · rivers and lakes'
 desc: 'The outsider world of wanderers, martial artists, and street wisdom.'
-metaDesc: "江湖 jiānghú: rivers and lakes, the martial world, and the space outside official society. From wuxia novels to modern slang — the word for everywhere that isn't home."
+metaDesc: "江湖 jiānghú: rivers and lakes, the martial world, and the space outside official society. From wuxia novels to modern slang: the word for everywhere that isn't home."
 pageTitle: '江湖 jiānghú'
 tags:
   - 'wuxia'

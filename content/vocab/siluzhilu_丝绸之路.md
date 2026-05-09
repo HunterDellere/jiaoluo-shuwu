@@ -3,7 +3,7 @@ type: 'vocab'
 category: 'vocab'
 status: 'complete'
 title: '丝绸之路 · the Silk Road'
-desc: 'The term Silk Road was coined by a German geographer in 1877 — the Chinese themselves had no single name for the trade network that defined their contact with the world for a millennium.'
+desc: 'The term Silk Road was coined by a German geographer in 1877: the Chinese themselves had no single name for the trade network that defined their contact with the world for a millennium.'
 metaDesc: 'The Silk Road connected China to Rome and the world for over a millennium. Explore the etymology, history, and legacy of 丝绸之路 sīchóu zhī lù.'
 pageTitle: '丝绸之路 sīchóu zhī lù'
 tags:

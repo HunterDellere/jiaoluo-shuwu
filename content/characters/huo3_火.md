@@ -3,7 +3,7 @@ type: 'character'
 category: 'characters'
 status: 'complete'
 title: '火 · fire, flame, anger, popularity'
-desc: 'Three flames rising — the character for fire and one of the most productive radicals in Chinese.'
+desc: 'Three flames rising: the character for fire and one of the most productive radicals in Chinese.'
 metaDesc: "火 huǒ: fire, flame, anger, popularity. Etymology of the three-flame pictograph, fire compounds from 火山 to 火锅, and the cultural significance of fire in Chinese life."
 pageTitle: '火 huǒ'
 tags:

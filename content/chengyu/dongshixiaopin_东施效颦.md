@@ -2,8 +2,8 @@
 type: 'vocab'
 category: 'chengyu'
 status: 'complete'
-title: '东施效颦 · to imitate blindly without understanding — and make things worse'
-desc: "A homely woman copies Xi Shi's famous frown and clears the street — Zhuangzi's parable about form without essence."
+title: '东施效颦 · to imitate blindly without understanding, and make things worse'
+desc: "A homely woman copies Xi Shi's famous frown and clears the street: Zhuangzi's parable about form without essence."
 metaDesc: "东施效颦 Dōng Shī xiào pín: the Zhuangzi parable of Dong Shi imitating Xi Shi's brow-furrowing and making things worse. The chengyu for blind imitation that misses the point."
 pageTitle: '东施效颦 Dōng Shī xiào pín'
 tags:
@@ -15,9 +15,9 @@ tags:
 updated: '2026-04-25'
 pinyin: 'Dōng Shī xiào pín'
 sources:
-  - 'Zhuangzi 庄子, "Tiānyùn" 天运 chapter (4th–3rd century BCE) — original parable'
-  - 'Outlier Linguistic Solutions — etymology of 颦'
-  - 'Baxter-Sagart Old Chinese reconstruction — 颦 phonetic series'
+  - 'Zhuangzi 庄子, "Tiānyùn" 天运 chapter (4th–3rd century BCE): original parable'
+  - 'Outlier Linguistic Solutions: etymology of 颦'
+  - 'Baxter-Sagart Old Chinese reconstruction: 颦 phonetic series'
 content_review: 'pending'
 ---
 

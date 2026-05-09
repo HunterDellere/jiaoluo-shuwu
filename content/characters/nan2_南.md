@@ -3,7 +3,7 @@ type: 'character'
 category: 'characters'
 status: 'complete'
 title: '南 · south; southern'
-desc: 'The direction that Chinese buildings face and emperors receive guests — warmth, productivity, and the seat of imperial ritual power.'
+desc: 'The direction that Chinese buildings face and emperors receive guests: warmth, productivity, and the seat of imperial ritual power.'
 metaDesc: "南 nán: south, southern. Etymology as a possible musical bell pictograph, the south's role in Chinese cosmology and architecture, compounds from 南方 to 南京, and chengyu about the south."
 pageTitle: '南 nán'
 tags:

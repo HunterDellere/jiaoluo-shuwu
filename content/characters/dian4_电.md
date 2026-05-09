@@ -3,7 +3,7 @@ type: 'character'
 category: 'characters'
 status: 'complete'
 title: '电 · electricity, electric, telegram'
-desc: "Lightning descending from a rain cloud — a character that jumped from describing the weather to naming the force that defines modern civilization."
+desc: "Lightning descending from a rain cloud, a character that jumped from describing the weather to naming the force that defines modern civilization."
 metaDesc: "电 diàn: electricity, electric, telegram, phone. Etymology, how 电 names the modern world (手机/电脑/电视), and the cultural leap from lightning to digital life."
 pageTitle: '电 diàn'
 tags:

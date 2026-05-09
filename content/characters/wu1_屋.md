@@ -3,7 +3,7 @@ type: 'character'
 category: 'characters'
 status: 'complete'
 title: '屋 · room, house, dwelling'
-desc: 'Room, dwelling, and the human need for shelter — the character at home.'
+desc: 'Room, dwelling, and the human need for shelter: the character at home.'
 metaDesc: "屋 wū: room, house, dwelling. Etymology, body-roof structure, key compounds, place-naming, chengyu idioms, and cultural context."
 pageTitle: '屋 wū'
 tags:

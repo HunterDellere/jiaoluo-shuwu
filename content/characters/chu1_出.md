@@ -3,7 +3,7 @@ type: 'character'
 category: 'characters'
 status: 'complete'
 title: '出 · to exit, to emerge, to produce'
-desc: '出 is two plants growing upward out of the earth — emergence itself written as a glyph, from physical exits to publication to standing out from the crowd.'
+desc: '出 is two plants growing upward out of the earth: emergence itself written as a glyph, from physical exits to publication to standing out from the crowd.'
 metaDesc: "出 chū: to exit, emerge, produce, publish. Etymology from oracle bone foot-from-pit, directional complements, 出来/出去, compounds from 出版 to 出色, and classical chengyu."
 pageTitle: '出 chū'
 tags:

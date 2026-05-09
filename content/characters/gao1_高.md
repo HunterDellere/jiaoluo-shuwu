@@ -3,7 +3,7 @@ type: 'character'
 category: 'characters'
 status: 'complete'
 title: '高 · tall; high; elevated; surname'
-desc: 'A tall palace gate rising above the ground — and the character that anchors Chinese words for excellence, happiness, and examination pressure simultaneously.'
+desc: 'A tall palace gate rising above the ground, and the character that anchors Chinese words for excellence, happiness, and examination pressure simultaneously.'
 metaDesc: "高 gāo: tall, high, elevated. Pictograph of a tall gateway. Etymology, high-altitude compounds from 高山 to 高考, the 高兴 happiness connection, and chengyu about aspiration and overreach."
 pageTitle: '高 gāo'
 tags:

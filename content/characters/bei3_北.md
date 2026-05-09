@@ -3,7 +3,7 @@ type: 'character'
 category: 'characters'
 status: 'complete'
 title: '北 · north; northern; to flee'
-desc: "Two people standing back-to-back — the direction of cold and turning away that became the name of China's capital."
+desc: "Two people standing back-to-back: the direction of cold and turning away that became the name of China's capital."
 metaDesc: "北 běi: north, northern. Oracle bone shows two people back-to-back. Etymology, north as the direction of cold and danger, 北京 and 东北, and classical 北 meaning defeat."
 pageTitle: '北 běi'
 tags:

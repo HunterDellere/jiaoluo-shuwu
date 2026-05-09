@@ -4,8 +4,8 @@ category: 'daily'
 status: 'complete'
 content_review: 'pending'
 title: '吃饭文化 · Chinese Food Culture'
-desc: "Eating in China is not primarily about food — it is the medium through which relationships are initiated, obligations are incurred, hierarchies are performed, and social bonds are maintained."
-metaDesc: "吃饭文化 chī fàn wén huà: Chinese food culture — the greeting that asks if you have eaten, round-table logic, toasting protocol, how meals end, and why the shared table is the primary arena of social life."
+desc: "Eating in China is not primarily about food. It is the medium through which relationships are initiated, obligations are incurred, hierarchies are performed, and social bonds are maintained."
+metaDesc: "吃饭文化 chī fàn wén huà: Chinese food culture. The greeting that asks if you have eaten, round-table logic, toasting protocol, how meals end, and why the shared table is the primary arena of social life."
 pageTitle: '吃饭文化 · Chinese Food Culture'
 tags:
   - 'daily-life'

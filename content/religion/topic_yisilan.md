@@ -5,7 +5,7 @@ status: 'complete'
 content_review: 'pending'
 title: '伊斯兰教 · Islam in China'
 desc: 'Hui Muslims, Uyghur traditions, and 1400 years of Islamic presence.'
-metaDesc: "伊斯兰教 yīsīlán jiào: Islam in China — 1400 years of Muslim presence, the Hui people, Uyghur traditions, mosque architecture from Xi'an to Kashgar, halal food culture, and Muslim contributions to Chinese civilization."
+metaDesc: "伊斯兰教 yīsīlán jiào: Islam in China. 1400 years of Muslim presence, the Hui people, Uyghur traditions, mosque architecture from Xi'an to Kashgar, halal food culture, and Muslim contributions to Chinese civilization."
 pageTitle: '伊斯兰教 yīsīlán jiào'
 tags:
   - 'islam'

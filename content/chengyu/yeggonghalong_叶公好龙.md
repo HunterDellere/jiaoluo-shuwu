@@ -3,8 +3,8 @@ type: 'vocab'
 category: 'chengyu'
 status: 'complete'
 title: '叶公好龙 · Lord Ye Loves Dragons'
-desc: "He decorated his palace with dragons — until a real one appeared. The idiom for loving what you only love in the abstract."
-metaDesc: "叶公好龙 Yègōng hào lóng: the chengyu for loving something only in theory — Lord Ye's palace full of dragon images, and what happened when a real dragon came to visit."
+desc: "He decorated his palace with dragons, until a real one appeared. The idiom for loving what you only love in the abstract."
+metaDesc: "叶公好龙 Yègōng hào lóng: the chengyu for loving something only in theory. Lord Ye's palace full of dragon images, and what happened when a real dragon came to visit."
 pageTitle: '叶公好龙 · Lord Ye Loves Dragons'
 tags:
   - 'idioms'

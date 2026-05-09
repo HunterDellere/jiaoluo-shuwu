@@ -3,7 +3,7 @@ type: 'topic'
 category: 'vocab'
 status: 'complete'
 title: '声调 · the four tones of Mandarin'
-desc: 'Mandarin is tonal: the same syllable said at four different pitches means four different things. Tone is not emphasis — it is part of the word.'
+desc: 'Mandarin is tonal: the same syllable said at four different pitches means four different things. Tone is not emphasis: it is part of the word.'
 metaDesc: "声调 shēngdiào: the four tones of Mandarin Chinese. How pitch changes meaning, the neutral tone, tone sandhi rules, and how tones are marked in pinyin."
 pageTitle: '声调 shēngdiào'
 pinyin: 'shēngdiào'

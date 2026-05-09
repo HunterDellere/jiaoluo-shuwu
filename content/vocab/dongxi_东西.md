@@ -3,7 +3,7 @@ type: 'vocab'
 category: 'vocab'
 status: 'complete'
 title: '东西 · things'
-desc: "East-west as the word for 'stuff' — a window into directional cosmology."
+desc: "East-west as the word for 'stuff': a window into directional cosmology."
 metaDesc: "东西 dōngxi: the word for 'things' that encodes the east-west axis of Chinese cosmology. Grammar, colloquial uses, and the directional worldview baked into everyday speech."
 pageTitle: '东西 dōngxi'
 tags:

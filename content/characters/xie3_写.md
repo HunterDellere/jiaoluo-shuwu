@@ -3,7 +3,7 @@ type: 'character'
 category: 'characters'
 status: 'complete'
 title: '写 · to write; to describe'
-desc: '写 simplified from 寫, which shows a magpie under a roof — the bird that mimics and transmits, giving its voice to the written mark.'
+desc: '写 simplified from 寫, which shows a magpie under a roof: the bird that mimics and transmits, giving its voice to the written mark.'
 metaDesc: "写 xiě: to write, to describe, to depict. Etymology from the traditional form 寫 (magpie under a roof), writing action compounds, the calligraphy register, and chengyu."
 pageTitle: '写 xiě'
 tags:

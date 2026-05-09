@@ -4,7 +4,7 @@ category: 'characters'
 status: 'complete'
 title: '有 · to have, to exist'
 desc: 'Possession, existence, and the have/be distinction that reshapes grammar.'
-metaDesc: "有 yǒu: to have, there is/are, existence itself — etymology, possession vs. existential uses, 有点 vs. 一点, formal compounds, and the Daoist 有无 binary."
+metaDesc: "有 yǒu: to have, there is/are, existence itself. Etymology, possession vs. existential uses, 有点 vs. 一点, formal compounds, and the Daoist 有无 binary."
 pageTitle: '有 yǒu'
 tags:
   - 'grammar'

@@ -3,7 +3,7 @@ type: 'character'
 category: 'characters'
 status: 'complete'
 title: '看 · to look, to watch, to read, to visit'
-desc: '看 = hand above eye, shielding from the sun to see in the distance — visual attention with effort, encoded in a gesture everyone has made.'
+desc: '看 = hand above eye, shielding from the sun to see in the distance: visual attention with effort, encoded in a gesture everyone has made.'
 metaDesc: '看 kàn: to look, to watch, to read, to visit. Etymology of hand over eye, 看 vs 见 distinction, resultative complements, 看 as opinion and judgment, and chengyu on seeing clearly.'
 pageTitle: '看 kàn'
 tags:

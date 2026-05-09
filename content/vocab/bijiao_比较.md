@@ -3,7 +3,7 @@ type: 'vocab'
 category: 'vocab'
 status: 'complete'
 title: '比较 · to compare; relatively, fairly'
-desc: 'Compare and qualify — the word that measures differences and hedges claims in everyday Mandarin.'
+desc: 'Compare and qualify: the word that measures differences and hedges claims in everyday Mandarin.'
 metaDesc: "比较 bǐjiào: to compare; relatively, fairly. Etymology, comparison structures (A 比 B), 比较 as adverb vs. verb, 比较 vs. 更 vs. 最, and temporal comparison patterns."
 pageTitle: '比较 bǐjiào'
 tags:

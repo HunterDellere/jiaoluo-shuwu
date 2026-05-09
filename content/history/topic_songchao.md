@@ -4,8 +4,8 @@ category: 'history'
 status: 'complete'
 content_review: 'pending'
 title: '宋朝 · The Song Dynasty'
-desc: 'Economic revolution, printing, compass — the dynasty modernity missed.'
-metaDesc: "宋朝 sòngcháo: politically weak but culturally brilliant — paper money, printing, gunpowder, and the compass all flourished; the Jingkang Humiliation sent the court south; Neo-Confucianism redefined Chinese thought until the Mongols ended it all in 1279."
+desc: 'Economic revolution, printing, compass: the dynasty modernity missed.'
+metaDesc: "宋朝 sòngcháo: politically weak but culturally brilliant. Paper money, printing, gunpowder, and the compass all flourished; the Jingkang Humiliation sent the court south; Neo-Confucianism redefined Chinese thought until the Mongols ended it all in 1279."
 pageTitle: '宋朝 · The Song Dynasty'
 tags:
   - 'song'
@@ -19,9 +19,9 @@ faq:
   - q: "What inventions came from the Song Dynasty?"
     a: "The Song was the most technologically inventive period in Chinese history. Three of the four great inventions reached maturity here: 印刷术 movable-type printing (Bi Sheng, c. 1040), 火药 gunpowder weapons including fire arrows and bombs, and the magnetic 指南针 compass for maritime navigation. The Song also introduced the world's first paper money 交子, mechanical clocks (Su Song's astronomical tower), advanced shipbuilding with watertight compartments, and large-scale iron production rivalling 18th-century Europe."
   - q: "Why was the Song Dynasty considered weak militarily but strong economically?"
-    a: "After the Tang collapse, Song founder 赵匡胤 deliberately subordinated the military to civilian bureaucrats to prevent another era of warlord rebellions. This produced a meritocratic civil-service state with explosive economic growth — agriculture, iron, ceramics, silk, maritime trade, and a money economy — but left the dynasty unable to defend its northern frontier against the 辽 Liao, 西夏 Western Xia, 金 Jin, and finally the Mongols. The Song paid annual tribute to keep peace, then lost the north anyway."
+    a: "After the Tang collapse, Song founder 赵匡胤 deliberately subordinated the military to civilian bureaucrats to prevent another era of warlord rebellions. This produced a meritocratic civil-service state with explosive economic growth (agriculture, iron, ceramics, silk, maritime trade, and a money economy) but left the dynasty unable to defend its northern frontier against the 辽 Liao, 西夏 Western Xia, 金 Jin, and finally the Mongols. The Song paid annual tribute to keep peace, then lost the north anyway."
   - q: "What is Neo-Confucianism (理学)?"
-    a: "理学 lǐxué — 'the study of principle' — is the philosophical synthesis developed by Song thinkers including 周敦颐, 程颐, 程颢, and especially 朱熹 (Zhu Xi, 1130–1200). It absorbed Buddhist and Daoist metaphysics into a Confucian framework, arguing that all things share a common principle 理 manifested through 气 (vital matter), and that moral cultivation means investigating things to grasp their principles. Zhu Xi's commentaries on the Four Books defined Chinese intellectual orthodoxy for the next 700 years."
+    a: "理学 lǐxué, 'the study of principle,' is the philosophical synthesis developed by Song thinkers including 周敦颐, 程颐, 程颢, and especially 朱熹 (Zhu Xi, 1130–1200). It absorbed Buddhist and Daoist metaphysics into a Confucian framework, arguing that all things share a common principle 理 manifested through 气 (vital matter), and that moral cultivation means investigating things to grasp their principles. Zhu Xi's commentaries on the Four Books defined Chinese intellectual orthodoxy for the next 700 years."
 ---
 
 

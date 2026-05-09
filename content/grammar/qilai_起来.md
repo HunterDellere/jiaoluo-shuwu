@@ -3,8 +3,8 @@ type: 'grammar'
 category: 'grammar'
 status: 'complete'
 content_review: 'pending'
-title: '起来 · directional complement — upward, inward, beginning'
-desc: 'The most versatile directional complement in Mandarin — three distinct grammatical lives.'
+title: '起来 · directional complement: upward, inward, beginning'
+desc: 'The most versatile directional complement in Mandarin: three distinct grammatical lives.'
 metaDesc: "起来 qǐlái: directional complement for upward motion, for initiating an action, and for forming impressions. Three functions, usage patterns, and the full V+起来 family."
 pageTitle: '起来 qǐlái'
 tags:

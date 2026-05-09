@@ -2,9 +2,9 @@
 type: 'topic'
 category: 'vocab'
 status: 'complete'
-title: '部首 · radicals — the indexing keys of Chinese characters'
+title: '部首 · radicals: the indexing keys of Chinese characters'
 desc: 'Every Chinese character belongs to a radical family. Radicals are the organizing principle of dictionaries, the structural DNA of characters, and the fastest shortcut to guessing what an unfamiliar word means.'
-metaDesc: "部首 bùshǒu: Chinese radicals — the 214 Kangxi indexing components that organize dictionaries, signal meaning, and reveal how characters are built."
+metaDesc: "部首 bùshǒu: Chinese radicals: the 214 Kangxi indexing components that organize dictionaries, signal meaning, and reveal how characters are built."
 pageTitle: '部首 bùshǒu'
 pinyin: 'bùshǒu'
 tags:

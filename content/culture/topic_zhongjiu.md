@@ -4,8 +4,8 @@ category: 'culture'
 status: 'complete'
 content_review: 'pending'
 title: '重阳节 · Double Ninth Festival'
-desc: 'The festival named for two nines produced one of the Tang dynasty most memorized poems — and a linguistic trick that lets urban dwellers eat a cake instead of climbing a mountain.'
-metaDesc: "重阳节 Chóngyángjié: China Double Ninth Festival on the 9th day of the 9th lunar month — origin story, mountain climbing, chrysanthemum wine, zhuyu sprigs, Double Ninth cake, Wang Wei poetry, and the modern Elders Day designation."
+desc: 'The festival named for two nines produced one of the Tang dynasty most memorized poems, and a linguistic trick that lets urban dwellers eat a cake instead of climbing a mountain.'
+metaDesc: "重阳节 Chóngyángjié: China Double Ninth Festival on the 9th day of the 9th lunar month. Origin story, mountain climbing, chrysanthemum wine, zhuyu sprigs, Double Ninth cake, Wang Wei poetry, and the modern Elders Day designation."
 pageTitle: '重阳节 Chóngyángjié'
 pinyin: 'Chóngyángjié'
 tags:

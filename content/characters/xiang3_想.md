@@ -3,7 +3,7 @@ type: 'character'
 category: 'characters'
 status: 'complete'
 title: '想 · to think, to want, to miss'
-desc: '想 = 相 (mutual, facing) + 心 (heart) — the heart turned toward something, carrying the full range from thought to desire to longing in a single gesture.'
+desc: '想 = 相 (mutual, facing) + 心 (heart): the heart turned toward something, carrying the full range from thought to desire to longing in a single gesture.'
 metaDesc: "想 xiǎng: to think, to want, to miss. Etymology, the three-meaning unification, compounds for thought, desire, and longing, chengyu including 异想天开 and 心想事成."
 pageTitle: '想 xiǎng'
 tags:

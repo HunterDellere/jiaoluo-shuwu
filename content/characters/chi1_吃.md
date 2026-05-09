@@ -3,7 +3,7 @@ type: 'character'
 category: 'characters'
 status: 'complete'
 title: '吃 · to eat'
-desc: 'To eat — and the extraordinary range of Chinese life encoded in a single food verb.'
+desc: 'To eat, and the extraordinary range of Chinese life encoded in a single food verb.'
 metaDesc: "吃 chī: to eat. Etymology, 吃了吗 as greeting, idiomatic extensions (吃苦, 吃亏, 吃醋), food culture, and chengyu."
 pageTitle: '吃 chī'
 tags:

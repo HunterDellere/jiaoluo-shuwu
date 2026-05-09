@@ -3,8 +3,8 @@ type: 'character'
 category: 'characters'
 status: 'complete'
 title: '义 · righteousness, duty, justice'
-desc: 'The Confucian virtue of doing what is morally right — and the simplification that erased a sheep, a self, and the entire picture of what righteous form looks like.'
-metaDesc: "义 yì: righteousness, moral duty, justice. One of the Five Confucian Constants, formed from 羊 (sheep) + 我 (self) in the traditional 義 — the self in its proper, beautiful form."
+desc: 'The Confucian virtue of doing what is morally right, and the simplification that erased a sheep, a self, and the entire picture of what righteous form looks like.'
+metaDesc: "义 yì: righteousness, moral duty, justice. One of the Five Confucian Constants, formed from 羊 (sheep) + 我 (self) in the traditional 義: the self in its proper, beautiful form."
 pageTitle: '义 yì'
 tags:
   - 'confucianism'

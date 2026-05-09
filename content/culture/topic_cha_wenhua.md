@@ -5,7 +5,7 @@ status: 'complete'
 content_review: 'pending'
 title: '茶文化 · Tea Culture'
 desc: 'Tea as civilization: the way a leaf became a philosophical practice, a diplomatic currency, and the shape of daily life across two millennia.'
-metaDesc: "茶文化 Chá wénhuà: Chinese tea culture — the Classic of Tea, gongfu cha ceremony, six tea categories, and tea as philosophical practice."
+metaDesc: "茶文化 Chá wénhuà: Chinese tea culture. The Classic of Tea, gongfu cha ceremony, six tea categories, and tea as philosophical practice."
 pageTitle: '茶文化 · Tea Culture'
 tags:
   - 'tea'

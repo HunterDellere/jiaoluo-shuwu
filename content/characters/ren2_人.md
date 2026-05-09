@@ -3,7 +3,7 @@ type: 'character'
 category: 'characters'
 status: 'complete'
 title: '人 · person, humanity'
-desc: 'The character for human being, and its echo in 仁 rén — Confucian benevolence.'
+desc: 'The character for human being, and its echo in 仁 rén, Confucian benevolence.'
 metaDesc: "人 rén: person, human being, and humanity. Etymology from oracle-bone script, the 仁 Confucian connection, collective compounds, social vocabulary, and the ethics of being human."
 pageTitle: '人 rén'
 tags:

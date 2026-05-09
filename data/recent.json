@@ -1,10 +1,31 @@
 [
   {
+    "path": "pages/characters/ming4_命.html",
+    "type": "character",
+    "category": "characters",
+    "title": "命 · life, fate, command",
+    "desc": "A mouth speaking an order: 令 above, 口 inside. The character that holds together three of the heaviest words in Chinese: life, destiny, and the command from above.",
+    "tags": [
+      "philosophy",
+      "fate",
+      "life",
+      "classical",
+      "ethics"
+    ],
+    "status": "complete",
+    "char": "命",
+    "pinyin": "mìng",
+    "tone": 4,
+    "hsk": 4,
+    "radical": "口",
+    "updated": "2026-05-09"
+  },
+  {
     "path": "pages/characters/kua4_跨.html",
     "type": "character",
     "category": "characters",
     "title": "跨 · to stride; to span; to bestride",
-    "desc": "The character of the long stride — a foot-radical verb that reaches from \"step over a threshold\" to \"span an era\" to the modern policy vocabulary of cross-border, cross-industry, cross-cultural everything.",
+    "desc": "The character of the long stride: a foot-radical verb that reaches from \"step over a threshold\" to \"span an era\" to the modern policy vocabulary of cross-border, cross-industry, cross-cultural everything.",
     "tags": [
       "movement",
       "border",
@@ -23,7 +44,7 @@
     "type": "character",
     "category": "characters",
     "title": "跑 · to run; to flee; to operate",
-    "desc": "The everyday verb of running — a foot-radical character whose semantic range stretches from \"the legs in motion\" to \"running an errand\" to \"the engine is running\" to a small but productive family of escape-and-flee compounds.",
+    "desc": "The everyday verb of running: a foot-radical character whose semantic range stretches from \"the legs in motion\" to \"running an errand\" to \"the engine is running\" to a small but productive family of escape-and-flee compounds.",
     "tags": [
       "motion",
       "body",
@@ -42,7 +63,7 @@
     "type": "character",
     "category": "characters",
     "title": "她 · she, her",
-    "desc": "她 is the youngest character in everyday Chinese — invented in 1917 to translate \"she,\" and the cause of one of the loudest grammatical fights in modern Chinese letters.",
+    "desc": "她 is the youngest character in everyday Chinese, invented in 1917 to translate \"she,\" and the cause of one of the loudest grammatical fights in modern Chinese letters.",
     "tags": [
       "grammar",
       "modern",
@@ -62,7 +83,7 @@
     "type": "character",
     "category": "characters",
     "title": "越 · to cross over, to surpass",
-    "desc": "The character of crossing-and-exceeding — a foot-radical verb that travels from \"stride over a barrier\" to \"the more, the more\" to a Chinese state name and a national poetic gesture.",
+    "desc": "The character of crossing-and-exceeding: a foot-radical verb that travels from \"stride over a barrier\" to \"the more, the more\" to a Chinese state name and a national poetic gesture.",
     "tags": [
       "movement",
       "comparison",
@@ -81,7 +102,7 @@
     "type": "topic",
     "category": "history",
     "title": "长城 · The Great Wall",
-    "desc": "Two millennia of walls, watchtowers, and beacon fires — what the Great Wall actually was, and why \"the wall\" is a translation that flattens a complicated history.",
+    "desc": "Two millennia of walls, watchtowers, and beacon fires: what the Great Wall actually was, and why \"the wall\" is a translation that flattens a complicated history.",
     "tags": [
       "history",
       "fortification",
@@ -101,7 +122,7 @@
     "type": "vocab",
     "category": "vocab",
     "title": "方向 · direction; orientation",
-    "desc": "方向 is the compass-word that holds together physical heading, life direction, political orientation, and the deeply Chinese sense that getting your bearings — 辨方向 — is the first move in any undertaking.",
+    "desc": "方向 is the compass-word that holds together physical heading, life direction, political orientation, and the deeply Chinese sense that getting your bearings: 辨方向, is the first move in any undertaking.",
     "tags": [
       "space",
       "direction",
@@ -117,7 +138,7 @@
     "type": "vocab",
     "category": "vocab",
     "title": "跨越 · to leap across, to span, to transcend",
-    "desc": "The compound that lets the Chinese language span gaps — physical, historical, technological, generational. The verb of choice when \"越长城\" is read figuratively.",
+    "desc": "The compound that lets the Chinese language span gaps: physical, historical, technological, generational. The verb of choice when \"越长城\" is read figuratively.",
     "tags": [
       "movement",
       "border",
@@ -132,7 +153,7 @@
     "type": "vocab",
     "category": "vocab",
     "title": "礼貌 · politeness, courteous manner",
-    "desc": "The everyday word for politeness — what 礼 (ritual propriety) becomes when it is shrunk down to the scale of ordinary social life. Polite forms, polite faces, and the precise way modern Chinese distinguishes 礼貌 from 客气, 礼节, and the older 礼 itself.",
+    "desc": "The everyday word for politeness: what 礼 (ritual propriety) becomes when it is shrunk down to the scale of ordinary social life. Polite forms, polite faces, and the precise way modern Chinese distinguishes 礼貌 from 客气, 礼节, and the older 礼 itself.",
     "tags": [
       "courtesy",
       "etiquette",
@@ -148,7 +169,7 @@
     "type": "vocab",
     "category": "vocab",
     "title": "山水 · mountains and water; the landscape",
-    "desc": "The paired word that names the Chinese landscape — not \"scenery\" in the Western sense, but a cosmological pairing of the still and the flowing that became the central subject of a thousand years of painting and poetry.",
+    "desc": "The paired word that names the Chinese landscape: not \"scenery\" in the Western sense, but a cosmological pairing of the still and the flowing that became the central subject of a thousand years of painting and poetry.",
     "tags": [
       "aesthetics",
       "nature",
@@ -164,7 +185,7 @@
     "type": "character",
     "category": "characters",
     "title": "德 · virtue, moral power",
-    "desc": "Virtue not as rule-following but as accumulated moral power — what radiates from a person whose conduct has been straight long enough to become second nature.",
+    "desc": "Virtue not as rule-following but as accumulated moral power: what radiates from a person whose conduct has been straight long enough to become second nature.",
     "tags": [
       "confucianism",
       "daoism",
@@ -185,7 +206,7 @@
     "type": "character",
     "category": "characters",
     "title": "读 · to read aloud, to study",
-    "desc": "Reading as the act of voicing what is written — the everyday verb for studying, declaiming a text, and (figuratively) interpreting a person, a situation, or a sign.",
+    "desc": "Reading as the act of voicing what is written: the everyday verb for studying, declaiming a text, and (figuratively) interpreting a person, a situation, or a sign.",
     "tags": [
       "learning",
       "language",
@@ -204,7 +225,7 @@
     "type": "character",
     "category": "characters",
     "title": "脚 · foot, base",
-    "desc": "The everyday word for foot — and, by extension, the base of any standing thing: a mountain, a wall, a script. The flesh-and-bone counterpart to literary 足.",
+    "desc": "The everyday word for foot, and by extension the base of any standing thing: a mountain, a wall, a script. The flesh-and-bone counterpart to literary 足.",
     "tags": [
       "body",
       "movement",
@@ -223,7 +244,7 @@
     "type": "character",
     "category": "characters",
     "title": "仁 · humaneness, the kernel of human relation",
-    "desc": "The character that anchors Confucian ethics — 亻 + 二, the self in relation to another. Etymology, the virtue-cluster compounds, and the seed-kernel sense that links moral and botanical 仁.",
+    "desc": "The character that anchors Confucian ethics: 亻 + 二, the self in relation to another. Etymology, the virtue-cluster compounds, and the seed-kernel sense that links moral and botanical 仁.",
     "tags": [
       "confucianism",
       "ethics",
@@ -243,7 +264,7 @@
     "type": "character",
     "category": "characters",
     "title": "行 · to walk, to act, a row, a trade",
-    "desc": "One of the great polyphonic characters: xíng \"to walk; to act; conduct\" and háng \"row; profession; firm.\" A pictograph of a four-way crossroads — the place where walking and the world are organized.",
+    "desc": "One of the great polyphonic characters: xíng \"to walk; to act; conduct\" and háng \"row; profession; firm.\" A pictograph of a four-way crossroads, the place where walking and the world are organized.",
     "tags": [
       "movement",
       "motion",
@@ -265,7 +286,7 @@
     "type": "character",
     "category": "characters",
     "title": "眼 · eye, glance",
-    "desc": "The everyday word for eye — and, by extension, any small opening, any moment of looking, any judgment made through sight. The body-part counterpart to literary 目.",
+    "desc": "The everyday word for eye, and by extension any small opening, any moment of looking, any judgment made through sight. The body-part counterpart to literary 目.",
     "tags": [
       "body",
       "perception",
@@ -284,7 +305,7 @@
     "type": "character",
     "category": "characters",
     "title": "认 · to recognize, to acknowledge",
-    "desc": "The act of recognition — knowing something for what it is, owning up to it, and the small set of compounds that turn this on the world, on others, and on oneself.",
+    "desc": "The act of recognition: knowing something for what it is, owning up to it, and the small set of compounds that turn this on the world, on others, and on oneself.",
     "tags": [
       "knowing",
       "mind",
@@ -306,7 +327,7 @@
     "type": "character",
     "category": "characters",
     "title": "真 · real, true, genuine",
-    "desc": "Truth not as accuracy but as authenticity — the unadorned thing itself, prized in Daoist self-cultivation and in everyday emphasis.",
+    "desc": "Truth not as accuracy but as authenticity: the unadorned thing itself, prized in Daoist self-cultivation and in everyday emphasis.",
     "tags": [
       "knowing",
       "daoism",
@@ -326,7 +347,7 @@
     "type": "vocab",
     "category": "vocab",
     "title": "认真 · earnest, conscientious, taking it seriously",
-    "desc": "To recognize the 真 of a thing and engage with it on its own terms — the everyday word for taking work, study, and other people seriously rather than going through motions.",
+    "desc": "To recognize the 真 of a thing and engage with it on its own terms: the everyday word for taking work, study, and other people seriously rather than going through motions.",
     "tags": [
       "virtue",
       "ethics",
@@ -353,25 +374,6 @@
     ],
     "status": "complete",
     "pinyin": "shēng dàn jìng mò chǒu",
-    "updated": "2026-04-26"
-  },
-  {
-    "path": "pages/arts/topic_shufa_styles.html",
-    "type": "topic",
-    "category": "arts",
-    "title": "书法风格 · The Five Scripts of Chinese Calligraphy",
-    "desc": "Five script styles chart two thousand years of Chinese writing — from the solemn bronze inscriptions of the Zhou to the explosive cursive of the Tang masters.",
-    "tags": [
-      "calligraphy",
-      "arts",
-      "writing",
-      "classical",
-      "history",
-      "aesthetics",
-      "culture"
-    ],
-    "status": "complete",
-    "pinyin": "shūfǎ fēnggé",
     "updated": "2026-04-26"
   }
 ]

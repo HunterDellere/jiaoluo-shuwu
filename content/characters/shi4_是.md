@@ -4,7 +4,7 @@ category: 'characters'
 status: 'complete'
 title: '是 · to be'
 desc: 'The copula, the cleft construction, classical 是非 right-and-wrong.'
-metaDesc: "是 shì: the copula, the cleft construction, right and wrong — etymology, grammar, the 是…的 focus pattern, and the full 是-family of connectors."
+metaDesc: "是 shì: the copula, the cleft construction, right and wrong. Etymology, grammar, the 是…的 focus pattern, and the full 是-family of connectors."
 pageTitle: '是 shì'
 tags:
   - 'grammar'

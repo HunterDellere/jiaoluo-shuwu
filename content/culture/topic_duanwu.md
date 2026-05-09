@@ -3,7 +3,7 @@ type: 'topic'
 category: 'culture'
 status: 'complete'
 title: '端午节 · Dragon Boat Festival'
-desc: "Rice dumplings thrown into a river for a drowned poet — the festival that fused an act of mourning into one of China's great summer celebrations."
+desc: "Rice dumplings thrown into a river for a drowned poet: the festival that fused an act of mourning into one of China's great summer celebrations."
 metaDesc: "端午节 Duānwǔ jié: Dragon Boat Festival, held on the 5th day of the 5th lunar month. Qū Yuán's suicide, zòngzi rice dumplings, dragon boat racing, and the festival's role in the Chinese seasonal calendar."
 pageTitle: '端午节 Duānwǔ jié'
 tags:

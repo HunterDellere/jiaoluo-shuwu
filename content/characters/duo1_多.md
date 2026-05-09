@@ -3,7 +3,7 @@ type: 'character'
 category: 'characters'
 status: 'complete'
 title: '多 · many; much; more; how'
-desc: 'Two evenings stacked — the character that encodes abundance, comparison, and the most common question about quantity in Mandarin.'
+desc: 'Two evenings stacked: the character that encodes abundance, comparison, and the most common question about quantity in Mandarin.'
 metaDesc: "多 duō: many, much, more, how (in questions). Two 夕 (evening) stacked = many nights = abundance. Etymology, the 多少 pair, comparison grammar, and chengyu about excess and diversity."
 pageTitle: '多 duō'
 tags:

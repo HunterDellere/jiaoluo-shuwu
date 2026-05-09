@@ -4,8 +4,8 @@ category: 'religion'
 status: 'complete'
 content_review: 'pending'
 title: '禅宗 · Chán Buddhism'
-desc: 'The meditative school that became Japanese Zen — sudden enlightenment and the patriarchs.'
-metaDesc: "禅宗 Chán Buddhism — Bodhidharma's founding legend, Huineng and sudden enlightenment, the Platform Sutra, kōans, Chan patriarchs, and the tradition's influence on poetry, painting, and Japanese Zen."
+desc: 'The meditative school that became Japanese Zen: sudden enlightenment and the patriarchs.'
+metaDesc: "禅宗 Chán Buddhism: Bodhidharma's founding legend, Huineng and sudden enlightenment, the Platform Sutra, kōans, Chan patriarchs, and the tradition's influence on poetry, painting, and Japanese Zen."
 pageTitle: '禅宗 chán zōng · Chán Buddhism'
 tags:
   - 'chan'

@@ -3,8 +3,8 @@ type: 'vocab'
 category: 'vocab'
 status: 'complete'
 title: '长城 · the Great Wall'
-desc: 'A series of fortification systems built across multiple dynasties, whose most visible sections are Ming-era brick — not the continuous ancient rampart of popular imagination.'
-metaDesc: "长城 Chángchéng: the Great Wall of China — its literal meaning, layered construction history from the Warring States through the Ming dynasty, and the cultural symbolism that made it a national metaphor."
+desc: 'A series of fortification systems built across multiple dynasties, whose most visible sections are Ming-era brick: not the continuous ancient rampart of popular imagination.'
+metaDesc: "长城 Chángchéng: the Great Wall of China: its literal meaning, layered construction history from the Warring States through the Ming dynasty, and the cultural symbolism that made it a national metaphor."
 pageTitle: '长城 Chángchéng'
 tags:
   - 'history'

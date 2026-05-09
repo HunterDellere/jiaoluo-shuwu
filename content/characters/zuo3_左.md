@@ -3,7 +3,7 @@ type: 'character'
 category: 'characters'
 status: 'complete'
 title: '左 · left; unorthodox; to assist'
-desc: "A left hand holding a carpenter's square — the assisting hand at the ruler, and by extension the word for unorthodox, heterodox, and everything that deviates from the orthodox path."
+desc: "A left hand holding a carpenter's square: the assisting hand at the ruler, and by extension the word for unorthodox, heterodox, and everything that deviates from the orthodox path."
 metaDesc: "左 zuǒ: left side, unorthodox, to assist. Etymology from left hand plus carpenter square, cultural symbolism of left and right in Chinese history, compounds, and chengyu."
 pageTitle: '左 zuǒ'
 tags:

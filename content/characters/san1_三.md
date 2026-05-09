@@ -3,7 +3,7 @@ type: 'character'
 category: 'characters'
 status: 'complete'
 title: '三 · three; thrice; repeatedly'
-desc: "Three is the number of completion in Chinese cosmology — Heaven, Earth, Human — and the numeral that generates the ten thousand things in Daoist thought."
+desc: "Three is the number of completion in Chinese cosmology (Heaven, Earth, Human), and the numeral that generates the ten thousand things in Daoist thought."
 metaDesc: "三 sān: three, the cosmological number of completion and generation. Etymology, Heaven-Earth-Human, emphatic usage, key compounds, and the richest chengyu."
 pageTitle: '三 sān'
 tags:

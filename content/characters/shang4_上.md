@@ -3,7 +3,7 @@ type: 'character'
 category: 'characters'
 status: 'complete'
 title: '上 · above, up, to go up, to mount'
-desc: "The most productive spatial primitive in Chinese — 上 starts as a notch above a line and ends up meaning everything from logging on to getting addicted."
+desc: "The most productive spatial primitive in Chinese. 上 starts as a notch above a line and ends up meaning everything from logging on to getting addicted."
 metaDesc: "上 shàng: above, up, on top, to ascend, to attend. Etymology from oracle bone ideograph, contrast with 下, and the vast compound family from 上班 to 上瘾."
 pageTitle: '上 shàng'
 tags:

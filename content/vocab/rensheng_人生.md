@@ -3,7 +3,7 @@ type: 'vocab'
 category: 'vocab'
 status: 'complete'
 title: "人生 · human life; one's life journey"
-desc: "Human life — not biological existence, but the arc of a life lived: its meaning, its seasons, its reckoning."
+desc: "Human life: not biological existence, but the arc of a life lived: its meaning, its seasons, its reckoning."
 metaDesc: "人生 rénshēng: human life, one's life journey. Etymology, 人生 vs. 生命 vs. 生活, the Confucian life stages, Chinese conceptions of a good life, and key compounds."
 pageTitle: '人生 rénshēng'
 tags:

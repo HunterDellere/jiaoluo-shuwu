@@ -3,8 +3,8 @@ type: 'character'
 category: 'characters'
 status: 'complete'
 title: '雨 · rain'
-desc: 'The oracle bone shows rain falling from the sky — one of the most transparent pictographs in the script, and the radical that organizes all Chinese weather.'
-metaDesc: "雨 yǔ: rain — oracle bone pictograph of rain falling from sky. The radical for all weather characters: 雪 snow, 雷 thunder, 电 lightning, 霜 frost, 露 dew. Etymology, compounds, chengyu."
+desc: 'The oracle bone shows rain falling from the sky: one of the most transparent pictographs in the script, and the radical that organizes all Chinese weather.'
+metaDesc: "雨 yǔ: rain. Oracle bone pictograph of rain falling from sky. The radical for all weather characters: 雪 snow, 雷 thunder, 电 lightning, 霜 frost, 露 dew. Etymology, compounds, chengyu."
 pageTitle: '雨 yǔ'
 tags:
   - 'nature'

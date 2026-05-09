@@ -5,7 +5,7 @@ status: 'complete'
 content_review: 'pending'
 title: '夏商周 · The Three Dynasties'
 desc: 'The legendary and early historical origins of Chinese civilization.'
-metaDesc: "夏商周 xià shāng zhōu: the mythological-historical origins of Chinese civilization — oracle bones, bronze ritual vessels, feudalism, and the golden age of philosophy."
+metaDesc: "夏商周 xià shāng zhōu: the mythological-historical origins of Chinese civilization. Oracle bones, bronze ritual vessels, feudalism, and the golden age of philosophy."
 pageTitle: '夏商周 · The Three Dynasties'
 tags:
   - 'ancient'

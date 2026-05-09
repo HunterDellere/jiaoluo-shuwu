@@ -4,7 +4,7 @@ category: 'philosophy'
 status: 'complete'
 content_review: 'pending'
 title: '孟子 · Mencius'
-desc: 'Human nature as inherently good — the sprouts of virtue.'
+desc: 'Human nature as inherently good: the sprouts of virtue.'
 metaDesc: "孟子 Mencius: the second sage of Confucianism, the goodness of human nature 性善论, the four sprouts 四端, the kingly way 王道, and the principle that people are more important than rulers 民贵君轻."
 pageTitle: '孟子 mèngzǐ'
 tags:
@@ -17,11 +17,11 @@ faq:
   - q: "Who was Mencius?"
     a: "孟子 Mèngzǐ (c. 372 – c. 289 BCE) was the second great Confucian thinker after Confucius himself. Active during the Warring States Period, he travelled between courts trying to persuade rulers to govern by 仁政 (benevolent rule). The Mencius 孟子 is one of the Four Books 四书 that defined Chinese intellectual education from the Song dynasty until 1905, and his arguments about human nature, government legitimacy, and moral cultivation remain foundational to Confucian thought."
   - q: "What is Mencius's theory of human nature (性善论)?"
-    a: "性善论 xìng shàn lùn — the doctrine that human nature is inherently good — is Mencius's most influential argument. He claimed that all humans are born with 四端 sì duān, the four sprouts: a heart of compassion (仁 benevolence), shame (义 righteousness), deference (礼 propriety), and right-and-wrong (智 wisdom). His famous example: anyone who sees a child about to fall into a well will instinctively feel alarm — proof that compassion is innate, not taught. Moral cultivation is therefore not adding virtue but extending and protecting what is already present."
+    a: "性善论 xìng shàn lùn (the doctrine that human nature is inherently good) is Mencius's most influential argument. He claimed that all humans are born with 四端 sì duān, the four sprouts: a heart of compassion (仁 benevolence), shame (义 righteousness), deference (礼 propriety), and right-and-wrong (智 wisdom). His famous example: anyone who sees a child about to fall into a well will instinctively feel alarm, proof that compassion is innate, not taught. Moral cultivation is therefore not adding virtue but extending and protecting what is already present."
   - q: "What is 民贵君轻 (the people are more important than rulers)?"
-    a: "民贵君轻 mín guì jūn qīng — 'the people are valuable, the ruler is light' — is one of Mencius's most radical political claims. He argued that the legitimacy of a ruler comes from the welfare of the people, not from heaven or birthright. A ruler who fails the people forfeits the Mandate of Heaven 天命; rebellion against a tyrant is morally justified. The principle was disturbing enough that the Hongwu Emperor of the Ming briefly tried to expurgate the Mencius from the canon."
+    a: "民贵君轻 mín guì jūn qīng ('the people are valuable, the ruler is light') is one of Mencius's most radical political claims. He argued that the legitimacy of a ruler comes from the welfare of the people, not from heaven or birthright. A ruler who fails the people forfeits the Mandate of Heaven 天命; rebellion against a tyrant is morally justified. The principle was disturbing enough that the Hongwu Emperor of the Ming briefly tried to expurgate the Mencius from the canon."
   - q: "What is the difference between Mencius and Xunzi on human nature?"
-    a: "Mencius and 荀子 Xúnzǐ — both Confucians — disagreed sharply on human nature. Mencius held that nature is good 性善 and that vice comes from neglect or corruption of innate sprouts. Xunzi held that nature is bad 性恶 and that virtue is achieved by deliberate cultivation, ritual training, and education imposed against natural inclinations. The Mencian view became Confucian orthodoxy through the Song Neo-Confucian synthesis, but Xunzi's emphasis on ritual and institutional shaping never fully disappeared."
+    a: "Mencius and 荀子 Xúnzǐ (both Confucians) disagreed sharply on human nature. Mencius held that nature is good 性善 and that vice comes from neglect or corruption of innate sprouts. Xunzi held that nature is bad 性恶 and that virtue is achieved by deliberate cultivation, ritual training, and education imposed against natural inclinations. The Mencian view became Confucian orthodoxy through the Song Neo-Confucian synthesis, but Xunzi's emphasis on ritual and institutional shaping never fully disappeared."
 ---
 
 

@@ -2,9 +2,9 @@
 type: 'topic'
 category: 'science'
 status: 'complete'
-title: '天干地支 · Heavenly Stems and Earthly Branches — the 60-year cycle'
-desc: "A combinatorial timekeeping system the Shang scribes used in 1250 BCE to date their divination sessions — and that Chinese people still use to name years, hours, and contract parties today."
-metaDesc: "天干地支 (Tiāngān Dìzhī) — the 10 Heavenly Stems and 12 Earthly Branches that pair into a 60-unit cycle. One of the oldest continuously-used timekeeping systems in the world, attested on Shang oracle bones c. 1250 BCE."
+title: '天干地支 · Heavenly Stems and Earthly Branches: the 60-year cycle'
+desc: "A combinatorial timekeeping system the Shang scribes used in 1250 BCE to date their divination sessions, and that Chinese people still use to name years, hours, and contract parties today."
+metaDesc: "天干地支 (Tiāngān Dìzhī): the 10 Heavenly Stems and 12 Earthly Branches that pair into a 60-unit cycle. One of the oldest continuously-used timekeeping systems in the world, attested on Shang oracle bones c. 1250 BCE."
 pageTitle: '天干地支 Tiāngān Dìzhī'
 tags:
   - 'science'

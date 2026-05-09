@@ -3,7 +3,7 @@ type: 'character'
 category: 'characters'
 status: 'complete'
 title: '女 · woman, female'
-desc: "A kneeling figure with crossed arms — one of the most productive radicals in the script, present in characters for family relationships, feelings, and cultural concepts."
+desc: "A kneeling figure with crossed arms: one of the most productive radicals in the script, present in characters for family relationships, feelings, and cultural concepts."
 metaDesc: "女 nǚ: woman, female, daughter. Etymology, the woman radical family (她/姐/妈/好/姓), key compounds, and the cultural layering of the female character in Chinese."
 pageTitle: '女 nǚ'
 tags:

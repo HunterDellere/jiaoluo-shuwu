@@ -3,7 +3,7 @@ type: 'character'
 category: 'characters'
 status: 'complete'
 title: '美 · beautiful, USA, delicious'
-desc: 'A large sheep carrying horns — beauty as abundance, sacrifice, and the pleasure of the highest good.'
+desc: 'A large sheep carrying horns: beauty as abundance, sacrifice, and the pleasure of the highest good.'
 metaDesc: "美 měi: beautiful, beautiful, the USA. Etymology of the big sheep, aesthetic philosophy, the word for America, and Chinese concepts of beauty. Compounds, chengyu, usage notes."
 pageTitle: '美 měi'
 tags:

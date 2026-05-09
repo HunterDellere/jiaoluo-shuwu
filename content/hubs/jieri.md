@@ -1,9 +1,9 @@
 ---
 type: hub
 category: hubs
-title: "节日 · The Festival Calendar — A Reading Path"
+title: "节日 · The Festival Calendar: A Reading Path"
 pinyin: "jiérì"
-desc: "A guided walk through the Chinese year — the lunar calendar, the solar terms, and the great festivals that mark the turning of time."
+desc: "A guided walk through the Chinese year: the lunar calendar, the solar terms, and the great festivals that mark the turning of time."
 status: complete
 content_review: 'pending'
 updated: "2026-04-19"
@@ -12,7 +12,7 @@ stages:
   - name: "历法"
     name_en: "The Calendar"
     color: teal
-    note: "Start here — the two systems that structure the Chinese year."
+    note: "Start here: the two systems that structure the Chinese year."
     members:
       - slug: vocab/jieqi_节气
         label_cn: "节气 · The 24 Solar Terms"
@@ -48,11 +48,11 @@ stages:
         label_en: "Remembrance and tomb-sweeping"
         type: Topic
         mins: 7
-        note: "Qingming falls on a solar term — one of the few major festivals anchored to the solar rather than lunar calendar — which makes it a vivid illustration of how the two systems coexist."
+        note: "Qingming falls on a solar term, one of the few major festivals anchored to the solar rather than lunar calendar, which makes it a vivid illustration of how the two systems coexist."
   - name: "秋节"
     name_en: "The Autumn Festival"
     color: sienna
-    note: "The counterpoint to Spring Festival — quieter, more contemplative."
+    note: "The counterpoint to Spring Festival: quieter, more contemplative."
     members:
       - slug: culture/topic_zhongqiu
         label_cn: "中秋 · Mid-Autumn"
@@ -70,13 +70,13 @@ stages:
         label_en: "Weddings and funerals"
         type: Topic
         mins: 8
-        note: "Red for joy, white for mourning — and a precise set of obligations for each. The two poles of the social calendar that touch every family."
+        note: "Red for joy, white for mourning, with a precise set of obligations for each. The two poles of the social calendar that touch every family."
       - slug: vocab/mingyun_命运
         label_cn: "命运 · Fate and Destiny"
         label_en: "The cosmological backdrop"
         type: Vocab
         mins: 6
-        note: "The belief that time is not neutral but charged — that certain days are auspicious or inauspicious, and that one's fate (命 mìng) intersects with the turning of the year."
+        note: "The belief that time is not neutral but charged: that certain days are auspicious or inauspicious, and that one's fate (命 mìng) intersects with the turning of the year."
 ---
 
 <div class="shell">

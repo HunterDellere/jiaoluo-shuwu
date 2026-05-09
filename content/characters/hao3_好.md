@@ -3,7 +3,7 @@ type: 'character'
 category: 'characters'
 status: 'complete'
 title: '好 · good; to like'
-desc: 'Good, well, to like — and the tone split that doubles its expressive range.'
+desc: 'Good, well, to like, and the tone split that doubles its expressive range.'
 metaDesc: "好 hǎo/hào: good, fine, well (adjective) and to like, to be fond of (verb). Etymology, the hǎo/hào tone split, social uses, key compounds, and chengyu."
 pageTitle: '好 hǎo / hào'
 tags:

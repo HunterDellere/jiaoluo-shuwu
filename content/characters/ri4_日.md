@@ -3,7 +3,7 @@ type: 'character'
 category: 'characters'
 status: 'complete'
 title: '日 · sun, day, Japan'
-desc: 'The oldest pictograph in the script — a circle with a dot for the sun, now a radical in hundreds of characters related to time, light, and warmth.'
+desc: 'The oldest pictograph in the script: a circle with a dot for the sun, now a radical in hundreds of characters related to time, light, and warmth.'
 metaDesc: "日 rì: sun, day, Japan, daily. Etymology, the sun radical family, time vocabulary (日期/每日/节日), the name of Japan (日本), and key compounds."
 pageTitle: '日 rì'
 tags:

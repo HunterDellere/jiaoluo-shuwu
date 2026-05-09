@@ -3,9 +3,9 @@ type: 'vocab'
 category: 'vocab'
 status: 'complete'
 title: '生产 · to produce, production, manufacturing'
-desc: "The foundational act of economic life — and, in China's Marxist political vocabulary, the act from which all social relations flow. Life gives rise to production; production sustains life."
-metaDesc: "shengchan — to produce, to manufacture, production. Both an everyday verb for making things and a loaded political-economic term in China's Marxist tradition."
-pageTitle: "shengchan — production"
+desc: "The foundational act of economic life: and, in China's Marxist political vocabulary, the act from which all social relations flow. Life gives rise to production; production sustains life."
+metaDesc: "shengchan: to produce, to manufacture, production. Both an everyday verb for making things and a loaded political-economic term in China's Marxist tradition."
+pageTitle: "shengchan: production"
 tags:
   - 'economy'
   - 'production'

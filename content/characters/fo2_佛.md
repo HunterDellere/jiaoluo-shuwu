@@ -3,8 +3,8 @@ type: 'character'
 category: 'characters'
 status: 'complete'
 title: '佛 · Buddha, the awakened'
-desc: 'The character that carried an entire worldview across the Silk Road — etymology, Buddhism, the 佛-family of compounds.'
-metaDesc: "佛 fó: Buddha, awakening, and the Buddhist lexicon that reshaped classical Chinese — etymology, compounds, cultural reach."
+desc: 'The character that carried an entire worldview across the Silk Road: etymology, Buddhism, the 佛-family of compounds.'
+metaDesc: "佛 fó: Buddha, awakening, and the Buddhist lexicon that reshaped classical Chinese. Etymology, compounds, cultural reach."
 pageTitle: '佛 fó'
 tags:
   - 'religion'

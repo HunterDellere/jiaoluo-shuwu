@@ -4,8 +4,8 @@ category: 'chengyu'
 status: 'complete'
 content_review: 'pending'
 title: '与时俱进 · to advance together with the times'
-desc: "A classical phrase that became a political slogan in 2001, used to justify the Communist Party accommodating private enterprise — and criticized for justifying whatever the party currently does."
-metaDesc: "与时俱进 yu shi ju jin: to advance with the times. A classical Chinese phrase that became a defining slogan of the Three Represents era under Jiang Zemin, drawing on the Confucian virtue of shi zhong — acting appropriately for the moment."
+desc: "A classical phrase that became a political slogan in 2001, used to justify the Communist Party accommodating private enterprise, and criticized for justifying whatever the party currently does."
+metaDesc: "与时俱进 yu shi ju jin: to advance with the times. A classical Chinese phrase that became a defining slogan of the Three Represents era under Jiang Zemin, drawing on the Confucian virtue of shi zhong: acting appropriately for the moment."
 pageTitle: '与时俱进 yǔ shí jù jìn'
 pinyin: 'yǔ shí jù jìn'
 tags:

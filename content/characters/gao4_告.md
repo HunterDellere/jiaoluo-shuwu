@@ -3,7 +3,7 @@ type: 'character'
 category: 'characters'
 status: 'complete'
 title: '告 · to tell, to announce, to report'
-desc: 'A mouth aimed upward: the character for delivering words to authority — and the root of advertising, accusations, and warnings.'
+desc: 'A mouth aimed upward: the character for delivering words to authority, and the root of advertising, accusations, and warnings.'
 metaDesc: "告 gào: to tell, announce, report, or warn. An ox head over a mouth, 告 runs from official announcements to accusations, advertisements, and farewells."
 pageTitle: '告 gào'
 tags:

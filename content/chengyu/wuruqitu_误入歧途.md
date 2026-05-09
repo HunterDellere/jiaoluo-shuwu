@@ -3,7 +3,7 @@ type: 'vocab'
 category: 'chengyu'
 status: 'complete'
 title: '误入歧途 · To Stray onto the Wrong Road'
-desc: "The four-character idiom for taking a wrong turn — morally, professionally, or literally. Where 迷途知返 describes the recovery, 误入歧途 describes the moment things went wrong."
+desc: "The four-character idiom for taking a wrong turn, whether morally, professionally, or literally. Where 迷途知返 describes the recovery, 误入歧途 describes the moment things went wrong."
 metaDesc: "误入歧途 wù rù qí tú: the chengyu for straying onto the wrong road. Etymology, usage, and how it pairs with 迷途知返 as the two sides of the same mistake."
 pageTitle: '误入歧途 · Straying onto the Wrong Road'
 tags:
@@ -14,7 +14,7 @@ updated: '2026-04-19'
 pinyin: 'wù rù qí tú'
 sources:
   - 'Classical usage traced to late Tang and Song dynasty moral and political writing'
-  - 'Compare 迷途知返 mí tú zhī fǎn — the paired recovery idiom'
+  - 'Compare 迷途知返 mí tú zhī fǎn: the paired recovery idiom'
 content_review: 'verified'
 content_sources:
   - 'Unihan'

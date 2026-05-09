@@ -3,7 +3,7 @@ type: 'vocab'
 category: 'chengyu'
 status: 'complete'
 title: '一毛不拔 · Not Give Even a Hair'
-desc: "Refuse to give even a single hair from your body. Mencius's phrase for the Yangist philosophy of radical self-preservation — and the word for a miser that it became."
+desc: "Refuse to give even a single hair from your body. Mencius's phrase for the Yangist philosophy of radical self-preservation, and the word for a miser that it became."
 metaDesc: "一毛不拔 yī máo bù bá: the chengyu for extreme stinginess, originating in Mencius's critique of Yang Zhu's philosophy of self-preservation. Not give even a hair to benefit the world."
 pageTitle: '一毛不拔 · Not Give Even a Hair'
 tags:
@@ -14,7 +14,7 @@ tags:
 updated: '2026-04-22'
 pinyin: 'yī máo bù bá'
 sources:
-  - 'Mèngzǐ 孟子, "Jìn xīn shàng" 尽心上 chapter — source attribution'
+  - 'Mèngzǐ 孟子, "Jìn xīn shàng" 尽心上 chapter: source attribution'
 content_review: 'pending'
 ---
 

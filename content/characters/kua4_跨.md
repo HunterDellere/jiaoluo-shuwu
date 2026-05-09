@@ -3,8 +3,8 @@ type: 'character'
 category: 'characters'
 status: 'complete'
 title: '跨 · to stride; to span; to bestride'
-desc: 'The character of the long stride — a foot-radical verb that reaches from "step over a threshold" to "span an era" to the modern policy vocabulary of cross-border, cross-industry, cross-cultural everything.'
-metaDesc: "跨 kuà: to stride, to span, to straddle, to mount. Etymology (足 foot + 夸 phonetic), the cross-the-boundary family (跨越/跨境/跨国/跨度), and the way modern Chinese loads 跨 onto every kind of border-crossing — from cross-industry mergers to cross-cultural exchange."
+desc: 'The character of the long stride: a foot-radical verb that reaches from "step over a threshold" to "span an era" to the modern policy vocabulary of cross-border, cross-industry, cross-cultural everything.'
+metaDesc: "跨 kuà: to stride, to span, to straddle, to mount. Etymology (足 foot + 夸 phonetic), the cross-the-boundary family (跨越/跨境/跨国/跨度), and the way modern Chinese loads 跨 onto every kind of border-crossing, from cross-industry mergers to cross-cultural exchange."
 pageTitle: '跨 kuà'
 tags:
   - 'movement'

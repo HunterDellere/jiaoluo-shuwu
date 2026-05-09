@@ -3,7 +3,7 @@ type: 'character'
 category: 'characters'
 status: 'complete'
 title: '字 · character, written word'
-desc: 'The character that names itself — and the whole system of 汉字.'
+desc: 'The character that names itself, and the whole system of 汉字.'
 metaDesc: "字 zì: written character, the word for name, and the meta-character that names the entire writing system. Etymology, script types, dictionaries, and the four types of hanzi."
 pageTitle: '字 zì'
 tags:

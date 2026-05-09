@@ -4,7 +4,7 @@ category: 'characters'
 status: 'complete'
 title: '快 · fast, happy'
 desc: 'One character carries two meanings that turn out to be the same thing: speed and joy both feel like the heart cutting loose.'
-metaDesc: "快 kuài: fast, quick, and happy — a character whose heart radical grounds both speed and joy. Etymology, compounds, chengyu, and usage notes for HSK 2 learners."
+metaDesc: "快 kuài: fast, quick, and happy. A character whose heart radical grounds both speed and joy. Etymology, compounds, chengyu, and usage notes for HSK 2 learners."
 pageTitle: '快 kuài'
 tags:
   - 'emotion'

@@ -3,8 +3,8 @@ type: 'topic'
 category: 'history'
 status: 'complete'
 title: '长城 · The Great Wall'
-desc: 'Two millennia of walls, watchtowers, and beacon fires — what the Great Wall actually was, and why "the wall" is a translation that flattens a complicated history.'
-metaDesc: "长城 Chángchéng — The Great Wall of China: not one wall but many, built and rebuilt across two millennia from the Warring States through Qin, Han, Northern Wei, Sui, Jin, and Ming. Construction history, layered geography, what 越长城 (yuè chángchéng — to cross the Great Wall) means, and why the wall became a national symbol."
+desc: 'Two millennia of walls, watchtowers, and beacon fires: what the Great Wall actually was, and why "the wall" is a translation that flattens a complicated history.'
+metaDesc: "长城 Chángchéng, The Great Wall of China: not one wall but many, built and rebuilt across two millennia from the Warring States through Qin, Han, Northern Wei, Sui, Jin, and Ming. Construction history, layered geography, what 越长城 (yuè chángchéng, to cross the Great Wall) means, and why the wall became a national symbol."
 pageTitle: '长城 Chángchéng · The Great Wall'
 pinyin: 'cháng chéng'
 tags:

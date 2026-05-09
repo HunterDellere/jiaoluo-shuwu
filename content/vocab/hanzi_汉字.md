@@ -3,7 +3,7 @@ type: 'vocab'
 category: 'vocab'
 status: 'complete'
 title: '汉字 · Chinese characters'
-desc: "The world's oldest continuously used writing system — how Chinese characters work, why they look the way they do, and the categories every learner needs to know."
+desc: "The world's oldest continuously used writing system: how Chinese characters work, why they look the way they do, and the categories every learner needs to know."
 metaDesc: "汉字 hànzì: Chinese characters. How the writing system works, the six categories of character formation (六书), simplified vs. traditional, stroke order, and essential vocabulary for learning Chinese characters."
 pageTitle: '汉字 hànzì'
 tags:

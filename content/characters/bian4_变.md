@@ -3,7 +3,7 @@ type: 'character'
 category: 'characters'
 status: 'complete'
 title: '变 · to change, to transform'
-desc: 'The character at the heart of the I Ching, the dynastic cycle, and the modern vocabulary of reform — change as the one constant.'
+desc: 'The character at the heart of the I Ching, the dynastic cycle, and the modern vocabulary of reform: change as the one constant.'
 metaDesc: "变 biàn: to change, to transform, to become different. From 易经 to 改革开放, the character that runs through all of Chinese cosmological and political thought."
 pageTitle: '变 biàn'
 tags:

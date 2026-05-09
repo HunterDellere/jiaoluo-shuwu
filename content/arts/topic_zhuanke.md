@@ -4,8 +4,8 @@ category: 'arts'
 status: 'complete'
 content_review: 'pending'
 title: '篆刻 · Seal Carving'
-desc: 'The art of the name — bronze to stone, dynasty to dynasty, two schools of carvers, and the small red square that authenticates everything.'
-metaDesc: "篆刻 Zhuànkè: Chinese seal carving — history from bronze to stone, the three seal scripts, the Zhe and Anhui schools, the role of seals in authentication, and contemporary seal art."
+desc: 'The art of the name: bronze to stone, dynasty to dynasty, two schools of carvers, and the small red square that authenticates everything.'
+metaDesc: "篆刻 Zhuànkè: Chinese seal carving. History from bronze to stone, the three seal scripts, the Zhe and Anhui schools, the role of seals in authentication, and contemporary seal art."
 pageTitle: '篆刻 Zhuànkè'
 tags:
   - 'calligraphy'

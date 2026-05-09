@@ -3,7 +3,7 @@ type: 'character'
 category: 'characters'
 status: 'complete'
 title: '福 · fortune, blessing, good luck'
-desc: 'The most recognized Chinese character in the world — fortune, blessing, and the art of the upside-down 福.'
+desc: 'The most recognized Chinese character in the world: fortune, blessing, and the art of the upside-down 福.'
 metaDesc: "福 fú: fortune, blessing, good luck. Etymology, the five blessings (五福), the inverted door tradition, New Year culture, and the 福 compound family."
 pageTitle: '福 fú'
 tags:

@@ -3,8 +3,8 @@ type: 'vocab'
 category: 'vocab'
 status: 'complete'
 title: '道德 · morality, ethics, virtue'
-desc: 'The compound at the center of Chinese moral philosophy — the Way and its virtue, inseparable and mutually defining.'
-metaDesc: "道德 dàodé: morality, ethics, virtue. Formed from 道 (the Way) and 德 (virtue, inner power) — the two concepts that define Chinese moral philosophy from Laozi to the present."
+desc: 'The compound at the center of Chinese moral philosophy: the Way and its virtue, inseparable and mutually defining.'
+metaDesc: "道德 dàodé: morality, ethics, virtue. Formed from 道 (the Way) and 德 (virtue, inner power): the two concepts that define Chinese moral philosophy from Laozi to the present."
 pageTitle: '道德 dàodé'
 tags:
   - 'philosophy'

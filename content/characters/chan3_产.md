@@ -4,7 +4,7 @@ category: 'characters'
 status: 'complete'
 title: '产 · to produce, give birth, property, output'
 desc: 'From birth to bounty: a character that spans biological generation and industrial output, linking the miracle of birth to the logic of production and wealth.'
-metaDesc: "产 chǎn: to produce, to give birth, yield, output, property. From the primal act of birth to industrial manufacturing and personal estate — a word that spans the full arc of creation."
+metaDesc: "产 chǎn: to produce, to give birth, yield, output, property. From the primal act of birth to industrial manufacturing and personal estate, a word that spans the full arc of creation."
 pageTitle: '产 chǎn'
 tags:
   - 'economy'

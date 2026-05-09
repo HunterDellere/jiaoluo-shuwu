@@ -3,7 +3,7 @@ type: 'character'
 category: 'characters'
 status: 'complete'
 title: '右 · right; to assist; to favor'
-desc: "A right hand raised to a mouth — the hand that feeds and speaks, whose authority in Chinese extended to favoring, protecting, and placing the highest things to the right of the seat."
+desc: "A right hand raised to a mouth: the hand that feeds and speaks, whose authority in Chinese extended to favoring, protecting, and placing the highest things to the right of the seat."
 metaDesc: "右 yòu: right side, to assist, to favor. Etymology from right hand plus mouth, cultural symbolism of left and right, 座右铭 as personal motto, compounds, and chengyu."
 pageTitle: '右 yòu'
 tags:

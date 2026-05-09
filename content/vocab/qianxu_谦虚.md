@@ -3,8 +3,8 @@ type: 'vocab'
 category: 'vocab'
 status: 'complete'
 title: '谦虚 · humility, modesty'
-desc: '谦虚 is both a Confucian virtue and a social practice — in Chinese interaction, it functions as a required performative register, not just an internal attitude.'
-metaDesc: "谦虚 qiānxū: humility and modesty in Chinese culture — a Confucian virtue rooted in the Yijing, and a live social grammar of deflection, restraint, and receptiveness."
+desc: '谦虚 is both a Confucian virtue and a social practice: in Chinese interaction, it functions as a required performative register, not just an internal attitude.'
+metaDesc: "谦虚 qiānxū: humility and modesty in Chinese culture: a Confucian virtue rooted in the Yijing, and a live social grammar of deflection, restraint, and receptiveness."
 pageTitle: '谦虚 qiānxū'
 tags:
   - 'confucianism'

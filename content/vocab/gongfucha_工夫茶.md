@@ -4,7 +4,7 @@ category: 'vocab'
 status: 'complete'
 title: '工夫茶 · Gongfu Tea'
 desc: 'Tea prepared with skill and time: the Southern Chinese brewing method that defines serious tea culture, built on small vessels, multiple short steeps, and total attention.'
-metaDesc: "工夫茶 gōngfu chá: gongfu tea ceremony — small teapot or gaiwan, multiple short steeps, the ritual of Chaoshan tea preparation, and why 工夫 means both skill and time."
+metaDesc: "工夫茶 gōngfu chá: gongfu tea ceremony: small teapot or gaiwan, multiple short steeps, the ritual of Chaoshan tea preparation, and why 工夫 means both skill and time."
 pageTitle: '工夫茶 · Gongfu Tea'
 tags:
   - 'tea'

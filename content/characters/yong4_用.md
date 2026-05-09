@@ -3,7 +3,7 @@ type: 'character'
 category: 'characters'
 status: 'complete'
 title: '用 · to use; function; expense'
-desc: '用 began as a pictograph of a bucket or bell — a vessel put to work — and became the character that Zhuangzi inverted in his doctrine of 无用之用: the use of uselessness.'
+desc: '用 began as a pictograph of a bucket or bell (a vessel put to work) and became the character that Zhuangzi inverted in his doctrine of 无用之用: the use of uselessness.'
 metaDesc: "用 yòng: to use, function, expense. Etymology as vessel-pictograph, 体用 substance vs function, Zhuangzi's 无用之用, action compounds 使用 利用 运用, and chengyu."
 pageTitle: '用 yòng'
 tags:

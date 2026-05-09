@@ -3,7 +3,7 @@ type: 'character'
 category: 'characters'
 status: 'complete'
 title: '王 · king'
-desc: "Three horizontals joined by one vertical — the ruler who connects heaven, earth, and humanity. Also the most common Chinese surname, and a radical that is secretly 玉 (jade) in disguise."
+desc: "Three horizontals joined by one vertical: the ruler who connects heaven, earth, and humanity. Also the most common Chinese surname, and a radical that is secretly 玉 (jade) in disguise."
 metaDesc: "王 wáng: king, monarch. The character whose three horizontals were glossed by Dǒng Zhòngshū as heaven, earth, and humanity connected by the ruler. Covers etymology, the jade-radical double life, surname usage, and compounds."
 pageTitle: '王 wáng'
 tags:
@@ -18,9 +18,9 @@ tone: 2
 hsk: 3
 radical: '王'
 sources:
-  - 'Dǒng Zhòngshū 董仲舒, Chūnqiū Fánlù 春秋繁露 (2nd c. BCE) — the heaven-earth-humanity gloss of 王'
-  - 'Shuōwén Jiězì 说文解字, Xǔ Shèn (c. 100 CE) — 王 as connecting three realms'
-  - 'Outlier Linguistic Solutions — 王 as axe / 玉 as jade, two distinct origins fused in later radical indexing'
+  - 'Dǒng Zhòngshū 董仲舒, Chūnqiū Fánlù 春秋繁露 (2nd c. BCE): the heaven-earth-humanity gloss of 王'
+  - 'Shuōwén Jiězì 说文解字, Xǔ Shèn (c. 100 CE): 王 as connecting three realms'
+  - 'Outlier Linguistic Solutions: 王 as axe / 玉 as jade, two distinct origins fused in later radical indexing'
 content_review: 'verified'
 content_sources:
   - 'Unihan'

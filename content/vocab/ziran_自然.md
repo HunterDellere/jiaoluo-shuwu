@@ -3,8 +3,8 @@ type: 'vocab'
 category: 'vocab'
 status: 'complete'
 title: '自然 · nature; natural; of course'
-desc: 'Laozi placed 自然 at the center of his cosmology: the Way models itself on what is so of itself — no outside force required.'
-metaDesc: "自然 zìrán: nature, natural, spontaneously. From 自 (self) + 然 (thus) — Daoist concept of spontaneity, and in modern Chinese, both the natural world and the adverb 'of course.'"
+desc: 'Laozi placed 自然 at the center of his cosmology: the Way models itself on what is so of itself: no outside force required.'
+metaDesc: "自然 zìrán: nature, natural, spontaneously. From 自 (self) + 然 (thus): Daoist concept of spontaneity, and in modern Chinese, both the natural world and the adverb 'of course.'"
 pageTitle: '自然 zìrán'
 tags:
   - 'nature'
