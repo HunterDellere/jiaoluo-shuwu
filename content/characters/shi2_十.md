@@ -351,7 +351,7 @@ content_review: 'pending'
         <span class="cy-cn">七上八下</span>
         <span class="cy-py">qī shàng bā xià</span>
         <span class="cy-en">"seven up, eight down" — nervous and unsettled; anxious about the outcome</span>
-        <span class="cy-note">Seven and eight are the neighbors of ten who cannot agree on direction. Seven goes up, eight goes down: the image is of something that cannot find rest, oscillating without resolution. The idiom describes the feeling of anxiety before a result, the inner turbulence of waiting without knowing. 心里七上八下 (heart going seven-up-eight-down) is the standard way to describe nervous anticipation. The numbers are chosen for the sound of near-miss proximity — almost ten, not yet complete, still in motion.</span>
+        <span class="cy-note">Seven and eight are the neighbors of ten who cannot agree on direction. Seven goes up, eight goes down: the image is of something that cannot find rest, oscillating without resolution. The idiom describes the feeling of anxiety before a result, the inner turbulence of waiting without knowing. 心里七上八下 (heart going seven-up-eight-down) is the standard way to describe nervous anticipation. The numbers are chosen for the sound of near-miss proximity: almost ten, not yet complete, still in motion.</span>
       </div>
 
     </div>
@@ -377,7 +377,7 @@ content_review: 'pending'
     <div class="scholar" data-glyph="十">
       <div class="scholar-label">记忆法 jìyìfǎ · Master Retention Image</div>
       <p>Draw 十 and you have drawn a compass rose. The vertical stroke names north and south. The horizontal stroke names east and west. The point where they cross is the center, the position from which all four directions have been charted. The number ten is written as the visual proof that orientation is complete.</p>
-      <p>This is why 十字路口 works so naturally as "crossroads": the intersection is literally shaped like the character 十, and the character 十 is literally the sign that a full count has been reached. The crossroads is the place where counting stops — you have covered all directions — and begins again.</p>
+      <p>This is why 十字路口 works so naturally as "crossroads": the intersection is literally shaped like the character 十, and the character 十 is literally the sign that a full count has been reached. The crossroads is the place where counting stops (you have covered all directions) and begins again.</p>
       <p>Two strokes, second tone, its own radical: 十 is the simplest possible illustration of how a Chinese character can be simultaneously a number, a shape, a philosophical concept, and the root of dozens of compounds. The cross of completion, written in two brushstrokes.</p>
     </div>
 

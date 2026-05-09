@@ -265,7 +265,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          书法 shūfǎ + 家 jiā (specialist; master of a domain). A practitioner of calligraphy at the level of mastery. 王羲之 Wáng Xīzhī (4th c.) is the canonical master — his 兰亭序 Lántíng Xù (Preface to the Orchid Pavilion) is the most celebrated piece of Chinese calligraphy.
+          书法 shūfǎ + 家 jiā (specialist; master of a domain). A practitioner of calligraphy at the level of mastery. 王羲之 Wáng Xīzhī (4th c.) is the canonical master; his 兰亭序 Lántíng Xù (Preface to the Orchid Pavilion) is the most celebrated piece of Chinese calligraphy.
         </div>
         <div class="examples">
           <div class="example">
@@ -302,7 +302,7 @@ content_sources:
             <td class="td-cn">笔</td>
             <td class="td-py">bǐ</td>
             <td>brush</td>
-            <td>wolf-hair, goat-hair, or bamboo — the primary tool</td>
+            <td>wolf-hair, goat-hair, or bamboo: the primary tool</td>
           </tr>
           <tr>
             <td class="td-cn">墨</td>
@@ -348,7 +348,7 @@ content_sources:
         <span class="cy-cn">读万卷书，行万里路</span>
         <span class="cy-py">dú wàn juǎn shū, xíng wàn lǐ lù</span>
         <span class="cy-en">read ten thousand scrolls; travel ten thousand li — theory and experience together</span>
-        <span class="cy-note">Classical saying attributed to Du Fu's father. 万 = 10,000 (metaphor for "vast"). The principle that education requires both books and lived experience — one of the most quoted educational proverbs.</span>
+        <span class="cy-note">Classical saying attributed to Du Fu's father. 万 = 10,000 (metaphor for "vast"). The principle that education requires both books and lived experience: one of the most quoted educational proverbs.</span>
       </div>
 
       <div class="cy">

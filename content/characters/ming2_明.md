@@ -454,7 +454,7 @@ content_sources:
         <span class="cy-cn">明察秋毫</span>
         <span class="cy-py">míng chá qiūháo</span>
         <span class="cy-en">to perceive the finest detail — exceptional discernment</span>
-        <span class="cy-note">Lit: bright-observe-autumn-hair-tip. 秋毫 = the impossibly fine tip of an animal's autumn coat. Used of leaders and judges who miss nothing. Its opposite: 不见舆薪 bùjiàn yú xīn "unable to see a cartload of firewood" — missing what's obvious.</span>
+        <span class="cy-note">Lit: bright-observe-autumn-hair-tip. 秋毫 = the impossibly fine tip of an animal's autumn coat. Used of leaders and judges who miss nothing. Its opposite: 不见舆薪 bùjiàn yú xīn "unable to see a cartload of firewood", missing what's obvious.</span>
       </div>
 
       <div class="cy">
@@ -468,7 +468,7 @@ content_sources:
         <span class="cy-cn">明知故问</span>
         <span class="cy-py">míng zhī gù wèn</span>
         <span class="cy-en">to ask knowing the answer — a rhetorical or teasing question</span>
-        <span class="cy-note">Lit: clearly-know-yet-ask. For when someone already knows the answer but asks anyway — either to tease, to confirm, or to draw out a confession. 你明知故问！"You already know the answer — why are you asking?"</span>
+        <span class="cy-note">Lit: clearly-know-yet-ask. For when someone already knows the answer but asks anyway, either to tease, to confirm, or to draw out a confession. 你明知故问！"You already know the answer; why are you asking?"</span>
       </div>
 
       <div class="cy">
