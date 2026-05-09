@@ -4,7 +4,7 @@ category: 'vocab'
 status: 'complete'
 content_review: 'pending'
 title: '社会 · society'
-desc: 'The word for society that China borrowed from Japan, which had borrowed the characters from China — a compound forged at the altar of the earth.'
+desc: 'The word for society that China borrowed from Japan, which had borrowed the characters from China: a compound forged at the altar of the earth.'
 metaDesc: "社会 shehui: the Chinese word for society, originally a classical compound meaning the gathering at the communal altar, modernized via Meiji-era Japanese translation of Western sociology. Essential for understanding Chinese political and philosophical discourse."
 pageTitle: '社会 shèhuì'
 pinyin: 'shèhuì'

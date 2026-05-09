@@ -3,7 +3,7 @@ type: 'vocab'
 category: 'vocab'
 status: 'complete'
 title: '时间 · time'
-desc: 'Time — the compound that anchors all temporal expression in Mandarin.'
+desc: 'Time: the compound that anchors all temporal expression in Mandarin.'
 metaDesc: "时间 shíjiān: time. Etymology of 时 and 间, clock time vs. experienced time, temporal vocabulary, time expressions, and the Chinese conception of cyclical time."
 pageTitle: '时间 shíjiān'
 tags:

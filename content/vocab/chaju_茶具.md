@@ -3,8 +3,8 @@ type: 'vocab'
 category: 'vocab'
 status: 'complete'
 title: '茶具 · Tea Implements'
-desc: 'The vessels, tools, and objects of the tea table — from the Yixing purple clay teapot to the fairness pitcher, each implement with a name, a function, and an aesthetic logic.'
-metaDesc: "茶具 cháju: Chinese tea implements — Yixing teapot, gaiwan, fairness pitcher, tea tray, tea boat, sipping cups, and the full gongfu tea table setup with vocabulary."
+desc: 'The vessels, tools, and objects of the tea table: from the Yixing purple clay teapot to the fairness pitcher, each implement with a name, a function, and an aesthetic logic.'
+metaDesc: "茶具 cháju: Chinese tea implements: Yixing teapot, gaiwan, fairness pitcher, tea tray, tea boat, sipping cups, and the full gongfu tea table setup with vocabulary."
 pageTitle: '茶具 · Tea Implements'
 tags:
   - 'tea'

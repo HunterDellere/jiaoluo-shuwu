@@ -3,7 +3,7 @@ type: 'vocab'
 category: 'vocab'
 status: 'complete'
 title: '文化 · culture; civilization'
-desc: 'The word that names the organizing project of this entire site — and a concept that Chinese thought built from the ground up differently than the West did.'
+desc: 'The word that names the organizing project of this entire site: and a concept that Chinese thought built from the ground up differently than the West did.'
 metaDesc: "文化 wénhuà: culture, civilization, educational level. Etymology from 文 (writing/pattern) + 化 (transformation), the concept's deep roots in Confucian thought, and its modern range from 文化大革命 to 文化自信."
 pageTitle: '文化 wénhuà'
 tags:

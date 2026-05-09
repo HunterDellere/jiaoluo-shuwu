@@ -3,7 +3,7 @@ type: 'vocab'
 category: 'vocab'
 status: 'complete'
 title: '菩萨 · Bodhisattva'
-desc: "菩萨 is the being who stands at the threshold of complete enlightenment and turns back — choosing to remain within the cycle of existence until every sentient being can be liberated alongside them."
+desc: "菩萨 is the being who stands at the threshold of complete enlightenment and turns back: choosing to remain within the cycle of existence until every sentient being can be liberated alongside them."
 metaDesc: "菩萨 púsà: the bodhisattva in Chinese Buddhism and folk religion. Sanskrit etymology, the compassion vow, the four great bodhisattvas, and the 六波罗蜜 six perfections of the Mahayana path."
 pageTitle: '菩萨 púsà'
 tags:

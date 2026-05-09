@@ -2,9 +2,9 @@
 type: 'topic'
 category: 'vocab'
 status: 'complete'
-title: '笔画 · strokes — the building blocks of Chinese characters'
+title: '笔画 · strokes: the building blocks of Chinese characters'
 desc: 'Every Chinese character is built from a small set of standard strokes written in a prescribed order. Stroke count determines dictionary order; stroke order determines how a character looks when written by hand.'
-metaDesc: "笔画 bǐhuà: Chinese character strokes — the eight basic stroke types, stroke order rules, why order matters, and how stroke count is used in dictionaries."
+metaDesc: "笔画 bǐhuà: Chinese character strokes: the eight basic stroke types, stroke order rules, why order matters, and how stroke count is used in dictionaries."
 pageTitle: '笔画 bǐhuà'
 pinyin: 'bǐhuà'
 tags:

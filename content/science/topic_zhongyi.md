@@ -5,7 +5,7 @@ status: 'complete'
 content_review: 'pending'
 title: '中医 · Traditional Chinese Medicine'
 desc: 'Qi, yin-yang, the five phases, and a medical system that has treated a fifth of humanity for two thousand years.'
-metaDesc: "中医 zhōngyī: Traditional Chinese Medicine — qi flow and organ networks, the Yellow Emperor's Classic, acupuncture, herbal pharmacology, and the modern integration debate."
+metaDesc: "中医 zhōngyī: Traditional Chinese Medicine: qi flow and organ networks, the Yellow Emperor's Classic, acupuncture, herbal pharmacology, and the modern integration debate."
 pageTitle: '中医 · Traditional Chinese Medicine'
 tags:
   - 'medicine'

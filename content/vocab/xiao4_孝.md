@@ -3,7 +3,7 @@ type: 'vocab'
 category: 'vocab'
 status: 'complete'
 title: '孝 · filial piety'
-desc: "An elder supported by a child's hands — the cardinal Confucian virtue that placed care for parents at the foundation of all moral life."
+desc: "An elder supported by a child's hands: the cardinal Confucian virtue that placed care for parents at the foundation of all moral life."
 metaDesc: "孝 xiào: filial piety in Chinese culture. Etymology, Confucian foundations, the Classic of Filial Piety, modern tensions, and key vocabulary. The most important family value in Chinese civilization."
 pageTitle: '孝 xiào'
 tags:

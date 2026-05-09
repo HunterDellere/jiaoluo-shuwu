@@ -4,7 +4,7 @@ category: 'vocab'
 status: 'complete'
 content_review: 'pending'
 title: '历史 · history'
-desc: 'The character for historian shows a hand holding a brush over a vessel — in ancient China, the scribe who held the brush held power.'
+desc: 'The character for historian shows a hand holding a brush over a vessel: in ancient China, the scribe who held the brush held power.'
 metaDesc: "历史 lìshǐ: history and the historical record in Chinese. From the oracle bone scribe to Sima Qian to the political mirror metaphor, how China has understood and wielded its past."
 pageTitle: '历史 lìshǐ'
 pinyin: 'lìshǐ'

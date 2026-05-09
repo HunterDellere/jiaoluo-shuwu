@@ -3,7 +3,7 @@ type: 'vocab'
 category: 'vocab'
 status: 'complete'
 title: '传统 · tradition; traditional'
-desc: 'The thread passed down through generations — and the concept that sits at the center of every Chinese debate about modernity, identity, and what to keep.'
+desc: 'The thread passed down through generations: and the concept that sits at the center of every Chinese debate about modernity, identity, and what to keep.'
 metaDesc: "传统 chuántǒng: tradition, traditional. Etymology from 传 (to transmit) + 统 (to unify/thread). The concept in Confucian thought, its collision with modernity, and the modern policy of 传统文化 promotion."
 pageTitle: '传统 chuántǒng'
 tags:

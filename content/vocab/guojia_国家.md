@@ -3,7 +3,7 @@ type: 'vocab'
 category: 'vocab'
 status: 'complete'
 title: '国家 · nation; state; country'
-desc: 'A compound of the two most culturally loaded characters in Chinese — country and family — that encodes the Confucian political imagination in two syllables.'
+desc: 'A compound of the two most culturally loaded characters in Chinese: country and family, that encodes the Confucian political imagination in two syllables.'
 metaDesc: "国家 guójiā: nation, state, country. Etymology from 国 (walled city-state) + 家 (family, household), the Confucian isomorphism of state and family, and modern usage from patriotism to governance."
 pageTitle: '国家 guójiā'
 tags:

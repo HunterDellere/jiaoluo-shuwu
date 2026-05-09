@@ -3,7 +3,7 @@ type: 'vocab'
 category: 'vocab'
 status: 'complete'
 title: '节气 · the 24 solar terms'
-desc: "China's ancient agricultural calendar — 24 precise moments that mark the turning of the year, still shaping food, medicine, and daily life."
+desc: "China's ancient agricultural calendar: 24 precise moments that mark the turning of the year, still shaping food, medicine, and daily life."
 metaDesc: "节气 jiéqì: the 24 solar terms of the Chinese calendar. What they are, how they work, the most culturally important terms (清明, 冬至, 春分), and the vocabulary of seasonal Chinese life."
 pageTitle: '节气 jiéqì'
 tags:

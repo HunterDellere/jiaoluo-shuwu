@@ -3,7 +3,7 @@ type: 'vocab'
 category: 'vocab'
 status: 'complete'
 title: '关系 · relationship, connections'
-desc: 'The untranslatable social fabric — relational leverage, it matters.'
+desc: 'The untranslatable social fabric: relational leverage, it matters.'
 metaDesc: "关系 guānxi: relationship, connection, social capital, and the network logic of Chinese society. The word that explains how China works."
 pageTitle: '关系 guānxi'
 tags:

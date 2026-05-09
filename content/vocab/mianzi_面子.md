@@ -3,7 +3,7 @@ type: 'vocab'
 category: 'vocab'
 status: 'complete'
 title: '面子 · face, honor'
-desc: 'Giving, losing, and saving face — the social grammar of dignity.'
+desc: 'Giving, losing, and saving face: the social grammar of dignity.'
 metaDesc: "面子 miànzi: face, social honor, and the invisible currency of Chinese social life. The concept that shapes every interaction from boardrooms to dinner tables."
 pageTitle: '面子 miànzi'
 tags:

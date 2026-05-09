@@ -2,9 +2,9 @@
 type: 'vocab'
 category: 'vocab'
 status: 'complete'
-title: '天人合一 · Heaven and humanity as one — the unity of cosmic and human order'
+title: '天人合一 · Heaven and humanity as one: the unity of cosmic and human order'
 desc: 'The organizing claim of Chinese cosmology: Heaven and humanity are not separate domains, and human flourishing depends on alignment with the natural order.'
-metaDesc: "天人合一 tiān rén hé yī — Heaven and humanity as one. The foundational Chinese cosmological concept that human life and the natural order are not separate realms but a single continuous whole."
+metaDesc: "天人合一 tiān rén hé yī: Heaven and humanity as one. The foundational Chinese cosmological concept that human life and the natural order are not separate realms but a single continuous whole."
 pageTitle: '天人合一 tiān rén hé yī'
 tags:
   - 'philosophy'

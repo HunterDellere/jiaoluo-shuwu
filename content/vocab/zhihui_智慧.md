@@ -3,8 +3,8 @@ type: 'vocab'
 category: 'vocab'
 status: 'complete'
 title: '智慧 · wisdom; prajna'
-desc: '智慧 brings together Confucian moral discernment and Buddhist prajna under one compound — two traditions, one word, different objects of knowing.'
-metaDesc: "智慧 zhìhuì: wisdom; prajna. A compound uniting Confucian moral discernment (智) and Buddhist insight-that-clears (慧) — knowing that illuminates and a heart that sweeps clean."
+desc: '智慧 brings together Confucian moral discernment and Buddhist prajna under one compound: two traditions, one word, different objects of knowing.'
+metaDesc: "智慧 zhìhuì: wisdom; prajna. A compound uniting Confucian moral discernment (智) and Buddhist insight-that-clears (慧): knowing that illuminates and a heart that sweeps clean."
 pageTitle: '智慧 zhìhuì'
 tags:
   - 'philosophy'

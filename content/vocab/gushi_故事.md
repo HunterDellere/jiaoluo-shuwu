@@ -3,7 +3,7 @@ type: 'vocab'
 category: 'vocab'
 status: 'complete'
 title: '故事 · story, tale, narrative'
-desc: 'Old affairs made into meaning — how the Chinese word for story encodes a philosophy of the past as the source of truth.'
+desc: 'Old affairs made into meaning: how the Chinese word for story encodes a philosophy of the past as the source of truth.'
 metaDesc: "故事 gùshì: story, tale, narrative in Chinese. Etymology, the Chinese narrative tradition, key storytelling vocabulary, and the role of historical anecdote in Chinese thought."
 pageTitle: '故事 gùshì'
 tags:

@@ -3,8 +3,8 @@ type: 'vocab'
 category: 'vocab'
 status: 'complete'
 title: '礼 · ritual, propriety, gift, courtesy'
-desc: 'The cosmic blueprint Confucius spent his life trying to restore — and why manners are a civilizational technology.'
-metaDesc: "礼 lǐ: ritual, propriety, gift, courtesy. The Confucian concept of li — the system of rites that orders society, relationships, and even Heaven. Etymology, philosophy, and modern usage."
+desc: 'The cosmic blueprint Confucius spent his life trying to restore: and why manners are a civilizational technology.'
+metaDesc: "礼 lǐ: ritual, propriety, gift, courtesy. The Confucian concept of li: the system of rites that orders society, relationships, and even Heaven. Etymology, philosophy, and modern usage."
 pageTitle: '礼 lǐ'
 tags:
   - 'confucianism'

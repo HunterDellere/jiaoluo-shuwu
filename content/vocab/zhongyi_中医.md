@@ -3,7 +3,7 @@ type: 'vocab'
 category: 'vocab'
 status: 'complete'
 title: "中医 · Traditional Chinese Medicine"
-desc: "Two thousand years of systematic medical thought — qi, yin-yang, the Five Elements, acupuncture, and the living tradition that treats the person, not the disease."
+desc: "Two thousand years of systematic medical thought: qi, yin-yang, the Five Elements, acupuncture, and the living tradition that treats the person, not the disease."
 metaDesc: "中医 zhōngyī: Traditional Chinese Medicine. The foundational concepts (qi, yin-yang, Five Elements, meridians), the four diagnostic methods, key therapies (acupuncture, herbal medicine, cupping), and essential vocabulary."
 pageTitle: '中医 zhōngyī'
 tags:

@@ -3,7 +3,7 @@ type: 'vocab'
 category: 'vocab'
 status: 'complete'
 title: '书法 · calligraphy'
-desc: 'The art where writing becomes a performance of character — and why the Chinese brush is a philosophical instrument.'
+desc: 'The art where writing becomes a performance of character: and why the Chinese brush is a philosophical instrument.'
 metaDesc: "书法 shūfǎ: Chinese calligraphy. The five scripts, the philosophy of the brush, key masters from Wang Xizhi to Yan Zhenqing, and why calligraphy is considered the highest of the arts."
 pageTitle: '书法 shūfǎ'
 tags:

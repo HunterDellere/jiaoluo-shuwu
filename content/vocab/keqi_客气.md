@@ -3,7 +3,7 @@ type: 'vocab'
 category: 'vocab'
 status: 'complete'
 title: '客气 · politeness, ceremony'
-desc: "The polite manners owed to guests — and the gentle dance of refusal, insistence, and ritual modesty that runs through every Chinese social interaction."
+desc: "The polite manners owed to guests: and the gentle dance of refusal, insistence, and ritual modesty that runs through every Chinese social interaction."
 metaDesc: "客气 kèqi: Chinese politeness, the manners owed to guests. The vocabulary of ritual modesty, the don't-be-polite dismissal, and how 客气 fits with 面子 and 关系 in Chinese social life."
 pageTitle: '客气 kèqi'
 tags:
@@ -14,8 +14,8 @@ tags:
 updated: '2026-04-19'
 pinyin: 'kèqi'
 sources:
-  - 'Yang, Mayfair Mei-hui — Gifts, Favors and Banquets: The Art of Social Relationships in China (1994)'
-  - 'Hsu, Francis L. K. — Americans and Chinese: Passage to Differences (1981)'
+  - 'Yang, Mayfair Mei-hui: Gifts, Favors and Banquets: The Art of Social Relationships in China (1994)'
+  - 'Hsu, Francis L. K.: Americans and Chinese: Passage to Differences (1981)'
 content_review: 'verified'
 content_sources:
   - 'Unihan'

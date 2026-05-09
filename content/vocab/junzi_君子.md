@@ -3,7 +3,7 @@ type: 'vocab'
 category: 'vocab'
 status: 'complete'
 title: '君子 · the exemplary person'
-desc: "The Confucian moral ideal that replaced aristocratic birth with cultivated virtue as the basis of social authority — anyone who does the work of 仁义礼智信 qualifies."
+desc: "The Confucian moral ideal that replaced aristocratic birth with cultivated virtue as the basis of social authority: anyone who does the work of 仁义礼智信 qualifies."
 metaDesc: "君子 jūnzǐ: the Confucian exemplary person. Etymology, the transformation from aristocratic title to moral ideal, key Analects passages, and the junzi-xiaoren polarity."
 pageTitle: '君子 jūnzǐ'
 tags:

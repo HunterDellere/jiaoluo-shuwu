@@ -3,7 +3,7 @@ type: 'vocab'
 category: 'vocab'
 status: 'complete'
 title: '风俗 · customs, traditions, folk practices'
-desc: 'The wind of culture and the ways of the people — how 风俗 differs from 习惯 and why the distinction matters.'
+desc: 'The wind of culture and the ways of the people: how 风俗 differs from 习惯 and why the distinction matters.'
 metaDesc: "风俗 fēngsú: customs, traditions, folk practices. The etymology of wind and people's ways, regional customs across China, how 风俗 differs from 传统 and 习惯, and key cultural practices."
 pageTitle: '风俗 fēngsú'
 tags:

@@ -3,8 +3,8 @@ type: 'vocab'
 category: 'vocab'
 status: 'complete'
 title: '仁 · humaneness, benevolence'
-desc: 'The supreme Confucian virtue — the quality of genuine care for other people that holds civilization together.'
-metaDesc: "仁 rén: humaneness, benevolence, the central virtue in Confucian ethics. The character formed by 人 (person) + 二 (two) — humaneness as what happens between people."
+desc: 'The supreme Confucian virtue: the quality of genuine care for other people that holds civilization together.'
+metaDesc: "仁 rén: humaneness, benevolence, the central virtue in Confucian ethics. The character formed by 人 (person) + 二 (two): humaneness as what happens between people."
 pageTitle: '仁 rén'
 tags:
   - 'confucianism'

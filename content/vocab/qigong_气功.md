@@ -3,7 +3,7 @@ type: 'vocab'
 category: 'vocab'
 status: 'complete'
 title: '气功 · qigong'
-desc: "Cultivating the vital breath — China's ancient practice of aligning body, breath, and mind."
+desc: "Cultivating the vital breath: China's ancient practice of aligning body, breath, and mind."
 metaDesc: "气功 qìgōng: Chinese qigong. Etymology, the theory of qi and its cultivation, major schools of qigong, how it differs from tai chi and yoga, and key vocabulary."
 pageTitle: '气功 qìgōng'
 tags:

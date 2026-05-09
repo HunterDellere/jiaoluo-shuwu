@@ -4,7 +4,7 @@ category: 'vocab'
 status: 'complete'
 content_review: 'pending'
 title: '慈悲 · compassion; mercy'
-desc: 'Two Sanskrit terms fused into one Chinese compound: the wish that beings be happy and the wish that they be free from suffering — both directions of the same opening movement.'
+desc: 'Two Sanskrit terms fused into one Chinese compound: the wish that beings be happy and the wish that they be free from suffering: both directions of the same opening movement.'
 metaDesc: "慈悲 cibi: the Buddhist compound for compassion and mercy, translating Sanskrit maitri and karuna. Etymology, Guanyin, Vimalakirt Sutra, and everyday usage in modern Chinese."
 pageTitle: '慈悲 cíbēi'
 pinyin: 'cíbēi'

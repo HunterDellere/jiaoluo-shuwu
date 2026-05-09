@@ -4,8 +4,8 @@ category: 'vocab'
 status: 'complete'
 content_review: 'pending'
 title: '中文 · Chinese Language and Writing'
-desc: "中文 names both the written script and the spoken language — the most common term among learners — but it sits alongside 汉语, 普通话, and 汉字 in a system of names that carries real distinctions."
-metaDesc: "中文 zhongwen: the Chinese language and writing system. How 中文 differs from 汉语, 普通话, 汉字, and other terms for Chinese language — a practical guide to the naming system for Mandarin learners."
+desc: "中文 names both the written script and the spoken language: the most common term among learners, but it sits alongside 汉语, 普通话, and 汉字 in a system of names that carries real distinctions."
+metaDesc: "中文 zhongwen: the Chinese language and writing system. How 中文 differs from 汉语, 普通话, 汉字, and other terms for Chinese language: a practical guide to the naming system for Mandarin learners."
 pageTitle: '中文 zhōngwén'
 pinyin: 'zhōngwén'
 tags:

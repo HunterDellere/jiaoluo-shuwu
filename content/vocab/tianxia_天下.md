@@ -3,7 +3,7 @@ type: 'vocab'
 category: 'vocab'
 status: 'complete'
 title: '天下 · all under heaven'
-desc: 'The pre-nation-state Chinese political imagination — the civilized world.'
+desc: 'The pre-nation-state Chinese political imagination: the civilized world.'
 metaDesc: "天下 tiānxià: all under heaven, the Chinese world-concept that defined political legitimacy for three millennia. From the Son of Heaven to the People's Republic."
 pageTitle: '天下 tiānxià'
 tags:

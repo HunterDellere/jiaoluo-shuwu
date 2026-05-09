@@ -3,7 +3,7 @@ type: 'vocab'
 category: 'vocab'
 status: 'complete'
 title: '天命 · the Mandate of Heaven'
-desc: 'The political and cosmological concept that legitimized three thousand years of Chinese dynasty — heaven''s appointment of the rightful ruler.'
+desc: 'The political and cosmological concept that legitimized three thousand years of Chinese dynasty: heaven''s appointment of the rightful ruler.'
 metaDesc: "天命 tiānmìng: the Mandate of Heaven, the foundational concept of Chinese political legitimacy from the Zhou dynasty to the present. How heaven appointed and withdrew its favor."
 pageTitle: '天命 tiānmìng'
 tags:

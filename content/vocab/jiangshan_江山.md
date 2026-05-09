@@ -3,8 +3,8 @@ type: 'vocab'
 category: 'vocab'
 status: 'complete'
 title: '江山 · rivers and mountains, the realm'
-desc: 'The classical Chinese word for the nation — not a territory but a landscape; not a state but a living geography that dynasties rose and fell to possess.'
-metaDesc: "江山 jiāngshān: rivers and mountains, the realm, political power. The classical Chinese way of saying 'the country' — geography as the substance of civilization."
+desc: 'The classical Chinese word for the nation: not a territory but a landscape; not a state but a living geography that dynasties rose and fell to possess.'
+metaDesc: "江山 jiāngshān: rivers and mountains, the realm, political power. The classical Chinese way of saying 'the country': geography as the substance of civilization."
 pageTitle: '江山 jiāngshān'
 tags:
   - 'history'
