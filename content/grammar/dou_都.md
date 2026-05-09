@@ -3,8 +3,8 @@ type: 'grammar'
 category: 'grammar'
 status: 'complete'
 content_review: 'pending'
-title: '都 · all, both, even — the universal scope adverb'
-desc: 'The adverb that quantifies everything before it, not after — and whose position in a sentence determines whether you mean "none" or "not all."'
+title: '都 · all, both, even: the universal scope adverb'
+desc: 'The adverb that quantifies everything before it, not after, and whose position in a sentence determines whether you mean "none" or "not all."'
 metaDesc: "都 dōu: HSK 1 adverb meaning all, both, even. Scopes over the subject-side phrase, not the predicate. Negation pairs, question-word universals, and the contrast with 也."
 pageTitle: '都 dōu'
 tags:

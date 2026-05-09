@@ -3,7 +3,7 @@ type: 'grammar'
 category: 'grammar'
 status: 'complete'
 title: '乃 · classical connective: then, thereupon, thus; to be; only then'
-desc: 'A classical connective that marks earned consequence — the result that follows because the condition was genuinely met, not merely next in line.'
+desc: 'A classical connective that marks earned consequence: the result that follows because the condition was genuinely met, not merely next in line.'
 metaDesc: "乃 nǎi: classical Chinese connective marking earned consequence, restrictive 'only then,' and emphatic identity. Survives in 失败乃成功之母, 乃至, and formal literary prose."
 pageTitle: '乃 nǎi'
 tags:
@@ -20,13 +20,13 @@ pinyin: 'nǎi'
 content_review: 'pending'
 faq:
   - q: "What does 乃 mean in classical Chinese?"
-    a: "乃 nǎi is a classical connective with three core uses: (1) 'then; thereupon; thus' as a sequential connector that marks earned consequence — the next event follows because the previous condition was genuinely met; (2) 'to be' as a literary copula in identity statements (失败乃成功之母 — failure is the mother of success); (3) 'only then' as a restrictive connective. It is one of the most expressive connectors in classical prose."
+    a: "乃 nǎi is a classical connective with three core uses: (1) 'then; thereupon; thus' as a sequential connector that marks earned consequence, where the next event follows because the previous condition was genuinely met; (2) 'to be' as a literary copula in identity statements (失败乃成功之母, failure is the mother of success); (3) 'only then' as a restrictive connective. It is one of the most expressive connectors in classical prose."
   - q: "What is the meaning of 失败乃成功之母?"
-    a: "失败乃成功之母 shībài nǎi chénggōng zhī mǔ literally reads 'failure is the mother of success.' 乃 here is the literary copula 'is,' and 之 is the classical genitive 'of.' The phrase argues that failure is not the opposite of success but its precondition — what teaches and prepares it. It is one of the most frequently quoted classical sayings in modern Chinese, used to console and to motivate."
+    a: "失败乃成功之母 shībài nǎi chénggōng zhī mǔ literally reads 'failure is the mother of success.' 乃 here is the literary copula 'is,' and 之 is the classical genitive 'of.' The phrase argues that failure is not the opposite of success but its precondition: what teaches and prepares it. It is one of the most frequently quoted classical sayings in modern Chinese, used to console and to motivate."
   - q: "Is 乃 used in modern Chinese?"
-    a: "乃 survives in formal writing, news headlines, academic prose, and fixed expressions like 乃至 (and even; up to), 乃是 (is in fact), and chengyu like 失败乃成功之母. In everyday speech it is replaced by 就 (then), 是 (is), or 才 (only then). Encountering 乃 in modern text is a register signal — the writer is reaching for classical weight."
+    a: "乃 survives in formal writing, news headlines, academic prose, and fixed expressions like 乃至 (and even; up to), 乃是 (is in fact), and chengyu like 失败乃成功之母. In everyday speech it is replaced by 就 (then), 是 (is), or 才 (only then). Encountering 乃 in modern text is a register signal: the writer is reaching for classical weight."
   - q: "What is the difference between 乃 and 就?"
-    a: "Both can connect cause and consequence, but they differ in register and emphasis. 就 is the everyday 'then' — neutral, fast, and connects almost any two events. 乃 is classical and slower; it marks the consequence as earned, deserved, or logically inevitable given the premise. 乃 carries the weight of 'thus' or 'thereupon' rather than the casual 'then.'"
+    a: "Both can connect cause and consequence, but they differ in register and emphasis. 就 is the everyday 'then': neutral, fast, and connects almost any two events. 乃 is classical and slower; it marks the consequence as earned, deserved, or logically inevitable given the premise. 乃 carries the weight of 'thus' or 'thereupon' rather than the casual 'then.'"
 ---
 
 

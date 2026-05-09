@@ -4,7 +4,7 @@ category: 'grammar'
 status: 'complete'
 content_review: 'pending'
 title: '得 · the degree complement'
-desc: 'The bridge between action and result — how 得 links what you did to how well you did it.'
+desc: 'The bridge between action and result: how 得 links what you did to how well you did it.'
 metaDesc: "得 de in degree complements: the V + 得 + Adj pattern in Mandarin. How to describe how well or badly an action was performed, questions, negation, and comparison with 的 and 地."
 pageTitle: '得 de · Degree Complement'
 tags:

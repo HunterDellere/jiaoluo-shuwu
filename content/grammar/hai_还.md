@@ -3,8 +3,8 @@ type: 'grammar'
 category: 'grammar'
 status: 'complete'
 content_review: 'pending'
-title: '还 · still, also, even — the continuative adverb'
-desc: 'One adverb, four distinct jobs — and a single thread connecting all of them: something continues past the expected boundary.'
+title: '还 · still, also, even: the continuative adverb'
+desc: 'One adverb, four distinct jobs, and a single thread connecting all of them: something continues past the expected boundary.'
 metaDesc: "还 hái: the Mandarin adverb meaning still, also, and even more. Four major functions, contrast with 也/更/仍然, and the 还好/还行/还是 cluster every learner meets daily."
 pageTitle: '还 hái'
 tags:

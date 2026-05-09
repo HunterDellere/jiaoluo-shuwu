@@ -4,7 +4,7 @@ category: 'grammar'
 status: 'complete'
 content_review: 'pending'
 title: '没有 · negation of possession and past action'
-desc: 'The two most important negation characters — 不 and 没 — and why they cannot be swapped.'
+desc: 'The two most important negation characters, 不 and 没, and why they cannot be swapped.'
 metaDesc: "没有 méiyǒu: the negation of 有 (to have) and the past tense negator in Mandarin. Why 不 and 没 are not interchangeable, usage patterns, and comparison with 没 vs. 不."
 pageTitle: '没有 méiyǒu'
 tags:

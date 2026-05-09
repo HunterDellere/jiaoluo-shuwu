@@ -5,7 +5,7 @@ status: 'complete'
 content_review: 'pending'
 title: '西藏 · Tibet'
 desc: 'The Roof of the World: a plateau so high it generates its own weather, a civilization shaped by altitude, and a Buddhism that grew from the landscape as much as from doctrine.'
-metaDesc: "西藏 Xīzàng: Tibet — plateau geography, Tibetan Buddhism, the Potala Palace, and the historical relationship between Tibet and the Chinese state."
+metaDesc: "西藏 Xīzàng: Tibet. Plateau geography, Tibetan Buddhism, the Potala Palace, and the historical relationship between Tibet and the Chinese state."
 pageTitle: '西藏 · Tibet'
 tags:
   - 'geography'

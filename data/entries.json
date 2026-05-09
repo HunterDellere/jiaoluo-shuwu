@@ -2054,8 +2054,8 @@
     "path": "pages/grammar/dou_都.html",
     "type": "grammar",
     "category": "grammar",
-    "title": "都 · all, both, even — the universal scope adverb",
-    "desc": "The adverb that quantifies everything before it, not after — and whose position in a sentence determines whether you mean \"none\" or \"not all.\"",
+    "title": "都 · all, both, even: the universal scope adverb",
+    "desc": "The adverb that quantifies everything before it, not after, and whose position in a sentence determines whether you mean \"none\" or \"not all.\"",
     "tags": [
       "adverb",
       "grammar",
@@ -2071,8 +2071,8 @@
     "path": "pages/grammar/hai_还.html",
     "type": "grammar",
     "category": "grammar",
-    "title": "还 · still, also, even — the continuative adverb",
-    "desc": "One adverb, four distinct jobs — and a single thread connecting all of them: something continues past the expected boundary.",
+    "title": "还 · still, also, even: the continuative adverb",
+    "desc": "One adverb, four distinct jobs, and a single thread connecting all of them: something continues past the expected boundary.",
     "tags": [
       "adverb",
       "grammar",
@@ -2088,7 +2088,7 @@
     "type": "grammar",
     "category": "grammar",
     "title": "乃 · classical connective: then, thereupon, thus; to be; only then",
-    "desc": "A classical connective that marks earned consequence — the result that follows because the condition was genuinely met, not merely next in line.",
+    "desc": "A classical connective that marks earned consequence: the result that follows because the condition was genuinely met, not merely next in line.",
     "tags": [
       "grammar",
       "classical",
@@ -5265,7 +5265,7 @@
     "type": "grammar",
     "category": "grammar",
     "title": "吧 · the suggestion and confirmation particle",
-    "desc": "The softest word in Mandarin — how one syllable softens commands, hedges statements, and reads the room.",
+    "desc": "The softest word in Mandarin: how one syllable softens commands, hedges statements, and reads the room.",
     "tags": [
       "particle",
       "pragmatics",
@@ -5280,7 +5280,7 @@
     "type": "grammar",
     "category": "grammar",
     "title": "比 · comparison structure",
-    "desc": "Mandarin's primary comparison marker — A 比 B + Adj expresses difference, not just ranking.",
+    "desc": "Mandarin's primary comparison marker: A 比 B + Adj expresses difference, not just ranking.",
     "tags": [
       "grammar",
       "syntax",
@@ -5295,7 +5295,7 @@
     "type": "grammar",
     "category": "grammar",
     "title": "除了 · except, besides, in addition to",
-    "desc": "The dual-function exclusion/inclusion marker — 除了 can narrow a set to everything except one thing, or expand it to include one more thing, depending on which particle follows.",
+    "desc": "The dual-function exclusion/inclusion marker: 除了 can narrow a set to everything except one thing, or expand it to include one more thing, depending on which particle follows.",
     "tags": [
       "grammar",
       "syntax"
@@ -5309,7 +5309,7 @@
     "type": "grammar",
     "category": "grammar",
     "title": "从 · from, since, following",
-    "desc": "The preposition of origin and following — 从 marks the starting point of movement in space and time, and appears in essential patterns for expressing duration, routes, and rules.",
+    "desc": "The preposition of origin and following: 从 marks the starting point of movement in space and time, and appears in essential patterns for expressing duration, routes, and rules.",
     "tags": [
       "grammar",
       "syntax"
@@ -5323,7 +5323,7 @@
     "type": "grammar",
     "category": "grammar",
     "title": "得 · the degree complement",
-    "desc": "The bridge between action and result — how 得 links what you did to how well you did it.",
+    "desc": "The bridge between action and result: how 得 links what you did to how well you did it.",
     "tags": [
       "complement",
       "degree",
@@ -5339,7 +5339,7 @@
     "type": "grammar",
     "category": "grammar",
     "title": "的话 · if; in the case that",
-    "desc": "The soft conditional — how 的话 marks a premise without committing to it.",
+    "desc": "The soft conditional: how 的话 marks a premise without committing to it.",
     "tags": [
       "conditional",
       "syntax",
@@ -5355,7 +5355,7 @@
     "type": "grammar",
     "category": "grammar",
     "title": "对 · toward, regarding, correct",
-    "desc": "A preposition, adjective, and verb rolled into one — 对 introduces the object of an action, asserts correctness, and forms the backbone of Chinese directional expressions.",
+    "desc": "A preposition, adjective, and verb rolled into one: 对 introduces the object of an action, asserts correctness, and forms the backbone of Chinese directional expressions.",
     "tags": [
       "grammar",
       "syntax",
@@ -5370,7 +5370,7 @@
     "type": "grammar",
     "category": "grammar",
     "title": "而且 · moreover, and furthermore",
-    "desc": "Additive conjunction that layers information — not just \"and\" but \"and on top of that.\"",
+    "desc": "Additive conjunction that layers information: not just \"and\" but \"and on top of that.\"",
     "tags": [
       "conjunction",
       "additive",
@@ -5385,7 +5385,7 @@
     "type": "grammar",
     "category": "grammar",
     "title": "刚 · just now, just happened",
-    "desc": "The recency adverb — 刚 marks that something happened very recently, and contrast with 刚才, 刚刚, 才, and 已经.",
+    "desc": "The recency adverb: 刚 marks that something happened very recently, and contrast with 刚才, 刚刚, 才, and 已经.",
     "tags": [
       "grammar",
       "syntax",
@@ -5400,7 +5400,7 @@
     "type": "grammar",
     "category": "grammar",
     "title": "过 · the experiential aspect marker",
-    "desc": "The particle that says 'I have ever done this' — not when, not how often, just that it once happened. The most-confused pair with 了.",
+    "desc": "The particle that says 'I have ever done this'. Not when, not how often, just that it once happened. The most-confused pair with 了.",
     "tags": [
       "aspect",
       "particle",
@@ -5415,7 +5415,7 @@
     "type": "grammar",
     "category": "grammar",
     "title": "没有 · negation of possession and past action",
-    "desc": "The two most important negation characters — 不 and 没 — and why they cannot be swapped.",
+    "desc": "The two most important negation characters, 不 and 没, and why they cannot be swapped.",
     "tags": [
       "negation",
       "past-tense",
@@ -5430,8 +5430,8 @@
     "path": "pages/grammar/qilai_起来.html",
     "type": "grammar",
     "category": "grammar",
-    "title": "起来 · directional complement — upward, inward, beginning",
-    "desc": "The most versatile directional complement in Mandarin — three distinct grammatical lives.",
+    "title": "起来 · directional complement: upward, inward, beginning",
+    "desc": "The most versatile directional complement in Mandarin: three distinct grammatical lives.",
     "tags": [
       "complement",
       "directional",
@@ -6887,7 +6887,7 @@
     "type": "grammar",
     "category": "grammar",
     "title": "把 · the disposal construction",
-    "desc": "Moving the object before the verb — when and why.",
+    "desc": "Moving the object before the verb: when and why.",
     "tags": [
       "syntax",
       "object",
@@ -6917,7 +6917,7 @@
     "type": "grammar",
     "category": "grammar",
     "title": "的 · 得 · 地 · the three de's",
-    "desc": "Attribution, result complement, and adverbial marker — distinguished once and for all.",
+    "desc": "Attribution, result complement, and adverbial marker: distinguished once and for all.",
     "tags": [
       "particle",
       "complement",
@@ -6932,7 +6932,7 @@
     "type": "grammar",
     "category": "grammar",
     "title": "来 · 去 · directional complements",
-    "desc": "上来, 下去, 出去, 进来 — the motion complement system mapped.",
+    "desc": "上来, 下去, 出去, 进来: the motion complement system mapped.",
     "tags": [
       "direction",
       "complement",
@@ -6947,7 +6947,7 @@
     "type": "grammar",
     "category": "grammar",
     "title": "会 · 能 · 可以 · the three 'can's",
-    "desc": "Learned ability vs. situational capacity vs. permission — not interchangeable.",
+    "desc": "Learned ability vs. situational capacity vs. permission: not interchangeable.",
     "tags": [
       "modal",
       "ability",
@@ -6962,7 +6962,7 @@
     "type": "grammar",
     "category": "grammar",
     "title": "就 vs. 才 · sooner vs. later",
-    "desc": "The timing and emphasis pair — speaker attitude encoded in one syllable.",
+    "desc": "The timing and emphasis pair: speaker attitude encoded in one syllable.",
     "tags": [
       "adverb",
       "timing",
@@ -6977,7 +6977,7 @@
     "type": "grammar",
     "category": "grammar",
     "title": "了 · the perfective particle",
-    "desc": "Perfective aspect vs. change-of-state — the single most-confused particle.",
+    "desc": "Perfective aspect vs. change-of-state: the single most-confused particle.",
     "tags": [
       "aspect",
       "particle",
@@ -6992,7 +6992,7 @@
     "type": "grammar",
     "category": "grammar",
     "title": "连…都/也 · even X",
-    "desc": "The intensifier construction — raising the stakes of a claim.",
+    "desc": "The intensifier construction: raising the stakes of a claim.",
     "tags": [
       "intensifier",
       "even",
@@ -7007,7 +7007,7 @@
     "type": "grammar",
     "category": "grammar",
     "title": "量词 · measure words",
-    "desc": "个, 只, 条, 本, 张 — the classifier taxonomy and the logic behind it.",
+    "desc": "个, 只, 条, 本, 张: the classifier taxonomy and the logic behind it.",
     "tags": [
       "measure-words",
       "classifiers",
