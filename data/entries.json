@@ -2179,7 +2179,7 @@
     "type": "grammar",
     "category": "grammar",
     "title": "者 · classical nominalizer \"the one who; that which\"",
-    "desc": "The particle that turns a verb or adjective into a person — and that never stopped working.",
+    "desc": "The particle that turns a verb or adjective into a person, and that never stopped working.",
     "tags": [
       "grammar",
       "classical",
@@ -2217,7 +2217,7 @@
     "type": "topic",
     "category": "history",
     "title": "周朝 · The Zhou Dynasty",
-    "desc": "The longest dynasty in Chinese history and the philosophical seedbed of Chinese civilization — where the Mandate of Heaven was born, Confucius lived, and nearly every idea that shaped imperial China was first argued.",
+    "desc": "The longest dynasty in Chinese history and the philosophical seedbed of Chinese civilization: where the Mandate of Heaven was born, Confucius lived, and nearly every idea that shaped imperial China was first argued.",
     "tags": [
       "history",
       "ancient",
@@ -3094,8 +3094,8 @@
     "path": "pages/hubs/daode.html",
     "type": "hub",
     "category": "hubs",
-    "title": "道德与伦理 · Morality and Ethics — A Reading Path",
-    "desc": "Chinese ethics is not a checklist of personal virtues. It is a description of how one should relate to specific others — and what happens when those relationships are tested.",
+    "title": "道德与伦理 · Morality and Ethics: A Reading Path",
+    "desc": "Chinese ethics is not a checklist of personal virtues. It is a description of how one should relate to specific others, and what happens when those relationships are tested.",
     "tags": [
       "ethics",
       "confucianism",
@@ -3111,7 +3111,7 @@
     "path": "pages/hubs/dili.html",
     "type": "hub",
     "category": "hubs",
-    "title": "地理与语言 · Geography and Language — A Reading Path",
+    "title": "地理与语言 · Geography and Language: A Reading Path",
     "desc": "The rivers shaped the civilization; geography fractured the language; one writing system held it together.",
     "tags": [
       "geography",
@@ -3128,7 +3128,7 @@
     "path": "pages/hubs/faming.html",
     "type": "hub",
     "category": "hubs",
-    "title": "四大发明与技术 · Invention and Technology — A Reading Path",
+    "title": "四大发明与技术 · Invention and Technology: A Reading Path",
     "desc": "Chinese technological innovation was not a story of lone inventors. It was systematic accumulation within state institutions and artisan guilds over centuries, carried by people whose names the record does not preserve.",
     "tags": [
       "science",
@@ -5645,7 +5645,7 @@
     "type": "topic",
     "category": "hsk",
     "title": "第一级 · HSK 1",
-    "desc": "The complete HSK 1 vocabulary, character, and grammar list — cross-linked to Jiǎoluò Shūwū entries where available.",
+    "desc": "The complete HSK 1 vocabulary, character, and grammar list, cross-linked to Jiǎoluò Shūwū entries where available.",
     "tags": [
       "hsk",
       "vocabulary",
@@ -5660,7 +5660,7 @@
     "type": "topic",
     "category": "hsk",
     "title": "第二级 · HSK 2",
-    "desc": "The complete HSK 2 vocabulary, character, and grammar list — cross-linked to Jiǎoluò Shūwū entries where available.",
+    "desc": "The complete HSK 2 vocabulary, character, and grammar list, cross-linked to Jiǎoluò Shūwū entries where available.",
     "tags": [
       "hsk",
       "vocabulary",
@@ -5675,7 +5675,7 @@
     "type": "topic",
     "category": "hsk",
     "title": "第三级 · HSK 3",
-    "desc": "The complete HSK 3 vocabulary, character, and grammar list — cross-linked to Jiǎoluò Shūwū entries where available.",
+    "desc": "The complete HSK 3 vocabulary, character, and grammar list, cross-linked to Jiǎoluò Shūwū entries where available.",
     "tags": [
       "hsk",
       "vocabulary",
@@ -5690,7 +5690,7 @@
     "type": "topic",
     "category": "hsk",
     "title": "第四级 · HSK 4",
-    "desc": "The complete HSK 4 vocabulary, character, and grammar list — cross-linked to Jiǎoluò Shūwū entries where available.",
+    "desc": "The complete HSK 4 vocabulary, character, and grammar list, cross-linked to Jiǎoluò Shūwū entries where available.",
     "tags": [
       "hsk",
       "vocabulary",
@@ -5705,7 +5705,7 @@
     "type": "topic",
     "category": "hsk",
     "title": "第五级 · HSK 5",
-    "desc": "The complete HSK 5 vocabulary, character, and grammar list — cross-linked to Jiǎoluò Shūwū entries where available.",
+    "desc": "The complete HSK 5 vocabulary, character, and grammar list, cross-linked to Jiǎoluò Shūwū entries where available.",
     "tags": [
       "hsk",
       "vocabulary",
@@ -5720,7 +5720,7 @@
     "type": "topic",
     "category": "hsk",
     "title": "第六级 · HSK 6",
-    "desc": "The complete HSK 6 vocabulary, character, and grammar list — cross-linked to Jiǎoluò Shūwū entries where available.",
+    "desc": "The complete HSK 6 vocabulary, character, and grammar list, cross-linked to Jiǎoluò Shūwū entries where available.",
     "tags": [
       "hsk",
       "vocabulary",
@@ -5753,7 +5753,7 @@
     "path": "pages/hubs/dynasties.html",
     "type": "hub",
     "category": "hubs",
-    "title": "朝代 · The Dynasties — A Reading Path Through Chinese History",
+    "title": "朝代 · The Dynasties: A Reading Path Through Chinese History",
     "desc": "A guided walk through four thousand years of Chinese dynasties, from the three founding houses to the modern ruptures that ended imperial rule.",
     "tags": [
       "history",
@@ -7247,7 +7247,7 @@
     "type": "topic",
     "category": "philosophy",
     "title": "孟子 · Mencius",
-    "desc": "Human nature as inherently good — the sprouts of virtue.",
+    "desc": "Human nature as inherently good: the sprouts of virtue.",
     "tags": [
       "mencius",
       "human-nature",
@@ -7277,7 +7277,7 @@
     "type": "topic",
     "category": "philosophy",
     "title": "荀子 · Xunzi",
-    "desc": "Human nature as bad — ritual and education as correction.",
+    "desc": "Human nature as bad: ritual and education as correction.",
     "tags": [
       "xunzi",
       "ritual",

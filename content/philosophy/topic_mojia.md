@@ -5,7 +5,7 @@ status: 'complete'
 content_review: 'pending'
 title: '墨家 · Mohism'
 desc: 'The one Chinese philosophical school that fielded an army of engineers and nearly matched Confucianism in institutional scale before vanishing for fifteen centuries.'
-metaDesc: "墨家 Mojia Mohism — Mozi universal love jian ai, opposition to aggressive war fei gong, the Mohist Canon Mo Jing on optics and mechanics, the school collapse after Qin unification, and the rediscovery of Mohist thought by Qing dynasty scholars and late Qing reformers."
+metaDesc: "墨家 Mojia Mohism. Mozi universal love jian ai, opposition to aggressive war fei gong, the Mohist Canon Mo Jing on optics and mechanics, the school collapse after Qin unification, and the rediscovery of Mohist thought by Qing dynasty scholars and late Qing reformers."
 pageTitle: '墨家 Mòjiā'
 pinyin: 'Mòjiā'
 tags:

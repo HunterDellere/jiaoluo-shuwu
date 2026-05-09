@@ -1,7 +1,7 @@
 ---
 type: hub
 category: hubs
-title: "四大发明与技术 · Invention and Technology — A Reading Path"
+title: "四大发明与技术 · Invention and Technology: A Reading Path"
 pinyin: "fāmíng yǔ jìshù"
 desc: "Chinese technological innovation was not a story of lone inventors. It was systematic accumulation within state institutions and artisan guilds over centuries, carried by people whose names the record does not preserve."
 status: complete
@@ -12,7 +12,7 @@ stages:
   - name: "数与算"
     name_en: "Number and Calculation"
     color: teal
-    note: "Start here — the instruments that let China count, schedule, and govern at scale."
+    note: "Start here: the instruments that let China count, schedule, and govern at scale."
     members:
       - slug: science/topic_suanpan
         label_cn: "算盘 · The Abacus"
@@ -25,68 +25,68 @@ stages:
         label_en: "Time as a state technology"
         type: Topic
         mins: 8
-        note: "The Chinese calendar coordinated agriculture, ritual, and political legitimacy simultaneously. Its accuracy was a matter of imperial prestige — and a major driver of observational astronomy that had no equivalent in the medieval West."
+        note: "The Chinese calendar coordinated agriculture, ritual, and political legitimacy simultaneously. Its accuracy was a matter of imperial prestige, and a major driver of observational astronomy that had no equivalent in the medieval West."
   - name: "四大发明"
     name_en: "Four Great Inventions"
     color: ochre
-    note: "The anchor — the technologies China gave the world, and the paradox of why their most transformative effects happened elsewhere."
+    note: "The anchor: the technologies China gave the world, and the paradox of why their most transformative effects happened elsewhere."
     members:
       - slug: science/topic_sidafaming
         label_cn: "四大发明 · Four Great Inventions"
         label_en: "Paper, printing, gunpowder, compass"
         type: Topic
         mins: 12
-        note: "Read this entry for the overview argument: each of the four inventions was refined over generations within specific institutional contexts, then transferred outward. The Needham Question — why did the Scientific Revolution happen in Europe and not China — is embedded in the history of all four."
+        note: "Read this entry for the overview argument: each of the four inventions was refined over generations within specific institutional contexts, then transferred outward. The Needham Question (why did the Scientific Revolution happen in Europe and not China) is embedded in the history of all four."
   - name: "材料"
     name_en: "Materials"
     color: sienna
-    note: "The materials that defined Chinese craft — silk as biology and economics; metal and wood as the raw matter of civilization."
+    note: "The materials that defined Chinese craft: silk as biology and economics; metal and wood as the raw matter of civilization."
     members:
       - slug: science/topic_sichou
         label_cn: "丝绸 · Silk"
         label_en: "Biology turned into trade"
         type: Topic
         mins: 9
-        note: "Silk production was a tightly held state secret for centuries. The silkworm's full life cycle, the reeling of thread from a cocoon spun at exactly the right moment, the loom patterns that produced brocades no other culture could replicate — these were technologies as consequential as any of the four great inventions."
+        note: "Silk production was a tightly held state secret for centuries. The silkworm's full life cycle, the reeling of thread from a cocoon spun at exactly the right moment, the loom patterns that produced brocades no other culture could replicate: these were technologies as consequential as any of the four great inventions."
       - slug: characters/jin1_金
         label_cn: "金 · Metal"
         label_en: "The material of authority"
         type: Vocab
         mins: 5
-        note: "金 is bronze before it is gold — the character's history runs from Shang ritual vessels through coinage to the modern periodic table. Read it for what metals meant politically and cosmologically before reading them as industrial inputs."
+        note: "金 is bronze before it is gold: the character's history runs from Shang ritual vessels through coinage to the modern periodic table. Read it for what metals meant politically and cosmologically before reading them as industrial inputs."
       - slug: characters/mu4_木
         label_cn: "木 · Wood"
         label_en: "The material of construction"
         type: Vocab
         mins: 5
-        note: "Chinese architecture is timber architecture. The mortise-and-tenon joinery of Song dynasty buildings, the movable type made from carved wood, the ships that carried silk and porcelain — wood is the material substrate of most of the technologies on this path."
+        note: "Chinese architecture is timber architecture. The mortise-and-tenon joinery of Song dynasty buildings, the movable type made from carved wood, the ships that carried silk and porcelain: wood is the material substrate of most of the technologies on this path."
   - name: "宇宙"
     name_en: "Cosmos and Classification"
     color: violet
-    note: "The conceptual framework beneath Chinese science — how the cosmos was mapped, categorized, and used as a system of explanation."
+    note: "The conceptual framework beneath Chinese science: how the cosmos was mapped, categorized, and used as a system of explanation."
     members:
       - slug: science/topic_xingxiu
         label_cn: "星宿 · Celestial Lodges"
         label_en: "The Chinese sky mapped"
         type: Topic
         mins: 8
-        note: "Chinese astronomy divided the sky into 28 lunar lodges rather than the 12 signs of the Western zodiac. The system was built for calendrical and navigational precision, not just for divination — it is the observational engine that kept the lunisolar calendar accurate."
+        note: "Chinese astronomy divided the sky into 28 lunar lodges rather than the 12 signs of the Western zodiac. The system was built for calendrical and navigational precision, not just for divination: it is the observational engine that kept the lunisolar calendar accurate."
       - slug: philosophy/topic_yijing
         label_cn: "易经 · Book of Changes"
         label_en: "Combinatorics as cosmology"
         type: Topic
         mins: 9
-        note: "The Yijing is older than the four great inventions and underlies them. Its 64 hexagrams are a combinatorial system for mapping change — read it here not as divination but as the intellectual structure that made Chinese correlative thinking possible."
+        note: "The Yijing is older than the four great inventions and underlies them. Its 64 hexagrams are a combinatorial system for mapping change: read it here not as divination but as the intellectual structure that made Chinese correlative thinking possible."
       - slug: science/topic_wuxing
         label_cn: "五行 · Five Phases"
         label_en: "The classification system"
         type: Topic
         mins: 8
-        note: "Five Phases theory organizes all phenomena — seasons, directions, metals, organs, flavors — into a single correlative grid. It is the operating system beneath Chinese medicine, alchemy, calendar-making, and material classification. Nothing on this path makes full sense without it."
+        note: "Five Phases theory organizes all phenomena (seasons, directions, metals, organs, flavors) into a single correlative grid. It is the operating system beneath Chinese medicine, alchemy, calendar-making, and material classification. Nothing on this path makes full sense without it."
   - name: "身体"
     name_en: "The Body"
     color: red
-    note: "The application of Chinese systematic knowledge to the human body — medicine as the longest-running experimental program in Chinese science."
+    note: "The application of Chinese systematic knowledge to the human body: medicine as the longest-running experimental program in Chinese science."
     members:
       - slug: science/topic_zhongyi
         label_cn: "中医 · Traditional Chinese Medicine"
@@ -99,7 +99,7 @@ stages:
         label_en: "The pharmacopoeia"
         type: Topic
         mins: 8
-        note: "Li Shizhen's Bencao Gangmu (1578) is the largest pre-modern pharmacological compendium in the world — 52 volumes, nearly two million characters, 1,892 medicinal substances. It is also a work of natural history, ethnography, and systematic classification whose scope has no equivalent in its era."
+        note: "Li Shizhen's Bencao Gangmu (1578) is the largest pre-modern pharmacological compendium in the world: 52 volumes, nearly two million characters, 1,892 medicinal substances. It is also a work of natural history, ethnography, and systematic classification whose scope has no equivalent in its era."
       - slug: science/topic_zhenjiu
         label_cn: "针灸 · Acupuncture and Moxibustion"
         label_en: "Mapping the body's circuits"

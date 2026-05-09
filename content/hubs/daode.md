@@ -1,9 +1,9 @@
 ---
 type: hub
 category: hubs
-title: "道德与伦理 · Morality and Ethics — A Reading Path"
+title: "道德与伦理 · Morality and Ethics: A Reading Path"
 pinyin: "dàodé yǔ lúnlǐ"
-desc: "Chinese ethics is not a checklist of personal virtues. It is a description of how one should relate to specific others — and what happens when those relationships are tested."
+desc: "Chinese ethics is not a checklist of personal virtues. It is a description of how one should relate to specific others, and what happens when those relationships are tested."
 status: complete
 content_review: 'pending'
 updated: "2026-04-22"
@@ -12,7 +12,7 @@ stages:
   - name: "五常"
     name_en: "The Five Constants"
     color: teal
-    note: "The five virtues are not a personal inventory. They describe how a person ought to relate to others — and in what spirit."
+    note: "The five virtues are not a personal inventory. They describe how a person ought to relate to others, and in what spirit."
     members:
       - slug: vocab/ren2_仁
         label_cn: "仁 · Humaneness"
@@ -25,7 +25,7 @@ stages:
         label_en: "Doing what is right"
         type: Vocab
         mins: 6
-        note: "义 is the outward expression of 仁 — not the feeling of care but the action that care requires. A person who has 仁 but cannot act on it has not completed the circuit."
+        note: "义 is the outward expression of 仁: not the feeling of care but the action that care requires. A person who has 仁 but cannot act on it has not completed the circuit."
       - slug: characters/li3_礼
         label_cn: "礼 · Ritual Propriety"
         label_en: "The form relationships take"
@@ -37,13 +37,13 @@ stages:
         label_en: "Moral discernment"
         type: Vocab
         mins: 6
-        note: "智 is not general intelligence. It is specifically the capacity to know what the right action is in a given situation — to read a relationship accurately and respond correctly."
+        note: "智 is not general intelligence. It is specifically the capacity to know what the right action is in a given situation: to read a relationship accurately and respond correctly."
       - slug: characters/xin4_信
         label_cn: "信 · Trustworthiness"
         label_en: "The reliability that makes cooperation possible"
         type: Vocab
         mins: 6
-        note: "信 is what makes the other four sustainable across time. You can be humane, righteous, proper, and wise — but if you are not reliable, no one will stake a relationship on you."
+        note: "信 is what makes the other four sustainable across time. You can be humane, righteous, proper, and wise, but if you are not reliable, no one will stake a relationship on you."
   - name: "人情"
     name_en: "Social Bonds"
     color: ochre
@@ -60,7 +60,7 @@ stages:
         label_en: "Social honor as currency"
         type: Vocab
         mins: 9
-        note: "面子 is the mechanism by which 礼 is enforced and 义 is rewarded in public. The management of face is not vanity — it is how relationship maintenance becomes visible and accountable."
+        note: "面子 is the mechanism by which 礼 is enforced and 义 is rewarded in public. The management of face is not vanity: it is how relationship maintenance becomes visible and accountable."
       - slug: vocab/keqi_客气
         label_cn: "客气 · Polite Modesty"
         label_en: "The grammar of hospitality"
@@ -83,7 +83,7 @@ stages:
         label_en: "The hand you are dealt"
         type: Vocab
         mins: 7
-        note: "命运 names what is given rather than chosen. Confucian ethics does not dissolve fate — it asks what a person of virtue does with what they have been given."
+        note: "命运 names what is given rather than chosen. Confucian ethics does not dissolve fate: it asks what a person of virtue does with what they have been given."
       - slug: vocab/yuanfen_缘分
         label_cn: "缘分 · Predestined Connection"
         label_en: "The ties that were always going to form"
@@ -99,20 +99,20 @@ stages:
   - name: "日常伦理"
     name_en: "Ethics in Practice"
     color: violet
-    note: "Where the Five Constants meet actual life — in the ritual of a meal invitation, the weight of a gift, the address that establishes rank."
+    note: "Where the Five Constants meet actual life: in the ritual of a meal invitation, the weight of a gift, the address that establishes rank."
     members:
       - slug: daily/topic_songli
         label_cn: "送礼 · Gift-Giving"
         label_en: "义 and 信 made tangible"
         type: Topic
         mins: 7
-        note: "Gift-giving in China is not generosity — it is the ritual maintenance of relationship. The wrong gift, at the wrong time, given in the wrong way, can damage what the right gift would have strengthened. 礼 lǐ is both the gift and the propriety that governs it."
+        note: "Gift-giving in China is not generosity: it is the ritual maintenance of relationship. The wrong gift, at the wrong time, given in the wrong way, can damage what the right gift would have strengthened. 礼 lǐ is both the gift and the propriety that governs it."
       - slug: daily/topic_qingke
         label_cn: "请客 · Hosting"
         label_en: "Face, hierarchy, and the banquet table"
         type: Topic
         mins: 7
-        note: "Who pays, who sits where, who orders, who pours — the banquet table is the most concentrated site of 礼, 面子, and 关系 in Chinese daily life. None of it is random."
+        note: "Who pays, who sits where, who orders, who pours: the banquet table is the most concentrated site of 礼, 面子, and 关系 in Chinese daily life. None of it is random."
       - slug: daily/topic_chenghu
         label_cn: "称呼 · Forms of Address"
         label_en: "How hierarchy is spoken"
@@ -135,13 +135,13 @@ stages:
         label_en: "The word for ethics itself"
         type: Vocab
         mins: 6
-        note: "道德 is the Chinese word for morality: 道 (the Way — the correct path) + 德 (virtue — the moral power that accumulates in a person who walks it). Together they describe not a rule but a direction of travel."
+        note: "道德 is the Chinese word for morality: 道 (the Way, the correct path) + 德 (virtue, the moral power that accumulates in a person who walks it). Together they describe not a rule but a direction of travel."
       - slug: characters/xin1_心
         label_cn: "心 · Heart-Mind"
         label_en: "Where ethics lives"
         type: Vocab
         mins: 5
-        note: "Chinese thought does not separate cognition from feeling. 心 xīn is where thinking and feeling happen together — and where ethics must be rooted. A virtue that lives only in behavior and not in 心 is, for Confucius, no virtue at all."
+        note: "Chinese thought does not separate cognition from feeling. 心 xīn is where thinking and feeling happen together, and where ethics must be rooted. A virtue that lives only in behavior and not in 心 is, for Confucius, no virtue at all."
 ---
 
 <div class="shell">

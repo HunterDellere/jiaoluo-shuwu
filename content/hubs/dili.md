@@ -1,7 +1,7 @@
 ---
 type: hub
 category: hubs
-title: "地理与语言 · Geography and Language — A Reading Path"
+title: "地理与语言 · Geography and Language: A Reading Path"
 pinyin: "dìlǐ yǔ yǔyán"
 desc: "The rivers shaped the civilization; geography fractured the language; one writing system held it together."
 status: complete
@@ -12,14 +12,14 @@ stages:
   - name: "核心地理"
     name_en: "Core Geography"
     color: teal
-    note: "Start here — the two rivers and two cities that explain where Chinese civilization developed and where it is still concentrated."
+    note: "Start here: the two rivers and two cities that explain where Chinese civilization developed and where it is still concentrated."
     members:
       - slug: geography/topic_huanghe
         label_cn: "黄河 · Yellow River"
         label_en: "The birthplace of the tradition"
         type: Topic
         mins: 9
-        note: "The Yellow River basin was where oracle-bone script was written, where the Zhou kings ruled, and where Confucius and Laozi were born. The river itself is volatile and violent — prone to flooding and course changes that killed millions. Chinese civilization grew up managing it."
+        note: "The Yellow River basin was where oracle-bone script was written, where the Zhou kings ruled, and where Confucius and Laozi were born. The river itself is volatile and violent: prone to flooding and course changes that killed millions. Chinese civilization grew up managing it."
       - slug: geography/topic_changjiang
         label_cn: "长江 · Yangtze"
         label_en: "The economic backbone"
@@ -37,7 +37,7 @@ stages:
         label_en: "The treaty-port city"
         type: Topic
         mins: 9
-        note: "Shanghai was a minor fishing settlement until the Opium Wars opened it to foreign concessions. Within a century it became the most cosmopolitan city in Asia. The Shanghai that exists today — financial center, fashion capital, Wu-topolect city — is the product of that compressed transformation."
+        note: "Shanghai was a minor fishing settlement until the Opium Wars opened it to foreign concessions. Within a century it became the most cosmopolitan city in Asia. The Shanghai that exists today (financial center, fashion capital, Wu-topolect city) is the product of that compressed transformation."
   - name: "边疆"
     name_en: "The Frontiers"
     color: ochre
@@ -48,13 +48,13 @@ stages:
         label_en: "The new frontier"
         type: Topic
         mins: 10
-        note: "Xinjiang — 'new territory' — was absorbed into the Qing empire in the eighteenth century and is home to the Uyghur people, Turkic-speaking Muslims whose culture, language, and religion are distinct from Han Chinese norms. The region sits at the center of the most internationally scrutinized human-rights situation in contemporary China."
+        note: "Xinjiang ('new territory') was absorbed into the Qing empire in the eighteenth century and is home to the Uyghur people, Turkic-speaking Muslims whose culture, language, and religion are distinct from Han Chinese norms. The region sits at the center of the most internationally scrutinized human-rights situation in contemporary China."
       - slug: geography/topic_xizang
         label_cn: "西藏 · Tibet"
         label_en: "The high plateau"
         type: Topic
         mins: 10
-        note: "Tibet sits on a plateau averaging 4,500 meters above sea level — a geographic barrier that for centuries defined a cultural world entirely separate from the Chinese one. The question of when and how that separation ended is one of the most contested in modern Chinese history."
+        note: "Tibet sits on a plateau averaging 4,500 meters above sea level: a geographic barrier that for centuries defined a cultural world entirely separate from the Chinese one. The question of when and how that separation ended is one of the most contested in modern Chinese history."
   - name: "海峡"
     name_en: "Across the Strait"
     color: sienna
@@ -71,7 +71,7 @@ stages:
         label_en: "The Cantonese city"
         type: Topic
         mins: 9
-        note: "Hong Kong operated as a British colony from 1842 to 1997 and developed a political and legal culture distinct from the mainland's. Its language is Cantonese, not Mandarin. Its written standard was traditional characters. The handover formula — 'one country, two systems' — was promised for fifty years; the pressures on that formula have been visible since 2019."
+        note: "Hong Kong operated as a British colony from 1842 to 1997 and developed a political and legal culture distinct from the mainland's. Its language is Cantonese, not Mandarin. Its written standard was traditional characters. The handover formula ('one country, two systems') was promised for fifty years; the pressures on that formula have been visible since 2019."
   - name: "语言地图"
     name_en: "The Language Map"
     color: violet
@@ -82,7 +82,7 @@ stages:
         label_en: "One script, many tongues"
         type: Topic
         mins: 12
-        note: "Cantonese and Mandarin are as far apart as Portuguese and Romanian. A Mandarin speaker in Guangzhou hears nothing intelligible. A Mandarin speaker in Shanghai hears nothing intelligible. What unites them is the writing system — characters represent meaning, not sound, so the same text can be read aloud in any topolect. This is the most important single thing to understand about Chinese linguistic geography."
+        note: "Cantonese and Mandarin are as far apart as Portuguese and Romanian. A Mandarin speaker in Guangzhou hears nothing intelligible. A Mandarin speaker in Shanghai hears nothing intelligible. What unites them is the writing system: characters represent meaning, not sound, so the same text can be read aloud in any topolect. This is the most important single thing to understand about Chinese linguistic geography."
       - slug: vocab/putonghua_普通话
         label_cn: "普通话 · Pǔtōnghuà"
         label_en: "The standard language"
@@ -99,7 +99,7 @@ stages:
         label_en: "Where the flavors come from"
         type: Topic
         mins: 8
-        note: "The eight major regional cuisines are not arbitrary — they follow the geography. Sichuan heat comes from a basin with humid air and little sunlight. Cantonese freshness comes from a subtropical coast with year-round seafood access. Northern wheat-based cooking comes from the Yellow River basin, where rice won't grow."
+        note: "The eight major regional cuisines are not arbitrary: they follow the geography. Sichuan heat comes from a basin with humid air and little sunlight. Cantonese freshness comes from a subtropical coast with year-round seafood access. Northern wheat-based cooking comes from the Yellow River basin, where rice won't grow."
       - slug: culinary/topic_caixi
         label_cn: "八大菜系 · The Eight Cuisines"
         label_en: "The full flavor map"
