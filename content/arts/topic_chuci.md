@@ -173,15 +173,15 @@ pinyin: 'chǔcí'
       </div>
       <div class="card c-violet">
         <div class="card-head"><span class="tag-n">n</span> 粽子 zòngzi</div>
-        <p>Sticky rice dumplings wrapped in bamboo or reed leaves, traditionally triangular or cylindrical. Made with various fillings — red bean paste, salted egg yolk, cured pork. The characteristic food of the Dragon Boat Festival, eaten to commemorate Qu Yuan.</p>
+        <p>Sticky rice dumplings wrapped in bamboo or reed leaves, traditionally triangular or cylindrical. Made with various fillings: red bean paste, salted egg yolk, cured pork. The characteristic food of the Dragon Boat Festival, eaten to commemorate Qu Yuan.</p>
       </div>
       <div class="card c-ochre">
         <div class="card-head"><span class="tag-n">n</span> 九歌 jiǔ gē</div>
-        <p>Nine Songs — the series of eleven shamanic hymns attributed to Qu Yuan, addressing the gods of the Chu pantheon. Among the most directly religious texts in the 楚辞, they preserve the ritual language of Chu shamanism within a literary frame.</p>
+        <p>Nine Songs: the series of eleven shamanic hymns attributed to Qu Yuan, addressing the gods of the Chu pantheon. Among the most directly religious texts in the 楚辞, they preserve the ritual language of Chu shamanism within a literary frame.</p>
       </div>
       <div class="card c-red">
         <div class="card-head"><span class="tag-n">n</span> 香草美人 xiāngcǎo měirén</div>
-        <p>Fragrant herbs and beautiful women — the conventional shorthand for the allegorical system of the 楚辞, in which fragrant plants represent virtuous ministers and women represent the king who should (but does not) receive them. The phrase became a standard term in Chinese literary criticism for political allegory dressed in romantic imagery.</p>
+        <p>Fragrant herbs and beautiful women: the conventional shorthand for the allegorical system of the 楚辞, in which fragrant plants represent virtuous ministers and women represent the king who should (but does not) receive them. The phrase became a standard term in Chinese literary criticism for political allegory dressed in romantic imagery.</p>
       </div>
     </div>
 

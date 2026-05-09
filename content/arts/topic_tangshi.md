@@ -182,11 +182,11 @@ pinyin: 'tángshī'
         </div>
         <div class="card c-sienna">
           <div class="card-head"><span class="tag-n">n</span> 诗仙 shīxiān</div>
-          <p>Immortal Poet — honorific for Li Bai, whose verse seemed to transcend ordinary human craft.</p>
+          <p>Immortal Poet: honorific for Li Bai, whose verse seemed to transcend ordinary human craft.</p>
         </div>
         <div class="card c-sienna">
           <div class="card-head"><span class="tag-n">n</span> 诗圣 shīshèng</div>
-          <p>Sage Poet — honorific for Du Fu, whose verse embodied moral gravity and historical witness.</p>
+          <p>Sage Poet: honorific for Du Fu, whose verse embodied moral gravity and historical witness.</p>
         </div>
       </div>
 

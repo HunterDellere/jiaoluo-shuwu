@@ -128,15 +128,15 @@ pinyin: 'shūfǎ'
         </div>
         <div class="card c-teal">
           <div class="card-head"><span class="tag-n">n</span> 飞白 fēibái</div>
-          <p>Flying white — a dry-brush effect where the hairs of the brush separate, leaving streaks of paper showing through the ink. A controlled accident, difficult to achieve and highly prized.</p>
+          <p>Flying white: a dry-brush effect where the hairs of the brush separate, leaving streaks of paper showing through the ink. A controlled accident, difficult to achieve and highly prized.</p>
         </div>
         <div class="card c-teal">
           <div class="card-head"><span class="tag-n">n</span> 气韵 qìyùn</div>
-          <p>Qi rhythm — the quality of vitality and flow in a piece of calligraphy. A work with poor qìyùn feels dead; one with strong qìyùn seems to move.</p>
+          <p>Qi rhythm: the quality of vitality and flow in a piece of calligraphy. A work with poor qìyùn feels dead; one with strong qìyùn seems to move.</p>
         </div>
         <div class="card c-sienna">
           <div class="card-head"><span class="tag-n">n</span> 书圣 shūshèng</div>
-          <p>Sage of Calligraphy — the title given to Wang Xizhi.</p>
+          <p>Sage of Calligraphy: the title given to Wang Xizhi.</p>
         </div>
       </div>
 

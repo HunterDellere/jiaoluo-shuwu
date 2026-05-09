@@ -198,15 +198,15 @@ pinyin: 'sòngcí'
       </div>
       <div class="card c-violet">
         <div class="card-head"><span class="tag-n">n</span> 上片 / 下片 shàng piàn / xià piàn</div>
-        <p>Upper stanza / lower stanza — the two-part structure of most 词 tune patterns. The upper stanza typically establishes a scene or situation; the lower stanza develops a turn, emotional shift, or philosophical reflection. Analogous to the octave/sestet structure of the Italian sonnet.</p>
+        <p>Upper stanza / lower stanza: the two-part structure of most 词 tune patterns. The upper stanza typically establishes a scene or situation; the lower stanza develops a turn, emotional shift, or philosophical reflection. Analogous to the octave/sestet structure of the Italian sonnet.</p>
       </div>
       <div class="card c-ochre">
         <div class="card-head"><span class="tag-n">n</span> 小令 xiǎolìng</div>
-        <p>Short lyric form — tune patterns of 58 characters or fewer. The most concentrated 词 form, requiring the greatest compression. Contrasted with 长调 chángdiào or 慢词 màncí, the extended long forms of 91 characters or more.</p>
+        <p>Short lyric form: tune patterns of 58 characters or fewer. The most concentrated 词 form, requiring the greatest compression. Contrasted with 长调 chángdiào or 慢词 màncí, the extended long forms of 91 characters or more.</p>
       </div>
       <div class="card c-red">
         <div class="card-head"><span class="tag-n">n</span> 易安体 yì'ān tǐ</div>
-        <p>The "Yi-an style" — the distinctive lyric mode of Li Qingzhao (whose courtesy name was Yi-an 易安). Characterized by colloquial precision, physical specificity, and a technically innovative use of reduplicated binomes to convey emotional states. One of the named styles in classical Chinese poetic criticism.</p>
+        <p>The "Yi-an style": the distinctive lyric mode of Li Qingzhao (whose courtesy name was Yi-an 易安). Characterized by colloquial precision, physical specificity, and a technically innovative use of reduplicated binomes to convey emotional states. One of the named styles in classical Chinese poetic criticism.</p>
       </div>
     </div>
 

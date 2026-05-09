@@ -200,15 +200,15 @@ pinyin: 'lǔxùn'
       </div>
       <div class="card c-sienna">
         <div class="card-head"><span class="tag-n">n</span> 白话文 báihuàwén</div>
-        <p>Vernacular Chinese writing — the literary language based on spoken Mandarin Chinese, as opposed to the classical written language 文言文 wényánwén. Lu Xun's "A Madman's Diary" is the first major modern Chinese short story written in 白话文, and it established the vernacular as the appropriate medium for serious modern Chinese literature.</p>
+        <p>Vernacular Chinese writing: the literary language based on spoken Mandarin Chinese, as opposed to the classical written language 文言文 wényánwén. Lu Xun's "A Madman's Diary" is the first major modern Chinese short story written in 白话文, and it established the vernacular as the appropriate medium for serious modern Chinese literature.</p>
       </div>
       <div class="card c-violet">
         <div class="card-head"><span class="tag-n">n</span> 五四运动 wǔsì yùndòng</div>
-        <p>May Fourth Movement — the intellectual and cultural movement sparked by student protests on May 4, 1919, against the terms of the Treaty of Versailles. It catalyzed demands for science and democracy, rejection of Confucian tradition, and the development of a new vernacular literature. Lu Xun is the movement's literary exemplar.</p>
+        <p>May Fourth Movement: the intellectual and cultural movement sparked by student protests on May 4, 1919, against the terms of the Treaty of Versailles. It catalyzed demands for science and democracy, rejection of Confucian tradition, and the development of a new vernacular literature. Lu Xun is the movement's literary exemplar.</p>
       </div>
       <div class="card c-red">
         <div class="card-head"><span class="tag-n">n</span> 礼教吃人 lǐjiào chī rén</div>
-        <p>Ritual morality eats people — the compressed formula, derived from "A Madman's Diary," for Lu Xun central argument that the Confucian system of ritual and ethical teaching functions as a mechanism of social domination and destruction rather than genuine moral cultivation. One of the most cited phrases in twentieth-century Chinese intellectual history.</p>
+        <p>Ritual morality eats people: the compressed formula, derived from "A Madman's Diary," for Lu Xun central argument that the Confucian system of ritual and ethical teaching functions as a mechanism of social domination and destruction rather than genuine moral cultivation. One of the most cited phrases in twentieth-century Chinese intellectual history.</p>
       </div>
     </div>
 
