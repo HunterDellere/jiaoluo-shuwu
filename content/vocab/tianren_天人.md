@@ -72,7 +72,7 @@ content_review: 'pending'
       <span class="topic-hero-eyebrow">Vocabulary · 词汇 cíhuì</span>
       <h1 class="topic-hero-title">天人合一</h1>
       <span class="topic-hero-title-py">tiān rén hé yī</span>
-      <p class="topic-hero-desc">Heaven and humanity as one — the claim that the cosmic order and human life are not separate domains but a single continuous whole, and that alignment between them is both possible and necessary.</p>
+      <p class="topic-hero-desc">Heaven and humanity as one , the claim that the cosmic order and human life are not separate domains but a single continuous whole, and that alignment between them is both possible and necessary.</p>
     </header>
 
     <!-- ── ETYMOLOGY & STRUCTURE ── -->
@@ -103,9 +103,9 @@ content_review: 'pending'
 
     <div class="scholar" data-glyph="命">
       <div class="scholar-label">文化洞见 wénhuà dòngjiàn · Cultural Note</div>
-      <p>Confucius left one of the most economical statements of Heaven's nature in the <em>Analects</em> (17.19): <strong>天何言哉？四时行焉，百物生焉</strong> — "What does Heaven say? The four seasons turn; the ten thousand things are born." Heaven communicates through pattern, not speech. The sage does not receive commandments from Heaven; he reads the pattern in the seasons, in the growth of things, in the moral order that runs through both cosmos and human life, and aligns his conduct with it.</p>
+      <p>Confucius left one of the most economical statements of Heaven's nature in the <em>Analects</em> (17.19): <strong>天何言哉？四时行焉，百物生焉</strong> , "What does Heaven say? The four seasons turn; the ten thousand things are born." Heaven communicates through pattern, not speech. The sage does not receive commandments from Heaven; he reads the pattern in the seasons, in the growth of things, in the moral order that runs through both cosmos and human life, and aligns his conduct with it.</p>
       <p>This alignment is the political program of the Zhou 天命 (tiānmìng, Mandate of Heaven). Legitimate rule flows from Heaven's sanction, expressed through the welfare and allegiance of the people. When a dynasty grows corrupt, floods come, harvests fail, and popular rebellion follows: these are Heaven withdrawing the mandate. The Zhou used this framework to justify overthrowing the Shang; every subsequent dynasty used it to claim legitimacy and every subsequent rebel used it to justify revolt. The political and cosmic orders were understood as one continuous system, and misalignment at the human level produced visible consequences in the natural one.</p>
-      <p>The ritual structures of Confucian governance (礼 lǐ, ritual propriety) were calibrated to this cosmological alignment. The emperor's seasonal sacrifices at the Temple of Heaven were not symbolic gestures but functional maintenance of the cosmic-human accord. Getting the ritual wrong — wrong timing, wrong offerings, wrong performers — was a genuine disruption of the 天人合一 order, and its consequences were expected to be visible.</p>
+      <p>The ritual structures of Confucian governance (礼 lǐ, ritual propriety) were calibrated to this cosmological alignment. The emperor's seasonal sacrifices at the Temple of Heaven were not symbolic gestures but functional maintenance of the cosmic-human accord. Getting the ritual wrong , wrong timing, wrong offerings, wrong performers , was a genuine disruption of the 天人合一 order, and its consequences were expected to be visible.</p>
     </div>
 
     <div class="cards">
@@ -118,7 +118,7 @@ content_review: 'pending'
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          天 (Heaven) + 命 (mandate; decree; fate; life). In classical political thought, the mandate that Heaven bestows on a ruler: the cosmic sanction for legitimate governance. When that sanction is withdrawn through moral failure, natural disasters and popular rebellion follow. In more personal usage (现代 modern), 天命 can refer to one's fate or calling — the role Heaven has assigned one to play.
+          天 (Heaven) + 命 (mandate; decree; fate; life). In classical political thought, the mandate that Heaven bestows on a ruler: the cosmic sanction for legitimate governance. When that sanction is withdrawn through moral failure, natural disasters and popular rebellion follow. In more personal usage (现代 modern), 天命 can refer to one's fate or calling , the role Heaven has assigned one to play.
         </div>
         <div class="examples">
           <div class="example">
@@ -133,8 +133,8 @@ content_review: 'pending'
           </div>
           <div class="example">
             <div class="ex-cn">失去民心，就是失去天命——这是中国政治思想的核心逻辑。</div>
-            <div class="ex-py">Shīqù mínxīn, jiùshì shīqù tiānmìng — zhè shì Zhōngguó zhèngzhì sīxiǎng de héxīn luójí.</div>
-            <div class="ex-en">To lose the hearts of the people is to lose the Mandate of Heaven — this is the central logic of Chinese political thought.</div>
+            <div class="ex-py">Shīqù mínxīn, jiùshì shīqù tiānmìng , zhè shì Zhōngguó zhèngzhì sīxiǎng de héxīn luójí.</div>
+            <div class="ex-en">To lose the hearts of the people is to lose the Mandate of Heaven , this is the central logic of Chinese political thought.</div>
           </div>
         </div>
       </div>
@@ -147,7 +147,7 @@ content_review: 'pending'
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          The Confucian concept of ritual propriety — the codified norms governing every domain of social life, from court ceremony to family relations to personal conduct. 礼 is the human expression of the pattern that runs through Heaven's order: to perform 礼 correctly is to enact 天人合一 in social form. The character combines 示 shì (to show, to indicate divine signs) with a vessel offering, suggesting the original sense of ritual sacrifice.
+          The Confucian concept of ritual propriety , the codified norms governing every domain of social life, from court ceremony to family relations to personal conduct. 礼 is the human expression of the pattern that runs through Heaven's order: to perform 礼 correctly is to enact 天人合一 in social form. The character combines 示 shì (to show, to indicate divine signs) with a vessel offering, suggesting the original sense of ritual sacrifice.
         </div>
         <div class="examples">
           <div class="example">
@@ -157,8 +157,8 @@ content_review: 'pending'
           </div>
           <div class="example">
             <div class="ex-cn">克己复礼为仁——约束自我、回归礼仪，就是仁。</div>
-            <div class="ex-py">Kèjǐ fù lǐ wéi rén — yuēshù zìwǒ, huíguī lǐyí, jiùshì rén.</div>
-            <div class="ex-en">"To master oneself and return to ritual is humaneness" (Analects 12.1) — self-restraint and the restoration of proper conduct is what benevolence consists in.</div>
+            <div class="ex-py">Kèjǐ fù lǐ wéi rén , yuēshù zìwǒ, huíguī lǐyí, jiùshì rén.</div>
+            <div class="ex-en">"To master oneself and return to ritual is humaneness" (Analects 12.1) , self-restraint and the restoration of proper conduct is what benevolence consists in.</div>
           </div>
           <div class="example">
             <div class="ex-cn">天子亲自在天坛举行祭天大礼，以示天人感应。</div>
@@ -181,8 +181,8 @@ content_review: 'pending'
 
     <div class="scholar" data-glyph="道">
       <div class="scholar-label">文化洞见 wénhuà dòngjiàn · Cultural Note</div>
-      <p>The Daoist version of 天人合一 comes from <em>Daodejing</em> chapter 25: <strong>人法地，地法天，天法道，道法自然</strong> — "Humans model earth; earth models Heaven; Heaven models the Way; the Way models itself (its own nature)." This is a hierarchical chain that ends not in a creator but in self-so-ness (自然 zìrán, lit. "self-thus," meaning the spontaneous pattern of things). Heaven is not the final term; it is itself an expression of a deeper pattern, the Way (道 dào).</p>
-      <p>Where the Confucian version of 天人合一 is achieved through moral cultivation and the performance of ritual structures, the Daoist version is achieved through 无为 (wúwéi, non-interference; acting without forcing). The ideal is not the sage-king calibrating institutions to Heaven's pattern, but the person so attuned to the natural order that the distinction between self and cosmos dissolves. Zhuangzi's figures — the cook who follows the natural joints of the ox, the craftsman who forgets himself in his work — enact this without ceremony or concept.</p>
+      <p>The Daoist version of 天人合一 comes from <em>Daodejing</em> chapter 25: <strong>人法地，地法天，天法道，道法自然</strong> , "Humans model earth; earth models Heaven; Heaven models the Way; the Way models itself (its own nature)." This is a hierarchical chain that ends not in a creator but in self-so-ness (自然 zìrán, lit. "self-thus," meaning the spontaneous pattern of things). Heaven is not the final term; it is itself an expression of a deeper pattern, the Way (道 dào).</p>
+      <p>Where the Confucian version of 天人合一 is achieved through moral cultivation and the performance of ritual structures, the Daoist version is achieved through 无为 (wúwéi, non-interference; acting without forcing). The ideal is not the sage-king calibrating institutions to Heaven's pattern, but the person so attuned to the natural order that the distinction between self and cosmos dissolves. Zhuangzi's figures , the cook who follows the natural joints of the ox, the craftsman who forgets himself in his work , enact this without ceremony or concept.</p>
       <p>The practical expression of this Daoist 天人合一 shows up in how Chinese practitioners of medicine, martial arts, and aesthetics talk about their work: the goal is to move with the natural grain of things, not against it. The doctor reads the body's internal seasons; the calligrapher's brush follows the qi of the character; the martial artist redirects the opponent's force rather than opposing it directly.</p>
     </div>
 
@@ -196,13 +196,13 @@ content_review: 'pending'
         </div>
         <div class="tags"><span class="tag tag-v">Set phrase 固定短语</span></div>
         <div class="card-def">
-          道 (the Way) + 法 (to model; to follow as a pattern) + 自然 (self-thus; spontaneous; natural). The culminating principle of <em>Daodejing</em> chapter 25. The Way does not follow anything outside itself — its law is its own spontaneous nature. For human beings, this is an instruction: align with the pattern of things as they naturally are, rather than imposing on them. 自然 here is not "nature" in the Western sense of the physical world separate from the human; it means the self-so quality of the Way itself.
+          道 (the Way) + 法 (to model; to follow as a pattern) + 自然 (self-thus; spontaneous; natural). The culminating principle of <em>Daodejing</em> chapter 25. The Way does not follow anything outside itself , its law is its own spontaneous nature. For human beings, this is an instruction: align with the pattern of things as they naturally are, rather than imposing on them. 自然 here is not "nature" in the Western sense of the physical world separate from the human; it means the self-so quality of the Way itself.
         </div>
         <div class="examples">
           <div class="example">
             <div class="ex-cn">老子说"道法自然"，意思是人也应顺应自然，不强求。</div>
             <div class="ex-py">Lǎozǐ shuō "dào fǎ zìrán," yìsi shì rén yě yīng shùnyìng zìrán, bù qiǎngqiú.</div>
-            <div class="ex-en">Laozi said "the Way models nature" — meaning humans too should accord with nature and not force things.</div>
+            <div class="ex-en">Laozi said "the Way models nature" , meaning humans too should accord with nature and not force things.</div>
           </div>
           <div class="example">
             <div class="ex-cn">中医认为，治病要顺势而为，遵从"道法自然"的原则。</div>
@@ -211,8 +211,8 @@ content_review: 'pending'
           </div>
           <div class="example">
             <div class="ex-cn">这位书法家说，好的书法不是技术表演，而是道法自然——手跟着笔走，笔跟着气走。</div>
-            <div class="ex-py">Zhè wèi shūfǎjiā shuō, hǎo de shūfǎ bú shì jìshù biǎoyǎn, ér shì dào fǎ zìrán — shǒu gēnzhe bǐ zǒu, bǐ gēnzhe qì zǒu.</div>
-            <div class="ex-en">This calligrapher said good calligraphy is not technical performance but the Way modeling nature — hand follows brush, brush follows qi.</div>
+            <div class="ex-py">Zhè wèi shūfǎjiā shuō, hǎo de shūfǎ bú shì jìshù biǎoyǎn, ér shì dào fǎ zìrán , shǒu gēnzhe bǐ zǒu, bǐ gēnzhe qì zǒu.</div>
+            <div class="ex-en">This calligrapher said good calligraphy is not technical performance but the Way modeling nature , hand follows brush, brush follows qi.</div>
           </div>
         </div>
       </div>
@@ -225,7 +225,7 @@ content_review: 'pending'
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          无 (without; not having) + 为 (to act; to do; to impose). The Daoist principle of acting in alignment with the natural pattern rather than against it. Misread as passivity, 无为 is better understood as acting without forcing or imposing — the way water finds the lowest point without effort, or the way seasons change without deliberation. In governance, it means ruling without excessive interference; in practice, it means following the grain of things.
+          无 (without; not having) + 为 (to act; to do; to impose). The Daoist principle of acting in alignment with the natural pattern rather than against it. Misread as passivity, 无为 is better understood as acting without forcing or imposing , the way water finds the lowest point without effort, or the way seasons change without deliberation. In governance, it means ruling without excessive interference; in practice, it means following the grain of things.
         </div>
         <div class="examples">
           <div class="example">
@@ -235,8 +235,8 @@ content_review: 'pending'
           </div>
           <div class="example">
             <div class="ex-cn">他学太极多年，才慢慢理解了"无为"——不是不动，而是不强求。</div>
-            <div class="ex-py">Tā xué tàijí duō nián, cái màn man lǐjiě le "wúwéi" — bú shì bù dòng, ér shì bù qiǎngqiú.</div>
-            <div class="ex-en">After years of practicing taiji, he slowly understood "non-action" — not stillness, but not forcing.</div>
+            <div class="ex-py">Tā xué tàijí duō nián, cái màn man lǐjiě le "wúwéi" , bú shì bù dòng, ér shì bù qiǎngqiú.</div>
+            <div class="ex-en">After years of practicing taiji, he slowly understood "non-action" , not stillness, but not forcing.</div>
           </div>
           <div class="example">
             <div class="ex-cn">庄子笔下那位庖丁解牛，正是无为精神的体现：顺着骨骼的自然结构，刀刃从不受阻。</div>
@@ -259,8 +259,8 @@ content_review: 'pending'
 
     <div class="scholar" data-glyph="乾">
       <div class="scholar-label">学术洞见 xuéshù dòngjiàn · Scholar Note</div>
-      <p>Zhang Zai (张载 Zhāng Zài, 1020–1077) was one of the Northern Song Neo-Confucian philosophers who systematized the classical inheritance. He wrote the 西铭 (Western Inscription) — so named because he inscribed it on the western wall of his study — which opens: <strong>乾称父，坤称母，予兹藐焉，乃混然中处</strong> — "Heaven is my father, Earth is my mother; I, tiny and insignificant, dwell in their midst." The cosmos as family: Heaven and Earth as parents, all people as kin, all things as companions.</p>
-      <p>From this opening Zhang Zai derived his most celebrated phrase: <strong>民胞物与</strong> (mín bāo wù yǔ) — "all people are my kin; all things are my companions." This is 天人合一 as an ethical program: recognizing the unity of Heaven and humanity is not merely a cosmological observation. It is a demand. If Heaven is my father, then every person alive is my sibling, and indifference to their suffering is a breach of the family bond that constitutes the cosmos.</p>
+      <p>Zhang Zai (张载 Zhāng Zài, 1020–1077) was one of the Northern Song Neo-Confucian philosophers who systematized the classical inheritance. He wrote the 西铭 (Western Inscription) , so named because he inscribed it on the western wall of his study , which opens: <strong>乾称父，坤称母，予兹藐焉，乃混然中处</strong> , "Heaven is my father, Earth is my mother; I, tiny and insignificant, dwell in their midst." The cosmos as family: Heaven and Earth as parents, all people as kin, all things as companions.</p>
+      <p>From this opening Zhang Zai derived his most celebrated phrase: <strong>民胞物与</strong> (mín bāo wù yǔ) , "all people are my kin; all things are my companions." This is 天人合一 as an ethical program: recognizing the unity of Heaven and humanity is not merely a cosmological observation. It is a demand. If Heaven is my father, then every person alive is my sibling, and indifference to their suffering is a breach of the family bond that constitutes the cosmos.</p>
       <p>Zhang Zai was also the first to use 天人合一 as an explicit four-character compound, giving the classical idea its lasting slogan. His formulation became the standard reference point for all subsequent Chinese discussions of the Heaven-humanity relationship. The Cheng brothers (程颢 and 程颐, his nephews by study) and Zhu Xi (朱熹, 1130–1200) built their Neo-Confucian synthesis partly on this foundation.</p>
     </div>
 
@@ -289,8 +289,8 @@ content_review: 'pending'
           </div>
           <div class="example">
             <div class="ex-cn">西铭的核心思想——乾称父，坤称母，民胞物与——是对天人合一最诗意的表达。</div>
-            <div class="ex-py">Xīmíng de héxīn sīxiǎng — qián chēng fù, kūn chēng mǔ, mín bāo wù yǔ — shì duì tiān rén hé yī zuì shīyì de biǎodá.</div>
-            <div class="ex-en">The core thought of the Western Inscription — Heaven as father, Earth as mother, all people kin and all things companions — is the most poetic expression of 天人合一.</div>
+            <div class="ex-py">Xīmíng de héxīn sīxiǎng , qián chēng fù, kūn chēng mǔ, mín bāo wù yǔ , shì duì tiān rén hé yī zuì shīyì de biǎodá.</div>
+            <div class="ex-en">The core thought of the Western Inscription , Heaven as father, Earth as mother, all people kin and all things companions , is the most poetic expression of 天人合一.</div>
           </div>
         </div>
         <div class="note">
@@ -342,10 +342,10 @@ content_review: 'pending'
     <div class="scholar" data-glyph="合">
       <div class="scholar-label">现代应用 xiàndài yìngyòng · Modern Applications</div>
       <p>天人合一 is not confined to philosophical texts. The phrase appears across contemporary Chinese life in ways that range from the technical to the political.</p>
-      <p>Traditional Chinese medicine (中医 Zhōngyī) is probably its most systematic living expression. The body is understood as a microcosm of the Heaven-Earth rhythms: the twelve main meridians correspond to the twelve months; the five organ systems (五脏 wǔzàng) map onto the five phases (五行 wǔxíng) — wood, fire, earth, metal, water — which in turn govern seasons, directions, tastes, and emotions. Seasonal eating follows Heaven's rhythm: warming foods in winter, cooling foods in summer, root vegetables in autumn when energy sinks. Acupuncture point selection tracks the circadian flow of qi through the meridians over the course of the day. The doctor is not diagnosing the body in isolation but reading where a person's internal rhythms have fallen out of accord with the larger pattern.</p>
-      <p>Geomancy (风水 fēngshuǐ) applies the same logic to built space: siting a building, orienting a grave, or arranging furniture to align with the flow of cosmic qi through landscape. The classical city of Beijing was designed on a north-south axis facing the celestial pole, with the Forbidden City as the earthly counterpart of the Heavenly residence — 天人合一 in urban plan.</p>
+      <p>Traditional Chinese medicine (中医 Zhōngyī) is probably its most systematic living expression. The body is understood as a microcosm of the Heaven-Earth rhythms: the twelve main meridians correspond to the twelve months; the five organ systems (五脏 wǔzàng) map onto the five phases (五行 wǔxíng) , wood, fire, earth, metal, water , which in turn govern seasons, directions, tastes, and emotions. Seasonal eating follows Heaven's rhythm: warming foods in winter, cooling foods in summer, root vegetables in autumn when energy sinks. Acupuncture point selection tracks the circadian flow of qi through the meridians over the course of the day. The doctor is not diagnosing the body in isolation but reading where a person's internal rhythms have fallen out of accord with the larger pattern.</p>
+      <p>Geomancy (风水 fēngshuǐ) applies the same logic to built space: siting a building, orienting a grave, or arranging furniture to align with the flow of cosmic qi through landscape. The classical city of Beijing was designed on a north-south axis facing the celestial pole, with the Forbidden City as the earthly counterpart of the Heavenly residence , 天人合一 in urban plan.</p>
       <p>In 山水 (shānshuǐ) painting and classical garden design, the aesthetic goal is not accurate representation of landscape but the evocation of the Heaven-Earth pattern: empty space and solid mass in dynamic relation, the human figure dwarfed by mountains and rivers but not alien to them. The scholar's garden in Suzhou or Hangzhou is a 天人合一 argument in rockwork and water.</p>
-      <p>In contemporary political discourse the phrase carries a different register. Since at least the 2000s, 天人合一 has appeared in official Chinese government and CCP speeches as a marker of civilizational distinctiveness — the argument that China's relationship to nature is inherently more harmonious than that of the West, grounded in classical thought rather than the domination-of-nature stance of modern Western science and capitalism. The phrase does real ideological work in this context and should be read accordingly.</p>
+      <p>In contemporary political discourse the phrase carries a different register. Since at least the 2000s, 天人合一 has appeared in official Chinese government and CCP speeches as a marker of civilizational distinctiveness , the argument that China's relationship to nature is inherently more harmonious than that of the West, grounded in classical thought rather than the domination-of-nature stance of modern Western science and capitalism. The phrase does real ideological work in this context and should be read accordingly.</p>
     </div>
 
     <div class="cards">
@@ -364,7 +364,7 @@ content_review: 'pending'
           <div class="example">
             <div class="ex-cn">这栋楼的风水很好，背山面水，是传统吉地。</div>
             <div class="ex-py">Zhè dòng lóu de fēngshuǐ hěn hǎo, bèi shān miàn shuǐ, shì chuántǒng jídì.</div>
-            <div class="ex-en">The geomancy of this building is excellent — backed by mountain, facing water, a traditionally auspicious site.</div>
+            <div class="ex-en">The geomancy of this building is excellent , backed by mountain, facing water, a traditionally auspicious site.</div>
           </div>
           <div class="example">
             <div class="ex-cn">北京城的设计体现了风水思想：皇宫坐北朝南，与天地的阴阳轴线对齐。</div>
@@ -392,8 +392,8 @@ content_review: 'pending'
         <div class="examples">
           <div class="example">
             <div class="ex-cn">董仲舒的"天人感应"学说认为，政治腐败会导致自然灾害——这是上天的警告。</div>
-            <div class="ex-py">Dǒng Zhòngshū de "tiān rén gǎnyìng" xuéshuō rènwéi, zhèngzhì fǔbài huì dǎozhì zìrán zāihài — zhè shì shàngtiān de jǐnggào.</div>
-            <div class="ex-en">Dong Zhongshu's doctrine of "resonance between Heaven and humanity" held that political corruption produces natural disasters — Heaven's warning.</div>
+            <div class="ex-py">Dǒng Zhòngshū de "tiān rén gǎnyìng" xuéshuō rènwéi, zhèngzhì fǔbài huì dǎozhì zìrán zāihài , zhè shì shàngtiān de jǐnggào.</div>
+            <div class="ex-en">Dong Zhongshu's doctrine of "resonance between Heaven and humanity" held that political corruption produces natural disasters , Heaven's warning.</div>
           </div>
           <div class="example">
             <div class="ex-cn">汉代皇帝在发生地震或日食之后，通常会下诏自责，认为这是天人感应的表现。</div>
@@ -402,13 +402,13 @@ content_review: 'pending'
           </div>
           <div class="example">
             <div class="ex-cn">天人感应比天人合一更具体：合一是状态，感应是过程——天与人之间持续的对话与响应。</div>
-            <div class="ex-py">Tiān rén gǎnyìng bǐ tiān rén hé yī gèng jùtǐ: hé yī shì zhuàngtài, gǎnyìng shì guòchéng — tiān yǔ rén zhī jiān chíxù de duìhuà yǔ xiǎngyìng.</div>
-            <div class="ex-en">天人感应 is more specific than 天人合一: 合一 is a state; 感应 is a process — the ongoing dialogue and mutual response between Heaven and humanity.</div>
+            <div class="ex-py">Tiān rén gǎnyìng bǐ tiān rén hé yī gèng jùtǐ: hé yī shì zhuàngtài, gǎnyìng shì guòchéng , tiān yǔ rén zhī jiān chíxù de duìhuà yǔ xiǎngyìng.</div>
+            <div class="ex-en">天人感应 is more specific than 天人合一: 合一 is a state; 感应 is a process , the ongoing dialogue and mutual response between Heaven and humanity.</div>
           </div>
         </div>
         <div class="note">
           <span class="note-label">辨析 biànxī · 天人合一 vs. 天人感应</span>
-          <strong>天人合一</strong> describes the ideal state of cosmic-human alignment — what is possible and desirable. <strong>天人感应</strong> describes the mechanism: Heaven and humanity are in constant resonance, with Heaven actively signaling its responses to human moral conduct through natural events. 合一 is the Zhang Zai philosophical formulation; 感应 is the Dong Zhongshu political-cosmological doctrine. Both presuppose the non-separation of cosmic and human orders but use that premise in different directions.
+          <strong>天人合一</strong> describes the ideal state of cosmic-human alignment , what is possible and desirable. <strong>天人感应</strong> describes the mechanism: Heaven and humanity are in constant resonance, with Heaven actively signaling its responses to human moral conduct through natural events. 合一 is the Zhang Zai philosophical formulation; 感应 is the Dong Zhongshu political-cosmological doctrine. Both presuppose the non-separation of cosmic and human orders but use that premise in different directions.
         </div>
       </div>
 
@@ -433,7 +433,7 @@ content_review: 'pending'
         </div>
         <div class="tags"><span class="tag tag-n">Set phrase 固定短语</span></div>
         <div class="card-def">
-          格 (to investigate; to arrive at; to reach) + 物 (things) + 致 (to extend; to bring about) + 知 (knowledge). From the <em>Great Learning</em> (大学 Dàxué), one of the Four Books of Neo-Confucian curriculum. The practice of carefully investigating the principle (理 lǐ) in things — natural phenomena, human affairs, texts — as the path to extending moral knowledge and ultimately achieving 天人合一. The premise: since the same principle runs through all things and through human moral nature, deep investigation of any thing reaches the universal pattern.
+          格 (to investigate; to arrive at; to reach) + 物 (things) + 致 (to extend; to bring about) + 知 (knowledge). From the <em>Great Learning</em> (大学 Dàxué), one of the Four Books of Neo-Confucian curriculum. The practice of carefully investigating the principle (理 lǐ) in things , natural phenomena, human affairs, texts , as the path to extending moral knowledge and ultimately achieving 天人合一. The premise: since the same principle runs through all things and through human moral nature, deep investigation of any thing reaches the universal pattern.
         </div>
         <div class="examples">
           <div class="example">
@@ -478,21 +478,21 @@ content_review: 'pending'
         <span class="cy-cn">天时地利人和</span>
         <span class="cy-py">tiān shí dì lì rén hé</span>
         <span class="cy-en">"Heaven's timing, Earth's advantages, human harmony" — the three conditions for success</span>
-        <span class="cy-note">From Mencius (2A.1): the convergence of the right moment from Heaven, favorable terrain from Earth, and human solidarity. A practical expression of 天人合一 in strategic thought: success requires alignment with all three orders simultaneously. 天时不如地利，地利不如人和 — "Heaven's timing is less than Earth's advantages; Earth's advantages are less than human harmony." Mencius's ranking puts the human dimension above the cosmic and geographical, but the framework requires all three. Widely cited in business, military, and sporting contexts today.</span>
+        <span class="cy-note">From Mencius (2A.1): the convergence of the right moment from Heaven, favorable terrain from Earth, and human solidarity. A practical expression of 天人合一 in strategic thought: success requires alignment with all three orders simultaneously. 天时不如地利，地利不如人和 , "Heaven's timing is less than Earth's advantages; Earth's advantages are less than human harmony." Mencius's ranking puts the human dimension above the cosmic and geographical, but the framework requires all three. Widely cited in business, military, and sporting contexts today.</span>
       </div>
 
       <div class="cy">
         <span class="cy-cn">天人一体</span>
         <span class="cy-py">tiān rén yī tǐ</span>
         <span class="cy-en">"Heaven and humanity as one body" — the complete unity of cosmic and human orders</span>
-        <span class="cy-note">A variant formulation of 天人合一, with 体 (body; substance) replacing 合一 (united as one). 一体 emphasizes organic embodied unity — Heaven and humanity are not merely in accord but constitute a single body, a single substance. Used in classical medical texts (the human body as a microcosm of Heaven-Earth), in Neo-Confucian philosophy (Wang Yangming: the sage forms one body with Heaven, Earth, and all things), and in contemporary environmental discourse. 王阳明说，圣人与天地万物为一体，感而遂通。"Wang Yangming said: the sage forms one body with Heaven, Earth, and the ten thousand things — feeling them and thereby reaching through to them."</span>
+        <span class="cy-note">A variant formulation of 天人合一, with 体 (body; substance) replacing 合一 (united as one). 一体 emphasizes organic embodied unity , Heaven and humanity are not merely in accord but constitute a single body, a single substance. Used in classical medical texts (the human body as a microcosm of Heaven-Earth), in Neo-Confucian philosophy (Wang Yangming: the sage forms one body with Heaven, Earth, and all things), and in contemporary environmental discourse. 王阳明说，圣人与天地万物为一体，感而遂通。"Wang Yangming said: the sage forms one body with Heaven, Earth, and the ten thousand things , feeling them and thereby reaching through to them."</span>
       </div>
 
       <div class="cy">
         <span class="cy-cn">以天为则</span>
         <span class="cy-py">yǐ tiān wéi zé</span>
         <span class="cy-en">"taking Heaven as the standard" — modeling conduct on the cosmic pattern</span>
-        <span class="cy-note">则 zé (standard; rule; model; then). The classical injunction to take Heaven's order as the measure for human conduct. Appears in Mohist and Confucian texts as a basis for ethical argument: if a practice conforms to Heaven's pattern, it is right; if it violates that pattern, it is wrong. More prescriptive than 天人合一 (which describes a state) — 以天为则 is the methodological claim: Heaven is the standard against which human conduct is evaluated. 墨子主张以天为则，反对礼乐制度中不符合天志的成分。"Mozi advocated taking Heaven as the standard, opposing elements of the ritual-music system that conflicted with Heaven's intention."</span>
+        <span class="cy-note">则 zé (standard; rule; model; then). The classical injunction to take Heaven's order as the measure for human conduct. Appears in Mohist and Confucian texts as a basis for ethical argument: if a practice conforms to Heaven's pattern, it is right; if it violates that pattern, it is wrong. More prescriptive than 天人合一 (which describes a state) , 以天为则 is the methodological claim: Heaven is the standard against which human conduct is evaluated. 墨子主张以天为则，反对礼乐制度中不符合天志的成分。"Mozi advocated taking Heaven as the standard, opposing elements of the ritual-music system that conflicted with Heaven's intention."</span>
       </div>
 
     </div><!-- /chengyu-grid -->
@@ -520,9 +520,9 @@ content_review: 'pending'
     <!-- RETENTION SCHOLAR BOX -->
     <div class="scholar" data-glyph="合" style="margin-top:2.5rem;">
       <div class="scholar-label">记忆法 jìyìfǎ · Master Retention Image</div>
-      <p>The phrase contains its own cosmology in four characters: 天 (the total order above) + 人 (the human, standing between) + 合一 (joined as one). The claim encoded in the compound is that the boundary between cosmos and person is not a wall but a membrane — what happens in one register resonates in the other.</p>
-      <p>Zhang Zai's image from the Western Inscription is the most vivid carrier of this: you, tiny and insignificant, dwelling in the midst of Heaven as father and Earth as mother. The appropriate response to that dwelling is not grandeur but attention — the careful calibration of conduct, timing, and form to the pattern that runs through all things. The cook's knife finds the joints without forcing; the doctor reads the season in the pulse; the garden places the rock so that the space around it breathes.</p>
-      <p>The crucial distinction for reading modern Chinese discourse: 天人合一 used in a philosophical or medical context describes a cosmological framework. The same phrase in a political speech is doing something else — framing Chinese civilization as inherently ecological, and the argument is worth scrutinizing on its own terms.</p>
+      <p>The phrase contains its own cosmology in four characters: 天 (the total order above) + 人 (the human, standing between) + 合一 (joined as one). The claim encoded in the compound is that the boundary between cosmos and person is not a wall but a membrane , what happens in one register resonates in the other.</p>
+      <p>Zhang Zai's image from the Western Inscription is the most vivid carrier of this: you, tiny and insignificant, dwelling in the midst of Heaven as father and Earth as mother. The appropriate response to that dwelling is not grandeur but attention , the careful calibration of conduct, timing, and form to the pattern that runs through all things. The cook's knife finds the joints without forcing; the doctor reads the season in the pulse; the garden places the rock so that the space around it breathes.</p>
+      <p>The crucial distinction for reading modern Chinese discourse: 天人合一 used in a philosophical or medical context describes a cosmological framework. The same phrase in a political speech is doing something else , framing Chinese civilization as inherently ecological, and the argument is worth scrutinizing on its own terms.</p>
     </div>
 
     <footer class="page-footer">

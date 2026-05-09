@@ -93,7 +93,7 @@ pinyin: 'Táiwān'
       <div class="scholar" data-glyph="国">
         <div class="scholar-label">国民党 · The Kuomintang</div>
         <p>The Chinese Civil War (1927–1949) ended with the Communist Party's victory on the mainland. Chiang Kai-shek (蒋介石, Jiǎng Jièshí) and the Nationalist government (国民党 Guómíndǎng, KMT) retreated to Taiwan in 1949 with approximately 1.2 million soldiers, officials, intellectuals, and dependents, along with the Palace Museum's collection of imperial treasures and significant gold reserves.</p>
-        <p>The Nationalist government maintained that it was the legitimate government of all of China — the <strong>中华民国</strong> (Zhōnghuá Mínguó, Republic of China, ROC) — temporarily exiled from the mainland. Taiwan held China's UN Security Council seat until 1971. The ROC continues to operate today as the government of Taiwan, with its own military, currency, passport, and elected institutions.</p>
+        <p>The Nationalist government maintained that it was the legitimate government of all of China , the <strong>中华民国</strong> (Zhōnghuá Mínguó, Republic of China, ROC) , temporarily exiled from the mainland. Taiwan held China's UN Security Council seat until 1971. The ROC continues to operate today as the government of Taiwan, with its own military, currency, passport, and elected institutions.</p>
         <p>The 1949 arrival created a complex layered society on Taiwan: the pre-existing Han Taiwanese (majority Hoklo and Hakka), the Aboriginal peoples, and the new mainland arrivals ("mainlanders," 外省人 wàishěng rén) who brought Mandarin as the official language and imposed martial law until 1987. The tensions between these groups shaped Taiwanese identity politics for generations.</p>
       </div>
 

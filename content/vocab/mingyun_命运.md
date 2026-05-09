@@ -32,7 +32,7 @@ content_sources:
     <ul class="toc-list">
       <li><a href="#etymology">
         <span class="toc-cn">字源</span> Etymology
-        <span class="toc-sub">命 and 运 — mandate and motion</span>
+        <span class="toc-sub">命 and 运 , mandate and motion</span>
       </a></li>
       <li><a href="#ming">
         <span class="toc-cn">命</span> 命 mìng

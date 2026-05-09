@@ -114,7 +114,7 @@ content_sources:
     <div class="scholar" data-glyph="佛">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
       <p><strong>佛 fó</strong> is a phonetic loan, and one of the most consequential in Chinese history. When Buddhist missionaries arrived from Central Asia during the Han dynasty, they needed to render Sanskrit <em>Buddha</em> (the awakened one) in Chinese characters. Early transcriptions included 浮屠 fútú and 浮图 fútú, but the two-syllable forms were unwieldy. By the Wei-Jin period, scribes settled on 佛, read as something close to the Sanskrit consonant cluster *bud*. The character combines <strong>亻rén</strong> (person radical, placed on the left of all person-related characters) with <strong>弗 fú</strong> (a phonetic component meaning "not; no," depicting a bent string under tension).</p>
-      <p>The semantic logic is elegant even if unintentional: a person (亻) who is not (弗) — not caught in ordinary samsaric existence, not defined by the attachments that hold everyone else. Buddhism itself teaches that the Buddha is neither fully human nor divine but awakened from the dream the rest of us inhabit. The character arrived pre-encoded with this tension.</p>
+      <p>The semantic logic is elegant even if unintentional: a person (亻) who is not (弗) , not caught in ordinary samsaric existence, not defined by the attachments that hold everyone else. Buddhism itself teaches that the Buddha is neither fully human nor divine but awakened from the dream the rest of us inhabit. The character arrived pre-encoded with this tension.</p>
       <p>佛 also reads as <strong>fú</strong> in one fixed compound: 仿佛 fǎngfú (as if; seemingly). In this use, 佛 is a purely phonetic component with no Buddhist meaning. The sound came first; the religion followed.</p>
     </div>
 
@@ -130,8 +130,8 @@ content_sources:
     <div class="pattern">
       <span class="label">构词规律 gòucí guīlǜ · Three Templates</span>
       <strong>佛 + noun</strong> → Buddhist domain: 佛法 fófǎ (Buddhist dharma) · 佛寺 fósì (Buddhist temple) · 佛经 fójīng (Buddhist scriptures)<br>
-      <strong>noun + 佛</strong> → types of Buddha: 活佛 huófó (living Buddha) · 大佛 dàfó (great Buddha statue) · 拜佛 bài fó (to venerate Buddha — verb + 佛)<br>
-      <strong>佛系 fóxì</strong> → modern slang: detached, unambitious, "Buddhist style" — a contemporary extension of the character into internet culture
+      <strong>noun + 佛</strong> → types of Buddha: 活佛 huófó (living Buddha) · 大佛 dàfó (great Buddha statue) · 拜佛 bài fó (to venerate Buddha , verb + 佛)<br>
+      <strong>佛系 fóxì</strong> → modern slang: detached, unambitious, "Buddhist style" , a contemporary extension of the character into internet culture
     </div>
 
     <!-- ── THE BUDDHA ── -->
@@ -164,7 +164,7 @@ content_sources:
           <div class="example">
             <div class="ex-cn">阿弥陀佛，这件事终于解决了。</div>
             <div class="ex-py">Āmítuó Fó, zhè jiàn shì zhōngyú jiějué le.</div>
-            <div class="ex-en">Amitabha — this matter is finally resolved. <em>[expression of relief]</em></div>
+            <div class="ex-en">Amitabha , this matter is finally resolved. <em>[expression of relief]</em></div>
           </div>
           <div class="example">
             <div class="ex-cn">佛说一切皆苦。</div>
@@ -248,7 +248,7 @@ content_sources:
           <div class="example">
             <div class="ex-cn">佛法无边，普度众生。</div>
             <div class="ex-py">Fófǎ wúbiān, pǔdù zhòngshēng.</div>
-            <div class="ex-en">The dharma is boundless — it ferries all beings across.</div>
+            <div class="ex-en">The dharma is boundless , it ferries all beings across.</div>
           </div>
         </div>
       </div>
@@ -267,12 +267,12 @@ content_sources:
           <div class="example">
             <div class="ex-cn">他特别佛系，升职降职都无所谓。</div>
             <div class="ex-py">Tā tèbié fóxì, shēngzhí jiàngzhí dōu wúsuǒwèi.</div>
-            <div class="ex-en">He's very "Buddhist" — promotions and demotions are all the same to him.</div>
+            <div class="ex-en">He's very "Buddhist" , promotions and demotions are all the same to him.</div>
           </div>
           <div class="example">
             <div class="ex-cn">最近流行佛系生活，凡事随缘。</div>
             <div class="ex-py">Zuìjìn liúxíng fóxì shēnghuó, fánshì suíyuán.</div>
-            <div class="ex-en">The "Buddhist lifestyle" trend is everywhere lately — let everything flow as it will.</div>
+            <div class="ex-en">The "Buddhist lifestyle" trend is everywhere lately , let everything flow as it will.</div>
           </div>
         </div>
       </div>
@@ -422,28 +422,28 @@ content_sources:
         <span class="cy-cn">借花献佛</span>
         <span class="cy-py">jiè huā xiàn fó</span>
         <span class="cy-en">to offer borrowed flowers to Buddha — to give a gift that cost you nothing</span>
-        <span class="cy-note">Lit: borrow-flowers-offer-Buddha. Said when someone presents as a gift something that actually belongs to another. Used both as self-deprecating humor (borrowing something to present as your own gift) and as gentle criticism of empty generosity. 我借花献佛，把朋友送我的酒拿来给你。"I'm re-gifting — taking the wine my friend gave me and offering it to you."</span>
+        <span class="cy-note">Lit: borrow-flowers-offer-Buddha. Said when someone presents as a gift something that actually belongs to another. Used both as self-deprecating humor (borrowing something to present as your own gift) and as gentle criticism of empty generosity. 我借花献佛，把朋友送我的酒拿来给你。"I'm re-gifting , taking the wine my friend gave me and offering it to you."</span>
       </div>
 
       <div class="cy">
         <span class="cy-cn">放下屠刀，立地成佛</span>
         <span class="cy-py">fàngxià túdāo, lìdì chéng fó</span>
         <span class="cy-en">lay down the butcher's knife and become a Buddha on the spot — redemption is available in an instant</span>
-        <span class="cy-note">One of the most cited Buddhist-influenced proverbs. The "butcher's knife" is the instrument of harm; "on the spot" (立地) means this very moment, not after long cultivation. The message: awakening is not a distant achievement — it is available in the moment one stops causing harm. Often shortened to 放下屠刀 as shorthand for urging someone to stop harmful behavior.</span>
+        <span class="cy-note">One of the most cited Buddhist-influenced proverbs. The "butcher's knife" is the instrument of harm; "on the spot" (立地) means this very moment, not after long cultivation. The message: awakening is not a distant achievement , it is available in the moment one stops causing harm. Often shortened to 放下屠刀 as shorthand for urging someone to stop harmful behavior.</span>
       </div>
 
       <div class="cy">
         <span class="cy-cn">泥菩萨过河</span>
         <span class="cy-py">ní púsà guò hé</span>
         <span class="cy-en">a clay Bodhisattva crossing a river — unable to save even oneself</span>
-        <span class="cy-note">Lit: clay-bodhisattva-cross-river. 菩萨 púsà (Bodhisattva) is made of clay — crossing water would destroy it. Used to say someone is in no position to help others when they can barely save themselves. 泥菩萨过河，自身难保。"Like a clay Bodhisattva in the river — barely keeping themselves afloat." Sharp but common in colloquial criticism.</span>
+        <span class="cy-note">Lit: clay-bodhisattva-cross-river. 菩萨 púsà (Bodhisattva) is made of clay , crossing water would destroy it. Used to say someone is in no position to help others when they can barely save themselves. 泥菩萨过河，自身难保。"Like a clay Bodhisattva in the river , barely keeping themselves afloat." Sharp but common in colloquial criticism.</span>
       </div>
 
       <div class="cy">
         <span class="cy-cn">无事不登三宝殿</span>
         <span class="cy-py">wú shì bù dēng sānbǎo diàn</span>
         <span class="cy-en">one doesn't visit the Three Jewels hall without a reason — never come empty-handed or without purpose</span>
-        <span class="cy-note">The 三宝殿 is the hall of the Three Jewels (Buddha, Dharma, Sangha) — you don't enter it for nothing. The proverb is used to say: if someone is coming to see you or asking something, they must want something. Often said by the person being visited: 你来找我，无事不登三宝殿，有什么需要帮忙的？"You've come to find me — one doesn't visit without reason. What do you need?"</span>
+        <span class="cy-note">The 三宝殿 is the hall of the Three Jewels (Buddha, Dharma, Sangha) , you don't enter it for nothing. The proverb is used to say: if someone is coming to see you or asking something, they must want something. Often said by the person being visited: 你来找我，无事不登三宝殿，有什么需要帮忙的？"You've come to find me — one doesn't visit without reason. What do you need?"</span>
       </div>
 
     </div>

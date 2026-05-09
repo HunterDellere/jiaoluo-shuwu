@@ -101,8 +101,8 @@ content_sources:
     <div class="scholar" data-glyph="年">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
       <p><strong>年 nián</strong> is a compound pictograph: a person (人) carrying grain (禾 hé, the grain stalk) on their back. The oracle-bone form shows a figure bent under the weight of harvested crops. A year is precisely the time it takes to complete one agricultural cycle from planting to harvest. The concept of "year" in Chinese is inseparable from the concept of "harvest." A good year is a year of abundance; a bad year is a year of poor harvest.</p>
-      <p>This agricultural root explains why 年 and 年 (the mythical beast) share the same character in legend. The annual ceremony of driving away winter and welcoming the new growing season was as fundamental as anything in the Chinese calendar — the ritual driving-out as real as the planting that followed it.</p>
-      <p>年 is also used for age: 几岁 jǐ suì (how old — used for children) and 几年 or 几岁 for older people. 年龄 niánlíng is the formal word for age. The compound 年代 niándài = decade; era. 年份 niánfèn = a particular year (often used for wine vintages, historical records). 年终 niánzhōng = year-end.</p>
+      <p>This agricultural root explains why 年 and 年 (the mythical beast) share the same character in legend. The annual ceremony of driving away winter and welcoming the new growing season was as fundamental as anything in the Chinese calendar , the ritual driving-out as real as the planting that followed it.</p>
+      <p>年 is also used for age: 几岁 jǐ suì (how old , used for children) and 几年 or 几岁 for older people. 年龄 niánlíng is the formal word for age. The compound 年代 niándài = decade; era. 年份 niánfèn = a particular year (often used for wine vintages, historical records). 年终 niánzhōng = year-end.</p>
     </div>
 
     <span class="section-anchor" id="newyear"></span>
@@ -151,7 +151,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          年 nián (year) + 龄 líng (age; years of life — used specifically for age of living things). The formal word for a person's age. 年龄段 niánlíng duàn = age group. 适龄 shìlíng = of appropriate age (e.g., 适龄儿童 school-age children). In everyday speech, 多大 duō dà (how old — informal) and 几岁 jǐ suì (how old — for children) are more common than asking about 年龄 directly.
+          年 nián (year) + 龄 líng (age; years of life , used specifically for age of living things). The formal word for a person's age. 年龄段 niánlíng duàn = age group. 适龄 shìlíng = of appropriate age (e.g., 适龄儿童 school-age children). In everyday speech, 多大 duō dà (how old , informal) and 几岁 jǐ suì (how old , for children) are more common than asking about 年龄 directly.
         </div>
         <div class="examples">
           <div class="example">
@@ -170,7 +170,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-adj">Adj 形容词 xíngróngcí</span></div>
         <div class="card-def">
-          年 nián (year; age) + 轻 qīng (light; young; not heavy). The standard adjective for "young" — the opposite of 老 lǎo. 年轻人 niánqīngrén = young people. 年轻化 niánqīnghuà = to become younger/more youthful. 越活越年轻 "getting younger as I live" — a compliment to someone who looks youthful. Note: 年轻 is for people; for objects/ideas use 新 xīn (new) or 新颖 xīnyǐng (novel).
+          年 nián (year; age) + 轻 qīng (light; young; not heavy). The standard adjective for "young" , the opposite of 老 lǎo. 年轻人 niánqīngrén = young people. 年轻化 niánqīnghuà = to become younger/more youthful. 越活越年轻 "getting younger as I live" , a compliment to someone who looks youthful. Note: 年轻 is for people; for objects/ideas use 新 xīn (new) or 新颖 xīnyǐng (novel).
         </div>
         <div class="examples">
           <div class="example">

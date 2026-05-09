@@ -93,9 +93,9 @@ content_sources:
 
     <div class="scholar" data-glyph="她">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
-      <p><strong>她 = 女 (nǚ, woman) + 也 (yě, phonetic)</strong> — but the etymology is unusual because the character was <em>designed</em>, not inherited. Most Chinese characters arrived through millennia of organic evolution; 她 was proposed in writing by a single person, Liu Bannong (刘半农), in 1917, and entered standard use within two decades. It is one of the only widely used characters in modern Chinese with a known birth date and inventor.</p>
+      <p><strong>她 = 女 (nǚ, woman) + 也 (yě, phonetic)</strong> , but the etymology is unusual because the character was <em>designed</em>, not inherited. Most Chinese characters arrived through millennia of organic evolution; 她 was proposed in writing by a single person, Liu Bannong (刘半农), in 1917, and entered standard use within two decades. It is one of the only widely used characters in modern Chinese with a known birth date and inventor.</p>
       <p>The construction is a clean substitution. <a href="../../pages/characters/ta1_他.html">他 tā</a> already existed (亻 + 也) to mean "he, him, another." Liu kept the phonetic 也 (which had no native meaning here, only sound) and replaced the person radical 亻 with the woman radical 女. Same pronunciation; different visual marker; new grammatical category. A graphic argument made in ink.</p>
-      <p>The presence of 也 inside both 他 and 她 is significant: 也 appears in many third-person and demonstrative-like words across the family — 他, 她, 它, 牠 (animal-only "it," used in Taiwan), 祂 (deity "He/She," modern Christian usage). It is, in effect, the phonetic backbone of the entire tā cluster. The radicals do all the semantic work: 亻 person, 女 woman, 宀 (in 它) earlier "snake/object," 牜 ox-radical, 礻 spirit-radical.</p>
+      <p>The presence of 也 inside both 他 and 她 is significant: 也 appears in many third-person and demonstrative-like words across the family , 他, 她, 它, 牠 (animal-only "it," used in Taiwan), 祂 (deity "He/She," modern Christian usage). It is, in effect, the phonetic backbone of the entire tā cluster. The radicals do all the semantic work: 亻 person, 女 woman, 宀 (in 它) earlier "snake/object," 牜 ox-radical, 礻 spirit-radical.</p>
     </div>
 
     <div class="pattern">
@@ -116,11 +116,11 @@ content_sources:
 
     <div class="scholar" data-glyph="她">
       <div class="scholar-label">语言现代化 yǔyán xiàndàihuà · Linguistic Modernization</div>
-      <p>The story begins with translation. In the 1910s, Chinese intellectuals were translating European literature at industrial pace — Ibsen, Tolstoy, Maupassant, Shaw — and they kept colliding with the same problem. English distinguishes <em>he</em> from <em>she</em>; French and German do the same with elle/sie. Classical Chinese had no such distinction. The pronoun 他, in use for centuries, covered any third-person referent regardless of gender. Translators rendered "she" with 他 and lost information the source carried.</p>
+      <p>The story begins with translation. In the 1910s, Chinese intellectuals were translating European literature at industrial pace , Ibsen, Tolstoy, Maupassant, Shaw , and they kept colliding with the same problem. English distinguishes <em>he</em> from <em>she</em>; French and German do the same with elle/sie. Classical Chinese had no such distinction. The pronoun 他, in use for centuries, covered any third-person referent regardless of gender. Translators rendered "she" with 他 and lost information the source carried.</p>
       <p>In 1917, the poet and linguist <strong>刘半农 Liu Bannong</strong> (1891–1934), then teaching at Peking University and one of the central figures of the New Culture Movement, proposed the new character 她 in correspondence with his colleague <strong>周作人 Zhou Zuoren</strong>. Zhou had been wrestling with how to translate the Greek nymph "she" in a poem. Liu wrote back suggesting 女 + 也. The earliest published use is in his 1920 poem <em>《教我如何不想她》</em> ("How Could I Not Think of Her"), later set to music by Zhao Yuanren and one of the most famous early-modern Chinese songs.</p>
-      <p>The proposal was attacked from both sides. <strong>Conservatives</strong> objected that Chinese had functioned for two thousand years without gendered pronouns and did not need this Westernization of the script. Some literary critics dismissed 她 as ugly, redundant, and a capitulation to foreign grammar. <strong>Feminists</strong> objected on different grounds: why should the female-marked character be the new addition while the male-default 他 remained unmarked? The Marxist writer <strong>陈寅恪</strong> and others pointed out that the asymmetry encoded a hierarchy — men as the default human, women as a marked variant. A few proposed using <strong>伊 yī</strong> (the classical literary "she") instead, since it was already gendered in some texts and avoided the asymmetry.</p>
-      <p>By the late 1920s 她 had won the practical fight. Its supporters argued translation needed it, modern fiction wanted it, and the parallel triad (他/她/它) was tidy. The objections did not disappear so much as become inert; they resurface periodically — most prominently in the 2010s "她字之争" online debates over whether women should reject 她 in favor of 他 to undo the marked/unmarked asymmetry.</p>
-      <p>The fact that 她 sounds <em>identical</em> to 他 in speech is the most striking feature of the whole episode. Liu Bannong won the writing system but never the spoken language. Mandarin still has no gendered third-person pronoun in the air — the distinction is visible only on the page.</p>
+      <p>The proposal was attacked from both sides. <strong>Conservatives</strong> objected that Chinese had functioned for two thousand years without gendered pronouns and did not need this Westernization of the script. Some literary critics dismissed 她 as ugly, redundant, and a capitulation to foreign grammar. <strong>Feminists</strong> objected on different grounds: why should the female-marked character be the new addition while the male-default 他 remained unmarked? The Marxist writer <strong>陈寅恪</strong> and others pointed out that the asymmetry encoded a hierarchy , men as the default human, women as a marked variant. A few proposed using <strong>伊 yī</strong> (the classical literary "she") instead, since it was already gendered in some texts and avoided the asymmetry.</p>
+      <p>By the late 1920s 她 had won the practical fight. Its supporters argued translation needed it, modern fiction wanted it, and the parallel triad (他/她/它) was tidy. The objections did not disappear so much as become inert; they resurface periodically , most prominently in the 2010s "她字之争" online debates over whether women should reject 她 in favor of 他 to undo the marked/unmarked asymmetry.</p>
+      <p>The fact that 她 sounds <em>identical</em> to 他 in speech is the most striking feature of the whole episode. Liu Bannong won the writing system but never the spoken language. Mandarin still has no gendered third-person pronoun in the air , the distinction is visible only on the page.</p>
     </div>
 
     <!-- ── TRIAD ── -->
@@ -134,19 +134,19 @@ content_sources:
 
     <div class="pattern">
       <span class="label">同音三字 tóngyīn sān zì · Three Homophones</span>
-      <strong>他 tā</strong> — 亻 + 也 · he, him; classically gender-neutral, now male by convention<br>
-      <strong>她 tā</strong> — 女 + 也 · she, her; coined c. 1917 by Liu Bannong<br>
-      <strong>它 tā</strong> — 宀 + 匕 + 也-style component · it (non-human, things, animals in mainland use)<br><br>
+      <strong>他 tā</strong> , 亻 + 也 · he, him; classically gender-neutral, now male by convention<br>
+      <strong>她 tā</strong> , 女 + 也 · she, her; coined c. 1917 by Liu Bannong<br>
+      <strong>它 tā</strong> , 宀 + 匕 + 也-style component · it (non-human, things, animals in mainland use)<br><br>
       Plus two extensions used in narrower domains:<br>
-      <strong>牠 tā</strong> — 牛 + 也 · it (animals only); standard in Taiwan, rare in mainland writing<br>
-      <strong>祂 tā</strong> — 礻 + 也 · He/She of a deity; modern Christian Chinese for God<br><br>
-      All five are pronounced identically. The distinction is purely orthographic — a feature of the writing system, not the spoken language.
+      <strong>牠 tā</strong> , 牛 + 也 · it (animals only); standard in Taiwan, rare in mainland writing<br>
+      <strong>祂 tā</strong> , 礻 + 也 · He/She of a deity; modern Christian Chinese for God<br><br>
+      All five are pronounced identically. The distinction is purely orthographic , a feature of the writing system, not the spoken language.
     </div>
 
     <div class="scholar" data-glyph="她">
       <div class="scholar-label">书面区分 shūmiàn qūfēn · Written-Only Distinction</div>
-      <p>Modern Mandarin has, in writing, the most articulated third-person pronoun system in any major living language: human-male, human-female, non-human, animal (regional), divine (religious). All five collapse to a single spoken syllable. The split is structurally striking — most languages either have gender (English, Romance, Germanic) or do not (Finnish, Turkish, classical Chinese, indigenous languages of East Asia broadly). Modern written Chinese has gender; modern spoken Chinese does not.</p>
-      <p>The plural forms inherit and slightly modify the same pattern. <strong>他们 tāmen</strong> (they) is used for any group containing one or more men, or any group of unknown gender — the unmarked default. <strong>她们 tāmen</strong> (they, all-female) is used only when the group is known to be entirely women. <strong>它们</strong> handles non-human plurals. The asymmetry is identical to the singular: female-marking is the marked case.</p>
+      <p>Modern Mandarin has, in writing, the most articulated third-person pronoun system in any major living language: human-male, human-female, non-human, animal (regional), divine (religious). All five collapse to a single spoken syllable. The split is structurally striking , most languages either have gender (English, Romance, Germanic) or do not (Finnish, Turkish, classical Chinese, indigenous languages of East Asia broadly). Modern written Chinese has gender; modern spoken Chinese does not.</p>
+      <p>The plural forms inherit and slightly modify the same pattern. <strong>他们 tāmen</strong> (they) is used for any group containing one or more men, or any group of unknown gender , the unmarked default. <strong>她们 tāmen</strong> (they, all-female) is used only when the group is known to be entirely women. <strong>它们</strong> handles non-human plurals. The asymmetry is identical to the singular: female-marking is the marked case.</p>
     </div>
 
     <!-- ── MODERN ── -->
@@ -192,7 +192,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">Pron 代词</span></div>
         <div class="card-def">
-          她 + 们 (men, plural marker). Used only when every member of the group is known to be female. If the group is mixed-gender or the gender is unknown, the default is 他们 (tāmen) — the male-radical form is the unmarked plural.
+          她 + 们 (men, plural marker). Used only when every member of the group is known to be female. If the group is mixed-gender or the gender is unknown, the default is 他们 (tāmen) , the male-radical form is the unmarked plural.
         </div>
         <div class="examples">
           <div class="example">
@@ -273,7 +273,7 @@ content_sources:
 
     <div class="scholar" data-glyph="她">
       <div class="scholar-label">辨析 biànxī · Why You Will Not Find 她 in 成语</div>
-      <p>她 will not appear in classical 成语. Every 成语 in current use was fixed in the literary record long before 1917 — the Han dynasty, the Tang, the Song, the Ming. The third-person feminine sense in those phrases is carried by other words: <strong>伊</strong>, <strong>之</strong>, <strong>其</strong>, or no pronoun at all (Chinese drops pronouns when context allows). The chengyu below all reference female figures or the feminine; none of them use 她.</p>
+      <p>她 will not appear in classical 成语. Every 成语 in current use was fixed in the literary record long before 1917 , the Han dynasty, the Tang, the Song, the Ming. The third-person feminine sense in those phrases is carried by other words: <strong>伊</strong>, <strong>之</strong>, <strong>其</strong>, or no pronoun at all (Chinese drops pronouns when context allows). The chengyu below all reference female figures or the feminine; none of them use 她.</p>
     </div>
 
     <div class="chengyu-grid">
@@ -282,14 +282,14 @@ content_sources:
         <span class="cy-cn">沉鱼落雁</span>
         <span class="cy-py">chén yú luò yàn</span>
         <span class="cy-en">"sinking fish and falling geese" — describing a woman so beautiful that fish dive and birds fall when she passes</span>
-        <span class="cy-note">From the <em>Zhuangzi</em>, originally a wry critique of relativism in beauty (the fish do not actually find her beautiful — they hide because they are afraid of humans). Reapplied over centuries as a stock praise for female beauty, often paired with 闭月羞花 (the moon hides itself, the flowers blush with shame). The "she" of the phrase is implicit — Chinese needs no 她 to mean it.</span>
+        <span class="cy-note">From the <em>Zhuangzi</em>, originally a wry critique of relativism in beauty (the fish do not actually find her beautiful , they hide because they are afraid of humans). Reapplied over centuries as a stock praise for female beauty, often paired with 闭月羞花 (the moon hides itself, the flowers blush with shame). The "she" of the phrase is implicit , Chinese needs no 她 to mean it.</span>
       </div>
 
       <div class="cy">
         <span class="cy-cn">巾帼不让须眉</span>
         <span class="cy-py">jīn guó bù ràng xū méi</span>
         <span class="cy-en">"the woman's headdress yields nothing to the man's beard" — a woman who is the equal of any man</span>
-        <span class="cy-note">巾帼 jīnguó — a woman's hair ornament, by metonymy "woman." 须眉 xūméi — beard and brows, by metonymy "man." Used in praise of female generals (Mulan, Hua Mulan; Liang Hongyu), athletes, and accomplished women. Carries a faint structural problem familiar from the 她 debate: the man is the standard against which the woman is measured. The phrase itself encodes the asymmetry it appears to refute.</span>
+        <span class="cy-note">巾帼 jīnguó , a woman's hair ornament, by metonymy "woman." 须眉 xūméi — beard and brows, by metonymy "man." Used in praise of female generals (Mulan, Hua Mulan; Liang Hongyu), athletes, and accomplished women. Carries a faint structural problem familiar from the 她 debate: the man is the standard against which the woman is measured. The phrase itself encodes the asymmetry it appears to refute.</span>
       </div>
 
       <div class="cy">

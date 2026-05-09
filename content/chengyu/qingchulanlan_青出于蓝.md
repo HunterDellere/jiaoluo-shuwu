@@ -77,7 +77,7 @@ content_review: 'pending'
       <div class="scholar" data-glyph="蓝">
         <div class="scholar-label">后来居上 hòulái jū shàng · the latecomer rises above</div>
         <p>The full form of the chengyu is <strong>青出于蓝而胜于蓝</strong> (qīng chū yú lán ér shèng yú lán): "indigo comes from the indigo plant and yet surpasses the indigo plant." The four-character compression 青出于蓝 carries the complete thought in conversation; the longer form is preferred in writing when precision matters.</p>
-        <p>The phrase is used to praise a student, apprentice, or successor who has exceeded their teacher or predecessor. It carries no condescension toward the teacher — the image of the indigo plant is not one of failure but of productive source. The teacher made the transformation possible. The phrase acknowledges that the relationship produced something beyond itself.</p>
+        <p>The phrase is used to praise a student, apprentice, or successor who has exceeded their teacher or predecessor. It carries no condescension toward the teacher , the image of the indigo plant is not one of failure but of productive source. The teacher made the transformation possible. The phrase acknowledges that the relationship produced something beyond itself.</p>
         <p>There is a companion phrase, <strong>后来居上</strong> (hòulái jū shàng, "the latecomer rises to the top"), that covers similar ground but without the teacher-student frame. 青出于蓝 is specific to learning and transmission; 后来居上 can apply to any competition where a newcomer surpasses an established figure.</p>
       </div>
 

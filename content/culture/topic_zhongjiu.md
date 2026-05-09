@@ -35,7 +35,7 @@ updated: '2026-04-25'
     <ul class="toc-list">
       <li><a href="#origin">
         <span class="toc-cn">重阳</span> Name and Origin
-        <span class="toc-sub">double yang — numerology and the founding story</span>
+        <span class="toc-sub">double yang , numerology and the founding story</span>
       </a></li>
       <li><a href="#customs">
         <span class="toc-cn">习俗</span> Festival Customs
@@ -77,9 +77,9 @@ updated: '2026-04-25'
 
     <div class="scholar" data-glyph="重">
       <div class="scholar-label">历史渊源 lìshǐ yuānyuán · Historical Origins</div>
-      <p>重阳节 falls on the ninth day of the ninth lunar month: 九月九日 (jiǔ yuè jiǔ rì). In Chinese numerology, nine (九 jiǔ) is the supreme yang number — the highest single digit, associated with Heaven, the emperor, and masculine creative force. Two nines overlapping on the same date produces a condition of doubled yang energy. 重 (chóng) means "double, layered, repeated," and the term 重阳 appears in the Yijing (易经, Book of Changes), where doubled yang lines form the hexagram of full yang force. The festival takes its name directly from this cosmological configuration.</p>
+      <p>重阳节 falls on the ninth day of the ninth lunar month: 九月九日 (jiǔ yuè jiǔ rì). In Chinese numerology, nine (九 jiǔ) is the supreme yang number , the highest single digit, associated with Heaven, the emperor, and masculine creative force. Two nines overlapping on the same date produces a condition of doubled yang energy. 重 (chóng) means "double, layered, repeated," and the term 重阳 appears in the Yijing (易经, Book of Changes), where doubled yang lines form the hexagram of full yang force. The festival takes its name directly from this cosmological configuration.</p>
       <p>The founding story traces to two figures: Fei Changfang (费长房), a Daoist seer, and his student Huan Jing (桓景). The account is recorded in the 5th-century 续齐谐记 (Xu Qi Xie Ji), a collection of anomalies and portents. Fei Changfang warned Huan Jing that disaster would strike his household on the ninth day of the ninth month. His instruction was precise: take your family to high ground, give each person a bag of zhuyu (茱萸, a fragrant spice shrub), and drink chrysanthemum wine. Huan Jing obeyed. When he returned to his village at dusk, he found all the livestock dead. The mountain had protected the people; the valley had not.</p>
-      <p>The story encodes a logic of elevation that runs through the festival's entire ritual vocabulary. Physical height functions as ritual protection, the mountain as refuge from lowland pestilence. The chrysanthemum wine and the zhuyu sprig are apotropaic objects: things worn and consumed to ward off malevolence. All three customs — the climb, the wine, the sprig — are present in the festival from its earliest recorded form, and all three carry the same reasoning forward from the founding narrative.</p>
+      <p>The story encodes a logic of elevation that runs through the festival's entire ritual vocabulary. Physical height functions as ritual protection, the mountain as refuge from lowland pestilence. The chrysanthemum wine and the zhuyu sprig are apotropaic objects: things worn and consumed to ward off malevolence. All three customs , the climb, the wine, the sprig , are present in the festival from its earliest recorded form, and all three carry the same reasoning forward from the founding narrative.</p>
     </div>
 
     <!-- ── CUSTOMS ── -->
@@ -111,7 +111,7 @@ updated: '2026-04-25'
           <span class="card-en">admiring chrysanthemums — the flower of late autumn resilience</span>
         </div>
         <div class="card-def">
-          赏 shǎng (to appreciate; to admire) + 菊 jú (chrysanthemum). The chrysanthemum (菊花 júhuā) blooms in autumn, long after spring flowers have finished. This timing made it a symbol of resilience, longevity, and the virtuous person who thrives when others have withered. Chrysanthemum wine (菊花酒 júhuā jiǔ) — petals steeped in rice wine — is the festival drink, its origin in the founding story: it is what Huan Jing's family drank on the mountain. By the Tang dynasty, chrysanthemum appreciation had become its own refined practice, with poets and literati hosting viewing parties alongside the drinking.
+          赏 shǎng (to appreciate; to admire) + 菊 jú (chrysanthemum). The chrysanthemum (菊花 júhuā) blooms in autumn, long after spring flowers have finished. This timing made it a symbol of resilience, longevity, and the virtuous person who thrives when others have withered. Chrysanthemum wine (菊花酒 júhuā jiǔ) , petals steeped in rice wine , is the festival drink, its origin in the founding story: it is what Huan Jing's family drank on the mountain. By the Tang dynasty, chrysanthemum appreciation had become its own refined practice, with poets and literati hosting viewing parties alongside the drinking.
         </div>
       </div>
 
@@ -122,7 +122,7 @@ updated: '2026-04-25'
           <span class="card-en">wearing zhuyu sprigs — apotropaic plant, festival shorthand</span>
         </div>
         <div class="card-def">
-          插 chā (to insert; to wear tucked in) + 茱萸 zhūyú (Cornus officinalis; Japanese cornelian cherry). The zhuyu shrub, with its fragrant berries and pungent scent, was believed to repel evil and disease. On Double Ninth, people wore sprigs tucked into their hair or carried them in small pouches. By the Tang dynasty the custom was established enough to appear as a festival marker in poetry — Wang Wei's famous verse uses the zhuyu sprig as the visual shorthand for the gathering Huan Jing is missing. By the Song dynasty the practice had largely faded as an active observance but survived in verse as the festival's defining image.
+          插 chā (to insert; to wear tucked in) + 茱萸 zhūyú (Cornus officinalis; Japanese cornelian cherry). The zhuyu shrub, with its fragrant berries and pungent scent, was believed to repel evil and disease. On Double Ninth, people wore sprigs tucked into their hair or carried them in small pouches. By the Tang dynasty the custom was established enough to appear as a festival marker in poetry , Wang Wei's famous verse uses the zhuyu sprig as the visual shorthand for the gathering Huan Jing is missing. By the Song dynasty the practice had largely faded as an active observance but survived in verse as the festival's defining image.
         </div>
       </div>
 
@@ -133,7 +133,7 @@ updated: '2026-04-25'
           <span class="card-en">Double Ninth cake — the city dweller substitution</span>
         </div>
         <div class="card-def">
-          重阳 Chóngyáng (the festival) + 糕 gāo (cake; steamed or baked confection). The cleverest detail of the festival: 糕 (gāo, cake) is homophonous with 高 (gāo, high). Eating "high cake" is a linguistic substitution for climbing high ground — a formal equivalence by sound that allowed urban residents who could not easily reach a mountain to fulfill the ritual requirement through a bowl of layered steamed cake instead. The cake is typically multi-layered, often decorated with small flag-shaped ornaments, and in some regions studded with dates or nuts. The logic of the substitution is stated plainly in Song-dynasty sources: if you cannot ascend, eat the ascent.
+          重阳 Chóngyáng (the festival) + 糕 gāo (cake; steamed or baked confection). The cleverest detail of the festival: 糕 (gāo, cake) is homophonous with 高 (gāo, high). Eating "high cake" is a linguistic substitution for climbing high ground , a formal equivalence by sound that allowed urban residents who could not easily reach a mountain to fulfill the ritual requirement through a bowl of layered steamed cake instead. The cake is typically multi-layered, often decorated with small flag-shaped ornaments, and in some regions studded with dates or nuts. The logic of the substitution is stated plainly in Song-dynasty sources: if you cannot ascend, eat the ascent.
         </div>
       </div>
 
@@ -150,7 +150,7 @@ updated: '2026-04-25'
 
     <div class="scholar" data-glyph="诗">
       <div class="scholar-label">文学洞见 wénxué dòngjiàn · Literary Insight</div>
-      <p>重阳节 produced one of the Tang dynasty's most memorized poems. Wang Wei (王维, 699–761) wrote "Remembering My Brothers on the Ninth Day of the Ninth Month" (九月九日忆山东兄弟) when he was seventeen, traveling to the Tang capital Chang'an while his family remained in Pujou, east of the mountains — the 山东 of the title refers to east of the Hua Mountains, not the modern province:</p>
+      <p>重阳节 produced one of the Tang dynasty's most memorized poems. Wang Wei (王维, 699–761) wrote "Remembering My Brothers on the Ninth Day of the Ninth Month" (九月九日忆山东兄弟) when he was seventeen, traveling to the Tang capital Chang'an while his family remained in Pujou, east of the mountains , the 山东 of the title refers to east of the Hua Mountains, not the modern province:</p>
 
       <p style="margin-top:1.2em; font-family: var(--font-cn); font-size: 1.15em; line-height: 2.2; letter-spacing: 0.05em;">
         独在异乡为异客，<br>
@@ -163,11 +163,11 @@ updated: '2026-04-25'
         Alone in a foreign place, a stranger among strangers —<br>
         every festival comes, and the longing for family doubles.<br>
         From afar I know my brothers are climbing the high ground,<br>
-        each one wearing zhuyu — but one person missing.
+        each one wearing zhuyu , but one person missing.
       </p>
 
       <p>The poem's structural move is the double perspective in its final two lines. Wang Wei does not describe his own loneliness directly. He imagines his brothers on the mountain, completing the festival customs, and describes the scene from outside it: a gathering with a gap. 少一人 (shǎo yī rén, one person short) arrives at the end, the absence defined by the fullness around it. The festival's completeness makes the missing person visible.</p>
-      <p>The second line — 每逢佳节倍思亲 (měi féng jiājié bèi sī qīn, every festival comes and longing for family doubles) — is the line that entered the language as a standalone saying. It captures something structurally true about festive occasions: the prescribed gathering makes absence more acute, not less. The poem treats 乡愁 (xiāngchóu, homesickness) not as a persistent background emotion but as a thing with a mechanism: festivals trigger it, because festivals are defined by who is present.</p>
+      <p>The second line , 每逢佳节倍思亲 (měi féng jiājié bèi sī qīn, every festival comes and longing for family doubles) , is the line that entered the language as a standalone saying. It captures something structurally true about festive occasions: the prescribed gathering makes absence more acute, not less. The poem treats 乡愁 (xiāngchóu, homesickness) not as a persistent background emotion but as a thing with a mechanism: festivals trigger it, because festivals are defined by who is present.</p>
       <p>Written when Wang Wei was seventeen and traveling alone, the poem was composed at an age when the emotion it describes was lived rather than recollected. It is memorized by virtually every Chinese school student, which means the line 少一人 enters adult memory carrying the weight of the moment it was first learned.</p>
     </div>
 
@@ -182,9 +182,9 @@ updated: '2026-04-25'
 
     <div class="scholar" data-glyph="老">
       <div class="scholar-label">现代意义 xiàndài yìyì · Modern Significance</div>
-      <p>In 1989, China designated the ninth day of the ninth lunar month as 老人节 (lǎorén jié, Elders Day; Senior Citizens Day). The numeric reasoning was deliberate: 九 (jiǔ, nine) is homophonous with 久 (jiǔ, long time; permanence; duration). Double nine encodes 久久 — the wish for a long, lasting life. The government's choice of this date aligned the new civic observance with a symbolic register already present in the calendar.</p>
-      <p>The alignment with existing festival customs was not coincidental. Chrysanthemums had long carried associations with longevity and resilience. Mountain-climbing was a demonstration of physical vitality. The festival's gathering of extended family — already implicit in the Wang Wei poem's register of absence — made it a natural occasion to direct attention toward the living elderly rather than only the distant or deceased. The official designation gave the day a civic purpose alongside its ritual one, without displacing either.</p>
-      <p>In contemporary practice the two registers coexist: families may go climbing together, visiting elderly relatives or parents as the explicit social purpose of the outing. The chrysanthemum gift has become a standard gesture toward elders on this day. What the 1989 designation accomplished was to anchor a diffuse set of existing associations — longevity, family, autumnal resilience — to a specific social obligation with a named recipient: the living old.</p>
+      <p>In 1989, China designated the ninth day of the ninth lunar month as 老人节 (lǎorén jié, Elders Day; Senior Citizens Day). The numeric reasoning was deliberate: 九 (jiǔ, nine) is homophonous with 久 (jiǔ, long time; permanence; duration). Double nine encodes 久久 , the wish for a long, lasting life. The government's choice of this date aligned the new civic observance with a symbolic register already present in the calendar.</p>
+      <p>The alignment with existing festival customs was not coincidental. Chrysanthemums had long carried associations with longevity and resilience. Mountain-climbing was a demonstration of physical vitality. The festival's gathering of extended family , already implicit in the Wang Wei poem's register of absence , made it a natural occasion to direct attention toward the living elderly rather than only the distant or deceased. The official designation gave the day a civic purpose alongside its ritual one, without displacing either.</p>
+      <p>In contemporary practice the two registers coexist: families may go climbing together, visiting elderly relatives or parents as the explicit social purpose of the outing. The chrysanthemum gift has become a standard gesture toward elders on this day. What the 1989 designation accomplished was to anchor a diffuse set of existing associations , longevity, family, autumnal resilience , to a specific social obligation with a named recipient: the living old.</p>
     </div>
 
     <!-- ── VOCAB ── -->
@@ -216,7 +216,7 @@ updated: '2026-04-25'
           <span class="card-en">to climb to high ground; to ascend</span>
         </div>
         <div class="card-def">
-          登 dēng (to climb; to ascend; to mount) + 高 gāo (high; tall; elevated). The defining physical act of the festival. As a compound, 登高 appears broadly in Chinese outside the festival context — it can describe any ascent, or metaphorically, advancing in rank or achievement. On Double Ninth, the phrase carries its festival specificity through context. The line 登高望远 (dēng gāo wàng yuǎn, climb high to see far) is a related idiom for taking a broad view.
+          登 dēng (to climb; to ascend; to mount) + 高 gāo (high; tall; elevated). The defining physical act of the festival. As a compound, 登高 appears broadly in Chinese outside the festival context , it can describe any ascent, or metaphorically, advancing in rank or achievement. On Double Ninth, the phrase carries its festival specificity through context. The line 登高望远 (dēng gāo wàng yuǎn, climb high to see far) is a related idiom for taking a broad view.
         </div>
       </div>
 

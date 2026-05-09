@@ -66,7 +66,7 @@ updated: '2026-04-25'
       <span class="topic-hero-eyebrow">Vocabulary · 词汇 cíhuì</span>
       <h1 class="topic-hero-title">历史</h1>
       <span class="topic-hero-title-py">lìshǐ</span>
-      <p class="topic-hero-desc">History and the historical record — the longest continuously maintained written tradition in the world, and the mirror through which Chinese statecraft has always examined itself.</p>
+      <p class="topic-hero-desc">History and the historical record , the longest continuously maintained written tradition in the world, and the mirror through which Chinese statecraft has always examined itself.</p>
     </header>
 
     <!-- ── ETYMOLOGY ── -->
@@ -80,8 +80,8 @@ updated: '2026-04-25'
 
     <div class="scholar" data-glyph="历">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
-      <p><strong>历 lì</strong> (traditional 歷) means "to pass through; to experience; to go through in sequence." The traditional form shows 止 (footstep) repeated beneath 厂 (cliff or overhang) — the image of traversing terrain step by step. 历 carries a sense of sequential passage: moving through each stage, each year, each reign in order. 历法 (lìfǎ, calendar) draws on the same root: the sequential marking of time, each period traversed and recorded in turn.</p>
-      <p><strong>史 shǐ</strong> is the more illuminating component. Its oracle bone form shows a hand (又) holding a writing instrument over a container — a scribe capturing events as they occur. The Shuōwén Jiězì defines 史 as "the record-keeper of affairs" (记事者也). In the early Zhou court, 史官 (court historians) ranked among the most important officials. Their records defined the legitimacy of the ruler; to control what was written was to control what was real. The historian held the brush; the brush held power. 史 as a standalone word still means "history" or "the historical record" — Sima Qian's 史记 (Shǐjì, Records of the Grand Historian, c. 94 BCE) takes its title directly from this character.</p>
+      <p><strong>历 lì</strong> (traditional 歷) means "to pass through; to experience; to go through in sequence." The traditional form shows 止 (footstep) repeated beneath 厂 (cliff or overhang) , the image of traversing terrain step by step. 历 carries a sense of sequential passage: moving through each stage, each year, each reign in order. 历法 (lìfǎ, calendar) draws on the same root: the sequential marking of time, each period traversed and recorded in turn.</p>
+      <p><strong>史 shǐ</strong> is the more illuminating component. Its oracle bone form shows a hand (又) holding a writing instrument over a container , a scribe capturing events as they occur. The Shuōwén Jiězì defines 史 as "the record-keeper of affairs" (记事者也). In the early Zhou court, 史官 (court historians) ranked among the most important officials. Their records defined the legitimacy of the ruler; to control what was written was to control what was real. The historian held the brush; the brush held power. 史 as a standalone word still means "history" or "the historical record" , Sima Qian's 史记 (Shǐjì, Records of the Grand Historian, c. 94 BCE) takes its title directly from this character.</p>
       <p>The compound 历史 circulated in premodern Chinese, but its current standardized form was reinforced through 19th-century Japanese translation practice (和製漢語 wasei-kango). Japanese translators, working to render European concepts into Chinese characters, fixed 历史 as the term for "history" in the modern sense. The same channel gave Chinese 社会 (shèhuì, society), 科学 (kēxué, science), and 哲学 (zhéxué, philosophy).</p>
     </div>
 
@@ -96,8 +96,8 @@ updated: '2026-04-25'
 
     <div class="scholar" data-glyph="史">
       <div class="scholar-label">文化洞见 wénhuà dòngjiàn · Cultural Note</div>
-      <p>China's historical record is the longest continuously maintained in the world. The 二十四史 (Èrshísì Shǐ, Twenty-Four Histories), compiled dynasty by dynasty from the Han through the Qing, runs to over 40 million characters across roughly 3,200 volumes. Each new dynasty commissioned the official history of its predecessor: the conquerors defined the conquered's legacy. The arrangement was not incidental. It encoded a political argument — that the new rulers had received the Mandate of Heaven (天命 tiānmìng) precisely because the old dynasty had forfeited virtue. History was the proof of legitimacy.</p>
-      <p>Sima Qian (司马迁, c. 145–86 BCE), author of the 史记, established both the genre and the method. His work combined annals of rulers, chronological tables, treatises on ritual and economics and astronomy, and individual biographies — an architecture that every subsequent official history would follow. The biography section (列传 lièzhuàn) was his most radical innovation: alongside ministers and generals he included merchants, physicians, and wandering knights. History, for Sima Qian, was not only the record of power.</p>
+      <p>China's historical record is the longest continuously maintained in the world. The 二十四史 (Èrshísì Shǐ, Twenty-Four Histories), compiled dynasty by dynasty from the Han through the Qing, runs to over 40 million characters across roughly 3,200 volumes. Each new dynasty commissioned the official history of its predecessor: the conquerors defined the conquered's legacy. The arrangement was not incidental. It encoded a political argument , that the new rulers had received the Mandate of Heaven (天命 tiānmìng) precisely because the old dynasty had forfeited virtue. History was the proof of legitimacy.</p>
+      <p>Sima Qian (司马迁, c. 145–86 BCE), author of the 史记, established both the genre and the method. His work combined annals of rulers, chronological tables, treatises on ritual and economics and astronomy, and individual biographies , an architecture that every subsequent official history would follow. The biography section (列传 lièzhuàn) was his most radical innovation: alongside ministers and generals he included merchants, physicians, and wandering knights. History, for Sima Qian, was not only the record of power.</p>
       <p>He wrote the 史记 after suffering castration as punishment for defending a general whom the emperor had condemned. The punishment was designed to destroy him. He chose to survive it and finish the work. In the preface, he states his purpose without sentiment: "I have examined all that has been said and done, and have set it down in the form of this comprehensive account, that it may serve as a mirror for those who govern." The man who had been silenced by the state left the most enduring record of it.</p>
     </div>
 
@@ -112,9 +112,9 @@ updated: '2026-04-25'
 
     <div class="scholar" data-glyph="鉴">
       <div class="scholar-label">学术洞见 xuéshù dòngjiàn · Scholar Note</div>
-      <p>以史为鉴 (yǐ shǐ wéi jiàn) — "use history as a mirror." The phrase is attributed to Tang Emperor Taizong (唐太宗, r. 626–649 CE) and is among the most cited sayings in Chinese political culture. The metaphor is active, not passive: a mirror shows you your face so that you can correct it. History is legible as a moral diagnostic tool. You read what past rulers did, identify the pattern, and adjust your conduct accordingly.</p>
+      <p>以史为鉴 (yǐ shǐ wéi jiàn) , "use history as a mirror." The phrase is attributed to Tang Emperor Taizong (唐太宗, r. 626–649 CE) and is among the most cited sayings in Chinese political culture. The metaphor is active, not passive: a mirror shows you your face so that you can correct it. History is legible as a moral diagnostic tool. You read what past rulers did, identify the pattern, and adjust your conduct accordingly.</p>
       <p>This framework shaped the entire examination system. Imperial officials were tested on their knowledge of classical history; governance was imagined as a continuous act of pattern-recognition against the accumulated record. The 资治通鉴 (Zīzhì Tōngjiàn, Comprehensive Mirror in Aid of Governance, 1065–1084 CE), compiled by Sima Guang (司马光) over nineteen years at the order of Emperor Yingzong, makes the logic explicit in its title: a comprehensive mirror, for the purpose of governance. It covers 1,362 years of Chinese history in 294 volumes.</p>
-      <p>The Cultural Revolution's assault on the historical record — burning libraries, destroying temples, repudiating "old culture" under the Four Olds campaign — was understood by both perpetrators and victims as a deliberate break with this principle. To attack history was to attack the legitimacy framework itself. Since 1978, the reform era has been continuously narrated in historical terms: 历史的必然 (lìshǐ de bìrán, the inevitability of history), 历史的转折点 (lìshǐ de zhuǎnzhédiǎn, the historical turning point). The mirror remains the operative metaphor; what it is made to reflect changes.</p>
+      <p>The Cultural Revolution's assault on the historical record , burning libraries, destroying temples, repudiating "old culture" under the Four Olds campaign , was understood by both perpetrators and victims as a deliberate break with this principle. To attack history was to attack the legitimacy framework itself. Since 1978, the reform era has been continuously narrated in historical terms: 历史的必然 (lìshǐ de bìrán, the inevitability of history), 历史的转折点 (lìshǐ de zhuǎnzhédiǎn, the historical turning point). The mirror remains the operative metaphor; what it is made to reflect changes.</p>
     </div>
 
     <!-- ── KEY COMPOUNDS ── -->
@@ -165,7 +165,7 @@ updated: '2026-04-25'
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          历史 + 学 (the suffix marking a field of systematic study: 哲学 philosophy, 科学 science, 心理学 psychology). 历史学 is history as an academic discipline — the methods, debates, and institutions of scholarly historical inquiry, as distinct from history as the accumulated record of events.
+          历史 + 学 (the suffix marking a field of systematic study: 哲学 philosophy, 科学 science, 心理学 psychology). 历史学 is history as an academic discipline , the methods, debates, and institutions of scholarly historical inquiry, as distinct from history as the accumulated record of events.
         </div>
         <div class="examples">
           <div class="example">
@@ -213,7 +213,7 @@ updated: '2026-04-25'
         </div>
         <div class="tags"><span class="tag tag-adj">Adj 形容词 xíngróngcí</span></div>
         <div class="card-def">
-          历史 + 性 (the suffix forming abstract quality nouns: 重要性 importance, 可能性 possibility). 历史性 modifies nouns to mean "of historic significance" — a moment or event that will be recorded as consequential. 历史性会议 (a historic meeting), 历史性协议 (a historic agreement). Frequent in political and diplomatic reporting.
+          历史 + 性 (the suffix forming abstract quality nouns: 重要性 importance, 可能性 possibility). 历史性 modifies nouns to mean "of historic significance" , a moment or event that will be recorded as consequential. 历史性会议 (a historic meeting), 历史性协议 (a historic agreement). Frequent in political and diplomatic reporting.
         </div>
         <div class="examples">
           <div class="example">
@@ -261,7 +261,7 @@ updated: '2026-04-25'
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          史 (historical record) + 料 (materials; raw material — the same 料 as in 材料 cáiliào, material/ingredient). 史料 refers to primary source materials: documents, inscriptions, court records, archaeological finds — the raw evidence from which historical accounts are constructed. The equivalent of the English "primary sources" in academic usage.
+          史 (historical record) + 料 (materials; raw material , the same 料 as in 材料 cáiliào, material/ingredient). 史料 refers to primary source materials: documents, inscriptions, court records, archaeological finds , the raw evidence from which historical accounts are constructed. The equivalent of the English "primary sources" in academic usage.
         </div>
         <div class="examples">
           <div class="example">
@@ -285,7 +285,7 @@ updated: '2026-04-25'
         </div>
         <div class="tags"><span class="tag tag-n">N 专有名词 zhuānyǒu míngcí · proper noun</span></div>
         <div class="card-def">
-          史 (historical record) + 记 (to record; to note). The foundational work of Chinese historiography, written by Sima Qian (司马迁, c. 145–86 BCE) over decades and completed after his castration by order of Emperor Wu of Han. The 史记 covers Chinese history from the mythical Yellow Emperor through Sima Qian's own time — 130 volumes, roughly 526,500 characters. It established the biographical and annalistic structure that all subsequent standard histories would follow.
+          史 (historical record) + 记 (to record; to note). The foundational work of Chinese historiography, written by Sima Qian (司马迁, c. 145–86 BCE) over decades and completed after his castration by order of Emperor Wu of Han. The 史记 covers Chinese history from the mythical Yellow Emperor through Sima Qian's own time , 130 volumes, roughly 526,500 characters. It established the biographical and annalistic structure that all subsequent standard histories would follow.
         </div>
         <div class="examples">
           <div class="example">
@@ -309,7 +309,7 @@ updated: '2026-04-25'
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          历史 + 观 (view; perspective; outlook — the same 观 as in 世界观 shìjièguān, worldview, and 人生观 rénshēngguān, outlook on life). 历史观 is the framework through which one interprets history: its patterns, its forces, its meaning. 历史唯物主义 (lìshǐ wéiwù zhǔyì, historical materialism) — the Marxist philosophy of history — dominated official PRC historiography from 1949 through at least the 1980s.
+          历史 + 观 (view; perspective; outlook , the same 观 as in 世界观 shìjièguān, worldview, and 人生观 rénshēngguān, outlook on life). 历史观 is the framework through which one interprets history: its patterns, its forces, its meaning. 历史唯物主义 (lìshǐ wéiwù zhǔyì, historical materialism) , the Marxist philosophy of history , dominated official PRC historiography from 1949 through at least the 1980s.
         </div>
         <div class="examples">
           <div class="example">
@@ -339,8 +339,8 @@ updated: '2026-04-25'
     <div class="pattern">
       <span class="label">三词辨析 sān cí biànxī · Three Terms Distinguished</span>
       <p>These three terms overlap but are not interchangeable. Getting the distinction right is the difference between sounding like a reader of historical texts and sounding like a textbook.</p>
-      <p><strong>历史 lìshǐ</strong> — history as a subject, a body of events, a field of knowledge. The general-purpose term. 中国历史 (Chinese history), 历史上 (historically), 学历史 (to study history). Use this in most contexts.</p>
-      <p><strong>历史学 lìshǐxué</strong> — historiography as an academic discipline. Reserved for contexts involving academic methodology, institutional study, or the scholarly infrastructure of historical inquiry. 历史学系 (department of history), 历史学研究 (historiographical research). Parallel to 哲学 (philosophy) versus 哲学系 (philosophy department, i.e., the discipline).</p>
+      <p><strong>历史 lìshǐ</strong> , history as a subject, a body of events, a field of knowledge. The general-purpose term. 中国历史 (Chinese history), 历史上 (historically), 学历史 (to study history). Use this in most contexts.</p>
+      <p><strong>历史学 lìshǐxué</strong> , historiography as an academic discipline. Reserved for contexts involving academic methodology, institutional study, or the scholarly infrastructure of historical inquiry. 历史学系 (department of history), 历史学研究 (historiographical research). Parallel to 哲学 (philosophy) versus 哲学系 (philosophy department, i.e., the discipline).</p>
       <p><strong>史 shǐ</strong> — the classical shorthand. Found in compound titles and fixed phrases: 史记 (Records of the Historian), 通史 (comprehensive history), 正史 (official histories), 史料 (primary sources), 史书 (historical texts). Use 史 in compound forms and when reading classical or literary texts; avoid it as a standalone in modern prose.</p>
     </div>
 

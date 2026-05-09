@@ -59,7 +59,7 @@ content_sources:
       <span class="topic-hero-eyebrow">Vocab · 词汇 cíhuì</span>
       <h1 class="topic-hero-title">节气</h1>
       <span class="topic-hero-title-py">jiéqì</span>
-      <p class="topic-hero-desc">The 24 solar terms — China's ancient system for reading the turning of the year, inscribed on the UNESCO Intangible Cultural Heritage List in 2016.</p>
+      <p class="topic-hero-desc">The 24 solar terms , China's ancient system for reading the turning of the year, inscribed on the UNESCO Intangible Cultural Heritage List in 2016.</p>
     </header>
 
     <span class="section-anchor" id="overview"></span>
@@ -123,7 +123,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 专名 zhuānmíng proper noun</span></div>
         <div class="card-def">
-          清 qīng (clear; pure) + 明 míng (bright). Falling around April 4–6, this is the most culturally significant solar term — simultaneously an astronomical marker and a public holiday (清明节 Qīngmíng Jié). Families visit ancestral graves, clean and tend them, offer food and paper goods, and burn incense. 扫墓 sǎo mù (tomb sweeping) is the central ritual. The term itself describes the weather: clear skies after winter, the world bright and freshly washed. Tea harvested before 清明 (明前茶 míng qián chá) is the most prized of the year.
+          清 qīng (clear; pure) + 明 míng (bright). Falling around April 4–6, this is the most culturally significant solar term , simultaneously an astronomical marker and a public holiday (清明节 Qīngmíng Jié). Families visit ancestral graves, clean and tend them, offer food and paper goods, and burn incense. 扫墓 sǎo mù (tomb sweeping) is the central ritual. The term itself describes the weather: clear skies after winter, the world bright and freshly washed. Tea harvested before 清明 (明前茶 míng qián chá) is the most prized of the year.
         </div>
         <div class="examples">
           <div class="example">

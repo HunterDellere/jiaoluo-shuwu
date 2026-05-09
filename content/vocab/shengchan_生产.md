@@ -45,7 +45,7 @@ content_sources:
       <span class="topic-hero-eyebrow">Vocabulary · 词汇 cíhuì</span>
       <h1 class="topic-hero-title">生产</h1>
       <span class="topic-hero-title-py">shēngchǎn</span>
-      <p class="topic-hero-desc">To produce, to manufacture — and in China's political vocabulary, the foundational act of all social and historical life.</p>
+      <p class="topic-hero-desc">To produce, to manufacture , and in China's political vocabulary, the foundational act of all social and historical life.</p>
     </header>
 
     <span class="section-anchor" id="etymology"></span>
@@ -71,7 +71,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-vn">V/N 动名词</span></div>
         <div class="card-def">
-          As a verb: to manufacture, make, or produce goods through an organized process. 生产产品 (to produce products), 大规模生产 (mass production), 按需生产 (production to order). As a noun: production as a process or system — 提高生产效率 (improve production efficiency), 恢复生产 (resume production). Both uses are extremely high frequency in industrial, agricultural, and policy contexts.
+          As a verb: to manufacture, make, or produce goods through an organized process. 生产产品 (to produce products), 大规模生产 (mass production), 按需生产 (production to order). As a noun: production as a process or system , 提高生产效率 (improve production efficiency), 恢复生产 (resume production). Both uses are extremely high frequency in industrial, agricultural, and policy contexts.
         </div>
         <div class="examples">
           <div class="example">
@@ -104,7 +104,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          生产 (production) + 线 (line). The physical or process sequence through which materials move to become finished products. 全自动生产线 (fully automated production line), 流水线 (liúshuǐ xiàn, flowing-water line — assembly line). A key image in the industrialization of China, and now in discussions of automation and labor displacement.
+          生产 (production) + 线 (line). The physical or process sequence through which materials move to become finished products. 全自动生产线 (fully automated production line), 流水线 (liúshuǐ xiàn, flowing-water line , assembly line). A key image in the industrialization of China, and now in discussions of automation and labor displacement.
         </div>
         <div class="examples">
           <div class="example">
@@ -127,7 +127,7 @@ content_sources:
 
     <div class="scholar" data-glyph="生">
       <div class="scholar-label">政治词汇 zhèngzhì cíhuì · Political Vocabulary</div>
-      <p>In Marxist political economy — the intellectual tradition that shaped the Chinese Communist Party's ideology and remains official state doctrine — 生产 is the foundational category. 生产方式 (shēngchǎn fāngshì, mode of production) determines the structure of society; 生产关系 (shēngchǎn guānxi, relations of production) determine class structure; 生产力 (shēngchǎnlì, productive forces) determine what is materially possible in a given historical period.</p>
+      <p>In Marxist political economy , the intellectual tradition that shaped the Chinese Communist Party's ideology and remains official state doctrine , 生产 is the foundational category. 生产方式 (shēngchǎn fāngshì, mode of production) determines the structure of society; 生产关系 (shēngchǎn guānxi, relations of production) determine class structure; 生产力 (shēngchǎnlì, productive forces) determine what is materially possible in a given historical period.</p>
       <p>These terms are not merely academic; they appear in official CCP documents, government work reports, and school textbooks throughout China. Understanding 生产力, 生产关系, and 生产方式 is necessary for reading Chinese political discourse at any serious level.</p>
       <p>The key political claim associated with 生产 in contemporary China: 解放生产力 (jiěfàng shēngchǎnlì, liberate productive forces). This phrase, central to Deng Xiaoping's reform rhetoric, argued that the market reforms were not a betrayal of socialism but a release of productive forces that socialism required. It remains one of the most consequential political applications of economic vocabulary in modern Chinese history.</p>
     </div>
@@ -142,7 +142,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          生产 (production) + 力 (force, power). In Marxist theory: the combination of labor power, tools, technology, and organization that determines how much and how efficiently a society can produce. In everyday business usage: productivity in the simpler sense — output per unit of input. 提高生产力 (improve productivity / develop productive forces) is a phrase that operates in both registers simultaneously.
+          生产 (production) + 力 (force, power). In Marxist theory: the combination of labor power, tools, technology, and organization that determines how much and how efficiently a society can produce. In everyday business usage: productivity in the simpler sense , output per unit of input. 提高生产力 (improve productivity / develop productive forces) is a phrase that operates in both registers simultaneously.
         </div>
         <div class="examples">
           <div class="example">
@@ -166,7 +166,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          生产 (production) + 关系 (relations, relationships). The Marxist term for the social and economic relationships people enter into in the process of production — ownership of means of production, the relationship between capital and labor, the organization of work. 生产关系 and 生产力 together constitute the 生产方式 (mode of production) that defines a historical epoch.
+          生产 (production) + 关系 (relations, relationships). The Marxist term for the social and economic relationships people enter into in the process of production , ownership of means of production, the relationship between capital and labor, the organization of work. 生产关系 and 生产力 together constitute the 生产方式 (mode of production) that defines a historical epoch.
         </div>
         <div class="examples">
           <div class="example">
@@ -193,7 +193,7 @@ content_sources:
         <div class="card-pinyin">shēngchǎn chéngběn</div>
         <div class="card-en">production cost; cost of goods</div>
         <span class="tag-n">n</span>
-        <div class="card-note">成本 chéngběn (cost — 成 to accomplish + 本 root/capital). 降低生产成本 (reduce production costs) has been the central competitive strategy of Chinese manufacturing for decades. 人力成本上升 (rising labor costs) is now challenging that strategy.</div>
+        <div class="card-note">成本 chéngběn (cost , 成 to accomplish + 本 root/capital). 降低生产成本 (reduce production costs) has been the central competitive strategy of Chinese manufacturing for decades. 人力成本上升 (rising labor costs) is now challenging that strategy.</div>
       </div>
 
       <div class="card c-ochre">
@@ -209,7 +209,7 @@ content_sources:
         <div class="card-pinyin">tíngchǎn</div>
         <div class="card-en">to halt production; production shutdown</div>
         <span class="tag-vn">v/n</span>
-        <div class="card-note">停 (to stop, halt) + 产 (production). The termination of production — whether due to market conditions, government order, disaster, or planned maintenance. 停产整顿 (halt production for rectification) is a regulatory tool in China. 停产潮 (wave of production shutdowns) describes a sectoral crisis.</div>
+        <div class="card-note">停 (to stop, halt) + 产 (production). The termination of production , whether due to market conditions, government order, disaster, or planned maintenance. 停产整顿 (halt production for rectification) is a regulatory tool in China. 停产潮 (wave of production shutdowns) describes a sectoral crisis.</div>
       </div>
 
       <div class="card c-red">

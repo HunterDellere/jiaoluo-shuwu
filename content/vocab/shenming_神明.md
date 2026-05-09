@@ -61,7 +61,7 @@ content_review: 'pending'
       <span class="topic-hero-eyebrow">Vocabulary · 词汇 cíhuì</span>
       <h1 class="topic-hero-title">神明</h1>
       <span class="topic-hero-title-py">shénmíng</span>
-      <p class="topic-hero-desc">The gods of the home altar and the luminous intelligence of the classical sage — the same two characters carry both meanings.</p>
+      <p class="topic-hero-desc">The gods of the home altar and the luminous intelligence of the classical sage , the same two characters carry both meanings.</p>
     </header>
 
     <!-- ── ETYMOLOGY ── -->
@@ -75,8 +75,8 @@ content_review: 'pending'
 
     <div class="scholar" data-glyph="神">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
-      <p><strong>神 shén</strong> (spirit; deity; divine; the numinous) is built from <strong>示 shì</strong> (altar; sacrifice; the radical that marks all words touching on the sacred — 祭 sacrifice, 祖 ancestor, 福 blessing) and <strong>申 shēn</strong>, a graph that in oracle bone script depicts lightning striking downward, or possibly a serpentine form representing stretching and extension. The combination encodes an ancient understanding: the divine announces itself through natural force, specifically the violent, incomprehensible force of lightning. Heaven spoke in thunder to the Shang bronze casters.</p>
-      <p><strong>明 míng</strong> (bright; luminous; clear; to understand) places <strong>日 rì</strong> (sun) beside <strong>月 yuè</strong> (moon): maximum brightness from both celestial bodies together. It means not only physical light but the clarity of understanding — 明白 (to understand clearly), 聪明 (intelligent, perceptive), 文明 (civilization, lit. "bright culture"). The character consistently crosses the boundary between literal light and cognitive clarity.</p>
+      <p><strong>神 shén</strong> (spirit; deity; divine; the numinous) is built from <strong>示 shì</strong> (altar; sacrifice; the radical that marks all words touching on the sacred , 祭 sacrifice, 祖 ancestor, 福 blessing) and <strong>申 shēn</strong>, a graph that in oracle bone script depicts lightning striking downward, or possibly a serpentine form representing stretching and extension. The combination encodes an ancient understanding: the divine announces itself through natural force, specifically the violent, incomprehensible force of lightning. Heaven spoke in thunder to the Shang bronze casters.</p>
+      <p><strong>明 míng</strong> (bright; luminous; clear; to understand) places <strong>日 rì</strong> (sun) beside <strong>月 yuè</strong> (moon): maximum brightness from both celestial bodies together. It means not only physical light but the clarity of understanding , 明白 (to understand clearly), 聪明 (intelligent, perceptive), 文明 (civilization, lit. "bright culture"). The character consistently crosses the boundary between literal light and cognitive clarity.</p>
       <p>The compound 神明 holds these in tension. The divine (神) is overwhelming, external, announced through natural violence. The luminous (明) is clarity, intelligence, understanding. Together they name a conception of the sacred that defines it through clarity rather than arbitrary power. Chinese theological vocabulary across traditions returns to this: the highest divine quality is not omnipotence but luminous intelligence. The gods know; they see; they are not capricious.</p>
       <p>The compound operates in three registers: (1) gods and deities collectively, any divine being (folk and popular usage), (2) divine mind or intelligence (philosophical usage, especially Zhuangzi and Han Confucianism), and (3) the sacred as an inviolable quality, as in 神明不可冒犯 (the sacred must not be violated).</p>
     </div>
@@ -92,7 +92,7 @@ content_review: 'pending'
 
     <div class="scholar" data-glyph="明">
       <div class="scholar-label">文化洞见 wénhuà dòngjiàn · Cultural Note</div>
-      <p>In the living religious practice of Taiwan, Fujian, and Chinese diaspora communities worldwide, 神明 is the everyday generic for any deity. The home altar (神明廳 shénmíng tīng in Taiwanese Mandarin) might hold 土地公 Tǔdìgōng (the earth god, patron of a neighborhood), 關帝 Guāndì (Guan Yu, god of war and commerce), 媽祖 Māzǔ (the sea goddess), and 觀音 Guānyīn side by side. All are 神明. The word does not distinguish between Daoist, Buddhist, and autochthonous deities — which reflects the actual practice of Chinese popular religion, where these categories bleed into each other without anxiety.</p>
+      <p>In the living religious practice of Taiwan, Fujian, and Chinese diaspora communities worldwide, 神明 is the everyday generic for any deity. The home altar (神明廳 shénmíng tīng in Taiwanese Mandarin) might hold 土地公 Tǔdìgōng (the earth god, patron of a neighborhood), 關帝 Guāndì (Guan Yu, god of war and commerce), 媽祖 Māzǔ (the sea goddess), and 觀音 Guānyīn side by side. All are 神明. The word does not distinguish between Daoist, Buddhist, and autochthonous deities , which reflects the actual practice of Chinese popular religion, where these categories bleed into each other without anxiety.</p>
       <p>In mainland China, formal PRC discourse uses 神明 much less. State-affiliated religious language prefers more specific terms. But in household and private contexts, especially in southern provinces, the word remains current. The gap between formal usage and lived practice is wide.</p>
     </div>
 
@@ -135,7 +135,7 @@ content_review: 'pending'
         </div>
         <div class="tags"><span class="tag tag-v">V phrase 动词短语</span></div>
         <div class="card-def">
-          拜 bài (to bow; to worship; to pay respects) + 神明. The standard verb for the act of ritual veneration — burning incense, bowing, presenting offerings. Common in Taiwan, Fujian, and diaspora communities. The word 拜 is secular enough (拜访 = to visit) that 拜神明 does not sound archaic or overly formal.
+          拜 bài (to bow; to worship; to pay respects) + 神明. The standard verb for the act of ritual veneration , burning incense, bowing, presenting offerings. Common in Taiwan, Fujian, and diaspora communities. The word 拜 is secular enough (拜访 = to visit) that 拜神明 does not sound archaic or overly formal.
         </div>
         <div class="examples">
           <div class="example">
@@ -151,7 +151,7 @@ content_review: 'pending'
           <div class="example">
             <div class="ex-cn">拜神明不一定要去庙，家里的神案也可以。</div>
             <div class="ex-py">Bài shénmíng bù yīdìng yào qù miào, jiā lǐ de shén'àn yě kěyǐ.</div>
-            <div class="ex-en">You don't have to go to a temple to venerate the gods — the altar at home works too.</div>
+            <div class="ex-en">You don't have to go to a temple to venerate the gods , the altar at home works too.</div>
           </div>
         </div>
       </div>
@@ -164,7 +164,7 @@ content_review: 'pending'
         </div>
         <div class="tags"><span class="tag tag-v">V phrase 动词短语</span></div>
         <div class="card-def">
-          请 qǐng (to invite; to request). The ritual act of inviting a deity to be present — either into a statue during a consecration ceremony, into a temporary vessel at a festival, or into a new altar. The statue itself is 神像 shénxiàng; the consecration that animates it with divine presence is the 请神明. The god is a guest; the worshipper is the host.
+          请 qǐng (to invite; to request). The ritual act of inviting a deity to be present , either into a statue during a consecration ceremony, into a temporary vessel at a festival, or into a new altar. The statue itself is 神像 shénxiàng; the consecration that animates it with divine presence is the 请神明. The god is a guest; the worshipper is the host.
         </div>
         <div class="examples">
           <div class="example">
@@ -198,9 +198,9 @@ content_review: 'pending'
 
     <div class="scholar" data-glyph="神">
       <div class="scholar-label">学术洞见 xuéshù dòngjiàn · Scholar Note</div>
-      <p>The Zhuangzi uses 神明 to name the quality of consciousness that the sage has cultivated past ordinary knowing. In the chapter 养生主 (The Basis of Life's Nurturing), Pao Ding the butcher explains that after years of practice he no longer sees the ox as a whole beast; he works entirely through 神 (divine perception) rather than 目 (the eyes). The text names this state "神明" — perception so refined it has become something other than ordinary sight. This is the literary source of a long Chinese tradition that identifies cultivation of attention with something that exceeds technical skill.</p>
-      <p>In the Xunzi (3rd century BCE), 神明 appears differently. Xunzi was skeptical of mysticism but used the term for the acuity that accumulated scholarly effort produces: "积善成德，而神明自得" — "accumulate goodness until virtue forms, and divine clarity comes of itself." Here 神明 is the payoff of disciplined study, not a gift or a mystical state. It is earned.</p>
-      <p>Han dynasty Confucians (2nd–1st century BCE) stretched the term further, applying it to Heaven's intelligence. 天之神明 (the divine clarity of Heaven) in texts like the Chunqiu Fanlu explains why Heaven's moral order is not arbitrary — it is luminous, intelligible, and in principle comprehensible to humans who cultivate themselves sufficiently. This move was significant: it made the cosmos rational without making it mechanical.</p>
+      <p>The Zhuangzi uses 神明 to name the quality of consciousness that the sage has cultivated past ordinary knowing. In the chapter 养生主 (The Basis of Life's Nurturing), Pao Ding the butcher explains that after years of practice he no longer sees the ox as a whole beast; he works entirely through 神 (divine perception) rather than 目 (the eyes). The text names this state "神明" , perception so refined it has become something other than ordinary sight. This is the literary source of a long Chinese tradition that identifies cultivation of attention with something that exceeds technical skill.</p>
+      <p>In the Xunzi (3rd century BCE), 神明 appears differently. Xunzi was skeptical of mysticism but used the term for the acuity that accumulated scholarly effort produces: "积善成德，而神明自得" , "accumulate goodness until virtue forms, and divine clarity comes of itself." Here 神明 is the payoff of disciplined study, not a gift or a mystical state. It is earned.</p>
+      <p>Han dynasty Confucians (2nd–1st century BCE) stretched the term further, applying it to Heaven's intelligence. 天之神明 (the divine clarity of Heaven) in texts like the Chunqiu Fanlu explains why Heaven's moral order is not arbitrary , it is luminous, intelligible, and in principle comprehensible to humans who cultivate themselves sufficiently. This move was significant: it made the cosmos rational without making it mechanical.</p>
     </div>
 
     <div class="cards">
@@ -213,7 +213,7 @@ content_review: 'pending'
         </div>
         <div class="tags"><span class="tag tag-n">N phrase 名词短语</span></div>
         <div class="card-def">
-          A Zhuangzi phrase describing the outward appearance of someone whose inner cultivation has reached a state of unconditioned clarity. 容 róng (bearing; countenance; appearance) suggests that 神明 is visible — it shows in how a person carries themselves. The compound is literary and archaic in modern usage but appears in classical commentaries and cultural criticism.
+          A Zhuangzi phrase describing the outward appearance of someone whose inner cultivation has reached a state of unconditioned clarity. 容 róng (bearing; countenance; appearance) suggests that 神明 is visible , it shows in how a person carries themselves. The compound is literary and archaic in modern usage but appears in classical commentaries and cultural criticism.
         </div>
         <div class="examples">
           <div class="example">
@@ -237,13 +237,13 @@ content_review: 'pending'
         </div>
         <div class="tags"><span class="tag tag-n">V+complement phrase</span></div>
         <div class="card-def">
-          From Xunzi's 劝学 (Encouraging Learning): "积善成德，而神明自得，圣心备焉" — accumulate virtue until integrity forms, and divine clarity will arise of itself; the sage-mind will be complete. 自得 (to obtain spontaneously; to come of itself) signals that 神明 is not a thing you grasp but a state that emerges from sustained effort. The phrasing is often quoted in contexts about patient, long-horizon cultivation.
+          From Xunzi's 劝学 (Encouraging Learning): "积善成德，而神明自得，圣心备焉" , accumulate virtue until integrity forms, and divine clarity will arise of itself; the sage-mind will be complete. 自得 (to obtain spontaneously; to come of itself) signals that 神明 is not a thing you grasp but a state that emerges from sustained effort. The phrasing is often quoted in contexts about patient, long-horizon cultivation.
         </div>
         <div class="examples">
           <div class="example">
             <div class="ex-cn">荀子说积善成德，神明自得，修身不在于顿悟。</div>
             <div class="ex-py">Xúnzǐ shuō jī shàn chéng dé, shénmíng zì dé, xiūshēn bù zàiyú dùnwù.</div>
-            <div class="ex-en">Xunzi said: accumulate virtue until integrity forms and divine clarity comes of itself — self-cultivation is not about sudden enlightenment.</div>
+            <div class="ex-en">Xunzi said: accumulate virtue until integrity forms and divine clarity comes of itself , self-cultivation is not about sudden enlightenment.</div>
           </div>
           <div class="example">
             <div class="ex-cn">他研习书法三十年，下笔时真有神明自得之感。</div>
@@ -309,7 +309,7 @@ content_review: 'pending'
           <div class="example">
             <div class="ex-cn">他吃得少、睡得香、精神饱满，简直像神仙一样。</div>
             <div class="ex-py">Tā chī de shǎo, shuì de xiāng, jīngshén bǎomǎn, jiǎnzhí xiàng shénxiān yīyàng.</div>
-            <div class="ex-en">He eats little, sleeps soundly, and is full of energy — practically like an immortal.</div>
+            <div class="ex-en">He eats little, sleeps soundly, and is full of energy , practically like an immortal.</div>
           </div>
           <div class="example">
             <div class="ex-cn">道教认为通过修炼可以成为神仙，得道飞升。</div>
@@ -332,7 +332,7 @@ content_review: 'pending'
         </div>
         <div class="tags"><span class="tag tag-adj">Adj 形容词 xíngróngcí</span></div>
         <div class="card-def">
-          神 (divine; numinous) + 圣 shèng (sage; sagely; sacred). Where 神明 names a being or a quality of intelligence, 神圣 names the quality of sacredness itself — the inviolability of something set apart. Used both for explicitly religious subjects (神圣的祭坛, the sacred altar) and, very widely in modern Chinese, for anything treated with exceptional seriousness or reverence: 领土神圣不可侵犯 (territory is sacred and inviolable) is a standard formulation in political discourse.
+          神 (divine; numinous) + 圣 shèng (sage; sagely; sacred). Where 神明 names a being or a quality of intelligence, 神圣 names the quality of sacredness itself , the inviolability of something set apart. Used both for explicitly religious subjects (神圣的祭坛, the sacred altar) and, very widely in modern Chinese, for anything treated with exceptional seriousness or reverence: 领土神圣不可侵犯 (territory is sacred and inviolable) is a standard formulation in political discourse.
         </div>
         <div class="examples">
           <div class="example">
@@ -367,12 +367,12 @@ content_review: 'pending'
           <div class="example">
             <div class="ex-cn">这种植物能在极端环境中生存，真的很神奇。</div>
             <div class="ex-py">Zhè zhǒng zhíwù néng zài jíduān huánjìng zhōng shēngcún, zhēn de hěn shénqí.</div>
-            <div class="ex-en">This plant can survive in extreme environments — it's truly remarkable.</div>
+            <div class="ex-en">This plant can survive in extreme environments , it's truly remarkable.</div>
           </div>
           <div class="example">
             <div class="ex-cn">两个陌生人竟然是失散多年的兄弟，人生真神奇。</div>
             <div class="ex-py">Liǎng gè mòshēng rén jìngrán shì shīsàn duōnián de xiōngdì, rénshēng zhēn shénqí.</div>
-            <div class="ex-en">Two strangers turned out to be brothers separated for many years — life is truly extraordinary.</div>
+            <div class="ex-en">Two strangers turned out to be brothers separated for many years , life is truly extraordinary.</div>
           </div>
         </div>
       </div>
@@ -385,7 +385,7 @@ content_review: 'pending'
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          神 (gods; divine) + 话 huà (speech; story; words). The modern compound for mythology emerged in the late 19th century as a translation equivalent for the Western academic concept. Literally "god-stories." Classical Chinese literature had no single term for mythology as a genre — divine tales were embedded in historical chronicles, philosophical texts, and encyclopedias rather than collected separately. 神话 is now fully naturalized and used for mythology of any culture.
+          神 (gods; divine) + 话 huà (speech; story; words). The modern compound for mythology emerged in the late 19th century as a translation equivalent for the Western academic concept. Literally "god-stories." Classical Chinese literature had no single term for mythology as a genre , divine tales were embedded in historical chronicles, philosophical texts, and encyclopedias rather than collected separately. 神话 is now fully naturalized and used for mythology of any culture.
         </div>
         <div class="examples">
           <div class="example">
@@ -419,14 +419,14 @@ content_review: 'pending'
 
     <div class="scholar" data-glyph="明">
       <div class="scholar-label">辨析 biànxī · Semantic Contrast</div>
-      <p><strong>神明 shénmíng</strong> and <strong>神灵 shénlíng</strong> overlap heavily in folk-religion contexts but pull apart at the edges. 神明 implies a deity with recognized status in the divine hierarchy — a god with a name, a temple, a specific jurisdiction (the sea, the earth of a particular village, merchants). 神灵 casts a wider net: any spiritually efficacious being, including the diffuse spirits of rivers and mountains, the wandering ghosts of the unburied dead, and nature forces that have not been personified into named gods. You would say 这座庙的神明很灵 (the deity of this temple is highly efficacious) but 山林间的神灵难以捉摸 (the spirits of the mountain forest are hard to grasp). The former is established; the latter is untamed.</p>
-      <p><strong>神仙 shénxiān</strong> occupies a specifically Daoist register. Where 神明 covers folk deities of mixed origin (many began as historical humans elevated after death: Guan Yu was a general, Mazu was a woman from Fujian), 神仙 refers to immortals in the specifically Daoist sense — beings who transcended mortality through inner cultivation, often depicted in mountains above the clouds, freed from the bureaucratic heaven that manages ordinary divine affairs. 神仙日子 (an immortal's life) means a life of pleasure and ease, entirely secular in modern usage.</p>
-      <p>In philosophical texts, 神明 does something neither 神灵 nor 神仙 does: it names a quality of consciousness or intelligence, not a being. The Zhuangzi's 神明之容 and Xunzi's 神明自得 use 神明 the way English might use "luminous understanding" or "supernal clarity." Neither 神灵 nor 神仙 carries this philosophical freight. When reading classical texts, the context tells you which sense is active — and both senses sometimes operate simultaneously, which is part of why the compound has remained productive across two millennia.</p>
+      <p><strong>神明 shénmíng</strong> and <strong>神灵 shénlíng</strong> overlap heavily in folk-religion contexts but pull apart at the edges. 神明 implies a deity with recognized status in the divine hierarchy , a god with a name, a temple, a specific jurisdiction (the sea, the earth of a particular village, merchants). 神灵 casts a wider net: any spiritually efficacious being, including the diffuse spirits of rivers and mountains, the wandering ghosts of the unburied dead, and nature forces that have not been personified into named gods. You would say 这座庙的神明很灵 (the deity of this temple is highly efficacious) but 山林间的神灵难以捉摸 (the spirits of the mountain forest are hard to grasp). The former is established; the latter is untamed.</p>
+      <p><strong>神仙 shénxiān</strong> occupies a specifically Daoist register. Where 神明 covers folk deities of mixed origin (many began as historical humans elevated after death: Guan Yu was a general, Mazu was a woman from Fujian), 神仙 refers to immortals in the specifically Daoist sense , beings who transcended mortality through inner cultivation, often depicted in mountains above the clouds, freed from the bureaucratic heaven that manages ordinary divine affairs. 神仙日子 (an immortal's life) means a life of pleasure and ease, entirely secular in modern usage.</p>
+      <p>In philosophical texts, 神明 does something neither 神灵 nor 神仙 does: it names a quality of consciousness or intelligence, not a being. The Zhuangzi's 神明之容 and Xunzi's 神明自得 use 神明 the way English might use "luminous understanding" or "supernal clarity." Neither 神灵 nor 神仙 carries this philosophical freight. When reading classical texts, the context tells you which sense is active , and both senses sometimes operate simultaneously, which is part of why the compound has remained productive across two millennia.</p>
     </div>
 
     <div class="pattern">
       <span class="label">辨析速查 biànxī sùchá · Quick Contrast Reference</span>
-      <strong>神明</strong> — recognized deity with jurisdiction; collective term for gods on an altar or in a temple; in classical texts: luminous intelligence, divine clarity. <strong>神灵</strong> — any spiritually active entity, wider and less hierarchically defined; includes nature spirits and ghosts. <strong>神仙</strong> — Daoist immortals; humans who achieved transcendence through cultivation; in modern usage: anyone living an enviably carefree life. <strong>神圣</strong> — the quality of sacredness itself (adjective); now widely secular. <strong>神奇</strong> — wondrous, miraculous; largely secular in modern usage.
+      <strong>神明</strong> , recognized deity with jurisdiction; collective term for gods on an altar or in a temple; in classical texts: luminous intelligence, divine clarity. <strong>神灵</strong> , any spiritually active entity, wider and less hierarchically defined; includes nature spirits and ghosts. <strong>神仙</strong> — Daoist immortals; humans who achieved transcendence through cultivation; in modern usage: anyone living an enviably carefree life. <strong>神圣</strong> — the quality of sacredness itself (adjective); now widely secular. <strong>神奇</strong> — wondrous, miraculous; largely secular in modern usage.
     </div>
 
     <!-- ── ADJACENT VOCAB ── -->

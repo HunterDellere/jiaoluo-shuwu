@@ -347,7 +347,7 @@ content_sources:
         </div>
         <div class="note">
           <span class="note-label">成语 chéngyǔ · Idiom</span>
-          <strong>感激涕零</strong> gǎnjī tì líng — "gratitude so deep that tears fall." 涕零 = tears streaming down the face. Classical idiom for overwhelming thankfulness.
+          <strong>感激涕零</strong> gǎnjī tì líng , "gratitude so deep that tears fall." 涕零 = tears streaming down the face. Classical idiom for overwhelming thankfulness.
         </div>
       </div>
 
@@ -437,7 +437,7 @@ content_sources:
         </div>
         <div class="note">
           <span class="note-label">成语 chéngyǔ</span>
-          <strong>感慨万千</strong> gǎnkǎi wànqiān — "ten thousand emotions surging." The go-to phrase for homecomings, reunions, and witnessing great change.
+          <strong>感慨万千</strong> gǎnkǎi wànqiān , "ten thousand emotions surging." The go-to phrase for homecomings, reunions, and witnessing great change.
         </div>
       </div>
 
@@ -860,7 +860,7 @@ content_sources:
     <!-- RETENTION IMAGE -->
     <div class="scholar" data-glyph="感" style="margin-top:2.5rem;">
       <div class="scholar-label">记忆法 jìyìfǎ · Master Retention Image</div>
-      <p>Imagine 感 gǎn as a <strong>tuning fork pressed against the heart.</strong> When something real strikes it — a kindness, a piece of music, a pathogen, a homecoming — the fork vibrates and the heart resonates. The upper element 咸 (universal, reaching all) tells you the vibration can travel anywhere: upward into gratitude 感恩, outward into others 感染, inward into insight 感悟, dissolving into bittersweet sighs 感慨.</p>
+      <p>Imagine 感 gǎn as a <strong>tuning fork pressed against the heart.</strong> When something real strikes it , a kindness, a piece of music, a pathogen, a homecoming — the fork vibrates and the heart resonates. The upper element 咸 (universal, reaching all) tells you the vibration can travel anywhere: upward into gratitude 感恩, outward into others 感染, inward into insight 感悟, dissolving into bittersweet sighs 感慨.</p>
       <p>In Japanese: 感じる <em>kanjiru</em>. The same tuning fork, the same heart.</p>
     </div>
 

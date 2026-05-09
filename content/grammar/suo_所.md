@@ -25,7 +25,7 @@ content_review: 'pending'
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>所 suǒ — Jiǎoluò Shūwū · 角落書屋</title>
+<title>所 suǒ , Jiǎoluò Shūwū · 角落書屋</title>
 <meta name="description" content="所 suǒ is the classical Chinese nominalizer that turns a verb into 'that which is verb-ed.' It survives in modern formal Mandarin in set phrases, passive constructions, and written registers.">
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>字</text></svg>">
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -65,7 +65,7 @@ content_review: 'pending'
       <span class="topic-hero-eyebrow">Grammar · 语法 yǔfǎ</span>
       <h1 class="topic-hero-title">所</h1>
       <span class="topic-hero-title-py">suǒ</span>
-      <p class="topic-hero-desc">The function word that turns verbs into noun phrases — and has been doing so since Confucius quoted it in the Analects.</p>
+      <p class="topic-hero-desc">The function word that turns verbs into noun phrases , and has been doing so since Confucius quoted it in the Analects.</p>
     </header>
 
     <!-- ═══ SECTION 1: CORE PATTERN ═══ -->
@@ -84,13 +84,13 @@ content_review: 'pending'
         <span class="pf-slot pf-result">noun phrase: "that which is verb-ed"</span>
       </div>
       <div class="pattern-note">
-        所 precedes a transitive verb and converts the verb's object into the grammatical head: the result is a noun phrase naming what was acted upon. No agent is specified in this basic form — it can be filled in by context.
+        所 precedes a transitive verb and converts the verb's object into the grammatical head: the result is a noun phrase naming what was acted upon. No agent is specified in this basic form , it can be filled in by context.
       </div>
     </div>
 
     <div class="scholar" data-glyph="所">
-      <p>The character 所 originally depicted an axe at work — oracle bone forms show a door or passage; later forms associate it with a place where activity occurs. Both strands feed the modern character: 所 as a place (a site of action) and 所 as the grammatical nominalizer (the locus of what the verb produces). By the time of the Spring and Autumn period (771–476 BCE), 所 was already a fully productive function word in philosophical prose.</p>
-      <p>The Analects give the clearest early example of 所 in argument. In 15.24, Zigong asks Confucius whether there is one word that can guide conduct throughout life. Confucius replies with the Golden Rule: <strong>己所不欲，勿施于人</strong> (jǐ suǒ bù yù, wù shī yú rén) — literally, "self's 所不欲, do not impose on others." The phrase 所不欲 is the nominalizer at work: 所 + 不欲 (not desire) yields "that which one does not desire." The construction is so compact that the entire ethical principle fits in eight characters.</p>
+      <p>The character 所 originally depicted an axe at work , oracle bone forms show a door or passage; later forms associate it with a place where activity occurs. Both strands feed the modern character: 所 as a place (a site of action) and 所 as the grammatical nominalizer (the locus of what the verb produces). By the time of the Spring and Autumn period (771–476 BCE), 所 was already a fully productive function word in philosophical prose.</p>
+      <p>The Analects give the clearest early example of 所 in argument. In 15.24, Zigong asks Confucius whether there is one word that can guide conduct throughout life. Confucius replies with the Golden Rule: <strong>己所不欲，勿施于人</strong> (jǐ suǒ bù yù, wù shī yú rén) , literally, "self's 所不欲, do not impose on others." The phrase 所不欲 is the nominalizer at work: 所 + 不欲 (not desire) yields "that which one does not desire." The construction is so compact that the entire ethical principle fits in eight characters.</p>
     </div>
 
     <div class="cards">
@@ -100,7 +100,7 @@ content_review: 'pending'
           <span class="card-py">suǒ zhī</span>
           <span class="card-en">that which is known; what one knows</span>
         </div>
-        <p>所 + 知 (to know). The noun phrase refers to the content of knowledge, not the act of knowing. Used in classical and formal modern contexts: <em>尽我所知</em> (jìn wǒ suǒ zhī) — to the best of my knowledge.</p>
+        <p>所 + 知 (to know). The noun phrase refers to the content of knowledge, not the act of knowing. Used in classical and formal modern contexts: <em>尽我所知</em> (jìn wǒ suǒ zhī) , to the best of my knowledge.</p>
       </div>
       <div class="card c-teal">
         <div class="card-head">
@@ -108,7 +108,7 @@ content_review: 'pending'
           <span class="card-py">suǒ ài</span>
           <span class="card-en">that which is loved; the one one loves</span>
         </div>
-        <p>所 + 爱 (to love). The phrase covers things or people indifferently — context determines which. Classical poetry uses it freely for beloved persons: <em>求之不得，寤寐思服，悠哉悠哉，辗转反侧</em> — unable to obtain 所爱, one tosses in sleepless longing (Shījīng, "Guānjū").</p>
+        <p>所 + 爱 (to love). The phrase covers things or people indifferently , context determines which. Classical poetry uses it freely for beloved persons: <em>求之不得，寤寐思服，悠哉悠哉，辗转反侧</em> , unable to obtain 所爱, one tosses in sleepless longing (Shījīng, "Guānjū").</p>
       </div>
       <div class="card c-teal">
         <div class="card-head">
@@ -116,7 +116,7 @@ content_review: 'pending'
           <span class="card-py">suǒ jiàn</span>
           <span class="card-en">that which is seen; what one sees</span>
         </div>
-        <p>所 + 见 (to see). Common in formal writing: <em>所见所闻</em> (suǒ jiàn suǒ wén) — what one sees and hears, i.e., personal observations. The doubled pattern (所V所V) is a classical reduplication formula that modern formal prose preserves intact.</p>
+        <p>所 + 见 (to see). Common in formal writing: <em>所见所闻</em> (suǒ jiàn suǒ wén) , what one sees and hears, i.e., personal observations. The doubled pattern (所V所V) is a classical reduplication formula that modern formal prose preserves intact.</p>
       </div>
       <div class="card c-ochre">
         <div class="card-head">
@@ -132,7 +132,7 @@ content_review: 'pending'
     <span class="section-anchor" id="modern-survival"></span>
     <div class="section-head">
       <h2>所 + verb + 的 in modern written Chinese</h2>
-      <span class="section-head-py">suǒ … de — formal written register</span>
+      <span class="section-head-py">suǒ … de , formal written register</span>
     </div>
 
     <div class="pattern">
@@ -153,8 +153,8 @@ content_review: 'pending'
     </div>
 
     <div class="scholar" data-glyph="所">
-      <p>Modern formal Mandarin — newspapers, official documents, academic writing, legal texts — preserves the 所V construction with a 的 appended. The spoken language rarely uses it; when someone says 所说的话 (suǒ shuō de huà) rather than 说的话, the register is noticeably elevated. Students reading modern Chinese prose encounter this pattern constantly but may not recognize the classical 所 underneath the modern clothing.</p>
-      <p>Two set phrases built on this pattern appear so frequently they have become independent idioms. 众所周知 (zhòng suǒ zhōu zhī) — literally "that which all know thoroughly" — is the standard written formula for "as is universally known" and opens newspaper editorials and academic papers alike. 各得其所 (gè dé qí suǒ) — "each gets their proper place" — uses 所 in its noun sense (place, proper station) but the phrase's structure shows how tightly the grammatical and nominal meanings interweave.</p>
+      <p>Modern formal Mandarin , newspapers, official documents, academic writing, legal texts , preserves the 所V construction with a 的 appended. The spoken language rarely uses it; when someone says 所说的话 (suǒ shuō de huà) rather than 说的话, the register is noticeably elevated. Students reading modern Chinese prose encounter this pattern constantly but may not recognize the classical 所 underneath the modern clothing.</p>
+      <p>Two set phrases built on this pattern appear so frequently they have become independent idioms. 众所周知 (zhòng suǒ zhōu zhī) , literally "that which all know thoroughly" , is the standard written formula for "as is universally known" and opens newspaper editorials and academic papers alike. 各得其所 (gè dé qí suǒ) , "each gets their proper place" , uses 所 in its noun sense (place, proper station) but the phrase's structure shows how tightly the grammatical and nominal meanings interweave.</p>
     </div>
 
     <div class="cards">
@@ -172,7 +172,7 @@ content_review: 'pending'
           <span class="card-py">suǒ zuò de shì</span>
           <span class="card-en">the things done; what was done</span>
         </div>
-        <p>所 + 做 (do) + 的 + 事 (matter/thing). Appears in accountability contexts — reports, summaries, evaluations. The phrase is neutral: it names the actions without judging them.</p>
+        <p>所 + 做 (do) + 的 + 事 (matter/thing). Appears in accountability contexts , reports, summaries, evaluations. The phrase is neutral: it names the actions without judging them.</p>
       </div>
       <div class="card c-ochre">
         <div class="card-head">
@@ -195,8 +195,8 @@ content_review: 'pending'
     <!-- ═══ SECTION 3: PASSIVE ═══ -->
     <span class="section-anchor" id="passive"></span>
     <div class="section-head">
-      <h2>为…所… — the classical passive</h2>
-      <span class="section-head-py">wèi A suǒ V — "to be V-ed by A"</span>
+      <h2>为…所… , the classical passive</h2>
+      <span class="section-head-py">wèi A suǒ V , "to be V-ed by A"</span>
     </div>
 
     <div class="pattern">
@@ -218,8 +218,8 @@ content_review: 'pending'
 
     <div class="scholar" data-glyph="为">
       <p>Classical Chinese had no single passive marker equivalent to English "by" + past participle. The 为…所… construction distributes the work across two characters: 为 (wèi, here meaning "by" or "through") introduces the agent, and 所 converts the following verb into the noun phrase that names the action suffered. Together they express: the subject underwent what the agent did.</p>
-      <p>The construction is especially common in historical and legal writing, where passives naturally occur — rulers are deposed, generals are ambushed, cities are taken. It migrated into modern formal Chinese almost unchanged. Legal documents, academic prose, and formal journalism still use it where the spoken language would use 被. The phrase 为人所知 (wèi rén suǒ zhī, "to be known by people / to become known") is the formal equivalent of colloquial 被人知道 — the meaning is identical, the register is several degrees more elevated.</p>
-      <p>One phrase crystallizes how the construction can also carry irony: 为所欲为 (wèi suǒ yù wéi). Here the agent slot is empty — 所欲 ("that which one desires") fills it — yielding "to act as one's desires dictate." In classical usage this describes unchecked authority or moral abandon. In modern colloquial Chinese it survives as a semi-idiomatic phrase for doing whatever one pleases, with an edge of recklessness.</p>
+      <p>The construction is especially common in historical and legal writing, where passives naturally occur , rulers are deposed, generals are ambushed, cities are taken. It migrated into modern formal Chinese almost unchanged. Legal documents, academic prose, and formal journalism still use it where the spoken language would use 被. The phrase 为人所知 (wèi rén suǒ zhī, "to be known by people / to become known") is the formal equivalent of colloquial 被人知道 , the meaning is identical, the register is several degrees more elevated.</p>
+      <p>One phrase crystallizes how the construction can also carry irony: 为所欲为 (wèi suǒ yù wéi). Here the agent slot is empty , 所欲 ("that which one desires") fills it , yielding "to act as one's desires dictate." In classical usage this describes unchecked authority or moral abandon. In modern colloquial Chinese it survives as a semi-idiomatic phrase for doing whatever one pleases, with an edge of recklessness.</p>
     </div>
 
     <div class="cards">
@@ -237,7 +237,7 @@ content_review: 'pending'
           <span class="card-py">wèi qíng suǒ kùn</span>
           <span class="card-en">to be trapped by emotion; entangled in feeling</span>
         </div>
-        <p>为 + 情 (emotion/feeling, agent) + 所 + 困 (to be trapped). Common in literary contexts — novels, lyrics, film dialogue — to describe a person helpless before their own feelings. The 为…所… frame makes emotion the agent acting upon the person, a construction that captures the classical view of passion as something that happens to you.</p>
+        <p>为 + 情 (emotion/feeling, agent) + 所 + 困 (to be trapped). Common in literary contexts , novels, lyrics, film dialogue , to describe a person helpless before their own feelings. The 为…所… frame makes emotion the agent acting upon the person, a construction that captures the classical view of passion as something that happens to you.</p>
       </div>
       <div class="card c-violet">
         <div class="card-head">
@@ -245,7 +245,7 @@ content_review: 'pending'
           <span class="card-py">wèi suǒ yù wéi</span>
           <span class="card-en">to do whatever one pleases; to act without restraint</span>
         </div>
-        <p>为 + 所欲 (that which one desires) + 为 (do/act). The agent slot is filled by 所欲 itself, creating a reflexive structure: acting according to one's own unchecked desire. In classical texts the phrase is negative — lawless, arrogant behavior. In modern colloquial it retains a mild edge of recklessness, though it can be used self-deprecatingly or humorously.</p>
+        <p>为 + 所欲 (that which one desires) + 为 (do/act). The agent slot is filled by 所欲 itself, creating a reflexive structure: acting according to one's own unchecked desire. In classical texts the phrase is negative , lawless, arrogant behavior. In modern colloquial it retains a mild edge of recklessness, though it can be used self-deprecatingly or humorously.</p>
       </div>
     </div>
 
@@ -257,8 +257,8 @@ content_review: 'pending'
     </div>
 
     <div class="scholar" data-glyph="所">
-      <p>Several of the most common connectives and phrases in modern Mandarin contain 所 that learners may not recognize as the same function word. 所以 (suǒyǐ, "therefore") is the clearest case: 以 means "by means of," so 所以 was originally "that by means of which" — the reason or method — which then grammaticalized to "therefore." The classical phrase 之所以 (zhī suǒyǐ) still carries the causal sense more explicitly: 之所以X是因为Y means "the reason X is the case is because Y."</p>
-      <p>所谓 (suǒwèi, "so-called") and 无所谓 (wú suǒwèi, "it doesn't matter / whatever") share the same core: 谓 means "to be called" or "to say," so 所谓 is "that which is called" and 无所谓 is "there is nothing that can be called [it]" — hence, it has no real weight, it doesn't matter. These two phrases occupy opposite ends of the register scale: 所谓 is formal and often skeptical (the scare-quotes word in written Chinese), while 无所谓 is colloquial and casual to the point of indifference.</p>
+      <p>Several of the most common connectives and phrases in modern Mandarin contain 所 that learners may not recognize as the same function word. 所以 (suǒyǐ, "therefore") is the clearest case: 以 means "by means of," so 所以 was originally "that by means of which" , the reason or method , which then grammaticalized to "therefore." The classical phrase 之所以 (zhī suǒyǐ) still carries the causal sense more explicitly: 之所以X是因为Y means "the reason X is the case is because Y."</p>
+      <p>所谓 (suǒwèi, "so-called") and 无所谓 (wú suǒwèi, "it doesn't matter / whatever") share the same core: 谓 means "to be called" or "to say," so 所谓 is "that which is called" and 无所谓 is "there is nothing that can be called [it]" , hence, it has no real weight, it doesn't matter. These two phrases occupy opposite ends of the register scale: 所谓 is formal and often skeptical (the scare-quotes word in written Chinese), while 无所谓 is colloquial and casual to the point of indifference.</p>
     </div>
 
     <div class="cards">
@@ -278,7 +278,7 @@ content_review: 'pending'
           <span class="card-en">the reason why; the cause for which</span>
           <span class="tag-n">conjunction</span>
         </div>
-        <p>之 (genitive/topic marker) + 所以 = "the reason for which X is the case." Used in written explanations where the cause is being foregrounded: 之所以失败，是因为准备不足 — "The reason for the failure was insufficient preparation." More formal than 因为 alone; signals that the explanation is the main point.</p>
+        <p>之 (genitive/topic marker) + 所以 = "the reason for which X is the case." Used in written explanations where the cause is being foregrounded: 之所以失败，是因为准备不足 , "The reason for the failure was insufficient preparation." More formal than 因为 alone; signals that the explanation is the main point.</p>
       </div>
       <div class="card c-sienna">
         <div class="card-head">
@@ -287,7 +287,7 @@ content_review: 'pending'
           <span class="card-en">so-called; what is called; what people call</span>
           <span class="tag-n">modifier</span>
         </div>
-        <p>所 + 谓 (to call/say) = "that which is called." Introduces a term or concept with a mild skeptical or defining frame. 所谓"专家" — "so-called 'experts'" — implies doubt about the label. 所谓的自由 — "what is called freedom" — can be neutral or ironic depending on context. Written and formal register.</p>
+        <p>所 + 谓 (to call/say) = "that which is called." Introduces a term or concept with a mild skeptical or defining frame. 所谓"专家" , "so-called 'experts'" , implies doubt about the label. 所谓的自由 , "what is called freedom" , can be neutral or ironic depending on context. Written and formal register.</p>
       </div>
       <div class="card c-sienna">
         <div class="card-head">
@@ -296,7 +296,7 @@ content_review: 'pending'
           <span class="card-en">it doesn't matter; I don't care; whatever</span>
           <span class="tag-n">set phrase</span>
         </div>
-        <p>无 (not have) + 所谓 (that which can be called) = "there is nothing that can be called [a difference/issue]." Colloquial expression of indifference. 你去不去都无所谓 — whether you go or not, it doesn't matter. The phrase sounds casual; using 所谓 formally in the same conversation would create a stark register mismatch.</p>
+        <p>无 (not have) + 所谓 (that which can be called) = "there is nothing that can be called [a difference/issue]." Colloquial expression of indifference. 你去不去都无所谓 , whether you go or not, it doesn't matter. The phrase sounds casual; using 所谓 formally in the same conversation would create a stark register mismatch.</p>
       </div>
       <div class="card c-sienna">
         <div class="card-head">
@@ -314,7 +314,7 @@ content_review: 'pending'
           <span class="card-en">somewhat; to some extent; there is some degree of</span>
           <span class="tag-adv">adverb</span>
         </div>
-        <p>有 (have/there is) + 所 (that which) + V = "there is some measure of V-ing." Formal softener in written Chinese: 有所改善 (yǒu suǒ gǎishàn) — somewhat improved; 有所不同 (yǒu suǒ bùtóng) — somewhat different. The construction hedges without the awkwardness of 一点儿 in formal prose.</p>
+        <p>有 (have/there is) + 所 (that which) + V = "there is some measure of V-ing." Formal softener in written Chinese: 有所改善 (yǒu suǒ gǎishàn) , somewhat improved; 有所不同 (yǒu suǒ bùtóng) , somewhat different. The construction hedges without the awkwardness of 一点儿 in formal prose.</p>
       </div>
     </div>
 
@@ -322,12 +322,12 @@ content_review: 'pending'
     <span class="section-anchor" id="place"></span>
     <div class="section-head">
       <h2>所 as a noun meaning "place"</h2>
-      <span class="section-head-py">suǒ — site, institution, station</span>
+      <span class="section-head-py">suǒ , site, institution, station</span>
     </div>
 
     <div class="scholar" data-glyph="场">
       <p>Alongside its grammatical function, 所 is a productive noun meaning "place" or "institution." This usage is semantically distinct from the nominalizer but comes from the same character, and the two meanings are historically connected: a 所 is the site where an action takes place, which is cognate with "that which an action produces." In modern compounds, 所 names physical locations and organizational units. It is a formal suffix; colloquial speech prefers 地方 (dìfang) or 处 (chù) for general "place."</p>
-      <p>The institutional 所 appears in government and academic naming conventions that learners encounter constantly. 派出所 (pàichūsuǒ) is the local police substation — the term appears on street signs throughout mainland Chinese cities. 研究所 (yánjiūsuǒ) is used for research institutes at the graduate level, equivalent in some contexts to a department or separate research unit within a university. These compounds have nothing to do with grammar, but the same character carries both roles, and recognizing the semantic overlap helps anchor both.</p>
+      <p>The institutional 所 appears in government and academic naming conventions that learners encounter constantly. 派出所 (pàichūsuǒ) is the local police substation , the term appears on street signs throughout mainland Chinese cities. 研究所 (yánjiūsuǒ) is used for research institutes at the graduate level, equivalent in some contexts to a department or separate research unit within a university. These compounds have nothing to do with grammar, but the same character carries both roles, and recognizing the semantic overlap helps anchor both.</p>
     </div>
 
     <div class="cards">
@@ -338,7 +338,7 @@ content_review: 'pending'
           <span class="card-en">place; venue; site</span>
           <span class="tag-n">noun</span>
         </div>
-        <p>场 (open space, field) + 所 (place). A general formal word for venue or site. 公共场所 (gōnggòng chǎngsuǒ) — public places — appears on signs and in regulations. More formal than 地方; used in official and written contexts.</p>
+        <p>场 (open space, field) + 所 (place). A general formal word for venue or site. 公共场所 (gōnggòng chǎngsuǒ) , public places , appears on signs and in regulations. More formal than 地方; used in official and written contexts.</p>
       </div>
       <div class="card c-red">
         <div class="card-head">
@@ -372,8 +372,8 @@ content_review: 'pending'
     <!-- ═══ SECTION 6: CONTRAST ═══ -->
     <span class="section-anchor" id="contrast"></span>
     <div class="section-head">
-      <h2>所 vs. 者 vs. 之 — three classical nominalizers</h2>
-      <span class="section-head-py">suǒ / zhě / zhī — contrasting functions</span>
+      <h2>所 vs. 者 vs. 之 , three classical nominalizers</h2>
+      <span class="section-head-py">suǒ / zhě / zhī , contrasting functions</span>
     </div>
 
     <div class="pattern">
@@ -406,7 +406,7 @@ content_review: 'pending'
     </div>
 
     <div class="scholar" data-glyph="者">
-      <p>The contrast between 所 and 者 is cleaner than it might appear from translations. 知者 (zhī zhě) is "the one who knows" — 者 attaches after the verb to nominalize its subject. 所知 (suǒ zhī) is "that which is known" — 所 precedes the verb to nominalize its object. The same verb 知 produces two entirely different noun phrases depending on which nominalizer is used and where it sits.</p>
+      <p>The contrast between 所 and 者 is cleaner than it might appear from translations. 知者 (zhī zhě) is "the one who knows" , 者 attaches after the verb to nominalize its subject. 所知 (suǒ zhī) is "that which is known" , 所 precedes the verb to nominalize its object. The same verb 知 produces two entirely different noun phrases depending on which nominalizer is used and where it sits.</p>
       <p>Classical Chinese texts exploit this distinction precisely. The Analects' 知者不惑，仁者不忧，勇者不惧 (the knowing one is not confused, the benevolent one does not worry, the courageous one does not fear) uses 者 three times in subject position. The passage is about the qualities of a person. Switching to 所 would shift the frame entirely: 所知 would ask about the content of knowledge, not the character of the knower.</p>
       <p>之 operates on a different axis. Between two nouns, 之 is genitive: 天下之大 (tiānxià zhī dà, "the greatness of the world under heaven"). After a verb, 之 can stand as a pronoun for the object: 爱之 (ài zhī, to love it/him/her). 之 does not nominalize the verb the way 所 does; it either connects nouns or substitutes for an object.</p>
     </div>

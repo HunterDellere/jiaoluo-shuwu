@@ -126,7 +126,7 @@ content_sources:
     </div>
 
     <div class="scholar" data-glyph="三">
-      <div class="scholar-label">天 地 人 — heaven, earth, humanity</div>
+      <div class="scholar-label">天 地 人 , heaven, earth, humanity</div>
       <p>Dǒng Zhòngshū's gloss keys into a cosmological structure older than his own system: the <strong>三才</strong> (sāncái, "three powers") of Heaven, Earth, and Humanity. These are the three interacting realms through which qi circulates. The king's specifically royal function is to keep them aligned, performing the sacrifices that Heaven requires, regulating the agricultural calendar that Earth imposes, and governing the human society that fills the space between.</p>
       <p>When the three fall out of alignment (drought, earthquake, rebellion), the king's authority is called into question. The <em>Mandate of Heaven</em> (天命 tiānmìng) doctrine makes the causal chain explicit: a bad king is a king who has lost Heaven's support, and Heaven's withdrawal shows in the disasters of Earth and the unrest of the people. The character 王, with its three horizontals joined by one vertical, is the visual summary of this political theology.</p>
     </div>
@@ -144,9 +144,9 @@ content_sources:
       <p>When 王 appears as a component on the left of other characters, it is almost never "king." It is <strong>玉</strong> (yù, "jade"), a separate character whose dot disappears when reduced to radical form, leaving a shape identical to 王. Radical dictionaries index these compounds under 玉 (radical 96), though many call it the "wáng radical" informally.</p>
       <p>Every character with 王 on the left is, etymologically, about jade or precious stones:</p>
       <ul>
-        <li><strong>玛</strong> (mǎ, as in 玛瑙 agate), <strong>珍</strong> (zhēn, precious), <strong>珠</strong> (zhū, pearl), <strong>玺</strong> (xǐ, imperial seal — a jade object).</li>
-        <li><strong>理</strong> (lǐ) — originally the natural grain of jade, extended to "pattern, principle, reason." Appears everywhere in modern Chinese: 道理 (reason), 理由 (cause), 处理 (to handle), 物理 (physics), 心理 (psychology). The most philosophically loaded of the jade-radical characters.</li>
-        <li><strong>现</strong> (xiàn) — jade appearing in light, extended to "manifest, present." 现在 (now), 出现 (to appear), 发现 (to discover).</li>
+        <li><strong>玛</strong> (mǎ, as in 玛瑙 agate), <strong>珍</strong> (zhēn, precious), <strong>珠</strong> (zhū, pearl), <strong>玺</strong> (xǐ, imperial seal , a jade object).</li>
+        <li><strong>理</strong> (lǐ) , originally the natural grain of jade, extended to "pattern, principle, reason." Appears everywhere in modern Chinese: 道理 (reason), 理由 (cause), 处理 (to handle), 物理 (physics), 心理 (psychology). The most philosophically loaded of the jade-radical characters.</li>
+        <li><strong>现</strong> (xiàn) , jade appearing in light, extended to "manifest, present." 现在 (now), 出现 (to appear), 发现 (to discover).</li>
       </ul>
       <p>Knowing this disentanglement is useful. When you see 王 in a compound, the character is usually not talking about kings. It is talking about the green-stone virtues the Chinese tradition attributed to jade: clarity, integrity, permanence.</p>
     </div>
@@ -181,7 +181,7 @@ content_sources:
           <span class="card-py">guówáng</span>
           <span class="card-en">king (of a country)</span>
         </div>
-        <p class="card-def">"Country-king." The standard modern word for a king of a foreign country or of a kingdom in folklore. A Chinese emperor is not a 国王 — for him there is 皇帝 (huángdì).</p>
+        <p class="card-def">"Country-king." The standard modern word for a king of a foreign country or of a kingdom in folklore. A Chinese emperor is not a 国王 , for him there is 皇帝 (huángdì).</p>
       </div>
       <div class="card c-n">
         <div class="tags"><span class="tag tag-n">n</span></div>
@@ -208,7 +208,7 @@ content_sources:
           <span class="card-py">wángguó</span>
           <span class="card-en">kingdom</span>
         </div>
-        <p class="card-def">"King's country." Used both literally (a monarchical state) and metaphorically (动物王国 the "animal kingdom," 商业王国 a business empire). The reversal of 国王 to 王国 changes the grammar — 国王 is a person; 王国 is a realm.</p>
+        <p class="card-def">"King's country." Used both literally (a monarchical state) and metaphorically (动物王国 the "animal kingdom," 商业王国 a business empire). The reversal of 国王 to 王国 changes the grammar , 国王 is a person; 王国 is a realm.</p>
       </div>
       <div class="card c-adj">
         <div class="tags"><span class="tag tag-adj">adj</span></div>
@@ -233,7 +233,7 @@ content_sources:
       <div class="cy">
         <div class="cy-cn">王婆卖瓜</div>
         <div class="cy-py">Wáng pó mài guā</div>
-        <div class="cy-en">"Old Mrs. Wang sells melons" — self-promotion</div>
+        <div class="cy-en">"Old Mrs. Wang sells melons" , self-promotion</div>
         <div class="cy-note">The full phrase is 王婆卖瓜，自卖自夸 ("Old Mrs. Wang sells melons, selling and praising them herself") — said of anyone who advertises their own merits too openly. Gently mocking, not cruel.</div>
       </div>
       <div class="cy">

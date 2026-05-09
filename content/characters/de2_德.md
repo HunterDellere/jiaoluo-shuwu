@@ -111,12 +111,12 @@ content_sources:
 
     <div class="scholar" data-glyph="德">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
-      <p><strong>德 dé = 彳 + 十 + 罒 + 一 + 心</strong> in the formal IDS decomposition: 彳 (chì, step / road) on the left, with the right side stacking 十 (ten) over 罒 (the horizontal-eye component) over 一 (one) over 心 (xīn, heart). The historically-meaningful reading collapses the upper-right stack into <strong>直</strong> zhí (straight, upright) — read as <em>walking a straight road with a straight heart.</em></p>
-      <p>The radical 彳 is the left half of 行 (xíng, to walk; to act) — the step-radical, the marker of motion and conduct. The right side is the upper element straight (上) sitting over heart (下). Read the whole as a pictograph of moral life: <em>conduct (彳) made straight at the heart (心).</em> Virtue, on this account, is not a list of rules; it is what happens when straight inner orientation produces straight outer motion, day after day, until the two have fused.</p>
-      <p>This is why the standard English gloss "virtue" is too thin. 德 is closer to <em>moral charge</em> or <em>accumulated rectitude</em> — the gravitational pull a person acquires after their conduct has been plumb to their heart for long enough to become second nature. A person of 德 changes the room they walk into without saying a word.</p>
+      <p><strong>德 dé = 彳 + 十 + 罒 + 一 + 心</strong> in the formal IDS decomposition: 彳 (chì, step / road) on the left, with the right side stacking 十 (ten) over 罒 (the horizontal-eye component) over 一 (one) over 心 (xīn, heart). The historically-meaningful reading collapses the upper-right stack into <strong>直</strong> zhí (straight, upright) , read as <em>walking a straight road with a straight heart.</em></p>
+      <p>The radical 彳 is the left half of 行 (xíng, to walk; to act) , the step-radical, the marker of motion and conduct. The right side is the upper element straight (上) sitting over heart (下). Read the whole as a pictograph of moral life: <em>conduct (彳) made straight at the heart (心).</em> Virtue, on this account, is not a list of rules; it is what happens when straight inner orientation produces straight outer motion, day after day, until the two have fused.</p>
+      <p>This is why the standard English gloss "virtue" is too thin. 德 is closer to <em>moral charge</em> or <em>accumulated rectitude</em> , the gravitational pull a person acquires after their conduct has been plumb to their heart for long enough to become second nature. A person of 德 changes the room they walk into without saying a word.</p>
       <p>Two distinct philosophical lives use this character:</p>
-      <p><strong>1. The Confucian 德</strong> — virtue as cultivated character; the moral excellence of the 君子 jūnzǐ, accumulated through study, ritual practice, and right conduct in relationships. 道德 dàodé, 品德 pǐndé, 德行 déxíng.<br>
-      <strong>2. The Daoist 德</strong> — virtue as the natural endowment of the <a href="../../pages/characters/dao4_道.html">道</a> in each thing. The <em>Dàodéjīng</em> 道德经 takes its title from this pairing: 道 is the underlying Way, 德 is what each particular thing has of the Way as its own nature. To "have 德" in this sense is to act in accordance with what one already is.</p>
+      <p><strong>1. The Confucian 德</strong> , virtue as cultivated character; the moral excellence of the 君子 jūnzǐ, accumulated through study, ritual practice, and right conduct in relationships. 道德 dàodé, 品德 pǐndé, 德行 déxíng.<br>
+      <strong>2. The Daoist 德</strong> , virtue as the natural endowment of the <a href="../../pages/characters/dao4_道.html">道</a> in each thing. The <em>Dàodéjīng</em> 道德经 takes its title from this pairing: 道 is the underlying Way, 德 is what each particular thing has of the Way as its own nature. To "have 德" in this sense is to act in accordance with what one already is.</p>
     </div>
 
     <!-- ── WORD-FORMATION ── -->
@@ -155,7 +155,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          道 dào (the Way) + 德 dé (virtue). The standard modern Chinese word for <em>morality</em> as a domain — the abstract noun used in academic, journalistic, and everyday speech. It carries the philosophical weight of its source: <em>morality is the Way (道) made into virtue (德)</em>. <a href="../../pages/vocab/daode_道德.html">Full topic-page entry →</a>
+          道 dào (the Way) + 德 dé (virtue). The standard modern Chinese word for <em>morality</em> as a domain , the abstract noun used in academic, journalistic, and everyday speech. It carries the philosophical weight of its source: <em>morality is the Way (道) made into virtue (德)</em>. <a href="../../pages/vocab/daode_道德.html">Full topic-page entry →</a>
         </div>
         <div class="examples">
           <div class="example">
@@ -200,7 +200,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          德 dé + 行 xíng (conduct; action). <em>Virtue made visible in conduct.</em> Two registers split by tone: <strong>déxíng</strong> (full second tone) is the formal, classical reading — moral conduct in the praiseworthy sense, the <em>德行</em> of a sage. <strong>déxing</strong> (neutral second syllable) is the colloquial, often sarcastic reading: 看你那德行 "look at the way you're carrying on" — said of someone behaving disgracefully or pathetically. Same characters, opposite valence, distinguished only by the second-syllable tone.
+          德 dé + 行 xíng (conduct; action). <em>Virtue made visible in conduct.</em> Two registers split by tone: <strong>déxíng</strong> (full second tone) is the formal, classical reading , moral conduct in the praiseworthy sense, the <em>德行</em> of a sage. <strong>déxing</strong> (neutral second syllable) is the colloquial, often sarcastic reading: 看你那德行 "look at the way you're carrying on" , said of someone behaving disgracefully or pathetically. Same characters, opposite valence, distinguished only by the second-syllable tone.
         </div>
         <div class="examples">
           <div class="example">
@@ -229,7 +229,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          美 měi (beautiful; admirable) + 德. <em>A beautiful virtue</em> — a particular admirable quality, usable as a count noun. 谦虚是一种美德 "humility is a virtue." 中华民族的传统美德 "the traditional virtues of the Chinese nation" is one of the standard formulas in civic discourse.
+          美 měi (beautiful; admirable) + 德. <em>A beautiful virtue</em> , a particular admirable quality, usable as a count noun. 谦虚是一种美德 "humility is a virtue." 中华民族的传统美德 "the traditional virtues of the Chinese nation" is one of the standard formulas in civic discourse.
         </div>
         <div class="examples">
           <div class="example">
@@ -253,9 +253,9 @@ content_sources:
 
     <div class="scholar" data-glyph="德">
       <div class="scholar-label">哲学背景 zhéxué bèijǐng · Philosophical Background</div>
-      <p>The <em>Dàodéjīng</em> 道德经 — the foundational Daoist text — takes its title from the pairing of <a href="../../pages/characters/dao4_道.html">道</a> and 德. The standard reading: 道 is the Way that runs through all things; 德 is what each particular thing <em>has</em> of the Way as its own nature, its endowment. Water has the 德 of flowing downward and finding the low places; a sage has the 德 of acting without contention.</p>
-      <p>Chapter 38 sets out the famous distinction: <strong>上德不德，是以有德。下德不失德，是以无德。</strong> — "Highest 德 does not act as 德, and so it has 德. Lower 德 does not lose hold of 德, and so it has none." The point is that genuine virtue does not advertise itself or police itself. The person who is constantly making sure they are being virtuous is not virtuous in this sense; the person whose virtue has fused with their nature does not need to think about it. This is the Daoist critique of Confucian moral effort: the more 德 has to be enforced, the less of it is actually present.</p>
-      <p>This Daoist sense of 德 is closer to <em>character-as-power</em> than to <em>virtue-as-rule</em>. The classical example is the wheelwright in the <a href="../../pages/philosophy/topic_zhuangzi.html">Zhuangzi</a>: the master craftsman cannot put his skill into words but can produce a perfect wheel without thought, because his 德 — his accumulated alignment with the Way of wheel-making — is in his hands. To have 德 is to have become the kind of thing that does the right action without computation.</p>
+      <p>The <em>Dàodéjīng</em> 道德经 , the foundational Daoist text , takes its title from the pairing of <a href="../../pages/characters/dao4_道.html">道</a> and 德. The standard reading: 道 is the Way that runs through all things; 德 is what each particular thing <em>has</em> of the Way as its own nature, its endowment. Water has the 德 of flowing downward and finding the low places; a sage has the 德 of acting without contention.</p>
+      <p>Chapter 38 sets out the famous distinction: <strong>上德不德，是以有德。下德不失德，是以无德。</strong> , "Highest 德 does not act as 德, and so it has 德. Lower 德 does not lose hold of 德, and so it has none." The point is that genuine virtue does not advertise itself or police itself. The person who is constantly making sure they are being virtuous is not virtuous in this sense; the person whose virtue has fused with their nature does not need to think about it. This is the Daoist critique of Confucian moral effort: the more 德 has to be enforced, the less of it is actually present.</p>
+      <p>This Daoist sense of 德 is closer to <em>character-as-power</em> than to <em>virtue-as-rule</em>. The classical example is the wheelwright in the <a href="../../pages/philosophy/topic_zhuangzi.html">Zhuangzi</a>: the master craftsman cannot put his skill into words but can produce a perfect wheel without thought, because his 德 , his accumulated alignment with the Way of wheel-making , is in his hands. To have 德 is to have become the kind of thing that does the right action without computation.</p>
     </div>
 
     <!-- ── OTHER ── -->
@@ -298,7 +298,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-adj">Adj 形容词 xíngróngcí</span></div>
         <div class="card-def">
-          缺 quē (to lack) + 德. <em>To be missing virtue.</em> The everyday Chinese accusation for someone whose conduct is not just unkind but morally <em>wrong in a low way</em> — petty cruelty, dishonesty for its own sake, malicious mischief. 太缺德了！ "That's so unscrupulous!" is one of the standard everyday condemnations.
+          缺 quē (to lack) + 德. <em>To be missing virtue.</em> The everyday Chinese accusation for someone whose conduct is not just unkind but morally <em>wrong in a low way</em> , petty cruelty, dishonesty for its own sake, malicious mischief. 太缺德了！ "That's so unscrupulous!" is one of the standard everyday condemnations.
         </div>
         <div class="examples">
           <div class="example">
@@ -318,7 +318,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          功 gōng (effort; achievement) + 德. <em>Accumulated merit from virtuous acts.</em> Especially in Buddhist usage: 功德 is the spiritual capital one builds up by donating to temples, copying sutras, performing 布施 dāna, releasing captive animals (放生), and so on. 功德无量 "merit beyond measure" is the formal blessing for a great act of generosity. In secular usage, 功德 also extends to civic merit — building a road or a school is 一件大功德.
+          功 gōng (effort; achievement) + 德. <em>Accumulated merit from virtuous acts.</em> Especially in Buddhist usage: 功德 is the spiritual capital one builds up by donating to temples, copying sutras, performing 布施 dāna, releasing captive animals (放生), and so on. 功德无量 "merit beyond measure" is the formal blessing for a great act of generosity. In secular usage, 功德 also extends to civic merit , building a road or a school is 一件大功德.
         </div>
         <div class="examples">
           <div class="example">
@@ -351,7 +351,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          德 (phonetic transcription of "Deutsch") + 国 guó (country). 德 is the standard phonetic carrier for "Deutsch" in country and language names: 德国 Germany, 德语 German language, 德文 German script. The character was chosen for sound rather than meaning, but Chinese readers inevitably hear the resonance — and 19th- and 20th-century Chinese writers often punned on it (Germany as the country of "virtue").
+          德 (phonetic transcription of "Deutsch") + 国 guó (country). 德 is the standard phonetic carrier for "Deutsch" in country and language names: 德国 Germany, 德语 German language, 德文 German script. The character was chosen for sound rather than meaning, but Chinese readers inevitably hear the resonance , and 19th- and 20th-century Chinese writers often punned on it (Germany as the country of "virtue").
         </div>
       </div>
 
@@ -372,35 +372,35 @@ content_sources:
         <span class="cy-cn">德高望重</span>
         <span class="cy-py">dé gāo wàng zhòng</span>
         <span class="cy-en">of lofty virtue and weighty reputation — a venerable elder</span>
-        <span class="cy-note">Lit: virtue-high, reputation-heavy. The standard four-character honorific for a respected senior figure — a teacher, a scholar, a community elder. Used at retirement banquets, in obituaries, and in introductions of distinguished guests. The pairing makes a precise point: 德 is the inner quality, 望 (wàng, reputation) is its outward recognition. The two move together when virtue is real.</span>
+        <span class="cy-note">Lit: virtue-high, reputation-heavy. The standard four-character honorific for a respected senior figure , a teacher, a scholar, a community elder. Used at retirement banquets, in obituaries, and in introductions of distinguished guests. The pairing makes a precise point: 德 is the inner quality, 望 (wàng, reputation) is its outward recognition. The two move together when virtue is real.</span>
       </div>
 
       <div class="cy">
         <span class="cy-cn">以德报怨</span>
         <span class="cy-py">yǐ dé bào yuàn</span>
         <span class="cy-en">to repay enmity with virtue — to return kindness for a wrong</span>
-        <span class="cy-note">Lit: with-virtue-repay-enmity. From the Analects (论语), where Confucius is asked his view of this maxim and pointedly disagrees: "Then how would you repay virtue? Repay enmity with directness (直), repay virtue with virtue (以德报德)." The chengyu remains in common use as a moral ideal, but Confucius's reservation — that absorbing wrong without protest is its own form of injustice — is cited just as often.</span>
+        <span class="cy-note">Lit: with-virtue-repay-enmity. From the Analects (论语), where Confucius is asked his view of this maxim and pointedly disagrees: "Then how would you repay virtue? Repay enmity with directness (直), repay virtue with virtue (以德报德)." The chengyu remains in common use as a moral ideal, but Confucius's reservation , that absorbing wrong without protest is its own form of injustice , is cited just as often.</span>
       </div>
 
       <div class="cy">
         <span class="cy-cn">以德服人</span>
         <span class="cy-py">yǐ dé fú rén</span>
         <span class="cy-en">to win people over by virtue (rather than by force)</span>
-        <span class="cy-note">Lit: with-virtue-make-people-submit. The Confucian alternative to coercion: a leader whose 德 is genuine attracts willing followers; one who relies on force only gets compliance. The classical contrast is 以力服人 "to make people submit by force" — which produces obedience without loyalty.</span>
+        <span class="cy-note">Lit: with-virtue-make-people-submit. The Confucian alternative to coercion: a leader whose 德 is genuine attracts willing followers; one who relies on force only gets compliance. The classical contrast is 以力服人 "to make people submit by force" , which produces obedience without loyalty.</span>
       </div>
 
       <div class="cy">
         <span class="cy-cn">厚德载物</span>
         <span class="cy-py">hòu dé zài wù</span>
         <span class="cy-en">a thick virtue carries all things — a deep moral capacity supports the world</span>
-        <span class="cy-note">From the <em>Yìjīng</em> (易经), the Book of Changes. The image is of the earth (坤): broad, heavy, accommodating, able to bear the weight of everything that grows on it. By analogy, a person of deep 德 has the moral capacity to carry the weight of others — their faults, their needs, their burdens — without breaking. The motto of Tsinghua University pairs this with 自强不息 ("ceaselessly self-strengthening") from the same source.</span>
+        <span class="cy-note">From the <em>Yìjīng</em> (易经), the Book of Changes. The image is of the earth (坤): broad, heavy, accommodating, able to bear the weight of everything that grows on it. By analogy, a person of deep 德 has the moral capacity to carry the weight of others , their faults, their needs, their burdens , without breaking. The motto of Tsinghua University pairs this with 自强不息 ("ceaselessly self-strengthening") from the same source.</span>
       </div>
 
       <div class="cy">
         <span class="cy-cn">同心同德</span>
         <span class="cy-py">tóng xīn tóng dé</span>
         <span class="cy-en">of one heart and one virtue — fully unified in purpose and conduct</span>
-        <span class="cy-note">Lit: same-heart-same-virtue. The phrase for a group whose members share both inner orientation (心) and outward conduct (德). Used of teams, families, and political coalitions to describe rare and full unity — not just agreement on a goal but alignment on the moral terms by which it will be pursued.</span>
+        <span class="cy-note">Lit: same-heart-same-virtue. The phrase for a group whose members share both inner orientation (心) and outward conduct (德). Used of teams, families, and political coalitions to describe rare and full unity , not just agreement on a goal but alignment on the moral terms by which it will be pursued.</span>
       </div>
 
     </div>

@@ -102,9 +102,9 @@ content_review: 'pending'
 
     <div class="scholar" data-glyph="十">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
-      <p><strong>十</strong> is two strokes: a vertical line crossed by a horizontal one, forming a perfect cross. The oracle-bone form shows a single vertical mark, sometimes with a small perpendicular nick; by the bronze inscription period it had fully resolved into the cross shape still written today. The Shuowen Jiezi defines it plainly: <em>十，数之具也</em> — "Ten: the completion of numbers." Digits one through nine exist; ten closes the counting cycle and restarts it (eleven is 十一, literally "ten-one").</p>
-      <p>The cross is not incidental to the character's meaning. A vertical line extends up and down; a horizontal line extends left and right. At their intersection all four cardinal directions have been named. Ten written as a cross is ten as the point of total coverage — the number at which every direction has been accounted for and the cycle is full. 十 is its own Kangxi radical (number 24), the base character from which 千 qiān (thousand), 午 wǔ (noon), and 升 shēng (to rise) derive.</p>
-      <p>Its tone is second — rising — the tone that moves upward, which is also the direction of completion: the count rises to ten, then begins again from a new level.</p>
+      <p><strong>十</strong> is two strokes: a vertical line crossed by a horizontal one, forming a perfect cross. The oracle-bone form shows a single vertical mark, sometimes with a small perpendicular nick; by the bronze inscription period it had fully resolved into the cross shape still written today. The Shuowen Jiezi defines it plainly: <em>十，数之具也</em> , "Ten: the completion of numbers." Digits one through nine exist; ten closes the counting cycle and restarts it (eleven is 十一, literally "ten-one").</p>
+      <p>The cross is not incidental to the character's meaning. A vertical line extends up and down; a horizontal line extends left and right. At their intersection all four cardinal directions have been named. Ten written as a cross is ten as the point of total coverage , the number at which every direction has been accounted for and the cycle is full. 十 is its own Kangxi radical (number 24), the base character from which 千 qiān (thousand), 午 wǔ (noon), and 升 shēng (to rise) derive.</p>
+      <p>Its tone is second , rising , the tone that moves upward, which is also the direction of completion: the count rises to ten, then begins again from a new level.</p>
     </div>
 
     <!-- ── TEN AS COMPLETION ── -->
@@ -118,9 +118,9 @@ content_review: 'pending'
 
     <div class="scholar" data-glyph="十">
       <div class="scholar-label">文化洞见 wénhuà dòngjiàn · Cultural Insight</div>
-      <p>The number ten in Chinese culture carries the weight of completeness and totality. 十全十美 shíquán shíměi — ten-complete, ten-beautiful — is the standard idiom for perfection in every dimension. Where English says "perfect," Chinese says "ten-complete ten-beautiful," grounding the abstract idea of perfection in the concrete completeness of the number ten. The phrase appears in wedding toasts, New Year greetings, and product names with equal frequency.</p>
-      <p><strong>十分</strong> shífēn — ten parts — functions as the most common adverb of degree in formal and written Mandarin. 十分感谢 (ten-parts grateful = deeply grateful), 十分重要 (ten-parts important = extremely important). The logic is that ten parts constitutes the whole; to have ten parts of something is to have it completely. More intensive than 很 hěn (very) but less colloquial than 超 chāo (super).</p>
-      <p>The <strong>十干</strong> shígān (Ten Heavenly Stems) — 甲乙丙丙丁戊己庚辛壬癸 — form the ten-element cycle that pairs with the Twelve Earthly Branches to produce the 60-year sexagenary calendar. Ten is not arbitrary here: it takes exactly ten heavenly stems and twelve earthly branches to produce a cycle of sixty unique combinations before the pattern repeats. The 60-year cycle has governed Chinese time-keeping, historical periodization, and individual fate calculation for more than three thousand years.</p>
+      <p>The number ten in Chinese culture carries the weight of completeness and totality. 十全十美 shíquán shíměi , ten-complete, ten-beautiful , is the standard idiom for perfection in every dimension. Where English says "perfect," Chinese says "ten-complete ten-beautiful," grounding the abstract idea of perfection in the concrete completeness of the number ten. The phrase appears in wedding toasts, New Year greetings, and product names with equal frequency.</p>
+      <p><strong>十分</strong> shífēn , ten parts , functions as the most common adverb of degree in formal and written Mandarin. 十分感谢 (ten-parts grateful = deeply grateful), 十分重要 (ten-parts important = extremely important). The logic is that ten parts constitutes the whole; to have ten parts of something is to have it completely. More intensive than 很 hěn (very) but less colloquial than 超 chāo (super).</p>
+      <p>The <strong>十干</strong> shígān (Ten Heavenly Stems) , 甲乙丙丙丁戊己庚辛壬癸 , form the ten-element cycle that pairs with the Twelve Earthly Branches to produce the 60-year sexagenary calendar. Ten is not arbitrary here: it takes exactly ten heavenly stems and twelve earthly branches to produce a cycle of sixty unique combinations before the pattern repeats. The 60-year cycle has governed Chinese time-keeping, historical periodization, and individual fate calculation for more than three thousand years.</p>
     </div>
 
     <!-- ── COUNTING COMPOUNDS ── -->
@@ -135,10 +135,10 @@ content_review: 'pending'
     <div class="pattern">
       <span class="label">构词规律 gòucí guīlǜ · 十 as a base number and measure</span>
       十 combines with other numerals to form all the numbers in the tens: 二十 (twenty), 三十 (thirty), and so on. It also forms a wide range of standalone compounds where the sense of "complete ten" or "full set" is active rather than purely mathematical.<br><br>
-      <strong>十月</strong> shíyuè — October; the tenth month (the month that completes the annual cycle before the final pair).<br>
-      <strong>十年</strong> shínián — a decade; ten years (the natural unit of a generation's memory).<br>
-      <strong>十分</strong> shífēn — ten parts; completely; very much.<br>
-      <strong>十足</strong> shízú — ten-sufficient; absolutely; thoroughly (十足的信心 = total confidence).
+      <strong>十月</strong> shíyuè , October; the tenth month (the month that completes the annual cycle before the final pair).<br>
+      <strong>十年</strong> shínián , a decade; ten years (the natural unit of a generation's memory).<br>
+      <strong>十分</strong> shífēn , ten parts; completely; very much.<br>
+      <strong>十足</strong> shízú , ten-sufficient; absolutely; thoroughly (十足的信心 = total confidence).
     </div>
 
     <div class="cards">
@@ -180,13 +180,13 @@ content_review: 'pending'
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          十 shí + 年 nián (year). A decade. In Chinese cultural memory, ten years functions as the basic unit of historical reckoning: the Cultural Revolution lasted "ten years" (1966-1976, the 十年浩劫 shínián hàojié — ten-year catastrophe); a generation is roughly one decade; the proverb 十年树木，百年树人 places education on a decade-by-decade scale.
+          十 shí + 年 nián (year). A decade. In Chinese cultural memory, ten years functions as the basic unit of historical reckoning: the Cultural Revolution lasted "ten years" (1966-1976, the 十年浩劫 shínián hàojié , ten-year catastrophe); a generation is roughly one decade; the proverb 十年树木，百年树人 places education on a decade-by-decade scale.
         </div>
         <div class="examples">
           <div class="example">
             <div class="ex-cn">十年磨一剑。</div>
             <div class="ex-py">Shí nián mó yī jiàn.</div>
-            <div class="ex-en">Ten years to sharpen a sword — long, patient preparation before a moment of action.</div>
+            <div class="ex-en">Ten years to sharpen a sword , long, patient preparation before a moment of action.</div>
           </div>
           <div class="example">
             <div class="ex-cn">他在这家公司工作了十年。</div>
@@ -228,7 +228,7 @@ content_review: 'pending'
 
     <div class="scholar" data-glyph="十">
       <div class="scholar-label">学者洞见 xuézhě dòngjiàn · The Shape of Ten</div>
-      <p><strong>十字</strong> shízì — literally "the character 十" — has become the Chinese word for the cross shape in all its uses. 十字路口 shízì lùkǒu (crossroads: the intersection shaped like 十), 红十字 Hóng Shízì (the Red Cross: the red cross emblem), 十字架 shízìjià (a crucifix or cross structure). In each case the compound works by naming the shape: the place where a horizontal and a vertical meet, exactly as the character 十 is drawn.</p>
+      <p><strong>十字</strong> shízì , literally "the character 十" , has become the Chinese word for the cross shape in all its uses. 十字路口 shízì lùkǒu (crossroads: the intersection shaped like 十), 红十字 Hóng Shízì (the Red Cross: the red cross emblem), 十字架 shízìjià (a crucifix or cross structure). In each case the compound works by naming the shape: the place where a horizontal and a vertical meet, exactly as the character 十 is drawn.</p>
       <p>The crossroads is one of the most symbolically dense locations in human culture across civilizations, and Chinese is the one major language that names it directly after the written numeral for ten. Every time a Chinese speaker says 十字路口, they are invoking the visual form of the character itself: a cross, the union of all four directions at a single point.</p>
     </div>
 
@@ -337,14 +337,14 @@ content_review: 'pending'
         <span class="cy-cn">十全十美</span>
         <span class="cy-py">shíquán shíměi</span>
         <span class="cy-en">perfect in every way — ten-complete and ten-beautiful, with nothing lacking</span>
-        <span class="cy-note">The most-used idiom of perfection in Chinese. The doubling of 十 means completeness is measured twice — in wholeness and in beauty — so that neither a technical nor an aesthetic standard is left unmet. Common in blessings (weddings, New Year), but also the standard formulation for saying that something is unrealistically flawless: 世上没有十全十美的事 (nothing in this world is perfectly complete). The phrasing is ancient but the idiom remains fully alive across all registers.</span>
+        <span class="cy-note">The most-used idiom of perfection in Chinese. The doubling of 十 means completeness is measured twice , in wholeness and in beauty , so that neither a technical nor an aesthetic standard is left unmet. Common in blessings (weddings, New Year), but also the standard formulation for saying that something is unrealistically flawless: 世上没有十全十美的事 (nothing in this world is perfectly complete). The phrasing is ancient but the idiom remains fully alive across all registers.</span>
       </div>
 
       <div class="cy">
         <span class="cy-cn">十年树木，百年树人</span>
         <span class="cy-py">shí nián shù mù, bǎi nián shù rén</span>
         <span class="cy-en">"ten years to grow a tree, a hundred years to cultivate a person" — education takes far longer than any other cultivation</span>
-        <span class="cy-note">From the classical text 管子 Guǎnzi. Growing a tree requires ten years of patience: planting, watering, waiting. Cultivating a human being — educating, civilizing, forming character — requires ten times longer. The century-scale horizon is a deliberate rebuke to impatience. Used to defend long-term educational investment, to counsel patience in teaching, and to honor teachers whose work shows results only after decades. The idiom is inscribed on school walls and cited in speeches on education policy with consistent frequency.</span>
+        <span class="cy-note">From the classical text 管子 Guǎnzi. Growing a tree requires ten years of patience: planting, watering, waiting. Cultivating a human being , educating, civilizing, forming character , requires ten times longer. The century-scale horizon is a deliberate rebuke to impatience. Used to defend long-term educational investment, to counsel patience in teaching, and to honor teachers whose work shows results only after decades. The idiom is inscribed on school walls and cited in speeches on education policy with consistent frequency.</span>
       </div>
 
       <div class="cy">

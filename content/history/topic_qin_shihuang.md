@@ -66,7 +66,7 @@ pinyin: 'qín shǐhuáng'
       <span class="topic-hero-eyebrow">History · 历史 lìshǐ</span>
       <h1 class="topic-hero-title">秦始皇</h1>
       <span class="topic-hero-title-py">qín shǐhuáng</span>
-      <p class="topic-hero-desc">The man who ended four centuries of warfare by conquering all six rival states and creating, in just fourteen years, a unified Chinese empire whose administrative logic endures to this day — at the cost of monuments built on mass suffering and a state that collapsed the moment he died.</p>
+      <p class="topic-hero-desc">The man who ended four centuries of warfare by conquering all six rival states and creating, in just fourteen years, a unified Chinese empire whose administrative logic endures to this day , at the cost of monuments built on mass suffering and a state that collapsed the moment he died.</p>
     </header>
 
     <!-- ── UNIFICATION ── -->
@@ -238,7 +238,7 @@ pinyin: 'qín shǐhuáng'
         <span class="cy-cn">焚书坑儒</span>
         <span class="cy-py">fén shū kēng rú</span>
         <span class="cy-en">burn the books and bury the Confucians — state censorship and intellectual repression</span>
-        <span class="cy-note">The four-character condemnation of the Qin cultural purges of 213–212 BCE. Still the standard Chinese phrase for any government suppression of thought or culture. Note that 坑 kēng (pit) also functions in modern colloquial Chinese as a verb meaning "to trap" or "to screw over someone" — e.g. 坑人 kēng rén (to cheat someone). The ancient resonance intensifies the modern slang.</span>
+        <span class="cy-note">The four-character condemnation of the Qin cultural purges of 213–212 BCE. Still the standard Chinese phrase for any government suppression of thought or culture. Note that 坑 kēng (pit) also functions in modern colloquial Chinese as a verb meaning "to trap" or "to screw over someone" , e.g. 坑人 kēng rén (to cheat someone). The ancient resonance intensifies the modern slang.</span>
       </div>
 
       <div class="cy">

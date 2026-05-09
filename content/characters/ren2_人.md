@@ -120,7 +120,7 @@ content_sources:
 
     <div class="scholar" data-glyph="人">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
-      <p>人 rén is the most elemental pictograph in the Chinese writing system. The oracle-bone script (甲骨文 jiǎgǔwén, c. 1200 BCE) shows a person in strict profile: one stroke leaning forward for the torso, one stroke descending for the leg. Two strokes. A human being. No face, no hands — just the silhouette of upright posture that separates humans from all other creatures. The character has barely changed in three thousand years.</p>
+      <p>人 rén is the most elemental pictograph in the Chinese writing system. The oracle-bone script (甲骨文 jiǎgǔwén, c. 1200 BCE) shows a person in strict profile: one stroke leaning forward for the torso, one stroke descending for the leg. Two strokes. A human being. No face, no hands , just the silhouette of upright posture that separates humans from all other creatures. The character has barely changed in three thousand years.</p>
       <p>人 is also a key building block for more complex characters. When two 人 stand side by side, you get <strong>从 cóng</strong> (to follow, one person walking behind another). When three people cluster together, you get <strong>众 zhòng</strong> (crowd, multitude). The social world is already embedded in the script.</p>
       <p>The most philosophically charged combination is <strong>仁 rén</strong> (benevolence; humaneness) = 人 + 二 (two). This is the character Confucius placed at the absolute center of his ethical system. 仁 is what happens between two people, not an inner quality a person possesses alone. The Analects return to it obsessively: 仁者爱人 "the benevolent person loves others." The two-stroke pictograph of a single human being already implies, for Confucius, that full humanity is only realized in relation.</p>
     </div>
@@ -177,7 +177,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          In its basic nominal use, 人 refers to a single person or to humans as a generic category (an unspecified individual). It is the most common noun in Mandarin by frequency. Functions as both a count noun (一个人 — one person) and a generic noun (人是社会动物 — humans are social animals).
+          In its basic nominal use, 人 refers to a single person or to humans as a generic category (an unspecified individual). It is the most common noun in Mandarin by frequency. Functions as both a count noun (一个人 , one person) and a generic noun (人是社会动物 , humans are social animals).
         </div>
         <div class="examples">
           <div class="example">
@@ -343,7 +343,7 @@ content_sources:
           <div class="example">
             <div class="ex-cn">这是别人的东西，不能乱动。</div>
             <div class="ex-py">Zhè shì biérén de dōngxi, bùnéng luàn dòng.</div>
-            <div class="ex-en">This belongs to someone else — don't touch it.</div>
+            <div class="ex-en">This belongs to someone else , don't touch it.</div>
           </div>
           <div class="example">
             <div class="ex-cn">你凭什么管别人的事？</div>
@@ -378,7 +378,7 @@ content_sources:
         </div>
         <div class="note">
           <span class="note-label">辨析 biànxī · Register</span>
-          别人 = spoken, casual (别人都走了 — everyone else left). 他人 = written, formal (他人利益 — the interests of others). In everyday speech, 他人 sounds stiff; in legal or philosophical writing, 别人 sounds too colloquial.
+          别人 = spoken, casual (别人都走了 , everyone else left). 他人 = written, formal (他人利益 , the interests of others). In everyday speech, 他人 sounds stiff; in legal or philosophical writing, 别人 sounds too colloquial.
         </div>
       </div>
 
@@ -397,7 +397,7 @@ content_sources:
           <div class="example">
             <div class="ex-cn">旁人都看得出来，只有他自己不知道。</div>
             <div class="ex-py">Pángrén dōu kàn de chūlai, zhǐyǒu tā zìjǐ bù zhīdào.</div>
-            <div class="ex-en">Everyone on the outside could see it — only he himself didn't know.</div>
+            <div class="ex-en">Everyone on the outside could see it , only he himself didn't know.</div>
           </div>
           <div class="example">
             <div class="ex-cn">他们的争吵让旁人十分尴尬。</div>
@@ -422,12 +422,12 @@ content_sources:
           <div class="example">
             <div class="ex-cn">放心吧，他是自己人，可以信任。</div>
             <div class="ex-py">Fàngxīn ba, tā shì zìjǐrén, kěyǐ xìnrèn.</div>
-            <div class="ex-en">Don't worry — he's one of us, you can trust him.</div>
+            <div class="ex-en">Don't worry , he's one of us, you can trust him.</div>
           </div>
           <div class="example">
             <div class="ex-cn">都是自己人，有话直说吧。</div>
             <div class="ex-py">Dōu shì zìjǐrén, yǒu huà zhí shuō ba.</div>
-            <div class="ex-en">We're all on the same side here — just say what's on your mind.</div>
+            <div class="ex-en">We're all on the same side here , just say what's on your mind.</div>
           </div>
         </div>
         <div class="note">
@@ -464,7 +464,7 @@ content_sources:
           <div class="example">
             <div class="ex-cn">他的人品很好，大家都信任他。</div>
             <div class="ex-py">Tā de rénpǐn hěn hǎo, dàjiā dōu xìnrèn tā.</div>
-            <div class="ex-en">His character is excellent — everyone trusts him.</div>
+            <div class="ex-en">His character is excellent , everyone trusts him.</div>
           </div>
           <div class="example">
             <div class="ex-cn">能力很重要，但人品更重要。</div>
@@ -499,7 +499,7 @@ content_sources:
         </div>
         <div class="note">
           <span class="note-label">文化 wénhuà · The Social Trinity</span>
-          人情 is one leg of the classic Chinese social triad: <strong>面子 miànzi</strong> (face — status and dignity), <strong>关系 guānxi</strong> (relationships — social networks), and <strong>人情 rénqíng</strong> (human feeling — the currency that flows through those networks). To navigate Chinese social life, all three must be understood together.
+          人情 is one leg of the classic Chinese social triad: <strong>面子 miànzi</strong> (face , status and dignity), <strong>关系 guānxi</strong> (relationships , social networks), and <strong>人情 rénqíng</strong> (human feeling , the currency that flows through those networks). To navigate Chinese social life, all three must be understood together.
         </div>
       </div>
 
@@ -518,7 +518,7 @@ content_sources:
           <div class="example">
             <div class="ex-cn">她人缘很好，走到哪里都有朋友。</div>
             <div class="ex-py">Tā rényuán hěn hǎo, zǒu dào nǎlǐ dōu yǒu péngyou.</div>
-            <div class="ex-en">She's popular everywhere she goes — always has friends.</div>
+            <div class="ex-en">She's popular everywhere she goes , always has friends.</div>
           </div>
         </div>
       </div>
@@ -581,7 +581,7 @@ content_sources:
           <div class="example">
             <div class="ex-cn">你得学会做人，不能这么自私。</div>
             <div class="ex-py">Nǐ děi xuéhuì zuòrén, bùnéng zhème zìsī.</div>
-            <div class="ex-en">You need to learn how to conduct yourself — you can't be this selfish.</div>
+            <div class="ex-en">You need to learn how to conduct yourself , you can't be this selfish.</div>
           </div>
           <div class="example">
             <div class="ex-cn">他出狱后决心重新做人。</div>
@@ -591,12 +591,12 @@ content_sources:
           <div class="example">
             <div class="ex-cn">做人要厚道，不能太计较。</div>
             <div class="ex-py">Zuòrén yào hòudào, bùnéng tài jìjiào.</div>
-            <div class="ex-en">In your conduct, be generous — don't be too petty about small matters.</div>
+            <div class="ex-en">In your conduct, be generous , don't be too petty about small matters.</div>
           </div>
         </div>
         <div class="note">
           <span class="note-label">近义词 jìnyìcí · Related Phrases</span>
-          <strong>做人难 zuòrén nán</strong> — "being a person is hard." A wry acknowledgment of the social and moral demands placed on individuals. Often said with a sigh. <strong>做人做事 zuòrén zuòshì</strong> — "conduct and action" — the Confucian pairing of character and work. <strong>低调做人 dīdiào zuòrén</strong> — to keep a low profile, to be modest in conduct.
+          <strong>做人难 zuòrén nán</strong> , "being a person is hard." A wry acknowledgment of the social and moral demands placed on individuals. Often said with a sigh. <strong>做人做事 zuòrén zuòshì</strong> , "conduct and action" , the Confucian pairing of character and work. <strong>低调做人 dīdiào zuòrén</strong> , to keep a low profile, to be modest in conduct.
         </div>
       </div>
     </div><!-- /cards zuoren -->
@@ -719,7 +719,7 @@ content_sources:
         <span class="cy-cn">助人为乐</span>
         <span class="cy-py">zhù rén wéi lè</span>
         <span class="cy-en">to find joy in helping others; altruism as happiness</span>
-        <span class="cy-note">Lit: assist-people-as-joy. A Confucian virtue idiom taught in moral education from an early age. Helping others is not sacrifice but a source of genuine happiness. Compare the Confucian formulation in the Analects: 己欲立而立人，己欲达而达人 — "What you wish to achieve for yourself, help others achieve." Joy is not in getting but in enabling.</span>
+        <span class="cy-note">Lit: assist-people-as-joy. A Confucian virtue idiom taught in moral education from an early age. Helping others is not sacrifice but a source of genuine happiness. Compare the Confucian formulation in the Analects: 己欲立而立人，己欲达而达人 , "What you wish to achieve for yourself, help others achieve." Joy is not in getting but in enabling.</span>
       </div>
 
       <div class="cy">
@@ -759,7 +759,7 @@ content_sources:
     <div class="scholar" data-glyph="人">
       <div class="scholar-label">记忆法 jìyìfǎ · Master Retention Image</div>
       <p>Two strokes. That is all it takes to write a person. One stroke leans forward: ambition, action, the thrust of life into the world. The other descends: roots, gravity, the earth beneath. Together they barely touch at the apex, yet they hold. Without either stroke, there is no character and no person.</p>
-      <p>Confucius saw in that fragile balance the entire moral universe. Add 二 to the right and you have 仁, two people, one relationship. Add a second 人 beside the first and you have 从 cóng (to follow). Add a third and you have 众 zhòng (the multitude). 人品, 人情, 做人, 仁 — all of it is commentary on those two strokes.</p>
+      <p>Confucius saw in that fragile balance the entire moral universe. Add 二 to the right and you have 仁, two people, one relationship. Add a second 人 beside the first and you have 从 cóng (to follow). Add a third and you have 众 zhòng (the multitude). 人品, 人情, 做人, 仁 , all of it is commentary on those two strokes.</p>
     </div>
 
     

@@ -53,7 +53,7 @@ content_sources:
       <span class="topic-hero-eyebrow">Chengyu · 成语 chéngyǔ</span>
       <h1 class="topic-hero-title">迷途知返</h1>
       <span class="topic-hero-title-py">mí tú zhī fǎn</span>
-      <p class="topic-hero-desc">To realise you have taken the wrong road — and turn back. The Chinese idiom for course-correction done with clarity and without shame.</p>
+      <p class="topic-hero-desc">To realise you have taken the wrong road , and turn back. The Chinese idiom for course-correction done with clarity and without shame.</p>
     </header>
 
     <span class="section-anchor" id="meaning"></span>
@@ -79,15 +79,15 @@ content_sources:
     <div class="cards">
       <div class="card c-teal">
         <div class="card-head">As encouragement after a mistake</div>
-        <p>The most natural modern use. Said to someone who has recognised they have been on the wrong path — in work, a relationship, a decision — and is now considering changing course. It affirms the act of recognition as itself a form of wisdom: 你能迷途知返，已经很不容易了 (nǐ néng mí tú zhī fǎn, yǐjīng hěn bù róngyì le) — "That you can recognise you are lost and turn back already shows strength."</p>
+        <p>The most natural modern use. Said to someone who has recognised they have been on the wrong path , in work, a relationship, a decision , and is now considering changing course. It affirms the act of recognition as itself a form of wisdom: 你能迷途知返，已经很不容易了 (nǐ néng mí tú zhī fǎn, yǐjīng hěn bù róngyì le) , "That you can recognise you are lost and turn back already shows strength."</p>
       </div>
       <div class="card c-ochre">
         <div class="card-head">As a call to someone still on the wrong road</div>
-        <p>The classical political use, still active. Addressed to someone who has not yet turned back but should: 希望你能迷途知返，不要铸成大错 (xīwàng nǐ néng mí tú zhī fǎn, bù yào zhùchéng dà cuò) — "I hope you can recognise your error and return, before a serious mistake is made." The tone is urgent but not contemptuous; it assumes the person still has the capacity to correct course.</p>
+        <p>The classical political use, still active. Addressed to someone who has not yet turned back but should: 希望你能迷途知返，不要铸成大错 (xīwàng nǐ néng mí tú zhī fǎn, bù yào zhùchéng dà cuò) , "I hope you can recognise your error and return, before a serious mistake is made." The tone is urgent but not contemptuous; it assumes the person still has the capacity to correct course.</p>
       </div>
       <div class="card c-sienna">
         <div class="card-head">Used reflexively</div>
-        <p>Less common, but possible: 我终于迷途知返了 (wǒ zhōngyú mí tú zhī fǎn le) — "I finally found my way back." The self-application implies that the speaker had been too proud or too stubborn to turn back earlier, and that the eventual return carries both relief and a degree of self-reproach.</p>
+        <p>Less common, but possible: 我终于迷途知返了 (wǒ zhōngyú mí tú zhī fǎn le) , "I finally found my way back." The self-application implies that the speaker had been too proud or too stubborn to turn back earlier, and that the eventual return carries both relief and a degree of self-reproach.</p>
       </div>
     </div>
 
@@ -95,16 +95,16 @@ content_sources:
     <div class="section-head"><h2>Character Analysis · 字解 zìjiě</h2></div>
     <div class="cards">
       <div class="card c-ochre">
-        <div class="card-head">迷 mí — lost, bewildered</div>
-        <p>The road radical (辶, the walking radical) on the left; 米 (rice, grain) on the right as phonetic. To lose one's way on a road. Extended meanings: to be infatuated, captivated, or obsessed (迷恋 míliàn, to be enchanted by; 球迷 qiúmí, a sports fan — literally one who is lost in the ball). The sense of pleasant disorientation in the extended meanings makes 迷 less purely negative than "lost" in English.</p>
+        <div class="card-head">迷 mí , lost, bewildered</div>
+        <p>The road radical (辶, the walking radical) on the left; 米 (rice, grain) on the right as phonetic. To lose one's way on a road. Extended meanings: to be infatuated, captivated, or obsessed (迷恋 míliàn, to be enchanted by; 球迷 qiúmí, a sports fan , literally one who is lost in the ball). The sense of pleasant disorientation in the extended meanings makes 迷 less purely negative than "lost" in English.</p>
       </div>
       <div class="card c-ochre">
-        <div class="card-head">途 tú — road, journey</div>
-        <p>The walking radical (辶) again; 余 (surplus, remainder) as phonetic. A road underway — not the road as a static object (路 lù) but the road as a journey being taken. Compounds: 途中 (tú zhōng, en route), 前途 (qiántú, future prospects — literally "the road ahead"), 用途 (yòngtú, use, application — "the road of use").</p>
+        <div class="card-head">途 tú , road, journey</div>
+        <p>The walking radical (辶) again; 余 (surplus, remainder) as phonetic. A road underway , not the road as a static object (路 lù) but the road as a journey being taken. Compounds: 途中 (tú zhōng, en route), 前途 (qiántú, future prospects , literally "the road ahead"), 用途 (yòngtú, use, application , "the road of use").</p>
       </div>
       <div class="card c-teal">
-        <div class="card-head">知 zhī — to know, to realise</div>
-        <p>Arrow (矢) over mouth (口): what the mouth speaks when hit by the arrow of perception — to know, to realise, to be aware. One of the most philosophically loaded characters in Chinese thought: 知行合一 (zhī xíng hé yī), Wang Yangming's doctrine that knowledge and action are one, turns entirely on this word. Here it carries the specific sense of coming to awareness — the moment the lost traveller realises they have gone wrong.</p>
+        <div class="card-head">知 zhī , to know, to realise</div>
+        <p>Arrow (矢) over mouth (口): what the mouth speaks when hit by the arrow of perception , to know, to realise, to be aware. One of the most philosophically loaded characters in Chinese thought: 知行合一 (zhī xíng hé yī), Wang Yangming's doctrine that knowledge and action are one, turns entirely on this word. Here it carries the specific sense of coming to awareness , the moment the lost traveller realises they have gone wrong.</p>
       </div>
       <div class="card c-teal">
         <div class="card-head">返 fǎn — to return, to turn back</div>

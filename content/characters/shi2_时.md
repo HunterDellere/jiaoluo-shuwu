@@ -150,7 +150,7 @@ content_sources:
         </div>
         <div class="note">
           <span class="note-label">辨析 biànxī · The Core Rule</span>
-          时间 takes quantifiers (三个小时的时间 — three hours' worth of time) and appears in statements about time as a quantity. 时候 cannot be quantified — you cannot say *三个小时候. When asking "when?", always 什么时候. When complaining about not having enough, always 时间.
+          时间 takes quantifiers (三个小时的时间 , three hours' worth of time) and appears in statements about time as a quantity. 时候 cannot be quantified , you cannot say *三个小时候. When asking "when?", always 什么时候. When complaining about not having enough, always 时间.
         </div>
       </div>
 
@@ -179,7 +179,7 @@ content_sources:
           <div class="example">
             <div class="ex-cn">时代在变，我们也要跟着变。</div>
             <div class="ex-py">Shídài zài biàn, wǒmen yě yào gēnzhe biàn.</div>
-            <div class="ex-en">The era is changing — we have to change with it.</div>
+            <div class="ex-en">The era is changing , we have to change with it.</div>
           </div>
         </div>
         <div class="note">
@@ -350,13 +350,13 @@ content_sources:
 
     <div class="pattern">
       <span class="label">构词规律 gòucí guīlǜ · Pattern: X + 时 → temporal adverb or adjective</span>
-      <strong>有 yǒu</strong> (have/exist) + 时 = <strong>有时</strong> yǒushí (sometimes — time as an intermittent visitor)<br>
-      <strong>当 dāng</strong> (at, during, the right moment) + 时 = <strong>当时</strong> dāngshí (at that time — a fixed point in the past)<br>
-      <strong>随 suí</strong> (to follow, to go along with) + 时 = <strong>随时</strong> suíshí (at any time, whenever — following time wherever it goes)<br>
-      <strong>及 jí</strong> (to reach, to be in time) + 时 = <strong>及时</strong> jíshí (in time; timely — reaching the moment before it passes)<br>
+      <strong>有 yǒu</strong> (have/exist) + 时 = <strong>有时</strong> yǒushí (sometimes , time as an intermittent visitor)<br>
+      <strong>当 dāng</strong> (at, during, the right moment) + 时 = <strong>当时</strong> dāngshí (at that time , a fixed point in the past)<br>
+      <strong>随 suí</strong> (to follow, to go along with) + 时 = <strong>随时</strong> suíshí (at any time, whenever , following time wherever it goes)<br>
+      <strong>及 jí</strong> (to reach, to be in time) + 时 = <strong>及时</strong> jíshí (in time; timely , reaching the moment before it passes)<br>
       <strong>同 tóng</strong> (together, same) + 时 = <strong>同时</strong> tóngshí (at the same time; simultaneously)<br>
-      <strong>临 lín</strong> (to approach, to be on the verge of) + 时 = <strong>临时</strong> línshí (temporary; ad hoc — time that is just arriving and will soon leave)<br>
-      <strong>准 zhǔn</strong> (accurate, on the mark) + 时 = <strong>准时</strong> zhǔnshí (on time; punctual — hitting the moment with precision)<br>
+      <strong>临 lín</strong> (to approach, to be on the verge of) + 时 = <strong>临时</strong> línshí (temporary; ad hoc , time that is just arriving and will soon leave)<br>
+      <strong>准 zhǔn</strong> (accurate, on the mark) + 时 = <strong>准时</strong> zhǔnshí (on time; punctual , hitting the moment with precision)<br>
       Every compound names a different relationship to the moment: whether time comes intermittently, is fixed in the past, flows freely, is barely caught, overlaps with another event, is about to end, or is met exactly.
     </div>
 
@@ -375,21 +375,21 @@ content_sources:
         <span class="cy-cn">时不我待</span>
         <span class="cy-py">shí bù wǒ dài</span>
         <span class="cy-en">time will not wait for me — seize the moment; there is no time to lose</span>
-        <span class="cy-note">Lit: time-not-me-wait. A classical inversion — the subject (时, time) is placed before the negation, with "me" as object, producing the archaic feel of a proverb. The phrase frames time as an agent with no personal loyalty: it moves whether you are ready or not. Used in motivational and literary contexts to stress urgency. 时不我待，我们要马上行动。(Time won't wait — we must act immediately.) Compare: 机不可失，时不再来 jī bù kě shī, shí bù zài lái — "the opportunity cannot be missed; time does not come again."</span>
+        <span class="cy-note">Lit: time-not-me-wait. A classical inversion , the subject (时, time) is placed before the negation, with "me" as object, producing the archaic feel of a proverb. The phrase frames time as an agent with no personal loyalty: it moves whether you are ready or not. Used in motivational and literary contexts to stress urgency. 时不我待，我们要马上行动。(Time won't wait , we must act immediately.) Compare: 机不可失，时不再来 jī bù kě shī, shí bù zài lái , "the opportunity cannot be missed; time does not come again."</span>
       </div>
 
       <div class="cy">
         <span class="cy-cn">岁月不饶人</span>
         <span class="cy-py">suìyuè bù ráo rén</span>
         <span class="cy-en">the years spare no one — time is merciless; age catches up with everyone</span>
-        <span class="cy-note">岁月 suìyuè (years and months — a classical compound for the flow of time) + 不饶 bù ráo (shows no mercy, does not spare). A cousin-phrase to 时不我待, but the mood is different: less urgent, more resigned. Where 时不我待 urges action, 岁月不饶人 acknowledges what cannot be undone. Common when observing that someone has aged, or reflecting on the passage of one's own youth. 岁月不饶人，我也老了。(The years spare no one — I've grown old too.)</span>
+        <span class="cy-note">岁月 suìyuè (years and months , a classical compound for the flow of time) + 不饶 bù ráo (shows no mercy, does not spare). A cousin-phrase to 时不我待, but the mood is different: less urgent, more resigned. Where 时不我待 urges action, 岁月不饶人 acknowledges what cannot be undone. Common when observing that someone has aged, or reflecting on the passage of one's own youth. 岁月不饶人，我也老了。(The years spare no one , I've grown old too.)</span>
       </div>
 
       <div class="cy">
         <span class="cy-cn">时过境迁</span>
         <span class="cy-py">shí guò jìng qiān</span>
         <span class="cy-en">time passes, circumstances change — things are different now; that was then</span>
-        <span class="cy-note">时过 (time has passed) + 境迁 (the situation has shifted — 境 jìng: circumstances, context; 迁 qiān: to move, to change). Used to acknowledge that what was true, appropriate, or possible in the past no longer applies — without judgment, simply as a statement of temporal fact. It can carry nostalgia or pragmatic acceptance depending on context. 时过境迁，那个时代的方法现在已经不管用了。(Times have changed; the methods of that era simply don't apply anymore.)</span>
+        <span class="cy-note">时过 (time has passed) + 境迁 (the situation has shifted , 境 jìng: circumstances, context; 迁 qiān: to move, to change). Used to acknowledge that what was true, appropriate, or possible in the past no longer applies , without judgment, simply as a statement of temporal fact. It can carry nostalgia or pragmatic acceptance depending on context. 时过境迁，那个时代的方法现在已经不管用了。(Times have changed; the methods of that era simply don't apply anymore.)</span>
       </div>
 
     </div>

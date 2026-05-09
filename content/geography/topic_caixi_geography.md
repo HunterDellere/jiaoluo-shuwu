@@ -65,7 +65,7 @@ pinyin: 'Bādà Càixì'
       <span class="topic-hero-eyebrow">Geography · 地理 dìlǐ</span>
       <h1 class="topic-hero-title">八大菜系</h1>
       <span class="topic-hero-title-py">Bādà Càixì</span>
-      <p class="topic-hero-desc">Read the Eight Great Cuisines as a geographic document — what the land, climate, and trade routes of each region produced at the table, and what the table tells you about the land.</p>
+      <p class="topic-hero-desc">Read the Eight Great Cuisines as a geographic document , what the land, climate, and trade routes of each region produced at the table, and what the table tells you about the land.</p>
     </header>
 
     <span class="section-anchor" id="frame"></span>
@@ -127,9 +127,9 @@ pinyin: 'Bādà Càixì'
       <h2 class="section-head">Geographic Patterns · 地理规律 dìlǐ guīlǜ</h2>
       <div class="scholar" data-glyph="理">
         <div class="scholar-label">规律与例外 · What the Map Reveals</div>
-        <p>Several clear patterns emerge when the eight cuisines are read geographically. The first is the chili latitude: heavy chili use concentrates in the inland, humid middle-south — Sichuan, Hunan, and to a lesser extent Guizhou and Yunnan (which have their own traditions outside the canonical eight). Coast-facing and delta cuisines, by contrast, are lighter and less spiced: Cantonese, Zhejiang, and to a degree Jiangsu. The geographic explanation is that coastal and delta cuisines can rely on the natural flavors of excellent fresh seafood and produce; inland cuisines must preserve, stimulate, and warm from the resources they have, using spice as both flavor and function.</p>
-        <p>The second pattern is the preservation axis. Cuisines from geographically constrained or isolated zones — mountains (Anhui, parts of Sichuan), landlocked basins (Hunan's inland regions) — develop elaborate preservation traditions: curing, smoking, fermenting, pickling. Cuisines from zones of abundance and easy access — the Pearl River delta, the Yangtze delta — have less need for preservation and correspondingly less fermented complexity in their basic flavor palette (though they have fermented condiments as well).</p>
-        <p>The third pattern is the diaspora effect. Cantonese cuisine became the default "Chinese food" of the global diaspora because the Cantonese were the dominant emigrant community through the nineteenth and early twentieth centuries, taking their food with them. Fujian cuisine had a similar spread across Southeast Asia. Shandong cuisine, despite being the most historically prestigious within China, had almost no international diaspora spread — because Shandong's population emigrated inward to Manchuria and the northeast rather than overseas. The geographic direction of migration determined which cuisines became internationally known, creating a global image of Chinese food that is geographically narrow relative to the actual diversity of the tradition.</p>
+        <p>Several clear patterns emerge when the eight cuisines are read geographically. The first is the chili latitude: heavy chili use concentrates in the inland, humid middle-south , Sichuan, Hunan, and to a lesser extent Guizhou and Yunnan (which have their own traditions outside the canonical eight). Coast-facing and delta cuisines, by contrast, are lighter and less spiced: Cantonese, Zhejiang, and to a degree Jiangsu. The geographic explanation is that coastal and delta cuisines can rely on the natural flavors of excellent fresh seafood and produce; inland cuisines must preserve, stimulate, and warm from the resources they have, using spice as both flavor and function.</p>
+        <p>The second pattern is the preservation axis. Cuisines from geographically constrained or isolated zones , mountains (Anhui, parts of Sichuan), landlocked basins (Hunan's inland regions) , develop elaborate preservation traditions: curing, smoking, fermenting, pickling. Cuisines from zones of abundance and easy access , the Pearl River delta, the Yangtze delta , have less need for preservation and correspondingly less fermented complexity in their basic flavor palette (though they have fermented condiments as well).</p>
+        <p>The third pattern is the diaspora effect. Cantonese cuisine became the default "Chinese food" of the global diaspora because the Cantonese were the dominant emigrant community through the nineteenth and early twentieth centuries, taking their food with them. Fujian cuisine had a similar spread across Southeast Asia. Shandong cuisine, despite being the most historically prestigious within China, had almost no international diaspora spread , because Shandong's population emigrated inward to Manchuria and the northeast rather than overseas. The geographic direction of migration determined which cuisines became internationally known, creating a global image of Chinese food that is geographically narrow relative to the actual diversity of the tradition.</p>
       </div>
 
 
@@ -138,15 +138,15 @@ pinyin: 'Bādà Càixì'
       <div class="cards">
         <div class="card c-ochre">
           <div class="card-head"><span class="tag-n">n</span> 菜系 càixì</div>
-          <p>Cuisine system — the term for a recognized regional cooking tradition. The 八大菜系 (eight great cuisine systems) are the canonical eight, though culinary scholars recognize anywhere from four to dozens of regional traditions. The 系 (xì, "system" or "lineage") implies a coherent tradition with identifiable techniques, flavors, and principles.</p>
+          <p>Cuisine system , the term for a recognized regional cooking tradition. The 八大菜系 (eight great cuisine systems) are the canonical eight, though culinary scholars recognize anywhere from four to dozens of regional traditions. The 系 (xì, "system" or "lineage") implies a coherent tradition with identifiable techniques, flavors, and principles.</p>
         </div>
         <div class="card c-teal">
           <div class="card-head"><span class="tag-n">n</span> 麻辣 málà</div>
-          <p>Numbing-spicy — the characteristic flavor combination of Sichuan cuisine, combining the numbing sensation (麻 má) of Sichuan pepper (花椒 huājiāo) with the heat (辣 là) of chili pepper. The geographic signature of the Sichuan basin's isolated, humid interior.</p>
+          <p>Numbing-spicy , the characteristic flavor combination of Sichuan cuisine, combining the numbing sensation (麻 má) of Sichuan pepper (花椒 huājiāo) with the heat (辣 là) of chili pepper. The geographic signature of the Sichuan basin's isolated, humid interior.</p>
         </div>
         <div class="card c-sienna">
           <div class="card-head"><span class="tag-n">n</span> 清淡 qīngdàn</div>
-          <p>Clear and light — the flavor aesthetic of coastal and delta cuisines, particularly Cantonese. Emphasizes the natural flavors of fresh, high-quality ingredients with minimal masking by heavy seasoning. The direct expression of a geography where fresh seafood and produce are excellent and abundant.</p>
+          <p>Clear and light , the flavor aesthetic of coastal and delta cuisines, particularly Cantonese. Emphasizes the natural flavors of fresh, high-quality ingredients with minimal masking by heavy seasoning. The direct expression of a geography where fresh seafood and produce are excellent and abundant.</p>
         </div>
         <div class="card c-violet">
           <div class="card-head"><span class="tag-n">n</span> 淮扬菜 Huáiyáng Cài</div>

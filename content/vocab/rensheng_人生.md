@@ -41,7 +41,7 @@ content_sources:
       <span class="topic-hero-eyebrow">Vocab · Philosophy · 词汇哲学</span>
       <h1 class="topic-hero-title">人生</h1>
       <span class="topic-hero-title-py">rénshēng</span>
-      <p class="topic-hero-desc">Human life as a journey and a question — not mere biological existence, but the shape and meaning of a life. 人 (person) + 生 (life/birth/to live): the life that a person actively lives through.</p>
+      <p class="topic-hero-desc">Human life as a journey and a question , not mere biological existence, but the shape and meaning of a life. 人 (person) + 生 (life/birth/to live): the life that a person actively lives through.</p>
     </header>
 
     <span class="section-anchor" id="etymology"></span>
@@ -61,10 +61,10 @@ content_sources:
       <table>
         <thead><tr><th>词 Word</th><th>侧重 Emphasis</th><th>例子 Example</th></tr></thead>
         <tbody>
-          <tr><td class="td-cn">人生 rénshēng</td><td>The arc and meaning of a human life — biographical, philosophical</td><td class="td-cn">人生的意义是什么？ — What is the meaning of life?</td></tr>
-          <tr><td class="td-cn">生命 shēngmìng</td><td>Life as a living thing, a biological fact — vitality, existence</td><td class="td-cn">生命很脆弱。 — Life is fragile.</td></tr>
-          <tr><td class="td-cn">生活 shēnghuó</td><td>Life as day-to-day living — lifestyle, livelihood, daily experience</td><td class="td-cn">他的生活很简单。 — His life is simple.</td></tr>
-          <tr><td class="td-cn">一生 yīshēng</td><td>One's whole lifetime — "all one's life," from birth to death</td><td class="td-cn">她一生都在奉献。 — She dedicated her whole life.</td></tr>
+          <tr><td class="td-cn">人生 rénshēng</td><td>The arc and meaning of a human life , biographical, philosophical</td><td class="td-cn">人生的意义是什么？ — What is the meaning of life?</td></tr>
+          <tr><td class="td-cn">生命 shēngmìng</td><td>Life as a living thing, a biological fact , vitality, existence</td><td class="td-cn">生命很脆弱。 — Life is fragile.</td></tr>
+          <tr><td class="td-cn">生活 shēnghuó</td><td>Life as day-to-day living , lifestyle, livelihood, daily experience</td><td class="td-cn">他的生活很简单。 — His life is simple.</td></tr>
+          <tr><td class="td-cn">一生 yīshēng</td><td>One's whole lifetime , "all one's life," from birth to death</td><td class="td-cn">她一生都在奉献。 — She dedicated her whole life.</td></tr>
         </tbody>
       </table>
     </div>
@@ -73,9 +73,9 @@ content_sources:
     <div class="section-head"><span class="sh-cn">人生阶段</span><span class="sh-py">rénshēng jiēduàn</span><span class="sh-en">The Life Stages — Confucian Ages and Milestones</span><span class="sh-rule"></span></div>
 
     <div class="scholar" data-glyph="人">
-      <div class="scholar-label">文化洞见 wénhuà dòngjiàn · Cultural Insight — Confucius on the Decades of Life</div>
+      <div class="scholar-label">文化洞见 wénhuà dòngjiàn · Cultural Insight , Confucius on the Decades of Life</div>
       <p>One of the most quoted passages in Chinese culture comes from the <em>Analects</em> (论语 Lúnyǔ), where Confucius maps his own life journey against decades of self-development:</p>
-      <p><strong>吾十有五而志于学</strong> — At fifteen, my will was set on learning. <strong>三十而立</strong> — At thirty, I stood firm. <strong>四十而不惑</strong> — At forty, I had no doubts. <strong>五十而知天命</strong> — At fifty, I knew the decrees of Heaven. <strong>六十而耳顺</strong> — At sixty, my ear was docile (I could hear truth in all things). <strong>七十而从心所欲，不逾矩</strong> — At seventy, I could follow my heart's desire without transgressing what was right.</p>
+      <p><strong>吾十有五而志于学</strong> , At fifteen, my will was set on learning. <strong>三十而立</strong> , At thirty, I stood firm. <strong>四十而不惑</strong> , At forty, I had no doubts. <strong>五十而知天命</strong> , At fifty, I knew the decrees of Heaven. <strong>六十而耳顺</strong> , At sixty, my ear was docile (I could hear truth in all things). <strong>七十而从心所欲，不逾矩</strong> , At seventy, I could follow my heart's desire without transgressing what was right.</p>
       <p>These phrases are deeply embedded in Chinese cultural life. 三十而立 (at thirty, one stands firm) is still used to describe 30 as the expected age of career and family establishment. 知天命 (knowing heaven's decree) is a common way of referring to one's 50s. They function as a shared vocabulary for talking about life stages and self-development.</p>
     </div>
 
@@ -102,7 +102,7 @@ content_sources:
           <tr><td class="td-cn">人生经历</td><td class="td-py">rénshēng jīnglì</td><td>life experience; what one has lived through</td></tr>
           <tr><td class="td-cn">人生意义</td><td class="td-py">rénshēng yìyì</td><td>the meaning of life</td></tr>
           <tr><td class="td-cn">短暂的人生</td><td class="td-py">duǎnzàn de rénshēng</td><td>the fleeting nature of life; a brief life</td></tr>
-          <tr><td class="td-cn">三十而立</td><td class="td-py">sānshí ér lì</td><td>at thirty one stands firm — Confucian milestone</td></tr>
+          <tr><td class="td-cn">三十而立</td><td class="td-py">sānshí ér lì</td><td>at thirty one stands firm , Confucian milestone</td></tr>
         </tbody>
       </table>
     </div>

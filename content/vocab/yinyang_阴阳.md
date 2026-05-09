@@ -70,7 +70,7 @@ content_sources:
       <span class="topic-hero-eyebrow">Vocabulary · 词汇 cíhuì</span>
       <h1 class="topic-hero-title">阴阳</h1>
       <span class="topic-hero-title-py">yīnyáng</span>
-      <p class="topic-hero-desc">Shadow and sunlight — the paired forces that generate all of reality in Chinese cosmological thought.</p>
+      <p class="topic-hero-desc">Shadow and sunlight , the paired forces that generate all of reality in Chinese cosmological thought.</p>
     </header>
 
     <!-- ── ETYMOLOGY ── -->
@@ -114,13 +114,13 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N/Adj 名形</span></div>
         <div class="card-def">
-          阴 appears across registers from the meteorological (overcast weather) to the philosophical (receptive cosmological force) to the sinister (hidden, covert). The everyday weather word 阴天 (cloudy/overcast day) and the cosmological 阴 are the same character, which makes the abstract concept intuitively accessible — an overcast day is a literally 阴 day. The secondary sense of 阴 as "covert" or "sinister" (阴谋, conspiracy) draws on the image of something operating in shadow, unseen.
+          阴 appears across registers from the meteorological (overcast weather) to the philosophical (receptive cosmological force) to the sinister (hidden, covert). The everyday weather word 阴天 (cloudy/overcast day) and the cosmological 阴 are the same character, which makes the abstract concept intuitively accessible , an overcast day is a literally 阴 day. The secondary sense of 阴 as "covert" or "sinister" (阴谋, conspiracy) draws on the image of something operating in shadow, unseen.
         </div>
         <div class="examples">
           <div class="example">
             <div class="ex-cn">今天阴天，可能会下雨。</div>
             <div class="ex-py">Jīntiān yīntiān, kěnéng huì xià yǔ.</div>
-            <div class="ex-en">Today is overcast — it might rain.</div>
+            <div class="ex-en">Today is overcast , it might rain.</div>
           </div>
           <div class="example">
             <div class="ex-cn">阴历是中国传统的历法，以月亮为基准。</div>
@@ -130,7 +130,7 @@ content_sources:
           <div class="example">
             <div class="ex-cn">树荫下阴凉，适合避暑。</div>
             <div class="ex-py">Shùyīn xià yīnliáng, shìhé bìshǔ.</div>
-            <div class="ex-en">It is cool and shady under the trees — perfect for escaping the summer heat.</div>
+            <div class="ex-en">It is cool and shady under the trees , perfect for escaping the summer heat.</div>
           </div>
         </div>
       </div>
@@ -143,18 +143,18 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N/Adj 名形</span></div>
         <div class="card-def">
-          阳 is bright, warm, active, manifest — things that operate in the open, in the light, with energy. 阳光 (sunlight) is also the word for a sunny, open personality. 阳历 (solar calendar) tracks the sun. 阳台 (balcony — the sunny platform). The secondary sense of 阳 as "positive" and "overt" contrasts with 阴 as "negative" and "covert": acting 阳 is acting openly; acting 阴 is acting in the shadows.
+          阳 is bright, warm, active, manifest , things that operate in the open, in the light, with energy. 阳光 (sunlight) is also the word for a sunny, open personality. 阳历 (solar calendar) tracks the sun. 阳台 (balcony , the sunny platform). The secondary sense of 阳 as "positive" and "overt" contrasts with 阴 as "negative" and "covert": acting 阳 is acting openly; acting 阴 is acting in the shadows.
         </div>
         <div class="examples">
           <div class="example">
             <div class="ex-cn">阳光照进房间，整个空间都亮了起来。</div>
             <div class="ex-py">Yángguāng zhào jìn fángjiān, zhěnggè kōngjiān dōu liàng le qǐlái.</div>
-            <div class="ex-en">Sunlight streamed into the room — the whole space lit up.</div>
+            <div class="ex-en">Sunlight streamed into the room , the whole space lit up.</div>
           </div>
           <div class="example">
             <div class="ex-cn">他性格阳光开朗，很受大家欢迎。</div>
             <div class="ex-py">Tā xìnggé yángguāng kāilǎng, hěn shòu dàjiā huānyíng.</div>
-            <div class="ex-en">He has a sunny, open personality — everyone likes him.</div>
+            <div class="ex-en">He has a sunny, open personality , everyone likes him.</div>
           </div>
           <div class="example">
             <div class="ex-cn">阳历一月一日是元旦，阴历正月初一是春节。</div>
@@ -172,7 +172,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          The core goal in 阴阳 thinking is not the elimination of one force or the dominance of the other — it is 平衡 pínghéng: dynamic balance between them. This is not static equilibrium (like a scale perfectly level) but living balance (like a tightrope walker, constantly adjusting). Health, good weather, good governance, good relationships — all are described in terms of 阴阳 balance.
+          The core goal in 阴阳 thinking is not the elimination of one force or the dominance of the other , it is 平衡 pínghéng: dynamic balance between them. This is not static equilibrium (like a scale perfectly level) but living balance (like a tightrope walker, constantly adjusting). Health, good weather, good governance, good relationships , all are described in terms of 阴阳 balance.
         </div>
         <div class="examples">
           <div class="example">
@@ -183,7 +183,7 @@ content_sources:
           <div class="example">
             <div class="ex-cn">饮食上要注意阴阳调和，不可偏颇。</div>
             <div class="ex-py">Yǐnshí shàng yào zhùyì yīnyáng tiáohé, bù kě piānpō.</div>
-            <div class="ex-en">In diet one must pay attention to harmonizing yin and yang — one must not be one-sided.</div>
+            <div class="ex-en">In diet one must pay attention to harmonizing yin and yang , one must not be one-sided.</div>
           </div>
           <div class="example">
             <div class="ex-cn">阴阳失衡，就会产生各种问题。</div>
@@ -304,13 +304,13 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          虚 xū = deficient; empty; insufficient. Classic 阴虚 symptoms: heat sensations in the palms and soles of feet (五心烦热), night sweats (盗汗 dào hàn), dry mouth and throat, redness of the cheeks in the afternoon, irritability, insomnia. The treatment principle: 滋阴 zīyīn (nourish yin) — using herbs and foods that have yin, moistening qualities to replenish the deficient coolant.
+          虚 xū = deficient; empty; insufficient. Classic 阴虚 symptoms: heat sensations in the palms and soles of feet (五心烦热), night sweats (盗汗 dào hàn), dry mouth and throat, redness of the cheeks in the afternoon, irritability, insomnia. The treatment principle: 滋阴 zīyīn (nourish yin) , using herbs and foods that have yin, moistening qualities to replenish the deficient coolant.
         </div>
         <div class="examples">
           <div class="example">
             <div class="ex-cn">中医诊断她为阴虚体质，容易上火。</div>
             <div class="ex-py">Zhōngyī zhěnduàn tā wéi yīn xū tǐzhì, róngyì shàng huǒ.</div>
-            <div class="ex-en">Traditional Chinese medicine diagnosed her as having a yin-deficient constitution — prone to excess heat.</div>
+            <div class="ex-en">Traditional Chinese medicine diagnosed her as having a yin-deficient constitution , prone to excess heat.</div>
           </div>
           <div class="example">
             <div class="ex-cn">阴虚的人要少吃辛辣食物，多吃滋润的东西。</div>
@@ -333,13 +333,13 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          Classic 阳虚 symptoms: aversion to cold (怕冷 pà lěng), cold hands and feet, pale complexion, fatigue and low energy, frequent clear urination, low libido, loose stools. The treatment principle: 补阳 bǔ yáng (supplement yang) or 温阳 wēn yáng (warm yang) — using warming herbs and lifestyle practices to strengthen the yang function. Moxa (艾灸 àijiǔ), warming foods, avoiding cold environments.
+          Classic 阳虚 symptoms: aversion to cold (怕冷 pà lěng), cold hands and feet, pale complexion, fatigue and low energy, frequent clear urination, low libido, loose stools. The treatment principle: 补阳 bǔ yáng (supplement yang) or 温阳 wēn yáng (warm yang) , using warming herbs and lifestyle practices to strengthen the yang function. Moxa (艾灸 àijiǔ), warming foods, avoiding cold environments.
         </div>
         <div class="examples">
           <div class="example">
             <div class="ex-cn">他是阳虚体质，特别怕冷，夏天也穿长袖。</div>
             <div class="ex-py">Tā shì yáng xū tǐzhì, tèbié pà lěng, xiàtiān yě chuān cháng xiù.</div>
-            <div class="ex-en">He has a yang-deficient constitution and is especially sensitive to cold — he wears long sleeves even in summer.</div>
+            <div class="ex-en">He has a yang-deficient constitution and is especially sensitive to cold , he wears long sleeves even in summer.</div>
           </div>
           <div class="example">
             <div class="ex-cn">补阳的食物有羊肉、生姜、肉桂等。</div>
@@ -357,7 +357,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          调 tiáo (to tune; to harmonize; to adjust) + 和 hé (harmony; peace). The goal of all Chinese medical practice: not the maximization of either force, but their active, dynamic harmony. 调和 is active — it is a verb about process, not a noun describing a state. You cultivate 阴阳调和 through daily choices, seasonal adjustment, and medical treatment when needed.
+          调 tiáo (to tune; to harmonize; to adjust) + 和 hé (harmony; peace). The goal of all Chinese medical practice: not the maximization of either force, but their active, dynamic harmony. 调和 is active , it is a verb about process, not a noun describing a state. You cultivate 阴阳调和 through daily choices, seasonal adjustment, and medical treatment when needed.
         </div>
         <div class="examples">
           <div class="example">
@@ -394,18 +394,18 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N/Adj 名形</span></div>
         <div class="card-def">
-          阳 yáng (yang; sun) + 光 guāng (light; radiance). Literal sunlight, and by extension a personality quality: someone who is 阳光 is warm, open, optimistic — they bring light into the room. The metaphor is exact: they embody yang qualities in their social presence. This adjective use for personality is extremely common in modern Chinese, especially in positive descriptions of young people.
+          阳 yáng (yang; sun) + 光 guāng (light; radiance). Literal sunlight, and by extension a personality quality: someone who is 阳光 is warm, open, optimistic , they bring light into the room. The metaphor is exact: they embody yang qualities in their social presence. This adjective use for personality is extremely common in modern Chinese, especially in positive descriptions of young people.
         </div>
         <div class="examples">
           <div class="example">
             <div class="ex-cn">他是个阳光男孩，总是笑容满面。</div>
             <div class="ex-py">Tā shì gè yángguāng nánhái, zǒngshì xiàoróng mǎn miàn.</div>
-            <div class="ex-en">He's a sunny young man — always wearing a big smile.</div>
+            <div class="ex-en">He's a sunny young man , always wearing a big smile.</div>
           </div>
           <div class="example">
             <div class="ex-cn">窗户开着，阳光照进来，心情好多了。</div>
             <div class="ex-py">Chuānghu kāi zhe, yángguāng zhào jìn lái, xīnqíng hǎo duō le.</div>
-            <div class="ex-en">The window was open, sunlight streamed in — my mood improved a great deal.</div>
+            <div class="ex-en">The window was open, sunlight streamed in , my mood improved a great deal.</div>
           </div>
           <div class="example">
             <div class="ex-cn">阳光是万物生长的能量来源。</div>
@@ -423,7 +423,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          阴 yīn (dark; covert; hidden) + 谋 móu (to plot; to scheme). A plan that operates in shadow, unseen — the hidden face that 阴 takes when it manifests as human deception. The contrast with open, legitimate action (which would be 阳) is built into the word. 阴谋诡计 (yīnmóu guǐjì — conspiracies and tricks) is the fuller expression. 政治阴谋 = political conspiracy.
+          阴 yīn (dark; covert; hidden) + 谋 móu (to plot; to scheme). A plan that operates in shadow, unseen , the hidden face that 阴 takes when it manifests as human deception. The contrast with open, legitimate action (which would be 阳) is built into the word. 阴谋诡计 (yīnmóu guǐjì , conspiracies and tricks) is the fuller expression. 政治阴谋 = political conspiracy.
         </div>
         <div class="examples">
           <div class="example">
@@ -434,7 +434,7 @@ content_sources:
           <div class="example">
             <div class="ex-cn">别听那些阴谋论，很多都是无中生有。</div>
             <div class="ex-py">Bié tīng nàxiē yīnmóu lùn, hěn duō dōu shì wú zhōng shēng yǒu.</div>
-            <div class="ex-en">Don't listen to those conspiracy theories — many are fabricated from nothing.</div>
+            <div class="ex-en">Don't listen to those conspiracy theories , many are fabricated from nothing.</div>
           </div>
         </div>
       </div>
@@ -447,13 +447,13 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          太 tài (supreme; ultimate; the greatest) + 阳 yáng (yang force; light). The Supreme Yang — the ultimate source of yang energy in the cosmos. In the 五行 framework, the sun is the source of Fire phase energy. 太阳能 (solar energy) uses exactly this logic. Also: the temple at the sun-facing point of many geographic sites is called 太阳庙. The word is the everyday word for the sun, but its cosmological depth is preserved in the characters.
+          太 tài (supreme; ultimate; the greatest) + 阳 yáng (yang force; light). The Supreme Yang , the ultimate source of yang energy in the cosmos. In the 五行 framework, the sun is the source of Fire phase energy. 太阳能 (solar energy) uses exactly this logic. Also: the temple at the sun-facing point of many geographic sites is called 太阳庙. The word is the everyday word for the sun, but its cosmological depth is preserved in the characters.
         </div>
         <div class="examples">
           <div class="example">
             <div class="ex-cn">太阳升起来了，新的一天开始了。</div>
             <div class="ex-py">Tàiyáng shēng qǐlái le, xīn de yītiān kāishǐ le.</div>
-            <div class="ex-en">The sun has risen — a new day has begun.</div>
+            <div class="ex-en">The sun has risen , a new day has begun.</div>
           </div>
           <div class="example">
             <div class="ex-cn">太阳能发电越来越普遍了。</div>
@@ -476,13 +476,13 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          阴 yīn (shadow; overcast) + 天 tiān (sky; day; weather). The most concrete, everyday 阴 compound — a day when clouds cover the sun. This is the original geographic sense of 阴 made meteorological. Because the philosophical 阴 carries connotations of gloom and cold, 阴天 is commonly used to describe depressive atmospheres figuratively as well: 心里阴沉沉的 (the heart is overcast and heavy).
+          阴 yīn (shadow; overcast) + 天 tiān (sky; day; weather). The most concrete, everyday 阴 compound , a day when clouds cover the sun. This is the original geographic sense of 阴 made meteorological. Because the philosophical 阴 carries connotations of gloom and cold, 阴天 is commonly used to describe depressive atmospheres figuratively as well: 心里阴沉沉的 (the heart is overcast and heavy).
         </div>
         <div class="examples">
           <div class="example">
             <div class="ex-cn">今天阴天，出门记得带伞。</div>
             <div class="ex-py">Jīntiān yīntiān, chūmén jìde dài sǎn.</div>
-            <div class="ex-en">Today is overcast — remember to bring an umbrella when you go out.</div>
+            <div class="ex-en">Today is overcast , remember to bring an umbrella when you go out.</div>
           </div>
           <div class="example">
             <div class="ex-cn">连续几天的阴天让人心情沉闷。</div>
@@ -509,14 +509,14 @@ content_sources:
         <span class="cy-cn">阴阳怪气</span>
         <span class="cy-py">yīn yáng guài qì</span>
         <span class="cy-en">yin-yang weird energy — passive-aggressive; sarcastic; speaking in an off-putting, odd manner</span>
-        <span class="cy-note">A vivid colloquial phrase for someone whose speech or behavior is consistently passive-aggressive, sarcastic, or oddly unsettling. 他说话总是阴阳怪气的，让人不舒服。(He always speaks in that passive-aggressive yin-yang way — it makes people uncomfortable.) Modern slang usage that draws on 阴 (covert, sinister) + 阳 (overt, open) being scrambled into something neither one nor the other — just weird and off.</span>
+        <span class="cy-note">A vivid colloquial phrase for someone whose speech or behavior is consistently passive-aggressive, sarcastic, or oddly unsettling. 他说话总是阴阳怪气的，让人不舒服。(He always speaks in that passive-aggressive yin-yang way , it makes people uncomfortable.) Modern slang usage that draws on 阴 (covert, sinister) + 阳 (overt, open) being scrambled into something neither one nor the other , just weird and off.</span>
       </div>
 
       <div class="cy">
         <span class="cy-cn">否极泰来</span>
         <span class="cy-py">pǐ jí tài lái</span>
         <span class="cy-en">after extreme obstruction (yin) comes peace (yang) — when things hit rock bottom, improvement follows</span>
-        <span class="cy-note">From the Yijing hexagrams 否 pǐ (stagnation; obstruction — a yin hexagram) and 泰 tài (peace; harmony — a yang hexagram). The cosmological law: forces cycle, yin cannot dominate forever, the turn of yang is inevitable. A comforting phrase in hard times: 否极泰来，好日子还在后面。(After the worst comes the best — good days are still ahead.)</span>
+        <span class="cy-note">From the Yijing hexagrams 否 pǐ (stagnation; obstruction , a yin hexagram) and 泰 tài (peace; harmony , a yang hexagram). The cosmological law: forces cycle, yin cannot dominate forever, the turn of yang is inevitable. A comforting phrase in hard times: 否极泰来，好日子还在后面。(After the worst comes the best — good days are still ahead.)</span>
       </div>
 
       <div class="cy">

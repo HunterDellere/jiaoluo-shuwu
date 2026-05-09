@@ -110,7 +110,7 @@ stages:
       <span class="topic-hero-eyebrow">Hubs · 门户 ménhù</span>
       <h1 class="topic-hero-title">节日</h1>
       <span class="topic-hero-title-py">jié rì</span>
-      <p class="topic-hero-desc">A guided walk through the Chinese year — the lunar calendar, the solar terms, and the great festivals that mark the turning of time.</p>
+      <p class="topic-hero-desc">A guided walk through the Chinese year , the lunar calendar, the solar terms, and the great festivals that mark the turning of time.</p>
     </header>
 
     <span class="section-anchor" id="overview"></span>
@@ -127,7 +127,7 @@ stages:
     <span class="section-anchor" id="questions"></span>
     <div class="section-head"><h2>How to Use This in Daily Life</h2></div>
     <div class="pattern">
-      <span class="label">日常应用 · rìcháng yìngyòng — practical takeaways</span>
+      <span class="label">日常应用 · rìcháng yìngyòng , practical takeaways</span>
       <p><strong>Knowing what to say at each festival.</strong> Chinese festival greetings are highly specific and change with each occasion. 新年快乐 (xīn nián kuàilè, Happy New Year) is correct at Spring Festival but unusual at Mid-Autumn. The vocabulary entry for 春节 covers the full register of New Year greetings; each festival entry covers its own set.</p>
       <p><strong>Understanding the gift logic.</strong> Red envelopes (红包 hóngbāo) at Spring Festival, mooncakes at Mid-Autumn, zongzi at Dragon Boat Festival: each festival has its canonical food and gift. Each item carries a story and an obligation that make the gift meaningful rather than merely commercial.</p>
       <p><strong>Reading the zodiac year.</strong> The animal of the year shapes the feng shui advice, the lucky colours, and the fortune predictions that saturate Chinese media from mid-January onward. Knowing the 12-animal cycle and its associated elements lets you decode what people mean when they say a year is 'auspicious' or 'difficult.'</p>

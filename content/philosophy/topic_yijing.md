@@ -67,7 +67,7 @@ pinyin: 'yì jīng'
       <span class="topic-hero-eyebrow">Philosophy · 哲学 zhéxué</span>
       <h1 class="topic-hero-title">易经</h1>
       <span class="topic-hero-title-py">yì jīng</span>
-      <p class="topic-hero-desc">64 hexagrams. 4,096 possible questions. The oldest living text of Chinese civilization — and still consulted today.</p>
+      <p class="topic-hero-desc">64 hexagrams. 4,096 possible questions. The oldest living text of Chinese civilization , and still consulted today.</p>
     </header>
 
     <!-- ── OVERVIEW ── -->
@@ -82,7 +82,7 @@ pinyin: 'yì jīng'
     <div class="scholar" data-glyph="易">
       <div class="scholar-label">学者洞见 xuézhě dòngjiàn · Etymology and Origins</div>
       <p>The title repays close attention. <strong>易 yì</strong> carries at least two meanings simultaneously: <em>change</em> and <em>easy</em>. The commentary tradition identifies three layers: <strong>变易 biànyì</strong> (the ceaseless flux of all things), <strong>不易 bùyì</strong> (the unchanging laws governing change, the constancy beneath the flux), and <strong>简易 jiǎnyì</strong> (the simplicity underlying apparent complexity, the idea that the entire universe can be read through 64 patterns). The title is already a philosophical program.</p>
-      <p><strong>经 jīng</strong> means classic, canonical text, warp thread — the great sutras and scriptures of a tradition. A 经 is a foundational text so authoritative that it structures everything woven across it. The 易经 is one of the Five Classics (五经 Wǔ Jīng) and is the oldest of them, attributed to a legendary sequence of sage-kings: the trigrams (八卦 bāguà) to <strong>伏羲 Fúxī</strong>, the hexagrams and their judgments to <strong>周文王 Zhōu Wén Wáng</strong> (King Wen of Zhou, ca. 1100 BCE), and the line commentaries to the <strong>周公 Zhōu Gōng</strong> (Duke of Zhou). The philosophical commentaries known as the <strong>十翼 Shí Yì</strong> (Ten Wings) were traditionally attributed to Confucius.</p>
+      <p><strong>经 jīng</strong> means classic, canonical text, warp thread , the great sutras and scriptures of a tradition. A 经 is a foundational text so authoritative that it structures everything woven across it. The 易经 is one of the Five Classics (五经 Wǔ Jīng) and is the oldest of them, attributed to a legendary sequence of sage-kings: the trigrams (八卦 bāguà) to <strong>伏羲 Fúxī</strong>, the hexagrams and their judgments to <strong>周文王 Zhōu Wén Wáng</strong> (King Wen of Zhou, ca. 1100 BCE), and the line commentaries to the <strong>周公 Zhōu Gōng</strong> (Duke of Zhou). The philosophical commentaries known as the <strong>十翼 Shí Yì</strong> (Ten Wings) were traditionally attributed to Confucius.</p>
       <p>The Book of Changes is simultaneously the oldest of the Five Classics, a divination manual, a cosmological text, and a philosophy of flux. It predates the Confucian and Daoist schools and was foundational to both. <strong>Confucius</strong> reportedly studied it so intensely in his later years that the leather binding wore out three times, which gave rise to the chengyu <strong>韦编三绝 wéi biān sān jué</strong>, the archetype of devoted scholarship. In the Daoist tradition, the 易 maps the ceaseless transformation of 道; its 64 hexagrams are a grammar of the way change actually moves through things.</p>
       <p>The 易经 is not a predictive oracle in the sense of telling you what will happen. A reading tells you the configuration of forces in the present moment: which hexagram you are standing in, which lines are at their extreme and about to change. It invites you to align your action with the direction of change rather than against it. The 易经 does not predict. It orients.</p>
     </div>
@@ -99,20 +99,20 @@ pinyin: 'yì jīng'
     <div class="scholar" data-glyph="卦">
       <div class="scholar-label">系统原理 xìtǒng yuánlǐ · System Logic</div>
       <p>The 64 hexagrams (卦 guà) are built from six stacked lines, each either broken (⚋ = <strong>阴 yīn</strong>) or solid (⚊ = <strong>阳 yáng</strong>). Two states × six positions = 64 combinations, a complete binary system encoding all possible states of change. The 易经 explicitly claims to map the universe; the ten thousand things (万物 wànwù) pass through these 64 configurations as they transform.</p>
-      <p>Each hexagram is built from two trigrams (三爻卦 sān yáo guà) of three lines each. There are eight trigrams (八卦 bāguà) — and these eight are the cosmological shorthand of Chinese civilization. They appear in feng shui compasses, on talismans, in the center of the Korean flag, and in the layout of the Palace of Heavenly Purity. Each trigram names a natural force: heaven 乾 qián, earth 坤 kūn, thunder 震 zhèn, water 坎 kǎn, mountain 艮 gèn, wind/wood 巽 xùn, fire 离 lí, lake 兑 duì.</p>
+      <p>Each hexagram is built from two trigrams (三爻卦 sān yáo guà) of three lines each. There are eight trigrams (八卦 bāguà) , and these eight are the cosmological shorthand of Chinese civilization. They appear in feng shui compasses, on talismans, in the center of the Korean flag, and in the layout of the Palace of Heavenly Purity. Each trigram names a natural force: heaven 乾 qián, earth 坤 kūn, thunder 震 zhèn, water 坎 kǎn, mountain 艮 gèn, wind/wood 巽 xùn, fire 离 lí, lake 兑 duì.</p>
       <p>Each hexagram has three textual layers: a <strong>卦名 guà míng</strong> (name), a <strong>卦辞 guà cí</strong> (judgment, attributed to King Wen), and six <strong>爻辞 yáo cí</strong> (line texts, attributed to the Duke of Zhou). The Ten Wings commentaries expand all three. The first hexagram <strong>乾 qián</strong> (six solid lines, pure yang, heaven, the dragon, creative force) and its complement <strong>坤 kūn</strong> (six broken lines, pure yin, earth, the mare, receptive force) establish the poles between which all change occurs. Every other hexagram is a specific mixture of these two forces in specific positions.</p>
       <p>A reading is performed by casting yarrow stalks (蓍草 shī cǎo) or coins to generate a sequence of six lines. Crucially, each line has a quality: either stable or "changing" (变爻 biàn yáo). A changing line is one that has reached its extreme, a yin line about to become yang or a yang line about to become yin. The changing lines transform the primary hexagram into a second hexagram, the "resultant" hexagram. Reading both together reveals the full situation: where you are now, and where the current configuration is moving.</p>
 
       <div class="pattern">
         <span class="label">八卦 bāguà · The Eight Trigrams</span>
-        ☰ <strong>乾 qián</strong> — heaven · father · creative · solid<br>
-        ☷ <strong>坤 kūn</strong> — earth · mother · receptive · yielding<br>
-        ☳ <strong>震 zhèn</strong> — thunder · eldest son · arousing<br>
-        ☵ <strong>坎 kǎn</strong> — water · middle son · abysmal · danger<br>
-        ☶ <strong>艮 gèn</strong> — mountain · youngest son · keeping still<br>
-        ☴ <strong>巽 xùn</strong> — wind/wood · eldest daughter · gentle penetrating<br>
-        ☲ <strong>离 lí</strong> — fire · middle daughter · clinging · brightness<br>
-        ☱ <strong>兑 duì</strong> — lake · youngest daughter · joyful
+        ☰ <strong>乾 qián</strong> , heaven · father · creative · solid<br>
+        ☷ <strong>坤 kūn</strong> , earth · mother · receptive · yielding<br>
+        ☳ <strong>震 zhèn</strong> , thunder · eldest son · arousing<br>
+        ☵ <strong>坎 kǎn</strong> , water · middle son · abysmal · danger<br>
+        ☶ <strong>艮 gèn</strong> , mountain · youngest son · keeping still<br>
+        ☴ <strong>巽 xùn</strong> , wind/wood · eldest daughter · gentle penetrating<br>
+        ☲ <strong>离 lí</strong> , fire · middle daughter · clinging · brightness<br>
+        ☱ <strong>兑 duì</strong> , lake · youngest daughter · joyful
       </div>
     </div>
 
@@ -150,7 +150,7 @@ pinyin: 'yì jīng'
           <div class="example">
             <div class="ex-cn">一阴一阳之谓道。</div>
             <div class="ex-py">Yī yīn yī yáng zhī wèi dào.</div>
-            <div class="ex-en">One yin, one yang — this is called the Dao. (系辞上)</div>
+            <div class="ex-en">One yin, one yang , this is called the Dao. (系辞上)</div>
           </div>
         </div>
       </div>
@@ -162,7 +162,7 @@ pinyin: 'yì jīng'
           <span class="card-en">hexagram; trigram; the unit of the system</span>
         </div>
         <div class="card-def">
-          卦 guà is the technical term for both the six-line hexagrams and the three-line trigrams (distinguished as 六爻卦 liù yáo guà and 三爻卦 sān yáo guà when precision is needed). The character depicts a hand 卜 over a ground 土 — divination. Each 卦 has a name, a judgment, line texts, and commentary, forming a complete reading unit. In modern colloquial Chinese, 卦 also appears in compounds that have left the divination context entirely — 变卦 (to change one's mind, go back on one's word) uses the hexagram metaphor for any sudden reversal of position.
+          卦 guà is the technical term for both the six-line hexagrams and the three-line trigrams (distinguished as 六爻卦 liù yáo guà and 三爻卦 sān yáo guà when precision is needed). The character depicts a hand 卜 over a ground 土 , divination. Each 卦 has a name, a judgment, line texts, and commentary, forming a complete reading unit. In modern colloquial Chinese, 卦 also appears in compounds that have left the divination context entirely , 变卦 (to change one's mind, go back on one's word) uses the hexagram metaphor for any sudden reversal of position.
         </div>
         <div class="examples">
           <div class="example">
@@ -178,7 +178,7 @@ pinyin: 'yì jīng'
           <div class="example">
             <div class="ex-cn">说好的不去，怎么又变卦了？</div>
             <div class="ex-py">Shuō hǎo de bù qù, zěnme yòu biànguà le?</div>
-            <div class="ex-en">You agreed not to go — how did you change your mind again? (colloquial use of 变卦)</div>
+            <div class="ex-en">You agreed not to go , how did you change your mind again? (colloquial use of 变卦)</div>
           </div>
         </div>
       </div>
@@ -201,7 +201,7 @@ pinyin: 'yì jīng'
           <div class="example">
             <div class="ex-cn">纯阳为乾，纯阴为坤，乾坤是万化之源。</div>
             <div class="ex-py">Chún yáng wéi qián, chún yīn wéi kūn, qiánkūn shì wàn huà zhī yuán.</div>
-            <div class="ex-en">Pure yang is Qian, pure yin is Kun — Qian and Kun are the source of ten thousand transformations.</div>
+            <div class="ex-en">Pure yang is Qian, pure yin is Kun , Qian and Kun are the source of ten thousand transformations.</div>
           </div>
           <div class="example">
             <div class="ex-cn">阴阳相推而生变化。</div>
@@ -224,7 +224,7 @@ pinyin: 'yì jīng'
           <div class="example">
             <div class="ex-cn">当初说好要来的，怎么临时变卦？</div>
             <div class="ex-py">Dāngchū shuō hǎo yào lái de, zěnme línshí biànguà?</div>
-            <div class="ex-en">You said you'd come — how did you change your mind at the last minute?</div>
+            <div class="ex-en">You said you'd come , how did you change your mind at the last minute?</div>
           </div>
           <div class="example">
             <div class="ex-cn">变爻指示局势的走向，读本卦与变卦才能看全。</div>
@@ -255,7 +255,7 @@ pinyin: 'yì jīng'
       <p>The 易经 permeates Chinese civilization in ways not always visible at the surface. <strong>风水 fēngshuǐ</strong> (geomancy) is organized entirely by its principles: the eight trigrams map the eight directions, and the placement of structures relative to the flow of 气 follows hexagram logic. <strong>中医 zhōngyī</strong> (traditional Chinese medicine) draws its cosmological framework, the balance of yin and yang and the cyclical nature of health and disease, directly from the 易. <strong>五行 wǔxíng</strong> (the Five Phases of wood, fire, earth, metal, water) emerge from the 易经's cosmology and were developed alongside it.</p>
       <p>The geopolitical implications were real. The dynastic cycle, the rise, flourishing, corruption, and fall of each dynasty followed by a new order, was understood as a kind of 变卦 at civilizational scale: a configuration of forces reaching its extreme, then transforming. The Son of Heaven (天子 tiānzǐ) held the Mandate of Heaven (天命 tiānmìng) precisely as long as the configuration of heaven and earth supported him. The 易经 provided the cosmological grammar for reading whether that mandate was stable or changing.</p>
       <p>The reach of the 易经 beyond China is equally remarkable. When Jesuit missionaries brought reproductions of the hexagram tables to Europe in the late 17th century, Gottfried Wilhelm <strong>Leibniz</strong> recognized in them a structural parallel to his own binary arithmetic, which he had developed independently. Two states (yin/yang = 0/1) × six positions = 64 combinations. Leibniz wrote to the Jesuit Bouvet expressing his excitement: he believed the ancient Chinese had encoded a universal mathematical language. The parallel is genuine, though the purposes differ. Leibniz's binary was for calculation; the 易经's binary was for reading change.</p>
-      <p>In the modern Chinese-speaking world, the 易经 remains actively consulted — not as curiosity but as a living practice. Entrepreneurs quote <strong>穷则变，变则通</strong> from its commentary as strategic advice. Motivational culture invokes <strong>天行健，君子以自强不息</strong> from its first hexagram. The most cited Chinese maxim about resilience in adversity — <strong>否极泰来 pǐ jí tài lái</strong> (after obstruction comes peace) — names two hexagrams directly. The 易经 is not a relic. It is a living vocabulary.</p>
+      <p>In the modern Chinese-speaking world, the 易经 remains actively consulted , not as curiosity but as a living practice. Entrepreneurs quote <strong>穷则变，变则通</strong> from its commentary as strategic advice. Motivational culture invokes <strong>天行健，君子以自强不息</strong> from its first hexagram. The most cited Chinese maxim about resilience in adversity , <strong>否极泰来 pǐ jí tài lái</strong> (after obstruction comes peace) , names two hexagrams directly. The 易经 is not a relic. It is a living vocabulary.</p>
     </div>
 
     <!-- ── VOCABULARY ── -->
@@ -276,7 +276,7 @@ pinyin: 'yì jīng'
           <span class="card-en">Heaven moves with vigor; the noble person strengthens himself without cease</span>
         </div>
         <div class="card-def">
-          From the commentary on the first hexagram 乾 qián — the Judgment commentary (大象传 Dà Xiàng Zhuàn). 天行健 tiān xíng jiàn: heaven (the sky, the cosmos) moves with consistent vigor — it does not pause, does not rest, does not slacken. 君子以自强不息 jūnzǐ yǐ zì qiáng bù xī: the 君子 (noble person, person of character) uses this as a model for self-cultivation — strengthening oneself without cessation, without excuse, without end. This is arguably the single most cited classical phrase in contemporary Chinese motivational culture. It is carved into school walls, quoted at graduation ceremonies, printed on company mission statements. The seal of Tsinghua University incorporates it directly: 自强不息，厚德载物.
+          From the commentary on the first hexagram 乾 qián , the Judgment commentary (大象传 Dà Xiàng Zhuàn). 天行健 tiān xíng jiàn: heaven (the sky, the cosmos) moves with consistent vigor , it does not pause, does not rest, does not slacken. 君子以自强不息 jūnzǐ yǐ zì qiáng bù xī: the 君子 (noble person, person of character) uses this as a model for self-cultivation , strengthening oneself without cessation, without excuse, without end. This is arguably the single most cited classical phrase in contemporary Chinese motivational culture. It is carved into school walls, quoted at graduation ceremonies, printed on company mission statements. The seal of Tsinghua University incorporates it directly: 自强不息，厚德载物.
         </div>
         <div class="examples">
           <div class="example">
@@ -310,17 +310,17 @@ pinyin: 'yì jīng'
           <div class="example">
             <div class="ex-cn">物极必反，盛极而衰，这是历史的规律。</div>
             <div class="ex-py">Wù jí bì fǎn, shèng jí ér shuāi, zhè shì lìshǐ de guīlǜ.</div>
-            <div class="ex-en">Things at their extreme reverse; at the height of prosperity comes decline — this is the law of history.</div>
+            <div class="ex-en">Things at their extreme reverse; at the height of prosperity comes decline , this is the law of history.</div>
           </div>
           <div class="example">
             <div class="ex-cn">他管得太严，物极必反，孩子反而更叛逆了。</div>
             <div class="ex-py">Tā guǎn de tài yán, wù jí bì fǎn, háizi fǎn'ér gèng pànnì le.</div>
-            <div class="ex-en">He was too strict; things reversed at their extreme — the child became even more rebellious.</div>
+            <div class="ex-en">He was too strict; things reversed at their extreme , the child became even more rebellious.</div>
           </div>
           <div class="example">
             <div class="ex-cn">市场涨到极点就会跌，这正是物极必反的道理。</div>
             <div class="ex-py">Shìchǎng zhǎng dào jídiǎn jiù huì diē, zhè zhèng shì wù jí bì fǎn de dàolǐ.</div>
-            <div class="ex-en">When the market rises to its extreme it will fall — this is precisely the principle of things reversing at their extreme.</div>
+            <div class="ex-en">When the market rises to its extreme it will fall , this is precisely the principle of things reversing at their extreme.</div>
           </div>
         </div>
       </div>
@@ -337,18 +337,18 @@ pinyin: 'yì jīng'
         <div class="examples">
           <div class="example">
             <div class="ex-cn">穷则变，变则通——公司在困境中转型，反而打开了新局面。</div>
-            <div class="ex-py">Qióng zé biàn, biàn zé tōng — gōngsī zài kùnjìng zhōng zhuǎnxíng, fǎn'ér dǎkāi le xīn júmiàn.</div>
-            <div class="ex-en">"When exhausted, change" — the company transformed in adversity and opened up a new situation instead.</div>
+            <div class="ex-py">Qióng zé biàn, biàn zé tōng , gōngsī zài kùnjìng zhōng zhuǎnxíng, fǎn'ér dǎkāi le xīn júmiàn.</div>
+            <div class="ex-en">"When exhausted, change" , the company transformed in adversity and opened up a new situation instead.</div>
           </div>
           <div class="example">
             <div class="ex-cn">旧方法行不通了，就要勇于变革，这是《易经》的智慧。</div>
             <div class="ex-py">Jiù fāngfǎ xíng bu tōng le, jiù yào yǒngyú biàngé, zhè shì Yì Jīng de zhìhuì.</div>
-            <div class="ex-en">When old methods no longer work, one must have the courage to change — this is the wisdom of the Yi Jing.</div>
+            <div class="ex-en">When old methods no longer work, one must have the courage to change , this is the wisdom of the Yi Jing.</div>
           </div>
           <div class="example">
             <div class="ex-cn">穷则变，变则通，通则久——这三句话说尽了变革的道理。</div>
-            <div class="ex-py">Qióng zé biàn, biàn zé tōng, tōng zé jiǔ — zhè sān jù huà shuō jìn le biàngé de dàolǐ.</div>
-            <div class="ex-en">"When exhausted, change; when changed, break through; when through, endure" — these three clauses say everything about the logic of transformation.</div>
+            <div class="ex-py">Qióng zé biàn, biàn zé tōng, tōng zé jiǔ , zhè sān jù huà shuō jìn le biàngé de dàolǐ.</div>
+            <div class="ex-en">"When exhausted, change; when changed, break through; when through, endure" , these three clauses say everything about the logic of transformation.</div>
           </div>
         </div>
       </div>
@@ -370,21 +370,21 @@ pinyin: 'yì jīng'
         <span class="cy-cn">韦编三绝</span>
         <span class="cy-py">wéi biān sān jué</span>
         <span class="cy-en">the leather cord worn through three times — the archetype of devoted scholarship</span>
-        <span class="cy-note">韦 wéi = leather; 编 biān = cord, binding; 三绝 sān jué = worn through three times. Classical books were written on bamboo strips bound together with cords of leather or silk. According to the 《史记》Shǐ Jì (Records of the Grand Historian), Confucius read the 易经 so obsessively in his later years that the leather binding of his copy wore through three times. The story is almost certainly apocryphal — but it has served for two millennia as the definitive image of devoted study: not reading once and moving on, but returning until the material itself is exhausted. Used in modern Chinese to praise any scholar or student of extraordinary diligence. The implicit message: this is how the greatest minds engage with the greatest texts.</span>
+        <span class="cy-note">韦 wéi = leather; 编 biān = cord, binding; 三绝 sān jué = worn through three times. Classical books were written on bamboo strips bound together with cords of leather or silk. According to the 《史记》Shǐ Jì (Records of the Grand Historian), Confucius read the 易经 so obsessively in his later years that the leather binding of his copy wore through three times. The story is almost certainly apocryphal , but it has served for two millennia as the definitive image of devoted study: not reading once and moving on, but returning until the material itself is exhausted. Used in modern Chinese to praise any scholar or student of extraordinary diligence. The implicit message: this is how the greatest minds engage with the greatest texts.</span>
       </div>
 
       <div class="cy">
         <span class="cy-cn">物极必反</span>
         <span class="cy-py">wù jí bì fǎn</span>
         <span class="cy-en">things at their extreme necessarily reverse — the core cosmological law of the Yi Jing</span>
-        <span class="cy-note">物 wù = things; 极 jí = extreme, apex; 必 bì = necessarily; 反 fǎn = to reverse. The most fundamental structural principle in the 易经: no state — however stable, however powerful, however extreme — can remain at its extreme indefinitely. Yin becomes yang; yang becomes yin. Summer carries winter; winter carries summer. The most dominant dynasty contains the seed of the next. This makes the 易经 framework inherently non-catastrophist: the worst moment is simultaneously the turning point. 物极必反 appears independently of 易经 references in modern Chinese as a general warning against excess or as a description of any situation that has overreached and is about to reverse.</span>
+        <span class="cy-note">物 wù = things; 极 jí = extreme, apex; 必 bì = necessarily; 反 fǎn = to reverse. The most fundamental structural principle in the 易经: no state , however stable, however powerful, however extreme , can remain at its extreme indefinitely. Yin becomes yang; yang becomes yin. Summer carries winter; winter carries summer. The most dominant dynasty contains the seed of the next. This makes the 易经 framework inherently non-catastrophist: the worst moment is simultaneously the turning point. 物极必反 appears independently of 易经 references in modern Chinese as a general warning against excess or as a description of any situation that has overreached and is about to reverse.</span>
       </div>
 
       <div class="cy">
         <span class="cy-cn">否极泰来</span>
         <span class="cy-py">pǐ jí tài lái</span>
         <span class="cy-en">after obstruction reaches its extreme, peace arrives — after misfortune comes good fortune</span>
-        <span class="cy-note">否 pǐ and 泰 tài are the names of two actual hexagrams in the 易经. 否 (hexagram 12) is the hexagram of obstruction: heaven above, earth below — the two forces moving away from each other, nothing connecting. 泰 (hexagram 11) is the hexagram of peace and flourishing: earth above, heaven below — the two forces moving toward each other, everything in communication. The chengyu encodes the principle of 物极必反 through hexagram names: when obstruction (否) reaches its extreme, the transformation to peace (泰) is inevitable. This is one of the most commonly cited chengyu in situations of difficulty or misfortune — a philosophical reassurance that the cosmological logic is on your side. Modern usage: any expression of hope in adversity, equivalent to "this too shall pass" but with structural rather than sentimental grounding.</span>
+        <span class="cy-note">否 pǐ and 泰 tài are the names of two actual hexagrams in the 易经. 否 (hexagram 12) is the hexagram of obstruction: heaven above, earth below , the two forces moving away from each other, nothing connecting. 泰 (hexagram 11) is the hexagram of peace and flourishing: earth above, heaven below , the two forces moving toward each other, everything in communication. The chengyu encodes the principle of 物极必反 through hexagram names: when obstruction (否) reaches its extreme, the transformation to peace (泰) is inevitable. This is one of the most commonly cited chengyu in situations of difficulty or misfortune , a philosophical reassurance that the cosmological logic is on your side. Modern usage: any expression of hope in adversity, equivalent to "this too shall pass" but with structural rather than sentimental grounding.</span>
       </div>
 
     </div>

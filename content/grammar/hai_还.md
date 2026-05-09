@@ -73,7 +73,7 @@ pinyin: 'hái'
       <span class="topic-hero-eyebrow">Grammar · 语法 yǔfǎ</span>
       <h1 class="topic-hero-title">还</h1>
       <span class="topic-hero-title-py">hái</span>
-      <p class="topic-hero-desc">An adverb with four apparently unrelated jobs — "still," "also," "even more," and "had better" — all running on the same engine: something continues, or extends, past where you expected it to stop.</p>
+      <p class="topic-hero-desc">An adverb with four apparently unrelated jobs , "still," "also," "even more," and "had better" , all running on the same engine: something continues, or extends, past where you expected it to stop.</p>
     </header>
 
     <!-- ── OVERVIEW ── -->
@@ -87,7 +87,7 @@ pinyin: 'hái'
 
     <div class="scholar" data-glyph="还">
       <div class="scholar-label">字形洞见 zìxíng dòngjiàn · Two Characters in One</div>
-      <p><strong>还</strong> has two readings that must be kept separate. As <strong>huán</strong>, it is a verb meaning "to return, to give back" — 还书 huán shū (to return a book), 还钱 huán qián (to pay back money), 还愿 huán yuàn (to fulfill a vow). As <strong>hái</strong>, it is an adverb with four major uses in modern Mandarin. This entry covers hái exclusively.</p>
+      <p><strong>还</strong> has two readings that must be kept separate. As <strong>huán</strong>, it is a verb meaning "to return, to give back" , 还书 huán shū (to return a book), 还钱 huán qián (to pay back money), 还愿 huán yuàn (to fulfill a vow). As <strong>hái</strong>, it is an adverb with four major uses in modern Mandarin. This entry covers hái exclusively.</p>
       <p>The four uses of hái look unrelated on the surface: "still" (he's still sleeping), "also" (I can also speak Japanese), "even more" (today is even colder), and the 还是 constructions. The unifying logic is extension past a boundary. Time boundaries: the situation has lasted longer than expected. Scope boundaries: something additional falls inside the domain. Degree boundaries: the level exceeds the comparison point. Once this thread is visible, the four uses stop feeling arbitrary.</p>
     </div>
 
@@ -102,7 +102,7 @@ pinyin: 'hái'
       <strong>3. Comparative "even more"</strong><br>
       <code>A + 比 + B + 还 + Adjective</code><br>
       今天比昨天还冷。Jīntiān bǐ zuótiān hái lěng. — Today is even colder than yesterday.<br><br>
-      <strong>4. 还是 háishì — "or" / "had better"</strong><br>
+      <strong>4. 还是 háishì , "or" / "had better"</strong><br>
       <code>A 还是 B？</code> (alternative question) / <code>还是 + [advice]</code> (recommendation)<br>
       你喝茶还是咖啡？Nǐ hē chá háishì kāfēi? — Tea or coffee?
     </div>
@@ -126,7 +126,7 @@ pinyin: 'hái'
         </div>
         <div class="tags"><span class="tag tag-v">还 · continuative adverb</span></div>
         <div class="card-def">
-          The most common use of 还 hái. It marks that a situation that was already in progress continues — often with a mild sense that this continuation is noteworthy, surprising, or beyond what the speaker expected. The "still" in English is the closest equivalent, but 还 has a slightly stronger implication of exceeded expectation than neutral English "still" does.
+          The most common use of 还 hái. It marks that a situation that was already in progress continues , often with a mild sense that this continuation is noteworthy, surprising, or beyond what the speaker expected. The "still" in English is the closest equivalent, but 还 has a slightly stronger implication of exceeded expectation than neutral English "still" does.
         </div>
         <div class="examples">
           <div class="example">
@@ -157,7 +157,7 @@ pinyin: 'hái'
         </div>
         <div class="note">
           <span class="note-label">辨析 biànxī · 还 vs 已经</span>
-          还 and 已经 yǐjīng (already) are direct opposites along the completion axis. 已经 marks that a change has occurred and a new state is in effect. 还 marks that no change has occurred and the old state persists. Compare: 他已经来了 (he has already arrived) vs. 他还没来 (he still hasn't arrived). The two adverbs divide the timeline at the same moment — one from each side.
+          还 and 已经 yǐjīng (already) are direct opposites along the completion axis. 已经 marks that a change has occurred and a new state is in effect. 还 marks that no change has occurred and the old state persists. Compare: 他已经来了 (he has already arrived) vs. 他还没来 (he still hasn't arrived). The two adverbs divide the timeline at the same moment , one from each side.
         </div>
       </div>
 
@@ -208,8 +208,8 @@ pinyin: 'hái'
 
     <div class="scholar" data-glyph="还">
       <div class="scholar-label">语法洞见 yǔfǎ dòngjiàn · 还 vs 也: Same Subject, New Predicate</div>
-      <p>Both 还 hái and 也 yě translate as "also," but they operate at different structural levels. 也 matches predicates across subjects: A does X; B also does X. 还 adds a new predicate to the <em>same</em> subject: A does X and also Y. When you hear 还 in the additive sense, something new is being stacked onto what was already said about the same person or thing — the scope extends further than before.</p>
-      <p>In practice: 他也去 (he's also going, like the others) vs. 他还去图书馆 (he's going to the library in addition to whatever else he's doing). The distinction becomes important in sentences like 她不但聪明，还很努力 — the 还 adds a second quality to the same subject after 不但 has established the first. Swapping 也 in here would be grammatically odd.</p>
+      <p>Both 还 hái and 也 yě translate as "also," but they operate at different structural levels. 也 matches predicates across subjects: A does X; B also does X. 还 adds a new predicate to the <em>same</em> subject: A does X and also Y. When you hear 还 in the additive sense, something new is being stacked onto what was already said about the same person or thing , the scope extends further than before.</p>
+      <p>In practice: 他也去 (he's also going, like the others) vs. 他还去图书馆 (he's going to the library in addition to whatever else he's doing). The distinction becomes important in sentences like 她不但聪明，还很努力 , the 还 adds a second quality to the same subject after 不但 has established the first. Swapping 也 in here would be grammatically odd.</p>
     </div>
 
     <div class="cards">
@@ -309,7 +309,7 @@ pinyin: 'hái'
         </div>
         <div class="note">
           <span class="note-label">辨析 biànxī · 还 vs 更 in comparisons</span>
-          Both 还 and 更 gèng can appear in 比 sentences with the meaning "even more." 更 is neutral: 今天比昨天更冷 simply states a greater degree. 还 adds an element of surprise or emphasis — the speaker is registering that the degree exceeds expectation. In spoken Chinese, 还 in this slot often reads as more emphatic and personal; 更 is common in both speech and formal writing without that tonal coloring.
+          Both 还 and 更 gèng can appear in 比 sentences with the meaning "even more." 更 is neutral: 今天比昨天更冷 simply states a greater degree. 还 adds an element of surprise or emphasis , the speaker is registering that the degree exceeds expectation. In spoken Chinese, 还 in this slot often reads as more emphatic and personal; 更 is common in both speech and formal writing without that tonal coloring.
         </div>
       </div>
 
@@ -326,8 +326,8 @@ pinyin: 'hái'
 
     <div class="scholar" data-glyph="是">
       <div class="scholar-label">语法洞见 yǔfǎ dòngjiàn · Three Faces of 还是</div>
-      <p><strong>还是</strong> háishì operates in three distinct contexts that look unrelated until you see the pattern. In alternative questions, it presents two options and asks the listener to choose between them. As advice, it signals that after considering alternatives, one course of action remains the most sensible. In expressions of resignation like 还是算了, it signals that continuing to pursue something is no longer worth it — the speaker has weighed the options and settled on withdrawal.</p>
-      <p>All three uses share the idea of deliberation between possibilities: one path remains, or is determined to be, the appropriate one. Compare with 或者 huòzhě (or), which is used in statements, not questions — 你可以喝茶或者咖啡 (you can have tea or coffee) vs. 你要喝茶还是咖啡？(do you want tea or coffee?). 还是 in questions is not interchangeable with 或者.</p>
+      <p><strong>还是</strong> háishì operates in three distinct contexts that look unrelated until you see the pattern. In alternative questions, it presents two options and asks the listener to choose between them. As advice, it signals that after considering alternatives, one course of action remains the most sensible. In expressions of resignation like 还是算了, it signals that continuing to pursue something is no longer worth it , the speaker has weighed the options and settled on withdrawal.</p>
+      <p>All three uses share the idea of deliberation between possibilities: one path remains, or is determined to be, the appropriate one. Compare with 或者 huòzhě (or), which is used in statements, not questions , 你可以喝茶或者咖啡 (you can have tea or coffee) vs. 你要喝茶还是咖啡？(do you want tea or coffee?). 还是 in questions is not interchangeable with 或者.</p>
     </div>
 
     <div class="cards">
@@ -340,7 +340,7 @@ pinyin: 'hái'
         </div>
         <div class="tags"><span class="tag tag-v">还是 · alternative question</span></div>
         <div class="card-def">
-          Alternative questions with 还是 present exactly two options and demand one be chosen. Unlike 吗 questions (which ask yes/no), 还是 questions ask the listener to select. The answer is always one of the presented options — or an explicit refusal of both.
+          Alternative questions with 还是 present exactly two options and demand one be chosen. Unlike 吗 questions (which ask yes/no), 还是 questions ask the listener to select. The answer is always one of the presented options , or an explicit refusal of both.
         </div>
         <div class="examples">
           <div class="example">
@@ -404,7 +404,7 @@ pinyin: 'hái'
           <div class="example">
             <div class="ex-cn">天气这么冷，还是别出去了吧。</div>
             <div class="ex-py">Tiānqì zhème lěng, háishì bié chūqù le ba.</div>
-            <div class="ex-en">The weather is so cold — best not to go out.</div>
+            <div class="ex-en">The weather is so cold , best not to go out.</div>
           </div>
         </div>
         <div class="note">
@@ -426,7 +426,7 @@ pinyin: 'hái'
 
     <div class="scholar" data-glyph="还">
       <div class="scholar-label">口语洞见 kǒuyǔ dòngjiàn · The Chinese Art of Damning with Faint Praise</div>
-      <p>Three expressions built on 还 form a cluster that learners encounter within their first weeks but rarely see explained together: 还好 hái hǎo, 还行 hái xíng, and 还可以 hái kěyǐ. All three mean roughly "passable, acceptable, not bad" — an assessment that sits somewhere between genuine praise and polite dismissal. The common thread is 还 as a boundary marker: the quality clears the minimum bar, but only just, or at any rate better than the alternative would have been.</p>
+      <p>Three expressions built on 还 form a cluster that learners encounter within their first weeks but rarely see explained together: 还好 hái hǎo, 还行 hái xíng, and 还可以 hái kěyǐ. All three mean roughly "passable, acceptable, not bad" , an assessment that sits somewhere between genuine praise and polite dismissal. The common thread is 还 as a boundary marker: the quality clears the minimum bar, but only just, or at any rate better than the alternative would have been.</p>
       <p>还好 carries a secondary meaning that the others lack: "fortunately" or "luckily." 还好你来了 means "it's a good thing you came" rather than "you came in an acceptable fashion." Context disambiguates easily. The fortunate-that sense appears when 还好 opens a clause about an outcome that could have been worse.</p>
     </div>
 
@@ -440,13 +440,13 @@ pinyin: 'hái'
         </div>
         <div class="tags"><span class="tag tag-adj">Adj · hedged assessment / fortunately</span></div>
         <div class="card-def">
-          The most versatile of the three hedges. As a standalone response to "how was it?" or "how are you?", 还好 reads as "fine, okay, not bad." As an opener to a clause, it shifts to "fortunately, luckily" — the speaker is noting that things didn't go as badly as they might have.
+          The most versatile of the three hedges. As a standalone response to "how was it?" or "how are you?", 还好 reads as "fine, okay, not bad." As an opener to a clause, it shifts to "fortunately, luckily" , the speaker is noting that things didn't go as badly as they might have.
         </div>
         <div class="examples">
           <div class="example">
             <div class="ex-cn">考试怎么样？还好，没那么难。</div>
             <div class="ex-py">Kǎoshì zěnmeyàng? Hái hǎo, méi nàme nán.</div>
-            <div class="ex-en">How was the exam? Not bad — not as hard as expected.</div>
+            <div class="ex-en">How was the exam? Not bad , not as hard as expected.</div>
           </div>
           <div class="example">
             <div class="ex-cn">还好你提醒了我，不然我就忘了。</div>
@@ -461,7 +461,7 @@ pinyin: 'hái'
           <div class="example">
             <div class="ex-cn">还好没下雨，我们可以出去了。</div>
             <div class="ex-py">Hái hǎo méi xià yǔ, wǒmen kěyǐ chūqù le.</div>
-            <div class="ex-en">Fortunately it didn't rain — we can go out.</div>
+            <div class="ex-en">Fortunately it didn't rain , we can go out.</div>
           </div>
         </div>
       </div>
@@ -474,28 +474,28 @@ pinyin: 'hái'
         </div>
         <div class="tags"><span class="tag tag-adj">Adj · hedged adequacy</span></div>
         <div class="card-def">
-          还行 and 还可以 are near-synonyms expressing that something meets a threshold without exceeding it. 还行 is slightly more colloquial and common in northern speech. 还可以 is slightly more neutral and appears across all registers. Both function as low-key positive assessments — the speaker won't complain, but they're not enthusiastic either.
+          还行 and 还可以 are near-synonyms expressing that something meets a threshold without exceeding it. 还行 is slightly more colloquial and common in northern speech. 还可以 is slightly more neutral and appears across all registers. Both function as low-key positive assessments , the speaker won't complain, but they're not enthusiastic either.
         </div>
         <div class="examples">
           <div class="example">
             <div class="ex-cn">这家餐厅怎么样？还行，下次可以再来。</div>
             <div class="ex-py">Zhè jiā cāntīng zěnmeyàng? Hái xíng, xià cì kěyǐ zài lái.</div>
-            <div class="ex-en">How was this restaurant? It was okay — we could come back.</div>
+            <div class="ex-en">How was this restaurant? It was okay , we could come back.</div>
           </div>
           <div class="example">
             <div class="ex-cn">他的中文还可以，能跟人正常交流。</div>
             <div class="ex-py">Tā de Zhōngwén hái kěyǐ, néng gēn rén zhèngcháng jiāoliú.</div>
-            <div class="ex-en">His Chinese is acceptable — he can communicate normally with people.</div>
+            <div class="ex-en">His Chinese is acceptable , he can communicate normally with people.</div>
           </div>
           <div class="example">
             <div class="ex-cn">这份工作工资还行，就是太忙了。</div>
             <div class="ex-py">Zhè fèn gōngzuò gōngzī hái xíng, jiùshì tài máng le.</div>
-            <div class="ex-en">The salary for this job is decent — it's just too busy.</div>
+            <div class="ex-en">The salary for this job is decent , it's just too busy.</div>
           </div>
           <div class="example">
             <div class="ex-cn">那部电影还可以看，不过别期望太高。</div>
             <div class="ex-py">Nà bù diànyǐng hái kěyǐ kàn, búguò bié qīwàng tài gāo.</div>
-            <div class="ex-en">That movie is watchable — just don't expect too much.</div>
+            <div class="ex-en">That movie is watchable , just don't expect too much.</div>
           </div>
         </div>
       </div>
@@ -513,7 +513,7 @@ pinyin: 'hái'
 
     <div class="scholar" data-glyph="仍">
       <div class="scholar-label">辨析 biànxī · Three Ways to Say "Still"</div>
-      <p>Chinese offers three adverbs for the continuative "still," each calibrated to a different register. <strong>还 hái</strong> is the everyday spoken form — the one you hear in conversation, in texts, and in informal writing. <strong>仍然 réngrán</strong> appears in news reports, formal prose, and official documents; it is never marked as too formal for writing, but it would sound stilted in casual speech. <strong>依然 yīrán</strong> is literary and often carries emotional weight — the sense that something persists despite the passage of time, loss, or change. 依然爱你 ("I still love you") reads as touching precisely because 依然 pulls from a more elevated register than 还. Using 还 in the same sentence would flatten it.</p>
+      <p>Chinese offers three adverbs for the continuative "still," each calibrated to a different register. <strong>还 hái</strong> is the everyday spoken form , the one you hear in conversation, in texts, and in informal writing. <strong>仍然 réngrán</strong> appears in news reports, formal prose, and official documents; it is never marked as too formal for writing, but it would sound stilted in casual speech. <strong>依然 yīrán</strong> is literary and often carries emotional weight , the sense that something persists despite the passage of time, loss, or change. 依然爱你 ("I still love you") reads as touching precisely because 依然 pulls from a more elevated register than 还. Using 还 in the same sentence would flatten it.</p>
       <p>The three are largely interchangeable in meaning, but choosing the wrong register for the context is noticeable. A news article that writes 他还担任总裁职务 ("he is still serving as CEO") sounds chatty. Lyrics that use 仍然 instead of 依然 lose the patina. 还 is safe for all spoken contexts; the other two require matching the register of the surrounding text.</p>
     </div>
 

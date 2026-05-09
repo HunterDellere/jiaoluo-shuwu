@@ -116,7 +116,7 @@ pinyin: 'Chūnjié'
       <div class="cards">
         <div class="card c-red">
           <div class="card-head"><span class="tag-n">n</span> 新年快乐 xīnnián kuàilè</div>
-          <p>Happy New Year — literally "new year happy." The standard greeting for the solar New Year (January 1). For Lunar New Year, 新春快乐 (xīnchūn kuàilè) or 恭喜发财 (gōngxǐ fācái, "congratulations and may you prosper") are more appropriate.</p>
+          <p>Happy New Year , literally "new year happy." The standard greeting for the solar New Year (January 1). For Lunar New Year, 新春快乐 (xīnchūn kuàilè) or 恭喜发财 (gōngxǐ fācái, "congratulations and may you prosper") are more appropriate.</p>
         </div>
         <div class="card c-red">
           <div class="card-head"><span class="tag-n">n</span> 恭喜发财 gōngxǐ fācái</div>

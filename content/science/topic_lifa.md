@@ -164,7 +164,7 @@ pinyin: 'lìfǎ'
     <div class="cards">
       <div class="card c-teal">
         <div class="card-head"><span class="tag-n">n</span> 农历 nónglì</div>
-        <p>Agricultural calendar — the common term for the traditional Chinese lunisolar calendar. Also called 阴历 yīnlì (yin calendar) or 旧历 jiùlì (old calendar). "Agricultural" in the name reflects its original primary function: synchronizing farming activities with seasonal solar terms while tracking time by lunar months.</p>
+        <p>Agricultural calendar , the common term for the traditional Chinese lunisolar calendar. Also called 阴历 yīnlì (yin calendar) or 旧历 jiùlì (old calendar). "Agricultural" in the name reflects its original primary function: synchronizing farming activities with seasonal solar terms while tracking time by lunar months.</p>
       </div>
       <div class="card c-ochre">
         <div class="card-head"><span class="tag-n">n</span> 闰月 rùnyuè</div>

@@ -44,15 +44,15 @@ content_sources:
         <span class="toc-sub">liǎng dú · xíng vs. háng</span>
       </a></li>
       <li><a href="#xing-walk">
-        <span class="toc-cn">行动</span> xíng — Walking &amp; Acting
+        <span class="toc-cn">行动</span> xíng , Walking &amp; Acting
         <span class="toc-sub">xíngdòng · motion compounds</span>
       </a></li>
       <li><a href="#xing-conduct">
-        <span class="toc-cn">行为</span> xíng — Conduct
+        <span class="toc-cn">行为</span> xíng , Conduct
         <span class="toc-sub">xíngwéi · the moral sense</span>
       </a></li>
       <li><a href="#hang">
-        <span class="toc-cn">行业</span> háng — Rows &amp; Trades
+        <span class="toc-cn">行业</span> háng , Rows &amp; Trades
         <span class="toc-sub">hángyè · the business sense</span>
       </a></li>
       <li><a href="#chengyu">
@@ -109,9 +109,9 @@ content_sources:
 
     <div class="scholar" data-glyph="行">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
-      <p><strong>行 = 彳 + 亍</strong>. The Unihan structure splits 行 into its left half 彳 (chì — small step, the step-radical that opens dozens of motion characters) and its right half 亍 (chù — also a step-element). Two halves of a stride. But the older and more illuminating reading is pictographic: <strong>行 originated as a drawing of a four-way crossroads</strong> seen from above — two roads intersecting at right angles. The Shuōwén Jiězì 说文解字 already gives this reading: 行 = 人之步趋也 "the place where people walk and hurry."</p>
-      <p>This is why 行 is its own radical — it heads a small but consistent family of characters about roads and travel: 街 jiē (street), 衍 yǎn (to flow; to spread along a path), 衢 qú (a thoroughfare). Wherever 行 sits in a character, you should hear roads and motion.</p>
-      <p>From <em>crossroads</em> the meanings radiate naturally: a place where one walks (a road) → the act of walking → motion in general → going through with something → carrying out an action → conduct → a person's way of moving through life. And, by a parallel route from the same root: <em>a row of things lined up</em> (like a row of stalls along a road) → a category of trades → a profession → a business firm. Two distinct readings — <strong>xíng</strong> and <strong>háng</strong> — preserve the split.</p>
+      <p><strong>行 = 彳 + 亍</strong>. The Unihan structure splits 行 into its left half 彳 (chì , small step, the step-radical that opens dozens of motion characters) and its right half 亍 (chù , also a step-element). Two halves of a stride. But the older and more illuminating reading is pictographic: <strong>行 originated as a drawing of a four-way crossroads</strong> seen from above , two roads intersecting at right angles. The Shuōwén Jiězì 说文解字 already gives this reading: 行 = 人之步趋也 "the place where people walk and hurry."</p>
+      <p>This is why 行 is its own radical , it heads a small but consistent family of characters about roads and travel: 街 jiē (street), 衍 yǎn (to flow; to spread along a path), 衢 qú (a thoroughfare). Wherever 行 sits in a character, you should hear roads and motion.</p>
+      <p>From <em>crossroads</em> the meanings radiate naturally: a place where one walks (a road) → the act of walking → motion in general → going through with something → carrying out an action → conduct → a person's way of moving through life. And, by a parallel route from the same root: <em>a row of things lined up</em> (like a row of stalls along a road) → a category of trades → a profession → a business firm. Two distinct readings , <strong>xíng</strong> and <strong>háng</strong> , preserve the split.</p>
     </div>
 
     <!-- ── TWO READINGS ── -->
@@ -125,8 +125,8 @@ content_sources:
 
     <div class="pattern">
       <span class="label">辨音 biànyīn · Which reading when?</span>
-      <strong>xíng</strong> (rising tone 2) — <em>verbal</em> sense: to walk, to do, to act, conduct, motion. Default reading; covers 行动 行走 行为 进行 旅行 流行 实行 不行.<br>
-      <strong>háng</strong> (rising tone 2) — <em>nominal</em> sense: a row, a line, a category, a trade, a firm. Covers 银行 行业 行情 内行 外行 同行 一行字.<br>
+      <strong>xíng</strong> (rising tone 2) , <em>verbal</em> sense: to walk, to do, to act, conduct, motion. Default reading; covers 行动 行走 行为 进行 旅行 流行 实行 不行.<br>
+      <strong>háng</strong> (rising tone 2) , <em>nominal</em> sense: a row, a line, a category, a trade, a firm. Covers 银行 行业 行情 内行 外行 同行 一行字.<br>
       Same character, same tone, different vowel: ríng vs. áng. The two readings descend from one root meaning (the crossroads) but split early into a verbal branch (walking → acting) and a nominal branch (rows → categories of trade).
     </div>
 
@@ -134,7 +134,7 @@ content_sources:
       <span class="label">速记 sùjì · Quick test</span>
       <strong>If 行 is a verb or part of one</strong> → xíng. (执行 enforce, 进行 carry out, 行动 act, 不行 not OK)<br>
       <strong>If 行 is a noun for a row, line, or business</strong> → háng. (银行 bank, 内行 expert, 行业 industry, 同行 peer)<br>
-      <strong>The famous trap</strong> → 银行 yínháng (bank), not yínxíng. A bank is "a silver-row," a row of money-changers' stalls — háng. But 旅行 is lǚxíng (to travel) — a verb of motion, xíng.
+      <strong>The famous trap</strong> → 银行 yínháng (bank), not yínxíng. A bank is "a silver-row," a row of money-changers' stalls , háng. But 旅行 is lǚxíng (to travel) , a verb of motion, xíng.
     </div>
 
     <!-- ── XING WALK ── -->
@@ -157,7 +157,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-vn">V/N 动名词</span></div>
         <div class="card-def">
-          行 xíng + 动 dòng (to move). The general word for action — both as a verb (to take action) and as a noun (an action, an operation). Used in everything from personal life (我们应该立刻行动 "we should act at once") to police and military operations (军事行动 "military operation").
+          行 xíng + 动 dòng (to move). The general word for action , both as a verb (to take action) and as a noun (an action, an operation). Used in everything from personal life (我们应该立刻行动 "we should act at once") to police and military operations (军事行动 "military operation").
         </div>
         <div class="examples">
           <div class="example">
@@ -177,7 +177,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-v">V 动词 dòngcí</span></div>
         <div class="card-def">
-          进 jìn (to advance; to enter) + 行 xíng. The all-purpose formal verb for "to carry out" — used before two-syllable activity nouns: 进行讨论 "carry out a discussion," 进行调查 "conduct an investigation," 进行比赛 "hold a competition." Functions like a grammaticalized "do" for activities that are too dignified for plain 做 zuò. Indispensable in news, academic writing, and formal speech.
+          进 jìn (to advance; to enter) + 行 xíng. The all-purpose formal verb for "to carry out" , used before two-syllable activity nouns: 进行讨论 "carry out a discussion," 进行调查 "conduct an investigation," 进行比赛 "hold a competition." Functions like a grammaticalized "do" for activities that are too dignified for plain 做 zuò. Indispensable in news, academic writing, and formal speech.
         </div>
         <div class="examples">
           <div class="example">
@@ -222,7 +222,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-adj">Adj/V 形容词/动词</span></div>
         <div class="card-def">
-          流 liú (to flow) + 行 xíng. <em>Flowing-and-traveling.</em> The verb for something that spreads through a population — fashion, slang, popular songs, viruses. 流行音乐 = pop music; 流行病 = an epidemic; 这种说法很流行 = "this expression is very widespread."
+          流 liú (to flow) + 行 xíng. <em>Flowing-and-traveling.</em> The verb for something that spreads through a population , fashion, slang, popular songs, viruses. 流行音乐 = pop music; 流行病 = an epidemic; 这种说法很流行 = "this expression is very widespread."
         </div>
         <div class="examples">
           <div class="example">
@@ -242,7 +242,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-adj">Adj 形容词 xíngróngcí</span></div>
         <div class="card-def">
-          不 bù + 行 xíng. The everyday refusal: "no, that won't work." 行 on its own as an interjection means "OK, fine, that'll do" — and 不行 is its negation. Also extends to "not capable" (我数学不行 "I'm bad at math") and, in context of illness or business, "in serious decline" (他不行了 "he's failing / fading"). One of the most common 行-words in spoken Chinese.
+          不 bù + 行 xíng. The everyday refusal: "no, that won't work." 行 on its own as an interjection means "OK, fine, that'll do" , and 不行 is its negation. Also extends to "not capable" (我数学不行 "I'm bad at math") and, in context of illness or business, "in serious decline" (他不行了 "he's failing / fading"). One of the most common 行-words in spoken Chinese.
         </div>
         <div class="examples">
           <div class="example">
@@ -271,8 +271,8 @@ content_sources:
 
     <div class="scholar" data-glyph="行">
       <div class="scholar-label">语义洞见 yǔyì dòngjiàn · Semantic Insight</div>
-      <p>The verbal sense of 行 stretches naturally from <em>walking</em> through <em>doing</em> into <em>conduct</em> — the moral domain. The Confucian tradition is built on this stretch. A person's <strong>德行</strong> (moral conduct) is what their 德 looks like in motion. <strong>言行</strong> yánxíng — words and conduct — is the standard pairing for evaluating sincerity (do they match?). 言行不一 "words and conduct don't match" is the standard accusation of hypocrisy. <strong>品行</strong> pǐnxíng (character-conduct) is what schools and employers ask about in evaluations.</p>
-      <p>This moral 行 is also why Confucius's most-quoted line on learning uses it: <em>三人行，必有我师焉</em> "where three are walking, one of them must be my teacher" — meaning that everyone you meet has something to teach you, if you watch their conduct closely.</p>
+      <p>The verbal sense of 行 stretches naturally from <em>walking</em> through <em>doing</em> into <em>conduct</em> , the moral domain. The Confucian tradition is built on this stretch. A person's <strong>德行</strong> (moral conduct) is what their 德 looks like in motion. <strong>言行</strong> yánxíng , words and conduct , is the standard pairing for evaluating sincerity (do they match?). 言行不一 "words and conduct don't match" is the standard accusation of hypocrisy. <strong>品行</strong> pǐnxíng (character-conduct) is what schools and employers ask about in evaluations.</p>
+      <p>This moral 行 is also why Confucius's most-quoted line on learning uses it: <em>三人行，必有我师焉</em> "where three are walking, one of them must be my teacher" , meaning that everyone you meet has something to teach you, if you watch their conduct closely.</p>
     </div>
 
     <div class="cards">
@@ -286,7 +286,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          行 xíng + 为 wéi (to do; to act). <em>What one does</em>, framed as observable behavior. The clinical/formal noun used in psychology, law, and ethics — 行为艺术 "performance art," 犯罪行为 "criminal behavior," 不文明行为 "uncivilized behavior."
+          行 xíng + 为 wéi (to do; to act). <em>What one does</em>, framed as observable behavior. The clinical/formal noun used in psychology, law, and ethics , 行为艺术 "performance art," 犯罪行为 "criminal behavior," 不文明行为 "uncivilized behavior."
         </div>
         <div class="examples">
           <div class="example">
@@ -306,7 +306,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-v">V 动词 dòngcí</span></div>
         <div class="card-def">
-          执 zhí (to grasp; to hold) + 行 xíng. <em>To grasp-and-act</em>. The formal verb for executing — orders, contracts, court rulings, software programs. 执行命令 "carry out an order"; 执行任务 "carry out a mission"; 执行总裁 (CEO) — literally "executing chief manager."
+          执 zhí (to grasp; to hold) + 行 xíng. <em>To grasp-and-act</em>. The formal verb for executing , orders, contracts, court rulings, software programs. 执行命令 "carry out an order"; 执行任务 "carry out a mission"; 执行总裁 (CEO) , literally "executing chief manager."
         </div>
       </div>
 
@@ -336,8 +336,8 @@ content_sources:
 
     <div class="scholar" data-glyph="行">
       <div class="scholar-label">语义洞见 yǔyì dòngjiàn · Semantic Insight</div>
-      <p>The háng reading preserves a different descendant of the original "crossroads" sense: <em>a row of things lined up along a road.</em> The classical image is a market street where each <em>row</em> (行 háng) of stalls dealt in a particular commodity — the silver-changers' row, the silk row, the salt row. Each row became a trade-name, each trade became a profession, and each profession (in modern Chinese) became a business firm. So the same character that names "the silk-merchants' row" came to name "a silk firm" and ultimately, by extension, "a bank" — 银行 yínháng, the silver-row.</p>
-      <p>This is also why <strong>内行</strong> nèiháng (literally "inside-the-row") means an expert and <strong>外行</strong> wàiháng ("outside-the-row") means an amateur — you are inside or outside the trade.</p>
+      <p>The háng reading preserves a different descendant of the original "crossroads" sense: <em>a row of things lined up along a road.</em> The classical image is a market street where each <em>row</em> (行 háng) of stalls dealt in a particular commodity , the silver-changers' row, the silk row, the salt row. Each row became a trade-name, each trade became a profession, and each profession (in modern Chinese) became a business firm. So the same character that names "the silk-merchants' row" came to name "a silk firm" and ultimately, by extension, "a bank" , 银行 yínháng, the silver-row.</p>
+      <p>This is also why <strong>内行</strong> nèiháng (literally "inside-the-row") means an expert and <strong>外行</strong> wàiháng ("outside-the-row") means an amateur , you are inside or outside the trade.</p>
     </div>
 
     <div class="cards">
@@ -351,7 +351,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          银 yín (silver) + 行 háng. <em>The silver-row</em> — originally a row of money-changers along a market street, then by extension the modern banking institution. The single most-tested 行-háng word: students who default to xíng on every 行 will read this wrong forever. 中国银行 = Bank of China; 中央银行 = central bank; 网上银行 = online banking.
+          银 yín (silver) + 行 háng. <em>The silver-row</em> , originally a row of money-changers along a market street, then by extension the modern banking institution. The single most-tested 行-háng word: students who default to xíng on every 行 will read this wrong forever. 中国银行 = Bank of China; 中央银行 = central bank; 网上银行 = online banking.
         </div>
         <div class="examples">
           <div class="example">
@@ -391,7 +391,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          内 nèi (inside) + 行 háng. <em>Inside-the-row.</em> Someone who is inside the trade — knows its tools, its standards, its tells. The opposite is <strong>外行</strong> wàiháng "outside-the-row," an outsider or amateur. 这件事我是外行 = "I'm a layperson on this." 一看就是内行 = "you can tell at a glance he's an expert."
+          内 nèi (inside) + 行 háng. <em>Inside-the-row.</em> Someone who is inside the trade , knows its tools, its standards, its tells. The opposite is <strong>外行</strong> wàiháng "outside-the-row," an outsider or amateur. 这件事我是外行 = "I'm a layperson on this." 一看就是内行 = "you can tell at a glance he's an expert."
         </div>
         <div class="examples">
           <div class="example">
@@ -411,13 +411,13 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N/V 名词/动词</span></div>
         <div class="card-def">
-          同 tóng (same; together) + 行. The two readings split cleanly: <strong>tóngháng</strong> = "same trade" → a colleague, a competitor in the same line of work. <strong>tóngxíng</strong> = "to walk together" → to travel as companions. Same characters, two unrelated meanings — distinguished entirely by reading.
+          同 tóng (same; together) + 行. The two readings split cleanly: <strong>tóngháng</strong> = "same trade" → a colleague, a competitor in the same line of work. <strong>tóngxíng</strong> = "to walk together" → to travel as companions. Same characters, two unrelated meanings , distinguished entirely by reading.
         </div>
         <div class="examples">
           <div class="example">
             <div class="ex-cn">我们是同行，做的都是教育。</div>
             <div class="ex-py">Wǒmen shì tóngháng, zuò de dōu shì jiàoyù.</div>
-            <div class="ex-en">We're in the same line of work — both in education.</div>
+            <div class="ex-en">We're in the same line of work , both in education.</div>
           </div>
           <div class="example">
             <div class="ex-cn">愿意与我同行吗？</div>
@@ -457,7 +457,7 @@ content_sources:
         <span class="cy-cn">三人行，必有我师</span>
         <span class="cy-py">sān rén xíng, bì yǒu wǒ shī</span>
         <span class="cy-en">where three walk together, one of them is sure to be my teacher</span>
-        <span class="cy-note">From the Analects (论语). Confucius's most-quoted statement on learning: in any company of three people, there will be something to learn — from the better among them by emulation, from the worse by avoidance. The 行 here is xíng "to walk." A foundational text for the Confucian conception of learning as continuous and humble.</span>
+        <span class="cy-note">From the Analects (论语). Confucius's most-quoted statement on learning: in any company of three people, there will be something to learn , from the better among them by emulation, from the worse by avoidance. The 行 here is xíng "to walk." A foundational text for the Confucian conception of learning as continuous and humble.</span>
       </div>
 
       <div class="cy">
@@ -478,14 +478,14 @@ content_sources:
         <span class="cy-cn">行尸走肉</span>
         <span class="cy-py">xíng shī zǒu ròu</span>
         <span class="cy-en">a walking corpse, a moving piece of flesh — alive in body but dead in spirit</span>
-        <span class="cy-note">Lit: walking-corpse, walking-flesh. Said of someone who has lost the inner life that makes a person alive in any meaningful sense — going through motions without thought, feeling, or purpose. Sharp, almost cruel; reserved for those judged to have given up entirely.</span>
+        <span class="cy-note">Lit: walking-corpse, walking-flesh. Said of someone who has lost the inner life that makes a person alive in any meaningful sense , going through motions without thought, feeling, or purpose. Sharp, almost cruel; reserved for those judged to have given up entirely.</span>
       </div>
 
       <div class="cy">
         <span class="cy-cn">一意孤行</span>
         <span class="cy-py">yī yì gū xíng</span>
         <span class="cy-en">to walk one's own way alone — to push through with one fixed idea, ignoring all advice</span>
-        <span class="cy-note">Lit: one-intention-alone-walk. Said of someone who refuses to listen, refuses to compromise, refuses to take counsel — and walks straight into the consequences. The 孤 "alone" is what makes it pejorative: not principled persistence (which would be praiseworthy) but stubborn isolation.</span>
+        <span class="cy-note">Lit: one-intention-alone-walk. Said of someone who refuses to listen, refuses to compromise, refuses to take counsel , and walks straight into the consequences. The 孤 "alone" is what makes it pejorative: not principled persistence (which would be praiseworthy) but stubborn isolation.</span>
       </div>
 
       <div class="cy">

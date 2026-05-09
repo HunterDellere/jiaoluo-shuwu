@@ -75,19 +75,19 @@ pinyin: 'chá'
       <div class="cards">
         <div class="card c-teal">
           <div class="card-head">绿茶 lǜchá · Green Tea</div>
-          <p>Unoxidized — leaves are pan-fired or steamed immediately after picking to halt oxidation. The result is grassy, vegetal, and fresh. Longjing (龙井, Dragon Well) from Hangzhou and Biluochun (碧螺春) from Suzhou are the most famous. Green tea was the dominant form until the Ming dynasty.</p>
+          <p>Unoxidized , leaves are pan-fired or steamed immediately after picking to halt oxidation. The result is grassy, vegetal, and fresh. Longjing (龙井, Dragon Well) from Hangzhou and Biluochun (碧螺春) from Suzhou are the most famous. Green tea was the dominant form until the Ming dynasty.</p>
         </div>
         <div class="card c-ochre">
           <div class="card-head">白茶 báichá · White Tea</div>
-          <p>Minimally processed — buds and young leaves are simply dried in sun or low heat. The result is delicate, slightly sweet, and floral. Silver Needle (银针 Yínzhēn) consists of pure unopened buds. White tea was a luxury tribute tea of the Song dynasty.</p>
+          <p>Minimally processed , buds and young leaves are simply dried in sun or low heat. The result is delicate, slightly sweet, and floral. Silver Needle (银针 Yínzhēn) consists of pure unopened buds. White tea was a luxury tribute tea of the Song dynasty.</p>
         </div>
         <div class="card c-sienna">
           <div class="card-head">乌龙 wūlóng · Oolong Tea</div>
-          <p>Partially oxidized — the most technically demanding category, with oxidation levels ranging from 15% to 85% depending on the style. Tieguanyin (铁观音) and Da Hong Pao (大红袍) from Fujian and Guangdong are the famous examples. Oolongs reward the gongfu brewing method.</p>
+          <p>Partially oxidized , the most technically demanding category, with oxidation levels ranging from 15% to 85% depending on the style. Tieguanyin (铁观音) and Da Hong Pao (大红袍) from Fujian and Guangdong are the famous examples. Oolongs reward the gongfu brewing method.</p>
         </div>
         <div class="card c-red">
           <div class="card-head">红茶 hóngchá · Black Tea</div>
-          <p>Fully oxidized — what the West calls "black tea" is 红茶 (red tea) in Chinese, named for the reddish color of the liquor. Keemun (祁门红茶) from Anhui and Yunnan Dianhong are major Chinese examples. Most Western tea is of this category.</p>
+          <p>Fully oxidized , what the West calls "black tea" is 红茶 (red tea) in Chinese, named for the reddish color of the liquor. Keemun (祁门红茶) from Anhui and Yunnan Dianhong are major Chinese examples. Most Western tea is of this category.</p>
         </div>
         <div class="card c-teal">
           <div class="card-head">黄茶 huángchá · Yellow Tea</div>
@@ -95,7 +95,7 @@ pinyin: 'chá'
         </div>
         <div class="card c-sienna">
           <div class="card-head">普洱 pǔ'ěr · Pu-erh Tea</div>
-          <p>Post-fermented — microbially aged tea from Yunnan, produced in two styles: raw (生 shēng) and ripe (熟 shú). Pu-erh ages like wine, with fine cakes from notable mountains and vintages fetching extraordinary prices. The only tea that genuinely improves with decades of storage.</p>
+          <p>Post-fermented , microbially aged tea from Yunnan, produced in two styles: raw (生 shēng) and ripe (熟 shú). Pu-erh ages like wine, with fine cakes from notable mountains and vintages fetching extraordinary prices. The only tea that genuinely improves with decades of storage.</p>
         </div>
       </div>
 
@@ -125,7 +125,7 @@ pinyin: 'chá'
       <div class="cards">
         <div class="card c-ochre">
           <div class="card-head"><span class="tag-n">n</span> 茶叶 cháyè</div>
-          <p>Tea leaves — the dry product before brewing. 茶 alone can refer to the beverage, the plant, or the leaves.</p>
+          <p>Tea leaves , the dry product before brewing. 茶 alone can refer to the beverage, the plant, or the leaves.</p>
         </div>
         <div class="card c-ochre">
           <div class="card-head"><span class="tag-n">n</span> 茶壶 cháhú</div>

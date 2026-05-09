@@ -102,9 +102,9 @@ content_review: 'pending'
 
     <div class="scholar" data-glyph="想">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
-      <p><strong>想 xiǎng = 相 xiāng</strong> (mutual; facing; looking at one another; also phonetic) <strong>+ 心 xīn</strong> (heart). The phonetic component 相 is itself a composite: <strong>木 mù</strong> (tree) + <strong>目 mù</strong> (eye) — an eye inspecting a tree, reading the grain of its wood, examining what is before it. To place the heart beneath that inspecting gaze is to describe something the heart does: it turns toward an object of attention, holds it in view, turns it over.</p>
-      <p>What is remarkable about 想 is that this single gesture — the heart turned toward something — covers three meanings in Mandarin that English treats as entirely separate cognitive and emotional states. To think is the heart attending to an idea. To want is the heart attending to something it does not yet have. To miss is the heart attending to someone who is absent. The direction of the heart's attention is the same in all three; only the object and the situation differ.</p>
-      <p>This reveals itself cleanly in three everyday sentences. <strong>你想什么？</strong> Nǐ xiǎng shénme — What are you thinking? <strong>我想喝水。</strong> Wǒ xiǎng hē shuǐ — I want to drink water. <strong>我想你。</strong> Wǒ xiǎng nǐ — I miss you. The verb is identical each time. The English translations land in three different semantic territories. Chinese makes visible what they share: attentional desire, the heart's movement toward its object.</p>
+      <p><strong>想 xiǎng = 相 xiāng</strong> (mutual; facing; looking at one another; also phonetic) <strong>+ 心 xīn</strong> (heart). The phonetic component 相 is itself a composite: <strong>木 mù</strong> (tree) + <strong>目 mù</strong> (eye) , an eye inspecting a tree, reading the grain of its wood, examining what is before it. To place the heart beneath that inspecting gaze is to describe something the heart does: it turns toward an object of attention, holds it in view, turns it over.</p>
+      <p>What is remarkable about 想 is that this single gesture , the heart turned toward something , covers three meanings in Mandarin that English treats as entirely separate cognitive and emotional states. To think is the heart attending to an idea. To want is the heart attending to something it does not yet have. To miss is the heart attending to someone who is absent. The direction of the heart's attention is the same in all three; only the object and the situation differ.</p>
+      <p>This reveals itself cleanly in three everyday sentences. <strong>你想什么？</strong> Nǐ xiǎng shénme , What are you thinking? <strong>我想喝水。</strong> Wǒ xiǎng hē shuǐ , I want to drink water. <strong>我想你。</strong> Wǒ xiǎng nǐ , I miss you. The verb is identical each time. The English translations land in three different semantic territories. Chinese makes visible what they share: attentional desire, the heart's movement toward its object.</p>
     </div>
 
     <div class="pattern">
@@ -164,7 +164,7 @@ content_review: 'pending'
           <div class="example">
             <div class="ex-cn">毛泽东思想</div>
             <div class="ex-py">Máo Zédōng sīxiǎng</div>
-            <div class="ex-en">Mao Zedong Thought — the official ideological system</div>
+            <div class="ex-en">Mao Zedong Thought , the official ideological system</div>
           </div>
           <div class="example">
             <div class="ex-cn">他的思想很保守。</div>
@@ -187,7 +187,7 @@ content_review: 'pending'
         </div>
         <div class="tags"><span class="tag tag-vn">V/N 动名词</span></div>
         <div class="card-def">
-          想 xiǎng (to think) + 象 xiàng (image; likeness; elephant — 象 was borrowed for "image" because of its visual suggestiveness: the elephant is the largest thing you picture). Think-image: to form mental images of things not present. Used as both a verb (to imagine) and a noun (imagination). 想象力 xiǎngxiànglì = imaginative power, the capacity for imagination.
+          想 xiǎng (to think) + 象 xiàng (image; likeness; elephant , 象 was borrowed for "image" because of its visual suggestiveness: the elephant is the largest thing you picture). Think-image: to form mental images of things not present. Used as both a verb (to imagine) and a noun (imagination). 想象力 xiǎngxiànglì = imaginative power, the capacity for imagination.
         </div>
         <div class="examples">
           <div class="example">
@@ -211,13 +211,13 @@ content_review: 'pending'
         </div>
         <div class="tags"><span class="tag tag-vn">V/N 动名词</span></div>
         <div class="card-def">
-          幻 huàn (illusion; phantom; to change; to vanish) + 想 xiǎng (thought; imagination). Thinking directed at what is illusory or impossible: fantasy, wishful thinking, daydreaming. Carries a mildly critical register — implies the thought has decoupled from reality. 科幻 kēhuàn = science fiction (科学 science + 幻想 fantasy, contracted). 幻想曲 = fantasia (musical form).
+          幻 huàn (illusion; phantom; to change; to vanish) + 想 xiǎng (thought; imagination). Thinking directed at what is illusory or impossible: fantasy, wishful thinking, daydreaming. Carries a mildly critical register , implies the thought has decoupled from reality. 科幻 kēhuàn = science fiction (科学 science + 幻想 fantasy, contracted). 幻想曲 = fantasia (musical form).
         </div>
         <div class="examples">
           <div class="example">
             <div class="ex-cn">别幻想了，这不可能实现。</div>
             <div class="ex-py">Bié huànxiǎng le, zhè bù kěnéng shíxiàn.</div>
-            <div class="ex-en">Stop fantasizing — this can't be realized.</div>
+            <div class="ex-en">Stop fantasizing , this can't be realized.</div>
           </div>
           <div class="example">
             <div class="ex-cn">科幻电影</div>
@@ -306,7 +306,7 @@ content_review: 'pending'
         </div>
         <div class="tags"><span class="tag tag-v">成语 chéngyǔ</span></div>
         <div class="card-def">
-          心 xīn (heart) + 想 xiǎng (wish; think) + 事 shì (matter; thing; affair) + 成 chéng (to succeed; to be accomplished). What the heart imagines, so the matter becomes: a blessing and a toast. One of the most common celebratory phrases, used at New Year, birthdays, weddings, and before examinations. The structure is classical: four-character, compressed, impersonal — a wish cast as a natural law.
+          心 xīn (heart) + 想 xiǎng (wish; think) + 事 shì (matter; thing; affair) + 成 chéng (to succeed; to be accomplished). What the heart imagines, so the matter becomes: a blessing and a toast. One of the most common celebratory phrases, used at New Year, birthdays, weddings, and before examinations. The structure is classical: four-character, compressed, impersonal , a wish cast as a natural law.
         </div>
         <div class="examples">
           <div class="example">
@@ -317,7 +317,7 @@ content_review: 'pending'
           <div class="example">
             <div class="ex-cn">新年快乐，心想事成！</div>
             <div class="ex-py">Xīnnián kuàilè, xīn xiǎng shì chéng!</div>
-            <div class="ex-en">Happy New Year — may your heart's wishes come true!</div>
+            <div class="ex-en">Happy New Year , may your heart's wishes come true!</div>
           </div>
         </div>
       </div>
@@ -359,8 +359,8 @@ content_review: 'pending'
 
     <div class="scholar" data-glyph="想">
       <div class="scholar-label">情感洞见 qínggǎn dòngjiàn · Emotional Note</div>
-      <p>The third meaning of 想 — to miss someone absent — is the one that reveals most clearly the character's deeper logic. When you miss someone, your attention is directed toward a person who is not there: the heart is facing an empty space where someone used to be. 我想你 (I miss you) uses the same verb as 我想喝水 (I want water) and 我在想 (I am thinking), because from the heart's perspective they are the same gesture: attentiveness aimed at an object of care. Distance and absence make the wanting-toward register as longing.</p>
-      <p>This is why Chinese has a word like 想家 xiǎngjiā — "to miss home" — built from the same 想. Home is where the heart habitually faces. To be away from it is to carry that orientation without the object. The heart keeps looking in the direction home used to be.</p>
+      <p>The third meaning of 想 , to miss someone absent , is the one that reveals most clearly the character's deeper logic. When you miss someone, your attention is directed toward a person who is not there: the heart is facing an empty space where someone used to be. 我想你 (I miss you) uses the same verb as 我想喝水 (I want water) and 我在想 (I am thinking), because from the heart's perspective they are the same gesture: attentiveness aimed at an object of care. Distance and absence make the wanting-toward register as longing.</p>
+      <p>This is why Chinese has a word like 想家 xiǎngjiā , "to miss home" , built from the same 想. Home is where the heart habitually faces. To be away from it is to carry that orientation without the object. The heart keeps looking in the direction home used to be.</p>
     </div>
 
     <div class="cards">
@@ -397,7 +397,7 @@ content_review: 'pending'
         </div>
         <div class="tags"><span class="tag tag-v">V 动词 dòngcí</span></div>
         <div class="card-def">
-          想 xiǎng (to miss) + 家 jiā (home; family; household). The heart facing home from a distance. A verb in Chinese where English uses an adjective ("homesick"). The phrasing reveals how Chinese treats the mental-emotional state as active, directional: you are doing something when you miss home — your attention is moving toward it.
+          想 xiǎng (to miss) + 家 jiā (home; family; household). The heart facing home from a distance. A verb in Chinese where English uses an adjective ("homesick"). The phrasing reveals how Chinese treats the mental-emotional state as active, directional: you are doing something when you miss home , your attention is moving toward it.
         </div>
         <div class="examples">
           <div class="example">
@@ -421,7 +421,7 @@ content_review: 'pending'
         </div>
         <div class="tags"><span class="tag tag-v">V 动词 dòngcí</span></div>
         <div class="card-def">
-          思 sī (classical verb for deliberate, sustained thinking; longing) + 念 niàn (to hold in mind; to recite). The literary-register companion to 想念. Where 想念 is natural in everyday speech, 思念 appears in elevated prose, poetry, song lyrics, and formal writing. The longing it names is more sustained, more aching — 思 carries the classical weight of a mind that will not release what it holds.
+          思 sī (classical verb for deliberate, sustained thinking; longing) + 念 niàn (to hold in mind; to recite). The literary-register companion to 想念. Where 想念 is natural in everyday speech, 思念 appears in elevated prose, poetry, song lyrics, and formal writing. The longing it names is more sustained, more aching , 思 carries the classical weight of a mind that will not release what it holds.
         </div>
         <div class="examples">
           <div class="example">
@@ -437,7 +437,7 @@ content_review: 'pending'
         </div>
         <div class="note">
           <span class="note-label">辨析 biànxī · 想念 vs. 思念</span>
-          想念 is the everyday spoken word for missing someone — natural in conversation, SMS, and informal writing. 思念 elevates the register toward literary or poetic contexts: song lyrics, classical-style prose, formal letters, elegies. The feeling is the same; the frame differs.
+          想念 is the everyday spoken word for missing someone , natural in conversation, SMS, and informal writing. 思念 elevates the register toward literary or poetic contexts: song lyrics, classical-style prose, formal letters, elegies. The feeling is the same; the frame differs.
         </div>
       </div>
 
@@ -458,21 +458,21 @@ content_review: 'pending'
         <span class="cy-cn">异想天开</span>
         <span class="cy-py">yì xiǎng tiān kāi</span>
         <span class="cy-en">wildly fanciful ideas; to have one's head in the clouds</span>
-        <span class="cy-note">异 yì (strange; different; fantastical) + 想 xiǎng (thought; imagine) + 天 tiān (sky; heaven) + 开 kāi (to open). Fantastical thoughts that open the sky itself: thinking so far outside reality that heaven itself cracks open. Used to describe impractical, unrealistic plans or notions — gently mocking but often affectionate. 你真是异想天开 = "you really have some wild ideas." A milder rebuke than it sounds.</span>
+        <span class="cy-note">异 yì (strange; different; fantastical) + 想 xiǎng (thought; imagine) + 天 tiān (sky; heaven) + 开 kāi (to open). Fantastical thoughts that open the sky itself: thinking so far outside reality that heaven itself cracks open. Used to describe impractical, unrealistic plans or notions , gently mocking but often affectionate. 你真是异想天开 = "you really have some wild ideas." A milder rebuke than it sounds.</span>
       </div>
 
       <div class="cy">
         <span class="cy-cn">心想事成</span>
         <span class="cy-py">xīn xiǎng shì chéng</span>
         <span class="cy-en">may what the heart wishes come true</span>
-        <span class="cy-note">心 xīn (heart) + 想 xiǎng (think; wish) + 事 shì (matter; affair) + 成 chéng (to succeed; to be accomplished). A blessing structure: heart-wishes turn into accomplished realities. Among the most common felicitations in Chinese — standard at New Year (新年快乐，心想事成！), birthdays, and before examinations. Classical four-character compression makes a wish into something that sounds like a natural law.</span>
+        <span class="cy-note">心 xīn (heart) + 想 xiǎng (think; wish) + 事 shì (matter; affair) + 成 chéng (to succeed; to be accomplished). A blessing structure: heart-wishes turn into accomplished realities. Among the most common felicitations in Chinese , standard at New Year (新年快乐，心想事成！), birthdays, and before examinations. Classical four-character compression makes a wish into something that sounds like a natural law.</span>
       </div>
 
       <div class="cy">
         <span class="cy-cn">想入非非</span>
         <span class="cy-py">xiǎng rù fēi fēi</span>
         <span class="cy-en">to let the mind wander into improper territory; lost in fantasy</span>
-        <span class="cy-note">想 xiǎng (to think; to imagine) + 入 rù (to enter; to go into) + 非非 fēifēi (beyond right and wrong; in Buddhist usage, the realm beyond ordinary thought). The mind entering the territory of 非非: originally a Buddhist term for transcendent meditative states, here coopted to describe undisciplined fantasy — thought wandering where it should not go. Used to describe daydreaming, improper fantasies, or absurdly unrealistic mental tangents.</span>
+        <span class="cy-note">想 xiǎng (to think; to imagine) + 入 rù (to enter; to go into) + 非非 fēifēi (beyond right and wrong; in Buddhist usage, the realm beyond ordinary thought). The mind entering the territory of 非非: originally a Buddhist term for transcendent meditative states, here coopted to describe undisciplined fantasy , thought wandering where it should not go. Used to describe daydreaming, improper fantasies, or absurdly unrealistic mental tangents.</span>
       </div>
 
       <div class="cy">

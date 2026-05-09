@@ -134,7 +134,7 @@ faq:
 
     <div class="cards">
       <div class="card c-teal">
-        <div class="card-head">氵 — the radical form</div>
+        <div class="card-head">氵 , the radical form</div>
         <p>When 水 appears on the left of a compound character it contracts to 氵, three short brushstrokes that suggest droplets. The semantic load is consistent: 氵 marks something to do with water, liquid, or moisture. This is one of the most reliable radical→meaning relationships in the script.</p>
       </div>
       <div class="card c-teal">
@@ -161,9 +161,9 @@ faq:
 
     <div class="scholar" data-glyph="柔">
       <div class="scholar-label">上善若水 shàng shàn ruò shuǐ · The highest good is like water</div>
-      <p>The Lǎozǐ returns to water repeatedly as the central image of the Dao at work in the world. Chapter 8 opens: <strong>上善若水。水善利万物而不争</strong> — "The highest good is like water. Water benefits the ten thousand things and does not contend." The argument is structural: water descends to the lowest places, the places people disdain, and there it accomplishes more than any contending force.</p>
-      <p>Chapter 78 develops the same image into a paradox: <strong>天下莫柔弱于水，而攻坚强者莫之能胜</strong> — "Nothing in the world is softer or weaker than water, yet for attacking the hard and strong nothing can surpass it." The Daoist case for yielding is built on water's actual physics: the soft thing wears down the hard thing, given time. The image is not metaphorical decoration. It is the empirical observation on which an ethics is built.</p>
-      <p>Where Confucian texts reach for mountains as their image of moral steadiness, Daoist texts reach for water. The two run as parallel registers through the language. <strong>仁者乐山，智者乐水</strong> — "The benevolent love mountains; the wise love water" (Confucius, <em>Analects</em> 6.23). The compliment to water in that line is not nothing.</p>
+      <p>The Lǎozǐ returns to water repeatedly as the central image of the Dao at work in the world. Chapter 8 opens: <strong>上善若水。水善利万物而不争</strong> , "The highest good is like water. Water benefits the ten thousand things and does not contend." The argument is structural: water descends to the lowest places, the places people disdain, and there it accomplishes more than any contending force.</p>
+      <p>Chapter 78 develops the same image into a paradox: <strong>天下莫柔弱于水，而攻坚强者莫之能胜</strong> , "Nothing in the world is softer or weaker than water, yet for attacking the hard and strong nothing can surpass it." The Daoist case for yielding is built on water's actual physics: the soft thing wears down the hard thing, given time. The image is not metaphorical decoration. It is the empirical observation on which an ethics is built.</p>
+      <p>Where Confucian texts reach for mountains as their image of moral steadiness, Daoist texts reach for water. The two run as parallel registers through the language. <strong>仁者乐山，智者乐水</strong> , "The benevolent love mountains; the wise love water" (Confucius, <em>Analects</em> 6.23). The compliment to water in that line is not nothing.</p>
     </div>
 
     <span class="section-anchor" id="wuxing"></span>
@@ -175,7 +175,7 @@ faq:
     </div>
 
     <div class="pattern">
-      <span class="label">五行 wǔxíng — the five phases</span>
+      <span class="label">五行 wǔxíng , the five phases</span>
       <p>水 (water) · 火 (fire) · 木 (wood) · 金 (metal) · 土 (earth). These are not elements in the Greek sense (basic substances) but <em>phases</em>, five modes through which qi cycles. Water is the phase of winter, the north, the colour black, the kidneys in the body, and the planet Mercury. It generates wood (rivers nourish forests) and is overcome by earth (banks contain it). The system structures classical medicine, divination, urban planning, and a great deal of literary symbolism.</p>
     </div>
 
@@ -195,7 +195,7 @@ faq:
           <span class="card-py">shuǐguǒ</span>
           <span class="card-en">fruit</span>
         </div>
-        <p class="card-def">Literally "water fruit" — fruit being the juicy member of the 果 (guǒ, "fruit/result") family, distinguished from dry-matured products like nuts.</p>
+        <p class="card-def">Literally "water fruit" , fruit being the juicy member of the 果 (guǒ, "fruit/result") family, distinguished from dry-matured products like nuts.</p>
       </div>
       <div class="card c-n">
         <div class="tags"><span class="tag tag-n">n</span></div>
@@ -204,7 +204,7 @@ faq:
           <span class="card-py">shuǐpíng</span>
           <span class="card-en">level, standard</span>
         </div>
-        <p class="card-def">Literally "water-level" — the surface of still water as the reference for horizontal. Extended to any standard of measurement: skill level, income level, water level itself.</p>
+        <p class="card-def">Literally "water-level" , the surface of still water as the reference for horizontal. Extended to any standard of measurement: skill level, income level, water level itself.</p>
       </div>
       <div class="card c-n">
         <div class="tags"><span class="tag tag-n">n</span></div>
@@ -213,7 +213,7 @@ faq:
           <span class="card-py">fēngshuǐ</span>
           <span class="card-en">wind-water (geomancy)</span>
         </div>
-        <p class="card-def">"Wind and water" — the classical art of placing buildings, graves, and furniture in alignment with the qi of the landscape. The two elements that move freely give the discipline its name. See the <a href="../vocab/fengshui_风水.html">风水</a> entry for the full treatment.</p>
+        <p class="card-def">"Wind and water" , the classical art of placing buildings, graves, and furniture in alignment with the qi of the landscape. The two elements that move freely give the discipline its name. See the <a href="../vocab/fengshui_风水.html">风水</a> entry for the full treatment.</p>
       </div>
       <div class="card c-vn">
         <div class="tags"><span class="tag tag-vn">v/n</span></div>
@@ -238,8 +238,8 @@ faq:
       <div class="cy">
         <div class="cy-cn">如鱼得水</div>
         <div class="cy-py">rú yú dé shuǐ</div>
-        <div class="cy-en">"like a fish getting water" — perfectly in one's element</div>
-        <div class="cy-note">Said of a person who has found exactly the situation they were suited for. A new role, a new city, a new partner — anything that gives them the medium they were missing.</div>
+        <div class="cy-en">"like a fish getting water" , perfectly in one's element</div>
+        <div class="cy-note">Said of a person who has found exactly the situation they were suited for. A new role, a new city, a new partner , anything that gives them the medium they were missing.</div>
       </div>
       <div class="cy">
         <div class="cy-cn">水滴石穿</div>

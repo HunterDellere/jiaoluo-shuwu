@@ -35,7 +35,7 @@ pinyin: 'shùzì'
       </a></li>
       <li><a href="#lucky">
         <span class="toc-cn">吉数</span> The Lucky Numbers
-        <span class="toc-sub">8, 6, 9, 2 — and the reasons</span>
+        <span class="toc-sub">8, 6, 9, 2 , and the reasons</span>
       </a></li>
       <li><a href="#unlucky">
         <span class="toc-cn">忌数</span> The Unlucky Numbers
@@ -76,8 +76,8 @@ pinyin: 'shùzì'
 
     <div class="scholar" data-glyph="数">
       <div class="scholar-label">谐音文化 xiéyīn wénhuà · the culture of sound similarity</div>
-      <p>Chinese number symbolism operates almost entirely through phonetic association — the phenomenon linguists call 谐音 (xiéyīn), sound-alike or near-homophone. Mandarin Chinese has a relatively small phonological inventory (about 400 distinct syllables in standard Putonghua, compared to roughly 15,000 in English), which means that homophony is pervasive: a single syllable may correspond to dozens of characters with completely different meanings. This phonetic compression makes Chinese unusually rich in puns, wordplay, and sound-based symbolism.</p>
-      <p>Number symbolism exploits this density. The digit 4 sounds like "death," so it is avoided. The digit 8 sounds like "to prosper," so it is sought after. These associations are not superstitions in the Western sense — they do not require belief in any particular metaphysical mechanism. They are understood as patterns of sound and meaning that have been layered into cultural practice over centuries, and that are now reproduced because everyone around you treats them as real. A businessman who is not personally superstitious may still avoid the fourth floor in an office building — because clients and partners are superstitious, and because appearing to flout these associations signals either ignorance or disregard for the people around you.</p>
+      <p>Chinese number symbolism operates almost entirely through phonetic association , the phenomenon linguists call 谐音 (xiéyīn), sound-alike or near-homophone. Mandarin Chinese has a relatively small phonological inventory (about 400 distinct syllables in standard Putonghua, compared to roughly 15,000 in English), which means that homophony is pervasive: a single syllable may correspond to dozens of characters with completely different meanings. This phonetic compression makes Chinese unusually rich in puns, wordplay, and sound-based symbolism.</p>
+      <p>Number symbolism exploits this density. The digit 4 sounds like "death," so it is avoided. The digit 8 sounds like "to prosper," so it is sought after. These associations are not superstitions in the Western sense , they do not require belief in any particular metaphysical mechanism. They are understood as patterns of sound and meaning that have been layered into cultural practice over centuries, and that are now reproduced because everyone around you treats them as real. A businessman who is not personally superstitious may still avoid the fourth floor in an office building , because clients and partners are superstitious, and because appearing to flout these associations signals either ignorance or disregard for the people around you.</p>
       <p>The specific dialect matters: the sound-alike associations are primarily based on Cantonese in some cases (particularly 4 ≈ death) and on Mandarin in others (8 ≈ prosper). Because Hong Kong and Guangdong Province are major economic centers with strong Cantonese-speaking populations, Cantonese-derived associations have spread into mainland Chinese practice even among people whose native dialect is Mandarin. The fear of 4 is, in a sense, a Cantonese export that has gone national.</p>
     </div>
 
@@ -91,10 +91,10 @@ pinyin: 'shùzì'
 
     <div class="scholar" data-glyph="八">
       <div class="scholar-label">八的力量 bā de lìliàng · the power of eight</div>
-      <p>八 (bā, eight) is the most coveted number in contemporary Chinese culture. In Cantonese, 八 (baat³) sounds like 發 (faat³, to prosper, to become rich). In Mandarin, 八 (bā) is close enough to 发 (fā) — the first syllable of 发财 (fācái, "to get rich") — that the association transferred. The number's prestige is reflected in events timed around it: the 2008 Beijing Olympics opening ceremony began at 8:08 PM on August 8, 2008 (8/8/08), a date selection that was explicitly and publicly deliberate. The Chinese government chose the time with the intention of harnessing the number's auspiciousness. Phone numbers containing multiple 8s command premium prices; license plates with 8888 have sold for hundreds of thousands of yuan at auction.</p>
+      <p>八 (bā, eight) is the most coveted number in contemporary Chinese culture. In Cantonese, 八 (baat³) sounds like 發 (faat³, to prosper, to become rich). In Mandarin, 八 (bā) is close enough to 发 (fā) , the first syllable of 发财 (fācái, "to get rich") , that the association transferred. The number's prestige is reflected in events timed around it: the 2008 Beijing Olympics opening ceremony began at 8:08 PM on August 8, 2008 (8/8/08), a date selection that was explicitly and publicly deliberate. The Chinese government chose the time with the intention of harnessing the number's auspiciousness. Phone numbers containing multiple 8s command premium prices; license plates with 8888 have sold for hundreds of thousands of yuan at auction.</p>
       <p>六 (liù, six) is associated with smooth progress and flowing luck. The phrase 六六大顺 (liù liù dà shùn, "six-six, great smoothness," meaning everything proceeding easily) is a common blessing and is why six appears on many celebratory items. Strings of sixes (666) are positive in Chinese internet culture and messaging, unlike in Western contexts where they carry negative connotations. A wedding date of the 6th, a payment of ¥666, a phone number ending in 6 are all considered favorable.</p>
-      <p>九 (jiǔ, nine) is valued for its sound similarity to 久 (jiǔ, long-lasting, permanent). Anything associated with longevity — marriages, business partnerships, friendships — benefits from the number nine. Imperial Chinese culture made particular use of nine: the emperor's robes bore patterns of nine dragons; the Forbidden City is said to have 9,999 rooms (just one short of the 10,000 that would belong to heaven alone). Nine is also the highest single digit, carrying the symbolic weight of completeness and fullness.</p>
-      <p>二 (èr, two) is associated with the principle that good things come in pairs: 好事成双 (hǎo shì chéng shuāng, "good things come in pairs"). Gifts, wedding decorations, and offerings appear in matching pairs. Even numbers are generally preferred for gift-giving occasions, with the sole exception of four. The number two is specifically associated with harmony, companionship, and the balanced duality that runs through Chinese cosmological thinking — the complementary pairs of yin and yang, heaven and earth, day and night.</p>
+      <p>九 (jiǔ, nine) is valued for its sound similarity to 久 (jiǔ, long-lasting, permanent). Anything associated with longevity , marriages, business partnerships, friendships , benefits from the number nine. Imperial Chinese culture made particular use of nine: the emperor's robes bore patterns of nine dragons; the Forbidden City is said to have 9,999 rooms (just one short of the 10,000 that would belong to heaven alone). Nine is also the highest single digit, carrying the symbolic weight of completeness and fullness.</p>
+      <p>二 (èr, two) is associated with the principle that good things come in pairs: 好事成双 (hǎo shì chéng shuāng, "good things come in pairs"). Gifts, wedding decorations, and offerings appear in matching pairs. Even numbers are generally preferred for gift-giving occasions, with the sole exception of four. The number two is specifically associated with harmony, companionship, and the balanced duality that runs through Chinese cosmological thinking , the complementary pairs of yin and yang, heaven and earth, day and night.</p>
     </div>
 
     <span class="section-anchor" id="unlucky"></span>
@@ -109,7 +109,7 @@ pinyin: 'shùzì'
       <div class="scholar-label">四与死 sì yǔ sǐ · four and death</div>
       <p>四 (sì, four) is the primary unlucky number in Chinese culture. In Cantonese it sounds nearly identical to 死 (séi in Cantonese, sǐ in Mandarin, death). Even in Mandarin, the tonal difference is small enough that the association transferred. The consequences of this phonetic accident ripple through architecture, commerce, technology, and daily planning. Many buildings in China, Hong Kong, and the Chinese-influenced parts of East Asia skip the fourth floor entirely: the elevator goes from 3 to 5, or labels the fourth floor "3A." Some buildings eliminate all floors containing the digit four: no 4th, 14th, 24th, 34th, or 44th floor. This is standard practice in residential and commercial real estate across much of the Sinosphere.</p>
       <p>The avoidance extends to phone numbers (a number containing 4 is priced lower; a number full of 4s is nearly unsellable), license plates, gift amounts (no ¥400 or ¥4,000), room numbers, apartment numbers, and dates. Weddings are essentially never scheduled for the 4th of a month. A businessman would not schedule a contract signing for a date that sums to four. The number's shadow falls across a remarkably wide range of practical decisions, each small in itself but collectively representing a massive cultural accommodation to a phonetic accident.</p>
-      <p>The number 7 has a more complex and contested valence. In some contexts it is associated with death and the spirit world — the seventh month of the lunar calendar is Ghost Month (鬼月 guǐ yuè), when the gates of the underworld open and the dead walk. In other contexts, seven is considered neutral or even mildly lucky. Regional variation is significant: seven is more negative in southern China and more neutral in the north. The number is best treated as contextually sensitive rather than uniformly unlucky.</p>
+      <p>The number 7 has a more complex and contested valence. In some contexts it is associated with death and the spirit world , the seventh month of the lunar calendar is Ghost Month (鬼月 guǐ yuè), when the gates of the underworld open and the dead walk. In other contexts, seven is considered neutral or even mildly lucky. Regional variation is significant: seven is more negative in southern China and more neutral in the north. The number is best treated as contextually sensitive rather than uniformly unlucky.</p>
     </div>
 
     <span class="section-anchor" id="ratings"></span>
@@ -122,15 +122,15 @@ pinyin: 'shùzì'
 
     <div class="pattern">
       <span class="label">单位数字吉凶 dānwèi shùzì jíxiōng · Single Digit Fortune Rating</span>
-      <strong>1 一 yī</strong> → Neutral to mildly positive — first place, unity, 一帆风顺 ("may all go smoothly as a wind-filled sail")<br>
-      <strong>2 二 èr</strong> → Lucky — good things come in pairs, harmony, 好事成双; preferred for gifts<br>
-      <strong>3 三 sān</strong> → Mildly positive — 三阳开泰 ("three yangs open prosperity"), life, growth; some regional negative associations<br>
-      <strong>4 四 sì</strong> → Strongly unlucky — homophone of 死 (death); broadly avoided; the primary taboo number<br>
-      <strong>5 五 wǔ</strong> → Neutral — the Five Elements, the center; no strong positive or negative associations<br>
-      <strong>6 六 liù</strong> → Lucky — 六六大顺 (smooth progress); even number; broadly favorable<br>
-      <strong>7 七 qī</strong> → Ambiguous — Ghost Month (7th lunar month); can be mildly unlucky; contextually variable by region<br>
-      <strong>8 八 bā</strong> → Very lucky — sounds like 发 (to prosper); the most sought-after digit in commerce<br>
-      <strong>9 九 jiǔ</strong> → Lucky — sounds like 久 (long-lasting); imperial; completeness; good for marriages
+      <strong>1 一 yī</strong> → Neutral to mildly positive , first place, unity, 一帆风顺 ("may all go smoothly as a wind-filled sail")<br>
+      <strong>2 二 èr</strong> → Lucky , good things come in pairs, harmony, 好事成双; preferred for gifts<br>
+      <strong>3 三 sān</strong> → Mildly positive , 三阳开泰 ("three yangs open prosperity"), life, growth; some regional negative associations<br>
+      <strong>4 四 sì</strong> → Strongly unlucky , homophone of 死 (death); broadly avoided; the primary taboo number<br>
+      <strong>5 五 wǔ</strong> → Neutral , the Five Elements, the center; no strong positive or negative associations<br>
+      <strong>6 六 liù</strong> → Lucky , 六六大顺 (smooth progress); even number; broadly favorable<br>
+      <strong>7 七 qī</strong> → Ambiguous , Ghost Month (7th lunar month); can be mildly unlucky; contextually variable by region<br>
+      <strong>8 八 bā</strong> → Very lucky , sounds like 发 (to prosper); the most sought-after digit in commerce<br>
+      <strong>9 九 jiǔ</strong> → Lucky , sounds like 久 (long-lasting); imperial; completeness; good for marriages
     </div>
 
     <span class="section-anchor" id="practice"></span>
@@ -143,8 +143,8 @@ pinyin: 'shùzì'
 
     <div class="scholar" data-glyph="发">
       <div class="scholar-label">数字经济 shùzì jīngjì · the economics of lucky numbers</div>
-      <p>The demand for lucky phone numbers in China has created a functioning secondary market. Mobile numbers containing sequences of 8 or ending in 888 or 8888 trade at significant premiums over standard numbers. In the early years of mobile telephony in China, when numbers were allocated by the telecom companies as a form of VIP service, an 8-heavy number was a status signal — it indicated either that you had personal connections to the allocation process or that you had paid substantially for the privilege. Today, platforms for buying and selling mobile numbers exist specifically to facilitate these transactions. A number like 138-8888-8888 has genuinely sold for over a million yuan.</p>
-      <p>License plate auctions in Shanghai produce some of the highest prices in the world for vehicle registration numbers. The Shanghai system auctions plates monthly, and plates containing favorable numbers — especially those with 8s and without 4s — consistently command the highest bids. The system functions as a tax on number superstition, extracting premium prices from buyers who want auspicious digits on their vehicles. A plate ending in 8888 may sell for two to three times the price of a plate with neutral numbers at the same auction.</p>
+      <p>The demand for lucky phone numbers in China has created a functioning secondary market. Mobile numbers containing sequences of 8 or ending in 888 or 8888 trade at significant premiums over standard numbers. In the early years of mobile telephony in China, when numbers were allocated by the telecom companies as a form of VIP service, an 8-heavy number was a status signal , it indicated either that you had personal connections to the allocation process or that you had paid substantially for the privilege. Today, platforms for buying and selling mobile numbers exist specifically to facilitate these transactions. A number like 138-8888-8888 has genuinely sold for over a million yuan.</p>
+      <p>License plate auctions in Shanghai produce some of the highest prices in the world for vehicle registration numbers. The Shanghai system auctions plates monthly, and plates containing favorable numbers , especially those with 8s and without 4s , consistently command the highest bids. The system functions as a tax on number superstition, extracting premium prices from buyers who want auspicious digits on their vehicles. A plate ending in 8888 may sell for two to three times the price of a plate with neutral numbers at the same auction.</p>
       <p>The construction industry has adapted in two directions simultaneously. Buildings across China skip the fourth floor as a matter of course; developers also actively market properties featuring auspicious floor numbers, unit numbers, and building addresses. A building at number 8 on its street, with no fourth floor, with units numbered to avoid four, commands a price premium throughout. The logic is straightforward: resale value partially reflects the preferences of the next buyer, and the next buyer will also want a unit that avoids four. The superstition is self-reinforcing through market mechanics.</p>
     </div>
 
@@ -159,15 +159,15 @@ pinyin: 'shùzì'
     <div class="cards">
       <div class="card c-red">
         <div class="card-head"><span class="tag-n">n</span> 谐音 xiéyīn</div>
-        <p>Near-homophone, sound-alike — the phonetic mechanism underlying most Chinese number symbolism. 谐音 relationships exist wherever two syllables sound similar enough that one can evoke the other. The cultural exploitation of 谐音 extends well beyond numbers: the gift taboo on pears (梨 lí ≈ 离 lí, "to separate") and clocks (钟 zhōng ≈ 终 zhōng, "the end") both operate through 谐音.</p>
+        <p>Near-homophone, sound-alike , the phonetic mechanism underlying most Chinese number symbolism. 谐音 relationships exist wherever two syllables sound similar enough that one can evoke the other. The cultural exploitation of 谐音 extends well beyond numbers: the gift taboo on pears (梨 lí ≈ 离 lí, "to separate") and clocks (钟 zhōng ≈ 终 zhōng, "the end") both operate through 谐音.</p>
       </div>
       <div class="card c-ochre">
         <div class="card-head"><span class="tag-n">n</span> 吉利 jílì</div>
-        <p>Auspicious, lucky, propitious — the standard term for something considered to bring good fortune. A number, date, phrase, or object that is 吉利 is sought after and displayed. Its opposite: 不吉利 (bù jílì), inauspicious. The assessment of whether something is 吉利 draws on a mixture of numerology, color symbolism, phonetic association, and traditional cosmology.</p>
+        <p>Auspicious, lucky, propitious , the standard term for something considered to bring good fortune. A number, date, phrase, or object that is 吉利 is sought after and displayed. Its opposite: 不吉利 (bù jílì), inauspicious. The assessment of whether something is 吉利 draws on a mixture of numerology, color symbolism, phonetic association, and traditional cosmology.</p>
       </div>
       <div class="card c-ochre">
         <div class="card-head"><span class="tag-n">n</span> 六六大顺 liù liù dà shùn</div>
-        <p>Six-six, great smoothness — a common blessing invoked for new ventures, weddings, and business openings. The phrase suggests that everything will proceed without obstacle, that the path will be smooth. Strings of sixes are positive in Chinese messaging culture and are used as digital affirmations equivalent to "great!" or "perfect!"</p>
+        <p>Six-six, great smoothness , a common blessing invoked for new ventures, weddings, and business openings. The phrase suggests that everything will proceed without obstacle, that the path will be smooth. Strings of sixes are positive in Chinese messaging culture and are used as digital affirmations equivalent to "great!" or "perfect!"</p>
       </div>
       <div class="card c-teal">
         <div class="card-head"><span class="tag-n">n</span> 发财 fācái</div>

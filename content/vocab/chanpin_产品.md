@@ -45,7 +45,7 @@ content_sources:
       <span class="topic-hero-eyebrow">Vocabulary · 词汇 cíhuì</span>
       <h1 class="topic-hero-title">产品</h1>
       <span class="topic-hero-title-py">chǎnpǐn</span>
-      <p class="topic-hero-desc">What production yields and commerce moves — the Chinese word for product spans factory output, farm harvest, and digital goods with equal ease.</p>
+      <p class="topic-hero-desc">What production yields and commerce moves , the Chinese word for product spans factory output, farm harvest, and digital goods with equal ease.</p>
     </header>
 
     <span class="section-anchor" id="etymology"></span>
@@ -71,7 +71,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          The general word for any product — the output of a manufacturing, processing, or creative process that is offered for use or sale. Applies to physical goods (工业产品, industrial products), agricultural output (农产品, farm products), and in modern usage, digital and service products (数字产品, digital products; 金融产品, financial products). Extremely high frequency in commercial, journalistic, and everyday contexts.
+          The general word for any product , the output of a manufacturing, processing, or creative process that is offered for use or sale. Applies to physical goods (工业产品, industrial products), agricultural output (农产品, farm products), and in modern usage, digital and service products (数字产品, digital products; 金融产品, financial products). Extremely high frequency in commercial, journalistic, and everyday contexts.
         </div>
         <div class="examples">
           <div class="example">
@@ -92,7 +92,7 @@ content_sources:
         </div>
         <div class="note">
           <span class="note-label">语法 yǔfǎ · Grammar</span>
-          产品 is a countable noun but behaves differently from English — you do not say "a 产品" with 一个 in most professional contexts; instead you use measure words or contexts: 一款产品 (yī kuǎn, one model/type of product — 款 is the measure word for models and styles), 这款产品 (this product). 产品 can be modified with descriptors before it: 优质产品 (high-quality product), 畅销产品 (best-selling product), 自主研发产品 (independently developed product).
+          产品 is a countable noun but behaves differently from English , you do not say "a 产品" with 一个 in most professional contexts; instead you use measure words or contexts: 一款产品 (yī kuǎn, one model/type of product , 款 is the measure word for models and styles), 这款产品 (this product). 产品 can be modified with descriptors before it: 优质产品 (high-quality product), 畅销产品 (best-selling product), 自主研发产品 (independently developed product).
         </div>
       </div>
 
@@ -104,7 +104,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N phrase 名词短语</span></div>
         <div class="card-def">
-          质量 zhìliàng (substance + quantity → quality) is the standard word for quality in both the everyday and technical sense. 产品质量 is the fixed phrase for product quality — appearing in consumer protection law (产品质量法), manufacturing standards, and marketing. 质量管理 (quality management), 质量检验 (quality inspection).
+          质量 zhìliàng (substance + quantity → quality) is the standard word for quality in both the everyday and technical sense. 产品质量 is the fixed phrase for product quality , appearing in consumer protection law (产品质量法), manufacturing standards, and marketing. 质量管理 (quality management), 质量检验 (quality inspection).
         </div>
         <div class="examples">
           <div class="example">
@@ -147,7 +147,7 @@ content_sources:
         <div class="card-pinyin">jīnróng chǎnpǐn</div>
         <div class="card-en">financial product · financial instrument</div>
         <span class="tag-n">n</span>
-        <div class="card-note">金融 (finance) + 产品. Covers everything from bank deposits to derivatives. 理财产品 (lǐcái chǎnpǐn, wealth management products) are heavily marketed in China — a major savings vehicle for middle-class households and a source of systemic financial risk.</div>
+        <div class="card-note">金融 (finance) + 产品. Covers everything from bank deposits to derivatives. 理财产品 (lǐcái chǎnpǐn, wealth management products) are heavily marketed in China , a major savings vehicle for middle-class households and a source of systemic financial risk.</div>
       </div>
 
       <div class="card c-violet">
@@ -173,7 +173,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N phrase</span></div>
         <div class="card-def">
-          优质 yōuzhì (excellent quality — 优 excellent + 质 substance/quality) is the premium tier modifier. 打造优质产品 (to build premium products) is a common mission statement. Contrasts with 劣质产品 (lièzhì chǎnpǐn, inferior-quality products) — counterfeit or substandard goods.
+          优质 yōuzhì (excellent quality , 优 excellent + 质 substance/quality) is the premium tier modifier. 打造优质产品 (to build premium products) is a common mission statement. Contrasts with 劣质产品 (lièzhì chǎnpǐn, inferior-quality products) , counterfeit or substandard goods.
         </div>
         <div class="examples">
           <div class="example">
@@ -184,7 +184,7 @@ content_sources:
           <div class="example">
             <div class="ex-cn">市场上存在大量劣质产品，消费者要小心辨别。</div>
             <div class="ex-py">Shìchǎng shàng cúnzài dàliàng lièzhì chǎnpǐn, xiāofèizhě yào xiǎoxīn biànbié.</div>
-            <div class="ex-en">The market is full of inferior products — consumers should be careful to distinguish them.</div>
+            <div class="ex-en">The market is full of inferior products , consumers should be careful to distinguish them.</div>
           </div>
         </div>
       </div>
@@ -197,7 +197,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N phrase</span></div>
         <div class="card-def">
-          认证 rènzhèng (to certify, certification — 认 recognize + 证 proof/certificate). The system by which products are officially verified to meet standards. 3C认证 (China Compulsory Certification) is the mandatory certification for electronics, appliances, and vehicles sold in China. 食品安全认证 (food safety certification). A critical concept for any company entering the Chinese market.
+          认证 rènzhèng (to certify, certification , 认 recognize + 证 proof/certificate). The system by which products are officially verified to meet standards. 3C认证 (China Compulsory Certification) is the mandatory certification for electronics, appliances, and vehicles sold in China. 食品安全认证 (food safety certification). A critical concept for any company entering the Chinese market.
         </div>
         <div class="examples">
           <div class="example">
@@ -228,7 +228,7 @@ content_sources:
         <div class="card-pinyin">bào kuǎn chǎnpǐn</div>
         <div class="card-en">hit product · breakout product · viral product</div>
         <span class="tag-n">n</span>
-        <div class="card-note">爆 (to explode, burst — colloquially: to blow up, go viral) + 款 (model, style) + 产品. A product that achieves explosive sales or viral popularity — particularly in the e-commerce and social commerce context (淘宝, 抖音, 拼多多). Creating 爆款 is the central goal of Chinese e-commerce strategy.</div>
+        <div class="card-note">爆 (to explode, burst , colloquially: to blow up, go viral) + 款 (model, style) + 产品. A product that achieves explosive sales or viral popularity , particularly in the e-commerce and social commerce context (淘宝, 抖音, 拼多多). Creating 爆款 is the central goal of Chinese e-commerce strategy.</div>
       </div>
 
       <div class="card c-sienna">
@@ -236,7 +236,7 @@ content_sources:
         <div class="card-pinyin">chǎnpǐn diédài</div>
         <div class="card-en">product iteration</div>
         <span class="tag-n">n</span>
-        <div class="card-note">迭代 diédài (iteration — from mathematics/computing) has been absorbed into Chinese product management vocabulary. 快速迭代 (rapid iteration), 持续迭代 (continuous iteration). Chinese tech culture is associated with extremely fast iteration cycles — "小步快跑" (small steps, fast runs) is a related principle.</div>
+        <div class="card-note">迭代 diédài (iteration , from mathematics/computing) has been absorbed into Chinese product management vocabulary. 快速迭代 (rapid iteration), 持续迭代 (continuous iteration). Chinese tech culture is associated with extremely fast iteration cycles , "小步快跑" (small steps, fast runs) is a related principle.</div>
       </div>
 
       <div class="card c-sienna">
@@ -258,14 +258,14 @@ content_sources:
         <div class="cy-hanzi">物美价廉</div>
         <div class="cy-py">wù měi jià lián</div>
         <div class="cy-en">excellent goods at a low price → good quality, affordable</div>
-        <div class="cy-note">物 (goods, things) + 美 (beautiful, excellent) + 价 (price) + 廉 (inexpensive, honest). The ultimate product compliment in Chinese consumer culture — not just cheap, not just good, but genuinely both. 这家店的产品物美价廉，值得推荐。"This shop's products are excellent quality at a great price — worth recommending."</div>
+        <div class="cy-note">物 (goods, things) + 美 (beautiful, excellent) + 价 (price) + 廉 (inexpensive, honest). The ultimate product compliment in Chinese consumer culture , not just cheap, not just good, but genuinely both. 这家店的产品物美价廉，值得推荐。"This shop's products are excellent quality at a great price , worth recommending."</div>
       </div>
 
       <div class="cy">
         <div class="cy-hanzi">以质取胜</div>
         <div class="cy-py">yǐ zhì qǔ shèng</div>
         <div class="cy-en">to win by quality → to compete on the basis of quality rather than price</div>
-        <div class="cy-note">以 (by means of) + 质 (quality) + 取胜 (to win, to achieve victory). A key strategic principle for Chinese manufacturers trying to move up-market — competing on quality rather than on cost alone. Appears in corporate mission statements and government industrial policy documents.</div>
+        <div class="cy-note">以 (by means of) + 质 (quality) + 取胜 (to win, to achieve victory). A key strategic principle for Chinese manufacturers trying to move up-market , competing on quality rather than on cost alone. Appears in corporate mission statements and government industrial policy documents.</div>
       </div>
 
     </div>

@@ -82,7 +82,7 @@ sources:
 
     <div class="scholar" data-glyph="过">
       <div class="scholar-label">to pass → to have passed through</div>
-      <p>The full verb 过 (guò, fourth tone) means "to pass, to cross, to go through." The walking radical 辶 is visible at the bottom-left; the phonetic 呙 (or simplified 寸) sits at the top-right. The original sense of spatial passage — crossing a bridge, passing a gate — is productive in modern compounds: 过桥 (cross a bridge), 过街 (cross the street), 通过 (to pass through, to pass a test).</p>
+      <p>The full verb 过 (guò, fourth tone) means "to pass, to cross, to go through." The walking radical 辶 is visible at the bottom-left; the phonetic 呙 (or simplified 寸) sits at the top-right. The original sense of spatial passage , crossing a bridge, passing a gate , is productive in modern compounds: 过桥 (cross a bridge), 过街 (cross the street), 通过 (to pass through, to pass a test).</p>
       <p>From that spatial sense, the character extended to temporal passage: "to have gone through a time or event." By the medieval period, 过 had grammaticalised into a verbal particle, losing its tone and becoming a neutral-tone suffix attached to verbs: <strong>V + 过</strong> = "have ever gone through the event of V-ing." This grammaticalised 过 is what modern grammar books call the <em>experiential aspect marker</em>.</p>
       <p>The two readings coexist in the language and are distinguished by context, stress, and (for attentive speakers) tone. The full verb stays fourth-tone (guò); the experiential particle drops to neutral tone (guo).</p>
     </div>
@@ -101,9 +101,9 @@ sources:
       <p><code>Subject + Verb + 过 + (Object)</code></p>
       <p>Examples:</p>
       <ul>
-        <li>我去过北京。(Wǒ qùguo Běijīng.) — I have been to Beijing. (at some point in my life)</li>
-        <li>你吃过北京烤鸭吗？(Nǐ chīguo Běijīng kǎoyā ma?) — Have you ever eaten Beijing roast duck?</li>
-        <li>他学过三年中文。(Tā xuéguo sān nián Zhōngwén.) — He has studied Chinese for three years. (at some earlier point; no longer studying)</li>
+        <li>我去过北京。(Wǒ qùguo Běijīng.) , I have been to Beijing. (at some point in my life)</li>
+        <li>你吃过北京烤鸭吗？(Nǐ chīguo Běijīng kǎoyā ma?) , Have you ever eaten Beijing roast duck?</li>
+        <li>他学过三年中文。(Tā xuéguo sān nián Zhōngwén.) , He has studied Chinese for three years. (at some earlier point; no longer studying)</li>
       </ul>
       <p>Note the third example: 过 can pair with a duration (三年 "three years") to mean "did this activity for three years in the past, and has since stopped." The activity is closed.</p>
     </div>
@@ -119,10 +119,10 @@ sources:
     <div class="scholar" data-glyph="别">
       <div class="scholar-label">the single most learner-critical distinction in Mandarin aspect</div>
       <p>English "I went to Beijing" maps onto both 我去了北京 and 我去过北京, and learners use them interchangeably for months. They mean different things.</p>
-      <p><strong>了 (perfective)</strong> anchors to a specific occasion. It reports a completed event, often one whose result is still relevant. <em>我去了北京</em> — "I went to Beijing [on a specific occasion, possibly recent, possibly still there or just back]."</p>
-      <p><strong>过 (experiential)</strong> ignores the occasion. It reports that the event has happened at some indeterminate point, treating the speaker's life as a set of experiences-had. <em>我去过北京</em> — "I have been to Beijing [at some time in my life]."</p>
+      <p><strong>了 (perfective)</strong> anchors to a specific occasion. It reports a completed event, often one whose result is still relevant. <em>我去了北京</em> , "I went to Beijing [on a specific occasion, possibly recent, possibly still there or just back]."</p>
+      <p><strong>过 (experiential)</strong> ignores the occasion. It reports that the event has happened at some indeterminate point, treating the speaker's life as a set of experiences-had. <em>我去过北京</em> , "I have been to Beijing [at some time in my life]."</p>
       <p>A common diagnostic: if the question "when?" is natural to ask about the event, use 了. If the natural follow-up is "how many times?" or "what was it like?", use 过. 了 is anchored to a timeline; 过 is anchored to the life of the subject.</p>
-      <p>Another diagnostic: 过 readily takes a negative answer (<em>没去过</em>, "never been"). 了 does not negate with 没…了 at all — its negation is 没 + verb without 了 (<em>没去</em>, "didn't go").</p>
+      <p>Another diagnostic: 过 readily takes a negative answer (<em>没去过</em>, "never been"). 了 does not negate with 没…了 at all , its negation is 没 + verb without 了 (<em>没去</em>, "didn't go").</p>
     </div>
 
     <div class="cards">
@@ -149,12 +149,12 @@ sources:
     </div>
 
     <div class="pattern">
-      <span class="label">没 + V + 过 — "have never V-ed"</span>
+      <span class="label">没 + V + 过 , "have never V-ed"</span>
       <p>Experiential 过 negates with 没 (méi) while keeping the 过 particle in place:</p>
       <p><code>Subject + 没 + Verb + 过 + (Object)</code></p>
       <ul>
-        <li>我没去过北京。(Wǒ méi qùguo Běijīng.) — I have never been to Beijing.</li>
-        <li>他没吃过臭豆腐。(Tā méi chīguo chòu dòufu.) — He has never eaten stinky tofu.</li>
+        <li>我没去过北京。(Wǒ méi qùguo Běijīng.) , I have never been to Beijing.</li>
+        <li>他没吃过臭豆腐。(Tā méi chīguo chòu dòufu.) , He has never eaten stinky tofu.</li>
       </ul>
       <p>This is asymmetric with 了, which loses its particle entirely under negation. The retention of 过 under negation is precisely because 过 is marking a <em>category of experience</em> (had-or-not-had), not an event-completion.</p>
     </div>
@@ -193,7 +193,7 @@ sources:
           <span class="card-py">guòcuò</span>
           <span class="card-en">fault, wrongdoing</span>
         </div>
-        <p class="card-def">"Passed-error" — a fault that has been committed. In classical Chinese 过 alone often meant "a fault, a transgression" (the Analects: 过则勿惮改 "when you have faults, do not hesitate to correct them"). The modern compound preserves the sense.</p>
+        <p class="card-def">"Passed-error" , a fault that has been committed. In classical Chinese 过 alone often meant "a fault, a transgression" (the Analects: 过则勿惮改 "when you have faults, do not hesitate to correct them"). The modern compound preserves the sense.</p>
       </div>
     </div>
 
@@ -209,13 +209,13 @@ sources:
       <div class="cy">
         <div class="cy-cn">过河拆桥</div>
         <div class="cy-py">guò hé chāi qiáo</div>
-        <div class="cy-en">"cross the river and tear down the bridge" — abandon those who helped you</div>
+        <div class="cy-en">"cross the river and tear down the bridge" , abandon those who helped you</div>
         <div class="cy-note">Said of someone who uses help to achieve a goal and then discards the helper. The image is vivid: you used the bridge, so tear it down behind you. Pointed criticism.</div>
       </div>
       <div class="cy">
         <div class="cy-cn">过目不忘</div>
         <div class="cy-py">guò mù bú wàng</div>
-        <div class="cy-en">"pass the eye, never forget" — photographic memory</div>
+        <div class="cy-en">"pass the eye, never forget" , photographic memory</div>
         <div class="cy-note">Praise for someone whose memory holds whatever passes in front of it. Often said of scholars or professionals who absorb documents at a glance.</div>
       </div>
       <div class="cy">

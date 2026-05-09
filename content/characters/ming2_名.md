@@ -101,9 +101,9 @@ content_review: 'pending'
 
     <div class="scholar" data-glyph="名">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
-      <p><strong>名 míng = 夕 xī</strong> (dusk, the crescent moon — evening has come) <strong>+ 口 kǒu</strong> (mouth). The traditional analysis is as vivid as any in the script: darkness has fallen and you cannot see who approaches. So you call out their name — or they call out theirs. Identity must be asserted through speech when sight fails. The name is what stands in for the person when the person cannot be seen.</p>
+      <p><strong>名 míng = 夕 xī</strong> (dusk, the crescent moon , evening has come) <strong>+ 口 kǒu</strong> (mouth). The traditional analysis is as vivid as any in the script: darkness has fallen and you cannot see who approaches. So you call out their name , or they call out theirs. Identity must be asserted through speech when sight fails. The name is what stands in for the person when the person cannot be seen.</p>
       <p>The oracle-bone form shows 夕 clearly: a crescent shape representing the moon low on the horizon, the same element used in 夜 (night) and 外 (outside, beyond the threshold). Above it, 口 kǒu opens to speak. Sound crosses the darkness; identity is secured. Name = voice in the dark.</p>
-      <p>From this image the character radiates outward: a name is what a person is called (personal name), what they are known for (reputation, fame), and — in philosophical usage — the linguistic label that should correspond to reality. All three senses inhabit the same six strokes.</p>
+      <p>From this image the character radiates outward: a name is what a person is called (personal name), what they are known for (reputation, fame), and , in philosophical usage , the linguistic label that should correspond to reality. All three senses inhabit the same six strokes.</p>
     </div>
 
     <!-- ── NAME & IDENTITY ── -->
@@ -134,7 +134,7 @@ content_review: 'pending'
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          名 míng (name) + 字 zì (character; in classical usage, the courtesy name given at adulthood). In modern Mandarin, 名字 is the everyday word for a person's name — first name, full name, or nickname depending on context. Neutral register, universally usable.
+          名 míng (name) + 字 zì (character; in classical usage, the courtesy name given at adulthood). In modern Mandarin, 名字 is the everyday word for a person's name , first name, full name, or nickname depending on context. Neutral register, universally usable.
         </div>
         <div class="examples">
           <div class="example">
@@ -150,7 +150,7 @@ content_review: 'pending'
         </div>
         <div class="note">
           <span class="note-label">辨析 biànxī · 名字 vs. 姓名</span>
-          <strong>名字</strong> míngzi is conversational and general. <strong>姓名</strong> xìngmíng is formal — surname (姓 xìng) plus given name (名 míng) — used on forms, official documents, and introductions. When asked for 姓名, give surname first.
+          <strong>名字</strong> míngzi is conversational and general. <strong>姓名</strong> xìngmíng is formal , surname (姓 xìng) plus given name (名 míng) , used on forms, official documents, and introductions. When asked for 姓名, give surname first.
         </div>
       </div>
 
@@ -163,7 +163,7 @@ content_review: 'pending'
         </div>
         <div class="tags"><span class="tag tag-v">V 动词 dòngcí</span></div>
         <div class="card-def">
-          取 qǔ (to take; to select; to acquire) + 名 míng (name). The act of choosing a name — for a child, a product, a shop, a poem. In Chinese culture, naming a child is treated with care: classical allusions, tonal balance, auspicious characters, and avoidance of taboo names (especially those of ancestors and emperors) all factor in.
+          取 qǔ (to take; to select; to acquire) + 名 míng (name). The act of choosing a name , for a child, a product, a shop, a poem. In Chinese culture, naming a child is treated with care: classical allusions, tonal balance, auspicious characters, and avoidance of taboo names (especially those of ancestors and emperors) all factor in.
         </div>
         <div class="examples">
           <div class="example">
@@ -174,7 +174,7 @@ content_review: 'pending'
           <div class="example">
             <div class="ex-cn">这家店取名"书屋"，很有韵味。</div>
             <div class="ex-py">Zhè jiā diàn qǔmíng "Shūwū", hěn yǒu yùnwèi.</div>
-            <div class="ex-en">The shop was named "Shūwū" — it has real character.</div>
+            <div class="ex-en">The shop was named "Shūwū" , it has real character.</div>
           </div>
         </div>
       </div>
@@ -188,7 +188,7 @@ content_review: 'pending'
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          名 míng (name) + 片 piàn (flat slice; card). A "name slice" — the physical object that carries your name into another person's hand. Business card exchange in China carries ritual weight: present and receive with both hands, read the card before putting it away, never write on it.
+          名 míng (name) + 片 piàn (flat slice; card). A "name slice" , the physical object that carries your name into another person's hand. Business card exchange in China carries ritual weight: present and receive with both hands, read the card before putting it away, never write on it.
         </div>
         <div class="examples">
           <div class="example">
@@ -218,9 +218,9 @@ content_review: 'pending'
       <span class="label">声誉光谱 shēngyù guāngpǔ · The Reputation Spectrum</span>
       <strong>有名</strong> yǒumíng (famous, known) →
       <strong>出名</strong> chūmíng (to become famous, to break through to renown) →
-      <strong>名气</strong> míngqì (fame, star power — colloquial) →
-      <strong>名声</strong> míngshēng (reputation — can be good or bad) →
-      <strong>名誉</strong> míngyù (honor, moral reputation — always positive or at stake)
+      <strong>名气</strong> míngqì (fame, star power , colloquial) →
+      <strong>名声</strong> míngshēng (reputation , can be good or bad) →
+      <strong>名誉</strong> míngyù (honor, moral reputation , always positive or at stake)
     </div>
 
     <div class="cards">
@@ -234,7 +234,7 @@ content_review: 'pending'
         </div>
         <div class="tags"><span class="tag tag-adj">Adj 形容词 xíngróngcí</span></div>
         <div class="card-def">
-          有 yǒu (to have; to possess) + 名 míng (name; fame). To have a name that people know — the most common adjective for "famous" in spoken Mandarin. Neutral in register, works for people, places, dishes, and brands alike.
+          有 yǒu (to have; to possess) + 名 míng (name; fame). To have a name that people know , the most common adjective for "famous" in spoken Mandarin. Neutral in register, works for people, places, dishes, and brands alike.
         </div>
         <div class="examples">
           <div class="example">
@@ -259,7 +259,7 @@ content_review: 'pending'
         </div>
         <div class="tags"><span class="tag tag-v">V 动词 dòngcí</span></div>
         <div class="card-def">
-          出 chū (to go out; to emerge) + 名 míng (name). Your name goes out into the world — from unknown to known. The motion of reputation crossing the threshold of obscurity. Often captures the process of rising rather than the settled state of being famous.
+          出 chū (to go out; to emerge) + 名 míng (name). Your name goes out into the world , from unknown to known. The motion of reputation crossing the threshold of obscurity. Often captures the process of rising rather than the settled state of being famous.
         </div>
         <div class="examples">
           <div class="example">
@@ -304,7 +304,7 @@ content_review: 'pending'
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          名 míng (name) + 声 shēng (sound; voice; what is heard). What others say and hear about you — your name as it sounds in the world. Crucially neutral: 好名声 (good reputation) vs 坏名声 (bad reputation). The modifier does the moral work; 名声 itself simply denotes the fact of being talked about.
+          名 míng (name) + 声 shēng (sound; voice; what is heard). What others say and hear about you , your name as it sounds in the world. Crucially neutral: 好名声 (good reputation) vs 坏名声 (bad reputation). The modifier does the moral work; 名声 itself simply denotes the fact of being talked about.
         </div>
         <div class="examples">
           <div class="example">
@@ -320,7 +320,7 @@ content_review: 'pending'
         </div>
         <div class="note">
           <span class="note-label">辨析 biànxī · 名声 vs. 名誉</span>
-          <strong>名声</strong> míngshēng is descriptive — the reputation you happen to have. <strong>名誉</strong> míngyù carries moral weight — honor that can be defended, protected, or lost. 名誉权 míngyùquán (right to reputation) is a legal term; you sue for damage to 名誉, not damage to 名声.
+          <strong>名声</strong> míngshēng is descriptive , the reputation you happen to have. <strong>名誉</strong> míngyù carries moral weight , honor that can be defended, protected, or lost. 名誉权 míngyùquán (right to reputation) is a legal term; you sue for damage to 名誉, not damage to 名声.
         </div>
       </div>
 
@@ -337,9 +337,9 @@ content_review: 'pending'
 
     <div class="scholar" data-glyph="名">
       <div class="scholar-label">哲学洞见 zhéxué dòngjiàn · Philosophical Insight</div>
-      <p>Analects 13.3: a disciple asks Confucius what he would do first if given charge of a state. The answer is <strong>正名 zhèngmíng</strong> — rectify names. The disciple laughs at the impracticality. Confucius does not relent.</p>
+      <p>Analects 13.3: a disciple asks Confucius what he would do first if given charge of a state. The answer is <strong>正名 zhèngmíng</strong> , rectify names. The disciple laughs at the impracticality. Confucius does not relent.</p>
       <p>His argument, compressed: <strong>名不正则言不顺，言不顺则事不成，事不成则礼乐不兴，礼乐不兴则刑罚不中，刑罚不中则民无所措手足。</strong> If names are not correct, speech will not follow; if speech does not follow, affairs will not be accomplished; if affairs are not accomplished, rites and music will not flourish; if rites and music do not flourish, punishments will miss the mark; if punishments miss the mark, the people will not know where to put hand and foot.</p>
-      <p>This is a chain of social causation anchored in language. For Confucius, names are not labels we attach to things already understood. Names <em>constitute</em> the roles and relationships that hold society together. When a ruler rules badly but is still called "ruler," when a minister betrays but is still called "minister," the name has decoupled from the reality — and the whole structure softens. Zhèngmíng is the political act of re-coupling them.</p>
+      <p>This is a chain of social causation anchored in language. For Confucius, names are not labels we attach to things already understood. Names <em>constitute</em> the roles and relationships that hold society together. When a ruler rules badly but is still called "ruler," when a minister betrays but is still called "minister," the name has decoupled from the reality , and the whole structure softens. Zhèngmíng is the political act of re-coupling them.</p>
       <p>The debate passed into the <strong>名家 Míngjiā</strong> (School of Names), the Chinese philosophers closest to ancient Greek logic. Gongsun Long's paradox <strong>白马非马</strong> bái mǎ fēi mǎ ("a white horse is not a horse") forces the question: does "horse" name a species, or a concept? Does the name cover all instances, or only the abstract type? The School of Names produced no political system, but it planted questions about predication and universals that Chinese philosophy would wrestle with for centuries.</p>
     </div>
 
@@ -358,7 +358,7 @@ content_review: 'pending'
         <span class="cy-cn">名副其实</span>
         <span class="cy-py">míng fù qí shí</span>
         <span class="cy-en">the name matches the reality — living up to one's reputation</span>
-        <span class="cy-note">Lit: name-correspond-its-reality. The Confucian ideal in four characters: what you are called is what you are. The opposite is 名不副实 míng bù fù shí — a name that does not match reality, a reputation that exceeds or misrepresents the substance.</span>
+        <span class="cy-note">Lit: name-correspond-its-reality. The Confucian ideal in four characters: what you are called is what you are. The opposite is 名不副实 míng bù fù shí , a name that does not match reality, a reputation that exceeds or misrepresents the substance.</span>
       </div>
 
       <div class="cy">
@@ -379,7 +379,7 @@ content_review: 'pending'
         <span class="cy-cn">名正言顺</span>
         <span class="cy-py">míng zhèng yán shùn</span>
         <span class="cy-en">the name is right and the speech follows smoothly — acting with proper authority and justification</span>
-        <span class="cy-note">Lit: name-correct speech-flows. Directly from the Analects 13.3 argument: when the name is rectified, speech follows naturally, and what follows from speech can be accomplished. Used today when someone has the proper credentials or title to do something — "now that you have the title, you can act."</span>
+        <span class="cy-note">Lit: name-correct speech-flows. Directly from the Analects 13.3 argument: when the name is rectified, speech follows naturally, and what follows from speech can be accomplished. Used today when someone has the proper credentials or title to do something , "now that you have the title, you can act."</span>
       </div>
 
     </div>

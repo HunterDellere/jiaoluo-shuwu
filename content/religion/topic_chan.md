@@ -65,7 +65,7 @@ pinyin: 'chán zōng'
       <span class="topic-hero-eyebrow">Religion · 宗教 zōngjiào</span>
       <h1 class="topic-hero-title">禅宗</h1>
       <span class="topic-hero-title-py">chán zōng</span>
-      <p class="topic-hero-desc">The school of meditation and direct transmission — rejecting scripture, bypassing concepts, and insisting that the Buddha's mind is available right now, in this breath, in this gesture, in a single flash of recognition that cannot be taught but only pointed toward.</p>
+      <p class="topic-hero-desc">The school of meditation and direct transmission , rejecting scripture, bypassing concepts, and insisting that the Buddha's mind is available right now, in this breath, in this gesture, in a single flash of recognition that cannot be taught but only pointed toward.</p>
     </header>
 
     <!-- ── ORIGINS ── -->
@@ -79,9 +79,9 @@ pinyin: 'chán zōng'
 
     <div class="scholar" data-glyph="禅">
       <div class="scholar-label">历史洞见 lìshǐ dòngjiàn · Historical Insight</div>
-      <p>Chan Buddhism names itself after 禅 chán — the Chinese rendering of Sanskrit <em>dhyāna</em> (meditation). The tradition traces its founding to <strong>菩提达摩 Pútí Dámó</strong> (Bodhidharma), an Indian or Central Asian monk who, according to legend, arrived in South China around 520 CE. The emperor Liang Wudi, a great Buddhist patron, received him at court and asked: "I have built temples, copied sutras, and supported the sangha. What merit have I earned?" Bodhidharma replied: "None." Startled, the emperor asked: "Who stands before me?" Bodhidharma replied: "I don't know." He then retired to Shaolin Monastery 少林寺, where he meditated facing a wall for nine years.</p>
+      <p>Chan Buddhism names itself after 禅 chán , the Chinese rendering of Sanskrit <em>dhyāna</em> (meditation). The tradition traces its founding to <strong>菩提达摩 Pútí Dámó</strong> (Bodhidharma), an Indian or Central Asian monk who, according to legend, arrived in South China around 520 CE. The emperor Liang Wudi, a great Buddhist patron, received him at court and asked: "I have built temples, copied sutras, and supported the sangha. What merit have I earned?" Bodhidharma replied: "None." Startled, the emperor asked: "Who stands before me?" Bodhidharma replied: "I don't know." He then retired to Shaolin Monastery 少林寺, where he meditated facing a wall for nine years.</p>
       <p>This founding story encodes the Chan stance on received religion: sponsoring buildings and copying texts generates no merit because merit cannot be accumulated externally. The "I don't know" response is the direct pointing to a mind that cannot be grasped conceptually. Wall-gazing for nine years is a teaching on the inexhaustibility of meditation, not biography.</p>
-      <p>Chan's historical emergence is more complex than the legend suggests. The school crystallized in the late 6th and 7th centuries CE through the creative synthesis of Indian meditation traditions, Madhyamaka philosophy, and distinctly Chinese elements — particularly the Daoist valorization of spontaneity and naturalness, and the Confucian emphasis on practical cultivation in daily life rather than abstract doctrine. By the Tang dynasty, Chan had become the dominant intellectual current in Chinese Buddhism.</p>
+      <p>Chan's historical emergence is more complex than the legend suggests. The school crystallized in the late 6th and 7th centuries CE through the creative synthesis of Indian meditation traditions, Madhyamaka philosophy, and distinctly Chinese elements , particularly the Daoist valorization of spontaneity and naturalness, and the Confucian emphasis on practical cultivation in daily life rather than abstract doctrine. By the Tang dynasty, Chan had become the dominant intellectual current in Chinese Buddhism.</p>
     </div>
 
     <!-- ── SUDDEN ENLIGHTENMENT ── -->
@@ -98,10 +98,10 @@ pinyin: 'chán zōng'
       <p>The defining moment in Chinese Chan history is the contest between two monks at the monastery of the Fifth Patriarch 弘忍 Hóngrěn (601–674 CE) at East Mountain 东山, who invited his disciples to demonstrate their understanding through verse, promising to transmit the patriarchship to whoever showed genuine insight.</p>
       <p>The head monk <strong>神秀 Shénxiù</strong> (606–706 CE) wrote on the wall:</p>
       <p style="padding-left:1.5rem;font-style:italic;">身是菩提树，心如明镜台。<br>时时勤拂拭，莫使惹尘埃。<br><span style="font-style:normal;font-size:.9em;">The body is the Bodhi tree; the mind is like a bright mirror's stand. / At all times we must diligently polish it, and must not let the dust alight.</span></p>
-      <p>The illiterate kitchen worker <strong>慧能 Huìnéng</strong> (638–713 CE) had someone read it to him, then dictated his response — which was written next to it:</p>
-      <p style="padding-left:1.5rem;font-style:italic;">菩提本无树，明镜亦非台。<br>本来无一物，何处惹尘埃？<br><span style="font-style:normal;font-size:.9em;">The Bodhi is not a tree; the bright mirror is also not a stand. / Fundamentally not a single thing exists — where could dust alight?</span></p>
-      <p>Huineng's verse refuses the entire framework of Shenxiu's: there is no mirror to polish because there is no separate, permanent mind that gets dirty. The nature of mind is already empty and luminous — there is nothing to cultivate, nothing to remove. Hongren immediately recognized this as genuine understanding, secretly transmitted the robe and bowl to Huineng, and sent him south to avoid jealousy.</p>
-      <p>This story encodes the division between the <strong>Northern School 北宗</strong> (Shenxiu's approach: gradual practice, progressive purification) and the <strong>Southern School 南宗</strong> (Huineng's approach: sudden enlightenment, recognizing that Buddha nature is already fully present). The Southern school won the historical argument — it produced nearly all the major Chan lineages that survive today — though some scholars question the neatness of the distinction.</p>
+      <p>The illiterate kitchen worker <strong>慧能 Huìnéng</strong> (638–713 CE) had someone read it to him, then dictated his response , which was written next to it:</p>
+      <p style="padding-left:1.5rem;font-style:italic;">菩提本无树，明镜亦非台。<br>本来无一物，何处惹尘埃？<br><span style="font-style:normal;font-size:.9em;">The Bodhi is not a tree; the bright mirror is also not a stand. / Fundamentally not a single thing exists , where could dust alight?</span></p>
+      <p>Huineng's verse refuses the entire framework of Shenxiu's: there is no mirror to polish because there is no separate, permanent mind that gets dirty. The nature of mind is already empty and luminous , there is nothing to cultivate, nothing to remove. Hongren immediately recognized this as genuine understanding, secretly transmitted the robe and bowl to Huineng, and sent him south to avoid jealousy.</p>
+      <p>This story encodes the division between the <strong>Northern School 北宗</strong> (Shenxiu's approach: gradual practice, progressive purification) and the <strong>Southern School 南宗</strong> (Huineng's approach: sudden enlightenment, recognizing that Buddha nature is already fully present). The Southern school won the historical argument , it produced nearly all the major Chan lineages that survive today , though some scholars question the neatness of the distinction.</p>
     </div>
 
     <!-- ── CHAN PRACTICES ── -->
@@ -122,11 +122,11 @@ pinyin: 'chán zōng'
           <span class="card-en">sitting meditation — the formal practice of Chan</span>
         </div>
         <div class="card-def">
-          坐 zuò (sit) + 禅 chán (dhyāna). Extended periods of seated meditation — in Japan called zazen 坐禅. Chan monasteries typically structure the day around multiple periods of 坐禅, sometimes lasting hours in intensive retreats (禅七 chán qī, seven-day intensive). The physical posture — spine erect, eyes half-open, breathing natural — is itself a teaching: alertness without grasping, stillness without dullness. Huineng famously said sitting was not essential: "The Way is samadhi itself — in what posture would you seek it?"
+          坐 zuò (sit) + 禅 chán (dhyāna). Extended periods of seated meditation , in Japan called zazen 坐禅. Chan monasteries typically structure the day around multiple periods of 坐禅, sometimes lasting hours in intensive retreats (禅七 chán qī, seven-day intensive). The physical posture , spine erect, eyes half-open, breathing natural , is itself a teaching: alertness without grasping, stillness without dullness. Huineng famously said sitting was not essential: "The Way is samadhi itself , in what posture would you seek it?"
         </div>
         <div class="note">
           <span class="note-label">禅七 · Intensive Retreat</span>
-          禅七 chán qī — a seven-day intensive Chan retreat, during which practitioners sit for many hours daily with minimal sleep. These remain the central event of Chan monastic life. The format was transmitted to Japan as <em>sesshin</em> 接心 and to Korea as <em>jeong-jin</em>.
+          禅七 chán qī , a seven-day intensive Chan retreat, during which practitioners sit for many hours daily with minimal sleep. These remain the central event of Chan monastic life. The format was transmitted to Japan as <em>sesshin</em> 接心 and to Korea as <em>jeong-jin</em>.
         </div>
       </div>
 
@@ -137,7 +137,7 @@ pinyin: 'chán zōng'
           <span class="card-en">kōan — a paradoxical case used as a meditation object</span>
         </div>
         <div class="card-def">
-          公 gōng (public) + 案 àn (case/record). Originally a legal term: a judicial precedent. In Chan, a 公案 is a recorded exchange between a master and student, or a question posed by the master, used as a meditation object. The famous examples: <em>What was your face before your parents were born?</em> (父母未生前，本来面目) <em>What is the sound of one hand?</em> (隻手之聲 — a Rinzai variant). The kōan cannot be resolved through conceptual analysis — it is designed to exhaust rational thought and force a direct, intuitive response. The collection 碧岩录 Bìyán Lù (Blue Cliff Record) contains 100 cases; 无门关 Wúménguān (Gateless Gate) contains 48.
+          公 gōng (public) + 案 àn (case/record). Originally a legal term: a judicial precedent. In Chan, a 公案 is a recorded exchange between a master and student, or a question posed by the master, used as a meditation object. The famous examples: <em>What was your face before your parents were born?</em> (父母未生前，本来面目) <em>What is the sound of one hand?</em> (隻手之聲 , a Rinzai variant). The kōan cannot be resolved through conceptual analysis , it is designed to exhaust rational thought and force a direct, intuitive response. The collection 碧岩录 Bìyán Lù (Blue Cliff Record) contains 100 cases; 无门关 Wúménguān (Gateless Gate) contains 48.
         </div>
       </div>
 
@@ -148,7 +148,7 @@ pinyin: 'chán zōng'
           <span class="card-en">the shout-and-blow — spontaneous awakening techniques</span>
         </div>
         <div class="card-def">
-          棒 bàng (staff, blow) + 喝 hè (shout, roar). Two of the most distinctive Chan teaching methods: a sudden shout (associated especially with the master Linji 临济, whose shout 喝 became the name of the Rinzai school) and a strike with a staff (associated with Deshan 德山). The logic: conceptual thought is so habitual that only an unexpected shock — bypassing the thinking mind entirely — can open a gap through which direct experience of Buddha nature can rush in. The timing and appropriateness of 棒喝 requires the master's consummate judgment.
+          棒 bàng (staff, blow) + 喝 hè (shout, roar). Two of the most distinctive Chan teaching methods: a sudden shout (associated especially with the master Linji 临济, whose shout 喝 became the name of the Rinzai school) and a strike with a staff (associated with Deshan 德山). The logic: conceptual thought is so habitual that only an unexpected shock , bypassing the thinking mind entirely , can open a gap through which direct experience of Buddha nature can rush in. The timing and appropriateness of 棒喝 requires the master's consummate judgment.
         </div>
       </div>
 
@@ -159,7 +159,7 @@ pinyin: 'chán zōng'
           <span class="card-en">walking, standing, sitting, lying down — enlightenment in every posture</span>
         </div>
         <div class="card-def">
-          The four bodily postures covering all of waking life. Chan's radical claim: enlightenment is not a special state achieved in meditation and then lost in ordinary life — it is the natural condition of mind, available in every action. 饥来食饭困来眠 — "when hungry, eat; when tired, sleep." This is not anti-practice but anti-compartmentalization: if you can only "be present" on the cushion and not while chopping vegetables, the practice has not penetrated. The monastery's daily round of labor (作务 zuòwù) was as central as formal meditation.
+          The four bodily postures covering all of waking life. Chan's radical claim: enlightenment is not a special state achieved in meditation and then lost in ordinary life , it is the natural condition of mind, available in every action. 饥来食饭困来眠 , "when hungry, eat; when tired, sleep." This is not anti-practice but anti-compartmentalization: if you can only "be present" on the cushion and not while chopping vegetables, the practice has not penetrated. The monastery's daily round of labor (作务 zuòwù) was as central as formal meditation.
         </div>
       </div>
 
@@ -176,9 +176,9 @@ pinyin: 'chán zōng'
 
     <div class="scholar" data-glyph="语">
       <div class="scholar-label">语言洞见 yǔyán dòngjiàn · Language Insight</div>
-      <p>Chan developed a distinctive literary and rhetorical style — sometimes called 禅语 chányǔ (Chan-speak) — characterized by indirection, paradox, non-sequitur, and the refusal to state things plainly. The indirection is principled: conceptual language always falsifies living experience. Words about the moon are not the moon; a map is not the territory; the finger pointing at Buddha is not Buddha.</p>
-      <p>The exchange format called 机锋 jīfēng (literally "opportunity-blade" — a sharp, spontaneous exchange) was the master's tool for testing and triggering insight. A student asks: "What is Buddha?" The master replies: "Three pounds of flax." Or: "The cypress tree in the courtyard." These answers bypass the conceptual question and force the questioner to stop thinking and look directly. The tradition compiled vast collections of such exchanges — 语录 yǔlù (recorded sayings) — which became the training texts for future generations.</p>
-      <p>Among the most celebrated Chan exchanges: A monk asked Zhaozhou 赵州 whether a dog has Buddha nature. Zhaozhou replied: 无 wú — "no" or "nothing." This 赵州狗子 (Zhaozhou's dog) is the most famous kōan in the Chinese tradition, the gateway kōan in many lineages. Students meditate on 无 for months or years until its meaning is not conceptual but immediate.</p>
+      <p>Chan developed a distinctive literary and rhetorical style , sometimes called 禅语 chányǔ (Chan-speak) , characterized by indirection, paradox, non-sequitur, and the refusal to state things plainly. The indirection is principled: conceptual language always falsifies living experience. Words about the moon are not the moon; a map is not the territory; the finger pointing at Buddha is not Buddha.</p>
+      <p>The exchange format called 机锋 jīfēng (literally "opportunity-blade" , a sharp, spontaneous exchange) was the master's tool for testing and triggering insight. A student asks: "What is Buddha?" The master replies: "Three pounds of flax." Or: "The cypress tree in the courtyard." These answers bypass the conceptual question and force the questioner to stop thinking and look directly. The tradition compiled vast collections of such exchanges , 语录 yǔlù (recorded sayings) , which became the training texts for future generations.</p>
+      <p>Among the most celebrated Chan exchanges: A monk asked Zhaozhou 赵州 whether a dog has Buddha nature. Zhaozhou replied: 无 wú , "no" or "nothing." This 赵州狗子 (Zhaozhou's dog) is the most famous kōan in the Chinese tradition, the gateway kōan in many lineages. Students meditate on 无 for months or years until its meaning is not conceptual but immediate.</p>
     </div>
 
     <div class="cards">
@@ -190,7 +190,7 @@ pinyin: 'chán zōng'
           <span class="card-en">sharp spontaneous exchange — the master tests the student</span>
         </div>
         <div class="card-def">
-          机 jī (opportunity; trigger) + 锋 fēng (blade; sharpness). The live Chan exchange: master and student meet in the present moment, and the master uses any available means — a question, a non-sequitur, a shout, a gesture — to test whether the student is genuinely awake or merely performing understanding. Modern usage: 机锋 refers to any sharp, witty, unexpected verbal exchange that catches someone off-guard.
+          机 jī (opportunity; trigger) + 锋 fēng (blade; sharpness). The live Chan exchange: master and student meet in the present moment, and the master uses any available means , a question, a non-sequitur, a shout, a gesture , to test whether the student is genuinely awake or merely performing understanding. Modern usage: 机锋 refers to any sharp, witty, unexpected verbal exchange that catches someone off-guard.
         </div>
         <div class="examples">
           <div class="example">
@@ -208,7 +208,7 @@ pinyin: 'chán zōng'
           <span class="card-en">Zhaozhou's dog — the gateway kōan of Chinese Chan</span>
         </div>
         <div class="card-def">
-          Master Zhaozhou Congshen 赵州从谂 (778–897 CE) was asked: "Does a dog have Buddha nature?" He replied: 无 wú. Since Buddhist doctrine holds that all sentient beings have Buddha nature, "no" is doctrinally wrong — but so is "yes" if it's merely conceptual. The 无 is not an answer but an irresolvable provocation, a knife to cut through the questioner's reliance on doctrine and conceptual categories. Meditating on 无 — feeling it, becoming it — is the gateway practice in many Chinese Chan and Japanese Rinzai lineages.
+          Master Zhaozhou Congshen 赵州从谂 (778–897 CE) was asked: "Does a dog have Buddha nature?" He replied: 无 wú. Since Buddhist doctrine holds that all sentient beings have Buddha nature, "no" is doctrinally wrong , but so is "yes" if it's merely conceptual. The 无 is not an answer but an irresolvable provocation, a knife to cut through the questioner's reliance on doctrine and conceptual categories. Meditating on 无 , feeling it, becoming it , is the gateway practice in many Chinese Chan and Japanese Rinzai lineages.
         </div>
       </div>
 
@@ -225,7 +225,7 @@ pinyin: 'chán zōng'
 
     <div class="scholar" data-glyph="祖">
       <div class="scholar-label">传承洞见 chuánchéng dòngjiàn · Lineage Insight</div>
-      <p>Chan's defining claim is 以心传心 yǐ xīn chuán xīn — "mind transmitted by mind" — the direct, personal transmission of awakening from teacher to student, authenticated by a gesture, an exchange, or a recognition that cannot be written down. The tradition symbolizes this transmission with the robe and bowl (衣钵 yībō) of the first patriarch, passed from master to successor through six generations. After Huineng, the sixth patriarch, the transmission became too diffuse for a single successor, branching into the many lineages of Tang and Song Chan.</p>
+      <p>Chan's defining claim is 以心传心 yǐ xīn chuán xīn , "mind transmitted by mind" , the direct, personal transmission of awakening from teacher to student, authenticated by a gesture, an exchange, or a recognition that cannot be written down. The tradition symbolizes this transmission with the robe and bowl (衣钵 yībō) of the first patriarch, passed from master to successor through six generations. After Huineng, the sixth patriarch, the transmission became too diffuse for a single successor, branching into the many lineages of Tang and Song Chan.</p>
     </div>
 
     <div class="cards">
@@ -248,7 +248,7 @@ pinyin: 'chán zōng'
           <span class="card-en">Huike — second patriarch; the arm in the snow</span>
         </div>
         <div class="card-def">
-          Huike (487–593 CE) is remembered for two things: the snow-and-arm story of his fierce aspiration, and the exchange above about the unfindable mind — which is itself a kōan on the non-existence of a substantial, locatable self. Having received Bodhidharma's teaching and the Laṅkāvatāra Sutra, he transmitted to Sengcan 僧璨, the third patriarch. Little is historically certain about Huike's biography; the tradition's accounts are largely hagiographic.
+          Huike (487–593 CE) is remembered for two things: the snow-and-arm story of his fierce aspiration, and the exchange above about the unfindable mind , which is itself a kōan on the non-existence of a substantial, locatable self. Having received Bodhidharma's teaching and the Laṅkāvatāra Sutra, he transmitted to Sengcan 僧璨, the third patriarch. Little is historically certain about Huike's biography; the tradition's accounts are largely hagiographic.
         </div>
       </div>
 
@@ -259,7 +259,7 @@ pinyin: 'chán zōng'
           <span class="card-en">Third, fourth, and fifth patriarchs</span>
         </div>
         <div class="card-def">
-          <strong>僧璨 Sengcan</strong> (d. 606 CE), the third patriarch, is remembered for the 信心铭 Xìnxīn Míng (Verses on the Faith-Mind), a verse text expressing the Chan teaching that discriminating mind (the tendency to prefer and reject) is the root of suffering. <strong>道信 Daoxin</strong> (580–651 CE) established the first Chan monastery where practitioners lived and worked together, creating the monastic model. <strong>弘忍 Hongren</strong> (601–674 CE) at East Mountain gathered the largest early Chan community — it was in his monastery that the famous two-verse contest occurred.
+          <strong>僧璨 Sengcan</strong> (d. 606 CE), the third patriarch, is remembered for the 信心铭 Xìnxīn Míng (Verses on the Faith-Mind), a verse text expressing the Chan teaching that discriminating mind (the tendency to prefer and reject) is the root of suffering. <strong>道信 Daoxin</strong> (580–651 CE) established the first Chan monastery where practitioners lived and worked together, creating the monastic model. <strong>弘忍 Hongren</strong> (601–674 CE) at East Mountain gathered the largest early Chan community , it was in his monastery that the famous two-verse contest occurred.
         </div>
       </div>
 
@@ -270,7 +270,7 @@ pinyin: 'chán zōng'
           <span class="card-en">Huineng — sixth patriarch; the Platform Sutra; Southern Chan</span>
         </div>
         <div class="card-def">
-          Huineng (638–713 CE) is the most historically consequential figure in Chinese Chan. An illiterate woodcutter from Guangdong, he achieved sudden recognition of his original nature upon hearing a line from the Diamond Sutra. His teaching, compiled as the <strong>坛经 Tánjīng</strong> (Platform Sutra), is the only Chinese-authored text given sutra status in Chinese Buddhism — a remarkable cultural assertion. The Platform Sutra teaches that Buddha nature is not something distant or difficult to reach but is the natural state of the mind when not obscured by conceptual thinking. After Huineng, Chan branched into the "Five Houses and Seven Schools" (五家七宗 wǔjiā qī zōng), the major lineages that define Chinese Chan.
+          Huineng (638–713 CE) is the most historically consequential figure in Chinese Chan. An illiterate woodcutter from Guangdong, he achieved sudden recognition of his original nature upon hearing a line from the Diamond Sutra. His teaching, compiled as the <strong>坛经 Tánjīng</strong> (Platform Sutra), is the only Chinese-authored text given sutra status in Chinese Buddhism , a remarkable cultural assertion. The Platform Sutra teaches that Buddha nature is not something distant or difficult to reach but is the natural state of the mind when not obscured by conceptual thinking. After Huineng, Chan branched into the "Five Houses and Seven Schools" (五家七宗 wǔjiā qī zōng), the major lineages that define Chinese Chan.
         </div>
       </div>
 
@@ -287,10 +287,10 @@ pinyin: 'chán zōng'
 
     <div class="scholar" data-glyph="影">
       <div class="scholar-label">文化洞见 wénhuà dòngjiàn · Cultural Insight</div>
-      <p>Chan's transmission to Japan — as <strong>Zen 禅</strong> — is the tradition's most internationally recognized legacy. The Rinzai 臨濟 school (from Chinese Linji 临济) was brought to Japan by Eisai 栄西 in 1191 CE; Soto 曹洞 (from Chinese Caodong 曹洞) by Dōgen 道元 in 1227 CE. Japanese Zen became the aesthetic, martial, and philosophical foundation of samurai culture and subsequently of many arts — the tea ceremony (茶道 chadō), flower arrangement (華道 kadō), ink painting (水墨画 suibokuga), and the Noh theater. The global "Zen" aesthetic — simplicity, asymmetry, wabi-sabi — is the international face of the tradition.</p>
-      <p>Within China, Chan shaped poetry profoundly. The Tang poet <strong>寒山 Hánshān</strong> (Cold Mountain, 7th–9th century CE) — a reclusive figure who left hundreds of poems carved on rocks and tree bark in the Tiantai mountains — is the archetype of the Chan poet: eccentric, direct, unconcerned with conventional success, his verse full of natural imagery and sudden flashes of insight. His work was translated by Gary Snyder and became a touchstone of the American Beat Generation.</p>
-      <p>In painting, Chan influenced the tradition of 墨竹 mòzhú (ink bamboo) — painting bamboo with a single unbroken brushstroke, an exercise in 无为 and spontaneity that makes the painting process a meditation. The great Song dynasty Chan painters (牧溪 Muqi, 梁楷 Liang Kai) worked with radical economy: a Buddha painted in a few strokes, empty space as eloquent as brushwork.</p>
-      <p>The <strong>茶禅一味 chá chán yī wèi</strong> — "tea and Chan: one flavor" — principle connects the meditative attention of Chan practice with the ceremony of making and drinking tea. The Tang dynasty Chan master Zhaozhou famously told every visitor, whatever their question: 吃茶去 — "Go drink tea." The instruction invites presence over conceptual exchange.</p>
+      <p>Chan's transmission to Japan , as <strong>Zen 禅</strong> , is the tradition's most internationally recognized legacy. The Rinzai 臨濟 school (from Chinese Linji 临济) was brought to Japan by Eisai 栄西 in 1191 CE; Soto 曹洞 (from Chinese Caodong 曹洞) by Dōgen 道元 in 1227 CE. Japanese Zen became the aesthetic, martial, and philosophical foundation of samurai culture and subsequently of many arts , the tea ceremony (茶道 chadō), flower arrangement (華道 kadō), ink painting (水墨画 suibokuga), and the Noh theater. The global "Zen" aesthetic , simplicity, asymmetry, wabi-sabi , is the international face of the tradition.</p>
+      <p>Within China, Chan shaped poetry profoundly. The Tang poet <strong>寒山 Hánshān</strong> (Cold Mountain, 7th–9th century CE) , a reclusive figure who left hundreds of poems carved on rocks and tree bark in the Tiantai mountains , is the archetype of the Chan poet: eccentric, direct, unconcerned with conventional success, his verse full of natural imagery and sudden flashes of insight. His work was translated by Gary Snyder and became a touchstone of the American Beat Generation.</p>
+      <p>In painting, Chan influenced the tradition of 墨竹 mòzhú (ink bamboo) , painting bamboo with a single unbroken brushstroke, an exercise in 无为 and spontaneity that makes the painting process a meditation. The great Song dynasty Chan painters (牧溪 Muqi, 梁楷 Liang Kai) worked with radical economy: a Buddha painted in a few strokes, empty space as eloquent as brushwork.</p>
+      <p>The <strong>茶禅一味 chá chán yī wèi</strong> , "tea and Chan: one flavor" , principle connects the meditative attention of Chan practice with the ceremony of making and drinking tea. The Tang dynasty Chan master Zhaozhou famously told every visitor, whatever their question: 吃茶去 , "Go drink tea." The instruction invites presence over conceptual exchange.</p>
     </div>
 
     <!-- ── CHENGYU ── -->
@@ -308,7 +308,7 @@ pinyin: 'chán zōng'
         <span class="cy-cn">不立文字</span>
         <span class="cy-py">bù lì wénzì</span>
         <span class="cy-en">not relying on written words — the foundational Chan stance on language</span>
-        <span class="cy-note">One of the four Chan axioms: 教外别传，不立文字，直指人心，见性成佛 — "Special transmission outside the scriptures; not relying on written words; directly pointing to the human mind; seeing the nature, becoming Buddha." 不立文字 does not mean Chan rejected literacy — monks studied extensively. It means the written word is the finger, not the moon; the map, not the territory. No sutra can contain or transmit the living reality of awakened mind.</span>
+        <span class="cy-note">One of the four Chan axioms: 教外别传，不立文字，直指人心，见性成佛 , "Special transmission outside the scriptures; not relying on written words; directly pointing to the human mind; seeing the nature, becoming Buddha." 不立文字 does not mean Chan rejected literacy , monks studied extensively. It means the written word is the finger, not the moon; the map, not the territory. No sutra can contain or transmit the living reality of awakened mind.</span>
       </div>
 
       <div class="cy">

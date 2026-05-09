@@ -59,7 +59,7 @@ content_sources:
       <span class="topic-hero-eyebrow">Vocab · 词汇 cíhuì</span>
       <h1 class="topic-hero-title">气功</h1>
       <span class="topic-hero-title-py">qì gōng</span>
-      <p class="topic-hero-desc">The cultivation of vital energy through breath, movement, and stillness — China's oldest system of mind-body practice.</p>
+      <p class="topic-hero-desc">The cultivation of vital energy through breath, movement, and stillness , China's oldest system of mind-body practice.</p>
     </header>
 
     <span class="section-anchor" id="etymology"></span>

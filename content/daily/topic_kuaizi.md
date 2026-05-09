@@ -57,7 +57,7 @@ pinyin: 'kuàizi'
       <span class="topic-hero-eyebrow">Everyday Life · 日常 rìcháng</span>
       <h1 class="topic-hero-title">筷子</h1>
       <span class="topic-hero-title-py">kuàizi</span>
-      <p class="topic-hero-desc">The rules, the taboos, and what not to do — the etiquette that marks insider from outsider at the Chinese table.</p>
+      <p class="topic-hero-desc">The rules, the taboos, and what not to do , the etiquette that marks insider from outsider at the Chinese table.</p>
     </header>
 
     <span class="section-anchor" id="history"></span>
@@ -65,7 +65,7 @@ pinyin: 'kuàizi'
       <div class="scholar" data-glyph="筷">
         <div class="scholar-label">箸 zhù · the older name</div>
         <p>Chopsticks appear in the Chinese archaeological record by the Shang dynasty (roughly 1200 BCE), initially as cooking utensils for reaching into boiling pots rather than as eating tools. The transition from cooking implement to eating implement happened gradually, probably linked to the shift toward serving food in shared dishes in the center of the table rather than individual portions.</p>
-        <p>The older word for chopsticks is <strong>箸</strong> (zhù), still used in formal and literary contexts. The word <strong>筷子</strong> (kuàizi) is a folk euphemism — 箸 was considered inauspicious by sailors and boat operators because it sounds like 住 (zhù, "to stop"), bad news for a vessel that needed to keep moving. So they substituted 快 (kuài, "fast") + 子, and the colloquial word stuck.</p>
+        <p>The older word for chopsticks is <strong>箸</strong> (zhù), still used in formal and literary contexts. The word <strong>筷子</strong> (kuàizi) is a folk euphemism , 箸 was considered inauspicious by sailors and boat operators because it sounds like 住 (zhù, "to stop"), bad news for a vessel that needed to keep moving. So they substituted 快 (kuài, "fast") + 子, and the colloquial word stuck.</p>
         <p>Chinese chopsticks are typically longer and blunter than Japanese varieties, suited to reaching shared dishes in the center of the table rather than picking food from individual bowls. Material has ranged from bronze (elite) to bamboo and wood (common) to ivory and jade (imperial). Modern restaurants typically use disposable bamboo; households use lacquered wood or melamine.</p>
       </div>
 
@@ -79,15 +79,15 @@ pinyin: 'kuàizi'
         </div>
         <div class="card c-red">
           <div class="card-head">传食 chuán shí · Passing Food</div>
-          <p>Never pass food from chopstick to chopstick. This replicates the ritual of passing cremated bones between family members at a funeral. Like the incense taboo, this is specific to death rites — at the table it is deeply unsettling to Chinese hosts.</p>
+          <p>Never pass food from chopstick to chopstick. This replicates the ritual of passing cremated bones between family members at a funeral. Like the incense taboo, this is specific to death rites , at the table it is deeply unsettling to Chinese hosts.</p>
         </div>
         <div class="card c-ochre">
           <div class="card-head">敲碗 qiāo wǎn · Tapping the Bowl</div>
-          <p>Do not tap the bowl with chopsticks. This is what beggars do to attract attention and solicit food — doing it at someone's table implies you're treating them as a charity provider rather than a host.</p>
+          <p>Do not tap the bowl with chopsticks. This is what beggars do to attract attention and solicit food , doing it at someone's table implies you're treating them as a charity provider rather than a host.</p>
         </div>
         <div class="card c-ochre">
           <div class="card-head">翻鱼 fān yú · Flipping the Fish</div>
-          <p>When eating whole fish, do not flip it over when you've finished the top side. You work down through the bones from the side. Flipping the fish is bad luck — associated with a boat capsizing, particularly in coastal and fishing communities.</p>
+          <p>When eating whole fish, do not flip it over when you've finished the top side. You work down through the bones from the side. Flipping the fish is bad luck , associated with a boat capsizing, particularly in coastal and fishing communities.</p>
         </div>
         <div class="card c-teal">
           <div class="card-head">指人 zhǐ rén · Pointing</div>
@@ -115,7 +115,7 @@ pinyin: 'kuàizi'
       <div class="scholar" data-glyph="仁">
         <div class="scholar-label">孔子与刀 · Confucius and the Knife</div>
         <p>The absence of knives at the Chinese table is often attributed to Confucius, who considered it inappropriate to bring an object associated with killing into the space of civilized eating. Whether or not this specific attribution is historical, the cultural logic holds: food is prepared in the kitchen and arrives at the table already portioned, requiring no cutting implement at the eating surface.</p>
-        <p>The chopstick as a result is a remarkably peaceful utensil — its sole function is to bring food to the mouth. The contrast with the Western knife-fork-spoon set (where the knife is prominent) is stark and noted by Chinese observers who consider the Western table setup somewhat aggressive.</p>
+        <p>The chopstick as a result is a remarkably peaceful utensil , its sole function is to bring food to the mouth. The contrast with the Western knife-fork-spoon set (where the knife is prominent) is stark and noted by Chinese observers who consider the Western table setup somewhat aggressive.</p>
         <p>The phrase <strong>同甘共苦</strong> (tóng gān gòng kǔ, "share sweetness, share bitterness together," meaning deep mutual commitment) is often illustrated with the image of chopsticks: a single stick breaks easily; a bundle does not. The chopstick as metaphor for solidarity appears in folk stories and political speeches alike.</p>
       </div>
 

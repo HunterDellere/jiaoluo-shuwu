@@ -101,8 +101,8 @@ content_sources:
 
     <div class="scholar" data-glyph="跑">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
-      <p><strong>跑 = 足 (zú, foot) + 包 (bāo, to wrap; phonetic)</strong> — a straightforward pictophonetic. The semantic component <strong>足</strong> (in the component form 𧾷) appears on the left and anchors verbs of foot-motion: <a href="../../pages/characters/zou3_走.html">走 zǒu</a> (to walk), 跳 tiào (to jump), <a href="../../pages/characters/kua4_跨.html">跨 kuà</a> (to stride), 踢 tī (to kick), 路 lù (road), 距 jù (distance). The phonetic <strong>包</strong> supplies the sound — Middle Chinese *bauX, modern pǎo — and contributes nothing semantic. The whole image is simple and clean: <em>a foot doing the action that 包 sounds like</em>, which the language settled into the meaning "to run."</p>
-      <p>Historically 跑 is a relatively late character. Classical Chinese used 走 for both "to walk" (modern sense) and "to run" (classical sense), reserving the more vivid 奔 bēn for galloping or rushing. 跑 appears more prominently in colloquial writing from the Tang dynasty onward and becomes the standard everyday verb for "to run" in modern Mandarin. This is why 走 is a false friend for English-speaking learners: in classical poetry 走 often means "run" (as in 走马观花 "to view flowers from a galloping horse"), and the modern split — 走 walk, 跑 run — is a development of the last millennium.</p>
+      <p><strong>跑 = 足 (zú, foot) + 包 (bāo, to wrap; phonetic)</strong> , a straightforward pictophonetic. The semantic component <strong>足</strong> (in the component form 𧾷) appears on the left and anchors verbs of foot-motion: <a href="../../pages/characters/zou3_走.html">走 zǒu</a> (to walk), 跳 tiào (to jump), <a href="../../pages/characters/kua4_跨.html">跨 kuà</a> (to stride), 踢 tī (to kick), 路 lù (road), 距 jù (distance). The phonetic <strong>包</strong> supplies the sound , Middle Chinese *bauX, modern pǎo , and contributes nothing semantic. The whole image is simple and clean: <em>a foot doing the action that 包 sounds like</em>, which the language settled into the meaning "to run."</p>
+      <p>Historically 跑 is a relatively late character. Classical Chinese used 走 for both "to walk" (modern sense) and "to run" (classical sense), reserving the more vivid 奔 bēn for galloping or rushing. 跑 appears more prominently in colloquial writing from the Tang dynasty onward and becomes the standard everyday verb for "to run" in modern Mandarin. This is why 走 is a false friend for English-speaking learners: in classical poetry 走 often means "run" (as in 走马观花 "to view flowers from a galloping horse"), and the modern split , 走 walk, 跑 run , is a development of the last millennium.</p>
       <p>The semantic field of 跑 in modern Chinese is broader than English "to run" alone:</p>
       <p><strong>1. To run (physical motion).</strong> The body in fast motion. 跑步 pǎobù "to jog"; 奔跑 bēnpǎo "to dash, to run hard"; 赛跑 sàipǎo "to race."<br>
       <strong>2. To flee.</strong> Running away from danger, capture, or obligation. 逃跑 táopǎo "to flee"; 跑了 pǎo le "got away" (a thief, a debtor, a fish on the line).<br>
@@ -213,7 +213,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词</span></div>
         <div class="card-def">
-          跑 + 道 (dào, road; way; track). The physical track for running, the airport runway for planes, and — figuratively — a chosen course of professional or personal direction. 选择新的跑道 ("to choose a new track") is a near-fixed metaphor in career writing.
+          跑 + 道 (dào, road; way; track). The physical track for running, the airport runway for planes, and , figuratively , a chosen course of professional or personal direction. 选择新的跑道 ("to choose a new track") is a near-fixed metaphor in career writing.
         </div>
         <div class="examples">
           <div class="example">
@@ -264,13 +264,13 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-v">V phrase</span></div>
         <div class="card-def">
-          跑 + 了 (le, perfective particle). A small but very common construction marking that something or someone has escaped or slipped away. The subject is often something one wanted to keep: a thief, a debtor, a fish, a customer, an opportunity. 鱼跑了 "the fish got away"; 客户跑了 "the customer is gone." Captures a particular Chinese expressive register — concise, slightly rueful, often regretful.
+          跑 + 了 (le, perfective particle). A small but very common construction marking that something or someone has escaped or slipped away. The subject is often something one wanted to keep: a thief, a debtor, a fish, a customer, an opportunity. 鱼跑了 "the fish got away"; 客户跑了 "the customer is gone." Captures a particular Chinese expressive register , concise, slightly rueful, often regretful.
         </div>
         <div class="examples">
           <div class="example">
             <div class="ex-cn">小偷跑了，没抓住。</div>
             <div class="ex-py">Xiǎotōu pǎo le, méi zhuāzhù.</div>
-            <div class="ex-en">The thief got away — we didn't catch him.</div>
+            <div class="ex-en">The thief got away , we didn't catch him.</div>
           </div>
           <div class="example">
             <div class="ex-cn">这么好的机会被你跑了。</div>
@@ -313,9 +313,9 @@ content_sources:
     <div class="scholar" data-glyph="跑">
       <div class="scholar-label">语义洞见 yǔyì dòngjiàn · Semantic Range</div>
       <p>The figurative life of 跑 in modern Chinese stretches well beyond physical running. Three extended senses are worth knowing because they appear constantly in everyday speech and would not be obvious from English "to run" alone.</p>
-      <p><strong>To go around doing things.</strong> 跑 can mean moving from place to place purposefully — running errands, making the rounds, hustling. 跑腿 pǎotuǐ "to run legs" = to do errands; 跑业务 pǎo yèwù = to drum up business; 跑了一整天 "I was on my feet running around the whole day." This sense is closer to "to hustle" or "to run around" than to the athletic sense.</p>
-      <p><strong>To run (of vehicles and machines).</strong> Cars, trains, machines, websites, software all 跑. 这辆车跑得很快 "this car runs fast"; 服务器跑不动了 "the server can no longer run." This is the same metaphor as English "the engine is running" — but in Chinese it has been formalized into 跑车 (sports car) and 跑量 (a vehicle's mileage).</p>
-      <p><strong>To leak, escape, evaporate.</strong> The most distinctively Chinese extension: 跑 is the standard verb for things that get out and away — gas escaping a tire, heat escaping a room, flavor leaving a dish, ink running on paper. 气跑了 "the air has escaped"; 味儿都跑了 "all the flavor has gone"; 颜色跑了 "the color has run." English uses several different verbs for these (escape, leak, evaporate, run); Chinese uses 跑 for all of them.</p>
+      <p><strong>To go around doing things.</strong> 跑 can mean moving from place to place purposefully , running errands, making the rounds, hustling. 跑腿 pǎotuǐ "to run legs" = to do errands; 跑业务 pǎo yèwù = to drum up business; 跑了一整天 "I was on my feet running around the whole day." This sense is closer to "to hustle" or "to run around" than to the athletic sense.</p>
+      <p><strong>To run (of vehicles and machines).</strong> Cars, trains, machines, websites, software all 跑. 这辆车跑得很快 "this car runs fast"; 服务器跑不动了 "the server can no longer run." This is the same metaphor as English "the engine is running" , but in Chinese it has been formalized into 跑车 (sports car) and 跑量 (a vehicle's mileage).</p>
+      <p><strong>To leak, escape, evaporate.</strong> The most distinctively Chinese extension: 跑 is the standard verb for things that get out and away , gas escaping a tire, heat escaping a room, flavor leaving a dish, ink running on paper. 气跑了 "the air has escaped"; 味儿都跑了 "all the flavor has gone"; 颜色跑了 "the color has run." English uses several different verbs for these (escape, leak, evaporate, run); Chinese uses 跑 for all of them.</p>
     </div>
 
     <!-- ── 跑 vs 走 vs 跨 ── -->
@@ -330,10 +330,10 @@ content_sources:
     <div class="scholar" data-glyph="足">
       <div class="scholar-label">辨析 biànxī · Disambiguation</div>
       <p>The 足 / 走 component anchors a small family of foot-motion verbs that learners often confuse. The three most common are:</p>
-      <p><strong><a href="../../pages/characters/zou3_走.html">走 zǒu</a></strong> — to walk (modern); to leave; in classical Chinese, to run. The base verb of foot-motion. Slow speed, ordinary pace.</p>
-      <p><strong>跑 pǎo</strong> — to run. Faster pace than 走. Both feet leaving the ground in alternation. Modern Chinese uses 跑 for the running sense that classical Chinese assigned to 走.</p>
-      <p><strong><a href="../../pages/characters/kua4_跨.html">跨 kuà</a></strong> — to stride; to step over; to span. Not about speed but about <em>reach</em>: a single wide step, legs spread, a foot reaching over a boundary. 跨 implies a deliberate stretching of the stride; 跑 implies repeated rapid steps.</p>
-      <p>The everyday distinction is clean: 走 is walking pace, 跑 is running pace, 跨 is the wide single stride. In compound formation each builds its own family — 走路 走开 / 跑步 跑车 / 跨过 跨界 — and the families do not overlap much. Once you know which physical motion each names, the productive compounds organize themselves around the base.</p>
+      <p><strong><a href="../../pages/characters/zou3_走.html">走 zǒu</a></strong> , to walk (modern); to leave; in classical Chinese, to run. The base verb of foot-motion. Slow speed, ordinary pace.</p>
+      <p><strong>跑 pǎo</strong> , to run. Faster pace than 走. Both feet leaving the ground in alternation. Modern Chinese uses 跑 for the running sense that classical Chinese assigned to 走.</p>
+      <p><strong><a href="../../pages/characters/kua4_跨.html">跨 kuà</a></strong> , to stride; to step over; to span. Not about speed but about <em>reach</em>: a single wide step, legs spread, a foot reaching over a boundary. 跨 implies a deliberate stretching of the stride; 跑 implies repeated rapid steps.</p>
+      <p>The everyday distinction is clean: 走 is walking pace, 跑 is running pace, 跨 is the wide single stride. In compound formation each builds its own family , 走路 走开 / 跑步 跑车 / 跨过 跨界 , and the families do not overlap much. Once you know which physical motion each names, the productive compounds organize themselves around the base.</p>
     </div>
 
     <!-- ── CHENGYU ── -->
@@ -351,7 +351,7 @@ content_sources:
         <span class="cy-cn">东奔西跑</span>
         <span class="cy-py">dōng bēn xī pǎo</span>
         <span class="cy-en">"running east and dashing west" — to rush around in every direction</span>
-        <span class="cy-note">A four-character formula combining 奔 and 跑 across the directional pair 东 dōng / 西 xī. Used for someone constantly on the move, often in service of obligations or in pursuit of a livelihood. Common in writing about the working life of migrants, salespeople, and harried parents — anyone whose days are spent getting from place to place. Carries a flavor of exhausted busyness rather than purposeful motion.</span>
+        <span class="cy-note">A four-character formula combining 奔 and 跑 across the directional pair 东 dōng / 西 xī. Used for someone constantly on the move, often in service of obligations or in pursuit of a livelihood. Common in writing about the working life of migrants, salespeople, and harried parents , anyone whose days are spent getting from place to place. Carries a flavor of exhausted busyness rather than purposeful motion.</span>
       </div>
 
       <div class="cy">
@@ -365,7 +365,7 @@ content_sources:
         <span class="cy-cn">跑龙套</span>
         <span class="cy-py">pǎo lóngtào</span>
         <span class="cy-en">"to run the dragon costume" — to play a minor role; to be a bit-part player</span>
-        <span class="cy-note">From traditional Chinese opera. 龙套 lóngtào is the costume worn by the chorus of attendants — soldiers, servants, courtiers — who fill out a scene without lines. To 跑龙套 is to be one of these background figures: present, busy, but never central. The phrase has migrated into modern usage as the standard way to describe playing a small or insignificant role in any setting — work, projects, life. 我只是跑龙套的 "I'm just playing a bit part" is a common modest disclaimer.</span>
+        <span class="cy-note">From traditional Chinese opera. 龙套 lóngtào is the costume worn by the chorus of attendants , soldiers, servants, courtiers — who fill out a scene without lines. To 跑龙套 is to be one of these background figures: present, busy, but never central. The phrase has migrated into modern usage as the standard way to describe playing a small or insignificant role in any setting — work, projects, life. 我只是跑龙套的 "I'm just playing a bit part" is a common modest disclaimer.</span>
       </div>
 
       <div class="cy">

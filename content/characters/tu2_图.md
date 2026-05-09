@@ -74,8 +74,8 @@ content_sources:
 
     <div class="scholar" data-glyph="圖">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
-      <p>The traditional form <strong>圖</strong> places content inside an enclosing border (<strong>囗 wéi</strong>): within that border sits <strong>啚 bǐ</strong>, an old character for a granary or storehouse — a bounded place of stored resources. The whole character depicts a bounded representation of a piece of territory: a map, a plan, a schematic. The outer frame is the edge of the representational space; what's inside is the organized content.</p>
-      <p>The simplified form <strong>图</strong> keeps the enclosure but strips the interior to a simple cross shape — much more abstract, but the structural logic remains: something organized inside a defined boundary.</p>
+      <p>The traditional form <strong>圖</strong> places content inside an enclosing border (<strong>囗 wéi</strong>): within that border sits <strong>啚 bǐ</strong>, an old character for a granary or storehouse , a bounded place of stored resources. The whole character depicts a bounded representation of a piece of territory: a map, a plan, a schematic. The outer frame is the edge of the representational space; what's inside is the organized content.</p>
+      <p>The simplified form <strong>图</strong> keeps the enclosure but strips the interior to a simple cross shape , much more abstract, but the structural logic remains: something organized inside a defined boundary.</p>
       <p>From "bounded visual representation" the meaning branches: a map is a plan of territory; a plan (deliberate intent) is a mental map of desired territory. This gives 图 its double life as both a noun (diagram, map) and a verb (to plan, to seek, to covet).</p>
     </div>
 
@@ -85,8 +85,8 @@ content_sources:
     <div class="scholar" data-glyph="图">
       <div class="scholar-label">义场 yìchǎng · Meaning Field</div>
       <p><strong>Visual representation (noun).</strong> Any diagram, image, map, chart, or illustration: 地图 (map), 图片 (picture), 图表 (chart), 示意图 (schematic). In digital contexts: 图标 (icon), 图层 (layer in image editing). The sense of "bounded visual content" runs through all uses.</p>
-      <p><strong>To plan / seek / intend (verb).</strong> 图谋 (to scheme), 企图 (to attempt, to harbor ambitions), 意图 (intention, intent). When 图 is used as a verb, it typically implies deliberate, calculated pursuit — often with a slightly ominous undertone. 图谋不轨 means to harbor treasonous plans.</p>
-      <p><strong>To seek personal gain (贬义 negative register).</strong> 图利 (to seek profit/advantage), 图方便 (to seek convenience — doing something the easy way at someone else's expense). This usage often carries mild reproach.</p>
+      <p><strong>To plan / seek / intend (verb).</strong> 图谋 (to scheme), 企图 (to attempt, to harbor ambitions), 意图 (intention, intent). When 图 is used as a verb, it typically implies deliberate, calculated pursuit , often with a slightly ominous undertone. 图谋不轨 means to harbor treasonous plans.</p>
+      <p><strong>To seek personal gain (贬义 negative register).</strong> 图利 (to seek profit/advantage), 图方便 (to seek convenience , doing something the easy way at someone else's expense). This usage often carries mild reproach.</p>
     </div>
 
     <span class="section-anchor" id="compounds"></span>
@@ -99,7 +99,7 @@ content_sources:
         <div class="card-pinyin">dìtú</div>
         <div class="card-en">map</div>
         <span class="tag-n">n</span>
-        <div class="card-note">地 (earth, land) + 图 (diagram). The most literal use of 图 — a bounded visual representation of physical territory.</div>
+        <div class="card-note">地 (earth, land) + 图 (diagram). The most literal use of 图 , a bounded visual representation of physical territory.</div>
       </div>
 
       <div class="card c-teal">
@@ -107,7 +107,7 @@ content_sources:
         <div class="card-pinyin">túshūguǎn</div>
         <div class="card-en">library</div>
         <span class="tag-n">n</span>
-        <div class="card-note">图 (maps/drawings) + 书 (books) + 馆 (hall). Historically, 图书 referred to charts and texts together — the imperial archive of records and maps.</div>
+        <div class="card-note">图 (maps/drawings) + 书 (books) + 馆 (hall). Historically, 图书 referred to charts and texts together , the imperial archive of records and maps.</div>
       </div>
 
       <div class="card c-teal">
@@ -115,7 +115,7 @@ content_sources:
         <div class="card-pinyin">túpiàn</div>
         <div class="card-en">picture · image · photo</div>
         <span class="tag-n">n</span>
-        <div class="card-note">The general term for any still image — photograph, illustration, or screenshot. Ubiquitous in digital contexts.</div>
+        <div class="card-note">The general term for any still image , photograph, illustration, or screenshot. Ubiquitous in digital contexts.</div>
       </div>
 
       <div class="card c-ochre">
@@ -131,7 +131,7 @@ content_sources:
         <div class="card-pinyin">qǐtú</div>
         <div class="card-en">to attempt · to try to · intent (often negative)</div>
         <span class="tag-vn">v/n</span>
-        <div class="card-note">企 (to stand on tiptoe, to hope) + 图 (to plan). Implies ambition or attempted action — often with a suspicious or negative connotation.</div>
+        <div class="card-note">企 (to stand on tiptoe, to hope) + 图 (to plan). Implies ambition or attempted action , often with a suspicious or negative connotation.</div>
       </div>
 
       <div class="card c-red">
@@ -139,7 +139,7 @@ content_sources:
         <div class="card-pinyin">túmóu</div>
         <div class="card-en">to scheme · to plot</div>
         <span class="tag-v">v</span>
-        <div class="card-note">图 (to plan) + 谋 (to scheme, plot). Negative — implies hidden, self-serving, or treacherous planning. 图谋不轨 = to harbor illegal/treasonous schemes.</div>
+        <div class="card-note">图 (to plan) + 谋 (to scheme, plot). Negative , implies hidden, self-serving, or treacherous planning. 图谋不轨 = to harbor illegal/treasonous schemes.</div>
       </div>
 
       <div class="card c-red">
@@ -147,7 +147,7 @@ content_sources:
         <div class="card-pinyin">shìtú</div>
         <div class="card-en">to try to · to attempt</div>
         <span class="tag-v">v</span>
-        <div class="card-note">试 (to try, test) + 图 (to intend). Neutral — simply means to make an attempt. 他试图解决这个问题 — he tried to solve this problem.</div>
+        <div class="card-note">试 (to try, test) + 图 (to intend). Neutral , simply means to make an attempt. 他试图解决这个问题 , he tried to solve this problem.</div>
       </div>
 
     </div>
@@ -192,7 +192,7 @@ content_sources:
         <div class="cy-hanzi">鸿鹄之志</div>
         <div class="cy-py">hóng hú zhī zhì</div>
         <div class="cy-en">the ambition of a swan goose → grand aspirations; lofty goals</div>
-        <div class="cy-note">不 图 used here tangentially — the point is 志 (ambition), which pairs conceptually with 图 (to plan/seek). 燕雀安知鸿鹄之志哉 — how can a sparrow know the ambition of a great bird?</div>
+        <div class="cy-note">不 图 used here tangentially , the point is 志 (ambition), which pairs conceptually with 图 (to plan/seek). 燕雀安知鸿鹄之志哉 , how can a sparrow know the ambition of a great bird?</div>
       </div>
 
       <div class="cy">
@@ -208,11 +208,11 @@ content_sources:
     <div class="section-head"><span class="sh-cn">相邻词汇</span><span class="sh-py">xiānglín cíhuì</span><span class="sh-en">Adjacent Vocab</span><span class="sh-rule"></span></div>
 
     <div class="adj-wrap">
-      <span class="adj">画 huà — painting, drawing, to draw</span>
-      <span class="adj">照片 zhàopiàn — photograph</span>
-      <span class="adj">图像 túxiàng — image, graphic</span>
-      <span class="adj">计划 jìhuà — plan, to plan</span>
-      <span class="adj">谋划 móuhuà — to scheme, plan out</span>
+      <span class="adj">画 huà , painting, drawing, to draw</span>
+      <span class="adj">照片 zhàopiàn , photograph</span>
+      <span class="adj">图像 túxiàng , image, graphic</span>
+      <span class="adj">计划 jìhuà , plan, to plan</span>
+      <span class="adj">谋划 móuhuà , to scheme, plan out</span>
       <span class="adj">企图 qǐtú — to attempt, intent (negative)</span>
       <span class="adj">目的 mùdì — goal, objective</span>
     </div>

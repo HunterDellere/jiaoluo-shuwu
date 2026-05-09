@@ -165,7 +165,7 @@ content_sources:
           <div class="example">
             <div class="ex-cn">他是龙年出生的，大家都说他命好。</div>
             <div class="ex-py">Tā shì lóng nián chūshēng de, dàjiā dōu shuō tā mìng hǎo.</div>
-            <div class="ex-en">He was born in the Year of the Dragon — everyone says he has good fortune.</div>
+            <div class="ex-en">He was born in the Year of the Dragon , everyone says he has good fortune.</div>
           </div>
         </div>
         <div class="note">
@@ -300,7 +300,7 @@ content_sources:
           <div class="example">
             <div class="ex-cn">风水师说这块地正好位于龙脉之上，适合建宅。</div>
             <div class="ex-py">Fēngshuǐ shī shuō zhè kuài dì zhènghǎo wèiyú lóngmài zhī shàng, shìhé jiàn zhái.</div>
-            <div class="ex-en">The feng shui master said this plot sits right on a dragon vein — ideal for building a home.</div>
+            <div class="ex-en">The feng shui master said this plot sits right on a dragon vein , ideal for building a home.</div>
           </div>
           <div class="example">
             <div class="ex-cn">古人认为长城沿着龙脉而建。</div>
@@ -328,7 +328,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 专有名词 zhuānyǒu míngcí</span></div>
         <div class="card-def">
-          龙 lóng + 门 mén (gate; door). Two distinct referents share this name. The historical Longmen Grottoes 龙门石窟 near Luoyang (Henan province) are a UNESCO World Heritage site: over 100,000 Buddhist statues carved into cliff faces along the Yi River, primarily during the Northern Wei and Tang dynasties. Separately, the legend of the 鱼跃龙门 yú yuè lóngmén — fish leaping Dragon Gate — holds that carp brave enough to swim upstream and clear a great waterfall on the Yellow River are transformed into dragons. The gate is the threshold of transformation.
+          龙 lóng + 门 mén (gate; door). Two distinct referents share this name. The historical Longmen Grottoes 龙门石窟 near Luoyang (Henan province) are a UNESCO World Heritage site: over 100,000 Buddhist statues carved into cliff faces along the Yi River, primarily during the Northern Wei and Tang dynasties. Separately, the legend of the 鱼跃龙门 yú yuè lóngmén , fish leaping Dragon Gate , holds that carp brave enough to swim upstream and clear a great waterfall on the Yellow River are transformed into dragons. The gate is the threshold of transformation.
         </div>
         <div class="examples">
           <div class="example">
@@ -344,7 +344,7 @@ content_sources:
           <div class="example">
             <div class="ex-cn">考上名校就像鱼跃龙门，人生从此不同。</div>
             <div class="ex-py">Kǎo shàng míngxiào jiù xiàng yú yuè lóngmén, rénshēng cóngcǐ bùtóng.</div>
-            <div class="ex-en">Getting into a top university is like a fish leaping Dragon Gate — life is different from that moment on.</div>
+            <div class="ex-en">Getting into a top university is like a fish leaping Dragon Gate , life is different from that moment on.</div>
           </div>
         </div>
         <div class="note">
@@ -366,10 +366,10 @@ content_sources:
 
     <div class="pattern">
       <span class="label">构词规律 gòucí guīlǜ · Pattern: 龙 as a head-component</span>
-      <strong>龙头 lóngtóu</strong> — dragon head; the leader of an enterprise; also a water faucet (the traditional faucet spout was cast in the shape of a dragon's open mouth)<br>
-      <strong>龙舟 lóngzhōu</strong> — dragon boat (racing boats carved with a dragon head at the prow; 龙舟节 Dragon Boat Festival)<br>
-      <strong>龙飞凤舞 lóng fēi fèng wǔ</strong> — dragon flying, phoenix dancing; vigorous cursive calligraphy; also used ironically for handwriting that is flamboyant but unreadable<br>
-      <strong>龙凤 lóng fèng</strong> — dragon and phoenix together; the imperial couple; by extension, any auspicious pairing of opposites<br>
+      <strong>龙头 lóngtóu</strong> , dragon head; the leader of an enterprise; also a water faucet (the traditional faucet spout was cast in the shape of a dragon's open mouth)<br>
+      <strong>龙舟 lóngzhōu</strong> , dragon boat (racing boats carved with a dragon head at the prow; 龙舟节 Dragon Boat Festival)<br>
+      <strong>龙飞凤舞 lóng fēi fèng wǔ</strong> , dragon flying, phoenix dancing; vigorous cursive calligraphy; also used ironically for handwriting that is flamboyant but unreadable<br>
+      <strong>龙凤 lóng fèng</strong> , dragon and phoenix together; the imperial couple; by extension, any auspicious pairing of opposites<br>
       龙 tends to anchor compounds on the side of power, authority, auspiciousness, and dynamic force. When paired with 凤 (phoenix), it supplies the yang half of a yin-yang pairing. When it appears in place names, the location is claiming proximity to cosmic power.
     </div>
 
@@ -395,7 +395,7 @@ content_sources:
           <div class="example">
             <div class="ex-cn">水龙头没关紧，一直在滴水。</div>
             <div class="ex-py">Shuǐ lóngtóu méi guān jǐn, yīzhí zài dī shuǐ.</div>
-            <div class="ex-en">The faucet wasn't turned off properly — it's been dripping.</div>
+            <div class="ex-en">The faucet wasn't turned off properly , it's been dripping.</div>
           </div>
           <div class="example">
             <div class="ex-cn">龙舟比赛中，龙头的鼓手决定全队节奏。</div>
@@ -448,7 +448,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          龙 lóng + 凤 fèng (phoenix; 凤凰 fènghuáng). In classical Chinese cosmology, the dragon and phoenix are complementary opposites: 龙 is yang, male, the emperor, authority, and the power of water; 凤 is yin, female, the empress, grace, and the power of fire. Together they represent the harmonious ordering of Heaven and Earth through the royal couple. The pairing appears on imperial architecture, wedding decorations, and auspicious gifts. 龙凤呈祥 — "dragon and phoenix together signify good fortune" — is one of the oldest blessing phrases in the language.
+          龙 lóng + 凤 fèng (phoenix; 凤凰 fènghuáng). In classical Chinese cosmology, the dragon and phoenix are complementary opposites: 龙 is yang, male, the emperor, authority, and the power of water; 凤 is yin, female, the empress, grace, and the power of fire. Together they represent the harmonious ordering of Heaven and Earth through the royal couple. The pairing appears on imperial architecture, wedding decorations, and auspicious gifts. 龙凤呈祥 , "dragon and phoenix together signify good fortune" , is one of the oldest blessing phrases in the language.
         </div>
         <div class="examples">
           <div class="example">
@@ -464,7 +464,7 @@ content_sources:
           <div class="example">
             <div class="ex-cn">皇帝象征龙，皇后象征凤，合称龙凤。</div>
             <div class="ex-py">Huángdì xiàngzhēng lóng, huánghòu xiàngzhēng fèng, hé chēng lóng fèng.</div>
-            <div class="ex-en">The emperor symbolizes the dragon, the empress the phoenix — together they are the dragon-and-phoenix pair.</div>
+            <div class="ex-en">The emperor symbolizes the dragon, the empress the phoenix , together they are the dragon-and-phoenix pair.</div>
           </div>
         </div>
       </div>
@@ -486,14 +486,14 @@ content_sources:
         <span class="cy-cn">生龙活虎</span>
         <span class="cy-py">shēng lóng huó hǔ</span>
         <span class="cy-en">living dragon, active tiger — bursting with energy and vitality</span>
-        <span class="cy-note">生 shēng (alive; living) + 龙 lóng + 活 huó (active; lively) + 虎 hǔ (tiger). Used to describe a person — especially a child, an athlete, or anyone at the peak of their physical vitality — who radiates robust, irrepressible energy. 这些孩子个个生龙活虎，根本停不下来。(These kids are all bursting with energy — they simply cannot stop.) The phrase also functions as a compliment to an elder who is vigorous despite their age: 老人家生龙活虎，一点都不显老。(The old man is full of vitality — doesn't look his age at all.)</span>
+        <span class="cy-note">生 shēng (alive; living) + 龙 lóng + 活 huó (active; lively) + 虎 hǔ (tiger). Used to describe a person , especially a child, an athlete, or anyone at the peak of their physical vitality , who radiates robust, irrepressible energy. 这些孩子个个生龙活虎，根本停不下来。(These kids are all bursting with energy , they simply cannot stop.) The phrase also functions as a compliment to an elder who is vigorous despite their age: 老人家生龙活虎，一点都不显老。(The old man is full of vitality , doesn't look his age at all.)</span>
       </div>
 
       <div class="cy">
         <span class="cy-cn">龙争虎斗</span>
         <span class="cy-py">lóng zhēng hǔ dòu</span>
         <span class="cy-en">dragon and tiger fighting — two powerful forces in fierce competition</span>
-        <span class="cy-note">龙 lóng + 争 zhēng (to contend; to compete) + 虎 hǔ (tiger) + 斗 dòu (to fight; to contend). Used when two equally formidable opponents — companies, athletes, armies, political factions — clash with serious intensity. Neither side is diminished; both are worthy adversaries. 这场决赛简直是龙争虎斗，双方势均力敌。(This final match was a clash of titans — both sides perfectly matched.) Compare 卧虎藏龙, which concerns hidden talent; 龙争虎斗 concerns talent openly in conflict.</span>
+        <span class="cy-note">龙 lóng + 争 zhēng (to contend; to compete) + 虎 hǔ (tiger) + 斗 dòu (to fight; to contend). Used when two equally formidable opponents , companies, athletes, armies, political factions , clash with serious intensity. Neither side is diminished; both are worthy adversaries. 这场决赛简直是龙争虎斗，双方势均力敌。(This final match was a clash of titans — both sides perfectly matched.) Compare 卧虎藏龙, which concerns hidden talent; 龙争虎斗 concerns talent openly in conflict.</span>
       </div>
 
       <div class="cy">

@@ -54,7 +54,7 @@ content_sources:
       <span class="topic-hero-eyebrow">Vocab · 词汇 cíhuì</span>
       <h1 class="topic-hero-title">故事</h1>
       <span class="topic-hero-title-py">gù shì</span>
-      <p class="topic-hero-desc">Story, tale, narrative — the word itself means "old affairs," encoding the Chinese insight that the past is not dead but the living source of meaning.</p>
+      <p class="topic-hero-desc">Story, tale, narrative , the word itself means "old affairs," encoding the Chinese insight that the past is not dead but the living source of meaning.</p>
     </header>
 
     <span class="section-anchor" id="etymology"></span>
@@ -105,7 +105,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          故事 gùshì (story) + 书 shū (book). A storybook — the most common type of book for children learning to read. 讲故事 jiǎng gùshì = "to tell a story" (the standard phrase). 听故事 tīng gùshì = "to listen to a story." 故事情节 gùshì qíngjié = "plot, storyline."
+          故事 gùshì (story) + 书 shū (book). A storybook , the most common type of book for children learning to read. 讲故事 jiǎng gùshì = "to tell a story" (the standard phrase). 听故事 tīng gùshì = "to listen to a story." 故事情节 gùshì qíngjié = "plot, storyline."
         </div>
         <div class="examples">
           <div class="example">
@@ -124,7 +124,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          传 chuán (to transmit; to pass on) + 说 shuō (speech; to speak; theory). A legend or oral tradition — stories that have been passed down through generations without fixed written form. 传说中 chuánshuō zhōng = "according to legend." Distinct from 故事 (general narrative, any source) and 神话 shénhuà (myth — stories of gods and cosmic origins).
+          传 chuán (to transmit; to pass on) + 说 shuō (speech; to speak; theory). A legend or oral tradition , stories that have been passed down through generations without fixed written form. 传说中 chuánshuō zhōng = "according to legend." Distinct from 故事 (general narrative, any source) and 神话 shénhuà (myth , stories of gods and cosmic origins).
         </div>
         <div class="examples">
           <div class="example">
@@ -143,7 +143,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          小 xiǎo (small; minor) + 说 shuō (speech; theory). Literally "minor talk" — the genre of fiction was long considered a lower form of literature compared to history and philosophy. The term was coined to contrast with 大道 "the Great Way" of classical learning. Today 小说 is simply "novel" or "fiction" with no pejorative sense. 长篇小说 = novel (long form) · 短篇小说 = short story.
+          小 xiǎo (small; minor) + 说 shuō (speech; theory). Literally "minor talk" , the genre of fiction was long considered a lower form of literature compared to history and philosophy. The term was coined to contrast with 大道 "the Great Way" of classical learning. Today 小说 is simply "novel" or "fiction" with no pejorative sense. 长篇小说 = novel (long form) · 短篇小说 = short story.
         </div>
         <div class="examples">
           <div class="example">
@@ -162,7 +162,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          历史 lìshǐ (history) + 故事 gùshì (story). A historical narrative — story with identifiable historical figures and events. Distinguished from 神话 (myth) and 传说 (legend) by its claimed factual basis. Chinese children's education relies heavily on 历史故事: the tales of model historical figures (岳飞 Yuè Fēi, 诸葛亮 Zhūgě Liàng, 文天祥 Wén Tiānxiáng) are moral instruction through narrative.
+          历史 lìshǐ (history) + 故事 gùshì (story). A historical narrative , story with identifiable historical figures and events. Distinguished from 神话 (myth) and 传说 (legend) by its claimed factual basis. Chinese children's education relies heavily on 历史故事: the tales of model historical figures (岳飞 Yuè Fēi, 诸葛亮 Zhūgě Liàng, 文天祥 Wén Tiānxiáng) are moral instruction through narrative.
         </div>
         <div class="examples">
           <div class="example">
@@ -185,7 +185,7 @@ content_sources:
 
     <div class="scholar" data-glyph="故">
       <div class="scholar-label">成语故事 chéngyǔ gùshì · Narrative Compressed into Four Characters</div>
-      <p>Every chengyu is a 故事 in miniature. 守株待兔 shǒu zhū dài tù — "wait by a tree stump for a rabbit" (to rely on luck and do nothing productive): a farmer once saw a rabbit run into a tree stump and die; he then spent the rest of his life waiting by the stump for another rabbit to appear, neglecting his fields. Four characters carry this entire narrative and its moral.</p>
+      <p>Every chengyu is a 故事 in miniature. 守株待兔 shǒu zhū dài tù , "wait by a tree stump for a rabbit" (to rely on luck and do nothing productive): a farmer once saw a rabbit run into a tree stump and die; he then spent the rest of his life waiting by the stump for another rabbit to appear, neglecting his fields. Four characters carry this entire narrative and its moral.</p>
       <p>掩耳盗铃 yǎn ěr dào líng — "cover your ears while stealing a bell" (self-deception): a thief wanted to steal a bronze bell, but it would make noise. He covered his own ears, thinking that if he couldn't hear it, no one else could. The story of a man who applies his own limitations to all of reality. Four characters, complete satire.</p>
       <p>Learning chengyu is inseparable from learning their 故事 — the narrative source. Chinese primary school education dedicates significant time to 成语故事 chéngyǔ gùshì (chengyu stories) — reading the original anecdote so that the four-character phrase carries its full weight of meaning. The phrase without the story is an empty formula; with the story, it is a fully loaded argument.</p>
     </div>

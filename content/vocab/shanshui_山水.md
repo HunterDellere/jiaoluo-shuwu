@@ -73,7 +73,7 @@ content_sources:
       <span class="topic-hero-eyebrow">Vocabulary · 词汇 cíhuì</span>
       <h1 class="topic-hero-title">山水</h1>
       <span class="topic-hero-title-py">shān shuǐ</span>
-      <p class="topic-hero-desc">Two characters, one inseparable pairing. 山 is the mountain — still, weighty, enduring. 水 is water — moving, yielding, formless. The Chinese word for landscape is not a single view but a dyad: a still substance and a flowing one, held together. The pairing carries Confucian, Daoist, and aesthetic weight at once, and it is the reason Chinese landscape painting is called 山水画 — the painting of mountains-and-waters — rather than 风景画 (the painting of scenery).</p>
+      <p class="topic-hero-desc">Two characters, one inseparable pairing. 山 is the mountain , still, weighty, enduring. 水 is water , moving, yielding, formless. The Chinese word for landscape is not a single view but a dyad: a still substance and a flowing one, held together. The pairing carries Confucian, Daoist, and aesthetic weight at once, and it is the reason Chinese landscape painting is called 山水画 , the painting of mountains-and-waters , rather than 风景画 (the painting of scenery).</p>
     </header>
 
     <!-- ── ETYMOLOGY ── -->
@@ -87,10 +87,10 @@ content_sources:
 
     <div class="scholar" data-glyph="山">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
-      <p><strong>山 shān</strong> is one of the oldest pictographs in the script — three peaks rising from a baseline. It has carried the same meaning, with the same shape, since the oracle bones: a mountain. By extension, anything that stands tall and immobile — a tomb-mound, a free-standing hill, a range. The character also carries metaphorical weight: 山 is permanence, weight, the fixed reference point.</p>
-      <p><strong>水 shuǐ</strong> is equally old and equally pictographic — a central stream with side currents. Its component form 氵 (the "three-drop" radical) anchors hundreds of characters of liquidity and motion: 河 hé (river), 海 hǎi (sea), 流 liú (to flow), 湖 hú (lake), 泪 lèi (tear). 水 is yielding, formless, taking the shape of whatever contains it.</p>
-      <p>Joined as <strong>山水</strong>, the two compose a complete cosmological pairing of the still and the flowing, the resistant and the yielding, yang and yin. The compound is older than any single tradition's use of it — the <em>Shijing</em> (诗经) and the <em>Shujing</em> (书经) already treat mountains-and-waters as the basic units of geographic and ceremonial reference. What later traditions added was not the pairing but interpretation: the Confucians read it as moral exemplar, the Daoists as cosmic Way, the painters as an inexhaustible subject.</p>
-      <p>One consequence of the dyad is that 山水 is rarely read as just "scenery." It is closer to "the world's elemental geography" — the structure of the visible cosmos rendered in two terms.</p>
+      <p><strong>山 shān</strong> is one of the oldest pictographs in the script , three peaks rising from a baseline. It has carried the same meaning, with the same shape, since the oracle bones: a mountain. By extension, anything that stands tall and immobile , a tomb-mound, a free-standing hill, a range. The character also carries metaphorical weight: 山 is permanence, weight, the fixed reference point.</p>
+      <p><strong>水 shuǐ</strong> is equally old and equally pictographic , a central stream with side currents. Its component form 氵 (the "three-drop" radical) anchors hundreds of characters of liquidity and motion: 河 hé (river), 海 hǎi (sea), 流 liú (to flow), 湖 hú (lake), 泪 lèi (tear). 水 is yielding, formless, taking the shape of whatever contains it.</p>
+      <p>Joined as <strong>山水</strong>, the two compose a complete cosmological pairing of the still and the flowing, the resistant and the yielding, yang and yin. The compound is older than any single tradition's use of it , the <em>Shijing</em> (诗经) and the <em>Shujing</em> (书经) already treat mountains-and-waters as the basic units of geographic and ceremonial reference. What later traditions added was not the pairing but interpretation: the Confucians read it as moral exemplar, the Daoists as cosmic Way, the painters as an inexhaustible subject.</p>
+      <p>One consequence of the dyad is that 山水 is rarely read as just "scenery." It is closer to "the world's elemental geography" , the structure of the visible cosmos rendered in two terms.</p>
     </div>
 
     <!-- ── CONFUCIAN ── -->
@@ -104,9 +104,9 @@ content_sources:
 
     <div class="scholar" data-glyph="水">
       <div class="scholar-label">儒家洞见 rújiā dòngjiàn · Confucian Insight</div>
-      <p>The most important single statement about 山水 in the Chinese tradition is a one-line couplet from the <em>Analects</em> (论语·雍也): <strong>知者乐水，仁者乐山</strong> — zhì zhě lè shuǐ, rén zhě lè shān — "the wise take joy in water; the benevolent take joy in mountains." (知 here is read zhì in this context, the older form of 智.) The line continues: <strong>知者动，仁者静；知者乐，仁者寿</strong> — "the wise are active; the benevolent are still. The wise rejoice; the benevolent endure."</p>
-      <p>The couplet sets up an analogy that runs through later Chinese moral and aesthetic thought. Water is the image of <strong>智</strong> (wisdom): swift, adaptive, finding its way around obstacles, responsive to terrain. Mountains are the image of <strong>仁</strong> (benevolence): immobile, supporting all that grows on them, indifferent to weather, enduring through dynasties. Neither virtue is complete without the other. The fully cultivated person possesses both — and the landscape that contains both is the landscape that mirrors the self at its most fully developed.</p>
-      <p>This is why, in classical Chinese, "to love mountains and water" (乐山乐水) is shorthand for moral and aesthetic refinement — and why the standard subject of literati painting is not a single mountain or a single river but the two together. The couplet supplies the philosophical justification for the entire 山水画 tradition that arrives a millennium later.</p>
+      <p>The most important single statement about 山水 in the Chinese tradition is a one-line couplet from the <em>Analects</em> (论语·雍也): <strong>知者乐水，仁者乐山</strong> , zhì zhě lè shuǐ, rén zhě lè shān , "the wise take joy in water; the benevolent take joy in mountains." (知 here is read zhì in this context, the older form of 智.) The line continues: <strong>知者动，仁者静；知者乐，仁者寿</strong> , "the wise are active; the benevolent are still. The wise rejoice; the benevolent endure."</p>
+      <p>The couplet sets up an analogy that runs through later Chinese moral and aesthetic thought. Water is the image of <strong>智</strong> (wisdom): swift, adaptive, finding its way around obstacles, responsive to terrain. Mountains are the image of <strong>仁</strong> (benevolence): immobile, supporting all that grows on them, indifferent to weather, enduring through dynasties. Neither virtue is complete without the other. The fully cultivated person possesses both , and the landscape that contains both is the landscape that mirrors the self at its most fully developed.</p>
+      <p>This is why, in classical Chinese, "to love mountains and water" (乐山乐水) is shorthand for moral and aesthetic refinement , and why the standard subject of literati painting is not a single mountain or a single river but the two together. The couplet supplies the philosophical justification for the entire 山水画 tradition that arrives a millennium later.</p>
     </div>
 
     <div class="cards">
@@ -119,7 +119,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">经典 Classic Quote · 论语</span></div>
         <div class="card-def">
-          <em>Lúnyǔ</em> 6.23. The locus classicus of the 山水 dyad. 乐 is read lè (to take joy in) here — the older causative/affective reading. The couplet pairs water with 智 (wisdom — adaptive, flowing, responsive) and mountains with 仁 (benevolence — enduring, supporting, still). The implication is that the moral life has two complementary aspects, and that the natural world models both. The line is widely quoted on its own and is the standard caption for landscape paintings, calligraphic scrolls, and tea-ceremony decor.
+          <em>Lúnyǔ</em> 6.23. The locus classicus of the 山水 dyad. 乐 is read lè (to take joy in) here , the older causative/affective reading. The couplet pairs water with 智 (wisdom , adaptive, flowing, responsive) and mountains with 仁 (benevolence , enduring, supporting, still). The implication is that the moral life has two complementary aspects, and that the natural world models both. The line is widely quoted on its own and is the standard caption for landscape paintings, calligraphic scrolls, and tea-ceremony decor.
         </div>
       </div>
 
@@ -131,7 +131,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N/V 短语</span></div>
         <div class="card-def">
-          A condensed echo of the Analects line. Note the alternative reading: in this fixed phrase 乐 is sometimes read yào in the classical pronunciation (the same character as 乐 lè / yuè, with multiple historical readings — yào here marks affective preference). Used in literary and ceremonial contexts to praise someone's refined sensibility and engagement with the natural world.
+          A condensed echo of the Analects line. Note the alternative reading: in this fixed phrase 乐 is sometimes read yào in the classical pronunciation (the same character as 乐 lè / yuè, with multiple historical readings , yào here marks affective preference). Used in literary and ceremonial contexts to praise someone's refined sensibility and engagement with the natural world.
         </div>
       </div>
 
@@ -148,9 +148,9 @@ content_sources:
 
     <div class="scholar" data-glyph="山">
       <div class="scholar-label">道家洞见 dàojiā dòngjiàn · Daoist Insight</div>
-      <p>If the Confucians use 山水 as a moral mirror, the Daoists use it as a place — somewhere to actually go. The hermit's path of <strong>入山 rùshān</strong> ("entering the mountains") is one of the deepest patterns in Chinese culture: the scholar-official who, having served his time at court, retires to a cottage among the peaks; the recluse who refuses office to live among the streams; the poet-painter who treats the wilderness as the only site where the Way can be plainly seen. From the <em>Zhuangzi</em> through Tao Yuanming (陶渊明, 365–427) through the Tang mountain-poet Wang Wei (王维, 699–759), the move is the same: away from the human grid of the city, into the unstructured cosmos of mountains-and-waters, where 道 dào is not a doctrine but a landscape one walks through.</p>
-      <p>The <em>Daodejing</em> supplies the central image: <strong>上善若水 shàng shàn ruò shuǐ</strong> ("the highest good is like water"). Water benefits all things and contends with none; it settles in the low places that humans avoid; it conquers what is hard by yielding. The mountain provides the complement: it stands; it does not need to do anything; its virtue is presence. Together — water yielding, mountain standing — they sketch the two halves of <strong>无为 wúwéi</strong>, action that is not forcing.</p>
-      <p>This Daoist reading of 山水 is what made the wilderness a religious site rather than merely a scenic one. The mountains of China — Hua Shan (华山), Tai Shan (泰山), Huang Shan (黄山), and many others — are not just places to visit but a network of sacred geography. Going into the mountains is going toward the Way.</p>
+      <p>If the Confucians use 山水 as a moral mirror, the Daoists use it as a place , somewhere to actually go. The hermit's path of <strong>入山 rùshān</strong> ("entering the mountains") is one of the deepest patterns in Chinese culture: the scholar-official who, having served his time at court, retires to a cottage among the peaks; the recluse who refuses office to live among the streams; the poet-painter who treats the wilderness as the only site where the Way can be plainly seen. From the <em>Zhuangzi</em> through Tao Yuanming (陶渊明, 365–427) through the Tang mountain-poet Wang Wei (王维, 699–759), the move is the same: away from the human grid of the city, into the unstructured cosmos of mountains-and-waters, where 道 dào is not a doctrine but a landscape one walks through.</p>
+      <p>The <em>Daodejing</em> supplies the central image: <strong>上善若水 shàng shàn ruò shuǐ</strong> ("the highest good is like water"). Water benefits all things and contends with none; it settles in the low places that humans avoid; it conquers what is hard by yielding. The mountain provides the complement: it stands; it does not need to do anything; its virtue is presence. Together , water yielding, mountain standing , they sketch the two halves of <strong>无为 wúwéi</strong>, action that is not forcing.</p>
+      <p>This Daoist reading of 山水 is what made the wilderness a religious site rather than merely a scenic one. The mountains of China , Hua Shan (华山), Tai Shan (泰山), Huang Shan (黄山), and many others , are not just places to visit but a network of sacred geography. Going into the mountains is going toward the Way.</p>
     </div>
 
     <!-- ── PAINTING ── -->
@@ -164,8 +164,8 @@ content_sources:
 
     <div class="scholar" data-glyph="画">
       <div class="scholar-label">艺术洞见 yìshù dòngjiàn · Art Note</div>
-      <p>Chinese landscape painting is named not after its scenery but after its dyad: <strong>山水画 shānshuǐhuà</strong> — "mountains-and-waters painting." The genre crystallizes in the late Tang and Five Dynasties period (9th–10th centuries), reaches its first peak under the Northern Song (960–1127) with masters like Fan Kuan (范宽) and Guo Xi (郭熙), and remains the most prestigious genre of Chinese painting for the following thousand years.</p>
-      <p>The fundamental commitments of the genre are inherited directly from the philosophical readings of 山水. The painting is not a topographical record of a particular place — that would be 风景 (fēngjǐng, scenery) — but a representation of the cosmic dyad that any particular place participates in. The viewer is meant to enter the painting (可游可居 kě yóu kě jū, "one can wander in it, one can dwell in it") rather than stand outside it. Multiple perspectives, atmospheric voids, and the deliberate use of empty space (留白 liúbái) all serve the same end: rendering not what the eye sees from a fixed point but what the cultivated person inhabits when they move through the world attentively.</p>
+      <p>Chinese landscape painting is named not after its scenery but after its dyad: <strong>山水画 shānshuǐhuà</strong> , "mountains-and-waters painting." The genre crystallizes in the late Tang and Five Dynasties period (9th–10th centuries), reaches its first peak under the Northern Song (960–1127) with masters like Fan Kuan (范宽) and Guo Xi (郭熙), and remains the most prestigious genre of Chinese painting for the following thousand years.</p>
+      <p>The fundamental commitments of the genre are inherited directly from the philosophical readings of 山水. The painting is not a topographical record of a particular place , that would be 风景 (fēngjǐng, scenery) , but a representation of the cosmic dyad that any particular place participates in. The viewer is meant to enter the painting (可游可居 kě yóu kě jū, "one can wander in it, one can dwell in it") rather than stand outside it. Multiple perspectives, atmospheric voids, and the deliberate use of empty space (留白 liúbái) all serve the same end: rendering not what the eye sees from a fixed point but what the cultivated person inhabits when they move through the world attentively.</p>
       <p>The full treatment of the painting genre is in the dedicated entry: <a href="../../pages/vocab/shanshuihua_山水画.html">山水画 shānshuǐhuà</a>. The tradition's source-philosophy lives in the topic page <a href="../../pages/arts/topic_shanshui.html">山水 (the aesthetic concept)</a>.</p>
     </div>
 
@@ -188,7 +188,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词</span></div>
         <div class="card-def">
-          山水 + 风光 (fēngguāng, scenery; views). The standard tourism and travel-writing phrase. 桂林山水甲天下 (Guìlín shānshuǐ jiǎ tiānxià, "the landscape of Guilin is first under heaven") is one of the most-quoted lines in Chinese tourism — a fixed praise-formula, originally a Song-dynasty poem.
+          山水 + 风光 (fēngguāng, scenery; views). The standard tourism and travel-writing phrase. 桂林山水甲天下 (Guìlín shānshuǐ jiǎ tiānxià, "the landscape of Guilin is first under heaven") is one of the most-quoted lines in Chinese tourism , a fixed praise-formula, originally a Song-dynasty poem.
         </div>
         <div class="examples">
           <div class="example">
@@ -247,21 +247,21 @@ content_sources:
         <span class="cy-cn">山清水秀</span>
         <span class="cy-py">shān qīng shuǐ xiù</span>
         <span class="cy-en">"mountains clear, waters elegant" — beautiful natural landscape</span>
-        <span class="cy-note">山 + 清 qīng (clear, fresh) + 水 + 秀 xiù (graceful, elegant). The most common four-character formula for praising a landscape, near-fixed in tourism and real-estate copy. Note the parallel structure: each pair (山清 / 水秀) is itself a balanced unit, mirroring the larger dyad. This is the kind of idiom whose form encodes the same dyadic logic the word 山水 encodes — landscape as the meeting of two complementary qualities.</span>
+        <span class="cy-note">山 + 清 qīng (clear, fresh) + 水 + 秀 xiù (graceful, elegant). The most common four-character formula for praising a landscape, near-fixed in tourism and real-estate copy. Note the parallel structure: each pair (山清 / 水秀) is itself a balanced unit, mirroring the larger dyad. This is the kind of idiom whose form encodes the same dyadic logic the word 山水 encodes , landscape as the meeting of two complementary qualities.</span>
       </div>
 
       <div class="cy">
         <span class="cy-cn">山穷水尽</span>
         <span class="cy-py">shān qióng shuǐ jìn</span>
         <span class="cy-en">"the mountains are exhausted, the waters are at their end" — at the end of one's resources</span>
-        <span class="cy-note">From Lu You (陆游, Song dynasty), 游山西村: 山穷水尽疑无路，柳暗花明又一村 ("when the mountains are spent and the waters are done and there seems to be no road — there, beyond the dim willows and bright flowers, is another village"). The full couplet has become a canonical Chinese expression of unexpected hope at the moment of greatest exhaustion. 山穷水尽 alone is the dark half of the figure; the optimism comes from quoting the second line.</span>
+        <span class="cy-note">From Lu You (陆游, Song dynasty), 游山西村: 山穷水尽疑无路，柳暗花明又一村 ("when the mountains are spent and the waters are done and there seems to be no road , there, beyond the dim willows and bright flowers, is another village"). The full couplet has become a canonical Chinese expression of unexpected hope at the moment of greatest exhaustion. 山穷水尽 alone is the dark half of the figure; the optimism comes from quoting the second line.</span>
       </div>
 
       <div class="cy">
         <span class="cy-cn">山高水长</span>
         <span class="cy-py">shān gāo shuǐ cháng</span>
         <span class="cy-en">"mountains high, water long" — virtue or reputation that endures across time</span>
-        <span class="cy-note">From a Northern Song memorial by Fan Zhongyan (范仲淹) describing the legacy of a virtuous official: 云山苍苍，江水泱泱；先生之风，山高水长 ("the cloudy mountains stretch dark; the rivers run wide; the master's spirit — high as the mountains, long as the rivers"). The phrase praises a moral legacy in geographic terms — virtue with the durability of land and water.</span>
+        <span class="cy-note">From a Northern Song memorial by Fan Zhongyan (范仲淹) describing the legacy of a virtuous official: 云山苍苍，江水泱泱；先生之风，山高水长 ("the cloudy mountains stretch dark; the rivers run wide; the master's spirit , high as the mountains, long as the rivers"). The phrase praises a moral legacy in geographic terms , virtue with the durability of land and water.</span>
       </div>
 
       <div class="cy">
@@ -300,8 +300,8 @@ content_sources:
     <!-- RETENTION SCHOLAR BOX -->
     <div class="scholar" data-glyph="水">
       <div class="scholar-label">记忆法 jìyìfǎ · Retention Image</div>
-      <p>The two characters look like what they name. 山 is three peaks. 水 is a stream with eddies on either side. The Chinese landscape is the meeting of these two shapes — one rising, one running — and a thousand years of painting and poetry are the long unfolding of the implications of holding them together in a single word.</p>
-      <p>If the Western tradition's defining landscape is a view — something seen from a vantage — the Chinese 山水 is a pairing — something inhabited from inside. To remember the word is to remember that landscape, in this language, is never one thing. It is always two things in relation: the still and the flowing, the standing and the yielding, the benevolence that supports and the wisdom that adapts. The painting genre, the poetic genre, the Confucian couplet, the Daoist hermitage — all unfold from the dyad encoded in two characters.</p>
+      <p>The two characters look like what they name. 山 is three peaks. 水 is a stream with eddies on either side. The Chinese landscape is the meeting of these two shapes , one rising, one running , and a thousand years of painting and poetry are the long unfolding of the implications of holding them together in a single word.</p>
+      <p>If the Western tradition's defining landscape is a view , something seen from a vantage — the Chinese 山水 is a pairing — something inhabited from inside. To remember the word is to remember that landscape, in this language, is never one thing. It is always two things in relation: the still and the flowing, the standing and the yielding, the benevolence that supports and the wisdom that adapts. The painting genre, the poetic genre, the Confucian couplet, the Daoist hermitage — all unfold from the dyad encoded in two characters.</p>
     </div>
 
     <footer class="page-footer">

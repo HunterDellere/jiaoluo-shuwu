@@ -52,7 +52,7 @@ content_sources:
       </a></li>
       <li><a href="#music">
         <span class="toc-cn">音乐</span> Music
-        <span class="toc-sub">jué — the third tone</span>
+        <span class="toc-sub">jué , the third tone</span>
       </a></li>
       <li><a href="#chengyu">
         <span class="toc-cn">成语</span> Idioms
@@ -108,7 +108,7 @@ content_sources:
 
     <div class="scholar" data-glyph="角">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
-      <p><strong>角</strong> is a pictograph of an animal horn: the oracle-bone form shows a curved pointed protrusion with a ridged shaft. The semantic journey from <em>horn</em> to <em>corner</em> is immediate and universal — both are the sharp, protruding extremity where two planes meet. As Chinese architecture developed the idea of a tucked-away corner 角落, the horn-edge became a spatial concept: a place where walls converge, where the world's edges fold.</p>
+      <p><strong>角</strong> is a pictograph of an animal horn: the oracle-bone form shows a curved pointed protrusion with a ridged shaft. The semantic journey from <em>horn</em> to <em>corner</em> is immediate and universal , both are the sharp, protruding extremity where two planes meet. As Chinese architecture developed the idea of a tucked-away corner 角落, the horn-edge became a spatial concept: a place where walls converge, where the world's edges fold.</p>
       <p>角 is its own radical (Kangxi #148) and spawns a small but sharp semantic family: 触 chù (to touch, a horn making contact), 解 jiě (to untie, a hand pulling apart horn from bone), 斛 hú (a grain measure shaped like a horn-bowl). The etymology of 解 is particularly vivid: a hand prying an ox horn from the skull, the original image of <em>separating, unbinding, understanding.</em></p>
       <p>This is also the first character in this site's own name: <strong>角落書屋</strong>, the corner book-room. A nook where learning gathers.</p>
     </div>

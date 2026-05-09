@@ -68,7 +68,7 @@ updated: '2026-04-25'
       <span class="topic-hero-eyebrow">Vocabulary · 词汇 cíhuì</span>
       <h1 class="topic-hero-title">乾坤</h1>
       <span class="topic-hero-title-py">qiánkūn</span>
-      <p class="topic-hero-desc">The classical name for heaven and earth — the first two hexagrams of the Yijing, pure yang and pure yin, the poles from which all change unfolds.</p>
+      <p class="topic-hero-desc">The classical name for heaven and earth , the first two hexagrams of the Yijing, pure yang and pure yin, the poles from which all change unfolds.</p>
     </header>
 
     <!-- ── ETYMOLOGY ── -->
@@ -82,8 +82,8 @@ updated: '2026-04-25'
 
     <div class="scholar" data-glyph="乾">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
-      <p><strong>乾 qián</strong> is an ancient character depicting the sun rising over vaporous morning grass: creative force, warmth, energy ascending. It came to represent the active, generating principle — heaven, the sun, the father, the ruler. In the Yijing (易经, the Book of Changes), 乾 is hexagram 1: six unbroken solid lines stacked, ䷀, the maximum concentration of yang energy, pure creative potential without admixture.</p>
-      <p><strong>坤 kūn</strong> depicts the earth: receptive, sustaining, bringing to completion what the heavens initiate. It came to represent the yielding, nurturing principle — earth, the moon, the mother, the minister. In the Yijing, 坤 is hexagram 2: six broken yin lines stacked, ䷁, the maximum concentration of yin receptivity, pure responsive capacity without admixture.</p>
+      <p><strong>乾 qián</strong> is an ancient character depicting the sun rising over vaporous morning grass: creative force, warmth, energy ascending. It came to represent the active, generating principle , heaven, the sun, the father, the ruler. In the Yijing (易经, the Book of Changes), 乾 is hexagram 1: six unbroken solid lines stacked, ䷀, the maximum concentration of yang energy, pure creative potential without admixture.</p>
+      <p><strong>坤 kūn</strong> depicts the earth: receptive, sustaining, bringing to completion what the heavens initiate. It came to represent the yielding, nurturing principle , earth, the moon, the mother, the minister. In the Yijing, 坤 is hexagram 2: six broken yin lines stacked, ䷁, the maximum concentration of yin receptivity, pure responsive capacity without admixture.</p>
       <p>Together as <strong>乾坤 qiánkūn</strong>, they name the cosmological dyad in its most theoretically weighted form. The everyday term for heaven and earth is 天地 tiāndì; 乾坤 belongs to the Yijing register, carrying the full conceptual apparatus of yin-yang change theory. To say 乾坤 is to invoke not just the sky and the ground but the fundamental polarity from which all phenomena emerge and through which all change proceeds.</p>
     </div>
 
@@ -113,7 +113,7 @@ updated: '2026-04-25'
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          Six solid yang lines: ䷀. The first hexagram represents pure creative force, origination, strength, the father principle, heaven, the ruler. In the Yijing cosmology, 乾 is the generator of all things — it supplies the initiating impulse that 坤 receives and brings to completion. Key attributes: 健 jiàn (strong; vigorous), 刚 gāng (firm; unyielding), 大 dà (great; expansive).
+          Six solid yang lines: ䷀. The first hexagram represents pure creative force, origination, strength, the father principle, heaven, the ruler. In the Yijing cosmology, 乾 is the generator of all things , it supplies the initiating impulse that 坤 receives and brings to completion. Key attributes: 健 jiàn (strong; vigorous), 刚 gāng (firm; unyielding), 大 dà (great; expansive).
         </div>
         <div class="examples">
           <div class="example">
@@ -124,7 +124,7 @@ updated: '2026-04-25'
           <div class="example">
             <div class="ex-cn">大哉乾元，万物资始，乃统天。</div>
             <div class="ex-py">Dà zāi qián yuán, wànwù zī shǐ, nǎi tǒng tiān.</div>
-            <div class="ex-en">How great is the primordial force of Qian — the ten thousand things receive their beginning from it; it governs all under heaven. (Yijing, hexagram 1 Judgment)</div>
+            <div class="ex-en">How great is the primordial force of Qian , the ten thousand things receive their beginning from it; it governs all under heaven. (Yijing, hexagram 1 Judgment)</div>
           </div>
         </div>
       </div>
@@ -137,13 +137,13 @@ updated: '2026-04-25'
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          Six broken yin lines: ䷁. The second hexagram represents pure receptive capacity, responsiveness, sustaining, nurturing, the mother principle, earth, the minister. 坤 does not passively endure; it actively receives, nurtures, and brings to fruition what 乾 initiates. Key attributes: 柔 róu (soft; yielding), 顺 shùn (compliant; in harmony with), 厚 hòu (deep; generous; broad). 坤 厚载物 kūn hòu zài wù — "Kun, in its great depth, carries all things."
+          Six broken yin lines: ䷁. The second hexagram represents pure receptive capacity, responsiveness, sustaining, nurturing, the mother principle, earth, the minister. 坤 does not passively endure; it actively receives, nurtures, and brings to fruition what 乾 initiates. Key attributes: 柔 róu (soft; yielding), 顺 shùn (compliant; in harmony with), 厚 hòu (deep; generous; broad). 坤 厚载物 kūn hòu zài wù , "Kun, in its great depth, carries all things."
         </div>
         <div class="examples">
           <div class="example">
             <div class="ex-cn">至哉坤元，万物资生，乃顺承天。</div>
             <div class="ex-py">Zhì zāi kūn yuán, wànwù zī shēng, nǎi shùn chéng tiān.</div>
-            <div class="ex-en">How complete is the primordial substance of Kun — the ten thousand things receive their life from it; it follows and carries forward what heaven initiates. (Yijing, hexagram 2 Judgment)</div>
+            <div class="ex-en">How complete is the primordial substance of Kun , the ten thousand things receive their life from it; it follows and carries forward what heaven initiates. (Yijing, hexagram 2 Judgment)</div>
           </div>
           <div class="example">
             <div class="ex-cn">坤道柔顺，厚德载物。</div>
@@ -191,7 +191,7 @@ updated: '2026-04-25'
           <div class="example">
             <div class="ex-cn">他凭一人之力扭转乾坤，让整个局势为之改变。</div>
             <div class="ex-py">Tā píng yī rén zhī lì niǔ zhuǎn qiánkūn, ràng zhěnggè júshì wèi zhī gǎibiàn.</div>
-            <div class="ex-en">Through the force of one person, the entire situation was reversed — the whole state of affairs changed.</div>
+            <div class="ex-en">Through the force of one person, the entire situation was reversed , the whole state of affairs changed.</div>
           </div>
           <div class="example">
             <div class="ex-cn">最后一刻的进球扭转乾坤，球队赢得了比赛。</div>
@@ -214,13 +214,13 @@ updated: '2026-04-25'
         </div>
         <div class="tags"><span class="tag tag-v">V phrase 动词短语</span></div>
         <div class="card-def">
-          颠倒 diāndǎo (to invert; to turn upside down; to have things reversed from their proper state). When the natural or moral order is inverted — the corrupt elevated, the worthy suppressed, right made to appear as wrong. Carries strong negative charge: something fundamental has been wrongly reversed. Used in both literal descriptions of chaos and figurative descriptions of moral or social disorder.
+          颠倒 diāndǎo (to invert; to turn upside down; to have things reversed from their proper state). When the natural or moral order is inverted , the corrupt elevated, the worthy suppressed, right made to appear as wrong. Carries strong negative charge: something fundamental has been wrongly reversed. Used in both literal descriptions of chaos and figurative descriptions of moral or social disorder.
         </div>
         <div class="examples">
           <div class="example">
             <div class="ex-cn">是非颠倒，乾坤大乱，让人痛心。</div>
             <div class="ex-py">Shìfēi diāndǎo, qiánkūn dà luàn, ràng rén tòngxīn.</div>
-            <div class="ex-en">Right and wrong inverted, heaven and earth in great disorder — it is deeply painful to see.</div>
+            <div class="ex-en">Right and wrong inverted, heaven and earth in great disorder , it is deeply painful to see.</div>
           </div>
           <div class="example">
             <div class="ex-cn">那个时代，颠倒乾坤的事情太多，让人无所适从。</div>
@@ -238,18 +238,18 @@ updated: '2026-04-25'
         </div>
         <div class="tags"><span class="tag tag-n">Fixed phrase 固定短语</span></div>
         <div class="card-def">
-          胸 xiōng (chest; breast; the seat of mind and intention in classical Chinese thought) + 有 (to have; to hold) + 乾坤. A grand classical expression of praise for someone who holds the entire world in mind: a strategist, a statesman, a general, a writer who sees at the largest possible scale. To have 乾坤 in one's breast is to carry the full map of heaven and earth within — to think cosmically, plan comprehensively, see both the near and the far.
+          胸 xiōng (chest; breast; the seat of mind and intention in classical Chinese thought) + 有 (to have; to hold) + 乾坤. A grand classical expression of praise for someone who holds the entire world in mind: a strategist, a statesman, a general, a writer who sees at the largest possible scale. To have 乾坤 in one's breast is to carry the full map of heaven and earth within , to think cosmically, plan comprehensively, see both the near and the far.
         </div>
         <div class="examples">
           <div class="example">
             <div class="ex-cn">此人胸有乾坤，处变不惊，是难得的帅才。</div>
             <div class="ex-py">Cǐ rén xiōng yǒu qiánkūn, chǔ biàn bù jīng, shì nándé de shuàicái.</div>
-            <div class="ex-en">This person has heaven and earth in the breast — unfazed by sudden change; a rare talent for command.</div>
+            <div class="ex-en">This person has heaven and earth in the breast , unfazed by sudden change; a rare talent for command.</div>
           </div>
           <div class="example">
             <div class="ex-cn">他虽年轻，却胸有乾坤，凡事看得长远。</div>
             <div class="ex-py">Tā suī niánqīng, què xiōng yǒu qiánkūn, fán shì kàn de chángyuǎn.</div>
-            <div class="ex-en">Though young, he has heaven and earth in the breast — he sees everything with long-range perspective.</div>
+            <div class="ex-en">Though young, he has heaven and earth in the breast , he sees everything with long-range perspective.</div>
           </div>
         </div>
       </div>
@@ -269,7 +269,7 @@ updated: '2026-04-25'
       <div class="scholar-label">辨析 biànxī · Usage Comparison</div>
       <p><strong>天地 tiāndì</strong> is the ordinary cosmological compound: sky and ground, the spatial dyad, the world as container. It appears in proverbs (天地良心 tiāndì liángxīn, "heaven and earth as my conscience"), in set expressions (顶天立地 dǐng tiān lì dì, "head touching heaven, feet standing on earth"), and in everyday metaphorical speech without invoking any particular philosophical framework. It is the neutral, available word for "the whole world" or "heaven and earth" in Chinese.</p>
       <p><strong>乾坤 qiánkūn</strong> is marked: it belongs to the Yijing theoretical register, to classical literary language, and to formal political rhetoric. Using 乾坤 signals that the speaker or writer is reaching for the cosmological framework of change theory, not merely pointing at the sky and the ground. The word carries the weight of the hexagrams, of yin-yang polarity, of the entire philosophical system built on the 64 situations of change.</p>
-      <p>In practice: 天地 is the word you reach for when describing vastness, the whole world, or cosmic scale in ordinary language. 乾坤 is the word you reach for when you want to invoke the dynamic structure of that cosmos — the creative-receptive polarity, the sense that the entire situation (moral, political, or strategic) has a fundamental structure that can be righted or overturned.</p>
+      <p>In practice: 天地 is the word you reach for when describing vastness, the whole world, or cosmic scale in ordinary language. 乾坤 is the word you reach for when you want to invoke the dynamic structure of that cosmos , the creative-receptive polarity, the sense that the entire situation (moral, political, or strategic) has a fundamental structure that can be righted or overturned.</p>
     </div>
 
     <!-- ── COMPOUNDS & SET PHRASES ── -->
@@ -310,13 +310,13 @@ updated: '2026-04-25'
         </div>
         <div class="tags"><span class="tag tag-n">N phrase 名词短语</span></div>
         <div class="card-def">
-          挪移 nuó yí: to move; to shift; to relocate. 乾坤大挪移 names a fictional martial-arts technique in Jin Yong's (金庸) novel "The Smiling Proud Wanderer" (笑傲江湖) and appears in other wuxia fiction as the name for a supreme technique that redirects any force at will. In everyday modern usage, often invoked humorously for any apparently impossible total restructuring — a company pivot, a policy reversal, a cooking improvisation that uses everything in the kitchen.
+          挪移 nuó yí: to move; to shift; to relocate. 乾坤大挪移 names a fictional martial-arts technique in Jin Yong's (金庸) novel "The Smiling Proud Wanderer" (笑傲江湖) and appears in other wuxia fiction as the name for a supreme technique that redirects any force at will. In everyday modern usage, often invoked humorously for any apparently impossible total restructuring , a company pivot, a policy reversal, a cooking improvisation that uses everything in the kitchen.
         </div>
         <div class="examples">
           <div class="example">
             <div class="ex-cn">这次公司重组简直是乾坤大挪移，部门全部重新分配。</div>
             <div class="ex-py">Zhè cì gōngsī chóngzǔ jiǎnzhí shì qiánkūn dà nuó yí, bùmén quánbù chóngxīn fēnpèi.</div>
-            <div class="ex-en">This corporate restructuring was a total cosmic shift — every department completely reassigned.</div>
+            <div class="ex-en">This corporate restructuring was a total cosmic shift , every department completely reassigned.</div>
           </div>
         </div>
       </div>
@@ -373,8 +373,8 @@ updated: '2026-04-25'
     <!-- RETENTION SCHOLAR BOX -->
     <div class="scholar" data-glyph="乾" style="margin-top:2.5rem;">
       <div class="scholar-label">记忆法 jìyìfǎ · Master Retention Image</div>
-      <p>Six solid lines stacked: ䷀. Six broken lines stacked: ䷁. From these two extremes — pure yang and pure yin, Qian and Kun, heaven and earth — all sixty-two other hexagrams are built, and through them the Yijing maps every situation of change a person or state can face. 乾坤 is not merely the sky above and the ground below. It is the two poles of a dynamic system, and everything that happens in the world happens in the space between them.</p>
-      <p>The commentary's language is worth carrying: 大哉乾元 — "how great is the primordial force of Qian." 至哉坤元 — "how complete is the primordial substance of Kun." Greatness and completeness: creative force and receptive depth. Qian initiates; Kun brings to fullness. Neither is superior; each requires the other.</p>
+      <p>Six solid lines stacked: ䷀. Six broken lines stacked: ䷁. From these two extremes , pure yang and pure yin, Qian and Kun, heaven and earth , all sixty-two other hexagrams are built, and through them the Yijing maps every situation of change a person or state can face. 乾坤 is not merely the sky above and the ground below. It is the two poles of a dynamic system, and everything that happens in the world happens in the space between them.</p>
+      <p>The commentary's language is worth carrying: 大哉乾元 , "how great is the primordial force of Qian." 至哉坤元 — "how complete is the primordial substance of Kun." Greatness and completeness: creative force and receptive depth. Qian initiates; Kun brings to fullness. Neither is superior; each requires the other.</p>
       <p>When a modern writer says 扭转乾坤, they are reaching back to this cosmological framework to name the most dramatic possible reversal — not just a change of outcome, but an inversion of the entire cosmic balance of a situation. The word carries its Yijing weight into every contemporary use.</p>
     </div>
 

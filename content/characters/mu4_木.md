@@ -123,13 +123,13 @@ content_sources:
     </div>
 
     <div class="pattern">
-      <span class="label">the 一-stroke family — pointing at parts of the tree</span>
+      <span class="label">the 一-stroke family , pointing at parts of the tree</span>
       <p>Add a single stroke to 木 and you get another character that picks out a specific part of the tree. These are some of the oldest indicative compounds in the script.</p>
       <ul>
-        <li><strong>本</strong> (běn) — a stroke at the <em>bottom</em>, marking the root. Extended meaning: origin, foundation, the fundamental. 本来 (originally), 根本 (fundamentally), 书本 (book — "root-thing").</li>
-        <li><strong>末</strong> (mò) — a stroke at the <em>top</em>, marking the tip of the branches. Extended meaning: end, tail, tip, the trivial. 末端 (the tip), 周末 (weekend, "week's end"), 本末倒置 (běn mò dào zhì, "to put root and tip backwards" — confused priorities).</li>
-        <li><strong>未</strong> (wèi) — a shorter stroke at the top, looking similar to 末 but with the added stroke shorter than the branch below it. Means "not yet." A separate character now, but shares the tree-pictograph origin.</li>
-        <li><strong>朱</strong> (zhū) — a stroke through the trunk, originally marking a particular red-wooded tree. Now mostly a surname and the sound component in many characters.</li>
+        <li><strong>本</strong> (běn) , a stroke at the <em>bottom</em>, marking the root. Extended meaning: origin, foundation, the fundamental. 本来 (originally), 根本 (fundamentally), 书本 (book , "root-thing").</li>
+        <li><strong>末</strong> (mò) , a stroke at the <em>top</em>, marking the tip of the branches. Extended meaning: end, tail, tip, the trivial. 末端 (the tip), 周末 (weekend, "week's end"), 本末倒置 (běn mò dào zhì, "to put root and tip backwards" , confused priorities).</li>
+        <li><strong>未</strong> (wèi) , a shorter stroke at the top, looking similar to 末 but with the added stroke shorter than the branch below it. Means "not yet." A separate character now, but shares the tree-pictograph origin.</li>
+        <li><strong>朱</strong> (zhū) , a stroke through the trunk, originally marking a particular red-wooded tree. Now mostly a surname and the sound component in many characters.</li>
       </ul>
     </div>
 
@@ -152,7 +152,7 @@ content_sources:
       </div>
       <div class="card c-ochre">
         <div class="card-head">Tree parts</div>
-        <p>枝 zhī (branch), 根 gēn (root), 叶 yè (leaf — simplified from 葉, which has 艹 grass-radical rather than 木, but the family is clear), 果 guǒ (fruit — showing a tree with a fruit at the top), 花 (flower, now under 艹).</p>
+        <p>枝 zhī (branch), 根 gēn (root), 叶 yè (leaf , simplified from 葉, which has 艹 grass-radical rather than 木, but the family is clear), 果 guǒ (fruit , showing a tree with a fruit at the top), 花 (flower, now under 艹).</p>
       </div>
       <div class="card c-ochre">
         <div class="card-head">Actions with wood</div>
@@ -172,9 +172,9 @@ content_sources:
       <div class="scholar-label">一木二木三木 · one tree, two trees, three trees</div>
       <p>Chinese compounds "tree" visually to get "forest":</p>
       <ul>
-        <li><strong>木</strong> (mù) — one tree.</li>
-        <li><strong>林</strong> (lín) — two trees side by side: a wood, a grove, or a concentration of things (武林 wǔlín, the "martial grove" — world of martial artists).</li>
-        <li><strong>森</strong> (sēn) — three trees stacked: a forest, and by extension "dense, dark, severe" (森严 sēnyán, stern; 森林 sēnlín, a proper forest).</li>
+        <li><strong>木</strong> (mù) , one tree.</li>
+        <li><strong>林</strong> (lín) , two trees side by side: a wood, a grove, or a concentration of things (武林 wǔlín, the "martial grove" , world of martial artists).</li>
+        <li><strong>森</strong> (sēn) , three trees stacked: a forest, and by extension "dense, dark, severe" (森严 sēnyán, stern; 森林 sēnlín, a proper forest).</li>
       </ul>
       <p>The progression from one to many by repetition is a pattern used elsewhere in the script: 人 (rén, person) → 从 (cóng, follow) → 众 (zhòng, crowd); 火 (huǒ, fire) → 炎 (yán, flame) → 焱 (yàn, blaze). The character system is transparent enough to make these stackings feel natural rather than arbitrary.</p>
     </div>
@@ -204,7 +204,7 @@ content_sources:
       <div class="cy">
         <div class="cy-cn">本末倒置</div>
         <div class="cy-py">běn mò dào zhì</div>
-        <div class="cy-en">"root and tip reversed" — confused priorities</div>
+        <div class="cy-en">"root and tip reversed" , confused priorities</div>
         <div class="cy-note">The root (本) is fundamental; the tip (末) is trivial. To reverse them is to treat the important as incidental and the incidental as important — a common cultural criticism of bureaucracy.</div>
       </div>
       <div class="cy">

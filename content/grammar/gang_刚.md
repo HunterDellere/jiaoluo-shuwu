@@ -60,7 +60,7 @@ pinyin: 'gāng'
       <span class="topic-hero-eyebrow">Grammar · 语法 yǔfǎ</span>
       <h1 class="topic-hero-title">刚</h1>
       <span class="topic-hero-title-py">gāng</span>
-      <p class="topic-hero-desc">Just now — placed before the verb to signal that something happened very recently, often with the implication that the situation is still relevant now.</p>
+      <p class="topic-hero-desc">Just now , placed before the verb to signal that something happened very recently, often with the implication that the situation is still relevant now.</p>
     </header>
 
     <span class="section-anchor" id="overview"></span>
@@ -110,12 +110,12 @@ pinyin: 'gāng'
           <div class="example">
             <div class="ex-cn">你来得正是时候，我们刚开始吃饭。</div>
             <div class="ex-py">Nǐ lái de zhèng shì shíhou, wǒmen gāng kāishǐ chīfàn.</div>
-            <div class="ex-en">You came at just the right time — we just started eating.</div>
+            <div class="ex-en">You came at just the right time , we just started eating.</div>
           </div>
           <div class="example">
             <div class="ex-cn">抱歉，他刚离开，你可以给他打电话。</div>
             <div class="ex-py">Bàoqiàn, tā gāng líkāi, nǐ kěyǐ gěi tā dǎ diànhuà.</div>
-            <div class="ex-en">Sorry, he just left — you can give him a call.</div>
+            <div class="ex-en">Sorry, he just left , you can give him a call.</div>
           </div>
         </div>
       </div>
@@ -132,8 +132,8 @@ pinyin: 'gāng'
 
     <div class="pattern">
       <span class="label">刚 vs 刚才 · Adverb vs Time Noun</span>
-      <strong>刚</strong> = adverb — placed directly before a verb: 他刚来 "he just came"<br>
-      <strong>刚才</strong> = time noun — refers to "a moment ago" as a time point, can appear at the start of the clause OR before the verb: 刚才他来了 / 他刚才来了 "just now, he came; he came a moment ago"<br>
+      <strong>刚</strong> = adverb , placed directly before a verb: 他刚来 "he just came"<br>
+      <strong>刚才</strong> = time noun , refers to "a moment ago" as a time point, can appear at the start of the clause OR before the verb: 刚才他来了 / 他刚才来了 "just now, he came; he came a moment ago"<br>
       Key difference: 刚才 sentences often take 了 (because it refers to a completed past event); 刚 sentences do NOT take 了.
     </div>
 
@@ -175,9 +175,9 @@ pinyin: 'gāng'
 
     <div class="pattern">
       <span class="label">刚刚 · More Emphatic Recency</span>
-      刚刚 = more emphatic than single 刚 — "just this instant, literally just now":<br>
+      刚刚 = more emphatic than single 刚 , "just this instant, literally just now":<br>
       他刚刚走。He literally just left. (stronger than 他刚走)<br>
-      刚刚好 gānggāng hǎo = "just right; exactly perfect" — a common idiomatic expression<br>
+      刚刚好 gānggāng hǎo = "just right; exactly perfect" , a common idiomatic expression<br>
       刚刚 follows the same rule: no 了 after the verb.
     </div>
 
@@ -191,9 +191,9 @@ pinyin: 'gāng'
 
     <div class="pattern">
       <span class="label">时态副词对比 shítài fùcí duìbǐ · The Recency-Completion Cluster</span>
-      <strong>刚</strong> gāng — just happened (value-neutral recency): 我刚吃 "I just ate"<br>
-      <strong>才</strong> cái — only just/barely; often implies later than expected or surprisingly small amount: 他才来 "he only just now came / he finally came" (implies long-awaited or surprisingly late)<br>
-      <strong>已经</strong> yǐjīng — already (completion relative to a reference point, often sooner than expected): 他已经来了 "he has already come" (earlier than expected, or establishing prior completion)<br>
+      <strong>刚</strong> gāng , just happened (value-neutral recency): 我刚吃 "I just ate"<br>
+      <strong>才</strong> cái , only just/barely; often implies later than expected or surprisingly small amount: 他才来 "he only just now came / he finally came" (implies long-awaited or surprisingly late)<br>
+      <strong>已经</strong> yǐjīng , already (completion relative to a reference point, often sooner than expected): 他已经来了 "he has already come" (earlier than expected, or establishing prior completion)<br>
       <strong>刚才</strong> gāngcái — a moment ago (past time reference): refers to a recent but completed moment
     </div>
 

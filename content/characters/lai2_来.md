@@ -118,12 +118,12 @@ content_review: 'pending'
 
     <div class="pattern">
       <span class="label">来的基本用法 · 来 as directional verb</span>
-      <strong>来了！</strong> — (Someone / something) has arrived! (most basic announcement of arrival)<br>
-      <strong>来吧</strong> — Come on; go ahead (invitation to approach or to proceed)<br>
-      <strong>你来</strong> — You come (imperative; invitation)<br>
-      <strong>过来</strong> guòlái — to come over here (cross and arrive here)<br>
-      <strong>进来</strong> jìnlái — to come in (enter toward where the speaker is)<br>
-      <strong>回来</strong> huílái — to come back; to return (back toward the speaker's base)
+      <strong>来了！</strong> , (Someone / something) has arrived! (most basic announcement of arrival)<br>
+      <strong>来吧</strong> , Come on; go ahead (invitation to approach or to proceed)<br>
+      <strong>你来</strong> , You come (imperative; invitation)<br>
+      <strong>过来</strong> guòlái , to come over here (cross and arrive here)<br>
+      <strong>进来</strong> jìnlái , to come in (enter toward where the speaker is)<br>
+      <strong>回来</strong> huílái , to come back; to return (back toward the speaker's base)
     </div>
 
     <div class="cards">
@@ -195,7 +195,7 @@ content_review: 'pending'
           <div class="example">
             <div class="ex-cn">来不及了，火车已经开了。</div>
             <div class="ex-py">Lái bu jí le, huǒchē yǐjīng kāi le.</div>
-            <div class="ex-en">Too late — the train has already left.</div>
+            <div class="ex-en">Too late , the train has already left.</div>
           </div>
           <div class="example">
             <div class="ex-cn">现在出发，来得及吗？</div>
@@ -248,7 +248,7 @@ content_review: 'pending'
           <div class="example">
             <div class="ex-cn">来自五湖四海的朋友</div>
             <div class="ex-py">láizì wǔhú sìhǎi de péngyou</div>
-            <div class="ex-en">friends coming from the five lakes and four seas — from all over the country</div>
+            <div class="ex-en">friends coming from the five lakes and four seas , from all over the country</div>
           </div>
         </div>
       </div>
@@ -338,7 +338,7 @@ content_review: 'pending'
         </div>
         <div class="note">
           <span class="note-label">辨析 biànxī · 从来 vs. 一直</span>
-          从来 (always/never — from past to present, emphasizes the unbroken pattern all the way to now). 一直 yīzhí (continuously, all along — emphasizes uninterrupted continuation). 他从来不喝酒 (He never drinks — at no point in time). 他一直很努力 (He has been working hard all along — continuously).
+          从来 (always/never , from past to present, emphasizes the unbroken pattern all the way to now). 一直 yīzhí (continuously, all along , emphasizes uninterrupted continuation). 他从来不喝酒 (He never drinks , at no point in time). 他一直很努力 (He has been working hard all along , continuously).
         </div>
       </div>
 
@@ -407,14 +407,14 @@ content_review: 'pending'
         <span class="cy-cn">有来有往</span>
         <span class="cy-py">yǒu lái yǒu wǎng</span>
         <span class="cy-en">"there is coming and there is going" — mutual exchange; reciprocity</span>
-        <span class="cy-note">往 wǎng = to go; toward. 来 and 往 together make up the full back-and-forth of social exchange: gifts, visits, words, favors. A relationship characterized by 有来有往 is balanced and healthy — neither party gives without receiving. Often used to encourage reciprocity in social or diplomatic contexts. 来往 (lái wǎng) alone means "dealings; contact; to go back and forth."</span>
+        <span class="cy-note">往 wǎng = to go; toward. 来 and 往 together make up the full back-and-forth of social exchange: gifts, visits, words, favors. A relationship characterized by 有来有往 is balanced and healthy , neither party gives without receiving. Often used to encourage reciprocity in social or diplomatic contexts. 来往 (lái wǎng) alone means "dealings; contact; to go back and forth."</span>
       </div>
 
       <div class="cy">
         <span class="cy-cn">来者不拒</span>
         <span class="cy-py">lái zhě bù jù</span>
         <span class="cy-en">"those who come are not refused" — to accept all comers; open to everything</span>
-        <span class="cy-note">来者 = those who arrive / whatever comes. 不拒 = not reject. The stance of accepting without discrimination — a host who turns away no one, a person who tries everything offered, a business that takes every client. Used approvingly (generous, open-minded) or with a hint of reproach (undiscriminating, lacking standards). The image inverts the usual 来/去 dynamic: whoever comes is welcomed; nothing is turned away.</span>
+        <span class="cy-note">来者 = those who arrive / whatever comes. 不拒 = not reject. The stance of accepting without discrimination , a host who turns away no one, a person who tries everything offered, a business that takes every client. Used approvingly (generous, open-minded) or with a hint of reproach (undiscriminating, lacking standards). The image inverts the usual 来/去 dynamic: whoever comes is welcomed; nothing is turned away.</span>
       </div>
 
       <div class="cy">

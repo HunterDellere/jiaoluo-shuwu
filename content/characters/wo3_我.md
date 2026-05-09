@@ -86,10 +86,10 @@ content_review: 'pending'
 
     <div class="scholar" data-glyph="我">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
-      <p>The oracle-bone form of 我 is a weapon: a long-handled halberd (戈 gē) fitted with a row of lateral teeth or hooks along the blade, designed to catch and drag an opponent. The character shows this serrated polearm from the side — a deadly instrument of Bronze Age warfare, not a pronoun. The hand gripping it was implied. What the ancients encoded was the assertive posture of the armed self: the one holding the weapon, facing outward.</p>
-      <p>How a weapon became "I" is a question of phonetic drift rather than semantic evolution. The bronze-age word for the first person happened to sound like the word for this particular weapon — both were something close to *ngai or *ŋaʔ in Old Chinese. Scribes borrowed the weapon graph as a phonogram for the pronoun, the way English speakers might repurpose a picture of an "eye" to spell the word "I." Over time the phonetic borrowing displaced the object meaning entirely, and 我 became purely grammatical. The weapon survives only as the radical.</p>
-      <p>In classical Chinese, 我 could carry a collective sense — "our side," "we the group" — a usage that bleeds into the modern compound 我们 wǒmen (we, us). The singular first person was often expressed by 吾 wú in formal registers, 余 yú in literary prose, and 朕 zhèn before the Qin dynasty reserved it for the emperor exclusively. Modern spoken Chinese consolidated around 我, which now covers I, me, my (with 的), and myself (with 自 or 自己).</p>
-      <p>Japanese preserves 我 in compounds: 我慢 <em>gaman</em> (endurance, self-restraint — the self held under control), 我が道 <em>waga michi</em> (my path, one's own way). Korean 我 (아, <em>a</em>) appears in Sino-Korean formal and literary vocabulary. Both languages absorbed the character's classical Chinese sense of self-as-agent, making 我 one of the more cross-linguistically productive characters in the Sinosphere.</p>
+      <p>The oracle-bone form of 我 is a weapon: a long-handled halberd (戈 gē) fitted with a row of lateral teeth or hooks along the blade, designed to catch and drag an opponent. The character shows this serrated polearm from the side , a deadly instrument of Bronze Age warfare, not a pronoun. The hand gripping it was implied. What the ancients encoded was the assertive posture of the armed self: the one holding the weapon, facing outward.</p>
+      <p>How a weapon became "I" is a question of phonetic drift rather than semantic evolution. The bronze-age word for the first person happened to sound like the word for this particular weapon , both were something close to *ngai or *ŋaʔ in Old Chinese. Scribes borrowed the weapon graph as a phonogram for the pronoun, the way English speakers might repurpose a picture of an "eye" to spell the word "I." Over time the phonetic borrowing displaced the object meaning entirely, and 我 became purely grammatical. The weapon survives only as the radical.</p>
+      <p>In classical Chinese, 我 could carry a collective sense , "our side," "we the group" , a usage that bleeds into the modern compound 我们 wǒmen (we, us). The singular first person was often expressed by 吾 wú in formal registers, 余 yú in literary prose, and 朕 zhèn before the Qin dynasty reserved it for the emperor exclusively. Modern spoken Chinese consolidated around 我, which now covers I, me, my (with 的), and myself (with 自 or 自己).</p>
+      <p>Japanese preserves 我 in compounds: 我慢 <em>gaman</em> (endurance, self-restraint , the self held under control), 我が道 <em>waga michi</em> (my path, one's own way). Korean 我 (아, <em>a</em>) appears in Sino-Korean formal and literary vocabulary. Both languages absorbed the character's classical Chinese sense of self-as-agent, making 我 one of the more cross-linguistically productive characters in the Sinosphere.</p>
     </div>
 
     <!-- ── PRONOUN SYSTEM ── -->
@@ -149,7 +149,7 @@ content_review: 'pending'
           <span class="card-en">self; the ego; one's own</span>
         </div>
         <div class="tags"><span class="tag-n">noun</span></div>
-        <p class="card-def">自 zì (self, from — a pictograph of a nose, one's own reference point) + 我 wǒ. Together they form the abstract noun for "the self" as a philosophical or psychological entity. Appears in formal and literary contexts far more than the colloquial 自己 zìjǐ (oneself), and carries overtones of ego, subjectivity, and individuation.</p>
+        <p class="card-def">自 zì (self, from , a pictograph of a nose, one's own reference point) + 我 wǒ. Together they form the abstract noun for "the self" as a philosophical or psychological entity. Appears in formal and literary contexts far more than the colloquial 自己 zìjǐ (oneself), and carries overtones of ego, subjectivity, and individuation.</p>
         <div class="examples">
           <div class="ex"><span class="ex-cn">他很有自我意识。</span><span class="ex-py">Tā hěn yǒu zìwǒ yìshí.</span><span class="ex-en">He has a strong sense of self.</span></div>
           <div class="ex"><span class="ex-cn">自我介绍一下。</span><span class="ex-py">Zìwǒ jièshào yīxià.</span><span class="ex-en">Let me introduce myself.</span></div>
@@ -164,7 +164,7 @@ content_review: 'pending'
           <span class="card-en">selfless absorption; to forget oneself</span>
         </div>
         <div class="tags"><span class="tag-v">verb/adj</span></div>
-        <p class="card-def">忘 wàng (to forget) + 我 wǒ (the self). The compound describes total absorption in a task or cause, so complete that the ego dissolves. Used as both a verb phrase (他忘我地工作 he works with selfless absorption) and an attributive adjective. Carries a decidedly positive register — the Daoist and Buddhist resonance of ego-loss as freedom is alive in everyday usage.</p>
+        <p class="card-def">忘 wàng (to forget) + 我 wǒ (the self). The compound describes total absorption in a task or cause, so complete that the ego dissolves. Used as both a verb phrase (他忘我地工作 he works with selfless absorption) and an attributive adjective. Carries a decidedly positive register , the Daoist and Buddhist resonance of ego-loss as freedom is alive in everyday usage.</p>
         <div class="examples">
           <div class="ex"><span class="ex-cn">她忘我地投入到工作中。</span><span class="ex-py">Tā wàngwǒ de tóurù dào gōngzuò zhōng.</span><span class="ex-en">She threw herself into work with complete selflessness.</span></div>
           <div class="ex"><span class="ex-cn">这种忘我的精神令人感动。</span><span class="ex-py">Zhè zhǒng wàngwǒ de jīngshén lìng rén gǎndòng.</span><span class="ex-en">This spirit of self-forgetfulness is moving.</span></div>
@@ -191,7 +191,7 @@ content_review: 'pending'
           <span class="card-en">to go one's own way; to do as one always has</span>
         </div>
         <div class="tags"><span class="tag-v">set phrase</span></div>
-        <p class="card-def">I act (行 xíng) as I (我) am accustomed (素 sù — the plain, the habitual, the natural). The phrase describes someone who proceeds according to their own habits and values regardless of what others say or do. Register is neutral to mildly approving, stressing independence; context determines whether it reads as admirable consistency or willful stubbornness.</p>
+        <p class="card-def">I act (行 xíng) as I (我) am accustomed (素 sù , the plain, the habitual, the natural). The phrase describes someone who proceeds according to their own habits and values regardless of what others say or do. Register is neutral to mildly approving, stressing independence; context determines whether it reads as admirable consistency or willful stubbornness.</p>
         <div class="examples">
           <div class="ex"><span class="ex-cn">不管别人怎么说，他依然我行我素。</span><span class="ex-py">Bùguǎn biéren zěnme shuō, tā yīrán wǒ xíng wǒ sù.</span><span class="ex-en">No matter what others say, he continues in his own way.</span></div>
           <div class="ex"><span class="ex-cn">她我行我素，从不随波逐流。</span><span class="ex-py">Tā wǒ xíng wǒ sù, cóng bù suí bō zhú liú.</span><span class="ex-en">She follows her own path and never drifts with the current.</span></div>
@@ -205,7 +205,7 @@ content_review: 'pending'
           <span class="card-en">self-introduction</span>
         </div>
         <div class="tags"><span class="tag-n">noun phrase</span></div>
-        <p class="card-def">自我 (the self) + 介绍 jièshào (to introduce, to mediate between). The standard term for introducing oneself — in a meeting, a classroom, or a job interview. 做自我介绍 zuò zìwǒ jièshào is the verb phrase "to give a self-introduction." One of the first functional phrases a learner needs.</p>
+        <p class="card-def">自我 (the self) + 介绍 jièshào (to introduce, to mediate between). The standard term for introducing oneself , in a meeting, a classroom, or a job interview. 做自我介绍 zuò zìwǒ jièshào is the verb phrase "to give a self-introduction." One of the first functional phrases a learner needs.</p>
         <div class="examples">
           <div class="ex"><span class="ex-cn">请大家做一个简单的自我介绍。</span><span class="ex-py">Qǐng dàjiā zuò yī gè jiǎndān de zìwǒ jièshào.</span><span class="ex-en">Please everyone give a brief self-introduction.</span></div>
           <div class="ex"><span class="ex-cn">面试前要准备好自我介绍。</span><span class="ex-py">Miànshì qián yào zhǔnbèi hǎo zìwǒ jièshào.</span><span class="ex-en">Prepare your self-introduction before the interview.</span></div>
@@ -219,7 +219,7 @@ content_review: 'pending'
           <span class="card-en">personal view; one's own opinion</span>
         </div>
         <div class="tags"><span class="tag-n">noun</span></div>
-        <p class="card-def">我 (I) + 见 jiàn (to see; a view, an opinion). A formal or literary compound for one's personal perspective, especially one held against convention. In Buddhist philosophy 我见 refers to the false view (邪见 xiéjiàn) of a fixed, permanent self — the root of attachment. In modern formal writing it simply means "my view" or "personal opinion," as in 依我见 yī wǒ jiàn (in my view).</p>
+        <p class="card-def">我 (I) + 见 jiàn (to see; a view, an opinion). A formal or literary compound for one's personal perspective, especially one held against convention. In Buddhist philosophy 我见 refers to the false view (邪见 xiéjiàn) of a fixed, permanent self , the root of attachment. In modern formal writing it simply means "my view" or "personal opinion," as in 依我见 yī wǒ jiàn (in my view).</p>
         <div class="examples">
           <div class="ex"><span class="ex-cn">依我见，这个方案不可行。</span><span class="ex-py">Yī wǒ jiàn, zhège fāng'àn bù kěxíng.</span><span class="ex-en">In my view, this plan is not feasible.</span></div>
           <div class="ex"><span class="ex-cn">佛教认为"我见"是烦恼的根源。</span><span class="ex-py">Fójiào rènwéi "wǒ jiàn" shì fánnǎo de gēnyuán.</span><span class="ex-en">Buddhism holds that the "view of self" is the root of suffering.</span></div>
@@ -259,7 +259,7 @@ content_review: 'pending'
           <span class="cy-py">wǒ xíng wǒ sù</span>
           <span class="cy-en">to go one's own way; to act as one always has</span>
         </div>
-        <p class="cy-note">Literal: "I act according to my own custom." 素 sù carries the sense of the plain, undyed, original — what something has always been. The phrase appears in the Confucian canon in spirit if not in this exact form; it crystallized in classical prose to describe the superior person who maintains virtue without adjusting to crowd opinion. Modern register is neutral to mildly approving. Context determines whether the independence reads as admirable or pigheaded. A parallel: 随心所欲 suí xīn suǒ yù (follow the heart wherever it leads) covers freer spontaneity; 我行我素 stresses habitual consistency. Used in formal writing and everyday speech alike.</p>
+        <p class="cy-note">Literal: "I act according to my own custom." 素 sù carries the sense of the plain, undyed, original , what something has always been. The phrase appears in the Confucian canon in spirit if not in this exact form; it crystallized in classical prose to describe the superior person who maintains virtue without adjusting to crowd opinion. Modern register is neutral to mildly approving. Context determines whether the independence reads as admirable or pigheaded. A parallel: 随心所欲 suí xīn suǒ yù (follow the heart wherever it leads) covers freer spontaneity; 我行我素 stresses habitual consistency. Used in formal writing and everyday speech alike.</p>
       </div>
 
       <div class="cy">
@@ -268,7 +268,7 @@ content_review: 'pending'
           <span class="cy-py">fēi wǒ zú lèi</span>
           <span class="cy-en">those not of our kin; those outside our group</span>
         </div>
-        <p class="cy-note">From the <em>Zuǒ Zhuàn</em> 左传 (Commentary of Zuo, c. 4th century BCE), one of the canonical Spring-and-Autumn histories: 非我族类，其心必异 — "Those not of our clan, their hearts will certainly differ." The full line is a warning against trust extended across tribal or political boundaries. In modern usage the phrase is always literary and often ironic — deployed to comment on in-group/out-group dynamics, nativist sentiment, or ideological gatekeeping. High register; rarely used in casual speech. The 我 here carries its classical collective sense: "our side," "we as a group."</p>
+        <p class="cy-note">From the <em>Zuǒ Zhuàn</em> 左传 (Commentary of Zuo, c. 4th century BCE), one of the canonical Spring-and-Autumn histories: 非我族类，其心必异 , "Those not of our clan, their hearts will certainly differ." The full line is a warning against trust extended across tribal or political boundaries. In modern usage the phrase is always literary and often ironic , deployed to comment on in-group/out-group dynamics, nativist sentiment, or ideological gatekeeping. High register; rarely used in casual speech. The 我 here carries its classical collective sense: "our side," "we as a group."</p>
       </div>
 
       <div class="cy">
@@ -277,7 +277,7 @@ content_review: 'pending'
           <span class="cy-py">wàngwǒ gōngzuò</span>
           <span class="cy-en">to work with selfless devotion; absorbed work</span>
         </div>
-        <p class="cy-note">Strictly a verb phrase rather than a classical four-character idiom, but so formulaic in modern Chinese that it functions as a set expression. 忘我 (forget-self) + 工作 (work). Denotes a quality of focused, ego-less labor prized in both Confucian self-cultivation and Maoist labor discourse — the two streams reinforced each other. A positive register phrase, common in commendations, biographies, and motivational contexts. The underlying concept of 忘我 alone — forgetting the self through total engagement — resonates with flow states and Daoist 无为 wúwéi (non-self-assertion).</p>
+        <p class="cy-note">Strictly a verb phrase rather than a classical four-character idiom, but so formulaic in modern Chinese that it functions as a set expression. 忘我 (forget-self) + 工作 (work). Denotes a quality of focused, ego-less labor prized in both Confucian self-cultivation and Maoist labor discourse , the two streams reinforced each other. A positive register phrase, common in commendations, biographies, and motivational contexts. The underlying concept of 忘我 alone , forgetting the self through total engagement , resonates with flow states and Daoist 无为 wúwéi (non-self-assertion).</p>
       </div>
 
       <div class="cy">
@@ -318,7 +318,7 @@ content_review: 'pending'
 
     <div class="scholar" data-glyph="戈">
       <div class="scholar-label">记忆钩子 jìyì gōuzi · Memory Hook</div>
-      <p>Picture a Bronze Age warrior gripping a long, toothed halberd (戈 gē), the blade angled outward. That grip — assertive, forward-facing, holding a weapon against the world — is the original image inside 我. The character did not begin with abstract selfhood. It began with a physical act: a hand closing around an instrument of force. That posture of assertion became the pronoun for the one doing the asserting.</p>
+      <p>Picture a Bronze Age warrior gripping a long, toothed halberd (戈 gē), the blade angled outward. That grip , assertive, forward-facing, holding a weapon against the world , is the original image inside 我. The character did not begin with abstract selfhood. It began with a physical act: a hand closing around an instrument of force. That posture of assertion became the pronoun for the one doing the asserting.</p>
       <p>The tonal shape helps too: the third tone (wǒ) dips and rises, a small stumble before steadying. It mirrors the warrior's crouch before standing firm. The shape of the glyph still shows the serrated teeth on the left and the handle-haft structure on the right, if you look at it with the oracle bone in mind.</p>
       <p>The compound 忘我 wàngwǒ is the perfect inversion. To forget 我 — to release the grip on the weapon, to stop asserting the boundary of self — is the goal of Daoist and Buddhist practice alike. The language encodes the philosophy: selfhood is something held, and therefore something that can be set down. That a single character carries both the ego's origin and the ego's dissolution makes 我 one of the more philosophically layered glyphs in the basic vocabulary.</p>
     </div>

@@ -102,7 +102,7 @@ content_sources:
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
       <p><strong>金 jīn</strong> is a pictograph of gold nuggets beneath the earth. The upper element resembles a person or roof 人/亼; the lower element 土 represents earth; the two small strokes on either side of the lower body represent gold nuggets embedded in the ground. The whole image: precious ore found within the earth, not yet mined.</p>
       <p>The character originally meant "gold" specifically, then broadened to mean "metal" in general (金属 jīnshǔ), and then by extension "money" (金钱, 现金). This semantic drift follows the logic of value: gold → the most valuable metal → valuable metals generally → money (the stored form of value).</p>
-      <p>金 is also one of the most productive radicals in Chinese — almost every metal and many alloys have the 金 radical: 银 yín (silver), 铜 tóng (copper), 铁 tiě (iron), 铝 lǚ (aluminum), 钢 gāng (steel), 钱 qián (money — originally copper coins). The periodic table of elements in Chinese uses 金 for all metals: 钙 gài (calcium), 锂 lǐ (lithium), 钠 nà (sodium).</p>
+      <p>金 is also one of the most productive radicals in Chinese , almost every metal and many alloys have the 金 radical: 银 yín (silver), 铜 tóng (copper), 铁 tiě (iron), 铝 lǚ (aluminum), 钢 gāng (steel), 钱 qián (money , originally copper coins). The periodic table of elements in Chinese uses 金 for all metals: 钙 gài (calcium), 锂 lǐ (lithium), 钠 nà (sodium).</p>
     </div>
 
     <span class="section-anchor" id="wuxing"></span>
@@ -115,9 +115,9 @@ content_sources:
 
     <div class="scholar" data-glyph="金">
       <div class="scholar-label">五行 wǔxíng · The Metal Phase</div>
-      <p>In the Wu Xing 五行 system, 金 Metal is associated with: the direction <strong>West</strong> (西) · the season <strong>Autumn</strong> (秋) · the quality <strong>sharpness and precision</strong> · the organ <strong>Lungs</strong> (肺) · the color <strong>White</strong> (白) · the planet <strong>Venus</strong> (金星 jīnxīng — "gold star").</p>
-      <p>The planetary name is important: 金星 is Venus, 火星 is Mars, 木星 is Jupiter, 水星 is Mercury, 土星 is Saturn — all named for their corresponding Five Phase element. The names encode the entire cosmological system.</p>
-      <p>In the productive cycle (相生 xiāngshēng): Earth produces Metal (土生金) — ore is found in the earth. In the controlling cycle (相克 xiāngkè): Metal controls Wood (金克木) — an axe cuts a tree. Metal yields to Fire (火克金) — fire melts metal.</p>
+      <p>In the Wu Xing 五行 system, 金 Metal is associated with: the direction <strong>West</strong> (西) · the season <strong>Autumn</strong> (秋) · the quality <strong>sharpness and precision</strong> · the organ <strong>Lungs</strong> (肺) · the color <strong>White</strong> (白) · the planet <strong>Venus</strong> (金星 jīnxīng , "gold star").</p>
+      <p>The planetary name is important: 金星 is Venus, 火星 is Mars, 木星 is Jupiter, 水星 is Mercury, 土星 is Saturn , all named for their corresponding Five Phase element. The names encode the entire cosmological system.</p>
+      <p>In the productive cycle (相生 xiāngshēng): Earth produces Metal (土生金) , ore is found in the earth. In the controlling cycle (相克 xiāngkè): Metal controls Wood (金克木) , an axe cuts a tree. Metal yields to Fire (火克金) , fire melts metal.</p>
     </div>
 
     <span class="section-anchor" id="money"></span>

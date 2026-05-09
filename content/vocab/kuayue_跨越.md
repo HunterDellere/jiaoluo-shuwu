@@ -59,7 +59,7 @@ content_review: 'pending'
       <span class="topic-hero-eyebrow">Vocabulary · 词汇 cíhuì</span>
       <h1 class="topic-hero-title">跨越</h1>
       <span class="topic-hero-title-py">kuàyuè</span>
-      <p class="topic-hero-desc">To stride-cross. The verb that carries weight: not just <em>passing</em> a boundary but <em>spanning</em> it — a river, a generation, a technological era, the long wall of history.</p>
+      <p class="topic-hero-desc">To stride-cross. The verb that carries weight: not just <em>passing</em> a boundary but <em>spanning</em> it , a river, a generation, a technological era, the long wall of history.</p>
     </header>
 
     <!-- ── ETYMOLOGY ── -->
@@ -73,8 +73,8 @@ content_review: 'pending'
 
     <div class="scholar" data-glyph="跨">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
-      <p><strong>跨 kuà</strong> + <strong>越 yuè</strong>. Both characters carry the foot-radical 足 / 走 — 跨 has 足 (foot) on the left, 越 has 走 (walking) wrapping the bottom. The compound concentrates a single image: <em>striding wide enough to cross over</em>.</p>
-      <p><strong>跨</strong> on its own means to stride, to step over with a wide gait, to mount or ride astride. It evokes the geometric act of crossing — the legs spanning the gap. <strong>越</strong> on its own means to cross over, to surpass, to exceed (see the dedicated <a href="../../pages/characters/yue4_越.html">越 character page</a>). Where 越 emphasizes <em>the boundary being passed</em>, 跨 emphasizes <em>the action of spanning</em>. Joined, they describe a crossing that is both decisive and significant — not stepping casually past a line, but bridging a real gap.</p>
+      <p><strong>跨 kuà</strong> + <strong>越 yuè</strong>. Both characters carry the foot-radical 足 / 走 , 跨 has 足 (foot) on the left, 越 has 走 (walking) wrapping the bottom. The compound concentrates a single image: <em>striding wide enough to cross over</em>.</p>
+      <p><strong>跨</strong> on its own means to stride, to step over with a wide gait, to mount or ride astride. It evokes the geometric act of crossing , the legs spanning the gap. <strong>越</strong> on its own means to cross over, to surpass, to exceed (see the dedicated <a href="../../pages/characters/yue4_越.html">越 character page</a>). Where 越 emphasizes <em>the boundary being passed</em>, 跨 emphasizes <em>the action of spanning</em>. Joined, they describe a crossing that is both decisive and significant , not stepping casually past a line, but bridging a real gap.</p>
       <p>The compound is overwhelmingly modern in its productive usage. Pre-modern Chinese preferred shorter forms (越 alone, or 越过). 跨越 became a workhorse of 20th-century journalism and political speech, where bridging eras and leaping across stages of development are recurring themes. Its register is formal and slightly elevated; in casual speech, 越过 or 过 do the everyday work.</p>
     </div>
 
@@ -175,11 +175,11 @@ content_review: 'pending'
     <div class="scholar" data-glyph="越">
       <div class="scholar-label">辨析 biànxī · Distinguishing Among Synonyms</div>
       <p>Modern Chinese has a small family of compound verbs built on 越 plus a manner-of-motion partner. They share the meaning "to cross over" but split the work by what kind of crossing is meant.</p>
-      <p><strong>跨越 kuàyuè</strong> — to stride across; spans wide gaps, often abstract. The most figurative.<br>
-      <strong>越过 yuèguò</strong> — to cross over; the everyday neutral verb. Smallest register weight of the family.<br>
-      <strong>翻越 fānyuè</strong> — to climb over; physical and effortful, especially for mountains and walls.<br>
-      <strong>超越 chāoyuè</strong> — to surpass; the competitive sibling, used for exceeding a person, a record, a limit.<br>
-      <strong>穿越 chuānyuè</strong> — to cut through; for moving across a region (forest, desert) or, in popular fiction, time-travel.</p>
+      <p><strong>跨越 kuàyuè</strong> , to stride across; spans wide gaps, often abstract. The most figurative.<br>
+      <strong>越过 yuèguò</strong> , to cross over; the everyday neutral verb. Smallest register weight of the family.<br>
+      <strong>翻越 fānyuè</strong> , to climb over; physical and effortful, especially for mountains and walls.<br>
+      <strong>超越 chāoyuè</strong> , to surpass; the competitive sibling, used for exceeding a person, a record, a limit.<br>
+      <strong>穿越 chuānyuè</strong> , to cut through; for moving across a region (forest, desert) or, in popular fiction, time-travel.</p>
       <p>Substitution check: a bridge <em>跨越</em> a river (formal); a person <em>越过</em> a fence (everyday); an army <em>翻越</em> a mountain pass (effortful); an athlete <em>超越</em> a record (competitive); a hiker <em>穿越</em> a forest (cutting through). With 长城 as object, 翻越长城 is most physical (climbing over the wall), 跨越长城 is most figurative (transcending what the wall stands for), and 越长城 alone is the abbreviated literary form that keeps both readings open.</p>
     </div>
 
@@ -193,7 +193,7 @@ content_review: 'pending'
         </div>
         <div class="tags"><span class="tag tag-v">V 动词 dòngcí</span></div>
         <div class="card-def">
-          The neutral, everyday version. Lower register than 跨越; smaller scale than 翻越. Use for ordinary obstacles and boundaries — a fence, a stream, a difficulty.
+          The neutral, everyday version. Lower register than 跨越; smaller scale than 翻越. Use for ordinary obstacles and boundaries , a fence, a stream, a difficulty.
         </div>
       </div>
 
@@ -247,9 +247,9 @@ content_review: 'pending'
     <div class="scholar" data-glyph="城">
       <div class="scholar-label">文化洞见 wénhuà dòngjiàn · Cultural Note</div>
       <p>The Great Wall is one of Chinese's most reliable metaphor objects, and 跨越 / 越 / 翻越 are the verbs that act on it. The phrase <strong>越长城</strong> (yuè chángchéng), and its longer figurative cousin <strong>跨越长城</strong>, can be used in three distinct ways:</p>
-      <p><strong>Literal.</strong> A historical, geographic, or tourist crossing — through one of the controlled passes (山海关, 嘉峪关) or, today, climbing the brick parapet at Badaling.</p>
+      <p><strong>Literal.</strong> A historical, geographic, or tourist crossing , through one of the controlled passes (山海关, 嘉峪关) or, today, climbing the brick parapet at Badaling.</p>
       <p><strong>Mao-era heroic.</strong> The folk saying <strong>不到长城非好汉</strong> ("if you have not reached the Great Wall you are not a true hero"), from Mao's 1935 poem 清平乐·六盘山, reads the wall as a personal test. To "cross" it is to prove oneself. This reading is canonical in Chinese primary-school curricula and tourist signage.</p>
-      <p><strong>Figurative — transcending an obstacle.</strong> In contemporary Chinese, 跨越长城 (crossing the wall of X) is a productive metaphor template: 跨越历史的长城 ("cross the long wall of history"), 跨越文化的长城 ("bridge the wall between cultures"), 跨越技术的长城 ("leap the wall of technology"). The wall stands in for any large, intimidating obstacle; the verb supplies the image of decisive crossing.</p>
+      <p><strong>Figurative , transcending an obstacle.</strong> In contemporary Chinese, 跨越长城 (crossing the wall of X) is a productive metaphor template: 跨越历史的长城 ("cross the long wall of history"), 跨越文化的长城 ("bridge the wall between cultures"), 跨越技术的长城 ("leap the wall of technology"). The wall stands in for any large, intimidating obstacle; the verb supplies the image of decisive crossing.</p>
       <p>Foreign learners searching for the phrase often arrive expecting either a literal wall-climbing tip or a single fixed idiom. The truer answer is that 越长城 is an open figure that any modern Chinese speaker can deploy — sometimes literal, sometimes Mao-allusive, sometimes purely metaphorical. For the wall itself, see <a href="../../pages/history/topic_changcheng.html">长城 The Great Wall</a>.</p>
     </div>
 

@@ -67,7 +67,7 @@ content_review: 'pending'
       <span class="topic-hero-eyebrow">Grammar · 语法 yǔfǎ</span>
       <h1 class="topic-hero-title">正在</h1>
       <span class="topic-hero-title-py">zhèngzài</span>
-      <p class="topic-hero-desc">The primary progressive aspect marker — placed before a verb to signal that an action is currently in progress, caught mid-motion at the moment of speaking.</p>
+      <p class="topic-hero-desc">The primary progressive aspect marker , placed before a verb to signal that an action is currently in progress, caught mid-motion at the moment of speaking.</p>
     </header>
 
     <!-- ── OVERVIEW ── -->
@@ -81,7 +81,7 @@ content_review: 'pending'
 
     <div class="scholar" data-glyph="在">
       <div class="scholar-label">语法洞见 yǔfǎ dòngjiàn · Grammar Insight</div>
-      <p>Mandarin does not mark tense on verbs the way European languages do. Instead, it uses <strong>aspect</strong> — grammatical markers that signal the internal structure of an event: whether it is complete (了 le), experienced (过 guò), ongoing (正在 / 在 / 着), or still relevant. 正在 is the most explicit progressive marker, unambiguously flagging that an action is in progress at the moment of speaking.</p>
+      <p>Mandarin does not mark tense on verbs the way European languages do. Instead, it uses <strong>aspect</strong> , grammatical markers that signal the internal structure of an event: whether it is complete (了 le), experienced (过 guò), ongoing (正在 / 在 / 着), or still relevant. 正在 is the most explicit progressive marker, unambiguously flagging that an action is in progress at the moment of speaking.</p>
       <p>The construction is simple: <strong>正在 + Verb (+ 呢)</strong>. 正在 sits before the verb; the optional sentence-final particle 呢 at the end reinforces the progressive reading. No tense suffix on the verb. No auxiliary verb. The marker carries the whole grammatical load, and the verb stays in its base form.</p>
       <p>Understanding 正在 fully requires understanding two related markers: 在, which does the same job with less emphasis, and 着, which marks a different kind of ongoing state. All three are frequently encountered; all three are often confused by learners. The distinctions between them are real and worth mastering.</p>
     </div>
@@ -97,8 +97,8 @@ content_review: 'pending'
 
     <div class="pattern">
       <span class="label">正在 = 正 (exactly, precisely) + 在 (at, in, located at)</span>
-      <strong>正 zhèng</strong> — upright, correct, exactly, right now. As an adverb, 正 contributes the idea of "precisely at this moment" or "exactly." It appears in 正好 zhènghǎo (just right; exactly), 正确 zhèngquè (correct), and 正式 zhèngshì (formal, official). In 正在, its contribution is the emphasis: not just "in the middle of" but "exactly in the middle of."<br>
-      <strong>在 zài</strong> — to be located at; to exist at a place. As a preposition and verb, 在 marks location (在北京 in Beijing, 在这里 here). As a standalone progressive marker, 在 + Verb = "is doing." In 正在, 在 contributes the sense of being-at-a-point-in-an-action — located within the action's duration.<br>
+      <strong>正 zhèng</strong> , upright, correct, exactly, right now. As an adverb, 正 contributes the idea of "precisely at this moment" or "exactly." It appears in 正好 zhènghǎo (just right; exactly), 正确 zhèngquè (correct), and 正式 zhèngshì (formal, official). In 正在, its contribution is the emphasis: not just "in the middle of" but "exactly in the middle of."<br>
+      <strong>在 zài</strong> , to be located at; to exist at a place. As a preposition and verb, 在 marks location (在北京 in Beijing, 在这里 here). As a standalone progressive marker, 在 + Verb = "is doing." In 正在, 在 contributes the sense of being-at-a-point-in-an-action , located within the action's duration.<br>
       <strong>Together:</strong> 正在 = precisely located within the action as it unfolds. The image is of catching the action mid-flight, not before or after.
     </div>
 
@@ -116,7 +116,7 @@ content_review: 'pending'
       <p>These three markers all relate to ongoing situations, but they encode different aspects of that ongoingness. The distinctions are not interchangeable.</p>
       <p><strong>正在 + V</strong> marks an action as actively in progress at the moment of speaking. The speaker and the action are simultaneous. This is the fullest, most explicit progressive signal: it cannot be used for states that are merely true (you would not say 他正在知道 for "he knows," because knowing is not an activity). Use 正在 when the action is dynamic and is happening right now.</p>
       <p><strong>在 + V</strong> does exactly the same work as 正在, with slightly less emphasis. In most spoken contexts, 在 alone is more natural and colloquial; 正在 carries a trace of formality or deliberate focus. 我在吃饭 and 我正在吃饭 are both grammatical and nearly synonymous, but 在 is more typical in casual speech.</p>
-      <p><strong>V + 着 zhe</strong> is fundamentally different. 着 marks a resultant state or ongoing condition — the continued existence of the result of an action, not the action itself. 门开着 (the door is open, standing open — the result of having been opened) versus 他在开门 (he is in the process of opening the door). A sign posted on a wall is 挂着 (hanging, in the state of having been hung); a person hanging a sign is 在挂. The same verb root, radically different grammatical meaning.</p>
+      <p><strong>V + 着 zhe</strong> is fundamentally different. 着 marks a resultant state or ongoing condition , the continued existence of the result of an action, not the action itself. 门开着 (the door is open, standing open , the result of having been opened) versus 他在开门 (he is in the process of opening the door). A sign posted on a wall is 挂着 (hanging, in the state of having been hung); a person hanging a sign is 在挂. The same verb root, radically different grammatical meaning.</p>
     </div>
 
     <div class="cards">
@@ -134,17 +134,17 @@ content_review: 'pending'
           <div class="example">
             <div class="ex-cn">我正在吃饭，等一下再回你。</div>
             <div class="ex-py">Wǒ zhèngzài chīfàn, děng yīxià zài huí nǐ.</div>
-            <div class="ex-en">I'm right in the middle of eating — I'll reply to you in a bit.</div>
+            <div class="ex-en">I'm right in the middle of eating , I'll reply to you in a bit.</div>
           </div>
           <div class="example">
             <div class="ex-cn">他们正在开会，请稍等。</div>
             <div class="ex-py">Tāmen zhèngzài kāihuì, qǐng shāo děng.</div>
-            <div class="ex-en">They are in a meeting right now — please wait a moment.</div>
+            <div class="ex-en">They are in a meeting right now , please wait a moment.</div>
           </div>
           <div class="example">
             <div class="ex-cn">我正在想这个问题，给我点时间。</div>
             <div class="ex-py">Wǒ zhèngzài xiǎng zhège wèntí, gěi wǒ diǎn shíjiān.</div>
-            <div class="ex-en">I am right now thinking about this problem — give me a moment.</div>
+            <div class="ex-en">I am right now thinking about this problem , give me a moment.</div>
           </div>
         </div>
       </div>
@@ -157,7 +157,7 @@ content_review: 'pending'
         </div>
         <div class="tags"><span class="tag tag-v">Structure 句型 jùxíng</span></div>
         <div class="card-def">
-          The colloquial progressive, functionally equivalent to 正在 but more casual and common in speech. 你在做什么？(What are you doing?) is the standard everyday question. 在 + V also works for the past progressive when combined with a past time frame (那时候他在睡觉 — he was sleeping at that time).
+          The colloquial progressive, functionally equivalent to 正在 but more casual and common in speech. 你在做什么？(What are you doing?) is the standard everyday question. 在 + V also works for the past progressive when combined with a past time frame (那时候他在睡觉 , he was sleeping at that time).
         </div>
         <div class="examples">
           <div class="example">
@@ -168,12 +168,12 @@ content_review: 'pending'
           <div class="example">
             <div class="ex-cn">他在睡觉，别打扰他。</div>
             <div class="ex-py">Tā zài shuìjiào, bié dǎrǎo tā.</div>
-            <div class="ex-en">He is sleeping — don't disturb him.</div>
+            <div class="ex-en">He is sleeping , don't disturb him.</div>
           </div>
           <div class="example">
             <div class="ex-cn">我在看书，等我看完这一页。</div>
             <div class="ex-py">Wǒ zài kàn shū, děng wǒ kàn wán zhè yī yè.</div>
-            <div class="ex-en">I'm reading — wait until I finish this page.</div>
+            <div class="ex-en">I'm reading , wait until I finish this page.</div>
           </div>
         </div>
       </div>
@@ -186,13 +186,13 @@ content_review: 'pending'
         </div>
         <div class="tags"><span class="tag tag-v">Structure 句型 jùxíng</span></div>
         <div class="card-def">
-          着 zhe marks continuation of a resultant state, not an active ongoing action. The difference from 正在/在 is fundamental: 在开门 = actively opening the door (mid-motion); 门开着 = the door is open (the state of having been opened persists). Also used for manner: 他站着说话 (he spoke while standing) — the standing is the accompanying state of the speaking.
+          着 zhe marks continuation of a resultant state, not an active ongoing action. The difference from 正在/在 is fundamental: 在开门 = actively opening the door (mid-motion); 门开着 = the door is open (the state of having been opened persists). Also used for manner: 他站着说话 (he spoke while standing) , the standing is the accompanying state of the speaking.
         </div>
         <div class="examples">
           <div class="example">
             <div class="ex-cn">窗户开着，进来吧。</div>
             <div class="ex-py">Chuānghù kāi zhe, jìnlái ba.</div>
-            <div class="ex-en">The window is open — come in.</div>
+            <div class="ex-en">The window is open , come in.</div>
           </div>
           <div class="example">
             <div class="ex-cn">他们坐着聊了很长时间。</div>
@@ -223,9 +223,9 @@ content_review: 'pending'
 
     <div class="pattern">
       <span class="label">正在 + V + 呢 · The Full Emphatic Progressive</span>
-      Adding 呢 at the end of a 正在 or 在 sentence pushes the progressive reading further — it signals "right in the middle of it, can't you see." Most commonly used when someone calls and interrupts an activity, or when the speaker wants to emphasize that the action is ongoing and cannot be paused.<br>
-      我在吃饭呢 — I'm right in the middle of eating (don't bother me now).<br>
-      他们正在开会呢 — They're in a meeting right now (you'll have to wait).<br>
+      Adding 呢 at the end of a 正在 or 在 sentence pushes the progressive reading further , it signals "right in the middle of it, can't you see." Most commonly used when someone calls and interrupts an activity, or when the speaker wants to emphasize that the action is ongoing and cannot be paused.<br>
+      我在吃饭呢 , I'm right in the middle of eating (don't bother me now).<br>
+      他们正在开会呢 , They're in a meeting right now (you'll have to wait).<br>
       呢 alone can also function as a progressive marker in certain contexts: 他呢？ (Where/what about him?) but this is a different usage (the question particle 呢). The progressive 呢 always follows a verbal phrase.
     </div>
 
@@ -247,18 +247,18 @@ content_review: 'pending'
         </div>
         <div class="tags"><span class="tag tag-v">Office / formal 办公场合</span></div>
         <div class="card-def">
-          One of the most useful office and workplace phrases. 开会 kāihuì = to hold/attend a meeting. The progressive here signals that interrupting is not appropriate. Variant: 他们在开会，请稍后再来 (They are in a meeting — please come back later). 正在 gives it a slight formality appropriate to professional contexts.
+          One of the most useful office and workplace phrases. 开会 kāihuì = to hold/attend a meeting. The progressive here signals that interrupting is not appropriate. Variant: 他们在开会，请稍后再来 (They are in a meeting , please come back later). 正在 gives it a slight formality appropriate to professional contexts.
         </div>
         <div class="examples">
           <div class="example">
             <div class="ex-cn">经理正在开会，请您稍等。</div>
             <div class="ex-py">Jīnglǐ zhèngzài kāihuì, qǐng nín shāo děng.</div>
-            <div class="ex-en">The manager is in a meeting — please wait a moment.</div>
+            <div class="ex-en">The manager is in a meeting , please wait a moment.</div>
           </div>
           <div class="example">
             <div class="ex-cn">我现在不方便接电话，正在开会呢。</div>
             <div class="ex-py">Wǒ xiànzài bù fāngbiàn jiē diànhuà, zhèngzài kāihuì ne.</div>
-            <div class="ex-en">I cannot take calls right now — I'm in the middle of a meeting.</div>
+            <div class="ex-en">I cannot take calls right now , I'm in the middle of a meeting.</div>
           </div>
         </div>
       </div>
@@ -301,12 +301,12 @@ content_review: 'pending'
           <div class="example">
             <div class="ex-cn">调查正在进行中，结果尚未公布。</div>
             <div class="ex-py">Diàochá zhèngzài jìnxíng zhōng, jiéguǒ shàngwèi gōngbù.</div>
-            <div class="ex-en">The investigation is currently underway — results have not yet been released.</div>
+            <div class="ex-en">The investigation is currently underway , results have not yet been released.</div>
           </div>
           <div class="example">
             <div class="ex-cn">系统更新正在进行中，请耐心等待。</div>
             <div class="ex-py">Xìtǒng gēngxīn zhèngzài jìnxíng zhōng, qǐng nàixīn děngdài.</div>
-            <div class="ex-en">System update is in progress — please be patient.</div>
+            <div class="ex-en">System update is in progress , please be patient.</div>
           </div>
         </div>
       </div>
@@ -330,11 +330,11 @@ content_review: 'pending'
 
     <div class="pattern">
       <span class="label">过去进行时 guòqù jìnxíng shí · Past Progressive Patterns</span>
-      <strong>那时候 + 正在/在 + V</strong> — at that time, was doing<br>
+      <strong>那时候 + 正在/在 + V</strong> , at that time, was doing<br>
       那时候我正在北京学中文。 At that time, I was studying Chinese in Beijing.<br><br>
-      <strong>刚才 + 在 + V</strong> — was doing just a moment ago<br>
-      他刚才在睡觉，现在起来了。He was sleeping just now — he got up now.<br><br>
-      <strong>当…的时候，正在/在 + V</strong> — when [event], was doing<br>
+      <strong>刚才 + 在 + V</strong> , was doing just a moment ago<br>
+      他刚才在睡觉，现在起来了。He was sleeping just now , he got up now.<br><br>
+      <strong>当…的时候，正在/在 + V</strong> , when [event], was doing<br>
       当你打电话的时候，我正在开车。When you called, I was driving.
     </div>
 

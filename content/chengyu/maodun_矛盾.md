@@ -55,7 +55,7 @@ content_sources:
       <span class="topic-hero-eyebrow">Chengyu · 成语 chéngyǔ</span>
       <h1 class="topic-hero-title">矛盾</h1>
       <span class="topic-hero-title-py">máodùn</span>
-      <p class="topic-hero-desc">The spear that can pierce anything meets the shield that can stop anything — the story behind China's word for contradiction.</p>
+      <p class="topic-hero-desc">The spear that can pierce anything meets the shield that can stop anything , the story behind China's word for contradiction.</p>
     </header>
 
     <span class="section-anchor" id="story"></span>
@@ -74,17 +74,17 @@ content_sources:
       <div class="cards">
         <div class="card c-ochre">
           <div class="card-head">n. Contradiction, inconsistency</div>
-          <p>这两个说法有矛盾。(Zhè liǎng gè shuōfǎ yǒu máodùn.) — These two statements contradict each other.</p>
-          <p>他的行为和他的话有矛盾。(Tā de xíngwéi hé tā de huà yǒu máodùn.) — His behavior contradicts what he says.</p>
+          <p>这两个说法有矛盾。(Zhè liǎng gè shuōfǎ yǒu máodùn.) , These two statements contradict each other.</p>
+          <p>他的行为和他的话有矛盾。(Tā de xíngwéi hé tā de huà yǒu máodùn.) , His behavior contradicts what he says.</p>
         </div>
         <div class="card c-teal">
           <div class="card-head">n. Conflict, tension (social/political)</div>
-          <p>社会矛盾 (shèhuì máodùn) — social contradictions, a Marxist term for class tensions used pervasively in PRC official discourse. Mao Zedong's 1937 essay "On Contradiction" (矛盾论) applied Hegelian dialectics through this lens.</p>
-          <p>主要矛盾 (zhǔyào máodùn) — the principal contradiction; in CCP usage, the central social tension of a historical moment that policy should address.</p>
+          <p>社会矛盾 (shèhuì máodùn) , social contradictions, a Marxist term for class tensions used pervasively in PRC official discourse. Mao Zedong's 1937 essay "On Contradiction" (矛盾论) applied Hegelian dialectics through this lens.</p>
+          <p>主要矛盾 (zhǔyào máodùn) , the principal contradiction; in CCP usage, the central social tension of a historical moment that policy should address.</p>
         </div>
         <div class="card c-sienna">
           <div class="card-head">adj. 矛盾的 máodùn de · contradictory</div>
-          <p>她的心情很矛盾。(Tā de xīnqíng hěn máodùn.) — Her feelings are conflicted / She has mixed feelings. The word also covers internal emotional conflict, being torn between two desires or obligations.</p>
+          <p>她的心情很矛盾。(Tā de xīnqíng hěn máodùn.) , Her feelings are conflicted / She has mixed feelings. The word also covers internal emotional conflict, being torn between two desires or obligations.</p>
         </div>
       </div>
 

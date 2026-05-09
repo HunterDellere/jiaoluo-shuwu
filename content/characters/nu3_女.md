@@ -98,7 +98,7 @@ content_sources:
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
       <p><strong>女 nǚ</strong> is a pictograph. The oracle-bone form shows a figure kneeling or seated with arms crossed at the chest. The most common reading is a woman in a respectful posture, reflecting the social order in which the script was created; others read the same form as a mother nursing or a dancer in ceremonial position. The character has always denoted "woman" or "female."</p>
       <p>女 is one of the most common radicals in Chinese, appearing in characters for female family members, proper names, emotions, and certain concepts. The sheer number of 女-radical characters reflects how much of Chinese social vocabulary was organized around women's roles in the family system.</p>
-      <p>Compound words with 女: 女儿 nǚ'ér (daughter), 女人 nǚrén (woman), 女士 nǚshì (Ms./Madam — polite address), 女孩 nǚhái (girl), 女生 nǚshēng (female student), 女朋友 nǚpéngyou (girlfriend), 女王 nǚwáng (queen). As a prefix, 女 is used to mark the female counterpart: 女演员 nǚ yǎnyuán (actress), 女医生 nǚ yīshēng (female doctor).</p>
+      <p>Compound words with 女: 女儿 nǚ'ér (daughter), 女人 nǚrén (woman), 女士 nǚshì (Ms./Madam , polite address), 女孩 nǚhái (girl), 女生 nǚshēng (female student), 女朋友 nǚpéngyou (girlfriend), 女王 nǚwáng (queen). As a prefix, 女 is used to mark the female counterpart: 女演员 nǚ yǎnyuán (actress), 女医生 nǚ yīshēng (female doctor).</p>
     </div>
 
     <span class="section-anchor" id="radical"></span>
@@ -132,13 +132,13 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          女 nǚ (female) + 儿 ér (child; son — used neutrally here). Daughter. The contrast with 儿子 érzi (son — lit. "child-son") reflects the historical preference for male heirs, though modern Chinese families increasingly express equal or stronger preference for daughters (掌上明珠 zhǎngshàng míngzhū — "pearl in the palm" — is a common phrase of endearment for a daughter). 女儿国 nǚ'érguó = "country of daughters" — the kingdom of women in Journey to the West.
+          女 nǚ (female) + 儿 ér (child; son , used neutrally here). Daughter. The contrast with 儿子 érzi (son , lit. "child-son") reflects the historical preference for male heirs, though modern Chinese families increasingly express equal or stronger preference for daughters (掌上明珠 zhǎngshàng míngzhū , "pearl in the palm" , is a common phrase of endearment for a daughter). 女儿国 nǚ'érguó = "country of daughters" , the kingdom of women in Journey to the West.
         </div>
         <div class="examples">
           <div class="example">
             <div class="ex-cn">他有一个女儿，今年十岁，学习很好。</div>
             <div class="ex-py">Tā yǒu yī gè nǚ'ér, jīnnián shí suì, xuéxí hěn hǎo.</div>
-            <div class="ex-en">He has a daughter who is ten this year — she does very well in school.</div>
+            <div class="ex-en">He has a daughter who is ten this year , she does very well in school.</div>
           </div>
         </div>
       </div>
@@ -170,7 +170,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          婚 hūn (marriage — 女 woman + 昏 dusk, from the tradition of evening weddings) + 姻 yīn (marriage-alliance; matrimony — 女 woman + 因 cause/connection). The formal compound for marriage. 婚礼 hūnlǐ = wedding ceremony. 结婚 jiéhūn = to get married. 离婚 líhūn = to divorce. 婚姻法 hūnyīn fǎ = Marriage Law (the civil statute governing marriage in China).
+          婚 hūn (marriage , 女 woman + 昏 dusk, from the tradition of evening weddings) + 姻 yīn (marriage-alliance; matrimony — 女 woman + 因 cause/connection). The formal compound for marriage. 婚礼 hūnlǐ = wedding ceremony. 结婚 jiéhūn = to get married. 离婚 líhūn = to divorce. 婚姻法 hūnyīn fǎ = Marriage Law (the civil statute governing marriage in China).
         </div>
         <div class="examples">
           <div class="example">

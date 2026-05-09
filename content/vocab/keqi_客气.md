@@ -68,7 +68,7 @@ content_sources:
       <span class="topic-hero-eyebrow">Vocabulary · 词汇 cíhuì</span>
       <h1 class="topic-hero-title">客气</h1>
       <span class="topic-hero-title-py">kèqi</span>
-      <p class="topic-hero-desc">The polite manners owed to a guest — and the choreography of refusal, insistence, and ritual modesty that runs through every Chinese social interaction.</p>
+      <p class="topic-hero-desc">The polite manners owed to a guest , and the choreography of refusal, insistence, and ritual modesty that runs through every Chinese social interaction.</p>
     </header>
 
     <span class="section-anchor" id="meaning"></span>

@@ -108,7 +108,7 @@ content_sources:
 
     <div class="scholar" data-glyph="好">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
-      <p><strong>好 = 女 nǚ</strong> (woman) <strong>+ 子 zǐ</strong> (child). The oracle-bone form shows a woman holding or beside a child. The classical interpretation: a mother with her child — the most fundamental image of goodness, completeness, and right order. What is <em>good</em> is what is in its proper, natural place.</p>
+      <p><strong>好 = 女 nǚ</strong> (woman) <strong>+ 子 zǐ</strong> (child). The oracle-bone form shows a woman holding or beside a child. The classical interpretation: a mother with her child , the most fundamental image of goodness, completeness, and right order. What is <em>good</em> is what is in its proper, natural place.</p>
       <p>This etymology has attracted feminist critiques in modern Chinese scholarship, but the compositional logic is simply Shang-dynasty cultural values: mother-and-child was the baseline image of the good. The character has outlasted the ideology that produced it, and 好 now spans everything from casual "okay" to formal "excellent."</p>
       <p>好 is also one of the most expressive characters in spoken Mandarin. Tone, length, and context transform it completely: 好 (flat) = okay / yes · 好！(emphatic) = Great! · 好好好 (rapid) = fine fine fine (slightly impatient) · 好嘛 (wheedling) = okay? please? · 好了好了 = alright alright (enough).</p>
     </div>
@@ -162,7 +162,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-v">V 动词 dòngcí</span></div>
         <div class="card-def">
-          The verbal reading — a habitual liking or tendency. More formal and literary than 喜欢 xǐhuān. Common in compounds: 好奇 hàoqí (curious — fond of the strange), 好学 hàoxué (studious — fond of learning), 爱好 àihào (hobby — love-fondness). The 4th tone signals the verbal, active sense.
+          The verbal reading , a habitual liking or tendency. More formal and literary than 喜欢 xǐhuān. Common in compounds: 好奇 hàoqí (curious , fond of the strange), 好学 hàoxué (studious , fond of learning), 爱好 àihào (hobby , love-fondness). The 4th tone signals the verbal, active sense.
         </div>
         <div class="examples">
           <div class="example">
@@ -173,7 +173,7 @@ content_sources:
           <div class="example">
             <div class="ex-cn">她很好奇，什么都想知道。</div>
             <div class="ex-py">Tā hěn hàoqí, shénme dōu xiǎng zhīdào.</div>
-            <div class="ex-en">She is very curious — she wants to know everything.</div>
+            <div class="ex-en">She is very curious , she wants to know everything.</div>
           </div>
         </div>
         <div class="note">
@@ -203,7 +203,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-adj">Pattern 句型 jùxíng</span></div>
         <div class="card-def">
-          好 before a verb = easy/pleasant to do that action. 好吃 hǎochī (tasty — easy/good to eat), 好看 hǎokàn (good-looking), 好听 hǎotīng (pleasant to hear), 好用 hǎoyòng (handy — easy to use), 好写 hǎo xiě (easy to write). The negative form 不好 + V = hard/unpleasant to do: 不好说 (hard to say).
+          好 before a verb = easy/pleasant to do that action. 好吃 hǎochī (tasty , easy/good to eat), 好看 hǎokàn (good-looking), 好听 hǎotīng (pleasant to hear), 好用 hǎoyòng (handy , easy to use), 好写 hǎo xiě (easy to write). The negative form 不好 + V = hard/unpleasant to do: 不好说 (hard to say).
         </div>
         <div class="examples">
           <div class="example">
@@ -324,7 +324,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          爱 ài (to love) + 好 hào (to be fond of). A thing one loves doing — a hobby or passion. One of the first personal vocabulary items learners need: 你有什么爱好？(What are your hobbies?)
+          爱 ài (to love) + 好 hào (to be fond of). A thing one loves doing , a hobby or passion. One of the first personal vocabulary items learners need: 你有什么爱好？(What are your hobbies?)
         </div>
         <div class="examples">
           <div class="example">
@@ -343,7 +343,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-adj">Adj 形容词 xíngróngcí</span></div>
         <div class="card-def">
-          好 hào (fond of) + 奇 qí (the strange, the unusual). Fond of the unusual — curious. 好奇心 hàoqíxīn = curiosity (the heart of fondness for strangeness).
+          好 hào (fond of) + 奇 qí (the strange, the unusual). Fond of the unusual , curious. 好奇心 hàoqíxīn = curiosity (the heart of fondness for strangeness).
         </div>
         <div class="examples">
           <div class="example">

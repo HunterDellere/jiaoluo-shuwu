@@ -30,7 +30,7 @@ pinyin: 'érqiě'
     <ul class="toc-list">
       <li><a href="#etymology">
         <span class="toc-cn">字源</span> Etymology
-        <span class="toc-sub">而 and 且 — two conjunctions joined</span>
+        <span class="toc-sub">而 and 且 , two conjunctions joined</span>
       </a></li>
       <li><a href="#patterns">
         <span class="toc-cn">句型</span> Core Patterns
@@ -63,7 +63,7 @@ pinyin: 'érqiě'
       <span class="topic-hero-eyebrow">Grammar · 语法 yǔfǎ · Conjunction 连词 liáncí</span>
       <h1 class="topic-hero-title">而且</h1>
       <span class="topic-hero-title-py">érqiě</span>
-      <p class="topic-hero-desc">Additive conjunction — "moreover, and furthermore, and what's more." Layers a second quality onto the first with escalating or reinforcing force.</p>
+      <p class="topic-hero-desc">Additive conjunction , "moreover, and furthermore, and what's more." Layers a second quality onto the first with escalating or reinforcing force.</p>
     </header>
 
     <!-- ── ETYMOLOGY ── -->
@@ -93,9 +93,9 @@ pinyin: 'érqiě'
 
     <div class="pattern">
       <span class="label">句型 jùxíng · Basic Structure</span>
-      <strong>[Clause A]，而且 [Clause B]</strong> — B adds to or strengthens A<br>
-      <strong>[Adj A]，而且 [Adj B]</strong> — two qualities, both present, B escalating<br>
-      <strong>不但 [A]，而且 [B]</strong> — the most common formal paired pattern (see below)
+      <strong>[Clause A]，而且 [Clause B]</strong> , B adds to or strengthens A<br>
+      <strong>[Adj A]，而且 [Adj B]</strong> , two qualities, both present, B escalating<br>
+      <strong>不但 [A]，而且 [B]</strong> , the most common formal paired pattern (see below)
     </div>
 
     <div class="cards">
@@ -146,7 +146,7 @@ pinyin: 'érqiě'
 
     <div class="pattern">
       <span class="label">成对连词 chéngduì liáncí · Paired Connectives</span>
-      <strong>不但 [A]，而且 [B]</strong> — not only A, but also B (standard)<br>
+      <strong>不但 [A]，而且 [B]</strong> , not only A, but also B (standard)<br>
       <strong>不仅 [A]，而且 [B]</strong> — not merely A, but moreover B (slightly more formal)<br>
       <strong>不只 [A]，而且 [B]</strong> — not just A, but furthermore B (colloquial variant)
     </div>

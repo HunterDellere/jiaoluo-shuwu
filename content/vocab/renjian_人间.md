@@ -67,7 +67,7 @@ content_review: 'pending'
       <span class="topic-hero-eyebrow">Vocabulary · 词汇 cíhuì</span>
       <h1 class="topic-hero-title">人间</h1>
       <span class="topic-hero-title-py">rénjiān</span>
-      <p class="topic-hero-desc">The human world — where things bloom and fade, where relationships form and dissolve, and where, according to Buddhist teaching, the only beings capable of achieving enlightenment happen to live.</p>
+      <p class="topic-hero-desc">The human world , where things bloom and fade, where relationships form and dissolve, and where, according to Buddhist teaching, the only beings capable of achieving enlightenment happen to live.</p>
     </header>
 
     <!-- ── ETYMOLOGY ── -->
@@ -81,7 +81,7 @@ content_review: 'pending'
 
     <div class="scholar" data-glyph="间">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
-      <p><strong>人 rén</strong> (person; pictograph of a standing figure, legs apart) <strong>+ 间 jiān</strong> (between; space; interval; gap — originally a pictograph of moonlight through a gate, later: any space between things). 人间 = literally "the space between/among people" or "the realm in which people dwell." The spatial metaphor is deliberate: 间 (jiān) names a gap, a middle zone, and so 人间 is the middle realm — between heaven above and the underworld below.</p>
+      <p><strong>人 rén</strong> (person; pictograph of a standing figure, legs apart) <strong>+ 间 jiān</strong> (between; space; interval; gap , originally a pictograph of moonlight through a gate, later: any space between things). 人间 = literally "the space between/among people" or "the realm in which people dwell." The spatial metaphor is deliberate: 间 (jiān) names a gap, a middle zone, and so 人间 is the middle realm , between heaven above and the underworld below.</p>
       <p>间 does heavy work in Mandarin as a locational suffix: 房间 fángjiān (room, lit. "room-space"), 时间 shíjiān (time, lit. "time-interval"), 空间 kōngjiān (space, volume, room to move), 民间 mínjiān (folk; among the people). In all these, 间 signals a zone defined by what surrounds it. 人间 follows the same logic: the zone defined by the presence of human beings.</p>
     </div>
 
@@ -96,8 +96,8 @@ content_review: 'pending'
 
     <div class="scholar" data-glyph="天">
       <div class="scholar-label">文化洞见 wénhuà dòngjiàn · Cultural Note</div>
-      <p>In the cosmological framework shared across Daoist, Buddhist, and Chinese folk-religion traditions, existence is divided into three stacked realms: <strong>天界 tiānjiè</strong> (the celestial realm, where gods and immortals dwell), <strong>人间 rénjiān</strong> (the human world, the middle realm), and <strong>地府 dìfǔ</strong> or <strong>冥界 míngjiè</strong> (the underworld, ruled by the Jade Emperor's counterpart 阎王 Yánwáng, the king of the dead). This vertical cosmology underlies the logic of Chinese opera, folk tales, and religious ritual: gods descend into 人间, ghosts rise from 地府, and humans — caught in the middle — are the audience and protagonists of both.</p>
-      <p>The folk-religion usage is especially vivid in drama and fiction. In countless traditional tales, a celestial being (仙 xiān) is banished to 人间 as punishment for some transgression, stripped of immortality and forced to live as a mortal. The drama is precisely about the weight of 人间 — its grief, its beauty, its attachments. The celestial realm is safe and long but cold; 人间 is dangerous and brief but full of feeling.</p>
+      <p>In the cosmological framework shared across Daoist, Buddhist, and Chinese folk-religion traditions, existence is divided into three stacked realms: <strong>天界 tiānjiè</strong> (the celestial realm, where gods and immortals dwell), <strong>人间 rénjiān</strong> (the human world, the middle realm), and <strong>地府 dìfǔ</strong> or <strong>冥界 míngjiè</strong> (the underworld, ruled by the Jade Emperor's counterpart 阎王 Yánwáng, the king of the dead). This vertical cosmology underlies the logic of Chinese opera, folk tales, and religious ritual: gods descend into 人间, ghosts rise from 地府, and humans , caught in the middle , are the audience and protagonists of both.</p>
+      <p>The folk-religion usage is especially vivid in drama and fiction. In countless traditional tales, a celestial being (仙 xiān) is banished to 人间 as punishment for some transgression, stripped of immortality and forced to live as a mortal. The drama is precisely about the weight of 人间 , its grief, its beauty, its attachments. The celestial realm is safe and long but cold; 人间 is dangerous and brief but full of feeling.</p>
     </div>
 
     <div class="cards">
@@ -110,7 +110,7 @@ content_review: 'pending'
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          The world as experienced by living human beings — distinct from the divine realm above and the realm of the dead below. Carries a strong connotation of transience: 人间 is where things are precious precisely because they do not last. The word can be used in a purely cosmological sense (human realm vs. celestial or underworld realm) or as an emotionally charged term for the full texture of human life.
+          The world as experienced by living human beings , distinct from the divine realm above and the realm of the dead below. Carries a strong connotation of transience: 人间 is where things are precious precisely because they do not last. The word can be used in a purely cosmological sense (human realm vs. celestial or underworld realm) or as an emotionally charged term for the full texture of human life.
         </div>
         <div class="examples">
           <div class="example">
@@ -121,7 +121,7 @@ content_review: 'pending'
           <div class="example">
             <div class="ex-cn">人间的悲欢离合，在这首诗里都写尽了。</div>
             <div class="ex-py">Rénjiān de bēihuān líhé, zài zhè shǒu shī lǐ dōu xiě jìn le.</div>
-            <div class="ex-en">The joys and sorrows, the partings and reunions of the human world — this poem has captured all of it.</div>
+            <div class="ex-en">The joys and sorrows, the partings and reunions of the human world , this poem has captured all of it.</div>
           </div>
           <div class="example">
             <div class="ex-cn">她下凡到人间，爱上了一个普通的书生。</div>
@@ -163,7 +163,7 @@ content_review: 'pending'
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          地 (earth; ground) + 府 (government office; official residence). The underground realm of the dead, governed by 阎王 Yánwáng (Yama, the king of the underworld) and his bureaucracy. Souls of the dead travel here after death to be judged, assigned their next rebirth, and — after drinking the soup of forgetfulness on the Bridge of Helplessness (奈何桥 Nàihéqiáo) — sent back to 人间 for another life. Also called 冥界 míngjiè or 阴间 yīnjiān.
+          地 (earth; ground) + 府 (government office; official residence). The underground realm of the dead, governed by 阎王 Yánwáng (Yama, the king of the underworld) and his bureaucracy. Souls of the dead travel here after death to be judged, assigned their next rebirth, and , after drinking the soup of forgetfulness on the Bridge of Helplessness (奈何桥 Nàihéqiáo) , sent back to 人间 for another life. Also called 冥界 míngjiè or 阴间 yīnjiān.
         </div>
         <div class="examples">
           <div class="example">
@@ -193,7 +193,7 @@ content_review: 'pending'
     <div class="scholar" data-glyph="道">
       <div class="scholar-label">佛教洞见 fójiào dòngjiàn · Buddhist Note</div>
       <p>Buddhist cosmology posits six realms of rebirth (六道 liù dào): gods (天 tiān), asuras (修罗 xiūluó), humans (人 rén), animals (畜生 chùsheng), hungry ghosts (饿鬼 èguǐ), and hell beings (地狱 dìyù). Among all six, birth in 人间 is the most conducive to awakening. The god realm lasts longer, but gods are too comfortable to feel the urgency of the Dharma. The lower realms are too painful for systematic practice. Only in 人间, with its mixture of pleasure and suffering, clarity and confusion, do beings have both the motivation and the capacity to hear the teaching and act on it.</p>
-      <p>The technical term is <strong>人身难得</strong> rén shēn nán dé — "human birth is difficult to obtain." A traditional analogy: imagine a blind turtle surfacing from the ocean's depths once every hundred years. The chance of that turtle surfacing with its neck through a wooden ring floating on the surface is how rare it is to be born human, according to the <em>Majjhima Nikāya</em>. 人间, in this framing, is not a fallen realm to be escaped but a rare opportunity to be used well.</p>
+      <p>The technical term is <strong>人身难得</strong> rén shēn nán dé , "human birth is difficult to obtain." A traditional analogy: imagine a blind turtle surfacing from the ocean's depths once every hundred years. The chance of that turtle surfacing with its neck through a wooden ring floating on the surface is how rare it is to be born human, according to the <em>Majjhima Nikāya</em>. 人间, in this framing, is not a fallen realm to be escaped but a rare opportunity to be used well.</p>
       <p>This view was the philosophical foundation of <strong>人间佛教 rénjiān fójiào</strong> (humanistic Buddhism), articulated by Master Taixu (太虚, 1890–1947) and carried forward by Hsing Yun (星云) of Fo Guang Shan and Shengyen (圣严) of Dharma Drum Mountain. Their argument: practice should transform this world, not withdraw from it. Liberation is not escape from 人间 but the full awakening of a human being living in it.</p>
     </div>
 
@@ -236,7 +236,7 @@ content_review: 'pending'
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          The 20th-century reformist movement, associated above all with Master Taixu (太虚, 1890–1947), that repositioned Buddhist practice away from funeral rites and other-worldly concerns toward engagement with society, education, and the relief of present suffering. 人间佛教 insists that the Buddha was himself a human being — not a supernatural deity — and that his path was designed to be walked by humans in this world, not after death.
+          The 20th-century reformist movement, associated above all with Master Taixu (太虚, 1890–1947), that repositioned Buddhist practice away from funeral rites and other-worldly concerns toward engagement with society, education, and the relief of present suffering. 人间佛教 insists that the Buddha was himself a human being , not a supernatural deity , and that his path was designed to be walked by humans in this world, not after death.
         </div>
         <div class="examples">
           <div class="example">
@@ -266,9 +266,9 @@ content_review: 'pending'
     <div class="scholar" data-glyph="月">
       <div class="scholar-label">文学洞见 wénxué dòngjiàn · Literary Note</div>
       <p>No other word concentrates the emotional charge of Chinese lyric poetry quite like 人间. The reason is structural: poetry in the Tang and Song traditions was saturated with a contrast between the elevated realm (mountain temples, celestial spheres, immortal groves) and the human world below. Whenever a poet writes 人间, they are writing the word against its opposite. The moon is in the sky; the viewer is in 人间. The peach blossoms at the mountain temple are just opening; the flowers of 人间 have already gone.</p>
-      <p>Bai Juyi (白居易, 772–846) uses this contrast in one of his most anthologized lines: <strong>人间四月芳菲尽，山寺桃花始盛开</strong> (Rénjiān sìyuè fāngfēi jìn, shānsì táohuā shǐ shèng kāi) — "The flowers of the human world have all faded in the fourth month; the peach blossoms at the mountain temple are just now coming into full bloom." The temple sits higher in elevation, where spring arrives later. But the poem is not about altitude; it is about 人间 as the place where things end before they end elsewhere. The word carries the season's loss.</p>
-      <p>Su Shi (苏轼, 1037–1101), writing his most famous Mid-Autumn Festival poem to his brother Su Zhe after years of separation, addresses the moon: <strong>但愿人长久，千里共婵娟</strong> (Dàn yuàn rén cháng jiǔ, qiānlǐ gòng chánjuān) — "May people live long; across a thousand li, may we share this moon's beauty together." The moon is constant; 人间 is where people age, separate, and lose each other. The wish is directed against what 人间 does to people.</p>
-      <p>Li Yu (李煜, 937–978), the last ruler of the Southern Tang dynasty and arguably the finest lyric poet in the Chinese tradition, wrote 人间 from inside catastrophe. Captured by the Song emperor, stripped of his throne, placed under house arrest in Kaifeng, he wrote: <strong>问君能有几多愁？恰似一江春水向东流</strong> (Wèn jūn néng yǒu jǐ duō chóu? Qià sì yī jiāng chūn shuǐ xiàng dōng liú) — "Ask how much sorrow can a person hold? As much as a river of spring water flowing east." His entire late body of work treats 人间 as the site of grief that admits no resolution.</p>
+      <p>Bai Juyi (白居易, 772–846) uses this contrast in one of his most anthologized lines: <strong>人间四月芳菲尽，山寺桃花始盛开</strong> (Rénjiān sìyuè fāngfēi jìn, shānsì táohuā shǐ shèng kāi) , "The flowers of the human world have all faded in the fourth month; the peach blossoms at the mountain temple are just now coming into full bloom." The temple sits higher in elevation, where spring arrives later. But the poem is not about altitude; it is about 人间 as the place where things end before they end elsewhere. The word carries the season's loss.</p>
+      <p>Su Shi (苏轼, 1037–1101), writing his most famous Mid-Autumn Festival poem to his brother Su Zhe after years of separation, addresses the moon: <strong>但愿人长久，千里共婵娟</strong> (Dàn yuàn rén cháng jiǔ, qiānlǐ gòng chánjuān) , "May people live long; across a thousand li, may we share this moon's beauty together." The moon is constant; 人间 is where people age, separate, and lose each other. The wish is directed against what 人间 does to people.</p>
+      <p>Li Yu (李煜, 937–978), the last ruler of the Southern Tang dynasty and arguably the finest lyric poet in the Chinese tradition, wrote 人间 from inside catastrophe. Captured by the Song emperor, stripped of his throne, placed under house arrest in Kaifeng, he wrote: <strong>问君能有几多愁？恰似一江春水向东流</strong> (Wèn jūn néng yǒu jǐ duō chóu? Qià sì yī jiāng chūn shuǐ xiàng dōng liú) , "Ask how much sorrow can a person hold? As much as a river of spring water flowing east." His entire late body of work treats 人间 as the site of grief that admits no resolution.</p>
     </div>
 
     <div class="cards">
@@ -280,13 +280,13 @@ content_review: 'pending'
           <span class="card-en">Bai Juyi · 大林寺桃花</span>
         </div>
         <div class="card-def">
-          The flowers of the human world have all faded in the fourth month; the peach blossoms at the mountain temple are just now coming into full bloom. Written during an excursion to Dalin Temple on Lushan (庐山), where Bai Juyi discovered that spring had not yet ended at altitude. The famous first line treats 人间 as the realm of seasonal mortality — where things run their course and end.
+          The flowers of the human world have all faded in the fourth month; the peach blossoms at the mountain temple are just now coming into full bloom. Written during an excursion to Dalin Temple on Lushan (庐山), where Bai Juyi discovered that spring had not yet ended at altitude. The famous first line treats 人间 as the realm of seasonal mortality , where things run their course and end.
         </div>
         <div class="examples">
           <div class="example">
             <div class="ex-cn">人间四月芳菲尽，山寺桃花始盛开。长恨春归无觅处，不知转入此中来。</div>
             <div class="ex-py">Rénjiān sìyuè fāngfēi jìn, shānsì táohuā shǐ shèng kāi. Cháng hèn chūn guī wú mì chù, bù zhī zhuǎn rù cǐ zhōng lái.</div>
-            <div class="ex-en">The flowers of the human world have all faded in the fourth month; the peach blossoms at the mountain temple are just now coming into full bloom. I long lamented spring's retreat with nowhere to find it — unaware it had turned and come in here.</div>
+            <div class="ex-en">The flowers of the human world have all faded in the fourth month; the peach blossoms at the mountain temple are just now coming into full bloom. I long lamented spring's retreat with nowhere to find it , unaware it had turned and come in here.</div>
           </div>
         </div>
       </div>
@@ -298,7 +298,7 @@ content_review: 'pending'
           <span class="card-en">Su Shi · 水调歌头 · Mid-Autumn 1076</span>
         </div>
         <div class="card-def">
-          May people live long; across a thousand li, may we share this moon's beauty together. Written in 1076, when Su Shi had not seen his brother Su Zhe for seven years. 婵娟 (chánjuān) was a classical term for the beautiful full moon. The wish — that people might simply live long enough to see the same sky — is the wish made by someone in 人间, where distance and time separate people the moon cannot.
+          May people live long; across a thousand li, may we share this moon's beauty together. Written in 1076, when Su Shi had not seen his brother Su Zhe for seven years. 婵娟 (chánjuān) was a classical term for the beautiful full moon. The wish , that people might simply live long enough to see the same sky , is the wish made by someone in 人间, where distance and time separate people the moon cannot.
         </div>
         <div class="examples">
           <div class="example">
@@ -316,13 +316,13 @@ content_review: 'pending'
           <span class="card-en">Li Yu · 虞美人 · c. 978</span>
         </div>
         <div class="card-def">
-          Ask how much sorrow can a person hold? As much as a river of spring water flowing east. Written under house arrest after the fall of his kingdom. Li Yu's late poems treat 人间 not as the middle realm between heaven and the underworld but as the place where loss accumulates beyond measure. This couplet is among the most quoted in the Chinese tradition — the river of sorrow endless, directional, unstoppable.
+          Ask how much sorrow can a person hold? As much as a river of spring water flowing east. Written under house arrest after the fall of his kingdom. Li Yu's late poems treat 人间 not as the middle realm between heaven and the underworld but as the place where loss accumulates beyond measure. This couplet is among the most quoted in the Chinese tradition , the river of sorrow endless, directional, unstoppable.
         </div>
         <div class="examples">
           <div class="example">
             <div class="ex-cn">春花秋月何时了，往事知多少。小楼昨夜又东风，故国不堪回首月明中。……问君能有几多愁？恰似一江春水向东流。</div>
             <div class="ex-py">Chūn huā qiū yuè hé shí liǎo, wǎngshì zhī duōshǎo. Xiǎo lóu zuóyè yòu dōngfēng, gùguó bù kān huí shǒu yuè míng zhōng. … Wèn jūn néng yǒu jǐ duō chóu? Qià sì yī jiāng chūn shuǐ xiàng dōng liú.</div>
-            <div class="ex-en">When will the spring flowers and autumn moon finally end? How much of the past do I know. Last night the east wind came again to my little tower — I cannot bear to look back at my old kingdom in the moonlight. … Ask how much sorrow can a person hold? As much as a river of spring water flowing east.</div>
+            <div class="ex-en">When will the spring flowers and autumn moon finally end? How much of the past do I know. Last night the east wind came again to my little tower , I cannot bear to look back at my old kingdom in the moonlight. … Ask how much sorrow can a person hold? As much as a river of spring water flowing east.</div>
           </div>
         </div>
       </div>
@@ -348,18 +348,18 @@ content_review: 'pending'
         </div>
         <div class="tags"><span class="tag tag-n">N phrase 名词短语</span></div>
         <div class="card-def">
-          烟火 (yānhuǒ) = smoke and fire — specifically the smoke of cooking fires and the warmth of a hearth. 人间烟火 refers to the sights, smells, and sounds of ordinary human life: street food stalls, the smell of garlic in a wok, a neighborhood at dusk. To say a place or person has 烟火气 (yānhuǒ qì, a sense of human warmth) is high praise in contemporary Chinese. Its opposite is 不食人间烟火 — "not eating the smoke and fire of 人间," meaning someone too ethereal or aloof to be of this world.
+          烟火 (yānhuǒ) = smoke and fire , specifically the smoke of cooking fires and the warmth of a hearth. 人间烟火 refers to the sights, smells, and sounds of ordinary human life: street food stalls, the smell of garlic in a wok, a neighborhood at dusk. To say a place or person has 烟火气 (yānhuǒ qì, a sense of human warmth) is high praise in contemporary Chinese. Its opposite is 不食人间烟火 , "not eating the smoke and fire of 人间," meaning someone too ethereal or aloof to be of this world.
         </div>
         <div class="examples">
           <div class="example">
             <div class="ex-cn">这条小巷充满了人间烟火，每天早上都飘着豆浆和油条的香味。</div>
             <div class="ex-py">Zhè tiáo xiǎo xiàng chōngmǎn le rénjiān yānhuǒ, měi tiān zǎoshang dōu piāo zhe dòujiāng hé yóutiáo de xiāngwèi.</div>
-            <div class="ex-en">This alley is full of the smoke and fire of human life — every morning it smells of soy milk and fried dough sticks.</div>
+            <div class="ex-en">This alley is full of the smoke and fire of human life , every morning it smells of soy milk and fried dough sticks.</div>
           </div>
           <div class="example">
             <div class="ex-cn">她身上有一种难得的人间烟火气，和她聊天总是让人感到踏实。</div>
             <div class="ex-py">Tā shēnshàng yǒu yī zhǒng nán dé de rénjiān yānhuǒ qì, hé tā liáotiān zǒng shì ràng rén gǎndào tāshí.</div>
-            <div class="ex-en">There's a rare warmth of ordinary humanity about her — talking with her always feels grounding.</div>
+            <div class="ex-en">There's a rare warmth of ordinary humanity about her , talking with her always feels grounding.</div>
           </div>
           <div class="example">
             <div class="ex-cn">旅行最大的乐趣，就是在异乡感受当地的人间烟火。</div>
@@ -377,13 +377,13 @@ content_review: 'pending'
         </div>
         <div class="tags"><span class="tag tag-adj">Adj phrase 形容词短语</span></div>
         <div class="card-def">
-          Literally: "does not eat the smoke and fire of 人间." Originally said of immortals (仙 xiān) and deities, who subsist on pure air rather than cooked food and are therefore free of the desires and needs that tie mortals to this world. Now used — sometimes as a compliment, more often as mild criticism — of people who seem too refined, too abstract, or too detached from practical reality. A brilliant but impractical scholar might be described this way.
+          Literally: "does not eat the smoke and fire of 人间." Originally said of immortals (仙 xiān) and deities, who subsist on pure air rather than cooked food and are therefore free of the desires and needs that tie mortals to this world. Now used , sometimes as a compliment, more often as mild criticism , of people who seem too refined, too abstract, or too detached from practical reality. A brilliant but impractical scholar might be described this way.
         </div>
         <div class="examples">
           <div class="example">
             <div class="ex-cn">她的气质超凡脱俗，不食人间烟火，仿佛不属于这个世界。</div>
             <div class="ex-py">Tā de qìzhì chāofán tuōsú, bù shí rénjiān yānhuǒ, fǎngfú bù shǔyú zhège shìjiè.</div>
-            <div class="ex-en">Her manner is otherworldly and refined — she seems not to eat the smoke and fire of the human world, as though she doesn't quite belong here.</div>
+            <div class="ex-en">Her manner is otherworldly and refined , she seems not to eat the smoke and fire of the human world, as though she doesn't quite belong here.</div>
           </div>
           <div class="example">
             <div class="ex-cn">他讲起理论来头头是道，但一到实际操作就不食人间烟火了。</div>
@@ -401,7 +401,7 @@ content_review: 'pending'
         </div>
         <div class="tags"><span class="tag tag-n">N phrase 名词短语</span></div>
         <div class="card-def">
-          天堂 (tiāntáng) = paradise; heaven. 人间天堂 collapses the cosmological distance between 人间 and 天界: a place so beautiful it brings the celestial into the human world. The phrase is used in the proverb <strong>上有天堂，下有苏杭</strong> (shàng yǒu tiāntáng, xià yǒu Sū Háng) — "Above there is heaven; below there are Suzhou and Hangzhou" — making both cities synonymous with 人间天堂.
+          天堂 (tiāntáng) = paradise; heaven. 人间天堂 collapses the cosmological distance between 人间 and 天界: a place so beautiful it brings the celestial into the human world. The phrase is used in the proverb <strong>上有天堂，下有苏杭</strong> (shàng yǒu tiāntáng, xià yǒu Sū Háng) , "Above there is heaven; below there are Suzhou and Hangzhou" , making both cities synonymous with 人间天堂.
         </div>
         <div class="examples">
           <div class="example">
@@ -430,18 +430,18 @@ content_review: 'pending'
         </div>
         <div class="tags"><span class="tag tag-v">V phrase 动词短语</span></div>
         <div class="card-def">
-          蒸发 (zhēngfā) = to evaporate; to vaporize. A colorful colloquial expression for someone who has completely disappeared from contact — not answering calls, not posting online, impossible to locate. The humor is cosmological: they have not merely left town, they have vacated 人间 entirely. Used lightly for anyone who has been unreachable for a while.
+          蒸发 (zhēngfā) = to evaporate; to vaporize. A colorful colloquial expression for someone who has completely disappeared from contact , not answering calls, not posting online, impossible to locate. The humor is cosmological: they have not merely left town, they have vacated 人间 entirely. Used lightly for anyone who has been unreachable for a while.
         </div>
         <div class="examples">
           <div class="example">
             <div class="ex-cn">他从上周起就没联系了，完全人间蒸发了。</div>
             <div class="ex-py">Tā cóng shàng zhōu qǐ jiù méi liánxì le, wánquán rénjiān zhēngfā le.</div>
-            <div class="ex-en">He's been out of contact since last week — completely evaporated from the human world.</div>
+            <div class="ex-en">He's been out of contact since last week , completely evaporated from the human world.</div>
           </div>
           <div class="example">
             <div class="ex-cn">明明说好要来，结果他人间蒸发，电话也不接。</div>
             <div class="ex-py">Míngmíng shuō hǎo yào lái, jiéguǒ tā rénjiān zhēngfā, diànhuà yě bù jiē.</div>
-            <div class="ex-en">He clearly agreed to come, and then he vanished from the face of the earth — not even answering his phone.</div>
+            <div class="ex-en">He clearly agreed to come, and then he vanished from the face of the earth , not even answering his phone.</div>
           </div>
         </div>
       </div>
@@ -460,9 +460,9 @@ content_review: 'pending'
     <div class="scholar" data-glyph="世">
       <div class="scholar-label">辨析洞见 biànxī dòngjiàn · Contrast Note</div>
       <p>Four words occupy overlapping territory around the concept of "this world": 人间, 世界, 世间, and 凡间. They are not interchangeable.</p>
-      <p><strong>世界 shìjiè</strong> is the general, everyday word for "world" or "the world." Buddhist in origin (世 shì = time; 界 jiè = space/realm), it combines the temporal and spatial dimensions of existence into a single concept. 世界 is the default word for "the world" in modern Chinese — neutral, geographical, without emotional loading. 世界地图 = a world map; 世界杯 = the World Cup. When you want to say "the whole world," you say 世界.</p>
-      <p><strong>世间 shìjiān</strong> is more literary, appearing primarily in Buddhist texts and classical prose. It is close to 人间 in meaning — the world of sentient beings, as opposed to the transcendent — but cooler in register. 世间 appears in formulas like 世间万物 (all things in the world) and 出世间 (transcending this world, i.e. nirvana). 世间 does not carry the warmth or transience-charged weight that 人间 does.</p>
-      <p><strong>凡间 fánjiān</strong> is the word used in folk religion and traditional drama for the mortal realm as seen from above or below. 凡 fán means "ordinary, mortal, earthly" — its antonym is 仙 xiān (immortal). When a god descends from the heavens in a folk tale, they descend into 凡间; when an immortal visits the human world, they enter 凡间. 凡间 emphasizes the distinction between the immortal and the mortal, rather than the intrinsic value of human life. 人间 can be used with tenderness; 凡间 tends to signal the heavenly or underworld perspective looking down.</p>
+      <p><strong>世界 shìjiè</strong> is the general, everyday word for "world" or "the world." Buddhist in origin (世 shì = time; 界 jiè = space/realm), it combines the temporal and spatial dimensions of existence into a single concept. 世界 is the default word for "the world" in modern Chinese , neutral, geographical, without emotional loading. 世界地图 = a world map; 世界杯 = the World Cup. When you want to say "the whole world," you say 世界.</p>
+      <p><strong>世间 shìjiān</strong> is more literary, appearing primarily in Buddhist texts and classical prose. It is close to 人间 in meaning , the world of sentient beings, as opposed to the transcendent , but cooler in register. 世间 appears in formulas like 世间万物 (all things in the world) and 出世间 (transcending this world, i.e. nirvana). 世间 does not carry the warmth or transience-charged weight that 人间 does.</p>
+      <p><strong>凡间 fánjiān</strong> is the word used in folk religion and traditional drama for the mortal realm as seen from above or below. 凡 fán means "ordinary, mortal, earthly" , its antonym is 仙 xiān (immortal). When a god descends from the heavens in a folk tale, they descend into 凡间; when an immortal visits the human world, they enter 凡间. 凡间 emphasizes the distinction between the immortal and the mortal, rather than the intrinsic value of human life. 人间 can be used with tenderness; 凡间 tends to signal the heavenly or underworld perspective looking down.</p>
     </div>
 
     <div class="cards">
@@ -495,7 +495,7 @@ content_review: 'pending'
           </div>
         </div>
         <div class="note">
-          <span class="note-label">辨析 biànxī — 世界 vs. 人间</span>
+          <span class="note-label">辨析 biànxī , 世界 vs. 人间</span>
           Use <strong>世界</strong> for geography, international affairs, general reference to "the world." Use <strong>人间</strong> when the emotional register is elevated — in poetry, in Buddhist or cosmological contexts, or when the transience of human life is part of the meaning. 世界上最美的风景 (the most beautiful scenery in the world) is normal speech. 人间最美的风景 shifts the claim into lyric register, implying the beauty is bound up with the brevity of human life.
         </div>
       </div>

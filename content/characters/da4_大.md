@@ -105,8 +105,8 @@ content_sources:
     <div class="scholar" data-glyph="大">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
       <p>The oracle-bone form of <strong>大</strong> is simply a person (人 rén) with arms spread wide, the body at its maximum horizontal extent. Greatness is measured against the human form. What is big fills more space than a person; what is great exceeds the human scale.</p>
-      <p>大 is the root radical for several related characters: 天 tiān (heaven — a person with a line above their head, something beyond the human), 夫 fū (a man with a hairpin — an adult man), 太 tài (very; excessive — 大 with an extra dot), and 夭 yāo (to die young — a person bent or falling). All are modifications of the spread-armed human figure.</p>
-      <p>In Chinese cosmological thought, 大 is one of the supreme qualifiers. The Laozi writes: 道大、天大、地大、人亦大 — "The Dao is great, Heaven is great, Earth is great, and the human is also great." Four greats; the human among them.</p>
+      <p>大 is the root radical for several related characters: 天 tiān (heaven , a person with a line above their head, something beyond the human), 夫 fū (a man with a hairpin , an adult man), 太 tài (very; excessive , 大 with an extra dot), and 夭 yāo (to die young , a person bent or falling). All are modifications of the spread-armed human figure.</p>
+      <p>In Chinese cosmological thought, 大 is one of the supreme qualifiers. The Laozi writes: 道大、天大、地大、人亦大 , "The Dao is great, Heaven is great, Earth is great, and the human is also great." Four greats; the human among them.</p>
     </div>
 
     <!-- ── COSMOLOGICAL 大 ── -->
@@ -120,7 +120,7 @@ content_sources:
 
     <div class="scholar" data-glyph="大">
       <div class="scholar-label">道德经 · Laozi Chapter 25</div>
-      <p>Laozi's chapter 25 contains the famous formula: <strong>域中有四大，而人居其一焉</strong> — "In the cosmos there are four greats, and the human occupies one of them." The four greats are: 道 dào (the Way), 天 tiān (Heaven), 地 dì (Earth), and 人 rén (the Human). The human sits within a cosmological hierarchy, not at the top, but present. The human is <em>great</em> insofar as they align with the Dao.</p>
+      <p>Laozi's chapter 25 contains the famous formula: <strong>域中有四大，而人居其一焉</strong> , "In the cosmos there are four greats, and the human occupies one of them." The four greats are: 道 dào (the Way), 天 tiān (Heaven), 地 dì (Earth), and 人 rén (the Human). The human sits within a cosmological hierarchy, not at the top, but present. The human is <em>great</em> insofar as they align with the Dao.</p>
       <p>This framework connects 大 to the deepest questions in Chinese philosophy. 大学 Dàxué (the Great Learning, one of the Four Books of Confucianism) is literally "great learning," the learning of how to be fully, cosmologically human. The university (大学 dàxué) carries this name.</p>
     </div>
 
@@ -206,7 +206,7 @@ content_sources:
           <div class="example">
             <div class="ex-cn">她举止大方，给人留下很好的印象。</div>
             <div class="ex-py">Tā jǔzhǐ dàfang, gěi rén liú xià hěn hǎo de yìnxiàng.</div>
-            <div class="ex-en">Her manner is poised and natural — she makes a great impression.</div>
+            <div class="ex-en">Her manner is poised and natural , she makes a great impression.</div>
           </div>
         </div>
       </div>

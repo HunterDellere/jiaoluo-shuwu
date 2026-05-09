@@ -35,7 +35,7 @@ pinyin: 'zhe'
       </a></li>
       <li><a href="#durative">
         <span class="toc-cn">持续态</span> Durative State
-        <span class="toc-sub">V + 着 — an ongoing condition</span>
+        <span class="toc-sub">V + 着 , an ongoing condition</span>
       </a></li>
       <li><a href="#attendant">
         <span class="toc-cn">伴随状态</span> Attendant Circumstance
@@ -71,7 +71,7 @@ pinyin: 'zhe'
       <span class="topic-hero-eyebrow">Grammar · 语法 yǔfǎ</span>
       <h1 class="topic-hero-title">着</h1>
       <span class="topic-hero-title-py">zhe</span>
-      <p class="topic-hero-desc">Three distinct jobs: holding a state, linking two actions, and commanding attention — all from a single particle that beginners collapse into one.</p>
+      <p class="topic-hero-desc">Three distinct jobs: holding a state, linking two actions, and commanding attention , all from a single particle that beginners collapse into one.</p>
     </header>
 
     <!-- ── OVERVIEW ── -->
@@ -85,10 +85,10 @@ pinyin: 'zhe'
 
     <div class="scholar" data-glyph="着">
       <div class="scholar-label">学者洞见 xuézhě dòngjiàn · One Character, Three Jobs</div>
-      <p><strong>着</strong> zhe (neutral tone) is the most versatile of the four Mandarin aspect markers — and the most routinely under-taught. Where 了 marks completion and 过 marks lived experience, 着 holds time still: it says that a condition is in force, a posture is being maintained, or a background action is accompanying the main event. Learners who know only the durative use will miss the other two entirely.</p>
+      <p><strong>着</strong> zhe (neutral tone) is the most versatile of the four Mandarin aspect markers , and the most routinely under-taught. Where 了 marks completion and 过 marks lived experience, 着 holds time still: it says that a condition is in force, a posture is being maintained, or a background action is accompanying the main event. Learners who know only the durative use will miss the other two entirely.</p>
       <p>The three functions are genuinely distinct and should be learned separately:</p>
-      <p><strong>1. Durative state (持续态 chíxùtài):</strong> V + 着 — the result of an action continues to hold. 门开着 "the door is open" describes the current state, not the act of opening.</p>
-      <p><strong>2. Attendant circumstance (伴随状态 bànsuí zhuàngtài):</strong> V1 + 着 + V2 — while doing V1, also doing V2. 他笑着说 "he said it with a smile / he spoke, smiling." The 着-clause is the background; the second verb is the foreground.</p>
+      <p><strong>1. Durative state (持续态 chíxùtài):</strong> V + 着 , the result of an action continues to hold. 门开着 "the door is open" describes the current state, not the act of opening.</p>
+      <p><strong>2. Attendant circumstance (伴随状态 bànsuí zhuàngtài):</strong> V1 + 着 + V2 , while doing V1, also doing V2. 他笑着说 "he said it with a smile / he spoke, smiling." The 着-clause is the background; the second verb is the foreground.</p>
       <p><strong>3. Imperative / attention (命令语气 mìnglìng yǔqì):</strong> 你听着！"Now listen!" The 着 sharpens a command and signals that the speaker requires sustained attention, not just a one-time response.</p>
     </div>
 
@@ -107,7 +107,7 @@ pinyin: 'zhe'
       门开<strong>着</strong>。Mén kāi <strong>zhe</strong>. — The door is open. (the opened state persists)<br>
       他穿<strong>着</strong>一件红衬衫。Tā chuān <strong>zhe</strong> yī jiàn hóng chènshān. — He is wearing a red shirt.<br>
       桌上放<strong>着</strong>一本书。Zhuō shàng fàng <strong>zhe</strong> yī běn shū. — A book is lying on the table.<br><br>
-      <strong>Key insight:</strong> The verb describes an action that has already produced its result — the focus is on the <em>resulting state</em>, not the action itself. 开 (to open) produces the open state; 着 signals that state is currently in force.
+      <strong>Key insight:</strong> The verb describes an action that has already produced its result , the focus is on the <em>resulting state</em>, not the action itself. 开 (to open) produces the open state; 着 signals that state is currently in force.
     </div>
 
     <div class="cards">
@@ -136,12 +136,12 @@ pinyin: 'zhe'
           <div class="example">
             <div class="ex-cn">门关着，进不去。</div>
             <div class="ex-py">Mén guān zhe, jìn bù qù.</div>
-            <div class="ex-en">The door is closed — can't get in.</div>
+            <div class="ex-en">The door is closed , can't get in.</div>
           </div>
         </div>
         <div class="note">
           <span class="note-label">语法 yǔfǎ · Grammar Note</span>
-          Verbs that naturally produce a persistent resulting state — 开 (open), 关 (close), 放 (place), 挂 (hang), 坐 (sit), 站 (stand), 躺 (lie down), 穿 (wear) — pair most naturally with durative 着. Verbs that are instantaneous or that don't leave a maintained state (如 打 "hit", 说 "say") use 着 differently, typically in the attendant-circumstance construction.
+          Verbs that naturally produce a persistent resulting state , 开 (open), 关 (close), 放 (place), 挂 (hang), 坐 (sit), 站 (stand), 躺 (lie down), 穿 (wear) , pair most naturally with durative 着. Verbs that are instantaneous or that don't leave a maintained state (如 打 "hit", 说 "say") use 着 differently, typically in the attendant-circumstance construction.
         </div>
       </div>
 
@@ -169,7 +169,7 @@ pinyin: 'zhe'
           <div class="example">
             <div class="ex-cn">她躺着看手机，眼睛很累。</div>
             <div class="ex-py">Tā tǎng zhe kàn shǒujī, yǎnjing hěn lèi.</div>
-            <div class="ex-en">She lies in bed looking at her phone — her eyes get tired.</div>
+            <div class="ex-en">She lies in bed looking at her phone , her eyes get tired.</div>
           </div>
         </div>
       </div>
@@ -233,7 +233,7 @@ pinyin: 'zhe'
         </div>
         <div class="tags"><span class="tag tag-v">V1 + 着 + V2 · manner</span></div>
         <div class="card-def">
-          The canonical attendant circumstance: 笑着 (smiling) + 说 (to say). The 着 links the two actions — the smiling frames and accompanies the speaking. This construction is the default way to describe facial expression or gesture accompanying speech in Chinese narrative. The 说 carries the communicative weight; 笑着 colors it.
+          The canonical attendant circumstance: 笑着 (smiling) + 说 (to say). The 着 links the two actions , the smiling frames and accompanies the speaking. This construction is the default way to describe facial expression or gesture accompanying speech in Chinese narrative. The 说 carries the communicative weight; 笑着 colors it.
         </div>
         <div class="examples">
           <div class="example">
@@ -325,17 +325,17 @@ pinyin: 'zhe'
           <div class="example">
             <div class="ex-cn">记着，明天早上八点来。</div>
             <div class="ex-py">Jì zhe, míngtiān zǎoshang bā diǎn lái.</div>
-            <div class="ex-en">Remember — come at eight o'clock tomorrow morning.</div>
+            <div class="ex-en">Remember , come at eight o'clock tomorrow morning.</div>
           </div>
           <div class="example">
             <div class="ex-cn">等着吧，他一定会来的。</div>
             <div class="ex-py">Děng zhe ba, tā yīdìng huì lái de.</div>
-            <div class="ex-en">Just wait — he'll definitely come.</div>
+            <div class="ex-en">Just wait , he'll definitely come.</div>
           </div>
         </div>
         <div class="note">
           <span class="note-label">语法 yǔfǎ · 等着瞧 děng zhe qiáo</span>
-          One fixed expression from this pattern is <strong>等着瞧</strong> děng zhe qiáo — "just wait and see." 等着 (keep waiting) + 瞧 (see/look). Used as a mild challenge or prediction: "you'll find out soon enough." The pattern is so lexicalized that most speakers use it without consciously analyzing the 着.
+          One fixed expression from this pattern is <strong>等着瞧</strong> děng zhe qiáo , "just wait and see." 等着 (keep waiting) + 瞧 (see/look). Used as a mild challenge or prediction: "you'll find out soon enough." The pattern is so lexicalized that most speakers use it without consciously analyzing the 着.
         </div>
       </div>
 
@@ -353,8 +353,8 @@ pinyin: 'zhe'
     <div class="scholar" data-glyph="在">
       <div class="scholar-label">辨析 biànxī · The Hardest Pair: V + 着 vs 在 + V</div>
       <p>Both V + 着 and 在 + V describe something happening right now, and both translate into English progressive forms ("-ing"). Beginners treat them as interchangeable. They are not.</p>
-      <p><strong>在 + V</strong> marks active, ongoing process. The event is in progress, unfolding in real time. <strong>他在睡觉</strong> — "He is sleeping" (the sleeping is actively happening right now, an ongoing process). You can add 正在 for extra emphasis on the in-progress quality.</p>
-      <p><strong>V + 着</strong> marks the maintenance of a resulting state. <strong>他睡着呢</strong> — "He is asleep" (he has entered sleep and that state continues). The focus is on the state, not the process. The distinction matters when the two come apart: 他在穿衣服 = "he is in the process of getting dressed" (action in progress); 他穿着衣服 = "he has his clothes on" (the dressed state is maintained). Once you are dressed, you are not in-progress-dressing.</p>
+      <p><strong>在 + V</strong> marks active, ongoing process. The event is in progress, unfolding in real time. <strong>他在睡觉</strong> , "He is sleeping" (the sleeping is actively happening right now, an ongoing process). You can add 正在 for extra emphasis on the in-progress quality.</p>
+      <p><strong>V + 着</strong> marks the maintenance of a resulting state. <strong>他睡着呢</strong> , "He is asleep" (he has entered sleep and that state continues). The focus is on the state, not the process. The distinction matters when the two come apart: 他在穿衣服 = "he is in the process of getting dressed" (action in progress); 他穿着衣服 = "he has his clothes on" (the dressed state is maintained). Once you are dressed, you are not in-progress-dressing.</p>
       <p>A further pairing sharpens this: 在 typically describes what you can see happening (a process you could watch); 着 describes what you might observe as a static condition (a state you see at a glance).</p>
     </div>
 
@@ -367,23 +367,23 @@ pinyin: 'zhe'
           <span class="card-en">he is sleeping (process) vs he is asleep (state)</span>
         </div>
         <div class="card-def">
-          The single clearest contrast pair. 在睡觉 — the process of sleeping is ongoing (you might be watching him fall asleep, or he just lay down). 睡着呢 — he is in the sleeping state; the state of having-fallen-asleep is what is being described. In practice, if someone asks if they should wake a person, the answer uses 着: 他睡着呢，别吵他 "He's asleep — don't disturb him."
+          The single clearest contrast pair. 在睡觉 , the process of sleeping is ongoing (you might be watching him fall asleep, or he just lay down). 睡着呢 , he is in the sleeping state; the state of having-fallen-asleep is what is being described. In practice, if someone asks if they should wake a person, the answer uses 着: 他睡着呢，别吵他 "He's asleep , don't disturb him."
         </div>
         <div class="examples">
           <div class="example">
             <div class="ex-cn">她在看书。</div>
             <div class="ex-py">Tā zài kàn shū.</div>
-            <div class="ex-en">She is reading. (action in progress — you could watch it)</div>
+            <div class="ex-en">She is reading. (action in progress , you could watch it)</div>
           </div>
           <div class="example">
             <div class="ex-cn">书放着呢，没动过。</div>
             <div class="ex-py">Shū fàng zhe ne, méi dòng guò.</div>
-            <div class="ex-en">The book is sitting there — hasn't been touched.</div>
+            <div class="ex-en">The book is sitting there , hasn't been touched.</div>
           </div>
           <div class="example">
             <div class="ex-cn">灯开着，有人在家。</div>
             <div class="ex-py">Dēng kāi zhe, yǒu rén zài jiā.</div>
-            <div class="ex-en">The light is on — someone's home.</div>
+            <div class="ex-en">The light is on , someone's home.</div>
           </div>
         </div>
       </div>
@@ -395,18 +395,18 @@ pinyin: 'zhe'
           <span class="card-en">fell asleep (resultative) vs is asleep (durative state)</span>
         </div>
         <div class="card-def">
-          This pair trips up even intermediate learners. <strong>睡着了</strong> — here 着 is pronounced <em>zháo</em> (second tone), not <em>zhe</em>. It is a resultative complement: 睡 (to sleep) + 着 zháo (achieved, reached the result) + 了 (completed). Meaning: "fell asleep / has fallen asleep." <strong>睡着呢</strong> — here 着 is the neutral-tone durative particle. The person is in the sleeping state. The tone alone distinguishes them in speech; in writing, context resolves the ambiguity.
+          This pair trips up even intermediate learners. <strong>睡着了</strong> , here 着 is pronounced <em>zháo</em> (second tone), not <em>zhe</em>. It is a resultative complement: 睡 (to sleep) + 着 zháo (achieved, reached the result) + 了 (completed). Meaning: "fell asleep / has fallen asleep." <strong>睡着呢</strong> , here 着 is the neutral-tone durative particle. The person is in the sleeping state. The tone alone distinguishes them in speech; in writing, context resolves the ambiguity.
         </div>
         <div class="examples">
           <div class="example">
             <div class="ex-cn">孩子终于睡着了。</div>
             <div class="ex-py">Háizi zhōngyú shuì zháo le.</div>
-            <div class="ex-en">The child finally fell asleep. (resultative — the act of falling asleep was achieved)</div>
+            <div class="ex-en">The child finally fell asleep. (resultative , the act of falling asleep was achieved)</div>
           </div>
           <div class="example">
             <div class="ex-cn">孩子睡着呢，小声点。</div>
             <div class="ex-py">Háizi shuì zhe ne, xiǎoshēng diǎn.</div>
-            <div class="ex-en">The child is asleep — keep it down. (durative state)</div>
+            <div class="ex-en">The child is asleep , keep it down. (durative state)</div>
           </div>
           <div class="example">
             <div class="ex-cn">他躺了很久，一直没睡着。</div>
@@ -433,7 +433,7 @@ pinyin: 'zhe'
 
     <div class="scholar" data-glyph="着">
       <div class="scholar-label">学者洞见 xuézhě dòngjiàn · The Reduplicated Pattern</div>
-      <p>Repeat the same verb with 着 after each instance and you get a construction that captures a gradual shift occurring through continued action: <strong>V + 着 + V + 着</strong>. The most famous instance is <strong>说着说着她哭了</strong> — "as she kept talking, she began to cry." The talking continued; at some point during that continuation, emotion broke through. The pattern implies that the outcome was neither planned nor sudden, but accumulated.</p>
+      <p>Repeat the same verb with 着 after each instance and you get a construction that captures a gradual shift occurring through continued action: <strong>V + 着 + V + 着</strong>. The most famous instance is <strong>说着说着她哭了</strong> , "as she kept talking, she began to cry." The talking continued; at some point during that continuation, emotion broke through. The pattern implies that the outcome was neither planned nor sudden, but accumulated.</p>
       <p>This is not a mistake or colloquialism. It is a productive and well-formed construction in standard Mandarin, particularly frequent in narrative prose and personal storytelling. It answers the question of how a change came about not with a single cause but with a process: "while it kept going, it shifted."</p>
     </div>
 
@@ -485,7 +485,7 @@ pinyin: 'zhe'
         <span class="cy-cn">着手</span>
         <span class="cy-py">zháoshǒu</span>
         <span class="cy-en">to set about; to begin tackling (a task)</span>
-        <span class="cy-note">着 zháo (second tone, resultative) + 手 hand. Literally "to have the hands land on something" — to get a grip on a task and begin. The image is of hands making contact with work. Formal and decisive in register: 着手解决问题 "to set about solving the problem." Distinct from 开始 (to begin), which is neutral; 着手 implies directness and engagement.</span>
+        <span class="cy-note">着 zháo (second tone, resultative) + 手 hand. Literally "to have the hands land on something" , to get a grip on a task and begin. The image is of hands making contact with work. Formal and decisive in register: 着手解决问题 "to set about solving the problem." Distinct from 开始 (to begin), which is neutral; 着手 implies directness and engagement.</span>
       </div>
 
       <div class="cy">
@@ -499,14 +499,14 @@ pinyin: 'zhe'
         <span class="cy-cn">不着边际</span>
         <span class="cy-py">bùzháobiānjì</span>
         <span class="cy-en">wide of the mark; irrelevant; rambling without getting to the point</span>
-        <span class="cy-note">不 + 着 zháo (achieve, land) + 边际 (edge, boundary). Literally "not landing on any boundary" — the talk or argument fails to touch the relevant point. Said of speech, writing, or proposals that circle around without engaging the actual issue. A pointed criticism: 他说了半天，全是不着边际的废话 "He talked for ages, all of it completely beside the point."</span>
+        <span class="cy-note">不 + 着 zháo (achieve, land) + 边际 (edge, boundary). Literally "not landing on any boundary" , the talk or argument fails to touch the relevant point. Said of speech, writing, or proposals that circle around without engaging the actual issue. A pointed criticism: 他说了半天，全是不着边际的废话 "He talked for ages, all of it completely beside the point."</span>
       </div>
 
       <div class="cy">
         <span class="cy-cn">等着瞧</span>
         <span class="cy-py">děng zhe qiáo</span>
         <span class="cy-en">wait and see; you'll find out (a mild challenge or prediction)</span>
-        <span class="cy-note">等着 (keep waiting, durative 着) + 瞧 (to look, see). The 着 holds the waiting in place: don't stop waiting, the answer is coming. Used when confident of an outcome the listener doubts, or as a light challenge: 等着瞧吧，谁对谁错很快就清楚了 "Just wait and see — who's right and who's wrong will be clear soon." Not hostile; often playful.</span>
+        <span class="cy-note">等着 (keep waiting, durative 着) + 瞧 (to look, see). The 着 holds the waiting in place: don't stop waiting, the answer is coming. Used when confident of an outcome the listener doubts, or as a light challenge: 等着瞧吧，谁对谁错很快就清楚了 "Just wait and see , who's right and who's wrong will be clear soon." Not hostile; often playful.</span>
       </div>
 
     </div>

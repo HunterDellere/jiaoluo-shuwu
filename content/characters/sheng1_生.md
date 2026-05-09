@@ -105,7 +105,7 @@ content_sources:
     <div class="scholar" data-glyph="生">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
       <p><strong>生 shēng</strong> is one of the oldest and most transparent characters in the writing system. The oracle-bone form shows a plant 屮 pushing upward through the ground 土, a sprout emerging from the earth. Life, in its most primal pictographic form: the moment of <em>emergence.</em></p>
-      <p>This single image radiates into four distinct semantic clusters that are all still active in modern Chinese: (1) <strong>life and living</strong> (生命, 生活, 生存); (2) <strong>birth and coming into being</strong> (出生, 诞生, 产生); (3) <strong>raw and unprocessed</strong> (生的, 生疏, 陌生 — things not yet cooked or cultivated); (4) <strong>student or junior person</strong> (学生, 先生 — one who is still "green," still growing).</p>
+      <p>This single image radiates into four distinct semantic clusters that are all still active in modern Chinese: (1) <strong>life and living</strong> (生命, 生活, 生存); (2) <strong>birth and coming into being</strong> (出生, 诞生, 产生); (3) <strong>raw and unprocessed</strong> (生的, 生疏, 陌生 , things not yet cooked or cultivated); (4) <strong>student or junior person</strong> (学生, 先生 , one who is still "green," still growing).</p>
       <p>生 is also a productive radical: 性 (nature; gender), 星 (star), 姓 (surname), 胜 (victory), 剩 (leftover) all contain elements of 生's root meaning. Once you see the sprout, you see it everywhere.</p>
     </div>
 
@@ -118,10 +118,10 @@ content_sources:
     </div>
 
     <div class="pattern">
-      <span class="label">生命 · 生活 · 生存 — Three Registers of "Life"</span>
+      <span class="label">生命 · 生活 · 生存 , Three Registers of "Life"</span>
       <strong>生命</strong> shēngmìng = life as biological existence, the life-force itself (philosophical, medical)<br>
-      <strong>生活</strong> shēnghuó = life as daily lived experience — "lifestyle," "livelihood"<br>
-      <strong>生存</strong> shēngcún = survival — existence under pressure; the will to persist
+      <strong>生活</strong> shēnghuó = life as daily lived experience , "lifestyle," "livelihood"<br>
+      <strong>生存</strong> shēngcún = survival , existence under pressure; the will to persist
     </div>
 
     <div class="cards">
@@ -140,7 +140,7 @@ content_sources:
           <div class="example">
             <div class="ex-cn">生命只有一次，要好好珍惜。</div>
             <div class="ex-py">Shēngmìng zhǐ yǒu yī cì, yào hǎohǎo zhēnxī.</div>
-            <div class="ex-en">Life only comes once — treasure it well.</div>
+            <div class="ex-en">Life only comes once , treasure it well.</div>
           </div>
         </div>
       </div>
@@ -177,7 +177,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-v">V 动词 dòngcí</span></div>
         <div class="card-def">
-          生 shēng + 存 cún (to exist; to preserve). Survival — continuing to exist under difficult conditions. 生存竞争 "survival competition" · 生存危机 "survival crisis." A more pressured, primal register than 生活.
+          生 shēng + 存 cún (to exist; to preserve). Survival , continuing to exist under difficult conditions. 生存竞争 "survival competition" · 生存危机 "survival crisis." A more pressured, primal register than 生活.
         </div>
         <div class="examples">
           <div class="example">
@@ -227,7 +227,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-v">V 动词 dòngcí</span></div>
         <div class="card-def">
-          产 chǎn (to produce; output) + 生 shēng (arise). For abstract and concrete creation — ideas, problems, emotions, consequences arising. 产生影响 "to have an effect" · 产生误会 "to give rise to a misunderstanding."
+          产 chǎn (to produce; output) + 生 shēng (arise). For abstract and concrete creation , ideas, problems, emotions, consequences arising. 产生影响 "to have an effect" · 产生误会 "to give rise to a misunderstanding."
         </div>
         <div class="examples">
           <div class="example">
@@ -258,7 +258,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          学 xué (to study; to learn) + 生 shēng (one who is still "green"; a junior person). The student as someone still growing, not yet ripe. One of the most common nouns in Chinese — every school context relies on it.
+          学 xué (to study; to learn) + 生 shēng (one who is still "green"; a junior person). The student as someone still growing, not yet ripe. One of the most common nouns in Chinese , every school context relies on it.
         </div>
         <div class="examples">
           <div class="example">
@@ -277,7 +277,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          先 xiān (first; ahead; earlier) + 生 shēng (one born; person). "One born earlier" — originally a teacher or Confucian master; now the standard polite term for "Mr." and also "husband" in formal contexts (我先生 "my husband"). A word whose meaning has drifted beautifully from teacher → gentleman → Mr.
+          先 xiān (first; ahead; earlier) + 生 shēng (one born; person). "One born earlier" , originally a teacher or Confucian master; now the standard polite term for "Mr." and also "husband" in formal contexts (我先生 "my husband"). A word whose meaning has drifted beautifully from teacher → gentleman → Mr.
         </div>
         <div class="examples">
           <div class="example">
@@ -301,7 +301,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          医 yī (medicine; to heal) + 生 shēng (practitioner). The standard word for doctor in mainland China. Note the 生 suffix — it originally meant "one who practices/studies" (compare 学生, 先生). 看医生 = "to see a doctor."
+          医 yī (medicine; to heal) + 生 shēng (practitioner). The standard word for doctor in mainland China. Note the 生 suffix , it originally meant "one who practices/studies" (compare 学生, 先生). 看医生 = "to see a doctor."
         </div>
         <div class="examples">
           <div class="example">

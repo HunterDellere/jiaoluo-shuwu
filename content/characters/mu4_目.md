@@ -87,8 +87,8 @@ content_review: 'pending'
 
     <div class="scholar" data-glyph="目">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
-      <p>The oracle bone form of 目 is a human eye drawn head-on: an almond shape with a vertical pupil at the center, sometimes with three lines radiating outward to suggest eyelashes or gaze. By the bronze inscription period, scribes rotated the image ninety degrees — the eye now stands upright, tipped so the pupil becomes a horizontal bar inside a vertical rectangle. This rotation is why the modern character looks like an oblong with two horizontal shelves rather than an eye: you're looking at a face-on eye that has been turned to stand on its side.</p>
-      <p>As a radical, 目 anchors an enormous cluster of vision-related characters. 看 kàn (to look) adds a hand shading the brow above 目 — eyes protected from glare. 眼 yǎn (eye as a physical organ) adds 艮 gèn (a phonetic component meaning firm, stable) beside 目. 睛 jīng (eyeball, pupil) adds 青 qīng (blue-green, clear). 盲 máng (blind) inverts the logic: 亡 wáng (lost, gone) above 目 — the eye whose sight is gone. 眉 méi (eyebrow) is simply 目 with curved strokes above it, a stylized eyebrow drawn over the eye radical.</p>
+      <p>The oracle bone form of 目 is a human eye drawn head-on: an almond shape with a vertical pupil at the center, sometimes with three lines radiating outward to suggest eyelashes or gaze. By the bronze inscription period, scribes rotated the image ninety degrees , the eye now stands upright, tipped so the pupil becomes a horizontal bar inside a vertical rectangle. This rotation is why the modern character looks like an oblong with two horizontal shelves rather than an eye: you're looking at a face-on eye that has been turned to stand on its side.</p>
+      <p>As a radical, 目 anchors an enormous cluster of vision-related characters. 看 kàn (to look) adds a hand shading the brow above 目 , eyes protected from glare. 眼 yǎn (eye as a physical organ) adds 艮 gèn (a phonetic component meaning firm, stable) beside 目. 睛 jīng (eyeball, pupil) adds 青 qīng (blue-green, clear). 盲 máng (blind) inverts the logic: 亡 wáng (lost, gone) above 目 , the eye whose sight is gone. 眉 méi (eyebrow) is simply 目 with curved strokes above it, a stylized eyebrow drawn over the eye radical.</p>
       <p>Beyond anatomy, 目 extended into classification and organization. Because a table of contents lists items for a reader's eye to scan, 目录 mùlù (eye-record) came to mean table of contents, catalogue, list. By analogy, 科目 kēmù is a subject or category, 题目 tímù is a topic or question heading, and 节目 jiémù is a program item (as in a performance schedule or TV schedule). The eye's natural action of scanning and itemizing gave 目 a second life as an organizational term.</p>
       <p>In Japanese, 目 (me in the native reading, moku/boku in Sino-Japanese) appears in the same anatomical cluster: 眼目 ganmoku means gist or point of a matter. The Korean reading 목 mok and Vietnamese mục carry the cataloguing sense, both appearing in words for chapter headings and categories.</p>
     </div>
@@ -103,7 +103,7 @@ content_review: 'pending'
     </div>
 
     <div class="pattern">
-      <span class="label">目 as radical — the eye-based character family</span>
+      <span class="label">目 as radical , the eye-based character family</span>
       <strong>目 mù</strong> → the eye itself (literary register); also the radical<br>
       <strong>眼 yǎn</strong> → eye (everyday register); 眼睛 yǎnjing is the most common word<br>
       <strong>看 kàn</strong> → to look, to watch (hand + eye = shading one's eyes to see)<br>
@@ -115,7 +115,7 @@ content_review: 'pending'
       <div class="card c-red">
         <div class="card-head"><span class="card-cn">目光</span><span class="card-py">mùguāng</span><span class="card-en">gaze; line of sight; vision (figurative)</span></div>
         <div class="tags"><span class="tag tag-n">N 名词</span></div>
-        <div class="card-def">目 (eye) + 光 (light). The light from the eye — the gaze as something projected. Used both literally (眼中的目光, the look in someone's eyes) and figuratively (目光短浅 mùguāng duǎnqiǎn, short-sighted vision; 目光长远 mùguāng chángyuǎn, far-sighted).</div>
+        <div class="card-def">目 (eye) + 光 (light). The light from the eye , the gaze as something projected. Used both literally (眼中的目光, the look in someone's eyes) and figuratively (目光短浅 mùguāng duǎnqiǎn, short-sighted vision; 目光长远 mùguāng chángyuǎn, far-sighted).</div>
         <div class="examples">
           <div class="example"><div class="ex-cn">他的目光很坚定。</div><div class="ex-py">Tā de mùguāng hěn jiāndìng.</div><div class="ex-en">His gaze is very resolute.</div></div>
           <div class="example"><div class="ex-cn">做事要有长远的目光。</div><div class="ex-py">Zuòshì yào yǒu chángyuǎn de mùguāng.</div><div class="ex-en">In everything you do, you need long-range vision.</div></div>
@@ -136,14 +136,14 @@ content_review: 'pending'
         <div class="tags"><span class="tag tag-adj">Adj 形容词</span></div>
         <div class="card-def">盲 (blind) + 目 (eye). An intensified compound where both characters carry the same meaning: acting as though blind, without seeing the situation clearly. 盲目乐观 mángmù lèguān means "blindly optimistic"; 盲目跟风 means to follow trends without thinking.</div>
         <div class="examples">
-          <div class="example"><div class="ex-cn">不要盲目跟风，要有自己的判断。</div><div class="ex-py">Bùyào mángmù gēnfēng, yào yǒu zìjǐ de pànduàn.</div><div class="ex-en">Don't blindly follow trends — form your own judgment.</div></div>
+          <div class="example"><div class="ex-cn">不要盲目跟风，要有自己的判断。</div><div class="ex-py">Bùyào mángmù gēnfēng, yào yǒu zìjǐ de pànduàn.</div><div class="ex-en">Don't blindly follow trends , form your own judgment.</div></div>
         </div>
       </div>
 
       <div class="card c-violet">
         <div class="card-head"><span class="card-cn">耳目</span><span class="card-py">ěrmù</span><span class="card-en">ears and eyes; spies; awareness</span></div>
         <div class="tags"><span class="tag tag-n">N 名词</span></div>
-        <div class="card-def">耳 (ear) + 目 (eye). The two organs of alert perception together — the paired sentinels. Used figuratively for one's information network, or for spies and informants: 皇帝的耳目 (the emperor's ears and eyes). Also in 耳目一新 ěrmù yīxīn (a completely fresh impression, as if new eyes and ears).</div>
+        <div class="card-def">耳 (ear) + 目 (eye). The two organs of alert perception together , the paired sentinels. Used figuratively for one's information network, or for spies and informants: 皇帝的耳目 (the emperor's ears and eyes). Also in 耳目一新 ěrmù yīxīn (a completely fresh impression, as if new eyes and ears).</div>
         <div class="examples">
           <div class="example"><div class="ex-cn">参观博物馆让我耳目一新。</div><div class="ex-py">Cānguān bówùguǎn ràng wǒ ěrmù yīxīn.</div><div class="ex-en">Visiting the museum gave me a completely fresh perspective.</div></div>
         </div>
@@ -160,8 +160,8 @@ content_review: 'pending'
     </div>
 
     <div class="scholar" data-glyph="录">
-      <div class="scholar-label">From anatomy to taxonomy — 目 as the eye that classifies</div>
-      <p>Chinese encyclopedists and bibliographers built their entire organizational vocabulary on 目. The <em>Siku Quanshu</em> (四库全书 Sìkù Quánshū), the great imperial library compiled under Qianlong in the 1770s, organized all knowledge under 目 (items) nested within 类 lèi (categories). The logic was that a table of contents is what the eye runs down before entering a text — 目录 (eye-record) names the faculty of scanning and the document simultaneously. When television broadcasting began in China, program listings became 节目 (festival-items), and the same word now means TV show, performance, or program item.</p>
+      <div class="scholar-label">From anatomy to taxonomy , 目 as the eye that classifies</div>
+      <p>Chinese encyclopedists and bibliographers built their entire organizational vocabulary on 目. The <em>Siku Quanshu</em> (四库全书 Sìkù Quánshū), the great imperial library compiled under Qianlong in the 1770s, organized all knowledge under 目 (items) nested within 类 lèi (categories). The logic was that a table of contents is what the eye runs down before entering a text , 目录 (eye-record) names the faculty of scanning and the document simultaneously. When television broadcasting began in China, program listings became 节目 (festival-items), and the same word now means TV show, performance, or program item.</p>
     </div>
 
     <div class="cards">
@@ -177,7 +177,7 @@ content_review: 'pending'
       <div class="card c-red">
         <div class="card-head"><span class="card-cn">题目</span><span class="card-py">tímù</span><span class="card-en">topic; title; question (on a test)</span></div>
         <div class="tags"><span class="tag tag-n">N 名词</span></div>
-        <div class="card-def">题 (tí, inscription; topic; to inscribe) + 目 (heading). The headline or question item. In academic Chinese, 题目 is both an essay title and an exam question: 这道题目很难 — "this question is difficult."</div>
+        <div class="card-def">题 (tí, inscription; topic; to inscribe) + 目 (heading). The headline or question item. In academic Chinese, 题目 is both an essay title and an exam question: 这道题目很难 , "this question is difficult."</div>
         <div class="examples">
           <div class="example"><div class="ex-cn">今天的作文题目是"我的家乡"。</div><div class="ex-py">Jīntiān de zuòwén tímù shì "Wǒ de jiāxiāng".</div><div class="ex-en">Today's essay topic is "My Hometown."</div></div>
         </div>
@@ -213,19 +213,19 @@ content_review: 'pending'
         <span class="cy-cn">耳目一新</span>
         <span class="cy-py">ěr mù yī xīn</span>
         <span class="cy-en">"ears and eyes completely renewed" — a refreshingly new impression</span>
-        <span class="cy-note">耳 (ear) + 目 (eye) + 一 (completely) + 新 (new). All your senses reset — everything seems fresh and surprising. Used for places recently renovated, new presentations, or any experience that resets one's perception. The compound treats ears and eyes as a pair, the full perceptual system.</span>
+        <span class="cy-note">耳 (ear) + 目 (eye) + 一 (completely) + 新 (new). All your senses reset , everything seems fresh and surprising. Used for places recently renovated, new presentations, or any experience that resets one's perception. The compound treats ears and eyes as a pair, the full perceptual system.</span>
       </div>
       <div class="cy">
         <span class="cy-cn">目中无人</span>
         <span class="cy-py">mù zhōng wú rén</span>
         <span class="cy-en">"no people in the eye" — arrogant; treating no one as worthy of notice</span>
-        <span class="cy-note">目 (eye) + 中 (within) + 无 (without) + 人 (people). Looking out from one's eye and seeing no one worth registering — arrogance so total that others become invisible. A criticism of conceit and contempt. 目空一切 (eye-empty-everything) intensifies this further: not even things are worth looking at.</span>
+        <span class="cy-note">目 (eye) + 中 (within) + 无 (without) + 人 (people). Looking out from one's eye and seeing no one worth registering , arrogance so total that others become invisible. A criticism of conceit and contempt. 目空一切 (eye-empty-everything) intensifies this further: not even things are worth looking at.</span>
       </div>
       <div class="cy">
         <span class="cy-cn">一目了然</span>
         <span class="cy-py">yī mù liǎo rán</span>
         <span class="cy-en">"one glance makes it clear" — obvious at a single look</span>
-        <span class="cy-note">一 (one) + 目 (eye-glance) + 了然 (clearly understood). Describes things immediately comprehensible — a diagram that explains itself, an argument whose logic is visible. The phrase appears in Qing dynasty texts and entered general usage by the early Republic period. The modern phrase 一眼看穿 is roughly equivalent but more colloquial.</span>
+        <span class="cy-note">一 (one) + 目 (eye-glance) + 了然 (clearly understood). Describes things immediately comprehensible , a diagram that explains itself, an argument whose logic is visible. The phrase appears in Qing dynasty texts and entered general usage by the early Republic period. The modern phrase 一眼看穿 is roughly equivalent but more colloquial.</span>
       </div>
     </div>
 

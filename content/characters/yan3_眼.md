@@ -113,12 +113,12 @@ content_sources:
 
     <div class="scholar" data-glyph="眼">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
-      <p><strong>眼 = 目 (mù, eye) + 艮 (gěn)</strong>. A pictophonetic compound: 目 is the semantic component (the radical for everything having to do with eyes and seeing), and the right-hand element supplies the sound. The radical <a href="../../pages/characters/mu4_目.html">目</a> mù is itself the older, literary word for "eye" — the one preserved in classical compounds and as the radical in 看 kàn (look), 见 jiàn (see), 睡 shuì (sleep, "eyes drooping"), 瞎 xiā (blind), 瞪 dèng (glare). 眼 is the newer, everyday colloquial word — the one a child learns first.</p>
+      <p><strong>眼 = 目 (mù, eye) + 艮 (gěn)</strong>. A pictophonetic compound: 目 is the semantic component (the radical for everything having to do with eyes and seeing), and the right-hand element supplies the sound. The radical <a href="../../pages/characters/mu4_目.html">目</a> mù is itself the older, literary word for "eye" , the one preserved in classical compounds and as the radical in 看 kàn (look), 见 jiàn (see), 睡 shuì (sleep, "eyes drooping"), 瞎 xiā (blind), 瞪 dèng (glare). 眼 is the newer, everyday colloquial word , the one a child learns first.</p>
       <p>The character carries three distinct semantic lives:</p>
-      <p><strong>1. The body part.</strong> The eye itself, the sense organ. The everyday compound <strong>眼睛</strong> yǎnjing (eye + 睛 jīng "eyeball") is the standard word for "eye(s)" in spoken Chinese. Single 眼 is mostly bound — it appears in compounds rather than alone.<br>
+      <p><strong>1. The body part.</strong> The eye itself, the sense organ. The everyday compound <strong>眼睛</strong> yǎnjing (eye + 睛 jīng "eyeball") is the standard word for "eye(s)" in spoken Chinese. Single 眼 is mostly bound , it appears in compounds rather than alone.<br>
       <strong>2. The act of looking.</strong> 眼 functions as the measure word for a glance: 看一眼 "to take one look," 瞪一眼 "to shoot a glare." The unit of <em>one application of the eye</em>.<br>
-      <strong>3. A small opening.</strong> By the natural metaphor of "the eye of …", 眼 names any small hole or aperture: 针眼 zhēnyǎn the eye of a needle, 泉眼 quányǎn the source of a spring, 字眼 zìyǎn the key word in a phrase, 心眼 xīnyǎn the "eye of the heart" — wits, judgment.</p>
-      <p>The figurative range matters more than the literal one for adult vocabulary. <strong>眼光</strong> yǎnguāng "vision, taste, judgment," <strong>眼界</strong> yǎnjiè "horizon, range of experience," <strong>眼力</strong> yǎnlì "the strength of one's seeing" — Chinese has built an entire vocabulary of <em>discernment</em> on top of the body-part word, the way English has built "insight" and "vision" on top of <em>seeing</em>. Knowing this layer is what separates beginner from intermediate Chinese: 眼 is rarely just an organ.</p>
+      <strong>3. A small opening.</strong> By the natural metaphor of "the eye of …", 眼 names any small hole or aperture: 针眼 zhēnyǎn the eye of a needle, 泉眼 quányǎn the source of a spring, 字眼 zìyǎn the key word in a phrase, 心眼 xīnyǎn the "eye of the heart" , wits, judgment.</p>
+      <p>The figurative range matters more than the literal one for adult vocabulary. <strong>眼光</strong> yǎnguāng "vision, taste, judgment," <strong>眼界</strong> yǎnjiè "horizon, range of experience," <strong>眼力</strong> yǎnlì "the strength of one's seeing" , Chinese has built an entire vocabulary of <em>discernment</em> on top of the body-part word, the way English has built "insight" and "vision" on top of <em>seeing</em>. Knowing this layer is what separates beginner from intermediate Chinese: 眼 is rarely just an organ.</p>
     </div>
 
     <!-- ── WORD-FORMATION ── -->
@@ -183,7 +183,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          眼 yǎn + 神 shén (spirit; expression). Not the eyes themselves but the <em>spirit visible in them</em> — the look one gives, the expression of feeling that the eyes carry. A high-frequency word in fiction and dialogue: 他的眼神很温柔 "the look in his eyes was very gentle"; 用眼神告诉我 "tell me with your eyes."
+          眼 yǎn + 神 shén (spirit; expression). Not the eyes themselves but the <em>spirit visible in them</em> , the look one gives, the expression of feeling that the eyes carry. A high-frequency word in fiction and dialogue: 他的眼神很温柔 "the look in his eyes was very gentle"; 用眼神告诉我 "tell me with your eyes."
         </div>
         <div class="examples">
           <div class="example">
@@ -223,7 +223,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          眼 yǎn + 皮 pí (skin). Eyelid. The colloquial idiom <strong>眼皮底下</strong> yǎnpí dǐxià "right under one's eyelids" means "right in front of one, in plain sight" — usually used to describe something missed or stolen despite being right there.
+          眼 yǎn + 皮 pí (skin). Eyelid. The colloquial idiom <strong>眼皮底下</strong> yǎnpí dǐxià "right under one's eyelids" means "right in front of one, in plain sight" , usually used to describe something missed or stolen despite being right there.
         </div>
         <div class="examples">
           <div class="example">
@@ -248,12 +248,12 @@ content_sources:
     <div class="scholar" data-glyph="眼">
       <div class="scholar-label">语法洞见 yǔfǎ dòngjiàn · Grammatical Insight</div>
       <p>One of the most useful and high-frequency uses of 眼 is as the <strong>measure word for a single act of looking</strong>. The pattern is "verb-of-seeing + 一 + 眼":</p>
-      <p><strong>看一眼</strong> kàn yī yǎn — to take one look<br>
-      <strong>瞅一眼</strong> chǒu yī yǎn — to give a quick glance<br>
-      <strong>瞄一眼</strong> miáo yī yǎn — to peek<br>
-      <strong>瞪一眼</strong> dèng yī yǎn — to shoot a single glare<br>
-      <strong>瞥一眼</strong> piē yī yǎn — to throw a brief glance</p>
-      <p>The 眼 here is not "an eye" as object but <em>a unit of looking</em>: the discrete event in which the eye lands on something. English has no clean equivalent — "give it a look" comes closest. The structure is so productive that any verb of seeing can take 眼 as its measure: 多看几眼 "take a few more looks," 一眼就认出来 "recognize it at a single glance."</p>
+      <p><strong>看一眼</strong> kàn yī yǎn , to take one look<br>
+      <strong>瞅一眼</strong> chǒu yī yǎn , to give a quick glance<br>
+      <strong>瞄一眼</strong> miáo yī yǎn , to peek<br>
+      <strong>瞪一眼</strong> dèng yī yǎn , to shoot a single glare<br>
+      <strong>瞥一眼</strong> piē yī yǎn , to throw a brief glance</p>
+      <p>The 眼 here is not "an eye" as object but <em>a unit of looking</em>: the discrete event in which the eye lands on something. English has no clean equivalent , "give it a look" comes closest. The structure is so productive that any verb of seeing can take 眼 as its measure: 多看几眼 "take a few more looks," 一眼就认出来 "recognize it at a single glance."</p>
     </div>
 
     <!-- ── OPENING ── -->
@@ -276,7 +276,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          针 zhēn (needle) + 眼. The hole in a sewing needle — the same metaphor English uses. Also a colloquial term for a sty on the eyelid (the small swelling looking like a tiny eye).
+          针 zhēn (needle) + 眼. The hole in a sewing needle , the same metaphor English uses. Also a colloquial term for a sty on the eyelid (the small swelling looking like a tiny eye).
         </div>
       </div>
 
@@ -289,7 +289,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          泉 quán (spring) + 眼. The mouth of a natural spring — the small opening from which water bubbles up. Common in classical Chinese poetry and travel writing.
+          泉 quán (spring) + 眼. The mouth of a natural spring , the small opening from which water bubbles up. Common in classical Chinese poetry and travel writing.
         </div>
       </div>
 
@@ -302,7 +302,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          字 zì (character; word) + 眼. The <em>eye of the phrase</em> — the single word that carries the weight, that you pivot a sentence on, that an opponent picks at. 抠字眼 kōu zìyǎn "to pick at the wording" (often pejoratively, like English "splitting hairs over phrasing").
+          字 zì (character; word) + 眼. The <em>eye of the phrase</em> , the single word that carries the weight, that you pivot a sentence on, that an opponent picks at. 抠字眼 kōu zìyǎn "to pick at the wording" (often pejoratively, like English "splitting hairs over phrasing").
         </div>
         <div class="examples">
           <div class="example">
@@ -322,7 +322,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          节 jié (joint) + 骨 gǔ (bone) + 眼. The <em>eye at the joint of the bone</em> — the precise small spot at which a thing turns. Colloquial; almost always paired with 上 in 节骨眼上 "at the critical juncture."
+          节 jié (joint) + 骨 gǔ (bone) + 眼. The <em>eye at the joint of the bone</em> , the precise small spot at which a thing turns. Colloquial; almost always paired with 上 in 节骨眼上 "at the critical juncture."
         </div>
         <div class="examples">
           <div class="example">
@@ -355,7 +355,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          眼 yǎn + 光 guāng (light). Literally <em>eye-light</em>. The <em>kind of seeing</em> a person has — their taste in art, their judgment in business, their ability to spot a good investment or a good partner. 有眼光 yǒu yǎnguāng "to have a good eye"; 没眼光 "to have poor judgment"; 长远的眼光 "long-term vision."
+          眼 yǎn + 光 guāng (light). Literally <em>eye-light</em>. The <em>kind of seeing</em> a person has , their taste in art, their judgment in business, their ability to spot a good investment or a good partner. 有眼光 yǒu yǎnguāng "to have a good eye"; 没眼光 "to have poor judgment"; 长远的眼光 "long-term vision."
         </div>
         <div class="examples">
           <div class="example">
@@ -380,7 +380,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          眼 yǎn + 界 jiè (boundary; realm). The <em>boundary of what one's eye has taken in</em> — how widely one has seen, traveled, read, lived. 开阔眼界 kāikuò yǎnjiè "to broaden one's horizons" is one of the standard reasons given in Chinese for travel, study abroad, and reading widely.
+          眼 yǎn + 界 jiè (boundary; realm). The <em>boundary of what one's eye has taken in</em> , how widely one has seen, traveled, read, lived. 开阔眼界 kāikuò yǎnjiè "to broaden one's horizons" is one of the standard reasons given in Chinese for travel, study abroad, and reading widely.
         </div>
         <div class="examples">
           <div class="example">
@@ -400,7 +400,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          心 xīn (heart) + 眼. The <em>eye of the heart</em> — the inner faculty of judgment and quick-wittedness. 心眼多 xīnyǎn duō "to have many wits" (clever, calculating, or scheming, depending on tone). 心眼好 xīnyǎn hǎo "to have a good heart-eye" (kind-hearted, well-intentioned). One of the most context-sensitive words in spoken Chinese.
+          心 xīn (heart) + 眼. The <em>eye of the heart</em> , the inner faculty of judgment and quick-wittedness. 心眼多 xīnyǎn duō "to have many wits" (clever, calculating, or scheming, depending on tone). 心眼好 xīnyǎn hǎo "to have a good heart-eye" (kind-hearted, well-intentioned). One of the most context-sensitive words in spoken Chinese.
         </div>
         <div class="examples">
           <div class="example">
@@ -425,7 +425,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          眼 yǎn + 力 lì (strength). The <em>strength of one's seeing</em> — both literally (sharpness of vision) and figuratively (judgment, ability to spot quality or fakery). The skilled antique-dealer is praised for 眼力 in detecting forgeries.
+          眼 yǎn + 力 lì (strength). The <em>strength of one's seeing</em> , both literally (sharpness of vision) and figuratively (judgment, ability to spot quality or fakery). The skilled antique-dealer is praised for 眼力 in detecting forgeries.
         </div>
       </div>
 
@@ -446,7 +446,7 @@ content_sources:
         <span class="cy-cn">画龙点睛</span>
         <span class="cy-py">huà lóng diǎn jīng</span>
         <span class="cy-en">drawing a dragon and dotting the eye — the small finishing touch that brings the whole alive</span>
-        <span class="cy-note">From a Tang anecdote: the painter Zhang Sengyou painted dragons but refused to add eyes; when pressed, he dotted the eyes of two — and they immediately flew off the wall. The dot is what brings the form to life. Used today for the small but decisive move that makes a piece of work click. Note: this chengyu uses 睛 jīng (eyeball, the second character of 眼睛) rather than 眼 itself, but its semantic field is the eye.</span>
+        <span class="cy-note">From a Tang anecdote: the painter Zhang Sengyou painted dragons but refused to add eyes; when pressed, he dotted the eyes of two , and they immediately flew off the wall. The dot is what brings the form to life. Used today for the small but decisive move that makes a piece of work click. Note: this chengyu uses 睛 jīng (eyeball, the second character of 眼睛) rather than 眼 itself, but its semantic field is the eye.</span>
       </div>
 
       <div class="cy">

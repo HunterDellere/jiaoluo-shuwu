@@ -104,8 +104,8 @@ content_sources:
 
     <div class="scholar" data-glyph="火">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
-      <p><strong>火 huǒ</strong> is a pure pictograph — the oracle-bone form shows a flame shape, later stylized into the modern four-stroke character. The two outer strokes represent flames billowing to the sides; the two inner strokes are the central column of fire rising. Three thousand years of use has simplified the image but not lost it.</p>
-      <p>火 is one of the Wu Xing 五行 — the Five Phases of classical Chinese cosmology (Wood 木, Fire 火, Earth 土, Metal 金, Water 水). It is associated with summer, the south, the heart organ, the color red, and the planet Mars (火星 huǒxīng — "fire star"). In Chinese traditional medicine, 上火 shàng huǒ ("fire rising") describes inflammatory conditions caused by excess yang energy.</p>
+      <p><strong>火 huǒ</strong> is a pure pictograph , the oracle-bone form shows a flame shape, later stylized into the modern four-stroke character. The two outer strokes represent flames billowing to the sides; the two inner strokes are the central column of fire rising. Three thousand years of use has simplified the image but not lost it.</p>
+      <p>火 is one of the Wu Xing 五行 , the Five Phases of classical Chinese cosmology (Wood 木, Fire 火, Earth 土, Metal 金, Water 水). It is associated with summer, the south, the heart organ, the color red, and the planet Mars (火星 huǒxīng , "fire star"). In Chinese traditional medicine, 上火 shàng huǒ ("fire rising") describes inflammatory conditions caused by excess yang energy.</p>
       <p>As a radical, 火 (or its variant 灬 four-dot fire at the bottom of characters) appears in: 炎 yán (blazing hot; inflammation), 烤 kǎo (to roast), 煮 zhǔ (to boil), 燃 rán (to burn), 灯 dēng (lamp), 熟 shú (cooked; ripe), 热 rè (hot). These are the primary vocabulary of heat, cooking, and light.</p>
     </div>
 
@@ -127,7 +127,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          火 huǒ + 焰 yàn (flame — itself contains the fire radical 火). Used for actual flames and for intensity: 熊熊火焰 "roaring flames." Also in compound idioms: 火焰般的热情 "flame-like passion."
+          火 huǒ + 焰 yàn (flame , itself contains the fire radical 火). Used for actual flames and for intensity: 熊熊火焰 "roaring flames." Also in compound idioms: 火焰般的热情 "flame-like passion."
         </div>
         <div class="examples">
           <div class="example">
@@ -146,7 +146,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          火 huǒ + 山 shān (mountain). A fire-mountain — direct and vivid. 活火山 active volcano · 死火山 extinct volcano · 休眠火山 dormant volcano · 火山口 crater (fire-mountain-mouth).
+          火 huǒ + 山 shān (mountain). A fire-mountain , direct and vivid. 活火山 active volcano · 死火山 extinct volcano · 休眠火山 dormant volcano · 火山口 crater (fire-mountain-mouth).
         </div>
         <div class="examples">
           <div class="example">
@@ -165,7 +165,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          火 huǒ + 车 chē (vehicle; cart). Named when steam locomotives first arrived in China — "fire-powered cart." The word has outlasted the steam era. 高铁 gāotiě (high-speed rail) is now preferred for bullet trains, but 火车 remains in universal use.
+          火 huǒ + 车 chē (vehicle; cart). Named when steam locomotives first arrived in China , "fire-powered cart." The word has outlasted the steam era. 高铁 gāotiě (high-speed rail) is now preferred for bullet trains, but 火车 remains in universal use.
         </div>
         <div class="examples">
           <div class="example">
@@ -196,7 +196,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-v">V 动词 dòngcí</span></div>
         <div class="card-def">
-          发 fā (to emit; to send out) + 火 huǒ (fire). To emit fire — to blow up in anger. One of the most natural and common anger expressions. Compare: 生气 shēngqì (general anger) · 发火 (explosive display) · 动怒 dòng nù (formal/literary).
+          发 fā (to emit; to send out) + 火 huǒ (fire). To emit fire , to blow up in anger. One of the most natural and common anger expressions. Compare: 生气 shēngqì (general anger) · 发火 (explosive display) · 动怒 dòng nù (formal/literary).
         </div>
         <div class="examples">
           <div class="example">
@@ -221,7 +221,7 @@ content_sources:
           <div class="example">
             <div class="ex-cn">最近压力大，有点上火，嘴里起了溃疡。</div>
             <div class="ex-py">Zuìjìn yālì dà, yǒudiǎn shànghuǒ, zuǐ lǐ qǐ le kuìyáng.</div>
-            <div class="ex-en">There's been a lot of stress lately — I've got internal heat; mouth ulcers appeared.</div>
+            <div class="ex-en">There's been a lot of stress lately , I've got internal heat; mouth ulcers appeared.</div>
           </div>
         </div>
       </div>
@@ -252,7 +252,7 @@ content_sources:
           <div class="example">
             <div class="ex-cn">这个视频在网上火了，点击量超过一千万。</div>
             <div class="ex-py">Zhège shìpín zài wǎng shàng huǒ le, diǎnjī liàng chāoguò yīqiānwàn.</div>
-            <div class="ex-en">This video went viral — it's had over ten million clicks.</div>
+            <div class="ex-en">This video went viral , it's had over ten million clicks.</div>
           </div>
         </div>
       </div>
@@ -277,7 +277,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          火 huǒ + 锅 guō (pot; wok). A simmering communal pot at the table — the quintessential Chinese social meal. 吃火锅 = to eat hotpot, one of the most common social dining activities. Regional varieties: 四川火锅 Sichuan hotpot (numbing-spicy 麻辣), 北京涮羊肉 Beijing lamb hotpot (clear broth).
+          火 huǒ + 锅 guō (pot; wok). A simmering communal pot at the table , the quintessential Chinese social meal. 吃火锅 = to eat hotpot, one of the most common social dining activities. Regional varieties: 四川火锅 Sichuan hotpot (numbing-spicy 麻辣), 北京涮羊肉 Beijing lamb hotpot (clear broth).
         </div>
         <div class="examples">
           <div class="example">
@@ -296,7 +296,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          烟 yān (smoke) + 火 huǒ (fire). Literally: fireworks. Poetically: 人间烟火 rénjiān yānhuǒ — "the smoke and fire of the human world" — the warmth and vitality of ordinary life. A deeply resonant phrase in contemporary Chinese internet culture: someone who feels real, warm, and grounded is described as 有人间烟火气 "having the flavor of real human life."
+          烟 yān (smoke) + 火 huǒ (fire). Literally: fireworks. Poetically: 人间烟火 rénjiān yānhuǒ , "the smoke and fire of the human world" , the warmth and vitality of ordinary life. A deeply resonant phrase in contemporary Chinese internet culture: someone who feels real, warm, and grounded is described as 有人间烟火气 "having the flavor of real human life."
         </div>
         <div class="examples">
           <div class="example">

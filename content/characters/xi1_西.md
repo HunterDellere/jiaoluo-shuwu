@@ -62,18 +62,18 @@ content_review: 'pending'
 
     <div class="scholar" data-glyph="西">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
-      <p>The oracle bone and bronze script forms of 西 show a bird sitting in a nest: the bird's body at the top, the nest below, the whole image a picture of a bird that has returned to roost at dusk. Birds return to their nests at sunset, and the sun sets in the west — so the image of a bird settling down in the evening encoded the direction of sunset. The Shuōwén analysis (100 CE) reads 西 as 鸟在巢上 (bird above a nest), confirming the pictographic origin. The modern character is a highly stylized trace of this nest-and-bird form, the specific curves now unrecognizable without knowing the history.</p>
-      <p>As its own radical, 西 appears in a small family of characters: 洒 sǎ (to sprinkle — water + west, originally distinct from west but sharing the radical), 要 yào (the waist/to want character, with a different analysis). The directional meaning is primary and its radical usage secondary.</p>
-      <p>In Chinese cosmological geography, west carried the connotation of foreignness and the unknown. The great land routes to Central Asia, Persia, and eventually Rome all ran westward through the Hexi Corridor and the Taklamakan: the "Western Regions" (西域 Xīyù) were the collective name for everything beyond Dunhuang. Buddhist scriptures arrived from the west (India lies southwest of China but was conceptualized as "the west"). The Tang dynasty monk Xuánzàng's pilgrimage to India and back (629–645 CE) was literally a journey to the west — 西游 Xī Yóu — which gave the 16th-century novel its title: 西游记 Journey to the West.</p>
+      <p>The oracle bone and bronze script forms of 西 show a bird sitting in a nest: the bird's body at the top, the nest below, the whole image a picture of a bird that has returned to roost at dusk. Birds return to their nests at sunset, and the sun sets in the west , so the image of a bird settling down in the evening encoded the direction of sunset. The Shuōwén analysis (100 CE) reads 西 as 鸟在巢上 (bird above a nest), confirming the pictographic origin. The modern character is a highly stylized trace of this nest-and-bird form, the specific curves now unrecognizable without knowing the history.</p>
+      <p>As its own radical, 西 appears in a small family of characters: 洒 sǎ (to sprinkle , water + west, originally distinct from west but sharing the radical), 要 yào (the waist/to want character, with a different analysis). The directional meaning is primary and its radical usage secondary.</p>
+      <p>In Chinese cosmological geography, west carried the connotation of foreignness and the unknown. The great land routes to Central Asia, Persia, and eventually Rome all ran westward through the Hexi Corridor and the Taklamakan: the "Western Regions" (西域 Xīyù) were the collective name for everything beyond Dunhuang. Buddhist scriptures arrived from the west (India lies southwest of China but was conceptualized as "the west"). The Tang dynasty monk Xuánzàng's pilgrimage to India and back (629–645 CE) was literally a journey to the west , 西游 Xī Yóu , which gave the 16th-century novel its title: 西游记 Journey to the West.</p>
     </div>
 
     <span class="section-anchor" id="west"></span>
     <div class="section-head"><span class="sh-cn">西方</span><span class="sh-py">xīfāng</span><span class="sh-en">West in Culture — Pure Land, Silk Road, the Foreign</span><span class="sh-rule"></span></div>
 
     <div class="scholar" data-glyph="西">
-      <div class="scholar-label">Three meanings of 西方 — paradise, trade route, and "the West"</div>
-      <p>西方 Xīfāng carries three distinct cultural loads depending on context. In Buddhist usage, 西方 is Sukhāvatī — the Pure Land (净土 Jìngtǔ) of Amitābha Buddha (阿弥陀佛 Ēmítuófó), located in the West. 西方极乐世界 (Western Land of Ultimate Bliss) is where Pure Land practitioners aspire to be reborn. The death wish 往生西方 (to be reborn in the Western [Pure Land]) is heard in funerary contexts. The west's cosmological association with the Metal phase, with autumn and with endings made it a natural location for the land after death.</p>
-      <p>In the historical-geographical sense, 西域 (the Western Regions) named the vast territory from Xinjiang westward — the arena of the Silk Road, the sphere of Han and Tang dynasty military and diplomatic activity. Zhang Qian's missions to the Western Regions (138–126 BCE) opened the overland trade routes; the Western Regions remained a key strategic and commercial zone for two millennia.</p>
+      <div class="scholar-label">Three meanings of 西方 , paradise, trade route, and "the West"</div>
+      <p>西方 Xīfāng carries three distinct cultural loads depending on context. In Buddhist usage, 西方 is Sukhāvatī , the Pure Land (净土 Jìngtǔ) of Amitābha Buddha (阿弥陀佛 Ēmítuófó), located in the West. 西方极乐世界 (Western Land of Ultimate Bliss) is where Pure Land practitioners aspire to be reborn. The death wish 往生西方 (to be reborn in the Western [Pure Land]) is heard in funerary contexts. The west's cosmological association with the Metal phase, with autumn and with endings made it a natural location for the land after death.</p>
+      <p>In the historical-geographical sense, 西域 (the Western Regions) named the vast territory from Xinjiang westward , the arena of the Silk Road, the sphere of Han and Tang dynasty military and diplomatic activity. Zhang Qian's missions to the Western Regions (138–126 BCE) opened the overland trade routes; the Western Regions remained a key strategic and commercial zone for two millennia.</p>
       <p>In the modern sense, 西方 means "the West" as a civilizational concept: Western Europe, North America, liberal democracy, and post-Enlightenment modernity. 西方国家 (Western countries), 西方文化 (Western culture), 西方媒体 (Western media) are standard categories in Chinese public discourse. This usage is a 19th-century development, when the geopolitical West arrived as China's civilizational challenger.</p>
     </div>
 
@@ -99,13 +99,13 @@ content_review: 'pending'
         <div class="tags"><span class="tag tag-n">N 名词</span></div>
         <div class="card-def">西 (western) + 餐 (meal, cuisine). As opposed to 中餐 zhōngcān (Chinese food). In Chinese urban culture, 西餐厅 (Western restaurant) typically means a European-style restaurant with table settings, bread, and fork-and-knife service. 吃西餐 is a common date or business meal option when a formal atmosphere is desired. The category 西餐 is broad enough to include Italian, French, American, and general continental cooking.</div>
         <div class="examples">
-          <div class="example"><div class="ex-cn">今晚我们吃西餐，去那家法国餐厅吧。</div><div class="ex-py">Jīn wǎn wǒmen chī xīcān, qù nà jiā Fǎguó cāntīng ba.</div><div class="ex-en">Let's have Western food tonight — let's go to that French restaurant.</div></div>
+          <div class="example"><div class="ex-cn">今晚我们吃西餐，去那家法国餐厅吧。</div><div class="ex-py">Jīn wǎn wǒmen chī xīcān, qù nà jiā Fǎguó cāntīng ba.</div><div class="ex-en">Let's have Western food tonight , let's go to that French restaurant.</div></div>
         </div>
       </div>
       <div class="card c-violet">
         <div class="card-head"><span class="card-cn">陕西 / 山西</span><span class="card-py">Shǎnxī / Shānxī</span><span class="card-en">Shaanxi / Shanxi (two provinces)</span></div>
         <div class="tags"><span class="tag tag-n">N 名词 (proper)</span></div>
-        <div class="card-def">Two adjacent provinces whose names are distinguished only by tone: 陕西 Shǎnxī (Shaanxi, tone 3 — home of Xi'an, the former Tang capital) and 山西 Shānxī (Shanxi, tone 1 — coal province, home of Pingyao). Both end in 西 because they lie west of specific geographic reference points (west of Tongguan Pass / west of the Taihang Mountains). The confusion between them is a classic Mandarin tone-discrimination exercise.</div>
+        <div class="card-def">Two adjacent provinces whose names are distinguished only by tone: 陕西 Shǎnxī (Shaanxi, tone 3 , home of Xi'an, the former Tang capital) and 山西 Shānxī (Shanxi, tone 1 , coal province, home of Pingyao). Both end in 西 because they lie west of specific geographic reference points (west of Tongguan Pass / west of the Taihang Mountains). The confusion between them is a classic Mandarin tone-discrimination exercise.</div>
       </div>
     </div>
 
@@ -117,19 +117,19 @@ content_review: 'pending'
         <span class="cy-cn">东奔西走</span>
         <span class="cy-py">dōng bēn xī zǒu</span>
         <span class="cy-en">"rushing east and west" — running around frantically in all directions</span>
-        <span class="cy-note">东 (east) + 奔 (to rush, gallop) + 西 (west) + 走 (to walk, to go). Running in opposite directions simultaneously — a vivid image of exhausting, disorganized activity. Used for a person who is constantly traveling for work, a household managing too many crises at once, or anyone visibly running themselves ragged. The east-west pair encodes "everywhere at once."</span>
+        <span class="cy-note">东 (east) + 奔 (to rush, gallop) + 西 (west) + 走 (to walk, to go). Running in opposite directions simultaneously , a vivid image of exhausting, disorganized activity. Used for a person who is constantly traveling for work, a household managing too many crises at once, or anyone visibly running themselves ragged. The east-west pair encodes "everywhere at once."</span>
       </div>
       <div class="cy">
         <span class="cy-cn">东拼西凑</span>
         <span class="cy-py">dōng pīn xī còu</span>
         <span class="cy-en">"pieced together from east and west" — cobbled together from miscellaneous sources</span>
-        <span class="cy-note">东拼 (stitched from the east) + 西凑 (gathered from the west). Something assembled by scraping together bits and pieces from wherever they could be found. Used for a speech that draws from random sources, a meal made from leftovers, or a budget patched together with emergency measures. The tone is always slightly dismissive — the result lacks coherence because its sources were scattered.</span>
+        <span class="cy-note">东拼 (stitched from the east) + 西凑 (gathered from the west). Something assembled by scraping together bits and pieces from wherever they could be found. Used for a speech that draws from random sources, a meal made from leftovers, or a budget patched together with emergency measures. The tone is always slightly dismissive , the result lacks coherence because its sources were scattered.</span>
       </div>
       <div class="cy">
         <span class="cy-cn">夕阳西下</span>
         <span class="cy-py">xīyáng xī xià</span>
         <span class="cy-en">"the evening sun descends in the west" — dusk; things in decline</span>
-        <span class="cy-note">夕阳 (setting sun) + 西 (west) + 下 (to descend). A classic image from Tang dynasty poetry: the sun dropping below the western horizon. Used literally for beautiful sunsets and metaphorically for the decline of an era, a career, or a life. Ma Zhiyuan's famous Yuan dynasty 散曲: 夕阳西下，断肠人在天涯 — "the setting sun descends in the west; a heartbroken person stands at the edge of the world."</span>
+        <span class="cy-note">夕阳 (setting sun) + 西 (west) + 下 (to descend). A classic image from Tang dynasty poetry: the sun dropping below the western horizon. Used literally for beautiful sunsets and metaphorically for the decline of an era, a career, or a life. Ma Zhiyuan's famous Yuan dynasty 散曲: 夕阳西下，断肠人在天涯 , "the setting sun descends in the west; a heartbroken person stands at the edge of the world."</span>
       </div>
     </div>
 

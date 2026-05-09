@@ -175,13 +175,13 @@ stages:
       <span class="topic-hero-eyebrow">Hubs · 门户 ménhù</span>
       <h1 class="topic-hero-title">道德与伦理</h1>
       <span class="topic-hero-title-py">dàodé yǔ lúnlǐ</span>
-      <p class="topic-hero-desc">Chinese ethics is not a checklist of personal virtues. It is a description of how one should relate to specific others — and what happens when those relationships are tested.</p>
+      <p class="topic-hero-desc">Chinese ethics is not a checklist of personal virtues. It is a description of how one should relate to specific others , and what happens when those relationships are tested.</p>
     </header>
 
     <span class="section-anchor" id="overview"></span>
     <div class="section-head"><h2>The Relational Argument</h2></div>
     <div class="scholar" data-glyph="仁">
-      <div class="scholar-label">仁者爱人 · rén zhě ài rén — the humane person loves people</div>
+      <div class="scholar-label">仁者爱人 · rén zhě ài rén , the humane person loves people</div>
       <p>The Five Constants (五常 wǔcháng, 仁义礼智信) look like a list of private virtues: be kind, be honest, be wise. Read them that way and you miss what they are actually describing. Each constant names a quality that can only exist in relation to another person. 仁 (humaneness) is what happens in the space between two people; the character itself is composed of the person radical and the number two. 礼 (ritual propriety) is the system of forms through which relationships are made legible to both parties. 信 (trustworthiness) is the reliability that makes it possible for someone to stake a relationship on you. These are descriptions of how to be in relation, not character traits to cultivate in isolation.</p>
       <p>Confucius identified five foundational relationships (五伦 wǔlún): ruler and minister, parent and child, husband and wife, elder and younger sibling, and friend and friend. Each relationship is hierarchical, and the hierarchy runs in both directions. The ruler is owed loyalty; the ruler owes benevolent governance. The parent is owed filial piety; the parent owes care. The senior friend is owed deference; the senior friend owes guidance. Rights and obligations are paired at every level. 仁 without this structure is sentiment without direction; 礼 without 仁 is hierarchy without warmth.</p>
       <p>This path moves through five stages. The first establishes the Five Constants as a relational vocabulary, not a virtue checklist. The second shows them operating inside the actual architecture of Chinese social life: 关系 (the network of connections), 面子 (face as social currency), 客气 (the ritual grammar of hospitality), and 孝 (filial piety as the first school of ethics). The third stage introduces the backdrop: fate, predestined connection, and heaven's mandate. The fourth shows all of it applied to actual daily practice. The fifth stage closes on the two words that carry the entire system: 道德 (morality as a direction of travel) and 心 (the heart-mind where ethics must be rooted to be real).</p>
@@ -192,7 +192,7 @@ stages:
     <span class="section-anchor" id="questions"></span>
     <div class="section-head"><h2>Open Questions</h2></div>
     <div class="pattern">
-      <span class="label">问题 · wèntí — questions this hub leaves open</span>
+      <span class="label">问题 · wèntí , questions this hub leaves open</span>
       <p><strong>Is 关系 a corruption of Confucian ethics or its natural expression?</strong> Critics read 关系 as the decay of 仁 into nepotism: genuine care for others replaced by strategic investment in useful contacts. Defenders read it as the Confucian logic of graded relationships made operational in a society without reliable impersonal institutions. Both readings have evidence. The question is whether 关系 violates the spirit of the Five Constants or fulfills them within a specific social context.</p>
       <p><strong>What happens to face-based ethics in anonymous urban environments?</strong> 面子 depends on a persistent relationship network: the people who saw you fail today are the people who will see you succeed tomorrow. In a village this is inescapable; in a city of twenty million it is not. Whether the ethics of face can survive the anonymity of urban life, or whether it simply relocates to smaller networks within the city, is an open question that contemporary Chinese society is living through.</p>
       <p><strong>Can the Five Constants function outside the hierarchical structures they were designed for?</strong> The wǔcháng were articulated for a society organized around fixed relationships between ruler and minister, parent and child, elder and younger. Contemporary Chinese society has loosened several of those hierarchies without replacing the ethical vocabulary. Whether 仁义礼智信 can be reinterpreted for a more egalitarian social order, or whether they require hierarchy to function as designed, is a live philosophical question.</p>

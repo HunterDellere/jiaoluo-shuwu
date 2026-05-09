@@ -53,7 +53,7 @@ content_sources:
       <span class="topic-hero-eyebrow">Chengyu · 成语 chéngyǔ</span>
       <h1 class="topic-hero-title">误入歧途</h1>
       <span class="topic-hero-title-py">wù rù qí tú</span>
-      <p class="topic-hero-desc">To stray onto the wrong road — through error, temptation, or simple inattention. The idiom for how things go wrong before anyone has decided they should.</p>
+      <p class="topic-hero-desc">To stray onto the wrong road , through error, temptation, or simple inattention. The idiom for how things go wrong before anyone has decided they should.</p>
     </header>
 
     <span class="section-anchor" id="meaning"></span>
@@ -70,15 +70,15 @@ content_sources:
     <div class="cards">
       <div class="card c-teal">
         <div class="card-head">Of a person who has gone wrong</div>
-        <p>The most common use — describing someone who has ended up in a bad situation through a series of small wrong choices rather than a single dramatic decision: 他年轻时误入歧途，交了一些不好的朋友 (tā niánqīng shí wù rù qí tú, jiāo le yīxiē bù hǎo de péngyou) — "When he was young he strayed onto the wrong road and fell in with bad company." The phrasing implies the outcome was not inevitable — it happened through misdirection, not character.</p>
+        <p>The most common use , describing someone who has ended up in a bad situation through a series of small wrong choices rather than a single dramatic decision: 他年轻时误入歧途，交了一些不好的朋友 (tā niánqīng shí wù rù qí tú, jiāo le yīxiē bù hǎo de péngyou) , "When he was young he strayed onto the wrong road and fell in with bad company." The phrasing implies the outcome was not inevitable , it happened through misdirection, not character.</p>
       </div>
       <div class="card c-ochre">
         <div class="card-head">Of an argument or project that has gone off track</div>
-        <p>Extended to intellectual or professional contexts: 这个研究方向已经误入歧途了 (zhège yánjiū fāngxiàng yǐjīng wù rù qí tú le) — "This research direction has already strayed onto the wrong road." Used in academic, policy, and business writing to signal that a line of reasoning or strategy has diverged from where it should be heading — often as a prelude to proposing correction.</p>
+        <p>Extended to intellectual or professional contexts: 这个研究方向已经误入歧途了 (zhège yánjiū fāngxiàng yǐjīng wù rù qí tú le) , "This research direction has already strayed onto the wrong road." Used in academic, policy, and business writing to signal that a line of reasoning or strategy has diverged from where it should be heading , often as a prelude to proposing correction.</p>
       </div>
       <div class="card c-sienna">
         <div class="card-head">As a gentle warning</div>
-        <p>Said to someone who is visibly heading in a bad direction but has not yet fully committed: 你要小心，不要误入歧途 (nǐ yào xiǎoxīn, bù yào wù rù qí tú) — "Be careful not to stray onto the wrong road." The phrasing is softer than a direct accusation; it frames the risk as an easy mistake anyone might make, not a moral failing specific to the listener.</p>
+        <p>Said to someone who is visibly heading in a bad direction but has not yet fully committed: 你要小心，不要误入歧途 (nǐ yào xiǎoxīn, bù yào wù rù qí tú) , "Be careful not to stray onto the wrong road." The phrasing is softer than a direct accusation; it frames the risk as an easy mistake anyone might make, not a moral failing specific to the listener.</p>
       </div>
     </div>
 
@@ -87,23 +87,23 @@ content_sources:
     <div class="scholar" data-glyph="途">
       <div class="scholar-label">误入歧途 → 迷途知返 · the wrong turn and the return</div>
       <p>误入歧途 and 迷途知返 share the character 途 (road underway) and describe opposite moments of the same experience. 误入歧途 is the diagnosis: this is where things went wrong, and it happened through error rather than intention. 迷途知返 is the prescription and the resolution: the person has recognised the mistake and is turning back.</p>
-      <p>Used together they form a complete moral arc that Chinese writing frequently employs, naming both the failure and the recovery in the same breath: 他曾经误入歧途，但最终还是迷途知返了 (tā céng jīng wù rù qí tú, dàn zuìzhōng háishì mí tú zhī fǎn le) — "He once strayed onto the wrong road, but in the end he recognised his error and turned back." The combination is neither wholly condemnatory nor wholly redemptive; it holds both truths at once, which is characteristic of how Chinese moral language tends to work.</p>
+      <p>Used together they form a complete moral arc that Chinese writing frequently employs, naming both the failure and the recovery in the same breath: 他曾经误入歧途，但最终还是迷途知返了 (tā céng jīng wù rù qí tú, dàn zuìzhōng háishì mí tú zhī fǎn le) , "He once strayed onto the wrong road, but in the end he recognised his error and turned back." The combination is neither wholly condemnatory nor wholly redemptive; it holds both truths at once, which is characteristic of how Chinese moral language tends to work.</p>
     </div>
 
     <span class="section-anchor" id="characters"></span>
     <div class="section-head"><h2>Character Analysis · 字解 zìjiě</h2></div>
     <div class="cards">
       <div class="card c-ochre">
-        <div class="card-head">误 wù — by mistake, wrongly</div>
-        <p>The speech radical (讠) on the left; 吴 (Wú, an ancient state name, here phonetic) on the right. Originally: a wrong statement, a verbal error. Extended to: any mistake, misunderstanding, or unintentional harm. Key compounds: 误会 (wùhuì, misunderstanding), 误解 (wùjiě, to misinterpret), 延误 (yánwù, to delay, to cause a setback). The character carries a consistent sense of unintentionality — 误 is not the same as 故意 (deliberate).</p>
+        <div class="card-head">误 wù , by mistake, wrongly</div>
+        <p>The speech radical (讠) on the left; 吴 (Wú, an ancient state name, here phonetic) on the right. Originally: a wrong statement, a verbal error. Extended to: any mistake, misunderstanding, or unintentional harm. Key compounds: 误会 (wùhuì, misunderstanding), 误解 (wùjiě, to misinterpret), 延误 (yánwù, to delay, to cause a setback). The character carries a consistent sense of unintentionality , 误 is not the same as 故意 (deliberate).</p>
       </div>
       <div class="card c-ochre">
-        <div class="card-head">入 rù — to enter</div>
-        <p>One of the simplest characters in the script — two strokes suggesting something going inward or downward. To enter, to join, to go into. Highly productive as a component: 入口 (rùkǒu, entrance), 进入 (jìnrù, to enter, to get into), 收入 (shōurù, income — literally "what comes in"). In 误入歧途, the 入 marks the act of entering the wrong road — the specific moment of departure from the right path.</p>
+        <div class="card-head">入 rù , to enter</div>
+        <p>One of the simplest characters in the script , two strokes suggesting something going inward or downward. To enter, to join, to go into. Highly productive as a component: 入口 (rùkǒu, entrance), 进入 (jìnrù, to enter, to get into), 收入 (shōurù, income , literally "what comes in"). In 误入歧途, the 入 marks the act of entering the wrong road , the specific moment of departure from the right path.</p>
       </div>
       <div class="card c-teal">
-        <div class="card-head">歧 qí — a fork, a divergence</div>
-        <p>止 (zhǐ, to stop, a foot) on the left; 支 (zhī, a branch, to support) on the right. A road that branches off. Extended to: divergence, heterodoxy, anything that departs from the orthodox or standard. 歧视 (qíshì, discrimination — literally "divergent seeing"); 分歧 (fēnqí, a divergence, a difference of opinion). 歧 alone already contains the sense of wrongness — it is not a neutral fork but one that leads away.</p>
+        <div class="card-head">歧 qí , a fork, a divergence</div>
+        <p>止 (zhǐ, to stop, a foot) on the left; 支 (zhī, a branch, to support) on the right. A road that branches off. Extended to: divergence, heterodoxy, anything that departs from the orthodox or standard. 歧视 (qíshì, discrimination , literally "divergent seeing"); 分歧 (fēnqí, a divergence, a difference of opinion). 歧 alone already contains the sense of wrongness — it is not a neutral fork but one that leads away.</p>
       </div>
       <div class="card c-teal">
         <div class="card-head">途 tú — road, the journey underway</div>

@@ -115,7 +115,7 @@ pinyin: 'dàojiào'
           <div class="example">
             <div class="ex-cn">为学日益，为道日损，损之又损，以至于无为。</div>
             <div class="ex-py">Wéi xué rì yì, wéi dào rì sǔn, sǔn zhī yòu sǔn, yǐ zhì yú wúwéi.</div>
-            <div class="ex-en">In pursuit of learning, every day something is added. In pursuit of the Dao, every day something is let go — until non-action is reached. <em>(Daodejing 48)</em></div>
+            <div class="ex-en">In pursuit of learning, every day something is added. In pursuit of the Dao, every day something is let go , until non-action is reached. <em>(Daodejing 48)</em></div>
           </div>
         </div>
       </div>
@@ -350,14 +350,14 @@ pinyin: 'dàojiào'
         <span class="cy-cn">无为而治</span>
         <span class="cy-py">wúwéi ér zhì</span>
         <span class="cy-en">governing through non-action — the ideal Daoist political order</span>
-        <span class="cy-note">The political application of 无为: the sage ruler does so little that people think they accomplished everything themselves. 太上，下知有之 (Daodejing 17): "The best ruler — the people merely know he exists." The phrase is widely used today for management styles that empower rather than micromanage.</span>
+        <span class="cy-note">The political application of 无为: the sage ruler does so little that people think they accomplished everything themselves. 太上，下知有之 (Daodejing 17): "The best ruler , the people merely know he exists." The phrase is widely used today for management styles that empower rather than micromanage.</span>
       </div>
 
       <div class="cy">
         <span class="cy-cn">上善若水</span>
         <span class="cy-py">shàng shàn ruò shuǐ</span>
         <span class="cy-en">the highest good is like water — the signature Daoist image</span>
-        <span class="cy-note">Daodejing 8. Water benefits all things without competing; it dwells in the low places that people despise — and therefore it is close to the Dao. 水善利万物而不争，处众人之所恶 — "Water benefits all things and does not compete; it dwells where people disdain to be." The most quoted single line of the Daodejing in modern Chinese contexts.</span>
+        <span class="cy-note">Daodejing 8. Water benefits all things without competing; it dwells in the low places that people despise , and therefore it is close to the Dao. 水善利万物而不争，处众人之所恶 — "Water benefits all things and does not compete; it dwells where people disdain to be." The most quoted single line of the Daodejing in modern Chinese contexts.</span>
       </div>
 
       <div class="cy">

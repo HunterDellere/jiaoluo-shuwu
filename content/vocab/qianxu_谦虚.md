@@ -68,7 +68,7 @@ content_review: 'pending'
       <span class="topic-hero-eyebrow">Vocabulary · 词汇 cíhuì</span>
       <h1 class="topic-hero-title">谦虚</h1>
       <span class="topic-hero-title-py">qiān xū</span>
-      <p class="topic-hero-desc">Humility as restrained speech and hollow space — a Confucian virtue whose etymology encodes the social theory it describes: the person who speaks less creates room for others to fill with trust.</p>
+      <p class="topic-hero-desc">Humility as restrained speech and hollow space , a Confucian virtue whose etymology encodes the social theory it describes: the person who speaks less creates room for others to fill with trust.</p>
     </header>
 
     <!-- ── ETYMOLOGY ── -->
@@ -82,9 +82,9 @@ content_review: 'pending'
 
     <div class="scholar" data-glyph="谦">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
-      <p><strong>谦 qiān</strong> (modesty; to yield; to be unassuming) is composed of <strong>讠</strong> (the speech radical — simplified from 言, a mouth with words ascending from it) + <strong>兼 jiān</strong> (to hold together; to combine; to hold two things simultaneously — phonetic and possibly semantic: a hand grasping two stalks of grain at once, combining many views without asserting one's own). The structural suggestion is a person who holds many perspectives at once and speaks from none of them as though it were the final word. Humility as the restraint that comes from knowing too much to claim certainty.</p>
-      <p><strong>虚 xū</strong> (empty; hollow; void; insubstantial) is composed of <strong>虍 hū</strong> (tiger stripes — a phonetic element derived from the image of a tiger's striped skin, used in characters where the sound approximates a "hu" syllable) + <strong>丘 qiū</strong> (a mound or hill; an elevated landform — in oracle bone script, a simple double-hump shape). The combination captures something structurally hollow: the hill that is empty inside, the container with space in it. 虚 in its extended senses means emptiness as receptive capacity — the hollow of a vessel that allows it to hold, the space in a room that allows it to be inhabited.</p>
-      <p>Together: speech that creates emptiness. The compound names a precise social fact — that the person who does not fill every space with their own voice creates room, and that room is what trust grows into. 谦虚 is not absence but deliberate hollowness, the cultivated capacity to be less than you could claim.</p>
+      <p><strong>谦 qiān</strong> (modesty; to yield; to be unassuming) is composed of <strong>讠</strong> (the speech radical , simplified from 言, a mouth with words ascending from it) + <strong>兼 jiān</strong> (to hold together; to combine; to hold two things simultaneously , phonetic and possibly semantic: a hand grasping two stalks of grain at once, combining many views without asserting one's own). The structural suggestion is a person who holds many perspectives at once and speaks from none of them as though it were the final word. Humility as the restraint that comes from knowing too much to claim certainty.</p>
+      <p><strong>虚 xū</strong> (empty; hollow; void; insubstantial) is composed of <strong>虍 hū</strong> (tiger stripes , a phonetic element derived from the image of a tiger's striped skin, used in characters where the sound approximates a "hu" syllable) + <strong>丘 qiū</strong> (a mound or hill; an elevated landform , in oracle bone script, a simple double-hump shape). The combination captures something structurally hollow: the hill that is empty inside, the container with space in it. 虚 in its extended senses means emptiness as receptive capacity , the hollow of a vessel that allows it to hold, the space in a room that allows it to be inhabited.</p>
+      <p>Together: speech that creates emptiness. The compound names a precise social fact , that the person who does not fill every space with their own voice creates room, and that room is what trust grows into. 谦虚 is not absence but deliberate hollowness, the cultivated capacity to be less than you could claim.</p>
     </div>
 
     <!-- ── CONFUCIAN VIRTUE ── -->
@@ -98,9 +98,9 @@ content_review: 'pending'
 
     <div class="scholar" data-glyph="谦">
       <div class="scholar-label">文化洞见 wénhuà dòngjiàn · Cultural Note</div>
-      <p>The 易经 (Yijing, Book of Changes) devotes its fifteenth hexagram entirely to 谦 qiān. The hexagram image is striking: 艮 ☶ (mountain) below 坤 ☷ (earth). A mountain, which should be the highest thing, has placed itself beneath the earth — greatness that has lowered itself. The 彖 commentary reads: 谦，亨，天道下济而光明，地道卑而上行。(Modesty brings success. The way of heaven is to shed its light below and shine brightly; the way of the earth is to be humble and move upward.) The paradox: what descends rises; what lowers illuminates. Among the 64 hexagrams, 谦 is the only one in which every line — from the lowest to the highest — brings good fortune. Humility is uniquely without failure.</p>
-      <p>The phrase 谦谦君子 qiānqiān jūnzǐ (the humbly modest exemplary person) comes directly from the first line of this hexagram: 谦谦君子，用涉大川，吉。(The humbly modest exemplary person — it is advantageous to cross the great river. Good fortune.) The doubling of 谦谦 intensifies the quality: profound, genuine, double-layered modesty. The 君子 (jūnzǐ — the cultivated person, the exemplary one) does not merely perform humility as social courtesy; the modesty is structural to how they hold themselves in the world.</p>
-      <p>Confucius links humility directly to 礼 (ritual propriety) — the correct social posture within hierarchical relationships. The person who asserts themselves too forcefully in the presence of elders, teachers, or superiors is not merely rude; they have failed 礼, the entire system of graduated behavior that holds social order together. 君子泰而不骄，小人骄而不泰 (the junzi is at ease without arrogance; the petty person is arrogant without ease — Analects 13.26): the distinction is not between the confident and the self-effacing, but between the person whose ease is grounded in virtue and the person whose display of superiority covers insecurity.</p>
+      <p>The 易经 (Yijing, Book of Changes) devotes its fifteenth hexagram entirely to 谦 qiān. The hexagram image is striking: 艮 ☶ (mountain) below 坤 ☷ (earth). A mountain, which should be the highest thing, has placed itself beneath the earth , greatness that has lowered itself. The 彖 commentary reads: 谦，亨，天道下济而光明，地道卑而上行。(Modesty brings success. The way of heaven is to shed its light below and shine brightly; the way of the earth is to be humble and move upward.) The paradox: what descends rises; what lowers illuminates. Among the 64 hexagrams, 谦 is the only one in which every line , from the lowest to the highest , brings good fortune. Humility is uniquely without failure.</p>
+      <p>The phrase 谦谦君子 qiānqiān jūnzǐ (the humbly modest exemplary person) comes directly from the first line of this hexagram: 谦谦君子，用涉大川，吉。(The humbly modest exemplary person , it is advantageous to cross the great river. Good fortune.) The doubling of 谦谦 intensifies the quality: profound, genuine, double-layered modesty. The 君子 (jūnzǐ , the cultivated person, the exemplary one) does not merely perform humility as social courtesy; the modesty is structural to how they hold themselves in the world.</p>
+      <p>Confucius links humility directly to 礼 (ritual propriety) , the correct social posture within hierarchical relationships. The person who asserts themselves too forcefully in the presence of elders, teachers, or superiors is not merely rude; they have failed 礼, the entire system of graduated behavior that holds social order together. 君子泰而不骄，小人骄而不泰 (the junzi is at ease without arrogance; the petty person is arrogant without ease , Analects 13.26): the distinction is not between the confident and the self-effacing, but between the person whose ease is grounded in virtue and the person whose display of superiority covers insecurity.</p>
     </div>
 
     <!-- ── SOCIAL PERFORMANCE ── -->
@@ -114,9 +114,9 @@ content_review: 'pending'
 
     <div class="scholar" data-glyph="虚">
       <div class="scholar-label">语用洞见 yǔyòng dòngjiàn · Pragmatic Note</div>
-      <p>In live Chinese interaction, 谦虚 is not only a virtue but a required register — a social grammar of deflection that operates independently of whether the speaker genuinely feels modest. When someone receives a compliment in Chinese, the correct move is to deny it, redirect it, or attribute the achievement to circumstances, others, or luck. To simply accept a compliment — to say 谢谢，我也觉得我做得不错 (thank you, I thought I did well too) — reads as social failure, a breach of the expected script.</p>
-      <p>The stock responses are formulaic and recognized as such by all parties. That recognition is the point: 谦虚 functions as a social token, an acknowledgment that the relationship matters more than the accuracy of the self-assessment. The most common deflection is 哪里哪里 nǎlǐ nǎlǐ (literally "where, where?" — meaning "where is this quality you're seeing? I don't see it / you're flattering me"). The phrase is so conventional that it has become somewhat old-fashioned; younger speakers may prefer 过奖了 guòjiǎng le ("you've overpraised me" — 过 = excessive; 奖 = to praise/award; 了 = completion marker). Others use 还差得远呢 hái chà de yuǎn ne ("I'm still far from good enough — there's a long way to go").</p>
-      <p>The social logic is that a person who accepts praise eagerly is claiming too much social space. The deflection returns space to the relationship, signaling that the speaker values the other person's judgment over their own self-presentation. This is not hypocrisy — it is a recognized social grammar in which everyone knows the rules and everyone knows that everyone knows. A Chinese speaker who has just given an excellent speech and says 讲得不好，请多指教 (I didn't speak well — please offer your guidance) is performing 谦虚 exactly as the situation requires. The audience knows this. The sincerity is in performing the script correctly, not in literally meaning the content of the words.</p>
+      <p>In live Chinese interaction, 谦虚 is not only a virtue but a required register , a social grammar of deflection that operates independently of whether the speaker genuinely feels modest. When someone receives a compliment in Chinese, the correct move is to deny it, redirect it, or attribute the achievement to circumstances, others, or luck. To simply accept a compliment , to say 谢谢，我也觉得我做得不错 (thank you, I thought I did well too) , reads as social failure, a breach of the expected script.</p>
+      <p>The stock responses are formulaic and recognized as such by all parties. That recognition is the point: 谦虚 functions as a social token, an acknowledgment that the relationship matters more than the accuracy of the self-assessment. The most common deflection is 哪里哪里 nǎlǐ nǎlǐ (literally "where, where?" — meaning "where is this quality you're seeing? I don't see it / you're flattering me"). The phrase is so conventional that it has become somewhat old-fashioned; younger speakers may prefer 过奖了 guòjiǎng le ("you've overpraised me" , 过 = excessive; 奖 = to praise/award; 了 = completion marker). Others use 还差得远呢 hái chà de yuǎn ne ("I'm still far from good enough , there's a long way to go").</p>
+      <p>The social logic is that a person who accepts praise eagerly is claiming too much social space. The deflection returns space to the relationship, signaling that the speaker values the other person's judgment over their own self-presentation. This is not hypocrisy , it is a recognized social grammar in which everyone knows the rules and everyone knows that everyone knows. A Chinese speaker who has just given an excellent speech and says 讲得不好，请多指教 (I didn't speak well , please offer your guidance) is performing 谦虚 exactly as the situation requires. The audience knows this. The sincerity is in performing the script correctly, not in literally meaning the content of the words.</p>
       <p>When interacting across cultures, this grammar creates predictable friction. A direct acknowledgment of one's own competence or achievement, normal in many Western professional contexts, reads as 骄傲 (arrogant) or 不谦虚 (immodest) to Chinese interlocutors who are accustomed to the deflection register. Conversely, the scripted self-deprecation of 谦虚 can read as false modesty or underconfidence to interlocutors who are not inside the grammar. Neither reading is accurate. The behavior is structural to the communicative system, and its meaning is fully legible only within it.</p>
     </div>
 
@@ -130,7 +130,7 @@ content_review: 'pending'
         </div>
         <div class="tags"><span class="tag tag-n">Fixed phrase 固定短语</span></div>
         <div class="card-def">
-          The quintessential 谦虚 response to a compliment — a rhetorical question that denies the existence of the praised quality. Literally "where is this quality you're seeing?" The doubling intensifies the deflection. Somewhat formal and traditional; younger speakers may find it old-fashioned, but it remains widely recognized and used in contexts that call for explicit 谦虚.
+          The quintessential 谦虚 response to a compliment , a rhetorical question that denies the existence of the praised quality. Literally "where is this quality you're seeing?" The doubling intensifies the deflection. Somewhat formal and traditional; younger speakers may find it old-fashioned, but it remains widely recognized and used in contexts that call for explicit 谦虚.
         </div>
         <div class="examples">
           <div class="example">
@@ -141,7 +141,7 @@ content_review: 'pending'
           <div class="example">
             <div class="ex-cn">你今天表现得非常出色。— 哪里哪里，多亏了团队的支持。</div>
             <div class="ex-py">Nǐ jīntiān biǎoxiàn de fēicháng chūsè. — Nǎlǐ nǎlǐ, duōkuī le tuánduì de zhīchí.</div>
-            <div class="ex-en">You performed exceptionally today. — Not at all — it's thanks to the team's support.</div>
+            <div class="ex-en">You performed exceptionally today. — Not at all , it's thanks to the team's support.</div>
           </div>
         </div>
       </div>
@@ -154,18 +154,18 @@ content_review: 'pending'
         </div>
         <div class="tags"><span class="tag tag-n">Fixed phrase 固定短语</span></div>
         <div class="card-def">
-          过 guò (to exceed; to go too far) + 奖 jiǎng (to praise; to commend; an award) + 了 le (completion/change-of-state particle). A slightly more sophisticated deflection than 哪里哪里 — conceding that some praise may be warranted but asserting that the speaker has gone beyond what is accurate. Common in professional and semi-formal contexts.
+          过 guò (to exceed; to go too far) + 奖 jiǎng (to praise; to commend; an award) + 了 le (completion/change-of-state particle). A slightly more sophisticated deflection than 哪里哪里 , conceding that some praise may be warranted but asserting that the speaker has gone beyond what is accurate. Common in professional and semi-formal contexts.
         </div>
         <div class="examples">
           <div class="example">
             <div class="ex-cn">您的报告写得非常精彩！— 过奖了，还有很多不足的地方。</div>
             <div class="ex-py">Nín de bàogào xiě de fēicháng jīngcǎi! — Guòjiǎng le, hái yǒu hěn duō bùzú de dìfāng.</div>
-            <div class="ex-en">Your report is exceptionally well-written! — You overpraised me — there are still many shortcomings.</div>
+            <div class="ex-en">Your report is exceptionally well-written! — You overpraised me , there are still many shortcomings.</div>
           </div>
           <div class="example">
             <div class="ex-cn">老师说你是班里最聪明的学生。— 过奖了，我只是比较努力。</div>
             <div class="ex-py">Lǎoshī shuō nǐ shì bān lǐ zuì cōngmíng de xuésheng. — Guòjiǎng le, wǒ zhǐshì bǐjiào nǔlì.</div>
-            <div class="ex-en">The teacher said you're the smartest student in the class. — You overpraised me — I just work relatively hard.</div>
+            <div class="ex-en">The teacher said you're the smartest student in the class. — You overpraised me , I just work relatively hard.</div>
           </div>
         </div>
       </div>
@@ -178,18 +178,18 @@ content_review: 'pending'
         </div>
         <div class="tags"><span class="tag tag-n">Fixed phrase 固定短语</span></div>
         <div class="card-def">
-          还 hái (still; yet) + 差 chà (to fall short; to be lacking) + 得 de (degree complement marker) + 远 yuǎn (far). A self-deprecating phrase that positions the speaker as still well short of a standard — pointing forward to future growth rather than backward at achievement. Often follows a deflection like 哪里哪里 and adds a second layer of self-placement below the praised level.
+          还 hái (still; yet) + 差 chà (to fall short; to be lacking) + 得 de (degree complement marker) + 远 yuǎn (far). A self-deprecating phrase that positions the speaker as still well short of a standard , pointing forward to future growth rather than backward at achievement. Often follows a deflection like 哪里哪里 and adds a second layer of self-placement below the praised level.
         </div>
         <div class="examples">
           <div class="example">
             <div class="ex-cn">你的画技已经相当高超了。— 哪里，还差得远呢，您才是真正的大师。</div>
             <div class="ex-py">Nǐ de huàjì yǐjīng xiāngdāng gāochāo le. — Nǎlǐ, hái chà de yuǎn ne, nín cái shì zhēnzhèng de dàshī.</div>
-            <div class="ex-en">Your painting skill is already quite superb. — Not at all, I'm still far from good — you are the real master.</div>
+            <div class="ex-en">Your painting skill is already quite superb. — Not at all, I'm still far from good , you are the real master.</div>
           </div>
           <div class="example">
             <div class="ex-cn">你们对他的赞美让我受之有愧，我还差得远呢。</div>
             <div class="ex-py">Nǐmen duì tā de zànměi ràng wǒ shòu zhī yǒu kuì, wǒ hái chà de yuǎn ne.</div>
-            <div class="ex-en">Your praise makes me feel unworthy of it — I still have a long way to go.</div>
+            <div class="ex-en">Your praise makes me feel unworthy of it , I still have a long way to go.</div>
           </div>
         </div>
       </div>
@@ -207,11 +207,11 @@ content_review: 'pending'
 
     <div class="pattern">
       <span class="label">对比 duìbǐ · Contrast</span>
-      The classical warning against arrogance is 满招损，谦受益 (mǎn zhāo sǔn, qiān shòu yì — fullness invites loss; humility attracts benefit — from the 尚书 Shangshu, one of the Five Classics). The image: a vessel filled to the brim cannot receive anything more and will spill over at any disturbance; a vessel with space in it can always receive. The Shangshu uses this in a political context — warning rulers that the full granary, the overly confident general, the satisfied official are all one step from collapse. The argument for humility is not merely moral; it is strategic and cosmological. Heaven (天) acts to bring down what is puffed up and raise what has lowered itself. 满招损 is the gravitational law of Chinese moral physics.
+      The classical warning against arrogance is 满招损，谦受益 (mǎn zhāo sǔn, qiān shòu yì , fullness invites loss; humility attracts benefit , from the 尚书 Shangshu, one of the Five Classics). The image: a vessel filled to the brim cannot receive anything more and will spill over at any disturbance; a vessel with space in it can always receive. The Shangshu uses this in a political context , warning rulers that the full granary, the overly confident general, the satisfied official are all one step from collapse. The argument for humility is not merely moral; it is strategic and cosmological. Heaven (天) acts to bring down what is puffed up and raise what has lowered itself. 满招损 is the gravitational law of Chinese moral physics.
       <ul>
-        <li><strong>骄傲 jiāo'ào</strong> — arrogance; excessive pride; also (in a different sense) legitimate pride or something to be proud of. The dual meaning is significant: 骄傲 as a positive (我为你骄傲 — I'm proud of you) exists alongside 骄傲 as a condemnation (别骄傲 — don't be arrogant). Context distinguishes them.</li>
-        <li><strong>自大 zìdà</strong> — self-aggrandizement; thinking oneself greater than one is. More consistently negative than 骄傲 — no positive reading. 自大狂 zìdà kuáng = megalomaniac.</li>
-        <li><strong>自满 zìmǎn</strong> — complacency; self-satisfaction; resting on one's laurels. The state of being full of oneself, which is precisely what 满招损 warns against. 骄傲自满 (arrogant and complacent) is a common compound condemnation.</li>
+        <li><strong>骄傲 jiāo'ào</strong> , arrogance; excessive pride; also (in a different sense) legitimate pride or something to be proud of. The dual meaning is significant: 骄傲 as a positive (我为你骄傲 , I'm proud of you) exists alongside 骄傲 as a condemnation (别骄傲 , don't be arrogant). Context distinguishes them.</li>
+        <li><strong>自大 zìdà</strong> , self-aggrandizement; thinking oneself greater than one is. More consistently negative than 骄傲 , no positive reading. 自大狂 zìdà kuáng = megalomaniac.</li>
+        <li><strong>自满 zìmǎn</strong> , complacency; self-satisfaction; resting on one's laurels. The state of being full of oneself, which is precisely what 满招损 warns against. 骄傲自满 (arrogant and complacent) is a common compound condemnation.</li>
       </ul>
     </div>
 
@@ -225,7 +225,7 @@ content_review: 'pending'
         </div>
         <div class="tags"><span class="tag tag-adj">Adj 形容词 xíngróngcí</span></div>
         <div class="card-def">
-          骄 jiāo (arrogant; a rearing horse — the original pictograph showed an unruly horse rearing up on its hind legs) + 傲 ào (proud; disdainful; lofty). The primary antonym of 谦虚. In moral discourse, always negative — 骄傲是谦虚的对立面 (arrogance is the opposite of humility). In everyday family and school speech, 骄傲 can carry a fully positive sense: 我为你骄傲 (I'm proud of you), 这是我们的骄傲 (this is our pride). Only context determines which reading applies.
+          骄 jiāo (arrogant; a rearing horse , the original pictograph showed an unruly horse rearing up on its hind legs) + 傲 ào (proud; disdainful; lofty). The primary antonym of 谦虚. In moral discourse, always negative , 骄傲是谦虚的对立面 (arrogance is the opposite of humility). In everyday family and school speech, 骄傲 can carry a fully positive sense: 我为你骄傲 (I'm proud of you), 这是我们的骄傲 (this is our pride). Only context determines which reading applies.
         </div>
         <div class="examples">
           <div class="example">
@@ -249,7 +249,7 @@ content_review: 'pending'
         </div>
         <div class="tags"><span class="tag tag-adj">Adj 形容词 xíngróngcí</span></div>
         <div class="card-def">
-          自 zì (self) + 大 dà (great; large; important). Consistently negative — the failure of accurate self-assessment in the direction of inflation. Where 骄傲 can sometimes be legitimate pride, 自大 always describes a distortion: the person who claims more importance than they possess. 妄自尊大 wàng zì zūn dà (to overestimate oneself wildly — lit. "recklessly consider oneself great") is the chengyu form.
+          自 zì (self) + 大 dà (great; large; important). Consistently negative , the failure of accurate self-assessment in the direction of inflation. Where 骄傲 can sometimes be legitimate pride, 自大 always describes a distortion: the person who claims more importance than they possess. 妄自尊大 wàng zì zūn dà (to overestimate oneself wildly , lit. "recklessly consider oneself great") is the chengyu form.
         </div>
         <div class="examples">
           <div class="example">
@@ -273,7 +273,7 @@ content_review: 'pending'
         </div>
         <div class="tags"><span class="tag tag-adj">Adj 形容词 xíngróngcí</span></div>
         <div class="card-def">
-          自 zì (self) + 满 mǎn (full; satisfied). The state of being full — too full to receive more, too satisfied to keep improving. The classical warning 满招损 is precisely directed at 自满. In educational and developmental discourse, 自满 is presented as the primary obstacle to continued growth — the moment when a person decides they have learned enough. 戒骄戒躁，戒自满 (guard against arrogance, impulsiveness, and self-satisfaction) is a common exhortation.
+          自 zì (self) + 满 mǎn (full; satisfied). The state of being full , too full to receive more, too satisfied to keep improving. The classical warning 满招损 is precisely directed at 自满. In educational and developmental discourse, 自满 is presented as the primary obstacle to continued growth , the moment when a person decides they have learned enough. 戒骄戒躁，戒自满 (guard against arrogance, impulsiveness, and self-satisfaction) is a common exhortation.
         </div>
         <div class="examples">
           <div class="example">
@@ -284,7 +284,7 @@ content_review: 'pending'
           <div class="example">
             <div class="ex-cn">她从不自满，总觉得自己还有很多要学的。</div>
             <div class="ex-py">Tā cóng bù zìmǎn, zǒng juéde zìjǐ hái yǒu hěn duō yào xué de.</div>
-            <div class="ex-en">She is never complacent — she always feels there is still much for her to learn.</div>
+            <div class="ex-en">She is never complacent , she always feels there is still much for her to learn.</div>
           </div>
         </div>
       </div>
@@ -302,9 +302,9 @@ content_review: 'pending'
 
     <div class="scholar" data-glyph="虚">
       <div class="scholar-label">词义辨析 cíyì biànxī · Sense Distinction</div>
-      <p>虚心 xūxīn (lit. "empty heart/mind") and 谦虚 qiānxū are closely related but point in different directions. 谦虚 describes the outward social register — how a person presents themselves to others, the restraint in claiming too much, the deflection of praise. 虚心 describes the inward orientation — the willingness to receive, the mind that has not filled itself up with its own conclusions and so remains genuinely open to learning from others.</p>
+      <p>虚心 xūxīn (lit. "empty heart/mind") and 谦虚 qiānxū are closely related but point in different directions. 谦虚 describes the outward social register , how a person presents themselves to others, the restraint in claiming too much, the deflection of praise. 虚心 describes the inward orientation , the willingness to receive, the mind that has not filled itself up with its own conclusions and so remains genuinely open to learning from others.</p>
       <p>The distinction is practically useful: a person can perform 谦虚 without being 虚心 (skilled deflection that covers a closed mind), or be 虚心 without performing much 谦虚 (a learner who is genuinely receptive but not particularly skilled at social modesty formulae). Ideally the two align: the person who genuinely does not think they know everything will naturally find it easy to perform the social register of not claiming to know everything.</p>
-      <p>Mao Zedong's famous dictum 虚心使人进步，骄傲使人落后 (humility makes people progress; arrogance makes people fall behind) uses 虚心 rather than 谦虚 — the emphasis is on the receptive orientation toward learning, the structural openness to correction and new information, as the engine of development. The statement remained a standard school motto through the twentieth century and persists in everyday speech.</p>
+      <p>Mao Zedong's famous dictum 虚心使人进步，骄傲使人落后 (humility makes people progress; arrogance makes people fall behind) uses 虚心 rather than 谦虚 , the emphasis is on the receptive orientation toward learning, the structural openness to correction and new information, as the engine of development. The statement remained a standard school motto through the twentieth century and persists in everyday speech.</p>
     </div>
 
     <div class="cards">
@@ -317,7 +317,7 @@ content_review: 'pending'
         </div>
         <div class="tags"><span class="tag tag-adj">Adj 形容词 xíngróngcí</span></div>
         <div class="card-def">
-          虚 xū (empty; hollow; receptive — the vessel with space in it) + 心 xīn (heart; the seat of thought and feeling in Chinese understanding). An empty heart — a mind that has not pre-filled itself with conclusions and so can genuinely receive what it encounters. 虚心接受批评 (to accept criticism with an open mind) is the canonical use: the willingness to hear and incorporate feedback rather than defend oneself.
+          虚 xū (empty; hollow; receptive , the vessel with space in it) + 心 xīn (heart; the seat of thought and feeling in Chinese understanding). An empty heart , a mind that has not pre-filled itself with conclusions and so can genuinely receive what it encounters. 虚心接受批评 (to accept criticism with an open mind) is the canonical use: the willingness to hear and incorporate feedback rather than defend oneself.
         </div>
         <div class="examples">
           <div class="example">
@@ -328,12 +328,12 @@ content_review: 'pending'
           <div class="example">
             <div class="ex-cn">他很虚心，对老师的批评从不辩解，总是认真记下来。</div>
             <div class="ex-py">Tā hěn xūxīn, duì lǎoshī de pīpíng cóng bù biànjiě, zǒngshì rènzhēn jì xiàlái.</div>
-            <div class="ex-en">He is very open-minded — he never argues against the teacher's criticism, always noting it down carefully.</div>
+            <div class="ex-en">He is very open-minded , he never argues against the teacher's criticism, always noting it down carefully.</div>
           </div>
           <div class="example">
             <div class="ex-cn">做学问需要虚心，越是知识渊博的人越懂得自己的无知。</div>
             <div class="ex-py">Zuò xuéwèn xūyào xūxīn, yuè shì zhīshi yuānbó de rén yuè dǒngdé zìjǐ de wúzhī.</div>
-            <div class="ex-en">Scholarship requires receptivity — the more learned a person is, the more they understand the extent of their own ignorance.</div>
+            <div class="ex-en">Scholarship requires receptivity , the more learned a person is, the more they understand the extent of their own ignorance.</div>
           </div>
         </div>
       </div>
@@ -352,7 +352,7 @@ content_review: 'pending'
           <div class="example">
             <div class="ex-cn">我们要向先进国家虚心学习，取其精华，去其糟粕。</div>
             <div class="ex-py">Wǒmen yào xiàng xiānjìn guójiā xūxīn xuéxí, qǔ qí jīnghuá, qù qí zāopò.</div>
-            <div class="ex-en">We should learn openly from advanced countries — absorbing the essence and discarding the dross.</div>
+            <div class="ex-en">We should learn openly from advanced countries , absorbing the essence and discarding the dross.</div>
           </div>
           <div class="example">
             <div class="ex-cn">能干的人往往是那些能虚心学习的人，而不是那些觉得自己什么都懂的人。</div>
@@ -370,18 +370,18 @@ content_review: 'pending'
         </div>
         <div class="tags"><span class="tag tag-adj">Chengyu 成语</span></div>
         <div class="card-def">
-          虚 xū (empty; receptive) + 怀 huái (the mind; the heart's embrace; to hold in the mind) + 若 ruò (like; as) + 谷 gǔ (valley; gorge). From the Laozi (道德经): 上善若水 ... 致虚极，守静笃 ... 旷兮其若谷 (highest good is like water ... achieve extreme emptiness, maintain thorough stillness ... vast as a valley). The valley receives everything without choosing — rain and stone, silence and echo, shadow and light — and sends nothing back with complaint. The image for intellectual and moral receptivity: a mind so undefended that everything can enter it.
+          虚 xū (empty; receptive) + 怀 huái (the mind; the heart's embrace; to hold in the mind) + 若 ruò (like; as) + 谷 gǔ (valley; gorge). From the Laozi (道德经): 上善若水 ... 致虚极，守静笃 ... 旷兮其若谷 (highest good is like water ... achieve extreme emptiness, maintain thorough stillness ... vast as a valley). The valley receives everything without choosing , rain and stone, silence and echo, shadow and light , and sends nothing back with complaint. The image for intellectual and moral receptivity: a mind so undefended that everything can enter it.
         </div>
         <div class="examples">
           <div class="example">
             <div class="ex-cn">他虚怀若谷，无论听到什么批评都能平静接受。</div>
             <div class="ex-py">Tā xū huái ruò gǔ, wúlùn tīng dào shénme pīpíng dōu néng píngjìng jiēshòu.</div>
-            <div class="ex-en">He is as open as a valley — whatever criticism he hears, he receives it calmly.</div>
+            <div class="ex-en">He is as open as a valley , whatever criticism he hears, he receives it calmly.</div>
           </div>
           <div class="example">
             <div class="ex-cn">真正的学者往往虚怀若谷，知道自己还有很多不知道的。</div>
             <div class="ex-py">Zhēnzhèng de xuézhě wǎngwǎng xū huái ruò gǔ, zhīdào zìjǐ hái yǒu hěn duō bù zhīdào de.</div>
-            <div class="ex-en">True scholars tend to be as open as a valley — knowing how much they still do not know.</div>
+            <div class="ex-en">True scholars tend to be as open as a valley , knowing how much they still do not know.</div>
           </div>
         </div>
       </div>
@@ -403,28 +403,28 @@ content_review: 'pending'
         <span class="cy-cn">谦谦君子</span>
         <span class="cy-py">qiān qiān jūn zǐ</span>
         <span class="cy-en">"the humbly modest exemplary person" — the junzi whose modesty is doubled and genuine</span>
-        <span class="cy-note">From the 易经 (Yijing), first line of hexagram 15 谦 Qiān: 谦谦君子，用涉大川，吉 (The humbly modest exemplary person — it is advantageous to cross the great river. Good fortune). The doubling of 谦谦 marks the quality as thorough and genuine rather than surface-level. The hexagram image is a mountain placed below the earth — greatness that has lowered itself. Among the 64 hexagrams, 谦 is unique: every line, from lowest to highest, brings good fortune. The 谦谦君子 is someone who has internalized this structural fact — that humility does not cost but yields. In modern Chinese, 谦谦君子 is sometimes used with gentle irony to describe someone who is excessively or performatively modest, though the classical sense remains the primary one.</span>
+        <span class="cy-note">From the 易经 (Yijing), first line of hexagram 15 谦 Qiān: 谦谦君子，用涉大川，吉 (The humbly modest exemplary person , it is advantageous to cross the great river. Good fortune). The doubling of 谦谦 marks the quality as thorough and genuine rather than surface-level. The hexagram image is a mountain placed below the earth , greatness that has lowered itself. Among the 64 hexagrams, 谦 is unique: every line, from lowest to highest, brings good fortune. The 谦谦君子 is someone who has internalized this structural fact , that humility does not cost but yields. In modern Chinese, 谦谦君子 is sometimes used with gentle irony to describe someone who is excessively or performatively modest, though the classical sense remains the primary one.</span>
       </div>
 
       <div class="cy">
         <span class="cy-cn">满招损，谦受益</span>
         <span class="cy-py">mǎn zhāo sǔn, qiān shòu yì</span>
         <span class="cy-en">"fullness invites loss; humility attracts benefit" — the cosmological argument for modesty</span>
-        <span class="cy-note">From the 尚书 (Shangshu, Book of Documents), one of the Five Classics — among the oldest extant Chinese prose. The original context is political: a minister warning a ruler that the full granary and the satisfied general are both one disturbance from disaster, while the humble and vigilant leader remains capable of receiving good counsel and correcting course. The argument is not merely moral but structural: 天 (Heaven) acts against what is puffed up and sustains what has lowered itself. 满 mǎn (full; satisfied) carries the same warning as 自满 — the vessel that is too full spills at any movement. The phrase circulates as a proverbial pair, the two halves inseparable, and appears constantly in educational and developmental contexts as a justification for continued effort over complacency.</span>
+        <span class="cy-note">From the 尚书 (Shangshu, Book of Documents), one of the Five Classics , among the oldest extant Chinese prose. The original context is political: a minister warning a ruler that the full granary and the satisfied general are both one disturbance from disaster, while the humble and vigilant leader remains capable of receiving good counsel and correcting course. The argument is not merely moral but structural: 天 (Heaven) acts against what is puffed up and sustains what has lowered itself. 满 mǎn (full; satisfied) carries the same warning as 自满 , the vessel that is too full spills at any movement. The phrase circulates as a proverbial pair, the two halves inseparable, and appears constantly in educational and developmental contexts as a justification for continued effort over complacency.</span>
       </div>
 
       <div class="cy">
         <span class="cy-cn">虚怀若谷</span>
         <span class="cy-py">xū huái ruò gǔ</span>
         <span class="cy-en">"a mind as open as a valley" — profound receptivity; the deepest form of intellectual humility</span>
-        <span class="cy-note">The Daoist counterpart to the Confucian 谦谦君子. Where the Confucian formulation focuses on the social expression of humility in hierarchical relationships, 虚怀若谷 focuses on the inner orientation — the mind that has genuinely emptied itself of the need to be right, to have known first, to defend its existing positions. The valley receives without selecting; it holds without grasping; it echoes without originating. The Laozi (道德经) uses valley imagery repeatedly for this quality: 为学日益，为道日损，损之又损，以至于无为 (in pursuit of learning, every day something is added; in pursuit of the Way, every day something is dropped). 虚怀若谷 describes the person who is already in the state the Laozi recommends — mind cleared out enough to receive whatever comes.</span>
+        <span class="cy-note">The Daoist counterpart to the Confucian 谦谦君子. Where the Confucian formulation focuses on the social expression of humility in hierarchical relationships, 虚怀若谷 focuses on the inner orientation , the mind that has genuinely emptied itself of the need to be right, to have known first, to defend its existing positions. The valley receives without selecting; it holds without grasping; it echoes without originating. The Laozi (道德经) uses valley imagery repeatedly for this quality: 为学日益，为道日损，损之又损，以至于无为 (in pursuit of learning, every day something is added; in pursuit of the Way, every day something is dropped). 虚怀若谷 describes the person who is already in the state the Laozi recommends , mind cleared out enough to receive whatever comes.</span>
       </div>
 
       <div class="cy">
         <span class="cy-cn">不耻下问</span>
         <span class="cy-py">bù chǐ xià wèn</span>
         <span class="cy-en">"not ashamed to ask those below" — intellectual humility; willingness to learn from anyone regardless of status</span>
-        <span class="cy-note">From the 论语 (Analects) — Confucius praising the minister Kong Wenzi: 敏而好学，不耻下问，是以谓之'文'也 (Quick-minded and fond of learning, not ashamed to ask those of lower rank — this is why he was given the posthumous title 'Wen'). 耻 chǐ (to feel shame) + 下问 (to ask those below; to seek counsel from those of lesser rank or learning). The phrase encodes a specific form of 谦虚: the willingness to learn from anyone, regardless of their social position relative to yours. The Confucian world was hierarchically organized and the shame of asking a lesser person was real — 不耻下问 is the override, the commitment to learning over face. It remains one of the most cited scholarly virtues in Chinese educational culture.</span>
+        <span class="cy-note">From the 论语 (Analects) , Confucius praising the minister Kong Wenzi: 敏而好学，不耻下问，是以谓之'文'也 (Quick-minded and fond of learning, not ashamed to ask those of lower rank , this is why he was given the posthumous title 'Wen'). 耻 chǐ (to feel shame) + 下问 (to ask those below; to seek counsel from those of lesser rank or learning). The phrase encodes a specific form of 谦虚: the willingness to learn from anyone, regardless of their social position relative to yours. The Confucian world was hierarchically organized and the shame of asking a lesser person was real , 不耻下问 is the override, the commitment to learning over face. It remains one of the most cited scholarly virtues in Chinese educational culture.</span>
       </div>
 
     </div>
@@ -448,8 +448,8 @@ content_review: 'pending'
     <!-- RETENTION SCHOLAR BOX -->
     <div class="scholar" data-glyph="谦" style="margin-top:2.5rem;">
       <div class="scholar-label">记忆法 jìyìfǎ · Master Retention Image</div>
-      <p>The mountain below the earth. That is the 易经's image for 谦 — hexagram 15, the only hexagram in which every single line is auspicious. A mountain has placed itself under the ground, its greatness made invisible. And this is precisely what gives it stability: the height is real, but the display of it has been withheld. The restraint creates trust; the space created by not asserting fills with the regard of others.</p>
-      <p>谦虚 names this structural fact about social space. Speech that fills every opening with the speaker's own claims leaves nothing for the other person to contribute. Speech that restrains itself, that deflects praise, that says 哪里哪里 when the inner voice might say something quite different, creates a hollow — and trust is what grows in that hollow. The etymology is the doctrine: 谦 (restrained speech) + 虚 (emptiness) = the deliberate act of creating space by speaking less than you could.</p>
+      <p>The mountain below the earth. That is the 易经's image for 谦 , hexagram 15, the only hexagram in which every single line is auspicious. A mountain has placed itself under the ground, its greatness made invisible. And this is precisely what gives it stability: the height is real, but the display of it has been withheld. The restraint creates trust; the space created by not asserting fills with the regard of others.</p>
+      <p>谦虚 names this structural fact about social space. Speech that fills every opening with the speaker's own claims leaves nothing for the other person to contribute. Speech that restrains itself, that deflects praise, that says 哪里哪里 when the inner voice might say something quite different, creates a hollow , and trust is what grows in that hollow. The etymology is the doctrine: 谦 (restrained speech) + 虚 (emptiness) = the deliberate act of creating space by speaking less than you could.</p>
     </div>
 
     <footer class="page-footer">

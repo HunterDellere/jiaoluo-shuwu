@@ -172,7 +172,7 @@ pinyin: 'shì…de'
         </div>
         <div class="tags"><span class="tag tag-v">是…的 · specific time focus</span></div>
         <div class="card-def">
-          More precise time focus — this morning, as opposed to last night or yesterday. The presupposition is clear: she has already left (both speakers know this). The new information is the precise time of departure. Commonly used in conversations about arrivals, departures, and events.
+          More precise time focus , this morning, as opposed to last night or yesterday. The presupposition is clear: she has already left (both speakers know this). The new information is the precise time of departure. Commonly used in conversations about arrivals, departures, and events.
         </div>
         <div class="examples">
           <div class="example">
@@ -209,7 +209,7 @@ pinyin: 'shì…de'
         </div>
         <div class="tags"><span class="tag tag-v">是…的 · place focus</span></div>
         <div class="card-def">
-          Place focus with 在 + location between 是 and the verb. The presupposition is that the speaker was born — the focus is the location. This is how Chinese speakers typically answer "Where were you born?" — using 是…的 to frame the location as the focused new information.
+          Place focus with 在 + location between 是 and the verb. The presupposition is that the speaker was born , the focus is the location. This is how Chinese speakers typically answer "Where were you born?" — using 是…的 to frame the location as the focused new information.
         </div>
         <div class="examples">
           <div class="example">
@@ -225,7 +225,7 @@ pinyin: 'shì…de'
         </div>
         <div class="note">
           <span class="note-label">语法 yǔfǎ · Object Position</span>
-          When there is an object, it can appear before or after 的: 你在哪里买的这件衣服 / 你在哪里买这件衣服的 — both are acceptable, with the second form slightly more formal. The 是 at the start can be omitted in speech: 你在哪里买的？ is very natural.
+          When there is an object, it can appear before or after 的: 你在哪里买的这件衣服 / 你在哪里买这件衣服的 , both are acceptable, with the second form slightly more formal. The 是 at the start can be omitted in speech: 你在哪里买的？ is very natural.
         </div>
       </div>
 
@@ -237,7 +237,7 @@ pinyin: 'shì…de'
         </div>
         <div class="tags"><span class="tag tag-v">是…的 · place focus</span></div>
         <div class="card-def">
-          Both speakers know they met — the question is where. The 在上海 sits between 是 and 见面的, specifying the location of the known meeting. Common in stories, biographical accounts, and conversations about how relationships began.
+          Both speakers know they met , the question is where. The 在上海 sits between 是 and 见面的, specifying the location of the known meeting. Common in stories, biographical accounts, and conversations about how relationships began.
         </div>
         <div class="examples">
           <div class="example">
@@ -274,7 +274,7 @@ pinyin: 'shì…de'
         </div>
         <div class="tags"><span class="tag tag-v">是…的 · manner focus</span></div>
         <div class="card-def">
-          Manner focus: the verb of transportation or method of doing something sits between 是 and 去的 (or the main verb + 的). The presupposition is that he went somewhere — the new information is how. 开车 (drive a car) is the manner. Other manners: 坐飞机 by plane, 骑车 by bike, 走路 on foot, 打电话 by phone.
+          Manner focus: the verb of transportation or method of doing something sits between 是 and 去的 (or the main verb + 的). The presupposition is that he went somewhere , the new information is how. 开车 (drive a car) is the manner. Other manners: 坐飞机 by plane, 骑车 by bike, 走路 on foot, 打电话 by phone.
         </div>
         <div class="examples">
           <div class="example">
@@ -303,7 +303,7 @@ pinyin: 'shì…de'
         </div>
         <div class="tags"><span class="tag tag-v">是…的 · agent focus</span></div>
         <div class="card-def">
-          Agent focus: who performed the known action. The agent (他) is placed between 是 and the verb + 的. Both speakers know the book was borrowed — the question or point of emphasis is <em>who</em> borrowed it. This is also how 是…的 can function like a passive: the book (subject) + 是 + agent + verb + 的.
+          Agent focus: who performed the known action. The agent (他) is placed between 是 and the verb + 的. Both speakers know the book was borrowed , the question or point of emphasis is <em>who</em> borrowed it. This is also how 是…的 can function like a passive: the book (subject) + 是 + agent + verb + 的.
         </div>
         <div class="examples">
           <div class="example">
@@ -327,7 +327,7 @@ pinyin: 'shì…de'
         </div>
         <div class="tags"><span class="tag tag-v">是…的 · agent focus question</span></div>
         <div class="card-def">
-          The agent-focus question: 是谁 + Verb + 的. Both speakers know that someone told this person something — the unknown is who. 谁 occupies the focus position between 是 and the verb phrase. This is one of the most natural everyday uses of 是…的: interrogating the agent of a known past action.
+          The agent-focus question: 是谁 + Verb + 的. Both speakers know that someone told this person something , the unknown is who. 谁 occupies the focus position between 是 and the verb phrase. This is one of the most natural everyday uses of 是…的: interrogating the agent of a known past action.
         </div>
         <div class="examples">
           <div class="example">
@@ -385,7 +385,7 @@ pinyin: 'shì…de'
           <div class="example">
             <div class="ex-cn">是的，就是这样。</div>
             <div class="ex-py">Shì de, jiù shì zhèyàng.</div>
-            <div class="ex-en">Yes, exactly like this — that's just how it is.</div>
+            <div class="ex-en">Yes, exactly like this , that's just how it is.</div>
           </div>
         </div>
         <div class="note">
@@ -407,12 +407,12 @@ pinyin: 'shì…de'
 
     <div class="pattern">
       <span class="label">不是…的 · Correcting a Focus</span>
-      To negate a 是…的 sentence, replace 是 with 不是 — this corrects the focused element.<br><br>
+      To negate a 是…的 sentence, replace 是 with 不是 , this corrects the focused element.<br><br>
       A: 你是坐飞机来的吗？— Did you come by plane?<br>
       B: 不是，我是坐火车来的。— No, I came by train.<br><br>
       A: 你是在上海学的中文吗？— Did you learn Chinese in Shanghai?<br>
       B: 不是在上海，是在北京学的。— Not in Shanghai; I learned it in Beijing.<br><br>
-      <strong>Key point:</strong> 不是…的 presupposes the same known event — it simply corrects which detail was true. It does NOT deny that the event happened; it corrects the specific focus point.
+      <strong>Key point:</strong> 不是…的 presupposes the same known event , it simply corrects which detail was true. It does NOT deny that the event happened; it corrects the specific focus point.
     </div>
 
     <div class="cards">
@@ -425,13 +425,13 @@ pinyin: 'shì…de'
         </div>
         <div class="tags"><span class="tag tag-v">不是…的 · agent correction</span></div>
         <div class="card-def">
-          The classic defensive use of 不是…的: denying agency for a known past statement or action. Both parties know something was said — the 不是…的 corrects the attribution. This is one of the most practically useful forms of the construction in daily social life.
+          The classic defensive use of 不是…的: denying agency for a known past statement or action. Both parties know something was said , the 不是…的 corrects the attribution. This is one of the most practically useful forms of the construction in daily social life.
         </div>
         <div class="examples">
           <div class="example">
             <div class="ex-cn">不是我说的，是他说的。</div>
             <div class="ex-py">Bú shì wǒ shuō de, shì tā shuō de.</div>
-            <div class="ex-en">It wasn't me who said it — it was him.</div>
+            <div class="ex-en">It wasn't me who said it , it was him.</div>
           </div>
           <div class="example">
             <div class="ex-cn">不是故意的。</div>
@@ -449,18 +449,18 @@ pinyin: 'shì…de'
         </div>
         <div class="tags"><span class="tag tag-v">不是…的 · time correction</span></div>
         <div class="card-def">
-          Time correction: both speakers know the item was bought — the correction is about when. 不是昨天 denies the specific time; the speaker may then supply the correct time with 是…的.
+          Time correction: both speakers know the item was bought , the correction is about when. 不是昨天 denies the specific time; the speaker may then supply the correct time with 是…的.
         </div>
         <div class="examples">
           <div class="example">
             <div class="ex-cn">不是昨天买的，是今天买的。</div>
             <div class="ex-py">Bú shì zuótiān mǎi de, shì jīntiān mǎi de.</div>
-            <div class="ex-en">It wasn't bought yesterday — it was bought today.</div>
+            <div class="ex-en">It wasn't bought yesterday , it was bought today.</div>
           </div>
           <div class="example">
             <div class="ex-cn">他不是今天来的，是昨天来的。</div>
             <div class="ex-py">Tā bú shì jīntiān lái de, shì zuótiān lái de.</div>
-            <div class="ex-en">He didn't arrive today — he arrived yesterday.</div>
+            <div class="ex-en">He didn't arrive today , he arrived yesterday.</div>
           </div>
         </div>
       </div>
@@ -555,8 +555,8 @@ pinyin: 'shì…de'
     </div>
 
     <div class="scholar" data-glyph="是">
-      <div class="scholar-label">学者洞见 xuézhě dòngjiàn · 是 and 非 — Classical Semantic Range</div>
-      <p>In Classical Chinese, <strong>是 shì</strong> means "this; correct; right" (its copula function "to be" came later), while <strong>非 fēi</strong> means "wrong; not; to negate." The pair 是非 shìfēi together means "right and wrong, disputes, gossip, quarrels" — the permanent human preoccupation with distinguishing what is correct from what is not. Many idioms built on 是 and 非 explore this tension.</p>
+      <div class="scholar-label">学者洞见 xuézhě dòngjiàn · 是 and 非 , Classical Semantic Range</div>
+      <p>In Classical Chinese, <strong>是 shì</strong> means "this; correct; right" (its copula function "to be" came later), while <strong>非 fēi</strong> means "wrong; not; to negate." The pair 是非 shìfēi together means "right and wrong, disputes, gossip, quarrels" , the permanent human preoccupation with distinguishing what is correct from what is not. Many idioms built on 是 and 非 explore this tension.</p>
     </div>
 
     <div class="chengyu-grid">
@@ -572,21 +572,21 @@ pinyin: 'shì…de'
         <span class="cy-cn">颠倒是非</span>
         <span class="cy-py">diāndào shìfēi</span>
         <span class="cy-en">to invert right and wrong; to call black white and white black</span>
-        <span class="cy-note">Lit: overturn-invert-right-wrong. A severe accusation: to deliberately misrepresent the facts, to claim something wrong is right and vice versa. The logical extreme of a bad-faith 是…的 — not just correcting a focus, but inverting the entire reality. Common in political rhetoric and moral arguments.</span>
+        <span class="cy-note">Lit: overturn-invert-right-wrong. A severe accusation: to deliberately misrepresent the facts, to claim something wrong is right and vice versa. The logical extreme of a bad-faith 是…的 , not just correcting a focus, but inverting the entire reality. Common in political rhetoric and moral arguments.</span>
       </div>
 
       <div class="cy">
         <span class="cy-cn">实事求是</span>
         <span class="cy-py">shíshì qiú shì</span>
         <span class="cy-en">to seek truth from facts; to be empirical and honest about reality</span>
-        <span class="cy-note">Lit: real-things-seek-correctness. From the Han-dynasty text Hanshu, later adopted as a Maoist slogan for empirical investigation over dogmatism. One of the most frequently cited phrases in Chinese political and intellectual life. 是 here means "what is actually correct" — finding what is genuinely true through investigation of concrete reality.</span>
+        <span class="cy-note">Lit: real-things-seek-correctness. From the Han-dynasty text Hanshu, later adopted as a Maoist slogan for empirical investigation over dogmatism. One of the most frequently cited phrases in Chinese political and intellectual life. 是 here means "what is actually correct" , finding what is genuinely true through investigation of concrete reality.</span>
       </div>
 
       <div class="cy">
         <span class="cy-cn">似是而非</span>
         <span class="cy-py">sì shì ér fēi</span>
         <span class="cy-en">seemingly right but actually wrong; plausible but false</span>
-        <span class="cy-note">Lit: seem-right-but-wrong. Used for arguments, claims, or reasoning that appear correct on the surface but are fundamentally flawed. The danger zone of logical errors — specious reasoning that passes for truth. Appears in classical philosophy and remains common in intellectual criticism.</span>
+        <span class="cy-note">Lit: seem-right-but-wrong. Used for arguments, claims, or reasoning that appear correct on the surface but are fundamentally flawed. The danger zone of logical errors , specious reasoning that passes for truth. Appears in classical philosophy and remains common in intellectual criticism.</span>
       </div>
 
     </div>

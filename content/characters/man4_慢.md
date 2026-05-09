@@ -89,10 +89,10 @@ content_review: 'pending'
 
     <div class="scholar" data-glyph="慢">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
-      <p><strong>慢 màn = 忄xīn</strong> (heart, the left-side radical form of 心) <strong>+ 曼 màn</strong> (graceful, prolonged, trailing — a hand drawing something out lengthwise). The phonetic component 曼 màn carries the image of something extended beyond its natural stopping point: a face made beautiful by elongation, silk pulled smooth, a note held past its beat. Set against the heart radical, the result is the feeling of prolonged, drawn-out pace — slowness not as absence of motion but as a quality of motion, of something that lingers.</p>
-      <p>The pairing with 心 is significant. 快 kuài (fast) also takes the heart radical, and the parallel is not incidental. In classical Chinese thought, pace belonged to the moral interior before it described physical movement. A slow response to a guest, a lingering departure, an unhurried bow — these were not neutral facts about timing. They expressed the state of the heart toward the other person. The classical compound 怠慢 dàimàn (to neglect, to slight) makes this explicit: 怠 dài means lazy, inattentive — and the combination means to be slow with someone in a way that constitutes an insult.</p>
-      <p>The phonetic 曼 màn also survives in the word 蔓延 mànyán, the spread of vines or a fire, something moving slowly but inexorably across a surface. The core image of 曼 — drawn out, extended, exceeding the ordinary boundary — runs through all its descendants. 慢 is the version where the excess happens in time.</p>
-      <p>In Japanese, 慢 appears in 緩慢 <em>kanman</em> (slow, sluggish) and in the pejorative 慢心 <em>manshin</em> (arrogant heart, self-importance) — the same moral valence the character carries in Chinese. Korean Sino-Korean 만 <em>man</em> follows suit in terms like 교만 <em>gyoman</em> (pride, arrogance), echoing the trajectory from pace to pride that this single character encodes.</p>
+      <p><strong>慢 màn = 忄xīn</strong> (heart, the left-side radical form of 心) <strong>+ 曼 màn</strong> (graceful, prolonged, trailing , a hand drawing something out lengthwise). The phonetic component 曼 màn carries the image of something extended beyond its natural stopping point: a face made beautiful by elongation, silk pulled smooth, a note held past its beat. Set against the heart radical, the result is the feeling of prolonged, drawn-out pace , slowness not as absence of motion but as a quality of motion, of something that lingers.</p>
+      <p>The pairing with 心 is significant. 快 kuài (fast) also takes the heart radical, and the parallel is not incidental. In classical Chinese thought, pace belonged to the moral interior before it described physical movement. A slow response to a guest, a lingering departure, an unhurried bow , these were not neutral facts about timing. They expressed the state of the heart toward the other person. The classical compound 怠慢 dàimàn (to neglect, to slight) makes this explicit: 怠 dài means lazy, inattentive , and the combination means to be slow with someone in a way that constitutes an insult.</p>
+      <p>The phonetic 曼 màn also survives in the word 蔓延 mànyán, the spread of vines or a fire, something moving slowly but inexorably across a surface. The core image of 曼 , drawn out, extended, exceeding the ordinary boundary , runs through all its descendants. 慢 is the version where the excess happens in time.</p>
+      <p>In Japanese, 慢 appears in 緩慢 <em>kanman</em> (slow, sluggish) and in the pejorative 慢心 <em>manshin</em> (arrogant heart, self-importance) , the same moral valence the character carries in Chinese. Korean Sino-Korean 만 <em>man</em> follows suit in terms like 교만 <em>gyoman</em> (pride, arrogance), echoing the trajectory from pace to pride that this single character encodes.</p>
     </div>
 
     <!-- SECTION: Core Usage -->
@@ -156,7 +156,7 @@ content_review: 'pending'
         </div>
         <div class="tags"><span class="tag tag-v">V 动词 dòngcí</span></div>
         <div class="card-def">
-          慢 màn (slow) + 走 zǒu (to walk; to leave). Literally "walk slowly" — said by a host as a guest departs, equivalent to "take care" or "safe travels." The Chinese farewell phrase, so common it has become almost automatic. The literal meaning (don't rush away) has calcified into pure social courtesy.
+          慢 màn (slow) + 走 zǒu (to walk; to leave). Literally "walk slowly" , said by a host as a guest departs, equivalent to "take care" or "safe travels." The Chinese farewell phrase, so common it has become almost automatic. The literal meaning (don't rush away) has calcified into pure social courtesy.
         </div>
         <div class="examples">
           <div class="example">
@@ -248,7 +248,7 @@ content_review: 'pending'
 
     <div class="scholar" data-glyph="慢">
       <div class="scholar-label">文化洞见 wénhuà dòngjiàn · Cultural Insight</div>
-      <p>Classical Chinese hospitality was measured in attentiveness and speed. To be slow in attending to a guest — slow to offer food, slow to respond, slow to rise from your seat — was to communicate that the guest did not matter. This calcified into a set of compounds where 慢 stops meaning physical pace entirely and becomes a measure of moral attitude.</p>
+      <p>Classical Chinese hospitality was measured in attentiveness and speed. To be slow in attending to a guest , slow to offer food, slow to respond, slow to rise from your seat , was to communicate that the guest did not matter. This calcified into a set of compounds where 慢 stops meaning physical pace entirely and becomes a measure of moral attitude.</p>
       <p>怠慢 dàimàn and 傲慢 àomàn represent two different paths to the same social failure. 怠慢 is neglect through inattention: you were too lazy or distracted to honor the person before you. 傲慢 is the more aggressive form: deliberate haughtiness, the slow condescension of someone who believes they stand above ordinary obligations. In both cases, the slowness of 慢 has become a quality of the soul rather than the legs.</p>
     </div>
 
@@ -269,7 +269,7 @@ content_review: 'pending'
           <div class="example">
             <div class="ex-cn">招待不周，多有怠慢，请见谅。</div>
             <div class="ex-py">Zhāodài bù zhōu, duō yǒu dàimàn, qǐng jiànliàng.</div>
-            <div class="ex-en">I haven't looked after you well — forgive my negligence as host.</div>
+            <div class="ex-en">I haven't looked after you well , forgive my negligence as host.</div>
           </div>
           <div class="example">
             <div class="ex-cn">他怠慢了这位重要的客人，让大家都很尴尬。</div>

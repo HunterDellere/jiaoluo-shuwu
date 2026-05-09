@@ -75,8 +75,8 @@ content_sources:
 
     <div class="scholar" data-glyph="愛">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
-      <p>The traditional form <strong>愛</strong> contains: <strong>爫</strong> (a hand reaching or grasping at the top) + <strong>心 xīn</strong> (heart, in the center) + <strong>夂 zhǐ</strong> (a foot walking slowly at the bottom). A heart being carried forward by slow, deliberate steps: love as an act of movement, not a static state. The reaching hand above and the moving foot below frame the heart — love reaches toward its object and walks toward it.</p>
-      <p>The simplified form <strong>爱</strong> strips out the 心 heart radical entirely — a simplification that traditionalists often cite as culturally significant. 没有心的爱 (love without a heart) became a mild complaint in Taiwan and Hong Kong when simplified characters spread. Whether symbolic or merely practical, the absence of 心 is the most-noticed simplification in Chinese script reform.</p>
+      <p>The traditional form <strong>愛</strong> contains: <strong>爫</strong> (a hand reaching or grasping at the top) + <strong>心 xīn</strong> (heart, in the center) + <strong>夂 zhǐ</strong> (a foot walking slowly at the bottom). A heart being carried forward by slow, deliberate steps: love as an act of movement, not a static state. The reaching hand above and the moving foot below frame the heart , love reaches toward its object and walks toward it.</p>
+      <p>The simplified form <strong>爱</strong> strips out the 心 heart radical entirely , a simplification that traditionalists often cite as culturally significant. 没有心的爱 (love without a heart) became a mild complaint in Taiwan and Hong Kong when simplified characters spread. Whether symbolic or merely practical, the absence of 心 is the most-noticed simplification in Chinese script reform.</p>
     </div>
 
     <span class="section-anchor" id="simpvtrad"></span>
@@ -84,8 +84,8 @@ content_sources:
 
     <div class="pattern">
       <span class="label">字形对比 zìxíng duìbǐ · Form Comparison</span>
-      <strong>愛 (traditional)</strong> → 爫 + <strong>心</strong> + 夂 — heart visible at center<br>
-      <strong>爱 (simplified)</strong> → 爫 + 友 — hand + friend; heart removed<br><br>
+      <strong>愛 (traditional)</strong> → 爫 + <strong>心</strong> + 夂 , heart visible at center<br>
+      <strong>爱 (simplified)</strong> → 爫 + 友 , hand + friend; heart removed<br><br>
       Traditional: love as <em>heart in motion</em> · Simplified: love as <em>friendship extended by a hand</em>
     </div>
 

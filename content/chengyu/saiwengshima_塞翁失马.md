@@ -78,8 +78,8 @@ content_sources:
       <h2 class="section-head">Meaning · 含义 hányì</h2>
       <div class="scholar" data-glyph="福">
         <div class="scholar-label">祸福相依 huò fú xiāng yī · Fortune and misfortune lean on each other</div>
-        <p>The chengyu encodes a specifically Daoist intuition that runs through the <em>Lǎozǐ</em> and <em>Zhuāngzǐ</em>: opposites generate each other, and the boundaries between them are porous. <strong>祸兮福之所倚，福兮祸之所伏</strong> (Lǎozǐ ch. 58) — "Misfortune is what fortune leans against; fortune is what misfortune lies hidden in." The frontier old man's equanimity is the practical form of this insight. He does not refuse to feel the loss; he refuses to commit to a final interpretation of it.</p>
-        <p>The longer phrase <strong>塞翁失马，焉知非福</strong> (sài wēng shī mǎ, yān zhī fēi fú) — "The frontier old man loses his horse; how do you know it's not good fortune?" — is the form most commonly used in writing. The four-character compression 塞翁失马 is the form heard in conversation, where it functions as a complete thought: a friend can say it as consolation in three syllables and the listener supplies the rest.</p>
+        <p>The chengyu encodes a specifically Daoist intuition that runs through the <em>Lǎozǐ</em> and <em>Zhuāngzǐ</em>: opposites generate each other, and the boundaries between them are porous. <strong>祸兮福之所倚，福兮祸之所伏</strong> (Lǎozǐ ch. 58) , "Misfortune is what fortune leans against; fortune is what misfortune lies hidden in." The frontier old man's equanimity is the practical form of this insight. He does not refuse to feel the loss; he refuses to commit to a final interpretation of it.</p>
+        <p>The longer phrase <strong>塞翁失马，焉知非福</strong> (sài wēng shī mǎ, yān zhī fēi fú) , "The frontier old man loses his horse; how do you know it's not good fortune?" — is the form most commonly used in writing. The four-character compression 塞翁失马 is the form heard in conversation, where it functions as a complete thought: a friend can say it as consolation in three syllables and the listener supplies the rest.</p>
       </div>
 
 
@@ -96,7 +96,7 @@ content_sources:
         </div>
         <div class="card c-teal">
           <div class="card-head">In a sentence</div>
-          <p>别太难过，塞翁失马，焉知非福。(Bié tài nánguò, sài wēng shī mǎ, yān zhī fēi fú.) — Don't be too sad. The frontier old man lost his horse; who can say it isn't good fortune?</p>
+          <p>别太难过，塞翁失马，焉知非福。(Bié tài nánguò, sài wēng shī mǎ, yān zhī fēi fú.) , Don't be too sad. The frontier old man lost his horse; who can say it isn't good fortune?</p>
         </div>
       </div>
 

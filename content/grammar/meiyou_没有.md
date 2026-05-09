@@ -22,7 +22,7 @@ pinyin: 'méiyǒu'
   <aside class="sidebar" id="sidebar">
 
     <span class="toc-topic">没有</span>
-    <span class="toc-topic-en">Negation — 没 vs. 不</span>
+    <span class="toc-topic-en">Negation , 没 vs. 不</span>
 
     <div class="toc-divider"></div>
     <span class="toc-label">On this page</span>
@@ -61,7 +61,7 @@ pinyin: 'méiyǒu'
       <span class="topic-hero-eyebrow">Grammar · 语法 yǔfǎ</span>
       <h1 class="topic-hero-title">没有</h1>
       <span class="topic-hero-title-py">méi yǒu</span>
-      <p class="topic-hero-desc">The negation of possession and past action — and the critical rule that separates 没 from 不.</p>
+      <p class="topic-hero-desc">The negation of possession and past action , and the critical rule that separates 没 from 不.</p>
     </header>
 
     <span class="section-anchor" id="overview"></span>
@@ -104,7 +104,7 @@ pinyin: 'méiyǒu'
         </div>
         <div class="tags"><span class="tag tag-v">V 动词 negation</span></div>
         <div class="card-def">
-          没有 is the negation of 有 (to have; there is/are). 有 can <strong>never</strong> be negated with 不 — only 没. This is one of the most common errors for English speakers: *不有 is ungrammatical. Always say 没有.
+          没有 is the negation of 有 (to have; there is/are). 有 can <strong>never</strong> be negated with 不 , only 没. This is one of the most common errors for English speakers: *不有 is ungrammatical. Always say 没有.
         </div>
         <div class="examples">
           <div class="example">
@@ -158,7 +158,7 @@ pinyin: 'méiyǒu'
         </div>
         <div class="tags"><span class="tag tag-v">V 动词 past negation</span></div>
         <div class="card-def">
-          In past-tense contexts, 没 (or 没有) negates the completion of an action. Note: when 没 is used in this way, the completion particle 了 le is <strong>dropped</strong> — 没 and 了 are incompatible. 没 takes the place of 了, indicating the action did not complete.
+          In past-tense contexts, 没 (or 没有) negates the completion of an action. Note: when 没 is used in this way, the completion particle 了 le is <strong>dropped</strong> , 没 and 了 are incompatible. 没 takes the place of 了, indicating the action did not complete.
         </div>
         <div class="examples">
           <div class="example">
@@ -181,7 +181,7 @@ pinyin: 'méiyǒu'
           <span class="note-label">语法 yǔfǎ · 没 + 了 incompatibility</span>
           ✓ 他吃了饭。"He ate." (completed action + 了)<br>
           ✓ 他没吃饭。"He didn't eat." (negated with 没, no 了)<br>
-          ✗ 他没吃了饭。(ungrammatical — cannot combine 没 and 了 this way)<br>
+          ✗ 他没吃了饭。(ungrammatical , cannot combine 没 and 了 this way)<br>
           The 了 is simply absent when 没 negates a completed action.
         </div>
       </div>
@@ -206,7 +206,7 @@ pinyin: 'méiyǒu'
         </div>
         <div class="tags"><span class="tag tag-v">V 动词 experiential negation</span></div>
         <div class="card-def">
-          过 guo marks experiential aspect — that something has ever occurred as part of one's life experience. 没 + Verb + 过 negates that experience: the action has never happened at all. Compare: 我没去 "I didn't go [that time]" vs. 我没去过 "I've never been there."
+          过 guo marks experiential aspect , that something has ever occurred as part of one's life experience. 没 + Verb + 过 negates that experience: the action has never happened at all. Compare: 我没去 "I didn't go [that time]" vs. 我没去过 "I've never been there."
         </div>
         <div class="examples">
           <div class="example">
@@ -274,7 +274,7 @@ pinyin: 'méiyǒu'
           <div class="example">
             <div class="ex-cn">他没来。</div>
             <div class="ex-py">Tā méi lái.</div>
-            <div class="ex-en">He didn't come. (factual — he was absent)</div>
+            <div class="ex-en">He didn't come. (factual , he was absent)</div>
           </div>
         </div>
       </div>

@@ -99,13 +99,13 @@ faq:
 
     <div class="pattern">
       <span class="label">七雄 qī xióng · The Seven Warring States</span>
-      <strong>秦 Qín</strong> — northwest (modern Shaanxi); winner of the period<br>
-      <strong>楚 Chǔ</strong> — south (modern Hunan, Hubei, parts of Jiangsu); largest by territory<br>
-      <strong>燕 Yān</strong> — northeast (modern Beijing area)<br>
-      <strong>赵 Zhào</strong> — north-central (modern Shanxi, Hebei); rival to Qin late in the period<br>
-      <strong>魏 Wèi</strong> — central (modern Henan, Shanxi); initially dominant, later weakened<br>
-      <strong>韩 Hán</strong> — central (modern Henan); smallest of the seven; first conquered by Qin (230 BCE)<br>
-      <strong>齐 Qí</strong> — east (modern Shandong); commercial and intellectual center; last conquered (221 BCE)
+      <strong>秦 Qín</strong> , northwest (modern Shaanxi); winner of the period<br>
+      <strong>楚 Chǔ</strong> , south (modern Hunan, Hubei, parts of Jiangsu); largest by territory<br>
+      <strong>燕 Yān</strong> , northeast (modern Beijing area)<br>
+      <strong>赵 Zhào</strong> , north-central (modern Shanxi, Hebei); rival to Qin late in the period<br>
+      <strong>魏 Wèi</strong> , central (modern Henan, Shanxi); initially dominant, later weakened<br>
+      <strong>韩 Hán</strong> , central (modern Henan); smallest of the seven; first conquered by Qin (230 BCE)<br>
+      <strong>齐 Qí</strong> , east (modern Shandong); commercial and intellectual center; last conquered (221 BCE)
     </div>
 
     <!-- ── COMPETITION PRODUCES IDEAS ── -->
@@ -192,7 +192,7 @@ faq:
       <p>Qin was not the strongest state in the early Warring States period. Wei was dominant in the 4th century BCE, Qi was commercially the wealthiest, Chu was the largest by territory. Qin won because of Legalist administrative reforms implemented by <strong>商鞅 Shāng Yāng</strong> starting in 356 BCE, reforms thorough enough to transform Qin from a mid-tier state into the most effectively organized military machine the Warring States had produced.</p>
       <p>Shang Yang's reforms had two interlocking components. The first was the dismantling of the old hereditary aristocracy. Rank and reward were now tied exclusively to military achievement: soldiers were promoted by the number of enemy heads taken in battle, with a precise table linking heads to titles, land grants, and monetary rewards. A man of noble birth who performed poorly earned nothing; a commoner who fought brilliantly rose in rank. This created a lethal meritocracy of violence in which every soldier in the Qin army had a personal financial stake in killing.</p>
       <p>The second component was administrative centralization. Shang Yang extended the <strong>郡县制 jùnxiàn zhì</strong> (commandery-county system) across Qin, replacing hereditary lords with appointed officials accountable to the center. He standardized weights, measures, and land units; implemented a household registration system; made the mutual-guarantee group (<strong>连坐 liánzuò</strong>) liable for each other's law violations, creating a network of social surveillance that extended state control to the village level. Agriculture and military service were the two productive activities; merchants and wandering scholars were viewed with suspicion as parasitic on the productive order.</p>
-      <p>Shang Yang himself was executed by Qin's new king shortly after his patron died — torn apart by chariots on a charge of rebellion. The reforms outlasted him. By the time <strong>嬴政 Yíng Zhèng</strong> became king in 246 BCE, Qin had been running on this system for a century. Its administrative machinery, army, and resource base were categorically superior to those of the remaining six states. The conquest of the six states (230–221 BCE) was less a military achievement than the completion of a century-long institutional project. For the unification itself, see <a href="../../pages/history/topic_qin_shihuang.html">秦始皇</a>.</p>
+      <p>Shang Yang himself was executed by Qin's new king shortly after his patron died , torn apart by chariots on a charge of rebellion. The reforms outlasted him. By the time <strong>嬴政 Yíng Zhèng</strong> became king in 246 BCE, Qin had been running on this system for a century. Its administrative machinery, army, and resource base were categorically superior to those of the remaining six states. The conquest of the six states (230–221 BCE) was less a military achievement than the completion of a century-long institutional project. For the unification itself, see <a href="../../pages/history/topic_qin_shihuang.html">秦始皇</a>.</p>
       <p>The intellectual cost of Qin's victory was the suppression of the pluralism that had just produced the greatest intellectual era in Chinese history. The <strong>焚书坑儒 fén shū kēng rú</strong> (burning of books, burying of scholars) in 213–212 BCE was the Qin's attempt to end the Hundred Schools permanently. It largely succeeded in the short term. The Mohists, the School of Names, and several other schools did not survive the Qin as living intellectual traditions. Confucianism survived because it was irrepressible: too many texts, too many transmission chains, and the Han dynasty actively restored it. The story of the burning is told in full at <a href="../../pages/history/topic_qin_shihuang.html">秦始皇</a>.</p>
     </div>
 
@@ -258,14 +258,14 @@ faq:
         <span class="cy-cn">百家争鸣</span>
         <span class="cy-py">bǎijiā zhēngmíng</span>
         <span class="cy-en">a hundred schools contend — free intellectual debate; a golden age of ideas</span>
-        <span class="cy-note">Lit. "hundred schools contend and cry out." The standard Chinese phrase for the Warring States philosophical explosion. Still used today for any period of open intellectual competition. Mao Zedong borrowed it in 1956 with 百花齐放，百家争鸣 "let a hundred flowers bloom, let a hundred schools contend" — then quickly reversed course when the resulting criticism of the Party proved inconvenient. The classical phrase became an ironic frame for state censorship.</span>
+        <span class="cy-note">Lit. "hundred schools contend and cry out." The standard Chinese phrase for the Warring States philosophical explosion. Still used today for any period of open intellectual competition. Mao Zedong borrowed it in 1956 with 百花齐放，百家争鸣 "let a hundred flowers bloom, let a hundred schools contend" , then quickly reversed course when the resulting criticism of the Party proved inconvenient. The classical phrase became an ironic frame for state censorship.</span>
       </div>
 
       <div class="cy">
         <span class="cy-cn">纸上谈兵</span>
         <span class="cy-py">zhǐ shàng tán bīng</span>
         <span class="cy-en">strategize on paper — armchair theorizing without practical ability</span>
-        <span class="cy-note">From the Battle of Changping (260 BCE): Zhao Kuo (赵括) could discuss military theory fluently but had no battlefield experience. His appointment as Zhao's commander, reversing the caution of the veteran Lian Po, led to the encirclement and massacre of 400,000 Zhao troops. The idiom now applies to anyone whose theoretical competence far exceeds their practical grasp — common in engineering, management, and military contexts. Zhao Kuo became the permanent archetype of the dangerous amateur expert.</span>
+        <span class="cy-note">From the Battle of Changping (260 BCE): Zhao Kuo (赵括) could discuss military theory fluently but had no battlefield experience. His appointment as Zhao's commander, reversing the caution of the veteran Lian Po, led to the encirclement and massacre of 400,000 Zhao troops. The idiom now applies to anyone whose theoretical competence far exceeds their practical grasp , common in engineering, management, and military contexts. Zhao Kuo became the permanent archetype of the dangerous amateur expert.</span>
       </div>
 
       <div class="cy">
@@ -279,21 +279,21 @@ faq:
         <span class="cy-cn">徙木立信</span>
         <span class="cy-py">xǐ mù lì xìn</span>
         <span class="cy-en">move the post, establish credibility — demonstrate that stated commitments will be honored</span>
-        <span class="cy-note">Shang Yang's wooden post demonstration before his Qin reforms: post a reward, honor it fully, establish that the state means what it says. Used in modern Chinese management and governance as the archetype for the importance of follow-through on stated commitments — particularly relevant when launching reforms that require public cooperation before results are visible.</span>
+        <span class="cy-note">Shang Yang's wooden post demonstration before his Qin reforms: post a reward, honor it fully, establish that the state means what it says. Used in modern Chinese management and governance as the archetype for the importance of follow-through on stated commitments , particularly relevant when launching reforms that require public cooperation before results are visible.</span>
       </div>
 
       <div class="cy">
         <span class="cy-cn">朝秦暮楚</span>
         <span class="cy-py">zhāo Qín mù Chǔ</span>
         <span class="cy-en">Qin in the morning, Chu at night — serving different masters; inconsistency and opportunism</span>
-        <span class="cy-note">From the reality of Warring States advisors who moved between states as circumstances changed. The phrase originally described border regions whose allegiance shifted with the military tide. Now a common idiom for fickleness, opportunism, or having no fixed loyalties. The Warring States' mobile intellectual market — which was the structural condition for the Hundred Schools — produced exactly this pattern of allegiance-shifting that the idiom now captures as a vice.</span>
+        <span class="cy-note">From the reality of Warring States advisors who moved between states as circumstances changed. The phrase originally described border regions whose allegiance shifted with the military tide. Now a common idiom for fickleness, opportunism, or having no fixed loyalties. The Warring States' mobile intellectual market , which was the structural condition for the Hundred Schools , produced exactly this pattern of allegiance-shifting that the idiom now captures as a vice.</span>
       </div>
 
     </div>
 
     <div class="adj-wrap">
       <span class="adj-label">Related entries</span>
-      <a class="adj" href="../../pages/history/topic_chunqiu.html">春秋 — what preceded</a>
+      <a class="adj" href="../../pages/history/topic_chunqiu.html">春秋 , what preceded</a>
       <a class="adj" href="../../pages/history/topic_xia_shang_zhou.html">夏商周 — Three Dynasties context</a>
       <a class="adj" href="../../pages/history/topic_qin_shihuang.html">秦始皇 — the conclusion</a>
       <a class="adj" href="../../pages/philosophy/topic_kongzi.html">孔子</a>

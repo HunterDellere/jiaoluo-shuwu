@@ -59,7 +59,7 @@ content_sources:
       <span class="topic-hero-eyebrow">Vocab · 词汇 cíhuì</span>
       <h1 class="topic-hero-title">礼</h1>
       <span class="topic-hero-title-py">lǐ</span>
-      <p class="topic-hero-desc">The system of rites that Confucius called the foundation of civilization — and the word for the gift you bring to dinner.</p>
+      <p class="topic-hero-desc">The system of rites that Confucius called the foundation of civilization , and the word for the gift you bring to dinner.</p>
     </header>
 
     <span class="section-anchor" id="etymology"></span>
@@ -87,7 +87,7 @@ content_sources:
 
     <div class="scholar" data-glyph="礼">
       <div class="scholar-label">哲学洞见 zhéxué dòngjiàn · Philosophical Insight</div>
-      <p>Confucius famously declared: <strong>克己复礼为仁</strong> ("To overcome oneself and return to 礼 is to achieve 仁 — benevolence"). For Confucius, 礼 was the external expression of internal virtue, not an external constraint. When a person truly has 仁 in their heart, their behavior naturally conforms to 礼. The two are inseparable: character and conduct, interiority and form.</p>
+      <p>Confucius famously declared: <strong>克己复礼为仁</strong> ("To overcome oneself and return to 礼 is to achieve 仁 , benevolence"). For Confucius, 礼 was the external expression of internal virtue, not an external constraint. When a person truly has 仁 in their heart, their behavior naturally conforms to 礼. The two are inseparable: character and conduct, interiority and form.</p>
       <p>The <em>Lǐjì</em> 礼记 (Record of Rites), one of the Thirteen Classics, encodes the full system: the rites of birth, coming-of-age, marriage, mourning, and sacrifice; the proper postures, garments, and foods for each; the relationships between ruler and minister, parent and child, elder and younger, husband and wife, friend and friend (五伦 wǔ lún, the Five Relationships). 礼 is the social code that maintains harmony across all these bonds.</p>
       <p>The philosopher Xunzi 荀子 argued that 礼 is what separates humans from animals. Without 礼, there is only 争: contention, scrambling, chaos. With 礼, even scarce resources are distributed without conflict, because everyone knows their role and acts accordingly. Manners, in this view, are civilizational infrastructure.</p>
     </div>
@@ -116,7 +116,7 @@ content_sources:
           <div class="example">
             <div class="ex-cn">这孩子很有礼貌，见到人就打招呼。</div>
             <div class="ex-py">Zhè háizi hěn yǒu lǐmào, jiàndào rén jiù dǎ zhāohu.</div>
-            <div class="ex-en">This child has very good manners — she greets everyone she meets.</div>
+            <div class="ex-en">This child has very good manners , she greets everyone she meets.</div>
           </div>
         </div>
       </div>

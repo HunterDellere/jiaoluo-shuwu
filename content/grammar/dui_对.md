@@ -56,7 +56,7 @@ pinyin: 'duì'
       <span class="topic-hero-eyebrow">Grammar · 语法 yǔfǎ</span>
       <h1 class="topic-hero-title">对</h1>
       <span class="topic-hero-title-py">duì</span>
-      <p class="topic-hero-desc">Toward, regarding, correct, right — 对 is one of Mandarin's most versatile words, functioning as a preposition, an adjective, and a key element in common fixed expressions.</p>
+      <p class="topic-hero-desc">Toward, regarding, correct, right , 对 is one of Mandarin's most versatile words, functioning as a preposition, an adjective, and a key element in common fixed expressions.</p>
     </header>
 
     <span class="section-anchor" id="overview"></span>
@@ -70,9 +70,9 @@ pinyin: 'duì'
     <div class="scholar" data-glyph="对">
       <div class="scholar-label">语法洞见 yǔfǎ dòngjiàn · Grammar Insight</div>
       <p><strong>对 duì</strong> is one of the most frequently used words in Mandarin, appearing in three distinct grammatical roles. Understanding all three is essential for both speaking and listening comprehension.</p>
-      <p><strong>1. Preposition</strong> — 对 + [person/thing] means "toward, to, regarding, with respect to": 对我说 (say to me), 对你有帮助 (helpful to you), 对这件事感兴趣 (interested in this matter). 对 orients an action or attitude toward its object.</p>
-      <p><strong>2. Adjective/Predicate</strong> — 对 alone means "correct, right": 你说得对 (you're right), 这个答案对 (this answer is correct). Its antonym is 错 cuò (wrong, incorrect). Used as a response: 对！(Right! Correct!) or 对对对 (Yes yes yes, emphatic agreement).</p>
-      <p><strong>3. Fixed expressions</strong> — 对 appears in some of the most common phrases in Chinese: 对不起 duìbuqǐ (I'm sorry), 对了 duì le (Oh right!, used when remembering something), 对吗？duì ma? (Is that right?), 面对 miànduì (to face), 相对 xiāngduì (relatively; relative).</p>
+      <p><strong>1. Preposition</strong> , 对 + [person/thing] means "toward, to, regarding, with respect to": 对我说 (say to me), 对你有帮助 (helpful to you), 对这件事感兴趣 (interested in this matter). 对 orients an action or attitude toward its object.</p>
+      <p><strong>2. Adjective/Predicate</strong> , 对 alone means "correct, right": 你说得对 (you're right), 这个答案对 (this answer is correct). Its antonym is 错 cuò (wrong, incorrect). Used as a response: 对！(Right! Correct!) or 对对对 (Yes yes yes, emphatic agreement).</p>
+      <p><strong>3. Fixed expressions</strong> , 对 appears in some of the most common phrases in Chinese: 对不起 duìbuqǐ (I'm sorry), 对了 duì le (Oh right!, used when remembering something), 对吗？duì ma? (Is that right?), 面对 miànduì (to face), 相对 xiāngduì (relatively; relative).</p>
     </div>
 
     <span class="section-anchor" id="preposition"></span>
@@ -165,7 +165,7 @@ pinyin: 'duì'
           <div class="example">
             <div class="ex-cn">对不起，我来晚了，路上堵车了。</div>
             <div class="ex-py">Duìbuqǐ, wǒ lái wǎn le, lùshàng dǔchē le.</div>
-            <div class="ex-en">I'm sorry I'm late — there was traffic.</div>
+            <div class="ex-en">I'm sorry I'm late , there was traffic.</div>
           </div>
         </div>
       </div>

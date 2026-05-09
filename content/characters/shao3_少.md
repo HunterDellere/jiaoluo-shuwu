@@ -61,16 +61,16 @@ content_review: 'pending'
 
     <div class="scholar" data-glyph="少">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
-      <p>少 is composed of 小 xiǎo (small) plus a short diagonal stroke (丿) added or subtracted depending on how you analyze the relationship between the two characters. The reference data decomposes 少 as ⿱小丿 — small above with a stroke through or below it. The Shuōwén notes that 少 relates to 小 semantically: both carry the meaning of "small in quantity," but 少 specifically encodes "less than the expected or sufficient amount." Where 小 is a neutral descriptor of size, 少 carries a connotation of shortage, of having less than one should.</p>
+      <p>少 is composed of 小 xiǎo (small) plus a short diagonal stroke (丿) added or subtracted depending on how you analyze the relationship between the two characters. The reference data decomposes 少 as ⿱小丿 , small above with a stroke through or below it. The Shuōwén notes that 少 relates to 小 semantically: both carry the meaning of "small in quantity," but 少 specifically encodes "less than the expected or sufficient amount." Where 小 is a neutral descriptor of size, 少 carries a connotation of shortage, of having less than one should.</p>
       <p>The oracle bone forms of 少 show a cluster of small dots or grains, fewer than the cluster representing 多 (many). The visual contrast with 多 was deliberate: these two characters were designed as a pair, each encoding the opposite end of a quantity scale. 多 (two evenings stacked = many) and 少 (a few scattered grains = little) read together give you the full quantity spectrum.</p>
-      <p>The "young" reading (shào, tone 4) is likely a phonetic extension: a young person has lived fewer years, has fewer experiences, is "lesser" in quantity of life. The semantic leap from "few" to "young" runs through the logic of insufficiency — youth as a state of having not yet accumulated enough. 少年 shàonián (youth, adolescent) and 少女 shàonǚ (young woman) use this reading. The two readings are kept apart only by tone, making 少 one of the most tone-sensitive characters for learners.</p>
+      <p>The "young" reading (shào, tone 4) is likely a phonetic extension: a young person has lived fewer years, has fewer experiences, is "lesser" in quantity of life. The semantic leap from "few" to "young" runs through the logic of insufficiency , youth as a state of having not yet accumulated enough. 少年 shàonián (youth, adolescent) and 少女 shàonǚ (young woman) use this reading. The two readings are kept apart only by tone, making 少 one of the most tone-sensitive characters for learners.</p>
     </div>
 
     <span class="section-anchor" id="tones"></span>
     <div class="section-head"><span class="sh-cn">两读</span><span class="sh-py">liǎng dú</span><span class="sh-en">Two Readings — shǎo (Few) vs. shào (Young)</span><span class="sh-rule"></span></div>
 
     <div class="pattern">
-      <span class="label">少 shǎo (tone 3) vs. 少 shào (tone 4) — a tone-only distinction</span>
+      <span class="label">少 shǎo (tone 3) vs. 少 shào (tone 4) , a tone-only distinction</span>
       <strong>少 shǎo</strong> (tone 3): few, little, less; to lack; to be missing<br>
       → 多少 duōshao (how many/much), 减少 jiǎnshǎo (to reduce), 缺少 quēshǎo (to lack)<br>
       <br>
@@ -95,7 +95,7 @@ content_review: 'pending'
       <div class="card c-ochre">
         <div class="card-head"><span class="card-cn">少数</span><span class="card-py">shǎoshù</span><span class="card-en">minority; a small number</span></div>
         <div class="tags"><span class="tag tag-n">N 名词</span></div>
-        <div class="card-def">少 (few) + 数 (number, quantity). A small quantity — the minority. 少数民族 shǎoshù mínzú (ethnic minority — literally "small-number people-clan") is the official Chinese term for China's 55 recognized ethnic minorities (the Han majority plus 55 groups). 少数服从多数 (the minority submits to the majority) is a fundamental principle stated in Chinese organizational rules.</div>
+        <div class="card-def">少 (few) + 数 (number, quantity). A small quantity , the minority. 少数民族 shǎoshù mínzú (ethnic minority , literally "small-number people-clan") is the official Chinese term for China's 55 recognized ethnic minorities (the Han majority plus 55 groups). 少数服从多数 (the minority submits to the majority) is a fundamental principle stated in Chinese organizational rules.</div>
         <div class="examples">
           <div class="example"><div class="ex-cn">中国有五十五个少数民族。</div><div class="ex-py">Zhōngguó yǒu wǔshíwǔ gè shǎoshù mínzú.</div><div class="ex-en">China has fifty-five ethnic minority groups.</div></div>
         </div>
@@ -103,7 +103,7 @@ content_review: 'pending'
       <div class="card c-teal">
         <div class="card-head"><span class="card-cn">少年</span><span class="card-py">shàonián</span><span class="card-en">youth; adolescent; teenager</span></div>
         <div class="tags"><span class="tag tag-n">N 名词</span></div>
-        <div class="card-def">少 shào (young) + 年 (year; age). A person of young years — typically ages 10–18 in modern usage, though classically it could refer to anyone young. 少年宫 (Youth Palace — community center for children's activities); 少年犯 (juvenile offender); 少年强则国强 (if the youth are strong, the country is strong — from Liang Qichao's 1900 essay 少年中国说). The word carries an optimistic charge: youth as potential.</div>
+        <div class="card-def">少 shào (young) + 年 (year; age). A person of young years , typically ages 10–18 in modern usage, though classically it could refer to anyone young. 少年宫 (Youth Palace , community center for children's activities); 少年犯 (juvenile offender); 少年强则国强 (if the youth are strong, the country is strong — from Liang Qichao's 1900 essay 少年中国说). The word carries an optimistic charge: youth as potential.</div>
         <div class="examples">
           <div class="example"><div class="ex-cn">少年时代的经历影响了他一生。</div><div class="ex-py">Shàonián shídài de jīnglì yǐngxiǎngle tā yīshēng.</div><div class="ex-en">The experiences of his youth influenced him for his whole life.</div></div>
         </div>

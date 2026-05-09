@@ -102,8 +102,8 @@ content_review: 'pending'
 
     <div class="scholar" data-glyph="出">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
-      <p>Oracle bone inscriptions show <strong>出</strong> as a foot stepping upward out of a pit or enclosed space. The image is directional and unambiguous: something inside a boundary crossing outward. The <strong>凵</strong> component at the base is an open container, a pit, a walled enclosure — the bounded space being exited. The upward strokes above it are the thing emerging.</p>
-      <p>By the seal script period the character had evolved into a form that looks like two plants or sprouts growing upward from soil — <strong>凵</strong> as earth or vessel, the vertical strokes as shoots pushing through. Both readings encode the same core image: upward movement crossing the threshold between inside and outside. The Shuōwén Jiězì defines 出 as 進 jìn (to enter) — a notorious error corrected by later scholars. Every ancient usage confirms the opposite: 出 is always the going-out, the emergence, the crossing from bounded to unbounded.</p>
+      <p>Oracle bone inscriptions show <strong>出</strong> as a foot stepping upward out of a pit or enclosed space. The image is directional and unambiguous: something inside a boundary crossing outward. The <strong>凵</strong> component at the base is an open container, a pit, a walled enclosure , the bounded space being exited. The upward strokes above it are the thing emerging.</p>
+      <p>By the seal script period the character had evolved into a form that looks like two plants or sprouts growing upward from soil , <strong>凵</strong> as earth or vessel, the vertical strokes as shoots pushing through. Both readings encode the same core image: upward movement crossing the threshold between inside and outside. The Shuōwén Jiězì defines 出 as 進 jìn (to enter) , a notorious error corrected by later scholars. Every ancient usage confirms the opposite: 出 is always the going-out, the emergence, the crossing from bounded to unbounded.</p>
       <p>Five strokes. One of the simplest high-frequency characters in the writing system, and one of the most productive: every compound it forms carries this upward-out force, whether that emergence is physical, intellectual, commercial, or social.</p>
     </div>
 
@@ -117,8 +117,8 @@ content_review: 'pending'
     </div>
 
     <div class="scholar" data-glyph="出">
-      <div class="scholar-label">语法洞见 yǔfǎ dòngjiàn · Grammar Insight — Directional Complements</div>
-      <p>In Mandarin, <strong>出</strong> attaches to verbs as a directional complement to signal that the action results in something coming out — emerging from an interior state or space into an exterior one. The structure is <strong>Verb + 出 (+ 来/去)</strong>. The result is not just the action but the emergence: something that was inside is now outside, something that was hidden is now visible, something potential is now actual.</p>
+      <div class="scholar-label">语法洞见 yǔfǎ dòngjiàn · Grammar Insight , Directional Complements</div>
+      <p>In Mandarin, <strong>出</strong> attaches to verbs as a directional complement to signal that the action results in something coming out , emerging from an interior state or space into an exterior one. The structure is <strong>Verb + 出 (+ 来/去)</strong>. The result is not just the action but the emergence: something that was inside is now outside, something that was hidden is now visible, something potential is now actual.</p>
       <p>The core directional pair is <strong>出来 chūlái</strong> (come out, toward the speaker) and <strong>出去 chūqù</strong> (go out, away from the speaker). These follow the standard Chinese directional system: 来 lái marks movement toward the speaker's position; 去 qù marks movement away. Together they cover all the cases of outward physical motion.</p>
     </div>
 
@@ -142,7 +142,7 @@ content_review: 'pending'
         </div>
         <div class="tags"><span class="tag tag-v">V 动词 dòngcí</span></div>
         <div class="card-def">
-          走 zǒu (walk; leave) + 出 (exit complement). The most neutral directional compound: walking across a threshold from inside to outside. Used for physical exits and metaphorical ones — 走出困境 (walk out of a difficult situation), 走出阴影 (emerge from the shadow of something). The path is complete only when the threshold is crossed.
+          走 zǒu (walk; leave) + 出 (exit complement). The most neutral directional compound: walking across a threshold from inside to outside. Used for physical exits and metaphorical ones , 走出困境 (walk out of a difficult situation), 走出阴影 (emerge from the shadow of something). The path is complete only when the threshold is crossed.
         </div>
         <div class="examples">
           <div class="example">
@@ -166,7 +166,7 @@ content_review: 'pending'
         </div>
         <div class="tags"><span class="tag tag-v">V 动词 dòngcí</span></div>
         <div class="card-def">
-          说 shuō (speak; say) + 出 (emergence complement). To bring words out from an interior state into speech: what was private, unspoken, or held back becomes expressed. 说出心里话 (say what's truly in your heart) is one of the most common collocations — the 出 marks the crossing from interior feeling to exterior expression.
+          说 shuō (speak; say) + 出 (emergence complement). To bring words out from an interior state into speech: what was private, unspoken, or held back becomes expressed. 说出心里话 (say what's truly in your heart) is one of the most common collocations , the 出 marks the crossing from interior feeling to exterior expression.
         </div>
         <div class="examples">
           <div class="example">
@@ -190,7 +190,7 @@ content_review: 'pending'
         </div>
         <div class="tags"><span class="tag tag-v">V 动词 dòngcí</span></div>
         <div class="card-def">
-          跑 pǎo (run) + 出来 chūlái (come out). The full directional compound: running out of an enclosed space toward the speaker's position. The 来 anchors orientation — the speaker is outside, watching the emergence happen. Contrast with 跑出去 (run out away from speaker — the speaker is inside as someone exits).
+          跑 pǎo (run) + 出来 chūlái (come out). The full directional compound: running out of an enclosed space toward the speaker's position. The 来 anchors orientation , the speaker is outside, watching the emergence happen. Contrast with 跑出去 (run out away from speaker , the speaker is inside as someone exits).
         </div>
         <div class="examples">
           <div class="example">
@@ -214,7 +214,7 @@ content_review: 'pending'
         </div>
         <div class="tags"><span class="tag tag-v">V 动词 dòngcí</span></div>
         <div class="card-def">
-          拿 ná (take; hold; grasp) + 出来 chūlái (bring out). To produce something from a container, pocket, bag, or interior — making it visible to the speaker. Also used abstractly: 拿出证据 (produce evidence), 拿出方案 (put forward a plan). The 出来 marks the transition from concealed to revealed.
+          拿 ná (take; hold; grasp) + 出来 chūlái (bring out). To produce something from a container, pocket, bag, or interior , making it visible to the speaker. Also used abstractly: 拿出证据 (produce evidence), 拿出方案 (put forward a plan). The 出来 marks the transition from concealed to revealed.
         </div>
         <div class="examples">
           <div class="example">
@@ -251,7 +251,7 @@ content_review: 'pending'
         </div>
         <div class="tags"><span class="tag tag-v">V 动词 dòngcí</span></div>
         <div class="card-def">
-          出 chū (emerge; emit) + 版 bǎn (board; printing plate; edition). To emit a printing plate — to send a text out into the world as a published work. The metaphor is the woodblock or copper plate of traditional printing, the fixed form from which copies emerge. 出版社 chūbǎnshè is a publishing house; 出版物 chūbǎnwù is a publication.
+          出 chū (emerge; emit) + 版 bǎn (board; printing plate; edition). To emit a printing plate , to send a text out into the world as a published work. The metaphor is the woodblock or copper plate of traditional printing, the fixed form from which copies emerge. 出版社 chūbǎnshè is a publishing house; 出版物 chūbǎnwù is a publication.
         </div>
         <div class="examples">
           <div class="example">
@@ -275,7 +275,7 @@ content_review: 'pending'
         </div>
         <div class="tags"><span class="tag tag-vn">V/N 动名词</span></div>
         <div class="card-def">
-          出 chū (emerge; put out) + 产 chǎn (produce; give birth to; output). To yield products from a source — a region produces goods, a field yields a crop, a factory puts out units. Used for natural resources, agricultural yield, and manufactured goods. As a noun: the output, the produce. 出产地 = place of origin.
+          出 chū (emerge; put out) + 产 chǎn (produce; give birth to; output). To yield products from a source , a region produces goods, a field yields a crop, a factory puts out units. Used for natural resources, agricultural yield, and manufactured goods. As a noun: the output, the produce. 出产地 = place of origin.
         </div>
         <div class="examples">
           <div class="example">
@@ -299,7 +299,7 @@ content_review: 'pending'
         </div>
         <div class="tags"><span class="tag tag-vn">V/N 动名词</span></div>
         <div class="card-def">
-          出 chū (exit; emerge) + 口 kǒu (mouth; opening; port). Three interlocking meanings from the same compound. As trade: to export — goods going out through the port. As architecture: the exit of a building or tunnel. As speech: 出口成章 (words emerge perfectly formed — to speak with eloquence). The mouth as the aperture through which things exit.
+          出 chū (exit; emerge) + 口 kǒu (mouth; opening; port). Three interlocking meanings from the same compound. As trade: to export , goods going out through the port. As architecture: the exit of a building or tunnel. As speech: 出口成章 (words emerge perfectly formed , to speak with eloquence). The mouth as the aperture through which things exit.
         </div>
         <div class="examples">
           <div class="example">
@@ -327,7 +327,7 @@ content_review: 'pending'
         </div>
         <div class="tags"><span class="tag tag-v">V 动词 dòngcí</span></div>
         <div class="card-def">
-          出 chū (emerge) + 现 xiàn (appear; manifest; current). To emerge into visibility — applicable to everything from a rainbow appearing after rain to a new problem appearing in a system. One of the most common verbs in news language and everyday description. Works for concrete appearances (a figure emerging from fog) and abstract ones (a new phenomenon appearing in society).
+          出 chū (emerge) + 现 xiàn (appear; manifest; current). To emerge into visibility , applicable to everything from a rainbow appearing after rain to a new problem appearing in a system. One of the most common verbs in news language and everyday description. Works for concrete appearances (a figure emerging from fog) and abstract ones (a new phenomenon appearing in society).
         </div>
         <div class="examples">
           <div class="example">
@@ -361,7 +361,7 @@ content_review: 'pending'
 
     <div class="scholar" data-glyph="出">
       <div class="scholar-label">构词洞见 gòucí dòngjiàn · The Upward-Out Force</div>
-      <p>When 出 combines with words of color, rank, and crowd, it creates the semantic field of distinction: breaking out of the mass, emerging above the level. 出色 (outstanding) is literally "emerging in color" — a vivid presence standing out against a flat background. 出众 (standing out from the crowd) is the same logic extended to social space. 出名 (becoming famous) is emergence into collective awareness.</p>
+      <p>When 出 combines with words of color, rank, and crowd, it creates the semantic field of distinction: breaking out of the mass, emerging above the level. 出色 (outstanding) is literally "emerging in color" , a vivid presence standing out against a flat background. 出众 (standing out from the crowd) is the same logic extended to social space. 出名 (becoming famous) is emergence into collective awareness.</p>
       <p>The life-cluster 出生 and 出发 apply 出's emergence to the most elemental thresholds. Birth is emergence into life; departure is the emergence from a static state into motion toward a destination. In both, 出 marks the crossing that changes everything.</p>
     </div>
 
@@ -375,7 +375,7 @@ content_review: 'pending'
         </div>
         <div class="tags"><span class="tag tag-adj">Adj 形容词 xíngróngcí</span></div>
         <div class="card-def">
-          出 chū (emerge; stand out) + 色 sè (color; appearance; quality). "Emerging in color" — a vivid presence that distinguishes itself against its background. The color metaphor is apt: something outstanding has a quality that registers immediately, the way a saturated color stands out on a pale surface. Used to describe excellent performance, skill, appearance, or quality.
+          出 chū (emerge; stand out) + 色 sè (color; appearance; quality). "Emerging in color" , a vivid presence that distinguishes itself against its background. The color metaphor is apt: something outstanding has a quality that registers immediately, the way a saturated color stands out on a pale surface. Used to describe excellent performance, skill, appearance, or quality.
         </div>
         <div class="examples">
           <div class="example">
@@ -399,7 +399,7 @@ content_review: 'pending'
         </div>
         <div class="tags"><span class="tag tag-adj">Adj 形容词 xíngróngcí</span></div>
         <div class="card-def">
-          出 chū (emerge) + 众 zhòng (crowd; the many; multitude). To emerge from the mass of people — to be the one figure that rises above the surrounding level. Often used for talent, appearance, or personal quality that is genuinely rare rather than merely good. The compound implies that others are present and being implicitly surpassed.
+          出 chū (emerge) + 众 zhòng (crowd; the many; multitude). To emerge from the mass of people , to be the one figure that rises above the surrounding level. Often used for talent, appearance, or personal quality that is genuinely rare rather than merely good. The compound implies that others are present and being implicitly surpassed.
         </div>
         <div class="examples">
           <div class="example">
@@ -423,7 +423,7 @@ content_review: 'pending'
         </div>
         <div class="tags"><span class="tag tag-v">V 动词 dòngcí</span></div>
         <div class="card-def">
-          出 chū (emerge) + 名 míng (name; fame; reputation). To emerge into collective naming — to become the person or thing that others talk about and recognize by name. The 出 marks the transition: previously unknown, now known. 出名 carries no inherent judgment of whether the fame is deserved or welcome. 以…出名 (to be famous for…) is a standard pattern.
+          出 chū (emerge) + 名 míng (name; fame; reputation). To emerge into collective naming , to become the person or thing that others talk about and recognize by name. The 出 marks the transition: previously unknown, now known. 出名 carries no inherent judgment of whether the fame is deserved or welcome. 以…出名 (to be famous for…) is a standard pattern.
         </div>
         <div class="examples">
           <div class="example">
@@ -447,7 +447,7 @@ content_review: 'pending'
         </div>
         <div class="tags"><span class="tag tag-v">V 动词 dòngcí</span></div>
         <div class="card-def">
-          出 chū (exit; emerge from) + 发 fā (to send out; to dispatch; to start moving). The moment of departure — leaving a point of origin for a destination. Physical: a train, a traveler, a team setting out. Abstract: 从这个角度出发 (starting from this angle), 从实际出发 (proceeding from reality) — using a principle or situation as the launch point for reasoning or policy.
+          出 chū (exit; emerge from) + 发 fā (to send out; to dispatch; to start moving). The moment of departure , leaving a point of origin for a destination. Physical: a train, a traveler, a team setting out. Abstract: 从这个角度出发 (starting from this angle), 从实际出发 (proceeding from reality) , using a principle or situation as the launch point for reasoning or policy.
         </div>
         <div class="examples">
           <div class="example">

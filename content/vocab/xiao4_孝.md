@@ -59,7 +59,7 @@ content_sources:
       <span class="topic-hero-eyebrow">Vocab · 词汇 cíhuì</span>
       <h1 class="topic-hero-title">孝</h1>
       <span class="topic-hero-title-py">xiào</span>
-      <p class="topic-hero-desc">Filial piety — the Confucian virtue that placed care for one's parents at the absolute foundation of moral life, civic order, and self-cultivation.</p>
+      <p class="topic-hero-desc">Filial piety , the Confucian virtue that placed care for one's parents at the absolute foundation of moral life, civic order, and self-cultivation.</p>
     </header>
 
     <span class="section-anchor" id="etymology"></span>
@@ -87,7 +87,7 @@ content_sources:
 
     <div class="scholar" data-glyph="孝">
       <div class="scholar-label">文化洞见 wénhuà dòngjiàn · 孝 as the Root of All Virtue</div>
-      <p>In Confucian thought, 孝 is the root from which all other virtues grow. The Analects records: <strong>孝弟也者，其为仁之本与</strong> — "Filial piety and fraternal submission, are they not the root of benevolence (仁 rén)?" If you can truly love and serve your parents (those closest to you, those upon whom you depend but who also depend on you), you have the capacity to love and serve others. 孝 is the moral training ground for all social virtue.</p>
+      <p>In Confucian thought, 孝 is the root from which all other virtues grow. The Analects records: <strong>孝弟也者，其为仁之本与</strong> , "Filial piety and fraternal submission, are they not the root of benevolence (仁 rén)?" If you can truly love and serve your parents (those closest to you, those upon whom you depend but who also depend on you), you have the capacity to love and serve others. 孝 is the moral training ground for all social virtue.</p>
       <p>The scope of 孝 in classical thought is vast. Physical care (nourishing parents, ensuring their comfort, protecting their health) is only the beginning. 色难 sè nán — "the difficult part is the expression" (Analects II.8): serving parents with a warm and willing countenance, not merely performing the acts while showing resentment. And beyond the parents' lifetime: 慎终追远 shèn zhōng zhuī yuǎn ("be careful at their ending and pursue them in the distance") — continuing to honor ancestors through ceremony and remembrance.</p>
       <p>The political extension of 孝 is 忠 zhōng (loyalty to the ruler), theorized as the same relational virtue applied to a different hierarchy. The same disposition that makes a good son makes a good subject makes a good official. This connection underwrote the entire Confucian political system and is one of the most criticized features of traditional Chinese ethics in the modern period.</p>
     </div>

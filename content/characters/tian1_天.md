@@ -183,7 +183,7 @@ content_sources:
         </div>
         <div class="note">
           <span class="note-label">语法 yǔfǎ · Grammar</span>
-          天气 is a pure noun — never used as a verb. Modification: 天气 + 好/坏/热/冷/晴/阴. Compound modifier: 天气预报 tiānqì yùbào (weather forecast), 天气变化 tiānqì biànhuà (weather change).
+          天气 is a pure noun , never used as a verb. Modification: 天气 + 好/坏/热/冷/晴/阴. Compound modifier: 天气预报 tiānqì yùbào (weather forecast), 天气变化 tiānqì biànhuà (weather change).
         </div>
       </div>
 
@@ -196,7 +196,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          天 tiān (sky) + 空 kōng (empty; hollow; space). More poetic and specific than 天气: refers to the physical dome of sky above, not weather conditions. Used in literary contexts, poetry, and vivid description. 空 kōng also means "empty" — the sky is the great emptiness above.
+          天 tiān (sky) + 空 kōng (empty; hollow; space). More poetic and specific than 天气: refers to the physical dome of sky above, not weather conditions. Used in literary contexts, poetry, and vivid description. 空 kōng also means "empty" , the sky is the great emptiness above.
         </div>
         <div class="examples">
           <div class="example">
@@ -256,7 +256,7 @@ content_sources:
           <div class="example">
             <div class="ex-cn">晴天打伞，未雨绸缪。</div>
             <div class="ex-py">Qíngtiān dǎ sǎn, wèi yǔ chóu móu.</div>
-            <div class="ex-en">Carry an umbrella on sunny days — prepare before the rain comes. <em>(proverb)</em></div>
+            <div class="ex-en">Carry an umbrella on sunny days , prepare before the rain comes. <em>(proverb)</em></div>
           </div>
           <div class="example">
             <div class="ex-cn">阴天的时候我总觉得有点沉闷。</div>
@@ -300,7 +300,7 @@ content_sources:
           <div class="example">
             <div class="ex-cn">今天我很忙，明天再说吧。</div>
             <div class="ex-py">Jīntiān wǒ hěn máng, míngtiān zài shuō ba.</div>
-            <div class="ex-en">I'm very busy today — let's talk tomorrow.</div>
+            <div class="ex-en">I'm very busy today , let's talk tomorrow.</div>
           </div>
           <div class="example">
             <div class="ex-cn">今天的会议几点开始？</div>
@@ -344,7 +344,7 @@ content_sources:
           <div class="example">
             <div class="ex-cn">明天还不知道会怎样，好好活着今天。</div>
             <div class="ex-py">Míngtiān hái bù zhīdào huì zěnyàng, hǎohǎo huózhe jīntiān.</div>
-            <div class="ex-en">We don't know yet what tomorrow will bring — live well today.</div>
+            <div class="ex-en">We don't know yet what tomorrow will bring , live well today.</div>
           </div>
         </div>
       </div>
@@ -389,7 +389,7 @@ content_sources:
           <div class="example">
             <div class="ex-cn">后天是我的生日，你来参加吗？</div>
             <div class="ex-py">Hòutiān shì wǒ de shēngrì, nǐ lái cānjiā ma?</div>
-            <div class="ex-en">The day after tomorrow is my birthday — will you come?</div>
+            <div class="ex-en">The day after tomorrow is my birthday , will you come?</div>
           </div>
         </div>
       </div>
@@ -419,7 +419,7 @@ content_sources:
         </div>
         <div class="note">
           <span class="note-label">辨析 biànxī · 每天 vs. 天天</span>
-          <strong>每天</strong> = neutral frequency: "every day" (schedule, routine). <strong>天天</strong> = emphatic persistence: "day after day" (often implies complaint or admiration). 天天吃面条 — "noodles day after day!" implies the speaker is tired of it.
+          <strong>每天</strong> = neutral frequency: "every day" (schedule, routine). <strong>天天</strong> = emphatic persistence: "day after day" (often implies complaint or admiration). 天天吃面条 , "noodles day after day!" implies the speaker is tired of it.
         </div>
       </div>
 
@@ -494,18 +494,18 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-vn">V/N 动名词</span></div>
         <div class="card-def">
-          上 shàng (above; to ascend) + 天 tiān (heaven). As a noun: the heavens conceived as a moral agent, equivalent to "God" or "fate" in many colloquial contexts. As a verb: to ascend to the sky (a rocket launching; a person dying). The colloquial reverence for heaven's authority: 上天自有安排 — "heaven has arranged it."
+          上 shàng (above; to ascend) + 天 tiān (heaven). As a noun: the heavens conceived as a moral agent, equivalent to "God" or "fate" in many colloquial contexts. As a verb: to ascend to the sky (a rocket launching; a person dying). The colloquial reverence for heaven's authority: 上天自有安排 , "heaven has arranged it."
         </div>
         <div class="examples">
           <div class="example">
             <div class="ex-cn">上天自有安排，不用太担心。</div>
             <div class="ex-py">Shàngtiān zì yǒu ānpái, bùyòng tài dānxīn.</div>
-            <div class="ex-en">Heaven has its own plan — no need to worry too much.</div>
+            <div class="ex-en">Heaven has its own plan , no need to worry too much.</div>
           </div>
           <div class="example">
             <div class="ex-cn">火箭明天上天，全国都在关注。</div>
             <div class="ex-py">Huǒjiàn míngtiān shàngtiān, quánguó dōu zài guānzhù.</div>
-            <div class="ex-en">The rocket launches tomorrow — the whole country is watching. <em>[verb use]</em></div>
+            <div class="ex-en">The rocket launches tomorrow , the whole country is watching. <em>[verb use]</em></div>
           </div>
         </div>
       </div>
@@ -530,7 +530,7 @@ content_sources:
           <div class="example">
             <div class="ex-cn">老天总算开眼了，他终于赢了。</div>
             <div class="ex-py">Lǎotiān zǒngsuàn kāi yǎn le, tā zhōngyú yíng le.</div>
-            <div class="ex-en">Heaven has finally opened its eyes — he won at last. <em>(justice done)</em></div>
+            <div class="ex-en">Heaven has finally opened its eyes , he won at last. <em>(justice done)</em></div>
           </div>
         </div>
       </div>
@@ -548,9 +548,9 @@ content_sources:
 
     <div class="scholar" data-glyph="命">
       <div class="scholar-label">历史洞见 lìshǐ dòngjiàn · Historical Insight</div>
-      <p><strong>天命 tiānmìng</strong> (the Mandate of Heaven) is the most consequential political concept in Chinese history. First articulated by the Duke of Zhou in the eleventh century BCE to justify the Zhou conquest of the Shang: heaven blesses virtuous rulers and withdraws from corrupt ones. The signs of heaven withdrawing: natural disasters, peasant rebellions, barbarian invasions, crop failures. When a dynasty fell, history recorded that 天命已失 — "Heaven's mandate was lost."</p>
+      <p><strong>天命 tiānmìng</strong> (the Mandate of Heaven) is the most consequential political concept in Chinese history. First articulated by the Duke of Zhou in the eleventh century BCE to justify the Zhou conquest of the Shang: heaven blesses virtuous rulers and withdraws from corrupt ones. The signs of heaven withdrawing: natural disasters, peasant rebellions, barbarian invasions, crop failures. When a dynasty fell, history recorded that 天命已失 , "Heaven's mandate was lost."</p>
       <p>The concept was simultaneously radical and conservative. Radical: any ruler could be overthrown if sufficiently wicked, providing moral justification for revolution. Conservative: legitimacy still descended from above, not upward from the people. Confucian scholars elaborated it into a full system: good government kept heaven and earth in harmony; bad government brought floods, droughts, and comets as cosmic complaints.</p>
-      <p>In modern Chinese, 天命 survives colloquially as "fate" or "destiny," the secular residue of three millennia of political theology. When Confucius said at age 50, 知天命 — "I came to know heaven's will" — he was describing a kind of moral lucidity: the moment when one stops fighting one's nature and accepts the shape of one's life.</p>
+      <p>In modern Chinese, 天命 survives colloquially as "fate" or "destiny," the secular residue of three millennia of political theology. When Confucius said at age 50, 知天命 , "I came to know heaven's will" , he was describing a kind of moral lucidity: the moment when one stops fighting one's nature and accepts the shape of one's life.</p>
     </div>
 
     <div class="cards">
@@ -634,7 +634,7 @@ content_sources:
         </div>
         <div class="note">
           <span class="note-label">现代用法 xiàndài yòngfǎ · Modern Usage</span>
-          天下 survives as an idiom-builder: 天下为公 (the world belongs to all — Sun Yat-sen's motto), 天下无难事 (nothing in the world is impossible), 天下第一 (number one in the world). The cosmological scope has flattened to emphatic hyperbole, but the grandeur echoes.
+          天下 survives as an idiom-builder: 天下为公 (the world belongs to all , Sun Yat-sen's motto), 天下无难事 (nothing in the world is impossible), 天下第一 (number one in the world). The cosmological scope has flattened to emphatic hyperbole, but the grandeur echoes.
         </div>
       </div>
 
@@ -696,7 +696,7 @@ content_sources:
           <div class="example">
             <div class="ex-cn">他天生乐观，从不抱怨。</div>
             <div class="ex-py">Tā tiānshēng lèguān, cóng bù bàoyuàn.</div>
-            <div class="ex-en">He's naturally optimistic — he never complains.</div>
+            <div class="ex-en">He's naturally optimistic , he never complains.</div>
           </div>
         </div>
       </div>
@@ -716,7 +716,7 @@ content_sources:
           <div class="example">
             <div class="ex-cn">她有学习语言的天赋，一年就学会了日语。</div>
             <div class="ex-py">Tā yǒu xuéxí yǔyán de tiānfù, yī nián jiù xuéhuì le rìyǔ.</div>
-            <div class="ex-en">She has a natural gift for languages — she learned Japanese in a year.</div>
+            <div class="ex-en">She has a natural gift for languages , she learned Japanese in a year.</div>
           </div>
         </div>
         <div class="note">
@@ -745,7 +745,7 @@ content_sources:
           <div class="example">
             <div class="ex-cn">你也太天真了，以为他真的是好意？</div>
             <div class="ex-py">Nǐ yě tài tiānzhēn le, yǐwéi tā zhēn de shì hǎoyì?</div>
-            <div class="ex-en">You're being too naive — you really think his intentions are good?</div>
+            <div class="ex-en">You're being too naive , you really think his intentions are good?</div>
           </div>
         </div>
       </div>
@@ -776,19 +776,19 @@ content_sources:
             <td class="td-cn">天道</td>
             <td class="td-py">tiān dào</td>
             <td>Way of Heaven</td>
-            <td>The natural moral order of the cosmos. 天道好还 tiān dào hǎo huán — "Heaven's way returns" (moral karma). Used in both Confucian and Daoist contexts with somewhat different emphases.</td>
+            <td>The natural moral order of the cosmos. 天道好还 tiān dào hǎo huán , "Heaven's way returns" (moral karma). Used in both Confucian and Daoist contexts with somewhat different emphases.</td>
           </tr>
           <tr>
             <td class="td-cn">天理</td>
             <td class="td-py">tiān lǐ</td>
             <td>Heavenly Principle</td>
-            <td>Neo-Confucian (Song dynasty, Zhu Xi) term for the moral principle embedded in all things and events. 天理难容 — "Cannot be tolerated by heavenly principle" (used of a heinous act).</td>
+            <td>Neo-Confucian (Song dynasty, Zhu Xi) term for the moral principle embedded in all things and events. 天理难容 , "Cannot be tolerated by heavenly principle" (used of a heinous act).</td>
           </tr>
           <tr>
             <td class="td-cn">天意</td>
             <td class="td-py">tiān yì</td>
             <td>Heaven's Intent; providence</td>
-            <td>What heaven intends. Used to explain historical outcomes that seem beyond human control. 这是天意 — "This is heaven's will" (resignation or wonder at events).</td>
+            <td>What heaven intends. Used to explain historical outcomes that seem beyond human control. 这是天意 , "This is heaven's will" (resignation or wonder at events).</td>
           </tr>
           <tr>
             <td class="td-cn">天命</td>
@@ -800,7 +800,7 @@ content_sources:
             <td class="td-cn">天地</td>
             <td class="td-py">tiān dì</td>
             <td>Heaven and Earth; the universe</td>
-            <td>The fundamental dyad of Chinese cosmology. 开天辟地 kāi tiān pì dì — "to open heaven and split earth" = a world-creating act; something entirely unprecedented.</td>
+            <td>The fundamental dyad of Chinese cosmology. 开天辟地 kāi tiān pì dì , "to open heaven and split earth" = a world-creating act; something entirely unprecedented.</td>
           </tr>
           <tr>
             <td class="td-cn">天人合一</td>
@@ -812,7 +812,7 @@ content_sources:
             <td class="td-cn">天经地义</td>
             <td class="td-py">tiān jīng dì yì</td>
             <td>Self-evident truth; axiomatic</td>
-            <td>Lit: heaven's warp and earth's weft — the structural fabric of moral reality. Used for things so obviously true that argument is not just unnecessary but absurd.</td>
+            <td>Lit: heaven's warp and earth's weft , the structural fabric of moral reality. Used for things so obviously true that argument is not just unnecessary but absurd.</td>
           </tr>
         </tbody>
       </table>
@@ -833,7 +833,7 @@ content_sources:
         <span class="cy-cn">天经地义</span>
         <span class="cy-py">tiān jīng dì yì</span>
         <span class="cy-en">self-evident truth; axiomatic — too obvious to argue about</span>
-        <span class="cy-note">Lit: heaven's warp and earth's weft. 经 jīng = warp threads (the vertical structural threads in a loom); 义 yì = weft and righteous pattern. Together they constitute the fabric of moral reality — what is simply given. "孩子要孝顺父母，这是天经地义的事。" — "Children should honor their parents — this is self-evidently right."</span>
+        <span class="cy-note">Lit: heaven's warp and earth's weft. 经 jīng = warp threads (the vertical structural threads in a loom); 义 yì = weft and righteous pattern. Together they constitute the fabric of moral reality , what is simply given. "孩子要孝顺父母，这是天经地义的事。" — "Children should honor their parents , this is self-evidently right."</span>
       </div>
 
       <div class="cy">
@@ -847,7 +847,7 @@ content_sources:
         <span class="cy-cn">天衣无缝</span>
         <span class="cy-py">tiān yī wú fèng</span>
         <span class="cy-en">seamless; flawless — not a flaw to be found</span>
-        <span class="cy-note">Lit: heaven's robe has no seams. The garments of heavenly beings are woven whole — no stitching, no joins. Used to praise flawless plans, flawless stories, and flawless alibis. When applied to an alibi, the idiom carries a slight edge: seamlessness itself can be suspicious.</span>
+        <span class="cy-note">Lit: heaven's robe has no seams. The garments of heavenly beings are woven whole , no stitching, no joins. Used to praise flawless plans, flawless stories, and flawless alibis. When applied to an alibi, the idiom carries a slight edge: seamlessness itself can be suspicious.</span>
       </div>
 
       <div class="cy">
@@ -888,7 +888,7 @@ content_sources:
     <div class="scholar" data-glyph="天">
       <div class="scholar-label">记忆法 jìyìfǎ · Master Retention Image</div>
       <p>A stick figure with one line drawn above its head. That line is sky, destiny, moral order, and the judgment of history. The oracle-bone scribes needed only four strokes to encode the entire Chinese political universe: a person, and the infinite above them.</p>
-      <p>When a Chinese emperor fell, people said <strong>天命已失</strong> tiānmìng yǐ shī — "Heaven's mandate is lost." When a Chinese child is called <strong>天才</strong>, they are not simply being flattered; they are being placed under the sky, their gifts attributed to the cosmos itself. When a dynasty was founded, the first imperial edict began with <strong>奉天承运</strong> — "By heaven's will and in accordance with its pattern."</p>
+      <p>When a Chinese emperor fell, people said <strong>天命已失</strong> tiānmìng yǐ shī , "Heaven's mandate is lost." When a Chinese child is called <strong>天才</strong>, they are not simply being flattered; they are being placed under the sky, their gifts attributed to the cosmos itself. When a dynasty was founded, the first imperial edict began with <strong>奉天承运</strong> — "By heaven's will and in accordance with its pattern."</p>
       <p>The line above the head is very heavy.</p>
     </div>
 

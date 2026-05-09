@@ -70,7 +70,7 @@ pinyin: 'lǐxué'
       <span class="topic-hero-eyebrow">Philosophy · 哲学 zhéxué</span>
       <h1 class="topic-hero-title">理学</h1>
       <span class="topic-hero-title-py">lǐxué</span>
-      <p class="topic-hero-desc">The Song dynasty revival and systematic restatement of Confucianism that dominated Chinese intellectual and political life for eight centuries — built on the twin concepts of 理 lǐ (principle) and 气 qì (material force).</p>
+      <p class="topic-hero-desc">The Song dynasty revival and systematic restatement of Confucianism that dominated Chinese intellectual and political life for eight centuries , built on the twin concepts of 理 lǐ (principle) and 气 qì (material force).</p>
     </header>
 
     <!-- ── ORIGINS ── -->
@@ -101,7 +101,7 @@ pinyin: 'lǐxué'
 
     <div class="scholar" data-glyph="周">
       <div class="scholar-label">学者洞见 xuézhě dòngjiàn · The First Architect</div>
-      <p><strong>周敦颐 Zhōu Dūnyí</strong> (1017–1073 CE) is the founding figure of Neo-Confucianism — the person who first gave it its cosmological framework. A minor official of the Northern Song, he wrote two short texts that became the seed of the entire movement: the <strong>《太极图说》Tàijí Túshuō</strong> (Explanation of the Diagram of the Supreme Ultimate) and the <strong>《通书》Tōngshū</strong> (Penetrating the Book of Changes).</p>
+      <p><strong>周敦颐 Zhōu Dūnyí</strong> (1017–1073 CE) is the founding figure of Neo-Confucianism , the person who first gave it its cosmological framework. A minor official of the Northern Song, he wrote two short texts that became the seed of the entire movement: the <strong>《太极图说》Tàijí Túshuō</strong> (Explanation of the Diagram of the Supreme Ultimate) and the <strong>《通书》Tōngshū</strong> (Penetrating the Book of Changes).</p>
       <p>In the Tàijí Túshuō, a text of only 249 Chinese characters, Zhou Dunyi described the generation of the cosmos from the Supreme Ultimate (太极 tàijí): 太极 generates Yang through movement and Yin through stillness; Yin and Yang interact to generate the Five Phases; the Five Phases generate the ten thousand things; and among the ten thousand things, human beings are the most spiritual because they receive the finest endowment of the Five Phases and can thereby become morally perfect sages. The sage embodies the "correct mean" (中正 zhōngzhèng), the perfect balance of Yin-Yang, and through this becomes the moral pivot of heaven, earth, and humanity.</p>
       <p>With this, Zhou Dunyi grounded Confucian ethics in cosmology. Human beings should be moral because they are the culmination of a cosmic process that produced them for the purpose of embodying the moral principle that structures the universe. Ethics and cosmology are the same thing. This move gave Neo-Confucianism the metaphysical depth it needed to compete with Buddhism.</p>
       <p>Zhou Dunyi was also revered for his personal character: he famously refused to have the grass outside his window cut, saying he felt its life as akin to his own. Zhu Xi later described the moment he understood Zhou Dunyi's meaning as a kind of enlightenment.</p>
@@ -159,7 +159,7 @@ pinyin: 'lǐxué'
           <span class="card-en">principle; pattern; the rational structure of all things</span>
         </div>
         <div class="card-def">
-          理 lǐ originally depicted veins in jade — the natural grain or pattern that runs through a stone and gives it its characteristic beauty. Extended to mean: the inherent pattern, structure, or rational principle of anything. In Neo-Confucian usage, 理 is the normative pattern — what makes a thing the kind of thing it is, and what it ought to be when it is fully what it is. The 理 of a father is fatherliness; the 理 of a knife is to cut. There is a single supreme 理 — 太极 tàijí — of which all particular principles are specifications. 理 is purely good; it has no evil in it. If evil exists in the world, it comes from 气, not from 理.
+          理 lǐ originally depicted veins in jade , the natural grain or pattern that runs through a stone and gives it its characteristic beauty. Extended to mean: the inherent pattern, structure, or rational principle of anything. In Neo-Confucian usage, 理 is the normative pattern , what makes a thing the kind of thing it is, and what it ought to be when it is fully what it is. The 理 of a father is fatherliness; the 理 of a knife is to cut. There is a single supreme 理 , 太极 tàijí , of which all particular principles are specifications. 理 is purely good; it has no evil in it. If evil exists in the world, it comes from 气, not from 理.
         </div>
         <div class="note">
           <span class="note-label">语言传播 yǔyán chuánbō · Word Travel</span>
@@ -174,7 +174,7 @@ pinyin: 'lǐxué'
           <span class="card-en">material force; psycho-physical stuff; the actualizing medium</span>
         </div>
         <div class="card-def">
-          气 qì in classical thought is the continuous, undivided medium through which all phenomena occur — neither purely material (like atoms) nor purely spiritual (like souls) but the stuff in between: breath, air, energy, force, influence, the medium of all change and activity. In Neo-Confucianism, 气 is what 理 is actualized through and in. Different things have different 气 endowments: some refined and clear, some coarse and turbid. Human beings vary in the quality of their 气, which is why some people find moral cultivation easy and others find it difficult — they have different innate material endowments, even though all have the same perfect 理.
+          气 qì in classical thought is the continuous, undivided medium through which all phenomena occur , neither purely material (like atoms) nor purely spiritual (like souls) but the stuff in between: breath, air, energy, force, influence, the medium of all change and activity. In Neo-Confucianism, 气 is what 理 is actualized through and in. Different things have different 气 endowments: some refined and clear, some coarse and turbid. Human beings vary in the quality of their 气, which is why some people find moral cultivation easy and others find it difficult , they have different innate material endowments, even though all have the same perfect 理.
         </div>
         <div class="note">
           <span class="note-label">辨析 biànxī · 理 vs. 气</span>
@@ -195,10 +195,10 @@ pinyin: 'lǐxué'
 
     <div class="scholar" data-glyph="格">
       <div class="scholar-label">方法论洞见 fānglùn dòngjiàn · The Epistemological Core</div>
-      <p>The phrase <strong>格物致知 gé wù zhì zhī</strong> comes from the opening of the <em>Great Learning</em> (大学 Dàxué) — one of the Four Books that Zhu Xi made canonical. In its original context, it is tantalizingly brief: "the extension of knowledge lies in the investigation of things." What does it mean to "investigate things"? What knowledge is "extended" through this process? The text does not say. The entire history of Neo-Confucianism can be read as a series of arguments about how to interpret these four characters.</p>
+      <p>The phrase <strong>格物致知 gé wù zhì zhī</strong> comes from the opening of the <em>Great Learning</em> (大学 Dàxué) , one of the Four Books that Zhu Xi made canonical. In its original context, it is tantalizingly brief: "the extension of knowledge lies in the investigation of things." What does it mean to "investigate things"? What knowledge is "extended" through this process? The text does not say. The entire history of Neo-Confucianism can be read as a series of arguments about how to interpret these four characters.</p>
       <p>Zhu Xi's interpretation: 格 gé means "to arrive at," "to probe into thoroughly." 物 wù means "things" and "affairs," not just physical objects but the whole range of human relationships, texts, and situations. To 格物 is to bring your full cognitive attention to bear on whatever is in front of you and penetrate to its 理 (principle). Done persistently across many things over a long time, this gradually extends the mind's grasp of principle until, in what Zhu Xi described as a moment of sudden comprehensive understanding, the learner grasps the unity underlying all the particular principles they have studied. This is the 致知, the extension or completion of knowledge.</p>
       <p>The method is both introspective and exoteric: it includes the close reading of classics, the careful study of human relationships, reflection on one's own moral responses, and the observation of natural phenomena. It is not purely "empirical" in the modern scientific sense, since Zhu Xi was not proposing experiments, but it is an outward-directed epistemology, one that looks to the world of things and affairs for moral insight. This is precisely what Wang Yangming would challenge: he thought this outward direction was a fundamental error, leading practitioners to look for moral principle in bamboo plants rather than in their own minds.</p>
-      <p>The famous story at the heart of the Zhu Xi–Wang Yangming debate: a young Wang Yangming, having read Zhu Xi, sat before a bamboo grove for seven days attempting to 格 the bamboo — to probe its principle and thereby extend his knowledge. After seven days he had learned nothing about moral principle but had made himself severely ill. This failure became the seed of his counter-doctrine.</p>
+      <p>The famous story at the heart of the Zhu Xi–Wang Yangming debate: a young Wang Yangming, having read Zhu Xi, sat before a bamboo grove for seven days attempting to 格 the bamboo , to probe its principle and thereby extend his knowledge. After seven days he had learned nothing about moral principle but had made himself severely ill. This failure became the seed of his counter-doctrine.</p>
     </div>
 
     <!-- ── LEGACY ── -->
@@ -233,7 +233,7 @@ pinyin: 'lǐxué'
         <span class="cy-cn">格物致知</span>
         <span class="cy-py">gé wù zhì zhī</span>
         <span class="cy-en">investigate things to extend knowledge — the Neo-Confucian epistemological program</span>
-        <span class="cy-note">From the 大学 Dàxué (Great Learning). 格 gé = to probe, to arrive at; 物 wù = things and affairs; 致 zhì = to extend, to bring to completion; 知 zhī = knowledge. In modern usage, 格物致知 is often invoked as a phrase for empirical investigation of the natural world — a meaning that Zhu Xi would have recognized but considered incomplete, since for him the knowledge ultimately sought was moral, not merely factual.</span>
+        <span class="cy-note">From the 大学 Dàxué (Great Learning). 格 gé = to probe, to arrive at; 物 wù = things and affairs; 致 zhì = to extend, to bring to completion; 知 zhī = knowledge. In modern usage, 格物致知 is often invoked as a phrase for empirical investigation of the natural world , a meaning that Zhu Xi would have recognized but considered incomplete, since for him the knowledge ultimately sought was moral, not merely factual.</span>
       </div>
 
       <div class="cy">

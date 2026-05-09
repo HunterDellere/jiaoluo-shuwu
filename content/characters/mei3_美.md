@@ -100,9 +100,9 @@ content_sources:
 
     <div class="scholar" data-glyph="美">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
-      <p><strong>美 měi = 羊 yáng</strong> (sheep) <strong>+ 大 dà</strong> (large). The oracle-bone and bronze forms show a person wearing a large sheep-horn headdress, or simply the image of a large, magnificent sheep. In ancient Chinese agropastoral culture, a large, fat sheep with impressive horns was the finest sacrificial animal and the greatest form of wealth — what pleased the spirits was beautiful.</p>
-      <p>The same root explains why 善 shàn (morally good; skilled), 羡 xiàn (to envy), and 义 yì (righteousness) all contain the sheep radical 羊 — all connect goodness, beauty, and value through the image of the ideal sacrificial animal. Beauty in classical Chinese thought is not separate from goodness, abundance, and the sacred.</p>
-      <p>The ancient philosopher Mozi observed: 美 does not consist in one sensory experience alone — it is the harmony of the whole. Confucius declared 尽善尽美 jǐn shàn jǐn měi ("utterly good, utterly beautiful") as the highest aesthetic standard. 美 was never merely decorative.</p>
+      <p><strong>美 měi = 羊 yáng</strong> (sheep) <strong>+ 大 dà</strong> (large). The oracle-bone and bronze forms show a person wearing a large sheep-horn headdress, or simply the image of a large, magnificent sheep. In ancient Chinese agropastoral culture, a large, fat sheep with impressive horns was the finest sacrificial animal and the greatest form of wealth , what pleased the spirits was beautiful.</p>
+      <p>The same root explains why 善 shàn (morally good; skilled), 羡 xiàn (to envy), and 义 yì (righteousness) all contain the sheep radical 羊 , all connect goodness, beauty, and value through the image of the ideal sacrificial animal. Beauty in classical Chinese thought is not separate from goodness, abundance, and the sacred.</p>
+      <p>The ancient philosopher Mozi observed: 美 does not consist in one sensory experience alone , it is the harmony of the whole. Confucius declared 尽善尽美 jǐn shàn jǐn měi ("utterly good, utterly beautiful") as the highest aesthetic standard. 美 was never merely decorative.</p>
     </div>
 
     <span class="section-anchor" id="beauty"></span>
@@ -114,9 +114,9 @@ content_sources:
     </div>
 
     <div class="pattern">
-      <span class="label">美丽 · 漂亮 · 好看 — The Beauty Spectrum</span>
-      <strong>美丽</strong> měilì = poetic, profound beauty — scenery, inner qualities, moments (literary/formal)<br>
-      <strong>漂亮</strong> piàoliang = pretty, attractive — people, clothes, work (colloquial, everyday)<br>
+      <span class="label">美丽 · 漂亮 · 好看 , The Beauty Spectrum</span>
+      <strong>美丽</strong> měilì = poetic, profound beauty , scenery, inner qualities, moments (literary/formal)<br>
+      <strong>漂亮</strong> piàoliang = pretty, attractive , people, clothes, work (colloquial, everyday)<br>
       <strong>好看</strong> hǎokàn = good-looking, visually pleasant (most casual, also "worth reading/watching")
     </div>
 
@@ -130,7 +130,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-adj">Adj 形容词 xíngróngcí</span></div>
         <div class="card-def">
-          美 měi + 丽 lì (splendid; brilliant — originally: a deer with fine antlers). Used for landscapes, natural scenes, and elevated emotional beauty. More literary than 漂亮. 美丽的风景 "beautiful scenery" · 美丽的心灵 "a beautiful soul."
+          美 měi + 丽 lì (splendid; brilliant , originally: a deer with fine antlers). Used for landscapes, natural scenes, and elevated emotional beauty. More literary than 漂亮. 美丽的风景 "beautiful scenery" · 美丽的心灵 "a beautiful soul."
         </div>
         <div class="examples">
           <div class="example">
@@ -168,7 +168,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          审 shěn (to examine; to judge) + 美 měi (beauty). The act of aesthetic discernment — the capacity to evaluate beauty. 审美观 "aesthetic outlook/values" · 审美趣味 "aesthetic taste." Common in design, art, and cultural criticism.
+          审 shěn (to examine; to judge) + 美 měi (beauty). The act of aesthetic discernment , the capacity to evaluate beauty. 审美观 "aesthetic outlook/values" · 审美趣味 "aesthetic taste." Common in design, art, and cultural criticism.
         </div>
         <div class="examples">
           <div class="example">
@@ -191,7 +191,7 @@ content_sources:
 
     <div class="scholar" data-glyph="美">
       <div class="scholar-label">文化洞见 wénhuà dòngjiàn · Cultural Note</div>
-      <p>The United States is called 美国 Měiguó — "beautiful country" — because when Western nation names were being transliterated into Chinese in the 19th century, the character 美 was chosen for the "Mer-" sound in "America." Chinese translators consistently selected auspicious or flattering characters when transliterating foreign names. The full form is 亚美利加合众国 Yà-Měi-lì-jiā Hézhòngguó — "the United States of America." Abbreviated: 美国, or simply 美 in compounds.</p>
+      <p>The United States is called 美国 Měiguó , "beautiful country" , because when Western nation names were being transliterated into Chinese in the 19th century, the character 美 was chosen for the "Mer-" sound in "America." Chinese translators consistently selected auspicious or flattering characters when transliterating foreign names. The full form is 亚美利加合众国 Yà-Měi-lì-jiā Hézhòngguó , "the United States of America." Abbreviated: 美国, or simply 美 in compounds.</p>
       <p>Key compounds: 美元 Měiyuán (US dollar) · 美军 Měijūn (US military) · 中美关系 Zhōng-Měi guānxi (Sino-American relations) · 旅美华人 lǚ Měi Huárén (Chinese people residing in the US).</p>
     </div>
 
@@ -213,7 +213,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          美 měi (beautiful; excellent) + 食 shí (food; to eat). Fine food; delicacies. Used everywhere food culture is celebrated — travel blogs, TV shows, restaurant descriptions. 美食家 měishíjiā = gourmet; food connoisseur.
+          美 měi (beautiful; excellent) + 食 shí (food; to eat). Fine food; delicacies. Used everywhere food culture is celebrated , travel blogs, TV shows, restaurant descriptions. 美食家 měishíjiā = gourmet; food connoisseur.
         </div>
         <div class="examples">
           <div class="example">
@@ -232,7 +232,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-adj">Adj 形容词 xíngróngcí</span></div>
         <div class="card-def">
-          鲜 xiān (fresh; vivid — the "umami" character, fish + sheep 鱼+羊) + 美 měi (beautiful; delicious). The compound for food that is both fresh and deeply flavorful. Note: 鲜 also contains the sheep radical 羊, linking back to 美's own etymology. Used for broths, seafood, and fresh ingredients.
+          鲜 xiān (fresh; vivid , the "umami" character, fish + sheep 鱼+羊) + 美 měi (beautiful; delicious). The compound for food that is both fresh and deeply flavorful. Note: 鲜 also contains the sheep radical 羊, linking back to 美's own etymology. Used for broths, seafood, and fresh ingredients.
         </div>
         <div class="examples">
           <div class="example">

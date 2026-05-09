@@ -75,7 +75,7 @@ pinyin: 'bǎ'
       <span class="topic-hero-eyebrow">Grammar · 语法 yǔfǎ</span>
       <h1 class="topic-hero-title">把</h1>
       <span class="topic-hero-title-py">bǎ</span>
-      <p class="topic-hero-desc">The disposal construction — taking hold of a definite object and doing something deliberate and consequential to it. One of the most distinctively Chinese grammatical structures, with no clean equivalent in European languages.</p>
+      <p class="topic-hero-desc">The disposal construction , taking hold of a definite object and doing something deliberate and consequential to it. One of the most distinctively Chinese grammatical structures, with no clean equivalent in European languages.</p>
     </header>
 
     <!-- ── ETYMOLOGY ── -->
@@ -90,8 +90,8 @@ pinyin: 'bǎ'
     <div class="scholar" data-glyph="把">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
       <p><strong>把 bǎ</strong> is composed of <strong>手 shǒu</strong> (hand, as the left radical 扌) + <strong>巴 bā</strong> (a phonetic element depicting a tail or a creature that clings). The core physical meaning is <em>to grip, to clasp with the hand</em>. A 把 is the handle of a tool, a hilt, or the part you grasp. This physical reality of grasping directly motivates the grammatical construction: the 把 construction is, at its heart, about <em>taking hold of something and doing something definitive to it.</em></p>
-      <p>The grammatical use developed from the physical: "I take hold of this thing and do X to it" gradually became a construction that foregrounds the object and encodes the idea that the action will <em>affect, change, or dispose of</em> that object in a deliberate, concrete way. In classical Chinese, 把 retained this hands-on quality — 把酒问青天 (holding a wine cup, asking the blue sky) from Su Shi's famous lyric captures 把 in its original physical sense while serving a grammatical role.</p>
-      <p>Chinese linguists call it the <strong>处置式 chǔzhì shì</strong> — the "disposal construction." The word 处置 means to handle, to deal with, to dispose of. The object is not merely mentioned — it is <em>taken into hand and dealt with.</em></p>
+      <p>The grammatical use developed from the physical: "I take hold of this thing and do X to it" gradually became a construction that foregrounds the object and encodes the idea that the action will <em>affect, change, or dispose of</em> that object in a deliberate, concrete way. In classical Chinese, 把 retained this hands-on quality , 把酒问青天 (holding a wine cup, asking the blue sky) from Su Shi's famous lyric captures 把 in its original physical sense while serving a grammatical role.</p>
+      <p>Chinese linguists call it the <strong>处置式 chǔzhì shì</strong> , the "disposal construction." The word 处置 means to handle, to deal with, to dispose of. The object is not merely mentioned , it is <em>taken into hand and dealt with.</em></p>
     </div>
 
     <!-- ── PATTERN BOX ── -->
@@ -110,9 +110,9 @@ pinyin: 'bǎ'
       她 + 把 + 门 + 关 + 上了。Tā bǎ mén guān shàng le. — She closed the door. (shut it into the closed position)<br>
       他 + 把 + 椅子 + 搬 + 进来了。Tā bǎ yǐzi bān jìnlái le. — He moved the chair inside.<br><br>
       <strong>Three requirements for 把:</strong><br>
-      1. The object must be <em>definite</em> — 把<strong>那本</strong>书 (that book), not 把书 alone unless it's contextually known.<br>
-      2. The verb phrase must have a <em>result, direction, or complement</em> — the bare verb cannot stand alone after 把.<br>
-      3. The subject must be the <em>agent</em> who deliberately acts on the object — no stative verbs, no perception verbs.
+      1. The object must be <em>definite</em> , 把<strong>那本</strong>书 (that book), not 把书 alone unless it's contextually known.<br>
+      2. The verb phrase must have a <em>result, direction, or complement</em> , the bare verb cannot stand alone after 把.<br>
+      3. The subject must be the <em>agent</em> who deliberately acts on the object , no stative verbs, no perception verbs.
     </div>
 
     <div class="scholar" data-glyph="把">
@@ -122,7 +122,7 @@ pinyin: 'bǎ'
       Directional complement: 拿<strong>出来</strong> (take out), 放<strong>下</strong> (put down), 搬<strong>进去</strong> (move inside)<br>
       Aspect marker: 写<strong>了</strong> (wrote it), 吃<strong>掉</strong> (ate it up), 喝<strong>光</strong> (drank it all up)<br>
       Degree/result phrase: 打<strong>得很厉害</strong> (hit hard), 整理<strong>得很整齐</strong> (arranged neatly)</p>
-      <p>This requirement reflects the core meaning: if you take something in hand and act on it, that action must <em>conclude with a result.</em> The 把 construction is inherently telic — it implies a completed, consequential outcome.</p>
+      <p>This requirement reflects the core meaning: if you take something in hand and act on it, that action must <em>conclude with a result.</em> The 把 construction is inherently telic , it implies a completed, consequential outcome.</p>
     </div>
 
     <!-- ── DISPOSAL RESULTS ── -->
@@ -144,7 +144,7 @@ pinyin: 'bǎ'
         </div>
         <div class="tags"><span class="tag tag-v">V + 完 resultative complement</span></div>
         <div class="card-def">
-          做 zuò (to do) + 完 wán (to finish; to exhaust; resultative complement). The 完 is the result — the homework has been completely done. Without 完, the sentence would be ungrammatical: *把作业做. 完 is one of the most common resultative complements in the 把 construction.
+          做 zuò (to do) + 完 wán (to finish; to exhaust; resultative complement). The 完 is the result , the homework has been completely done. Without 完, the sentence would be ungrammatical: *把作业做. 完 is one of the most common resultative complements in the 把 construction.
         </div>
         <div class="examples">
           <div class="example">
@@ -173,7 +173,7 @@ pinyin: 'bǎ'
         </div>
         <div class="tags"><span class="tag tag-v">V + 好 resultative complement</span></div>
         <div class="card-def">
-          放 fàng (to place; to put) + 好 hǎo (well; properly; in the right state). The 好 signals the object reaches a satisfactory, correct, or complete state. 放好 is not just "put down" — it's "place in a way that is done properly." 好 as a resultative complement implies care, correctness, and readiness.
+          放 fàng (to place; to put) + 好 hǎo (well; properly; in the right state). The 好 signals the object reaches a satisfactory, correct, or complete state. 放好 is not just "put down" , it's "place in a way that is done properly." 好 as a resultative complement implies care, correctness, and readiness.
         </div>
         <div class="examples">
           <div class="example">
@@ -202,7 +202,7 @@ pinyin: 'bǎ'
         </div>
         <div class="tags"><span class="tag tag-v">V + 上 directional/resultative complement</span></div>
         <div class="card-def">
-          关 guān (to close) + 上 shàng (up; into a closed/attached state). Here 上 is a resultative complement indicating that the door has been moved into the closed, shut position. 上 in this sense implies closure, attachment, or sealing — 关上 means "closed all the way." Contrast: 关了门 (closed the door — completed action) vs. 把门关上 (closed the door — and it is now shut).
+          关 guān (to close) + 上 shàng (up; into a closed/attached state). Here 上 is a resultative complement indicating that the door has been moved into the closed, shut position. 上 in this sense implies closure, attachment, or sealing , 关上 means "closed all the way." Contrast: 关了门 (closed the door , completed action) vs. 把门关上 (closed the door , and it is now shut).
         </div>
         <div class="examples">
           <div class="example">
@@ -226,13 +226,13 @@ pinyin: 'bǎ'
         </div>
         <div class="tags"><span class="tag tag-v">V + 开 resultative complement</span></div>
         <div class="card-def">
-          打 dǎ (to hit; to strike — used as a general action verb with many objects) + 开 kāi (open; apart; into an open state). The combination 打开 means "open" — the object is moved into an open or separated state. 开 as a resultative complement implies separation, opening, or dispersal.
+          打 dǎ (to hit; to strike , used as a general action verb with many objects) + 开 kāi (open; apart; into an open state). The combination 打开 means "open" , the object is moved into an open or separated state. 开 as a resultative complement implies separation, opening, or dispersal.
         </div>
         <div class="examples">
           <div class="example">
             <div class="ex-cn">天气太热，把窗户打开吧。</div>
             <div class="ex-py">Tiānqì tài rè, bǎ chuānghu dǎ kāi ba.</div>
-            <div class="ex-en">It's too hot — open the window.</div>
+            <div class="ex-en">It's too hot , open the window.</div>
           </div>
           <div class="example">
             <div class="ex-cn">把礼物打开看看。</div>
@@ -292,7 +292,7 @@ pinyin: 'bǎ'
         </div>
         <div class="tags"><span class="tag tag-v">V + 下 directional complement</span></div>
         <div class="card-def">
-          放 fàng (to place; put) + 下 xià (down; into a lower position). A simple directional 把 sentence — the object (bag) is moved to a lower location. 下 here signals downward movement or lowering into position. The 把 foregrounds the deliberate, targeted nature of the placing.
+          放 fàng (to place; put) + 下 xià (down; into a lower position). A simple directional 把 sentence , the object (bag) is moved to a lower location. 下 here signals downward movement or lowering into position. The 把 foregrounds the deliberate, targeted nature of the placing.
         </div>
         <div class="examples">
           <div class="example">
@@ -406,7 +406,7 @@ pinyin: 'bǎ'
         </div>
         <div class="tags"><span class="tag tag-v">Error Type 3 · indefinite objects</span></div>
         <div class="card-def">
-          The object of 把 must be definite — a specific, known thing. An indefinite object (a book you haven't mentioned before, an unspecified amount) generally cannot be used. The construction implies you are taking hold of <em>a particular thing</em> and doing something to it. Use demonstratives (这, 那, 这些), possessives (我的, 他的), or contextually established nouns.
+          The object of 把 must be definite , a specific, known thing. An indefinite object (a book you haven't mentioned before, an unspecified amount) generally cannot be used. The construction implies you are taking hold of <em>a particular thing</em> and doing something to it. Use demonstratives (这, 那, 这些), possessives (我的, 他的), or contextually established nouns.
         </div>
         <div class="examples">
           <div class="example">
@@ -434,7 +434,7 @@ pinyin: 'bǎ'
         </div>
         <div class="tags"><span class="tag tag-v">Error Type 4 · unaffected objects</span></div>
         <div class="card-def">
-          The object of the 把 construction must be <em>affected</em> by the action — it must undergo a change, be moved, be consumed, be transformed, or be disposed of. Perception and cognition verbs (看见 see, 听见 hear, 闻到 smell) involve objects that are registered but not physically affected. The world contains him; seeing him doesn't change him.
+          The object of the 把 construction must be <em>affected</em> by the action , it must undergo a change, be moved, be consumed, be transformed, or be disposed of. Perception and cognition verbs (看见 see, 听见 hear, 闻到 smell) involve objects that are registered but not physically affected. The world contains him; seeing him doesn't change him.
         </div>
         <div class="examples">
           <div class="example">
@@ -471,7 +471,7 @@ pinyin: 'bǎ'
         </div>
         <div class="tags"><span class="tag tag-n">量词 measure word</span></div>
         <div class="card-def">
-          把 as a measure word applies to objects that have a handle or can be grasped, or that you can take in hand — chairs (by the back), tools, weapons, fans, keys, locks, umbrellas, guitars. The connection to the core meaning of 把 (to grip) is transparent.
+          把 as a measure word applies to objects that have a handle or can be grasped, or that you can take in hand , chairs (by the back), tools, weapons, fans, keys, locks, umbrellas, guitars. The connection to the core meaning of 把 (to grip) is transparent.
         </div>
         <div class="examples">
           <div class="example">
@@ -499,7 +499,7 @@ pinyin: 'bǎ'
         </div>
         <div class="tags"><span class="tag tag-n">量词 measure word · idiomatic</span></div>
         <div class="card-def">
-          把 can measure abstract quantities that could theoretically fill a cupped hand — a handful of something. 一把汗 (a palm of sweat) is an idiom for being anxious or nervous to the point of sweating. 一把泪 (a handful of tears) appears in literary contexts for weeping. These extend the concrete grasping image into emotional territory.
+          把 can measure abstract quantities that could theoretically fill a cupped hand , a handful of something. 一把汗 (a palm of sweat) is an idiom for being anxious or nervous to the point of sweating. 一把泪 (a handful of tears) appears in literary contexts for weeping. These extend the concrete grasping image into emotional territory.
         </div>
         <div class="examples">
           <div class="example">
@@ -523,7 +523,7 @@ pinyin: 'bǎ'
         </div>
         <div class="tags"><span class="tag tag-n">量词 measure word · idiomatic</span></div>
         <div class="card-def">
-          一把年纪 literally "a handful of years" — used to describe someone who is getting on in age. Often carries a mildly reproachful or surprised tone: someone that age should know better, or it's surprising they're doing something. Common in colloquial speech and semi-formal contexts.
+          一把年纪 literally "a handful of years" , used to describe someone who is getting on in age. Often carries a mildly reproachful or surprised tone: someone that age should know better, or it's surprising they're doing something. Common in colloquial speech and semi-formal contexts.
         </div>
         <div class="examples">
           <div class="example">
@@ -654,14 +654,14 @@ pinyin: 'bǎ'
         <span class="cy-cn">手到擒来</span>
         <span class="cy-py">shǒu dào qín lái</span>
         <span class="cy-en">as easy as reaching out and grabbing it; a sure thing</span>
-        <span class="cy-note">Lit: hand-arrives-capture-comes. The hand extends (手到) and the prey comes into the grasp (擒来). Used for tasks that are effortlessly accomplished — the antithesis of struggle. Thematically linked to 把: the hand that reaches out and takes hold.</span>
+        <span class="cy-note">Lit: hand-arrives-capture-comes. The hand extends (手到) and the prey comes into the grasp (擒来). Used for tasks that are effortlessly accomplished , the antithesis of struggle. Thematically linked to 把: the hand that reaches out and takes hold.</span>
       </div>
 
       <div class="cy">
         <span class="cy-cn">当机立断</span>
         <span class="cy-py">dāng jī lì duàn</span>
         <span class="cy-en">to decide decisively at the right moment; not to hesitate when the time comes</span>
-        <span class="cy-note">Lit: facing-the-opportunity-immediately-decide. The complement of 把握时机 — not just grasping the moment but acting on it decisively. 断 here means to cut through, to decide without wavering. The virtuous counterpart to 犹豫不决 (hesitating and unable to decide).</span>
+        <span class="cy-note">Lit: facing-the-opportunity-immediately-decide. The complement of 把握时机 , not just grasping the moment but acting on it decisively. 断 here means to cut through, to decide without wavering. The virtuous counterpart to 犹豫不决 (hesitating and unable to decide).</span>
       </div>
 
     </div>

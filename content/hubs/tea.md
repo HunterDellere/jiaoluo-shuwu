@@ -157,7 +157,7 @@ stages:
     <span class="section-anchor" id="questions"></span>
     <div class="section-head"><h2>How to Use This in Daily Life</h2></div>
     <div class="pattern">
-      <span class="label">日常应用 · rìcháng yìngyòng — practical takeaways</span>
+      <span class="label">日常应用 · rìcháng yìngyòng , practical takeaways</span>
       <p><strong>Ordering tea in Chinese.</strong> The six-class taxonomy is the vocabulary of any tea menu or shop. Green (绿 lǜ), white (白 bái), yellow (黄 huáng), oolong (乌龙 wūlóng), black/red (红 hóng), dark (黑 hēi): knowing these six words means you can navigate any tea shop in China without guessing.</p>
       <p><strong>Understanding the temperature logic.</strong> Each class has a different optimal water temperature: green and white teas are easily scalded (70–80°C); oolongs and blacks prefer near-boiling water; aged dark teas need full-boiling water to open up. This is not ceremony for its own sake; it is the plant's chemistry expressing itself.</p>
       <p><strong>What 工夫 means.</strong> 工夫茶 (gōngfu chá) is often romanised as "gongfu tea" and confused with martial arts (功夫 gōngfu). The characters are different: 工夫 means time, effort, and craft applied to a task. Gongfu tea is simply tea made with enough attention that preparation itself becomes the practice.</p>

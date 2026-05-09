@@ -36,7 +36,7 @@ pinyin: 'dōu'
       </a></li>
       <li><a href="#negation">
         <span class="toc-cn">否定</span> Negation
-        <span class="toc-sub">都不 vs. 不都 — the critical split</span>
+        <span class="toc-sub">都不 vs. 不都 , the critical split</span>
       </a></li>
       <li><a href="#question-words">
         <span class="toc-cn">疑问词</span> Question Words
@@ -48,7 +48,7 @@ pinyin: 'dōu'
       </a></li>
       <li><a href="#contrast">
         <span class="toc-cn">辨析</span> 都 vs. 也
-        <span class="toc-sub">all vs. also — the classic confusion</span>
+        <span class="toc-sub">all vs. also , the classic confusion</span>
       </a></li>
       <li><a href="#spoken">
         <span class="toc-cn">口语</span> Spoken Register
@@ -73,7 +73,7 @@ pinyin: 'dōu'
       <span class="topic-hero-eyebrow">Grammar · 语法 yǔfǎ</span>
       <h1 class="topic-hero-title">都</h1>
       <span class="topic-hero-title-py">dōu</span>
-      <p class="topic-hero-desc">A first-week word that causes second-year mistakes: 都 looks like it means "all" and goes before the verb, but what it actually quantifies is everything that came before it — and flipping its position relative to 不 changes "none of them" into "not all of them."</p>
+      <p class="topic-hero-desc">A first-week word that causes second-year mistakes: 都 looks like it means "all" and goes before the verb, but what it actually quantifies is everything that came before it , and flipping its position relative to 不 changes "none of them" into "not all of them."</p>
     </header>
 
     <!-- ── CORE PATTERN ── -->
@@ -88,7 +88,7 @@ pinyin: 'dōu'
     <div class="pattern">
       <span class="label">基本结构 jīběn jiégòu · Canonical Structure</span>
       <code>[Subject or quantifier phrase] + 都 + [predicate]</code><br><br>
-      都 is a pre-verbal adverb. It always looks <strong>left</strong> for what it quantifies — the subject or subject-side phrase that precedes it. It does not scope over the object or verb phrase that follows it.<br><br>
+      都 is a pre-verbal adverb. It always looks <strong>left</strong> for what it quantifies , the subject or subject-side phrase that precedes it. It does not scope over the object or verb phrase that follows it.<br><br>
       <strong>我们都喜欢音乐。</strong> Wǒmen dōu xǐhuān yīnyuè.<br>
       We all like music. (都 scopes over 我们)<br><br>
       <strong>他什么都吃。</strong> Tā shénme dōu chī.<br>
@@ -101,7 +101,7 @@ pinyin: 'dōu'
 
     <div class="scholar" data-glyph="都">
       <div class="scholar-label">语法洞见 yǔfǎ dòngjiàn · The Leftward Scope Rule</div>
-      <p>The single most reliable thing to know about 都 is that its scope goes left, not right. English speakers read 都 as coming before the verb and assume it modifies what follows, but that is backwards. 他们都去 means "they all go" because 都 reaches back to 他们. 他什么都吃 works because 什么 has moved to the front — the question word is topic-fronted into pre-都 position, and 都 then universally quantifies it: "as for what [food], everything, he eats."</p>
+      <p>The single most reliable thing to know about 都 is that its scope goes left, not right. English speakers read 都 as coming before the verb and assume it modifies what follows, but that is backwards. 他们都去 means "they all go" because 都 reaches back to 他们. 他什么都吃 works because 什么 has moved to the front , the question word is topic-fronted into pre-都 position, and 都 then universally quantifies it: "as for what [food], everything, he eats."</p>
       <p>This leftward scope is why question words like 什么, 哪儿, 谁, and 怎么 combine so productively with 都: move the question word to the front, put 都 after it, and the universal reading snaps into place. Without the fronting, the construction fails. 他吃什么都 is ungrammatical; 他什么都吃 is perfectly natural.</p>
     </div>
 
@@ -122,13 +122,13 @@ pinyin: 'dōu'
       <strong>不 + 都 → partial negation: "not all"</strong><br>
       他们不都来。Tāmen bù dōu lái. — Not all of them are coming. (some are, some aren't)<br>
       我们不都喜欢。Wǒmen bù dōu xǐhuān. — We don't all like it. (some of us do)<br><br>
-      The difference is one character of word order. 都不 = universal negation applied to every member. 不都 = negation of the universal claim — at least one exception exists.
+      The difference is one character of word order. 都不 = universal negation applied to every member. 不都 = negation of the universal claim , at least one exception exists.
     </div>
 
     <div class="scholar" data-glyph="都">
       <div class="scholar-label">学者洞见 xuézhě dòngjiàn · Why This Trips Everyone Up</div>
       <p>The 都不 / 不都 distinction is the single most common 都 error in intermediate Mandarin. The confusion is understandable: both sentences have the same words, and English doesn't reliably signal this difference in word order. "They don't all come" and "None of them come" are two very different claims, but learners writing fast under pressure tend to lose track of which they intend.</p>
-      <p>A useful test: can you follow the sentence with "but some do"? If yes, use 不都 (partial negation). If the sentence means every single member is excluded, use 都不 (total negation). 他们都不来，一个也没有 ("None of them are coming, not a single one") is total. 他们不都来，有几个不来 ("Not all of them are coming — a few aren't") is partial.</p>
+      <p>A useful test: can you follow the sentence with "but some do"? If yes, use 不都 (partial negation). If the sentence means every single member is excluded, use 都不 (total negation). 他们都不来，一个也没有 ("None of them are coming, not a single one") is total. 他们不都来，有几个不来 ("Not all of them are coming , a few aren't") is partial.</p>
     </div>
 
     <div class="cards">
@@ -152,7 +152,7 @@ pinyin: 'dōu'
           <div class="example">
             <div class="ex-cn">我问了三个人，都不知道。</div>
             <div class="ex-py">Wǒ wèn le sān gè rén, dōu bù zhīdao.</div>
-            <div class="ex-en">I asked three people — none of them knew.</div>
+            <div class="ex-en">I asked three people , none of them knew.</div>
           </div>
           <div class="example">
             <div class="ex-cn">这两个方案都没通过。</div>
@@ -209,12 +209,12 @@ pinyin: 'dōu'
     <div class="pattern">
       <span class="label">疑问词通用化 yíwèncí tōngyònghuà · Question Words as Universals</span>
       Question word (fronted) + 都 + predicate = universal quantification<br><br>
-      <strong>什么都</strong> — everything, anything<br>
-      <strong>哪儿都 / 哪里都</strong> — everywhere, anywhere<br>
-      <strong>谁都</strong> — everyone, anyone<br>
-      <strong>怎么都</strong> — no matter how, by any means<br>
-      <strong>什么时候都</strong> — any time, always<br><br>
-      The question word must be fronted into subject or topic position, before 都. This is the same leftward scope rule — 都 looks back at what precedes it and universalizes over it.
+      <strong>什么都</strong> , everything, anything<br>
+      <strong>哪儿都 / 哪里都</strong> , everywhere, anywhere<br>
+      <strong>谁都</strong> , everyone, anyone<br>
+      <strong>怎么都</strong> , no matter how, by any means<br>
+      <strong>什么时候都</strong> , any time, always<br><br>
+      The question word must be fronted into subject or topic position, before 都. This is the same leftward scope rule , 都 looks back at what precedes it and universalizes over it.
     </div>
 
     <div class="cards">
@@ -227,13 +227,13 @@ pinyin: 'dōu'
         </div>
         <div class="tags"><span class="tag tag-v">Question word + 都 · universal</span></div>
         <div class="card-def">
-          什么 fronted before 都 universalizes over all things or all options. 什么都行 literally "anything goes" — no restriction exists. Extremely common in everyday speech for expressing total flexibility or total acceptance.
+          什么 fronted before 都 universalizes over all things or all options. 什么都行 literally "anything goes" , no restriction exists. Extremely common in everyday speech for expressing total flexibility or total acceptance.
         </div>
         <div class="examples">
           <div class="example">
             <div class="ex-cn">什么都行，你决定吧。</div>
             <div class="ex-py">Shénme dōu xíng, nǐ juédìng ba.</div>
-            <div class="ex-en">Anything's fine — you decide.</div>
+            <div class="ex-en">Anything's fine , you decide.</div>
           </div>
           <div class="example">
             <div class="ex-cn">他什么都不怕。</div>
@@ -267,7 +267,7 @@ pinyin: 'dōu'
           <div class="example">
             <div class="ex-cn">他哪儿都去过，就是没去过西藏。</div>
             <div class="ex-py">Tā nǎr dōu qù guo, jiù shì méi qù guo Xīzàng.</div>
-            <div class="ex-en">He's been everywhere — except Tibet.</div>
+            <div class="ex-en">He's been everywhere , except Tibet.</div>
           </div>
           <div class="example">
             <div class="ex-cn">这首歌哪儿都能听到。</div>
@@ -296,7 +296,7 @@ pinyin: 'dōu'
           <div class="example">
             <div class="ex-cn">这件事谁都知道，就你不知道。</div>
             <div class="ex-py">Zhè jiàn shì shéi dōu zhīdao, jiù nǐ bù zhīdao.</div>
-            <div class="ex-en">Everyone knows about this — except you.</div>
+            <div class="ex-en">Everyone knows about this , except you.</div>
           </div>
           <div class="example">
             <div class="ex-cn">谁都不喜欢被批评。</div>
@@ -330,7 +330,7 @@ pinyin: 'dōu'
           <div class="example">
             <div class="ex-cn">怎么都好，随便你。</div>
             <div class="ex-py">Zěnme dōu hǎo, suíbiàn nǐ.</div>
-            <div class="ex-en">Any way is fine — whatever you like.</div>
+            <div class="ex-en">Any way is fine , whatever you like.</div>
           </div>
         </div>
       </div>
@@ -348,8 +348,8 @@ pinyin: 'dōu'
 
     <div class="scholar" data-glyph="都">
       <div class="scholar-label">学者洞见 xuézhě dòngjiàn · 都 as Scalar Emphasis</div>
-      <p>When 都 precedes a time expression, it shifts from universal quantification to scalar emphasis: "as much as X" or "already X," with an implied sense that X is surprising or further along than expected. This is 都 scoping over a time or degree expression that has been fronted — the same leftward rule, now applied to a point on a scale rather than a set of entities.</p>
-      <p>都两点了 means "it's already two o'clock" and carries the subtext: we've arrived at this late/surprising point. The 了 that typically closes these sentences reinforces the sense of a threshold reached. 都这么晚了还不睡 is something a parent says to a child who should have been in bed an hour ago: "It's already this late and you're still not sleeping." Both 都 and 了 are doing work here — 都 frames the degree as unexpectedly high, 了 marks it as the present relevant situation.</p>
+      <p>When 都 precedes a time expression, it shifts from universal quantification to scalar emphasis: "as much as X" or "already X," with an implied sense that X is surprising or further along than expected. This is 都 scoping over a time or degree expression that has been fronted , the same leftward rule, now applied to a point on a scale rather than a set of entities.</p>
+      <p>都两点了 means "it's already two o'clock" and carries the subtext: we've arrived at this late/surprising point. The 了 that typically closes these sentences reinforces the sense of a threshold reached. 都这么晚了还不睡 is something a parent says to a child who should have been in bed an hour ago: "It's already this late and you're still not sleeping." Both 都 and 了 are doing work here , 都 frames the degree as unexpectedly high, 了 marks it as the present relevant situation.</p>
     </div>
 
     <div class="cards">
@@ -368,7 +368,7 @@ pinyin: 'dōu'
           <div class="example">
             <div class="ex-cn">都两点了，你怎么还没睡？</div>
             <div class="ex-py">Dōu liǎng diǎn le, nǐ zěnme hái méi shuì?</div>
-            <div class="ex-en">It's already two in the morning — why are you still awake?</div>
+            <div class="ex-en">It's already two in the morning , why are you still awake?</div>
           </div>
           <div class="example">
             <div class="ex-cn">都这么大了，还哭鼻子。</div>
@@ -378,7 +378,7 @@ pinyin: 'dōu'
           <div class="example">
             <div class="ex-cn">都说了三遍了，你还没记住？</div>
             <div class="ex-py">Dōu shuō le sān biàn le, nǐ hái méi jì zhù?</div>
-            <div class="ex-en">I've already said it three times — you still haven't memorized it?</div>
+            <div class="ex-en">I've already said it three times , you still haven't memorized it?</div>
           </div>
           <div class="example">
             <div class="ex-cn">都十月了，还这么热。</div>
@@ -388,7 +388,7 @@ pinyin: 'dōu'
         </div>
         <div class="note">
           <span class="note-label">语法 yǔfǎ · 都 vs. 已经</span>
-          已经 yǐjīng (already) is neutral — a plain factual marker. 都…了 carries emotional weight: surprise, impatience, mild reproach, or urgency. 已经两点了 is a fact; 都两点了 is a complaint.
+          已经 yǐjīng (already) is neutral , a plain factual marker. 都…了 carries emotional weight: surprise, impatience, mild reproach, or urgency. 已经两点了 is a fact; 都两点了 is a complaint.
         </div>
       </div>
 
@@ -414,8 +414,8 @@ pinyin: 'dōu'
 
       <div class="card c-v">
         <div class="card-head">
-          <span class="card-cn">都 — 全体</span>
-          <span class="card-py">dōu — quántǐ</span>
+          <span class="card-cn">都 , 全体</span>
+          <span class="card-py">dōu , quántǐ</span>
           <span class="card-en">都: every member of a group — simultaneous coverage</span>
         </div>
         <div class="tags"><span class="tag tag-v">都 · universal quantifier over group</span></div>
@@ -438,11 +438,11 @@ pinyin: 'dōu'
 
       <div class="card c-v">
         <div class="card-head">
-          <span class="card-cn">也 — 追加</span>
-          <span class="card-py">yě — zhuījiā</span>
+          <span class="card-cn">也 , 追加</span>
+          <span class="card-py">yě , zhuījiā</span>
           <span class="card-en">也: one more added to an existing set</span>
         </div>
-        <div class="tags"><span class="tag tag-v">也 · additive — joins an established set</span></div>
+        <div class="tags"><span class="tag tag-v">也 · additive , joins an established set</span></div>
         <div class="card-def">
           也 always implies that the predicate has already been established for another entity. The sentence using 也 adds one more item. This requires a prior context (explicit or implicit) in which the predicate was already true of someone or something else. 也 cannot start a discourse out of nowhere.
         </div>
@@ -477,8 +477,8 @@ pinyin: 'dōu'
 
     <div class="scholar" data-glyph="都">
       <div class="scholar-label">口语洞见 kǒuyǔ dòngjiàn · The Colloquial Extension</div>
-      <p>In spoken Mandarin, 都 stretches beyond pure quantification into an emphatic register where it functions closer to "even." This use typically appears in sentences with 连 lián (even, including) or in short exclamatory frames without it. 连我都不会这道题 — "even I can't do this problem" — is the full 连...都 construction, one of the most reliable patterns in the language for marking scalar extremity: if even this extreme case is included, then all lesser cases certainly are.</p>
-      <p>The short form without 连 appears in highly colloquial speech: 这点事都做不了？ "You can't even handle this small thing?" The 都 here signals a low threshold on a scale — if you can't manage even this, things are bad. 都怪你 ("it's entirely your fault") uses 都 for total attribution of blame: no other cause is acknowledged.</p>
+      <p>In spoken Mandarin, 都 stretches beyond pure quantification into an emphatic register where it functions closer to "even." This use typically appears in sentences with 连 lián (even, including) or in short exclamatory frames without it. 连我都不会这道题 , "even I can't do this problem" , is the full 连...都 construction, one of the most reliable patterns in the language for marking scalar extremity: if even this extreme case is included, then all lesser cases certainly are.</p>
+      <p>The short form without 连 appears in highly colloquial speech: 这点事都做不了？ "You can't even handle this small thing?" The 都 here signals a low threshold on a scale , if you can't manage even this, things are bad. 都怪你 ("it's entirely your fault") uses 都 for total attribution of blame: no other cause is acknowledged.</p>
     </div>
 
     <div class="cards">
@@ -491,7 +491,7 @@ pinyin: 'dōu'
         </div>
         <div class="tags"><span class="tag tag-v">连 … 都 · scalar "even" construction</span></div>
         <div class="card-def">
-          连 marks the extreme or surprising end of a scale; 都 follows and applies the predicate universally. Together they create one of Mandarin's most versatile emphasis patterns. The item after 连 is the one you'd least expect — its inclusion signals that all less surprising cases are also covered.
+          连 marks the extreme or surprising end of a scale; 都 follows and applies the predicate universally. Together they create one of Mandarin's most versatile emphasis patterns. The item after 连 is the one you'd least expect , its inclusion signals that all less surprising cases are also covered.
         </div>
         <div class="examples">
           <div class="example">
@@ -502,7 +502,7 @@ pinyin: 'dōu'
           <div class="example">
             <div class="ex-cn">连名字都忘了，你太忙了。</div>
             <div class="ex-py">Lián míngzi dōu wàng le, nǐ tài máng le.</div>
-            <div class="ex-en">You forgot even my name — you're too busy.</div>
+            <div class="ex-en">You forgot even my name , you're too busy.</div>
           </div>
           <div class="example">
             <div class="ex-cn">她连筷子都不会用。</div>
@@ -524,23 +524,23 @@ pinyin: 'dōu'
         </div>
         <div class="tags"><span class="tag tag-v">都 · total attribution (colloquial)</span></div>
         <div class="card-def">
-          都怪 is a fixed colloquial expression for assigning complete blame. 都 here means "entirely, completely" — no other cause is admitted. Tone ranges from playful to genuinely accusatory depending on context. 都怪我 = "it's entirely my fault" is common as a self-deprecating or apologetic opener.
+          都怪 is a fixed colloquial expression for assigning complete blame. 都 here means "entirely, completely" , no other cause is admitted. Tone ranges from playful to genuinely accusatory depending on context. 都怪我 = "it's entirely my fault" is common as a self-deprecating or apologetic opener.
         </div>
         <div class="examples">
           <div class="example">
             <div class="ex-cn">都怪你，害我迟到了。</div>
             <div class="ex-py">Dōu guài nǐ, hài wǒ chídào le.</div>
-            <div class="ex-en">It's all your fault — you made me late.</div>
+            <div class="ex-en">It's all your fault , you made me late.</div>
           </div>
           <div class="example">
             <div class="ex-cn">都怪我，不应该那样说。</div>
             <div class="ex-py">Dōu guài wǒ, bù yīnggāi nàyàng shuō.</div>
-            <div class="ex-en">It's entirely my fault — I shouldn't have said that.</div>
+            <div class="ex-en">It's entirely my fault , I shouldn't have said that.</div>
           </div>
           <div class="example">
             <div class="ex-cn">都怪天气，比赛取消了。</div>
             <div class="ex-py">Dōu guài tiānqì, bǐsài qǔxiāo le.</div>
-            <div class="ex-en">It's all the weather's fault — the match was cancelled.</div>
+            <div class="ex-en">It's all the weather's fault , the match was cancelled.</div>
           </div>
         </div>
       </div>
@@ -567,10 +567,10 @@ pinyin: 'dōu'
       <strong>Error 2: Confusing 都不 and 不都</strong><br>
       Wrong (when partial negation is meant): 他们都不来。(says none of them; intended: not all of them)<br>
       Right: 他们不都来。 — Not all of them are coming.<br>
-      This is the most consequential error — it changes the meaning completely.<br><br>
+      This is the most consequential error , it changes the meaning completely.<br><br>
 
       <strong>Error 3: Using 也 when 都 is needed for simultaneous group coverage</strong><br>
-      Wrong: 我们也喜欢音乐。(means "we also like music" — in addition to others)<br>
+      Wrong: 我们也喜欢音乐。(means "we also like music" , in addition to others)<br>
       Right: 我们都喜欢音乐。 — We all like music. (every member of our group)<br><br>
 
       <strong>Error 4: Fronting the question word but omitting 都</strong><br>

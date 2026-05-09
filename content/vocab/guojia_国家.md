@@ -59,7 +59,7 @@ content_review: 'pending'
       <span class="topic-hero-eyebrow">Vocabulary · 词汇 cíhuì</span>
       <h1 class="topic-hero-title">国家</h1>
       <span class="topic-hero-title-py">guó jiā</span>
-      <p class="topic-hero-desc">The state as family writ large — a compound that fuses the two institutions Chinese political thought never fully separated.</p>
+      <p class="topic-hero-desc">The state as family writ large , a compound that fuses the two institutions Chinese political thought never fully separated.</p>
     </header>
 
     <!-- SECTION: Etymology -->
@@ -72,10 +72,10 @@ content_review: 'pending'
     </div>
 
     <div class="scholar" data-glyph="国">
-      <div class="scholar-label">国 guó + 家 jiā — the enclosure that became a country, the roof that became a polity</div>
-      <p>国 guó in oracle bone and bronze forms shows a walled enclosure (囗) protecting a territory — specifically a settlement with armed defenders (戈 gē, a spear, inside the wall in the traditional character 國). The simplified form 国 replaces the spear-territory interior with 玉 yù (jade), a post-1950s simplification that swapped militarism for a cultural symbol. The core meaning of 国 was a walled city-state in the feudal Zhou system: each lord held a 国 within the larger Zhou realm. 天下 (all under heaven) was the emperor's domain; 国 were the subdivisions held by enfeoffed nobles. After Qin unification (221 BCE), 国 became the word for the unified empire itself, and by extension for any sovereign polity.</p>
-      <p>家 jiā is a roof (宀) over a pig (豕 shǐ) — the oldest oracle bone form shows an animal under a shelter. The pig was the household's primary domestic animal, a sign of settled agricultural life: if you had a permanent roof over animals, you had a household. 家 then extended from the physical homestead to the family that owned it, and then to any bounded group with a shared identity (专家 zhuānjiā, expert — one who belongs to a specialized household of knowledge; 国家 guójiā, the state — the family that rules the enclosure).</p>
-      <p>When classical Chinese writers paired 国 and 家 into 国家, they were not simply listing two synonyms for the political entity. They were asserting a structural claim: the state (国) is organized like a family (家), with the ruler standing in the relation of father to the people as children. This Confucian isomorphism of state and family is one of the most durable ideas in Chinese political culture. It persists in the phrase 国家 itself — a reminder encoded in the word that polity and family were the same kind of thing, differing only in scale.</p>
+      <div class="scholar-label">国 guó + 家 jiā , the enclosure that became a country, the roof that became a polity</div>
+      <p>国 guó in oracle bone and bronze forms shows a walled enclosure (囗) protecting a territory , specifically a settlement with armed defenders (戈 gē, a spear, inside the wall in the traditional character 國). The simplified form 国 replaces the spear-territory interior with 玉 yù (jade), a post-1950s simplification that swapped militarism for a cultural symbol. The core meaning of 国 was a walled city-state in the feudal Zhou system: each lord held a 国 within the larger Zhou realm. 天下 (all under heaven) was the emperor's domain; 国 were the subdivisions held by enfeoffed nobles. After Qin unification (221 BCE), 国 became the word for the unified empire itself, and by extension for any sovereign polity.</p>
+      <p>家 jiā is a roof (宀) over a pig (豕 shǐ) , the oldest oracle bone form shows an animal under a shelter. The pig was the household's primary domestic animal, a sign of settled agricultural life: if you had a permanent roof over animals, you had a household. 家 then extended from the physical homestead to the family that owned it, and then to any bounded group with a shared identity (专家 zhuānjiā, expert , one who belongs to a specialized household of knowledge; 国家 guójiā, the state , the family that rules the enclosure).</p>
+      <p>When classical Chinese writers paired 国 and 家 into 国家, they were not simply listing two synonyms for the political entity. They were asserting a structural claim: the state (国) is organized like a family (家), with the ruler standing in the relation of father to the people as children. This Confucian isomorphism of state and family is one of the most durable ideas in Chinese political culture. It persists in the phrase 国家 itself , a reminder encoded in the word that polity and family were the same kind of thing, differing only in scale.</p>
     </div>
 
     <!-- SECTION: Family and State -->
@@ -88,7 +88,7 @@ content_review: 'pending'
     </div>
 
     <div class="scholar" data-glyph="家">
-      <div class="scholar-label">The Great Learning's ladder — from self to family to state to world</div>
+      <div class="scholar-label">The Great Learning's ladder , from self to family to state to world</div>
       <p>The most systematic statement of the family-state isomorphism is in the <em>Great Learning</em> (大学 Dàxué), a chapter of the <em>Book of Rites</em> later elevated to one of the Four Books by Zhu Xi in the Song dynasty. The text lays out a hierarchy of moral-political cultivation: 修身 xiū shēn (cultivate the self) → 齐家 qí jiā (regulate the family) → 治国 zhì guó (govern the state) → 平天下 píng tiānxià (bring peace to all under heaven). The phrase 修齐治平 (xiū qí zhì píng) compresses this sequence into four characters that every educated Chinese person recognizes.</p>
       <p>The logic is that the moral skills required at each level are the same, only scaled. A person who cannot govern their own desires cannot govern a family; a person who cannot govern a family cannot govern a state. The pathway is not institutional but personal: political capacity is a consequence of moral cultivation, not a separate professional training. This model shaped how Chinese thinkers justified bureaucratic examination (the official who has cultivated himself is fit to govern), how they critiqued emperors (whose family relations revealed their fitness to rule), and how they evaluated political failures (as moral failures of the ruler's person).</p>
       <p>The isomorphism was not universally accepted. Legalist thinkers like Hán Fēizǐ explicitly rejected the family model of governance, arguing that family affection makes rulers partial and corrupt, and that effective government required impartial law. But the Confucian family-state remained dominant in Chinese political discourse for two millennia, and traces of it survive in the paternalistic register of Chinese political language today.</p>
@@ -107,7 +107,7 @@ content_review: 'pending'
       <div class="card c-red">
         <div class="card-head"><span class="card-cn">爱国</span><span class="card-py">àiguó</span><span class="card-en">patriotism; to love one's country</span></div>
         <div class="tags"><span class="tag tag-v">V 动词</span><span class="tag tag-n">N</span></div>
-        <div class="card-def">爱 (love) + 国 (country). Love of the nation-state: both the feeling and the political stance. 爱国主义 (àiguózhǔyì, patriotism as an ideology) is a core element of Chinese civic education. 爱国爱家 (love country love family) pairs the two institutions from 国家 — loyalty flows from the household outward to the state.</div>
+        <div class="card-def">爱 (love) + 国 (country). Love of the nation-state: both the feeling and the political stance. 爱国主义 (àiguózhǔyì, patriotism as an ideology) is a core element of Chinese civic education. 爱国爱家 (love country love family) pairs the two institutions from 国家 , loyalty flows from the household outward to the state.</div>
         <div class="examples">
           <div class="example"><div class="ex-cn">爱国是每个公民的责任。</div><div class="ex-py">Àiguó shì měi gè gōngmín de zérèn.</div><div class="ex-en">Patriotism is every citizen's responsibility.</div></div>
         </div>
@@ -116,7 +116,7 @@ content_review: 'pending'
       <div class="card c-ochre">
         <div class="card-head"><span class="card-cn">国情</span><span class="card-py">guóqíng</span><span class="card-en">national conditions; the state of the nation</span></div>
         <div class="tags"><span class="tag tag-n">N 名词</span></div>
-        <div class="card-def">国 (country) + 情 (conditions, circumstances, feelings). The specific circumstances of a given country — its history, population, resources, culture, and current state. 中国国情 (China's national conditions) is the standard phrase used to explain why policies or institutions that work elsewhere are not appropriate for China. 符合国情 (in accordance with national conditions) is a key phrase in policy justification.</div>
+        <div class="card-def">国 (country) + 情 (conditions, circumstances, feelings). The specific circumstances of a given country , its history, population, resources, culture, and current state. 中国国情 (China's national conditions) is the standard phrase used to explain why policies or institutions that work elsewhere are not appropriate for China. 符合国情 (in accordance with national conditions) is a key phrase in policy justification.</div>
         <div class="examples">
           <div class="example"><div class="ex-cn">政策要符合中国国情，不能照搬外国模式。</div><div class="ex-py">Zhèngcè yào fúhé Zhōngguó guóqíng, bù néng zhào bān wàiguó móshì.</div><div class="ex-en">Policy must fit China's national conditions; foreign models can't simply be copied.</div></div>
         </div>

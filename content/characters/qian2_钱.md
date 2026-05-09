@@ -68,8 +68,8 @@ content_sources:
 
     <div class="scholar" data-glyph="錢">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
-      <p><strong>钱 = 钅 jīn</strong> (metal — the simplified form of 金, gold/metal) <strong>+ 戋 jiān</strong> (thin, small — two spears or cutting blades stacked, suggesting thinness). Originally referred to a small metal spade or hoe — an early agricultural tool used as currency before coinage. The connection: small metal implements were among China's first mediums of exchange before round coins with square holes became standard in the Qin dynasty.</p>
-      <p>The traditional form 錢 uses 金 (gold/metal) fully — the wealth radical is more visible. The simplified 钅 is a shorthand for the same radical across all metal-related characters (铁 iron, 银 silver, 铜 copper, 钢 steel). 钱 sits in a rich semantic family: all things metallic and monetary.</p>
+      <p><strong>钱 = 钅 jīn</strong> (metal , the simplified form of 金, gold/metal) <strong>+ 戋 jiān</strong> (thin, small , two spears or cutting blades stacked, suggesting thinness). Originally referred to a small metal spade or hoe , an early agricultural tool used as currency before coinage. The connection: small metal implements were among China's first mediums of exchange before round coins with square holes became standard in the Qin dynasty.</p>
+      <p>The traditional form 錢 uses 金 (gold/metal) fully , the wealth radical is more visible. The simplified 钅 is a shorthand for the same radical across all metal-related characters (铁 iron, 银 silver, 铜 copper, 钢 steel). 钱 sits in a rich semantic family: all things metallic and monetary.</p>
     </div>
 
     <span class="section-anchor" id="culture"></span>
@@ -77,8 +77,8 @@ content_sources:
 
     <div class="scholar" data-glyph="钱">
       <div class="scholar-label">文化洞见 wénhuà dòngjiàn · Cultural Insight</div>
-      <p>In Chinese culture, money and its display operate differently than in many Western contexts. <strong>有钱 yǒu qián</strong> (to have money, to be wealthy) is a simple descriptor, not a boast — openly asking what someone earns (你一个月赚多少钱？) is common small talk among acquaintances. Discussing money is not taboo; it signals practical interest and care.</p>
-      <p>At the same time, money is deeply tied to <strong>面子 miànzi</strong> (face): paying the bill for a group (抢着买单 qiǎng zhe mǎidān — rushing to pay) is a public demonstration of generosity and status. Red envelopes (红包 hóngbāo) — cash gifts for New Year, weddings, and births — are among the most important social rituals. Digital red envelopes through WeChat transformed this tradition into one of the most-used features in Chinese tech.</p>
+      <p>In Chinese culture, money and its display operate differently than in many Western contexts. <strong>有钱 yǒu qián</strong> (to have money, to be wealthy) is a simple descriptor, not a boast , openly asking what someone earns (你一个月赚多少钱？) is common small talk among acquaintances. Discussing money is not taboo; it signals practical interest and care.</p>
+      <p>At the same time, money is deeply tied to <strong>面子 miànzi</strong> (face): paying the bill for a group (抢着买单 qiǎng zhe mǎidān , rushing to pay) is a public demonstration of generosity and status. Red envelopes (红包 hóngbāo) , cash gifts for New Year, weddings, and births , are among the most important social rituals. Digital red envelopes through WeChat transformed this tradition into one of the most-used features in Chinese tech.</p>
     </div>
 
     <span class="section-anchor" id="compounds"></span>

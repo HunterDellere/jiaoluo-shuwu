@@ -102,7 +102,7 @@ content_review: 'pending'
 
     <div class="scholar" data-glyph="去">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
-      <p>The oracle bone and bronze inscription forms of 去 show a person (大 dà, a figure with outstretched arms) departing from an enclosed space or container (口 kǒu, an opening or hole). The upper part is a person; the lower part is the space being left behind. The character encodes the moment of departure: a person moving out of a contained space. From its earliest use, 去 carries both senses that remain today — to leave a specific place, and to go toward a destination.</p>
+      <p>The oracle bone and bronze inscription forms of 去 show a person (大 dà, a figure with outstretched arms) departing from an enclosed space or container (口 kǒu, an opening or hole). The upper part is a person; the lower part is the space being left behind. The character encodes the moment of departure: a person moving out of a contained space. From its earliest use, 去 carries both senses that remain today , to leave a specific place, and to go toward a destination.</p>
       <p>The modern decomposition 土 (earth/soil) + 厶 (a private mark or enclosure) reflects later scribal regularization rather than the original pictographic intent. The Shuōwén Jiězì classifies 去 under its own radical group and defines it as "to part from; to leave." The contrast with 来 lái was built into the grammar from the classical period: 来 = toward here; 去 = away from here. The two verbs are grammatically opposed and semantically inseparable.</p>
       <p>In traditional Chinese phonology, 去声 qùshēng (the departing tone) was named after this character. The fourth tone in Mandarin inherits that name because tone 4, falling sharply downward in pitch, was felt to move away from the baseline. 去 lends its name to the very tonal system that governs its pronunciation.</p>
     </div>
@@ -136,18 +136,18 @@ content_review: 'pending'
         </div>
         <div class="tags"><span class="tag tag-v">V 动词短语 dòngcí duǎnyǔ</span></div>
         <div class="card-def">
-          去 qù (to go; to depart) + 吧 ba (softening particle, suggestion or permission). A gentle dismissal or permission to leave. In a parent-child conversation: 去吧，好好玩 (Go on — have fun). In a formal context: 你去吧，我在这等 (Go ahead — I'll wait here). The 吧 removes any command edge; the speaker is releasing the other person to go.
+          去 qù (to go; to depart) + 吧 ba (softening particle, suggestion or permission). A gentle dismissal or permission to leave. In a parent-child conversation: 去吧，好好玩 (Go on , have fun). In a formal context: 你去吧，我在这等 (Go ahead , I'll wait here). The 吧 removes any command edge; the speaker is releasing the other person to go.
         </div>
         <div class="examples">
           <div class="example">
             <div class="ex-cn">去吧，别让他们等。</div>
             <div class="ex-py">Qù ba, bié ràng tāmen děng.</div>
-            <div class="ex-en">Go ahead — don't keep them waiting.</div>
+            <div class="ex-en">Go ahead , don't keep them waiting.</div>
           </div>
           <div class="example">
             <div class="ex-cn">你去吧，我自己处理。</div>
             <div class="ex-py">Nǐ qù ba, wǒ zìjǐ chǔlǐ.</div>
-            <div class="ex-en">You go — I'll handle it myself.</div>
+            <div class="ex-en">You go , I'll handle it myself.</div>
           </div>
         </div>
       </div>
@@ -160,13 +160,13 @@ content_review: 'pending'
         </div>
         <div class="tags"><span class="tag tag-v">V 动词 dòngcí</span></div>
         <div class="card-def">
-          出 chū (to exit; to emerge) + 去 qù (away from here). To exit and move away from the speaker's reference point. Contrast: 出来 chūlái (to come out — exiting toward where the speaker is). 出去 is used by someone inside sending someone outside, or by someone outside talking about leaving an enclosed space. 出去一下 = step out for a moment.
+          出 chū (to exit; to emerge) + 去 qù (away from here). To exit and move away from the speaker's reference point. Contrast: 出来 chūlái (to come out , exiting toward where the speaker is). 出去 is used by someone inside sending someone outside, or by someone outside talking about leaving an enclosed space. 出去一下 = step out for a moment.
         </div>
         <div class="examples">
           <div class="example">
             <div class="ex-cn">外面天气很好，出去走走吧。</div>
             <div class="ex-py">Wàimiàn tiānqì hěn hǎo, chūqù zǒuzou ba.</div>
-            <div class="ex-en">The weather outside is nice — let's go out for a walk.</div>
+            <div class="ex-en">The weather outside is nice , let's go out for a walk.</div>
           </div>
           <div class="example">
             <div class="ex-cn">他出去了，还没回来。</div>
@@ -184,7 +184,7 @@ content_review: 'pending'
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          去 qù (to have gone; to have departed) + 年 nián (year). The year that has departed — last year. A vivid temporal use: the year that went away. Contrast: 来年 láinián (the year that is coming — next year; somewhat literary) and 今年 jīnnián (this year). 去年 is entirely standard and appears in all registers.
+          去 qù (to have gone; to have departed) + 年 nián (year). The year that has departed , last year. A vivid temporal use: the year that went away. Contrast: 来年 láinián (the year that is coming , next year; somewhat literary) and 今年 jīnnián (this year). 去年 is entirely standard and appears in all registers.
         </div>
         <div class="examples">
           <div class="example">
@@ -227,7 +227,7 @@ content_review: 'pending'
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 / V 动词 dòngcí</span></div>
         <div class="card-def">
-          过 guò (to pass; to cross; to go beyond) + 去 qù (away). As a noun: the past — what has passed away from the present. As a verb: to go over to (move across and away to a location). Both meanings share the same root image: time or a person crossing and moving beyond the current point.
+          过 guò (to pass; to cross; to go beyond) + 去 qù (away). As a noun: the past , what has passed away from the present. As a verb: to go over to (move across and away to a location). Both meanings share the same root image: time or a person crossing and moving beyond the current point.
         </div>
         <div class="examples">
           <div class="example">
@@ -256,7 +256,7 @@ content_review: 'pending'
         </div>
         <div class="tags"><span class="tag tag-v">V 动词 dòngcí</span></div>
         <div class="card-def">
-          去 qù (to depart; to leave) + 世 shì (the world; this age; this life). To depart from the world — the standard respectful expression for the death of an adult. Not used for children or animals, and not used for enemies or condemned criminals (for those, more neutral or harsher terms apply). 去世 is the default in formal language, journalism, and conversation.
+          去 qù (to depart; to leave) + 世 shì (the world; this age; this life). To depart from the world , the standard respectful expression for the death of an adult. Not used for children or animals, and not used for enemies or condemned criminals (for those, more neutral or harsher terms apply). 去世 is the default in formal language, journalism, and conversation.
         </div>
         <div class="examples">
           <div class="example">
@@ -272,7 +272,7 @@ content_review: 'pending'
         </div>
         <div class="note">
           <span class="note-label">辨析 biànxī · Death Vocabulary</span>
-          去世 (respectful, standard adults) · 过世 guòshì (slightly more literary equivalent) · 逝世 shìshì (formal; for significant public figures) · 离世 lí shì (to leave the world — literary) · 死 sǐ (to die — blunt, clinical; also used for animals; sometimes used pejoratively). The choice of euphemism signals the speaker's relationship to the deceased and the formality of the context.
+          去世 (respectful, standard adults) · 过世 guòshì (slightly more literary equivalent) · 逝世 shìshì (formal; for significant public figures) · 离世 lí shì (to leave the world , literary) · 死 sǐ (to die , blunt, clinical; also used for animals; sometimes used pejoratively). The choice of euphemism signals the speaker's relationship to the deceased and the formality of the context.
         </div>
       </div>
 
@@ -284,7 +284,7 @@ content_review: 'pending'
         </div>
         <div class="tags"><span class="tag tag-v">V 动词 dòngcí</span></div>
         <div class="card-def">
-          离 lí (to separate from; to leave; distance) + 去 qù (to go away). To separate and go — departure with a sense of severance. More emphatic and often more final than 走 alone. Used for leaving a job, a relationship, a city, or a life. 她悄悄地离去了 (She quietly departed) — the 去 carries the irreversibility.
+          离 lí (to separate from; to leave; distance) + 去 qù (to go away). To separate and go , departure with a sense of severance. More emphatic and often more final than 走 alone. Used for leaving a job, a relationship, a city, or a life. 她悄悄地离去了 (She quietly departed) , the 去 carries the irreversibility.
         </div>
         <div class="examples">
           <div class="example">
@@ -321,7 +321,7 @@ content_review: 'pending'
         </div>
         <div class="tags"><span class="tag tag-v">V 动词 dòngcí</span></div>
         <div class="card-def">
-          去 qù (to send away; to remove) + 除 chú (to eliminate; to remove; to divide out). To cause something to go away — to strip out an unwanted element. Used in formal and technical contexts: 去除污染 (remove contamination), 去除杂质 (remove impurities), 去除顾虑 (dispel concerns). The 去 here is causative: you make it go.
+          去 qù (to send away; to remove) + 除 chú (to eliminate; to remove; to divide out). To cause something to go away , to strip out an unwanted element. Used in formal and technical contexts: 去除污染 (remove contamination), 去除杂质 (remove impurities), 去除顾虑 (dispel concerns). The 去 here is causative: you make it go.
         </div>
         <div class="examples">
           <div class="example">
@@ -345,7 +345,7 @@ content_review: 'pending'
         </div>
         <div class="tags"><span class="tag tag-v">V 动词 dòngcí</span></div>
         <div class="card-def">
-          失 shī (to lose; to miss; to fail) + 去 qù (to go away). Something that was yours has gone away — loss. 失去 covers losing people (失去亲人 — lose a loved one), opportunities (失去机会), abilities (失去记忆 — lose one's memory), and qualities (失去耐心 — lose patience). A highly emotive verb.
+          失 shī (to lose; to miss; to fail) + 去 qù (to go away). Something that was yours has gone away , loss. 失去 covers losing people (失去亲人 , lose a loved one), opportunities (失去机会), abilities (失去记忆 , lose one's memory), and qualities (失去耐心 , lose patience). A highly emotive verb.
         </div>
         <div class="examples">
           <div class="example">

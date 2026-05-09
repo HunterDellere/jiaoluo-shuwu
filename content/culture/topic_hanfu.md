@@ -75,7 +75,7 @@ pinyin: 'Hànfú'
       <div class="scholar-label">形制特征 xíngzhì tèzhēng · Structural Features</div>
       <p>汉服 hànfú (literally "Han clothing") refers to the traditional dress system of the Han Chinese ethnic majority as it developed from the Zhou dynasty through the end of the Ming dynasty. The term is specific: it does not mean all historical Chinese clothing (which includes Mongolian, Manchu, Tibetan, and dozens of other traditions), nor does it mean the cheongsam 旗袍 qípáo or the Mandarin jacket 唐装 tángzhuāng, both of which derive from Qing dynasty Manchu dress. It refers to a particular family of garment forms characterized by a set of structural principles that remained consistent across two thousand years of variation.</p>
       <p>The defining structural feature of hànfú is the 交领右衽 jiāolǐng yòurèn, the cross-collar wrapping right-over-left. The right side of the collar crosses over to the left, creating a diagonal neckline. This is the opposite of the Korean hanbok's and Japanese kimono's standard construction; it is also the opposite of the left-over-right wrapping that in Chinese tradition was reserved for the shrouding of the dead. This asymmetric wrap is both functional and symbolic, so fundamental that its presence or absence is one of the primary tests for whether a garment counts as hànfú.</p>
-      <p>The second defining feature is 宽袍大袖 kuānpáo dàxiù, wide robes and broad sleeves. Hànfú garments are characteristically loose and flowing, with sleeves that can be very wide (especially in formal court dress), allowing movement without constraint. The visual silhouette is one of fabric in motion: pleated skirts 裙 qún that swing, sleeves that trail. This aesthetic of generous fabric is part of the clothing's ceremonial character — it signals that the wearer need not perform physical labor.</p>
+      <p>The second defining feature is 宽袍大袖 kuānpáo dàxiù, wide robes and broad sleeves. Hànfú garments are characteristically loose and flowing, with sleeves that can be very wide (especially in formal court dress), allowing movement without constraint. The visual silhouette is one of fabric in motion: pleated skirts 裙 qún that swing, sleeves that trail. This aesthetic of generous fabric is part of the clothing's ceremonial character , it signals that the wearer need not perform physical labor.</p>
       <p>The garment system can be divided into three structural categories. The first is 上下制 (shàngxià zhì): upper and lower garments worn separately, the basic structure of everyday wear from Zhou times onward. The second is 深衣制 (shēnyī zhì): the "deep robe" in which upper and lower parts are cut separately but sewn together as one continuous garment, associated with scholars and ritual occasions. The third is 通裁制 (tōngcái zhì): a one-piece cut garment, less common but present in certain court and religious contexts. Within these three structural types, literally hundreds of specific garment forms developed across dynasties, each with its own name, occasion of use, and social significance.</p>
     </div>
 
@@ -92,7 +92,7 @@ pinyin: 'Hànfú'
       <span class="label">汉服历史时间轴 hànfú lìshǐ shíjiānzhóu · Historical Timeline</span>
       <strong>周朝 Zhōu (1046–256 BCE)</strong> → Establishment of the foundational garment system; the 冕服 miǎnfú (crown-and-robe system) codifies ritual dress hierarchy; 礼记 Records of Ritual prescribes dress for each occasion and rank<br>
       <strong>汉朝 Hàn (206 BCE–220 CE)</strong> → Consolidation and codification; the term 汉服 originates here as a cultural identifier; the 深衣 shēnyī (deep robe) becomes the Confucian scholar's standard garment; Central Asian contact brings new textiles and some foreign elements<br>
-      <strong>唐朝 Táng (618–907 CE)</strong> → Golden age of textile production; the 齐胸襦裙 qíxiōng rújūn (chest-high skirt dress) worn by Tang women — now among the most recognized hànfú silhouettes — allows the shift to display over the chest, reflecting Tang cosmopolitanism and confidence; foreign influences absorbed without displacing the core structure<br>
+      <strong>唐朝 Táng (618–907 CE)</strong> → Golden age of textile production; the 齐胸襦裙 qíxiōng rújūn (chest-high skirt dress) worn by Tang women , now among the most recognized hànfú silhouettes , allows the shift to display over the chest, reflecting Tang cosmopolitanism and confidence; foreign influences absorbed without displacing the core structure<br>
       <strong>宋朝 Sòng (960–1279 CE)</strong> → More restrained aesthetic; the Neo-Confucian revival emphasizes decorum; the 褙子 bèizi (a long, open-sided outer robe) popular among both men and women; literary and scholarly culture's influence on fashion at its height<br>
       <strong>明朝 Míng (1368–1644 CE)</strong> → The last dynasty to rule under traditional hànfú conventions; considerable codification of court dress; the 汉服运动 today looks primarily to Ming-era reconstructions as models because Ming is the latest fully documented period before the Qing rupture
     </div>
@@ -146,14 +146,14 @@ pinyin: 'Hànfú'
         <span class="card-py">jiāolǐng yòurèn</span>
         <span class="card-en">cross-collar wrapping right-over-left — the defining feature of hànfú</span>
         <span class="tag-n">n.</span>
-        <p>The structural signature that identifies a garment as hànfú: the right collar crossing over the left at the front. This asymmetric wrap is ancient and consistent across all dynasties. Left-over-right was reserved for burial shrouds, making the distinction between right and left wrapping a matter of life and death — literally.</p>
+        <p>The structural signature that identifies a garment as hànfú: the right collar crossing over the left at the front. This asymmetric wrap is ancient and consistent across all dynasties. Left-over-right was reserved for burial shrouds, making the distinction between right and left wrapping a matter of life and death , literally.</p>
       </div>
       <div class="card c-teal">
         <span class="card-cn">深衣</span>
         <span class="card-py">shēnyī</span>
         <span class="card-en">deep robe — the scholar's garment</span>
         <span class="tag-n">n.</span>
-        <p>A garment type in which upper and lower sections are cut separately but sewn together as one continuous piece, "deeply" covering the body. Prescribed in the 礼记 as proper dress for the Confucian scholar. The name 深衣 reflects that the garment covers and conceals the body completely — no undergarments show.</p>
+        <p>A garment type in which upper and lower sections are cut separately but sewn together as one continuous piece, "deeply" covering the body. Prescribed in the 礼记 as proper dress for the Confucian scholar. The name 深衣 reflects that the garment covers and conceals the body completely , no undergarments show.</p>
       </div>
       <div class="card c-sienna">
         <span class="card-cn">旗袍</span>

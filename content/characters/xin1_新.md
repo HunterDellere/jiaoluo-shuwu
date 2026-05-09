@@ -61,9 +61,9 @@ content_review: 'pending'
 
     <div class="scholar" data-glyph="新">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
-      <p>新 is composed of 亲 (qīn, phonetic component — close, kin; here providing the sound) on the left and 斤 (jīn, axe; also a unit of weight) on the right. The analysis from reference data confirms: "a freshly chopped 斤 tree 亲" — the image is of freshly felled wood, the cut still new and white, not yet weathered or aged. In early Chinese material culture, freshly cut timber had a distinctive pallor and smell that made "new" and "freshly chopped" effectively synonymous. The character encodes newness as a physical sensory state: not merely recently made, but visibly, olfactorily fresh.</p>
-      <p>The 斤 (axe) radical ties 新 to a small family of construction and cutting characters: 近 jìn (near — axe + 乙, where the cut makes something accessible), 析 xī (to split, to analyze — wood + axe). In the case of 新, the axe makes something new by cutting: creation through separation, freshness through severance. The new log exists because something was cut away.</p>
-      <p>In Japanese, 新 (atarashii in the native reading, shin/jin in Sino-Japanese) carries the same range with remarkable fidelity: 新幹線 (Shinkansen — new trunk line, the bullet train system) and 新年 (New Year) are direct parallels to 新干线 and 新年 in Chinese. Vietnamese tân (from 新) appears in Tân Niên (New Year), again the same compound.</p>
+      <p>新 is composed of 亲 (qīn, phonetic component , close, kin; here providing the sound) on the left and 斤 (jīn, axe; also a unit of weight) on the right. The analysis from reference data confirms: "a freshly chopped 斤 tree 亲" , the image is of freshly felled wood, the cut still new and white, not yet weathered or aged. In early Chinese material culture, freshly cut timber had a distinctive pallor and smell that made "new" and "freshly chopped" effectively synonymous. The character encodes newness as a physical sensory state: not merely recently made, but visibly, olfactorily fresh.</p>
+      <p>The 斤 (axe) radical ties 新 to a small family of construction and cutting characters: 近 jìn (near , axe + 乙, where the cut makes something accessible), 析 xī (to split, to analyze , wood + axe). In the case of 新, the axe makes something new by cutting: creation through separation, freshness through severance. The new log exists because something was cut away.</p>
+      <p>In Japanese, 新 (atarashii in the native reading, shin/jin in Sino-Japanese) carries the same range with remarkable fidelity: 新幹線 (Shinkansen , new trunk line, the bullet train system) and 新年 (New Year) are direct parallels to 新干线 and 新年 in Chinese. Vietnamese tân (from 新) appears in Tân Niên (New Year), again the same compound.</p>
     </div>
 
     <span class="section-anchor" id="compounds"></span>
@@ -73,15 +73,15 @@ content_review: 'pending'
       <div class="card c-red">
         <div class="card-head"><span class="card-cn">新年</span><span class="card-py">xīnnián</span><span class="card-en">New Year</span></div>
         <div class="tags"><span class="tag tag-n">N 名词</span></div>
-        <div class="card-def">新 (new) + 年 (year). The new year — the most basic New Year compound, usable for both the Gregorian New Year (January 1) and the Chinese Lunar New Year. 新年快乐 (Happy New Year) and 新年好 (New Year greetings) are the standard phrases. 春节 Chūnjié is the formal name for the Lunar New Year festival; 新年 is the general term.</div>
+        <div class="card-def">新 (new) + 年 (year). The new year , the most basic New Year compound, usable for both the Gregorian New Year (January 1) and the Chinese Lunar New Year. 新年快乐 (Happy New Year) and 新年好 (New Year greetings) are the standard phrases. 春节 Chūnjié is the formal name for the Lunar New Year festival; 新年 is the general term.</div>
         <div class="examples">
-          <div class="example"><div class="ex-cn">新年快乐，万事如意！</div><div class="ex-py">Xīnnián kuàilè, wànshì rúyì!</div><div class="ex-en">Happy New Year — may everything go as you wish!</div></div>
+          <div class="example"><div class="ex-cn">新年快乐，万事如意！</div><div class="ex-py">Xīnnián kuàilè, wànshì rúyì!</div><div class="ex-en">Happy New Year , may everything go as you wish!</div></div>
         </div>
       </div>
       <div class="card c-ochre">
         <div class="card-head"><span class="card-cn">新鲜</span><span class="card-py">xīnxiān</span><span class="card-en">fresh; novel; new and interesting</span></div>
         <div class="tags"><span class="tag tag-adj">Adj 形容词</span></div>
-        <div class="card-def">新 (new) + 鲜 (xiān, fresh — especially of food; vivid; rare). Fresh in the sensory sense: 新鲜蔬菜 (fresh vegetables), 新鲜空气 (fresh air). Also used for novel experiences: 对我来说这是个新鲜事物 (this is something new to me). 鲜 alone means fresh-vivid; 新鲜 combines freshness with newness.</div>
+        <div class="card-def">新 (new) + 鲜 (xiān, fresh , especially of food; vivid; rare). Fresh in the sensory sense: 新鲜蔬菜 (fresh vegetables), 新鲜空气 (fresh air). Also used for novel experiences: 对我来说这是个新鲜事物 (this is something new to me). 鲜 alone means fresh-vivid; 新鲜 combines freshness with newness.</div>
         <div class="examples">
           <div class="example"><div class="ex-cn">市场上有很多新鲜的水果和蔬菜。</div><div class="ex-py">Shìchǎng shàng yǒu hěn duō xīnxiān de shuǐguǒ hé shūcài.</div><div class="ex-en">The market has plenty of fresh fruit and vegetables.</div></div>
         </div>
@@ -89,9 +89,9 @@ content_review: 'pending'
       <div class="card c-teal">
         <div class="card-head"><span class="card-cn">新婚</span><span class="card-py">xīnhūn</span><span class="card-en">newly married; newlywed</span></div>
         <div class="tags"><span class="tag tag-adj">Adj 形容词</span></div>
-        <div class="card-def">新 (new) + 婚 (hūn, marriage). Newly married — in the fresh state of the new relationship. 新婚快乐 (congratulations on the marriage — Happy Newlywed); 新婚夫妇 (newlywed couple); 新郎 xīnláng (groom — new-man) and 新娘 xīnniáng (bride — new-woman) are the standard terms for a wedding couple.</div>
+        <div class="card-def">新 (new) + 婚 (hūn, marriage). Newly married , in the fresh state of the new relationship. 新婚快乐 (congratulations on the marriage , Happy Newlywed); 新婚夫妇 (newlywed couple); 新郎 xīnláng (groom , new-man) and 新娘 xīnniáng (bride , new-woman) are the standard terms for a wedding couple.</div>
         <div class="examples">
-          <div class="example"><div class="ex-cn">祝你们新婚快乐，白头偕老！</div><div class="ex-py">Zhù nǐmen xīnhūn kuàilè, báitóu xiélǎo!</div><div class="ex-en">Congratulations on your marriage — may you grow old together!</div></div>
+          <div class="example"><div class="ex-cn">祝你们新婚快乐，白头偕老！</div><div class="ex-py">Zhù nǐmen xīnhūn kuàilè, báitóu xiélǎo!</div><div class="ex-en">Congratulations on your marriage , may you grow old together!</div></div>
         </div>
       </div>
       <div class="card c-violet">
@@ -108,9 +108,9 @@ content_review: 'pending'
     <div class="section-head"><span class="sh-cn">创新</span><span class="sh-py">chuàngxīn</span><span class="sh-en">Innovation — 新 in Technology and Policy</span><span class="sh-rule"></span></div>
 
     <div class="scholar" data-glyph="创">
-      <div class="scholar-label">创新 — making new things vs. 推陈出新 — renewing from within tradition</div>
-      <p>创新 chuàngxīn (innovation — 创 to create + 新 new) is one of the most-used policy terms in contemporary China. It appears in every Five-Year Plan, in 科技创新 (technological innovation), 制度创新 (institutional innovation), and 文化创新 (cultural innovation). The current framework of 创新型国家 (innovation-driven country) positions 创新 as China's primary economic transition strategy, away from low-cost manufacturing toward high-value technology creation.</p>
-      <p>The classical Chinese attitude toward novelty was more nuanced. 推陈出新 (tuī chén chū xīn, "push out the stale, bring forth the new") — a phrase attributed in various forms to Mao Zedong and used in cultural policy — frames innovation as renewal from within inherited tradition: you push out what has become stale in the old, and from that sifting emerges the genuinely new. This is different from 从零开始 (starting from zero): 推陈出新 assumes there is valuable material in the old that the new must build on, not discard.</p>
+      <div class="scholar-label">创新 , making new things vs. 推陈出新 , renewing from within tradition</div>
+      <p>创新 chuàngxīn (innovation , 创 to create + 新 new) is one of the most-used policy terms in contemporary China. It appears in every Five-Year Plan, in 科技创新 (technological innovation), 制度创新 (institutional innovation), and 文化创新 (cultural innovation). The current framework of 创新型国家 (innovation-driven country) positions 创新 as China's primary economic transition strategy, away from low-cost manufacturing toward high-value technology creation.</p>
+      <p>The classical Chinese attitude toward novelty was more nuanced. 推陈出新 (tuī chén chū xīn, "push out the stale, bring forth the new") , a phrase attributed in various forms to Mao Zedong and used in cultural policy , frames innovation as renewal from within inherited tradition: you push out what has become stale in the old, and from that sifting emerges the genuinely new. This is different from 从零开始 (starting from zero): 推陈出新 assumes there is valuable material in the old that the new must build on, not discard.</p>
     </div>
 
     <span class="section-anchor" id="chengyu"></span>
@@ -121,7 +121,7 @@ content_review: 'pending'
         <span class="cy-cn">推陈出新</span>
         <span class="cy-py">tuī chén chū xīn</span>
         <span class="cy-en">"push out the stale, bring forth the new" — renew from within tradition</span>
-        <span class="cy-note">推 (to push out) + 陈 (stale, old — the grain that has sat too long) + 出 (to emerge) + 新 (new). A grain metaphor: old grain pushed out makes room for fresh grain. Used in cultural policy, artistic criticism, and educational discourse to describe the correct relationship between tradition and innovation — not destruction and replacement, but renewal through selective retention. The Maoist-era phrase 取其精华，去其糟粕 ("take the essence, discard the dregs") is a close companion.</span>
+        <span class="cy-note">推 (to push out) + 陈 (stale, old , the grain that has sat too long) + 出 (to emerge) + 新 (new). A grain metaphor: old grain pushed out makes room for fresh grain. Used in cultural policy, artistic criticism, and educational discourse to describe the correct relationship between tradition and innovation , not destruction and replacement, but renewal through selective retention. The Maoist-era phrase 取其精华，去其糟粕 ("take the essence, discard the dregs") is a close companion.</span>
       </div>
       <div class="cy">
         <span class="cy-cn">焕然一新</span>

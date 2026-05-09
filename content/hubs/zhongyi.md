@@ -127,7 +127,7 @@ stages:
       <span class="topic-hero-eyebrow">Hubs · 门户 ménhù</span>
       <h1 class="topic-hero-title">中医</h1>
       <span class="topic-hero-title-py">zhōng yī</span>
-      <p class="topic-hero-desc">A complete theoretical system developed over 2,500 years — its own anatomy, physiology, diagnosis, and pharmacology, all grounded in the same cosmological principles that govern the universe. This path starts with foundational theory and builds toward practice.</p>
+      <p class="topic-hero-desc">A complete theoretical system developed over 2,500 years , its own anatomy, physiology, diagnosis, and pharmacology, all grounded in the same cosmological principles that govern the universe. This path starts with foundational theory and builds toward practice.</p>
     </header>
 
     <span class="section-anchor" id="overview"></span>
@@ -144,7 +144,7 @@ stages:
     <span class="section-anchor" id="questions"></span>
     <div class="section-head"><h2>Open Questions</h2></div>
     <div class="pattern">
-      <span class="label">问题 · wèntí — questions this hub leaves open</span>
+      <span class="label">问题 · wèntí , questions this hub leaves open</span>
       <p><strong>Does qi exist?</strong> The honest answer is: not as a physical substance that instruments can detect. But the functional concept (that the body has regulatory systems whose disruption manifests as illness before structural damage occurs) maps imperfectly onto what Western medicine now calls homeostatic regulatory networks, autonomic function, and the gut-brain axis. The question of whether qi is a pre-scientific description of real phenomena, a metaphor that guides effective clinical reasoning, or something else entirely, is genuinely open.</p>
       <p><strong>What is the status of acupuncture?</strong> The evidence base for acupuncture is contested in a specific way: large controlled trials consistently show effects greater than no-treatment, but the effects are frequently not larger than sham acupuncture (needling at non-acupoint locations). This suggests either that the meridian theory is wrong but needling itself has physiological effects, or that the acupoint/non-acupoint distinction is more nuanced than the trials capture.</p>
       <p><strong>Is TCM a unified system or a family of traditions?</strong> The term 中医 was only standardised and unified in the twentieth century, partly as a political project. Classical Chinese medicine encompasses many regional traditions, lineage-based schools, and competing theoretical frameworks. What is now taught in TCM universities is a systematised, standardised version that differs in important ways from classical or folk practice.</p>

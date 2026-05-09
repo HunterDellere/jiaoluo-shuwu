@@ -84,8 +84,8 @@ pinyin: 'shēng dàn jìng mò chǒu'
 
     <span class="section-anchor" id="sheng"></span>
     <div class="section-head">
-      <span class="sh-cn">生 — 男性正面角色</span>
-      <span class="sh-py">shēng — nánxìng zhèngmiàn juésè</span>
+      <span class="sh-cn">生 , 男性正面角色</span>
+      <span class="sh-py">shēng , nánxìng zhèngmiàn juésè</span>
       <span class="sh-en">Sheng -- The Positive Male Roles</span>
       <span class="sh-rule"></span>
     </div>
@@ -100,7 +100,7 @@ pinyin: 'shēng dàn jìng mò chǒu'
 
     <span class="section-anchor" id="dan"></span>
     <div class="section-head">
-      <span class="sh-cn">旦 — 女性角色</span>
+      <span class="sh-cn">旦 , 女性角色</span>
       <span class="sh-py">dàn — nǚxìng juésè</span>
       <span class="sh-en">Dan -- The Female Roles</span>
       <span class="sh-rule"></span>

@@ -95,9 +95,9 @@ content_sources:
 
     <div class="scholar" data-glyph="走">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
-      <p><strong>走 zǒu</strong> is a compound pictograph: the upper portion shows a person with arms moving (originally a running figure); the bottom is 止 zhǐ (foot; to stop — a pictograph of a foot/footprint). Together: a person in motion, feet moving forward. The oracle-bone and bronze forms clearly show a dynamic figure — unlike the more static 人 rén or 大 dà.</p>
+      <p><strong>走 zǒu</strong> is a compound pictograph: the upper portion shows a person with arms moving (originally a running figure); the bottom is 止 zhǐ (foot; to stop , a pictograph of a foot/footprint). Together: a person in motion, feet moving forward. The oracle-bone and bronze forms clearly show a dynamic figure , unlike the more static 人 rén or 大 dà.</p>
       <p>走 as a radical (走字旁) generates characters for various kinds of movement and departure: 赶 gǎn (to hurry; to drive), 趋 qū (to hasten toward; to tend to), 超 chāo (to exceed; to surpass), 起 qǐ (to rise; to start). The unifying semantic is purposeful forward motion.</p>
-      <p>走 is one of the three primary movement verbs in Mandarin — alongside 去 qù (to go — to a destination) and 来 lái (to come — toward the speaker). 走 emphasizes the action of moving itself (especially on foot), while 去 emphasizes the destination and 来 emphasizes the direction. 走 also specifically means "to leave, to depart" — 他走了 "He has left/gone." The distinction between 走 (leaving) and 去 (going to a destination) is an important one for learners.</p>
+      <p>走 is one of the three primary movement verbs in Mandarin , alongside 去 qù (to go , to a destination) and 来 lái (to come , toward the speaker). 走 emphasizes the action of moving itself (especially on foot), while 去 emphasizes the destination and 来 emphasizes the direction. 走 also specifically means "to leave, to depart" , 他走了 "He has left/gone." The distinction between 走 (leaving) and 去 (going to a destination) is an important one for learners.</p>
     </div>
 
     <span class="section-anchor" id="movement"></span>
@@ -111,7 +111,7 @@ content_sources:
     <div class="pattern">
       <span class="label">走的用法 zǒu de yòngfǎ · When to Use 走</span>
       <strong>走路</strong> = to walk (on foot; the action itself)<br>
-      <strong>走了</strong> = has left; has gone (departure — the person is no longer here)<br>
+      <strong>走了</strong> = has left; has gone (departure , the person is no longer here)<br>
       <strong>走吧</strong> = let's go (invitation to depart/move)<br>
       <strong>怎么走？</strong> = How do I get there? / Which way do I go? (asking for directions)<br>
       <strong>一起走</strong> = let's go together (movement as shared action)
@@ -127,7 +127,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-v">V 动词 dòngcí</span></div>
         <div class="card-def">
-          走 zǒu (to walk/go) + 路 lù (road; path). To walk — the action of foot-travel. 走路去 = to walk there (contrast: 开车去 to drive, 坐地铁去 to take the subway). Also used metaphorically: 走上了一条不归路 "walked a road of no return" · 走对了路 "took the right path (in life)." 请走路 = "please use the footpath" (on signs).
+          走 zǒu (to walk/go) + 路 lù (road; path). To walk , the action of foot-travel. 走路去 = to walk there (contrast: 开车去 to drive, 坐地铁去 to take the subway). Also used metaphorically: 走上了一条不归路 "walked a road of no return" · 走对了路 "took the right path (in life)." 请走路 = "please use the footpath" (on signs).
         </div>
         <div class="examples">
           <div class="example">
@@ -146,7 +146,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-v">V Phrase 动词短语</span></div>
         <div class="card-def">
-          怎么 zěnme (how; what way) + 走 zǒu (to go). The standard question for asking directions — "How do I get to X?" Response patterns: 一直走 yīzhí zǒu (go straight), 左转 zuǒzhuǎn (turn left), 右转 yòuzhuǎn (turn right), 过了红绿灯 guò le hónglǜdēng (past the traffic light). 往哪边走？= which direction to go?
+          怎么 zěnme (how; what way) + 走 zǒu (to go). The standard question for asking directions , "How do I get to X?" Response patterns: 一直走 yīzhí zǒu (go straight), 左转 zuǒzhuǎn (turn left), 右转 yòuzhuǎn (turn right), 过了红绿灯 guò le hónglǜdēng (past the traffic light). 往哪边走？= which direction to go?
         </div>
         <div class="examples">
           <div class="example">

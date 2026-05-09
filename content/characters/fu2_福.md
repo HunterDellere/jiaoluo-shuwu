@@ -31,8 +31,8 @@ content_sources:
     <span class="toc-label">On this page</span>
     <ul class="toc-list">
       <li><a href="#etymology"><span class="toc-cn">字源</span> Etymology<span class="toc-sub">divine altar + wine jar</span></a></li>
-      <li><a href="#wufu"><span class="toc-cn">五福</span> The Five Blessings<span class="toc-sub">wǔfú — the complete life</span></a></li>
-      <li><a href="#inverted"><span class="toc-cn">倒福</span> The Inverted 福<span class="toc-sub">福到了 — blessing has arrived</span></a></li>
+      <li><a href="#wufu"><span class="toc-cn">五福</span> The Five Blessings<span class="toc-sub">wǔfú , the complete life</span></a></li>
+      <li><a href="#inverted"><span class="toc-cn">倒福</span> The Inverted 福<span class="toc-sub">福到了 , blessing has arrived</span></a></li>
       <li><a href="#compounds"><span class="toc-cn">构词</span> Key Compounds<span class="toc-sub">幸福 · 祝福 · 福气</span></a></li>
       <li><a href="#chengyu"><span class="toc-cn">成语</span> Idioms<span class="toc-sub">chéngyǔ · set phrases</span></a></li>
       <li><a href="#adjacent"><span class="toc-cn">相邻</span> Adjacent Vocab<span class="toc-sub">xiānglín cíhuì</span></a></li>
@@ -69,7 +69,7 @@ content_sources:
 
     <div class="scholar" data-glyph="福">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
-      <p><strong>福 = 示 shì</strong> (the divine altar radical — a table for offerings, visible from heaven) <strong>+ 畐 fú</strong> (a wine jar full to the brim — abundance, fullness). The original meaning: abundant offerings on the altar, the fullness that comes from divine favor. 福 is blessing as material and spiritual abundance recognized and granted from above.</p>
+      <p><strong>福 = 示 shì</strong> (the divine altar radical , a table for offerings, visible from heaven) <strong>+ 畐 fú</strong> (a wine jar full to the brim , abundance, fullness). The original meaning: abundant offerings on the altar, the fullness that comes from divine favor. 福 is blessing as material and spiritual abundance recognized and granted from above.</p>
       <p>The 示 radical appears across the divine-ritual character family: 祖 zǔ (ancestor), 神 shén (god/spirit), 祈 qí (to pray), 礼 lǐ (ritual/courtesy), 祝 zhù (to bless/wish). All connect back to the altar, Chinese culture's original site of contact with the sacred. 福 is what the altar produces when the offering is accepted.</p>
     </div>
 
@@ -78,8 +78,8 @@ content_sources:
 
     <div class="scholar" data-glyph="福">
       <div class="scholar-label">五福 wǔfú · The Five Blessings from the Book of Documents</div>
-      <p>The classical text 尚书 Shàngshū (Book of Documents) lists the <strong>五福 wǔfú</strong> — the five blessings that constitute a complete and fortunate life. These remain culturally active across all Chinese-speaking communities:</p>
-      <p><strong>寿 shòu</strong> — long life · <strong>富 fù</strong> — wealth · <strong>康宁 kāngnìng</strong> — health and peace · <strong>攸好德 yōu hào dé</strong> — the love of virtue · <strong>考终命 kǎo zhōng mìng</strong> — a natural, peaceful death at the end of one's allotted span. The fifth blessing is striking: the completion of one's life-arc without violent or premature end, rather than more wealth or fame.</p>
+      <p>The classical text 尚书 Shàngshū (Book of Documents) lists the <strong>五福 wǔfú</strong> , the five blessings that constitute a complete and fortunate life. These remain culturally active across all Chinese-speaking communities:</p>
+      <p><strong>寿 shòu</strong> , long life · <strong>富 fù</strong> , wealth · <strong>康宁 kāngnìng</strong> , health and peace · <strong>攸好德 yōu hào dé</strong> , the love of virtue · <strong>考终命 kǎo zhōng mìng</strong> , a natural, peaceful death at the end of one's allotted span. The fifth blessing is striking: the completion of one's life-arc without violent or premature end, rather than more wealth or fame.</p>
     </div>
 
     <span class="section-anchor" id="inverted"></span>
@@ -99,9 +99,9 @@ content_sources:
       <div class="card c-n">
         <div class="card-head"><span class="card-cn">幸福</span><span class="card-py">xìngfú</span><span class="card-en">happiness; well-being; blessed fortune</span></div>
         <div class="tags"><span class="tag tag-n">N/Adj 名形</span></div>
-        <div class="card-def">幸 xìng (fortunate; lucky; to survive) + 福 fú (blessing). The compound for subjective happiness and well-being — what you feel when life is going right. 幸福感 = sense of well-being. 幸福生活 = a happy life. One of the most searched Chinese words globally.</div>
+        <div class="card-def">幸 xìng (fortunate; lucky; to survive) + 福 fú (blessing). The compound for subjective happiness and well-being , what you feel when life is going right. 幸福感 = sense of well-being. 幸福生活 = a happy life. One of the most searched Chinese words globally.</div>
         <div class="examples">
-          <div class="example"><div class="ex-cn">她很幸福，有爱她的家人。</div><div class="ex-py">Tā hěn xìngfú, yǒu ài tā de jiārén.</div><div class="ex-en">She is very happy — she has a family that loves her.</div></div>
+          <div class="example"><div class="ex-cn">她很幸福，有爱她的家人。</div><div class="ex-py">Tā hěn xìngfú, yǒu ài tā de jiārén.</div><div class="ex-en">She is very happy , she has a family that loves her.</div></div>
         </div>
       </div>
 

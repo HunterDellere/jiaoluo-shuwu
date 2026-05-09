@@ -78,7 +78,7 @@ pinyin: 'lián…dōu/yě'
       <span class="topic-hero-eyebrow">Grammar · 语法 yǔfǎ</span>
       <h1 class="topic-hero-title">连…都/也</h1>
       <span class="topic-hero-title-py">lián…dōu / yě</span>
-      <p class="topic-hero-desc">The construction that singles out the most extreme case on a scale to generalize the whole — "even X [does/is]…" — with 连 setting the outlier and 都/也 completing the claim.</p>
+      <p class="topic-hero-desc">The construction that singles out the most extreme case on a scale to generalize the whole , "even X [does/is]…" , with 连 setting the outlier and 都/也 completing the claim.</p>
     </header>
 
     <!-- ── ETYMOLOGY ── -->
@@ -110,14 +110,14 @@ pinyin: 'lián…dōu/yě'
     <div class="pattern">
       <span class="label">连…都/也 · the scalar intensifier</span>
       <strong>连 + [extreme case] + 都/也 + Verb/Adjective</strong><br>
-      连小孩<strong>都</strong>知道 — even children know (easy case → everyone knows)<br>
-      连专家<strong>都</strong>搞不定 — even experts can't handle it (hard case → nobody can)<br>
-      连一分钱<strong>都</strong>没有 — doesn't have even a single cent (minimum case → nothing at all)
+      连小孩<strong>都</strong>知道 , even children know (easy case → everyone knows)<br>
+      连专家<strong>都</strong>搞不定 , even experts can't handle it (hard case → nobody can)<br>
+      连一分钱<strong>都</strong>没有 , doesn't have even a single cent (minimum case → nothing at all)
     </div>
 
     <div class="scholar" data-glyph="都">
       <div class="scholar-label">学者洞见 xuézhě dòngjiàn · Choosing the Extreme Case</div>
-      <p>The power of 连…都/也 lies entirely in choosing the right extreme case. The item after 连 must be the member of a class that is either the <em>most likely</em> to be included or the <em>least likely</em> — never a neutral middle case. The rhetorical logic:</p>
+      <p>The power of 连…都/也 lies entirely in choosing the right extreme case. The item after 连 must be the member of a class that is either the <em>most likely</em> to be included or the <em>least likely</em> , never a neutral middle case. The rhetorical logic:</p>
       <p><strong>If negative claim</strong>: use the easiest/most basic thing as the extreme. 连饭都不吃 (won't even eat). Eating is the most basic act; refusing even this shows extreme severity. 连名字都记不住 (can't even remember the name). Names are the simplest thing to remember.</p>
       <p><strong>If positive claim</strong>: use the hardest/most improbable thing as the extreme. 连老师都不会 (even the teacher doesn't know). If the authority fails, everyone fails. 连这么难的题都能做出来 (can even solve such a hard problem). If the hard one is solvable, the easy ones certainly are.</p>
       <p>The rhetorical effectiveness depends entirely on how well-chosen the extreme case is. A mediocre extreme makes 连…都/也 feel flat; a perfectly chosen extreme gives the construction its characteristic punch.</p>
@@ -142,13 +142,13 @@ pinyin: 'lián…dōu/yě'
         </div>
         <div class="tags"><span class="tag tag-v">连 + pronoun + 都 + neg</span></div>
         <div class="card-def">
-          The simplest and most frequent form: 连 + person/thing + 都 + (negated) verb. The person chosen is the one who would be <em>most expected</em> to know or be able to do the thing — making their failure maximal evidence for the claim. He is the expert, the insider, the person with access — and even he doesn't know. Therefore, certainly no one else does either.
+          The simplest and most frequent form: 连 + person/thing + 都 + (negated) verb. The person chosen is the one who would be <em>most expected</em> to know or be able to do the thing , making their failure maximal evidence for the claim. He is the expert, the insider, the person with access , and even he doesn't know. Therefore, certainly no one else does either.
         </div>
         <div class="examples">
           <div class="example">
             <div class="ex-cn">连他都不知道，你问我干什么？</div>
             <div class="ex-py">Lián tā dōu bù zhīdào, nǐ wèn wǒ gàn shénme?</div>
-            <div class="ex-en">Even he doesn't know — why are you asking me?</div>
+            <div class="ex-en">Even he doesn't know , why are you asking me?</div>
           </div>
           <div class="example">
             <div class="ex-cn">这件事连父母都没告诉。</div>
@@ -171,7 +171,7 @@ pinyin: 'lián…dōu/yě'
         </div>
         <div class="tags"><span class="tag tag-v">连 + minimum + 都 + neg</span></div>
         <div class="card-def">
-          When the extreme case is a minimum quantity (one cent, one word, one minute), the construction means "not even the smallest amount." This is a highly emphatic way of expressing absolute absence. The minimum unit becomes the threshold — and even that threshold is not crossed.
+          When the extreme case is a minimum quantity (one cent, one word, one minute), the construction means "not even the smallest amount." This is a highly emphatic way of expressing absolute absence. The minimum unit becomes the threshold , and even that threshold is not crossed.
         </div>
         <div class="examples">
           <div class="example">
@@ -219,7 +219,7 @@ pinyin: 'lián…dōu/yě'
           <div class="example">
             <div class="ex-cn">他连水也不喝，就这么走了。</div>
             <div class="ex-py">Tā lián shuǐ yě bù hē, jiù zhème zǒu le.</div>
-            <div class="ex-en">He didn't even drink water — just left like that.</div>
+            <div class="ex-en">He didn't even drink water , just left like that.</div>
           </div>
           <div class="example">
             <div class="ex-cn">连谢谢也不说一句。</div>
@@ -254,7 +254,7 @@ pinyin: 'lián…dōu/yě'
         </div>
         <div class="tags"><span class="tag tag-v">complex noun phrase extreme</span></div>
         <div class="card-def">
-          The item after 连 can be an entire noun phrase, including a relative clause. 连睡觉的时间 = "even the time for sleeping" — 睡觉 is the most basic physical requirement; not having time even for that represents the absolute extreme of busyness or exhaustion.
+          The item after 连 can be an entire noun phrase, including a relative clause. 连睡觉的时间 = "even the time for sleeping" , 睡觉 is the most basic physical requirement; not having time even for that represents the absolute extreme of busyness or exhaustion.
         </div>
         <div class="examples">
           <div class="example">
@@ -275,7 +275,7 @@ pinyin: 'lián…dōu/yě'
         </div>
         <div class="note">
           <span class="note-label">语法 yǔfǎ · 连 with reduplication of the verb</span>
-          A special emphatic pattern: 连 + V + 都 + V + 不/没 + (complement). 连哭都哭不出来 — 哭 is reduplicated, with 连 introducing it and 都 following. The repetition of the verb creates an intensified, rhythmic emphasis. 连想都不敢想 "Dare not even think about it."
+          A special emphatic pattern: 连 + V + 都 + V + 不/没 + (complement). 连哭都哭不出来 , 哭 is reduplicated, with 连 introducing it and 都 following. The repetition of the verb creates an intensified, rhythmic emphasis. 连想都不敢想 "Dare not even think about it."
         </div>
       </div>
 
@@ -300,7 +300,7 @@ pinyin: 'lián…dōu/yě'
         </div>
         <div class="tags"><span class="tag tag-vn">连 as full verb/morpheme</span></div>
         <div class="card-def">
-          Beyond the 连…都/也 construction, 连 functions as a full morpheme and verb meaning "to connect, to link." Understanding its compounds reinforces the semantic core: everything in the 连 family involves linking things in sequence. 连接 (connect), 连续 (sequential, continuous, serial), 连锁 (chain — as in chain store: businesses linked together), 连同 (together with, including along with), 连载 (serial publication, published in installments).
+          Beyond the 连…都/也 construction, 连 functions as a full morpheme and verb meaning "to connect, to link." Understanding its compounds reinforces the semantic core: everything in the 连 family involves linking things in sequence. 连接 (connect), 连续 (sequential, continuous, serial), 连锁 (chain , as in chain store: businesses linked together), 连同 (together with, including along with), 连载 (serial publication, published in installments).
         </div>
         <div class="examples">
           <div class="example">
@@ -342,7 +342,7 @@ pinyin: 'lián…dōu/yě'
         </div>
         <div class="tags"><span class="tag tag-v">positive extreme</span></div>
         <div class="card-def">
-          连…都 also works in "positive" extremes — where the person chosen is the <em>most likely</em> to be able to do something, the highest authority on the scale. When even they fail, the implication is that certainly no one else can. The teacher is the pinnacle of knowledge in the classroom; the doctor is the pinnacle of medical knowledge; the expert is the pinnacle of a field. 连 introduces them as the hardest test case.
+          连…都 also works in "positive" extremes , where the person chosen is the <em>most likely</em> to be able to do something, the highest authority on the scale. When even they fail, the implication is that certainly no one else can. The teacher is the pinnacle of knowledge in the classroom; the doctor is the pinnacle of medical knowledge; the expert is the pinnacle of a field. 连 introduces them as the hardest test case.
         </div>
         <div class="examples">
           <div class="example">

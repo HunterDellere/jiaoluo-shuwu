@@ -70,7 +70,7 @@ content_sources:
       <span class="topic-hero-eyebrow">Vocabulary · 词汇 cíhuì</span>
       <h1 class="topic-hero-title">风水</h1>
       <span class="topic-hero-title-py">fēngshuǐ</span>
-      <p class="topic-hero-desc">Wind and water — the ancient Chinese art of reading the landscape to harmonize human space with the flows of 气.</p>
+      <p class="topic-hero-desc">Wind and water , the ancient Chinese art of reading the landscape to harmonize human space with the flows of 气.</p>
     </header>
 
     <!-- ── ETYMOLOGY ── -->
@@ -84,8 +84,8 @@ content_sources:
 
     <div class="scholar" data-glyph="风">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
-      <p><strong>风 fēng</strong> (wind — in oracle bone script, the wind was associated with the phoenix, a mythological bird whose wingbeats were understood as the breath of the sky) <strong>+ 水 shuǐ</strong> (water — a pictograph of flowing water, originally three wavy lines representing current). The classical theoretical source for the term comes from the 4th-century geomancer Guo Pu (郭璞): <strong>气乘风则散，界水则止</strong> — "Qi rides on wind and scatters; it stops at the boundary of water."</p>
-      <p>From this single principle, an entire environmental science unfolds: 风水 is the management of wind and water flows to accumulate and channel 气 for the benefit of human habitation. A site with good 风水 is one where mountains to the north block the cold winds that scatter 气, where water in front retains and gathers 气, and where the site faces south, opening toward the warmth of yang energy. The ideal form is the "armchair" — mountain at the back, hills on both sides, water and open land in front.</p>
+      <p><strong>风 fēng</strong> (wind , in oracle bone script, the wind was associated with the phoenix, a mythological bird whose wingbeats were understood as the breath of the sky) <strong>+ 水 shuǐ</strong> (water , a pictograph of flowing water, originally three wavy lines representing current). The classical theoretical source for the term comes from the 4th-century geomancer Guo Pu (郭璞): <strong>气乘风则散，界水则止</strong> , "Qi rides on wind and scatters; it stops at the boundary of water."</p>
+      <p>From this single principle, an entire environmental science unfolds: 风水 is the management of wind and water flows to accumulate and channel 气 for the benefit of human habitation. A site with good 风水 is one where mountains to the north block the cold winds that scatter 气, where water in front retains and gathers 气, and where the site faces south, opening toward the warmth of yang energy. The ideal form is the "armchair" , mountain at the back, hills on both sides, water and open land in front.</p>
       <p>The word has traveled intact into English as "feng shui." But English usage often strips it down to interior decoration aesthetics and lucky object placement, while the Chinese system is a comprehensive geographic, cosmological, and environmental science with a 2,000-year intellectual tradition behind it.</p>
     </div>
 
@@ -100,8 +100,8 @@ content_sources:
 
     <div class="scholar" data-glyph="水">
       <div class="scholar-label">学者洞见 xuézhě dòngjiàn · Scholar Note</div>
-      <p>Classical 风水 (also called <strong>堪舆 kānyú</strong> — the science of surveying heaven and earth — or <strong>相地术 xiàngdì shù</strong>, the art of reading sites) evaluates locations for burial grounds, palaces, cities, and homes using a systematic set of criteria. The four main elements of analysis: (1) <strong>龙脉 lóngmài</strong> (dragon veins — the ridgelines of mountains, understood as channels through which 气 flows through the landscape); (2) <strong>水口 shuǐkǒu</strong> (water mouth — where water enters and exits a site, critical for 气 retention); (3) <strong>向 xiàng</strong> (facing direction — ideally south, toward yang energy); (4) <strong>砂 shā</strong> (surrounding mountains, named after the four celestial animals: 青龙 blue dragon to the east, 白虎 white tiger to the west, 朱雀 vermilion bird to the south, 玄武 black tortoise to the north).</p>
-      <p>China's imperial capitals — Chang'an (长安), Nanjing (南京), and Beijing (北京) — were sited using these principles. The Forbidden City's orientation (facing south, backed by Coal Hill, the moat providing water on all sides) is a masterwork of classical 风水 applied at architectural scale. The imperial tombs of the Ming and Qing dynasties in the hills north of Beijing represent the same principles applied to burial siting.</p>
+      <p>Classical 风水 (also called <strong>堪舆 kānyú</strong> , the science of surveying heaven and earth , or <strong>相地术 xiàngdì shù</strong>, the art of reading sites) evaluates locations for burial grounds, palaces, cities, and homes using a systematic set of criteria. The four main elements of analysis: (1) <strong>龙脉 lóngmài</strong> (dragon veins , the ridgelines of mountains, understood as channels through which 气 flows through the landscape); (2) <strong>水口 shuǐkǒu</strong> (water mouth , where water enters and exits a site, critical for 气 retention); (3) <strong>向 xiàng</strong> (facing direction , ideally south, toward yang energy); (4) <strong>砂 shā</strong> (surrounding mountains, named after the four celestial animals: 青龙 blue dragon to the east, 白虎 white tiger to the west, 朱雀 vermilion bird to the south, 玄武 black tortoise to the north).</p>
+      <p>China's imperial capitals , Chang'an (长安), Nanjing (南京), and Beijing (北京) , were sited using these principles. The Forbidden City's orientation (facing south, backed by Coal Hill, the moat providing water on all sides) is a masterwork of classical 风水 applied at architectural scale. The imperial tombs of the Ming and Qing dynasties in the hills north of Beijing represent the same principles applied to burial siting.</p>
     </div>
 
     <div class="cards">
@@ -114,13 +114,13 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          The overall system and its application. 看风水 (to assess feng shui; to consult a feng shui master) / 风水先生 fēngshuǐ xiānsheng (a feng shui master) / 风水布局 (feng shui layout; the arrangement of a space according to feng shui principles). In modern China, 风水 consultants are employed by real estate developers, businesses, and families before major purchases or construction — not exclusively as superstition but as a system of environmental optimization with deep cultural roots.
+          The overall system and its application. 看风水 (to assess feng shui; to consult a feng shui master) / 风水先生 fēngshuǐ xiānsheng (a feng shui master) / 风水布局 (feng shui layout; the arrangement of a space according to feng shui principles). In modern China, 风水 consultants are employed by real estate developers, businesses, and families before major purchases or construction , not exclusively as superstition but as a system of environmental optimization with deep cultural roots.
         </div>
         <div class="examples">
           <div class="example">
             <div class="ex-cn">这栋房子风水很好，三面环山，前有流水。</div>
             <div class="ex-py">Zhè dòng fángzi fēngshuǐ hěn hǎo, sān miàn huán shān, qián yǒu liúshuǐ.</div>
-            <div class="ex-en">This house has excellent feng shui — mountains on three sides and flowing water in front.</div>
+            <div class="ex-en">This house has excellent feng shui , mountains on three sides and flowing water in front.</div>
           </div>
           <div class="example">
             <div class="ex-cn">他们请了风水先生来看看新办公室的布局。</div>
@@ -130,7 +130,7 @@ content_sources:
           <div class="example">
             <div class="ex-cn">很多香港企业家非常重视风水，建楼前必先请人堪舆。</div>
             <div class="ex-py">Hěn duō Xiānggǎng qǐyèjiā fēicháng zhòngshì fēngshuǐ, jiàn lóu qián bì xiān qǐng rén kānyú.</div>
-            <div class="ex-en">Many Hong Kong businesspeople take feng shui very seriously — before building, they always commission a geomantic assessment first.</div>
+            <div class="ex-en">Many Hong Kong businesspeople take feng shui very seriously , before building, they always commission a geomantic assessment first.</div>
           </div>
         </div>
       </div>
@@ -143,13 +143,13 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          宝 bǎo (treasure; precious) + 地 dì (land; place). A site so well positioned in the landscape — with mountains, water, orientation, and dragon veins all aligning — that it is considered to bring fortune to whoever inhabits it or is buried there. Contested and sought after: historically, clans fought over burial sites that were deemed 风水宝地, because occupying the site meant channeling the fortune of the location to one's descendants.
+          宝 bǎo (treasure; precious) + 地 dì (land; place). A site so well positioned in the landscape , with mountains, water, orientation, and dragon veins all aligning , that it is considered to bring fortune to whoever inhabits it or is buried there. Contested and sought after: historically, clans fought over burial sites that were deemed 风水宝地, because occupying the site meant channeling the fortune of the location to one's descendants.
         </div>
         <div class="examples">
           <div class="example">
             <div class="ex-cn">这里是风水宝地，据说在此建庙可以保佑一方平安。</div>
             <div class="ex-py">Zhèlǐ shì fēngshuǐ bǎodì, jùshuō zài cǐ jiàn miào kěyǐ bǎoyòu yīfāng píng'ān.</div>
-            <div class="ex-en">This is a feng shui treasure site — it is said that building a temple here can protect and bless the surrounding area.</div>
+            <div class="ex-en">This is a feng shui treasure site , it is said that building a temple here can protect and bless the surrounding area.</div>
           </div>
           <div class="example">
             <div class="ex-cn">他们把祖坟迁到了风水宝地，希望能给后代带来好运。</div>
@@ -173,17 +173,17 @@ content_sources:
           <div class="example">
             <div class="ex-cn">风水轮流转，今年到我家了。</div>
             <div class="ex-py">Fēngshuǐ lúnliú zhuǎn, jīnnián dào wǒ jiā le.</div>
-            <div class="ex-en">The feng shui wheel has turned to my household this year — my luck has finally changed.</div>
+            <div class="ex-en">The feng shui wheel has turned to my household this year , my luck has finally changed.</div>
           </div>
           <div class="example">
             <div class="ex-cn">风水轮流转，你先别高兴得太早。</div>
             <div class="ex-py">Fēngshuǐ lúnliú zhuǎn, nǐ xiān bié gāoxìng de tài zǎo.</div>
-            <div class="ex-en">The wheel of fortune keeps turning — don't celebrate too early.</div>
+            <div class="ex-en">The wheel of fortune keeps turning , don't celebrate too early.</div>
           </div>
           <div class="example">
             <div class="ex-cn">三十年河东，三十年河西，风水轮流转。</div>
             <div class="ex-py">Sānshí nián hé dōng, sānshí nián hé xī, fēngshuǐ lúnliú zhuǎn.</div>
-            <div class="ex-en">"Thirty years east of the river, thirty years west of the river" — the feng shui wheel keeps turning; nothing lasts forever.</div>
+            <div class="ex-en">"Thirty years east of the river, thirty years west of the river" , the feng shui wheel keeps turning; nothing lasts forever.</div>
           </div>
         </div>
       </div>
@@ -201,7 +201,7 @@ content_sources:
 
     <div class="pattern">
       <span class="label">构词规律 gòucí guīlǜ · Word-Formation</span>
-      风 fēng is one of the most productive characters in Chinese — it appears in words about wind (literal and figurative), style, manner, custom, atmosphere, and rumor. The metaphorical extensions follow naturally: wind moves invisibly, spreads widely, shapes landscapes, carries things from distant places. 风格 (style) / 风俗 (customs) / 风景 (scenery) / 流言蜚语 (rumors, lit. flying words).
+      风 fēng is one of the most productive characters in Chinese , it appears in words about wind (literal and figurative), style, manner, custom, atmosphere, and rumor. The metaphorical extensions follow naturally: wind moves invisibly, spreads widely, shapes landscapes, carries things from distant places. 风格 (style) / 风俗 (customs) / 风景 (scenery) / 流言蜚语 (rumors, lit. flying words).
     </div>
 
     <div class="cards">
@@ -214,18 +214,18 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          风 fēng (wind; manner) + 格 gé (standard; grid; manner). The characteristic way someone or something presents itself — artistic style, architectural style, speaking style, leadership style. 风格 is not just aesthetics but character: 他的风格很直接 (his style is very direct) means something about how he conducts himself, not just how he looks. 中国风格 (Chinese style) / 北欧风格 (Nordic style) / 这位设计师的风格无可挑剔 (this designer's style is impeccable).
+          风 fēng (wind; manner) + 格 gé (standard; grid; manner). The characteristic way someone or something presents itself , artistic style, architectural style, speaking style, leadership style. 风格 is not just aesthetics but character: 他的风格很直接 (his style is very direct) means something about how he conducts himself, not just how he looks. 中国风格 (Chinese style) / 北欧风格 (Nordic style) / 这位设计师的风格无可挑剔 (this designer's style is impeccable).
         </div>
         <div class="examples">
           <div class="example">
             <div class="ex-cn">这位建筑师的风格独树一帜，辨识度极高。</div>
             <div class="ex-py">Zhè wèi jiànzhùshī de fēnggé dú shù yī zhì, biànshí dù jí gāo.</div>
-            <div class="ex-en">This architect's style is in a class of its own — immediately recognizable.</div>
+            <div class="ex-en">This architect's style is in a class of its own , immediately recognizable.</div>
           </div>
           <div class="example">
             <div class="ex-cn">他说话的风格很直接，从不拐弯抹角。</div>
             <div class="ex-py">Tā shuōhuà de fēnggé hěn zhíjiē, cóng bù guǎiwān mòjiǎo.</div>
-            <div class="ex-en">His manner of speaking is very direct — he never beats around the bush.</div>
+            <div class="ex-en">His manner of speaking is very direct , he never beats around the bush.</div>
           </div>
           <div class="example">
             <div class="ex-cn">这家餐厅的装修风格是新中式。</div>
@@ -243,23 +243,23 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          风 fēng (wind; atmosphere) + 景 jǐng (view; scene; spectacle). The atmospheric scene — the view that catches the eye and stirs the spirit. Not just a geographic description but an aesthetic one: 风景 implies the view is worth seeing. 风景如画 (scenery like a painting — a classic compliment) / 风景区 (scenic area) / 一路风景 (scenery along the way). The related word 景色 jǐngsè is more neutral and purely descriptive.
+          风 fēng (wind; atmosphere) + 景 jǐng (view; scene; spectacle). The atmospheric scene , the view that catches the eye and stirs the spirit. Not just a geographic description but an aesthetic one: 风景 implies the view is worth seeing. 风景如画 (scenery like a painting , a classic compliment) / 风景区 (scenic area) / 一路风景 (scenery along the way). The related word 景色 jǐngsè is more neutral and purely descriptive.
         </div>
         <div class="examples">
           <div class="example">
             <div class="ex-cn">这里的风景美不胜收，让人流连忘返。</div>
             <div class="ex-py">Zhèlǐ de fēngjǐng měi bù shèng shōu, ràng rén liúlián wàng fǎn.</div>
-            <div class="ex-en">The scenery here is more beautiful than one can take in — it makes people forget to leave.</div>
+            <div class="ex-en">The scenery here is more beautiful than one can take in , it makes people forget to leave.</div>
           </div>
           <div class="example">
             <div class="ex-cn">桂林山水甲天下，风景如画。</div>
             <div class="ex-py">Guìlín shānshuǐ jiǎ tiānxià, fēngjǐng rú huà.</div>
-            <div class="ex-en">"Guilin's mountains and waters are the finest under heaven — the scenery is like a painting."</div>
+            <div class="ex-en">"Guilin's mountains and waters are the finest under heaven , the scenery is like a painting."</div>
           </div>
           <div class="example">
             <div class="ex-cn">沿途风景不错，一路都在欣赏。</div>
             <div class="ex-py">Yántú fēngjǐng bùcuò, yīlù dōu zài xīnshǎng.</div>
-            <div class="ex-en">The scenery along the way was lovely — we were admiring it the entire journey.</div>
+            <div class="ex-en">The scenery along the way was lovely , we were admiring it the entire journey.</div>
           </div>
         </div>
       </div>
@@ -272,18 +272,18 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          风 fēng (wind; prevailing manner; what blows through a community) + 俗 sú (custom; common; vulgar — the ordinary practices of ordinary people). The customs and practices that a community maintains — not official rules but the living habits of a people. 风俗习惯 fēngsú xíguàn (customs and habits) is the fuller compound. The proverb 入乡随俗 (rù xiāng suí sú) — "enter a village, follow its customs" — is the Chinese equivalent of "when in Rome, do as the Romans do."
+          风 fēng (wind; prevailing manner; what blows through a community) + 俗 sú (custom; common; vulgar , the ordinary practices of ordinary people). The customs and practices that a community maintains , not official rules but the living habits of a people. 风俗习惯 fēngsú xíguàn (customs and habits) is the fuller compound. The proverb 入乡随俗 (rù xiāng suí sú) , "enter a village, follow its customs" , is the Chinese equivalent of "when in Rome, do as the Romans do."
         </div>
         <div class="examples">
           <div class="example">
             <div class="ex-cn">各地风俗不同，旅行时要尊重当地习惯。</div>
             <div class="ex-py">Gè dì fēngsú bùtóng, lǚxíng shí yào zūnzhòng dāngdì xíguàn.</div>
-            <div class="ex-en">Customs differ from place to place — when traveling, one must respect local habits.</div>
+            <div class="ex-en">Customs differ from place to place , when traveling, one must respect local habits.</div>
           </div>
           <div class="example">
             <div class="ex-cn">入乡随俗，这是做客的基本礼貌。</div>
             <div class="ex-py">Rù xiāng suí sú, zhè shì zuò kè de jīběn lǐmào.</div>
-            <div class="ex-en">"When in Rome, do as the Romans do" — this is basic courtesy when you're a guest.</div>
+            <div class="ex-en">"When in Rome, do as the Romans do" , this is basic courtesy when you're a guest.</div>
           </div>
           <div class="example">
             <div class="ex-cn">春节的风俗习惯包括贴春联、放鞭炮、拜年。</div>
@@ -301,13 +301,13 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          Reduplication of 风 (wind) around 言 yán (words; speech) and 语 yǔ (language). Words as insubstantial as wind — whispers and rumors that circulate without clear source or foundation. The image: gossip spreads like wind, invisible, touching everything, carrying things from person to person without anyone taking responsibility for them. A negative term: 别听风言风语 (don't listen to wind-words and wind-language — don't pay attention to rumors).
+          Reduplication of 风 (wind) around 言 yán (words; speech) and 语 yǔ (language). Words as insubstantial as wind , whispers and rumors that circulate without clear source or foundation. The image: gossip spreads like wind, invisible, touching everything, carrying things from person to person without anyone taking responsibility for them. A negative term: 别听风言风语 (don't listen to wind-words and wind-language , don't pay attention to rumors).
         </div>
         <div class="examples">
           <div class="example">
             <div class="ex-cn">别听那些风言风语，那都是没有根据的。</div>
             <div class="ex-py">Bié tīng nàxiē fēngyán fēngyǔ, nà dōu shì méiyǒu gēnjù de.</div>
-            <div class="ex-en">Don't listen to those rumors — they have no basis whatsoever.</div>
+            <div class="ex-en">Don't listen to those rumors , they have no basis whatsoever.</div>
           </div>
           <div class="example">
             <div class="ex-cn">背后说人的风言风语，害了很多人。</div>
@@ -338,7 +338,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N/Adj 名形</span></div>
         <div class="card-def">
-          水 shuǐ (water) + 平 píng (level; flat; equal). A water surface is perfectly level — the universal measure of flatness and standards. From this physical fact, 水平 became the word for any standard of quality or proficiency. 中文水平 (Chinese proficiency level) / 生活水平 (standard of living) / 水平线 (horizon; horizontal line). 水平仪 is a spirit level — a device that uses water to find the horizontal. The etymology is visible in the tool.
+          水 shuǐ (water) + 平 píng (level; flat; equal). A water surface is perfectly level , the universal measure of flatness and standards. From this physical fact, 水平 became the word for any standard of quality or proficiency. 中文水平 (Chinese proficiency level) / 生活水平 (standard of living) / 水平线 (horizon; horizontal line). 水平仪 is a spirit level , a device that uses water to find the horizontal. The etymology is visible in the tool.
         </div>
         <div class="examples">
           <div class="example">
@@ -367,7 +367,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          水 shuǐ (water) + 墨 mò (ink — a slab of compressed carbon pigment, dissolved in water to create the medium). The classical Chinese painting medium: ink dissolved in varying concentrations of water, applied with a brush to paper or silk to create images through gradations of tone from dark to light. 水墨画 shuǐmò huà (ink wash painting) — the art form. The ink wash painting tradition is inseparable from Chinese calligraphy: the same brush, the same ink, the same fundamental gesture.
+          水 shuǐ (water) + 墨 mò (ink , a slab of compressed carbon pigment, dissolved in water to create the medium). The classical Chinese painting medium: ink dissolved in varying concentrations of water, applied with a brush to paper or silk to create images through gradations of tone from dark to light. 水墨画 shuǐmò huà (ink wash painting) , the art form. The ink wash painting tradition is inseparable from Chinese calligraphy: the same brush, the same ink, the same fundamental gesture.
         </div>
         <div class="examples">
           <div class="example">
@@ -391,7 +391,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          The operative logic behind 风水: when wind is blocked by mountains and water is present to create a boundary, 气 accumulates rather than dispersing. Wind and water are the agents — qi is what they manage. A site where this balance is achieved becomes auspicious: the qi that accumulates there benefits whoever inhabits it. This is not superstition as magic but an environmental logic: sheltered, well-watered sites are genuinely better places to live.
+          The operative logic behind 风水: when wind is blocked by mountains and water is present to create a boundary, 气 accumulates rather than dispersing. Wind and water are the agents , qi is what they manage. A site where this balance is achieved becomes auspicious: the qi that accumulates there benefits whoever inhabits it. This is not superstition as magic but an environmental logic: sheltered, well-watered sites are genuinely better places to live.
         </div>
         <div class="examples">
           <div class="example">
@@ -420,7 +420,7 @@ content_sources:
 
     <div class="scholar" data-glyph="龙">
       <div class="scholar-label">学者洞见 xuézhě dòngjiàn · Scholar Note</div>
-      <p>The four protector animals of classical 风水 — 青龙 (Blue Dragon), 白虎 (White Tiger), 朱雀 (Vermilion Bird), and 玄武 (Black Tortoise) — correspond to the four cardinal directions and anchor any site in cosmological space. They appear on the rooftop ornaments of the Forbidden City, on Han dynasty bronze mirrors and lacquerware, in military strategy (four-sided formation), and in the names of city neighborhoods. Their colors map onto the Five Phases: East/Wood/Green, West/Metal/White, South/Fire/Red, North/Water/Black.</p>
+      <p>The four protector animals of classical 风水 , 青龙 (Blue Dragon), 白虎 (White Tiger), 朱雀 (Vermilion Bird), and 玄武 (Black Tortoise) , correspond to the four cardinal directions and anchor any site in cosmological space. They appear on the rooftop ornaments of the Forbidden City, on Han dynasty bronze mirrors and lacquerware, in military strategy (four-sided formation), and in the names of city neighborhoods. Their colors map onto the Five Phases: East/Wood/Green, West/Metal/White, South/Fire/Red, North/Water/Black.</p>
     </div>
 
     <div class="table-wrap">
@@ -487,21 +487,21 @@ content_sources:
         <span class="cy-cn">风水轮流转</span>
         <span class="cy-py">fēng shuǐ lún liú zhuǎn</span>
         <span class="cy-en">feng shui rotates in turn — fortunes change; cycles of luck; the wheel keeps turning</span>
-        <span class="cy-note">The most common figurative use of 风水. Used to express acceptance of change, comfort in adversity, or (more pointedly) schadenfreude when an opponent's luck runs out. 三十年河东，三十年河西，风水轮流转 (thirty years east of the river, thirty years west — the wheel of fortune keeps turning).</span>
+        <span class="cy-note">The most common figurative use of 风水. Used to express acceptance of change, comfort in adversity, or (more pointedly) schadenfreude when an opponent's luck runs out. 三十年河东，三十年河西，风水轮流转 (thirty years east of the river, thirty years west , the wheel of fortune keeps turning).</span>
       </div>
 
       <div class="cy">
         <span class="cy-cn">顺风顺水</span>
         <span class="cy-py">shùn fēng shùn shuǐ</span>
         <span class="cy-en">with the wind, with the water — smooth sailing; everything going well without obstruction</span>
-        <span class="cy-note">A wish and a description: wind at your back, current in your favor — nothing impeding progress. 祝你顺风顺水！(Wishing you smooth sailing!) is a common departure blessing. The 风水 imagery is natural: when wind and water cooperate, travel is easy; when they oppose, nothing moves. A person whose career is going smoothly is 顺风顺水 的.</span>
+        <span class="cy-note">A wish and a description: wind at your back, current in your favor , nothing impeding progress. 祝你顺风顺水！(Wishing you smooth sailing!) is a common departure blessing. The 风水 imagery is natural: when wind and water cooperate, travel is easy; when they oppose, nothing moves. A person whose career is going smoothly is 顺风顺水 的.</span>
       </div>
 
       <div class="cy">
         <span class="cy-cn">如鱼得水</span>
         <span class="cy-py">rú yú dé shuǐ</span>
         <span class="cy-en">like a fish that has found water — to be in one's element; perfectly suited to one's environment</span>
-        <span class="cy-note">A fish out of water dies; a fish in water is entirely itself. This chengyu describes the state of someone who has found the exact environment where they thrive — a new job that suits them perfectly, a community where they feel at home. 他在新公司如鱼得水，如虎添翼。(He's in his element at the new company — a tiger with wings added.)</span>
+        <span class="cy-note">A fish out of water dies; a fish in water is entirely itself. This chengyu describes the state of someone who has found the exact environment where they thrive , a new job that suits them perfectly, a community where they feel at home. 他在新公司如鱼得水，如虎添翼。(He's in his element at the new company , a tiger with wings added.)</span>
       </div>
 
       <div class="cy">

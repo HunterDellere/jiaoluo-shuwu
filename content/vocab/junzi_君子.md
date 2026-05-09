@@ -57,7 +57,7 @@ content_review: 'pending'
       <span class="topic-hero-eyebrow">Vocabulary · 词汇 cíhuì</span>
       <h1 class="topic-hero-title">君子</h1>
       <span class="topic-hero-title-py">jūn zǐ</span>
-      <p class="topic-hero-desc">Originally a title of aristocratic birth, 君子 was redefined by Confucius as an achievement of moral cultivation — open to anyone who develops 仁义礼智信, regardless of family or rank.</p>
+      <p class="topic-hero-desc">Originally a title of aristocratic birth, 君子 was redefined by Confucius as an achievement of moral cultivation , open to anyone who develops 仁义礼智信, regardless of family or rank.</p>
     </header>
 
     <span class="section-anchor" id="etymology"></span>
@@ -70,9 +70,9 @@ content_review: 'pending'
 
     <div class="scholar" data-glyph="君">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
-      <p><strong>君 jūn</strong> is a compound of <strong>尹 yǐn</strong> — a hand holding a scepter, with the original sense of administering or ruling — and <strong>口 kǒu</strong> (mouth), adding the dimension of commanding speech. Together: a ruler who governs through authority and word. In early Chinese, 君 referred to a feudal lord or sovereign; its core sense is one who holds legitimate power and speaks with it.</p>
-      <p><strong>子 zǐ</strong> begins as the pictograph of a swaddled infant. Its range of meaning extended quickly to "person," "one who," and a title of respect for masters and scholars — the same 子 that appears in 孔子 (Master Kong), 老子 (Master Lao), and 孟子 (Master Meng). As a compound suffix here, it simply denotes a person or type of person.</p>
-      <p><strong>君子</strong> literally means "son of a lord" or "child of the ruler" — a purely descriptive, hereditary designation in pre-Confucian Chinese. In the Zhou feudal world, a 君子 was a noble by birth, as opposed to a 小人 xiǎorén (a person of low station, a commoner). Status was fixed at birth. Confucius's move was to make it a category of achievement.</p>
+      <p><strong>君 jūn</strong> is a compound of <strong>尹 yǐn</strong> , a hand holding a scepter, with the original sense of administering or ruling , and <strong>口 kǒu</strong> (mouth), adding the dimension of commanding speech. Together: a ruler who governs through authority and word. In early Chinese, 君 referred to a feudal lord or sovereign; its core sense is one who holds legitimate power and speaks with it.</p>
+      <p><strong>子 zǐ</strong> begins as the pictograph of a swaddled infant. Its range of meaning extended quickly to "person," "one who," and a title of respect for masters and scholars , the same 子 that appears in 孔子 (Master Kong), 老子 (Master Lao), and 孟子 (Master Meng). As a compound suffix here, it simply denotes a person or type of person.</p>
+      <p><strong>君子</strong> literally means "son of a lord" or "child of the ruler" , a purely descriptive, hereditary designation in pre-Confucian Chinese. In the Zhou feudal world, a 君子 was a noble by birth, as opposed to a 小人 xiǎorén (a person of low station, a commoner). Status was fixed at birth. Confucius's move was to make it a category of achievement.</p>
     </div>
 
     <span class="section-anchor" id="transformation"></span>
@@ -85,7 +85,7 @@ content_review: 'pending'
 
     <div class="scholar" data-glyph="仁">
       <div class="scholar-label">论语 lúnyǔ · The Analects</div>
-      <p>Confucius inherited the word 君子 from aristocratic usage and quietly gutted its hereditary content. In the Analects, 君子 appears over one hundred times — and almost never as a description of birth rank. It describes a <em>way of being</em> that any person can develop through sustained moral effort. The 小人 counterpart likewise migrated: no longer just "commoner," it became the morally small person, regardless of birth.</p>
+      <p>Confucius inherited the word 君子 from aristocratic usage and quietly gutted its hereditary content. In the Analects, 君子 appears over one hundred times , and almost never as a description of birth rank. It describes a <em>way of being</em> that any person can develop through sustained moral effort. The 小人 counterpart likewise migrated: no longer just "commoner," it became the morally small person, regardless of birth.</p>
       <p>This was a radical reorientation. The Zhou world was organized around a hereditary aristocracy justified by Heaven's mandate. Confucius proposed an alternative legitimacy: anyone who cultivates the right inner character holds greater authority than an unvirtuous noble born to the right family. A 君子 earns the title through practice.</p>
       <p>Four passages from the Analects define the polarity most sharply:</p>
       <p><strong>君子坦荡荡，小人长戚戚。</strong><br>
@@ -95,11 +95,11 @@ content_review: 'pending'
       <p><strong>君子不器。</strong><br>
       <em>Jūnzǐ bù qì.</em><br>
       "The junzi is not a vessel." (Analects 2.12)<br>
-      A vessel 器 is defined by its function — a cup holds liquid, a bowl holds food, a container is complete in its specialization. The junzi is not reducible to any single function or role. The junzi is a whole person, not a tool.</p>
+      A vessel 器 is defined by its function , a cup holds liquid, a bowl holds food, a container is complete in its specialization. The junzi is not reducible to any single function or role. The junzi is a whole person, not a tool.</p>
       <p><strong>君子和而不同，小人同而不和。</strong><br>
       <em>Jūnzǐ hé ér bù tóng, xiǎorén tóng ér bù hé.</em><br>
       "The junzi harmonizes without conforming; the small person conforms without harmonizing." (Analects 13.23)<br>
-      Harmony 和 is creative — different elements working together. Conformity 同 is sameness. The junzi can disagree with others while maintaining a relationship of genuine accord. The small person agrees on the surface while their inner orientation remains discordant.</p>
+      Harmony 和 is creative , different elements working together. Conformity 同 is sameness. The junzi can disagree with others while maintaining a relationship of genuine accord. The small person agrees on the surface while their inner orientation remains discordant.</p>
       <p><strong>君子喻于义，小人喻于利。</strong><br>
       <em>Jūnzǐ yù yú yì, xiǎorén yù yú lì.</em><br>
       "The junzi understands rightness; the small person understands profit." (Analects 4.16)<br>
@@ -116,8 +116,8 @@ content_review: 'pending'
 
     <div class="scholar" data-glyph="德">
       <div class="scholar-label">五常 wǔ cháng · The Five Constant Virtues</div>
-      <p>The classical synthesis of Confucian virtue settled on five constants: <strong>仁义礼智信</strong> — humaneness, righteousness, ritual propriety, wisdom, and faithfulness. These are the substance of what a 君子 develops. The five are not separate competencies to acquire in sequence — they form a unified character. A person who has genuine 仁 (humaneness, care for others) will naturally express 义 (act rightly toward them), observe 礼 (the proper forms that make social life function), exercise 智 (the discernment to know what a situation requires), and keep 信 (be reliable, say what they mean).</p>
-      <p>The junzi is the person in whom all five have become second nature — not effortful performance of virtue, but virtue as one's actual way of moving through the world. Confucius described his own development in Analects 2.4 as a progression from deliberate practice in youth to effortless rightness at seventy: at that point, he could follow whatever his heart desired without transgressing what was right. That convergence of desire and principle is the completed junzi.</p>
+      <p>The classical synthesis of Confucian virtue settled on five constants: <strong>仁义礼智信</strong> , humaneness, righteousness, ritual propriety, wisdom, and faithfulness. These are the substance of what a 君子 develops. The five are not separate competencies to acquire in sequence , they form a unified character. A person who has genuine 仁 (humaneness, care for others) will naturally express 义 (act rightly toward them), observe 礼 (the proper forms that make social life function), exercise 智 (the discernment to know what a situation requires), and keep 信 (be reliable, say what they mean).</p>
+      <p>The junzi is the person in whom all five have become second nature , not effortful performance of virtue, but virtue as one's actual way of moving through the world. Confucius described his own development in Analects 2.4 as a progression from deliberate practice in youth to effortless rightness at seventy: at that point, he could follow whatever his heart desired without transgressing what was right. That convergence of desire and principle is the completed junzi.</p>
     </div>
 
     <div class="cards">
@@ -130,7 +130,7 @@ content_review: 'pending'
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          The root virtue and the hardest to pin down. Rén is the quality of genuinely caring for others — feeling their wellbeing as relevant to you, not as an obligation but as a disposition. Confucius refused to call anyone he knew fully 仁, including himself. It is the aspiration that drives the other four.
+          The root virtue and the hardest to pin down. Rén is the quality of genuinely caring for others , feeling their wellbeing as relevant to you, not as an obligation but as a disposition. Confucius refused to call anyone he knew fully 仁, including himself. It is the aspiration that drives the other four.
         </div>
         <div class="examples">
           <div class="example">
@@ -149,13 +149,13 @@ content_review: 'pending'
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          义 is the capacity to perceive what is right and act on it — particularly when doing so is costly. It is 仁 translated into action in specific situations. If 仁 is orientation, 义 is response. The junzi's axis is 义; the 小人's axis is 利 (profit).
+          义 is the capacity to perceive what is right and act on it , particularly when doing so is costly. It is 仁 translated into action in specific situations. If 仁 is orientation, 义 is response. The junzi's axis is 义; the 小人's axis is 利 (profit).
         </div>
         <div class="examples">
           <div class="example">
             <div class="ex-cn">见义不为，无勇也。</div>
             <div class="ex-py">Jiàn yì bù wéi, wú yǒng yě.</div>
-            <div class="ex-en">To see what is right and fail to do it — that is cowardice. (Analects 2.24)</div>
+            <div class="ex-en">To see what is right and fail to do it , that is cowardice. (Analects 2.24)</div>
           </div>
         </div>
       </div>
@@ -168,13 +168,13 @@ content_review: 'pending'
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          礼 is the whole system of ritual forms, social protocols, and ceremonial observances that structure human life together — from court ceremony down to greetings between friends. For Confucius, 礼 is not mere formalism; it is the externalization of 仁 into social form. To observe 礼 is to demonstrate care through disciplined action.
+          礼 is the whole system of ritual forms, social protocols, and ceremonial observances that structure human life together , from court ceremony down to greetings between friends. For Confucius, 礼 is not mere formalism; it is the externalization of 仁 into social form. To observe 礼 is to demonstrate care through disciplined action.
         </div>
         <div class="examples">
           <div class="example">
             <div class="ex-cn">克己复礼为仁。</div>
             <div class="ex-py">Kè jǐ fù lǐ wéi rén.</div>
-            <div class="ex-en">To master oneself and return to propriety — that is humaneness. (Analects 12.1)</div>
+            <div class="ex-en">To master oneself and return to propriety , that is humaneness. (Analects 12.1)</div>
           </div>
         </div>
       </div>
@@ -187,7 +187,7 @@ content_review: 'pending'
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          智 is the capacity to know — to distinguish right from wrong, to read situations correctly, and to recognize virtue in others. It is practical moral intelligence, not abstract reasoning. A person with 智 knows what 仁 and 义 require in a specific context, not just in theory.
+          智 is the capacity to know , to distinguish right from wrong, to read situations correctly, and to recognize virtue in others. It is practical moral intelligence, not abstract reasoning. A person with 智 knows what 仁 and 义 require in a specific context, not just in theory.
         </div>
         <div class="examples">
           <div class="example">
@@ -206,13 +206,13 @@ content_review: 'pending'
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          信 is written as a person 人 standing beside their word 言 — the character encodes its own meaning. To be 信 is to align speech with action, to be the person others can rely on. The junzi's word is a commitment. 信 is what makes social life possible; without it, 礼 is hollow performance.
+          信 is written as a person 人 standing beside their word 言 , the character encodes its own meaning. To be 信 is to align speech with action, to be the person others can rely on. The junzi's word is a commitment. 信 is what makes social life possible; without it, 礼 is hollow performance.
         </div>
         <div class="examples">
           <div class="example">
             <div class="ex-cn">人而无信，不知其可也。</div>
             <div class="ex-py">Rén ér wú xìn, bù zhī qí kě yě.</div>
-            <div class="ex-en">A person without faithfulness — I do not know how they get on. (Analects 2.22)</div>
+            <div class="ex-en">A person without faithfulness , I do not know how they get on. (Analects 2.22)</div>
           </div>
         </div>
       </div>
@@ -229,9 +229,9 @@ content_review: 'pending'
 
     <div class="scholar" data-glyph="君">
       <div class="scholar-label">现代汉语 xiàndài hànyǔ · In Contemporary Chinese</div>
-      <p>君子 survives into modern Chinese as a compliment of considerable weight — to call someone a 君子 is to say they are principled, honorable, and trustworthy in the full classical sense. The word carries its Confucian freight intact; it is never casual. 谦谦君子 qiānqiān jūnzǐ (a modest, self-effacing junzi) is the most warmly admiring form.</p>
-      <p>The ironic inversion 伪君子 wěi jūnzǐ (false junzi, hypocrite) — a person who performs the outward manner of a junzi while harboring 小人 motivations — is in common use and carries real bite. The term names a specific social type: someone whose cultivation is surface-level, a moral performance without moral substance.</p>
-      <p>君子协议 jūnzǐ xiéyì (gentleman's agreement — literally "junzi agreement") refers to a binding understanding based on personal honor alone, without legal contract. That the phrase exists in modern Chinese business language shows how deeply the junzi ideal has lodged in the culture's moral vocabulary.</p>
+      <p>君子 survives into modern Chinese as a compliment of considerable weight , to call someone a 君子 is to say they are principled, honorable, and trustworthy in the full classical sense. The word carries its Confucian freight intact; it is never casual. 谦谦君子 qiānqiān jūnzǐ (a modest, self-effacing junzi) is the most warmly admiring form.</p>
+      <p>The ironic inversion 伪君子 wěi jūnzǐ (false junzi, hypocrite) , a person who performs the outward manner of a junzi while harboring 小人 motivations , is in common use and carries real bite. The term names a specific social type: someone whose cultivation is surface-level, a moral performance without moral substance.</p>
+      <p>君子协议 jūnzǐ xiéyì (gentleman's agreement , literally "junzi agreement") refers to a binding understanding based on personal honor alone, without legal contract. That the phrase exists in modern Chinese business language shows how deeply the junzi ideal has lodged in the culture's moral vocabulary.</p>
     </div>
 
     <div class="cards">
@@ -244,13 +244,13 @@ content_review: 'pending'
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          伪 wěi (false, counterfeit) + 君子. A person who performs the outward markers of virtue without the inward character — the one who speaks of 义 while calculating 利. The word's force comes precisely from the prestige of what it negates.
+          伪 wěi (false, counterfeit) + 君子. A person who performs the outward markers of virtue without the inward character , the one who speaks of 义 while calculating 利. The word's force comes precisely from the prestige of what it negates.
         </div>
         <div class="examples">
           <div class="example">
             <div class="ex-cn">他表面上彬彬有礼，骨子里是个伪君子。</div>
             <div class="ex-py">Tā biǎomiàn shàng bīnbīn yǒulǐ, gǔzi lǐ shì gè wěi jūnzǐ.</div>
-            <div class="ex-en">On the surface he is polished and courteous — at the core, a hypocrite.</div>
+            <div class="ex-en">On the surface he is polished and courteous , at the core, a hypocrite.</div>
           </div>
         </div>
       </div>
@@ -263,7 +263,7 @@ content_review: 'pending'
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          A binding agreement resting on personal honor and the parties' characters, without legal documentation. The term assumes both sides are junzi — people whose word is their commitment. Widely used in modern business and political contexts where formal contracts are either inappropriate or impossible.
+          A binding agreement resting on personal honor and the parties' characters, without legal documentation. The term assumes both sides are junzi , people whose word is their commitment. Widely used in modern business and political contexts where formal contracts are either inappropriate or impossible.
         </div>
         <div class="examples">
           <div class="example">
@@ -282,13 +282,13 @@ content_review: 'pending'
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          谦谦 (humble, unassuming — a reduplicated intensifier from 谦 qiān, modesty) + 君子. Drawn from the I Ching, hexagram 15: 谦谦君子，用涉大川，吉。 "The modest junzi — it is fitting to cross the great river; auspicious." The phrase names the specifically gentle, deferential expression of junzi character — not timid, but genuinely undemanding of recognition.
+          谦谦 (humble, unassuming , a reduplicated intensifier from 谦 qiān, modesty) + 君子. Drawn from the I Ching, hexagram 15: 谦谦君子，用涉大川，吉。 "The modest junzi , it is fitting to cross the great river; auspicious." The phrase names the specifically gentle, deferential expression of junzi character , not timid, but genuinely undemanding of recognition.
         </div>
         <div class="examples">
           <div class="example">
             <div class="ex-cn">他是个谦谦君子，从不夸耀自己的成就。</div>
             <div class="ex-py">Tā shì gè qiānqiān jūnzǐ, cóng bù kuāyào zìjǐ de chéngjiù.</div>
-            <div class="ex-en">He is a modest junzi — he never boasts about his achievements.</div>
+            <div class="ex-en">He is a modest junzi , he never boasts about his achievements.</div>
           </div>
         </div>
       </div>
@@ -310,8 +310,8 @@ content_review: 'pending'
           <span class="cy-cn">君子一言，驷马难追</span>
           <span class="cy-py">jūnzǐ yī yán, sì mǎ nán zhuī</span>
         </div>
-        <div class="cy-en">A junzi's word — four horses cannot overturn it</div>
-        <div class="cy-body">Once a 君子 has spoken, the words stand firm even if four horses strain to pull them back. Used to underscore the absolute weight of a promise made by an honorable person. Often recited when sealing an agreement: "一言为定，驷马难追 — one word settles it, four horses cannot retract it."</div>
+        <div class="cy-en">A junzi's word , four horses cannot overturn it</div>
+        <div class="cy-body">Once a 君子 has spoken, the words stand firm even if four horses strain to pull them back. Used to underscore the absolute weight of a promise made by an honorable person. Often recited when sealing an agreement: "一言为定，驷马难追 , one word settles it, four horses cannot retract it."</div>
       </div>
 
       <div class="cy">
@@ -320,7 +320,7 @@ content_review: 'pending'
           <span class="cy-py">yǐ xiǎorén zhī xīn duó jūnzǐ zhī fù</span>
         </div>
         <div class="cy-en">To measure a junzi's belly with a petty person's heart</div>
-        <div class="cy-body">度 duó here means to estimate, to gauge, to try to comprehend. 腹 fù (abdomen) is a classical synecdoche for one's inner world, intentions, and character — just as 心 (heart-mind) stands for thought. The phrase describes the error of projecting small, self-interested motivations onto a person who is operating from 仁 and 义. A 小人 cannot conceive that someone would act without strategic self-interest — so they assume there must be hidden calculation.</div>
+        <div class="cy-body">度 duó here means to estimate, to gauge, to try to comprehend. 腹 fù (abdomen) is a classical synecdoche for one's inner world, intentions, and character , just as 心 (heart-mind) stands for thought. The phrase describes the error of projecting small, self-interested motivations onto a person who is operating from 仁 and 义. A 小人 cannot conceive that someone would act without strategic self-interest , so they assume there must be hidden calculation.</div>
       </div>
 
       <div class="cy">

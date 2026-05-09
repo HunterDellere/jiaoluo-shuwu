@@ -22,7 +22,7 @@ pinyin: 'māzǔ'
   <aside class="sidebar" id="sidebar">
 
     <span class="toc-topic">妈祖</span>
-    <span class="toc-topic-en">Mazu — the Sea Goddess</span>
+    <span class="toc-topic-en">Mazu , the Sea Goddess</span>
 
     <div class="toc-divider"></div>
     <span class="toc-label">On this page</span>
@@ -176,7 +176,7 @@ pinyin: 'māzǔ'
           <div class="example">
             <div class="ex-cn">风暴中，船员见到桅杆上出现红衣女子，知是妈祖显灵，心安了。</div>
             <div class="ex-py">Fēngbào zhōng, chuányuán jiàndào wéigǎn shàng chūxiàn hóng yī nǚzǐ, zhī shì Māzǔ xiǎnlíng, xīn'ān le.</div>
-            <div class="ex-en">In the storm, the crew saw a red-robed woman appear at the mast — knowing it was Mazu's divine presence, their hearts calmed.</div>
+            <div class="ex-en">In the storm, the crew saw a red-robed woman appear at the mast , knowing it was Mazu's divine presence, their hearts calmed.</div>
           </div>
         </div>
       </div>
@@ -194,7 +194,7 @@ pinyin: 'māzǔ'
           <div class="example">
             <div class="ex-cn">相传妈祖在湄洲岛飞升，百姓见到彩云仙乐，知她已成神。</div>
             <div class="ex-py">Xiāngguan Māzǔ zài Méizhōu Dǎo fēishēng, bǎixìng jiàndào cǎiyún xiānyuè, zhī tā yǐ chéng shén.</div>
-            <div class="ex-en">It is said that Mazu ascended at Meizhou Island — the people saw colored clouds and celestial music, knowing she had become a deity.</div>
+            <div class="ex-en">It is said that Mazu ascended at Meizhou Island , the people saw colored clouds and celestial music, knowing she had become a deity.</div>
           </div>
         </div>
       </div>
@@ -220,7 +220,7 @@ pinyin: 'māzǔ'
 
     <div class="pattern">
       <span class="label">妈祖像的标准图像 Standard Mazu Iconography</span>
-      <strong>面容</strong> — serene, imperial, often with elaborate headdress (凤冠 fèngguān, phoenix crown, same as empress) · <strong>服色</strong> — red robes (imperial, divine protection) · <strong>侍立两侧</strong> — 千里眼 (green, left) and 顺风耳 (red, right) · <strong>手持</strong> — tablet (笏 hù, the court official's tablet) or commander's seal (令牌 lìngpái) · <strong>神座</strong> — elevated throne facing south
+      <strong>面容</strong> , serene, imperial, often with elaborate headdress (凤冠 fèngguān, phoenix crown, same as empress) · <strong>服色</strong> , red robes (imperial, divine protection) · <strong>侍立两侧</strong> , 千里眼 (green, left) and 顺风耳 (red, right) · <strong>手持</strong> , tablet (笏 hù, the court official's tablet) or commander's seal (令牌 lìngpái) · <strong>神座</strong> , elevated throne facing south
     </div>
 
     <!-- ── GEOGRAPHIC SPREAD ── -->
@@ -271,7 +271,7 @@ pinyin: 'māzǔ'
           <div class="example">
             <div class="ex-cn">大甲妈祖绕境每年吸引数百万信众参与，是台湾最盛大的宗教活动。</div>
             <div class="ex-py">Dàjiǎ Māzǔ ràojìng měi nián xīyǐn shùbǎi wàn xìnzhòng cānyù, shì Táiwān zuì shèngdà de zōngjiào huódòng.</div>
-            <div class="ex-en">The Dajia Mazu Pilgrimage attracts millions of believers each year — it is Taiwan's grandest religious event.</div>
+            <div class="ex-en">The Dajia Mazu Pilgrimage attracts millions of believers each year , it is Taiwan's grandest religious event.</div>
           </div>
         </div>
       </div>
@@ -345,14 +345,14 @@ pinyin: 'māzǔ'
         <span class="cy-cn">妈祖显灵</span>
         <span class="cy-py">māzǔ xiǎn líng</span>
         <span class="cy-en">Mazu's divine power manifests — a miracle attributed to her</span>
-        <span class="cy-note">显灵 xiǎn líng (lit. "spirit manifests") is the standard phrase for a deity's miraculous intervention. 妈祖显灵 is used when a ship survives a storm, a prayer is answered, or an illness is healed — any event attributed to Mazu's protective intervention. The concept of 灵验 língyàn (efficacious, supernaturally potent) is central to folk religion: a deity who delivers results gains more worshippers; one who does not may lose them.</span>
+        <span class="cy-note">显灵 xiǎn líng (lit. "spirit manifests") is the standard phrase for a deity's miraculous intervention. 妈祖显灵 is used when a ship survives a storm, a prayer is answered, or an illness is healed , any event attributed to Mazu's protective intervention. The concept of 灵验 língyàn (efficacious, supernaturally potent) is central to folk religion: a deity who delivers results gains more worshippers; one who does not may lose them.</span>
       </div>
 
       <div class="cy">
         <span class="cy-cn">海不扬波</span>
         <span class="cy-py">hǎi bù yáng bō</span>
         <span class="cy-en">the sea does not surge — peaceful passage; a stable, unchallenged realm</span>
-        <span class="cy-note">Lit: sea-not-raise-waves. A classical phrase for the ideal of peaceful sea passage — exactly what Mazu provides. Used in Mazu temple inscriptions and ritual prayers. In broader usage, describes any situation of deep stability: 国泰民安，海不扬波 — "the nation is prosperous and the people are at peace; the sea does not surge."</span>
+        <span class="cy-note">Lit: sea-not-raise-waves. A classical phrase for the ideal of peaceful sea passage , exactly what Mazu provides. Used in Mazu temple inscriptions and ritual prayers. In broader usage, describes any situation of deep stability: 国泰民安，海不扬波 , "the nation is prosperous and the people are at peace; the sea does not surge."</span>
       </div>
 
       <div class="cy">

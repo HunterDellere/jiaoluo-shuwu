@@ -63,7 +63,7 @@ pinyin: 'běncǎo gāngmù'
       <span class="topic-hero-eyebrow">Science &amp; Medicine · 科技 kējì</span>
       <h1 class="topic-hero-title">本草纲目</h1>
       <span class="topic-hero-title-py">běncǎo gāngmù</span>
-      <p class="topic-hero-desc">Li Shizhen spent 27 years cataloguing 1,892 drugs — and produced one of the greatest works of natural science in any civilization.</p>
+      <p class="topic-hero-desc">Li Shizhen spent 27 years cataloguing 1,892 drugs , and produced one of the greatest works of natural science in any civilization.</p>
     </header>
 
     <span class="section-anchor" id="lishizhen"></span>
@@ -104,8 +104,8 @@ pinyin: 'běncǎo gāngmù'
 
     <div class="pattern">
       <span class="label">十六部分类 shíliù bù fēnlèi · The Sixteen-Part Classification</span>
-      <strong>水部</strong> Waters (43 entries) → rain, dew, river water, well water — classified by source and properties<br>
-      <strong>火部</strong> Fires (11 entries) → charcoal, moxa, lamp flame — heat as a therapeutic agent<br>
+      <strong>水部</strong> Waters (43 entries) → rain, dew, river water, well water , classified by source and properties<br>
+      <strong>火部</strong> Fires (11 entries) → charcoal, moxa, lamp flame , heat as a therapeutic agent<br>
       <strong>土部</strong> Earths (61 entries) → soils, clays, mineral earths<br>
       <strong>金石部</strong> Metals &amp; Stones (217 entries) → gold, silver, mercury, cinnabar, magnets, sulfur<br>
       <strong>草部</strong> Herbs (610 entries, 10 sub-classes) → the largest section; mountain, aromatic, toxic, climbing, aquatic, and other herb types<br>
@@ -119,7 +119,7 @@ pinyin: 'běncǎo gāngmù'
       <strong>介部</strong> Shell Animals (46 entries) → turtles, oysters, crabs<br>
       <strong>禽部</strong> Birds (77 entries) → domestic and wild birds<br>
       <strong>兽部</strong> Mammals (78 entries) → domestic animals, wild mammals<br>
-      <strong>人部</strong> Human Substances (35 entries) → hair, nails, urine, breast milk — a section that attracted later criticism
+      <strong>人部</strong> Human Substances (35 entries) → hair, nails, urine, breast milk , a section that attracted later criticism
     </div>
 
     <div class="scholar" data-glyph="纲">
@@ -141,25 +141,25 @@ pinyin: 'běncǎo gāngmù'
         <span class="cy-cn">青蒿 qīnghāo</span>
         <span class="cy-py">Sweet Wormwood · Artemisia argyi / annua</span>
         <span class="cy-en">Used for fever since the 4th century CE</span>
-        <span class="cy-note">Li's entry documents qinghao as a treatment for intermittent fever with cold and heat alternation — a description fitting malaria. In 1971, Tu Youyou 屠呦呦 found Li's entry in the Bencao Gangmu (alongside a reference in a 4th-century handbook) and used it as the lead in isolating artemisinin. The 2015 Nobel Prize in Physiology or Medicine followed. The drug saves hundreds of thousands of lives annually. This is the most consequential translation of traditional pharmacological knowledge into modern medicine in history.</span>
+        <span class="cy-note">Li's entry documents qinghao as a treatment for intermittent fever with cold and heat alternation , a description fitting malaria. In 1971, Tu Youyou 屠呦呦 found Li's entry in the Bencao Gangmu (alongside a reference in a 4th-century handbook) and used it as the lead in isolating artemisinin. The 2015 Nobel Prize in Physiology or Medicine followed. The drug saves hundreds of thousands of lives annually. This is the most consequential translation of traditional pharmacological knowledge into modern medicine in history.</span>
       </div>
       <div class="cy">
         <span class="cy-cn">大黄 dàhuáng</span>
         <span class="cy-py">Rhubarb root · Rheum palmatum</span>
         <span class="cy-en">The great purgative of Chinese medicine</span>
-        <span class="cy-note">Li's entry on rhubarb root is thorough and clinically specific, covering its use as a powerful laxative, its role in clearing "heat" from the organs, and detailed dosage guidance. Rhubarb root (not the plant stalk eaten in pies) was one of the most important Chinese drugs exported to Europe via the Silk Road — so valuable that Russia fought a trade war to monopolize its supply in the 18th century. The active compounds (anthraquinone glycosides) are now well characterized and used in modern gastroenterology.</span>
+        <span class="cy-note">Li's entry on rhubarb root is thorough and clinically specific, covering its use as a powerful laxative, its role in clearing "heat" from the organs, and detailed dosage guidance. Rhubarb root (not the plant stalk eaten in pies) was one of the most important Chinese drugs exported to Europe via the Silk Road , so valuable that Russia fought a trade war to monopolize its supply in the 18th century. The active compounds (anthraquinone glycosides) are now well characterized and used in modern gastroenterology.</span>
       </div>
       <div class="cy">
         <span class="cy-cn">麻黄 máhuáng</span>
         <span class="cy-py">Ephedra · Ephedra sinica</span>
         <span class="cy-en">Source of ephedrine; oldest drug in the Bencao tradition</span>
-        <span class="cy-note">Mahuang appears in the Shennong Bencao Jing (the earliest Chinese pharmacopeia, c. 200 CE) as a treatment for coughs, wheezing, and cold-induced conditions. Li's entry documents its warming, dispersing, and diaphoretic (sweat-inducing) properties. In 1885, Nagayoshi Nagai isolated ephedrine from Ephedra — the first alkaloid isolated from an Asian medicinal plant. Ephedrine became foundational to bronchodilator therapy and gave rise to the entire sympathomimetic drug class. Its compound pseudoephedrine remains the active ingredient in most decongestants.</span>
+        <span class="cy-note">Mahuang appears in the Shennong Bencao Jing (the earliest Chinese pharmacopeia, c. 200 CE) as a treatment for coughs, wheezing, and cold-induced conditions. Li's entry documents its warming, dispersing, and diaphoretic (sweat-inducing) properties. In 1885, Nagayoshi Nagai isolated ephedrine from Ephedra , the first alkaloid isolated from an Asian medicinal plant. Ephedrine became foundational to bronchodilator therapy and gave rise to the entire sympathomimetic drug class. Its compound pseudoephedrine remains the active ingredient in most decongestants.</span>
       </div>
       <div class="cy">
         <span class="cy-cn">人参 rénshēn</span>
         <span class="cy-py">Ginseng · Panax ginseng</span>
         <span class="cy-en">The most studied and most commercially valuable plant in the Bencao</span>
-        <span class="cy-note">Li describes ginseng's tonic properties in detail — its ability to supplement qi, strengthen the spleen and lungs, generate fluids, and calm the mind — and notes the difference between wild Manchurian ginseng (considered vastly superior) and cultivated root. Ginseng became the most economically significant plant product in Chinese history, driving tributary trade relationships with Korea (which held a monopoly on the finest wild root) and fueling the early European fur trade in North America, where Native American guides helped French traders find American ginseng (Panax quinquefolius) as a cheaper substitute. The active compounds (ginsenosides) are the subject of ongoing pharmacological research.</span>
+        <span class="cy-note">Li describes ginseng's tonic properties in detail , its ability to supplement qi, strengthen the spleen and lungs, generate fluids, and calm the mind , and notes the difference between wild Manchurian ginseng (considered vastly superior) and cultivated root. Ginseng became the most economically significant plant product in Chinese history, driving tributary trade relationships with Korea (which held a monopoly on the finest wild root) and fueling the early European fur trade in North America, where Native American guides helped French traders find American ginseng (Panax quinquefolius) as a cheaper substitute. The active compounds (ginsenosides) are the subject of ongoing pharmacological research.</span>
       </div>
       <div class="cy">
         <span class="cy-cn">水银 shuǐyín</span>
@@ -179,7 +179,7 @@ pinyin: 'běncǎo gāngmù'
 
     <div class="scholar" data-glyph="目">
       <div class="scholar-label">东西交流 dōng xī jiāoliú · East-West Transmission</div>
-      <p>The <em>Bencao Gangmu</em> reached Europe in stages. A partial Latin translation of selected entries was published by the Jesuit missionary Michael Boym in his <em>Flora Sinensis</em> (1656). A more substantial engagement came through the German physician Engelbert Kaempfer, who studied Chinese medicine in Japan in the 1690s and brought descriptions of numerous drugs back to Europe. By the early eighteenth century, enough of the text had circulated that it was known to major European naturalists. Carl Linnaeus — the father of the modern taxonomic system — explicitly references Chinese botanical knowledge in several of his species descriptions, and historians have documented his direct use of information derived from the <em>Bencao Gangmu</em> tradition for several Asian plants.</p>
+      <p>The <em>Bencao Gangmu</em> reached Europe in stages. A partial Latin translation of selected entries was published by the Jesuit missionary Michael Boym in his <em>Flora Sinensis</em> (1656). A more substantial engagement came through the German physician Engelbert Kaempfer, who studied Chinese medicine in Japan in the 1690s and brought descriptions of numerous drugs back to Europe. By the early eighteenth century, enough of the text had circulated that it was known to major European naturalists. Carl Linnaeus , the father of the modern taxonomic system , explicitly references Chinese botanical knowledge in several of his species descriptions, and historians have documented his direct use of information derived from the <em>Bencao Gangmu</em> tradition for several Asian plants.</p>
       <p>Charles Darwin cited the <em>Bencao Gangmu</em> twice in <em>The Variation of Animals and Plants under Domestication</em> (1868), using Li's observations on the domestic goldfish and on the diversity of cultivated plants as evidence for his arguments about artificial selection. Darwin's citations are an index of the text's reputation in Victorian scientific circles: he had access to a French translation (by Stanislas Julien, 1855) and treated it as a reliable source of natural historical data. The <em>Bencao Gangmu</em> is thus one of the relatively rare pre-modern non-European texts to have had a documented influence on the development of Western evolutionary biology.</p>
       <p>In the twentieth century the text has been the starting point for multiple pharmaceutical discoveries beyond artemisinin: compounds derived from plants documented by Li include huperzine A (from club moss, now in clinical trials for Alzheimer's disease), berberine (from coptis rhizome, documented antibacterial and anti-diabetic properties), and triptolide (from thunder god vine, under investigation as an anti-inflammatory and anti-cancer agent). The <em>Bencao Gangmu</em> functions, in this respect, as a pre-screened library of bioactive compounds: two thousand years of clinical observation have identified which plants produce physiologically significant effects; the task of modern pharmacology is to identify which effects are real, which mechanisms produce them, and whether they can be isolated and standardized.</p>
     </div>

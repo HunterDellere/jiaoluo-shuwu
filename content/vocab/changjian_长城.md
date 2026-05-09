@@ -67,7 +67,7 @@ content_review: 'pending'
       <span class="topic-hero-eyebrow">Vocabulary · 词汇 cíhuì</span>
       <h1 class="topic-hero-title">长城</h1>
       <span class="topic-hero-title-py">Chángchéng</span>
-      <p class="topic-hero-desc">The "long fortification" — a collective name for centuries of disconnected border walls whose famous brick-and-tower stretches are overwhelmingly Ming dynasty, not Qin.</p>
+      <p class="topic-hero-desc">The "long fortification" , a collective name for centuries of disconnected border walls whose famous brick-and-tower stretches are overwhelmingly Ming dynasty, not Qin.</p>
     </header>
 
     <!-- ── ETYMOLOGY ── -->
@@ -82,7 +82,7 @@ content_review: 'pending'
     <div class="scholar" data-glyph="城">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
       <p><strong>长 cháng</strong> (long; extended in length) <strong>+ 城 chéng</strong> (walled city; city wall; fortification). The compound means "the long wall" or, more precisely, "the long fortification." The name is descriptive and utilitarian, not ceremonial.</p>
-      <p>城 carries more than "wall." Its oracle-bone form shows a walled enclosure with a watchman, and classically it names both the wall itself and the city defined by that wall. A Chinese city was, by definition, a walled place: 城市 chéngshì (the modern word for "city") preserves this — 城 is the wall, 市 is the market. To build a 城 was to found a civilization node, to mark the boundary between inside and outside, governed and ungoverned. 长城, therefore, is a very long instance of the thing that defines Chinese settlement: the walled perimeter made enormous.</p>
+      <p>城 carries more than "wall." Its oracle-bone form shows a walled enclosure with a watchman, and classically it names both the wall itself and the city defined by that wall. A Chinese city was, by definition, a walled place: 城市 chéngshì (the modern word for "city") preserves this , 城 is the wall, 市 is the market. To build a 城 was to found a civilization node, to mark the boundary between inside and outside, governed and ungoverned. 长城, therefore, is a very long instance of the thing that defines Chinese settlement: the walled perimeter made enormous.</p>
       <p>The traditional full ceremonial name is 万里长城 (wànlǐ chángchéng), "the ten-thousand-li Great Wall." 万里 does not mean exactly ten thousand li; it means an immeasurable, uncountable distance, the same way English "a thousand miles" signals enormity rather than precision.</p>
     </div>
 
@@ -213,7 +213,7 @@ content_review: 'pending'
           <div class="example">
             <div class="ex-cn">长城内外，是我的家乡。</div>
             <div class="ex-py">Chángchéng nèi wài, shì wǒ de jiāxiāng.</div>
-            <div class="ex-en">Inside and outside the Great Wall — this is my homeland. (From a patriotic song)</div>
+            <div class="ex-en">Inside and outside the Great Wall , this is my homeland. (From a patriotic song)</div>
           </div>
           <div class="example">
             <div class="ex-cn">长城内外的贸易往来从未真正中断。</div>
@@ -242,7 +242,7 @@ content_review: 'pending'
           <div class="example">
             <div class="ex-cn">今晚来我家修长城吧，我们凑四个人打麻将。</div>
             <div class="ex-py">Jīn wǎn lái wǒ jiā xiū chángchéng ba, wǒmen còu sì gè rén dǎ májiàng.</div>
-            <div class="ex-en">Come over tonight to "build the Great Wall" — we'll get four people together for mahjong.</div>
+            <div class="ex-en">Come over tonight to "build the Great Wall" , we'll get four people together for mahjong.</div>
           </div>
           <div class="example">
             <div class="ex-cn">周末他们又在修长城，一打就是大半天。</div>
@@ -264,7 +264,7 @@ content_review: 'pending'
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          边 (biān, border; edge) + 关 (guān, pass; strategic gate). The fortified checkpoints through the wall where military control, taxation, and passage were managed. Famous border passes include 山海关 (Shānhǎiguān, "Mountain-Sea Pass" at the eastern terminus) and 嘉峪关 (Jiāyùguān, the western terminus of the Ming wall in Gansu). 边关 carries a strong literary register — frontier postings were the subject of a whole tradition of Tang poetry lamenting distance from home.
+          边 (biān, border; edge) + 关 (guān, pass; strategic gate). The fortified checkpoints through the wall where military control, taxation, and passage were managed. Famous border passes include 山海关 (Shānhǎiguān, "Mountain-Sea Pass" at the eastern terminus) and 嘉峪关 (Jiāyùguān, the western terminus of the Ming wall in Gansu). 边关 carries a strong literary register , frontier postings were the subject of a whole tradition of Tang poetry lamenting distance from home.
         </div>
         <div class="examples">
           <div class="example">
@@ -314,7 +314,7 @@ content_review: 'pending'
         <span class="cy-cn">不到长城非好汉</span>
         <span class="cy-py">bú dào Chángchéng fēi hǎo hàn</span>
         <span class="cy-en">"he who has not climbed the Great Wall is not a true hero"</span>
-        <span class="cy-note">Seven characters, so technically a folk saying (俗语 súyǔ) rather than a classical 成语. Attributed to Mao Zedong in a 1935 poem written during the Long March, though the sentiment draws on earlier idiom. 好汉 (hǎo hàn) is "a real man" or "a person of courage and character" — the same word used in Water Margin for heroes. The line is used both literally (encouraging people to visit the wall) and figuratively (encouragement to complete any difficult undertaking). 你已经坚持到最后了，不到长城非好汉！"You held on to the end — a true hero."</span>
+        <span class="cy-note">Seven characters, so technically a folk saying (俗语 súyǔ) rather than a classical 成语. Attributed to Mao Zedong in a 1935 poem written during the Long March, though the sentiment draws on earlier idiom. 好汉 (hǎo hàn) is "a real man" or "a person of courage and character" , the same word used in Water Margin for heroes. The line is used both literally (encouraging people to visit the wall) and figuratively (encouragement to complete any difficult undertaking). 你已经坚持到最后了，不到长城非好汉！"You held on to the end , a true hero."</span>
       </div>
 
       <div class="cy">

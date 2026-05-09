@@ -83,8 +83,8 @@ pinyin: 'yīsīlán jiào'
     </div>
 
     <div class="pattern">
-      <span class="label">清真寺 qīngzhēn sì — Mosque Architecture Through the Dynasties</span>
-      <strong>唐宋</strong> (Tang-Song style) — courtyard layout following Chinese temple architecture; pagoda-style minaret; tiled roofs; no Arabic script on exterior · <strong>明清</strong> (Ming-Qing sinified) — same Chinese form, increasingly elaborate interior Arabic calligraphy, crescent-and-star finials added to rooflines · <strong>清末–当代</strong> (Late Qing–Modern) — some mosques rebuilt in Middle Eastern/Arab style (dome + minaret), especially in Xinjiang, Ningxia, and new construction
+      <span class="label">清真寺 qīngzhēn sì , Mosque Architecture Through the Dynasties</span>
+      <strong>唐宋</strong> (Tang-Song style) , courtyard layout following Chinese temple architecture; pagoda-style minaret; tiled roofs; no Arabic script on exterior · <strong>明清</strong> (Ming-Qing sinified) , same Chinese form, increasingly elaborate interior Arabic calligraphy, crescent-and-star finials added to rooflines · <strong>清末–当代</strong> (Late Qing–Modern) , some mosques rebuilt in Middle Eastern/Arab style (dome + minaret), especially in Xinjiang, Ningxia, and new construction
     </div>
 
     <!-- ── HUI PEOPLE ── -->
@@ -263,7 +263,7 @@ pinyin: 'yīsīlán jiào'
           <div class="example">
             <div class="ex-cn">西安大清真寺外观与中国传统建筑融为一体，不熟悉的人可能看不出这是清真寺。</div>
             <div class="ex-py">Xī'ān Dà Qīngzhēnsì wàiguān yǔ Zhōngguó chuántǒng jiànzhú róng wéi yītǐ, bù shúxī de rén kěnéng kàn bù chū zhè shì qīngzhēnsì.</div>
-            <div class="ex-en">The Great Mosque of Xi'an blends seamlessly with Chinese traditional architecture — the unfamiliar visitor might not realize it is a mosque.</div>
+            <div class="ex-en">The Great Mosque of Xi'an blends seamlessly with Chinese traditional architecture , the unfamiliar visitor might not realize it is a mosque.</div>
           </div>
         </div>
       </div>
@@ -335,12 +335,12 @@ pinyin: 'yīsīlán jiào'
         <tbody>
           <tr>
             <td class="td-cn">兰州牛肉拉面</td>
-            <td>Lanzhou, Gansu — Hui Muslim origin</td>
+            <td>Lanzhou, Gansu , Hui Muslim origin</td>
             <td>Hand-pulled noodles in clear beef broth; China's most common noodle dish</td>
           </tr>
           <tr>
             <td class="td-cn">羊肉泡馍</td>
-            <td>Xi'an — Tang-dynasty Hui Muslim origin</td>
+            <td>Xi'an , Tang-dynasty Hui Muslim origin</td>
             <td>Flatbread torn into lamb broth; Xi'an's signature dish</td>
           </tr>
           <tr>
@@ -350,12 +350,12 @@ pinyin: 'yīsīlán jiào'
           </tr>
           <tr>
             <td class="td-cn">馕</td>
-            <td>Xinjiang — from Central Asian tradition (naan)</td>
+            <td>Xinjiang , from Central Asian tradition (naan)</td>
             <td>Tandoor-baked flatbread; staple carbohydrate of Xinjiang cuisine</td>
           </tr>
           <tr>
             <td class="td-cn">手抓饭</td>
-            <td>Xinjiang Uyghur — from Central Asian plov</td>
+            <td>Xinjiang Uyghur , from Central Asian plov</td>
             <td>Rice with lamb, carrots, and onion; the Uyghur national dish (polo/pilaf)</td>
           </tr>
         </tbody>
@@ -377,14 +377,14 @@ pinyin: 'yīsīlán jiào'
         <span class="cy-cn">清真</span>
         <span class="cy-py">qīngzhēn</span>
         <span class="cy-en">pure and true — the Chinese term for halal and for Islam's monotheism</span>
-        <span class="cy-note">清 qīng (pure, clear) + 真 zhēn (true, genuine). The standard Chinese translation of the Islamic concept of divine purity and absolute transcendence. Applied in Chinese to: halal food (清真饮食), mosques (清真寺 — "pure truth temple"), and informally to Islamic identity. The phrase elegantly maps Islamic theological vocabulary onto classical Chinese aesthetic-spiritual concepts.</span>
+        <span class="cy-note">清 qīng (pure, clear) + 真 zhēn (true, genuine). The standard Chinese translation of the Islamic concept of divine purity and absolute transcendence. Applied in Chinese to: halal food (清真饮食), mosques (清真寺 , "pure truth temple"), and informally to Islamic identity. The phrase elegantly maps Islamic theological vocabulary onto classical Chinese aesthetic-spiritual concepts.</span>
       </div>
 
       <div class="cy">
         <span class="cy-cn">安拉</span>
         <span class="cy-py">Ānlā</span>
         <span class="cy-en">Allah — God in Chinese Muslim usage</span>
-        <span class="cy-note">The standard Chinese transliteration of Arabic Allāh. Chinese-speaking Muslims also use 真主 Zhēnzhǔ (True Lord — a theologically informed Chinese rendering, placing Islamic monotheism in dialogue with Confucian cosmology). The phrase 安拉胡阿克巴 (Allāhu Akbar — God is Great) appears in Chinese-language Islamic texts and in the daily practice of Chinese Muslims. In colloquial Chinese, it is recognizable as an Islamic exclamation.</span>
+        <span class="cy-note">The standard Chinese transliteration of Arabic Allāh. Chinese-speaking Muslims also use 真主 Zhēnzhǔ (True Lord , a theologically informed Chinese rendering, placing Islamic monotheism in dialogue with Confucian cosmology). The phrase 安拉胡阿克巴 (Allāhu Akbar , God is Great) appears in Chinese-language Islamic texts and in the daily practice of Chinese Muslims. In colloquial Chinese, it is recognizable as an Islamic exclamation.</span>
       </div>
 
       <div class="cy">

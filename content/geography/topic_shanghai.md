@@ -64,7 +64,7 @@ pinyin: 'Shànghǎi'
       <span class="topic-hero-eyebrow">Geography · 地理 dìlǐ</span>
       <h1 class="topic-hero-title">上海</h1>
       <span class="topic-hero-title-py">Shànghǎi</span>
-      <p class="topic-hero-desc">From fishing village to the most cosmopolitan city in Asia — a port that absorbed empires, reinvented itself three times, and has never quite decided whether it belongs to China or the world.</p>
+      <p class="topic-hero-desc">From fishing village to the most cosmopolitan city in Asia , a port that absorbed empires, reinvented itself three times, and has never quite decided whether it belongs to China or the world.</p>
     </header>
 
     <span class="section-anchor" id="geography"></span>
@@ -83,7 +83,7 @@ pinyin: 'Shànghǎi'
         <div class="scholar-label">1842–1943 · 外滩与半殖民地 · The Bund and Semi-Colonialism</div>
         <p>Before 1842, Shanghai was a modest county seat, a functioning market town and minor port, unremarkable in the landscape of Qing dynasty commerce. The Treaty of Nanking, which ended the First Opium War, designated Shanghai one of five treaty ports opened to foreign residence and trade. What followed was a transformation without precedent in Chinese urban history. Within a decade, the British, French, and later American communities had established separate <strong>租界</strong> (zūjiè, "concessions"), zones of extraterritorial sovereignty where Chinese law did not apply, foreign municipal governments collected taxes and maintained order, and a parallel urban civilization took root alongside the Chinese city.</p>
         <p>The International Settlement (amalgamating the British and American concessions) and the French Concession developed different characters. The Settlement was commercial: banks, trading houses, the great merchant firms of Jardine Matheson and Sassoon, the newspaper offices, the wharves along the Huangpu. The French Concession, centered on the Rue du Consulat and later the Avenue Joffre, had a more residential and occasionally disreputable character; the nightclubs and casinos that gave Shanghai its reputation for vice existed largely in French territory, beyond the reach of both Chinese and British authority.</p>
-        <p>The <strong>外滩</strong> (Wàitān, "The Bund") is the visual monument of the concession era: the mile-long waterfront promenade facing the Huangpu where the great banking and trading houses built their headquarters in the grandiose neoclassical and Art Deco styles of late Victorian and Edwardian commerce. The Customs House with its clock tower, the Hong Kong and Shanghai Banking Corporation building, the Cathay Hotel — each structure announces that this is a city organized around the movement of money and goods. The Bund remains intact and is now a heritage corridor. It was built to project confidence; the confidence it projects today belongs to different hands.</p>
+        <p>The <strong>外滩</strong> (Wàitān, "The Bund") is the visual monument of the concession era: the mile-long waterfront promenade facing the Huangpu where the great banking and trading houses built their headquarters in the grandiose neoclassical and Art Deco styles of late Victorian and Edwardian commerce. The Customs House with its clock tower, the Hong Kong and Shanghai Banking Corporation building, the Cathay Hotel , each structure announces that this is a city organized around the movement of money and goods. The Bund remains intact and is now a heritage corridor. It was built to project confidence; the confidence it projects today belongs to different hands.</p>
         <p>By 1900, Shanghai had a population approaching one million and was already the largest city in China and one of the largest in Asia. By 1930, it handled roughly half of China's foreign trade. The city ran on a mixture of British law, French tolerance, Qing nominal sovereignty, and Chinese entrepreneurial energy that found in the concession zones a space for the kind of commercial and political activity that would have been suppressed in the interior.</p>
       </div>
 
@@ -135,11 +135,11 @@ pinyin: 'Shànghǎi'
       <div class="cards">
         <div class="card c-ochre">
           <div class="card-head"><span class="tag-n">n</span> 租界 zūjiè</div>
-          <p>Concession — the zones of extraterritorial foreign governance established in Shanghai and other treaty ports. The foreign concessions in Shanghai operated from 1843 to 1943, when wartime politics prompted their formal retrocession to China.</p>
+          <p>Concession , the zones of extraterritorial foreign governance established in Shanghai and other treaty ports. The foreign concessions in Shanghai operated from 1843 to 1943, when wartime politics prompted their formal retrocession to China.</p>
         </div>
         <div class="card c-teal">
           <div class="card-head"><span class="tag-n">n</span> 外滩 Wàitān</div>
-          <p>The Bund — the waterfront promenade along the Huangpu River, lined with the banking and trading buildings of the concession era. The name means literally "outer mudflat." Now a heritage district and one of the most photographed urban frontages in China.</p>
+          <p>The Bund , the waterfront promenade along the Huangpu River, lined with the banking and trading buildings of the concession era. The name means literally "outer mudflat." Now a heritage district and one of the most photographed urban frontages in China.</p>
         </div>
         <div class="card c-sienna">
           <div class="card-head"><span class="tag-n">n</span> 海派 hǎipài</div>

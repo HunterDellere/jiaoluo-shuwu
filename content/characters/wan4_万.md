@@ -102,8 +102,8 @@ content_review: 'pending'
 
     <div class="scholar" data-glyph="萬">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
-      <p>The traditional form <strong>萬</strong> was originally a drawing of a scorpion. The oracle-bone graphs are unambiguous: a creature with a triangular head, two claws, segmented body, and curling tail. Scorpions were classified in early Chinese natural lore as swarming, numbering creatures, creatures you could never fully count — and because the spoken word for scorpion was close to the word for ten thousand, the graph was borrowed phonetically to write the number. The original scorpion meaning was dropped; the number became the character's only job. This kind of wholesale phonetic borrowing is called 假借 (jiǎjiè), and 萬 is one of the clearest examples in the script.</p>
-      <p>The simplified form 万 strips the character to three strokes, retaining almost nothing of the scorpion's anatomy. A falling stroke, a hook, one crossbar. The simplification is so radical that 万 looks like a purely arbitrary form to the eye that has never seen 萬 — and that is exactly what happened when the 1956 simplification reforms were implemented. The character's entire visual history disappeared in three strokes.</p>
+      <p>The traditional form <strong>萬</strong> was originally a drawing of a scorpion. The oracle-bone graphs are unambiguous: a creature with a triangular head, two claws, segmented body, and curling tail. Scorpions were classified in early Chinese natural lore as swarming, numbering creatures, creatures you could never fully count , and because the spoken word for scorpion was close to the word for ten thousand, the graph was borrowed phonetically to write the number. The original scorpion meaning was dropped; the number became the character's only job. This kind of wholesale phonetic borrowing is called 假借 (jiǎjiè), and 萬 is one of the clearest examples in the script.</p>
+      <p>The simplified form 万 strips the character to three strokes, retaining almost nothing of the scorpion's anatomy. A falling stroke, a hook, one crossbar. The simplification is so radical that 万 looks like a purely arbitrary form to the eye that has never seen 萬 , and that is exactly what happened when the 1956 simplification reforms were implemented. The character's entire visual history disappeared in three strokes.</p>
       <p>Radical assignment also reflects the arbitrariness. The modern radical table assigns 万 to 一 (one, the single horizontal stroke that forms the base of the simplified form). This is a classification convenience with no etymological weight. The traditional 萬 belongs to 艹 (grass radical) in some dictionaries and to 禺 in the IDS decomposition (⿱艹禺), neither of which has anything to do with ten thousand. The radical system is a filing system; 万's radical tells you where to look it up, not where it came from.</p>
     </div>
 
@@ -118,19 +118,19 @@ content_review: 'pending'
 
     <div class="scholar" data-glyph="万">
       <div class="scholar-label">中文数字系统 · How Chinese groups numbers</div>
-      <p>Chinese and English count large numbers with fundamentally different mental architecture. English groups by thousands: one thousand, one million (thousand-thousands), one billion (thousand-millions). The unit that marks each new group is 1,000. Chinese groups by ten-thousands: 一万 (10,000), 一亿 (100,000,000 — ten-thousand ten-thousands). The unit that marks each new group is 10,000.</p>
+      <p>Chinese and English count large numbers with fundamentally different mental architecture. English groups by thousands: one thousand, one million (thousand-thousands), one billion (thousand-millions). The unit that marks each new group is 1,000. Chinese groups by ten-thousands: 一万 (10,000), 一亿 (100,000,000 , ten-thousand ten-thousands). The unit that marks each new group is 10,000.</p>
       <p>This is not a trivial difference. An English speaker encountering 三百万 (three-hundred-万) must first calculate: 300 × 10,000 = 3,000,000. An English speaker encountering 一亿二千万 (one-亿, two-thousand-万) must calculate: 100,000,000 + 20,000,000 = 120,000,000. The cognitive regrouping is the main source of number errors when Chinese and English speakers work with each other's numbers. The table below shows the scale:</p>
     </div>
 
     <div class="pattern">
-      <span class="label">Chinese number groupings — the 万 system</span>
+      <span class="label">Chinese number groupings , the 万 system</span>
       <strong>一万</strong> yī wàn → 10,000<br>
       <strong>十万</strong> shí wàn → 100,000<br>
       <strong>百万</strong> bǎi wàn → 1,000,000 (one million)<br>
       <strong>千万</strong> qiān wàn → 10,000,000 (ten million)<br>
-      <strong>一亿</strong> yī yì → 100,000,000 (one hundred million — the next named unit)<br>
+      <strong>一亿</strong> yī yì → 100,000,000 (one hundred million , the next named unit)<br>
       <strong>十亿</strong> shí yì → 1,000,000,000 (one billion)<br>
-      <span style="font-size:0.9em;opacity:0.75;">Note: Chinese has no direct equivalent to English "million." 百万 (hundred-ten-thousands) is the closest, but the word 百万 is not a named unit — it is a compound.</span>
+      <span style="font-size:0.9em;opacity:0.75;">Note: Chinese has no direct equivalent to English "million." 百万 (hundred-ten-thousands) is the closest, but the word 百万 is not a named unit , it is a compound.</span>
     </div>
 
     <div class="scholar" data-glyph="万">
@@ -149,9 +149,9 @@ content_review: 'pending'
 
     <div class="scholar" data-glyph="道">
       <div class="scholar-label">道生万物 · The Daodejing and the myriad things</div>
-      <p>In Chinese philosophical tradition, 万 stepped beyond arithmetic to mean "all that exists." The Daodejing (chapter 42) contains the cosmogonic formula: <strong>道生一，一生二，二生三，三生万物</strong> — "The Dao generates one; one generates two; two generates three; three generates the ten-thousand things." The 万物 here is not literally 10,000 items; it is every phenomenon in the universe, the full multiplicity of existence. Ten thousand was simply the largest number the classical mind could hold as a unit, so it became the number of everything.</p>
+      <p>In Chinese philosophical tradition, 万 stepped beyond arithmetic to mean "all that exists." The Daodejing (chapter 42) contains the cosmogonic formula: <strong>道生一，一生二，二生三，三生万物</strong> , "The Dao generates one; one generates two; two generates three; three generates the ten-thousand things." The 万物 here is not literally 10,000 items; it is every phenomenon in the universe, the full multiplicity of existence. Ten thousand was simply the largest number the classical mind could hold as a unit, so it became the number of everything.</p>
       <p>This is the same logic that drives 万岁 (wàn suì), the ten-thousand-years acclamation. Literally: may you live ten thousand years. No emperor actually lived ten thousand years. The phrase means "may you live as long as is immeasurably possible." When Red Guards chanted 毛主席万岁 (Máo Zhǔxí wàn suì) during the Cultural Revolution, they were invoking this ancient hyperbolic register, the same register that once greeted the Son of Heaven with the same four syllables.</p>
-      <p>The 万物 frame persists in modern Chinese as a live expression of totality: 万物复苏 (wànwù fùsū, "all things revive" — spring imagery), 万物有灵 (wànwù yǒulíng, "all things have spirit" — animist cosmology), 万象更新 (wànxiàng gēngxīn, "all phenomena renewed" — the standard New Year phrase, usually written on 春联 chūnlián couplets hung at the door). The number has become the word for everything.</p>
+      <p>The 万物 frame persists in modern Chinese as a live expression of totality: 万物复苏 (wànwù fùsū, "all things revive" , spring imagery), 万物有灵 (wànwù yǒulíng, "all things have spirit" , animist cosmology), 万象更新 (wànxiàng gēngxīn, "all phenomena renewed" , the standard New Year phrase, usually written on 春联 chūnlián couplets hung at the door). The number has become the word for everything.</p>
     </div>
 
     <!-- ── COMPOUNDS ── -->
@@ -173,7 +173,7 @@ content_review: 'pending'
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          万 (myriad) + 物 wù (thing, object, phenomenon). The standard classical and literary expression for "all of existence." In Daoist thought, the ten-thousand things emerge from the interplay of yin and yang, and the Dao underlies them all. In modern use: 万物之灵 (wànwù zhī líng, "the spirit of all things" — how humans are described in classical cosmology), 万物互联 (wànwù hùlián, "the Internet of Things" — a contemporary usage where the ancient phrase absorbs the modern concept).
+          万 (myriad) + 物 wù (thing, object, phenomenon). The standard classical and literary expression for "all of existence." In Daoist thought, the ten-thousand things emerge from the interplay of yin and yang, and the Dao underlies them all. In modern use: 万物之灵 (wànwù zhī líng, "the spirit of all things" , how humans are described in classical cosmology), 万物互联 (wànwù hùlián, "the Internet of Things" , a contemporary usage where the ancient phrase absorbs the modern concept).
         </div>
         <div class="examples">
           <div class="example">
@@ -192,7 +192,7 @@ content_review: 'pending'
         </div>
         <div class="tags"><span class="tag tag-adv">Adv/Conj 副词/连词</span></div>
         <div class="card-def">
-          万 (ten thousand) + 一 (one). Literally, one part in ten thousand — the probability so small it barely registers. In usage: a concession to contingency. 万一下雨怎么办 (wànyī xià yǔ zěnme bàn), "just in case it rains, what do we do?" 万一 presupposes that the speaker considers the outcome unlikely but cannot fully rule it out. It is the Chinese idiom for Murphy's Law.
+          万 (ten thousand) + 一 (one). Literally, one part in ten thousand , the probability so small it barely registers. In usage: a concession to contingency. 万一下雨怎么办 (wànyī xià yǔ zěnme bàn), "just in case it rains, what do we do?" 万一 presupposes that the speaker considers the outcome unlikely but cannot fully rule it out. It is the Chinese idiom for Murphy's Law.
         </div>
         <div class="examples">
           <div class="example">
@@ -211,7 +211,7 @@ content_review: 'pending'
         </div>
         <div class="tags"><span class="tag tag-v">Excl 感叹词</span></div>
         <div class="card-def">
-          万 (ten thousand) + 岁 suì (years of age; year). The imperial acclamation: 皇帝万岁 (huángdì wàn suì), "long live the Emperor." Reserved exclusively for the emperor in traditional usage; to use it for anyone else was a capital offense. During the Mao era the phrase was repurposed: 毛主席万岁 appeared on walls across China, transferring the imperial register to a new object of loyalty. Today 万岁 appears in political slogans and sporting chants — 中国万岁 — and also in informal hyperbolic contexts among friends.
+          万 (ten thousand) + 岁 suì (years of age; year). The imperial acclamation: 皇帝万岁 (huángdì wàn suì), "long live the Emperor." Reserved exclusively for the emperor in traditional usage; to use it for anyone else was a capital offense. During the Mao era the phrase was repurposed: 毛主席万岁 appeared on walls across China, transferring the imperial register to a new object of loyalty. Today 万岁 appears in political slogans and sporting chants , 中国万岁 , and also in informal hyperbolic contexts among friends.
         </div>
         <div class="examples">
           <div class="example">
@@ -249,7 +249,7 @@ content_review: 'pending'
         </div>
         <div class="tags"><span class="tag tag-excl">Excl 祝福语</span></div>
         <div class="card-def">
-          万 (myriad) + 事 shì (matters, things) + 如意 rúyì (as one wishes). The standard all-occasion blessing, appearing on red envelopes, greeting cards, New Year couplets, and toasts. The 如意 sceptre (a ceremonial S-curved wand) is named for this concept and was a traditional gift signifying that things would proceed according to the recipient's wishes. 万事如意 is to Chinese blessings what "all the best" is to English — the versatile, affectionate default.
+          万 (myriad) + 事 shì (matters, things) + 如意 rúyì (as one wishes). The standard all-occasion blessing, appearing on red envelopes, greeting cards, New Year couplets, and toasts. The 如意 sceptre (a ceremonial S-curved wand) is named for this concept and was a traditional gift signifying that things would proceed according to the recipient's wishes. 万事如意 is to Chinese blessings what "all the best" is to English , the versatile, affectionate default.
         </div>
         <div class="examples">
           <div class="example">
@@ -291,14 +291,14 @@ content_review: 'pending'
         <span class="cy-cn">万事俱备，只欠东风</span>
         <span class="cy-py">wàn shì jù bèi, zhǐ qiàn dōngfēng</span>
         <span class="cy-en">all ten thousand things are ready; only the east wind is lacking</span>
-        <span class="cy-note">From the Romance of the Three Kingdoms (三国演义). Before the Battle of Red Cliffs (208 CE), Zhuge Liang tells Zhou Yu that the plan is complete in every respect — except that the wind is blowing in the wrong direction to set the enemy fleet alight. Zhou Yu, knowing he needs a southeast wind, has no solution. Zhuge Liang, having studied meteorology and the season, predicts the wind will shift. The chengyu now means: everything is in place; only one final condition is missing. Used for projects, plans, and deals that are nearly ready.</span>
+        <span class="cy-note">From the Romance of the Three Kingdoms (三国演义). Before the Battle of Red Cliffs (208 CE), Zhuge Liang tells Zhou Yu that the plan is complete in every respect , except that the wind is blowing in the wrong direction to set the enemy fleet alight. Zhou Yu, knowing he needs a southeast wind, has no solution. Zhuge Liang, having studied meteorology and the season, predicts the wind will shift. The chengyu now means: everything is in place; only one final condition is missing. Used for projects, plans, and deals that are nearly ready.</span>
       </div>
 
       <div class="cy">
         <span class="cy-cn">万紫千红</span>
         <span class="cy-py">wàn zǐ qiān hóng</span>
         <span class="cy-en">ten thousand purples, a thousand reds — a riot of color; abundant beauty</span>
-        <span class="cy-note">From the Song dynasty poet Zhu Xi 朱熹: 等闲识得东风面，万紫千红总是春 — "It is easy to recognize the face of the east wind: ten thousand purples and a thousand reds — it is all spring." The phrase moved from the poem into common use as the standard expression for spring's visual abundance. Now used for any scene of color or variety: a market, a festival, a successful cultural exhibition.</span>
+        <span class="cy-note">From the Song dynasty poet Zhu Xi 朱熹: 等闲识得东风面，万紫千红总是春 , "It is easy to recognize the face of the east wind: ten thousand purples and a thousand reds , it is all spring." The phrase moved from the poem into common use as the standard expression for spring's visual abundance. Now used for any scene of color or variety: a market, a festival, a successful cultural exhibition.</span>
       </div>
 
     </div>

@@ -106,9 +106,9 @@ content_review: 'pending'
 
     <div class="scholar" data-glyph="小">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
-      <p>The oracle-bone and bronze inscriptions of <strong>小</strong> show three small marks: a central vertical stroke flanked by two dots or short diagonal strokes. The image captures the idea of grains of sand or scattered particles — matter at the threshold of visibility. These are the smallest marks a brush can make while still making three distinct impressions.</p>
-      <p>小 is its own radical (Kangxi radical #42), heading a small family of characters. Its most direct derivative is 少 shǎo (few, scarce) — in oracle-bone forms, 少 is sometimes read as 小 with one stroke removed, the minimum reduced further. 尖 jiān (sharp, pointed) pairs 小 on top of 大, the tip of a cone tapering from large to small. 尘 chén (dust) in its traditional form 塵 shows a deer above earth, but the simplified form merges 小 with 土, tiny particles of earth.</p>
-      <p>The character has served as its own radical since the earliest lexicographic traditions. Shuōwén Jiězì glosses it as representing "something that divides and becomes fine" — the visual act of splitting a thing into its smallest elements.</p>
+      <p>The oracle-bone and bronze inscriptions of <strong>小</strong> show three small marks: a central vertical stroke flanked by two dots or short diagonal strokes. The image captures the idea of grains of sand or scattered particles , matter at the threshold of visibility. These are the smallest marks a brush can make while still making three distinct impressions.</p>
+      <p>小 is its own radical (Kangxi radical #42), heading a small family of characters. Its most direct derivative is 少 shǎo (few, scarce) , in oracle-bone forms, 少 is sometimes read as 小 with one stroke removed, the minimum reduced further. 尖 jiān (sharp, pointed) pairs 小 on top of 大, the tip of a cone tapering from large to small. 尘 chén (dust) in its traditional form 塵 shows a deer above earth, but the simplified form merges 小 with 土, tiny particles of earth.</p>
+      <p>The character has served as its own radical since the earliest lexicographic traditions. Shuōwén Jiězì glosses it as representing "something that divides and becomes fine" , the visual act of splitting a thing into its smallest elements.</p>
     </div>
 
     <!-- ── SIZE & DEGREE ── -->
@@ -136,7 +136,7 @@ content_review: 'pending'
           <div class="example">
             <div class="ex-cn">小心，地板很滑。</div>
             <div class="ex-py">Xiǎoxīn, dìbǎn hěn huá.</div>
-            <div class="ex-en">Careful — the floor is very slippery.</div>
+            <div class="ex-en">Careful , the floor is very slippery.</div>
           </div>
         </div>
       </div>
@@ -149,7 +149,7 @@ content_review: 'pending'
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          小 xiǎo (small) + 时 shí (time; hour). A small slice of time: one hour. The compound reflects a traditional view of time's granularity — the hour as the smallest standard unit. Contrast 小时候 xiǎoshíhou (childhood, "when one was small"), where 小时 carries the older sense of "young age."
+          小 xiǎo (small) + 时 shí (time; hour). A small slice of time: one hour. The compound reflects a traditional view of time's granularity , the hour as the smallest standard unit. Contrast 小时候 xiǎoshíhou (childhood, "when one was small"), where 小时 carries the older sense of "young age."
         </div>
         <div class="examples">
           <div class="example">
@@ -206,7 +206,7 @@ content_review: 'pending'
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          小 xiǎo (small) + 孩 hái (child). The standard neutral word for a child. Related: 小朋友 xiǎopéngyou (young friend — the standard address for children, used by teachers and adults), 小孩子 xiǎoháizi (a slightly more affectionate variant with the diminutive 子). 小学 xiǎoxué (elementary school — "small learning," the learning of the small; contrast 大学 "great learning").
+          小 xiǎo (small) + 孩 hái (child). The standard neutral word for a child. Related: 小朋友 xiǎopéngyou (young friend , the standard address for children, used by teachers and adults), 小孩子 xiǎoháizi (a slightly more affectionate variant with the diminutive 子). 小学 xiǎoxué (elementary school , "small learning," the learning of the small; contrast 大学 "great learning").
         </div>
         <div class="examples">
           <div class="example">
@@ -231,8 +231,8 @@ content_review: 'pending'
     <div class="scholar" data-glyph="小">
       <div class="scholar-label">文化洞见 wénhuà dòngjiàn · Cultural Insight</div>
       <p>Classical Chinese developed a rich vocabulary of self-deprecation, and 小 is at the center of it. When placed before kinship terms or nouns denoting oneself or one's belongings, 小 signals that the speaker acknowledges their inferior status relative to the person addressed. This is the polite deflation of one's own importance.</p>
-      <p><strong>小弟 xiǎodì</strong> — "this humble younger brother" — is how a man addresses another in formal or deferential contexts, even if he is older. <strong>小女 xiǎonǚ</strong> — "my humble daughter" — is how a father refers to his daughter when speaking to a superior or an elder. <strong>小店 xiǎodiàn</strong> — "my humble shop" — is still carved above the doors of traditional businesses. <strong>小生 xiǎoshēng</strong> — "this humble student/young person" — remains in use in classical theater and formal writing.</p>
-      <p>The register survives in contemporary speech. A restaurant owner may still say 小店 when welcoming guests. An author may write 小作 (my humble work) when presenting a manuscript. The humility is formulaic but not insincere — it preserves a relational hierarchy that Confucian ethics treats as the foundation of proper social functioning.</p>
+      <p><strong>小弟 xiǎodì</strong> , "this humble younger brother" , is how a man addresses another in formal or deferential contexts, even if he is older. <strong>小女 xiǎonǚ</strong> , "my humble daughter" , is how a father refers to his daughter when speaking to a superior or an elder. <strong>小店 xiǎodiàn</strong> , "my humble shop" , is still carved above the doors of traditional businesses. <strong>小生 xiǎoshēng</strong> , "this humble student/young person" , remains in use in classical theater and formal writing.</p>
+      <p>The register survives in contemporary speech. A restaurant owner may still say 小店 when welcoming guests. An author may write 小作 (my humble work) when presenting a manuscript. The humility is formulaic but not insincere , it preserves a relational hierarchy that Confucian ethics treats as the foundation of proper social functioning.</p>
     </div>
 
     <div class="cards">
@@ -245,7 +245,7 @@ content_review: 'pending'
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          Used by a male speaker to refer to himself deferentially, regardless of birth order. The formula downsizes the speaker relative to the listener. Also used literally for a younger brother. In gangster/triad contexts, 小弟 means a low-ranking follower — the hierarchy is explicit.
+          Used by a male speaker to refer to himself deferentially, regardless of birth order. The formula downsizes the speaker relative to the listener. Also used literally for a younger brother. In gangster/triad contexts, 小弟 means a low-ranking follower , the hierarchy is explicit.
         </div>
       </div>
 
@@ -257,7 +257,7 @@ content_review: 'pending'
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          A father's way of referring to his daughter when speaking to someone of higher status. The 小 does not mean the daughter is young or small — it encodes the father's self-positioning as lesser. Compare 犬子 quǎnzǐ (my unworthy son — lit. "dog son"), the parallel self-deprecating term for sons.
+          A father's way of referring to his daughter when speaking to someone of higher status. The 小 does not mean the daughter is young or small , it encodes the father's self-positioning as lesser. Compare 犬子 quǎnzǐ (my unworthy son , lit. "dog son"), the parallel self-deprecating term for sons.
         </div>
       </div>
 
@@ -273,12 +273,12 @@ content_review: 'pending'
     </div>
 
     <div class="scholar" data-glyph="小">
-      <div class="scholar-label">论语 Lúnyǔ · Analects — the central contrast</div>
-      <p>The most consequential use of 小 in Chinese intellectual history is moral. <strong>小人 xiǎorén</strong> — literally "small person" — does not mean a person of short stature. It means a person of small moral character: self-interested, petty, reactive, driven by personal gain and immediate desire. The 小 here is ethical miniaturization.</p>
-      <p>Against the 小人 stands the <strong>君子 jūnzǐ</strong> — the "exemplary person," originally "son of a lord" but transformed by Confucius into an aspirational moral category open in principle to anyone. The 君子 cultivates ren (仁 benevolence), upholds yi (义 righteousness), and maintains their composure under any circumstance.</p>
-      <p>The Analects crystallizes the contrast in one of its most-cited lines: <strong>君子坦荡荡，小人长戚戚</strong> — "The junzi is open and at ease; the petty person is perpetually anxious." The junzi's moral groundedness expresses itself as psychological calm. The 小人's self-interest produces chronic worry: about status, about loss, about what others think. Smallness of character generates its own suffering.</p>
-      <p>Confucius does not dismiss the 小人 as hopeless. The Analects include passages where Confucius acknowledges that 小人 can be managed and worked with, and that a ruler must understand both types. The pairing is descriptive and prescriptive: it names what people are, and points toward what they should become. 小人 and 君子 are not fixed identities — they are tendencies, directions of moral movement.</p>
-      <p>The contrast appears throughout Chinese literature, politics, and everyday speech. A person who betrays a friend for advantage is called a 小人. A colleague who takes credit for another's work is 小人行为 (petty-person behavior). The term carries real moral force — being called a 小人 in Chinese is a serious accusation.</p>
+      <div class="scholar-label">论语 Lúnyǔ · Analects , the central contrast</div>
+      <p>The most consequential use of 小 in Chinese intellectual history is moral. <strong>小人 xiǎorén</strong> , literally "small person" , does not mean a person of short stature. It means a person of small moral character: self-interested, petty, reactive, driven by personal gain and immediate desire. The 小 here is ethical miniaturization.</p>
+      <p>Against the 小人 stands the <strong>君子 jūnzǐ</strong> , the "exemplary person," originally "son of a lord" but transformed by Confucius into an aspirational moral category open in principle to anyone. The 君子 cultivates ren (仁 benevolence), upholds yi (义 righteousness), and maintains their composure under any circumstance.</p>
+      <p>The Analects crystallizes the contrast in one of its most-cited lines: <strong>君子坦荡荡，小人长戚戚</strong> , "The junzi is open and at ease; the petty person is perpetually anxious." The junzi's moral groundedness expresses itself as psychological calm. The 小人's self-interest produces chronic worry: about status, about loss, about what others think. Smallness of character generates its own suffering.</p>
+      <p>Confucius does not dismiss the 小人 as hopeless. The Analects include passages where Confucius acknowledges that 小人 can be managed and worked with, and that a ruler must understand both types. The pairing is descriptive and prescriptive: it names what people are, and points toward what they should become. 小人 and 君子 are not fixed identities , they are tendencies, directions of moral movement.</p>
+      <p>The contrast appears throughout Chinese literature, politics, and everyday speech. A person who betrays a friend for advantage is called a 小人. A colleague who takes credit for another's work is 小人行为 (petty-person behavior). The term carries real moral force , being called a 小人 in Chinese is a serious accusation.</p>
     </div>
 
     <div class="cards">
@@ -310,7 +310,7 @@ content_review: 'pending'
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          君 jūn (lord; ruler) + 子 zǐ (son; person of learning). Originally: son of a lord. Confucius redefined it as the person who has cultivated ren, yi, and propriety (礼 lǐ) to a high degree. The 君子 is the aspirational figure of Confucian ethics — morally serious, composed, reliable, honest, attentive to others. The goal of self-cultivation is to become one.
+          君 jūn (lord; ruler) + 子 zǐ (son; person of learning). Originally: son of a lord. Confucius redefined it as the person who has cultivated ren, yi, and propriety (礼 lǐ) to a high degree. The 君子 is the aspirational figure of Confucian ethics , morally serious, composed, reliable, honest, attentive to others. The goal of self-cultivation is to become one.
         </div>
         <div class="examples">
           <div class="example">
@@ -325,8 +325,8 @@ content_review: 'pending'
 
     <!-- Daoist aside -->
     <div class="scholar" data-glyph="小">
-      <div class="scholar-label">道德经 · Laozi Chapter 80 — 小 as political ideal</div>
-      <p>Where Confucius made 小 a moral accusation, Laozi made it a political virtue. Chapter 80 of the Daodejing presents the ideal polity as <strong>小国寡民</strong> — "small state, few people." Laozi imagines a community so small and self-sufficient that people never need to travel, even when neighboring states are within earshot. The smallness is not poverty but sufficiency: nothing superfluous, no apparatus of expansion, no ambition that strains the population. The Daoist ideal directly opposes the Confucian program of cultivation and civilization-building. Both traditions claim 小 — one as the mark of moral failure, the other as the shape of political wisdom.</p>
+      <div class="scholar-label">道德经 · Laozi Chapter 80 , 小 as political ideal</div>
+      <p>Where Confucius made 小 a moral accusation, Laozi made it a political virtue. Chapter 80 of the Daodejing presents the ideal polity as <strong>小国寡民</strong> , "small state, few people." Laozi imagines a community so small and self-sufficient that people never need to travel, even when neighboring states are within earshot. The smallness is not poverty but sufficiency: nothing superfluous, no apparatus of expansion, no ambition that strains the population. The Daoist ideal directly opposes the Confucian program of cultivation and civilization-building. Both traditions claim 小 , one as the mark of moral failure, the other as the shape of political wisdom.</p>
     </div>
 
     <!-- ── CHENGYU ── -->
@@ -351,7 +351,7 @@ content_review: 'pending'
         <span class="cy-cn">以小见大</span>
         <span class="cy-py">yǐ xiǎo jiàn dà</span>
         <span class="cy-en">see the great through the small — the particular reveals the universal</span>
-        <span class="cy-note">Lit: use-small see-great. A principle of classical aesthetics and moral observation: close attention to a small thing — a grain of sand, a single conversation, a minor act of character — reveals large truths. The phrase is used in literary criticism (the detail that illuminates a whole world) and in everyday speech (noticing how someone treats a waiter tells you about their character).</span>
+        <span class="cy-note">Lit: use-small see-great. A principle of classical aesthetics and moral observation: close attention to a small thing , a grain of sand, a single conversation, a minor act of character , reveals large truths. The phrase is used in literary criticism (the detail that illuminates a whole world) and in everyday speech (noticing how someone treats a waiter tells you about their character).</span>
       </div>
 
       <div class="cy">

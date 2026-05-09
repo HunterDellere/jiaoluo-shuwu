@@ -96,11 +96,11 @@ pinyin: 'jīngjù'
       <div class="scholar" data-glyph="脸">
         <div class="scholar-label">颜色与性格 · Color and Character</div>
         <p>The painted faces of <strong>净</strong> roles follow a codified color symbolism that audiences learn to read instantly:</p>
-        <p><strong>红 hóng (red)</strong> — loyalty, valor, righteousness. The red face of Guan Yu (关羽), the god of war and patron of brotherhoods, is the most iconic painted face in Chinese theater.</p>
-        <p><strong>黑 hēi (black)</strong> — integrity, roughness, impartiality. Zhang Fei (张飞) in the Three Kingdoms tradition. The moral force of a man who cannot be bought.</p>
-        <p><strong>白 bái (white)</strong> — treachery, cunning, suspicion. Cao Cao's white face marks him immediately as a character not to be trusted, a code the audience reads before he speaks a word.</p>
-        <p><strong>蓝/绿 lán/lǜ (blue/green)</strong> — ferocity, demon nature, supernatural force.</p>
-        <p><strong>金/银 jīn/yín (gold/silver)</strong> — divinity, the supernatural, figures from mythology.</p>
+        <p><strong>红 hóng (red)</strong> , loyalty, valor, righteousness. The red face of Guan Yu (关羽), the god of war and patron of brotherhoods, is the most iconic painted face in Chinese theater.</p>
+        <p><strong>黑 hēi (black)</strong> , integrity, roughness, impartiality. Zhang Fei (张飞) in the Three Kingdoms tradition. The moral force of a man who cannot be bought.</p>
+        <p><strong>白 bái (white)</strong> , treachery, cunning, suspicion. Cao Cao's white face marks him immediately as a character not to be trusted, a code the audience reads before he speaks a word.</p>
+        <p><strong>蓝/绿 lán/lǜ (blue/green)</strong> , ferocity, demon nature, supernatural force.</p>
+        <p><strong>金/银 jīn/yín (gold/silver)</strong> , divinity, the supernatural, figures from mythology.</p>
         <p>Each character's face design is unique and hereditary, passed from master to student with the role. The design encodes the character's moral nature, personality, and history in a visual grammar that Chinese audiences have been reading for two centuries.</p>
       </div>
 
@@ -120,7 +120,7 @@ pinyin: 'jīngjù'
       <div class="cards">
         <div class="card c-ochre">
           <div class="card-head"><span class="tag-n">n</span> 唱腔 chàngqiāng</div>
-          <p>Vocal style — the melodic and tonal patterns of a particular role type. Different roles use different vocal registers and melodic conventions.</p>
+          <p>Vocal style , the melodic and tonal patterns of a particular role type. Different roles use different vocal registers and melodic conventions.</p>
         </div>
         <div class="card c-ochre">
           <div class="card-head"><span class="tag-n">n</span> 武打 wǔdǎ</div>

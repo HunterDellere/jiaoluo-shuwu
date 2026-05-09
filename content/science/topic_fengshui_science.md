@@ -31,7 +31,7 @@ pinyin: 'fēngshuǐ'
 
     <ul class="toc-list">
       <li><a href="#origins">
-        <span class="toc-cn">起源</span> Origins — Burial Site to Living Space
+        <span class="toc-cn">起源</span> Origins , Burial Site to Living Space
         <span class="toc-sub">yin and yang dwellings</span>
       </a></li>
       <li><a href="#theory">
@@ -77,10 +77,10 @@ pinyin: 'fēngshuǐ'
 
     <div class="scholar" data-glyph="风">
       <div class="scholar-label">阴宅与阳宅 yīn zhái yǔ yáng zhái · Dwellings of the Dead and the Living</div>
-      <p>The term 风水 (fēngshuǐ, "wind-water") comes from a passage in the fourth-century CE text <em>Zang Shu</em> (葬书, "Book of Burial") attributed to the geomancer Guo Pu 郭璞: "qi rides the wind and scatters; bounded by water it is retained." The full phrase that gives the practice its name — <em>乘风则散，界水则止，古人聚之使不散，行之使有止，故谓之风水</em> — describes the practitioner's task as keeping qi gathered: blocked from dispersing by wind, contained by water. The name encodes the two environmental features most critical for site evaluation.</p>
+      <p>The term 风水 (fēngshuǐ, "wind-water") comes from a passage in the fourth-century CE text <em>Zang Shu</em> (葬书, "Book of Burial") attributed to the geomancer Guo Pu 郭璞: "qi rides the wind and scatters; bounded by water it is retained." The full phrase that gives the practice its name , <em>乘风则散，界水则止，古人聚之使不散，行之使有止，故谓之风水</em> , describes the practitioner's task as keeping qi gathered: blocked from dispersing by wind, contained by water. The name encodes the two environmental features most critical for site evaluation.</p>
       <p>The earliest application of geomantic principles was to <strong>burial sites</strong>, <strong>阴宅</strong> (yīn zhái, "yin dwelling," the home of the dead). In the Chinese ancestral veneration tradition, the prosperity of the living descendants was believed to depend on the quality of the qi environment surrounding the ancestor's burial. A grave sited on ground where qi gathered and was retained would bring blessings to the lineage; a grave sited where qi dispersed or stagnated would bring misfortune. Finding the optimal burial site was therefore not an act of sentiment but of strategic importance, and skilled geomancers commanded high fees and significant social prestige.</p>
       <p>The application of geomantic principles to <strong>living spaces</strong>, <strong>阳宅</strong> (yáng zhái, "yang dwelling," the home of the living), developed in parallel and eventually became the dominant application. City planning, palace orientation, temple siting, residential construction, and business premises all became subjects of geomantic analysis. The criteria overlap: a site where qi gathers rather than disperses is favorable for both the dead and the living. But the specific indicators and the corrective interventions differ substantially between the two applications, and specialist practitioners often focus on one or the other.</p>
-      <p>The foundational geomantic requirement for a site — shared across virtually all schools — is the <strong>四灵格局</strong> (sì líng géjú, "four spirit configuration"): the site should be backed by a hill or mountain (the Black Tortoise, 玄武 Xuánwǔ, to the north), flanked by lower hills on left (the Azure Dragon, 青龙 Qīnglóng, to the east) and right (the White Tiger, 白虎 Báihǔ, to the west), and open to water or a flat plain in front (the Vermilion Bird, 朱雀 Zhūquè, to the south). This configuration — sheltered from the north, open to the south — corresponds to what environmental design now calls "defensible space" and what climatology recognizes as optimal orientation for wind protection and solar gain in temperate northern latitudes.</p>
+      <p>The foundational geomantic requirement for a site , shared across virtually all schools , is the <strong>四灵格局</strong> (sì líng géjú, "four spirit configuration"): the site should be backed by a hill or mountain (the Black Tortoise, 玄武 Xuánwǔ, to the north), flanked by lower hills on left (the Azure Dragon, 青龙 Qīnglóng, to the east) and right (the White Tiger, 白虎 Báihǔ, to the west), and open to water or a flat plain in front (the Vermilion Bird, 朱雀 Zhūquè, to the south). This configuration , sheltered from the north, open to the south , corresponds to what environmental design now calls "defensible space" and what climatology recognizes as optimal orientation for wind protection and solar gain in temperate northern latitudes.</p>
     </div>
 
     <span class="section-anchor" id="theory"></span>
@@ -95,7 +95,7 @@ pinyin: 'fēngshuǐ'
       <div class="scholar-label">龙脉 lóngmài · Dragon Veins</div>
       <p>The geomantic reading of a landscape proceeds through the concept of <strong>龙脉</strong> (lóngmài, "dragon veins"), the channels through which terrestrial qi flows, analogous in their logic to the meridian channels of the body. Dragon veins follow mountain ranges and ridgelines; they branch at lower hills; they terminate at specific points where qi surfaces and concentrates. The master geomancer's skill is in tracing these veins from their source in the great mountain ranges to their endpoint at the proposed site, assessing whether the vein is vital and whether the site receives its qi effectively or whether the flow is interrupted, dissipated, or blocked.</p>
       <p>Water features are read as qi concentrators and qi boundaries. A site enclosed in a curve of a river or backed by a mountain lake will retain gathered qi; a site on a promontory where water flows rapidly past and wind is unobstructed will bleed qi away. The specific shape and direction of water flow relative to the site, whether the water curves toward or away, whether it forms a "bright hall" (明堂 míngtáng) of open ground in front of the site, is one of the more technically involved aspects of site assessment and differs significantly between schools.</p>
-      <p>The proto-scientific dimension of these observations is clearest in the overlap with practical site evaluation. A site sheltered from prevailing cold winds (from the north and northwest in north China) by mountains, south-facing for maximum winter sun, positioned above flood level but near water, with well-drained soil that does not collect damp — this is both the geomantically optimal site and the common-sense optimal site from the perspectives of climate, agriculture, and health. The geomantic framework adds a cosmological layer of meaning to practical observations that would in many cases be valid regardless of the cosmological framework. The question of how much of fengshui represents systematic empirical observation encoded in cosmological language, and how much is unfalsifiable cosmological elaboration, is genuinely interesting and not yet fully resolved by historians of science.</p>
+      <p>The proto-scientific dimension of these observations is clearest in the overlap with practical site evaluation. A site sheltered from prevailing cold winds (from the north and northwest in north China) by mountains, south-facing for maximum winter sun, positioned above flood level but near water, with well-drained soil that does not collect damp , this is both the geomantically optimal site and the common-sense optimal site from the perspectives of climate, agriculture, and health. The geomantic framework adds a cosmological layer of meaning to practical observations that would in many cases be valid regardless of the cosmological framework. The question of how much of fengshui represents systematic empirical observation encoded in cosmological language, and how much is unfalsifiable cosmological elaboration, is genuinely interesting and not yet fully resolved by historians of science.</p>
     </div>
 
     <span class="section-anchor" id="schools"></span>
@@ -110,14 +110,14 @@ pinyin: 'fēngshuǐ'
       <span class="label">形势派与理气派 xíngshì pài yǔ lǐqì pài · The Two Main Schools Compared</span>
       <strong>形势派 Form School</strong> (also called 峦头派 luántóu pài, "mountain head school")<br>
       Origin: Jiangxi 江西 · Founder tradition: Yang Yunsong 杨筠松 (Tang dynasty)<br>
-      Primary method: Visual landscape reading — mountain shapes, water courses, landform gestures<br>
+      Primary method: Visual landscape reading , mountain shapes, water courses, landform gestures<br>
       Key concepts: Dragon veins (龙脉), cave-lair site (穴 xué), sand (砂, surrounding landforms), water (水)<br>
       Strength: Directly observable; closely tied to practical site evaluation<br>
       Limitation: Highly dependent on practitioner's qualitative judgment; less systematic in flat terrain<br>
       <br>
       <strong>理气派 Compass School</strong> (also called 三合派, 飞星派 among others)<br>
       Origin: Fujian 福建 · Founder tradition: Wang Ji 王伋 and later systematizers<br>
-      Primary method: Luopan compass readings — direction, orientation, time cycles, qi patterns by direction<br>
+      Primary method: Luopan compass readings , direction, orientation, time cycles, qi patterns by direction<br>
       Key concepts: Eight trigrams (八卦), Heavenly Stems and Earthly Branches, Flying Stars (飞星 fēixīng)<br>
       Strength: More systematic and teachable; produces specific numerical assessments<br>
       Limitation: Increasingly abstract; further from direct environmental observation<br>
@@ -165,11 +165,11 @@ pinyin: 'fēngshuǐ'
     <div class="cards">
       <div class="card c-teal">
         <div class="card-head"><span class="tag-n">n</span> 风水 fēngshuǐ</div>
-        <p>Wind-water — the art and practice of site selection based on the assessment of environmental qi flow. The name comes from the principle that qi scatters in wind and is retained by water. Applied to burial sites (阴宅), living spaces (阳宅), and commercial buildings. In everyday modern Chinese, 风水 also functions colloquially to mean "luck of a place" or "the way things are going" for a person or organization.</p>
+        <p>Wind-water , the art and practice of site selection based on the assessment of environmental qi flow. The name comes from the principle that qi scatters in wind and is retained by water. Applied to burial sites (阴宅), living spaces (阳宅), and commercial buildings. In everyday modern Chinese, 风水 also functions colloquially to mean "luck of a place" or "the way things are going" for a person or organization.</p>
       </div>
       <div class="card c-ochre">
         <div class="card-head"><span class="tag-n">n</span> 龙脉 lóngmài</div>
-        <p>Dragon veins — the channels through which terrestrial qi flows along mountain ranges and ridgelines. The foundational concept of Form School geomancy. A skilled practitioner traces the dragon vein from its source in major mountain ranges to its termination at a proposed site, assessing the quality and vitality of the qi flow and whether the site is positioned to receive it.</p>
+        <p>Dragon veins , the channels through which terrestrial qi flows along mountain ranges and ridgelines. The foundational concept of Form School geomancy. A skilled practitioner traces the dragon vein from its source in major mountain ranges to its termination at a proposed site, assessing the quality and vitality of the qi flow and whether the site is positioned to receive it.</p>
       </div>
       <div class="card c-sienna">
         <div class="card-head"><span class="tag-n">n</span> 罗盘 luópán</div>

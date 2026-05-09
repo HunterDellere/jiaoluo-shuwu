@@ -63,7 +63,7 @@ content_sources:
       <span class="topic-hero-eyebrow">Vocab · 词汇 cíhuì</span>
       <h1 class="topic-hero-title">茶道</h1>
       <span class="topic-hero-title-py">chá dào</span>
-      <p class="topic-hero-desc">From wild Yunnan forest leaf to Song dynasty foam bowls to the Gongfu Cha ceremony — tea is China's quintessential art of mindful presence.</p>
+      <p class="topic-hero-desc">From wild Yunnan forest leaf to Song dynasty foam bowls to the Gongfu Cha ceremony , tea is China's quintessential art of mindful presence.</p>
     </header>
 
     <span class="section-anchor" id="etymology"></span>
@@ -76,8 +76,8 @@ content_sources:
 
     <div class="scholar" data-glyph="茶">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
-      <p><strong>茶 chá</strong> is a phono-semantic compound: the grass radical 艹 (plant) over 余 yú (a phonetic element meaning "remainder" — sound indicator). It was not always written 茶: early texts used 荼 tú, a word for a bitter plant. The dedicated character 茶 emerged in Tang dynasty writings, especially in the <em>Chájīng</em> 茶经 (Classic of Tea) by Lu Yu 陆羽 (733–804), who separated 茶 from the older 荼 by removing one stroke.</p>
-      <p>Lu Yu's decision was monumental: it gave tea its own character, its own identity, its own lexical domain. From that moment, 茶 was not just a plant — it was a civilization.</p>
+      <p><strong>茶 chá</strong> is a phono-semantic compound: the grass radical 艹 (plant) over 余 yú (a phonetic element meaning "remainder" , sound indicator). It was not always written 茶: early texts used 荼 tú, a word for a bitter plant. The dedicated character 茶 emerged in Tang dynasty writings, especially in the <em>Chájīng</em> 茶经 (Classic of Tea) by Lu Yu 陆羽 (733–804), who separated 茶 from the older 荼 by removing one stroke.</p>
+      <p>Lu Yu's decision was monumental: it gave tea its own character, its own identity, its own lexical domain. From that moment, 茶 was not just a plant , it was a civilization.</p>
       <p>The word spread from Chinese into almost every language on earth via one of two routes: the Cantonese/Fujian coastal pronunciation <em>te</em> (→ English "tea," French "thé," Spanish "té") or the Mandarin/Cantonese inland trading pronunciation <em>chá</em> (→ Russian "чай" chai, Arabic "شاي" shay, Hindi "chai," Portuguese "chá"). If your language says "tea," you got it from sea trade. If it says "chai/cha," you got it from the land route.</p>
     </div>
 
@@ -91,10 +91,10 @@ content_sources:
 
     <div class="scholar" data-glyph="茶">
       <div class="scholar-label">历史 lìshǐ · Historical Arc</div>
-      <p><strong>汉 Han dynasty (206 BCE–220 CE):</strong> Tea consumed primarily as medicine — boiled with ginger, onion, and salt. The Yunnan-Sichuan highlands are its likely origin. The wild tea tree 野生大茶树 can live for over a thousand years; some ancient specimens in Yunnan are estimated at 2,700 years old.</p>
-      <p><strong>唐 Tang dynasty (618–907):</strong> Lu Yu writes the <em>Chájīng</em> 茶经 — the world's first book devoted entirely to tea. He systematizes cultivation, processing, water quality, utensils, and the aesthetics of the tea ceremony. Tea becomes an art form, not just a beverage. 茶马古道 Chá Mǎ Gǔ Dào (the Ancient Tea Horse Road) carries compressed pu'er through Tibet to Central Asia.</p>
-      <p><strong>宋 Song dynasty (960–1279):</strong> The height of tea aesthetics — powdered tea 抹茶 matcha whisked in dark lacquer bowls; competitions in froth-reading (茶百戏). This tradition transmitted to Japan via Zen monks, becoming the Japanese Tea Ceremony 茶道.</p>
-      <p><strong>明 Ming dynasty (1368–1644):</strong> Whole-leaf steeping replaces powdered tea — the method we use today. The Yixing purple clay teapot 紫砂壶 becomes the iconic brewing vessel.</p>
+      <p><strong>汉 Han dynasty (206 BCE–220 CE):</strong> Tea consumed primarily as medicine , boiled with ginger, onion, and salt. The Yunnan-Sichuan highlands are its likely origin. The wild tea tree 野生大茶树 can live for over a thousand years; some ancient specimens in Yunnan are estimated at 2,700 years old.</p>
+      <p><strong>唐 Tang dynasty (618–907):</strong> Lu Yu writes the <em>Chájīng</em> 茶经 , the world's first book devoted entirely to tea. He systematizes cultivation, processing, water quality, utensils, and the aesthetics of the tea ceremony. Tea becomes an art form, not just a beverage. 茶马古道 Chá Mǎ Gǔ Dào (the Ancient Tea Horse Road) carries compressed pu'er through Tibet to Central Asia.</p>
+      <p><strong>宋 Song dynasty (960–1279):</strong> The height of tea aesthetics , powdered tea 抹茶 matcha whisked in dark lacquer bowls; competitions in froth-reading (茶百戏). This tradition transmitted to Japan via Zen monks, becoming the Japanese Tea Ceremony 茶道.</p>
+      <p><strong>明 Ming dynasty (1368–1644):</strong> Whole-leaf steeping replaces powdered tea , the method we use today. The Yixing purple clay teapot 紫砂壶 becomes the iconic brewing vessel.</p>
     </div>
 
     <span class="section-anchor" id="six-teas"></span>
@@ -108,12 +108,12 @@ content_sources:
     <div class="pattern">
       <span class="label">六大茶类 liù dà chálèi · Classified by Oxidation Level</span>
       All Chinese tea comes from the same plant: <em>Camellia sinensis</em>. The six categories reflect degree of oxidation and processing:<br><br>
-      <strong>绿茶</strong> lǜchá Green — unoxidized · 龙井 Lóngjǐng, 碧螺春 Bìluóchūn<br>
-      <strong>白茶</strong> báichá White — minimally oxidized · 白毫银针 silver needle<br>
-      <strong>黄茶</strong> huángchá Yellow — slow-dried, slight oxidation<br>
-      <strong>青茶</strong> qīngchá Oolong — partially oxidized · 铁观音 Tiěguānyīn<br>
-      <strong>红茶</strong> hóngchá "Red" tea (what the West calls black tea) — fully oxidized · 祁门红茶<br>
-      <strong>黑茶</strong> hēichá "Dark" tea — post-fermented · 普洱 Pǔ'ěr (pu'er)
+      <strong>绿茶</strong> lǜchá Green , unoxidized · 龙井 Lóngjǐng, 碧螺春 Bìluóchūn<br>
+      <strong>白茶</strong> báichá White , minimally oxidized · 白毫银针 silver needle<br>
+      <strong>黄茶</strong> huángchá Yellow , slow-dried, slight oxidation<br>
+      <strong>青茶</strong> qīngchá Oolong , partially oxidized · 铁观音 Tiěguānyīn<br>
+      <strong>红茶</strong> hóngchá "Red" tea (what the West calls black tea) , fully oxidized · 祁门红茶<br>
+      <strong>黑茶</strong> hēichá "Dark" tea , post-fermented · 普洱 Pǔ'ěr (pu'er)
     </div>
 
     <div class="cards">
@@ -126,7 +126,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 专有名词 proper noun</span></div>
         <div class="card-def">
-          From 龙坞 Dragon Hollow near Hangzhou, Zhejiang. China's most famous green tea — flat-pressed leaves, clean chestnut aroma, and a 1,200-year history. Imperial tribute tea. 西湖龙井 Xī Hú Lóngjǐng (West Lake Dragon Well) is the protected-origin premium grade.
+          From 龙坞 Dragon Hollow near Hangzhou, Zhejiang. China's most famous green tea , flat-pressed leaves, clean chestnut aroma, and a 1,200-year history. Imperial tribute tea. 西湖龙井 Xī Hú Lóngjǐng (West Lake Dragon Well) is the protected-origin premium grade.
         </div>
         <div class="examples">
           <div class="example">
@@ -145,13 +145,13 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          Named after Pu'er city, Yunnan — the trading hub of the ancient Tea Horse Road. A post-fermented tea that improves with age like wine; some vintage cakes sell for astronomical sums. The microbial fermentation process (渥堆 wòduī for ripe pu'er) is unique among teas. 生普 shēng pǔ (raw) vs. 熟普 shú pǔ (cooked/ripe).
+          Named after Pu'er city, Yunnan , the trading hub of the ancient Tea Horse Road. A post-fermented tea that improves with age like wine; some vintage cakes sell for astronomical sums. The microbial fermentation process (渥堆 wòduī for ripe pu'er) is unique among teas. 生普 shēng pǔ (raw) vs. 熟普 shú pǔ (cooked/ripe).
         </div>
         <div class="examples">
           <div class="example">
             <div class="ex-cn">这饼普洱已经存放了二十年，价格不菲。</div>
             <div class="ex-py">Zhè bǐng Pǔ'ěr yǐjīng cúnfàng le èrshí nián, jiàgé bùfěi.</div>
-            <div class="ex-en">This cake of pu'er has been aged for twenty years — its price is considerable.</div>
+            <div class="ex-en">This cake of pu'er has been aged for twenty years , its price is considerable.</div>
           </div>
         </div>
       </div>
@@ -168,9 +168,9 @@ content_sources:
 
     <div class="scholar" data-glyph="茶">
       <div class="scholar-label">功夫茶 gōngfu chá · The Practice</div>
-      <p><strong>功夫茶</strong> does not mean "Kung Fu tea" — it means tea brewed with <em>skill, patience, and mastery</em> (功夫 = any ability mastered through time). The Chaozhou 潮州 style from Guangdong is the classical model: tiny purple clay teapots 紫砂壶, small cups 小杯, and repeated short steeps (10–30 seconds) that unfold the tea's character through successive infusions.</p>
-      <p>Key elements: <strong>茶具</strong> chájù (tea ware set) · <strong>茶盘</strong> chápán (tea tray, for drainage) · <strong>茶海</strong> cháhǎi (fairness cup — equalizes concentration from the pot) · <strong>闻香杯</strong> wénxiāng bēi (aroma cup — inhale before drinking) · <strong>温杯</strong> wēn bēi (warming the cups with hot water before steeping — raises temperature, awakens the vessels).</p>
-      <p>The number of infusions a tea yields is itself a measure of quality: a fine oolong can yield 8–12 infusions. The arc from first to last steep is sometimes described as a narrative — opening, development, and resolution.</p>
+      <p><strong>功夫茶</strong> does not mean "Kung Fu tea" , it means tea brewed with <em>skill, patience, and mastery</em> (功夫 = any ability mastered through time). The Chaozhou 潮州 style from Guangdong is the classical model: tiny purple clay teapots 紫砂壶, small cups 小杯, and repeated short steeps (10–30 seconds) that unfold the tea's character through successive infusions.</p>
+      <p>Key elements: <strong>茶具</strong> chájù (tea ware set) · <strong>茶盘</strong> chápán (tea tray, for drainage) · <strong>茶海</strong> cháhǎi (fairness cup , equalizes concentration from the pot) · <strong>闻香杯</strong> wénxiāng bēi (aroma cup , inhale before drinking) · <strong>温杯</strong> wēn bēi (warming the cups with hot water before steeping , raises temperature, awakens the vessels).</p>
+      <p>The number of infusions a tea yields is itself a measure of quality: a fine oolong can yield 8–12 infusions. The arc from first to last steep is sometimes described as a narrative , opening, development, and resolution.</p>
     </div>
 
     <span class="section-anchor" id="philosophy"></span>
@@ -183,8 +183,8 @@ content_sources:
 
     <div class="scholar" data-glyph="茶">
       <div class="scholar-label">茶文化 chá wénhuà · Tea Culture</div>
-      <p>The phrase <strong>茶禅一味</strong> chán chá yī wèi — "tea and Chan Buddhism share one taste" — captures the deepest layer of Chinese tea philosophy. Both practices cultivate <em>presence:</em> sitting, noticing, releasing thought, returning to sensation. The steam rising from a bowl; the warmth against the palm; the color as the leaves open — these are objects of contemplative attention, not merely pleasures.</p>
-      <p>Lu Yu's <em>Chájīng</em> articulated four principles still cited today: <strong>精</strong> jīng (refinement — the best materials), <strong>行</strong> xíng (discipline — the correct practice), <strong>俭</strong> jiǎn (simplicity — no excess), <strong>德</strong> dé (virtue — the moral character cultivated through practice). Tea as a way of living.</p>
+      <p>The phrase <strong>茶禅一味</strong> chán chá yī wèi , "tea and Chan Buddhism share one taste" , captures the deepest layer of Chinese tea philosophy. Both practices cultivate <em>presence:</em> sitting, noticing, releasing thought, returning to sensation. The steam rising from a bowl; the warmth against the palm; the color as the leaves open , these are objects of contemplative attention, not merely pleasures.</p>
+      <p>Lu Yu's <em>Chájīng</em> articulated four principles still cited today: <strong>精</strong> jīng (refinement , the best materials), <strong>行</strong> xíng (discipline , the correct practice), <strong>俭</strong> jiǎn (simplicity , no excess), <strong>德</strong> dé (virtue , the moral character cultivated through practice). Tea as a way of living.</p>
       <p>The tea space 茶室 cháshì is designed to remove distraction and create what one Song dynasty essayist called 清静 qīngjìng — "clear stillness." This is why tea rooms are traditionally small, simply furnished, and oriented toward a garden view. The architecture creates the conditions for presence.</p>
     </div>
 

@@ -69,7 +69,7 @@ content_sources:
       <span class="topic-hero-eyebrow">Vocabulary · 词汇 cíhuì</span>
       <h1 class="topic-hero-title">礼貌</h1>
       <span class="topic-hero-title-py">lǐ mào</span>
-      <p class="topic-hero-desc">礼貌 is the everyday face of 礼 — what classical ritual propriety has become in the small-scale interactions of daily life. Saying hello and goodbye, offering a seat, knocking before entering, not interrupting. Where 礼 is the philosophical and ceremonial concept that has anchored Chinese ethics for two and a half millennia, 礼貌 is its scaled-down, observable form: the polite countenance one shows to others, and the social judgment that flows from whether one shows it.</p>
+      <p class="topic-hero-desc">礼貌 is the everyday face of 礼 , what classical ritual propriety has become in the small-scale interactions of daily life. Saying hello and goodbye, offering a seat, knocking before entering, not interrupting. Where 礼 is the philosophical and ceremonial concept that has anchored Chinese ethics for two and a half millennia, 礼貌 is its scaled-down, observable form: the polite countenance one shows to others, and the social judgment that flows from whether one shows it.</p>
     </header>
 
     <!-- ── ETYMOLOGY ── -->
@@ -83,10 +83,10 @@ content_sources:
 
     <div class="scholar" data-glyph="礼">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
-      <p><strong>礼貌 = 礼 (lǐ, ritual propriety) + 貌 (mào, countenance, appearance, outward form)</strong>. The compound's logic is precise: it is <em>the appearance</em> or <em>outward form</em> of 礼 — what ritual propriety looks like when it shows on a person's bearing. The sense is closer to "the polite manner" than to "politeness" as an abstract noun.</p>
-      <p><strong>礼 lǐ</strong> is one of the heaviest single characters in Chinese ethics. Originally a pictograph of a vessel holding sacrificial offerings (the bottom 豊 component is a ritual vessel), 礼 names the entire system of ritual propriety in Confucian thought — the ordered forms of behavior that constitute civilized life. It is one of the Five Constants (五常: 仁义礼智信) and carries the weight of every imperial court, ancestral rite, and family ceremony in the tradition.</p>
-      <p><strong>貌 mào</strong> means countenance, appearance, the visible outward form of something. 面貌 (miànmào, facial appearance), 外貌 (wàimào, outward appearance), 礼貌 — the suffix marks "the visible aspect of."</p>
-      <p>The compound is therefore not a simple synonym for 礼 but its <em>visible scale</em>. 礼 is the system; 礼貌 is what individual social actors show on their faces and in their gestures. A person can be in a society structured by 礼 and still lack 礼貌 in a particular interaction — failing, in the small moment, to embody the larger system. This is why parents say to children 没礼貌 (no manners) far more often than they say 不懂礼 (does not understand 礼). The accusation is of a specific failure of bearing, not a metaphysical one.</p>
+      <p><strong>礼貌 = 礼 (lǐ, ritual propriety) + 貌 (mào, countenance, appearance, outward form)</strong>. The compound's logic is precise: it is <em>the appearance</em> or <em>outward form</em> of 礼 , what ritual propriety looks like when it shows on a person's bearing. The sense is closer to "the polite manner" than to "politeness" as an abstract noun.</p>
+      <p><strong>礼 lǐ</strong> is one of the heaviest single characters in Chinese ethics. Originally a pictograph of a vessel holding sacrificial offerings (the bottom 豊 component is a ritual vessel), 礼 names the entire system of ritual propriety in Confucian thought , the ordered forms of behavior that constitute civilized life. It is one of the Five Constants (五常: 仁义礼智信) and carries the weight of every imperial court, ancestral rite, and family ceremony in the tradition.</p>
+      <p><strong>貌 mào</strong> means countenance, appearance, the visible outward form of something. 面貌 (miànmào, facial appearance), 外貌 (wàimào, outward appearance), 礼貌 , the suffix marks "the visible aspect of."</p>
+      <p>The compound is therefore not a simple synonym for 礼 but its <em>visible scale</em>. 礼 is the system; 礼貌 is what individual social actors show on their faces and in their gestures. A person can be in a society structured by 礼 and still lack 礼貌 in a particular interaction , failing, in the small moment, to embody the larger system. This is why parents say to children 没礼貌 (no manners) far more often than they say 不懂礼 (does not understand 礼). The accusation is of a specific failure of bearing, not a metaphysical one.</p>
     </div>
 
     <!-- ── 有礼貌 / 没礼貌 ── -->
@@ -100,9 +100,9 @@ content_sources:
 
     <div class="scholar" data-glyph="貌">
       <div class="scholar-label">语用洞见 yǔyòng dòngjiàn · Usage Insight</div>
-      <p>The most important thing to know about 礼貌 in everyday Chinese is the binary it sets up: <strong>有礼貌 yǒu lǐmào</strong> ("has 礼貌," polite) and <strong>没礼貌 méi lǐmào</strong> ("lacks 礼貌," rude / ill-mannered). These are the standard descriptors used to evaluate behavior in daily life — by parents about children, by colleagues about each other, by strangers about strangers in public.</p>
-      <p>The judgment is concrete and visible: 有礼貌 means using 您 nín for elders, greeting people on entering a room, offering tea to guests, holding doors, not jumping queues, addressing service workers respectfully, declining politely, accepting graciously, knowing when to stand and when to sit. 没礼貌 means failing at any of these. The system is dense and locally specific — different cities, professions, and generations weigh the criteria differently — but the binary itself is shared.</p>
-      <p>In a country where 礼 has been the central ethical category for over two thousand years, the everyday word 礼貌 carries unusual weight. To say a child 没礼貌 is not merely to note a behavioral lapse but to imply incomplete formation as a person. This is why it functions as one of the strongest informal social rebukes available — and why parents put significant effort into ensuring their children master the visible forms early.</p>
+      <p>The most important thing to know about 礼貌 in everyday Chinese is the binary it sets up: <strong>有礼貌 yǒu lǐmào</strong> ("has 礼貌," polite) and <strong>没礼貌 méi lǐmào</strong> ("lacks 礼貌," rude / ill-mannered). These are the standard descriptors used to evaluate behavior in daily life , by parents about children, by colleagues about each other, by strangers about strangers in public.</p>
+      <p>The judgment is concrete and visible: 有礼貌 means using 您 nín for elders, greeting people on entering a room, offering tea to guests, holding doors, not jumping queues, addressing service workers respectfully, declining politely, accepting graciously, knowing when to stand and when to sit. 没礼貌 means failing at any of these. The system is dense and locally specific , different cities, professions, and generations weigh the criteria differently , but the binary itself is shared.</p>
+      <p>In a country where 礼 has been the central ethical category for over two thousand years, the everyday word 礼貌 carries unusual weight. To say a child 没礼貌 is not merely to note a behavioral lapse but to imply incomplete formation as a person. This is why it functions as one of the strongest informal social rebukes available , and why parents put significant effort into ensuring their children master the visible forms early.</p>
     </div>
 
     <div class="cards">
@@ -115,7 +115,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-adj">Adj 形容词</span></div>
         <div class="card-def">
-          有 yǒu (to have) + 礼貌. The default form of approval for someone's social bearing. Applied across the age range — to children, colleagues, strangers, foreigners — and across formality levels. 这个孩子很有礼貌 ("this child is very polite") is a high compliment to the parents as much as to the child.
+          有 yǒu (to have) + 礼貌. The default form of approval for someone's social bearing. Applied across the age range , to children, colleagues, strangers, foreigners , and across formality levels. 这个孩子很有礼貌 ("this child is very polite") is a high compliment to the parents as much as to the child.
         </div>
         <div class="examples">
           <div class="example">
@@ -139,7 +139,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-adj">Adj 形容词</span></div>
         <div class="card-def">
-          没 méi (lacks; does not have) + 礼貌. The standard rebuke. Heavier than English "rude" because it implies a failure of formation, not just a momentary lapse. The variant 不礼貌 (bù lǐmào) functions as a softer negation — the action was impolite, but the person is not necessarily characterized by lacking 礼貌. 没礼貌 attaches to the person; 不礼貌 attaches to the act.
+          没 méi (lacks; does not have) + 礼貌. The standard rebuke. Heavier than English "rude" because it implies a failure of formation, not just a momentary lapse. The variant 不礼貌 (bù lǐmào) functions as a softer negation , the action was impolite, but the person is not necessarily characterized by lacking 礼貌. 没礼貌 attaches to the person; 不礼貌 attaches to the act.
         </div>
         <div class="examples">
           <div class="example">
@@ -169,10 +169,10 @@ content_sources:
     <div class="scholar" data-glyph="礼">
       <div class="scholar-label">辨析 biànxī · How These Differ</div>
       <p>Modern Chinese has at least four neighboring words for "politeness," and they are not interchangeable. The distinctions matter because the language is using them to mark genuinely different things.</p>
-      <p><strong>礼 lǐ</strong> is the philosophical and ceremonial system — ritual propriety in the Confucian sense, encompassing court ritual, family ceremony, and the entire ordered structure of civilized social forms. It is the topic of philosophical treatises (the <em>Lǐjì</em>, <em>Yílǐ</em>, <em>Zhōulǐ</em>). Modern speakers do not usually say 有礼 ("has 礼") of an individual; the term is too abstract.</p>
+      <p><strong>礼 lǐ</strong> is the philosophical and ceremonial system , ritual propriety in the Confucian sense, encompassing court ritual, family ceremony, and the entire ordered structure of civilized social forms. It is the topic of philosophical treatises (the <em>Lǐjì</em>, <em>Yílǐ</em>, <em>Zhōulǐ</em>). Modern speakers do not usually say 有礼 ("has 礼") of an individual; the term is too abstract.</p>
       <p><strong>礼貌 lǐmào</strong> is the everyday, individual-scale form. The visible bearing, the polite address, the courteous manner. Operates in casual evaluation: 有礼貌 / 没礼貌. This is the term in the ordinary speaker's vocabulary.</p>
-      <p><strong>客气 kèqi</strong> is specifically the polite manner one shows to <em>guests</em> (客 kè) or in formal social interaction — the dance of declining and insisting, of modest disclaimers, of ritual hospitality. It carries an implication of slight ceremony or distance: 别客气 ("don't be 客气") is the standard request for someone to relax the formality. 礼貌 does not carry the same nuance — you do not tell someone 别礼貌. See the <a href="../../pages/vocab/keqi_客气.html">客气 page</a> for the full picture.</p>
-      <p><strong>礼节 lǐjié</strong> is formal etiquette — the specific protocols and procedures of ceremonious occasions (weddings, funerals, business meetings, diplomatic events). 外交礼节 (diplomatic protocol), 婚礼礼节 (wedding etiquette). Where 礼貌 is general bearing, 礼节 is specific procedural correctness.</p>
+      <p><strong>客气 kèqi</strong> is specifically the polite manner one shows to <em>guests</em> (客 kè) or in formal social interaction , the dance of declining and insisting, of modest disclaimers, of ritual hospitality. It carries an implication of slight ceremony or distance: 别客气 ("don't be 客气") is the standard request for someone to relax the formality. 礼貌 does not carry the same nuance , you do not tell someone 别礼貌. See the <a href="../../pages/vocab/keqi_客气.html">客气 page</a> for the full picture.</p>
+      <p><strong>礼节 lǐjié</strong> is formal etiquette , the specific protocols and procedures of ceremonious occasions (weddings, funerals, business meetings, diplomatic events). 外交礼节 (diplomatic protocol), 婚礼礼节 (wedding etiquette). Where 礼貌 is general bearing, 礼节 is specific procedural correctness.</p>
       <p>A useful summary: 礼 is the system. 礼貌 is everyday bearing. 客气 is guest-manners. 礼节 is procedural etiquette. A person can be 有礼貌 (well-mannered) without being 客气 (formally distant), and can fail at 礼节 (a specific procedural slip) without being 没礼貌 (rude).</p>
     </div>
 
@@ -214,7 +214,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-adj">Phr 短语</span></div>
         <div class="card-def">
-          出于 chūyú (proceeding from; out of) + 礼貌. Names the motivation behind a polite-but-not-sincere act: doing something not because you want to but because not doing it would be rude. Useful for marking the gap between social form and personal preference. 出于礼貌他答应了 ("he agreed out of politeness" — implying he did not really want to).
+          出于 chūyú (proceeding from; out of) + 礼貌. Names the motivation behind a polite-but-not-sincere act: doing something not because you want to but because not doing it would be rude. Useful for marking the gap between social form and personal preference. 出于礼貌他答应了 ("he agreed out of politeness" , implying he did not really want to).
         </div>
         <div class="examples">
           <div class="example">
@@ -254,21 +254,21 @@ content_sources:
         <span class="cy-cn">彬彬有礼</span>
         <span class="cy-py">bīn bīn yǒu lǐ</span>
         <span class="cy-en">refined and courteous in bearing; gracefully well-mannered</span>
-        <span class="cy-note">From the <em>Lúnyǔ</em> (论语·雍也): 文质彬彬，然后君子 ("when refinement and substance are in balance — only then is one a 君子"). 彬彬 bīn bīn names the quality of refined balance — neither rough nor showy. The four-character idiom 彬彬有礼 has narrowed the older Confucian phrase to refer specifically to graceful, cultivated manners. It is a high compliment, used most often in formal writing and reserved for adults whose 礼貌 reaches the level of refinement.</span>
+        <span class="cy-note">From the <em>Lúnyǔ</em> (论语·雍也): 文质彬彬，然后君子 ("when refinement and substance are in balance , only then is one a 君子"). 彬彬 bīn bīn names the quality of refined balance , neither rough nor showy. The four-character idiom 彬彬有礼 has narrowed the older Confucian phrase to refer specifically to graceful, cultivated manners. It is a high compliment, used most often in formal writing and reserved for adults whose 礼貌 reaches the level of refinement.</span>
       </div>
 
       <div class="cy">
         <span class="cy-cn">礼贤下士</span>
         <span class="cy-py">lǐ xián xià shì</span>
         <span class="cy-en">"to honor the worthy and condescend to the lower-ranked" — a leader's courteous treatment of those beneath them</span>
-        <span class="cy-note">Originally describing rulers and high officials who treated talented commoners and lower-ranked scholars with genuine respect — a quality praised throughout the dynastic histories. 礼 is verbal here ("to treat with 礼"); 贤 xián = the worthy; 下士 = lower-ranked scholars. The chengyu encodes a specifically Chinese ethical ideal: the higher one's position, the more important to display 礼貌 toward those below — both as moral practice and as a mark of secure authority.</span>
+        <span class="cy-note">Originally describing rulers and high officials who treated talented commoners and lower-ranked scholars with genuine respect , a quality praised throughout the dynastic histories. 礼 is verbal here ("to treat with 礼"); 贤 xián = the worthy; 下士 = lower-ranked scholars. The chengyu encodes a specifically Chinese ethical ideal: the higher one's position, the more important to display 礼貌 toward those below , both as moral practice and as a mark of secure authority.</span>
       </div>
 
       <div class="cy">
         <span class="cy-cn">以礼相待</span>
         <span class="cy-py">yǐ lǐ xiāng dài</span>
         <span class="cy-en">to treat one another with proper courtesy</span>
-        <span class="cy-note">以 yǐ (using; by means of) + 礼 + 相 xiāng (mutually) + 待 dài (to treat). A formal phrase for the reciprocal practice of 礼貌 between parties — between hosts and guests, between rival firms after a difficult negotiation, between countries after a diplomatic strain. Carries the implication of treating the relationship with civility regardless of underlying tension.</span>
+        <span class="cy-note">以 yǐ (using; by means of) + 礼 + 相 xiāng (mutually) + 待 dài (to treat). A formal phrase for the reciprocal practice of 礼貌 between parties , between hosts and guests, between rival firms after a difficult negotiation, between countries after a diplomatic strain. Carries the implication of treating the relationship with civility regardless of underlying tension.</span>
       </div>
 
       <div class="cy">

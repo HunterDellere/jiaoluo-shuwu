@@ -110,7 +110,7 @@ pinyin: 'zhuāngzǐ'
       <strong>内篇 nèi piān</strong> → 7 chapters · considered authentic Zhuangzi · most philosophically dense<br>
       <strong>外篇 wài piān</strong> → 15 chapters · school tradition · elaborations and extensions<br>
       <strong>杂篇 zá piān</strong> → 11 chapters · mixed material · diverse and sometimes contradictory<br>
-      <strong>主要叙事手法</strong> → 寓言 yùyán (allegorical fable) · 重言 zhòngyán (words of authority figures) · 卮言 zhīyán (overflowing words — free, spontaneous speech)
+      <strong>主要叙事手法</strong> → 寓言 yùyán (allegorical fable) · 重言 zhòngyán (words of authority figures) · 卮言 zhīyán (overflowing words , free, spontaneous speech)
     </div>
 
     <!-- ── XIAOYAOYOU ── -->
@@ -142,7 +142,7 @@ pinyin: 'zhuāngzǐ'
     <div class="scholar" data-glyph="蝶">
       <div class="scholar-label">寓言解读 yùyán jiědú · Fable Analysis</div>
       <p>The butterfly dream 梦蝶 is the most compressed and most famous passage in all of Zhuangzi. It closes the second Inner Chapter (齐物论) and consists of only about a hundred characters in Chinese. Its effect is entirely disproportionate to its length.</p>
-      <p>The passage: "Once Zhuang Zhou dreamed he was a butterfly — a fluttering, fluttering butterfly — and was completely content to be a butterfly, with no awareness of being Zhuang Zhou. Then he awoke and was solidly, inescapably Zhuang Zhou. But I do not know whether he was Zhuang Zhou who had dreamed of being a butterfly, or a butterfly now dreaming of being Zhuang Zhou."</p>
+      <p>The passage: "Once Zhuang Zhou dreamed he was a butterfly , a fluttering, fluttering butterfly — and was completely content to be a butterfly, with no awareness of being Zhuang Zhou. Then he awoke and was solidly, inescapably Zhuang Zhou. But I do not know whether he was Zhuang Zhou who had dreamed of being a butterfly, or a butterfly now dreaming of being Zhuang Zhou."</p>
       <p>The philosophical force of this short passage is immense. First, it raises the problem of perspective: from inside any given experience, that experience feels authoritative and complete. Both the dreaming butterfly and the waking Zhuang Zhou are fully convinced of their reality while in their respective states. There is no standpoint outside both from which to adjudicate. Second, it introduces the concept of 物化 wù huà, the transformation of things. If Zhuang Zhou can become a butterfly in a dream, perhaps the boundary between human and butterfly is not as fixed as it appears. Everything is in transformation; our identifications with stable identities are projections onto a reality that is fundamentally in flux.</p>
       <p>The passage does not argue for a skeptical conclusion that we cannot know anything. Rather, it invites a relaxation of the grip with which we identify ourselves as permanently, essentially, this particular thing and no other. The person who has achieved 逍遥游 is not paralyzed by this uncertainty but liberated by it: if I am not essentially Zhuang Zhou, then I am not confined by Zhuang Zhou's limitations, fears, and social obligations.</p>
     </div>

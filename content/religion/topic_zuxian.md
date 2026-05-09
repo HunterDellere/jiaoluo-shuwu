@@ -96,15 +96,15 @@ pinyin: 'zǔxiān chóngbài'
     </div>
 
     <div class="scholar" data-glyph="孝">
-      <div class="scholar-label">学者洞见 xuézhě dòngjiàn · 孝 xiào — the Virtue That Makes Veneration Obligatory</div>
+      <div class="scholar-label">学者洞见 xuézhě dòngjiàn · 孝 xiào , the Virtue That Makes Veneration Obligatory</div>
       <p>The Confucian virtue of <strong>孝 xiào</strong> (filial piety, devotion to parents and ancestors) is the ethical engine that makes ancestor veneration not merely a custom but a moral imperative. Confucius himself, when asked about it, replied: <em>孝悌也者，其为仁之本与</em> ("Filial piety and fraternal submission are the root of 仁 rén (humaneness)"). To be human, in this framework, is to be in correct relation to those who gave you life, and that obligation does not end at death.</p>
       <p>The text 孝经 Xiào Jīng (Classic of Filial Piety), attributed to Confucius's disciple Zengzi, made the argument explicit: the body, hair, and skin are received from parents; to injure them dishonors that gift. This grounding of physical self-care in filial duty is one of the most characteristic features of Confucian ethics. The living body itself is an ancestral trust.</p>
       <p>Filial piety extended explicitly beyond death. The 礼记 Lǐjì (Book of Rites) prescribed in detail how a son must grieve: three years of mourning for a parent (during which career advancement and marriage were suspended), reduced diet, rough clothing, no music. The magnitude of the obligation signaled the magnitude of the debt. As the saying goes: <em>生育之恩，重于泰山</em> ("The grace of being given birth and raised is heavier than Mount Tai").</p>
     </div>
 
     <div class="pattern">
-      <span class="label">孝的层次 Xiào Hierarchy — Concentric Circles of Obligation</span>
-      <strong>父母</strong> fùmǔ (living parents — highest daily obligation) → <strong>祖父母</strong> zǔfùmǔ (grandparents) → <strong>曾祖父母</strong> zēngzǔfùmǔ (great-grandparents) → <strong>列祖列宗</strong> liè zǔ liè zōng (all ancestors of the lineage) → <strong>天地君亲师</strong> tiāndì jūn qīn shī (Heaven, Earth, Sovereign, Parents, Teacher — the five sources of life and cultivation)
+      <span class="label">孝的层次 Xiào Hierarchy , Concentric Circles of Obligation</span>
+      <strong>父母</strong> fùmǔ (living parents , highest daily obligation) → <strong>祖父母</strong> zǔfùmǔ (grandparents) → <strong>曾祖父母</strong> zēngzǔfùmǔ (great-grandparents) → <strong>列祖列宗</strong> liè zǔ liè zōng (all ancestors of the lineage) → <strong>天地君亲师</strong> tiāndì jūn qīn shī (Heaven, Earth, Sovereign, Parents, Teacher , the five sources of life and cultivation)
     </div>
 
     <!-- ── RITUAL PRACTICE ── -->
@@ -354,7 +354,7 @@ pinyin: 'zǔxiān chóngbài'
           <div class="example">
             <div class="ex-cn">棺材谐音"官财"，在某些地方被视为吉祥物。</div>
             <div class="ex-py">Guāncai xiéyīn "guāncái", zài mǒuxiē dìfāng bèi shì wéi jíxiángwù.</div>
-            <div class="ex-en">The coffin's homophonous sound — "official wealth" — makes it a good-luck symbol in some places.</div>
+            <div class="ex-en">The coffin's homophonous sound , "official wealth" , makes it a good-luck symbol in some places.</div>
           </div>
         </div>
       </div>

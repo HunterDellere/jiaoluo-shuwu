@@ -55,7 +55,7 @@ content_sources:
       <span class="topic-hero-eyebrow">Vocab · 词汇 cíhuì</span>
       <h1 class="topic-hero-title">中医</h1>
       <span class="topic-hero-title-py">zhōng yī</span>
-      <p class="topic-hero-desc">Traditional Chinese Medicine — a complete medical system developed over two millennia, based on the theory of qi, yin-yang, and the Five Elements, still practiced by billions.</p>
+      <p class="topic-hero-desc">Traditional Chinese Medicine , a complete medical system developed over two millennia, based on the theory of qi, yin-yang, and the Five Elements, still practiced by billions.</p>
     </header>
 
     <span class="section-anchor" id="foundations"></span>
@@ -68,7 +68,7 @@ content_sources:
 
     <div class="scholar" data-glyph="医">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · What 中医 Means</div>
-      <p><strong>中 zhōng</strong> (Chinese; middle) + <strong>医 yī</strong> (medicine; doctor — the character shows a medical chest with instruments). 中医 = Chinese medicine, as opposed to 西医 xīyī (Western medicine). The distinction runs throughout Chinese healthcare: hospitals often have separate 中医科 and 西医科 departments, and patients routinely consult both systems.</p>
+      <p><strong>中 zhōng</strong> (Chinese; middle) + <strong>医 yī</strong> (medicine; doctor , the character shows a medical chest with instruments). 中医 = Chinese medicine, as opposed to 西医 xīyī (Western medicine). The distinction runs throughout Chinese healthcare: hospitals often have separate 中医科 and 西医科 departments, and patients routinely consult both systems.</p>
       <p>The theoretical foundation of 中医 rests on three interconnected concepts. <strong>气 qì</strong> (vital energy) flows through the body's meridian system (经络 jīngluò) and maintains health when flowing freely; illness results from blockage, deficiency, or excess. <strong>阴阳 yīnyáng</strong>, the dual nature of all phenomena, must be balanced within the body: excess yin (寒 hán, cold) or excess yang (热 rè, heat) produces characteristic patterns of illness. The <strong>五行 wǔxíng</strong> (Five Elements: Wood, Fire, Earth, Metal, Water) map onto organ systems, seasons, tastes, emotions, and therapeutic interventions.</p>
       <p>Unlike Western medicine's disease-centered model (identify the pathogen, target the pathogen), TCM is person-centered: the same symptom in two patients may receive different treatments if the underlying 证 zhèng (pattern of disharmony) differs. The goal is not to eliminate a disease but to restore the patient's system to harmonious balance.</p>
     </div>
@@ -83,10 +83,10 @@ content_sources:
 
     <div class="pattern">
       <span class="label">四诊 sì zhěn · The Four Diagnostic Methods</span>
-      <strong>望 wàng</strong> — inspection (observe complexion, tongue, eyes, bearing)<br>
-      <strong>闻 wén</strong> — listening and smelling (voice quality, breathing sounds, body odor)<br>
-      <strong>问 wèn</strong> — inquiry (ten standard questions about symptoms, history, lifestyle)<br>
-      <strong>切 qiē</strong> — palpation (pulse diagnosis — the most distinctive TCM diagnostic technique)
+      <strong>望 wàng</strong> , inspection (observe complexion, tongue, eyes, bearing)<br>
+      <strong>闻 wén</strong> , listening and smelling (voice quality, breathing sounds, body odor)<br>
+      <strong>问 wèn</strong> , inquiry (ten standard questions about symptoms, history, lifestyle)<br>
+      <strong>切 qiē</strong> , palpation (pulse diagnosis , the most distinctive TCM diagnostic technique)
     </div>
 
     <div class="scholar" data-glyph="医">
@@ -119,7 +119,7 @@ content_sources:
           <div class="example">
             <div class="ex-cn">他去做针灸治疗慢性腰痛，效果很好。</div>
             <div class="ex-py">Tā qù zuò zhēnjiǔ zhìliáo mànxìng yāotòng, xiàoguǒ hěn hǎo.</div>
-            <div class="ex-en">He went for acupuncture to treat his chronic lower back pain — with good results.</div>
+            <div class="ex-en">He went for acupuncture to treat his chronic lower back pain , with good results.</div>
           </div>
         </div>
       </div>

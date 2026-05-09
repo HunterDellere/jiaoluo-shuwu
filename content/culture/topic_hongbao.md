@@ -75,7 +75,7 @@ pinyin: 'hóngbāo'
     <div class="scholar" data-glyph="红">
       <div class="scholar-label">色彩象征 sècǎi xiàngzhēng · Color Symbolism</div>
       <p>In Chinese symbolic culture, 红 hóng (red) is the color of 喜庆 xǐqìng, joyous and auspicious occasions. It is the color of weddings (bridal dress, decorations, banners), of Spring Festival (lanterns, couplets, fireworks packaging), of good fortune (the red thread that binds destined lovers in the Lunar Matchmaker myth), and of celebration in general. Its opposite is 白 bái (white), the color of mourning, death, and inauspicious events. This symbolic polarity is not arbitrary but systemic: it runs through Chinese art, ritual, dress, and daily life as a consistent underlying code.</p>
-      <p>Red's association with good fortune is ancient. Produced from cinnabar (朱砂 zhūshā), it was among the earliest colors used in Chinese ritual contexts, appearing on oracle bones and in tomb decorations from the Shang dynasty. Its brightness and blood-association connected it with vitality, life-force, and the yang principle. The folk belief that red repels evil spirits 辟邪 pì xié explains its use in protective contexts: red string tied around a baby's wrist, red paper on doors at New Year, firecrackers (whose noise and red casings combine two evil-repelling forces). By wrapping money in red paper, the gift is transformed from a bare transaction into an auspicious act. The red wrapper does not merely prettify the gift — it changes its nature.</p>
+      <p>Red's association with good fortune is ancient. Produced from cinnabar (朱砂 zhūshā), it was among the earliest colors used in Chinese ritual contexts, appearing on oracle bones and in tomb decorations from the Shang dynasty. Its brightness and blood-association connected it with vitality, life-force, and the yang principle. The folk belief that red repels evil spirits 辟邪 pì xié explains its use in protective contexts: red string tied around a baby's wrist, red paper on doors at New Year, firecrackers (whose noise and red casings combine two evil-repelling forces). By wrapping money in red paper, the gift is transformed from a bare transaction into an auspicious act. The red wrapper does not merely prettify the gift , it changes its nature.</p>
       <p>The specific shade associated with 红包 and festive occasions is a saturated, warm crimson: not orange-red, not burgundy, but the hue that in Chinese is simply called 红 without further qualification. Modern commercial production has standardized this color across all festive packaging, and its visual signature is immediately legible to anyone raised in Chinese cultural contexts. The sight of that particular red envelope at the right moment carries a weight of emotional association that no neutral-colored envelope could carry.</p>
     </div>
 
@@ -107,11 +107,11 @@ pinyin: 'hóngbāo'
     <div class="pattern">
       <span class="label">红包的场合 hóngbāo de chǎnghé · Occasions for Red Envelopes</span>
       <strong>春节 Chūnjié (Spring Festival)</strong> → 压岁钱 given to children by parents, grandparents, and relatives; amount varies by region and family but has risen substantially in recent decades; in major cities, grandparents may give several thousand yuan to a grandchild<br>
-      <strong>婚礼 Hūnlǐ (Weddings)</strong> → Guests give red envelopes to the newlyweds; amount is calibrated to the guest's relationship to the couple and the expected cost of the dinner seat — giving too little is a social embarrassment; the couple's family keeps a meticulous record for reciprocity<br>
-      <strong>满月 Mǎnyuè (Full Month Celebration)</strong> → Given when a baby reaches one month old — the first major milestone celebration after birth; red envelopes from relatives and friends<br>
+      <strong>婚礼 Hūnlǐ (Weddings)</strong> → Guests give red envelopes to the newlyweds; amount is calibrated to the guest's relationship to the couple and the expected cost of the dinner seat , giving too little is a social embarrassment; the couple's family keeps a meticulous record for reciprocity<br>
+      <strong>满月 Mǎnyuè (Full Month Celebration)</strong> → Given when a baby reaches one month old , the first major milestone celebration after birth; red envelopes from relatives and friends<br>
       <strong>生日 Shēngrì (Birthdays)</strong> → Particularly for elderly relatives' milestone birthdays (60th, 70th, 80th); red envelopes a common and practical gift<br>
       <strong>开业 Kāiyè (Business Opening)</strong> → Given to a friend or relative opening a new business as a token of good fortune; typically smaller amounts<br>
-      <strong>升学 Shēngxué (Exam Success)</strong> → Given upon passing important exams — gaokao 高考, university entrance, graduate school — by relatives celebrating the achievement<br>
+      <strong>升学 Shēngxué (Exam Success)</strong> → Given upon passing important exams , gaokao 高考, university entrance, graduate school , by relatives celebrating the achievement<br>
       <strong>Numbers to use</strong> → Amounts ending in 8 (发 fā, to prosper) or 6 (流 liú, to flow, meaning smooth progress) are auspicious; amounts ending in 4 (死 sǐ, death) are avoided; amounts ending in 2 or 0 are neutral and common
     </div>
 
@@ -154,7 +154,7 @@ pinyin: 'hóngbāo'
         <span class="card-py">fā hóngbāo</span>
         <span class="card-en">to send a red envelope; to distribute lucky money</span>
         <span class="tag-v">v.</span>
-        <p>The act of giving a red envelope, physical or digital. 发 fā (to emit, to send out) is also the verb in 发财 fā cái (to get rich), which is not a coincidence — the word for sending money is the same as the word for prosperity. In digital contexts, 抢红包 qiǎng hóngbāo means "to grab a red packet" — competing for the randomly distributed amounts in a group chat.</p>
+        <p>The act of giving a red envelope, physical or digital. 发 fā (to emit, to send out) is also the verb in 发财 fā cái (to get rich), which is not a coincidence , the word for sending money is the same as the word for prosperity. In digital contexts, 抢红包 qiǎng hóngbāo means "to grab a red packet" , competing for the randomly distributed amounts in a group chat.</p>
       </div>
       <div class="card c-sienna">
         <span class="card-cn">喜钱</span>

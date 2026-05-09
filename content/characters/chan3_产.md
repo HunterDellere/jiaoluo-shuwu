@@ -76,7 +76,7 @@ content_sources:
 
     <div class="scholar" data-glyph="產">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
-      <p>The traditional form <strong>產</strong> is the key to understanding the character. At its heart is <strong>生 shēng</strong> (to give birth, to be born, to grow) beneath a phonetic component <strong>彦 yàn</strong> (which also contributes a sense of something refined coming forth). The combined image: something emerging from the ground or from a living body — the act of bringing a new thing into existence.</p>
+      <p>The traditional form <strong>產</strong> is the key to understanding the character. At its heart is <strong>生 shēng</strong> (to give birth, to be born, to grow) beneath a phonetic component <strong>彦 yàn</strong> (which also contributes a sense of something refined coming forth). The combined image: something emerging from the ground or from a living body , the act of bringing a new thing into existence.</p>
       <p>The simplified <strong>产</strong> strips the structure to its essentials: the upper strokes recall the traditional phonetic, and the 生 element below remains, though stylized. The six-stroke simplified form is one of the most radical compressions in the 1956 simplification, down from 11 strokes in 産.</p>
       <p>The conceptual arc of 产 runs from biological birth (分娩 fēnmiǎn → 产 as "to give birth") through agricultural yield (the land produces grain) to industrial output (factories produce goods) and finally to property as accumulated production (财产, wealth as the fruit of past production).</p>
     </div>
@@ -87,9 +87,9 @@ content_sources:
     <div class="scholar" data-glyph="产">
       <div class="scholar-label">义场 yìchǎng · Meaning Field</div>
       <p><strong>To give birth / to be born (verb).</strong> In the medical and biological sense: 产妇 (chǎnfù, woman in labor / new mother), 产房 (chǎnfáng, delivery room), 顺产 (shùnchǎn, natural birth), 剖腹产 (pōufùchǎn, cesarean). 产 as a verb here means the act of bringing a living being into the world.</p>
-      <p><strong>To produce / to yield (verb).</strong> 生产 (shēngchǎn, to produce, to manufacture), 产生 (chǎnshēng, to give rise to, to produce an effect), 出产 (chūchǎn, to produce, to yield — often of natural resources or regions). A factory 生产 goods; a region 出产 tea; a decision 产生 consequences.</p>
+      <p><strong>To produce / to yield (verb).</strong> 生产 (shēngchǎn, to produce, to manufacture), 产生 (chǎnshēng, to give rise to, to produce an effect), 出产 (chūchǎn, to produce, to yield , often of natural resources or regions). A factory 生产 goods; a region 出产 tea; a decision 产生 consequences.</p>
       <p><strong>Output / yield / product (noun).</strong> 产量 (chǎnliàng, output volume), 产值 (chǎnzhí, output value), 农产品 (nóngchǎnpǐn, agricultural products). Describes the quantified result of a production process.</p>
-      <p><strong>Property / estate / assets (noun).</strong> 财产 (cáichǎn, property, assets, wealth), 房产 (fángchǎn, real estate, property), 遗产 (yíchǎn, inheritance, heritage). Property in Chinese law and daily life is consistently expressed with 产 — what one owns is, in this framing, what one has produced or accumulated.</p>
+      <p><strong>Property / estate / assets (noun).</strong> 财产 (cáichǎn, property, assets, wealth), 房产 (fángchǎn, real estate, property), 遗产 (yíchǎn, inheritance, heritage). Property in Chinese law and daily life is consistently expressed with 产 , what one owns is, in this framing, what one has produced or accumulated.</p>
     </div>
 
     <span class="section-anchor" id="compounds"></span>
@@ -110,7 +110,7 @@ content_sources:
         <div class="card-pinyin">shēngchǎn</div>
         <div class="card-en">to produce · to manufacture · production</div>
         <span class="tag-vn">v/n</span>
-        <div class="card-note">生 (life, to give birth) + 产 (to produce). The core term for economic production. 生产力 (shēngchǎnlì, productive forces), 生产率 (production rate), 大规模生产 (mass production). In Marxist political economy — central to Chinese political vocabulary — 生产 is the foundational act of all social life.</div>
+        <div class="card-note">生 (life, to give birth) + 产 (to produce). The core term for economic production. 生产力 (shēngchǎnlì, productive forces), 生产率 (production rate), 大规模生产 (mass production). In Marxist political economy , central to Chinese political vocabulary , 生产 is the foundational act of all social life.</div>
       </div>
 
       <div class="card c-teal">
@@ -126,7 +126,7 @@ content_sources:
         <div class="card-pinyin">chǎnshēng</div>
         <div class="card-en">to give rise to · to generate · to produce (an effect)</div>
         <span class="tag-v">v</span>
-        <div class="card-note">产 (produce) + 生 (arise, come into being). Describes the emergence of abstract results, effects, ideas, or conditions — not physical goods. 产生影响 (produce an influence), 产生误解 (give rise to misunderstanding), 产生矛盾 (generate contradiction). Very high frequency in formal writing.</div>
+        <div class="card-note">产 (produce) + 生 (arise, come into being). Describes the emergence of abstract results, effects, ideas, or conditions , not physical goods. 产生影响 (produce an influence), 产生误解 (give rise to misunderstanding), 产生矛盾 (generate contradiction). Very high frequency in formal writing.</div>
       </div>
 
       <div class="card c-ochre">
@@ -134,7 +134,7 @@ content_sources:
         <div class="card-pinyin">fángchǎn</div>
         <div class="card-en">real estate · property (buildings)</div>
         <span class="tag-n">n</span>
-        <div class="card-note">房 (room, house) + 产 (property). Real property — specifically buildings and associated land rights. 房产证 (property ownership certificate), 房产市场 (real estate market). Enormously consequential in modern Chinese urban life given the centrality of housing to wealth accumulation.</div>
+        <div class="card-note">房 (room, house) + 产 (property). Real property , specifically buildings and associated land rights. 房产证 (property ownership certificate), 房产市场 (real estate market). Enormously consequential in modern Chinese urban life given the centrality of housing to wealth accumulation.</div>
       </div>
 
       <div class="card c-ochre">
@@ -142,7 +142,7 @@ content_sources:
         <div class="card-pinyin">yíchǎn</div>
         <div class="card-en">inheritance · legacy · heritage</div>
         <span class="tag-n">n</span>
-        <div class="card-note">遗 (to leave behind, bequeath) + 产 (property, production). Covers both personal inheritance (继承遗产, to inherit an estate) and cultural heritage (文化遗产, cultural heritage — as in UNESCO designations). The same word carries both private and civilizational weight.</div>
+        <div class="card-note">遗 (to leave behind, bequeath) + 产 (property, production). Covers both personal inheritance (继承遗产, to inherit an estate) and cultural heritage (文化遗产, cultural heritage , as in UNESCO designations). The same word carries both private and civilizational weight.</div>
       </div>
 
       <div class="card c-red">
@@ -158,7 +158,7 @@ content_sources:
         <div class="card-pinyin">zhīshì chǎnquán</div>
         <div class="card-en">intellectual property (IP)</div>
         <span class="tag-n">n</span>
-        <div class="card-note">知识 (knowledge) + 产权 (property rights: 产 property + 权 right). The Chinese legal term for intellectual property — patents, trademarks, copyrights. A major focus of international trade negotiations. 侵犯知识产权 = to infringe intellectual property.</div>
+        <div class="card-note">知识 (knowledge) + 产权 (property rights: 产 property + 权 right). The Chinese legal term for intellectual property , patents, trademarks, copyrights. A major focus of international trade negotiations. 侵犯知识产权 = to infringe intellectual property.</div>
       </div>
 
     </div>
@@ -168,8 +168,8 @@ content_sources:
 
     <div class="scholar" data-glyph="产">
       <div class="scholar-label">经济词汇 jīngjì cíhuì · Economic Vocabulary</div>
-      <p>产 is indispensable in Chinese economic discourse. The most important application: 国内生产总值 (guónèi shēngchǎn zǒngzhí) — literally "domestic production total value" — is the full Chinese rendering of GDP. It is almost always abbreviated 国内生产总值 in formal documents and GDP in casual speech.</p>
-      <p>The three economic sectors are expressed with 产: 第一产业 (dì yī chǎnyè, primary industry — agriculture, fishing, mining), 第二产业 (secondary — manufacturing, construction), 第三产业 (tertiary — services). This tripartite vocabulary is standard in government policy documents, economic education, and news reporting.</p>
+      <p>产 is indispensable in Chinese economic discourse. The most important application: 国内生产总值 (guónèi shēngchǎn zǒngzhí) , literally "domestic production total value" , is the full Chinese rendering of GDP. It is almost always abbreviated 国内生产总值 in formal documents and GDP in casual speech.</p>
+      <p>The three economic sectors are expressed with 产: 第一产业 (dì yī chǎnyè, primary industry , agriculture, fishing, mining), 第二产业 (secondary , manufacturing, construction), 第三产业 (tertiary , services). This tripartite vocabulary is standard in government policy documents, economic education, and news reporting.</p>
       <p>产权 (chǎnquán, property rights) is a foundational concept in Chinese legal and economic reform since the 1990s. Clarifying 产权 (who owns what, and how that ownership is protected) was central to the transformation from a planned to a market economy. 明晰产权 (clarify property rights) became a key reform slogan.</p>
     </div>
 
@@ -202,14 +202,14 @@ content_sources:
         <div class="cy-hanzi">倾家荡产</div>
         <div class="cy-py">qīng jiā dàng chǎn</div>
         <div class="cy-en">to lose all one's family and property → to be utterly ruined; to lose everything</div>
-        <div class="cy-note">倾 (to overturn, empty out) + 家 (family, household) + 荡 (to wash away) + 产 (property, estate). The complete liquidation of a family's wealth and household. Used for catastrophic financial ruin — gambling losses, business failure, legal penalties. 他因为赌博倾家荡产 — he lost everything through gambling.</div>
+        <div class="cy-note">倾 (to overturn, empty out) + 家 (family, household) + 荡 (to wash away) + 产 (property, estate). The complete liquidation of a family's wealth and household. Used for catastrophic financial ruin , gambling losses, business failure, legal penalties. 他因为赌博倾家荡产 , he lost everything through gambling.</div>
       </div>
 
       <div class="cy">
         <div class="cy-hanzi">瓜熟蒂落</div>
         <div class="cy-py">guā shú dì luò</div>
         <div class="cy-en">when the melon is ripe it falls from the stem → things come to fruition naturally in their own time</div>
-        <div class="cy-note">Not a 产 chengyu directly, but the definitive idiom for the concept of 产 — natural yield at the right moment. The image: a melon that cannot be forced from the vine; it falls when ready. 条件成熟了，结果自然就瓜熟蒂落了。"When conditions ripen, results naturally follow."</div>
+        <div class="cy-note">Not a 产 chengyu directly, but the definitive idiom for the concept of 产 , natural yield at the right moment. The image: a melon that cannot be forced from the vine; it falls when ready. 条件成熟了，结果自然就瓜熟蒂落了。"When conditions ripen, results naturally follow."</div>
       </div>
 
     </div>
@@ -218,11 +218,11 @@ content_sources:
     <div class="section-head"><span class="sh-cn">相邻词汇</span><span class="sh-py">xiānglín cíhuì</span><span class="sh-en">Adjacent Vocab</span><span class="sh-rule"></span></div>
 
     <div class="adj-wrap">
-      <span class="adj">制造 zhìzào — to manufacture (industrial process)</span>
-      <span class="adj">创造 chuàngzào — to create (novel production)</span>
-      <span class="adj">出口 chūkǒu — to export</span>
-      <span class="adj">进口 jìnkǒu — to import</span>
-      <span class="adj">资产 zīchǎn — assets, capital</span>
+      <span class="adj">制造 zhìzào , to manufacture (industrial process)</span>
+      <span class="adj">创造 chuàngzào , to create (novel production)</span>
+      <span class="adj">出口 chūkǒu , to export</span>
+      <span class="adj">进口 jìnkǒu , to import</span>
+      <span class="adj">资产 zīchǎn , assets, capital</span>
       <span class="adj">负产 fùchǎn — negative output, liability (rare)</span>
       <span class="adj">生育 shēngyù — to bear children, reproduction</span>
       <span class="adj">收获 shōuhuò — harvest, yield (agricultural)</span>

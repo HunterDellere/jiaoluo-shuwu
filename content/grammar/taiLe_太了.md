@@ -56,7 +56,7 @@ pinyin: 'tài le'
       <span class="topic-hero-eyebrow">Grammar · 语法 yǔfǎ</span>
       <h1 class="topic-hero-title">太…了</h1>
       <span class="topic-hero-title-py">tài … le</span>
-      <p class="topic-hero-desc">Too, excessively — 太 before an adjective and 了 at the end forms one of Mandarin's most expressive degree structures, used both to complain about excess and to express enthusiastic approval.</p>
+      <p class="topic-hero-desc">Too, excessively , 太 before an adjective and 了 at the end forms one of Mandarin's most expressive degree structures, used both to complain about excess and to express enthusiastic approval.</p>
     </header>
 
     <span class="section-anchor" id="overview"></span>
@@ -108,17 +108,17 @@ pinyin: 'tài le'
           <div class="example">
             <div class="ex-cn">这道菜太咸了，能少放点盐吗？</div>
             <div class="ex-py">Zhè dào cài tài xián le, néng shǎo fàng diǎn yán ma?</div>
-            <div class="ex-en">This dish is too salty — can you use less salt?</div>
+            <div class="ex-en">This dish is too salty , can you use less salt?</div>
           </div>
           <div class="example">
             <div class="ex-cn">外面太冷了，穿多点再出门。</div>
             <div class="ex-py">Wàimiàn tài lěng le, chuān duō diǎn zài chūmén.</div>
-            <div class="ex-en">It's too cold outside — put on more clothes before you go out.</div>
+            <div class="ex-en">It's too cold outside , put on more clothes before you go out.</div>
           </div>
           <div class="example">
             <div class="ex-cn">这部电影太长了，我看到一半就睡着了。</div>
             <div class="ex-py">Zhè bù diànyǐng tài cháng le, wǒ kàn dào yī bàn jiù shuìzháo le.</div>
-            <div class="ex-en">This movie is too long — I fell asleep halfway through.</div>
+            <div class="ex-en">This movie is too long , I fell asleep halfway through.</div>
           </div>
         </div>
         <div class="note">
@@ -140,11 +140,11 @@ pinyin: 'tài le'
     <div class="pattern">
       <span class="label">正面表达 zhèngmiàn biǎodá · 太…了 as Praise</span>
       When used with positive adjectives, 太…了 is enthusiastic, not critical:<br>
-      <strong>太好了！</strong> — Wonderful! Great! (not "too good")<br>
-      <strong>太好吃了！</strong> — Delicious! (not "too delicious")<br>
-      <strong>太厉害了！</strong> — Amazing! Impressive! (tài lìhai le)<br>
-      <strong>太棒了！</strong> — Awesome! Excellent! (tài bàng le)<br>
-      <strong>太可爱了！</strong> — So cute! (tài kě'ài le)
+      <strong>太好了！</strong> , Wonderful! Great! (not "too good")<br>
+      <strong>太好吃了！</strong> , Delicious! (not "too delicious")<br>
+      <strong>太厉害了！</strong> , Amazing! Impressive! (tài lìhai le)<br>
+      <strong>太棒了！</strong> , Awesome! Excellent! (tài bàng le)<br>
+      <strong>太可爱了！</strong> , So cute! (tài kě'ài le)
     </div>
 
     <span class="section-anchor" id="degree"></span>
@@ -157,11 +157,11 @@ pinyin: 'tài le'
 
     <div class="pattern">
       <span class="label">程度副词比较 chéngdù fùcí bǐjiào · The Degree Adverb Spectrum</span>
-      <strong>很</strong> hěn — very (baseline modifier; weakest emphasis in practice)<br>
-      <strong>非常</strong> fēicháng — very, extremely (stronger than 很; neutral register)<br>
-      <strong>特别</strong> tèbié — especially, particularly (slightly more emphatic than 非常)<br>
-      <strong>太…了</strong> tài…le — too/so [adj] (strongest emphasis; most colloquial; implies excess or strong feeling)<br>
-      Note: 很 is the most underemphasized — 很好 without context sounds like "passable" rather than "very good." 太好了 is unambiguously enthusiastic.
+      <strong>很</strong> hěn , very (baseline modifier; weakest emphasis in practice)<br>
+      <strong>非常</strong> fēicháng , very, extremely (stronger than 很; neutral register)<br>
+      <strong>特别</strong> tèbié , especially, particularly (slightly more emphatic than 非常)<br>
+      <strong>太…了</strong> tài…le , too/so [adj] (strongest emphasis; most colloquial; implies excess or strong feeling)<br>
+      Note: 很 is the most underemphasized , 很好 without context sounds like "passable" rather than "very good." 太好了 is unambiguously enthusiastic.
     </div>
 
     <span class="section-anchor" id="examples"></span>

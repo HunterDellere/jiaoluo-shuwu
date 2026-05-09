@@ -114,8 +114,8 @@ content_sources:
 
     <div class="scholar" data-glyph="读">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
-      <p><strong>读 dú = 讠 (yán, speech) + 卖 (mài, to show off / sell)</strong>. The traditional form 讀 = 言 + 賣 with the same logic. Reference works classify it as an ideographic compound rather than a clean pictophonetic — the 卖 component carries a faint phonetic suggestion (in older readings of the right-hand element) but the modern simplified 卖 / mài does not match the modern reading dú at all. The Outlier reading takes the right-hand element more semantically: <em>to put words 讠 on display 卖</em>, i.e. to declaim, to show one's literacy in voice.</p>
-      <p>Whichever reconstruction one prefers, the everyday intuition is steady: the 讠 radical anchors 读 in the speech-family of characters (说 shuō, 话 huà, 语 yǔ, 词 cí, 诗 shī, 谁 shéi, 谢 xiè), and the core meaning is the <em>voiced</em> kind of reading. To 读 a book in classical and traditional Chinese culture was not silent perusal but recitation — chanting the text aloud, often by heart, until the rhythm of the prose was lodged in the body. This is why "to study" (in school) in modern Chinese is still 读书 — literally "to read-aloud books."</p>
+      <p><strong>读 dú = 讠 (yán, speech) + 卖 (mài, to show off / sell)</strong>. The traditional form 讀 = 言 + 賣 with the same logic. Reference works classify it as an ideographic compound rather than a clean pictophonetic , the 卖 component carries a faint phonetic suggestion (in older readings of the right-hand element) but the modern simplified 卖 / mài does not match the modern reading dú at all. The Outlier reading takes the right-hand element more semantically: <em>to put words 讠 on display 卖</em>, i.e. to declaim, to show one's literacy in voice.</p>
+      <p>Whichever reconstruction one prefers, the everyday intuition is steady: the 讠 radical anchors 读 in the speech-family of characters (说 shuō, 话 huà, 语 yǔ, 词 cí, 诗 shī, 谁 shéi, 谢 xiè), and the core meaning is the <em>voiced</em> kind of reading. To 读 a book in classical and traditional Chinese culture was not silent perusal but recitation , chanting the text aloud, often by heart, until the rhythm of the prose was lodged in the body. This is why "to study" (in school) in modern Chinese is still 读书 , literally "to read-aloud books."</p>
       <p>Three semantic lives fall out of this voiced core:</p>
       <p><strong>1. Reading as study.</strong> 读书 dúshū "to study" (and "to attend school"); 读小学 "to be in primary school"; 读者 dúzhě "reader" (of a publication).<br>
       <strong>2. Reading as voicing.</strong> 朗读 lǎngdú "to read aloud," 宣读 xuāndú "to read out (a statement)," 读音 dúyīn "the pronunciation" (literally "the read-sound").<br>
@@ -179,7 +179,7 @@ content_sources:
         </div>
         <div class="note">
           <span class="note-label">辨析 biànxī · 读书 vs. 看书</span>
-          <strong>读书</strong> is more academic — studying, school attendance, serious reading. <strong>看书</strong> kànshū is more colloquial — leisure reading, browsing a book. A child told to do their homework is told 去读书; a friend curling up on the sofa is 在看书.
+          <strong>读书</strong> is more academic , studying, school attendance, serious reading. <strong>看书</strong> kànshū is more colloquial , leisure reading, browsing a book. A child told to do their homework is told 去读书; a friend curling up on the sofa is 在看书.
         </div>
       </div>
 
@@ -232,7 +232,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-v">V 动词 dòngcí</span></div>
         <div class="card-def">
-          攻 gōng (to attack; to apply oneself to) + 读. The verb for actively pursuing advanced study — a master's, a doctorate, a specialty. The 攻 conveys the sense of <em>going at it</em>, attacking the subject rather than passively absorbing.
+          攻 gōng (to attack; to apply oneself to) + 读. The verb for actively pursuing advanced study , a master's, a doctorate, a specialty. The 攻 conveys the sense of <em>going at it</em>, attacking the subject rather than passively absorbing.
         </div>
         <div class="examples">
           <div class="example">
@@ -265,7 +265,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-v">V 动词 dòngcí</span></div>
         <div class="card-def">
-          朗 lǎng (clear; bright; resonant) + 读. The school-room and literary register for reading aloud — the kind of reading where pronunciation, rhythm, and feeling matter. Standard exercise in Chinese language classes.
+          朗 lǎng (clear; bright; resonant) + 读. The school-room and literary register for reading aloud , the kind of reading where pronunciation, rhythm, and feeling matter. Standard exercise in Chinese language classes.
         </div>
         <div class="examples">
           <div class="example">
@@ -290,7 +290,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-v">V 动词 dòngcí</span></div>
         <div class="card-def">
-          宣 xuān (to announce; to proclaim) + 读. To read aloud in a formal setting — a court verdict, a wedding vow, an official document at a ceremony. The 宣 marks the public, declarative force.
+          宣 xuān (to announce; to proclaim) + 读. To read aloud in a formal setting , a court verdict, a wedding vow, an official document at a ceremony. The 宣 marks the public, declarative force.
         </div>
         <div class="examples">
           <div class="example">
@@ -310,7 +310,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-v">V 动词 dòngcí</span></div>
         <div class="card-def">
-          默 mò (silent) + 读. The marked term for silent reading — marked precisely because the unmarked sense of 读 is voiced. A reading classroom may instruct students 先默读，再朗读 "first read silently, then aloud."
+          默 mò (silent) + 读. The marked term for silent reading , marked precisely because the unmarked sense of 读 is voiced. A reading classroom may instruct students 先默读，再朗读 "first read silently, then aloud."
         </div>
       </div>
 
@@ -323,7 +323,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          读 dú + 音 yīn (sound). Literally "the read-sound" — the conventional pronunciation of a written character. The standard reference in dictionaries: 这个字的读音是 zhège zì de dúyīn shì… "the pronunciation of this character is…"
+          读 dú + 音 yīn (sound). Literally "the read-sound" , the conventional pronunciation of a written character. The standard reference in dictionaries: 这个字的读音是 zhège zì de dúyīn shì… "the pronunciation of this character is…"
         </div>
       </div>
 
@@ -340,7 +340,7 @@ content_sources:
 
     <div class="scholar" data-glyph="读">
       <div class="scholar-label">语义洞见 yǔyì dòngjiàn · Semantic Insight</div>
-      <p>Modern Chinese has expanded 读 along the same metaphorical line English uses: from <em>reading marks on a page</em> to <em>construing meaning from any signal</em>. The compound <strong>解读</strong> jiědú — 解 (to untie, to dissolve) + 读 — is the workhorse of this figurative range. One can 解读 a poem, a market signal, an opponent's facial expression, an electoral result, a piece of policy. The 解 marks the move from surface to underlying meaning; the 读 keeps the analogy to text-reading alive.</p>
+      <p>Modern Chinese has expanded 读 along the same metaphorical line English uses: from <em>reading marks on a page</em> to <em>construing meaning from any signal</em>. The compound <strong>解读</strong> jiědú , 解 (to untie, to dissolve) + 读 , is the workhorse of this figurative range. One can 解读 a poem, a market signal, an opponent's facial expression, an electoral result, a piece of policy. The 解 marks the move from surface to underlying meaning; the 读 keeps the analogy to text-reading alive.</p>
       <p>This is why 读 has quietly become one of the standard verbs in modern Chinese commentary: <strong>解读时事</strong> "interpreting current events," <strong>读懂</strong> dúdǒng "to read-and-understand" (a book, a person, a situation). 读懂一个人 "to truly understand a person" is one of the more common emotional metaphors in modern Chinese pop culture.</p>
     </div>
 
@@ -355,7 +355,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-v">V 动词 dòngcí</span></div>
         <div class="card-def">
-          解 jiě (to untie; to dissolve; to explain) + 读. The standard verb for interpretive reading — of a text, a result, a signal, a person's behaviour. Where 阅读 is comprehending what is plainly there, 解读 is going after what is implicit.
+          解 jiě (to untie; to dissolve; to explain) + 读. The standard verb for interpretive reading , of a text, a result, a signal, a person's behaviour. Where 阅读 is comprehending what is plainly there, 解读 is going after what is implicit.
         </div>
         <div class="examples">
           <div class="example">
@@ -400,7 +400,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-v">V 动词 dòngcí</span></div>
         <div class="card-def">
-          重 + 读 — but 重 is a polyphone. <strong>chóngdú</strong> = "again-read," to re-read a book or article. <strong>zhòngdú</strong> = "heavy-read," to stress or accent a syllable in pronunciation. Same characters, different reading, different meaning entirely.
+          重 + 读 , but 重 is a polyphone. <strong>chóngdú</strong> = "again-read," to re-read a book or article. <strong>zhòngdú</strong> = "heavy-read," to stress or accent a syllable in pronunciation. Same characters, different reading, different meaning entirely.
         </div>
       </div>
 
@@ -417,7 +417,7 @@ content_sources:
 
     <div class="scholar" data-glyph="读">
       <div class="scholar-label">异读 yìdú · Alternate Reading</div>
-      <p>The same character has a second classical reading <strong>dòu</strong>, used in the term <strong>句读</strong> jùdòu — the art of correctly punctuating an unpunctuated classical text by identifying sentence ends (句 jù) and pauses (读 dòu). Pre-modern Chinese books were printed without punctuation; learning to 句读 a text was the foundational skill of classical literacy. To <em>fail</em> to 句读 a passage was to fail to understand it at all.</p>
+      <p>The same character has a second classical reading <strong>dòu</strong>, used in the term <strong>句读</strong> jùdòu , the art of correctly punctuating an unpunctuated classical text by identifying sentence ends (句 jù) and pauses (读 dòu). Pre-modern Chinese books were printed without punctuation; learning to 句读 a text was the foundational skill of classical literacy. To <em>fail</em> to 句读 a passage was to fail to understand it at all.</p>
       <p>Modern students rarely encounter the dòu reading outside the term 句读 itself, but it is worth knowing: it explains why 读 is taught in school as having two pronunciations, and it preserves a fossil of the older idea that <em>reading</em> is fundamentally a matter of correctly carving a stream of characters into meaningful units in the voice.</p>
     </div>
 
@@ -436,7 +436,7 @@ content_sources:
         <span class="cy-cn">熟读唐诗三百首</span>
         <span class="cy-py">shú dú Táng shī sān bǎi shǒu</span>
         <span class="cy-en">read three hundred Tang poems until you know them by heart — and you'll be able to compose poetry yourself</span>
-        <span class="cy-note">From the preface to the famous Qing-dynasty anthology <em>Three Hundred Tang Poems</em>: 熟读唐诗三百首，不会作诗也会吟. The locus classicus for the Chinese theory of learning by saturated recitation. The full saying ends "even if you can't compose, you'll be able to chant" — competence emerges from soaking in the corpus.</span>
+        <span class="cy-note">From the preface to the famous Qing-dynasty anthology <em>Three Hundred Tang Poems</em>: 熟读唐诗三百首，不会作诗也会吟. The locus classicus for the Chinese theory of learning by saturated recitation. The full saying ends "even if you can't compose, you'll be able to chant" , competence emerges from soaking in the corpus.</span>
       </div>
 
       <div class="cy">

@@ -71,7 +71,7 @@ updated: '2026-04-25'
       <span class="topic-hero-eyebrow">Vocabulary · 词汇 cíhuì</span>
       <h1 class="topic-hero-title">轮回</h1>
       <span class="topic-hero-title-py">lúnhuí</span>
-      <p class="topic-hero-desc">The wheel of conditioned existence — the Buddhist cycle of death and rebirth driven by karma, turning through six realms until the conditions for liberation are met.</p>
+      <p class="topic-hero-desc">The wheel of conditioned existence , the Buddhist cycle of death and rebirth driven by karma, turning through six realms until the conditions for liberation are met.</p>
     </header>
 
     <!-- ── ETYMOLOGY ── -->
@@ -86,8 +86,8 @@ updated: '2026-04-25'
     <div class="scholar" data-glyph="轮">
       <div class="scholar-label">字源洞见 zìyuán dòngjiàn · Etymological Insight</div>
       <p><strong>轮 lún</strong> is a wheel: a cart wheel, a millstone, the sun as it arcs across the sky. The character combines the cart/vehicle radical 车 (chē) with 仑 lún as phonetic component, capturing both the physical object and the idea of something that turns in a regular cycle. 轮 appears in words for rotation, taking turns, and any circular recurring pattern.</p>
-      <p><strong>回 huí</strong> is to return, to revolve, to come back around. Its origin is a pictograph of a spiral or whirlpool — something that turns and returns to its starting point. 回 appears throughout Chinese in expressions of going back (回家 huíjiā, to go home), responding (回答 huídá, to answer), and cyclic repetition.</p>
-      <p>Together: the wheel-like turning and returning of existence. 轮回 is the Chinese rendering of the Sanskrit saṃsāra — literally "wandering through," the stream of conditioned existence through which beings are carried by the force of karma, death after death, birth after birth, in a cycle that has no discernible beginning and no automatic end. The word entered Chinese Buddhist vocabulary through translation beginning in the 2nd century CE. By the Tang dynasty (618-907 CE) it was established as the standard term, appearing in poetry, philosophical commentary, and popular religious literature.</p>
+      <p><strong>回 huí</strong> is to return, to revolve, to come back around. Its origin is a pictograph of a spiral or whirlpool , something that turns and returns to its starting point. 回 appears throughout Chinese in expressions of going back (回家 huíjiā, to go home), responding (回答 huídá, to answer), and cyclic repetition.</p>
+      <p>Together: the wheel-like turning and returning of existence. 轮回 is the Chinese rendering of the Sanskrit saṃsāra , literally "wandering through," the stream of conditioned existence through which beings are carried by the force of karma, death after death, birth after birth, in a cycle that has no discernible beginning and no automatic end. The word entered Chinese Buddhist vocabulary through translation beginning in the 2nd century CE. By the Tang dynasty (618-907 CE) it was established as the standard term, appearing in poetry, philosophical commentary, and popular religious literature.</p>
     </div>
 
     <!-- ── THE SIX REALMS ── -->
@@ -102,8 +102,8 @@ updated: '2026-04-25'
     <div class="scholar" data-glyph="道">
       <div class="scholar-label">佛教洞见 fójiào dòngjiàn · Buddhist Note</div>
       <p>Buddhist cosmology maps 轮回 across 六道 liù dào (the six paths or realms of existence), into which beings are reborn according to the quality and weight of their karma. The six are arranged in a rough hierarchy from the highest to the most tormented, but no realm is permanent: a being in the god realm will eventually exhaust its accumulated merit and fall; a being in the hell realm will eventually exhaust its negative karma and rise. The wheel turns for everyone.</p>
-      <p>The six realms are typically depicted in Tibetan Buddhist art as a wheel held by Yama, the lord of death — each section showing the beings and characteristic activities of that realm. The hub of the wheel holds three animals representing the three root poisons that drive rebirth: a pig (ignorance), a snake (hatred), and a bird (greed/desire). Chinese Buddhist temples often display related imagery, and the concept is deeply embedded in popular religious understanding throughout East Asia.</p>
-      <p>The human realm (人道) is considered the pivot position: it offers enough suffering to motivate the pursuit of liberation, enough capacity to actually practice the path. Beings in the god realm are too comfortable to feel urgency; beings in the lower realms are too tormented to practice effectively. The human birth is described as rare and precious — a teaching that appears repeatedly in Buddhist texts as a reason to use this life deliberately.</p>
+      <p>The six realms are typically depicted in Tibetan Buddhist art as a wheel held by Yama, the lord of death , each section showing the beings and characteristic activities of that realm. The hub of the wheel holds three animals representing the three root poisons that drive rebirth: a pig (ignorance), a snake (hatred), and a bird (greed/desire). Chinese Buddhist temples often display related imagery, and the concept is deeply embedded in popular religious understanding throughout East Asia.</p>
+      <p>The human realm (人道) is considered the pivot position: it offers enough suffering to motivate the pursuit of liberation, enough capacity to actually practice the path. Beings in the god realm are too comfortable to feel urgency; beings in the lower realms are too tormented to practice effectively. The human birth is described as rare and precious , a teaching that appears repeatedly in Buddhist texts as a reason to use this life deliberately.</p>
     </div>
 
     <div class="cards">
@@ -141,7 +141,7 @@ updated: '2026-04-25'
           <div class="example">
             <div class="ex-cn">人身难得，佛法难闻，此生不修，更待何时？</div>
             <div class="ex-py">Rénshēn nán dé, fófǎ nán wén, cǐ shēng bù xiū, gèng dài hé shí?</div>
-            <div class="ex-en">A human birth is hard to obtain, the Dharma hard to encounter — if you do not practice in this life, when will you?</div>
+            <div class="ex-en">A human birth is hard to obtain, the Dharma hard to encounter , if you do not practice in this life, when will you?</div>
           </div>
           <div class="example">
             <div class="ex-cn">六道之中，人道最宜修行，苦乐相参，利于觉悟。</div>
@@ -159,13 +159,13 @@ updated: '2026-04-25'
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          饿鬼 è guǐ (hungry ghosts): beings with enormous appetites and tiny throats — perpetually starving, unable to consume enough to be satisfied. In Buddhist iconography they are depicted as emaciated figures with swollen bellies and needle-thin necks. The realm is the karmic consequence of overwhelming greed and hoarding. The image of the hungry ghost has entered popular Chinese culture as a description of insatiable desire of any kind: an addicted person, an obsessive consumer, anyone who cannot stop wanting more.
+          饿鬼 è guǐ (hungry ghosts): beings with enormous appetites and tiny throats , perpetually starving, unable to consume enough to be satisfied. In Buddhist iconography they are depicted as emaciated figures with swollen bellies and needle-thin necks. The realm is the karmic consequence of overwhelming greed and hoarding. The image of the hungry ghost has entered popular Chinese culture as a description of insatiable desire of any kind: an addicted person, an obsessive consumer, anyone who cannot stop wanting more.
         </div>
         <div class="examples">
           <div class="example">
             <div class="ex-cn">饿鬼道的众生，终日渴求而不得满足，是贪欲之苦的象征。</div>
             <div class="ex-py">È guǐ dào de zhòngshēng, zhōngrì kěqiú ér bù dé mǎnzú, shì tānyù zhī kǔ de xiàngzhēng.</div>
-            <div class="ex-en">Beings in the hungry ghost realm seek endlessly without satisfaction — a symbol of the suffering that craving brings.</div>
+            <div class="ex-en">Beings in the hungry ghost realm seek endlessly without satisfaction , a symbol of the suffering that craving brings.</div>
           </div>
         </div>
       </div>
@@ -178,13 +178,13 @@ updated: '2026-04-25'
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          The lowest of the six realms: extreme suffering as the karmic consequence of severe negative actions — violence, cruelty, deliberate harm. Chinese Buddhist cosmology elaborated an extensive geography of hell realms (地狱 dìyù) with specific torments corresponding to specific offenses, presided over by 阎罗王 Yánluó Wáng (Yama, King of Hell). Unlike the Christian hell, Buddhist hell realms are not eternal: the negative karma that placed a being there will eventually be exhausted, and the being will be reborn elsewhere. The suffering is extreme but finite.
+          The lowest of the six realms: extreme suffering as the karmic consequence of severe negative actions , violence, cruelty, deliberate harm. Chinese Buddhist cosmology elaborated an extensive geography of hell realms (地狱 dìyù) with specific torments corresponding to specific offenses, presided over by 阎罗王 Yánluó Wáng (Yama, King of Hell). Unlike the Christian hell, Buddhist hell realms are not eternal: the negative karma that placed a being there will eventually be exhausted, and the being will be reborn elsewhere. The suffering is extreme but finite.
         </div>
         <div class="examples">
           <div class="example">
             <div class="ex-cn">地狱非永久，业尽则轮转，此即佛教与基督教地狱观之别。</div>
             <div class="ex-py">Dìyù fēi yǒngjiǔ, yè jìn zé lún zhuǎn, cǐ jí fójiào yǔ jīdūjiào dìyù guān zhī bié.</div>
-            <div class="ex-en">Buddhist hell is not eternal; when the karma is exhausted the being cycles onward — this is the difference between the Buddhist and Christian views of hell.</div>
+            <div class="ex-en">Buddhist hell is not eternal; when the karma is exhausted the being cycles onward , this is the difference between the Buddhist and Christian views of hell.</div>
           </div>
         </div>
       </div>
@@ -202,7 +202,7 @@ updated: '2026-04-25'
 
     <div class="scholar" data-glyph="业">
       <div class="scholar-label">教义洞见 jiàoyì dòngjiàn · Doctrinal Note</div>
-      <p>The engine that turns the wheel of 轮回 is 业 yè (Sanskrit: karma) — intentional action. Every deliberate action of body, speech, or mind leaves a karmic imprint that will eventually ripen into a result: a favorable rebirth, an unfavorable one, or specific circumstances within a life. 业力 yèlì (karmic force) is the accumulated weight of these imprints, carrying beings forward through the cycle.</p>
+      <p>The engine that turns the wheel of 轮回 is 业 yè (Sanskrit: karma) , intentional action. Every deliberate action of body, speech, or mind leaves a karmic imprint that will eventually ripen into a result: a favorable rebirth, an unfavorable one, or specific circumstances within a life. 业力 yèlì (karmic force) is the accumulated weight of these imprints, carrying beings forward through the cycle.</p>
       <p>The principle governing this is 因果 yīnguǒ (cause and effect; karma as a principle): every cause produces a corresponding effect. The Buddhist framework differs from simple reward-and-punishment in that it is impersonal and mechanical: a seed planted in good soil at the right time will grow regardless of the gardener's intentions. Karma ripens according to its nature, not according to divine judgment.</p>
       <p>Kumārajīva (鸠摩罗什, 344-413 CE), the Central Asian monk who produced the most influential early Chinese Buddhist translations, rendered key texts on karma and rebirth that established much of the Chinese Buddhist vocabulary. His translation of the Vimalakirti Sutra (维摩诘经) and the Diamond Sutra (金刚经), among others, gave Chinese readers a sophisticated account of karma, dependent origination, and the path to liberation that shaped Chinese Buddhist thought for over a millennium.</p>
     </div>
@@ -223,12 +223,12 @@ updated: '2026-04-25'
           <div class="example">
             <div class="ex-cn">万般带不走，唯有业随身。</div>
             <div class="ex-py">Wàn bān dài bù zǒu, wéi yǒu yè suí shēn.</div>
-            <div class="ex-en">You cannot take anything with you — only karma follows the self. (a widely cited Buddhist saying)</div>
+            <div class="ex-en">You cannot take anything with you , only karma follows the self. (a widely cited Buddhist saying)</div>
           </div>
           <div class="example">
             <div class="ex-cn">善业引善果，恶业招恶报，因果不虚。</div>
             <div class="ex-py">Shàn yè yǐn shàn guǒ, è yè zhāo è bào, yīnguǒ bù xū.</div>
-            <div class="ex-en">Good karma leads to good results, bad karma brings bad consequences — the principle of cause and effect does not fail.</div>
+            <div class="ex-en">Good karma leads to good results, bad karma brings bad consequences , the principle of cause and effect does not fail.</div>
           </div>
         </div>
       </div>
@@ -247,7 +247,7 @@ updated: '2026-04-25'
           <div class="example">
             <div class="ex-cn">种什么因，得什么果，这是因果定律。</div>
             <div class="ex-py">Zhòng shénme yīn, dé shénme guǒ, zhè shì yīnguǒ dìnglǜ.</div>
-            <div class="ex-en">What seed you plant is what fruit you get — this is the law of cause and effect.</div>
+            <div class="ex-en">What seed you plant is what fruit you get , this is the law of cause and effect.</div>
           </div>
           <div class="example">
             <div class="ex-cn">他相信因果，认为现在的处境是过去行为的结果。</div>
@@ -257,7 +257,7 @@ updated: '2026-04-25'
           <div class="example">
             <div class="ex-cn">因果报应不是迷信，而是一种关于行为与后果的深刻洞见。</div>
             <div class="ex-py">Yīnguǒ bàoyìng bù shì míxìn, ér shì yī zhǒng guānyú xíngwéi yǔ hòuguǒ de shēnkè dòngjiàn.</div>
-            <div class="ex-en">The requital of cause and effect is not superstition — it is a profound insight about action and consequence.</div>
+            <div class="ex-en">The requital of cause and effect is not superstition , it is a profound insight about action and consequence.</div>
           </div>
         </div>
       </div>
@@ -281,7 +281,7 @@ updated: '2026-04-25'
           <div class="example">
             <div class="ex-cn">她说她记得前世，转世之前在西藏的寺庙里生活。</div>
             <div class="ex-py">Tā shuō tā jìde qiánshì, zhuǎnshì zhīqián zài Xīzàng de sìmiào lǐ shēnghuó.</div>
-            <div class="ex-en">She said she remembers a previous life — living in a Tibetan monastery before this reincarnation.</div>
+            <div class="ex-en">She said she remembers a previous life , living in a Tibetan monastery before this reincarnation.</div>
           </div>
         </div>
       </div>
@@ -299,7 +299,7 @@ updated: '2026-04-25'
 
     <div class="scholar" data-glyph="涅">
       <div class="scholar-label">修行洞见 xiūxíng dòngjiàn · Practice Note</div>
-      <p>The entire structure of Buddhist practice is motivated by the desire to exit 轮回. The goal is 涅槃 Nièpán (Sanskrit: nirvana) — the cessation of conditioned existence, the extinguishing of the craving, aversion, and ignorance that generate karma and keep the wheel turning. Nirvana is not annihilation; it is the end of the conditions that produce suffering and rebirth. What remains after the cessation of conditioned existence is described differently across different Buddhist traditions, but the common thread is: the wheel stops.</p>
+      <p>The entire structure of Buddhist practice is motivated by the desire to exit 轮回. The goal is 涅槃 Nièpán (Sanskrit: nirvana) , the cessation of conditioned existence, the extinguishing of the craving, aversion, and ignorance that generate karma and keep the wheel turning. Nirvana is not annihilation; it is the end of the conditions that produce suffering and rebirth. What remains after the cessation of conditioned existence is described differently across different Buddhist traditions, but the common thread is: the wheel stops.</p>
       <p>In Mahayana Buddhism, which shaped Chinese Buddhist tradition most deeply, the individual pursuit of nirvana is reframed by the bodhisattva ideal. A bodhisattva (菩萨 púsà) is a being who has reached the threshold of liberation but vows to remain within 轮回, taking rebirth life after life, until all sentient beings have been liberated. This is considered the higher path: 慈悲 cíbēi (compassion) expressed as a deliberate choice to stay in the wheel for the sake of others.</p>
       <p>Chan Buddhism (禅宗 Chán Zōng), the tradition that produced the most distinctively Chinese Buddhist thought, pushed toward sudden liberation in this lifetime. The Sixth Patriarch Huineng (六祖慧能, 638-713 CE) taught that original awakening is not reached by accumulating merit across lifetimes but is available in this very moment to anyone who sees through the illusion of a fixed conditioned self. The wheel of 轮回 turns because beings mistake their conditioned experience for what they fundamentally are. Recognition of the unconditioned nature that was never caught in 轮回 is liberation itself.</p>
     </div>
@@ -325,7 +325,7 @@ updated: '2026-04-25'
           <div class="example">
             <div class="ex-cn">他说那次失败是他职业生涯的涅槃，让他彻底重生。</div>
             <div class="ex-py">Tā shuō nà cì shībài shì tā zhíyè shēngyá de nièpán, ràng tā chèdǐ chóngshēng.</div>
-            <div class="ex-en">He said that failure was his career's nirvana — it allowed him to completely start over. (secular usage)</div>
+            <div class="ex-en">He said that failure was his career's nirvana , it allowed him to completely start over. (secular usage)</div>
           </div>
         </div>
       </div>
@@ -344,7 +344,7 @@ updated: '2026-04-25'
           <div class="example">
             <div class="ex-cn">学佛的目的是从轮回中解脱，永断生死苦海。</div>
             <div class="ex-py">Xué fó de mùdì shì cóng lúnhuí zhōng jiětuō, yǒng duàn shēngsǐ kǔhǎi.</div>
-            <div class="ex-en">The purpose of Buddhist practice is liberation from 轮回 — permanently cutting free from the bitter sea of birth and death.</div>
+            <div class="ex-en">The purpose of Buddhist practice is liberation from 轮回 , permanently cutting free from the bitter sea of birth and death.</div>
           </div>
           <div class="example">
             <div class="ex-cn">他辞了职，感到一种前所未有的解脱。</div>
@@ -362,7 +362,7 @@ updated: '2026-04-25'
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          Transliteration of Sanskrit bodhisattva (awakening being). In Mahayana Buddhism, the bodhisattva stands at the threshold of liberation and chooses to remain in 轮回, taking rebirth life after life with the intention of benefiting all sentient beings. This vow — the 菩萨愿 púsà yuàn (bodhisattva vow) — is considered the highest expression of 慈悲 cíbēi (compassion). In Chinese popular religion, 菩萨 is also used broadly for any divine figure of compassion and aid, including 观音菩萨 Guānyīn púsà (Guanyin, the Bodhisattva of Compassion), one of the most widely worshipped figures in Chinese religious life.
+          Transliteration of Sanskrit bodhisattva (awakening being). In Mahayana Buddhism, the bodhisattva stands at the threshold of liberation and chooses to remain in 轮回, taking rebirth life after life with the intention of benefiting all sentient beings. This vow , the 菩萨愿 púsà yuàn (bodhisattva vow) , is considered the highest expression of 慈悲 cíbēi (compassion). In Chinese popular religion, 菩萨 is also used broadly for any divine figure of compassion and aid, including 观音菩萨 Guānyīn púsà (Guanyin, the Bodhisattva of Compassion), one of the most widely worshipped figures in Chinese religious life.
         </div>
         <div class="examples">
           <div class="example">
