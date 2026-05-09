@@ -221,9 +221,9 @@ content_sources:
       <span class="adj">讲 jiǎng , to speak, explain, tell (informal)</span>
       <span class="adj">通知 tōngzhī , to notify, give notice</span>
       <span class="adj">宣布 xuānbù , to announce, declare</span>
-      <span class="adj">宣告 xuāngào — to proclaim, officially announce</span>
-      <span class="adj">揭发 jiēfā — to expose, reveal wrongdoing</span>
-      <span class="adj">举报 jǔbào — to report (wrongdoing) to authorities</span>
+      <span class="adj">宣告 xuāngào, to proclaim, officially announce</span>
+      <span class="adj">揭发 jiēfā, to expose, reveal wrongdoing</span>
+      <span class="adj">举报 jǔbào, to report (wrongdoing) to authorities</span>
       <span class="adj"><span class="a-cn">广</span><span class="a-py">guǎng</span><span class="a-en">wide; broad; to spread (paired with 告 in 广告 advertising)</span></span>
     </div>
 

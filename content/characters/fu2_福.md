@@ -117,9 +117,9 @@ content_sources:
       <div class="card c-n">
         <div class="card-head"><span class="card-cn">福气</span><span class="card-py">fúqi</span><span class="card-en">blessed fortune; a life touched by luck</span></div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
-        <div class="card-def">福 fú + 气 qì (atmosphere; quality; energy). The quality of being blessed — having fortune as part of one's life-energy. 有福气 yǒu fúqi = to be blessed / to have good fortune. A compliment that goes beyond luck to a general quality of being favored by life.</div>
+        <div class="card-def">福 fú + 气 qì (atmosphere; quality; energy). The quality of being blessed: having fortune as part of one's life-energy. 有福气 yǒu fúqi = to be blessed / to have good fortune. A compliment that goes beyond luck to a general quality of being favored by life.</div>
         <div class="examples">
-          <div class="example"><div class="ex-cn">她真有福气，儿女都很孝顺。</div><div class="ex-py">Tā zhēn yǒu fúqi, érnǚ dōu hěn xiàoshùn.</div><div class="ex-en">She is truly blessed — her children are all very filial.</div></div>
+          <div class="example"><div class="ex-cn">她真有福气，儿女都很孝顺。</div><div class="ex-py">Tā zhēn yǒu fúqi, érnǚ dōu hěn xiàoshùn.</div><div class="ex-en">She is truly blessed; her children are all very filial.</div></div>
         </div>
       </div>
 
@@ -130,7 +130,7 @@ content_sources:
 
     <div class="chengyu-grid">
       <div class="cy"><span class="cy-cn">福星高照</span><span class="cy-py">fú xīng gāo zhào</span><span class="cy-en">the star of fortune shines from above — to be under a lucky star</span><span class="cy-note">福星 fúxīng = the star of fortune (one of the three auspicious stars 福禄寿). 高照 = shining from on high. A blessing used at New Year, weddings, and new ventures.</span></div>
-      <div class="cy"><span class="cy-cn">福无双至，祸不单行</span><span class="cy-py">fú wú shuāng zhì, huò bù dān xíng</span><span class="cy-en">blessings don't come in pairs; misfortunes never come alone</span><span class="cy-note">The Chinese equivalent of "when it rains it pours" — and its optimistic inverse. Fortune is rare and singular; misfortune clusters. A paired proverb that encodes Chinese realism about luck.</span></div>
+      <div class="cy"><span class="cy-cn">福无双至，祸不单行</span><span class="cy-py">fú wú shuāng zhì, huò bù dān xíng</span><span class="cy-en">blessings don't come in pairs; misfortunes never come alone</span><span class="cy-note">The Chinese equivalent of "when it rains it pours," and its optimistic inverse. Fortune is rare and singular; misfortune clusters. A paired proverb that encodes Chinese realism about luck.</span></div>
       <div class="cy"><span class="cy-cn">吃亏是福</span><span class="cy-py">chī kuī shì fú</span><span class="cy-en">suffering loss is a blessing — short-term disadvantage yields long-term benefit</span><span class="cy-note">The proverb links 福 to humility and acceptance. Also cross-references the 吃 entry: the same saying appears there from the eating angle.</span></div>
     </div>
 

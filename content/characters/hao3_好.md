@@ -349,7 +349,7 @@ content_sources:
           <div class="example">
             <div class="ex-cn">孩子天生好奇，什么都想摸。</div>
             <div class="ex-py">Háizi tiānshēng hàoqí, shénme dōu xiǎng mō.</div>
-            <div class="ex-en">Children are naturally curious — they want to touch everything.</div>
+            <div class="ex-en">Children are naturally curious; they want to touch everything.</div>
           </div>
         </div>
       </div>
@@ -362,7 +362,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          好 hǎo (good) + 处 chù (place; aspect; point). The good points of something — its advantages. Contrast: 坏处 huàichù (bad points; disadvantages).
+          好 hǎo (good) + 处 chù (place; aspect; point). The good points of something: its advantages. Contrast: 坏处 huàichù (bad points; disadvantages).
         </div>
         <div class="examples">
           <div class="example">
@@ -404,7 +404,7 @@ content_sources:
         <span class="cy-cn">好自为之</span>
         <span class="cy-py">hǎo zì wéi zhī</span>
         <span class="cy-en">take good care of yourself; do well for yourself</span>
-        <span class="cy-note">A formal farewell or parting injunction — "do well in your own conduct." Can be warm (a mentor to a student) or pointed (a warning to behave). Context determines whether it is affectionate or admonishing.</span>
+        <span class="cy-note">A formal farewell or parting injunction: "do well in your own conduct." Can be warm (a mentor to a student) or pointed (a warning to behave). Context determines whether it is affectionate or admonishing.</span>
       </div>
 
     </div>

@@ -441,7 +441,7 @@ updated: '2026-04-25'
     <div class="scholar" data-glyph="更">
       <div class="scholar-label">词汇延伸 cíhuì yánshēn · Vocabulary from the Watch</div>
       <p><strong>三更半夜 sāngēng bànyè</strong> , "the third watch, past midnight" , is the phrase that survived into modern colloquial Chinese. Use it when someone calls at an unreasonable hour: 你三更半夜打电话干什么？What are you calling in the middle of the night for? The 更 here is gēng, first tone; the phrase preserves the classical timekeeping system in everyday speech without most speakers noticing its etymology.</p>
-      <p>The phrase maps to a specific time window — roughly 11 pm to 1 am — but in modern use functions simply as "the dead of night," any hour that feels unreasonably late or dark.</p>
+      <p>The phrase maps to a specific time window (roughly 11 pm to 1 am) but in modern use functions simply as "the dead of night," any hour that feels unreasonably late or dark.</p>
     </div>
 
     <!-- ── CHENGYU ── -->
@@ -517,7 +517,7 @@ updated: '2026-04-25'
     <!-- RETENTION -->
     <div class="scholar" data-glyph="更" style="margin-top:2.5rem;">
       <div class="scholar-label">记忆法 jìyìfǎ · Master Retention Image</div>
-      <p>Think of a watchman in a dark city, beating his drum as he walks. Each beat announces a change of shift — one guard replaces another, one hour replaces the last. That is gēng: replacement, renewal, the turning of things. Now hear him beat three times: 三更. The city is fully asleep. It is midnight.</p>
+      <p>Think of a watchman in a dark city, beating his drum as he walks. Each beat announces a change of shift: one guard replaces another, one hour replaces the last. That is gēng: replacement, renewal, the turning of things. Now hear him beat three times: 三更. The city is fully asleep. It is midnight.</p>
       <p>The comparative gèng works on the same logic: it <em>replaces</em> the current position with a further one. Better becomes even better. Cold becomes even colder. The same character; the same gesture of going further.</p>
     </div>
 

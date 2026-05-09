@@ -204,9 +204,9 @@ content_sources:
       <span class="adj">阔 kuò , broad, wealthy</span>
       <span class="adj">大 dà , big, large (scale)</span>
       <span class="adj">博 bó , extensive, learned</span>
-      <span class="adj">窄 zhǎi — narrow (antonym)</span>
-      <span class="adj">扩大 kuòdà — to expand, enlarge</span>
-      <span class="adj">延伸 yánshēn — to extend, stretch out</span>
+      <span class="adj">窄 zhǎi, narrow (antonym)</span>
+      <span class="adj">扩大 kuòdà, to expand, enlarge</span>
+      <span class="adj">延伸 yánshēn, to extend, stretch out</span>
     </div>
 
     <footer class="page-footer">
