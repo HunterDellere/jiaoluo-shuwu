@@ -307,6 +307,7 @@ else { window.__enhanceInit = true; (function () {
           outlineColor: '#c8bda0',
           highlightColor: '#a06428',
           drawingColor: '#1a5050',
+          drawingWidth: 200,
           delayBetweenStrokes: 220,
           strokeAnimationSpeed: 1.1,
           showOutline: true,
