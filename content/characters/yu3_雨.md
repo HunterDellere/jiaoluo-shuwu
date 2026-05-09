@@ -236,7 +236,7 @@ content_review: 'pending'
         <div class="cy-cn">雨过天晴</div>
         <div class="cy-py">yǔ guò tiān qíng</div>
         <div class="cy-en">"after the rain the sky clears" , hardship followed by improvement</div>
-        <div class="cy-note">A self-contained optimistic arc in four characters: storm (雨), passage (过), sky (天), clear (晴). Used to encourage someone in difficulty or to describe a situation that has turned for the better. Also a glaze color in Chinese ceramics — 雨过天晴色, the grey-blue of a sky after rain, prized in Song dynasty porcelain.</div>
+        <div class="cy-note">A self-contained optimistic arc in four characters: storm (雨), passage (过), sky (天), clear (晴). Used to encourage someone in difficulty or to describe a situation that has turned for the better. Also a glaze color in Chinese ceramics: 雨过天晴色, the grey-blue of a sky after rain, prized in Song dynasty porcelain.</div>
       </div>
     </div>
 
@@ -266,9 +266,9 @@ content_review: 'pending'
 
     <div class="scholar" data-glyph="雨">
       <div class="scholar-label">记忆法 jìyìfǎ · Master Retention Image</div>
-      <p>Draw the character in the air with a finger: a horizontal line (the sky), a curved shape below it (clouds), and four dots hanging down (rain falling). You have just reproduced an oracle bone inscription from 1200 BCE. 雨 is the script system's most faithful pictograph — the modern character is the ancient character, almost unchanged.</p>
+      <p>Draw the character in the air with a finger: a horizontal line (the sky), a curved shape below it (clouds), and four dots hanging down (rain falling). You have just reproduced an oracle bone inscription from 1200 BCE. 雨 is the script system's most faithful pictograph: the modern character is the ancient character, almost unchanged.</p>
       <p>The radical family follows the same logic the pictograph established. Every character with 雨 on top is describing something that falls from or lives in the sky: snow 雪, thunder 雷, frost 霜, dew 露. When you see 雨 as a radical, you are already in weather territory.</p>
-      <p>Keep the homophone 语 (yǔ, language) distinct by remembering that 语 has the speech radical 讠on the left — language is about the mouth, not the sky. Rain falls from above; words come from the side.</p>
+      <p>Keep the homophone 语 (yǔ, language) distinct by remembering that 语 has the speech radical 讠on the left: language is about the mouth, not the sky. Rain falls from above; words come from the side.</p>
     </div>
 
     <footer class="page-footer">

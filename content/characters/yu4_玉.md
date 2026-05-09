@@ -214,7 +214,7 @@ content_review: 'pending'
         <span class="cy-cn">金玉良言</span>
         <span class="cy-py">jīnyù liángyán</span>
         <span class="cy-en">Words of gold and jade — wise counsel; advice worth heeding</span>
-        <span class="cy-note">Lit: gold-jade good-words. 良言 = good, sincere words. Used to describe advice that is genuinely valuable, from a mentor, elder, or text worth taking seriously. Sometimes used in mild irony when someone gives very obvious advice as though it were profound , 这真是金玉良言 can be sincere or gently sardonic depending on context. Contrast with 忠言逆耳 zhōngyán nì ěr (loyal words are harsh to the ear) — gold-and-jade advice is welcome; true advice is often not.</span>
+        <span class="cy-note">Lit: gold-jade good-words. 良言 = good, sincere words. Used to describe advice that is genuinely valuable, from a mentor, elder, or text worth taking seriously. Sometimes used in mild irony when someone gives very obvious advice as though it were profound , 这真是金玉良言 can be sincere or gently sardonic depending on context. Contrast with 忠言逆耳 zhōngyán nì ěr (loyal words are harsh to the ear): gold-and-jade advice is welcome; true advice is often not.</span>
       </div>
 
     </div>
@@ -246,8 +246,8 @@ content_review: 'pending'
 
     <div class="scholar" data-glyph="玉">
       <div class="scholar-label">视觉记忆 · Visual Memory</div>
-      <p>The simplest mnemonic: 玉 = 王 (king) + dot. Remember that the dot was added precisely to distinguish jade from king — and remember why they were confused: jade was the material of kings. The dot saves you from writing "king" when you mean "jade," but the history says they belong together.</p>
-      <p>For reading classical Chinese, hold the pairing 玉德 (jade-virtue) as a single concept: what jade is physically, the junzi is morally. Warm but firm, translucent but durable, breaks rather than bends. The Confucian reading makes every jade object a lesson in character — which is why the junzi wore jade constantly, moved carefully so the pendants rang correctly, and gave jade as the gift of highest respect.</p>
+      <p>The simplest mnemonic: 玉 = 王 (king) + dot. Remember that the dot was added precisely to distinguish jade from king, and remember why they were confused: jade was the material of kings. The dot saves you from writing "king" when you mean "jade," but the history says they belong together.</p>
+      <p>For reading classical Chinese, hold the pairing 玉德 (jade-virtue) as a single concept: what jade is physically, the junzi is morally. Warm but firm, translucent but durable, breaks rather than bends. The Confucian reading makes every jade object a lesson in character, which is why the junzi wore jade constantly, moved carefully so the pendants rang correctly, and gave jade as the gift of highest respect.</p>
     </div>
 
     <footer class="page-footer">

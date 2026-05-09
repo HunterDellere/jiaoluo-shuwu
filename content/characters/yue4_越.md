@@ -373,14 +373,14 @@ content_sources:
         <span class="cy-cn">越来越好</span>
         <span class="cy-py">yuè lái yuè hǎo</span>
         <span class="cy-en">"better and better" — a wish or observation of continuous improvement</span>
-        <span class="cy-note">Not classical 成语 but a near-fixed conversational formula and a cultural mantra of optimism. The opening line of a famous song by Sun Yue (孙悦) used at the 2000 Lunar New Year gala — <em>越来越好</em> ("Better and Better") — fixed it in popular memory. Functions both as personal good wish and as political rhetoric about national progress.</span>
+        <span class="cy-note">Not classical 成语 but a near-fixed conversational formula and a cultural mantra of optimism. The opening line of a famous song by Sun Yue (孙悦) used at the 2000 Lunar New Year gala, <em>越来越好</em> ("Better and Better"), fixed it in popular memory. Functions both as personal good wish and as political rhetoric about national progress.</span>
       </div>
 
       <div class="cy">
         <span class="cy-cn">不到长城非好汉</span>
         <span class="cy-py">bú dào chángchéng fēi hǎo hàn</span>
         <span class="cy-en">"he who has not reached the Great Wall is not a true hero"</span>
-        <span class="cy-note">From Mao Zedong's 1935 poem 清平乐·六盘山. Not technically a 成语 (it is seven characters), but functions as a fixed quotation. Often paired in modern usage with 越长城 — to "cross the wall" is to prove oneself. The verb implied is 越 (to cross over) or 到 (to reach). Used both literally (encouraging tourism) and figuratively (overcoming any large challenge). Connects this character directly to the wall: see <a href="../../pages/history/topic_changcheng.html">长城 The Great Wall</a>.</span>
+        <span class="cy-note">From Mao Zedong's 1935 poem 清平乐·六盘山. Not technically a 成语 (it is seven characters), but functions as a fixed quotation. Often paired in modern usage with 越长城: to "cross the wall" is to prove oneself. The verb implied is 越 (to cross over) or 到 (to reach). Used both literally (encouraging tourism) and figuratively (overcoming any large challenge). Connects this character directly to the wall: see <a href="../../pages/history/topic_changcheng.html">长城 The Great Wall</a>.</span>
       </div>
 
       <div class="cy">

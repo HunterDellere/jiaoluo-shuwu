@@ -161,7 +161,7 @@ content_review: 'pending'
         <span class="cy-cn">右文之治</span>
         <span class="cy-py">yòu wén zhī zhì</span>
         <span class="cy-en">"governance that favors the literary" — an administration that prioritizes civil culture over military force</span>
-        <span class="cy-note">右文 (to favor the literary arts — to place the civil over the martial) + 之 (possessive particle) + 治 (governance; rule). A classical policy ideal attributed to the Song dynasty (960–1279), which deliberately elevated civil officials over military ones after the fragmentation of the Tang-Five Dynasties period. 右文 uses 右 in its classical sense of "to favor, to elevate, to place in the position of priority." The phrase describes a mode of governance valued in certain periods of Chinese history but also criticized as having left Song China militarily exposed to the Jin and Mongol threats from the north.</span>
+        <span class="cy-note">右文 (to favor the literary arts: to place the civil over the martial) + 之 (possessive particle) + 治 (governance; rule). A classical policy ideal attributed to the Song dynasty (960–1279), which deliberately elevated civil officials over military ones after the fragmentation of the Tang-Five Dynasties period. 右文 uses 右 in its classical sense of "to favor, to elevate, to place in the position of priority." The phrase describes a mode of governance valued in certain periods of Chinese history but also criticized as having left Song China militarily exposed to the Jin and Mongol threats from the north.</span>
       </div>
     </div>
 
@@ -180,8 +180,8 @@ content_review: 'pending'
 
     <div class="scholar" data-glyph="右">
       <div class="scholar-label">记忆法 jìyìfǎ · Master Retention Image</div>
-      <p>The right hand raised to the mouth: that is the oracle bone form of 右. The hand that feeds, the hand that accompanies speech, the hand that does the primary work. 𠂉 (right fingers) over 口 (mouth). It is the mirror of 左 (left fingers over 工, the carpenter's square) — one pair, two hands, two tools, two directions.</p>
-      <p>The scholar's motto sits to the right of the seat because the right side is the side of the primary hand — the side where the eyes go naturally when the pen is moving, when the brush is lifted, when a moment of pause brings the gaze up from the page. The most important words in the scholar's life are placed where the dominant hand rests. 座右铭 preserves this logic even after the physical practice disappeared, so that a personal motto still carries in its name the memory of a right hand, a seat, and an inscription placed where it would be seen every day.</p>
+      <p>The right hand raised to the mouth: that is the oracle bone form of 右. The hand that feeds, the hand that accompanies speech, the hand that does the primary work. 𠂉 (right fingers) over 口 (mouth). It is the mirror of 左 (left fingers over 工, the carpenter's square): one pair, two hands, two tools, two directions.</p>
+      <p>The scholar's motto sits to the right of the seat because the right side is the side of the primary hand: the side where the eyes go naturally when the pen is moving, when the brush is lifted, when a moment of pause brings the gaze up from the page. The most important words in the scholar's life are placed where the dominant hand rests. 座右铭 preserves this logic even after the physical practice disappeared, so that a personal motto still carries in its name the memory of a right hand, a seat, and an inscription placed where it would be seen every day.</p>
     </div>
 
     <footer class="page-footer">

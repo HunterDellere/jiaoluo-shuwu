@@ -436,9 +436,9 @@ content_review: 'pending'
 
     <div class="scholar" data-glyph="一">
       <div class="scholar-label">记忆 jìyì · Memory Anchor</div>
-      <p>一 is the simplest mark a brush can make: lift the brush, place it, draw it across the page, lift again. One gesture. In a writing system of hundreds of strokes and thousands of character combinations, 一 is the atom — the element that cannot be reduced further.</p>
-      <p>What Laozi found in that stroke: the origin of everything. The Dao generates One, and One generates Two, and from that first division the entire visible world cascades into existence. Every character you will ever learn contains, somewhere inside it, the memory of that first horizontal line — because 一 is radical number one, the foundation of the Kangxi classification system that organizes all Chinese characters.</p>
-      <p>The tone sandhi of 一 is its own thread running through all of Mandarin pronunciation: before tone 4, it rises to match; before tones 1, 2, 3, it falls to contrast. 一 accommodates every surrounding tone, shifting to preserve acoustic clarity — one rule that governs every encounter. 吾道一以贯之.</p>
+      <p>一 is the simplest mark a brush can make: lift the brush, place it, draw it across the page, lift again. One gesture. In a writing system of hundreds of strokes and thousands of character combinations, 一 is the atom: the element that cannot be reduced further.</p>
+      <p>What Laozi found in that stroke: the origin of everything. The Dao generates One, and One generates Two, and from that first division the entire visible world cascades into existence. Every character you will ever learn contains, somewhere inside it, the memory of that first horizontal line, because 一 is radical number one, the foundation of the Kangxi classification system that organizes all Chinese characters.</p>
+      <p>The tone sandhi of 一 is its own thread running through all of Mandarin pronunciation: before tone 4, it rises to match; before tones 1, 2, 3, it falls to contrast. 一 accommodates every surrounding tone, shifting to preserve acoustic clarity: one rule that governs every encounter. 吾道一以贯之.</p>
     </div>
 
     <!-- ── ADJACENT (hoisted into Related by build) ── -->

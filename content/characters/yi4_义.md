@@ -372,14 +372,14 @@ content_review: 'pending'
         <span class="cy-cn">见义勇为</span>
         <span class="cy-py">jiàn yì yǒng wéi</span>
         <span class="cy-en">see righteousness and act with courage — to step up when others need help</span>
-        <span class="cy-note">见 jiàn (to see; to perceive) + 义 yì (righteous action; what is right) + 勇 yǒng (courage; bravery) + 为 wéi (to do; to act). From the Analects (论语): 见义不为，无勇也 , "To see what is right and not do it is a want of courage" (Confucius, 2.24). The four-character chengyu that followed expands this: not just failing to be cowardly, but actively stepping forward. 见义勇为者 (those who act with moral courage) is the official designation in China for people who intervene to stop a crime or help accident victims — a legally recognized category since the 1990s.</span>
+        <span class="cy-note">见 jiàn (to see; to perceive) + 义 yì (righteous action; what is right) + 勇 yǒng (courage; bravery) + 为 wéi (to do; to act). From the Analects (论语): 见义不为，无勇也 , "To see what is right and not do it is a want of courage" (Confucius, 2.24). The four-character chengyu that followed expands this: not just failing to be cowardly, but actively stepping forward. 见义勇为者 (those who act with moral courage) is the official designation in China for people who intervene to stop a crime or help accident victims: a legally recognized category since the 1990s.</span>
       </div>
 
       <div class="cy">
         <span class="cy-cn">大义凛然</span>
         <span class="cy-py">dàyì lǐn rán</span>
         <span class="cy-en">full of the greatest righteousness — awe-inspiring moral authority; unshakeable in the face of evil</span>
-        <span class="cy-note">大义 dàyì (the greater righteousness; overriding moral principle) + 凛然 lǐnrán (awe-inspiring; commanding; cool and stern — the quality of moral authority that makes others straighten up). Used to describe a person who confronts wrongdoing or oppression with unwavering righteousness — not with hot anger but with the cold clarity of moral certainty. Appears in historical and literary contexts: heroes who face death without flinching, officials who rebuke corrupt superiors, patriotic figures who stand for principle under pressure.</span>
+        <span class="cy-note">大义 dàyì (the greater righteousness; overriding moral principle) + 凛然 lǐnrán (awe-inspiring; commanding; cool and stern; the quality of moral authority that makes others straighten up). Used to describe a person who confronts wrongdoing or oppression with unwavering righteousness, not with hot anger but with the cold clarity of moral certainty. Appears in historical and literary contexts: heroes who face death without flinching, officials who rebuke corrupt superiors, patriotic figures who stand for principle under pressure.</span>
       </div>
 
     </div>
