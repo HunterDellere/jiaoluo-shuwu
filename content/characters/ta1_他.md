@@ -206,8 +206,8 @@ content_review: 'pending'
 
     <div class="scholar" data-glyph="他">
       <div class="scholar-label">记忆钩子 jìyì gōuzi · Retention Hook</div>
-      <p>他 is a person (亻) pointing away from the self — the one who stands over there, at a distance. Every sense of the character pivots on that orientation: the third-person pronoun, the "other" of 他乡 and 他人, the "another" of 他日. Otherness is the structural core.</p>
-      <p>The invention of 她 makes this concrete. Liu Bannong's stroke of genius was to ask: what radical marks a person as other in a specific way? He took 他, stripped 亻, and replaced it with 女. Same sound, different radical, new social category encoded in ink. The fact that speech never absorbed the distinction — that all three tā sound identical — is the more interesting consequence. Chinese writing gained a gender system that Chinese speech refused to take on.</p>
+      <p>他 is a person (亻) pointing away from the self: the one who stands over there, at a distance. Every sense of the character pivots on that orientation: the third-person pronoun, the "other" of 他乡 and 他人, the "another" of 他日. Otherness is the structural core.</p>
+      <p>The invention of 她 makes this concrete. Liu Bannong's stroke of genius was to ask: what radical marks a person as other in a specific way? He took 他, stripped 亻, and replaced it with 女. Same sound, different radical, new social category encoded in ink. The fact that speech never absorbed the distinction (that all three tā sound identical) is the more interesting consequence. Chinese writing gained a gender system that Chinese speech refused to take on.</p>
     </div>
 
     <div class="adj-wrap">

@@ -289,21 +289,21 @@ content_sources:
         <span class="cy-cn">巾帼不让须眉</span>
         <span class="cy-py">jīn guó bù ràng xū méi</span>
         <span class="cy-en">"the woman's headdress yields nothing to the man's beard" — a woman who is the equal of any man</span>
-        <span class="cy-note">巾帼 jīnguó , a woman's hair ornament, by metonymy "woman." 须眉 xūméi — beard and brows, by metonymy "man." Used in praise of female generals (Mulan, Hua Mulan; Liang Hongyu), athletes, and accomplished women. Carries a faint structural problem familiar from the 她 debate: the man is the standard against which the woman is measured. The phrase itself encodes the asymmetry it appears to refute.</span>
+        <span class="cy-note">巾帼 jīnguó , a woman's hair ornament, by metonymy "woman." 须眉 xūméi: beard and brows, by metonymy "man." Used in praise of female generals (Mulan, Hua Mulan; Liang Hongyu), athletes, and accomplished women. Carries a faint structural problem familiar from the 她 debate: the man is the standard against which the woman is measured. The phrase itself encodes the asymmetry it appears to refute.</span>
       </div>
 
       <div class="cy">
         <span class="cy-cn">所谓伊人</span>
         <span class="cy-py">suǒ wèi yī rén</span>
         <span class="cy-en">"the one of whom I speak" — the beloved, the one I yearn for</span>
-        <span class="cy-note">From the <em>Shijing</em> (诗经) poem 蒹葭 ("Reeds"). One of the most famous lines of classical poetry, and the locus classicus for 伊 as feminine third person. The poem itself is gender-ambiguous in the classical text but read across two millennia as referring to a beloved woman across the river. Liu Bannong knew this poem when he was deciding between 她 and 伊 — and chose 她 anyway.</span>
+        <span class="cy-note">From the <em>Shijing</em> (诗经) poem 蒹葭 ("Reeds"). One of the most famous lines of classical poetry, and the locus classicus for 伊 as feminine third person. The poem itself is gender-ambiguous in the classical text but read across two millennia as referring to a beloved woman across the river. Liu Bannong knew this poem when he was deciding between 她 and 伊, and chose 她 anyway.</span>
       </div>
 
       <div class="cy">
         <span class="cy-cn">教我如何不想她</span>
         <span class="cy-py">jiào wǒ rúhé bù xiǎng tā</span>
         <span class="cy-en">"How could I not think of her" — Liu Bannong's 1920 poem, set to music by Zhao Yuanren</span>
-        <span class="cy-note">Not classical, but the most famous early appearance of 她 in print. The poem is addressed to "her" — variously read as a lover, the homeland (Liu was abroad in Britain when he wrote it), or both. The song became one of the defining works of early modern Chinese music. The line consecrated 她 in the popular imagination even more than the philological argument did.</span>
+        <span class="cy-note">Not classical, but the most famous early appearance of 她 in print. The poem is addressed to "her", variously read as a lover, the homeland (Liu was abroad in Britain when he wrote it), or both. The song became one of the defining works of early modern Chinese music. The line consecrated 她 in the popular imagination even more than the philological argument did.</span>
       </div>
 
     </div>

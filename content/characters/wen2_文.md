@@ -177,7 +177,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span><span class="tag tag-adj">Adj 形容词</span></div>
         <div class="card-def">
-          文 wén (culture; pattern) + 明 míng (bright; clear). Civilization , both the noun (中华文明 = Chinese civilization) and the adjective (文明行为 = civilized behavior; 请文明乘车 = "please behave civilly on public transit" — a common sign on buses and subways). 不文明 = uncivilized, rude behavior. The word carries both the historical-cultural meaning and an everyday behavioral meaning.
+          文 wén (culture; pattern) + 明 míng (bright; clear). Civilization , both the noun (中华文明 = Chinese civilization) and the adjective (文明行为 = civilized behavior; 请文明乘车 = "please behave civilly on public transit", a common sign on buses and subways). 不文明 = uncivilized, rude behavior. The word carries both the historical-cultural meaning and an everyday behavioral meaning.
         </div>
         <div class="examples">
           <div class="example">
@@ -219,14 +219,14 @@ content_sources:
         <span class="cy-cn">文以载道</span>
         <span class="cy-py">wén yǐ zài dào</span>
         <span class="cy-en">writing carries the Way — literature serves moral truth</span>
-        <span class="cy-note">The classical Chinese theory of literature — writing is not merely aesthetic entertainment but a vehicle for moral truth (道 Dào). Proposed by Han Yu (韩愈) in the Tang Dynasty and central to the Chinese literary tradition. Writing that fails to convey moral insight is, in this view, mere ornamentation. This conviction shaped Chinese literary criticism for a thousand years.</span>
+        <span class="cy-note">The classical Chinese theory of literature: writing is not merely aesthetic entertainment but a vehicle for moral truth (道 Dào). Proposed by Han Yu (韩愈) in the Tang Dynasty and central to the Chinese literary tradition. Writing that fails to convey moral insight is, in this view, mere ornamentation. This conviction shaped Chinese literary criticism for a thousand years.</span>
       </div>
 
       <div class="cy">
         <span class="cy-cn">文质彬彬</span>
         <span class="cy-py">wén zhì bīn bīn</span>
         <span class="cy-en">refined in manner and solid in substance — the cultivated gentleman</span>
-        <span class="cy-note">From the Analects: 文质彬彬，然后君子 — "When refinement (文) and substance (质) are balanced, then you have the gentleman." The ideal of 文 is not mere surface polish but the harmonious integration of outward culture with inner integrity. 彬彬 = harmonious, balanced. Still used today as a compliment for someone who is both polished and genuinely virtuous.</span>
+        <span class="cy-note">From the Analects: 文质彬彬，然后君子. "When refinement (文) and substance (质) are balanced, then you have the gentleman." The ideal of 文 is not mere surface polish but the harmonious integration of outward culture with inner integrity. 彬彬 = harmonious, balanced. Still used today as a compliment for someone who is both polished and genuinely virtuous.</span>
       </div>
 
     </div>

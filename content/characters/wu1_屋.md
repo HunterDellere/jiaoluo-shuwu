@@ -254,8 +254,8 @@ content_sources:
     <div class="scholar" data-glyph="屋">
       <div class="scholar-label">斋号 zhāihào · The Scholar's Studio Name</div>
       <p>A deep tradition in Chinese literary culture is the naming of one's study or studio , the 斋号 zhāihào or 书斋名. Scholars, poets, and painters gave their private workrooms evocative names, often ending in 屋, 斋, 楼, 轩, or 堂. The name expressed their aesthetic, philosophical identity, or aspirations.</p>
-      <p>Examples: 苏轼 Su Shi called his studio 雪堂 (Snow Hall). 蒲松龄 Pu Songling worked in 聊斋 (Idle Studio) — giving his ghost story collection its name 聊斋志异. 鲁迅 Lu Xun worked in 三味书屋 (Three-Flavor Book House) as a boy — 三味 refers to the taste of reading poetry, history, and philosophy.</p>
-      <p>This site follows the same tradition: <strong>角落書屋</strong> — the Corner Book-Room. A small named place where reading happens.</p>
+      <p>Examples: 苏轼 Su Shi called his studio 雪堂 (Snow Hall). 蒲松龄 Pu Songling worked in 聊斋 (Idle Studio), giving his ghost story collection its name 聊斋志异. 鲁迅 Lu Xun worked in 三味书屋 (Three-Flavor Book House) as a boy; 三味 refers to the taste of reading poetry, history, and philosophy.</p>
+      <p>This site follows the same tradition: <strong>角落書屋</strong>, the Corner Book-Room. A small named place where reading happens.</p>
     </div>
 
     <!-- ── CHENGYU ── -->

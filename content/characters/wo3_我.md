@@ -286,7 +286,7 @@ content_review: 'pending'
           <span class="cy-py">shě wǒ qí shuí</span>
           <span class="cy-en">if not I, then who? — the burden falls to me</span>
         </div>
-        <p class="cy-note">From the <em>Mencius</em> 孟子 (Gōngsūn Chǒu II): 孟子曰：「如欲平治天下，当今之世，舍我其谁也？」— "Mencius said: If one wishes to bring order to the world, who in this age but I?" The phrase is Mencius asserting that the duty to improve the age cannot be deflected. Tone ranges from solemn personal vocation to self-deprecating humor depending on context. When said lightly, a speaker volunteers for an unwanted task. When said seriously, it expresses the weight of calling. A high-register phrase steeped in the Confucian discourse of personal moral responsibility to society.</p>
+        <p class="cy-note">From the <em>Mencius</em> 孟子 (Gōngsūn Chǒu II): 孟子曰：「如欲平治天下，当今之世，舍我其谁也？」"Mencius said: If one wishes to bring order to the world, who in this age but I?" The phrase is Mencius asserting that the duty to improve the age cannot be deflected. Tone ranges from solemn personal vocation to self-deprecating humor depending on context. When said lightly, a speaker volunteers for an unwanted task. When said seriously, it expresses the weight of calling. A high-register phrase steeped in the Confucian discourse of personal moral responsibility to society.</p>
       </div>
 
     </div>
@@ -320,7 +320,7 @@ content_review: 'pending'
       <div class="scholar-label">记忆钩子 jìyì gōuzi · Memory Hook</div>
       <p>Picture a Bronze Age warrior gripping a long, toothed halberd (戈 gē), the blade angled outward. That grip , assertive, forward-facing, holding a weapon against the world , is the original image inside 我. The character did not begin with abstract selfhood. It began with a physical act: a hand closing around an instrument of force. That posture of assertion became the pronoun for the one doing the asserting.</p>
       <p>The tonal shape helps too: the third tone (wǒ) dips and rises, a small stumble before steadying. It mirrors the warrior's crouch before standing firm. The shape of the glyph still shows the serrated teeth on the left and the handle-haft structure on the right, if you look at it with the oracle bone in mind.</p>
-      <p>The compound 忘我 wàngwǒ is the perfect inversion. To forget 我 — to release the grip on the weapon, to stop asserting the boundary of self — is the goal of Daoist and Buddhist practice alike. The language encodes the philosophy: selfhood is something held, and therefore something that can be set down. That a single character carries both the ego's origin and the ego's dissolution makes 我 one of the more philosophically layered glyphs in the basic vocabulary.</p>
+      <p>The compound 忘我 wàngwǒ is the perfect inversion. To forget 我, to release the grip on the weapon, to stop asserting the boundary of self, is the goal of Daoist and Buddhist practice alike. The language encodes the philosophy: selfhood is something held, and therefore something that can be set down. That a single character carries both the ego's origin and the ego's dissolution makes 我 one of the more philosophically layered glyphs in the basic vocabulary.</p>
     </div>
 
     <footer class="page-footer">
