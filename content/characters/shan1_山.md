@@ -3,8 +3,8 @@ type: 'character'
 category: 'characters'
 status: 'complete'
 title: '山 · mountain, hill, sacred peak'
-desc: 'Three peaks rising from the earth — the oldest pictograph and the axis of Chinese sacred geography.'
-metaDesc: "山 shān: mountain, hill. One of the oldest Chinese pictographs — three peaks rising from the earth. Sacred mountains, compounds, and the geography of Chinese civilization."
+desc: 'Three peaks rising from the earth: the oldest pictograph and the axis of Chinese sacred geography.'
+metaDesc: "山 shān: mountain, hill. One of the oldest Chinese pictographs, three peaks rising from the earth. Sacred mountains, compounds, and the geography of Chinese civilization."
 pageTitle: '山 shān'
 tags:
   - 'nature'

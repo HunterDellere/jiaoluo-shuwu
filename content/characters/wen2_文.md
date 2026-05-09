@@ -3,7 +3,7 @@ type: 'character'
 category: 'characters'
 status: 'complete'
 title: '文 · writing, culture, civil'
-desc: "A tattooed figure — writing as marks on the body, culture as the accumulated markings of civilization."
+desc: "A tattooed figure: writing as marks on the body, culture as the accumulated markings of civilization."
 metaDesc: "文 wén: writing, culture, civil, literature. Etymology, 文 as the foundation of Chinese civilization, key compounds (文化/中文/文明/语文), and the contrast with 武 (martial)."
 pageTitle: '文 wén'
 tags:

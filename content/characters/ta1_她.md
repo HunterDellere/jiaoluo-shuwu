@@ -3,7 +3,7 @@ type: 'character'
 category: 'characters'
 status: 'complete'
 title: '她 · she, her'
-desc: '她 is the youngest character in everyday Chinese — invented in 1917 to translate "she," and the cause of one of the loudest grammatical fights in modern Chinese letters.'
+desc: '她 is the youngest character in everyday Chinese, invented in 1917 to translate "she," and the cause of one of the loudest grammatical fights in modern Chinese letters.'
 metaDesc: "她 tā: she, her. The 1917 invention of 她 by Liu Bannong (刘半农), the May Fourth debate over gendered pronouns, the homophone triad 他/她/它, and the cultural angles of 她字 today (它/祂/伊/妳)."
 pageTitle: '她 tā'
 tags:

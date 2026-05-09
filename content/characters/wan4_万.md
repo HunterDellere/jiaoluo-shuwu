@@ -3,7 +3,7 @@ type: 'character'
 category: 'characters'
 status: 'complete'
 title: '万 · ten thousand; myriad; all'
-desc: '万 is the Chinese hyperbole unit — where English reaches for millions, Chinese reaches for 万 to express the immeasurable, because the written number 10,000 originally meant scorpion.'
+desc: '万 is the Chinese hyperbole unit. Where English reaches for millions, Chinese reaches for 万 to express the immeasurable, because the written number 10,000 originally meant scorpion.'
 metaDesc: "万 wàn: ten thousand, myriad, all. The scorpion borrowed as a number, the Chinese counting unit above thousands, and the cultural hyperbole of the myriad-things tradition."
 pageTitle: '万 wàn'
 tags:

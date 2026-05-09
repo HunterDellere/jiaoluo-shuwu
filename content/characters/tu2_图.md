@@ -3,7 +3,7 @@ type: 'character'
 category: 'characters'
 status: 'complete'
 title: '图 · map, diagram, to plan, to seek'
-desc: 'A character for diagrams, maps, intentions, and plots — anything that represents the world at one remove, or seeks to reshape it.'
+desc: 'A character for diagrams, maps, intentions, and plots: anything that represents the world at one remove, or seeks to reshape it.'
 metaDesc: "图 tú: map, diagram, picture, to plan, to seek. From cartography to ambition, 图 covers visual representation and deliberate intent."
 pageTitle: '图 tú'
 tags:

@@ -3,7 +3,7 @@ type: 'character'
 category: 'characters'
 status: 'complete'
 title: '明 · bright, clear, tomorrow'
-desc: 'Sun and moon combined — brightness, clarity, dawn, and understanding.'
+desc: 'Sun and moon combined: brightness, clarity, dawn, and understanding.'
 metaDesc: "明 míng: bright, clear, tomorrow. The sun-moon compound at the heart of enlightenment, clarity, and the Chinese conception of understanding. Etymology, compounds, and chengyu."
 pageTitle: '明 míng'
 tags:

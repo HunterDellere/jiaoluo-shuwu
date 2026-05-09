@@ -3,7 +3,7 @@ type: 'character'
 category: 'characters'
 status: 'complete'
 title: '钱 · money, coin, currency'
-desc: 'Money — the character that drives markets, proverbs, and the Chinese conversation about wealth.'
+desc: 'Money: the character that drives markets, proverbs, and the Chinese conversation about wealth.'
 metaDesc: "钱 qián: money, coin, currency. Etymology, 钱 vs. 钱包 vs. 有钱, money culture in China, key compounds, and chengyu about wealth."
 pageTitle: '钱 qián'
 tags:

@@ -4,7 +4,7 @@ category: 'characters'
 status: 'complete'
 title: '水 · water'
 desc: 'The first of the five elements, the radical that runs through hundreds of compounds, and the Daoist image of how to act in the world.'
-metaDesc: "水 shuǐ — water. Oracle bone script (c. 1200 BCE) shows a vertical river with droplets curling on either side, a stylised river-in-plan with eddies. One of the five elements, the 氵 radical that anchors hundreds of Chinese characters, and the central Daoist metaphor for the strength of yielding."
+metaDesc: "水 shuǐ, water. Oracle bone script (c. 1200 BCE) shows a vertical river with droplets curling on either side, a stylised river-in-plan with eddies. One of the five elements, the 氵 radical that anchors hundreds of Chinese characters, and the central Daoist metaphor for the strength of yielding."
 pageTitle: '水 shuǐ'
 tags:
   - 'radical'
@@ -18,20 +18,20 @@ tone: 3
 hsk: 1
 radical: '水'
 sources:
-  - 'Lǎozǐ 老子 ch. 8 — "shàng shàn ruò shuǐ" 上善若水, the highest good is like water'
-  - 'Outlier Linguistic Solutions — etymology of 水 from oracle bone river pictograph'
+  - 'Lǎozǐ 老子 ch. 8: "shàng shàn ruò shuǐ" 上善若水, the highest good is like water'
+  - 'Outlier Linguistic Solutions: etymology of 水 from oracle bone river pictograph'
 content_review: 'verified'
 content_sources:
   - 'Unihan'
 faq:
   - q: "What does 水 look like in oracle bone script?"
-    a: "In the oracle bone script of c. 1200 BCE, 水 is one of the most transparent surviving pictographs. It shows a vertical line — the river — flanked by water droplets curling on either side, depicting eddies. The character is essentially a stylised river viewed in plan. The bronze and seal forms preserve the same structure, and the modern 水 is a tighter, regularised version of the same drawing."
+    a: "In the oracle bone script of c. 1200 BCE, 水 is one of the most transparent surviving pictographs. It shows a vertical line (the river) flanked by water droplets curling on either side, depicting eddies. The character is essentially a stylised river viewed in plan. The bronze and seal forms preserve the same structure, and the modern 水 is a tighter, regularised version of the same drawing."
   - q: "What is the radical of 水, and what is 氵?"
-    a: "水 itself is a Kangxi radical (number 85). When 水 acts as a left-hand component in a compound character, it is written 氵 (three drops of water) — the same radical in a more compact form. 氵 anchors the largest single family of characters in Chinese: hundreds of characters relating to water, rivers, liquids, washing, and weather all carry this radical."
+    a: "水 itself is a Kangxi radical (number 85). When 水 acts as a left-hand component in a compound character, it is written 氵 (three drops of water): the same radical in a more compact form. 氵 anchors the largest single family of characters in Chinese: hundreds of characters relating to water, rivers, liquids, washing, and weather all carry this radical."
   - q: "Why is 水 important in Daoist philosophy?"
-    a: "In Daoism, 水 is the central metaphor for the strength of yielding. The Laozi famously says 上善若水 — \"the highest good is like water\" (chapter 8). Water benefits all things, occupies the lowest places that others disdain, and yet wears down stone. It illustrates the principle of 无为 (wú wéi, non-coercive action) — strength through softness, victory through yielding."
+    a: "In Daoism, 水 is the central metaphor for the strength of yielding. The Laozi famously says 上善若水, \"the highest good is like water\" (chapter 8). Water benefits all things, occupies the lowest places that others disdain, and yet wears down stone. It illustrates the principle of 无为 (wú wéi, non-coercive action): strength through softness, victory through yielding."
   - q: "Is 水 one of the five elements?"
-    a: "Yes. 水 is one of the 五行 (wǔ xíng) — the Five Phases or Five Elements (water, fire, wood, metal, earth) — that structure traditional Chinese cosmology, medicine, and divination. Each element corresponds to a direction, season, organ, colour, and emotional disposition; water is associated with the north, winter, the kidneys, black, and stillness."
+    a: "Yes. 水 is one of the 五行 (wǔ xíng), the Five Phases or Five Elements (water, fire, wood, metal, earth) that structure traditional Chinese cosmology, medicine, and divination. Each element corresponds to a direction, season, organ, colour, and emotional disposition; water is associated with the north, winter, the kidneys, black, and stillness."
 ---
 
 

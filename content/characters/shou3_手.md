@@ -3,7 +3,7 @@ type: 'character'
 category: 'characters'
 status: 'complete'
 title: '手 · hand'
-desc: "A five-fingered hand drawn from life — one of the most productive radicals in the script, present in hundreds of action characters."
+desc: "A five-fingered hand drawn from life: one of the most productive radicals in the script, present in hundreds of action characters."
 metaDesc: "手 shǒu: hand. Etymology, the hand radical family in Chinese characters, key compounds (手机/握手/帮手), and the cultural significance of hands in Chinese art and martial practice."
 pageTitle: '手 shǒu'
 tags:

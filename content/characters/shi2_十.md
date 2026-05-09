@@ -3,7 +3,7 @@ type: 'character'
 category: 'characters'
 status: 'complete'
 title: '十 · ten; complete; cross'
-desc: "十 is written as a cross — a vertical stroke cutting through a horizontal one — the point where all four cardinal directions meet, making ten the numeral of total completion."
+desc: "十 is written as a cross (a vertical stroke cutting through a horizontal one), the point where all four cardinal directions meet, making ten the numeral of total completion."
 metaDesc: "十 shí: ten, the number of completion written as a compass cross. Etymology, ten as fullness, the cross in Chinese culture, key compounds, and chengyu."
 pageTitle: '十 shí'
 tags:

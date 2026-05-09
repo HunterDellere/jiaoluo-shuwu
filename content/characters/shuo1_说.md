@@ -3,7 +3,7 @@ type: 'character'
 category: 'characters'
 status: 'complete'
 title: '说 · to speak, to say, to explain'
-desc: 'To speak, say, explain, and persuade — the character at the center of all communication.'
+desc: 'To speak, say, explain, and persuade: the character at the center of all communication.'
 metaDesc: "说 shuō: to speak, say, explain. Etymology, the three readings (shuō/shuì/yuè), speech compounds, persuasion vocabulary, and chengyu."
 pageTitle: '说 shuō'
 tags:

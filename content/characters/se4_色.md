@@ -3,7 +3,7 @@ type: 'character'
 category: 'characters'
 status: 'complete'
 title: '色 · color, appearance, desire'
-desc: 'A kneeling figure beneath a person — color as visible manifestation, and the character that links aesthetics to desire.'
+desc: 'A kneeling figure beneath a person: color as visible manifestation, and the character that links aesthetics to desire.'
 metaDesc: "色 sè: color, appearance, sensual desire. Etymology, the Chinese color spectrum, how 色 moved from 'appearance' to 'desire' in classical thought, and key compounds."
 pageTitle: '色 sè'
 tags:
