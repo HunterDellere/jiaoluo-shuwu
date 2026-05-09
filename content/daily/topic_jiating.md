@@ -4,7 +4,7 @@ category: 'daily'
 status: 'complete'
 content_review: 'pending'
 title: '家庭 · Family Structure'
-desc: 'Chinese kinship terminology is a precision instrument — each relative has one specific term, and that precision maps an obligation network, not just a family tree.'
+desc: 'Chinese kinship terminology is a precision instrument: each relative has one specific term, and that precision maps an obligation network, not just a family tree.'
 metaDesc: "家庭 jiātíng: Chinese family structure, kinship terminology, the aunt/uncle matrix, grandparent terms, the 独生子女 one-child generation, and how 家 layers from nuclear household to clan."
 pageTitle: '家庭 Family Structure'
 tags:

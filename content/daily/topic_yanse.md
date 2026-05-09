@@ -4,8 +4,8 @@ category: 'daily'
 status: 'complete'
 content_review: 'pending'
 title: '颜色 · Colors and Luck'
-desc: 'Red for joy, white for death, green hats and yellow emperors — the symbolic weight of color in Chinese daily life.'
-metaDesc: "颜色 yánsè: color symbolism in Chinese culture — red luck, white mourning, imperial yellow, green hat taboo, and how these associations shape weddings, funerals, gifts, and design."
+desc: 'Red for joy, white for death, green hats and yellow emperors: the symbolic weight of color in Chinese daily life.'
+metaDesc: "颜色 yánsè: color symbolism in Chinese culture. Red luck, white mourning, imperial yellow, green hat taboo, and how these associations shape weddings, funerals, gifts, and design."
 pageTitle: '颜色 · Colors and Luck'
 tags:
   - 'color'

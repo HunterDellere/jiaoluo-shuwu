@@ -5,7 +5,7 @@ status: 'complete'
 content_review: 'pending'
 title: '长江 · The Yangtze River'
 desc: 'The longest river in Asia: the southern spine of Chinese civilization, the Three Gorges, and the river that divides north from south.'
-metaDesc: "长江 Cháng Jiāng: the Yangtze River — its role in dividing north from south China, the Three Gorges and their dam, the river's place in poetry, and what it means to cross."
+metaDesc: "长江 Cháng Jiāng: the Yangtze River. Its role in dividing north from south China, the Three Gorges and their dam, the river's place in poetry, and what it means to cross."
 pageTitle: '长江 · The Yangtze River'
 tags:
   - 'river'

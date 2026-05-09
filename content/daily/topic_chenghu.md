@@ -4,8 +4,8 @@ category: 'daily'
 status: 'complete'
 content_review: 'pending'
 title: '称呼 · Forms of Address'
-desc: 'In Chinese, how you address someone is not a formality — it is a precise statement of how you understand the relationship between you.'
-metaDesc: "称呼 chēnghu: forms of address in Chinese — kinship terms, how to address strangers, the lǎo and xiǎo prefixes, title plus surname forms, and what address reveals about Chinese social structure."
+desc: 'In Chinese, how you address someone is not a formality. It is a precise statement of how you understand the relationship between you.'
+metaDesc: "称呼 chēnghu: forms of address in Chinese. Kinship terms, how to address strangers, the lǎo and xiǎo prefixes, title plus surname forms, and what address reveals about Chinese social structure."
 pageTitle: '称呼 Forms of Address'
 tags:
   - 'social'

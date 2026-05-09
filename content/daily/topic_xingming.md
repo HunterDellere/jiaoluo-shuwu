@@ -4,8 +4,8 @@ category: 'daily'
 status: 'complete'
 content_review: 'pending'
 title: '姓名 · Names'
-desc: 'Family name first, given name second — the structure, meaning-making, and social logic of Chinese personal names.'
-metaDesc: "姓名 xìngmíng: Chinese personal names — surname-first convention, the weight of meaning in given names, generational naming, English names, and the politics of romanization."
+desc: 'Family name first, given name second: the structure, meaning-making, and social logic of Chinese personal names.'
+metaDesc: "姓名 xìngmíng: Chinese personal names. Surname-first convention, the weight of meaning in given names, generational naming, English names, and the politics of romanization."
 pageTitle: '姓名 · Names'
 tags:
   - 'names'

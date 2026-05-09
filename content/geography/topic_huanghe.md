@@ -4,8 +4,8 @@ category: 'geography'
 status: 'complete'
 content_review: 'pending'
 title: '黄河 · Yellow River'
-desc: 'The cradle of Chinese civilization — a river that floods, destroys, and nourishes in equal measure, its loess-yellow waters shaping every dynasty that tried to master it.'
-metaDesc: "黄河 Huánghé: the Yellow River — its course, its catastrophic floods, the Loess Plateau, and the ancient capitals that rose along its banks."
+desc: 'The cradle of Chinese civilization: a river that floods, destroys, and nourishes in equal measure, its loess-yellow waters shaping every dynasty that tried to master it.'
+metaDesc: "黄河 Huánghé: the Yellow River. Its course, its catastrophic floods, the Loess Plateau, and the ancient capitals that rose along its banks."
 pageTitle: '黄河 · Yellow River'
 tags:
   - 'geography'

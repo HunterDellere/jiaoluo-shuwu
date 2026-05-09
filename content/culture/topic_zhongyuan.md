@@ -5,7 +5,7 @@ status: 'complete'
 content_review: 'pending'
 title: '中元节 · The Ghost Festival'
 desc: 'On the 15th of the 7th lunar month, the gates of the underworld open and the living set out food, burn paper, and float lanterns for the dead.'
-metaDesc: "中元节 Zhōngyuán Jié — the Ghost Festival on the 15th of the 7th lunar month, where Daoist, Buddhist, and folk practices converge: burning paper money, floating river lanterns, the Mulian story, and Ghost Month taboos."
+metaDesc: "中元节 Zhōngyuán Jié: the Ghost Festival on the 15th of the 7th lunar month, where Daoist, Buddhist, and folk practices converge. Burning paper money, floating river lanterns, the Mulian story, and Ghost Month taboos."
 pageTitle: '中元节 Zhōngyuán Jié · The Ghost Festival'
 tags:
   - 'culture'

@@ -5,7 +5,7 @@ status: 'complete'
 content_review: 'pending'
 title: '面子实践 · Face in Practice'
 desc: 'Face in Chinese social life is a recurring set of transactions with specific mechanics: how face is given, taken, lost, and preserved in concrete situations.'
-metaDesc: "面子实践 miànzi shíjiàn: face in practice — giving face, losing face, saving face, the 里子 vs 面子 split, and the specific moments where Western directness costs someone face."
+metaDesc: "面子实践 miànzi shíjiàn: face in practice. Giving face, losing face, saving face, the 里子 vs 面子 split, and the specific moments where Western directness costs someone face."
 pageTitle: '面子实践 Face in Practice'
 tags:
   - 'social'

@@ -5,7 +5,7 @@ status: 'complete'
 content_review: 'pending'
 title: '四川盆地 · The Sichuan Basin'
 desc: "An inland depression ringed by mountains on all four sides: the warm, humid, fog-wrapped basin that gave China its most distinctive regional cuisine, its Bronze Age mystery, and the world's longest-running irrigation system."
-metaDesc: "四川盆地 Sìchuān Péndì: the Sichuan Basin — Dujiangyan irrigation, Chengdu plain, the Sanxingdui bronze civilization, Sichuan cuisine and the numbing heat of huajiao and doubanjiang."
+metaDesc: "四川盆地 Sìchuān Péndì: the Sichuan Basin. Dujiangyan irrigation, Chengdu plain, the Sanxingdui bronze civilization, Sichuan cuisine and the numbing heat of huajiao and doubanjiang."
 pageTitle: '四川盆地 · The Sichuan Basin'
 tags:
   - 'geography'

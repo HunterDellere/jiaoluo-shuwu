@@ -465,7 +465,7 @@
     "type": "topic",
     "category": "daily",
     "title": "吃饭文化 · Chinese Food Culture",
-    "desc": "Eating in China is not primarily about food — it is the medium through which relationships are initiated, obligations are incurred, hierarchies are performed, and social bonds are maintained.",
+    "desc": "Eating in China is not primarily about food. It is the medium through which relationships are initiated, obligations are incurred, hierarchies are performed, and social bonds are maintained.",
     "tags": [
       "daily-life",
       "food",
@@ -3023,7 +3023,7 @@
     "type": "topic",
     "category": "daily",
     "title": "家庭 · Family Structure",
-    "desc": "Chinese kinship terminology is a precision instrument — each relative has one specific term, and that precision maps an obligation network, not just a family tree.",
+    "desc": "Chinese kinship terminology is a precision instrument: each relative has one specific term, and that precision maps an obligation network, not just a family tree.",
     "tags": [
       "family",
       "social",
@@ -5008,7 +5008,7 @@
     "type": "topic",
     "category": "daily",
     "title": "称呼 · Forms of Address",
-    "desc": "In Chinese, how you address someone is not a formality — it is a precise statement of how you understand the relationship between you.",
+    "desc": "In Chinese, how you address someone is not a formality. It is a precise statement of how you understand the relationship between you.",
     "tags": [
       "social",
       "culture",
@@ -5045,7 +5045,7 @@
     "type": "topic",
     "category": "daily",
     "title": "敬酒 · Toasting Culture",
-    "desc": "The Chinese toast is a social instrument with its own grammar, hierarchy, and rules of engagement — not a punctuation mark at the end of a speech.",
+    "desc": "The Chinese toast is a social instrument with its own grammar, hierarchy, and rules of engagement, not a punctuation mark at the end of a speech.",
     "tags": [
       "social",
       "culture",
@@ -5063,7 +5063,7 @@
     "type": "topic",
     "category": "daily",
     "title": "迷信 · Superstitions",
-    "desc": "Superstition in China is a living system that coexists comfortably with education, modernity, and pragmatism — not a holdover from ignorance.",
+    "desc": "Superstition in China is a living system that coexists comfortably with education, modernity, and pragmatism, not a holdover from ignorance.",
     "tags": [
       "folk-religion",
       "symbolism",
@@ -5116,7 +5116,7 @@
     "type": "topic",
     "category": "daily",
     "title": "送礼 · Gift-Giving",
-    "desc": "Gift-giving in China is less about generosity than about maintenance — a technology for building and sustaining the relationships that make life work.",
+    "desc": "Gift-giving in China is less about generosity than about maintenance: a technology for building and sustaining the relationships that make life work.",
     "tags": [
       "gift",
       "social",
@@ -5134,7 +5134,7 @@
     "type": "topic",
     "category": "geography",
     "title": "八大菜系 · Cuisines as Geography",
-    "desc": "Read the Eight Great Cuisines as a geographic document — what the land, climate, and trade routes of each region produced at the table, and what the table tells you about the land.",
+    "desc": "Read the Eight Great Cuisines as a geographic document: what the land, climate, and trade routes of each region produced at the table, and what the table tells you about the land.",
     "tags": [
       "geography",
       "food",
@@ -5153,7 +5153,7 @@
     "type": "topic",
     "category": "geography",
     "title": "方言 · The Dialect Map",
-    "desc": "Chinese is not one language but a family — seven major dialect groups whose speakers cannot understand one another, united by a shared written script and divided by a history of geography and migration.",
+    "desc": "Chinese is not one language but a family: seven major dialect groups whose speakers cannot understand one another, united by a shared written script and divided by a history of geography and migration.",
     "tags": [
       "language",
       "geography",
@@ -5172,7 +5172,7 @@
     "type": "topic",
     "category": "geography",
     "title": "黄河 · Yellow River",
-    "desc": "The cradle of Chinese civilization — a river that floods, destroys, and nourishes in equal measure, its loess-yellow waters shaping every dynasty that tried to master it.",
+    "desc": "The cradle of Chinese civilization: a river that floods, destroys, and nourishes in equal measure, its loess-yellow waters shaping every dynasty that tried to master it.",
     "tags": [
       "geography",
       "river",
@@ -5189,7 +5189,7 @@
     "type": "topic",
     "category": "geography",
     "title": "上海 · Shanghai",
-    "desc": "From fishing village to the most cosmopolitan city in Asia — a port that absorbed empires, reinvented itself three times, and has never quite decided whether it belongs to China or the world.",
+    "desc": "From fishing village to the most cosmopolitan city in Asia: a port that absorbed empires, reinvented itself three times, and has never quite decided whether it belongs to China or the world.",
     "tags": [
       "geography",
       "history",
@@ -5207,7 +5207,7 @@
     "type": "topic",
     "category": "geography",
     "title": "香港 · Hong Kong",
-    "desc": "The entrepôt that became a world city — a harbor geography that made it the gateway between East and West, and a Cantonese identity that survived colonial rule and asks harder questions under reunification.",
+    "desc": "The entrepôt that became a world city: a harbor geography that made it the gateway between East and West, and a Cantonese identity that survived colonial rule and asks harder questions under reunification.",
     "tags": [
       "geography",
       "history",
@@ -6797,7 +6797,7 @@
     "type": "topic",
     "category": "daily",
     "title": "筷子 · Chopsticks",
-    "desc": "The rules, the taboos, and what not to do — the etiquette that marks insider from outsider at the Chinese table.",
+    "desc": "The rules, the taboos, and what not to do: the etiquette that marks insider from outsider at the Chinese table.",
     "tags": [
       "food",
       "etiquette",
@@ -6812,7 +6812,7 @@
     "type": "topic",
     "category": "daily",
     "title": "姓名 · Names",
-    "desc": "Family name first, given name second — the structure, meaning-making, and social logic of Chinese personal names.",
+    "desc": "Family name first, given name second: the structure, meaning-making, and social logic of Chinese personal names.",
     "tags": [
       "names",
       "social",
@@ -6827,7 +6827,7 @@
     "type": "topic",
     "category": "daily",
     "title": "颜色 · Colors and Luck",
-    "desc": "Red for joy, white for death, green hats and yellow emperors — the symbolic weight of color in Chinese daily life.",
+    "desc": "Red for joy, white for death, green hats and yellow emperors: the symbolic weight of color in Chinese daily life.",
     "tags": [
       "color",
       "symbolism",
