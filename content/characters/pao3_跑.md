@@ -365,14 +365,14 @@ content_sources:
         <span class="cy-cn">跑龙套</span>
         <span class="cy-py">pǎo lóngtào</span>
         <span class="cy-en">"to run the dragon costume" — to play a minor role; to be a bit-part player</span>
-        <span class="cy-note">From traditional Chinese opera. 龙套 lóngtào is the costume worn by the chorus of attendants , soldiers, servants, courtiers — who fill out a scene without lines. To 跑龙套 is to be one of these background figures: present, busy, but never central. The phrase has migrated into modern usage as the standard way to describe playing a small or insignificant role in any setting — work, projects, life. 我只是跑龙套的 "I'm just playing a bit part" is a common modest disclaimer.</span>
+        <span class="cy-note">From traditional Chinese opera. 龙套 lóngtào is the costume worn by the chorus of attendants (soldiers, servants, courtiers) who fill out a scene without lines. To 跑龙套 is to be one of these background figures: present, busy, but never central. The phrase has migrated into modern usage as the standard way to describe playing a small or insignificant role in any setting: work, projects, life. 我只是跑龙套的 "I'm just playing a bit part" is a common modest disclaimer.</span>
       </div>
 
       <div class="cy">
         <span class="cy-cn">跑了和尚跑不了庙</span>
         <span class="cy-py">pǎo le héshàng pǎo bu liǎo miào</span>
         <span class="cy-en">"the monk may run, but the temple cannot run" — even if the person flees, the institution stays put</span>
-        <span class="cy-note">A folk saying, not a classical chengyu, but functionally fixed. The proverb captures a specific reasoning about accountability: a debtor or wrongdoer may try to flee, but the property, family, or institution they are tied to will remain — and can be held responsible. Used in commercial disputes, legal contexts, and any situation where pursuit of an individual is impractical but pressure on the surrounding structure is available. A characteristic feature of Chinese institutional reasoning.</span>
+        <span class="cy-note">A folk saying, not a classical chengyu, but functionally fixed. The proverb captures a specific reasoning about accountability: a debtor or wrongdoer may try to flee, but the property, family, or institution they are tied to will remain, and can be held responsible. Used in commercial disputes, legal contexts, and any situation where pursuit of an individual is impractical but pressure on the surrounding structure is available. A characteristic feature of Chinese institutional reasoning.</span>
       </div>
 
     </div>

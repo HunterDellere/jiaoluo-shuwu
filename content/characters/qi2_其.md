@@ -435,14 +435,14 @@ content_review: 'pending'
         <span class="cy-cn">其貌不扬</span>
         <span class="cy-py">qí mào bù yáng</span>
         <span class="cy-en">its appearance not outstanding — plain-featured; ordinary-looking</span>
-        <span class="cy-note">其 qí (its) + 貌 mào (appearance; face) + 不扬 bù yáng (not elevated; not distinguished). Used of people with unremarkable physical appearance, often with an implied "but capable" — the phrase sets up the contrast between appearance and substance. It appears frequently in biographical writing: 其貌不扬，才华横溢 — plain to look at, overflowing with talent.</span>
+        <span class="cy-note">其 qí (its) + 貌 mào (appearance; face) + 不扬 bù yáng (not elevated; not distinguished). Used of people with unremarkable physical appearance, often with an implied "but capable": the phrase sets up the contrast between appearance and substance. It appears frequently in biographical writing: 其貌不扬，才华横溢, plain to look at, overflowing with talent.</span>
       </div>
 
       <div class="cy">
         <span class="cy-cn">乐在其中</span>
         <span class="cy-py">lè zài qízhōng</span>
         <span class="cy-en">joy lies within it — to find genuine pleasure in what one is doing</span>
-        <span class="cy-note">乐 lè (joy; pleasure) + 在 zài (to be located at; exists in) + 其中 qízhōng (within it; therein). Describes the absorption of someone who has found true satisfaction in their work or activity. The phrase echoes the Analects: 发愤忘食，乐以忘忧，不知老之将至 — Confucius describing a man so absorbed in learning that he forgets to eat, forgets worry, and does not notice old age approaching.</span>
+        <span class="cy-note">乐 lè (joy; pleasure) + 在 zài (to be located at; exists in) + 其中 qízhōng (within it; therein). Describes the absorption of someone who has found true satisfaction in their work or activity. The phrase echoes the Analects: 发愤忘食，乐以忘忧，不知老之将至, Confucius describing a man so absorbed in learning that he forgets to eat, forgets worry, and does not notice old age approaching.</span>
       </div>
 
     </div>

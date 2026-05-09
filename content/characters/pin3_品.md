@@ -201,9 +201,9 @@ content_sources:
       <span class="adj">等级 děngjí , level, grade, rank</span>
       <span class="adj">档次 dàngcì , grade, tier (colloquial)</span>
       <span class="adj">德 dé , virtue, moral character</span>
-      <span class="adj">尝 cháng — to taste, sample (more casual than 品)</span>
-      <span class="adj">鉴赏 jiànshǎng — to appreciate, to critique art</span>
-      <span class="adj">评价 píngjià — to evaluate, assess</span>
+      <span class="adj">尝 cháng, to taste, sample (more casual than 品)</span>
+      <span class="adj">鉴赏 jiànshǎng, to appreciate, to critique art</span>
+      <span class="adj">评价 píngjià, to evaluate, assess</span>
       <span class="adj"><span class="a-cn">产</span><span class="a-py">chǎn</span><span class="a-en">to produce; property; output</span></span>
       <span class="adj"><span class="a-cn">产品</span><span class="a-py">chǎnpǐn</span><span class="a-en">manufactured product — the canonical 产 + 品 compound</span></span>
     </div>

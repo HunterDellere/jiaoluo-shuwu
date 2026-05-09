@@ -197,14 +197,14 @@ content_sources:
         <span class="cy-cn">年富力强</span>
         <span class="cy-py">nián fù lì qiáng</span>
         <span class="cy-en">rich in years and strong in force — in the prime of life</span>
-        <span class="cy-note">Lit: year-rich-strength-strong. Used to describe someone in their prime — still young enough to have full physical and mental energy, experienced enough to have skill and judgment. The ideal working age. 他正值年富力强之时 "He is at the prime of his powers." A compliment to someone in their 30s–50s.</span>
+        <span class="cy-note">Lit: year-rich-strength-strong. Used to describe someone in their prime: still young enough to have full physical and mental energy, experienced enough to have skill and judgment. The ideal working age. 他正值年富力强之时 "He is at the prime of his powers." A compliment to someone in their 30s–50s.</span>
       </div>
 
       <div class="cy">
         <span class="cy-cn">岁月如梭</span>
         <span class="cy-py">suìyuè rú suō</span>
         <span class="cy-en">the years pass like a weaver's shuttle — time flies</span>
-        <span class="cy-note">Lit: years-months-like-shuttle. 岁月 = years and months (time). 梭 suō = the weaver's shuttle that flies back and forth at great speed. The Chinese "time flies" — usually said with a mixture of nostalgia and wonder at how quickly life passes. 岁月如梭，转眼又是一年 "Time flies like a shuttle — it's already another year."</span>
+        <span class="cy-note">Lit: years-months-like-shuttle. 岁月 = years and months (time). 梭 suō = the weaver's shuttle that flies back and forth at great speed. The Chinese "time flies," usually said with a mixture of nostalgia and wonder at how quickly life passes. 岁月如梭，转眼又是一年 "Time flies like a shuttle; it's already another year."</span>
       </div>
 
     </div>

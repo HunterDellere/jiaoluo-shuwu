@@ -1,8 +1,8 @@
 {
-  "generated": "2026-05-09T23:20:52.522Z",
+  "generated": "2026-05-09T23:25:00.481Z",
   "summary": {
     "errors": 0,
-    "warnings": 341,
+    "warnings": 331,
     "info": 373
   },
   "findings": [
@@ -762,13 +762,6 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
-      "level": "WARN",
-      "category": "formatting",
-      "file": "content/characters/nan2_南.md",
-      "msg": "3 em-dashes in body prose (budget 0). Voice regression risk.",
-      "fix": "Rewrite to use commas, colons, parentheticals, or sentence splits. Keep em-dashes only for sharp interruptions a comma cannot carry."
-    },
-    {
       "level": "INFO",
       "category": "formatting",
       "file": "content/characters/nan2_南.md",
@@ -783,25 +776,11 @@
       "fix": "Rewrite to use commas, colons, parentheticals, or sentence splits. Keep em-dashes only for sharp interruptions a comma cannot carry."
     },
     {
-      "level": "WARN",
-      "category": "formatting",
-      "file": "content/characters/nian2_年.md",
-      "msg": "3 em-dashes in body prose (budget 0). Voice regression risk.",
-      "fix": "Rewrite to use commas, colons, parentheticals, or sentence splits. Keep em-dashes only for sharp interruptions a comma cannot carry."
-    },
-    {
       "level": "INFO",
       "category": "formatting",
       "file": "content/characters/nian2_年.md",
       "msg": "2 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
-    },
-    {
-      "level": "WARN",
-      "category": "formatting",
-      "file": "content/characters/nu3_女.md",
-      "msg": "3 em-dashes in body prose (budget 0). Voice regression risk.",
-      "fix": "Rewrite to use commas, colons, parentheticals, or sentence splits. Keep em-dashes only for sharp interruptions a comma cannot carry."
     },
     {
       "level": "INFO",
@@ -811,13 +790,6 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
-      "level": "WARN",
-      "category": "formatting",
-      "file": "content/characters/pao3_跑.md",
-      "msg": "3 em-dashes in body prose (budget 0). Voice regression risk.",
-      "fix": "Rewrite to use commas, colons, parentheticals, or sentence splits. Keep em-dashes only for sharp interruptions a comma cannot carry."
-    },
-    {
       "level": "INFO",
       "category": "formatting",
       "file": "content/characters/pao3_跑.md",
@@ -825,25 +797,11 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
-      "level": "WARN",
-      "category": "formatting",
-      "file": "content/characters/pin3_品.md",
-      "msg": "3 em-dashes in body prose (budget 0). Voice regression risk.",
-      "fix": "Rewrite to use commas, colons, parentheticals, or sentence splits. Keep em-dashes only for sharp interruptions a comma cannot carry."
-    },
-    {
       "level": "INFO",
       "category": "formatting",
       "file": "content/characters/pin3_品.md",
       "msg": "16 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
-    },
-    {
-      "level": "WARN",
-      "category": "formatting",
-      "file": "content/characters/qi2_其.md",
-      "msg": "3 em-dashes in body prose (budget 0). Voice regression risk.",
-      "fix": "Rewrite to use commas, colons, parentheticals, or sentence splits. Keep em-dashes only for sharp interruptions a comma cannot carry."
     },
     {
       "level": "INFO",
@@ -860,13 +818,6 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
-      "level": "WARN",
-      "category": "formatting",
-      "file": "content/characters/qian2_前.md",
-      "msg": "3 em-dashes in body prose (budget 0). Voice regression risk.",
-      "fix": "Rewrite to use commas, colons, parentheticals, or sentence splits. Keep em-dashes only for sharp interruptions a comma cannot carry."
-    },
-    {
       "level": "INFO",
       "category": "formatting",
       "file": "content/characters/qian2_前.md",
@@ -874,25 +825,11 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
-      "level": "WARN",
-      "category": "formatting",
-      "file": "content/characters/qian2_钱.md",
-      "msg": "3 em-dashes in body prose (budget 0). Voice regression risk.",
-      "fix": "Rewrite to use commas, colons, parentheticals, or sentence splits. Keep em-dashes only for sharp interruptions a comma cannot carry."
-    },
-    {
       "level": "INFO",
       "category": "formatting",
       "file": "content/characters/qian2_钱.md",
       "msg": "3 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
-    },
-    {
-      "level": "WARN",
-      "category": "formatting",
-      "file": "content/characters/qu4_去.md",
-      "msg": "3 em-dashes in body prose (budget 0). Voice regression risk.",
-      "fix": "Rewrite to use commas, colons, parentheticals, or sentence splits. Keep em-dashes only for sharp interruptions a comma cannot carry."
     },
     {
       "level": "INFO",
@@ -907,13 +844,6 @@
       "file": "content/characters/ren2_人.md",
       "msg": "14 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
-    },
-    {
-      "level": "WARN",
-      "category": "formatting",
-      "file": "content/characters/ren2_仁.md",
-      "msg": "3 em-dashes in body prose (budget 0). Voice regression risk.",
-      "fix": "Rewrite to use commas, colons, parentheticals, or sentence splits. Keep em-dashes only for sharp interruptions a comma cannot carry."
     },
     {
       "level": "INFO",

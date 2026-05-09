@@ -409,21 +409,21 @@ content_review: 'pending'
         <span class="cy-cn">去而复返</span>
         <span class="cy-py">qù ér fù fǎn</span>
         <span class="cy-en">"to go and then come back again" — to depart and return unexpectedly</span>
-        <span class="cy-note">去 qù (to leave) + 而 ér (but; and then) + 复 fù (again; to return) + 返 fǎn (to turn back). Someone who had departed comes back — often unexpectedly or after a significant interval. Used both literally (a traveler returning to a place they had left) and figuratively (a trend, a person, a policy that reappears after seeming to end). The 去/来 tension is fully present: departure followed by unexpected return.</span>
+        <span class="cy-note">去 qù (to leave) + 而 ér (but; and then) + 复 fù (again; to return) + 返 fǎn (to turn back). Someone who had departed comes back, often unexpectedly or after a significant interval. Used both literally (a traveler returning to a place they had left) and figuratively (a trend, a person, a policy that reappears after seeming to end). The 去/来 tension is fully present: departure followed by unexpected return.</span>
       </div>
 
       <div class="cy">
         <span class="cy-cn">来去自如</span>
         <span class="cy-py">lái qù zì rú</span>
         <span class="cy-en">"coming and going as one pleases" — complete freedom of movement; unhindered</span>
-        <span class="cy-note">来去 (coming and going — the full freedom of movement) + 自如 (naturally; freely; as one wishes). The ideal of total freedom: moving in any direction without restriction or obstacle. Used for physical movement (a martial artist who moves 来去自如 is mastering the arena), but also for social or intellectual freedom (thinking 来去自如 = moving between ideas without constraint). 游刃有余 is a related phrase for mastery that makes hard things easy.</span>
+        <span class="cy-note">来去 (coming and going, the full freedom of movement) + 自如 (naturally; freely; as one wishes). The ideal of total freedom: moving in any direction without restriction or obstacle. Used for physical movement (a martial artist who moves 来去自如 is mastering the arena), but also for social or intellectual freedom (thinking 来去自如 = moving between ideas without constraint). 游刃有余 is a related phrase for mastery that makes hard things easy.</span>
       </div>
 
       <div class="cy">
         <span class="cy-cn">旧去新来</span>
         <span class="cy-py">jiù qù xīn lái</span>
         <span class="cy-en">"the old departs, the new arrives" — natural renewal and change</span>
-        <span class="cy-note">旧 jiù (old; worn; the previous) + 去 qù (departs) + 新 xīn (new) + 来 lái (arrives). The cycle of replacement — what has aged goes away, what is fresh comes in. Used for seasons (winter's cold 去, spring 来), generations, technologies, fashions. Captures the Chinese acceptance of cyclical change without melancholy: departure and arrival are equally natural, not tragedy and hope but two halves of the same turning.</span>
+        <span class="cy-note">旧 jiù (old; worn; the previous) + 去 qù (departs) + 新 xīn (new) + 来 lái (arrives). The cycle of replacement: what has aged goes away, what is fresh comes in. Used for seasons (winter's cold 去, spring 来), generations, technologies, fashions. Captures the Chinese acceptance of cyclical change without melancholy: departure and arrival are equally natural, not tragedy and hope but two halves of the same turning.</span>
       </div>
 
     </div>
