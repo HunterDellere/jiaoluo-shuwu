@@ -5,7 +5,7 @@ status: 'complete'
 content_review: 'pending'
 title: '京剧 · Peking Opera'
 desc: "China's national theatrical art: acrobatics, painted faces, falsetto voices, and two centuries of stylized storytelling."
-metaDesc: "京剧 jīngjù: Peking Opera — the painted face types, the four performance skills, famous role categories, and why this demanding art form became the Chinese national theatre."
+metaDesc: "京剧 jīngjù: Peking Opera. The painted face types, the four performance skills, famous role categories, and why this demanding art form became the Chinese national theatre."
 pageTitle: '京剧 · Peking Opera'
 tags:
   - 'opera'

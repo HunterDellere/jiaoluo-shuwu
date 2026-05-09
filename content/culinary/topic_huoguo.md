@@ -5,7 +5,7 @@ status: 'complete'
 content_review: 'pending'
 title: '火锅 · Hotpot'
 desc: 'The communal pot at the center of the table: a social institution disguised as a meal.'
-metaDesc: "火锅 Huǒguō: Chinese hotpot — Chongqing mala broth, Beijing mutton shabu, regional styles, social culture, and the ritual of the communal pot."
+metaDesc: "火锅 Huǒguō: Chinese hotpot. Chongqing mala broth, Beijing mutton shabu, regional styles, social culture, and the ritual of the communal pot."
 pageTitle: '火锅 Hotpot'
 tags:
   - 'food'

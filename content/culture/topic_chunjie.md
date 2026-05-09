@@ -5,7 +5,7 @@ status: 'complete'
 content_review: 'pending'
 title: '春节 · Spring Festival'
 desc: "Lunar New Year. The largest annual human migration and the most important date on the Chinese calendar."
-metaDesc: "春节 Chūnjié: Chinese Lunar New Year — the largest annual human migration, the traditions of reunion dinner, red envelopes, lanterns, and what the holiday means socially."
+metaDesc: "春节 Chūnjié: Chinese Lunar New Year. The largest annual human migration, the traditions of reunion dinner, red envelopes, lanterns, and what the holiday means socially."
 pageTitle: '春节 · Spring Festival'
 tags:
   - 'new-year'

@@ -4,8 +4,8 @@ category: 'culinary'
 status: 'complete'
 content_review: 'pending'
 title: '乌龙茶 · Oolong Tea'
-desc: 'The most complex and technically demanding tea category — partially oxidized, spanning a full spectrum from near-green to near-black, with a vocabulary of flavor unmatched in tea.'
-metaDesc: "乌龙茶 wūlóng chá: Chinese oolong tea — Tieguanyin, Wuyi rock oolongs, Dan Cong, processing, oxidation levels, roasting, and the gongfu tea tradition."
+desc: 'The most complex and technically demanding tea category: partially oxidized, spanning a full spectrum from near-green to near-black, with a vocabulary of flavor unmatched in tea.'
+metaDesc: "乌龙茶 wūlóng chá: Chinese oolong tea. Tieguanyin, Wuyi rock oolongs, Dan Cong, processing, oxidation levels, roasting, and the gongfu tea tradition."
 pageTitle: '乌龙茶 · Oolong Tea'
 tags:
   - 'tea'

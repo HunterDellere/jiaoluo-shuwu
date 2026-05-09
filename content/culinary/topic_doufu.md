@@ -5,7 +5,7 @@ status: 'complete'
 content_review: 'pending'
 title: '豆腐 · Tofu'
 desc: 'Two thousand years of soybeans and water: the food that fed a civilization without meat.'
-metaDesc: "豆腐 Dòufu: Chinese tofu — Han dynasty origins, production from soybean curd, regional varieties from silken to firm, and its role in Buddhist and everyday cooking."
+metaDesc: "豆腐 Dòufu: Chinese tofu. Han dynasty origins, production from soybean curd, regional varieties from silken to firm, and its role in Buddhist and everyday cooking."
 pageTitle: '豆腐 Tofu'
 tags:
   - 'food'

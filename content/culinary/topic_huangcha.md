@@ -5,7 +5,7 @@ status: 'complete'
 content_review: 'pending'
 title: '黄茶 · Yellow Tea'
 desc: 'The rarest of the six categories: like green tea, but mellowed by a slow smothering step that removes the raw edge and creates a silky, sweet cup.'
-metaDesc: "黄茶 huángchá: Chinese yellow tea — the men huang smothering process, Junshan Yinzhen, Mengding Huangya, Huoshan Huangya, and why this category is vanishing."
+metaDesc: "黄茶 huángchá: Chinese yellow tea. The men huang smothering process, Junshan Yinzhen, Mengding Huangya, Huoshan Huangya, and why this category is vanishing."
 pageTitle: '黄茶 · Yellow Tea'
 tags:
   - 'tea'

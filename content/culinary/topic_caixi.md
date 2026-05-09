@@ -5,7 +5,7 @@ status: 'complete'
 content_review: 'pending'
 title: '八大菜系 · Eight Great Cuisines'
 desc: 'How geography, climate, and dynasty shaped eight distinct schools of Chinese cooking.'
-metaDesc: "八大菜系 Eight Great Cuisines: China's eight regional culinary schools — their geography, flavor philosophies, and signature techniques."
+metaDesc: "八大菜系 Eight Great Cuisines: China's eight regional culinary schools, their geography, flavor philosophies, and signature techniques."
 pageTitle: '八大菜系 Eight Great Cuisines'
 tags:
   - 'food'

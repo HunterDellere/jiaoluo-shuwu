@@ -3,7 +3,7 @@ type: 'character'
 category: 'characters'
 status: 'complete'
 title: '知 · to know; knowledge'
-desc: '知 = arrow + mouth: knowledge as the swift, target-hitting utterance — and in Wang Yangming, the act of knowing is inseparable from the act of doing.'
+desc: '知 = arrow + mouth: knowledge as the swift, target-hitting utterance, and in Wang Yangming, the act of knowing is inseparable from the act of doing.'
 metaDesc: "知 zhī: to know; knowledge. Formed from arrow (矢) + mouth (口), evoking speech as precise as an arrow. Core to Chinese epistemology, from Confucius to Wang Yangming."
 pageTitle: '知 zhī'
 tags:

@@ -1732,7 +1732,7 @@
     "type": "character",
     "category": "characters",
     "title": "知 · to know; knowledge",
-    "desc": "知 = arrow + mouth: knowledge as the swift, target-hitting utterance — and in Wang Yangming, the act of knowing is inseparable from the act of doing.",
+    "desc": "知 = arrow + mouth: knowledge as the swift, target-hitting utterance, and in Wang Yangming, the act of knowing is inseparable from the act of doing.",
     "tags": [
       "knowing",
       "philosophy",
@@ -1946,7 +1946,7 @@
     "type": "topic",
     "category": "culture",
     "title": "端午节 · Dragon Boat Festival",
-    "desc": "Rice dumplings thrown into a river for a drowned poet — the festival that fused an act of mourning into one of China's great summer celebrations.",
+    "desc": "Rice dumplings thrown into a river for a drowned poet: the festival that fused an act of mourning into one of China's great summer celebrations.",
     "tags": [
       "culture",
       "festival",
@@ -1963,7 +1963,7 @@
     "type": "topic",
     "category": "culture",
     "title": "重阳节 · Double Ninth Festival",
-    "desc": "The festival named for two nines produced one of the Tang dynasty most memorized poems — and a linguistic trick that lets urban dwellers eat a cake instead of climbing a mountain.",
+    "desc": "The festival named for two nines produced one of the Tang dynasty most memorized poems, and a linguistic trick that lets urban dwellers eat a cake instead of climbing a mountain.",
     "tags": [
       "festival",
       "culture",
@@ -4704,7 +4704,7 @@
     "type": "topic",
     "category": "culinary",
     "title": "川菜 · Sichuan Cuisine",
-    "desc": "The mala kitchen — how a landlocked basin built the most complex spice vocabulary in the world.",
+    "desc": "The mala kitchen: how a landlocked basin built the most complex spice vocabulary in the world.",
     "tags": [
       "food",
       "culture",
@@ -4737,7 +4737,7 @@
     "type": "topic",
     "category": "culinary",
     "title": "黑茶 · Dark Tea & Pu-erh",
-    "desc": "Post-fermented, microbially aged — the only tea category that genuinely improves with decades of storage, and the trade commodity that crossed the Tea-Horse Road to Tibet.",
+    "desc": "Post-fermented, microbially aged: the only tea category that genuinely improves with decades of storage, and the trade commodity that crossed the Tea-Horse Road to Tibet.",
     "tags": [
       "tea",
       "dark-tea",
@@ -4755,7 +4755,7 @@
     "type": "topic",
     "category": "culinary",
     "title": "红茶 · Red Tea (Black Tea)",
-    "desc": "Fully oxidized — what the world calls black tea, China calls red, named for the color of the liquor. From Keemun to Dianhong, China's contribution to global tea culture.",
+    "desc": "Fully oxidized: what the world calls black tea, China calls red, named for the color of the liquor. From Keemun to Dianhong, China's contribution to global tea culture.",
     "tags": [
       "tea",
       "black-tea",
@@ -4804,7 +4804,7 @@
     "type": "topic",
     "category": "culinary",
     "title": "鲁菜 · Shandong Cuisine",
-    "desc": "The oldest school — how the home province of Confucius fed the imperial court for two thousand years.",
+    "desc": "The oldest school: how the home province of Confucius fed the imperial court for two thousand years.",
     "tags": [
       "food",
       "culture",
@@ -4821,7 +4821,7 @@
     "type": "topic",
     "category": "culinary",
     "title": "绿茶 · Green Tea",
-    "desc": "The oldest and most-consumed tea category — unoxidized, fixed by heat, and expressing the full range from grassy Longjing to umami-rich Biluochun.",
+    "desc": "The oldest and most-consumed tea category: unoxidized, fixed by heat, and expressing the full range from grassy Longjing to umami-rich Biluochun.",
     "tags": [
       "tea",
       "green-tea",
@@ -4838,7 +4838,7 @@
     "type": "topic",
     "category": "culinary",
     "title": "面条 · Noodles",
-    "desc": "Four thousand years of wheat in water — noodle cultures from Lanzhou to Suzhou.",
+    "desc": "Four thousand years of wheat in water: noodle cultures from Lanzhou to Suzhou.",
     "tags": [
       "food",
       "culture",
@@ -4854,7 +4854,7 @@
     "type": "topic",
     "category": "culinary",
     "title": "花草茶 · Tisanes & Herbal Infusions",
-    "desc": "Not tea — but often called tea. The world of Chinese herbal infusions, floral teas, and medicinal brews that share the cup but not the leaf of Camellia sinensis.",
+    "desc": "Not tea, but often called tea. The world of Chinese herbal infusions, floral teas, and medicinal brews that share the cup but not the leaf of Camellia sinensis.",
     "tags": [
       "tea",
       "tisane",
@@ -4872,7 +4872,7 @@
     "type": "topic",
     "category": "culinary",
     "title": "乌龙茶 · Oolong Tea",
-    "desc": "The most complex and technically demanding tea category — partially oxidized, spanning a full spectrum from near-green to near-black, with a vocabulary of flavor unmatched in tea.",
+    "desc": "The most complex and technically demanding tea category: partially oxidized, spanning a full spectrum from near-green to near-black, with a vocabulary of flavor unmatched in tea.",
     "tags": [
       "tea",
       "oolong",

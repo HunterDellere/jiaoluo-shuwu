@@ -5,7 +5,7 @@ status: 'complete'
 content_review: 'pending'
 title: '茶 · Tea'
 desc: 'Six tea categories, production, and the cup that connects China to the world.'
-metaDesc: "茶 chá: Chinese tea — the six categories (green, white, yellow, oolong, black, pu-erh), gongfu tea ceremony, the Silk Road tea trade, and tea as a way of paying attention."
+metaDesc: "茶 chá: Chinese tea. The six categories (green, white, yellow, oolong, black, pu-erh), gongfu tea ceremony, the Silk Road tea trade, and tea as a way of paying attention."
 pageTitle: '茶 · Tea'
 tags:
   - 'tea'
