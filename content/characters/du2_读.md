@@ -450,7 +450,7 @@ content_sources:
         <span class="cy-cn">读万卷书，行万里路</span>
         <span class="cy-py">dú wàn juàn shū, xíng wàn lǐ lù</span>
         <span class="cy-en">read ten thousand scrolls of books, walk ten thousand li of road — learn from text and from travel both</span>
-        <span class="cy-note">A Ming-dynasty saying attributed to the painter and theorist Dong Qichang. The pairing of <a href="../../pages/characters/du2_读.html">读</a> and <a href="../../pages/characters/xing2_行.html">行</a> as the two halves of an educated life — book-knowledge and lived experience as equally necessary, neither sufficient alone.</span>
+        <span class="cy-note">A Ming-dynasty saying attributed to the painter and theorist Dong Qichang. The pairing of <a href="../../pages/characters/du2_读.html">读</a> and <a href="../../pages/characters/xing2_行.html">行</a> as the two halves of an educated life: book-knowledge and lived experience as equally necessary, neither sufficient alone.</span>
       </div>
 
       <div class="cy">
@@ -492,8 +492,8 @@ content_sources:
     <!-- RETENTION IMAGE -->
     <div class="scholar" data-glyph="读" style="margin-top:2.5rem;">
       <div class="scholar-label">记忆法 jìyìfǎ · Master Retention Image</div>
-      <p>Picture 读 as <strong>voiced literacy</strong>: the 讠 radical (speech) on the left, the rest of the character on the right standing for the <em>thing put on display</em> through the voice. To 读 is not to look at letters silently; it is to turn marks into sound, to make a text speak. The classical scholar memorising the Analects by chanting it morning after morning until the rhythm became second nature was the original 读书人 dúshūrén — the "person who reads books," a phrase that until quite recently meant simply <em>a scholar</em>.</p>
-      <p>The metaphor extends. To 读懂 a person is to <em>voice them in your own head</em> until you grasp what they are actually saying. To 解读 a signal is to read it the way a classical scholar reads an unpunctuated text — by carving the stream into the right meaningful units. The character keeps faith with its origin: every kind of reading, in Chinese, is a kind of speaking-back to what was written.</p>
+      <p>Picture 读 as <strong>voiced literacy</strong>: the 讠 radical (speech) on the left, the rest of the character on the right standing for the <em>thing put on display</em> through the voice. To 读 is not to look at letters silently; it is to turn marks into sound, to make a text speak. The classical scholar memorising the Analects by chanting it morning after morning until the rhythm became second nature was the original 读书人 dúshūrén, the "person who reads books," a phrase that until quite recently meant simply <em>a scholar</em>.</p>
+      <p>The metaphor extends. To 读懂 a person is to <em>voice them in your own head</em> until you grasp what they are actually saying. To 解读 a signal is to read it the way a classical scholar reads an unpunctuated text: by carving the stream into the right meaningful units. The character keeps faith with its origin: every kind of reading, in Chinese, is a kind of speaking-back to what was written.</p>
     </div>
 
     <footer class="page-footer">

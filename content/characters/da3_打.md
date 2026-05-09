@@ -122,7 +122,7 @@ content_sources:
 
     <div class="note">
       <span class="note-label">文化注 · 打包 dǎ bāo</span>
-      In mainland China, asking to 打包 (take leftovers to go) was historically less common than in Western dining culture — finishing food or leaving it were both acceptable. The practice has grown as food delivery (外卖 wàimài) normalized 打包 containers. Today 打包 is standard and expected, especially in the context of 光盘行动 (the Clean Plate Campaign) that encouraged reducing food waste.
+      In mainland China, asking to 打包 (take leftovers to go) was historically less common than in Western dining culture; finishing food or leaving it were both acceptable. The practice has grown as food delivery (外卖 wàimài) normalized 打包 containers. Today 打包 is standard and expected, especially in the context of 光盘行动 (the Clean Plate Campaign) that encouraged reducing food waste.
     </div>
 
     <span class="section-anchor" id="chengyu"></span>
@@ -130,8 +130,8 @@ content_sources:
 
     <div class="chengyu-grid">
       <div class="cy"><span class="cy-cn">打草惊蛇</span><span class="cy-py">dǎ cǎo jīng shé</span><span class="cy-en">to beat the grass and startle the snake — to tip off the target through careless action</span><span class="cy-note">One of the 36 Stratagems (三十六计). The grass is struck and the snake hiding inside is alerted. Used to warn against premature or clumsy action that reveals your intentions and lets the target escape or prepare. Common in military, political, and business contexts.</span></div>
-      <div class="cy"><span class="cy-cn">打抱不平</span><span class="cy-py">dǎ bào bù píng</span><span class="cy-en">to stand up for the wronged; to right injustices</span><span class="cy-note">打 (to strike at) + 抱 (to hold) + 不平 (unfairness). To beat back unfairness — to intervene on behalf of someone being treated unjustly. The righteous stranger who steps in. A heroic frame common in wuxia literature.</span></div>
-      <div class="cy"><span class="cy-cn">一石二鸟</span><span class="cy-py">yī shí èr niǎo</span><span class="cy-en">one stone, two birds — kill two birds with one stone</span><span class="cy-note">Often paired with 打 in context: 一打两得 yī dǎ liǎng dé (one strike, two gains) — a variant expressing the same efficiency principle. Both idioms encode the Chinese strategic value of maximum efficiency from a single action.</span></div>
+      <div class="cy"><span class="cy-cn">打抱不平</span><span class="cy-py">dǎ bào bù píng</span><span class="cy-en">to stand up for the wronged; to right injustices</span><span class="cy-note">打 (to strike at) + 抱 (to hold) + 不平 (unfairness). To beat back unfairness, to intervene on behalf of someone being treated unjustly. The righteous stranger who steps in. A heroic frame common in wuxia literature.</span></div>
+      <div class="cy"><span class="cy-cn">一石二鸟</span><span class="cy-py">yī shí èr niǎo</span><span class="cy-en">one stone, two birds — kill two birds with one stone</span><span class="cy-note">Often paired with 打 in context: 一打两得 yī dǎ liǎng dé (one strike, two gains), a variant expressing the same efficiency principle. Both idioms encode the Chinese strategic value of maximum efficiency from a single action.</span></div>
     </div>
 
     <span class="section-anchor" id="adjacent"></span>

@@ -237,9 +237,9 @@ content_review: 'pending'
     <!-- Retention image -->
     <div class="scholar" data-glyph="耳">
       <div class="scholar-label">记忆法 jìyìfǎ · Master Retention Image</div>
-      <p>The character is the outer ear, simplified to its skeleton: two horizontal bars (the upper and lower rim of the auricle) across a vertical column (the canal opening). Rotate a photograph of a real ear so the earlobe points down and the canal faces you — that is the oracle bone form. The modern character is what remains after centuries of calligraphic smoothing.</p>
+      <p>The character is the outer ear, simplified to its skeleton: two horizontal bars (the upper and lower rim of the auricle) across a vertical column (the canal opening). Rotate a photograph of a real ear so the earlobe points down and the canal faces you: that is the oracle bone form. The modern character is what remains after centuries of calligraphic smoothing.</p>
       <p>The ear anchors Chinese intelligence (聪 = sharp-eared + 明 bright = 聪明 intelligent) because in pre-modern China, learning traveled by voice. You heard your teacher recite; you heard the sutras chanted; you heard the court documents read aloud. The ear that caught everything and retained it was the ear of the scholar. 聪明 puts the ear before the eye.</p>
-      <p>And the ear that stayed open when others plugged theirs — 充耳不闻, stuffing the ear and refusing to hear — was the ear of the ruler who had lost touch. Chinese political wisdom made the open ear a virtue, not just a faculty. To listen well was to govern well.</p>
+      <p>And the ear that stayed open when others plugged theirs (充耳不闻, stuffing the ear and refusing to hear) was the ear of the ruler who had lost touch. Chinese political wisdom made the open ear a virtue, not just a faculty. To listen well was to govern well.</p>
     </div>
 
     <footer class="page-footer">

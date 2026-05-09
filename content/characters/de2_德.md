@@ -434,8 +434,8 @@ content_sources:
     <!-- RETENTION IMAGE -->
     <div class="scholar" data-glyph="德" style="margin-top:2.5rem;">
       <div class="scholar-label">记忆法 jìyìfǎ · Master Retention Image</div>
-      <p>Picture the character as a person walking. The left side 彳 is the step — one half of 行 (xíng, to walk; to act), the road taken. The right side stacks 直 (straight) over 心 (heart): a heart held plumb beneath a stride that does not waver. <em>Conduct made straight at the heart.</em> Walk this road long enough and you accumulate something — not points or merit-badges, but a kind of moral mass that other people feel. That mass is 德.</p>
-      <p>The character's most useful test: when someone of high 德 walks into a room, the room rearranges itself around them — without them saying or asking for anything. That gravitational pull is the difference between 德 and "virtue" as English usually means it. Virtue is what you do; 德 is what you become.</p>
+      <p>Picture the character as a person walking. The left side 彳 is the step, one half of 行 (xíng, to walk; to act), the road taken. The right side stacks 直 (straight) over 心 (heart): a heart held plumb beneath a stride that does not waver. <em>Conduct made straight at the heart.</em> Walk this road long enough and you accumulate something: not points or merit-badges, but a kind of moral mass that other people feel. That mass is 德.</p>
+      <p>The character's most useful test: when someone of high 德 walks into a room, the room rearranges itself around them, without them saying or asking for anything. That gravitational pull is the difference between 德 and "virtue" as English usually means it. Virtue is what you do; 德 is what you become.</p>
     </div>
 
     <footer class="page-footer">

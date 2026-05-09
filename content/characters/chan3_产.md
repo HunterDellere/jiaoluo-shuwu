@@ -223,9 +223,9 @@ content_sources:
       <span class="adj">出口 chūkǒu , to export</span>
       <span class="adj">进口 jìnkǒu , to import</span>
       <span class="adj">资产 zīchǎn , assets, capital</span>
-      <span class="adj">负产 fùchǎn — negative output, liability (rare)</span>
-      <span class="adj">生育 shēngyù — to bear children, reproduction</span>
-      <span class="adj">收获 shōuhuò — harvest, yield (agricultural)</span>
+      <span class="adj">负产 fùchǎn, negative output, liability (rare)</span>
+      <span class="adj">生育 shēngyù, to bear children, reproduction</span>
+      <span class="adj">收获 shōuhuò, harvest, yield (agricultural)</span>
       <span class="adj"><span class="a-cn">产品</span><span class="a-py">chǎnpǐn</span><span class="a-en">manufactured product — the canonical 产 + 品 compound</span></span>
     </div>
 

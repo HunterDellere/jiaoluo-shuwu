@@ -151,7 +151,7 @@ content_sources:
           <div class="example">
             <div class="ex-cn">长江是中国最长的河流，也是亚洲最长的河流。</div>
             <div class="ex-py">Cháng Jiāng shì Zhōngguó zuì cháng de héliú, yě shì Yàzhōu zuì cháng de héliú.</div>
-            <div class="ex-en">The Yangtze is China's longest river — and also Asia's longest.</div>
+            <div class="ex-en">The Yangtze is China's longest river, and also Asia's longest.</div>
           </div>
         </div>
       </div>
@@ -170,7 +170,7 @@ content_sources:
           <div class="example">
             <div class="ex-cn">她的特长是唱歌，从小就开始学了。</div>
             <div class="ex-py">Tā de tècháng shì chànggē, cóng xiǎo jiù kāishǐ xué le.</div>
-            <div class="ex-en">Her special skill is singing — she started learning from a young age.</div>
+            <div class="ex-en">Her special skill is singing; she started learning from a young age.</div>
           </div>
         </div>
       </div>
@@ -261,7 +261,7 @@ content_sources:
         <span class="cy-cn">长风破浪</span>
         <span class="cy-py">cháng fēng pò làng</span>
         <span class="cy-en">a long wind breaking through the waves — bold ambition and perseverance</span>
-        <span class="cy-note">From the Tang poet Li Bai: 长风破浪会有时，直挂云帆济沧海 — "There will come a time when the long wind breaks through the waves; I shall set my cloud-sail straight across the vast sea." The image is unstoppable ambition riding the great winds, no obstacle too large to overcome.</span>
+        <span class="cy-note">From the Tang poet Li Bai: 长风破浪会有时，直挂云帆济沧海. "There will come a time when the long wind breaks through the waves; I shall set my cloud-sail straight across the vast sea." The image is unstoppable ambition riding the great winds, no obstacle too large to overcome.</span>
       </div>
 
     </div>
