@@ -177,7 +177,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          老 (old/established) + 百 (hundred) + 姓 (surname; clan). Lit. "the hundred old clans" — the established common families as opposed to the aristocracy. The standard term for ordinary people, used across the political spectrum. Has a warm, populist connotation: politicians invoke 老百姓 when claiming to speak for the people.
+          老 (old/established) + 百 (hundred) + 姓 (surname; clan). Lit. "the hundred old clans": the established common families as opposed to the aristocracy. The standard term for ordinary people, used across the political spectrum. Has a warm, populist connotation: politicians invoke 老百姓 when claiming to speak for the people.
         </div>
         <div class="examples">
           <div class="example">
@@ -219,7 +219,7 @@ content_sources:
 
     <div class="scholar" data-glyph="老">
       <div class="scholar-label">道家 dàojiā · The Daoist Sage</div>
-      <p><strong>老子 Lǎo Zǐ</strong> literally means "Old Master," the semi-legendary philosopher who authored the 道德经 Dào Dé Jīng (Tao Te Ching), the founding text of Daoism. According to tradition, he was a keeper of archives in the Zhou court who, despairing of the corruption of civilization, rode a water buffalo west to the frontier. The border guard begged him to write down his wisdom before departing. He wrote 5,000 characters — the Tao Te Ching — and was never seen again.</p>
+      <p><strong>老子 Lǎo Zǐ</strong> literally means "Old Master," the semi-legendary philosopher who authored the 道德经 Dào Dé Jīng (Tao Te Ching), the founding text of Daoism. According to tradition, he was a keeper of archives in the Zhou court who, despairing of the corruption of civilization, rode a water buffalo west to the frontier. The border guard begged him to write down his wisdom before departing. He wrote 5,000 characters (the Tao Te Ching) and was never seen again.</p>
       <p>The name 老子 is itself a clue to the philosophy: the old (老), what has been tested by time and is fundamental and unchanging, is the master. Daoism begins with reverence for the ancient, the natural, and the prior. The 道 Tao that 老子 describes is 老 in the deepest sense: older than Heaven and Earth, the source from which all things emerge.</p>
       <p>In colloquial modern Mandarin, 老子 (with a different connotation) is also used as an arrogant first-person pronoun, "I, your father," in heated or comic contexts. The same characters, radically different register.</p>
     </div>

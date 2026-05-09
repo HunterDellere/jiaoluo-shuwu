@@ -247,9 +247,9 @@ content_review: 'pending'
     <!-- Retention image -->
     <div class="scholar" data-glyph="目">
       <div class="scholar-label">记忆法 jìyìfǎ · Master Retention Image</div>
-      <p>An eye drawn head-on: almond shape, vertical pupil. Now tip it sideways — pupil becomes a horizontal bar, the whole eye a vertical rectangle with two shelves inside. That rotation is why 目 looks like a narrow box with two horizontal lines. Every time you see it, you're looking at a face-on eye that someone tipped up on its end.</p>
-      <p>The eye that scans is the eye that classifies. 目录 (table of contents) is what the eye runs down before entering a book. 题目 (topic, exam question) is the heading the eye lands on first. 节目 (program item) is an entry in a list of things to watch. The same organ that sees also organizes — and the Chinese written language encoded that double function in a single character.</p>
-      <p>When 目 combines with 耳 (ear), the pair covers the full alert perceptual system: 耳目 means your information network, your ears and eyes out in the world. When it combines with 光 (light), it becomes 目光, the gaze as something projected outward, something measurable in length (目光短浅, short-sighted; 目光长远, far-sighted). The eye is always casting its light somewhere — the question is how far.</p>
+      <p>An eye drawn head-on: almond shape, vertical pupil. Now tip it sideways: the pupil becomes a horizontal bar, the whole eye a vertical rectangle with two shelves inside. That rotation is why 目 looks like a narrow box with two horizontal lines. Every time you see it, you're looking at a face-on eye that someone tipped up on its end.</p>
+      <p>The eye that scans is the eye that classifies. 目录 (table of contents) is what the eye runs down before entering a book. 题目 (topic, exam question) is the heading the eye lands on first. 节目 (program item) is an entry in a list of things to watch. The same organ that sees also organizes, and the Chinese written language encoded that double function in a single character.</p>
+      <p>When 目 combines with 耳 (ear), the pair covers the full alert perceptual system: 耳目 means your information network, your ears and eyes out in the world. When it combines with 光 (light), it becomes 目光, the gaze as something projected outward, something measurable in length (目光短浅, short-sighted; 目光长远, far-sighted). The eye is always casting its light somewhere; the question is how far.</p>
     </div>
 
     <footer class="page-footer">

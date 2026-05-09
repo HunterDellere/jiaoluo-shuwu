@@ -132,7 +132,7 @@ content_review: 'pending'
     <div class="scholar" data-glyph="震">
       <div class="scholar-label">易经 yìjīng · The Book of Changes</div>
       <p>In the <em>Yijing</em> (易经, Book of Changes), the trigram <strong>震</strong> (Zhèn) represents thunder , and is directly identified with 雷. The trigram is one solid line at the bottom, two broken lines above: ☳. The solid yang line erupts upward through yielding yin.震 is the Arousing, the Shock, the initiating force that breaks through inertia.</p>
-      <p>In the eight-trigram (八卦 bāguà) system, 震 = <strong>east</strong>, <strong>spring</strong>, the <strong>eldest son</strong>. When this trigram is doubled —震 over 震 , the result is <strong>hexagram 51</strong>, also called 震 (the Arousing / Shock). The <em>Yijing</em> commentary for hexagram 51 begins: <em>震, hēng</em> , "Thunder: success." The shock comes; the wise person does not panic but uses the moment of jolting to recalibrate, to clear away the habitual and face what is real.</p>
+      <p>In the eight-trigram (八卦 bāguà) system, 震 = <strong>east</strong>, <strong>spring</strong>, the <strong>eldest son</strong>. When this trigram is doubled (震 over 震), the result is <strong>hexagram 51</strong>, also called 震 (the Arousing / Shock). The <em>Yijing</em> commentary for hexagram 51 begins: <em>震, hēng</em> , "Thunder: success." The shock comes; the wise person does not panic but uses the moment of jolting to recalibrate, to clear away the habitual and face what is real.</p>
       <p>The <em>Tuanzhuan</em> commentary elaborates: "The shock frightens for a hundred miles , and yet the sacrificial vessel and the libation spoon are not dropped." The highest response to sudden upheaval is not flight but composure and continuity. Thunder announces; it does not destroy. The one who hears thunder and keeps the ritual vessel steady , who is not scattered by the shock , is the one the <em>Yijing</em> endorses.</p>
       <p>This cosmological role of 雷 as <em>initiating force</em> resonates through the entire classical tradition. 雷 is not the climax of the storm; it is the beginning of movement. It awakens. It breaks open. In medical cosmology, 雷 corresponds to the liver, which in Chinese medicine governs the free flow of qi , blocked qi produces the stagnation that thunder (metaphorically) must crack open to restore circulation.</p>
     </div>
@@ -263,7 +263,7 @@ content_review: 'pending'
         <span class="cy-cn">雷厉风行</span>
         <span class="cy-py">léi lì fēng xíng</span>
         <span class="cy-en">as fierce as thunder, as swift as wind — to act with decisive, energetic speed</span>
-        <span class="cy-note">Lit: thunder-fierce-wind-moving. 厉 means severe, sharp, intense; 行 means to move, to act. The phrase describes a person or policy that executes with the speed and force of a storm — no hesitation, no dragging of feet. Used to praise decisive leadership or swift implementation. Its opposite would be the bureaucratic shuffle, which is precisely why it became a stock phrase in official rhetoric praising efficient governance. From 韩愈 Han Yu (768–824 CE), 进学解 <em>Discourage on Advancing in Learning</em>.</span>
+        <span class="cy-note">Lit: thunder-fierce-wind-moving. 厉 means severe, sharp, intense; 行 means to move, to act. The phrase describes a person or policy that executes with the speed and force of a storm: no hesitation, no dragging of feet. Used to praise decisive leadership or swift implementation. Its opposite would be the bureaucratic shuffle, which is precisely why it became a stock phrase in official rhetoric praising efficient governance. From 韩愈 Han Yu (768–824 CE), 进学解 <em>Discourage on Advancing in Learning</em>.</span>
       </div>
 
       <div class="cy">
@@ -277,7 +277,7 @@ content_review: 'pending'
         <span class="cy-cn">暴风骤雨</span>
         <span class="cy-py">bào fēng zhòu yǔ</span>
         <span class="cy-en">violent wind and sudden rain — a sudden, overwhelming storm of events</span>
-        <span class="cy-note">Lit: violent-wind-sudden-rain. 暴 means violent, sudden, savage; 骤 means abrupt, arriving all at once. The idiom describes any sudden, overwhelming onslaught — a torrential crisis, a savage attack, a rapid political upheaval. 暴风骤雨 was also the title of a famous 1948 novel by 周立波 Zhou Libo about land reform in northeast China, lending the phrase associations with revolutionary upheaval.</span>
+        <span class="cy-note">Lit: violent-wind-sudden-rain. 暴 means violent, sudden, savage; 骤 means abrupt, arriving all at once. The idiom describes any sudden, overwhelming onslaught: a torrential crisis, a savage attack, a rapid political upheaval. 暴风骤雨 was also the title of a famous 1948 novel by 周立波 Zhou Libo about land reform in northeast China, lending the phrase associations with revolutionary upheaval.</span>
       </div>
 
     </div>
