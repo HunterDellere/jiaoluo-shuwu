@@ -102,7 +102,7 @@ content_sources:
 
     <div class="note">
       <span class="note-label">辨析 biànxī · 爱 vs. 喜欢</span>
-      In Chinese, 我爱你 (I love you) is emotionally significant — reserved for deep romantic love, close family, and one's homeland. It is not used as casually as "I love pizza" (for that: 我很喜欢披萨 or 我超爱吃披萨 in colloquial speech). Overusing 爱 sounds strange; underusing it misses important declarations. The line between 喜欢 and 爱 is real and felt.
+      In Chinese, 我爱你 (I love you) is emotionally significant: reserved for deep romantic love, close family, and one's homeland. It is not used as casually as "I love pizza" (for that: 我很喜欢披萨 or 我超爱吃披萨 in colloquial speech). Overusing 爱 sounds strange; underusing it misses important declarations. The line between 喜欢 and 爱 is real and felt.
     </div>
 
     <span class="section-anchor" id="romantic"></span>
@@ -122,7 +122,7 @@ content_sources:
       <div class="card c-v">
         <div class="card-head"><span class="card-cn">可爱</span><span class="card-py">kě'ài</span><span class="card-en">cute; adorable; lovable</span></div>
         <div class="tags"><span class="tag tag-adj">Adj 形容词 xíngróngcí</span></div>
-        <div class="card-def">可 kě (can; worthy of) + 爱 ài (love). Worthy of being loved — cute, adorable. One of the most-used adjectives in everyday Mandarin. Used for children, animals, cartoon characters, and endearing people.</div>
+        <div class="card-def">可 kě (can; worthy of) + 爱 ài (love). Worthy of being loved: cute, adorable. One of the most-used adjectives in everyday Mandarin. Used for children, animals, cartoon characters, and endearing people.</div>
         <div class="examples">
           <div class="example"><div class="ex-cn">这只小猫真的好可爱！</div><div class="ex-py">Zhè zhī xiǎo māo zhēn de hǎo kě'ài!</div><div class="ex-en">This little cat is so adorable!</div></div>
         </div>
