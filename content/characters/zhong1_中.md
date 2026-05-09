@@ -3,7 +3,7 @@ type: 'character'
 category: 'characters'
 status: 'complete'
 title: '中 · middle, China, to hit the mark'
-desc: "An arrow piercing through the center of a target — the character that names China as the Middle Kingdom and encodes the Confucian virtue of equilibrium."
+desc: "An arrow piercing through the center of a target: the character that names China as the Middle Kingdom and encodes the Confucian virtue of equilibrium."
 metaDesc: "中 zhōng/zhòng: middle, center, China, to hit the mark. Etymology, the concept of the Middle Kingdom, zhōng as balance in Confucianism, and key compounds."
 pageTitle: '中 zhōng / zhòng'
 tags:

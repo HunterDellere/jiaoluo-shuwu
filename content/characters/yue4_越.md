@@ -3,8 +3,8 @@ type: 'character'
 category: 'characters'
 status: 'complete'
 title: '越 · to cross over, to surpass'
-desc: 'The character of crossing-and-exceeding — a foot-radical verb that travels from "stride over a barrier" to "the more, the more" to a Chinese state name and a national poetic gesture.'
-metaDesc: "越 yuè: to cross, to surpass, to exceed, to transcend. Etymology (走 run + 戉 phonetic), the cross-the-boundary family (跨越/翻越/超越/穿越), the comparative pattern (越…越…), and the cultural weight of 越长城 yuè chángchéng — crossing the Great Wall."
+desc: 'The character of crossing-and-exceeding: a foot-radical verb that travels from "stride over a barrier" to "the more, the more" to a Chinese state name and a national poetic gesture.'
+metaDesc: "越 yuè: to cross, to surpass, to exceed, to transcend. Etymology (走 run + 戉 phonetic), the cross-the-boundary family (跨越/翻越/超越/穿越), the comparative pattern (越…越…), and the cultural weight of 越长城 yuè chángchéng, crossing the Great Wall."
 pageTitle: '越 yuè'
 tags:
   - 'movement'

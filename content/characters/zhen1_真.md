@@ -3,7 +3,7 @@ type: 'character'
 category: 'characters'
 status: 'complete'
 title: '真 · real, true, genuine'
-desc: 'Truth not as accuracy but as authenticity — the unadorned thing itself, prized in Daoist self-cultivation and in everyday emphasis.'
+desc: 'Truth not as accuracy but as authenticity: the unadorned thing itself, prized in Daoist self-cultivation and in everyday emphasis.'
 metaDesc: "真 zhēn: real, true, genuine, authentic. Etymology, the Daoist 真人 ideal, the spectrum of truth-words (真实/真正/真诚/真心), the intensifier 真 in spoken Chinese, and chengyu."
 pageTitle: '真 zhēn'
 tags:

@@ -3,7 +3,7 @@ type: 'vocab'
 category: 'chengyu'
 status: 'complete'
 title: '班门弄斧 · Showing Off Before the Master'
-desc: "Brandishing an axe at Lu Ban's door — the idiom for presuming to display skill before someone who has mastered it."
+desc: "Brandishing an axe at Lu Ban's door: the idiom for presuming to display skill before someone who has mastered it."
 metaDesc: "班门弄斧 bān mén nòng fǔ: to show off one's mediocre skills before an expert. Origin in the Ming dynasty poet Mei Zhiyuan, who wrote of inferior poets leaving verses at the Yellow Crane Tower after Cui Hao's definitive poem."
 pageTitle: '班门弄斧 bān mén nòng fǔ'
 tags:

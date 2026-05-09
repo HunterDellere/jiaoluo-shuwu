@@ -4,8 +4,8 @@ category: 'chengyu'
 status: 'complete'
 content_review: 'pending'
 title: '君子不器 · the exemplary person is not a vessel'
-desc: "Confucius says the junzi is not a utensil — not defined by function, not limited to one use. The Analects' argument against reducing a person to their usefulness."
-metaDesc: "君子不器 junzi bu qi: Confucius in the Analects says the exemplary person is not a vessel — not defined by a single function. The chengyu against narrow specialization and the reduction of a person to their usefulness."
+desc: "Confucius says the junzi is not a utensil: not defined by function, not limited to one use. The Analects' argument against reducing a person to their usefulness."
+metaDesc: "君子不器 junzi bu qi: Confucius in the Analects says the exemplary person is not a vessel, not defined by a single function. The chengyu against narrow specialization and the reduction of a person to their usefulness."
 pageTitle: '君子不器 jūnzǐ bù qì'
 pinyin: 'jūnzǐ bù qì'
 tags:

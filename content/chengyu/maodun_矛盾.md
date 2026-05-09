@@ -3,7 +3,7 @@ type: 'vocab'
 category: 'chengyu'
 status: 'complete'
 title: '矛盾 · Contradiction'
-desc: "The spear that can pierce anything meets the shield that can stop anything — the story behind China's word for contradiction."
+desc: "The spear that can pierce anything meets the shield that can stop anything: the story behind China's word for contradiction."
 metaDesc: "矛盾 máodùn: the Chinese word for contradiction, contradiction, and the ancient parable of the ultimate spear and ultimate shield from the Hanfeizi."
 pageTitle: '矛盾 máodùn'
 tags:
@@ -13,9 +13,9 @@ tags:
 updated: '2026-04-18'
 pinyin: 'máodùn'
 sources:
-  - 'Hánfēizǐ 韩非子, "Nán yī" 难一 chapter (3rd century BCE) — original spear-and-shield parable'
-  - 'Mao Zedong, "On Contradiction" 矛盾论 (1937) — Marxist-dialectical adoption of the term'
-  - 'Outlier Linguistic Solutions — etymology of 矛 and 盾'
+  - 'Hánfēizǐ 韩非子, "Nán yī" 难一 chapter (3rd century BCE): original spear-and-shield parable'
+  - 'Mao Zedong, "On Contradiction" 矛盾论 (1937): Marxist-dialectical adoption of the term'
+  - 'Outlier Linguistic Solutions: etymology of 矛 and 盾'
 content_review: 'verified'
 content_sources:
   - 'Unihan'

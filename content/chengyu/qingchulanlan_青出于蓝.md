@@ -4,7 +4,7 @@ category: 'chengyu'
 status: 'complete'
 title: '青出于蓝 · The Student Surpasses the Teacher'
 desc: "Indigo is made from the indigo plant, yet it is bluer than the plant itself. Xunzi's image for the student who surpasses the teacher through sustained effort."
-metaDesc: "青出于蓝 qīng chū yú lán: the chengyu for a student who surpasses their teacher. From Xunzi's essay on learning — indigo is extracted from the plant, yet it is bluer than the plant itself."
+metaDesc: "青出于蓝 qīng chū yú lán: the chengyu for a student who surpasses their teacher. From Xunzi's essay on learning: indigo is extracted from the plant, yet it is bluer than the plant itself."
 pageTitle: '青出于蓝 · The Student Surpasses the Teacher'
 tags:
   - 'idioms'
@@ -14,7 +14,7 @@ tags:
 updated: '2026-04-22'
 pinyin: 'qīng chū yú lán'
 sources:
-  - 'Xúnzǐ 荀子, "Quàn xué" 劝学 chapter (3rd century BCE) — source text'
+  - 'Xúnzǐ 荀子, "Quàn xué" 劝学 chapter (3rd century BCE): source text'
 content_review: 'pending'
 ---
 

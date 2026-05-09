@@ -3,7 +3,7 @@ type: 'vocab'
 category: 'chengyu'
 status: 'complete'
 title: '画蛇添足 · Drawing Legs on a Snake'
-desc: "He finished first, so he kept drawing — and lost the prize. The idiom for ruining a good thing by overdoing it."
+desc: "He finished first, so he kept drawing, and lost the prize. The idiom for ruining a good thing by overdoing it."
 metaDesc: "画蛇添足 huà shé tiān zú: the chengyu for overdoing it. The Warring States parable of a drinking contest, a quick painter, and the four legs that lost him the wine."
 pageTitle: '画蛇添足 · Drawing Legs on a Snake'
 tags:
@@ -13,8 +13,8 @@ tags:
 updated: '2026-04-19'
 pinyin: 'huà shé tiān zú'
 sources:
-  - 'Zhànguó Cè 战国策, "Qí cè èr" 齐策二 (Warring States Strategies, late Warring States period) — original parable'
-  - 'Outlier Linguistic Solutions — etymology of 画 and 蛇'
+  - 'Zhànguó Cè 战国策, "Qí cè èr" 齐策二 (Warring States Strategies, late Warring States period): original parable'
+  - 'Outlier Linguistic Solutions: etymology of 画 and 蛇'
 content_review: 'verified'
 content_sources:
   - 'Unihan'

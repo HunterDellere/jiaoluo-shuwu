@@ -3,7 +3,7 @@ type: 'character'
 category: 'characters'
 status: 'complete'
 title: '足 · foot; sufficient; enough'
-desc: 'The foot that became the word for sufficiency — and the radical anchoring every character involving legs, running, and roads.'
+desc: 'The foot that became the word for sufficiency, and the radical anchoring every character involving legs, running, and roads.'
 metaDesc: "足 zú: foot, sufficient, enough. Etymology as pictograph, the sufficiency semantic shift, motion vocabulary (跑 跳 跳), classical usage in the Analects, and chengyu about excess and adequacy."
 pageTitle: '足 zú'
 tags:

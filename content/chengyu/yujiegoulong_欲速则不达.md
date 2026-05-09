@@ -3,8 +3,8 @@ type: 'vocab'
 category: 'chengyu'
 status: 'complete'
 title: '欲速则不达 · Haste Does Not Bring Success'
-desc: "Speed desired, arrival missed — Confucius on why rushing produces the opposite of what you intend."
-metaDesc: "欲速则不达 yù sù zé bù dá: the Confucian warning against haste — the story from the Analects, its modern applications, and why the idiom remains one of the most used in Chinese."
+desc: "Speed desired, arrival missed: Confucius on why rushing produces the opposite of what you intend."
+metaDesc: "欲速则不达 yù sù zé bù dá: the Confucian warning against haste. The story from the Analects, its modern applications, and why the idiom remains one of the most used in Chinese."
 pageTitle: '欲速则不达 · Haste Does Not Bring Success'
 tags:
   - 'idioms'
