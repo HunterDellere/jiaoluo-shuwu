@@ -7268,6 +7268,24 @@
           "pinyin": "shēngdiào"
         }
       }
+    },
+    "pages/characters/ming4_命.html": {
+      "voices": {
+        "xiaoxiao": {
+          "hash": "53b91ad23627",
+          "path": "audio/characters/ming4_命-xiaoxiao.mp3",
+          "bytes": 6624,
+          "text": "命",
+          "pinyin": "mìng"
+        },
+        "yunxi": {
+          "hash": "35470b4879b5",
+          "path": "audio/characters/ming4_命-yunxi.mp3",
+          "bytes": 9936,
+          "text": "命",
+          "pinyin": "mìng"
+        }
+      }
     }
   },
   "inline": {
@@ -40874,7 +40892,7 @@
     "a10ab196a4cbbe02": {
       "text": "命中注定",
       "pinyin": "mìng zhōng zhù dìng",
-      "kind": "compound",
+      "kind": "chengyu",
       "voices": {
         "xiaoxiao": {
           "hash": "dbd250ad92ca",
@@ -86102,6 +86120,174 @@
           "bytes": 14832,
           "text": "当代的祖先崇拜",
           "pinyin": "dāngdài de zǔxiān chóngbài"
+        }
+      }
+    },
+    "2f7a52bbc306133d": {
+      "text": "相依为命",
+      "pinyin": "xiāng yī wéi mìng",
+      "kind": "chengyu",
+      "voices": {
+        "xiaoxiao": {
+          "hash": "be85d088ca02",
+          "path": "audio/inline/2f7a52bbc306133d-xiaoxiao.mp3",
+          "bytes": 10656,
+          "text": "相依为命",
+          "pinyin": "xiāng yī wéi mìng"
+        },
+        "yunxi": {
+          "hash": "422dd9311708",
+          "path": "audio/inline/2f7a52bbc306133d-yunxi.mp3",
+          "bytes": 12528,
+          "text": "相依为命",
+          "pinyin": "xiāng yī wéi mìng"
+        }
+      }
+    },
+    "aed8438932ced808": {
+      "text": "舍生忘死",
+      "pinyin": "shě shēng wàng sǐ",
+      "kind": "chengyu",
+      "voices": {
+        "xiaoxiao": {
+          "hash": "46db0d4edbec",
+          "path": "audio/inline/aed8438932ced808-xiaoxiao.mp3",
+          "bytes": 11664,
+          "text": "舍生忘死",
+          "pinyin": "shě shēng wàng sǐ"
+        },
+        "yunxi": {
+          "hash": "3154ea7d7415",
+          "path": "audio/inline/aed8438932ced808-yunxi.mp3",
+          "bytes": 14832,
+          "text": "舍生忘死",
+          "pinyin": "shě shēng wàng sǐ"
+        }
+      }
+    },
+    "cb2792d54f4d7940": {
+      "text": "人命关天",
+      "pinyin": "rén mìng guān tiān",
+      "kind": "chengyu",
+      "voices": {
+        "xiaoxiao": {
+          "hash": "30eea413d7f3",
+          "path": "audio/inline/cb2792d54f4d7940-xiaoxiao.mp3",
+          "bytes": 10800,
+          "text": "人命关天",
+          "pinyin": "rén mìng guān tiān"
+        },
+        "yunxi": {
+          "hash": "cea85d6a87ab",
+          "path": "audio/inline/cb2792d54f4d7940-yunxi.mp3",
+          "bytes": 13536,
+          "text": "人命关天",
+          "pinyin": "rén mìng guān tiān"
+        }
+      }
+    },
+    "b741cc3a1d94aca8": {
+      "text": "寿命",
+      "pinyin": "shòumìng",
+      "kind": "compound",
+      "voices": {
+        "xiaoxiao": {
+          "hash": "a9325250a8c6",
+          "path": "audio/inline/b741cc3a1d94aca8-xiaoxiao.mp3",
+          "bytes": 8496,
+          "text": "寿命",
+          "pinyin": "shòumìng"
+        },
+        "yunxi": {
+          "hash": "94dd2519c3ad",
+          "path": "audio/inline/b741cc3a1d94aca8-yunxi.mp3",
+          "bytes": 10944,
+          "text": "寿命",
+          "pinyin": "shòumìng"
+        }
+      }
+    },
+    "a2665d297a44af21": {
+      "text": "算命",
+      "pinyin": "suànmìng",
+      "kind": "compound",
+      "voices": {
+        "xiaoxiao": {
+          "hash": "56f104d25180",
+          "path": "audio/inline/a2665d297a44af21-xiaoxiao.mp3",
+          "bytes": 8496,
+          "text": "算命",
+          "pinyin": "suànmìng"
+        },
+        "yunxi": {
+          "hash": "d2afdee8db54",
+          "path": "audio/inline/a2665d297a44af21-yunxi.mp3",
+          "bytes": 10512,
+          "text": "算命",
+          "pinyin": "suànmìng"
+        }
+      }
+    },
+    "61faf8bc65caddc2": {
+      "text": "命令",
+      "pinyin": "mìnglìng",
+      "kind": "compound",
+      "voices": {
+        "xiaoxiao": {
+          "hash": "13adf6fc5704",
+          "path": "audio/inline/61faf8bc65caddc2-xiaoxiao.mp3",
+          "bytes": 7920,
+          "text": "命令",
+          "pinyin": "mìnglìng"
+        },
+        "yunxi": {
+          "hash": "ce74ccb0b57c",
+          "path": "audio/inline/61faf8bc65caddc2-yunxi.mp3",
+          "bytes": 9936,
+          "text": "命令",
+          "pinyin": "mìnglìng"
+        }
+      }
+    },
+    "b915551f6cfac0ab": {
+      "text": "任命",
+      "pinyin": "rènmìng",
+      "kind": "compound",
+      "voices": {
+        "xiaoxiao": {
+          "hash": "c15da247b141",
+          "path": "audio/inline/b915551f6cfac0ab-xiaoxiao.mp3",
+          "bytes": 8064,
+          "text": "任命",
+          "pinyin": "rènmìng"
+        },
+        "yunxi": {
+          "hash": "d8714b601044",
+          "path": "audio/inline/b915551f6cfac0ab-yunxi.mp3",
+          "bytes": 10800,
+          "text": "任命",
+          "pinyin": "rènmìng"
+        }
+      }
+    },
+    "e3c8047e6456bf8c": {
+      "text": "革命",
+      "pinyin": "gémìng",
+      "kind": "compound",
+      "voices": {
+        "xiaoxiao": {
+          "hash": "fbecc8b4b891",
+          "path": "audio/inline/e3c8047e6456bf8c-xiaoxiao.mp3",
+          "bytes": 8064,
+          "text": "革命",
+          "pinyin": "gémìng"
+        },
+        "yunxi": {
+          "hash": "cd708d8b125b",
+          "path": "audio/inline/e3c8047e6456bf8c-yunxi.mp3",
+          "bytes": 9936,
+          "text": "革命",
+          "pinyin": "gémìng"
         }
       }
     }
