@@ -1,9 +1,9 @@
 ---
 type: hub
 category: hubs
-title: "汉字 · The Writing System — A Reading Path"
+title: "汉字 · The Writing System: A Reading Path"
 pinyin: "hànzì"
-desc: "A guided walk through Chinese characters — from oracle bone to modern glyph, from radical to compound, from stroke to calligraphy."
+desc: "A guided walk through Chinese characters: from oracle bone to modern glyph, from radical to compound, from stroke to calligraphy."
 status: complete
 content_review: 'pending'
 updated: "2026-04-19"
@@ -12,17 +12,17 @@ stages:
   - name: "概念"
     name_en: "The Concept"
     color: teal
-    note: "Start here — three entries that define what the writing system is."
+    note: "Start here: three entries that define what the writing system is."
     members:
       - slug: characters/zi4_字
         label_cn: "字 · Character"
         label_en: "What it means to write meaning"
         type: Character
         mins: 6
-        note: "The character that names the system: its etymology (child under a roof — a character 'born' into a home), and what it means to learn a writing system that encodes meaning rather than sound."
+        note: "The character that names the system: its etymology (child under a roof, a character 'born' into a home), and what it means to learn a writing system that encodes meaning rather than sound."
       - slug: vocab/hanzi_汉字
         label_cn: "汉字 · The compound"
-        label_en: "Han characters — term and history"
+        label_en: "Han characters: term and history"
         type: Vocab
         mins: 5
         note: "The term itself: Han characters. Covers the history of the name, the traditional/simplified distinction, and the broader vocabulary of the writing system."
@@ -35,14 +35,14 @@ stages:
   - name: "象形"
     name_en: "Pictographic Foundations"
     color: ochre
-    note: "Characters whose origins are visible in their shapes — the clearest entry into pictographic logic."
+    note: "Characters whose origins are visible in their shapes: the clearest entry into pictographic logic."
     members:
       - slug: characters/ren2_人
         label_cn: "人 · Person"
         label_en: "Two strokes, mid-stride"
         type: Character
         mins: 5
-        note: "A figure mid-stride. 人 appears as a radical (亻) in hundreds of characters about people and human action — a lesson in how radicals transform under compositional pressure."
+        note: "A figure mid-stride. 人 appears as a radical (亻) in hundreds of characters about people and human action: a lesson in how radicals transform under compositional pressure."
       - slug: characters/tian1_天
         label_cn: "天 · Heaven"
         label_en: "Spatial logic"
@@ -77,7 +77,7 @@ stages:
         label_en: "Acts from below"
         type: Character
         mins: 5
-        note: "Four strokes capture the upward flicker of flame. Appears as 灬 (four dots) at the base of characters where fire acts from below — cooking, heat, light."
+        note: "Four strokes capture the upward flicker of flame. Appears as 灬 (four dots) at the base of characters where fire acts from below: cooking, heat, light."
       - slug: characters/xin1_心
         label_cn: "心 · Heart / Mind"
         label_en: "The interior world"
@@ -89,7 +89,7 @@ stages:
         label_en: "Semantic layering"
         type: Character
         mins: 6
-        note: "Road, method, principle, and the foundational concept of Daoist cosmology — all carried by one character. A case study in how a word that began as 'path' was pressed into service for the deepest questions in Chinese philosophy."
+        note: "Road, method, principle, and the foundational concept of Daoist cosmology: all carried by one character. A case study in how a word that began as 'path' was pressed into service for the deepest questions in Chinese philosophy."
   - name: "书写之艺"
     name_en: "Calligraphy & Seal Carving"
     color: red
@@ -112,7 +112,7 @@ stages:
         label_en: "Character in three dimensions"
         type: Topic
         mins: 8
-        note: "The art of cutting characters into stone, jade, or bronze — where the written character becomes three-dimensional object, legal instrument, and artwork simultaneously."
+        note: "The art of cutting characters into stone, jade, or bronze: where the written character becomes three-dimensional object, legal instrument, and artwork simultaneously."
 ---
 
 <div class="shell">
