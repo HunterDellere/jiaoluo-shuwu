@@ -338,7 +338,7 @@ content_sources:
           <div class="example">
             <div class="ex-cn">这肉还是生的，要再煮一会儿。</div>
             <div class="ex-py">Zhè ròu háishi shēng de, yào zài zhǔ yīhuìr.</div>
-            <div class="ex-en">This meat is still raw — cook it a little longer.</div>
+            <div class="ex-en">This meat is still raw; cook it a little longer.</div>
           </div>
         </div>
       </div>
@@ -351,7 +351,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-adj">Adj 形容词 xíngróngcí</span></div>
         <div class="card-def">
-          陌 mò (a stranger; a path between rice fields — where you encounter people you don't know) + 生 shēng (unprocessed; unfamiliar). For unfamiliar places, strangers, and new experiences. 陌生人 = stranger. 对我来说很陌生 = "It's unfamiliar to me."
+          陌 mò (a stranger; a path between rice fields, where you encounter people you don't know) + 生 shēng (unprocessed; unfamiliar). For unfamiliar places, strangers, and new experiences. 陌生人 = stranger. 对我来说很陌生 = "It's unfamiliar to me."
         </div>
         <div class="examples">
           <div class="example">
@@ -425,7 +425,7 @@ content_sources:
 
     <div class="scholar" data-glyph="生" style="margin-top:2.5rem;">
       <div class="scholar-label">记忆法 jìyìfǎ · Master Retention Image</div>
-      <p>Visualize a green sprout pushing up through dark soil — that is 生, and that image unlocks everything. Life is the sprout (生命). Daily life is the plant growing day by day (生活). Raw food is the plant not yet cooked (生肉). A student is a tender green shoot not yet mature (学生). A stranger is a plant you've never seen before in your garden (陌生人). Everything 生 means is one stage or another of that first emergence from the earth.</p>
+      <p>Visualize a green sprout pushing up through dark soil: that is 生, and that image unlocks everything. Life is the sprout (生命). Daily life is the plant growing day by day (生活). Raw food is the plant not yet cooked (生肉). A student is a tender green shoot not yet mature (学生). A stranger is a plant you've never seen before in your garden (陌生人). Everything 生 means is one stage or another of that first emergence from the earth.</p>
     </div>
 
     <footer class="page-footer">

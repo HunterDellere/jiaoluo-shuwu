@@ -103,7 +103,7 @@ content_review: 'pending'
       <div class="card c-teal">
         <div class="card-head"><span class="card-cn">少年</span><span class="card-py">shàonián</span><span class="card-en">youth; adolescent; teenager</span></div>
         <div class="tags"><span class="tag tag-n">N 名词</span></div>
-        <div class="card-def">少 shào (young) + 年 (year; age). A person of young years , typically ages 10–18 in modern usage, though classically it could refer to anyone young. 少年宫 (Youth Palace , community center for children's activities); 少年犯 (juvenile offender); 少年强则国强 (if the youth are strong, the country is strong — from Liang Qichao's 1900 essay 少年中国说). The word carries an optimistic charge: youth as potential.</div>
+        <div class="card-def">少 shào (young) + 年 (year; age). A person of young years , typically ages 10–18 in modern usage, though classically it could refer to anyone young. 少年宫 (Youth Palace , community center for children's activities); 少年犯 (juvenile offender); 少年强则国强 (if the youth are strong, the country is strong, from Liang Qichao's 1900 essay 少年中国说). The word carries an optimistic charge: youth as potential.</div>
         <div class="examples">
           <div class="example"><div class="ex-cn">少年时代的经历影响了他一生。</div><div class="ex-py">Shàonián shídài de jīnglì yǐngxiǎngle tā yīshēng.</div><div class="ex-en">The experiences of his youth influenced him for his whole life.</div></div>
         </div>
@@ -111,7 +111,7 @@ content_review: 'pending'
       <div class="card c-violet">
         <div class="card-head"><span class="card-cn">至少</span><span class="card-py">zhìshǎo</span><span class="card-en">at least</span></div>
         <div class="tags"><span class="tag tag-adv">Adv 副词</span></div>
-        <div class="card-def">至 zhì (to reach; at the extreme of) + 少 (few, little). At the minimum — "reaching the least amount." 至少要三天 (it'll take at least three days); 至少有一百人 (at least a hundred people). The counterpart is 至多 zhìduō (at most). 至少 sets a floor; 至多 sets a ceiling.</div>
+        <div class="card-def">至 zhì (to reach; at the extreme of) + 少 (few, little). At the minimum: "reaching the least amount." 至少要三天 (it'll take at least three days); 至少有一百人 (at least a hundred people). The counterpart is 至多 zhìduō (at most). 至少 sets a floor; 至多 sets a ceiling.</div>
         <div class="examples">
           <div class="example"><div class="ex-cn">完成这个项目至少需要三个月。</div><div class="ex-py">Wánchéng zhège xiàngmù zhìshǎo xūyào sān gè yuè.</div><div class="ex-en">Completing this project will take at least three months.</div></div>
         </div>
@@ -153,7 +153,7 @@ content_review: 'pending'
 
     <div class="scholar" data-glyph="少">
       <div class="scholar-label">记忆法 jìyìfǎ · Master Retention Image</div>
-      <p>少 is 小 (small) with something taken away: already small, and now even smaller. The visual logic matches the meaning — a character that looks diminished from its neighbor 小 encodes the feeling of insufficiency. One grain removed from a small pile: that is few.</p>
+      <p>少 is 小 (small) with something taken away: already small, and now even smaller. The visual logic matches the meaning: a character that looks diminished from its neighbor 小 encodes the feeling of insufficiency. One grain removed from a small pile: that is few.</p>
       <p>The tonal split is one of the hardest things for learners: shǎo (tone 3, falling-rising) means "few"; shào (tone 4, falling) means "young." The mnemonic is age: you are tone 3 (unsettled, still rising and falling) when you are young and don't know which way you're going; you settle into the falling tone 4 when you've accepted your youth as a fixed state. Or just drill 少年 and 减少 until the two readings are automatic.</p>
     </div>
 

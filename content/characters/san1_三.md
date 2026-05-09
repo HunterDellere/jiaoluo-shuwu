@@ -335,7 +335,7 @@ content_review: 'pending'
         <span class="cy-cn">三顾茅庐</span>
         <span class="cy-py">sān gù máolú</span>
         <span class="cy-en">"three visits to the thatched cottage" — to seek out a person of talent with great persistence and sincerity</span>
-        <span class="cy-note">The most celebrated episode from Romance of the Three Kingdoms. Liu Bei, ruler of Shu, visits the hermit Zhuge Liang three times at his remote thatched cottage before Zhuge Liang agrees to leave seclusion and serve as his strategist. The first two visits find Zhuge Liang absent or resting; only on the third does Liu Bei wait outside in the cold until Zhuge Liang wakes. The act of triple persistence demonstrates that Liu Bei's need is genuine and his respect sincere. The idiom is now standard for any earnest, repeated effort to recruit someone talented , in business, academia, or government — where the first or second refusal is not taken as final.</span>
+        <span class="cy-note">The most celebrated episode from Romance of the Three Kingdoms. Liu Bei, ruler of Shu, visits the hermit Zhuge Liang three times at his remote thatched cottage before Zhuge Liang agrees to leave seclusion and serve as his strategist. The first two visits find Zhuge Liang absent or resting; only on the third does Liu Bei wait outside in the cold until Zhuge Liang wakes. The act of triple persistence demonstrates that Liu Bei's need is genuine and his respect sincere. The idiom is now standard for any earnest, repeated effort to recruit someone talented (in business, academia, or government) where the first or second refusal is not taken as final.</span>
       </div>
 
       <div class="cy">
@@ -366,7 +366,7 @@ content_review: 'pending'
     <div class="scholar" data-glyph="三">
       <div class="scholar-label">记忆法 jìyìfǎ · Master Retention Image</div>
       <p>Three horizontal strokes: the top is Heaven, the bottom is Earth, the middle is the Human suspended between them. That is the whole of 三's cosmological weight in a single glyph. When Laozi wrote 二生三，三生万物, he was saying that everything in existence flows from the moment that middle stroke appeared between the other two.</p>
-      <p>The character's tone is first — flat, unwavering, level — the tone of Heaven itself in some traditional associations. Stroke order goes top to bottom, which is also the cosmological order: Heaven first, then the Human, then Earth last as the foundation.</p>
+      <p>The character's tone is first: flat, unwavering, level, the tone of Heaven itself in some traditional associations. Stroke order goes top to bottom, which is also the cosmological order: Heaven first, then the Human, then Earth last as the foundation.</p>
       <p>The easiest memory anchor: every time you say 三思而后行, you are practicing the number's core function. Three is the number of sufficient deliberation. Not one thought (impulsive), not two (still incomplete), but three: the minimum for completion before action.</p>
     </div>
 

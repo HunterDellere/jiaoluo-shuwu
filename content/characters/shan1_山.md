@@ -221,7 +221,7 @@ content_sources:
         <span class="cy-cn">稳如泰山</span>
         <span class="cy-py">wěn rú Tài Shān</span>
         <span class="cy-en">as stable as Mount Tai — utterly immovable, rock solid</span>
-        <span class="cy-note">Mount Tai (泰山, Shandong) — the most sacred of the Five Peaks and site of imperial Heaven-sacrifice. Used to praise a person's composure, a government's stability, or a company's financial health.</span>
+        <span class="cy-note">Mount Tai (泰山, Shandong), the most sacred of the Five Peaks and site of imperial Heaven-sacrifice. Used to praise a person's composure, a government's stability, or a company's financial health.</span>
       </div>
 
       <div class="cy">
@@ -235,7 +235,7 @@ content_sources:
         <span class="cy-cn">山重水复</span>
         <span class="cy-py">shān chóng shuǐ fù</span>
         <span class="cy-en">mountains piled on mountains, waters winding through waters — a seemingly hopeless impasse</span>
-        <span class="cy-note">From a poem by Lu You 陆游. Full line: 山重水复疑无路，柳暗花明又一村 — "Mountain on mountain, water on water — seemingly no path; then through dark willows and bright flowers, a village appears." The proverb for finding hope when all seems lost.</span>
+        <span class="cy-note">From a poem by Lu You 陆游. Full line: 山重水复疑无路，柳暗花明又一村, "Mountain on mountain, water on water, seemingly no path; then through dark willows and bright flowers, a village appears." The proverb for finding hope when all seems lost.</span>
       </div>
 
       <div class="cy">
