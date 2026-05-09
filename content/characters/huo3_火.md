@@ -307,7 +307,7 @@ content_sources:
           <div class="example">
             <div class="ex-cn">他不太喜欢人间烟火，更爱清静。</div>
             <div class="ex-py">Tā bù tài xǐhuān rénjiān yānhuǒ, gèng ài qīngjìng.</div>
-            <div class="ex-en">He's not much for the bustle of everyday life — he prefers quiet.</div>
+            <div class="ex-en">He's not much for the bustle of everyday life; he prefers quiet.</div>
           </div>
         </div>
       </div>
@@ -335,7 +335,7 @@ content_sources:
         <span class="cy-cn">急如星火</span>
         <span class="cy-py">jí rú xīng huǒ</span>
         <span class="cy-en">urgent as a shooting star — desperately urgent</span>
-        <span class="cy-note">Lit: urgent-like-shooting-star-fire. A shooting star (流星) appears briefly and is gone — something that needs to be acted on instantly before the moment passes. Used in military dispatches and urgent appeals.</span>
+        <span class="cy-note">Lit: urgent-like-shooting-star-fire. A shooting star (流星) appears briefly and is gone: something that needs to be acted on instantly before the moment passes. Used in military dispatches and urgent appeals.</span>
       </div>
 
       <div class="cy">
@@ -376,7 +376,7 @@ content_sources:
 
     <div class="scholar" data-glyph="火" style="margin-top:2.5rem;">
       <div class="scholar-label">记忆法 jìyìfǎ · Master Retention Image</div>
-      <p>Four strokes that look like a flame — because they are. The two outer strokes curl like fire tongues; the center rises like the main column of heat. Once you see it as a flame, you will see it in every character it enters: the cooking characters (煮, 烤, 熟), the heat words (热, 炎), the light words (灯, 炬).</p>
+      <p>Four strokes that look like a flame, because they are. The two outer strokes curl like fire tongues; the center rises like the main column of heat. Once you see it as a flame, you will see it in every character it enters: the cooking characters (煮, 烤, 熟), the heat words (热, 炎), the light words (灯, 炬).</p>
     </div>
 
     <footer class="page-footer">

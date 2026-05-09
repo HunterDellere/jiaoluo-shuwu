@@ -419,14 +419,14 @@ content_sources:
         <span class="cy-cn">一步跨过</span>
         <span class="cy-py">yī bù kuà guò</span>
         <span class="cy-en">"to cross over in a single step" — to clear an obstacle in one move</span>
-        <span class="cy-note">Not a classical 成语 but a fixed conversational formula. Often used in development and policy rhetoric: 一步跨过工业化 "to leap past industrialization in a single step." Carries a faint flavor of skipping stages — sometimes admiring (decisive progress), sometimes ironic (rushing through what should have been gradual).</span>
+        <span class="cy-note">Not a classical 成语 but a fixed conversational formula. Often used in development and policy rhetoric: 一步跨过工业化 "to leap past industrialization in a single step." Carries a faint flavor of skipping stages: sometimes admiring (decisive progress), sometimes ironic (rushing through what should have been gradual).</span>
       </div>
 
       <div class="cy">
         <span class="cy-cn">跨马提刀</span>
         <span class="cy-py">kuà mǎ tí dāo</span>
         <span class="cy-en">"to mount one's horse and lift one's blade" — to ride out armed and ready</span>
-        <span class="cy-note">A four-character battle-formula common in classical novels and modern wuxia. The image is a general or knight-errant hoisting himself astride his horse with weapon drawn — the moment of departure for combat. Used figuratively today for any decisive going-into-action: 跨马提刀奔赴前线 "to ride forth fully armed to the front lines."</span>
+        <span class="cy-note">A four-character battle-formula common in classical novels and modern wuxia. The image is a general or knight-errant hoisting himself astride his horse with weapon drawn: the moment of departure for combat. Used figuratively today for any decisive going-into-action: 跨马提刀奔赴前线 "to ride forth fully armed to the front lines."</span>
       </div>
 
       <div class="cy">
@@ -440,7 +440,7 @@ content_sources:
         <span class="cy-cn">跨海越洋</span>
         <span class="cy-py">kuà hǎi yuè yáng</span>
         <span class="cy-en">"to span seas and cross oceans" — to travel vast distances</span>
-        <span class="cy-note">A modern four-character compound that pairs 跨 and 越 in parallel slots — exactly the kind of construction Chinese loves. Used for international trade, transcontinental travel, or any long voyage. Not classical, but stylistically formal enough to appear in policy speeches and ceremonial writing.</span>
+        <span class="cy-note">A modern four-character compound that pairs 跨 and 越 in parallel slots: exactly the kind of construction Chinese loves. Used for international trade, transcontinental travel, or any long voyage. Not classical, but stylistically formal enough to appear in policy speeches and ceremonial writing.</span>
       </div>
 
     </div>
