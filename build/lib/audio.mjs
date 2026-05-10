@@ -185,6 +185,16 @@ export function harvestInlineClips(contentDir) {
         if (/[\/…]/.test(cn) || /[\/…]/.test(py)) continue;
         pushClip(cn, py, 'section');
       }
+
+      // Sutra passages: passage-cn + passage-py adjacency (sutra pages only).
+      // Long passages are allowed; Azure handles them without chunking.
+      const pgRe = /<span class="passage-cn">([\s\S]*?)<\/span>\s*<span class="passage-py">([\s\S]*?)<\/span>/g;
+      for (const m of body.matchAll(pgRe)) {
+        const cn = stripTags(m[1]);
+        const py = stripTags(m[2]);
+        if (!cn || !py) continue;
+        pushClip(cn, py, 'passage');
+      }
     }
   }
 

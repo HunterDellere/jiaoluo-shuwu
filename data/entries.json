@@ -19,6 +19,42 @@
     "updated": "2026-05-10"
   },
   {
+    "path": "pages/religion/topic_fojing.html",
+    "type": "topic",
+    "category": "religion",
+    "title": "佛经 · Buddhist Scriptures",
+    "desc": "The core Mahāyāna sutras the site presents in full: the Chan canon (心经, 金刚经, 坛经) and the Pure Land canon (阿弥陀经, 无量寿经, 观无量寿经). Each linked here gets its own page with full text, line-by-line audio, pinyin gloss, English translation, and commentary.",
+    "tags": [
+      "buddhism",
+      "classics",
+      "religion",
+      "philosophy",
+      "chan",
+      "pure-land"
+    ],
+    "status": "complete",
+    "pinyin": "fójīng",
+    "updated": "2026-05-10"
+  },
+  {
+    "path": "pages/religion/topic_xinjing.html",
+    "type": "topic",
+    "category": "religion",
+    "title": "心经 · The Heart Sutra",
+    "desc": "The Heart Sutra: 260 characters that condense the entire Prajñāpāramitā teaching of emptiness. Translated by Xuanzang in 649 CE; chanted daily across China, Japan, Korea, and Vietnam ever since. The full text, line by line, with audio, gloss, and commentary.",
+    "tags": [
+      "buddhism",
+      "classics",
+      "religion",
+      "philosophy",
+      "meditation",
+      "chan"
+    ],
+    "status": "complete",
+    "pinyin": "Xīnjīng",
+    "updated": "2026-05-10"
+  },
+  {
     "path": "pages/vocab/bixu_必须.html",
     "type": "vocab",
     "category": "vocab",

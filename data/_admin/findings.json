@@ -1,9 +1,9 @@
 {
-  "generated": "2026-05-10T13:45:48.363Z",
+  "generated": "2026-05-10T14:18:11.858Z",
   "summary": {
     "errors": 0,
     "warnings": 18,
-    "info": 379
+    "info": 381
   },
   "findings": [
     {
@@ -115,7 +115,7 @@
       "level": "WARN",
       "category": "factual",
       "file": "data/_reference/hanzi-facts.json",
-      "msg": "182 hanzi appear in content/ but have no reference entry: 桐梓谭鑫隋韻仝谿珪侄褚説辕弋変喫凵萃嘈剣罒吟聆彝诲亘翩冋丷闩魑魍魉幺楽謂趾绊辵萑…. Claims about these characters cannot be mechanically verified. Run 'npm run refresh:reference' after updating upstream data."
+      "msg": "184 hanzi appear in content/ but have no reference entry: 桐梓谭鑫隋韻仝谿珪侄褚説辕弋変喫凵萃嘈剣罒吟聆彝诲亘翩冋丷闩魑魍魉幺楽謂趾绊辵萑…. Claims about these characters cannot be mechanically verified. Run 'npm run refresh:reference' after updating upstream data."
     },
     {
       "level": "INFO",
@@ -2143,6 +2143,13 @@
     {
       "level": "INFO",
       "category": "formatting",
+      "file": "content/religion/topic_fojing.md",
+      "msg": "2 vocab cards contain Chinese text but no pinyin span (.card-py)",
+      "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "INFO",
+      "category": "formatting",
       "file": "content/religion/topic_guanyin.md",
       "msg": "7 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
@@ -2180,6 +2187,13 @@
       "category": "formatting",
       "file": "content/religion/topic_saman.md",
       "msg": "11 vocab cards contain Chinese text but no pinyin span (.card-py)",
+      "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "INFO",
+      "category": "formatting",
+      "file": "content/religion/topic_xinjing.md",
+      "msg": "1 vocab card contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
