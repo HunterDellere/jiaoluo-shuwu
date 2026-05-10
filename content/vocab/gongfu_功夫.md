@@ -599,7 +599,7 @@ content_sources:
     <div class="scholar" data-glyph="功">
       <div class="scholar-label">记忆法 jìyìfǎ · Master Retention Image</div>
       <p>A carpenter's square doing work, plus a laboring man. That is 功夫: sustained human effort applied over time. The martial arts meaning is the most famous export , the one that crossed into English and became "kung fu" , but the root meaning is the more profound one. In Chinese thought, there is no shortcut, no talent that substitutes for the hours.</p>
-      <p>The calligrapher's stroke, the diplomat's pause, the chef's cut — all are 功夫, all cost time, all reveal the person behind them. When someone says <strong>你很有功夫</strong> — "you have real 功夫" — they are saying: I can see the years you've put in. That is the highest compliment the word can carry.</p>
+      <p>The calligrapher's stroke, the diplomat's pause, the chef's cut: all are 功夫, all cost time, all reveal the person behind them. When someone says <strong>你很有功夫</strong> ("you have real 功夫"), they are saying: I can see the years you've put in. That is the highest compliment the word can carry.</p>
     </div>
 
     

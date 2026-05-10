@@ -289,8 +289,8 @@ content_sources:
 
     <div class="scholar" data-glyph="产" style="margin-top:2.5rem;">
       <div class="scholar-label">记忆法 jìyìfǎ · Retention</div>
-      <p>产 gives birth; 品 grades what is born. Every 产品 has been produced (产) and evaluated (品) — that dual movement of making and assessing is encoded in the compound itself. A product with no 品 is just raw output; a 品 with no 产 is a judgment with nothing to judge.</p>
-      <p>The modern tech usage — where 产品 names both the object and the professional role of managing it — extends this logic: the product manager (产品经理) is the person responsible for ensuring that what is 产ed also has the right 品.</p>
+      <p>产 gives birth; 品 grades what is born. Every 产品 has been produced (产) and evaluated (品); that dual movement of making and assessing is encoded in the compound itself. A product with no 品 is just raw output; a 品 with no 产 is a judgment with nothing to judge.</p>
+      <p>The modern tech usage, where 产品 names both the object and the professional role of managing it, extends this logic: the product manager (产品经理) is the person responsible for ensuring that what is 产ed also has the right 品.</p>
     </div>
 
     <footer class="page-footer">

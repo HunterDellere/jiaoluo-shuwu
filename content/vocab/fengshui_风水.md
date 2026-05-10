@@ -508,7 +508,7 @@ content_sources:
         <span class="cy-cn">风调雨顺</span>
         <span class="cy-py">fēng tiáo yǔ shùn</span>
         <span class="cy-en">wind in harmony, rain in order — favorable weather; everything in natural balance; a traditional blessing</span>
-        <span class="cy-note">An ancient blessing for good harvests and national prosperity — when wind and rain come in their proper seasons and proper amounts, crops grow, people eat, and the state is stable. The word for 风水 good order is built into this blessing. 祝国泰民安，风调雨顺。(May the nation be at peace and the people in ease, with wind and rain in harmony.) Appears in temple inscriptions, official proclamations, and New Year wishes.</span>
+        <span class="cy-note">An ancient blessing for good harvests and national prosperity: when wind and rain come in their proper seasons and proper amounts, crops grow, people eat, and the state is stable. The word for 风水 good order is built into this blessing. 祝国泰民安，风调雨顺。(May the nation be at peace and the people in ease, with wind and rain in harmony.) Appears in temple inscriptions, official proclamations, and New Year wishes.</span>
       </div>
 
     </div>
@@ -541,8 +541,8 @@ content_sources:
     <!-- RETENTION SCHOLAR BOX -->
     <div class="scholar" data-glyph="风">
       <div class="scholar-label">记忆法 jìyìfǎ · Master Retention Image</div>
-      <p>Wind scatters 气; water stops it. In four characters, an entire environmental science. 风水 is not superstition — it is a sophisticated system for reading landscapes in terms of energy flow, developed by people who needed to site cities, tombs, and farms in a challenging geography and who had two thousand years to refine their observations.</p>
-      <p>The imperial tombs of the Ming and Qing dynasties are 风水 masterworks: backed by mountains, facing south, water in front, dragon veins running through the ridges behind them. The Forbidden City itself is aligned on principles developed over two millennia. When modern architects in Hong Kong consult 风水 masters before breaking ground, they are drawing on this same tradition — the accumulated knowledge that where you place yourself in the landscape affects how energy flows through your life.</p>
+      <p>Wind scatters 气; water stops it. In four characters, an entire environmental science. 风水 is not superstition; it is a sophisticated system for reading landscapes in terms of energy flow, developed by people who needed to site cities, tombs, and farms in a challenging geography and who had two thousand years to refine their observations.</p>
+      <p>The imperial tombs of the Ming and Qing dynasties are 风水 masterworks: backed by mountains, facing south, water in front, dragon veins running through the ridges behind them. The Forbidden City itself is aligned on principles developed over two millennia. When modern architects in Hong Kong consult 风水 masters before breaking ground, they are drawing on this same tradition: the accumulated knowledge that where you place yourself in the landscape affects how energy flows through your life.</p>
     </div>
 
     

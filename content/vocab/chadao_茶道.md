@@ -185,7 +185,7 @@ content_sources:
       <div class="scholar-label">茶文化 chá wénhuà · Tea Culture</div>
       <p>The phrase <strong>茶禅一味</strong> chán chá yī wèi , "tea and Chan Buddhism share one taste" , captures the deepest layer of Chinese tea philosophy. Both practices cultivate <em>presence:</em> sitting, noticing, releasing thought, returning to sensation. The steam rising from a bowl; the warmth against the palm; the color as the leaves open , these are objects of contemplative attention, not merely pleasures.</p>
       <p>Lu Yu's <em>Chájīng</em> articulated four principles still cited today: <strong>精</strong> jīng (refinement , the best materials), <strong>行</strong> xíng (discipline , the correct practice), <strong>俭</strong> jiǎn (simplicity , no excess), <strong>德</strong> dé (virtue , the moral character cultivated through practice). Tea as a way of living.</p>
-      <p>The tea space 茶室 cháshì is designed to remove distraction and create what one Song dynasty essayist called 清静 qīngjìng — "clear stillness." This is why tea rooms are traditionally small, simply furnished, and oriented toward a garden view. The architecture creates the conditions for presence.</p>
+      <p>The tea space 茶室 cháshì is designed to remove distraction and create what one Song dynasty essayist called 清静 qīngjìng, "clear stillness." This is why tea rooms are traditionally small, simply furnished, and oriented toward a garden view. The architecture creates the conditions for presence.</p>
     </div>
 
     <span class="section-anchor" id="vocab"></span>
@@ -212,7 +212,7 @@ content_sources:
           <div class="example">
             <div class="ex-cn">你来了，我来泡茶。</div>
             <div class="ex-py">Nǐ lái le, wǒ lái pào chá.</div>
-            <div class="ex-en">You've arrived — let me brew some tea.</div>
+            <div class="ex-en">You've arrived, let me brew some tea.</div>
           </div>
         </div>
       </div>
@@ -225,7 +225,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          茶 chá + 艺 yì (art; skill — the same character as in 艺术 fine art). The performance and aesthetic dimension of tea preparation. 茶艺师 cháyìshī = tea master; a professional practitioner of the ceremony. 茶艺表演 = a tea ceremony performance.
+          茶 chá + 艺 yì (art; skill, the same character as in 艺术 fine art). The performance and aesthetic dimension of tea preparation. 茶艺师 cháyìshī = tea master; a professional practitioner of the ceremony. 茶艺表演 = a tea ceremony performance.
         </div>
         <div class="examples">
           <div class="example">
