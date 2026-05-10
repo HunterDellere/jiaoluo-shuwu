@@ -842,7 +842,7 @@ for (const { fm, body, slug, category, outDir, entry } of pending) {
 const expectedPaths = new Set(entries.map(e => e.path));
 let pruned = 0;
 const pagesRoot = join(ROOT, 'pages');
-const PRUNE_SKIP = new Set(['hsk', 'maps', '_admin', 'pinyin', 'today']);
+const PRUNE_SKIP = new Set(['hsk', 'maps', '_admin', 'pinyin', 'today', 'exports']);
 for (const cat of readdirSync(pagesRoot)) {
   if (PRUNE_SKIP.has(cat)) continue;
   const catDir = join(pagesRoot, cat);
@@ -939,6 +939,7 @@ const contentUrls = [
   { loc: SITE_URL + '/', lastmod: today, priority: '1.0', changefreq: 'weekly' },
   // Hand-authored evergreen pages — group with content for crawler ergonomics.
   { loc: SITE_URL + '/pages/today/', lastmod: today, priority: '0.7', changefreq: 'daily' },
+  { loc: SITE_URL + '/pages/exports/', lastmod: today, priority: '0.5', changefreq: 'weekly' },
   ...entries
     .filter(e => e.status === 'complete')
     .map(e => ({
@@ -1077,6 +1078,11 @@ try {
   const vf = spawnSync(process.execPath, [join(__dirname, 'validate-facts.mjs')], { stdio: 'inherit' });
   const admin = spawnSync(process.execPath, [join(__dirname, 'build-admin.mjs')], { stdio: 'inherit' });
   if (admin.status !== 0) console.warn('build-admin: exited non-zero (admin page may be stale)');
+  // Pleco/Anki flashcard exports — read entries.json so they pick up any
+  // pages added in this build. Soft-fail (warn) so a corrupt export
+  // doesn't break the deploy.
+  const exports = spawnSync(process.execPath, [join(__dirname, 'build-exports.mjs')], { stdio: 'inherit' });
+  if (exports.status !== 0) console.warn('build-exports: exited non-zero (exports may be stale)');
 } catch (e) {
   console.warn('admin pipeline failed:', e.message);
 }

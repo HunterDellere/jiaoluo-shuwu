@@ -13,6 +13,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://jiaoshoo.com/pages/exports/</loc>
+    <lastmod>2026-05-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://jiaoshoo.com/pages/characters/ming4_%E5%91%BD.html</loc>
     <lastmod>2026-05-09</lastmod>
     <changefreq>monthly</changefreq>

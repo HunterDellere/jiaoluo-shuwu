@@ -270,6 +270,7 @@ for (const slug of pageSlugs) {
   if (slug.startsWith('maps/')) continue;   // maps/ pages are hand-authored, not content-backed
   if (slug.startsWith('pinyin/')) continue; // pinyin/ pages are generated from entries, not content-backed
   if (slug.startsWith('today/')) continue;  // today/ is a hand-authored client-rendered daily-pick page
+  if (slug.startsWith('exports/')) continue; // exports/ lists generated pleco/anki download files; no content source
   if (!contentSlugs.has(slug)) {
     fail(join(pagesDir, slug + '.html'), `orphan page: no corresponding content/${slug}.md`);
   }
