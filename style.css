@@ -468,16 +468,26 @@ body {
   position: relative;
   box-shadow: 0 1px 0 0 rgba(20, 17, 10, 0.04);
 }
-.today-streak::before {
-  /* Decorative eyebrow tab */
-  content: '连';
-  position: absolute; top: -0.55rem; left: 0.85rem;
+/* Real-DOM eyebrow tab (replaces the old ::before) so the 连 stamp can
+   carry an inline pinyin gloss for accessibility. Positioned over the
+   chip's top border so it reads as a label, not a header. */
+.today-streak-tab {
+  position: absolute; top: -0.6rem; left: 0.85rem;
+  display: inline-flex; align-items: baseline; gap: 0.35rem;
+  background: var(--papyrus-2);
+  padding: 0 0.4rem;
   font-family: var(--font-cn);
   font-size: var(--fs-md);
   color: var(--ochre);
-  background: var(--papyrus-2);
-  padding: 0 0.35rem;
   letter-spacing: 0.04em;
+  line-height: 1;
+}
+.today-streak-tab-py {
+  font-family: var(--font-mono);
+  font-size: 0.62rem;
+  letter-spacing: 0.08em;
+  color: var(--ink-5);
+  text-transform: lowercase;
 }
 .today-streak::after {
   /* Decorative red corner-clip — almanac stamp feel */
@@ -491,7 +501,10 @@ body {
 }
 .today-streak-num {
   font-family: var(--font-cn-display, var(--font-cn));
-  font-size: var(--fs-display, 2.1rem);
+  /* Was var(--fs-display) (~2.1rem) — too dominant against the rest of
+     the chip, especially for short streaks (1, 2). 1.7rem keeps the
+     digit prominent without crowding the grid below or the hint. */
+  font-size: 1.7rem;
   font-weight: 700;
   color: var(--red);
   line-height: 0.95;
@@ -546,6 +559,46 @@ body {
   margin-top: 0.15rem;
 }
 .today-streak-meta:empty { display: none; }
+
+/* Today hero title block — stacks 今日阅读 (large CN), jīnrì yuèdú (mono),
+   then the English label. Keeps the page identifying itself in CN first,
+   matching the section heads. */
+.today-hero .topic-hero-title {
+  display: flex; flex-direction: column; gap: 0.15rem;
+  font-size: inherit;
+}
+.today-hero-title-cn {
+  font-family: var(--font-cn-display, var(--font-cn));
+  font-size: var(--fs-3xl);
+  font-weight: 700;
+  color: var(--ink);
+  letter-spacing: 0.03em;
+  line-height: 1;
+}
+.today-hero-title-py {
+  font-family: var(--font-mono);
+  font-size: var(--fs-md);
+  color: var(--ochre);
+  letter-spacing: 0.06em;
+}
+.today-hero-title-en {
+  font-size: var(--fs-base);
+  color: var(--ink-3);
+  font-weight: 400;
+  font-style: italic;
+  letter-spacing: 0;
+}
+
+/* Rotation aside pinyin: matches the .today-rotation-cn weight, sits
+   between CN and EN. */
+.today-rotation-py {
+  font-family: var(--font-mono);
+  font-size: 0.66rem;
+  color: var(--ochre);
+  letter-spacing: 0.08em;
+  text-transform: lowercase;
+  margin: 0 0.35rem 0 -0.25rem;
+}
 
 @media (max-width: 720px) {
   .today-hero {
@@ -1076,6 +1129,7 @@ body {
 .toc-list a.active { color: var(--red); border-left-color: var(--red); background: var(--red-tint); font-weight: 600; }
 .toc-list a:focus-visible { outline: none; color: var(--red); border-left-color: var(--ochre); background: var(--red-tint); box-shadow: inset 0 0 0 1px rgba(160,100,40,0.3); }
 .toc-cn { font-family: var(--font-cn); font-weight: 600; color: var(--ink-2); margin-right: 0.3rem; }
+.toc-py { font-family: var(--font-mono); font-size: 0.7rem; color: var(--ochre); letter-spacing: 0.05em; margin-right: 0.3rem; text-transform: lowercase; }
 .toc-sub { font-family: var(--font-mono); font-size: var(--fs-xs); color: var(--ink-5); display: block; margin-top: 0.05rem; }
 .toc-hub-link { display: flex; flex-direction: column; gap: 0.05rem; }
 .toc-hub-cn { font-family: var(--font-cn); font-weight: 600; color: var(--ink-2); }

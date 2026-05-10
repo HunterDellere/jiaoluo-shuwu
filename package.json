@@ -18,9 +18,12 @@
     "verify": "npm run validate && npm run build && npm run check",
     "draft": "node build/draft.mjs",
     "new": "node build/new.mjs",
-    "watch": "node build/watch.mjs"
+    "watch": "node build/watch.mjs",
+    "test:e2e": "playwright test",
+    "test:e2e:visual": "playwright test today-visual today-mobile today-streak-states"
   },
   "devDependencies": {
+    "@playwright/test": "^1.59.1",
     "ajv": "^8.17.1",
     "chokidar": "^4.0.3",
     "d3-geo": "^3.1.1",
