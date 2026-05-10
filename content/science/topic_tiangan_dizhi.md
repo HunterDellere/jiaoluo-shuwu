@@ -186,7 +186,7 @@ content_review: 'pending'
 
       <p>Traditional Chinese medicine (TCM) uses the branch-based time system (时辰 shíchen) in a theoretical framework that associates each two-hour period with the peak qi circulation of a specific organ. Practitioners may ask patients about symptom timing using 时辰 language. Feng shui calculations for architecture and burial also use the full stem-branch designation of a date, drawing on the elemental qualities of both the stem and the branch to assess compatibility with a site's orientation.</p>
 
-      <p>The zodiac animal system (生肖 shēngxiào), now the most globally recognised element of the stem-branch tradition, is the branch sequence stripped of its stems. Chinese New Year merchandise, horoscope columns, and personality discussions operate on the twelve-year animal cycle alone, which is structurally incomplete — it identifies a branch but not a stem, and therefore cannot locate a year within the full sixty. The full 甲辰 designation is used when precision matters: in almanacs, TCM, formal ritual contexts, and the calligraphy on traditional New Year couplets (春联 chūnlián), where the year is always written with both its stem and its branch.</p>
+      <p>The zodiac animal system (生肖 shēngxiào), now the most globally recognised element of the stem-branch tradition, is the branch sequence stripped of its stems. Chinese New Year merchandise, horoscope columns, and personality discussions operate on the twelve-year animal cycle alone, which is structurally incomplete: it identifies a branch but not a stem, and therefore cannot locate a year within the full sixty. The full 甲辰 designation is used when precision matters: in almanacs, TCM, formal ritual contexts, and the calligraphy on traditional New Year couplets (春联 chūnlián), where the year is always written with both its stem and its branch.</p>
     </div>
 
     <!-- SECTION 6: Key vocabulary -->
@@ -204,7 +204,7 @@ content_review: 'pending'
           <span class="card-en">Heavenly Stems</span>
           <span class="tag-n">n.</span>
         </div>
-        <p>The ten-unit sequence: 甲乙丙丁戊己庚辛壬癸. 天 (sky/heaven) + 干 (trunk, stem). The "heavenly" designation reflects the cosmological pairing with 地支 — heaven above, earth below.</p>
+        <p>The ten-unit sequence: 甲乙丙丁戊己庚辛壬癸. 天 (sky/heaven) + 干 (trunk, stem). The "heavenly" designation reflects the cosmological pairing with 地支: heaven above, earth below.</p>
       </div>
 
       <div class="card c-teal">
@@ -254,7 +254,7 @@ content_review: 'pending'
           <span class="card-en">ten-day period</span>
           <span class="tag-n">n.</span>
         </div>
-        <p>The Shang calendar divided the month into three ten-day periods (上旬, 中旬, 下旬 — early, mid, and late). The ten Heavenly Stems may have originated as labels for the days of this ten-day week, which is why the sequence has exactly ten members. 旬 survives in modern Mandarin in expressions of time: 下旬 (the last ten days of a month), 年旬 (a decade of one's age in formal or literary usage).</p>
+        <p>The Shang calendar divided the month into three ten-day periods (上旬, 中旬, 下旬: early, mid, and late). The ten Heavenly Stems may have originated as labels for the days of this ten-day week, which is why the sequence has exactly ten members. 旬 survives in modern Mandarin in expressions of time: 下旬 (the last ten days of a month), 年旬 (a decade of one's age in formal or literary usage).</p>
       </div>
 
       <div class="card c-sienna">

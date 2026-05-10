@@ -121,11 +121,11 @@ pinyin: 'sīchóu'
         </div>
         <div class="card c-ochre">
           <div class="card-head"><span class="tag-n">n</span> 丝绸之路 sīchóu zhī lù</div>
-          <p>Silk Road — the trade route network. 之 is the classical possessive particle; 路 is road. The phrase has become a powerful geopolitical metaphor in contemporary Chinese statecraft.</p>
+          <p>Silk Road: the trade route network. 之 is the classical possessive particle; 路 is road. The phrase has become a powerful geopolitical metaphor in contemporary Chinese statecraft.</p>
         </div>
         <div class="card c-teal">
           <div class="card-head"><span class="tag-n">n</span> 绫罗绸缎 líng luó chóu duàn</div>
-          <p>The four major silk fabric types — gauze, thin silk, thick silk, satin — often used together as a set phrase meaning luxury silk goods in general. An elegant way to say "silk" in classical and literary contexts.</p>
+          <p>The four major silk fabric types (gauze, thin silk, thick silk, satin) often used together as a set phrase meaning luxury silk goods in general. An elegant way to say "silk" in classical and literary contexts.</p>
         </div>
       </div>
 
