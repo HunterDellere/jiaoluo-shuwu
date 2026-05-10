@@ -26,6 +26,8 @@ npm run validate:facts             # cross-check character-level claims against 
 npm run validate:cross-references  # cross-page consistency + canonical claims registry + romanization style
 npm run check                      # post-build invariants + link/anchor resolution + orphan detection + factual + cross-references
 npm run verify          # validate + build + check (run before pushing)
+npm run test:e2e        # Playwright smoke tests (Today page interactions, layout invariants)
+npm run test:e2e:visual # Playwright visual diagnostics — captures screenshots into test-results/
 ```
 
 Activate the pre-push hook once per clone (blocks pushes that would break the live site):

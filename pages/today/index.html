@@ -29,12 +29,12 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400&family=Noto+Serif+SC:wght@400;600;700&family=LXGW+WenKai+TC&family=JetBrains+Mono:wght@400;500&display=swap" onload="this.onload=null;this.rel='stylesheet'">
 <noscript><link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400&family=Noto+Serif+SC:wght@400;600;700&family=LXGW+WenKai+TC&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet"></noscript>
-<link rel="stylesheet" href="../../style.css?v=17">
+<link rel="stylesheet" href="../../style.css?v=18">
 <!-- style-home.css carries the .featured-card styling reused by today's
      thread section. Loaded here as a small additive layer rather than
      ported into style.css to keep one source of truth for the thread
      visual. -->
-<link rel="stylesheet" href="../../style-home.css?v=17">
+<link rel="stylesheet" href="../../style-home.css?v=18">
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"WebPage","name":"今日 Today — daily picks","description":"A daily thread plus one character, one word, one grammar point, one chengyu. Rotates at UTC midnight.","url":"https://jiaoshoo.com/pages/today/","inLanguage":"en","isPartOf":{"@type":"WebSite","name":"Jiǎoluò Shūwū · 角落書屋","url":"https://jiaoshoo.com/"}}</script>
 </head>
 <body>
@@ -68,7 +68,7 @@
     <div class="toc-divider"></div>
     <span class="toc-label">On this page</span>
     <ul class="toc-list">
-      <li><a href="#today-thread"><span class="toc-cn">线</span> Today's Thread</a></li>
+      <li><a href="#today-thread"><span class="toc-cn">线</span><span class="toc-py">xiàn</span> Today's Thread</a></li>
       <li><a href="#today-character"><span class="toc-cn">字</span> Character</a></li>
       <li><a href="#today-vocab"><span class="toc-cn">词</span> Word</a></li>
       <li><a href="#today-grammar"><span class="toc-cn">法</span> Grammar</a></li>
@@ -82,7 +82,11 @@
     <header class="topic-hero today-hero">
       <div class="today-hero-meta">
         <span class="topic-hero-eyebrow">今日 jīnrì · <span data-today-date-long>Today</span></span>
-        <h1 class="topic-hero-title">Today's reading</h1>
+        <h1 class="topic-hero-title">
+          <span class="today-hero-title-cn" lang="zh">今日阅读</span>
+          <span class="today-hero-title-py">jīnrì yuèdú</span>
+          <span class="today-hero-title-en">Today's reading</span>
+        </h1>
         <div class="today-date-stamp" data-today-cn-date aria-hidden="true">
           <span class="tds-year"></span>
           <span class="tds-md"></span>
@@ -92,6 +96,7 @@
         <p class="topic-hero-desc">A thread to follow, plus one character, one word, one grammar point, one chengyu. Picks rotate at UTC midnight.</p>
       </div>
       <div class="today-streak" data-today-streak>
+        <span class="today-streak-tab"><span lang="zh">连</span> <span class="today-streak-tab-py">lián</span></span>
         <span class="today-streak-num" data-streak-count>—</span>
         <span class="today-streak-label">day streak</span>
         <div class="today-streak-grid" data-streak-grid aria-label="Last 14 days of visits"></div>
@@ -158,7 +163,8 @@
     <aside class="today-rotation" aria-label="Picks rotation">
       <span class="today-rotation-line">
         <span class="today-rotation-cn" lang="zh">轮换</span>
-        <span class="today-rotation-en">Picks rotate in <span data-rotation-countdown>—</span></span>
+        <span class="today-rotation-py">lúnhuàn</span>
+        <span class="today-rotation-en">Picks rotate in <span data-rotation-countdown>…</span></span>
       </span>
       <span class="today-rotation-keys" aria-hidden="true">
         Press <kbd>1</kbd>–<kbd>4</kbd> to jump · <kbd>T</kbd> thread · <kbd>R</kbd> random
@@ -189,10 +195,10 @@
 
 </div>
 
-<script src="../../scripts/streak.js" defer></script>
+<script src="../../scripts/streak.js?v=2" defer></script>
 <script src="../../scripts/toc-scroll.js"></script>
 <script src="../../scripts/enhance.js" defer></script>
-<script src="today.js" defer></script>
+<script src="today.js?v=2" defer></script>
 
 </body>
 </html>
