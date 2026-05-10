@@ -244,19 +244,19 @@ faq:
       <div class="cy">
         <div class="cy-cn">水滴石穿</div>
         <div class="cy-py">shuǐ dī shí chuān</div>
-        <div class="cy-en">"water drops pierce stone" — patience overcomes any obstacle</div>
+        <div class="cy-en">"water drops pierce stone": patience overcomes any obstacle</div>
         <div class="cy-note">The Daoist intuition of chapter 78 in compressed form: nothing softer than water, yet given time it bores the hardest stone. Used to encourage steady effort.</div>
       </div>
       <div class="cy">
         <div class="cy-cn">水落石出</div>
         <div class="cy-py">shuǐ luò shí chū</div>
-        <div class="cy-en">"the water recedes and the stones appear" — the truth comes out</div>
+        <div class="cy-en">"the water recedes and the stones appear": the truth comes out</div>
         <div class="cy-note">A river-bed image. Whatever the high water concealed, it cannot conceal forever. From a Sū Shì poem; now used of any matter where time will reveal the facts.</div>
       </div>
       <div class="cy">
         <div class="cy-cn">水到渠成</div>
         <div class="cy-py">shuǐ dào qú chéng</div>
-        <div class="cy-en">"where the water arrives, the channel forms" — things come together when the time is right</div>
+        <div class="cy-en">"where the water arrives, the channel forms": things come together when the time is right</div>
         <div class="cy-note">A counterweight to forcing. If the conditions are in place, the result follows. A Confucian-Daoist hybrid: do the work, then let the channel form itself.</div>
       </div>
     </div>

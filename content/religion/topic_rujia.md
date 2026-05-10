@@ -444,14 +444,14 @@ pinyin: 'rújiā'
         <span class="cy-cn">己所不欲，勿施于人</span>
         <span class="cy-py">jǐ suǒ bù yù, wù shī yú rén</span>
         <span class="cy-en">do not impose on others what you yourself do not want — the Silver Rule</span>
-        <span class="cy-note">Analects 15.24. Confucius called this 恕 shù (reciprocity, forgiveness) — the negative formulation of the Golden Rule. One of the most famous sentences in Chinese. Appears in the UN Declaration of Human Rights as a cross-cultural parallel. 己 = oneself; 施 = to impose/apply; 于人 = onto others.</span>
+        <span class="cy-note">Analects 15.24. Confucius called this 恕 shù (reciprocity, forgiveness), the negative formulation of the Golden Rule. One of the most famous sentences in Chinese. Appears in the UN Declaration of Human Rights as a cross-cultural parallel. 己 = oneself; 施 = to impose/apply; 于人 = onto others.</span>
       </div>
 
       <div class="cy">
         <span class="cy-cn">学而时习之</span>
         <span class="cy-py">xué ér shí xí zhī</span>
         <span class="cy-en">to study and constantly practice what one has learned — the joy of learning</span>
-        <span class="cy-note">The opening phrase of the Analects (1.1). 时 shí means "at the right times" or "constantly/regularly" — Confucius is describing not cramming but sustained, rhythmic practice. 习 xí originally depicted a young bird practicing flight — iteration until mastery. The idiom frames learning as pleasurable, not burdensome.</span>
+        <span class="cy-note">The opening phrase of the Analects (1.1). 时 shí means "at the right times" or "constantly/regularly"; Confucius is describing not cramming but sustained, rhythmic practice. 习 xí originally depicted a young bird practicing flight: iteration until mastery. The idiom frames learning as pleasurable, not burdensome.</span>
       </div>
 
       <div class="cy">

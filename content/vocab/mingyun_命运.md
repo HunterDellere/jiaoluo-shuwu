@@ -198,7 +198,7 @@ content_sources:
     <div class="scholar" data-glyph="命">
       <div class="scholar-label">儒家与道家 Rújiā yǔ Dàojiā · Two Views on Fate</div>
       <p><strong>Confucian view:</strong> 命 is real but one's response to it defines character. Confucius accepted his circumstances without complaint while continuing to act rightly: 不知命，无以为君子 ("Without knowing fate, one cannot be a cultivated person," Analects 20.3). The noble person acts within fate with virtue rather than passively submitting to it. 知命 (knowing fate) is wisdom, not resignation.</p>
-      <p><strong>Daoist view:</strong> 命运 dissolves into the flow of 道 dào. Zhuangzi describes meeting death and misfortune with equanimity, neither clinging to outcomes nor resisting them. Fortune and misfortune alternate like day and night: 塞翁失马，焉知非福 (the old man on the frontier loses his horse — how does one know it isn't good fortune?). To be attached to either luck or fate is to miss the larger movement.</p>
+      <p><strong>Daoist view:</strong> 命运 dissolves into the flow of 道 dào. Zhuangzi describes meeting death and misfortune with equanimity, neither clinging to outcomes nor resisting them. Fortune and misfortune alternate like day and night: 塞翁失马，焉知非福 (the old man on the frontier loses his horse; how does one know it isn't good fortune?). To be attached to either luck or fate is to miss the larger movement.</p>
       <p>Modern Chinese culture holds both views in tension. The high value on hard work (努力 nǔlì, 奋斗 fèndòu) sits alongside a deep sense that outcomes are partially predetermined. 读书改变命运 ("education changes destiny") is one of the most quoted phrases in China, the conviction that effort can reshape fate.</p>
     </div>
 
@@ -224,14 +224,14 @@ content_sources:
         <span class="cy-cn">命中注定</span>
         <span class="cy-py">mìngzhōng zhùdìng</span>
         <span class="cy-en">written in one's fate — destined; predestined</span>
-        <span class="cy-note">Lit: in-one's-fate written-and-fixed. The classic phrase for fatalism — this was always going to happen. Extremely common in romantic narratives, films, and everyday speech when reflecting on life's significant turns.</span>
+        <span class="cy-note">Lit: in-one's-fate written-and-fixed. The classic phrase for fatalism: this was always going to happen. Extremely common in romantic narratives, films, and everyday speech when reflecting on life's significant turns.</span>
       </div>
 
       <div class="cy">
         <span class="cy-cn">时来运转</span>
         <span class="cy-py">shí lái yùn zhuǎn</span>
         <span class="cy-en">when the time comes, fortune turns — one's luck changes for the better</span>
-        <span class="cy-note">Lit: time-comes fortune-turns. Fortune is not fixed — it turns like a wheel. Used when someone's luck dramatically improves after a period of misfortune. The Daoist wheel of fortune encoded in a four-character phrase.</span>
+        <span class="cy-note">Lit: time-comes fortune-turns. Fortune is not fixed; it turns like a wheel. Used when someone's luck dramatically improves after a period of misfortune. The Daoist wheel of fortune encoded in a four-character phrase.</span>
       </div>
 
     </div>

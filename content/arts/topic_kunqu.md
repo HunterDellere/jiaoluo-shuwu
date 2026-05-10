@@ -185,15 +185,15 @@ pinyin: 'kūnqǔ'
       </div>
       <div class="card c-sienna">
         <div class="card-head"><span class="tag-n">n</span> 水袖 shuǐxiù</div>
-        <p>Water sleeves — the long white silk extensions attached to the costume sleeves of major 昆曲 characters. Manipulated with precise choreographed movements, they extend the expressive range of the arms and hands, allowing performers to convey emotion through gesture in ways that ordinary costume would not permit. Mastering water-sleeve technique takes years.</p>
+        <p>Water sleeves: the long white silk extensions attached to the costume sleeves of major 昆曲 characters. Manipulated with precise choreographed movements, they extend the expressive range of the arms and hands, allowing performers to convey emotion through gesture in ways that ordinary costume would not permit. Mastering water-sleeve technique takes years.</p>
       </div>
       <div class="card c-violet">
         <div class="card-head"><span class="tag-n">n</span> 情 qíng</div>
-        <p>Feeling, sentiment, passion — the philosophical concept at the center of Tang Xianzu's dramaturgy. He argued that 情 is the fundamental principle of human life, superior to reason and social convention, and that its power can transcend even the boundary between life and death. The entire Peony Pavilion is an argument for the absolute value of 情.</p>
+        <p>Feeling, sentiment, passion: the philosophical concept at the center of Tang Xianzu's dramaturgy. He argued that 情 is the fundamental principle of human life, superior to reason and social convention, and that its power can transcend even the boundary between life and death. The entire Peony Pavilion is an argument for the absolute value of 情.</p>
       </div>
       <div class="card c-red">
         <div class="card-head"><span class="tag-n">n</span> 折子戏 zhézi xì</div>
-        <p>Individual scenes — excerpts from longer 昆曲 dramas performed as self-contained pieces. As the full-length drama tradition declined, individual scenes that are particularly beautiful or dramatically concentrated became the standard performance unit. Most modern 昆曲 performances consist of 折子戏 rather than complete works.</p>
+        <p>Individual scenes: excerpts from longer 昆曲 dramas performed as self-contained pieces. As the full-length drama tradition declined, individual scenes that are particularly beautiful or dramatically concentrated became the standard performance unit. Most modern 昆曲 performances consist of 折子戏 rather than complete works.</p>
       </div>
     </div>
 

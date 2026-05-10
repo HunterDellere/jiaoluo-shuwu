@@ -194,7 +194,7 @@ pinyin: 'gāng'
       <strong>刚</strong> gāng , just happened (value-neutral recency): 我刚吃 "I just ate"<br>
       <strong>才</strong> cái , only just/barely; often implies later than expected or surprisingly small amount: 他才来 "he only just now came / he finally came" (implies long-awaited or surprisingly late)<br>
       <strong>已经</strong> yǐjīng , already (completion relative to a reference point, often sooner than expected): 他已经来了 "he has already come" (earlier than expected, or establishing prior completion)<br>
-      <strong>刚才</strong> gāngcái — a moment ago (past time reference): refers to a recent but completed moment
+      <strong>刚才</strong> gāngcái · a moment ago (past time reference): refers to a recent but completed moment
     </div>
 
     <span class="section-anchor" id="examples"></span>
@@ -221,7 +221,7 @@ pinyin: 'gāng'
           <div class="example">
             <div class="ex-cn">我刚从上海回来，还没休息。</div>
             <div class="ex-py">Wǒ gāng cóng Shànghǎi huí lái, hái méi xiūxi.</div>
-            <div class="ex-en">I just got back from Shanghai — haven't rested yet.</div>
+            <div class="ex-en">I just got back from Shanghai and haven't rested yet.</div>
           </div>
           <div class="example">
             <div class="ex-cn">手机刚充完电，又没电了。</div>
@@ -236,7 +236,7 @@ pinyin: 'gāng'
           <div class="example">
             <div class="ex-cn">这件事我刚知道，不知道你知不知道。</div>
             <div class="ex-py">Zhè jiàn shì wǒ gāng zhīdào, bù zhīdào nǐ zhī bu zhīdào.</div>
-            <div class="ex-en">I just found out about this — not sure if you know.</div>
+            <div class="ex-en">I just found out about this; not sure if you know.</div>
           </div>
         </div>
       </div>

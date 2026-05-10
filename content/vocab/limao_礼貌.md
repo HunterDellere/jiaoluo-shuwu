@@ -275,7 +275,7 @@ content_sources:
         <span class="cy-cn">先礼后兵</span>
         <span class="cy-py">xiān lǐ hòu bīng</span>
         <span class="cy-en">"first courtesy, then arms" — try diplomacy before resorting to force</span>
-        <span class="cy-note">From the <em>Romance of the Three Kingdoms</em> (三国演义). The classical strategic principle: open with 礼 (courteous communication), and only if that fails escalate to 兵 (military force or coercive action). Used today in business negotiation, legal disputes, and any situation where a courteous approach is offered first as a deliberate strategy — not from weakness, but to establish the moral high ground before harder measures.</span>
+        <span class="cy-note">From the <em>Romance of the Three Kingdoms</em> (三国演义). The classical strategic principle: open with 礼 (courteous communication), and only if that fails escalate to 兵 (military force or coercive action). Used today in business negotiation, legal disputes, and any situation where a courteous approach is offered first as a deliberate strategy, not from weakness but to establish the moral high ground before harder measures.</span>
       </div>
 
     </div>
@@ -310,8 +310,8 @@ content_sources:
     <!-- RETENTION SCHOLAR BOX -->
     <div class="scholar" data-glyph="貌">
       <div class="scholar-label">记忆法 jìyìfǎ · Retention Image</div>
-      <p>The compound's structure is the key to remembering it. 礼 is the heavy classical word — the entire Confucian ritual system, two and a half millennia of court ceremony and ancestral rites. 貌 is the face one shows. Stack them together and you get something exact: <em>the appearance, the visible bearing, of ritual propriety</em>.</p>
-      <p>This is why Chinese parents do not ask children to "be polite" in the abstract — they ask them to <em>show</em> 礼貌. The countenance is the unit. The greeting on entering, the standing when an elder enters the room, the small gesture of offering a seat: these are not optional decorations on top of a more important inward attitude. They are the place where 礼 lives in ordinary life. Without the visible form, the system is missing its skin.</p>
+      <p>The compound's structure is the key to remembering it. 礼 is the heavy classical word: the entire Confucian ritual system, two and a half millennia of court ceremony and ancestral rites. 貌 is the face one shows. Stack them together and you get something exact: <em>the appearance, the visible bearing, of ritual propriety</em>.</p>
+      <p>This is why Chinese parents do not ask children to "be polite" in the abstract; they ask them to <em>show</em> 礼貌. The countenance is the unit. The greeting on entering, the standing when an elder enters the room, the small gesture of offering a seat: these are not optional decorations on top of a more important inward attitude. They are the place where 礼 lives in ordinary life. Without the visible form, the system is missing its skin.</p>
     </div>
 
     <footer class="page-footer">

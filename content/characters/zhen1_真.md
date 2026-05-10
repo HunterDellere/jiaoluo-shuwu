@@ -487,7 +487,7 @@ content_sources:
         <span class="cy-cn">弄假成真</span>
         <span class="cy-py">nòng jiǎ chéng zhēn</span>
         <span class="cy-en">a pretense becomes real — what was performed turns out to be true</span>
-        <span class="cy-note">Lit: do-fake-become-real. For situations where pretending leads to the actual outcome — fake engagement turns into a real one, a play-acted role becomes the person's real life.</span>
+        <span class="cy-note">Lit: do-fake-become-real. For situations where pretending leads to the actual outcome: fake engagement turns into a real one, a play-acted role becomes the person's real life.</span>
       </div>
 
       <div class="cy">
@@ -535,8 +535,8 @@ content_sources:
     <!-- RETENTION IMAGE -->
     <div class="scholar" data-glyph="真" style="margin-top:2.5rem;">
       <div class="scholar-label">记忆法 jìyìfǎ · Master Retention Image</div>
-      <p>Picture 真 as a <strong>plumb line</strong>: a weighted string hanging straight from a point, indifferent to the room's tilt, the wall's bow, the eye's flattery. The radical 目 (eye) at the heart of the character is the eye that sees this line — the perception that registers when something is plumb to its own nature and when it has been bent. Daoist 真人, sincere 真心, earnest 认真, and the everyday spoken 真好! all point at this same plumb line: <em>not bent</em>, presented as it is.</p>
-      <p>In Japanese: 写真 <em>shashin</em>, the photograph — literally "depicting the 真." The same idea, narrowed to the lens.</p>
+      <p>Picture 真 as a <strong>plumb line</strong>: a weighted string hanging straight from a point, indifferent to the room's tilt, the wall's bow, the eye's flattery. The radical 目 (eye) at the heart of the character is the eye that sees this line: the perception that registers when something is plumb to its own nature and when it has been bent. Daoist 真人, sincere 真心, earnest 认真, and the everyday spoken 真好! all point at this same plumb line: <em>not bent</em>, presented as it is.</p>
+      <p>In Japanese: 写真 <em>shashin</em>, the photograph, literally "depicting the 真." The same idea, narrowed to the lens.</p>
     </div>
 
 

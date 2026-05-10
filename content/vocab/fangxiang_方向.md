@@ -234,7 +234,7 @@ content_sources:
     <div class="scholar" data-glyph="向">
       <div class="scholar-label">语义扩展 yǔyì kuòzhǎn · Semantic Extension</div>
       <p>The figurative use of 方向 is so common that it nearly outweighs the literal one. In Chinese, almost any structured undertaking can have a 方向, and the absence of one is a recognizable kind of trouble:</p>
-      <p>— <strong>人生方向</strong> rénshēng fāngxiàng , the direction of one's life. A standard topic in self-help writing, graduation speeches, and tearful conversations between parents and 18-year-olds.<br>
+      <p><strong>人生方向</strong> rénshēng fāngxiàng , the direction of one's life. A standard topic in self-help writing, graduation speeches, and tearful conversations between parents and 18-year-olds.<br>
       , <strong>研究方向</strong> yánjiū fāngxiàng , research direction. The standard term in Chinese academia for one's specialty or thesis topic; on a CV, every PhD lists their 研究方向.<br>
       , <strong>发展方向</strong> fāzhǎn fāngxiàng , direction of development. A staple phrase in policy and business writing , "the direction in which the industry/country/company is heading."<br>
       , <strong>政治方向</strong> zhèngzhì fāngxiàng , political direction. A key term in Chinese Communist Party discourse: keeping the correct 政治方向 is one of the most-repeated obligations of cadres.<br>

@@ -106,15 +106,15 @@ content_sources:
         </div>
         <div class="card c-ochre">
           <div class="card-head">速 sù · speed, fast</div>
-          <p>Speed, fast. Also "quickly." 速度 (sùdù, speed), 快速 (kuàisù, rapid), 速成 (sùchéng, crash course — "fast-completion"). The irony: 速成 is exactly what 欲速则不达 warns against.</p>
+          <p>Speed, fast. Also "quickly." 速度 (sùdù, speed), 快速 (kuàisù, rapid), 速成 (sùchéng, crash course, "fast-completion"). The irony: 速成 is exactly what 欲速则不达 warns against.</p>
         </div>
         <div class="card c-teal">
           <div class="card-head">则 zé · then, therefore</div>
-          <p>Classical conditional particle — "if X, then Y." Still used in formal written Chinese. In modern speech, 就 (jiù) covers much of the same ground, but 则 remains in formal writing, legal texts, and idioms.</p>
+          <p>Classical conditional particle: "if X, then Y." Still used in formal written Chinese. In modern speech, 就 (jiù) covers much of the same ground, but 则 remains in formal writing, legal texts, and idioms.</p>
         </div>
         <div class="card c-teal">
           <div class="card-head">不达 bù dá · not arrive, not achieve</div>
-          <p>达 means to arrive at, to achieve, to reach. 不达 is failure to arrive. The same character appears in 达到目的 (dádào mùdì, to achieve the goal), 表达 (biǎodá, to express), 达人 (dárén, expert, accomplished person — a social media term for influencer).</p>
+          <p>达 means to arrive at, to achieve, to reach. 不达 is failure to arrive. The same character appears in 达到目的 (dádào mùdì, to achieve the goal), 表达 (biǎodá, to express), 达人 (dárén, expert, accomplished person, a social media term for influencer).</p>
         </div>
       </div>
 

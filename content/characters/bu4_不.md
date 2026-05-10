@@ -192,7 +192,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-adj">Expr 表达 biǎodá</span></div>
         <div class="card-def">
-          Lit: not-good-meaning/face. The phrase used when imposing on someone, asking a favor, or causing mild embarrassment. One of the most important social lubricants in Mandarin. Not a strong apology — more like "I feel awkward about this" or "pardon the imposition."
+          Lit: not-good-meaning/face. The phrase used when imposing on someone, asking a favor, or causing mild embarrassment. One of the most important social lubricants in Mandarin. Not a strong apology, more like "I feel awkward about this" or "pardon the imposition."
         </div>
         <div class="examples">
           <div class="example">
@@ -216,7 +216,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-adj">Adj 形容词 xíngróngcí</span></div>
         <div class="card-def">
-          不 bù + 错 cuò (wrong; mistake). "Not wrong" = pretty good. A classic understatement — the Chinese preference for measured praise. 不错 is the standard compliment that doesn't oversell. 错 alone means "wrong/mistaken."
+          不 bù + 错 cuò (wrong; mistake). "Not wrong" = pretty good. A classic understatement, the Chinese preference for measured praise. 不错 is the standard compliment that doesn't oversell. 错 alone means "wrong/mistaken."
         </div>
         <div class="examples">
           <div class="example">
@@ -312,7 +312,7 @@ content_sources:
         <span class="cy-cn">不三不四</span>
         <span class="cy-py">bù sān bù sì</span>
         <span class="cy-en">neither one thing nor another — shady, dubious, not upright</span>
-        <span class="cy-note">Lit: not-three not-four. Three and four are "middle" numbers — something that is neither here nor there, neither proper nor improper. Used for shady people or behavior that doesn't conform to standards.</span>
+        <span class="cy-note">Lit: not-three not-four. Three and four are "middle" numbers: something that is neither here nor there, neither proper nor improper. Used for shady people or behavior that doesn't conform to standards.</span>
       </div>
 
       <div class="cy">

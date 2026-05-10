@@ -282,12 +282,12 @@ content_sources:
           <tr>
             <td class="td-cn">锐角</td>
             <td class="td-py">ruìjiǎo</td>
-            <td>acute angle (&lt;90°) — 锐 = sharp</td>
+            <td>acute angle (&lt;90°); 锐 = sharp</td>
           </tr>
           <tr>
             <td class="td-cn">钝角</td>
             <td class="td-py">dùnjiǎo</td>
-            <td>obtuse angle (&gt;90°) — 钝 = blunt</td>
+            <td>obtuse angle (&gt;90°); 钝 = blunt</td>
           </tr>
           <tr>
             <td class="td-cn">角度</td>
@@ -350,7 +350,7 @@ content_sources:
         <span class="cy-cn">勾心斗角</span>
         <span class="cy-py">gōu xīn dòu jiǎo</span>
         <span class="cy-en">to scheme and intrigue against each other — hooks, hearts, and clashing horns</span>
-        <span class="cy-note">Originally described the complex interlocking eaves of palace architecture — each bracket hooking into another, each corner clashing. Now means: workplace backstabbing, political maneuvering, scheming rivalry.</span>
+        <span class="cy-note">Originally described the complex interlocking eaves of palace architecture: each bracket hooking into another, each corner clashing. Now means: workplace backstabbing, political maneuvering, scheming rivalry.</span>
       </div>
 
       <div class="cy">

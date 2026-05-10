@@ -169,7 +169,7 @@ content_sources:
         <span class="cy-cn">正中下怀</span>
         <span class="cy-py">zhèng zhòng xià huái</span>
         <span class="cy-en">hitting exactly what I hoped for — exactly what I wanted</span>
-        <span class="cy-note">Lit: exactly-hit-one's-heart/intention. Note: 中 here is zhòng (tone 4 — to hit). The expression describes something that lands exactly where you hoped — a proposal, a result, a turn of events — as if it aimed directly at your wishes. 这个方案真是正中下怀 "This plan is exactly what I had in mind."</span>
+        <span class="cy-note">Lit: exactly-hit-one's-heart/intention. Note: 中 here is zhòng (tone 4, to hit). The expression describes something that lands exactly where you hoped (a proposal, a result, a turn of events) as if it aimed directly at your wishes. 这个方案真是正中下怀 "This plan is exactly what I had in mind."</span>
       </div>
 
     </div>

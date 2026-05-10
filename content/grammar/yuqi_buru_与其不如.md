@@ -96,7 +96,7 @@ pinyin: 'yǔqí bùrú'
       <strong>与其 [Option A]，不如 [Option B]</strong><br>
       "Rather than [A], it would be better to [B]"<br><br>
       <strong>与其 [A]，倒不如 [B]</strong> , colloquial reinforcement<br>
-      <strong>与其说 [A]，不如说 [B]</strong> — "rather than saying A, it would be more accurate to say B"
+      <strong>与其说 [A]，不如说 [B]</strong>: "rather than saying A, it would be more accurate to say B"
     </div>
 
     <div class="scholar" data-glyph="与">
@@ -125,7 +125,7 @@ pinyin: 'yǔqí bùrú'
         </div>
         <div class="tags"><span class="tag tag-v">Conj 连词 liáncí</span></div>
         <div class="card-def">
-          The simplest pattern — verb phrases on both sides. 与其 + action to reject, 不如 + action to recommend. The rhetorical punch: waiting is rejected as the inferior choice; action is endorsed.
+          The simplest pattern: verb phrases on both sides. 与其 + action to reject, 不如 + action to recommend. The rhetorical punch: waiting is rejected as the inferior choice; action is endorsed.
         </div>
         <div class="examples">
           <div class="example">
@@ -209,7 +209,7 @@ pinyin: 'yǔqí bùrú'
         </div>
         <div class="tags"><span class="tag tag-v">Conj 连词 liáncí</span></div>
         <div class="card-def">
-          宁愿 nìngyuàn (would willingly prefer; 愿 = willing) — very similar to 宁可 but slightly softer. Expresses a genuine desire/preference rather than just reluctant acceptance. Often interchangeable with 宁可 in modern usage.
+          宁愿 nìngyuàn (would willingly prefer; 愿 = willing): very similar to 宁可 but slightly softer. Expresses a genuine desire/preference rather than just reluctant acceptance. Often interchangeable with 宁可 in modern usage.
         </div>
         <div class="examples">
           <div class="example">

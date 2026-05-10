@@ -443,7 +443,7 @@ content_sources:
         <span class="cy-cn">无事不登三宝殿</span>
         <span class="cy-py">wú shì bù dēng sānbǎo diàn</span>
         <span class="cy-en">one doesn't visit the Three Jewels hall without a reason — never come empty-handed or without purpose</span>
-        <span class="cy-note">The 三宝殿 is the hall of the Three Jewels (Buddha, Dharma, Sangha) , you don't enter it for nothing. The proverb is used to say: if someone is coming to see you or asking something, they must want something. Often said by the person being visited: 你来找我，无事不登三宝殿，有什么需要帮忙的？"You've come to find me — one doesn't visit without reason. What do you need?"</span>
+        <span class="cy-note">The 三宝殿 is the hall of the Three Jewels (Buddha, Dharma, Sangha) , you don't enter it for nothing. The proverb is used to say: if someone is coming to see you or asking something, they must want something. Often said by the person being visited: 你来找我，无事不登三宝殿，有什么需要帮忙的？"You've come to find me; one doesn't visit without reason. What do you need?"</span>
       </div>
 
     </div>
@@ -475,7 +475,7 @@ content_sources:
     <div class="scholar" data-glyph="佛">
       <div class="scholar-label">记忆法 jìyìfǎ · Master Retention Image</div>
       <p>Picture a person (亻) standing apart from the crowd, and the word "not" (弗) written across their chest. That is 佛: a person who is not, not caught, not defined by the ordinary condition. The Sanskrit sound of awakening landed in a character that accidentally described what the Buddha was.</p>
-      <p>Xuánzàng brought 657 texts back from India, and the Tang emperor met him at the city gate. The monk had been gone seventeen years. The character on his lips — borrowed from a Central Asian sound no Chinese mouth could quite form — had by then already remade the language he returned to.</p>
+      <p>Xuánzàng brought 657 texts back from India, and the Tang emperor met him at the city gate. The monk had been gone seventeen years. The character on his lips, borrowed from a Central Asian sound no Chinese mouth could quite form, had by then already remade the language he returned to.</p>
     </div>
 
     

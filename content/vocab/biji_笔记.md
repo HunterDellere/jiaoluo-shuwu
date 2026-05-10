@@ -61,7 +61,7 @@ content_sources:
       <span class="topic-hero-eyebrow">Vocab · 词汇 cíhuì · Literacy &amp; Literature</span>
       <h1 class="topic-hero-title">笔记</h1>
       <span class="topic-hero-title-py">bǐjì</span>
-      <p class="topic-hero-desc">Notes and jottings — and one of classical Chinese literature's most beloved genres: the brush-records of scholars, their observations, anecdotes, and reflections.</p>
+      <p class="topic-hero-desc">Notes and jottings, and one of classical Chinese literature's most beloved genres: the brush-records of scholars, their observations, anecdotes, and reflections.</p>
     </header>
 
     <!-- ── ETYMOLOGY ── -->
@@ -115,7 +115,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          笔记 bǐjì + 本 běn (a bound volume; classifier for books). Originally: a bound notebook for handwritten jottings. Now also: laptop computer (笔记本电脑 bǐjìběn diànnǎo) — the device that replaced the paper notebook for many people, while keeping the name.
+          笔记 bǐjì + 本 běn (a bound volume; classifier for books). Originally: a bound notebook for handwritten jottings. Now also: laptop computer (笔记本电脑 bǐjìběn diànnǎo), the device that replaced the paper notebook for many people, while keeping the name.
         </div>
         <div class="examples">
           <div class="example">
@@ -139,7 +139,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-v">V 动词 dòngcí</span></div>
         <div class="card-def">
-          记 jì (to record) + 笔记 bǐjì (notes). The standard phrase for taking notes — in class, in a meeting, during a lecture. The verb-object construction: 上课要记笔记 (take notes in class).
+          记 jì (to record) + 笔记 bǐjì (notes). The standard phrase for taking notes: in class, in a meeting, during a lecture. The verb-object construction: 上课要记笔记 (take notes in class).
         </div>
         <div class="examples">
           <div class="example">

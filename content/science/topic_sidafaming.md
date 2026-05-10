@@ -57,7 +57,7 @@ pinyin: 'sì dà fāmíng'
       <span class="topic-hero-eyebrow">Science &amp; Medicine · 科技 kējì</span>
       <h1 class="topic-hero-title">四大发明</h1>
       <span class="topic-hero-title-py">sì dà fāmíng</span>
-      <p class="topic-hero-desc">Compass, gunpowder, paper, and printing — the Chinese technologies that remade the medieval world.</p>
+      <p class="topic-hero-desc">Compass, gunpowder, paper, and printing: the Chinese technologies that remade the medieval world.</p>
     </header>
 
     <span class="section-anchor" id="paper"></span>
@@ -94,7 +94,7 @@ pinyin: 'sì dà fāmíng'
       <h2 class="section-head">The Compass · 指南针 zhǐnánzhēn</h2>
       <div class="scholar" data-glyph="针">
         <div class="scholar-label">指南 zhǐnán · South-Pointing</div>
-        <p>The Chinese compass points south, not north — the <strong>指南针</strong> (zhǐnánzhēn) is literally a "south-pointing needle." This reflects the Chinese cosmological system in which south is the primary direction (the emperor faces south on his throne; palaces open south; south is associated with warmth, life, and yang energy). The needle points to the same magnetic pole either way; the difference is in which direction is named as primary.</p>
+        <p>The Chinese compass points south, not north: the <strong>指南针</strong> (zhǐnánzhēn) is literally a "south-pointing needle." This reflects the Chinese cosmological system in which south is the primary direction (the emperor faces south on his throne; palaces open south; south is associated with warmth, life, and yang energy). The needle points to the same magnetic pole either way; the difference is in which direction is named as primary.</p>
         <p>Magnetic properties of lodestone were documented in China by the fourth century BCE. The first compass-like device, a lodestone spoon on a bronze plate, appears in Han dynasty texts. By the eleventh century CE, magnetized needle compasses were in use for navigation. Song dynasty sailors used the compass to navigate the South China Sea and Indian Ocean trade routes; the Chinese maritime presence in Southeast Asia, South Asia, and East Africa predates European arrival by centuries and was partly enabled by this technology.</p>
         <p>The compass reached the Islamic world and then Europe by the twelfth to thirteenth centuries, enabling the Age of Exploration. The Portuguese arrival in Asia, the Spanish in the Americas, and ultimately European global dominance are downstream consequences of compass technology originally developed for Chinese geomantic (feng shui) purposes.</p>
       </div>

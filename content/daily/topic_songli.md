@@ -151,15 +151,15 @@ pinyin: 'sònglǐ'
       </div>
       <div class="card c-teal">
         <div class="card-head"><span class="tag-n">n</span> 手信 shǒuxìn</div>
-        <p>A small gift brought back from travel — a souvenir or local specialty given to family, friends, or colleagues on return from a trip. The term is particularly common in Cantonese-speaking areas and in Hong Kong. The expectation of bringing 手信 from any notable journey is near-universal.</p>
+        <p>A small gift brought back from travel: a souvenir or local specialty given to family, friends, or colleagues on return from a trip. The term is particularly common in Cantonese-speaking areas and in Hong Kong. The expectation of bringing 手信 from any notable journey is near-universal.</p>
       </div>
       <div class="card c-sienna">
         <div class="card-head"><span class="tag-n">n</span> 走后门 zǒu hòumén</div>
-        <p>Literally "going through the back door" — using gifts and personal relationships to obtain favors, preferential treatment, or access that would not be available through formal channels. The phrase acknowledges the reality of this practice without fully endorsing it. It sits in a grey zone between legitimate relationship maintenance and corruption.</p>
+        <p>Literally "going through the back door": using gifts and personal relationships to obtain favors, preferential treatment, or access that would not be available through formal channels. The phrase acknowledges the reality of this practice without fully endorsing it. It sits in a grey zone between legitimate relationship maintenance and corruption.</p>
       </div>
       <div class="card c-violet">
         <div class="card-head"><span class="tag-n">n</span> 伴手礼 bànshǒulǐ</div>
-        <p>A hand gift — a gift brought in hand when visiting someone, the material expression of having thought of the host. Turning up empty-handed (空手 kōngshǒu) to visit someone's home, especially a first visit, is considered poor form. The 伴手礼 need not be elaborate; the gesture matters more than the object.</p>
+        <p>A hand gift: a gift brought in hand when visiting someone, the material expression of having thought of the host. Turning up empty-handed (空手 kōngshǒu) to visit someone's home, especially a first visit, is considered poor form. The 伴手礼 need not be elaborate; the gesture matters more than the object.</p>
       </div>
     </div>
 

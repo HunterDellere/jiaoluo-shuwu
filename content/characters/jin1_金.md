@@ -157,7 +157,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          现 xiàn (present; to appear) + 金 jīn (gold; money). Cash in hand — as opposed to digital payments, credit, or promises. 付现金 "to pay in cash." In a society where 微信支付 and 支付宝 (WeChat Pay and Alipay) dominate, 现金 is increasingly rare.
+          现 xiàn (present; to appear) + 金 jīn (gold; money). Cash in hand, as opposed to digital payments, credit, or promises. 付现金 "to pay in cash." In a society where 微信支付 and 支付宝 (WeChat Pay and Alipay) dominate, 现金 is increasingly rare.
         </div>
         <div class="examples">
           <div class="example">
@@ -198,7 +198,7 @@ content_sources:
     </div>
 
     <div class="pattern">
-      <span class="label">金属词族 jīnshǔ cízú · Metals — All Use the 金 Radical</span>
+      <span class="label">金属词族 jīnshǔ cízú · Metals · All Use the 金 Radical</span>
       <strong>金</strong> jīn gold · <strong>银</strong> yín silver · <strong>铜</strong> tóng copper/bronze · <strong>铁</strong> tiě iron · <strong>钢</strong> gāng steel · <strong>铝</strong> lǚ aluminum · <strong>钱</strong> qián money (originally coins) · <strong>针</strong> zhēn needle · <strong>锁</strong> suǒ lock · <strong>镜</strong> jìng mirror
     </div>
 
@@ -223,7 +223,7 @@ content_sources:
         <span class="cy-cn">金无足赤，人无完人</span>
         <span class="cy-py">jīn wú zú chì, rén wú wán rén</span>
         <span class="cy-en">no gold is pure, no person is perfect</span>
-        <span class="cy-note">Pure 24-karat gold is too soft to be durable — impurity is what makes gold useful. The proverb uses this fact to excuse human flaws: perfection is neither achievable nor desirable. Used to express tolerance of others' shortcomings.</span>
+        <span class="cy-note">Pure 24-karat gold is too soft to be durable; impurity is what makes gold useful. The proverb uses this fact to excuse human flaws: perfection is neither achievable nor desirable. Used to express tolerance of others' shortcomings.</span>
       </div>
 
       <div class="cy">

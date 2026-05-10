@@ -173,15 +173,15 @@ pinyin: 'miànzi shíjiàn'
       </div>
       <div class="card c-teal">
         <div class="card-head"><span class="tag-v">v</span> 干杯 gānbēi</div>
-        <p>Cheers; toast (lit. "dry cup" — to drain the glass). The ritual of toasting at Chinese banquets is a face exchange: the proposer gives face by singling out the recipient; the recipient gives face back by drinking. 干杯 is typically a full drain in formal northern Chinese banquet culture; 随意 (suíyì, "as you like") is the more relaxed alternative offered to those who cannot drink deeply. Refusing 干杯 without an explanation creates a face problem; accepting it and drinking is a gift to the host.</p>
+        <p>Cheers; toast (lit. "dry cup," to drain the glass). The ritual of toasting at Chinese banquets is a face exchange: the proposer gives face by singling out the recipient; the recipient gives face back by drinking. 干杯 is typically a full drain in formal northern Chinese banquet culture; 随意 (suíyì, "as you like") is the more relaxed alternative offered to those who cannot drink deeply. Refusing 干杯 without an explanation creates a face problem; accepting it and drinking is a gift to the host.</p>
       </div>
       <div class="card c-sienna">
         <div class="card-head"><span class="tag-n">n</span> 主位 zhǔwèi</div>
-        <p>The seat of honor at a table — typically facing the door, with one's back to the kitchen or wall. Assigning the 主位 to the senior guest or the person being celebrated is a face-giving act. The ritual of insisting the guest take the seat, and the guest's ritual protest before accepting, is a face exchange both parties perform knowingly. At a round table, the most senior person's left side is second in prestige; seniority radiates outward from the 主位.</p>
+        <p>The seat of honor at a table: typically facing the door, with one's back to the kitchen or wall. Assigning the 主位 to the senior guest or the person being celebrated is a face-giving act. The ritual of insisting the guest take the seat, and the guest's ritual protest before accepting, is a face exchange both parties perform knowingly. At a round table, the most senior person's left side is second in prestige; seniority radiates outward from the 主位.</p>
       </div>
       <div class="card c-violet">
         <div class="card-head"><span class="tag-n">n</span> 面子工程 miànzi gōngchéng</div>
-        <p>Face engineering — infrastructure or projects built primarily for prestige rather than practical need. Empty airports in small cities, oversized government buildings, unnecessary highways: these are classic 面子工程. The term is mildly critical in Chinese public discourse, used to describe spending that prioritizes visible appearance over functional value. It extends the face logic from individual social behavior to institutional behavior.</p>
+        <p>Face engineering: infrastructure or projects built primarily for prestige rather than practical need. Empty airports in small cities, oversized government buildings, unnecessary highways: these are classic 面子工程. The term is mildly critical in Chinese public discourse, used to describe spending that prioritizes visible appearance over functional value. It extends the face logic from individual social behavior to institutional behavior.</p>
       </div>
     </div>
 

@@ -428,7 +428,7 @@ pinyin: 'sàmǎn jiào'
         <span class="cy-cn">通灵</span>
         <span class="cy-py">tōnglíng</span>
         <span class="cy-en">spirit communication — the shamanic gift</span>
-        <span class="cy-note">通 tōng (to connect, to pass through) + 灵 líng (spirit; efficacious; miraculous). The ability to communicate with spirits , the defining capacity of a shaman. In contemporary Chinese, 通灵 also appears in discussions of psychic ability, mediumship, and supernatural sensitivity more broadly. A person described as 通灵的 has a special connection to the spirit world. The word appears in both serious ethnographic literature on shamanism and in commercial "psychic reading" advertisements — a range that reflects its cultural migration from indigenous ritual context to popular spiritual marketplace.</span>
+        <span class="cy-note">通 tōng (to connect, to pass through) + 灵 líng (spirit; efficacious; miraculous). The ability to communicate with spirits , the defining capacity of a shaman. In contemporary Chinese, 通灵 also appears in discussions of psychic ability, mediumship, and supernatural sensitivity more broadly. A person described as 通灵的 has a special connection to the spirit world. The word appears in both serious ethnographic literature on shamanism and in commercial "psychic reading" advertisements: a range that reflects its cultural migration from indigenous ritual context to popular spiritual marketplace.</span>
       </div>
 
     </div>

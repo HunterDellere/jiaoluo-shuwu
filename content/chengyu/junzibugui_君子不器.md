@@ -125,7 +125,7 @@ updated: '2026-04-25'
     <div class="cards">
       <div class="card c-red">
         <div class="card-head">Education debate</div>
-        <p>我们的教育应该培养君子不器的人才，而不是只会一项技能的工具人。(Wǒmen de jiàoyù yīnggāi péiyǎng jūnzǐ bù qì de réncái, ér bù shì zhǐ huì yī xiàng jìnéng de gōngjùrén.) , Our education should cultivate people who are not vessels — not workers who can only do one thing.</p>
+        <p>我们的教育应该培养君子不器的人才，而不是只会一项技能的工具人。(Wǒmen de jiàoyù yīnggāi péiyǎng jūnzǐ bù qì de réncái, ér bù shì zhǐ huì yī xiàng jìnéng de gōngjùrén.) , Our education should cultivate people who are not vessels, not workers who can only do one thing.</p>
       </div>
       <div class="card c-ochre">
         <div class="card-head">Approval of a generalist</div>

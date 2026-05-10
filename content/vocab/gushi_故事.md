@@ -186,8 +186,8 @@ content_sources:
     <div class="scholar" data-glyph="故">
       <div class="scholar-label">成语故事 chéngyǔ gùshì · Narrative Compressed into Four Characters</div>
       <p>Every chengyu is a 故事 in miniature. 守株待兔 shǒu zhū dài tù , "wait by a tree stump for a rabbit" (to rely on luck and do nothing productive): a farmer once saw a rabbit run into a tree stump and die; he then spent the rest of his life waiting by the stump for another rabbit to appear, neglecting his fields. Four characters carry this entire narrative and its moral.</p>
-      <p>掩耳盗铃 yǎn ěr dào líng — "cover your ears while stealing a bell" (self-deception): a thief wanted to steal a bronze bell, but it would make noise. He covered his own ears, thinking that if he couldn't hear it, no one else could. The story of a man who applies his own limitations to all of reality. Four characters, complete satire.</p>
-      <p>Learning chengyu is inseparable from learning their 故事 — the narrative source. Chinese primary school education dedicates significant time to 成语故事 chéngyǔ gùshì (chengyu stories) — reading the original anecdote so that the four-character phrase carries its full weight of meaning. The phrase without the story is an empty formula; with the story, it is a fully loaded argument.</p>
+      <p>掩耳盗铃 yǎn ěr dào líng, "cover your ears while stealing a bell" (self-deception): a thief wanted to steal a bronze bell, but it would make noise. He covered his own ears, thinking that if he couldn't hear it, no one else could. The story of a man who applies his own limitations to all of reality. Four characters, complete satire.</p>
+      <p>Learning chengyu is inseparable from learning their 故事, the narrative source. Chinese primary school education dedicates significant time to 成语故事 chéngyǔ gùshì (chengyu stories): reading the original anecdote so that the four-character phrase carries its full weight of meaning. The phrase without the story is an empty formula; with the story, it is a fully loaded argument.</p>
     </div>
 
     <footer class="page-footer">

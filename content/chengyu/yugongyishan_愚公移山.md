@@ -67,7 +67,7 @@ content_sources:
         <div class="scholar-label">列子 Lièzǐ · compiled c. 4th century CE</div>
         <p>An old man nearly ninety lived at the foot of two mountains, Tàixíng and Wángwū, whose bulk blocked the way north from his door. Every errand, every journey to visit kin, required a long detour around them. One day he gathered his family and said: "Let us move the mountains. The south shore of the Han river lies beyond them. If we all work we can open the road."</p>
         <p>He and his sons and grandsons began to carry away the rock and earth in baskets, one load at a time, to the edge of the Bohai sea. A neighbour, a clever man called the Wise Old Man of the River Bend (智叟, Zhìsǒu), laughed at him: "How foolish. You are old. With the strength left in you, you cannot even damage a single grass blade on the hillside. What do you imagine you will accomplish with these baskets of earth?"</p>
-        <p>The old man , called Yúgōng (愚公), "the Foolish Old Man" — answered: "Though I die, my sons will continue. When they die, their sons will continue, and their sons after them. The mountains do not grow. Each basket removed is a basket less. Why should the mountains not one day be flat?" The clever neighbour had no reply.</p>
+        <p>The old man, called Yúgōng (愚公), "the Foolish Old Man," answered: "Though I die, my sons will continue. When they die, their sons will continue, and their sons after them. The mountains do not grow. Each basket removed is a basket less. Why should the mountains not one day be flat?" The clever neighbour had no reply.</p>
         <p>The story is told in the <strong>列子</strong> (Lièzǐ), a Daoist-flavoured text whose received form dates to the fourth century CE though it is traditionally attributed to Liè Yǔkòu, a pre-Qin philosopher. In the original ending, the mountain spirits, alarmed that the old man will not stop, appeal to the High God, who sends two giants to carry the mountains away. The perseverance is what moves heaven.</p>
       </div>
 
@@ -117,7 +117,7 @@ content_sources:
         </div>
         <div class="card c-teal">
           <div class="card-head">山 shān</div>
-          <p>Mountain. A pure pictograph in every era of its writing — three peaks rising, stable and obvious from oracle bone through modern print. Mountains are the physical image of the immovable in Chinese thought, which is what gives the parable its force. 愚公移山 is not "the Foolish Old Man does a hard thing." It is "the Foolish Old Man moves the thing that does not move."</p>
+          <p>Mountain. A pure pictograph in every era of its writing: three peaks rising, stable and obvious from oracle bone through modern print. Mountains are the physical image of the immovable in Chinese thought, which is what gives the parable its force. 愚公移山 is not "the Foolish Old Man does a hard thing." It is "the Foolish Old Man moves the thing that does not move."</p>
         </div>
       </div>
 

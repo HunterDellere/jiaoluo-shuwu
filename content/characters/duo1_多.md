@@ -157,7 +157,7 @@ content_review: 'pending'
     <div class="scholar" data-glyph="多">
       <div class="scholar-label">记忆法 jìyìfǎ · Master Retention Image</div>
       <p>Two evenings piled on top of each other: 夕夕 = 多. One night is one night; two nights is "many nights" , an accumulation beyond what is expected. The oracle bone scribes used doubling as their primary strategy for encoding plurality and intensity.</p>
-      <p>多少 (how much/many) puts 多 next to 少 (few), spanning the scale from maximum to minimum, and the result is a question: when you encompass the whole range, you need to know where on it you are. The most useful shopping question in Mandarin — 多少钱 — carries this ancient logic: measuring where something sits on the spectrum from none to everything.</p>
+      <p>多少 (how much/many) puts 多 next to 少 (few), spanning the scale from maximum to minimum, and the result is a question: when you encompass the whole range, you need to know where on it you are. The most useful shopping question in Mandarin (多少钱) carries this ancient logic: measuring where something sits on the spectrum from none to everything.</p>
     </div>
 
     <footer class="page-footer">

@@ -1,8 +1,8 @@
 {
-  "generated": "2026-05-09T21:08:19.018Z",
+  "generated": "2026-05-10T02:30:09.267Z",
   "summary": {
     "errors": 0,
-    "warnings": 19,
+    "warnings": 18,
     "info": 373
   },
   "findings": [
@@ -2083,13 +2083,6 @@
       "file": "content/philosophy/topic_yijing.md",
       "msg": "7 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
-    },
-    {
-      "level": "WARN",
-      "category": "formatting",
-      "file": "content/philosophy/topic_yinyang_wuxing.md",
-      "msg": "4 em-dashes in body prose (budget 3). Voice regression risk.",
-      "fix": "Rewrite to use commas, colons, parentheticals, or sentence splits. Keep em-dashes only for sharp interruptions a comma cannot carry."
     },
     {
       "level": "INFO",

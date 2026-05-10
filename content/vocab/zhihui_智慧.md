@@ -393,7 +393,7 @@ content_review: 'pending'
         <span class="cy-cn">开启民智</span>
         <span class="cy-py">kāiqǐ mínzhì</span>
         <span class="cy-en">to enlighten the people; to awaken popular wisdom and intelligence</span>
-        <span class="cy-note">开启 kāiqǐ (to open; to initiate; to unlock) + 民 mín (the people; the populace) + 智 zhì (wisdom; intelligence; discernment). A phrase central to the late Qing and early Republican reform movements (1890s–1920s), when thinkers like Liang Qichao (梁启超) argued that China's salvation depended on cultivating the intelligence and civic judgment of ordinary people — not just of the educated elite. 开启民智 was the reformers' program: education, journalism, translated knowledge, and political participation as instruments for developing a population capable of self-governance. The phrase carries its historical weight into the present: it is invoked whenever public education, media, or political transparency is discussed in terms of civic capacity-building.</span>
+        <span class="cy-note">开启 kāiqǐ (to open; to initiate; to unlock) + 民 mín (the people; the populace) + 智 zhì (wisdom; intelligence; discernment). A phrase central to the late Qing and early Republican reform movements (1890s–1920s), when thinkers like Liang Qichao (梁启超) argued that China's salvation depended on cultivating the intelligence and civic judgment of ordinary people, not just of the educated elite. 开启民智 was the reformers' program: education, journalism, translated knowledge, and political participation as instruments for developing a population capable of self-governance. The phrase carries its historical weight into the present: it is invoked whenever public education, media, or political transparency is discussed in terms of civic capacity-building.</span>
       </div>
 
     </div><!-- /chengyu -->
@@ -428,7 +428,7 @@ content_review: 'pending'
     <!-- RETENTION SCHOLAR BOX -->
     <div class="scholar" data-glyph="慧">
       <div class="scholar-label">记忆法 jìyìfǎ · Retention Image</div>
-      <p>The character 慧 — broom over heart — holds the key to the whole entry. The broom (彗) does not add anything. It removes. Wisdom, in the 慧 tradition, is what remains when the noise is swept away: the clutter of craving, the distortion of self-interest, the static of unexamined assumption. This is why Buddhist 慧 points toward emptiness rather than accumulation. The Heart Sutra's 260 characters are not a mountain of knowledge; they are a broom.</p>
+      <p>The character 慧 (broom over heart) holds the key to the whole entry. The broom (彗) does not add anything. It removes. Wisdom, in the 慧 tradition, is what remains when the noise is swept away: the clutter of craving, the distortion of self-interest, the static of unexamined assumption. This is why Buddhist 慧 points toward emptiness rather than accumulation. The Heart Sutra's 260 characters are not a mountain of knowledge; they are a broom.</p>
       <p>Against this, Confucian 智 provides the complementary image: the sun (日) that illuminates. Where 慧 clears, 智 lights. Where 慧 is removal, 智 is vision. Together in 智慧, they name the double movement of wisdom: seeing clearly and being clear enough to see. Light entering, and the room already swept.</p>
       <p>The word for wisdom contains its own teaching: wisdom is neither what you accumulate nor what you perform. It is what you can see when nothing is in the way.</p>
     </div>

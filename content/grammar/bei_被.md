@@ -597,7 +597,7 @@ pinyin: 'bèi'
         <span class="cy-cn">为虎作伥</span>
         <span class="cy-py">wèi hǔ zuò chāng</span>
         <span class="cy-en">to be a henchman for the tiger; to help the powerful oppress others</span>
-        <span class="cy-note">Lit: for-tiger-act-as-ghost-of-the-slain. In Chinese folklore, the ghost of someone eaten by a tiger becomes a 伥 , a spirit that lures future victims to the tiger. To 为虎作伥 is to be co-opted into serving the very power that devoured you. A dark metaphor for collaboration with oppressors — and a vivid illustration of how passivity can become complicity.</span>
+        <span class="cy-note">Lit: for-tiger-act-as-ghost-of-the-slain. In Chinese folklore, the ghost of someone eaten by a tiger becomes a 伥 , a spirit that lures future victims to the tiger. To 为虎作伥 is to be co-opted into serving the very power that devoured you. A dark metaphor for collaboration with oppressors, and a vivid illustration of how passivity can become complicity.</span>
       </div>
 
     </div>

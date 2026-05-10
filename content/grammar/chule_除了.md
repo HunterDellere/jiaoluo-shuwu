@@ -66,7 +66,7 @@ pinyin: 'chú le'
       <div class="scholar-label">语法洞见 yǔfǎ dòngjiàn · Grammar Insight</div>
       <p><strong>除了 chúle</strong> = 除 chú (to remove; to exclude; division in math) + 了 le (aspect marker used here as part of the preposition). The character 除 already contains the key meaning: to remove something from a set.</p>
       <p><strong>Pattern 1 , Exclusion (except):</strong> 除了 + [exception] + 以外/之外, [rest of set] + 都 + [Verb Phrase]. The 都 (all) signals that the statement applies to every member of the set <em>except</em> the item named after 除了. 除了他，大家都来了 = "Except for him, everyone came." The 以外/之外 is optional but common in formal speech.</p>
-      <p><strong>Pattern 2 — Inclusion (besides/in addition to):</strong> 除了 + [base] + 以外/之外, [Subject] + 还/也 + [Verb Phrase]. The 还 (also; in addition) or 也 (also) signals that something is added to an already existing set. 除了英语，她还会法语 = "Besides English, she also knows French." This is the inverse of Pattern 1: instead of removing an item, you are naming a base and then adding more.</p>
+      <p><strong>Pattern 2, Inclusion (besides/in addition to):</strong> 除了 + [base] + 以外/之外, [Subject] + 还/也 + [Verb Phrase]. The 还 (also; in addition) or 也 (also) signals that something is added to an already existing set. 除了英语，她还会法语 = "Besides English, she also knows French." This is the inverse of Pattern 1: instead of removing an item, you are naming a base and then adding more.</p>
       <p>The two patterns are disambiguated by the correlating adverb: <strong>都 → exclusion / 还·也 → inclusion</strong>. This is the single most important rule for this structure.</p>
     </div>
 
@@ -97,7 +97,7 @@ pinyin: 'chú le'
         </div>
         <div class="tags"><span class="tag tag-v">Structure 句型 jùxíng</span></div>
         <div class="card-def">
-          The exclusion frame: 除了 names the exception, 都 sweeps up the remainder. The structure can also be negated: 除了…，都不… (none except for X). 除了他，我谁都不认识 = "Except for him, I don't know anyone" — note the 都不 (none). Useful contrast: 只有 zhǐyǒu (only) is a related exclusive: 只有他来了 (only he came) = 除了他，别人都没来 (except for him, no one else came).
+          The exclusion frame: 除了 names the exception, 都 sweeps up the remainder. The structure can also be negated: 除了…，都不… (none except for X). 除了他，我谁都不认识 = "Except for him, I don't know anyone"; note the 都不 (none). Useful contrast: 只有 zhǐyǒu (only) is a related exclusive: 只有他来了 (only he came) = 除了他，别人都没来 (except for him, no one else came).
         </div>
         <div class="examples">
           <div class="example">
@@ -141,7 +141,7 @@ pinyin: 'chú le'
         </div>
         <div class="tags"><span class="tag tag-v">Structure 句型 jùxíng</span></div>
         <div class="card-def">
-          The inclusion frame: 除了 names the base that is already assumed or established; 还 or 也 signals that the new information adds to that base rather than replacing it. 还 (in addition, moreover) is slightly more common than 也 (also) in this construction. 此外 cǐwài (besides this; in addition — more formal) and 另外 lìngwài (in addition; separately) are near-synonyms in formal writing. 不但…而且 bùdàn…érqiě (not only…but also) is a related additive structure with stronger emphasis.
+          The inclusion frame: 除了 names the base that is already assumed or established; 还 or 也 signals that the new information adds to that base rather than replacing it. 还 (in addition, moreover) is slightly more common than 也 (also) in this construction. 此外 cǐwài (besides this; in addition; more formal) and 另外 lìngwài (in addition; separately) are near-synonyms in formal writing. 不但…而且 bùdàn…érqiě (not only…but also) is a related additive structure with stronger emphasis.
         </div>
         <div class="examples">
           <div class="example">

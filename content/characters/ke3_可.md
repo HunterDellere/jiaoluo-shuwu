@@ -401,7 +401,7 @@ updated: '2026-04-25'
     <div class="scholar" data-glyph="可">
       <div class="scholar-label">可与不可 kě yǔ bù kě · The Classical Binary</div>
       <p>可 and 不可 form one of the central binary distinctions in classical Chinese ethical reasoning: the permissible and the impermissible, the feasible and the infeasible. In practical classical prose they are applied to situations and plans: 此举可行 (this course of action is feasible); 此路不可行 (this road is impassable; this approach will not work).</p>
-      <p>In the Analects, Confucius deliberately refuses to make 可 and 不可 into fixed rules: 子曰："君子之于天下也，无适也，无莫也，义之与比。" — "The junzi, toward all under heaven, has no fixed 'must' and no fixed 'must not'; righteousness is the standard by which he judges." The point is that 可/不可 are contextual judgments, not categorical laws. Righteousness, not a fixed list of permissions, guides the junzi.</p>
+      <p>In the Analects, Confucius deliberately refuses to make 可 and 不可 into fixed rules: 子曰："君子之于天下也，无适也，无莫也，义之与比。" "The junzi, toward all under heaven, has no fixed 'must' and no fixed 'must not'; righteousness is the standard by which he judges." The point is that 可/不可 are contextual judgments, not categorical laws. Righteousness, not a fixed list of permissions, guides the junzi.</p>
       <p>Classical compound patterns with 可: 可谓 kě wèi (one can say; it may be called), 可知 kě zhī (it can be known; evidently), 可为 kě wéi (can be done; worth doing), 岂可 qǐ kě (how could it possibly be permitted that , rhetorical question expressing indignation).</p>
     </div>
 
@@ -471,7 +471,7 @@ updated: '2026-04-25'
     <div class="scholar" data-glyph="可" style="margin-top:2.5rem;">
       <div class="scholar-label">记忆法 jìyìfǎ · Master Retention Image</div>
       <p>Imagine 可 as an open mouth exhaling a single breath of agreement , the "yes" at the body's threshold before action. That breath does three things simultaneously: it grants permission (you may), affirms possibility (it can be done), and assigns worth (it is worth doing). Every 可-compound is one of these three judgments made specific: 可以 is the yes of permission, 可能 is the yes of possibility, 可爱 is the yes of worthiness toward the act of loving.</p>
-      <p>The 可 + verb pattern — once the template clicks — becomes generative: 可 + any reaction verb = an adjective describing what provokes that reaction. Worth fearing, worth regretting, worth trusting, worth laughing at. A single character covering the grammar of human evaluation.</p>
+      <p>The 可 + verb pattern, once the template clicks, becomes generative: 可 + any reaction verb = an adjective describing what provokes that reaction. Worth fearing, worth regretting, worth trusting, worth laughing at. A single character covering the grammar of human evaluation.</p>
     </div>
 
     <footer class="page-footer">

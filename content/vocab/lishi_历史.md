@@ -341,7 +341,7 @@ updated: '2026-04-25'
       <p>These three terms overlap but are not interchangeable. Getting the distinction right is the difference between sounding like a reader of historical texts and sounding like a textbook.</p>
       <p><strong>历史 lìshǐ</strong> , history as a subject, a body of events, a field of knowledge. The general-purpose term. 中国历史 (Chinese history), 历史上 (historically), 学历史 (to study history). Use this in most contexts.</p>
       <p><strong>历史学 lìshǐxué</strong> , historiography as an academic discipline. Reserved for contexts involving academic methodology, institutional study, or the scholarly infrastructure of historical inquiry. 历史学系 (department of history), 历史学研究 (historiographical research). Parallel to 哲学 (philosophy) versus 哲学系 (philosophy department, i.e., the discipline).</p>
-      <p><strong>史 shǐ</strong> — the classical shorthand. Found in compound titles and fixed phrases: 史记 (Records of the Historian), 通史 (comprehensive history), 正史 (official histories), 史料 (primary sources), 史书 (historical texts). Use 史 in compound forms and when reading classical or literary texts; avoid it as a standalone in modern prose.</p>
+      <p><strong>史 shǐ</strong>: the classical shorthand. Found in compound titles and fixed phrases: 史记 (Records of the Historian), 通史 (comprehensive history), 正史 (official histories), 史料 (primary sources), 史书 (historical texts). Use 史 in compound forms and when reading classical or literary texts; avoid it as a standalone in modern prose.</p>
     </div>
 
     <!-- ── ADJACENT VOCAB ── -->
@@ -380,8 +380,8 @@ updated: '2026-04-25'
     <!-- RETENTION SCHOLAR BOX -->
     <div class="scholar" data-glyph="史" style="margin-top:2.5rem;">
       <div class="scholar-label">记忆法 jìyìfǎ · Retention Image</div>
-      <p>Hold the two characters separately. 历 (lì) is a foot passing through terrain, step by step, each stage traversed in sequence. 史 (shǐ) is a hand holding a brush over a vessel — the scribe recording each step as it is taken. Together: the passage of events (历) captured by the person whose job is to write them down (史). History is not what happened. History is what was recorded.</p>
-      <p>Sima Qian understood this with unusual clarity. Castrated by the emperor whose legitimacy he was supposed to document, he finished the 史记 anyway. The preface says it plainly: the work exists so that rulers have a mirror. The mirror analogy (以史为鉴) is not decorative. Chinese statecraft has consistently treated the historical record as an instrument for diagnosis and correction — a tool with a purpose, not a monument to the past.</p>
+      <p>Hold the two characters separately. 历 (lì) is a foot passing through terrain, step by step, each stage traversed in sequence. 史 (shǐ) is a hand holding a brush over a vessel: the scribe recording each step as it is taken. Together: the passage of events (历) captured by the person whose job is to write them down (史). History is not what happened. History is what was recorded.</p>
+      <p>Sima Qian understood this with unusual clarity. Castrated by the emperor whose legitimacy he was supposed to document, he finished the 史记 anyway. The preface says it plainly: the work exists so that rulers have a mirror. The mirror analogy (以史为鉴) is not decorative. Chinese statecraft has consistently treated the historical record as an instrument for diagnosis and correction: a tool with a purpose, not a monument to the past.</p>
       <p>The scribe held the brush. The brush held power. 历史 is where those two facts meet.</p>
     </div>
 

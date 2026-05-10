@@ -174,7 +174,7 @@ content_sources:
           <div class="example">
             <div class="ex-cn">今天是她的生日，我们给她准备了惊喜。</div>
             <div class="ex-py">Jīntiān shì tā de shēngrì, wǒmen gěi tā zhǔnbèi le jīngxǐ.</div>
-            <div class="ex-en">Today is her birthday — we prepared a surprise for her.</div>
+            <div class="ex-en">Today is her birthday; we prepared a surprise for her.</div>
           </div>
         </div>
       </div>
@@ -222,14 +222,14 @@ content_sources:
         <span class="cy-cn">日新月异</span>
         <span class="cy-py">rì xīn yuè yì</span>
         <span class="cy-en">new every day, different every month — rapid change and innovation</span>
-        <span class="cy-note">Lit: day-new-month-different. The most common idiom for rapid technological or social change. 科技日新月异 "technology advances by leaps and bounds." Positive connotation — the pace of progress is breathtaking. From the Great Learning 大学: "If you can renovate yourself one day, then you can do so from day to day, and let there be daily renovation."</span>
+        <span class="cy-note">Lit: day-new-month-different. The most common idiom for rapid technological or social change. 科技日新月异 "technology advances by leaps and bounds." Positive connotation: the pace of progress is breathtaking. From the Great Learning 大学: "If you can renovate yourself one day, then you can do so from day to day, and let there be daily renovation."</span>
       </div>
 
       <div class="cy">
         <span class="cy-cn">日积月累</span>
         <span class="cy-py">rì jī yuè lěi</span>
         <span class="cy-en">accumulate day by day, build up month by month — the power of small consistent effort</span>
-        <span class="cy-note">Lit: day-accumulate-month-build. The Chinese formulation of compounding — small daily efforts accumulate into transformative results over time. Used to encourage consistent study, practice, and work. 日积月累，功到自然成 "accumulate consistently and success will naturally follow."</span>
+        <span class="cy-note">Lit: day-accumulate-month-build. The Chinese formulation of compounding: small daily efforts accumulate into transformative results over time. Used to encourage consistent study, practice, and work. 日积月累，功到自然成 "accumulate consistently and success will naturally follow."</span>
       </div>
 
       <div class="cy">

@@ -153,6 +153,7 @@ for (const pageFull of walkPages(PAGES)) {
     .replace(/<span class="card-en">[\s\S]*?<\/span>/g, '')   // strip card gloss
     .replace(/<span class="cy-en">[\s\S]*?<\/span>/g, '')     // strip chengyu gloss
     .replace(/<span class="a-en">[\s\S]*?<\/span>/g, '')      // strip adj chip gloss
+    .replace(/<span class="pattern-en">[\s\S]*?<\/span>/g, '') // strip poetry translation gloss
     .replace(/<div class="ex-cn">[\s\S]*?<\/div>/g, '')       // strip Chinese examples (— is 破折号)
     .replace(/<span class="sh-cn">[\s\S]*?<\/span>/g, '')     // strip Chinese section title
     .replace(/<span class="card-cn">[\s\S]*?<\/span>/g, '')   // strip Chinese card title
@@ -165,10 +166,10 @@ for (const pageFull of walkPages(PAGES)) {
   // a stable typographic convention, not voice em-dashes. Don't count them.
   const proseEmDashes = bodyForCount.match(/—/g) || [];
   const emDashCount = proseEmDashes.length - (bodyForCount.match(/[.!?。！？][\s"'”’)\]]*—\s/g) || []).length;
-  const EM_DASH_BUDGET = 3;
+  const EM_DASH_BUDGET = 0;
   if (emDashCount > EM_DASH_BUDGET) {
-    emit('WARN', relFile,
-      `${emDashCount} em-dashes in body prose (budget ${EM_DASH_BUDGET}). Voice regression risk.`,
+    emit('ERROR', relFile,
+      `${emDashCount} em-dashes in body prose. Voice regression — em-dashes are an LLM tell.`,
       { fix: `Rewrite to use commas, colons, parentheticals, or sentence splits. Keep em-dashes only for sharp interruptions a comma cannot carry.` });
   }
 

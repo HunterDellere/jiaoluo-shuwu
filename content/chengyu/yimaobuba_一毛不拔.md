@@ -56,7 +56,7 @@ content_review: 'pending'
       <span class="topic-hero-eyebrow">Chengyu · 成语 chéngyǔ</span>
       <h1 class="topic-hero-title">一毛不拔</h1>
       <span class="topic-hero-title-py">yī máo bù bá</span>
-      <p class="topic-hero-desc">Refuse to give even a single hair from your body. Mencius's phrase for the Yangist philosophy of radical self-preservation — and the word for a miser that it became.</p>
+      <p class="topic-hero-desc">Refuse to give even a single hair from your body. Mencius's phrase for the Yangist philosophy of radical self-preservation, and the word for a miser that it became.</p>
     </header>
 
     <span class="section-anchor" id="story"></span>

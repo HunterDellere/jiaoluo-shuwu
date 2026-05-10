@@ -143,9 +143,9 @@ pinyin: 'de huà'
     <div class="pattern">
       <span class="label">条件词搭配 tiáojiàn cí dāpèi · Conditional Pairing Patterns</span>
       <strong>如果…的话,…就…</strong> , formal/neutral: If… then…<br>
-      <strong>要是…的话,…就…</strong> — more colloquial, slightly warmer register<br>
-      <strong>假如…的话,…就…</strong> — formal, hypothetical register<br>
-      <strong>Clause + 的话</strong> — 的话 alone, most conversational
+      <strong>要是…的话,…就…</strong> · more colloquial, slightly warmer register<br>
+      <strong>假如…的话,…就…</strong> · formal, hypothetical register<br>
+      <strong>Clause + 的话</strong> · 的话 alone, most conversational
     </div>
 
     <div class="cards">

@@ -123,7 +123,7 @@ pinyin: 'rúguǒ jiù'
         </div>
         <div class="tags"><span class="tag tag-v">Conj 连词 liáncí</span></div>
         <div class="card-def">
-          For realistic or likely conditions — advice, plans, practical reasoning. The speaker considers the condition genuinely possible.
+          For realistic or likely conditions: advice, plans, practical reasoning. The speaker considers the condition genuinely possible.
         </div>
         <div class="examples">
           <div class="example">
@@ -152,7 +152,7 @@ pinyin: 'rúguǒ jiù'
         </div>
         <div class="tags"><span class="tag tag-v">Conj 连词 liáncí</span></div>
         <div class="card-def">
-          Chinese does not have a separate subjunctive mood — the same 如果…就 frame covers both real and counterfactual conditions. Context (tense, 了, 过) signals whether it is real or hypothetical.
+          Chinese does not have a separate subjunctive mood; the same 如果…就 frame covers both real and counterfactual conditions. Context (tense, 了, 过) signals whether it is real or hypothetical.
         </div>
         <div class="examples">
           <div class="example">
@@ -222,7 +222,7 @@ pinyin: 'rúguǒ jiù'
           </tr>
           <tr>
             <td class="td-cn">万一 wànyī</td>
-            <td>"just in case; in the unlikely event that" — low-probability risk</td>
+            <td>"just in case; in the unlikely event that"; low-probability risk</td>
             <td class="td-small">万一迷路了，就打电话给我。(Just in case you get lost, call me.)</td>
           </tr>
         </tbody>

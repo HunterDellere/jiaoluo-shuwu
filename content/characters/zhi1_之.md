@@ -228,8 +228,8 @@ content_sources:
       <span class="adj">者 zhě , classical nominalizer: one who / that which</span>
       <span class="adj">所 suǒ , classical passive/nominalization marker</span>
       <span class="adj">而 ér , classical coordinating conjunction: and, but, then</span>
-      <span class="adj">以 yǐ — by means of, with, because of</span>
-      <span class="adj">乃 nǎi — then, thereupon (classical)</span>
+      <span class="adj">以 yǐ · by means of, with, because of</span>
+      <span class="adj">乃 nǎi · then, thereupon (classical)</span>
     </div>
 
     <footer class="page-footer">

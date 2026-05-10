@@ -295,7 +295,7 @@ content_sources:
           <div class="example">
             <div class="ex-cn">这件事太贵了，再说我也不确定要不要买。</div>
             <div class="ex-py">Zhè jiàn shì tài guì le, zàishuō wǒ yě bù quèdìng yào bu yào mǎi.</div>
-            <div class="ex-en">It's too expensive — besides, I'm not sure I even want to buy it.</div>
+            <div class="ex-en">It's too expensive; besides, I'm not sure I even want to buy it.</div>
           </div>
         </div>
       </div>
@@ -436,14 +436,14 @@ content_sources:
         <span class="cy-cn">一而再，再而三</span>
         <span class="cy-py">yī ér zài, zài ér sān</span>
         <span class="cy-en">once, then again, then a third time — time after time; repeatedly</span>
-        <span class="cy-note">The fullest expression of Chinese repetition idiomatics. 一而再 (once to twice), 再而三 (twice to three times): the escalating structure conveys frustration or persistence. Almost always used with a negative coloring: someone has done something they shouldn't have, repeatedly. 他一而再，再而三地失约，让人很失望。"He kept breaking his promises, time after time — it's so disappointing."</span>
+        <span class="cy-note">The fullest expression of Chinese repetition idiomatics. 一而再 (once to twice), 再而三 (twice to three times): the escalating structure conveys frustration or persistence. Almost always used with a negative coloring: someone has done something they shouldn't have, repeatedly. 他一而再，再而三地失约，让人很失望。"He kept breaking his promises, time after time; it's so disappointing."</span>
       </div>
 
       <div class="cy">
         <span class="cy-cn">再接再厉</span>
         <span class="cy-py">zài jiē zài lì</span>
         <span class="cy-en">to make further efforts; to keep working hard; to do even better next time</span>
-        <span class="cy-note">再接 (take it up again) + 再厉 (sharpen again; work harder again). Used as encouragement after success or after failure: "keep it up" or "do even better." Common in school settings, performance reviews, and sports. 你这次考得很好，希望你再接再厉。"You did well this time — I hope you'll keep up the good work." One of the most frequently written phrases in Chinese teacher feedback.</span>
+        <span class="cy-note">再接 (take it up again) + 再厉 (sharpen again; work harder again). Used as encouragement after success or after failure: "keep it up" or "do even better." Common in school settings, performance reviews, and sports. 你这次考得很好，希望你再接再厉。"You did well this time; I hope you'll keep up the good work." One of the most frequently written phrases in Chinese teacher feedback.</span>
       </div>
 
       <div class="cy">

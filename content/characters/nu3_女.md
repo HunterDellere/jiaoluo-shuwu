@@ -170,7 +170,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          婚 hūn (marriage , 女 woman + 昏 dusk, from the tradition of evening weddings) + 姻 yīn (marriage-alliance; matrimony — 女 woman + 因 cause/connection). The formal compound for marriage. 婚礼 hūnlǐ = wedding ceremony. 结婚 jiéhūn = to get married. 离婚 líhūn = to divorce. 婚姻法 hūnyīn fǎ = Marriage Law (the civil statute governing marriage in China).
+          婚 hūn (marriage, 女 woman + 昏 dusk, from the tradition of evening weddings) + 姻 yīn (marriage-alliance; matrimony, 女 woman + 因 cause/connection). The formal compound for marriage. 婚礼 hūnlǐ = wedding ceremony. 结婚 jiéhūn = to get married. 离婚 líhūn = to divorce. 婚姻法 hūnyīn fǎ = Marriage Law (the civil statute governing marriage in China).
         </div>
         <div class="examples">
           <div class="example">
@@ -197,7 +197,7 @@ content_sources:
         <span class="cy-cn">望女成凤</span>
         <span class="cy-py">wàng nǚ chéng fèng</span>
         <span class="cy-en">hoping your daughter will become a phoenix — parental ambition for daughters</span>
-        <span class="cy-note">The female counterpart to 望子成龙 wàng zǐ chéng lóng (hoping your son will become a dragon). 凤 fèng (phoenix) is the female auspicious creature paired with 龙 (dragon). The phoenix — 凤凰 fènghuáng — represents feminine grace, beauty, and virtue. Parents "hoping their daughter will become a phoenix" are hoping she will be accomplished, successful, and distinguished.</span>
+        <span class="cy-note">The female counterpart to 望子成龙 wàng zǐ chéng lóng (hoping your son will become a dragon). 凤 fèng (phoenix) is the female auspicious creature paired with 龙 (dragon). The phoenix (凤凰 fènghuáng) represents feminine grace, beauty, and virtue. Parents "hoping their daughter will become a phoenix" are hoping she will be accomplished, successful, and distinguished.</span>
       </div>
 
       <div class="cy">

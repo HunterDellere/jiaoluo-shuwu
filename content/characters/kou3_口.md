@@ -200,7 +200,7 @@ content_sources:
       <strong>一口气</strong> yī kǒu qì , in one breath; without stopping (lit. "one mouth of breath")<br>
       <strong>吃一口</strong> chī yī kǒu , take a bite (lit. "eat one mouth")<br>
       <strong>喝一口</strong> hē yī kǒu , take a sip (lit. "drink one mouth")<br>
-      <strong>一家三口</strong> yī jiā sān kǒu — a family of three (lit. "one family, three mouths")
+      <strong>一家三口</strong> yī jiā sān kǒu, a family of three (lit. "one family, three mouths")
     </div>
 
     <span class="section-anchor" id="chengyu"></span>
@@ -217,14 +217,14 @@ content_sources:
         <span class="cy-cn">口是心非</span>
         <span class="cy-py">kǒu shì xīn fēi</span>
         <span class="cy-en">the mouth says yes but the heart says no — saying one thing while thinking another</span>
-        <span class="cy-note">Lit: mouth-yes-heart-no. The classic expression for hypocrisy or false agreement — when outward words and inner feelings are opposites. Used for people who agree to your face while disagreeing inside, or who say what they think you want to hear rather than what they actually believe. A serious character criticism.</span>
+        <span class="cy-note">Lit: mouth-yes-heart-no. The classic expression for hypocrisy or false agreement: when outward words and inner feelings are opposites. Used for people who agree to your face while disagreeing inside, or who say what they think you want to hear rather than what they actually believe. A serious character criticism.</span>
       </div>
 
       <div class="cy">
         <span class="cy-cn">异口同声</span>
         <span class="cy-py">yì kǒu tóng shēng</span>
         <span class="cy-en">different mouths, same voice — unanimous agreement</span>
-        <span class="cy-note">Lit: different-mouth-same-voice. When many people speak as one — unanimous agreement or chorus of the same opinion. 大家异口同声地说"好！" "Everyone unanimously said 'Good!'" Can be genuine consensus or conformist groupthink, depending on context.</span>
+        <span class="cy-note">Lit: different-mouth-same-voice. When many people speak as one: unanimous agreement or chorus of the same opinion. 大家异口同声地说"好！" "Everyone unanimously said 'Good!'" Can be genuine consensus or conformist groupthink, depending on context.</span>
       </div>
 
     </div>

@@ -516,7 +516,7 @@ content_sources:
         <span class="cy-cn">否极泰来</span>
         <span class="cy-py">pǐ jí tài lái</span>
         <span class="cy-en">after extreme obstruction (yin) comes peace (yang) — when things hit rock bottom, improvement follows</span>
-        <span class="cy-note">From the Yijing hexagrams 否 pǐ (stagnation; obstruction , a yin hexagram) and 泰 tài (peace; harmony , a yang hexagram). The cosmological law: forces cycle, yin cannot dominate forever, the turn of yang is inevitable. A comforting phrase in hard times: 否极泰来，好日子还在后面。(After the worst comes the best — good days are still ahead.)</span>
+        <span class="cy-note">From the Yijing hexagrams 否 pǐ (stagnation; obstruction , a yin hexagram) and 泰 tài (peace; harmony , a yang hexagram). The cosmological law: forces cycle, yin cannot dominate forever, the turn of yang is inevitable. A comforting phrase in hard times: 否极泰来，好日子还在后面。(After the worst comes the best; good days are still ahead.)</span>
       </div>
 
       <div class="cy">
@@ -530,7 +530,7 @@ content_sources:
         <span class="cy-cn">阴错阳差</span>
         <span class="cy-py">yīn cuò yáng chā</span>
         <span class="cy-en">yin-wrong yang-off — a chain of mishaps and coincidences leading to an unexpected outcome</span>
-        <span class="cy-note">A series of errors and coincidences — some of a yin nature (hidden, unintended), some of a yang nature (overt, accidental) — that together produce an unexpected result, usually unfortunate. 因为阴错阳差，他们错过了相遇的机会。(Due to a chain of mishaps and coincidences, they missed the chance to meet.) Used for the frustrating comedy of overlapping accidents.</span>
+        <span class="cy-note">A series of errors and coincidences (some of a yin nature, hidden and unintended; some of a yang nature, overt and accidental) that together produce an unexpected result, usually unfortunate. 因为阴错阳差，他们错过了相遇的机会。(Due to a chain of mishaps and coincidences, they missed the chance to meet.) Used for the frustrating comedy of overlapping accidents.</span>
       </div>
 
     </div>

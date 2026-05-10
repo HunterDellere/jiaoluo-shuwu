@@ -668,7 +668,7 @@ content_sources:
         <span class="cy-cn">死要面子活受罪</span>
         <span class="cy-py">sǐ yào miànzi huó shòuzuì</span>
         <span class="cy-en">"dying for face, living in torment" — to suffer rather than ask for help because of pride</span>
-        <span class="cy-note">A seven-character folk saying rather than a classical 成语, but extremely widely used. Describes the pattern of letting one's face-consciousness cause unnecessary suffering , not asking for help, not admitting failure, not seeking medical attention — because doing so would cost face. 他一直撑着，死要面子活受罪，其实找人帮忙早就解决了。"He kept struggling on — dying for face, living in torment — when asking for help would have solved it long ago."</span>
+        <span class="cy-note">A seven-character folk saying rather than a classical 成语, but extremely widely used. Describes the pattern of letting one's face-consciousness cause unnecessary suffering , not asking for help, not admitting failure, not seeking medical attention, because doing so would cost face. 他一直撑着，死要面子活受罪，其实找人帮忙早就解决了。"He kept struggling on (dying for face, living in torment) when asking for help would have solved it long ago."</span>
       </div>
 
     </div>

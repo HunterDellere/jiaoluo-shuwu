@@ -74,7 +74,7 @@ pinyin: 'sì dà míngzhù'
       <h2 class="section-head">水浒传 · Water Margin</h2>
       <div class="scholar" data-glyph="水">
         <div class="scholar-label">施耐庵 · Shi Nai'an, 14th c.</div>
-        <p><strong>水浒传</strong> (Shuǐhǔ Zhuàn, also translated as <em>Outlaws of the Marsh</em>) follows 108 outlaws who gather at Liangshan Marsh, driven there by corruption, injustice, and bad luck. Its heroes are not nobles, generals, or scholars but soldiers, monks, butchers, and former officials who have been wronged — the first great Chinese novel of the common people.</p>
+        <p><strong>水浒传</strong> (Shuǐhǔ Zhuàn, also translated as <em>Outlaws of the Marsh</em>) follows 108 outlaws who gather at Liangshan Marsh, driven there by corruption, injustice, and bad luck. Its heroes are not nobles, generals, or scholars but soldiers, monks, butchers, and former officials who have been wronged: the first great Chinese novel of the common people.</p>
         <p>The novel raised the concept of <strong>江湖</strong> (jiānghú, the world outside official society, where different rules apply) to a moral universe. Its bandits follow a code of brotherhood more rigorous than the corrupt officials they resist. The tension between loyalty to brothers and loyalty to the state runs through every chapter.</p>
         <p>It is also one of the first works in Chinese to use spoken vernacular rather than classical literary language, a revolutionary choice that made it accessible to everyone and influenced every subsequent novelist.</p>
       </div>

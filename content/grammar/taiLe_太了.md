@@ -193,17 +193,17 @@ pinyin: 'tài le'
           <div class="example">
             <div class="ex-cn">这个问题太难了，我不知道怎么回答。</div>
             <div class="ex-py">Zhège wèntí tài nán le, wǒ bù zhīdào zěnme huídá.</div>
-            <div class="ex-en">This question is too hard — I don't know how to answer it.</div>
+            <div class="ex-en">This question is too hard; I don't know how to answer it.</div>
           </div>
           <div class="example">
             <div class="ex-cn">太厉害了，你的中文说得这么好！</div>
             <div class="ex-py">Tài lìhai le, nǐ de Zhōngwén shuō de zhème hǎo!</div>
-            <div class="ex-en">Impressive — your Chinese is so good!</div>
+            <div class="ex-en">Impressive! Your Chinese is so good!</div>
           </div>
           <div class="example">
             <div class="ex-cn">今天的会议太无聊了，我差点睡着。</div>
             <div class="ex-py">Jīntiān de huìyì tài wúliáo le, wǒ chādiǎn shuìzháo.</div>
-            <div class="ex-en">Today's meeting was so boring — I almost fell asleep.</div>
+            <div class="ex-en">Today's meeting was so boring; I almost fell asleep.</div>
           </div>
           <div class="example">
             <div class="ex-cn">太巧了！我也住在那个小区。</div>

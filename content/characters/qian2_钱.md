@@ -107,7 +107,7 @@ content_sources:
       <div class="card c-n">
         <div class="card-head"><span class="card-cn">钱包</span><span class="card-py">qiánbāo</span><span class="card-en">wallet; purse</span></div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
-        <div class="card-def">钱 qián + 包 bāo (bag; to wrap). The wallet — literally the bag for money. In the smartphone era, 钱包 also refers to mobile payment wallets: 电子钱包 diànzǐ qiánbāo = digital wallet. 钱包里没钱 = the wallet is empty (a relatable condition).</div>
+        <div class="card-def">钱 qián + 包 bāo (bag; to wrap). The wallet, literally the bag for money. In the smartphone era, 钱包 also refers to mobile payment wallets: 电子钱包 diànzǐ qiánbāo = digital wallet. 钱包里没钱 = the wallet is empty (a relatable condition).</div>
         <div class="examples">
           <div class="example"><div class="ex-cn">我的钱包不见了！</div><div class="ex-py">Wǒ de qiánbāo bùjiàn le!</div><div class="ex-en">My wallet is gone!</div></div>
         </div>
@@ -134,8 +134,8 @@ content_sources:
     <div class="section-head"><span class="sh-cn">成语</span><span class="sh-py">chéngyǔ</span><span class="sh-en">Idioms &amp; Set Phrases</span><span class="sh-rule"></span></div>
 
     <div class="chengyu-grid">
-      <div class="cy"><span class="cy-cn">钱可通神</span><span class="cy-py">qián kě tōng shén</span><span class="cy-en">money can reach the gods — money can accomplish anything</span><span class="cy-note">A cynical proverb about the power of money to overcome any obstacle. 通神 = to reach the divine — suggesting even the sacred can be bought. The Tang-dynasty origin makes this one of the oldest commentaries on corruption in Chinese literature.</span></div>
-      <div class="cy"><span class="cy-cn">人为财死，鸟为食亡</span><span class="cy-py">rén wèi cái sǐ, niǎo wèi shí wáng</span><span class="cy-en">people die for money; birds die for food</span><span class="cy-note">财 cái = wealth, property. One of the most widely quoted Chinese proverbs about greed and human nature — a parallel structure comparing human ambition to animal survival instinct. Sobering, not condemnatory; an observation about the force of desire.</span></div>
+      <div class="cy"><span class="cy-cn">钱可通神</span><span class="cy-py">qián kě tōng shén</span><span class="cy-en">money can reach the gods — money can accomplish anything</span><span class="cy-note">A cynical proverb about the power of money to overcome any obstacle. 通神 = to reach the divine, suggesting even the sacred can be bought. The Tang-dynasty origin makes this one of the oldest commentaries on corruption in Chinese literature.</span></div>
+      <div class="cy"><span class="cy-cn">人为财死，鸟为食亡</span><span class="cy-py">rén wèi cái sǐ, niǎo wèi shí wáng</span><span class="cy-en">people die for money; birds die for food</span><span class="cy-note">财 cái = wealth, property. One of the most widely quoted Chinese proverbs about greed and human nature, a parallel structure comparing human ambition to animal survival instinct. Sobering, not condemnatory; an observation about the force of desire.</span></div>
       <div class="cy"><span class="cy-cn">一分钱一分货</span><span class="cy-py">yī fēn qián yī fēn huò</span><span class="cy-en">you get what you pay for — one fen of money, one fen of goods</span><span class="cy-note">The Chinese equivalent of "you get what you pay for." 分 fēn is both a fraction of a yuan and a measure of fairness. A practical consumer proverb that endorses quality over cheapness.</span></div>
     </div>
 

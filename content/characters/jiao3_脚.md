@@ -457,7 +457,7 @@ content_sources:
         <span class="cy-cn">大手大脚</span>
         <span class="cy-py">dà shǒu dà jiǎo</span>
         <span class="cy-en">big hands and big feet — extravagant; throwing money around</span>
-        <span class="cy-note">Lit: big-hand-big-foot. Said of someone who spends lavishly without thinking, makes large gestures, lives beyond their means. Mildly disapproving — the opposite of 节俭 jiéjiǎn (frugal).</span>
+        <span class="cy-note">Lit: big-hand-big-foot. Said of someone who spends lavishly without thinking, makes large gestures, lives beyond their means. Mildly disapproving, the opposite of 节俭 jiéjiǎn (frugal).</span>
       </div>
 
       <div class="cy">
@@ -471,7 +471,7 @@ content_sources:
         <span class="cy-cn">画蛇添足</span>
         <span class="cy-py">huà shé tiān zú</span>
         <span class="cy-en">drawing a snake and adding feet — ruining a thing by overdoing it</span>
-        <span class="cy-note">From the <em>Stratagems of the Warring States</em>: a contest to paint a snake fastest; the winner, finishing first, kept painting and added feet — and lost, because snakes have no feet. Note this chengyu uses the literary 足 zú rather than colloquial 脚, reflecting its classical origin. The lesson: knowing when to stop.</span>
+        <span class="cy-note">From the <em>Stratagems of the Warring States</em>: a contest to paint a snake fastest; the winner, finishing first, kept painting and added feet, and lost, because snakes have no feet. Note this chengyu uses the literary 足 zú rather than colloquial 脚, reflecting its classical origin. The lesson: knowing when to stop.</span>
       </div>
 
     </div>
@@ -507,7 +507,7 @@ content_sources:
     <!-- RETENTION IMAGE -->
     <div class="scholar" data-glyph="脚" style="margin-top:2.5rem;">
       <div class="scholar-label">记忆法 jìyìfǎ · Master Retention Image</div>
-      <p>Picture 脚 as the <strong>flesh-foot</strong>: the ⺼ radical (a slab of meat, the body marker) on the left, the right-hand 却 carrying the sound. Then watch the metaphor walk outward: the foot of the body becomes the foot of a mountain (山脚), the foot of a wall (墙脚), the foot of a page (注脚), the foot of a script (脚本). Anything that <em>stands</em> in Chinese has a 脚 — the bottom on which it stands.</p>
+      <p>Picture 脚 as the <strong>flesh-foot</strong>: the ⺼ radical (a slab of meat, the body marker) on the left, the right-hand 却 carrying the sound. Then watch the metaphor walk outward: the foot of the body becomes the foot of a mountain (山脚), the foot of a wall (墙脚), the foot of a page (注脚), the foot of a script (脚本). Anything that <em>stands</em> in Chinese has a 脚: the bottom on which it stands.</p>
       <p>The pairing with literary 足 is worth holding: 脚 is what you walk on, 足 is what dictionaries are organised around. They mean the same thing; they belong to different registers. When in doubt in conversation, say 脚.</p>
     </div>
 

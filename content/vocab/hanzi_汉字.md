@@ -59,7 +59,7 @@ content_sources:
       <span class="topic-hero-eyebrow">Vocab · 词汇 cíhuì</span>
       <h1 class="topic-hero-title">汉字</h1>
       <span class="topic-hero-title-py">hàn zì</span>
-      <p class="topic-hero-desc">Chinese characters — the world's oldest continuously used writing system, spoken by hundreds of millions in forms as different as Mandarin and Cantonese, unified by a single script.</p>
+      <p class="topic-hero-desc">Chinese characters: the world's oldest continuously used writing system, spoken by hundreds of millions in forms as different as Mandarin and Cantonese, unified by a single script.</p>
     </header>
 
     <span class="section-anchor" id="what"></span>

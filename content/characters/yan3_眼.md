@@ -460,14 +460,14 @@ content_sources:
         <span class="cy-cn">有眼无珠</span>
         <span class="cy-py">yǒu yǎn wú zhū</span>
         <span class="cy-en">to have eyes but no pupils — to fail to recognize what is right in front of you</span>
-        <span class="cy-note">Lit: have-eyes-without-pearls (珠 = pearl, here pupil). Said of someone who has missed an obvious quality or opportunity — failed to spot a talent, dismissed a worthy person. Often self-deprecating: 我真是有眼无珠 "I had eyes but couldn't see."</span>
+        <span class="cy-note">Lit: have-eyes-without-pearls (珠 = pearl, here pupil). Said of someone who has missed an obvious quality or opportunity: failed to spot a talent, dismissed a worthy person. Often self-deprecating: 我真是有眼无珠 "I had eyes but couldn't see."</span>
       </div>
 
       <div class="cy">
         <span class="cy-cn">眼花缭乱</span>
         <span class="cy-py">yǎn huā liáo luàn</span>
         <span class="cy-en">eyes blurring, vision tangling — dazzled, overwhelmed by abundance</span>
-        <span class="cy-note">Lit: eye-flower-tangle-disorder. Used for the sensory overload of a busy market, a fireworks display, a dazzling performance — too much beauty or activity to take in at once. Almost always positive in tone (the overload of richness, not chaos).</span>
+        <span class="cy-note">Lit: eye-flower-tangle-disorder. Used for the sensory overload of a busy market, a fireworks display, a dazzling performance: too much beauty or activity to take in at once. Almost always positive in tone (the overload of richness, not chaos).</span>
       </div>
 
       <div class="cy">
@@ -508,7 +508,7 @@ content_sources:
     <!-- RETENTION IMAGE -->
     <div class="scholar" data-glyph="眼" style="margin-top:2.5rem;">
       <div class="scholar-label">记忆法 jìyìfǎ · Master Retention Image</div>
-      <p>Picture 眼 as the <strong>everyday eye</strong> alongside its literary twin 目: 目 is the eye in dictionaries and chengyu, the radical that anchors all the seeing-words; 眼 is the eye your friend points to when their contact lens slips. The character keeps the radical 目 visible on its left flank — a reminder that 眼 is the colloquial overlay sitting on top of the older word, not a replacement for it.</p>
+      <p>Picture 眼 as the <strong>everyday eye</strong> alongside its literary twin 目: 目 is the eye in dictionaries and chengyu, the radical that anchors all the seeing-words; 眼 is the eye your friend points to when their contact lens slips. The character keeps the radical 目 visible on its left flank: a reminder that 眼 is the colloquial overlay sitting on top of the older word, not a replacement for it.</p>
       <p>From this body-part anchor, 眼 walks outward in the same way 脚 (foot) does: the eye of a needle (针眼), the eye of a spring (泉眼), the eye of a phrase (字眼). And the figurative climb is the steepest part of the character's range: 眼光 (vision, taste), 眼界 (horizon), 心眼 (wits, intent of the heart). The single character holds the whole arc from <em>this organ in my face</em> to <em>the kind of judgment a lifetime of seeing has trained me into.</em></p>
     </div>
 

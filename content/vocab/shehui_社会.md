@@ -341,7 +341,7 @@ updated: '2026-04-25'
       <div class="scholar-label">当代语境 dāngdài yǔjìng · Contemporary Context</div>
       <p>社会 sits at the center of contemporary Chinese governance language. The phrase 社会主义和谐社会 (shèhuì zhǔyì héxié shèhuì, socialist harmonious society), introduced by Hu Jintao in 2004, placed 社会 as both the object to be harmonized and the modifier of the system doing the harmonizing. Xi Jinping's 共同富裕 (gòngtóng fùyù, common prosperity) program similarly makes 社会 equity its stated aim , prosperity that extends across 社会 rather than concentrating in a stratum.</p>
       <p>When official discourse says 社会稳定 (shèhuì wěndìng, social stability), the stakes are concrete and the term is not a neutral descriptor. Maintaining 社会稳定 is a governing priority that shapes policy across domains from internet regulation to protest management to housing. The word anchors claims about what the state owes its people and what people owe the state.</p>
-      <p>The 社会信用体系 (shèhuì xìnyòng tǐxì, social credit system) uses 社会 to name the domain it governs: a platform — understood differently by different analysts as a reputation management infrastructure, a financial credit system, or a surveillance and behavioral control apparatus — that tracks and scores conduct across 社会. The word doing the naming is not incidental.</p>
+      <p>The 社会信用体系 (shèhuì xìnyòng tǐxì, social credit system) uses 社会 to name the domain it governs: a platform (understood differently by different analysts as a reputation management infrastructure, a financial credit system, or a surveillance and behavioral control apparatus) that tracks and scores conduct across 社会. The word doing the naming is not incidental.</p>
     </div>
 
     <div class="cards">
@@ -418,7 +418,7 @@ updated: '2026-04-25'
       <div class="scholar-label">辨析 biànxī · Disambiguation</div>
       <p>All three share the character 社, but they operate at different scales and carry different connotations.</p>
       <p><strong>社会 shèhuì</strong> is the macro level: society as a whole, the total social world, the collectivity. It is abstract and comprehensive. When you say 社会问题 (a social problem), you mean a problem at the level of society itself, not a local or group-specific issue.</p>
-      <p><strong>社区 shèqū</strong> (qū, district; zone; area) is the local, geographic level: a residential community, a neighborhood, a district. 社区服务 (shèqū fúwù) is community services — the kind delivered at the neighborhood level: local clinics, community centers, residential committees (居委会 jūwěihuì). 社区 is concrete and bounded by geography. You can point to a 社区 on a map.</p>
+      <p><strong>社区 shèqū</strong> (qū, district; zone; area) is the local, geographic level: a residential community, a neighborhood, a district. 社区服务 (shèqū fúwù) is community services: the kind delivered at the neighborhood level, local clinics, community centers, residential committees (居委会 jūwěihuì). 社区 is concrete and bounded by geography. You can point to a 社区 on a map.</p>
       <p><strong>社群 shèqún</strong> (qún, group; crowd; flock) is a voluntary affinity group, increasingly used for online communities: a WeChat group built around a shared interest, a subreddit-equivalent, an alumni network, a professional community of practice. 社群 is defined by shared interest or identity, not geography. It is the modern, often digital sense of community. 运营社群 (to operate a community) is standard language in Chinese digital marketing.</p>
     </div>
 

@@ -295,7 +295,7 @@ content_sources:
     <div class="scholar" data-glyph="落">
       <div class="scholar-label">词缀洞见 cízhuì dòngjiàn · Suffix Insight</div>
       <p>When 落 follows another element, it often means <em>a settled place, a cluster of things that have landed together.</em> This pattern is especially visible in place names and spatial vocabulary. A 部落 bùluò (tribe, clan) is literally a group that has settled together. A 村落 cūnluò (village) is a place where people have set down roots. An 角落 jiǎoluò (corner) is where things settle at the edge.</p>
-      <p>The same logic appears in less obvious words: 零落 línglùo (scattered, withered) describes leaves that have fallen and lie scattered; 沦落 lúnluò (to sink into degradation) is a person who has fallen to a lower place. All are variations on the image of something descending and arriving at a new , often diminished — state.</p>
+      <p>The same logic appears in less obvious words: 零落 línglùo (scattered, withered) describes leaves that have fallen and lie scattered; 沦落 lúnluò (to sink into degradation) is a person who has fallen to a lower place. All are variations on the image of something descending and arriving at a new, often diminished, state.</p>
     </div>
 
     <div class="table-wrap">
@@ -311,7 +311,7 @@ content_sources:
           <tr>
             <td class="td-cn">角落</td>
             <td class="td-py">jiǎoluò</td>
-            <td>corner; nook — where things settle at an edge</td>
+            <td>corner; nook, where things settle at an edge</td>
           </tr>
           <tr>
             <td class="td-cn">村落</td>
@@ -371,7 +371,7 @@ content_sources:
         <span class="cy-cn">大起大落</span>
         <span class="cy-py">dà qǐ dà luò</span>
         <span class="cy-en">dramatic rises and falls — extreme volatility and turbulence</span>
-        <span class="cy-note">Lit: great-rise great-fall. For lives, markets, or dynasties marked by dramatic swings — the roller-coaster image. Common in financial commentary and biographical writing.</span>
+        <span class="cy-note">Lit: great-rise great-fall. For lives, markets, or dynasties marked by dramatic swings: the roller-coaster image. Common in financial commentary and biographical writing.</span>
       </div>
 
       <div class="cy">

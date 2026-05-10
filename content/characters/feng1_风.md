@@ -269,13 +269,13 @@ content_review: 'pending'
       <div class="cy">
         <div class="cy-cn">随风而逝</div>
         <div class="cy-py">suí fēng ér shì</div>
-        <div class="cy-en">"carried away with the wind" — vanished without trace</div>
+        <div class="cy-en">"carried away with the wind", vanished without trace</div>
         <div class="cy-note">A literary phrase for things that disappear completely, leaving nothing behind. Used in elegies, retrospective writing, and occasionally in modern song lyrics. The tone is melancholy: things the wind carried away, not things that were destroyed.</div>
       </div>
       <div class="cy">
         <div class="cy-cn">风平浪静</div>
         <div class="cy-py">fēng píng làng jìng</div>
-        <div class="cy-en">"wind calm, waves still" — a situation returned to peace</div>
+        <div class="cy-en">"wind calm, waves still", a situation returned to peace</div>
         <div class="cy-note">A sea-weather image for any situation that has settled after turbulence. Used of both physical weather and social or political calm after a crisis. The four characters work as a couplet: 风平 (wind flat) and 浪静 (waves quiet) mirror each other in structure and image.</div>
       </div>
     </div>
@@ -305,7 +305,7 @@ content_review: 'pending'
 
     <div class="scholar" data-glyph="风">
       <div class="scholar-label">记忆法 jìyìfǎ · Master Retention Image</div>
-      <p>Stand in a field of tall grass in late summer. The wind arrives before you see it: the grass bends in a wave from the west, moving toward you. You can read the wind by what it does to everything in its path. That is the character's original insight — 虫 (creatures) inside 風 (the wind shape). Wind is not defined by itself but by what it moves.</p>
+      <p>Stand in a field of tall grass in late summer. The wind arrives before you see it: the grass bends in a wave from the west, moving toward you. You can read the wind by what it does to everything in its path. That is the character's original insight: 虫 (creatures) inside 風 (the wind shape). Wind is not defined by itself but by what it moves.</p>
       <p>Every 风 compound moves in the same way. 风格 (style) is the characteristic movement a person makes through the world, recognizable at a distance by the disturbance they create. 风俗 (custom) is the prevailing wind of a community, the direction everyone bends without being commanded. 风险 (risk) is the wind you didn't see coming.</p>
       <p>When you see 风 in a new compound, ask: what is moving, and in what direction? The answer is almost always visible in the other half of the word.</p>
     </div>

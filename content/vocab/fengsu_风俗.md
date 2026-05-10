@@ -172,7 +172,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          头 tóu (head; first) + 七 qī (seven). Traditional Chinese mourning involves rituals at seven-day intervals for 49 days , the period the soul is believed to linger. 头七 (day 7) is the most important — the family burns paper offerings and sets a place for the deceased at the table.
+          头 tóu (head; first) + 七 qī (seven). Traditional Chinese mourning involves rituals at seven-day intervals for 49 days , the period the soul is believed to linger. 头七 (day 7) is the most important: the family burns paper offerings and sets a place for the deceased at the table.
         </div>
         <div class="examples">
           <div class="example">
@@ -203,13 +203,13 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          Major customs of 春节: 贴春联 paste spring couplets on the door · 放鞭炮 set off firecrackers · 发红包 give red envelopes (现在多用微信红包) · 守岁 stay awake through New Year's Eve · 拜年 pay New Year visits · 吃饺子 eat dumplings (especially in North China — shaped like gold ingots 元宝). Each custom has a layered history and regional variation.
+          Major customs of 春节: 贴春联 paste spring couplets on the door · 放鞭炮 set off firecrackers · 发红包 give red envelopes (现在多用微信红包) · 守岁 stay awake through New Year's Eve · 拜年 pay New Year visits · 吃饺子 eat dumplings (especially in North China, shaped like gold ingots 元宝). Each custom has a layered history and regional variation.
         </div>
         <div class="examples">
           <div class="example">
             <div class="ex-cn">春节习俗因地而异，北方人爱吃饺子，南方人爱吃汤圆。</div>
             <div class="ex-py">Chūnjié xísú yīn dì ér yì, běifāng rén ài chī jiǎozi, nánfāng rén ài chī tāngyuán.</div>
-            <div class="ex-en">Spring Festival customs vary by region — Northerners love dumplings, Southerners love tangyuan.</div>
+            <div class="ex-en">Spring Festival customs vary by region: Northerners love dumplings, Southerners love tangyuan.</div>
           </div>
         </div>
       </div>

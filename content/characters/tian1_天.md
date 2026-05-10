@@ -888,7 +888,7 @@ content_sources:
     <div class="scholar" data-glyph="天">
       <div class="scholar-label">记忆法 jìyìfǎ · Master Retention Image</div>
       <p>A stick figure with one line drawn above its head. That line is sky, destiny, moral order, and the judgment of history. The oracle-bone scribes needed only four strokes to encode the entire Chinese political universe: a person, and the infinite above them.</p>
-      <p>When a Chinese emperor fell, people said <strong>天命已失</strong> tiānmìng yǐ shī , "Heaven's mandate is lost." When a Chinese child is called <strong>天才</strong>, they are not simply being flattered; they are being placed under the sky, their gifts attributed to the cosmos itself. When a dynasty was founded, the first imperial edict began with <strong>奉天承运</strong> — "By heaven's will and in accordance with its pattern."</p>
+      <p>When a Chinese emperor fell, people said <strong>天命已失</strong> tiānmìng yǐ shī , "Heaven's mandate is lost." When a Chinese child is called <strong>天才</strong>, they are not simply being flattered; they are being placed under the sky, their gifts attributed to the cosmos itself. When a dynasty was founded, the first imperial edict began with <strong>奉天承运</strong>: "By heaven's will and in accordance with its pattern."</p>
       <p>The line above the head is very heavy.</p>
     </div>
 

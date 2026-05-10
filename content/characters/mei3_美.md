@@ -259,7 +259,7 @@ content_sources:
         <span class="cy-cn">尽善尽美</span>
         <span class="cy-py">jǐn shàn jǐn měi</span>
         <span class="cy-en">utterly good and utterly beautiful — perfection achieved</span>
-        <span class="cy-note">Confucius used this phrase to evaluate music — the highest praise for something that excels in both moral virtue and aesthetic form. Used today for flawless work, ideal relationships, and perfect events.</span>
+        <span class="cy-note">Confucius used this phrase to evaluate music: the highest praise for something that excels in both moral virtue and aesthetic form. Used today for flawless work, ideal relationships, and perfect events.</span>
       </div>
 
       <div class="cy">
@@ -308,7 +308,7 @@ content_sources:
 
     <div class="scholar" data-glyph="美" style="margin-top:2.5rem;">
       <div class="scholar-label">记忆法 jìyìfǎ · Master Retention Image</div>
-      <p>Picture a magnificent ram — the largest, most impressive sheep — standing at the center of a sacrificial ceremony. Its horns curve perfectly; its fleece is spotless; the whole village gathers around it in admiration. That is 美: abundance, excellence, and the deepest pleasure, all converging on the same thing.</p>
+      <p>Picture a magnificent ram (the largest, most impressive sheep) standing at the center of a sacrificial ceremony. Its horns curve perfectly; its fleece is spotless; the whole village gathers around it in admiration. That is 美: abundance, excellence, and the deepest pleasure, all converging on the same thing.</p>
     </div>
 
     <footer class="page-footer">

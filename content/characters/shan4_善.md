@@ -361,14 +361,14 @@ updated: '2026-04-25'
         <span class="cy-cn">善始善终</span>
         <span class="cy-py">shàn shǐ shàn zhōng</span>
         <span class="cy-en">good beginning, good ending — to see something through with care and integrity</span>
-        <span class="cy-note">Both 始 (beginning) and 终 (end) are qualified by 善: the virtue applies not just to intention but to completion. The idiom names something harder than it sounds , many things begin well. 做事要善始善终，不能半途而废。Do things well from start to finish — don't give up halfway.</span>
+        <span class="cy-note">Both 始 (beginning) and 终 (end) are qualified by 善: the virtue applies not just to intention but to completion. The idiom names something harder than it sounds , many things begin well. 做事要善始善终，不能半途而废。Do things well from start to finish; don't give up halfway.</span>
       </div>
 
       <div class="cy">
         <span class="cy-cn">积善成德</span>
         <span class="cy-py">jī shàn chéng dé</span>
         <span class="cy-en">accumulate goodness, achieve virtue — individual good acts build character over time</span>
-        <span class="cy-note">From Xunzi (荀子): 积土成山…积善成德，而神明自得，圣心备焉。 "Pile earth to make a mountain; accumulate goodness to achieve virtue — and the divine intelligence arrives of itself, the sage's mind becomes complete." Virtue on this account is a slow deposit, not a bolt of insight.</span>
+        <span class="cy-note">From Xunzi (荀子): 积土成山…积善成德，而神明自得，圣心备焉。 "Pile earth to make a mountain; accumulate goodness to achieve virtue, and the divine intelligence arrives of itself, the sage's mind becomes complete." Virtue on this account is a slow deposit, not a bolt of insight.</span>
       </div>
 
       <div class="cy">
@@ -415,7 +415,7 @@ updated: '2026-04-25'
     <!-- RETENTION -->
     <div class="scholar" data-glyph="善" style="margin-top:2.5rem;">
       <div class="scholar-label">记忆法 jìyìfǎ · Master Retention Image</div>
-      <p>Picture 善 shàn as a <strong>ram at the altar, flanked by two mouths declaring it acceptable.</strong> The sheep signals: this is the right offering, the one that fits. The mouths signal: it has been recognized as such, spoken aloud, agreed upon. Goodness in 善 is never purely private — it is a quality confirmed in the act of being declared.</p>
+      <p>Picture 善 shàn as a <strong>ram at the altar, flanked by two mouths declaring it acceptable.</strong> The sheep signals: this is the right offering, the one that fits. The mouths signal: it has been recognized as such, spoken aloud, agreed upon. Goodness in 善 is never purely private; it is a quality confirmed in the act of being declared.</p>
       <p>From there, two paths branch. Mencius sends you inward: the goodness is already in you as four waiting sprouts. Tend them. Laozi sends you downward: be like water, go to the low places, benefit without contending. Both paths begin with the same character.</p>
     </div>
 

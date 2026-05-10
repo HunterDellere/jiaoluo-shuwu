@@ -96,8 +96,8 @@ pinyin: 'suīrán dànshì'
       <strong>虽然 [conceded premise A]，但是 [real point B]</strong><br>
       "Although A is true, B is what actually matters."<br><br>
       <strong>虽然…但</strong> , shortened (spoken/written)<br>
-      <strong>虽然…可是</strong> — softer pivot (可是 kěshì = but/however, slightly gentler)<br>
-      <strong>虽然…然而</strong> — formal/literary (然而 rán'ér = nevertheless)
+      <strong>虽然…可是</strong> · softer pivot (可是 kěshì = but/however, slightly gentler)<br>
+      <strong>虽然…然而</strong> · formal/literary (然而 rán'ér = nevertheless)
     </div>
 
     <div class="note">
@@ -232,7 +232,7 @@ pinyin: 'suīrán dànshì'
           <tr>
             <td class="td-cn">尽管…还是</td>
             <td>factually true; emphatic</td>
-            <td>"despite all" — stronger sense of obstacle overcome</td>
+            <td>"despite all"; stronger sense of obstacle overcome</td>
             <td>when the concession involves real difficulty</td>
           </tr>
           <tr>

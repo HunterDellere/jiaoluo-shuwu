@@ -353,7 +353,7 @@ related:
         <span class="cy-cn">仁至义尽</span>
         <span class="cy-py">rén zhì yì jìn</span>
         <span class="cy-en">humaneness to the utmost, righteousness to its limit — to do everything one possibly can</span>
-        <span class="cy-note">Said of someone who has discharged every moral obligation, exhausted every avenue of help or forgiveness — usually before walking away. Often used right before delivering a hard refusal: "I have done everything humanly possible; the rest is not on me."</span>
+        <span class="cy-note">Said of someone who has discharged every moral obligation, exhausted every avenue of help or forgiveness, usually before walking away. Often used right before delivering a hard refusal: "I have done everything humanly possible; the rest is not on me."</span>
       </div>
 
       <div class="cy">
@@ -394,8 +394,8 @@ related:
     <!-- RETENTION IMAGE -->
     <div class="scholar" data-glyph="仁" style="margin-top:2.5rem;">
       <div class="scholar-label">记忆法 jìyìfǎ · Master Retention Image</div>
-      <p>Hold the character in mind: 亻 (a person, in profile) on the left, 二 (two) on the right. Person + two. The whole philosophy is in the structure. 仁 is not what a person <em>is</em> alone — it is what emerges <em>between</em> them. This is why Confucius could not pin it down to one rule: rules govern individuals; 仁 governs the space between them, and that space is different every time.</p>
-      <p>The botanical sense holds the memory. A 仁 is a kernel — the living center inside a fruit's hard shell, the thing from which growth begins. The same word does double duty: <em>seed inside the fruit</em> and <em>humaneness inside the person.</em> Both are the generative core. Both can be split open and lost. Both, when alive, grow outward.</p>
+      <p>Hold the character in mind: 亻 (a person, in profile) on the left, 二 (two) on the right. Person + two. The whole philosophy is in the structure. 仁 is not what a person <em>is</em> alone; it is what emerges <em>between</em> them. This is why Confucius could not pin it down to one rule: rules govern individuals; 仁 governs the space between them, and that space is different every time.</p>
+      <p>The botanical sense holds the memory. A 仁 is a kernel: the living center inside a fruit's hard shell, the thing from which growth begins. The same word does double duty: <em>seed inside the fruit</em> and <em>humaneness inside the person.</em> Both are the generative core. Both can be split open and lost. Both, when alive, grow outward.</p>
     </div>
 
     <footer class="page-footer">

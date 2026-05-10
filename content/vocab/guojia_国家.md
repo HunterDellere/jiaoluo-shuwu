@@ -125,7 +125,7 @@ content_review: 'pending'
       <div class="card c-teal">
         <div class="card-head"><span class="card-cn">家国情怀</span><span class="card-py">jiāguó qínghuái</span><span class="card-en">family-country sentiment; patriotic feeling rooted in personal bonds</span></div>
         <div class="tags"><span class="tag tag-n">N 名词</span></div>
-        <div class="card-def">家 (family) + 国 (country) + 情怀 qínghuái (feeling, sentiment, cherished aspiration). The emotional bond that flows from family love outward to love of country — the Confucian ladder enacted as feeling. A major concept in contemporary Chinese cultural discourse, used to describe works of art, historical figures, and educational values. Classical poetry about missing one's home while serving the state (a genre going back to the Han dynasty) is the prototype.</div>
+        <div class="card-def">家 (family) + 国 (country) + 情怀 qínghuái (feeling, sentiment, cherished aspiration). The emotional bond that flows from family love outward to love of country: the Confucian ladder enacted as feeling. A major concept in contemporary Chinese cultural discourse, used to describe works of art, historical figures, and educational values. Classical poetry about missing one's home while serving the state (a genre going back to the Han dynasty) is the prototype.</div>
         <div class="examples">
           <div class="example"><div class="ex-cn">这部电影很好地表达了中国人的家国情怀。</div><div class="ex-py">Zhè bù diànyǐng hěn hǎo de biǎodále Zhōngguó rén de jiāguó qínghuái.</div><div class="ex-en">This film beautifully expresses the Chinese sense of family-and-country sentiment.</div></div>
         </div>
@@ -155,13 +155,13 @@ content_review: 'pending'
         <span class="cy-cn">治国安邦</span>
         <span class="cy-py">zhì guó ān bāng</span>
         <span class="cy-en">"govern the state, pacify the realm" — the task of statecraft</span>
-        <span class="cy-note">治国 (govern the state) + 安邦 (stabilize the realm — 邦 bāng, polity, domain). The paired formulation for the ruler's task: governing the state and maintaining peace across the whole domain. A classical political phrase that appears in pre-Qin texts. Used today in descriptions of political leadership, historical assessments of emperors, and civic education about the responsibilities of governance.</span>
+        <span class="cy-note">治国 (govern the state) + 安邦 (stabilize the realm; 邦 bāng, polity, domain). The paired formulation for the ruler's task: governing the state and maintaining peace across the whole domain. A classical political phrase that appears in pre-Qin texts. Used today in descriptions of political leadership, historical assessments of emperors, and civic education about the responsibilities of governance.</span>
       </div>
       <div class="cy">
         <span class="cy-cn">保家卫国</span>
         <span class="cy-py">bǎo jiā wèi guó</span>
         <span class="cy-en">"defend the family, guard the country" — patriotic sacrifice</span>
-        <span class="cy-note">保家 (protect the family) + 卫国 (defend the country). The phrase that encodes the family-state bond as a call to military service: you fight for the country by fighting for your family; you fight for your family by defending the country. A wartime mobilization phrase that became a standard patriotic formula. The Confucian ladder runs in both directions — love of family motivates defense of the state.</span>
+        <span class="cy-note">保家 (protect the family) + 卫国 (defend the country). The phrase that encodes the family-state bond as a call to military service: you fight for the country by fighting for your family; you fight for your family by defending the country. A wartime mobilization phrase that became a standard patriotic formula. The Confucian ladder runs in both directions: love of family motivates defense of the state.</span>
       </div>
       <div class="cy">
         <span class="cy-cn">富国强兵</span>

@@ -121,8 +121,8 @@ content_review: 'pending'
       <strong>桌子上</strong> zhuōzi shàng , on top of the table<br>
       <strong>楼上</strong> lóushàng , upstairs; the upper floor<br>
       <strong>山上</strong> shān shàng , on the mountain; up the mountain<br>
-      <strong>上面</strong> shàngmiàn — above; on top; the upper side<br>
-      <strong>以上</strong> yǐshàng — above (a number); the above-mentioned<br>
+      <strong>上面</strong> shàngmiàn, above; on top; the upper side<br>
+      <strong>以上</strong> yǐshàng, above (a number); the above-mentioned<br>
       Contrast throughout with 下: 楼下 (downstairs), 山下 (below the mountain), 以下 (below; the following).
     </div>
 
@@ -445,7 +445,7 @@ content_review: 'pending'
         <span class="cy-cn">锦上添花</span>
         <span class="cy-py">jǐn shàng tiān huā</span>
         <span class="cy-en">"adding flowers on top of brocade" — making something excellent even better</span>
-        <span class="cy-note">Brocade (锦 jǐn) is already the finest silk, already decorated with woven patterns. Adding flowers on top of it is a gift that was not needed but is delightful. Contrasted with 雪中送炭 (sending coal in the snow) — helping someone in genuine need. 锦上添花 is the luxury gesture; 雪中送炭 is the necessary one. Both are valued but for different reasons.</span>
+        <span class="cy-note">Brocade (锦 jǐn) is already the finest silk, already decorated with woven patterns. Adding flowers on top of it is a gift that was not needed but is delightful. Contrasted with 雪中送炭 (sending coal in the snow), helping someone in genuine need. 锦上添花 is the luxury gesture; 雪中送炭 is the necessary one. Both are valued but for different reasons.</span>
       </div>
 
       <div class="cy">

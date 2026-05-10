@@ -358,7 +358,7 @@ content_review: 'pending'
         <span class="cy-cn">小心翼翼</span>
         <span class="cy-py">xiǎoxīn yìyì</span>
         <span class="cy-en">with extreme care and caution; treading very lightly</span>
-        <span class="cy-note">Lit: small-heart wing-wing. The 翼翼 reduplication comes from the Shijing (Classic of Poetry) where it described birds folding their wings carefully. The phrase now describes any action taken with meticulous, almost anxious caution — carrying fragile objects, navigating a sensitive conversation, stepping through dangerous terrain. Stronger and more formal than simply saying 小心.</span>
+        <span class="cy-note">Lit: small-heart wing-wing. The 翼翼 reduplication comes from the Shijing (Classic of Poetry) where it described birds folding their wings carefully. The phrase now describes any action taken with meticulous, almost anxious caution: carrying fragile objects, navigating a sensitive conversation, stepping through dangerous terrain. Stronger and more formal than simply saying 小心.</span>
       </div>
 
       <div class="cy">
@@ -382,7 +382,7 @@ content_review: 'pending'
     <div class="scholar" data-glyph="小">
       <div class="scholar-label">字形记忆 zìxíng jìyì · Form &amp; Retention</div>
       <p>Write 小 slowly: a downward center stroke, then two dots angled outward from its base. Three gestures. The whole character fits inside a postage stamp with room to spare. The form enacts its meaning: these are the smallest marks that still count as three distinct things. One more stroke and you could build a tree; remove one and you approach nothing. 小 occupies the minimum viable complexity.</p>
-      <p>The compound <strong>小心</strong> is the most useful retention anchor. A small heart is a cautious one. When you are careful with something fragile — a full glass, a newborn, a difficult conversation — your chest actually contracts a little, your breathing shortens, your attention narrows. The Chinese body-metaphor captures exactly what caution feels like. 心 is the organ of thought and feeling in Chinese medicine, and making it small is the visceral image of being watchful. Once you feel that image, 小心 never needs to be memorized again.</p>
+      <p>The compound <strong>小心</strong> is the most useful retention anchor. A small heart is a cautious one. When you are careful with something fragile (a full glass, a newborn, a difficult conversation), your chest actually contracts a little, your breathing shortens, your attention narrows. The Chinese body-metaphor captures exactly what caution feels like. 心 is the organ of thought and feeling in Chinese medicine, and making it small is the visceral image of being watchful. Once you feel that image, 小心 never needs to be memorized again.</p>
     </div>
 
     <!-- ── ADJACENT ── -->

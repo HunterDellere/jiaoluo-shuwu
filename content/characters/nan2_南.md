@@ -110,7 +110,7 @@ content_review: 'pending'
         <span class="cy-cn">南辕北辙</span>
         <span class="cy-py">nán yuán běi zhé</span>
         <span class="cy-en">"going south in the shafts, tracks heading north" — completely self-contradictory</span>
-        <span class="cy-note">From the Zhànguó Cè: a man in the state of Wèi claimed he was going to the state of Chǔ (which lies south) but pointed his carriage north. When told he was heading the wrong way, he replied that his horse was fast, his driver skilled, and he had plenty of provisions — all the wrong justifications. The story is told as a critique of a king whose political goals directly contradicted his actions. The phrase now means any situation where the means work against the ends.</span>
+        <span class="cy-note">From the Zhànguó Cè: a man in the state of Wèi claimed he was going to the state of Chǔ (which lies south) but pointed his carriage north. When told he was heading the wrong way, he replied that his horse was fast, his driver skilled, and he had plenty of provisions, all the wrong justifications. The story is told as a critique of a king whose political goals directly contradicted his actions. The phrase now means any situation where the means work against the ends.</span>
       </div>
       <div class="cy">
         <span class="cy-cn">闯南走北</span>
@@ -133,8 +133,8 @@ content_review: 'pending'
 
     <div class="scholar" data-glyph="南">
       <div class="scholar-label">记忆法 jìyìfǎ · Master Retention Image</div>
-      <p>South is the direction Chinese buildings face, and the compass needle Chinese navigators read as pointing toward. In a country at northern latitudes, south means sun, warmth, and growth. The emperor sits facing south — the productive world spread before him. Every traditional courtyard home faces south for the same reason: that is where the light comes from.</p>
-      <p>The pair 南北 (south-north) divides China the way 东西 (east-west) generates a word for "things." The north-south divide in food, climate, temperament, and rice-vs-wheat is one of the most discussed cultural distinctions in China. 南方人 vs. 北方人 is a shorthand for a complex of regional identities. And 南辕北辙 captures something about the Chinese political imagination: the most fundamental error is to be pointed in the exact wrong direction — not slightly off-course, but completely reversed.</p>
+      <p>South is the direction Chinese buildings face, and the compass needle Chinese navigators read as pointing toward. In a country at northern latitudes, south means sun, warmth, and growth. The emperor sits facing south, with the productive world spread before him. Every traditional courtyard home faces south for the same reason: that is where the light comes from.</p>
+      <p>The pair 南北 (south-north) divides China the way 东西 (east-west) generates a word for "things." The north-south divide in food, climate, temperament, and rice-vs-wheat is one of the most discussed cultural distinctions in China. 南方人 vs. 北方人 is a shorthand for a complex of regional identities. And 南辕北辙 captures something about the Chinese political imagination: the most fundamental error is to be pointed in the exact wrong direction: not slightly off-course, but completely reversed.</p>
     </div>
 
     <footer class="page-footer">

@@ -298,7 +298,7 @@ content_review: 'pending'
         <span class="cy-cn">魑魅魍魉</span>
         <span class="cy-py">chī mèi wǎng liǎng</span>
         <span class="cy-en">four types of malevolent spirits — demons and monsters; all manner of evil beings</span>
-        <span class="cy-note">All four characters share the 鬼 radical, which is itself significant , this is a phrase built entirely within the spirit-world lexicon. 魑 chī: a mountain demon; 魅 mèi: a seductive forest spirit; 魍 wǎng and 魉 liǎng: two water or mountain spirits classified in classical demonology. Together they name the full roster of dangerous supernatural beings. In modern usage, 魑魅魍魉 refers figuratively to corrupt individuals, sinister forces, people of bad character operating in the shadows — "all manner of demons." A classical literary phrase elevated by its four-character rhythm and its etymological density.</span>
+        <span class="cy-note">All four characters share the 鬼 radical, which is itself significant , this is a phrase built entirely within the spirit-world lexicon. 魑 chī: a mountain demon; 魅 mèi: a seductive forest spirit; 魍 wǎng and 魉 liǎng: two water or mountain spirits classified in classical demonology. Together they name the full roster of dangerous supernatural beings. In modern usage, 魑魅魍魉 refers figuratively to corrupt individuals, sinister forces, people of bad character operating in the shadows: "all manner of demons." A classical literary phrase elevated by its four-character rhythm and its etymological density.</span>
       </div>
 
     </div>

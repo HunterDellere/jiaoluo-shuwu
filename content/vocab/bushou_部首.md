@@ -27,7 +27,7 @@ content_sources:
     <div class="toc-divider"></div>
     <span class="toc-label">On this page</span>
     <ul class="toc-list">
-      <li><a href="#what"><span class="toc-cn">什么</span> What Radicals Are<span class="toc-sub">not letters — keys</span></a></li>
+      <li><a href="#what"><span class="toc-cn">什么</span> What Radicals Are<span class="toc-sub">not letters, keys</span></a></li>
       <li><a href="#kangxi"><span class="toc-cn">康熙</span> The 214 Kangxi Radicals<span class="toc-sub">the standard system</span></a></li>
       <li><a href="#semantic"><span class="toc-cn">表意</span> Radicals as Meaning Signals<span class="toc-sub">semantic components</span></a></li>
       <li><a href="#forms"><span class="toc-cn">变形</span> Radical Forms<span class="toc-sub">how they change position</span></a></li>
@@ -42,7 +42,7 @@ content_sources:
       <span class="topic-hero-eyebrow">Language · 语言 yǔyán</span>
       <h1 class="topic-hero-title">部首</h1>
       <span class="topic-hero-title-py">bù shǒu</span>
-      <p class="topic-hero-desc">Radicals are the indexing components of Chinese characters — the structural units that organize dictionaries, signal meaning, and reveal the logic of how characters are built.</p>
+      <p class="topic-hero-desc">Radicals are the indexing components of Chinese characters: the structural units that organize dictionaries, signal meaning, and reveal the logic of how characters are built.</p>
     </header>
 
     <span class="section-anchor" id="what"></span>
@@ -177,7 +177,7 @@ content_sources:
       <div class="card c-ochre">
         <div class="card-hanzi">六书</div>
         <div class="card-pinyin">liù shū</div>
-        <div class="card-en">the Six Scripts — the six ways characters are formed</div>
+        <div class="card-en">the Six Scripts, the six ways characters are formed</div>
         <div class="card-note">The classical taxonomy: 象形 (pictograph), 指事 (ideograph), 会意 (logical compound), 形声 (phono-semantic), 转注 (derivative), 假借 (phonetic loan). Codified in the Shuowen Jiezi (100 CE).</div>
       </div>
 

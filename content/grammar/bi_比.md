@@ -60,7 +60,7 @@ pinyin: 'bǐ'
       <span class="topic-hero-eyebrow">Grammar · 语法 yǔfǎ</span>
       <h1 class="topic-hero-title">比</h1>
       <span class="topic-hero-title-py">bǐ</span>
-      <p class="topic-hero-desc">The comparison preposition — A 比 B + Adj states that A has more of a quality than B. Not a suffix like English "-er," but a full structural element placed before the standard of comparison.</p>
+      <p class="topic-hero-desc">The comparison preposition: A 比 B + Adj states that A has more of a quality than B. Not a suffix like English "-er," but a full structural element placed before the standard of comparison.</p>
     </header>
 
     <span class="section-anchor" id="overview"></span>
@@ -190,7 +190,7 @@ pinyin: 'bǐ'
       A + <strong>没有</strong> + B + Adj<br>
       我没有他高。I am not as tall as him.<br>
       今天没有昨天热。Today is not as hot as yesterday.<br>
-      Do NOT say 不比 for "not as … as." 不比 means "not more than B" — a subtly different claim.
+      Do NOT say 不比 for "not as … as." 不比 means "not more than B," a subtly different claim.
     </div>
 
     <div class="cards">

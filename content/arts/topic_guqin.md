@@ -257,14 +257,14 @@ pinyin: 'gǔqín'
         <span class="cy-cn">高山流水</span>
         <span class="cy-py">gāoshān liúshuǐ</span>
         <span class="cy-en">high mountains, flowing water — finding someone who truly hears you</span>
-        <span class="cy-note">The piece Boya played when Ziqi first identified the mountains and rivers in his music. As a chengyu, 高山流水 has two uses: the meeting of a 知音 (someone who understands you perfectly), and — more broadly — music or artistry of the very highest order. The phrase carries the full weight of the 伯牙绝弦 story behind it: to say of a meeting that it was 高山流水 is to say it was rare, complete, and not to be repeated lightly.</span>
+        <span class="cy-note">The piece Boya played when Ziqi first identified the mountains and rivers in his music. As a chengyu, 高山流水 has two uses: the meeting of a 知音 (someone who understands you perfectly), and more broadly, music or artistry of the very highest order. The phrase carries the full weight of the 伯牙绝弦 story behind it: to say of a meeting that it was 高山流水 is to say it was rare, complete, and not to be repeated lightly.</span>
       </div>
 
       <div class="cy">
         <span class="cy-cn">对牛弹琴</span>
         <span class="cy-py">duì niú tán qín</span>
         <span class="cy-en">playing the qin to a cow — speaking to someone incapable of understanding</span>
-        <span class="cy-note">From a Han dynasty text attributed to 牟融 Móu Róng. A musician plays the most refined music for a cow; the cow goes on eating grass. The problem is not the cow's intelligence but the category mismatch: the music is addressed to the wrong kind of listener. Used today in the same way English speakers use "casting pearls before swine" — talking about something complex to someone who has no frame for it. The guqin context makes the contrast sharper: the instrument that Boya played for his 知音 is the same instrument wasted on the cow.</span>
+        <span class="cy-note">From a Han dynasty text attributed to 牟融 Móu Róng. A musician plays the most refined music for a cow; the cow goes on eating grass. The problem is not the cow's intelligence but the category mismatch: the music is addressed to the wrong kind of listener. Used today in the same way English speakers use "casting pearls before swine": talking about something complex to someone who has no frame for it. The guqin context makes the contrast sharper: the instrument that Boya played for his 知音 is the same instrument wasted on the cow.</span>
       </div>
 
     </div>

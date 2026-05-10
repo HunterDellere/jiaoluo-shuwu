@@ -90,7 +90,7 @@ content_sources:
       <p><strong>唱 chàng , singing:</strong> The melodic vocal performance, using two principal musical systems: 西皮 xīpí (brighter, faster, often for more dynamic emotional states) and 二黄 èrhuáng (more solemn, melancholy). Each role type has its own vocal register: male roles use a natural voice (大嗓 dàsǎng) while the traditional female role (旦 dàn) uses a highly trained falsetto (小嗓 xiǎosǎng).</p>
       <p><strong>念 niàn , stylized speech:</strong> Declamatory dialogue in heightened, rhythmic speech, formalized rather than conversational, signaling theatrical convention to the audience. Two major speech systems: 京白 jīngbái (Beijing vernacular dialogue) and 韵白 yùnbái (classical rhymed speech, more archaic and formal).</p>
       <p><strong>做 zuò , movement and gesture:</strong> The entire vocabulary of stylized body movement, gesture, and mime. Highly codified: every gesture has specific meaning. Walking, sitting, weeping, laughing are all performed in patterned, conventionalized ways. Sleeve movement (水袖 shuǐxiù, water sleeves) is a distinctive technique.</p>
-      <p><strong>打 dǎ — combat and acrobatics:</strong> Stylized martial performance derived from both actual martial arts and acrobatic traditions. Weapons combat (刀枪把子 dāoqiāng bǎzi), tumbling, somersaults, and aerial work. The military general roles (武生 wǔshēng, 武旦 wǔdàn) specialize in 打.</p>
+      <p><strong>打 dǎ, combat and acrobatics:</strong> Stylized martial performance derived from both actual martial arts and acrobatic traditions. Weapons combat (刀枪把子 dāoqiāng bǎzi), tumbling, somersaults, and aerial work. The military general roles (武生 wǔshēng, 武旦 wǔdàn) specialize in 打.</p>
     </div>
 
     <span class="section-anchor" id="roles"></span>
@@ -105,7 +105,7 @@ content_sources:
       <span class="label">四大行当 sì dà hángdang · The Four Main Role Categories</span>
       <strong>生 shēng</strong>: male roles (老生 lǎoshēng: mature dignified man / 小生 xiǎoshēng: young man / 武生 wǔshēng: military man)<br>
       <strong>旦 dàn</strong>: female roles (青衣 qīngyī: virtuous mature woman / 花旦 huādàn: vivacious young woman / 武旦 wǔdàn: military woman)<br>
-      <strong>净 jìng</strong>: painted-face roles (大花脸: powerful, forceful characters — generals, gods, villains — with elaborate face paint)<br>
+      <strong>净 jìng</strong>: painted-face roles (大花脸: powerful, forceful characters such as generals, gods, and villains, with elaborate face paint)<br>
       <strong>丑 chǒu</strong>: clown roles (文丑: comic civilian / 武丑: comic acrobat, the only role that uses natural-color face with a white nose patch)
     </div>
 

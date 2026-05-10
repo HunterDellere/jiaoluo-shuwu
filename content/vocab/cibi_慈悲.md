@@ -300,12 +300,12 @@ updated: '2026-04-25'
           <div class="example">
             <div class="ex-cn">你就发发慈悲，帮我一次吧！</div>
             <div class="ex-py">Nǐ jiù fā fa cíbēi, bāng wǒ yī cì ba!</div>
-            <div class="ex-en">Please just have mercy — help me this once!</div>
+            <div class="ex-en">Please just have mercy, help me this once!</div>
           </div>
           <div class="example">
             <div class="ex-cn">老师，您就发发慈悲，让我补考吧。</div>
             <div class="ex-py">Lǎoshī, nín jiù fā fa cíbēi, ràng wǒ bǔkǎo ba.</div>
-            <div class="ex-en">Teacher, please show some mercy — let me take a make-up exam.</div>
+            <div class="ex-en">Teacher, please show some mercy, let me take a make-up exam.</div>
           </div>
           <div class="example">
             <div class="ex-cn">你不发慈悲，我真的没有办法了。</div>
@@ -354,7 +354,7 @@ updated: '2026-04-25'
     <!-- RETENTION -->
     <div class="scholar" data-glyph="慈" style="margin-top:2.5rem;">
       <div class="scholar-label">记忆法 jìyìfǎ · Master Retention Image</div>
-      <p>The Vimalakīrti formulation is the memory anchor: 慈者与众生乐，悲者拔众生苦. One character reaches toward joy; the other reaches toward pain. Two directions of the same movement. The heart-mind 心 is at the base of both 慈 and 悲 — the same organ, attending from both sides.</p>
+      <p>The Vimalakīrti formulation is the memory anchor: 慈者与众生乐，悲者拔众生苦. One character reaches toward joy; the other reaches toward pain. Two directions of the same movement. The heart-mind 心 is at the base of both 慈 and 悲: the same organ, attending from both sides.</p>
       <p>Guanyin's 33 forms are the structural enactment of the compound: no fixed shape, because the reaching-out adapts to whoever needs to be reached. That adaptability is what 大慈大悲 means in practice.</p>
       <p>In everyday speech, 发慈悲 is the echo of all of this in a very ordinary moment: someone asking for help by invoking the vocabulary of bodhisattva mercy. The distance is comic and entirely sincere at the same time.</p>
     </div>

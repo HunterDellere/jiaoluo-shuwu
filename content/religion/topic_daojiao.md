@@ -357,7 +357,7 @@ pinyin: 'dàojiào'
         <span class="cy-cn">上善若水</span>
         <span class="cy-py">shàng shàn ruò shuǐ</span>
         <span class="cy-en">the highest good is like water — the signature Daoist image</span>
-        <span class="cy-note">Daodejing 8. Water benefits all things without competing; it dwells in the low places that people despise , and therefore it is close to the Dao. 水善利万物而不争，处众人之所恶 — "Water benefits all things and does not compete; it dwells where people disdain to be." The most quoted single line of the Daodejing in modern Chinese contexts.</span>
+        <span class="cy-note">Daodejing 8. Water benefits all things without competing; it dwells in the low places that people despise , and therefore it is close to the Dao. 水善利万物而不争，处众人之所恶. "Water benefits all things and does not compete; it dwells where people disdain to be." The most quoted single line of the Daodejing in modern Chinese contexts.</span>
       </div>
 
       <div class="cy">
@@ -371,7 +371,7 @@ pinyin: 'dàojiào'
         <span class="cy-cn">曲则全</span>
         <span class="cy-py">qū zé quán</span>
         <span class="cy-en">yield and you will be preserved — the paradox of strength through softness</span>
-        <span class="cy-note">Daodejing 22: 曲则全，枉则直，洼则盈 — "Yield and you will be preserved; bend and you will be straightened; hollow and you will be filled." The full paradoxical sequence of Daoist counterintuition. 曲则全 is cited whenever the strategy of apparent weakness or retreat is being justified — in negotiations, in martial arts, in diplomacy.</span>
+        <span class="cy-note">Daodejing 22: 曲则全，枉则直，洼则盈. "Yield and you will be preserved; bend and you will be straightened; hollow and you will be filled." The full paradoxical sequence of Daoist counterintuition. 曲则全 is cited whenever the strategy of apparent weakness or retreat is being justified: in negotiations, in martial arts, in diplomacy.</span>
       </div>
 
     </div>

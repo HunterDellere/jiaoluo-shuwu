@@ -435,7 +435,7 @@ content_review: 'pending'
         <span class="cy-cn">任重道远</span>
         <span class="cy-py">rèn zhòng dào yuǎn</span>
         <span class="cy-en">the burden is heavy, the road is far — great responsibility with a long journey ahead</span>
-        <span class="cy-note">From the Analects of Confucius, Book 8 (Zengzi): 仁以为己任，不亦重乎？死而后已，不亦远乎 — "Taking benevolence as one's own responsibility, is that not heavy? To stop only at death, is that not far?" Used to describe serious long-term undertakings: social reform, education, national development, a life's work. Conveys gravitas without complaint. Common in speeches, graduation addresses, and political rhetoric. Both 道 dào (road) and 远 yuǎn (far) are doing double work: the physical road and the moral path.</span>
+        <span class="cy-note">From the Analects of Confucius, Book 8 (Zengzi): 仁以为己任，不亦重乎？死而后已，不亦远乎. "Taking benevolence as one's own responsibility, is that not heavy? To stop only at death, is that not far?" Used to describe serious long-term undertakings: social reform, education, national development, a life's work. Conveys gravitas without complaint. Common in speeches, graduation addresses, and political rhetoric. Both 道 dào (road) and 远 yuǎn (far) are doing double work: the physical road and the moral path.</span>
       </div>
 
       <div class="cy">
@@ -449,7 +449,7 @@ content_review: 'pending'
         <span class="cy-cn">远走高飞</span>
         <span class="cy-py">yuǎn zǒu gāo fēi</span>
         <span class="cy-en">walk far and fly high — to go far away; to escape and seek freedom</span>
-        <span class="cy-note">Lit: far-walk-high-fly. The image of a bird launching into open sky. Used when someone leaves a constraining situation — a bad job, a difficult relationship, a suffocating hometown — to seek a better life elsewhere. Carries a tone of liberation and sometimes wistfulness. Can be tinged with abandonment: 他就这样远走高飞，什么都不管了 ("He just flew off without a care for anyone"). Register is colloquial to literary; context determines whether the escape is celebrated or lamented.</span>
+        <span class="cy-note">Lit: far-walk-high-fly. The image of a bird launching into open sky. Used when someone leaves a constraining situation (a bad job, a difficult relationship, a suffocating hometown) to seek a better life elsewhere. Carries a tone of liberation and sometimes wistfulness. Can be tinged with abandonment: 他就这样远走高飞，什么都不管了 ("He just flew off without a care for anyone"). Register is colloquial to literary; context determines whether the escape is celebrated or lamented.</span>
       </div>
 
       <div class="cy">

@@ -120,7 +120,7 @@ content_review: 'pending'
       <div class="card c-ochre">
         <div class="card-head"><span class="card-cn">商队</span><span class="card-py">shāngduì</span><span class="card-en">merchant caravan</span></div>
         <div class="tags"><span class="tag-n">noun</span></div>
-        <p class="card-def">商 shāng (commerce) + 队 duì (column/team). The organizational unit of overland trade — merchants traveling together for mutual protection across hostile terrain.</p>
+        <p class="card-def">商 shāng (commerce) + 队 duì (column/team). The organizational unit of overland trade: merchants traveling together for mutual protection across hostile terrain.</p>
         <div class="examples">
           <div class="ex"><span class="ex-cn">商队穿越了塔克拉玛干沙漠。</span><span class="ex-py">Shāngduì chuānyuèle Tǎkèlāmǎgān shāmò.</span><span class="ex-en">The caravan crossed the Taklamakan Desert.</span></div>
         </div>
@@ -128,7 +128,7 @@ content_review: 'pending'
       <div class="card c-teal">
         <div class="card-head"><span class="card-cn">驼队</span><span class="card-py">tuóduì</span><span class="card-en">camel train</span></div>
         <div class="tags"><span class="tag-n">noun</span></div>
-        <p class="card-def">驼 tuó (camel) + 队 duì (column). Bactrian camels (双峰驼 — two-humped) were the primary transport animal on Central Asian routes, capable of carrying 200 kg for weeks without water.</p>
+        <p class="card-def">驼 tuó (camel) + 队 duì (column). Bactrian camels (双峰驼, two-humped) were the primary transport animal on Central Asian routes, capable of carrying 200 kg for weeks without water.</p>
         <div class="examples">
           <div class="ex"><span class="ex-cn">驼队是古代丝路的标志。</span><span class="ex-py">Tuóduì shì gǔdài sī lù de biāozhì.</span><span class="ex-en">The camel train is the symbol of the ancient Silk Road.</span></div>
         </div>
@@ -144,7 +144,7 @@ content_review: 'pending'
       <div class="card c-violet">
         <div class="card-head"><span class="card-cn">西域</span><span class="card-py">xīyù</span><span class="card-en">the Western Regions</span></div>
         <div class="tags"><span class="tag-n">noun</span></div>
-        <p class="card-def">The Han and Tang Chinese term for Central Asia — everything west of the Jade Gate (玉门关) at Dunhuang. Included the Tarim Basin, Ferghana, Sogdia, Bactria, and Parthia. A term carrying both geographic and imaginative weight.</p>
+        <p class="card-def">The Han and Tang Chinese term for Central Asia: everything west of the Jade Gate (玉门关) at Dunhuang. Included the Tarim Basin, Ferghana, Sogdia, Bactria, and Parthia. A term carrying both geographic and imaginative weight.</p>
         <div class="examples">
           <div class="ex"><span class="ex-cn">张骞出使西域，开辟了丝绸之路。</span><span class="ex-py">Zhāng Qiān chūshǐ xīyù, kāipìle sīchóu zhī lù.</span><span class="ex-en">Zhang Qian's mission to the Western Regions opened the Silk Road.</span></div>
         </div>

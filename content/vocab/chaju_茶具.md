@@ -61,7 +61,7 @@ content_sources:
       <span class="topic-hero-eyebrow">Vocabulary · 词汇 cíhuì</span>
       <h1 class="topic-hero-title">茶具</h1>
       <span class="topic-hero-title-py">chá jù</span>
-      <p class="topic-hero-desc">The vessels, tools, and objects of the tea table — from the Yixing purple clay teapot to the fairness pitcher, each implement with a name, a function, and an aesthetic logic.</p>
+      <p class="topic-hero-desc">The vessels, tools, and objects of the tea table, from the Yixing purple clay teapot to the fairness pitcher: each implement with a name, a function, and an aesthetic logic.</p>
     </header>
 
     <span class="section-anchor" id="brewing"></span>
@@ -117,7 +117,7 @@ content_sources:
       </div>
       <div class="card c-teal">
         <div class="card-head">品茗杯 pǐn míng bēi · Sipping Cup</div>
-        <p>The small drinking cups — typically 25–50ml — used in gongfu tea service. Small size is deliberate: the concentration of the brew is high, the temperature is hot, and the intention is to drink completely rather than let it cool. Multiple cups are used (usually matching sets of three, four, or six) and they are warmed before use. Some sets pair 闻香杯 wén xiāng bēi (aroma cups, tall and narrow for nosing the aroma of the pour) with 品茗杯 (shorter, wider, for drinking).</p>
+        <p>The small drinking cups (typically 25–50ml) used in gongfu tea service. Small size is deliberate: the concentration of the brew is high, the temperature is hot, and the intention is to drink completely rather than let it cool. Multiple cups are used (usually matching sets of three, four, or six) and they are warmed before use. Some sets pair 闻香杯 wén xiāng bēi (aroma cups, tall and narrow for nosing the aroma of the pour) with 品茗杯 (shorter, wider, for drinking).</p>
       </div>
       <div class="card c-teal">
         <div class="card-head">茶则 chá zé · Tea Scoop / Measure</div>

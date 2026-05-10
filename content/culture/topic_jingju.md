@@ -124,15 +124,15 @@ pinyin: 'jīngjù'
         </div>
         <div class="card c-ochre">
           <div class="card-head"><span class="tag-n">n</span> 武打 wǔdǎ</div>
-          <p>Stage combat — the acrobatic fighting sequences of martial opera. Also used colloquially for action-movie fight choreography.</p>
+          <p>Stage combat: the acrobatic fighting sequences of martial opera. Also used colloquially for action-movie fight choreography.</p>
         </div>
         <div class="card c-teal">
           <div class="card-head"><span class="tag-n">n</span> 锣鼓 luógǔ</div>
-          <p>Gongs and drums — the percussion ensemble that provides the rhythmic foundation of Peking Opera and cues entrances, emotional intensification, and combat sequences.</p>
+          <p>Gongs and drums: the percussion ensemble that provides the rhythmic foundation of Peking Opera and cues entrances, emotional intensification, and combat sequences.</p>
         </div>
         <div class="card c-sienna">
           <div class="card-head"><span class="tag-n">n</span> 戏迷 xīmí</div>
-          <p>Opera fan — literally "theatre-obsessive." The devoted fan who can sing along from memory, knows every role's vocal style, and has opinions about every major performer.</p>
+          <p>Opera fan, literally "theatre-obsessive." The devoted fan who can sing along from memory, knows every role's vocal style, and has opinions about every major performer.</p>
         </div>
       </div>
 

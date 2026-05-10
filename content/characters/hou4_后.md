@@ -234,7 +234,7 @@ content_review: 'pending'
         <span class="cy-cn">后顾之忧</span>
         <span class="cy-py">hòu gù zhī yōu</span>
         <span class="cy-en">"the worry of looking back" — concern for what you leave behind; anxiety about what is happening at the rear</span>
-        <span class="cy-note">后 (behind; the rear) + 顾 (to look back; to attend to) + 之 (classical possessive particle) + 忧 (worry; anxiety). The anxiety of the person who has gone forward and is troubled by what they have left behind — a general at the front worried about his undefended supply lines, a person leaving home worried about an aging parent, someone focused on a task unsettled by what they have not resolved. 解除后顾之忧 (to remove the worry of looking back) means to secure the rear, to settle outstanding concerns so one can concentrate fully on the matter at hand.</span>
+        <span class="cy-note">后 (behind; the rear) + 顾 (to look back; to attend to) + 之 (classical possessive particle) + 忧 (worry; anxiety). The anxiety of the person who has gone forward and is troubled by what they have left behind: a general at the front worried about his undefended supply lines, a person leaving home worried about an aging parent, someone focused on a task unsettled by what they have not resolved. 解除后顾之忧 (to remove the worry of looking back) means to secure the rear, to settle outstanding concerns so one can concentrate fully on the matter at hand.</span>
       </div>
     </div>
 
@@ -256,8 +256,8 @@ content_review: 'pending'
 
     <div class="scholar" data-glyph="后">
       <div class="scholar-label">记忆法 jìyìfǎ · Master Retention Image</div>
-      <p>The trailing foot: that is the image behind the spatial 后. In the original 後, a walking figure has a small foot that falls behind the procession, not yet arrived, lagging at the rear. The foot that trails behind is the rear, the back, the position of not-yet. From that position comes everything spatial (后面, 后方, 背后) and everything temporal (以后, 然后, 最后) — because in Chinese, the not-yet position is the future. The future is behind you: it has not yet arrived, it approaches unseen from the rear, it is the trailing foot of time.</p>
-      <p>The commanding mouth: that is the image behind the imperial 后. The 口 at the base of the glyph is the mouth that issues decrees — the defining act of sovereign authority. 后稷 (Lord Millet) commanded the grain harvest; 皇后 commanded the inner court; 慈禧太后 commanded the Qing empire. The mouth at the bottom of the character does not trail. It pronounces.</p>
+      <p>The trailing foot: that is the image behind the spatial 后. In the original 後, a walking figure has a small foot that falls behind the procession, not yet arrived, lagging at the rear. The foot that trails behind is the rear, the back, the position of not-yet. From that position comes everything spatial (后面, 后方, 背后) and everything temporal (以后, 然后, 最后), because in Chinese, the not-yet position is the future. The future is behind you: it has not yet arrived, it approaches unseen from the rear, it is the trailing foot of time.</p>
+      <p>The commanding mouth: that is the image behind the imperial 后. The 口 at the base of the glyph is the mouth that issues decrees: the defining act of sovereign authority. 后稷 (Lord Millet) commanded the grain harvest; 皇后 commanded the inner court; 慈禧太后 commanded the Qing empire. The mouth at the bottom of the character does not trail. It pronounces.</p>
       <p>Both images now live in the same six strokes. Simplification collapsed the trailing foot and the commanding mouth into a single glyph that the context must resolve. Whenever you write 后, one of two histories is present: the one that lags behind and is still to come, or the one that speaks and is obeyed.</p>
     </div>
 

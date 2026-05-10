@@ -319,7 +319,7 @@ pinyin: 'kǒngzǐ'
         <span class="cy-cn">己所不欲，勿施于人。</span>
         <span class="cy-py">jǐ suǒ bù yù, wù shī yú rén.</span>
         <span class="cy-en">What you do not want done to yourself, do not do to others.</span>
-        <span class="cy-note">Appears twice in the Analects (12.2, 15.24) — the Confucian formulation of the negative Golden Rule. Called the doctrine of 恕 shù (sympathetic understanding). This formulation was inscribed on the UNESCO building in Paris as one of humanity's foundational ethical principles. Different from the positive formulation: Confucius is careful not to say "do unto others what you would have done to you" — he understands that preferences differ.</span>
+        <span class="cy-note">Appears twice in the Analects (12.2, 15.24) as the Confucian formulation of the negative Golden Rule. Called the doctrine of 恕 shù (sympathetic understanding). This formulation was inscribed on the UNESCO building in Paris as one of humanity's foundational ethical principles. Different from the positive formulation: Confucius is careful not to say "do unto others what you would have done to you", because he understands that preferences differ.</span>
       </div>
 
       <div class="cy">
@@ -333,7 +333,7 @@ pinyin: 'kǒngzǐ'
         <span class="cy-cn">名不正则言不顺，言不顺则事不成。</span>
         <span class="cy-py">míng bù zhèng zé yán bù shùn, yán bù shùn zé shì bù chéng.</span>
         <span class="cy-en">If names are not correct, speech will not accord with truth; if speech does not accord, affairs cannot be accomplished.</span>
-        <span class="cy-note">Analects 13.3 — the core statement of 正名 zhèngmíng (rectification of names). The passage continues through social breakdown to a final collapse of ritual and music. The chain of consequences is stark: bad language → failed governance → social disintegration. This is why, for Confucius, getting the words right is not a pedantic concern but a political and moral one.</span>
+        <span class="cy-note">Analects 13.3, the core statement of 正名 zhèngmíng (rectification of names). The passage continues through social breakdown to a final collapse of ritual and music. The chain of consequences is stark: bad language → failed governance → social disintegration. This is why, for Confucius, getting the words right is not a pedantic concern but a political and moral one.</span>
       </div>
 
     </div>

@@ -127,11 +127,11 @@ pinyin: 'xìngmíng'
         </div>
         <div class="card c-teal">
           <div class="card-head"><span class="tag-n">n</span> 字 zì</div>
-          <p>Courtesy name — a second name given at adulthood in traditional practice, used by peers and associates while the given name (名) was reserved for intimates and superiors. Confucius's courtesy name was Zhongni (仲尼). The practice has largely disappeared but its vocabulary persists.</p>
+          <p>Courtesy name: a second name given at adulthood in traditional practice, used by peers and associates while the given name (名) was reserved for intimates and superiors. Confucius's courtesy name was Zhongni (仲尼). The practice has largely disappeared but its vocabulary persists.</p>
         </div>
         <div class="card c-teal">
           <div class="card-head"><span class="tag-n">n</span> 笔名 bǐmíng</div>
-          <p>Pen name — a literary pseudonym. Many Chinese writers and poets are better known by their pen names than their given names. Lu Xun (鲁迅) was born Zhou Shuren (周树人); his pen name is how he is universally known.</p>
+          <p>Pen name: a literary pseudonym. Many Chinese writers and poets are better known by their pen names than their given names. Lu Xun (鲁迅) was born Zhou Shuren (周树人); his pen name is how he is universally known.</p>
         </div>
       </div>
 

@@ -132,13 +132,13 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          中 zhōng (Chinese) + 药 yào (medicine; drug). Chinese herbal medicine — the pharmacological branch of TCM. The classical formulary contains thousands of substances: plant-based (ginseng 人参 rénshēn, astragalus 黄芪 huángqí, wolfberry 枸杞 gǒuqǐ), mineral (cinnabar 朱砂 zhūshā), and animal-derived. Prescriptions are individualized formulas (配方 pèifāng) that combine multiple substances to address a specific pattern. 汤药 tāngyào = decoctions (boiled teas); 丸药 wányào = pills.
+          中 zhōng (Chinese) + 药 yào (medicine; drug). Chinese herbal medicine: the pharmacological branch of TCM. The classical formulary contains thousands of substances: plant-based (ginseng 人参 rénshēn, astragalus 黄芪 huángqí, wolfberry 枸杞 gǒuqǐ), mineral (cinnabar 朱砂 zhūshā), and animal-derived. Prescriptions are individualized formulas (配方 pèifāng) that combine multiple substances to address a specific pattern. 汤药 tāngyào = decoctions (boiled teas); 丸药 wányào = pills.
         </div>
         <div class="examples">
           <div class="example">
             <div class="ex-cn">中药调理需要坚持，不能只喝几服就停。</div>
             <div class="ex-py">Zhōngyào tiáolǐ xūyào jiānchí, bù néng zhǐ hē jǐ fù jiù tíng.</div>
-            <div class="ex-en">Herbal treatment requires persistence — you cannot stop after just a few doses.</div>
+            <div class="ex-en">Herbal treatment requires persistence; you cannot stop after just a few doses.</div>
           </div>
         </div>
       </div>
@@ -151,7 +151,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          拔 bá (to pull; to extract) + 罐 guàn (jar; can). Cupping — placing glass or bamboo cups on the skin after creating a vacuum (by heat or suction) to draw up the skin and underlying tissues, promoting local blood and qi circulation. The characteristic circular bruises left on athletes at the 2016 Olympics brought cupping to global attention. Used for musculoskeletal pain, respiratory conditions, and general qi stagnation.
+          拔 bá (to pull; to extract) + 罐 guàn (jar; can). Cupping: placing glass or bamboo cups on the skin after creating a vacuum (by heat or suction) to draw up the skin and underlying tissues, promoting local blood and qi circulation. The characteristic circular bruises left on athletes at the 2016 Olympics brought cupping to global attention. Used for musculoskeletal pain, respiratory conditions, and general qi stagnation.
         </div>
         <div class="examples">
           <div class="example">

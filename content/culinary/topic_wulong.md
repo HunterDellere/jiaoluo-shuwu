@@ -62,7 +62,7 @@ related:
       <span class="topic-hero-eyebrow">Culinary · 饮食 yǐnshí</span>
       <h1 class="topic-hero-title">乌龙茶</h1>
       <span class="topic-hero-title-py">wū lóng chá</span>
-      <p class="topic-hero-desc">The most complex and technically demanding tea category — partially oxidized, spanning a full spectrum from near-green to near-black, with a vocabulary of flavor unmatched in tea.</p>
+      <p class="topic-hero-desc">The most complex and technically demanding tea category: partially oxidized, spanning a full spectrum from near-green to near-black, with a vocabulary of flavor unmatched in tea.</p>
     </header>
 
     <span class="section-anchor" id="processing"></span>
@@ -99,7 +99,7 @@ related:
       </div>
       <div class="card c-sienna">
         <div class="card-head">凤凰单丛 Fènghuáng Dāncóng · Phoenix Single Bush</div>
-        <p>From the Phoenix Mountain (凤凰山) in Chaozhou, Guangdong, the heartland of gongfu tea culture. Dan Cong oolongs are named after individual cultivar clones (单丛 "single bush") and classified by their natural aromatic profiles, which mimic fruits and flowers without additives. The major aromatic types include 鸭屎香 yā shǐ xiāng (Duck Shit Aroma, a deliberately misleading name to prevent theft of prized bushes — it smells like gardenia and honey), 桂花香 guì huā xiāng (osmanthus), 芝兰香 zhī lán xiāng (orchid), and 杏仁香 xìngrén xiāng (almond). Each type corresponds to a specific cultivar with a specific natural volatile compound profile.</p>
+        <p>From the Phoenix Mountain (凤凰山) in Chaozhou, Guangdong, the heartland of gongfu tea culture. Dan Cong oolongs are named after individual cultivar clones (单丛 "single bush") and classified by their natural aromatic profiles, which mimic fruits and flowers without additives. The major aromatic types include 鸭屎香 yā shǐ xiāng (Duck Shit Aroma, a deliberately misleading name to prevent theft of prized bushes; it smells like gardenia and honey), 桂花香 guì huā xiāng (osmanthus), 芝兰香 zhī lán xiāng (orchid), and 杏仁香 xìngrén xiāng (almond). Each type corresponds to a specific cultivar with a specific natural volatile compound profile.</p>
       </div>
       <div class="card c-sienna">
         <div class="card-head">高山茶 Gāoshān Chá · Taiwan High Mountain Oolongs</div>

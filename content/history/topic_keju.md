@@ -303,12 +303,12 @@ pinyin: 'kē jǔ'
         <p><strong>论语 Lúnyǔ</strong> , the Analects of Confucius: the record of the Master's conversations with his disciples, assembled after his death. The primary source for Confucian ethics, social relationships, and the ideal of the <em>junzi</em> (君子 jūnzǐ , the exemplary person).</p>
         <p><strong>孟子 Mèngzǐ</strong> , the Mencius: Mencius's dialogues with rulers and students, arguing that human nature is fundamentally good and that righteous governance follows from cultivating that goodness. Mencius's arguments about the people's right to overthrow a ruler who has lost virtue made this text politically sensitive across the centuries.</p>
         <p><strong>大学 Dàxué</strong> , the Great Learning: a short text (originally a chapter of the Book of Rites) synthesizing the path from self-cultivation to governance of the empire. Its famous eight steps (from investigating things through rectifying the mind, cultivating the self, regulating the family, governing the state, and bringing peace to the world) are the Confucian curriculum in compressed form.</p>
-        <p><strong>中庸 Zhōngyōng</strong> — the Doctrine of the Mean: another excerpt from the Book of Rites, concerned with sincerity (诚 chéng) and the cultivation of a moral disposition that neither over-reaches nor falls short. Zhu Xi's Neo-Confucian synthesis, which became the exam's interpretive framework from the Yuan onward, drew heavily on this text.</p>
+        <p><strong>中庸 Zhōngyōng</strong>, the Doctrine of the Mean: another excerpt from the Book of Rites, concerned with sincerity (诚 chéng) and the cultivation of a moral disposition that neither over-reaches nor falls short. Zhu Xi's Neo-Confucian synthesis, which became the exam's interpretive framework from the Yuan onward, drew heavily on this text.</p>
       </div>
 
       <div class="pattern-row">
         <span class="pattern-form">五经 Wǔ Jīng · The Five Classics</span>
-        <span class="pattern-gloss">The older canonical texts — mastery required for full examination preparation</span>
+        <span class="pattern-gloss">The older canonical texts; mastery required for full examination preparation</span>
       </div>
       <div class="pattern-body">
         <p><strong>易经 Yìjīng</strong> (Book of Changes): the ancient divination text whose hexagrams accumulated layers of Confucian philosophical commentary over the centuries. An examination candidate was expected to know these commentaries, not to practice divination.</p>
@@ -369,7 +369,7 @@ pinyin: 'kē jǔ'
         <span class="cy-cn">金榜题名</span>
         <span class="cy-py">jīn bǎng tí míng</span>
         <span class="cy-en">to have one's name written on the gold list</span>
-        <span class="cy-note">金榜 (the gold list) was the public notice board on which the names of successful examination candidates were posted after the palace exam, written in gold ink, hence the name. 题名 means to inscribe a name. The phrase encodes the specific, visceral experience of scanning the posted list to find your own name among the successful, one of the most emotionally charged moments in a scholar's life. It is listed in the classical 四大喜事 sì dà xǐshì (four great joys): 久旱逢甘雨，他乡遇故知，洞房花烛夜，金榜题名时 — "rain after a long drought, meeting an old friend in a distant place, wedding night, and the moment of finding your name on the gold list." Still used in modern Chinese for any high-stakes examination success, especially the 高考.</span>
+        <span class="cy-note">金榜 (the gold list) was the public notice board on which the names of successful examination candidates were posted after the palace exam, written in gold ink, hence the name. 题名 means to inscribe a name. The phrase encodes the specific, visceral experience of scanning the posted list to find your own name among the successful, one of the most emotionally charged moments in a scholar's life. It is listed in the classical 四大喜事 sì dà xǐshì (four great joys): 久旱逢甘雨，他乡遇故知，洞房花烛夜，金榜题名时. "Rain after a long drought, meeting an old friend in a distant place, wedding night, and the moment of finding your name on the gold list." Still used in modern Chinese for any high-stakes examination success, especially the 高考.</span>
       </div>
 
     </div>

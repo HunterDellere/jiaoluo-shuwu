@@ -133,15 +133,15 @@ pinyin: 'chá'
         </div>
         <div class="card c-teal">
           <div class="card-head"><span class="tag-n">n</span> 茶道 chádào</div>
-          <p>The Way of Tea — tea practice as a discipline and aesthetic, analogous to the Japanese sadō (茶道, same characters).</p>
+          <p>The Way of Tea: tea practice as a discipline and aesthetic, analogous to the Japanese sadō (茶道, same characters).</p>
         </div>
         <div class="card c-teal">
           <div class="card-head"><span class="tag-v">v</span> 泡茶 pào chá</div>
-          <p>To brew tea — literally "to soak tea." The verb for making tea in most contexts.</p>
+          <p>To brew tea, literally "to soak tea." The verb for making tea in most contexts.</p>
         </div>
         <div class="card c-sienna">
           <div class="card-head"><span class="tag-n">n</span> 茶馆 cháguǎn</div>
-          <p>Teahouse — a social institution especially important in Sichuan and Guangdong, where one goes not just to drink tea but to play mahjong, listen to storytelling, or simply spend a morning reading the paper.</p>
+          <p>Teahouse: a social institution especially important in Sichuan and Guangdong, where one goes not just to drink tea but to play mahjong, listen to storytelling, or simply spend a morning reading the paper.</p>
         </div>
       </div>
 

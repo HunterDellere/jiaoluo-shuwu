@@ -241,8 +241,8 @@ content_review: 'pending'
 
     <div class="scholar" data-glyph="田">
       <div class="scholar-label">记忆法 jìyìfǎ · Master Retention Image</div>
-      <p>The character shows 田 (field) sitting on top of 土 (earth). A field on the earth is the original cultivated interior: bounded by furrows and ridges, it has an inside and an outside. The Zhou neighborhood unit was called 里 because it was the social equivalent — twenty-five families bounded together, a cultivated human interior in the middle of the wider world.</p>
-      <p>The heart in 心里 works the same way. The heart is a field with its own interior, its own terrain, its own weather. What grows in it — the numbers you have counted (心里有数), the words you have not yet spoken (心里话), the taste that isn't right (心里不是滋味) — is tended privately, known from the inside. 里 lets you walk into the heart as though crossing a threshold into a familiar enclosure: bounded, real, and yours alone.</p>
+      <p>The character shows 田 (field) sitting on top of 土 (earth). A field on the earth is the original cultivated interior: bounded by furrows and ridges, it has an inside and an outside. The Zhou neighborhood unit was called 里 because it was the social equivalent: twenty-five families bounded together, a cultivated human interior in the middle of the wider world.</p>
+      <p>The heart in 心里 works the same way. The heart is a field with its own interior, its own terrain, its own weather. What grows in it (the numbers you have counted in 心里有数, the words you have not yet spoken in 心里话, the taste that isn't right in 心里不是滋味) is tended privately, known from the inside. 里 lets you walk into the heart as though crossing a threshold into a familiar enclosure: bounded, real, and yours alone.</p>
     </div>
 
     <footer class="page-footer">

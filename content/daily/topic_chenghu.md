@@ -161,15 +161,15 @@ pinyin: 'chēnghu'
       </div>
       <div class="card c-teal">
         <div class="card-head"><span class="tag-n">n</span> 阿姨 āyí</div>
-        <p>Auntie , used to address unfamiliar middle-aged women in informal contexts: cleaning staff, market vendors, neighbors. More personal than 女士 and warmer than nothing. Children are taught to address all adult women as 阿姨, which is why adult women sometimes bristle at it — it implies they are visibly middle-aged. Addressing a young woman as 阿姨 is a social error.</p>
+        <p>Auntie , used to address unfamiliar middle-aged women in informal contexts: cleaning staff, market vendors, neighbors. More personal than 女士 and warmer than nothing. Children are taught to address all adult women as 阿姨, which is why adult women sometimes bristle at it; it implies they are visibly middle-aged. Addressing a young woman as 阿姨 is a social error.</p>
       </div>
       <div class="card c-sienna">
         <div class="card-head"><span class="tag-n">n</span> 堂 táng vs. 表 biǎo</div>
-        <p>The two categories of cousin in Chinese kinship. 堂 (táng) cousins share your family name and paternal line — children of your father's brothers. 表 (biǎo) cousins are on the maternal side or through the paternal sisters. The distinction encodes traditional Confucian clan logic: 堂 cousins are kin of the same surname; 表 cousins are related but belong to another family.</p>
+        <p>The two categories of cousin in Chinese kinship. 堂 (táng) cousins share your family name and paternal line: children of your father's brothers. 表 (biǎo) cousins are on the maternal side or through the paternal sisters. The distinction encodes traditional Confucian clan logic: 堂 cousins are kin of the same surname; 表 cousins are related but belong to another family.</p>
       </div>
       <div class="card c-violet">
         <div class="card-head"><span class="tag-n">n</span> 正名 zhèngmíng</div>
-        <p>Rectification of names — the Confucian principle that calling people and things by their correct names is a prerequisite for orderly social life. Applied to forms of address: using the wrong term for a relative or a colleague is not merely awkward; in the Confucian framework, it represents a failure to perceive the relationship correctly. The address term and the social reality it describes should align.</p>
+        <p>Rectification of names: the Confucian principle that calling people and things by their correct names is a prerequisite for orderly social life. Applied to forms of address: using the wrong term for a relative or a colleague is not merely awkward; in the Confucian framework, it represents a failure to perceive the relationship correctly. The address term and the social reality it describes should align.</p>
       </div>
     </div>
 

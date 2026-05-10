@@ -386,7 +386,7 @@ pinyin: 'de / dé / dì'
         <div class="note">
           <span class="note-label">辨析 biànxī · Degree vs. Potential</span>
           <strong>说得好</strong> (degree) = "speaks well" , describes how something was done.<br>
-          <strong>说得出来</strong> (potential) = "can say it" — describes whether something can be done.<br>
+          <strong>说得出来</strong> (potential) = "can say it"; describes whether something can be done.<br>
           The distinction: degree complements use adjectives or manner expressions; potential complements use result or directional verbs (动, 到, 出来, 完, etc.).
         </div>
       </div>
@@ -439,8 +439,8 @@ pinyin: 'de / dé / dì'
         <div class="note">
           <span class="note-label">辨析 biànxī · 高兴地 vs. 高兴得</span>
           These two can look similar but differ structurally:<br>
-          <strong>高兴地笑了</strong> (地) = laughed happily — 高兴 describes the <em>manner</em> of laughing<br>
-          <strong>高兴得跳起来</strong> (得) = was so happy (she) jumped up — describes the <em>result</em> of being happy<br>
+          <strong>高兴地笑了</strong> (地) = laughed happily; 高兴 describes the <em>manner</em> of laughing<br>
+          <strong>高兴得跳起来</strong> (得) = was so happy (she) jumped up; describes the <em>result</em> of being happy<br>
           Ask: is the preceding word telling us <em>how</em> the verb was done (→ 地) or what <em>resulted</em> from the preceding state (→ 得)?
         </div>
       </div>

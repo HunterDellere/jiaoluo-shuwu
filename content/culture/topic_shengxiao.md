@@ -153,15 +153,15 @@ pinyin: 'shēngxiào'
         </div>
         <div class="card c-ochre">
           <div class="card-head"><span class="tag-n">n</span> 属相 shǔxiàng</div>
-          <p>Zodiac sign — literally "belonging-image." The colloquial word for your zodiac animal, used in everyday speech.</p>
+          <p>Zodiac sign, literally "belonging-image." The colloquial word for your zodiac animal, used in everyday speech.</p>
         </div>
         <div class="card c-teal">
           <div class="card-head"><span class="tag-n">n</span> 相冲 xiāng chōng</div>
-          <p>Zodiac conflict — signs that are diametrically opposite in the twelve-year cycle and considered incompatible. The Rat-Horse conflict, the Tiger-Monkey conflict, etc.</p>
+          <p>Zodiac conflict: signs that are diametrically opposite in the twelve-year cycle and considered incompatible. The Rat-Horse conflict, the Tiger-Monkey conflict, etc.</p>
         </div>
         <div class="card c-sienna">
           <div class="card-head"><span class="tag-n">n</span> 六十甲子 liùshí jiǎzǐ</div>
-          <p>The sixty-year cycle — the combination of twelve animals with ten Heavenly Stems, the basic unit of traditional Chinese time reckoning.</p>
+          <p>The sixty-year cycle: the combination of twelve animals with ten Heavenly Stems, the basic unit of traditional Chinese time reckoning.</p>
         </div>
       </div>
 

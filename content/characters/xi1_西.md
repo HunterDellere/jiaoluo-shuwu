@@ -145,8 +145,8 @@ content_review: 'pending'
 
     <div class="scholar" data-glyph="西">
       <div class="scholar-label">记忆法 jìyìfǎ · Master Retention Image</div>
-      <p>A bird settling into a nest at dusk: that is 西. The bird has been out all day and returns when the sun falls — to the west, where the sun goes. The modern character is a compressed trace of this nesting shape: a curve at top (the bird's body), an enclosure below (the nest). Every evening, the bird comes home to the west.</p>
-      <p>And when east and west pair up — 东西 — the directional meaning disappears entirely and you get the word for "things." The east-west axis covers the whole span of the world; span the whole world and you get everything, any thing, all things. 买东西 (to buy things) is one of the most basic daily phrases, but it carries a cosmological joke inside it: shopping is a journey from east to west.</p>
+      <p>A bird settling into a nest at dusk: that is 西. The bird has been out all day and returns when the sun falls, to the west, where the sun goes. The modern character is a compressed trace of this nesting shape: a curve at top (the bird's body), an enclosure below (the nest). Every evening, the bird comes home to the west.</p>
+      <p>And when east and west pair up (东西), the directional meaning disappears entirely and you get the word for "things." The east-west axis covers the whole span of the world; span the whole world and you get everything, any thing, all things. 买东西 (to buy things) is one of the most basic daily phrases, but it carries a cosmological joke inside it: shopping is a journey from east to west.</p>
     </div>
 
     <footer class="page-footer">

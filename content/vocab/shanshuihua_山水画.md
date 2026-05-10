@@ -129,9 +129,9 @@ pinyin: 'shānshuǐhuà'
       <strong>气韵 qìyùn</strong> , spirit resonance · the vital, living quality that distinguishes great painting from mere skill<br>
       <strong>三远 sān yuǎn</strong> , three distances · high (looking up), deep (looking in), level (looking across) · Guo Xi's taxonomy of spatial recession<br>
       <strong>留白 liúbái</strong> , leaving white · deliberate unpainted space as active compositional element · the emptiness that breathes<br>
-      <strong>水墨 shuǐmò</strong> — ink wash · the black-ink tradition; tonal modulation through ink concentration and water<br>
-      <strong>文人画 wénrén huà</strong> — literati painting · painting by and for cultivated scholars, as self-expression rather than commission<br>
-      <strong>意境 yìjìng</strong> — artistic conception · the imaginative world or mood a work creates beyond its literal content
+      <strong>水墨 shuǐmò</strong>: ink wash · the black-ink tradition; tonal modulation through ink concentration and water<br>
+      <strong>文人画 wénrén huà</strong>: literati painting · painting by and for cultivated scholars, as self-expression rather than commission<br>
+      <strong>意境 yìjìng</strong>: artistic conception · the imaginative world or mood a work creates beyond its literal content
     </div>
 
     <span class="section-anchor" id="vocab"></span>

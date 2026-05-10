@@ -116,7 +116,7 @@ content_review: 'pending'
         <span class="cy-cn">马到成功</span>
         <span class="cy-py">mǎ dào chéng gōng</span>
         <span class="cy-en">"when the horse arrives, success follows" — immediate success upon arrival</span>
-        <span class="cy-note">马 (horse) + 到 (to arrive) + 成功 (success). Not strictly a 北 phrase, but the northern horse is central: the best cavalry horses came from the northern steppes, and the arrival of the cavalry meant decisive victory. A common congratulatory phrase at the start of an endeavor — used at business openings, new projects, sports competitions, and exams. The horse arriving is the campaign beginning, and success follows immediately.</span>
+        <span class="cy-note">马 (horse) + 到 (to arrive) + 成功 (success). Not strictly a 北 phrase, but the northern horse is central: the best cavalry horses came from the northern steppes, and the arrival of the cavalry meant decisive victory. A common congratulatory phrase at the start of an endeavor: used at business openings, new projects, sports competitions, and exams. The horse arriving is the campaign beginning, and success follows immediately.</span>
       </div>
       <div class="cy">
         <span class="cy-cn">北风怒号</span>
@@ -139,8 +139,8 @@ content_review: 'pending'
 
     <div class="scholar" data-glyph="北">
       <div class="scholar-label">记忆法 jìyìfǎ · Master Retention Image</div>
-      <p>Two figures standing back-to-back: that is the oracle bone form of 北. They have turned away from each other. In a world where you face south toward the warmth, turning your back means turning north — toward the cold, toward the threat, toward the steppe. North is the direction you have turned away from the productive world.</p>
-      <p>The fleeing soldier, defeated in battle, turns and runs — that is 败北, defeat-and-flight. The character carries both meanings simultaneously: the direction you run toward when you are losing is also the direction of the enemy you were trying to keep at your back. 北京 (Northern Capital) sits at the edge of this ancestral anxiety, placed there by dynasties that came from the north and wanted to govern from their strength.</p>
+      <p>Two figures standing back-to-back: that is the oracle bone form of 北. They have turned away from each other. In a world where you face south toward the warmth, turning your back means turning north: toward the cold, toward the threat, toward the steppe. North is the direction you have turned away from the productive world.</p>
+      <p>The fleeing soldier, defeated in battle, turns and runs. That is 败北, defeat-and-flight. The character carries both meanings simultaneously: the direction you run toward when you are losing is also the direction of the enemy you were trying to keep at your back. 北京 (Northern Capital) sits at the edge of this ancestral anxiety, placed there by dynasties that came from the north and wanted to govern from their strength.</p>
     </div>
 
     <footer class="page-footer">

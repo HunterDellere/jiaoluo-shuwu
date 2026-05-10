@@ -148,15 +148,15 @@ pinyin: 'Xīnjiāng'
         </div>
         <div class="card c-violet">
           <div class="card-head"><span class="tag-n">n</span> 坎儿井 kǎn'erjǐng</div>
-          <p>Karez — the ancient underground irrigation system that made Turpan's agricultural oasis possible. A network of vertical shafts connected by horizontal tunnels channels glacial meltwater from the Tianshan foothills to fields in the desert basin. Thousands of kilometers of karez tunnels exist in Turpan, some dating back two thousand years.</p>
+          <p>Karez: the ancient underground irrigation system that made Turpan's agricultural oasis possible. A network of vertical shafts connected by horizontal tunnels channels glacial meltwater from the Tianshan foothills to fields in the desert basin. Thousands of kilometers of karez tunnels exist in Turpan, some dating back two thousand years.</p>
         </div>
         <div class="card c-red">
           <div class="card-head"><span class="tag-n">n</span> 馕 nāng</div>
-          <p>Naan bread — the staple flatbread of Uyghur cuisine, baked in a clay tandoor oven (馕坑 nāngkēng). Sold fresh throughout southern Xinjiang and available across China at Xinjiang restaurants. A cultural marker and the center of the daily Uyghur table.</p>
+          <p>Naan bread: the staple flatbread of Uyghur cuisine, baked in a clay tandoor oven (馕坑 nāngkēng). Sold fresh throughout southern Xinjiang and available across China at Xinjiang restaurants. A cultural marker and the center of the daily Uyghur table.</p>
         </div>
         <div class="card c-ochre">
           <div class="card-head"><span class="tag-n">n</span> 天山 Tiānshān</div>
-          <p>The Heavenly Mountains — the mountain range dividing northern and southern Xinjiang, with peaks reaching 7,443 m. A UNESCO World Natural Heritage Site, the Tianshan is the water source for the oasis cities of the Tarim Basin and one of the great mountain ranges of Central Asia.</p>
+          <p>The Heavenly Mountains: the mountain range dividing northern and southern Xinjiang, with peaks reaching 7,443 m. A UNESCO World Natural Heritage Site, the Tianshan is the water source for the oasis cities of the Tarim Basin and one of the great mountain ranges of Central Asia.</p>
         </div>
       </div>
 

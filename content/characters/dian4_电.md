@@ -197,14 +197,14 @@ content_sources:
         <span class="cy-cn">雷电交加</span>
         <span class="cy-py">léi diàn jiāo jiā</span>
         <span class="cy-en">thunder and lightning together — a violent storm; used of chaotic, intense situations</span>
-        <span class="cy-note">Lit: thunder-lightning-together-intensify. Describes a fierce storm where both thunder (雷 léi) and lightning (电 diàn) are striking simultaneously. Used metaphorically for any situation of simultaneous, intense upheaval — a chaotic meeting, an emotional confrontation, a turbulent period. The image connects 电 back to its original meaning as a phenomenon of violent nature.</span>
+        <span class="cy-note">Lit: thunder-lightning-together-intensify. Describes a fierce storm where both thunder (雷 léi) and lightning (电 diàn) are striking simultaneously. Used metaphorically for any situation of simultaneous, intense upheaval: a chaotic meeting, an emotional confrontation, a turbulent period. The image connects 电 back to its original meaning as a phenomenon of violent nature.</span>
       </div>
 
       <div class="cy">
         <span class="cy-cn">一触即发</span>
         <span class="cy-py">yī chù jí fā</span>
         <span class="cy-en">touch and it ignites — a situation on the verge of explosion</span>
-        <span class="cy-note">Lit: one-touch-immediately-fire. A crisis situation where the slightest action will trigger an explosion — political tensions, a fragile negotiation, volatile emotions. Originally describing hair-trigger mechanisms, now widely applied to any situation of extreme tension. Often paired with lightning imagery in modern writing — 如同雷电一触即发 "like lightning about to strike."</span>
+        <span class="cy-note">Lit: one-touch-immediately-fire. A crisis situation where the slightest action will trigger an explosion: political tensions, a fragile negotiation, volatile emotions. Originally describing hair-trigger mechanisms, now widely applied to any situation of extreme tension. Often paired with lightning imagery in modern writing, as in 如同雷电一触即发 "like lightning about to strike."</span>
       </div>
 
     </div>

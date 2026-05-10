@@ -328,14 +328,14 @@ pinyin: 'lǎozǐ'
         <span class="cy-cn">上善若水。</span>
         <span class="cy-py">shàng shàn ruò shuǐ.</span>
         <span class="cy-en">Highest good is like water.</span>
-        <span class="cy-note">Opening line of Chapter 8. The passage continues: "Water benefits the ten thousand things and does not compete. It dwells in places that people despise. Therefore it is close to the Dao." 上善 shàng shàn means not merely "great virtue" but "the highest possible virtue" — the very best way of being in the world. The comparison to water is not decorative but philosophical: it specifies the exact qualities that constitute the highest good.</span>
+        <span class="cy-note">Opening line of Chapter 8. The passage continues: "Water benefits the ten thousand things and does not compete. It dwells in places that people despise. Therefore it is close to the Dao." 上善 shàng shàn means not merely "great virtue" but "the highest possible virtue", the very best way of being in the world. The comparison to water is not decorative but philosophical: it specifies the exact qualities that constitute the highest good.</span>
       </div>
 
       <div class="cy">
         <span class="cy-cn">知足者富。</span>
         <span class="cy-py">zhī zú zhě fù.</span>
         <span class="cy-en">Those who know sufficiency are wealthy.</span>
-        <span class="cy-note">Chapter 33. The full passage offers four paired contrasts: knowing others is wisdom (智 zhì), knowing oneself is enlightenment (明 míng); overcoming others requires force (力 lì), overcoming oneself requires strength (强 qiáng); knowing sufficiency is wealth (富 fù), acting with determination is will (志 zhì). The text redefines each term — wealth, strength, wisdom — away from their conventional meanings toward inner qualities.</span>
+        <span class="cy-note">Chapter 33. The full passage offers four paired contrasts: knowing others is wisdom (智 zhì), knowing oneself is enlightenment (明 míng); overcoming others requires force (力 lì), overcoming oneself requires strength (强 qiáng); knowing sufficiency is wealth (富 fù), acting with determination is will (志 zhì). The text redefines each term (wealth, strength, wisdom) away from their conventional meanings toward inner qualities.</span>
       </div>
 
       <div class="cy">

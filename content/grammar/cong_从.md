@@ -55,7 +55,7 @@ pinyin: 'cóng'
       <span class="topic-hero-eyebrow">Grammar · 语法 yǔfǎ</span>
       <h1 class="topic-hero-title">从</h1>
       <span class="topic-hero-title-py">cóng</span>
-      <p class="topic-hero-desc">From, since, following — 从 marks the starting point of motion in space (from a place), origin in time (since a moment), and adherence to a course (following an instruction or rule). It is the counterpart to 到 dào (to, arriving at).</p>
+      <p class="topic-hero-desc">From, since, following: 从 marks the starting point of motion in space (from a place), origin in time (since a moment), and adherence to a course (following an instruction or rule). It is the counterpart to 到 dào (to, arriving at).</p>
     </header>
 
     <span class="section-anchor" id="overview"></span>
@@ -181,7 +181,7 @@ pinyin: 'cóng'
           <div class="example">
             <div class="ex-cn">他从来不迟到，今天居然来晚了。</div>
             <div class="ex-py">Tā cónglái bù chídào, jīntiān jūrán lái wǎn le.</div>
-            <div class="ex-en">He never arrives late — it's surprising he was late today.</div>
+            <div class="ex-en">He never arrives late, so it's surprising he was late today.</div>
           </div>
           <div class="example">
             <div class="ex-cn">我从来没有见过下这么大的雪。</div>

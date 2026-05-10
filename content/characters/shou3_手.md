@@ -222,14 +222,14 @@ content_sources:
         <span class="cy-cn">手忙脚乱</span>
         <span class="cy-py">shǒu máng jiǎo luàn</span>
         <span class="cy-en">hands busy, feet disordered — flustered and disorganized</span>
-        <span class="cy-note">Lit: hands-busy-feet-chaotic. The image of someone scrambling in a panic, hands and feet moving in disordered haste. Used to describe being overwhelmed and disorganized — the opposite of calm competence. 他一到过年就手忙脚乱 "Around New Year, he's always running around in a flustered state."</span>
+        <span class="cy-note">Lit: hands-busy-feet-chaotic. The image of someone scrambling in a panic, hands and feet moving in disordered haste. Used to describe being overwhelmed and disorganized: the opposite of calm competence. 他一到过年就手忙脚乱 "Around New Year, he's always running around in a flustered state."</span>
       </div>
 
       <div class="cy">
         <span class="cy-cn">爱不释手</span>
         <span class="cy-py">ài bù shì shǒu</span>
         <span class="cy-en">love it so much you cannot put it down</span>
-        <span class="cy-note">Lit: love-not-release-hand. The standard phrase for something you cannot stop using, reading, or holding — so beloved that your hand refuses to let go. Used for books, gadgets, food, art. 这本小说写得太好了，让人爱不释手 "This novel is so well-written — you can't put it down."</span>
+        <span class="cy-note">Lit: love-not-release-hand. The standard phrase for something you cannot stop using, reading, or holding: so beloved that your hand refuses to let go. Used for books, gadgets, food, art. 这本小说写得太好了，让人爱不释手 "This novel is so well-written; you can't put it down."</span>
       </div>
 
     </div>

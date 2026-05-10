@@ -359,14 +359,14 @@ pinyin: 'māzǔ'
         <span class="cy-cn">普度众生</span>
         <span class="cy-py">pǔdù zhòngshēng</span>
         <span class="cy-en">to universally deliver all sentient beings from suffering</span>
-        <span class="cy-note">A Buddhist phrase (from Guanyin's vow) applied also to Mazu, who is often assimilated with the Goddess of Mercy in folk practice. 普度 pǔdù = universally deliver; 众生 zhòngshēng = all living beings. The 中元节 Ghost Festival is formally called 普度 in Taiwan — the universal deliverance of all wandering souls. Mazu, Guanyin, and the Ghost Festival overlap in this all-embracing compassion framework.</span>
+        <span class="cy-note">A Buddhist phrase (from Guanyin's vow) applied also to Mazu, who is often assimilated with the Goddess of Mercy in folk practice. 普度 pǔdù = universally deliver; 众生 zhòngshēng = all living beings. The 中元节 Ghost Festival is formally called 普度 in Taiwan, the universal deliverance of all wandering souls. Mazu, Guanyin, and the Ghost Festival overlap in this all-embracing compassion framework.</span>
       </div>
 
       <div class="cy">
         <span class="cy-cn">天后圣母</span>
         <span class="cy-py">Tiānhòu Shèngmǔ</span>
         <span class="cy-en">Heavenly Empress, Holy Mother — Mazu's full honorific</span>
-        <span class="cy-note">The full formal title combines 天后 (Heavenly Empress — highest imperial designation) with 圣母 Shèngmǔ (Holy Mother — a term shared with the Blessed Virgin in Catholic contexts, creating interesting resonance in Fujian where Portuguese missionaries arrived in the 16th century). In Hokkien pronunciation: Thiⁿ-hāu Sèng-bó. Cantonese: Tīn Hāu. Each reading maps onto a distinct diaspora community's liturgical tradition.</span>
+        <span class="cy-note">The full formal title combines 天后 (Heavenly Empress, the highest imperial designation) with 圣母 Shèngmǔ (Holy Mother, a term shared with the Blessed Virgin in Catholic contexts, creating interesting resonance in Fujian where Portuguese missionaries arrived in the 16th century). In Hokkien pronunciation: Thiⁿ-hāu Sèng-bó. Cantonese: Tīn Hāu. Each reading maps onto a distinct diaspora community's liturgical tradition.</span>
       </div>
 
     </div>

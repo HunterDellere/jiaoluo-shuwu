@@ -496,7 +496,7 @@ content_review: 'pending'
         </div>
         <div class="note">
           <span class="note-label">辨析 biànxī , 世界 vs. 人间</span>
-          Use <strong>世界</strong> for geography, international affairs, general reference to "the world." Use <strong>人间</strong> when the emotional register is elevated — in poetry, in Buddhist or cosmological contexts, or when the transience of human life is part of the meaning. 世界上最美的风景 (the most beautiful scenery in the world) is normal speech. 人间最美的风景 shifts the claim into lyric register, implying the beauty is bound up with the brevity of human life.
+          Use <strong>世界</strong> for geography, international affairs, general reference to "the world." Use <strong>人间</strong> when the emotional register is elevated: in poetry, in Buddhist or cosmological contexts, or when the transience of human life is part of the meaning. 世界上最美的风景 (the most beautiful scenery in the world) is normal speech. 人间最美的风景 shifts the claim into lyric register, implying the beauty is bound up with the brevity of human life.
         </div>
       </div>
 
@@ -532,7 +532,7 @@ content_review: 'pending'
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          凡 fán (mortal; ordinary; not immortal) + 间 (space; realm). The mortal world as defined by its contrast with the celestial. Where 人间 can be used with affection by someone who lives there, 凡间 more often carries the perspective of someone who stands outside it — a god, an immortal, or a narrator looking down from above. Common in wuxia fiction, historical fantasy, and opera. 凡人 (ordinary mortal) follows the same logic: a being defined by not being 仙.
+          凡 fán (mortal; ordinary; not immortal) + 间 (space; realm). The mortal world as defined by its contrast with the celestial. Where 人间 can be used with affection by someone who lives there, 凡间 more often carries the perspective of someone who stands outside it: a god, an immortal, or a narrator looking down from above. Common in wuxia fiction, historical fantasy, and opera. 凡人 (ordinary mortal) follows the same logic: a being defined by not being 仙.
         </div>
         <div class="examples">
           <div class="example">
@@ -548,7 +548,7 @@ content_review: 'pending'
           <div class="example">
             <div class="ex-cn">他修炼多年，早已看破凡间，一心只想得道成仙。</div>
             <div class="ex-py">Tā xiūliàn duō nián, zǎoyǐ kànpò fánjiān, yīxīn zhǐ xiǎng dédào chéng xiān.</div>
-            <div class="ex-en">He has cultivated for many years and long since seen through the mortal realm — his mind set entirely on attaining the Dao and becoming an immortal.</div>
+            <div class="ex-en">He has cultivated for many years and long since seen through the mortal realm; his mind is set entirely on attaining the Dao and becoming an immortal.</div>
           </div>
         </div>
       </div>

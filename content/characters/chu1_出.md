@@ -471,7 +471,7 @@ content_review: 'pending'
         </div>
         <div class="tags"><span class="tag tag-v">V 动词 dòngcí</span></div>
         <div class="card-def">
-          出 chū (emerge) + 生 shēng (life; to be born; raw). Emergence into life — the original threshold crossing. 出生 is used for persons: 他在北京出生 (he was born in Beijing). The date is 出生日期 chūshēng rìqī (date of birth). Contrast with 出产 (produce, yield) for goods, and 诞生 dànshēng (be born, come into being) which is used for institutions, ideas, and things of historic significance.
+          出 chū (emerge) + 生 shēng (life; to be born; raw). Emergence into life: the original threshold crossing. 出生 is used for persons: 他在北京出生 (he was born in Beijing). The date is 出生日期 chūshēng rìqī (date of birth). Contrast with 出产 (produce, yield) for goods, and 诞生 dànshēng (be born, come into being) which is used for institutions, ideas, and things of historic significance.
         </div>
         <div class="examples">
           <div class="example">
@@ -504,7 +504,7 @@ content_review: 'pending'
         <span class="cy-cn">出人意料</span>
         <span class="cy-py">chū rén yì liào</span>
         <span class="cy-en">to exceed what people anticipated — surprising; unexpected; beyond expectation</span>
-        <span class="cy-note">出 (emerge beyond) + 人 (people) + 意 (intention; anticipation) + 料 (foresee; expect). What emerges breaks through the boundary of what was anticipated. The 出 is not just motion but transgression of a limit. Used for outcomes that outstrip prediction in any direction — a performance far better than expected, a disaster no one foresaw. Common in journalism and everyday speech.</span>
+        <span class="cy-note">出 (emerge beyond) + 人 (people) + 意 (intention; anticipation) + 料 (foresee; expect). What emerges breaks through the boundary of what was anticipated. The 出 is not just motion but transgression of a limit. Used for outcomes that outstrip prediction in any direction: a performance far better than expected, a disaster no one foresaw. Common in journalism and everyday speech.</span>
       </div>
 
       <div class="cy">
@@ -558,7 +558,7 @@ content_review: 'pending'
     <!-- RETENTION IMAGE -->
     <div class="scholar" data-glyph="出">
       <div class="scholar-label">记忆法 jìyìfǎ · Master Retention Image</div>
-      <p>A sprout pushing through soil. The seed has everything it needs — it just has to cross the threshold between inside and outside, between dark and light, between potential and actual. That crossing is what 出 encodes: the moment of emergence.</p>
+      <p>A sprout pushing through soil. The seed has everything it needs; it just has to cross the threshold between inside and outside, between dark and light, between potential and actual. That crossing is what 出 encodes: the moment of emergence.</p>
       <p>Every 出 compound carries this same upward-out force. 出版 is ideas pushing through into print. 出现 is a form emerging from invisibility into view. 出色 is quality breaking through the surface of the ordinary. 出发 is a person or team crossing the threshold from stillness into motion. 出生 is a life emerging from one world into another. 出人意料 is something that breaks through the boundary of what was anticipated and lands in open space beyond it.</p>
       <p>The character works because emergence is always the same event at different scales: a sprout, a word, a ship leaving port, a performer rising above the crowd. Five strokes, one threshold, infinite applications.</p>
     </div>

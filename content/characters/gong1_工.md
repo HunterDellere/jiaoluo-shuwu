@@ -203,7 +203,7 @@ content_sources:
         <span class="cy-cn">大功告成</span>
         <span class="cy-py">dà gōng gào chéng</span>
         <span class="cy-en">the great work is accomplished — mission complete</span>
-        <span class="cy-note">Lit: great-achievement-announce-accomplished. A formal declaration that a major undertaking — a construction project, a campaign, a long creative work — has been completed. Often used with a tone of proud announcement: 大功告成！(We did it!). 功 gōng here means merit/achievement, derived from 工 work — the result of sustained skilled effort.</span>
+        <span class="cy-note">Lit: great-achievement-announce-accomplished. A formal declaration that a major undertaking (a construction project, a campaign, a long creative work) has been completed. Often used with a tone of proud announcement: 大功告成！(We did it!). 功 gōng here means merit/achievement, derived from 工 work: the result of sustained skilled effort.</span>
       </div>
 
     </div>

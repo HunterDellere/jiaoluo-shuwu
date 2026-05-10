@@ -491,7 +491,7 @@ content_review: 'pending'
         <span class="cy-cn">心快口直</span>
         <span class="cy-py">xīnkuài kǒuzhí</span>
         <span class="cy-en">quick heart, straight mouth — frank and direct by nature</span>
-        <span class="cy-note">Lit: heart-fast-mouth-straight. A description of someone whose inner state and outer speech are perfectly aligned — no strategic filtering, no diplomatic softening. Used as a compliment among people who value directness, and occasionally as an excuse after saying something pointed. Paired with the related 心直口快 xīnzhí kǒukuài (same meaning, different character order), which is the more commonly encountered form in modern usage.</span>
+        <span class="cy-note">Lit: heart-fast-mouth-straight. A description of someone whose inner state and outer speech are perfectly aligned: no strategic filtering, no diplomatic softening. Used as a compliment among people who value directness, and occasionally as an excuse after saying something pointed. Paired with the related 心直口快 xīnzhí kǒukuài (same meaning, different character order), which is the more commonly encountered form in modern usage.</span>
       </div>
 
       <div class="cy">
@@ -524,7 +524,7 @@ content_review: 'pending'
       <div class="scholar-label">记忆法 jìyìfǎ · Master Retention Image</div>
       <p>Picture a river running through a gorge. Where the banks narrow and a logjam has built up, the water stalls and darkens. Then the obstruction breaks. The water surges forward, suddenly bright and loud, cutting through the gap at full force. That release is 快 in both its meanings at once: the river moves fast, and the river is glad.</p>
       <p>The phonetic component 夬 is the cut, the snap, the moment the log breaks free. The heart radical 忄 tells you this is happening inside a person. Speed is a heart that has stopped holding back. Joy is the same thing.</p>
-      <p>When you learn 快乐 (happy), 愉快 (pleasant), 痛快 (frank; thoroughly satisfying), 快速 (rapid), and 飞快 (lightning fast), you are watching that same released current moving through different channels. The obstruction that broke was different each time — a long wait, a restrained truth, a slow pace — but the feeling of cutting loose is identical in all of them.</p>
+      <p>When you learn 快乐 (happy), 愉快 (pleasant), 痛快 (frank; thoroughly satisfying), 快速 (rapid), and 飞快 (lightning fast), you are watching that same released current moving through different channels. The obstruction that broke was different each time (a long wait, a restrained truth, a slow pace) but the feeling of cutting loose is identical in all of them.</p>
     </div>
 
     <footer class="page-footer">

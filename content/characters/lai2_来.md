@@ -421,14 +421,14 @@ content_review: 'pending'
         <span class="cy-cn">后来居上</span>
         <span class="cy-py">hòu lái jū shàng</span>
         <span class="cy-en">"the latecomer occupies the top" — the newcomer surpasses those who came first</span>
-        <span class="cy-note">后来 (later arrival) + 居上 (occupies the upper position). From the Shǐjì (史记), the court historian Sima Qian. A newly promoted official sitting above older ministers in court — the latecomer had outranked his seniors. Now used broadly: a startup that overtakes established companies, a student who surpasses classmates, a technology that leapfrogs older ones. Often used to encourage late starters.</span>
+        <span class="cy-note">后来 (later arrival) + 居上 (occupies the upper position). From the Shǐjì (史记), the court historian Sima Qian. A newly promoted official sitting above older ministers in court: the latecomer had outranked his seniors. Now used broadly: a startup that overtakes established companies, a student who surpasses classmates, a technology that leapfrogs older ones. Often used to encourage late starters.</span>
       </div>
 
       <div class="cy">
         <span class="cy-cn">来日方长</span>
         <span class="cy-py">lái rì fāng cháng</span>
         <span class="cy-en">"the days ahead are long" — there is plenty of time; don't be in a rush</span>
-        <span class="cy-note">来日 = the days that are coming; the future. 方长 = just beginning to be long. A consolation offered when someone is impatient, disappointed at not achieving something yet, or grieving a missed opportunity. The days still coming are many — this is not the end. Often said to the young, or to someone at a setback. Carries warmth rather than dismissal.</span>
+        <span class="cy-note">来日 = the days that are coming; the future. 方长 = just beginning to be long. A consolation offered when someone is impatient, disappointed at not achieving something yet, or grieving a missed opportunity. The days still coming are many; this is not the end. Often said to the young, or to someone at a setback. Carries warmth rather than dismissal.</span>
       </div>
 
     </div>
@@ -462,7 +462,7 @@ content_review: 'pending'
       <div class="scholar-label">记忆法 jìyìfǎ · Master Retention Image</div>
       <p>A wheat plant. Grain sweeping outward in both directions from a central stalk, roots below. Before this character meant "to come," it meant the grain that had come, traveled from the West along ancient trade routes to reach the Central Plains. The grain was a foreigner, an arrival, and the character that pictured it became the word for arriving.</p>
       <p>Every 来 compound is an arrival: 来了 (it has arrived), 回来 (return to the reference point), 来自 (origin as approach), 从来 (arriving all the way from the beginning of time up to now), 将来 (what is about to arrive), 未来 (what has not yet arrived). Even 来不及 is about arrival falling short, the time failing to come far enough.</p>
-      <p>Chinese grammar requires you to decide, with every motion verb, whether the movement is toward the speaker (来) or away from the speaker (去). There is no neutral movement. Every journey is narrated from a position: here or there, inbound or outbound. 来 is the inbound half — the wheat arriving from the West, the spring arriving from the future, the friend arriving at your door. The oracle bone still in the character.</p>
+      <p>Chinese grammar requires you to decide, with every motion verb, whether the movement is toward the speaker (来) or away from the speaker (去). There is no neutral movement. Every journey is narrated from a position: here or there, inbound or outbound. 来 is the inbound half: the wheat arriving from the West, the spring arriving from the future, the friend arriving at your door. The oracle bone still in the character.</p>
     </div>
 
     <footer class="page-footer">

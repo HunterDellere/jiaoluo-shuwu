@@ -224,7 +224,7 @@ content_sources:
 
     <div class="scholar" data-glyph="大">
       <div class="scholar-label">文化洞见 wénhuà dòngjiàn · Cultural Insight</div>
-      <p><strong>大家 dàjiā</strong> — "everyone; we all; all of us" — is one of the most important words in Chinese social life. Lit: "the big household / the great family." In Chinese collectivist culture, 大家 invokes the group as a unit: 大家好 (hello everyone), 大家一起来 (let's all do it together), 大家的事 (everyone's matter — a shared responsibility).</p>
+      <p><strong>大家 dàjiā</strong>, "everyone; we all; all of us," is one of the most important words in Chinese social life. Lit: "the big household / the great family." In Chinese collectivist culture, 大家 invokes the group as a unit: 大家好 (hello everyone), 大家一起来 (let's all do it together), 大家的事 (everyone's matter, a shared responsibility).</p>
       <p>The word also means "a great master" in a second sense: 文学大家 (a literary giant). The same two characters: the master of a great household, and everyone in it.</p>
     </div>
 

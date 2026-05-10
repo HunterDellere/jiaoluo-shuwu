@@ -541,8 +541,8 @@ updated: '2026-04-25'
     <div class="scholar" data-glyph="為" style="margin-top:2.5rem;">
       <div class="scholar-label">记忆法 jìyìfǎ · Master Retention Image</div>
       <p>The oracle bone image: a hand guiding an elephant forward. 为 is skilled agency , not force applied against resistance, but direction applied to something immense. The hand does not push the elephant; it leads it. That is the range of 为: from the very ordinary (做, 干, acting in daily life) to the philosophical (the kind of doing the Daodejing is arguing against).</p>
-      <p>The tone split maps onto two questions. wéi (second tone): what are you doing? what do you serve as? 认为, 成为, 行为 — the world of acting and being. wèi (fourth tone): why are you doing it? for whom? 因为, 为了, 为什么 — the world of purpose and cause.</p>
-      <p>And then 无为 — the paradox that dismantles the simple picture. The Daodejing does not abolish 为. It asks what happens when the forcing quality of 为 is released: 无为而无不为. Through non-action, nothing is left undone. The hand stops pushing; the elephant moves.</p>
+      <p>The tone split maps onto two questions. wéi (second tone): what are you doing? what do you serve as? 认为, 成为, 行为: the world of acting and being. wèi (fourth tone): why are you doing it? for whom? 因为, 为了, 为什么: the world of purpose and cause.</p>
+      <p>And then 无为: the paradox that dismantles the simple picture. The Daodejing does not abolish 为. It asks what happens when the forcing quality of 为 is released: 无为而无不为. Through non-action, nothing is left undone. The hand stops pushing; the elephant moves.</p>
     </div>
 
     <footer class="page-footer">

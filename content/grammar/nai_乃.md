@@ -341,15 +341,15 @@ faq:
       <p><strong>项王乃复引兵而东，至东城，乃有二十八骑。</strong></p>
       <p>Xiàng Wáng nǎi fù yǐn bīng ér dōng, zhì Dōngchéng, nǎi yǒu èrshíbā qí.</p>
       <p>"Xiang Yu thereupon led his troops east again; reaching Dongcheng, he had only twenty-eight cavalry remaining."</p>
-      <p>Two instances of 乃 in consecutive clauses. The first is earned-consequence: the eastward march follows from the defeat at Gaixia. The second verges on restrictive: arriving at Dongcheng, the count is confirmed — and only twenty-eight remain. Sima Qian uses the repeated 乃 to compress the catastrophe: each 乃 marks a result that follows inexorably from what came before. The twenty-eight cavalry is not the next number in a sequence; it is what the battle produced.</p>
+      <p>Two instances of 乃 in consecutive clauses. The first is earned-consequence: the eastward march follows from the defeat at Gaixia. The second verges on restrictive: arriving at Dongcheng, the count is confirmed, and only twenty-eight remain. Sima Qian uses the repeated 乃 to compress the catastrophe: each 乃 marks a result that follows inexorably from what came before. The twenty-eight cavalry is not the next number in a sequence; it is what the battle produced.</p>
     </div>
 
     <div class="scholar" data-glyph="游">
       <div class="scholar-label">王安石 Wáng Ānshí · 游褒禅山记 (1054)</div>
       <p><strong>而世之奇伟、瑰怪、非常之观，常在于险远，而人之所罕至焉，故非有志者不能至也。</strong></p>
       <p>ér shì zhī qíwěi, guīguài, fēicháng zhī guān, cháng zài yú xiǎn yuǎn, ér rén zhī suǒ hǎn zhì yān, gù fēi yǒu zhì zhě bù néng zhì yě.</p>
-      <p>"The extraordinary, the spectacular, the rare sights of this world are always in the dangerous and distant places, the places rarely reached by people — therefore only those with will can arrive there."</p>
-      <p>The argument structure is a formal proof by restriction: only the dangerous-and-distant places hold extraordinary sights; only those with will reach such places; therefore only those with will see extraordinary things. Wang Anshi then adds conditions for the argument's completeness — will requires strength, strength requires help from others, and even with all three the arrival is still contingent on encountering no obstacles. 乃 would be idiomatic at any of the consequence joints in this chain. The essay is a masterclass in classical restrictive logic.</p>
+      <p>"The extraordinary, the spectacular, the rare sights of this world are always in the dangerous and distant places, the places rarely reached by people; therefore only those with will can arrive there."</p>
+      <p>The argument structure is a formal proof by restriction: only the dangerous-and-distant places hold extraordinary sights; only those with will reach such places; therefore only those with will see extraordinary things. Wang Anshi then adds conditions for the argument's completeness: will requires strength, strength requires help from others, and even with all three the arrival is still contingent on encountering no obstacles. 乃 would be idiomatic at any of the consequence joints in this chain. The essay is a masterclass in classical restrictive logic.</p>
     </div>
 
     <!-- ADJACENT VOCABULARY CHIPS -->

@@ -399,14 +399,14 @@ content_sources:
         <span class="cy-cn">沧海桑田</span>
         <span class="cy-py">cānghǎi sāngtiān</span>
         <span class="cy-en">the blue sea becomes mulberry fields — dramatic change over time; the world transformed beyond recognition</span>
-        <span class="cy-note">From a Daoist tale recorded in 神仙传 (Biographies of Immortals, attributed to Ge Hong, 4th century CE): the immortal Magu tells of having seen the eastern sea turn to mulberry fields three times. 沧海 cānghǎi = the dark blue sea (沧 = cold, dark; vast). 桑田 sāngtián = mulberry fields (桑 = mulberry tree, whose leaves feed silkworms). The image is geological-scale transformation: what was ocean floor is now cultivated land. Used today when speaking of historical change so vast that nothing recognizable remains: 几十年过去了，这里已是沧海桑田。(Decades have passed; what was here before is utterly transformed.) The full saying is often followed by 沧海桑田，世事难料 — "the sea becomes fields; the world's affairs are hard to predict."</span>
+        <span class="cy-note">From a Daoist tale recorded in 神仙传 (Biographies of Immortals, attributed to Ge Hong, 4th century CE): the immortal Magu tells of having seen the eastern sea turn to mulberry fields three times. 沧海 cānghǎi = the dark blue sea (沧 = cold, dark; vast). 桑田 sāngtián = mulberry fields (桑 = mulberry tree, whose leaves feed silkworms). The image is geological-scale transformation: what was ocean floor is now cultivated land. Used today when speaking of historical change so vast that nothing recognizable remains: 几十年过去了，这里已是沧海桑田。(Decades have passed; what was here before is utterly transformed.) The full saying is often followed by 沧海桑田，世事难料: "the sea becomes fields; the world's affairs are hard to predict."</span>
       </div>
 
       <div class="cy">
         <span class="cy-cn">一成不变</span>
         <span class="cy-py">yī chéng bù biàn</span>
         <span class="cy-en">fixed and unchanging; rigidly the same — set in stone; never varying</span>
-        <span class="cy-note">成 chéng here carries its classical sense of "established; fixed; accomplished." Lit: "once established, not changing." The phrase carries a critical edge, describing something or someone that has refused all adaptation. In a cultural context where 变 is cosmologically necessary, 一成不变 is not a compliment. 世界在变，你不能一成不变。(The world is changing — you can't stay fixed.) Often contrasted with 与时俱进 yǔ shí jù jìn (advancing together with the times — one of the official slogans of the Jiang Zemin era), making 一成不变 its philosophical opposite.</span>
+        <span class="cy-note">成 chéng here carries its classical sense of "established; fixed; accomplished." Lit: "once established, not changing." The phrase carries a critical edge, describing something or someone that has refused all adaptation. In a cultural context where 变 is cosmologically necessary, 一成不变 is not a compliment. 世界在变，你不能一成不变。(The world is changing; you can't stay fixed.) Often contrasted with 与时俱进 yǔ shí jù jìn (advancing together with the times, one of the official slogans of the Jiang Zemin era), making 一成不变 its philosophical opposite.</span>
       </div>
 
     </div>

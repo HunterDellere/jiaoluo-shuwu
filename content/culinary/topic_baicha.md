@@ -113,7 +113,7 @@ related:
     <div class="scholar" data-glyph="陈">
       <div class="scholar-label">一年茶三年药七年宝 · The Aging Proverb</div>
       <p>A Fuding proverb encapsulates white tea's aging potential: <strong>一年茶，三年药，七年宝</strong> (yī nián chá, sān nián yào, qī nián bǎo) , "one year, it's tea; three years, it's medicine; seven years, it's a treasure." Unlike green tea, which degrades with age, and unlike pu-erh, which ages through active microbial fermentation, white tea undergoes a slow, dry post-harvest transformation driven by the residual enzymatic activity from its minimal processing and the gentle oxidation of continued storage. The flavor shifts from fresh and floral to warm, honeyed, woody, and slightly medicinal; the color of the liquor deepens from straw-gold to amber-orange.</p>
-      <p>Aged white tea is a relatively recent object of serious connoisseurship , historically it was simply consumed young — but the market for aged Fuding white tea has grown dramatically since the early 2000s as the aging potential of the best examples became clear. The most valued aged whites are cakes of Silver Needle or high-grade Shou Mei from the 1990s and early 2000s, now worth multiples of their original price. Storage conditions are critical: cool, dry, dark, and odor-free; unlike pu-erh's storage in humid Yunnan conditions, white tea ages best in the dry, temperate conditions of Fujian or similar climates.</p>
+      <p>Aged white tea is a relatively recent object of serious connoisseurship , historically it was simply consumed young, but the market for aged Fuding white tea has grown dramatically since the early 2000s as the aging potential of the best examples became clear. The most valued aged whites are cakes of Silver Needle or high-grade Shou Mei from the 1990s and early 2000s, now worth multiples of their original price. Storage conditions are critical: cool, dry, dark, and odor-free; unlike pu-erh's storage in humid Yunnan conditions, white tea ages best in the dry, temperate conditions of Fujian or similar climates.</p>
     </div>
 
     <span class="section-anchor" id="brewing"></span>
@@ -130,7 +130,7 @@ related:
       <strong>茶水比 chá shuǐ bǐ (Leaf-to-Water Ratio)</strong> → White tea is bulky; 2–4g per 100ml is typical for young whites; slightly less for aged<br>
       <strong>浸泡时间 jìnpào shíjiān (Steep Time)</strong> → Young: 2–3 min; aged: 1–2 min first steep (it extracts faster), then extending; 5–8 steeps achievable from good aged white<br>
       <strong>茶具 cháju (Vessel)</strong> → Glass for young whites (visual appreciation of the bud); lidded bowl or small pot for aged whites; clay acceptable for aged material<br>
-      <strong>特殊方法 tèshū fāngfǎ (Special Methods)</strong> → Aged whites also respond well to boiling/simmering in a clay pot (煮茶 zhǔ chá) — an assertive method that produces a rich, concentrated brew
+      <strong>特殊方法 tèshū fāngfǎ (Special Methods)</strong> → Aged whites also respond well to boiling/simmering in a clay pot (煮茶 zhǔ chá), an assertive method that produces a rich, concentrated brew
     </div>
 
     <span class="section-anchor" id="vocab"></span>
@@ -154,7 +154,7 @@ related:
         <span class="card-py">báiháo</span>
         <span class="card-en">white down — the fine hairs on young buds</span>
         <span class="tag-n">n.</span>
-        <p>The dense, silky white down covering young tea buds, particularly visible on Silver Needle and high-grade White Peony. The hairs are trichomes — the plant's natural defense against cold and insects. Their density is a reliable indicator of harvest timing and cultivar quality.</p>
+        <p>The dense, silky white down covering young tea buds, particularly visible on Silver Needle and high-grade White Peony. The hairs are trichomes: the plant's natural defense against cold and insects. Their density is a reliable indicator of harvest timing and cultivar quality.</p>
       </div>
       <div class="card c-ochre">
         <span class="card-cn">老白茶</span>

@@ -171,7 +171,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          母 mǔ (mother) + 语 yǔ (language). Mother tongue , the language absorbed in childhood, tied to family and home. 母语为汉语的人 = native Chinese speakers. 母语习得 = first language acquisition. 目标语 mùbiāoyǔ = target language (the language being learned). 外语 wàiyǔ = foreign language. The Chinese language learning community uses 汉语作为外语 (Chinese as a foreign language) and 对外汉语 (Chinese for foreigners) — the field now called 国际中文教育 (International Chinese Education).
+          母 mǔ (mother) + 语 yǔ (language). Mother tongue , the language absorbed in childhood, tied to family and home. 母语为汉语的人 = native Chinese speakers. 母语习得 = first language acquisition. 目标语 mùbiāoyǔ = target language (the language being learned). 外语 wàiyǔ = foreign language. The Chinese language learning community uses 汉语作为外语 (Chinese as a foreign language) and 对外汉语 (Chinese for foreigners), the field now called 国际中文教育 (International Chinese Education).
         </div>
         <div class="examples">
           <div class="example">
@@ -198,14 +198,14 @@ content_sources:
         <span class="cy-cn">语重心长</span>
         <span class="cy-py">yǔ zhòng xīn cháng</span>
         <span class="cy-en">words are weighty, feeling is deep — earnest, heartfelt advice</span>
-        <span class="cy-note">Lit: words-weighty-heart-long. Used to describe sincere, deeply felt words from someone who genuinely cares — a mentor's advice, a parent's warning, a teacher's final lesson before a student departs. The heaviness (重) of the words comes from the depth (长) of the feeling behind them. It is a compliment to both the speaker's sincerity and the quality of their counsel.</span>
+        <span class="cy-note">Lit: words-weighty-heart-long. Used to describe sincere, deeply felt words from someone who genuinely cares: a mentor's advice, a parent's warning, a teacher's final lesson before a student departs. The heaviness (重) of the words comes from the depth (长) of the feeling behind them. It is a compliment to both the speaker's sincerity and the quality of their counsel.</span>
       </div>
 
       <div class="cy">
         <span class="cy-cn">不言而喻</span>
         <span class="cy-py">bù yán ér yù</span>
         <span class="cy-en">without words, it is understood — self-evident; goes without saying</span>
-        <span class="cy-note">Lit: not-speak-yet-understand. What goes without saying — a truth so obvious that to speak it would be redundant. Contrasts with the power attributed to 语 elsewhere: here, the deepest understanding transcends the need for words. Used in logical argument: 这一点不言而喻 "this point goes without saying." Related to the Daoist value of silence and the classical idea that the greatest truths are beyond verbal articulation.</span>
+        <span class="cy-note">Lit: not-speak-yet-understand. What goes without saying: a truth so obvious that to speak it would be redundant. Contrasts with the power attributed to 语 elsewhere: here, the deepest understanding transcends the need for words. Used in logical argument: 这一点不言而喻 "this point goes without saying." Related to the Daoist value of silence and the classical idea that the greatest truths are beyond verbal articulation.</span>
       </div>
 
     </div>

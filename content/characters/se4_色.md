@@ -223,7 +223,7 @@ content_sources:
       <div class="scholar-label">文化洞见 wénhuà dòngjiàn · 色 and Desire</div>
       <p>The Confucian tradition recognized the pull of physical beauty as one of the great challenges to moral cultivation. Confucius observed: 吾未见好德如好色者也 , "I have yet to see someone who loves virtue as much as they love physical beauty." This is not puritanism , it is an honest acknowledgment of human nature, and a call to redirect that intensity toward moral excellence.</p>
       <p>The Buddhist concept of 色界 sèjiè (Form Realm , the second of the three realms of existence) and 色蕴 sèyùn (form aggregate , one of the Five Aggregates of experience) use 色 to mean all perceptible phenomena: form, shape, materiality. The famous 色即是空 "form is emptiness" addresses this sense: everything that appears (色) is without inherent, permanent existence.</p>
-      <p>Modern colloquial use: 色 alone as an adjective means "horny; lecherous" (他很色 "he's a lecher"). 色狼 sè láng = "sex wolf" — a lecherous man. These uses carry the original connotation of desire aroused by visible appearance.</p>
+      <p>Modern colloquial use: 色 alone as an adjective means "horny; lecherous" (他很色 "he's a lecher"). 色狼 sè láng = "sex wolf," a lecherous man. These uses carry the original connotation of desire aroused by visible appearance.</p>
     </div>
 
     <span class="section-anchor" id="chengyu"></span>
@@ -240,14 +240,14 @@ content_sources:
         <span class="cy-cn">五颜六色</span>
         <span class="cy-py">wǔ yán liù sè</span>
         <span class="cy-en">five shades, six colors — a riot of colors; multicolored</span>
-        <span class="cy-note">Lit: five-shades-six-colors. The standard idiom for anything vibrantly multicolored. 五 and 六 are figurative numbers (like English "many") — the compound just means extremely colorful. 市场上五颜六色的花朵 "the market's riot of colorful flowers."</span>
+        <span class="cy-note">Lit: five-shades-six-colors. The standard idiom for anything vibrantly multicolored. 五 and 六 are figurative numbers (like English "many"); the compound just means extremely colorful. 市场上五颜六色的花朵 "the market's riot of colorful flowers."</span>
       </div>
 
       <div class="cy">
         <span class="cy-cn">喜形于色</span>
         <span class="cy-py">xǐ xíng yú sè</span>
         <span class="cy-en">joy appears in the expression — one's happiness shows on the face</span>
-        <span class="cy-note">Lit: joy-manifests-on-color(face). When inner emotion becomes visible in one's expression. Used to describe someone who cannot hide their delight — their face gives them away. A neutral or positive observation.</span>
+        <span class="cy-note">Lit: joy-manifests-on-color(face). When inner emotion becomes visible in one's expression. Used to describe someone who cannot hide their delight; their face gives them away. A neutral or positive observation.</span>
       </div>
 
       <div class="cy">

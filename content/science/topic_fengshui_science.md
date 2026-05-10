@@ -173,11 +173,11 @@ pinyin: 'fēngshuǐ'
       </div>
       <div class="card c-sienna">
         <div class="card-head"><span class="tag-n">n</span> 罗盘 luópán</div>
-        <p>Geomantic compass — a multi-ring instrument centered on a magnetic needle, encoding the eight trigrams, Heavenly Stems and Earthly Branches, 24 solar term directions, 28 lunar mansions, and multiple other cosmological correspondence systems in concentric rings. The primary instrument of Compass School geomancy. Can have 30 or more rings in an expert practitioner tool.</p>
+        <p>Geomantic compass: a multi-ring instrument centered on a magnetic needle, encoding the eight trigrams, Heavenly Stems and Earthly Branches, 24 solar term directions, 28 lunar mansions, and multiple other cosmological correspondence systems in concentric rings. The primary instrument of Compass School geomancy. Can have 30 or more rings in an expert practitioner tool.</p>
       </div>
       <div class="card c-violet">
         <div class="card-head"><span class="tag-n">n</span> 明堂 míngtáng</div>
-        <p>Bright hall — the open space in front of a geomantically ideal site, where qi gathers before the building. The concept appears in both palace architecture and burial site theory. A site with a clear, level, unobstructed 明堂 is considered auspicious; a site where the ground falls away sharply or is blocked by opposing features is inauspicious. The "bright" refers to both light and openness — solar exposure and unobstructed qi accumulation.</p>
+        <p>Bright hall: the open space in front of a geomantically ideal site, where qi gathers before the building. The concept appears in both palace architecture and burial site theory. A site with a clear, level, unobstructed 明堂 is considered auspicious; a site where the ground falls away sharply or is blocked by opposing features is inauspicious. The "bright" refers to both light and openness: solar exposure and unobstructed qi accumulation.</p>
       </div>
     </div>
 

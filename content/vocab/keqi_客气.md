@@ -74,7 +74,7 @@ content_sources:
     <span class="section-anchor" id="meaning"></span>
       <h2 class="section-head">Core Meaning · 含义 hányì</h2>
       <div class="scholar" data-glyph="客">
-        <div class="scholar-label">客 (guest) + 气 (manner / qi) — guest-manner</div>
+        <div class="scholar-label">客 (guest) + 气 (manner / qi): guest-manner</div>
         <p>客气 (kèqi) literally means "guest-qi": the qi, the air, the manner that one adopts toward a guest, or that a guest properly adopts in another's home. It is politeness specifically of the kind that maintains the boundary between host and guest, between people who are not yet on intimate terms.</p>
         <p>Translated as "polite," "courteous," or "formal," 客气 covers a range that English politeness does not quite reach. It includes the bow before a doorway, the refusal of the offered seat at the head of the table, the insistence on paying when the bill comes, the modest deflection of a compliment. All of these are 客气. They are not friendliness exactly, and they are not formality exactly. They are the ritual surface that two people maintain when their relationship still requires one.</p>
         <p>This is why the most common form in conversation is the negative imperative: <strong>别客气</strong> (bié kèqi) or <strong>不要客气</strong> (bú yào kèqi), "don't be polite." The host says it to the guest. The friend says it to the friend. It means: drop the surface. We are not on those terms anymore.</p>
@@ -95,7 +95,7 @@ content_sources:
       <h2 class="section-head">The Refusal Dance · 推让 tuīràng</h2>
       <div class="cards">
         <div class="card c-red">
-          <div class="card-head">推让 tuīràng — to push and yield</div>
+          <div class="card-head">推让 tuīràng, to push and yield</div>
           <p>The classical name for the ritual back-and-forth: 推 (push, refuse) and 让 (yield, defer). When someone offers you the better seat, the larger portion, or the privilege of paying, the proper response is to refuse it once or twice before accepting. The other person knows this and offers again. The whole sequence is a short ceremony that both parties know is a ceremony, and both parties value precisely because it is one.</p>
         </div>
         <div class="card c-ochre">

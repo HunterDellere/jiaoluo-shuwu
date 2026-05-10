@@ -434,7 +434,7 @@ content_sources:
         <span class="cy-cn">左思右想</span>
         <span class="cy-py">zuǒ sī yòu xiǎng</span>
         <span class="cy-en">thinking left and right — to turn something over and over in the mind; to deliberate from all angles</span>
-        <span class="cy-note">左 zuǒ (left) + 思 sī (to think) + 右 yòu (right) + 想 xiǎng (to think). The spatial metaphor makes tangible what overthinking feels like: the mind moving left, then right, finding no ground to rest on. Where 深思熟虑 describes patient, productive deliberation, 左思右想 often has a slightly anxious or indecisive quality — the person cannot settle. 他左思右想，还是拿不定主意。(He turned it over and over in his mind and still couldn't make a decision.) Common in the context of a difficult choice or unresolvable worry.</span>
+        <span class="cy-note">左 zuǒ (left) + 思 sī (to think) + 右 yòu (right) + 想 xiǎng (to think). The spatial metaphor makes tangible what overthinking feels like: the mind moving left, then right, finding no ground to rest on. Where 深思熟虑 describes patient, productive deliberation, 左思右想 often has a slightly anxious or indecisive quality; the person cannot settle. 他左思右想，还是拿不定主意。(He turned it over and over in his mind and still couldn't make a decision.) Common in the context of a difficult choice or unresolvable worry.</span>
       </div>
 
     </div>

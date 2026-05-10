@@ -126,7 +126,7 @@ pinyin: 'Qīngmíngjié'
       <strong>踏青 tàqīng</strong> → Spring outing , the living face: walk in the countryside, fly kites, admire the first blossoms, eat spring foods outdoors<br>
       <strong>Historical logic</strong> → Having visited the graves in the hills, families naturally moved into the surrounding spring landscape , grief and pleasure woven together rather than kept separate<br>
       <strong>Traditional foods</strong> → 青团 qīngtuán (green glutinous rice cakes colored with mugwort or barley juice, eaten especially in the Jiangnan region) · 馓子 sǎnzi (fried dough twists, a northern custom) · 润饼 rùnbǐng (spring rolls in Fujian tradition)<br>
-      <strong>放风筝 fàng fēngzheng</strong> → Kite-flying — a traditional Qīngmíng activity; some traditions hold that flying a kite and then cutting the string releases bad luck into the sky
+      <strong>放风筝 fàng fēngzheng</strong> → Kite-flying, a traditional Qīngmíng activity; some traditions hold that flying a kite and then cutting the string releases bad luck into the sky
     </div>
 
     <!-- ── VOCAB ── -->
@@ -158,14 +158,14 @@ pinyin: 'Qīngmíngjié'
         <span class="card-py">tàqīng</span>
         <span class="card-en">spring outing; walking in green countryside</span>
         <span class="tag-v">v.</span>
-        <p>Literally "treading the green" — walking in newly green spring countryside. The second major activity of Qīngmíng, counterbalancing the grave-visiting with a celebration of new life. The character 踏 (to tread, to step on) emphasizes the direct, physical contact with the spring earth.</p>
+        <p>Literally "treading the green": walking in newly green spring countryside. The second major activity of Qīngmíng, counterbalancing the grave-visiting with a celebration of new life. The character 踏 (to tread, to step on) emphasizes the direct, physical contact with the spring earth.</p>
       </div>
       <div class="card c-violet">
         <span class="card-cn">青团</span>
         <span class="card-py">qīngtuán</span>
         <span class="card-en">green glutinous rice cakes — the festival food of the Jiangnan region</span>
         <span class="tag-n">n.</span>
-        <p>Round glutinous rice cakes colored bright green with mugwort juice (艾草汁 àicǎo zhī) or barley juice (麦青汁 màiqīng zhī), stuffed with sweet red bean paste or savory fillings. Their vivid green color is the color of early spring — the food embodies the season as much as it feeds the eater.</p>
+        <p>Round glutinous rice cakes colored bright green with mugwort juice (艾草汁 àicǎo zhī) or barley juice (麦青汁 màiqīng zhī), stuffed with sweet red bean paste or savory fillings. Their vivid green color is the color of early spring; the food embodies the season as much as it feeds the eater.</p>
       </div>
       <div class="card c-red">
         <span class="card-cn">寒食</span>

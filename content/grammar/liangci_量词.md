@@ -684,14 +684,14 @@ pinyin: 'liàngcí'
         <span class="cy-cn">万紫千红</span>
         <span class="cy-py">wàn zǐ qiān hóng</span>
         <span class="cy-en">ten thousand purples and a thousand reds — riot of spring color</span>
-        <span class="cy-note">The numbers 万 (ten thousand) and 千 (thousand) function here as measure-like intensifiers — they modify color nouns without explicit classifiers because the color words themselves serve as measure-noun compounds. From Su Shi's 朱熹 poem on spring: 等闲识得东风面，万紫千红总是春 "Casually recognizing the east wind's face — ten thousand purples and a thousand reds, all of it is spring."</span>
+        <span class="cy-note">The numbers 万 (ten thousand) and 千 (thousand) function here as measure-like intensifiers; they modify color nouns without explicit classifiers because the color words themselves serve as measure-noun compounds. From Su Shi's 朱熹 poem on spring: 等闲识得东风面，万紫千红总是春 "Casually recognizing the east wind's face: ten thousand purples and a thousand reds, all of it is spring."</span>
       </div>
 
       <div class="cy">
         <span class="cy-cn">一字千金</span>
         <span class="cy-py">yī zì qiān jīn</span>
         <span class="cy-en">one character, a thousand gold pieces — words of immense value</span>
-        <span class="cy-note">字 here is a classifier for characters/words. 金 (gold pieces) is the unit of price. From the story of Lü Buwei's 吕不韦 text 《吕氏春秋》 — he challenged anyone to change a single character and offered a thousand gold pieces if they could improve it. Used to praise literary excellence.</span>
+        <span class="cy-note">字 here is a classifier for characters/words. 金 (gold pieces) is the unit of price. From the story of Lü Buwei's 吕不韦 text 《吕氏春秋》: he challenged anyone to change a single character and offered a thousand gold pieces if they could improve it. Used to praise literary excellence.</span>
       </div>
 
     </div>

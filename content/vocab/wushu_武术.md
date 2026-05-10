@@ -59,7 +59,7 @@ content_sources:
       <span class="topic-hero-eyebrow">Vocab · 词汇 cíhuì</span>
       <h1 class="topic-hero-title">武术</h1>
       <span class="topic-hero-title-py">wǔ shù</span>
-      <p class="topic-hero-desc">The art of stopping weapons — China's systematized tradition of combat training, body cultivation, and martial philosophy.</p>
+      <p class="topic-hero-desc">The art of stopping weapons: China's systematized tradition of combat training, body cultivation, and martial philosophy.</p>
     </header>
 
     <span class="section-anchor" id="etymology"></span>
@@ -86,10 +86,10 @@ content_sources:
     </div>
 
     <div class="pattern">
-      <span class="label">武术 · 功夫 · 太极 · 气功 — The Four Core Terms</span>
+      <span class="label">武术 · 功夫 · 太极 · 气功 · The Four Core Terms</span>
       <strong>武术</strong> wǔshù = umbrella term for all Chinese martial arts (formal, official)<br>
       <strong>功夫</strong> gōngfu = any skill mastered through time and effort; colloquially: Chinese martial arts<br>
-      <strong>太极</strong> tàijí = Taiji — the slow-form art of yin-yang balance; the most practiced martial art in the world<br>
+      <strong>太极</strong> tàijí = Taiji, the slow-form art of yin-yang balance; the most practiced martial art in the world<br>
       <strong>气功</strong> qìgōng = cultivation of <em>qì</em> (vital energy) through breathing, posture, and meditation
     </div>
 

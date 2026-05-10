@@ -194,7 +194,7 @@ pinyin: 'Zhōu cháo'
         </div>
         <div class="note">
           <span class="note-label">以德配天 yǐ dé pèi tiān</span>
-          "To match Heaven through virtue" — the corollary principle. The ruler sustains the Mandate through moral conduct; Heaven monitors the realm's condition as evidence of the ruler's virtue. Floods, famines, and rebellions are not merely natural events but political signals.
+          "To match Heaven through virtue" is the corollary principle. The ruler sustains the Mandate through moral conduct; Heaven monitors the realm's condition as evidence of the ruler's virtue. Floods, famines, and rebellions are not merely natural events but political signals.
         </div>
       </div>
 
@@ -239,7 +239,7 @@ pinyin: 'Zhōu cháo'
         </div>
         <div class="note">
           <span class="note-label">礼崩乐坏 lǐ bēng yuè huài</span>
-          "Ritual collapses, music decays" — the Spring and Autumn period phrase for social disorder, still used today for moral breakdown. The specific complaint was that vassal lords were using ritual vessels and musical ensembles prescribed for the Zhou king alone.
+          "Ritual collapses, music decays" was the Spring and Autumn period phrase for social disorder, still used today for moral breakdown. The specific complaint was that vassal lords were using ritual vessels and musical ensembles prescribed for the Zhou king alone.
         </div>
       </div>
 
@@ -310,7 +310,7 @@ pinyin: 'Zhōu cháo'
         <span class="cy-cn">周公吐哺</span>
         <span class="cy-py">Zhōu Gōng tǔ bǔ</span>
         <span class="cy-en">the Duke of Zhou spits out his food — a ruler's eagerness to receive talent</span>
-        <span class="cy-note">From a passage in the <em>Shiji</em>: the Duke of Zhou was so eager to receive visiting scholars and advisors that when eating he would stop mid-meal, spit out his food, and go to meet them, lest a talented man leave without an audience. Cao Cao (曹操) invoked this image in his famous poem <em>Short Song</em> (短歌行): "周公吐哺，天下归心" — "The Duke of Zhou spits out his food; the hearts of the realm turn to him." Used to praise a leader who goes out of his way to attract capable people.</span>
+        <span class="cy-note">From a passage in the <em>Shiji</em>: the Duke of Zhou was so eager to receive visiting scholars and advisors that when eating he would stop mid-meal, spit out his food, and go to meet them, lest a talented man leave without an audience. Cao Cao (曹操) invoked this image in his famous poem <em>Short Song</em> (短歌行): "周公吐哺，天下归心". "The Duke of Zhou spits out his food; the hearts of the realm turn to him." Used to praise a leader who goes out of his way to attract capable people.</span>
       </div>
 
       <div class="cy">

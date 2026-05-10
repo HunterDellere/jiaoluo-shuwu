@@ -90,7 +90,7 @@ content_sources:
         </div>
         <div class="card c-ochre">
           <div class="card-head">Inability to update on new information</div>
-          <p>The specifically cognitive version — not just clinging to the old method, but treating it as still valid in the face of evidence it isn't. The swordsman in the parable knew the boat had moved. He dived anyway. The error is knowable and still not corrected.</p>
+          <p>The specifically cognitive version: not just clinging to the old method, but treating it as still valid in the face of evidence it isn't. The swordsman in the parable knew the boat had moved. He dived anyway. The error is knowable and still not corrected.</p>
         </div>
         <div class="card c-teal">
           <div class="card-head">In a sentence</div>

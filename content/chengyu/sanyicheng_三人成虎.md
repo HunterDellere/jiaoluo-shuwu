@@ -152,13 +152,13 @@ updated: '2026-04-25'
         <span class="cy-cn">众口铄金</span>
         <span class="cy-py">zhòngkǒu shuòjīn</span>
         <span class="cy-en">many mouths melt gold</span>
-        <span class="cy-note">From the Guoyu and other classical texts: collective speech is so powerful it can melt metal. A more extreme formulation of the same principle as 三人成虎 — the force of accumulated voices is overwhelming, even against something as solid as reputation or fact. 众口铄金 emphasizes destruction; 三人成虎 emphasizes creation of false belief.</span>
+        <span class="cy-note">From the Guoyu and other classical texts: collective speech is so powerful it can melt metal. A more extreme formulation of the same principle as 三人成虎: the force of accumulated voices is overwhelming, even against something as solid as reputation or fact. 众口铄金 emphasizes destruction; 三人成虎 emphasizes creation of false belief.</span>
       </div>
       <div class="cy">
         <span class="cy-cn">积毁销骨</span>
         <span class="cy-py">jī huǐ xiāo gǔ</span>
         <span class="cy-en">accumulated slander dissolves bones</span>
-        <span class="cy-note">From the Shiji (Records of the Grand Historian): repeated criticism, even if each instance is minor, accumulates into something that can destroy a person entirely. This is the specific personal consequence that Pang Cong feared — and that happened to him.</span>
+        <span class="cy-note">From the Shiji (Records of the Grand Historian): repeated criticism, even if each instance is minor, accumulates into something that can destroy a person entirely. This is the specific personal consequence that Pang Cong feared, and that happened to him.</span>
       </div>
       <div class="cy">
         <span class="cy-cn">人言可畏</span>

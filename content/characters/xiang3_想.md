@@ -479,7 +479,7 @@ content_review: 'pending'
         <span class="cy-cn">朝思暮想</span>
         <span class="cy-py">zhāo sī mù xiǎng</span>
         <span class="cy-en">to think of morning and night; to long for ceaselessly</span>
-        <span class="cy-note">朝 zhāo (morning; dawn) + 思 sī (to think of; to long for) + 暮 mù (dusk; evening) + 想 xiǎng (to think of; to miss). Thinking at dawn and thinking at dusk: longing that fills the entire arc of a day. Used for intense, sustained yearning — romantic longing, homesickness, or grief for the absent. The parallel structure (morning/思 :: dusk/想) compresses an entire waking life into four characters.</span>
+        <span class="cy-note">朝 zhāo (morning; dawn) + 思 sī (to think of; to long for) + 暮 mù (dusk; evening) + 想 xiǎng (to think of; to miss). Thinking at dawn and thinking at dusk: longing that fills the entire arc of a day. Used for intense, sustained yearning: romantic longing, homesickness, or grief for the absent. The parallel structure (morning/思 :: dusk/想) compresses an entire waking life into four characters.</span>
       </div>
 
     </div>
@@ -510,7 +510,7 @@ content_review: 'pending'
     <!-- RETENTION IMAGE -->
     <div class="scholar" data-glyph="想">
       <div class="scholar-label">记忆法 jìyìfǎ · Master Retention Image</div>
-      <p>Picture the original image inside 相: an eye pressed close to a tree, reading the grain of the wood, inspecting the rings and the texture — mutual attention between the one who looks and the thing looked at. Now place the heart beneath that image. The heart doing what the eye does to the tree: turning toward something, reading it, attending to it with full focus.</p>
+      <p>Picture the original image inside 相: an eye pressed close to a tree, reading the grain of the wood, inspecting the rings and the texture: mutual attention between the one who looks and the thing looked at. Now place the heart beneath that image. The heart doing what the eye does to the tree: turning toward something, reading it, attending to it with full focus.</p>
       <p>This is 想. The heart in the act of facing something. When the object is an idea, the facing is thinking. When the object is something the heart does not yet have, the facing is wanting. When the object is someone no longer present, the facing is missing. Three English words for one Chinese gesture, because English tracks what the object is while Chinese tracks what the heart does.</p>
       <p>Every 想 compound follows from this. 想法 (idea): what the facing produces. 思想 (ideology): facing sustained long enough to become a system. 想象 (imagination): the heart facing what the eye has never seen. 想念 (to miss): the heart facing an absence. 理想 (ideal): the heart facing the world as it ought to be. 异想天开 (wild fantasy): the heart facing so far past reality that the sky opens. The character never changes; only what the heart is facing does.</p>
     </div>

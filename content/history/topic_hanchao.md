@@ -193,7 +193,7 @@ pinyin: 'hàncháo'
         <span class="cy-cn">四面楚歌</span>
         <span class="cy-py">sìmiàn Chǔ gē</span>
         <span class="cy-en">Chu songs on all four sides — surrounded and without hope of rescue</span>
-        <span class="cy-note">From the Battle of Gaixia (202 BCE): Liu Bang's generals had Han soldiers sing the folk songs of Chu from all directions at night, making Xiang Yu believe his home region was already captured and his troops had defected. Xiang Yu wept, sang a farewell poem to his horse and his concubine Yu Ji, and died fighting. Now: any situation of total encirclement with no allies remaining. 他陷入了四面楚歌的困境 — "He found himself in a situation of total isolation."</span>
+        <span class="cy-note">From the Battle of Gaixia (202 BCE): Liu Bang's generals had Han soldiers sing the folk songs of Chu from all directions at night, making Xiang Yu believe his home region was already captured and his troops had defected. Xiang Yu wept, sang a farewell poem to his horse and his concubine Yu Ji, and died fighting. Now: any situation of total encirclement with no allies remaining. 他陷入了四面楚歌的困境. "He found himself in a situation of total isolation."</span>
       </div>
 
       <div class="cy">
@@ -207,14 +207,14 @@ pinyin: 'hàncháo'
         <span class="cy-cn">约法三章</span>
         <span class="cy-py">yuē fǎ sān zhāng</span>
         <span class="cy-en">a covenant of three clauses — simple, clear rules agreed upon in advance</span>
-        <span class="cy-note">Liu Bang's proclamation upon entering Qin territory: abolishing Qin's thousands of regulations in favor of just three (no murder, no assault, no theft). Now: any simple, clear agreement or set of rules established upfront between parties. 我们约法三章：不准迟到，不准说谎，不准逃课 — "We agreed on three rules: no tardiness, no lying, no skipping class." Extremely common in modern spoken and written Chinese.</span>
+        <span class="cy-note">Liu Bang's proclamation upon entering Qin territory: abolishing Qin's thousands of regulations in favor of just three (no murder, no assault, no theft). Now: any simple, clear agreement or set of rules established upfront between parties. 我们约法三章：不准迟到，不准说谎，不准逃课. "We agreed on three rules: no tardiness, no lying, no skipping class." Extremely common in modern spoken and written Chinese.</span>
       </div>
 
       <div class="cy">
         <span class="cy-cn">破釜沉舟</span>
         <span class="cy-py">pò fǔ chén zhōu</span>
         <span class="cy-en">smash the cooking pots and sink the boats — to commit fully with no route of retreat</span>
-        <span class="cy-note">From Xiang Yu's strategy at the Battle of Julu (207 BCE): after crossing the river to attack Qin's army, he ordered the boats sunk and the cooking pots smashed, leaving his men with three days' rations and no possibility of retreat. They fought with total desperation and won. Now: the Chinese equivalent of "burn your bridges" — but with positive connotation, emphasizing total commitment to a goal. One of the most commonly cited chengyu in motivational and business contexts.</span>
+        <span class="cy-note">From Xiang Yu's strategy at the Battle of Julu (207 BCE): after crossing the river to attack Qin's army, he ordered the boats sunk and the cooking pots smashed, leaving his men with three days' rations and no possibility of retreat. They fought with total desperation and won. Now: the Chinese equivalent of "burn your bridges", but with positive connotation, emphasizing total commitment to a goal. One of the most commonly cited chengyu in motivational and business contexts.</span>
       </div>
 
     </div>

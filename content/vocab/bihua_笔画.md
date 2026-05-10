@@ -103,21 +103,21 @@ content_sources:
       <div class="card c-ochre">
         <div class="card-hanzi">折 ∟</div>
         <div class="card-pinyin">zhé</div>
-        <div class="card-en">turning stroke — changes direction mid-stroke</div>
+        <div class="card-en">turning stroke; changes direction mid-stroke</div>
         <div class="card-note">A stroke that turns without lifting: horizontal then vertical (横折), vertical then horizontal (竖折), etc. Many compound strokes are classified as variants of 折. Found in: 口, 日, 国, 马.</div>
       </div>
 
       <div class="card c-ochre">
         <div class="card-hanzi">钩 J</div>
         <div class="card-pinyin">gōu</div>
-        <div class="card-en">hook — ends with a small kick or flick</div>
+        <div class="card-en">hook; ends with a small kick or flick</div>
         <div class="card-note">A stroke ending with a quick lift that produces a small pointed hook. Variants: 竖钩 (vertical hook), 横钩 (horizontal hook), 弯钩 (curved hook). Found in: 子, 小, 水, 我.</div>
       </div>
 
       <div class="card c-ochre">
         <div class="card-hanzi">提 ↗</div>
         <div class="card-pinyin">tí</div>
-        <div class="card-en">rising stroke — short, rising left-to-right</div>
+        <div class="card-en">rising stroke; short, rising left-to-right</div>
         <div class="card-note">A short stroke that rises from lower-left to upper-right. Seen in the base of 土, 王, and in the leftward radical form of certain components. Less common than the others but unmistakable in calligraphy.</div>
       </div>
 

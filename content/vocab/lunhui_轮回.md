@@ -422,7 +422,7 @@ updated: '2026-04-25'
           <div class="example">
             <div class="ex-cn">六道轮回是佛教宇宙观的核心，一切众生都在其中流转。</div>
             <div class="ex-py">Liù dào lúnhuí shì fójiào yǔzhòu guān de héxīn, yīqiè zhòngshēng dōu zài qí zhōng liúzhuǎn.</div>
-            <div class="ex-en">The six-realm cycle of rebirth is the core of the Buddhist cosmological view — all sentient beings flow through it.</div>
+            <div class="ex-en">The six-realm cycle of rebirth is the core of the Buddhist cosmological view; all sentient beings flow through it.</div>
           </div>
         </div>
       </div>
@@ -435,7 +435,7 @@ updated: '2026-04-25'
         </div>
         <div class="tags"><span class="tag tag-n">N phrase 名词短语</span></div>
         <div class="card-def">
-          生死 shēngsǐ (birth and death; life and death) + 轮回. Emphasizes the specific axis of birth and death as the visible face of the cycle — the moments of entry and exit that mark each turn of the wheel. 生死苦海 shēngsǐ kǔhǎi (the bitter sea of birth and death) is a related classical phrase for the suffering of conditioned existence. 了脱生死 liǎotuō shēngsǐ (to transcend birth and death; to achieve liberation) names the Buddhist goal in terms of this axis.
+          生死 shēngsǐ (birth and death; life and death) + 轮回. Emphasizes the specific axis of birth and death as the visible face of the cycle: the moments of entry and exit that mark each turn of the wheel. 生死苦海 shēngsǐ kǔhǎi (the bitter sea of birth and death) is a related classical phrase for the suffering of conditioned existence. 了脱生死 liǎotuō shēngsǐ (to transcend birth and death; to achieve liberation) names the Buddhist goal in terms of this axis.
         </div>
         <div class="examples">
           <div class="example">
@@ -501,7 +501,7 @@ updated: '2026-04-25'
     <!-- RETENTION SCHOLAR BOX -->
     <div class="scholar" data-glyph="轮" style="margin-top:2.5rem;">
       <div class="scholar-label">记忆法 jìyìfǎ · Master Retention Image</div>
-      <p>A wheel turning in the dark: every death is a revolution, every birth a new position on the same arc. The wheel turns because the axle holds — and the axle is karma, the accumulated weight of intentional actions. Craving drives the wheel forward; ignorance keeps the axle greased; aversion spins it harder. The Buddhist path is not about earning a better position on the wheel. It is about seeing the wheel clearly enough that the compulsion to keep turning it falls away.</p>
+      <p>A wheel turning in the dark: every death is a revolution, every birth a new position on the same arc. The wheel turns because the axle holds; and the axle is karma, the accumulated weight of intentional actions. Craving drives the wheel forward; ignorance keeps the axle greased; aversion spins it harder. The Buddhist path is not about earning a better position on the wheel. It is about seeing the wheel clearly enough that the compulsion to keep turning it falls away.</p>
       <p>The six realms are not places one goes to but conditions one inhabits: the hungry ghost is recognizable in any person consumed by insatiable desire; the hell realm is not only a cosmological destination but the texture of a mind in extreme suffering. The teaching is a map of states as much as a map of places.</p>
       <p>The bodhisattva's choice to stay in the wheel for the sake of others is the most counterintuitive element of Mahayana thought: liberation available, and deliberately set aside. 慈悲 cíbēi (compassion) expressed not as a feeling but as a vow: I will keep coming back until there is no one left who needs me to.</p>
     </div>

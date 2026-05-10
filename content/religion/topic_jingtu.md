@@ -301,21 +301,21 @@ pinyin: 'jìngtǔ zōng'
         <span class="cy-cn">阿弥陀佛</span>
         <span class="cy-py">Āmítuófó</span>
         <span class="cy-en">Amitābha — now a general exclamation of relief, surprise, or exasperation in secular speech</span>
-        <span class="cy-note">Perhaps the most remarkable case of Buddhist vocabulary entering secular Chinese: 阿弥陀佛 is now routinely used by non-Buddhists as an exclamation — roughly equivalent to "Oh thank God!" or "Goodness gracious!" or even "Ugh, finally." A person not even nominally Buddhist will say 阿弥陀佛 upon narrowly avoiding a car accident, upon finally finishing a difficult project, or upon hearing a long-awaited good news. The phrase has traveled so far from its religious origin that its users often have no idea they are reciting the name of a Buddha.</span>
+        <span class="cy-note">Perhaps the most remarkable case of Buddhist vocabulary entering secular Chinese: 阿弥陀佛 is now routinely used by non-Buddhists as an exclamation, roughly equivalent to "Oh thank God!" or "Goodness gracious!" or even "Ugh, finally." A person not even nominally Buddhist will say 阿弥陀佛 upon narrowly avoiding a car accident, upon finally finishing a difficult project, or upon hearing a long-awaited good news. The phrase has traveled so far from its religious origin that its users often have no idea they are reciting the name of a Buddha.</span>
       </div>
 
       <div class="cy">
         <span class="cy-cn">往生净土</span>
         <span class="cy-py">wǎngshēng jìngtǔ</span>
         <span class="cy-en">rebirth in the Pure Land — the aspiration fulfilled at death</span>
-        <span class="cy-note">The central Pure Land aspiration: to depart this world and arrive in Amitābha's Pure Land at death. In eulogies and memorial contexts: "She has been reborn in the Pure Land" 她已往生净土 is the standard Buddhist formulation for death. Even families with no particular Buddhist practice may use this phrase at a funeral because it is the conventional polite Chinese Buddhist way to speak of death — combining comfort for the living with aspiration for the deceased.</span>
+        <span class="cy-note">The central Pure Land aspiration: to depart this world and arrive in Amitābha's Pure Land at death. In eulogies and memorial contexts: "She has been reborn in the Pure Land" 她已往生净土 is the standard Buddhist formulation for death. Even families with no particular Buddhist practice may use this phrase at a funeral because it is the conventional polite Chinese Buddhist way to speak of death, combining comfort for the living with aspiration for the deceased.</span>
       </div>
 
       <div class="cy">
         <span class="cy-cn">花开见佛</span>
         <span class="cy-py">huā kāi jiàn fó</span>
         <span class="cy-en">the flower blooms and the Buddha is seen — the moment of rebirth and awakening</span>
-        <span class="cy-note">The image of rebirth in the Pure Land: practitioners are born into the Pure Land by being cradled inside a lotus bud in the jeweled pond. The lotus opens — and the practitioner sees Amitābha face to face, receiving direct teaching, and awakens. How quickly the lotus opens depends on the quality of one's practice: for the highest grade practitioners, the lotus opens immediately; for those of the lowest grade, it takes twelve great eons. The image is shared with Chan (see the Chan page), where it describes the moment of enlightenment rather than physical rebirth.</span>
+        <span class="cy-note">The image of rebirth in the Pure Land: practitioners are born into the Pure Land by being cradled inside a lotus bud in the jeweled pond. The lotus opens, and the practitioner sees Amitābha face to face, receiving direct teaching, and awakens. How quickly the lotus opens depends on the quality of one's practice: for the highest grade practitioners, the lotus opens immediately; for those of the lowest grade, it takes twelve great eons. The image is shared with Chan (see the Chan page), where it describes the moment of enlightenment rather than physical rebirth.</span>
       </div>
 
     </div>

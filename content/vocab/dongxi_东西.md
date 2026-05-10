@@ -640,14 +640,14 @@ content_sources:
         <span class="cy-cn">东张西望</span>
         <span class="cy-py">dōng zhāng xī wàng</span>
         <span class="cy-en">"looking east and west" — glancing around nervously or curiously; gawking</span>
-        <span class="cy-note">Lit: east-look-west-gaze. Used for someone whose eyes dart around — whether out of nervousness, suspicion, or simple distraction. The four-character structure vividly enacts the scanning motion itself. 他在街上东张西望，好像在找人。"He was looking all around the street as if searching for someone."</span>
+        <span class="cy-note">Lit: east-look-west-gaze. Used for someone whose eyes dart around, whether out of nervousness, suspicion, or simple distraction. The four-character structure vividly enacts the scanning motion itself. 他在街上东张西望，好像在找人。"He was looking all around the street as if searching for someone."</span>
       </div>
 
       <div class="cy">
         <span class="cy-cn">东拼西凑</span>
         <span class="cy-py">dōng pīn xī còu</span>
         <span class="cy-en">"pieced together from east and west" — to cobble together; makeshift; assembled from disparate sources</span>
-        <span class="cy-note">Lit: east-piece-west-gather. Used when something has been hastily assembled from disparate sources with no coherence or originality. Can apply to reports, plans, meals, or arguments. 这篇文章是东拼西凑的，没有自己的观点。"This essay is cobbled together — there's no original thinking in it."</span>
+        <span class="cy-note">Lit: east-piece-west-gather. Used when something has been hastily assembled from disparate sources with no coherence or originality. Can apply to reports, plans, meals, or arguments. 这篇文章是东拼西凑的，没有自己的观点。"This essay is cobbled together; there's no original thinking in it."</span>
       </div>
 
     </div>
@@ -680,7 +680,7 @@ content_sources:
     <!-- RETENTION SCHOLAR BOX -->
     <div class="scholar" data-glyph="西" style="margin-top:2.5rem;">
       <div class="scholar-label">记忆法 jìyìfǎ · Master Retention Image</div>
-      <p>Hold two images in mind: the neutral, breathy dōngxi (flat, quick — your keys, your lunch, your stuff) versus the deliberate dōng xī with both tones fully voiced, the axis on which civilizations are arranged from the Silk Road to the Pacific. One describes what's in your bag; the other describes the shape of the world.</p>
+      <p>Hold two images in mind: the neutral, breathy dōngxi (flat, quick: your keys, your lunch, your stuff) versus the deliberate dōng xī with both tones fully voiced, the axis on which civilizations are arranged from the Silk Road to the Pacific. One describes what's in your bag; the other describes the shape of the world.</p>
       <p>The next time someone asks if you want anything from the store and you reply 不用，我不需要什么东西, you are invoking the ancient markets of Chang'an, the Five Phases cosmology, and a word that is a ghost map of a metropolis that no longer stands.</p>
     </div>
 

@@ -348,7 +348,7 @@ pinyin: 'lián…dōu/yě'
           <div class="example">
             <div class="ex-cn">这道题连老师都不会，你让我怎么做？</div>
             <div class="ex-py">Zhè dào tí lián lǎoshī dōu bù huì, nǐ ràng wǒ zěnme zuò?</div>
-            <div class="ex-en">Even the teacher can't do this problem — how do you expect me to?</div>
+            <div class="ex-en">Even the teacher can't do this problem; how do you expect me to?</div>
           </div>
           <div class="example">
             <div class="ex-cn">连医生都说没办法了。</div>
@@ -450,14 +450,14 @@ pinyin: 'lián…dōu/yě'
         <span class="cy-cn">枝连叶合</span>
         <span class="cy-py">zhī lián yè hé</span>
         <span class="cy-en">branches linked, leaves joined — close-knit family or unity</span>
-        <span class="cy-note">Lit: branches-connect-leaves-join. A literary phrase for family solidarity or any close-knit organic unity — like branches of a tree that are all connected at the root. Uses 连 in its original botanical/linking sense. Less common in everyday speech; appears in classical prose and formal descriptions of kinship.</span>
+        <span class="cy-note">Lit: branches-connect-leaves-join. A literary phrase for family solidarity or any close-knit organic unity, like branches of a tree that are all connected at the root. Uses 连 in its original botanical/linking sense. Less common in everyday speech; appears in classical prose and formal descriptions of kinship.</span>
       </div>
 
       <div class="cy">
         <span class="cy-cn">连篇累牍</span>
         <span class="cy-py">lián piān lěi dú</span>
         <span class="cy-en">page after page, tablet after tablet — excessively wordy, verbose</span>
-        <span class="cy-note">篇 = a piece of writing; 累牍 = pile of writing tablets (classical). Together: pieces of writing linked in succession and accumulated into piles. A pejorative idiom for excessive verbosity — writing that goes on and on without saying much. 他的报告连篇累牍，让人看不下去 "His report was so verbose nobody could get through it."</span>
+        <span class="cy-note">篇 = a piece of writing; 累牍 = pile of writing tablets (classical). Together: pieces of writing linked in succession and accumulated into piles. A pejorative idiom for excessive verbosity: writing that goes on and on without saying much. 他的报告连篇累牍，让人看不下去 "His report was so verbose nobody could get through it."</span>
       </div>
 
     </div>

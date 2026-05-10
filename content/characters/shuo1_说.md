@@ -229,7 +229,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-v">V 动词 dòngcí</span></div>
         <div class="card-def">
-          说 shuō + 服 fú (to submit; to be convinced; to be at someone's service). To speak until someone submits — to persuade successfully. The complement 服 marks the result: the persuasion worked.
+          说 shuō + 服 fú (to submit; to be convinced; to be at someone's service). To speak until someone submits, to persuade successfully. The complement 服 marks the result: the persuasion worked.
         </div>
         <div class="examples">
           <div class="example">
@@ -313,14 +313,14 @@ content_sources:
         <span class="cy-cn">口是心非</span>
         <span class="cy-py">kǒu shì xīn fēi</span>
         <span class="cy-en">the mouth says yes but the heart says no — saying one thing while thinking another</span>
-        <span class="cy-note">Lit: mouth-is-yes heart-is-no. Hypocrisy or insincerity. The failure of 说 to match 心 (speech to align with heart) — a violation of Confucian authenticity (诚 chéng).</span>
+        <span class="cy-note">Lit: mouth-is-yes heart-is-no. Hypocrisy or insincerity. The failure of 说 to match 心 (speech to align with heart): a violation of Confucian authenticity (诚 chéng).</span>
       </div>
 
       <div class="cy">
         <span class="cy-cn">有口难言</span>
         <span class="cy-py">yǒu kǒu nán yán</span>
         <span class="cy-en">having a mouth but unable to speak — in a position where one cannot explain oneself</span>
-        <span class="cy-note">The frustration of having the means to speak but being unable to — because of social constraints, grief, or incriminating circumstances. One of the most vivid expressions for the experience of being misunderstood with no way to clear one's name.</span>
+        <span class="cy-note">The frustration of having the means to speak but being unable to, because of social constraints, grief, or incriminating circumstances. One of the most vivid expressions for the experience of being misunderstood with no way to clear one's name.</span>
       </div>
 
     </div>

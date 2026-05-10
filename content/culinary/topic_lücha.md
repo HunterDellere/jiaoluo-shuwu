@@ -63,7 +63,7 @@ related:
       <span class="topic-hero-eyebrow">Culinary · 饮食 yǐnshí</span>
       <h1 class="topic-hero-title">绿茶</h1>
       <span class="topic-hero-title-py">lǜ chá</span>
-      <p class="topic-hero-desc">The oldest and most-consumed tea category — unoxidized, fixed by heat, and expressing the full range from grassy Longjing to umami-rich Biluochun.</p>
+      <p class="topic-hero-desc">The oldest and most-consumed tea category: unoxidized, fixed by heat, and expressing the full range from grassy Longjing to umami-rich Biluochun.</p>
     </header>
 
     <span class="section-anchor" id="processing"></span>
@@ -92,7 +92,7 @@ related:
     <div class="cards">
       <div class="card c-teal">
         <div class="card-head">龙井 Lóngjǐng · Dragon Well</div>
-        <p>The most celebrated Chinese green tea, grown in the hills around West Lake (西湖 Xīhú) in Hangzhou, Zhejiang. Flat, sword-shaped leaves pressed in a heated wok; flavor is clean, slightly sweet, with a characteristic 豆香 dòuxiāng (bean fragrance) from high-quality harvests. The most prestigious grade — 明前龙井 míngqián Lóngjǐng — is harvested before Qingming Festival in early April, using only the single bud or bud-and-first-leaf. Emperor Qianlong designated eighteen specific West Lake tea trees imperial tribute; descendants of those trees still exist.</p>
+        <p>The most celebrated Chinese green tea, grown in the hills around West Lake (西湖 Xīhú) in Hangzhou, Zhejiang. Flat, sword-shaped leaves pressed in a heated wok; flavor is clean, slightly sweet, with a characteristic 豆香 dòuxiāng (bean fragrance) from high-quality harvests. The most prestigious grade (明前龙井 míngqián Lóngjǐng) is harvested before Qingming Festival in early April, using only the single bud or bud-and-first-leaf. Emperor Qianlong designated eighteen specific West Lake tea trees imperial tribute; descendants of those trees still exist.</p>
       </div>
       <div class="card c-teal">
         <div class="card-head">碧螺春 Bìluóchūn · Green Snail Spring</div>

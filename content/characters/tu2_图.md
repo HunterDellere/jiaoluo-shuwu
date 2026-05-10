@@ -213,8 +213,8 @@ content_sources:
       <span class="adj">图像 túxiàng , image, graphic</span>
       <span class="adj">计划 jìhuà , plan, to plan</span>
       <span class="adj">谋划 móuhuà , to scheme, plan out</span>
-      <span class="adj">企图 qǐtú — to attempt, intent (negative)</span>
-      <span class="adj">目的 mùdì — goal, objective</span>
+      <span class="adj">企图 qǐtú · to attempt, intent (negative)</span>
+      <span class="adj">目的 mùdì · goal, objective</span>
     </div>
 
     <footer class="page-footer">

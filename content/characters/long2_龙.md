@@ -493,14 +493,14 @@ content_sources:
         <span class="cy-cn">龙争虎斗</span>
         <span class="cy-py">lóng zhēng hǔ dòu</span>
         <span class="cy-en">dragon and tiger fighting — two powerful forces in fierce competition</span>
-        <span class="cy-note">龙 lóng + 争 zhēng (to contend; to compete) + 虎 hǔ (tiger) + 斗 dòu (to fight; to contend). Used when two equally formidable opponents , companies, athletes, armies, political factions , clash with serious intensity. Neither side is diminished; both are worthy adversaries. 这场决赛简直是龙争虎斗，双方势均力敌。(This final match was a clash of titans — both sides perfectly matched.) Compare 卧虎藏龙, which concerns hidden talent; 龙争虎斗 concerns talent openly in conflict.</span>
+        <span class="cy-note">龙 lóng + 争 zhēng (to contend; to compete) + 虎 hǔ (tiger) + 斗 dòu (to fight; to contend). Used when two equally formidable opponents , companies, athletes, armies, political factions , clash with serious intensity. Neither side is diminished; both are worthy adversaries. 这场决赛简直是龙争虎斗，双方势均力敌。(This final match was a clash of titans, both sides perfectly matched.) Compare 卧虎藏龙, which concerns hidden talent; 龙争虎斗 concerns talent openly in conflict.</span>
       </div>
 
       <div class="cy">
         <span class="cy-cn">鱼跃龙门</span>
         <span class="cy-py">yú yuè lóng mén</span>
         <span class="cy-en">fish leaping Dragon Gate — passing a crucial test and transforming one's destiny</span>
-        <span class="cy-note">鱼 yú (fish) + 跃 yuè (to leap) + 龙门 lóngmén (Dragon Gate). The legend: a carp that braves the current and clears the great waterfall at Dragon Gate on the Yellow River is transformed into a dragon. The image was the classical metaphor for passing the imperial examination 科举 kējǔ — the test that could lift a scholar from poverty to the highest offices of the state in a single sitting. Today the metaphor maps directly onto the gaokao 高考 and university entrance. 十年寒窗，终于鱼跃龙门。(Ten years of hard study by a cold window — at last, the fish leaps Dragon Gate.) The transformation is total: not just success, but a change in what kind of creature you are.</span>
+        <span class="cy-note">鱼 yú (fish) + 跃 yuè (to leap) + 龙门 lóngmén (Dragon Gate). The legend: a carp that braves the current and clears the great waterfall at Dragon Gate on the Yellow River is transformed into a dragon. The image was the classical metaphor for passing the imperial examination 科举 kējǔ: the test that could lift a scholar from poverty to the highest offices of the state in a single sitting. Today the metaphor maps directly onto the gaokao 高考 and university entrance. 十年寒窗，终于鱼跃龙门。(Ten years of hard study by a cold window; at last, the fish leaps Dragon Gate.) The transformation is total: not just success, but a change in what kind of creature you are.</span>
       </div>
 
     </div>

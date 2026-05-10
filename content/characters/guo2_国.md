@@ -193,7 +193,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          国 guó (state; kingdom) + 家 jiā (family; home). The compound links nation and family — the state conceived as an extended household. This fusion is foundational to Confucian political theory: 国 and 家 are governed by the same moral logic, with loyalty to both running in parallel.
+          国 guó (state; kingdom) + 家 jiā (family; home). The compound links nation and family: the state conceived as an extended household. This fusion is foundational to Confucian political theory: 国 and 家 are governed by the same moral logic, with loyalty to both running in parallel.
         </div>
         <div class="examples">
           <div class="example">
@@ -236,7 +236,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-v">V/Adj 动形词</span></div>
         <div class="card-def">
-          爱 ài (love) + 国 guó (country). Patriotism. A deeply freighted term in Chinese political culture — 爱国主义 àiguó zhǔyì is patriotism as ideology, 爱国人士 patriotic personages. In everyday use, simply "to love one's country."
+          爱 ài (love) + 国 guó (country). Patriotism. A deeply freighted term in Chinese political culture: 爱国主义 àiguó zhǔyì is patriotism as ideology, 爱国人士 patriotic personages. In everyday use, simply "to love one's country."
         </div>
         <div class="examples">
           <div class="example">

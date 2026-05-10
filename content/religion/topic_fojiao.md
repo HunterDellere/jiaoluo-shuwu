@@ -366,14 +366,14 @@ pinyin: 'fójiào'
         <span class="cy-cn">当头棒喝</span>
         <span class="cy-py">dāng tóu bàng hè</span>
         <span class="cy-en">a sudden blow to the head and a shout — a jolt that triggers awakening</span>
-        <span class="cy-note">A Chan Buddhist technique: the master delivers an unexpected shout (喝 hè) or strike with a staff (棒 bàng) to shock the student out of conceptual thinking and into direct experience. In modern usage: any sharp, sudden shock that jolts someone to their senses — a harsh truth, a sudden reversal, a wake-up call. 这件事对他是当头棒喝 — "This event was a real wake-up call for him."</span>
+        <span class="cy-note">A Chan Buddhist technique: the master delivers an unexpected shout (喝 hè) or strike with a staff (棒 bàng) to shock the student out of conceptual thinking and into direct experience. In modern usage: any sharp, sudden shock that jolts someone to their senses: a harsh truth, a sudden reversal, a wake-up call. 这件事对他是当头棒喝. "This event was a real wake-up call for him."</span>
       </div>
 
       <div class="cy">
         <span class="cy-cn">放下屠刀，立地成佛</span>
         <span class="cy-py">fàng xià tú dāo, lì dì chéng fó</span>
         <span class="cy-en">lay down the butcher's knife and become a Buddha on the spot — radical redemption is always possible</span>
-        <span class="cy-note">The full form of 立地成佛. Rooted in the Chan teaching that Buddha nature is present in all beings, even the most hardened. Used both seriously (in discussions of rehabilitation, forgiveness, religious conversion) and ironically (with skepticism about a villain's sudden change of heart). 只要放下屠刀，立地成佛 — "As long as you lay down the knife, you can become a Buddha immediately."</span>
+        <span class="cy-note">The full form of 立地成佛. Rooted in the Chan teaching that Buddha nature is present in all beings, even the most hardened. Used both seriously (in discussions of rehabilitation, forgiveness, religious conversion) and ironically (with skepticism about a villain's sudden change of heart). 只要放下屠刀，立地成佛. "As long as you lay down the knife, you can become a Buddha immediately."</span>
       </div>
 
     </div>

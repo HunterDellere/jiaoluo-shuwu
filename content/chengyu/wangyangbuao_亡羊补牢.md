@@ -152,13 +152,13 @@ updated: '2026-04-25'
         <span class="cy-cn">亡羊补牢，为时未晚</span>
         <span class="cy-py">wáng yáng bǔ láo, wéi shí wèi wǎn</span>
         <span class="cy-en">mend the pen after the sheep is lost — it is not yet too late</span>
-        <span class="cy-note">The extended form of the idiom, almost always cited together. The second half — 为时未晚 (not yet too late) — is the direct answer to the fatalist in the original story. The full eight-character phrase is common enough to function as a single fixed saying.</span>
+        <span class="cy-note">The extended form of the idiom, almost always cited together. The second half (为时未晚, not yet too late) is the direct answer to the fatalist in the original story. The full eight-character phrase is common enough to function as a single fixed saying.</span>
       </div>
       <div class="cy">
         <span class="cy-cn">亡羊得牛</span>
         <span class="cy-py">wáng yáng dé niú</span>
         <span class="cy-en">lose a sheep, gain an ox</span>
-        <span class="cy-note">A related phrase (not a classical chengyu in the same sense) used to describe a small loss that leads to an unexpected larger gain — the silver lining formulation. Where 亡羊补牢 is about repair, 亡羊得牛 is about serendipitous compensation. The shared 亡羊 makes the pair memorable.</span>
+        <span class="cy-note">A related phrase (not a classical chengyu in the same sense) used to describe a small loss that leads to an unexpected larger gain: the silver lining formulation. Where 亡羊补牢 is about repair, 亡羊得牛 is about serendipitous compensation. The shared 亡羊 makes the pair memorable.</span>
       </div>
     </div>
 

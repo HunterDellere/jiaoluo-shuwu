@@ -134,7 +134,7 @@ pinyin: 'dòufu'
         <span class="card-py">fǔrǔ</span>
         <span class="card-en">Fermented Bean Curd; Tofu Cheese</span>
         <span class="tag-n">n.</span>
-        <p>Cubes of tofu fermented in brine with Shaoxing wine, chilies, and various seasonings until they become soft, creamy, and intensely flavored — something like a cross between blue cheese and miso paste. Red fermented tofu (红腐乳 hóng fǔrǔ) uses red yeast rice for color and is used in marinades for char siu and other Cantonese roast meats. White fermented tofu is a breakfast condiment and key component of hotpot dipping sauces.</p>
+        <p>Cubes of tofu fermented in brine with Shaoxing wine, chilies, and various seasonings until they become soft, creamy, and intensely flavored, something like a cross between blue cheese and miso paste. Red fermented tofu (红腐乳 hóng fǔrǔ) uses red yeast rice for color and is used in marinades for char siu and other Cantonese roast meats. White fermented tofu is a breakfast condiment and key component of hotpot dipping sauces.</p>
       </div>
     </div>
 
@@ -175,7 +175,7 @@ pinyin: 'dòufu'
         <span class="card-py">dòufu nǎo</span>
         <span class="card-en">tofu pudding; soft tofu in brine</span>
         <span class="tag-n">n.</span>
-        <p>"Tofu brain" — the freshest, softest stage of tofu, coagulated but not pressed, served in the coagulation vessel or scooped into a bowl. In the north it is topped with savory broth, sesame paste, pickled vegetables, and chili oil. In the south (and in Sichuan) it is served sweet, with sugar syrup and ginger. The north-south divide over sweet vs. savory tofu pudding is one of China's most reliably heated food arguments.</p>
+        <p>"Tofu brain": the freshest, softest stage of tofu, coagulated but not pressed, served in the coagulation vessel or scooped into a bowl. In the north it is topped with savory broth, sesame paste, pickled vegetables, and chili oil. In the south (and in Sichuan) it is served sweet, with sugar syrup and ginger. The north-south divide over sweet vs. savory tofu pudding is one of China's most reliably heated food arguments.</p>
       </div>
       <div class="card c-sienna">
         <span class="card-cn">素食</span>
@@ -189,7 +189,7 @@ pinyin: 'dòufu'
         <span class="card-py">fǔpí</span>
         <span class="card-en">tofu skin; bean curd skin; yuba</span>
         <span class="tag-n">n.</span>
-        <p>The skin that forms on the surface of heated soybean milk — lifted off and dried into sheets. Fresh 腐皮 is delicate and can be wrapped around fillings; dried, it can be rehydrated and braised. Called 湯葉 yuba in Japanese (imported from Chinese Buddhist cooking). One of the most versatile products of the soybean kitchen and a foundation of 仿荤 (imitation meat) dishes in temple vegetarian cooking.</p>
+        <p>The skin that forms on the surface of heated soybean milk, lifted off and dried into sheets. Fresh 腐皮 is delicate and can be wrapped around fillings; dried, it can be rehydrated and braised. Called 湯葉 yuba in Japanese (imported from Chinese Buddhist cooking). One of the most versatile products of the soybean kitchen and a foundation of 仿荤 (imitation meat) dishes in temple vegetarian cooking.</p>
       </div>
     </div>
 

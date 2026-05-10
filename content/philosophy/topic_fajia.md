@@ -218,7 +218,7 @@ pinyin: 'fǎjiā'
         <span class="cy-cn">外儒内法</span>
         <span class="cy-py">wài Rú nèi Fǎ</span>
         <span class="cy-en">Confucian on the outside, Legalist on the inside — the structural formula of Chinese imperial governance</span>
-        <span class="cy-note">A modern scholarly formulation summarizing two thousand years of Chinese governance. 外 wài = outer, exterior; 内 nèi = inner, interior. The outer face of government , edicts, titles, rituals, examination texts — was thoroughly Confucian. The inner machinery — laws, punishments, official evaluation, census, fiscal extraction — was thoroughly Legalist. The two did not contradict each other; they were complementary layers of the same system.</span>
+        <span class="cy-note">A modern scholarly formulation summarizing two thousand years of Chinese governance. 外 wài = outer, exterior; 内 nèi = inner, interior. The outer face of government (edicts, titles, rituals, examination texts) was thoroughly Confucian. The inner machinery (laws, punishments, official evaluation, census, fiscal extraction) was thoroughly Legalist. The two did not contradict each other; they were complementary layers of the same system.</span>
       </div>
 
       <div class="cy">

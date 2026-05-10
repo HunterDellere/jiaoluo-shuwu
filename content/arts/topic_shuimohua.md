@@ -187,15 +187,15 @@ pinyin: 'shuǐmòhuà'
       </div>
       <div class="card c-sienna">
         <div class="card-head"><span class="tag-n">n</span> 皴法 cūnfǎ</div>
-        <p>Texture stroke technique — the set of specialized brushwork methods used to render the surface of rocks and mountains. Different schools developed different 皴 techniques: axe-cut strokes 斧劈皴, hemp-fiber strokes 披麻皴, Mi dots 米点皴. The choice of texture stroke is a signature of regional and personal style.</p>
+        <p>Texture stroke technique: the set of specialized brushwork methods used to render the surface of rocks and mountains. Different schools developed different 皴 techniques: axe-cut strokes 斧劈皴, hemp-fiber strokes 披麻皴, Mi dots 米点皴. The choice of texture stroke is a signature of regional and personal style.</p>
       </div>
       <div class="card c-violet">
         <div class="card-head"><span class="tag-n">n</span> 四君子 sì jūnzǐ</div>
-        <p>Four Gentlemen — the four emblematic plants of the literati painting tradition: prunus plum 梅 (perseverance), orchid 兰 (secluded virtue), bamboo 竹 (resilience), chrysanthemum 菊 (dignified retirement). Together they map the principal Confucian virtues onto natural forms.</p>
+        <p>Four Gentlemen: the four emblematic plants of the literati painting tradition: prunus plum 梅 (perseverance), orchid 兰 (secluded virtue), bamboo 竹 (resilience), chrysanthemum 菊 (dignified retirement). Together they map the principal Confucian virtues onto natural forms.</p>
       </div>
       <div class="card c-red">
         <div class="card-head"><span class="tag-n">n</span> 意在笔先 yì zài bǐ xiān</div>
-        <p>The intention precedes the brush — the principle that a painter must have fully conceived the work before beginning to paint, because ink on xuan paper cannot be corrected. Applies equally to calligraphy. The visible stroke is the trace of an internal state that was complete before the brush touched paper.</p>
+        <p>The intention precedes the brush: the principle that a painter must have fully conceived the work before beginning to paint, because ink on xuan paper cannot be corrected. Applies equally to calligraphy. The visible stroke is the trace of an internal state that was complete before the brush touched paper.</p>
       </div>
     </div>
 

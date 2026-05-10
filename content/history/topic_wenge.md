@@ -211,7 +211,7 @@ pinyin: 'wénhuà dà gémìng'
         <span class="cy-cn">破四旧</span>
         <span class="cy-py">pò sì jiù</span>
         <span class="cy-en">smash the Four Olds — destroy old ideas, culture, customs, and habits</span>
-        <span class="cy-note">The central slogan of the Cultural Revolution's attack on traditional Chinese civilization. 破 (smash, break) + 四旧 (the Four Olds). Used in contemporary Chinese as a historical reference — and sometimes, in political rhetoric, metaphorically to justify reform that "breaks with the past." The phrase is now primarily encountered in historical contexts, but its rhetorical structure (破 + target) remains productive in Chinese political language.</span>
+        <span class="cy-note">The central slogan of the Cultural Revolution's attack on traditional Chinese civilization. 破 (smash, break) + 四旧 (the Four Olds). Used in contemporary Chinese as a historical reference, and sometimes, in political rhetoric, metaphorically to justify reform that "breaks with the past." The phrase is now primarily encountered in historical contexts, but its rhetorical structure (破 + target) remains productive in Chinese political language.</span>
       </div>
 
       <div class="cy">
@@ -225,14 +225,14 @@ pinyin: 'wénhuà dà gémìng'
         <span class="cy-cn">以史为鉴</span>
         <span class="cy-py">yǐ shǐ wéi jiàn</span>
         <span class="cy-en">use history as a mirror — learning from the past to illuminate the present</span>
-        <span class="cy-note">A classical Chinese phrase with new resonance in the post-Cultural Revolution context. 鉴 (mirror, warning reflection) + 史 (history). The phrase is used by historians, educators, and political commentators calling for honest engagement with the Cultural Revolution's legacy rather than amnesia or suppression. It implies that societies that forget painful history are condemned to repeat it — a message with continued relevance in contemporary China.</span>
+        <span class="cy-note">A classical Chinese phrase with new resonance in the post-Cultural Revolution context. 鉴 (mirror, warning reflection) + 史 (history). The phrase is used by historians, educators, and political commentators calling for honest engagement with the Cultural Revolution's legacy rather than amnesia or suppression. It implies that societies that forget painful history are condemned to repeat it, a message with continued relevance in contemporary China.</span>
       </div>
 
       <div class="cy">
         <span class="cy-cn">不忘初心</span>
         <span class="cy-py">bù wàng chūxīn</span>
         <span class="cy-en">never forget the original aspiration — keep faith with founding ideals</span>
-        <span class="cy-note">A phrase with pre-revolutionary Buddhist origins (初心 = the first aspiration toward enlightenment) now central to Xi Jinping-era CCP rhetoric. Used in the context of the Cultural Revolution to mean: remember what the revolution was supposed to achieve, and do not let it be corrupted. The phrase functions very differently depending on who invokes it — as a call for genuine reflection on what went wrong, or as a call for renewed ideological commitment that forecloses such reflection.</span>
+        <span class="cy-note">A phrase with pre-revolutionary Buddhist origins (初心 = the first aspiration toward enlightenment) now central to Xi Jinping-era CCP rhetoric. Used in the context of the Cultural Revolution to mean: remember what the revolution was supposed to achieve, and do not let it be corrupted. The phrase functions very differently depending on who invokes it: as a call for genuine reflection on what went wrong, or as a call for renewed ideological commitment that forecloses such reflection.</span>
       </div>
 
     </div>
