@@ -17,7 +17,7 @@ import { validateEntry } from './lib/validate.mjs';
 import { buildSearchIndex } from './lib/search-index.mjs';
 import { buildRelations, buildAdjacency, renderRelatedHtml, renderAdjacencyHtml } from './lib/relations.mjs';
 import { renderHskBody } from './lib/hsk.mjs';
-import { injectStrokeOrder, buildLinkMap, autoLinkBody, addPinyinAudio, injectInlineAudio, buildPageFooter, renderSourcesHtml, ensureMainContentId, buildChipLinkMap, linkifyAdjChips, injectPinyinIndexChip } from './lib/augment.mjs';
+import { injectStrokeOrder, buildLinkMap, autoLinkBody, addPinyinAudio, injectInlineAudio, buildPageFooter, renderSourcesHtml, ensureMainContentId, buildChipLinkMap, linkifyAdjChips, injectPinyinIndexChip, transformSutraPassages } from './lib/augment.mjs';
 import { buildAdjIndex } from './lib/adj-index.mjs';
 import { renderFamilyContent, renderFamilyCrosslinks } from './lib/family-render.mjs';
 import { renderOgSvg, categoryFaviconDataUri } from './lib/og.mjs';
@@ -687,6 +687,10 @@ for (const { fm, body, slug, category, outDir, entry } of pending) {
 
       // 2b. Inline audio buttons on chengyu cards & vocab compound cards
       augmentedBody = injectInlineAudio(augmentedBody);
+
+      // 2c. Sutra passage refinements — ordinal numbering, marker trim,
+      //     mantra modifier, action wrapping. No-op on non-sutra pages.
+      augmentedBody = transformSutraPassages(augmentedBody);
 
       // 3a. Linkify Adjacent-Vocabulary chips first (Tier 1): if a chip's
       //     .a-cn matches an existing page, wrap the entire chip in <a> with

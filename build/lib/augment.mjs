@@ -479,6 +479,107 @@ export function injectInlineAudio(body) {
   return body;
 }
 
+/**
+ * Transform sutra .passage cards into the polished design:
+ *   - Inject a .passage-ordinal element (manuscript folio numbering) using
+ *     the passage's index within its .sutra-frame.
+ *   - Trim the .passage-marker so the verbose "第N段 · dì-N duàn · N of M"
+ *     prefix is dropped, keeping only the trailing semantic label
+ *     (eg. "Setting", "The Mantra", "the bodhisattva speaks"). When no
+ *     trailing label is present, the marker element is removed entirely
+ *     so the ordinal carries the numbering alone.
+ *   - Wrap the .passage-note-toggle in a .passage-actions row so future
+ *     siblings (eg. share, copy, repeat) can join cleanly.
+ *   - Apply .passage--mantra when the .passage carries
+ *     data-passage-type="mantra".
+ *
+ * Idempotent: re-running on already-transformed markup is a no-op because
+ * we look for the original .passage-marker shape and bail out if a
+ * .passage-ordinal is already present.
+ */
+export function transformSutraPassages(body) {
+  // Process each <div class="sutra-frame"...> block separately so we can
+  // number passages 1..N within their own frame.
+  const frameRe = /<div class="sutra-frame"[^>]*>([\s\S]*?)<\/div><!--\s*\/sutra-frame\s*-->/g;
+  return body.replace(frameRe, (full, inner) => {
+    // Match an outer .passage open-tag: class is exactly "passage"
+    // (followed by " " for modifiers or `"` for end-of-attr). This avoids
+    // matching nested .passage-head / .passage-en / .passage-note divs.
+    // After matching the open tag, walk forward tracking <div>/</div>
+    // depth to find the corresponding close tag.
+    const openRe = /<div class="passage(?:\s+[^"]*)?"([^>]*)>/g;
+    const out = [];
+    let lastIndex = 0;
+    let i = 0;
+    let m;
+    while ((m = openRe.exec(inner)) !== null) {
+      out.push(inner.slice(lastIndex, m.index));
+      const attrs = m[1];
+      // Walk forward from the end of the open tag to find the matching </div>.
+      const start = m.index;
+      const bodyStart = openRe.lastIndex;
+      let depth = 1;
+      let pos = bodyStart;
+      const tagRe = /<\/?div\b[^>]*>/g;
+      tagRe.lastIndex = bodyStart;
+      let t;
+      while ((t = tagRe.exec(inner)) !== null) {
+        if (t[0].startsWith('</')) {
+          depth -= 1;
+          if (depth === 0) {
+            pos = t.index + t[0].length;
+            break;
+          }
+        } else {
+          depth += 1;
+        }
+      }
+      const content = inner.slice(bodyStart, pos - 6); // strip trailing </div>
+      i += 1;
+      if (/passage-ordinal/.test(content)) {
+        out.push(inner.slice(start, pos));
+      } else {
+        const isMantra = /data-passage-type="mantra"/.test(attrs);
+        const klass = `passage${isMantra ? ' passage--mantra' : ''}`;
+        let newContent = content;
+
+        // Trim marker: drop "第N段 · ..." prefix, keep the trailing label
+        // (eg. "Setting", "The Mantra"). If nothing meaningful remains,
+        // drop the marker element entirely.
+        newContent = newContent.replace(
+          /<span class="passage-marker">([\s\S]*?)<\/span>\s*/,
+          (_mm, raw) => {
+            const text = stripTags(raw);
+            const parts = text.split(/\s*·\s*/).filter(Boolean);
+            const tail = parts.filter(p =>
+              !/^第.+段$/.test(p) &&
+              !/^dì[\s-].+duàn$/i.test(p) &&
+              !/^\d+\s+of\s+\d+$/i.test(p)
+            );
+            if (tail.length === 0) return '';
+            return `<span class="passage-marker">${escapeHtml(tail.join(' · '))}</span>\n        `;
+          }
+        );
+
+        // Wrap the standalone note-toggle in a .passage-actions row.
+        newContent = newContent.replace(
+          /(<button type="button" class="passage-note-toggle"[^>]*>[\s\S]*?<\/button>)/,
+          '<div class="passage-actions">$1</div>'
+        );
+
+        const ordinal = `<span class="passage-ordinal" aria-hidden="true">${i}</span>\n        `;
+        out.push(`<div class="${klass}"${attrs}>\n        ${ordinal}${newContent.trimStart()}</div>`);
+      }
+      lastIndex = pos;
+      openRe.lastIndex = pos;
+    }
+    out.push(inner.slice(lastIndex));
+    const transformed = out.join('');
+    const frameAttrs = full.match(/<div class="sutra-frame"([^>]*)>/)[1];
+    return `<div class="sutra-frame"${frameAttrs}>${transformed}</div><!-- /sutra-frame -->`;
+  });
+}
+
 function stripTags(s) {
   return String(s || '').replace(/<[^>]+>/g, '').replace(/\s+/g, ' ').trim();
 }
