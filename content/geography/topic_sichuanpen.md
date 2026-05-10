@@ -166,11 +166,11 @@ pinyin: 'Sìchuān Péndì'
         </div>
         <div class="card c-sienna">
           <div class="card-head"><span class="tag-n">n</span> 豆瓣酱 dòubàn jiàng</div>
-          <p>Pixian fermented broad-bean-and-chili paste , the foundational flavoring of Sichuan cooking. Produced in Pixian County outside Chengdu by fermenting broad beans and chilies for months to years. Almost every Sichuan dish begins by frying doubanjiang in oil until the red oil (红油 hóng yóu) releases. The quality of the paste , its age, its fermentation depth — determines the depth of the dish.</p>
+          <p>Pixian fermented broad-bean-and-chili paste , the foundational flavoring of Sichuan cooking. Produced in Pixian County outside Chengdu by fermenting broad beans and chilies for months to years. Almost every Sichuan dish begins by frying doubanjiang in oil until the red oil (红油 hóng yóu) releases. The quality of the paste (its age, its fermentation depth) determines the depth of the dish.</p>
         </div>
         <div class="card c-teal">
           <div class="card-head"><span class="tag-n">n</span> 川菜 Chuāncài</div>
-          <p>Sichuan cuisine — one of the Eight Great Cuisines of China (八大菜系 bādà càixì). 川 is the abbreviated form of 四川; 菜 means dishes or cuisine. Internationally known primarily for its 麻辣 profile, but encompasses a wider range including mild, sour, and fragrant flavor registers — the 麻辣 is one of 24 officially recognized Sichuan flavor profiles.</p>
+          <p>Sichuan cuisine: one of the Eight Great Cuisines of China (八大菜系 bādà càixì). 川 is the abbreviated form of 四川; 菜 means dishes or cuisine. Internationally known primarily for its 麻辣 profile, but encompasses a wider range including mild, sour, and fragrant flavor registers; the 麻辣 is one of 24 officially recognized Sichuan flavor profiles.</p>
         </div>
       </div>
 
