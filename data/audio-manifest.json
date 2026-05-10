@@ -7394,6 +7394,42 @@
           "pinyin": "wénmíng"
         }
       }
+    },
+    "pages/religion/topic_fojing.html": {
+      "voices": {
+        "xiaoxiao": {
+          "hash": "76bdfd90af71",
+          "path": "audio/religion/topic_fojing-xiaoxiao.mp3",
+          "bytes": 8496,
+          "text": "佛经",
+          "pinyin": "fójīng"
+        },
+        "yunxi": {
+          "hash": "5cc71bc21858",
+          "path": "audio/religion/topic_fojing-yunxi.mp3",
+          "bytes": 10512,
+          "text": "佛经",
+          "pinyin": "fójīng"
+        }
+      }
+    },
+    "pages/religion/topic_xinjing.html": {
+      "voices": {
+        "xiaoxiao": {
+          "hash": "17bcfbd71095",
+          "path": "audio/religion/topic_xinjing-xiaoxiao.mp3",
+          "bytes": 8496,
+          "text": "心经",
+          "pinyin": "Xīnjīng"
+        },
+        "yunxi": {
+          "hash": "465e9b5a74bd",
+          "path": "audio/religion/topic_xinjing-yunxi.mp3",
+          "bytes": 10512,
+          "text": "心经",
+          "pinyin": "Xīnjīng"
+        }
+      }
     }
   },
   "inline": {
@@ -87341,6 +87377,489 @@
           "bytes": 9936,
           "text": "译词",
           "pinyin": "yìcí"
+        }
+      }
+    },
+    "a0867f095f2a01e1": {
+      "text": "六祖坛经",
+      "pinyin": "Liùzǔ tánjīng",
+      "kind": "compound",
+      "voices": {
+        "xiaoxiao": {
+          "hash": "b44fa252a738",
+          "path": "audio/inline/a0867f095f2a01e1-xiaoxiao.mp3",
+          "bytes": 10656,
+          "text": "六祖坛经",
+          "pinyin": "Liùzǔ tánjīng"
+        },
+        "yunxi": {
+          "hash": "aac7dfd449cd",
+          "path": "audio/inline/a0867f095f2a01e1-yunxi.mp3",
+          "bytes": 13680,
+          "text": "六祖坛经",
+          "pinyin": "Liùzǔ tánjīng"
+        }
+      }
+    },
+    "6c5982b47f3e8312": {
+      "text": "佛说阿弥陀经",
+      "pinyin": "Fó shuō Āmítuó jīng",
+      "kind": "compound",
+      "voices": {
+        "xiaoxiao": {
+          "hash": "b63413542bf6",
+          "path": "audio/inline/6c5982b47f3e8312-xiaoxiao.mp3",
+          "bytes": 13680,
+          "text": "佛说阿弥陀经",
+          "pinyin": "Fó shuō Āmítuó jīng"
+        },
+        "yunxi": {
+          "hash": "24967cd7abd4",
+          "path": "audio/inline/6c5982b47f3e8312-yunxi.mp3",
+          "bytes": 14976,
+          "text": "佛说阿弥陀经",
+          "pinyin": "Fó shuō Āmítuó jīng"
+        }
+      }
+    },
+    "e69b59224542449a": {
+      "text": "无量寿经",
+      "pinyin": "Wúliángshòu jīng",
+      "kind": "compound",
+      "voices": {
+        "xiaoxiao": {
+          "hash": "90919a5270d8",
+          "path": "audio/inline/e69b59224542449a-xiaoxiao.mp3",
+          "bytes": 10512,
+          "text": "无量寿经",
+          "pinyin": "Wúliángshòu jīng"
+        },
+        "yunxi": {
+          "hash": "dcc8b717520c",
+          "path": "audio/inline/e69b59224542449a-yunxi.mp3",
+          "bytes": 13104,
+          "text": "无量寿经",
+          "pinyin": "Wúliángshòu jīng"
+        }
+      }
+    },
+    "813a74370d8f2dd2": {
+      "text": "观无量寿经",
+      "pinyin": "Guān Wúliángshòu jīng",
+      "kind": "compound",
+      "voices": {
+        "xiaoxiao": {
+          "hash": "acfa192b7075",
+          "path": "audio/inline/813a74370d8f2dd2-xiaoxiao.mp3",
+          "bytes": 11664,
+          "text": "观无量寿经",
+          "pinyin": "Guān Wúliángshòu jīng"
+        },
+        "yunxi": {
+          "hash": "1e4dd45e81b7",
+          "path": "audio/inline/813a74370d8f2dd2-yunxi.mp3",
+          "bytes": 14544,
+          "text": "观无量寿经",
+          "pinyin": "Guān Wúliángshòu jīng"
+        }
+      }
+    },
+    "f242f956e26ad488": {
+      "text": "何为佛经",
+      "pinyin": "héwéi fójīng",
+      "kind": "section",
+      "voices": {
+        "xiaoxiao": {
+          "hash": "10f5727d0a10",
+          "path": "audio/inline/f242f956e26ad488-xiaoxiao.mp3",
+          "bytes": 10800,
+          "text": "何为佛经",
+          "pinyin": "héwéi fójīng"
+        },
+        "yunxi": {
+          "hash": "8cdac0ad0348",
+          "path": "audio/inline/f242f956e26ad488-yunxi.mp3",
+          "bytes": 12528,
+          "text": "何为佛经",
+          "pinyin": "héwéi fójīng"
+        }
+      }
+    },
+    "d62dcf5d45603ae0": {
+      "text": "禅宗经典",
+      "pinyin": "chánzōng jīngdiǎn",
+      "kind": "section",
+      "voices": {
+        "xiaoxiao": {
+          "hash": "891d26b01a3e",
+          "path": "audio/inline/d62dcf5d45603ae0-xiaoxiao.mp3",
+          "bytes": 10944,
+          "text": "禅宗经典",
+          "pinyin": "chánzōng jīngdiǎn"
+        },
+        "yunxi": {
+          "hash": "96f7a282a0a4",
+          "path": "audio/inline/d62dcf5d45603ae0-yunxi.mp3",
+          "bytes": 13104,
+          "text": "禅宗经典",
+          "pinyin": "chánzōng jīngdiǎn"
+        }
+      }
+    },
+    "42c2596ba553f89a": {
+      "text": "如何阅读",
+      "pinyin": "rúhé yuèdú",
+      "kind": "section",
+      "voices": {
+        "xiaoxiao": {
+          "hash": "6bbdf3423175",
+          "path": "audio/inline/42c2596ba553f89a-xiaoxiao.mp3",
+          "bytes": 10656,
+          "text": "如何阅读",
+          "pinyin": "rúhé yuèdú"
+        },
+        "yunxi": {
+          "hash": "4e515e9f2f86",
+          "path": "audio/inline/42c2596ba553f89a-yunxi.mp3",
+          "bytes": 12528,
+          "text": "如何阅读",
+          "pinyin": "rúhé yuèdú"
+        }
+      }
+    },
+    "5523e087e3ebd243": {
+      "text": "心无挂碍",
+      "pinyin": "xīn wú guà ài",
+      "kind": "compound",
+      "voices": {
+        "xiaoxiao": {
+          "hash": "cb7019bc1881",
+          "path": "audio/inline/5523e087e3ebd243-xiaoxiao.mp3",
+          "bytes": 10512,
+          "text": "心无挂碍",
+          "pinyin": "xīn wú guà ài"
+        },
+        "yunxi": {
+          "hash": "9311c84ef255",
+          "path": "audio/inline/5523e087e3ebd243-yunxi.mp3",
+          "bytes": 13104,
+          "text": "心无挂碍",
+          "pinyin": "xīn wú guà ài"
+        }
+      }
+    },
+    "0940332a72e18dd7": {
+      "text": "揭谛揭谛，波罗揭谛",
+      "pinyin": "jiēdì jiēdì, bōluó jiēdì",
+      "kind": "compound",
+      "voices": {
+        "xiaoxiao": {
+          "hash": "8ae2b737f1aa",
+          "path": "audio/inline/0940332a72e18dd7-xiaoxiao.mp3",
+          "bytes": 17280,
+          "text": "揭谛揭谛，波罗揭谛",
+          "pinyin": "jiēdì jiēdì, bōluó jiēdì"
+        },
+        "yunxi": {
+          "hash": "95659b637ab8",
+          "path": "audio/inline/0940332a72e18dd7-yunxi.mp3",
+          "bytes": 17856,
+          "text": "揭谛揭谛，波罗揭谛",
+          "pinyin": "jiēdì jiēdì, bōluó jiēdì"
+        }
+      }
+    },
+    "87bc481063665cf0": {
+      "text": "介绍",
+      "pinyin": "jièshào",
+      "kind": "section",
+      "voices": {
+        "xiaoxiao": {
+          "hash": "e908a7415646",
+          "path": "audio/inline/87bc481063665cf0-xiaoxiao.mp3",
+          "bytes": 8496,
+          "text": "介绍",
+          "pinyin": "jièshào"
+        },
+        "yunxi": {
+          "hash": "bcbfa91d9cd3",
+          "path": "audio/inline/87bc481063665cf0-yunxi.mp3",
+          "bytes": 9936,
+          "text": "介绍",
+          "pinyin": "jièshào"
+        }
+      }
+    },
+    "c0b4f90498b8df9d": {
+      "text": "全文",
+      "pinyin": "quánwén",
+      "kind": "section",
+      "voices": {
+        "xiaoxiao": {
+          "hash": "a0183d6cb651",
+          "path": "audio/inline/c0b4f90498b8df9d-xiaoxiao.mp3",
+          "bytes": 8496,
+          "text": "全文",
+          "pinyin": "quánwén"
+        },
+        "yunxi": {
+          "hash": "c4888d569ecc",
+          "path": "audio/inline/c0b4f90498b8df9d-yunxi.mp3",
+          "bytes": 10368,
+          "text": "全文",
+          "pinyin": "quánwén"
+        }
+      }
+    },
+    "ef4663398477f205": {
+      "text": "真言",
+      "pinyin": "zhēnyán",
+      "kind": "section",
+      "voices": {
+        "xiaoxiao": {
+          "hash": "244ab5ad6c59",
+          "path": "audio/inline/ef4663398477f205-xiaoxiao.mp3",
+          "bytes": 8496,
+          "text": "真言",
+          "pinyin": "zhēnyán"
+        },
+        "yunxi": {
+          "hash": "7654143c0be3",
+          "path": "audio/inline/ef4663398477f205-yunxi.mp3",
+          "bytes": 10944,
+          "text": "真言",
+          "pinyin": "zhēnyán"
+        }
+      }
+    },
+    "f175fdb512d5f5d9": {
+      "text": "关键句",
+      "pinyin": "guānjiànjù",
+      "kind": "section",
+      "voices": {
+        "xiaoxiao": {
+          "hash": "b3e27b6b72e5",
+          "path": "audio/inline/f175fdb512d5f5d9-xiaoxiao.mp3",
+          "bytes": 9216,
+          "text": "关键句",
+          "pinyin": "guānjiànjù"
+        },
+        "yunxi": {
+          "hash": "c6c46fa208ab",
+          "path": "audio/inline/f175fdb512d5f5d9-yunxi.mp3",
+          "bytes": 11664,
+          "text": "关键句",
+          "pinyin": "guānjiànjù"
+        }
+      }
+    },
+    "0319f693079333b8": {
+      "text": "观自在菩萨，行深般若波罗蜜多时，照见五蕴皆空，度一切苦厄。",
+      "pinyin": "Guān zì zài pú sà, xíng shēn bō rě bō luó mì duō shí, zhào jiàn wǔ yùn jiē kōng, dù yī qiè kǔ è.",
+      "kind": "passage",
+      "voices": {
+        "xiaoxiao": {
+          "hash": "be6451960726",
+          "path": "audio/inline/0319f693079333b8-xiaoxiao.mp3",
+          "bytes": 43920,
+          "text": "观自在菩萨，行深般若波罗蜜多时，照见五蕴皆空，度一切苦厄。",
+          "pinyin": "Guān zì zài pú sà, xíng shēn bō rě bō luó mì duō shí, zhào jiàn wǔ yùn jiē kōng, dù yī qiè kǔ è."
+        },
+        "yunxi": {
+          "hash": "3d82fa293595",
+          "path": "audio/inline/0319f693079333b8-yunxi.mp3",
+          "bytes": 43344,
+          "text": "观自在菩萨，行深般若波罗蜜多时，照见五蕴皆空，度一切苦厄。",
+          "pinyin": "Guān zì zài pú sà, xíng shēn bō rě bō luó mì duō shí, zhào jiàn wǔ yùn jiē kōng, dù yī qiè kǔ è."
+        }
+      }
+    },
+    "77622d43f54930cc": {
+      "text": "舍利子，色不异空，空不异色；色即是空，空即是色。受想行识，亦复如是。",
+      "pinyin": "Shè lì zǐ, sè bù yì kōng, kōng bù yì sè; sè jí shì kōng, kōng jí shì sè. Shòu xiǎng xíng shí, yì fù rú shì.",
+      "kind": "passage",
+      "voices": {
+        "xiaoxiao": {
+          "hash": "b558e1a0a222",
+          "path": "audio/inline/77622d43f54930cc-xiaoxiao.mp3",
+          "bytes": 54864,
+          "text": "舍利子，色不异空，空不异色；色即是空，空即是色。受想行识，亦复如是。",
+          "pinyin": "Shè lì zǐ, sè bù yì kōng, kōng bù yì sè; sè jí shì kōng, kōng jí shì sè. Shòu xiǎng xíng shí, yì fù rú shì."
+        },
+        "yunxi": {
+          "hash": "49d2e22db53f",
+          "path": "audio/inline/77622d43f54930cc-yunxi.mp3",
+          "bytes": 58176,
+          "text": "舍利子，色不异空，空不异色；色即是空，空即是色。受想行识，亦复如是。",
+          "pinyin": "Shè lì zǐ, sè bù yì kōng, kōng bù yì sè; sè jí shì kōng, kōng jí shì sè. Shòu xiǎng xíng shí, yì fù rú shì."
+        }
+      }
+    },
+    "57cc9a9efd9f4dec": {
+      "text": "舍利子，是诸法空相，不生不灭，不垢不净，不增不减。",
+      "pinyin": "Shè lì zǐ, shì zhū fǎ kōng xiàng, bù shēng bù miè, bù gòu bù jìng, bù zēng bù jiǎn.",
+      "kind": "passage",
+      "voices": {
+        "xiaoxiao": {
+          "hash": "c861cc880658",
+          "path": "audio/inline/57cc9a9efd9f4dec-xiaoxiao.mp3",
+          "bytes": 37728,
+          "text": "舍利子，是诸法空相，不生不灭，不垢不净，不增不减。",
+          "pinyin": "Shè lì zǐ, shì zhū fǎ kōng xiàng, bù shēng bù miè, bù gòu bù jìng, bù zēng bù jiǎn."
+        },
+        "yunxi": {
+          "hash": "600ffd0a7c33",
+          "path": "audio/inline/57cc9a9efd9f4dec-yunxi.mp3",
+          "bytes": 39024,
+          "text": "舍利子，是诸法空相，不生不灭，不垢不净，不增不减。",
+          "pinyin": "Shè lì zǐ, shì zhū fǎ kōng xiàng, bù shēng bù miè, bù gòu bù jìng, bù zēng bù jiǎn."
+        }
+      }
+    },
+    "c7d37e1c77bb969b": {
+      "text": "是故空中无色，无受想行识；无眼耳鼻舌身意；无色声香味触法；无眼界，乃至无意识界。",
+      "pinyin": "Shì gù kōng zhōng wú sè, wú shòu xiǎng xíng shí; wú yǎn ěr bí shé shēn yì; wú sè shēng xiāng wèi chù fǎ; wú yǎn jiè, nǎi zhì wú yì shí jiè.",
+      "kind": "passage",
+      "voices": {
+        "xiaoxiao": {
+          "hash": "1236a5b521f2",
+          "path": "audio/inline/c7d37e1c77bb969b-xiaoxiao.mp3",
+          "bytes": 60336,
+          "text": "是故空中无色，无受想行识；无眼耳鼻舌身意；无色声香味触法；无眼界，乃至无意识界。",
+          "pinyin": "Shì gù kōng zhōng wú sè, wú shòu xiǎng xíng shí; wú yǎn ěr bí shé shēn yì; wú sè shēng xiāng wèi chù fǎ; wú yǎn jiè, nǎi zhì wú yì shí jiè."
+        },
+        "yunxi": {
+          "hash": "beca9923f266",
+          "path": "audio/inline/c7d37e1c77bb969b-yunxi.mp3",
+          "bytes": 62496,
+          "text": "是故空中无色，无受想行识；无眼耳鼻舌身意；无色声香味触法；无眼界，乃至无意识界。",
+          "pinyin": "Shì gù kōng zhōng wú sè, wú shòu xiǎng xíng shí; wú yǎn ěr bí shé shēn yì; wú sè shēng xiāng wèi chù fǎ; wú yǎn jiè, nǎi zhì wú yì shí jiè."
+        }
+      }
+    },
+    "159a2f4f1b3f90a4": {
+      "text": "无无明，亦无无明尽，乃至无老死，亦无老死尽。",
+      "pinyin": "Wú wú míng, yì wú wú míng jìn, nǎi zhì wú lǎo sǐ, yì wú lǎo sǐ jìn.",
+      "kind": "passage",
+      "voices": {
+        "xiaoxiao": {
+          "hash": "7a1993aa638c",
+          "path": "audio/inline/159a2f4f1b3f90a4-xiaoxiao.mp3",
+          "bytes": 32976,
+          "text": "无无明，亦无无明尽，乃至无老死，亦无老死尽。",
+          "pinyin": "Wú wú míng, yì wú wú míng jìn, nǎi zhì wú lǎo sǐ, yì wú lǎo sǐ jìn."
+        },
+        "yunxi": {
+          "hash": "5a65d8f13791",
+          "path": "audio/inline/159a2f4f1b3f90a4-yunxi.mp3",
+          "bytes": 37872,
+          "text": "无无明，亦无无明尽，乃至无老死，亦无老死尽。",
+          "pinyin": "Wú wú míng, yì wú wú míng jìn, nǎi zhì wú lǎo sǐ, yì wú lǎo sǐ jìn."
+        }
+      }
+    },
+    "1fdbf6d58066cf64": {
+      "text": "无苦集灭道；无智亦无得。",
+      "pinyin": "Wú kǔ jí miè dào; wú zhì yì wú dé.",
+      "kind": "passage",
+      "voices": {
+        "xiaoxiao": {
+          "hash": "3c5577ac16e9",
+          "path": "audio/inline/1fdbf6d58066cf64-xiaoxiao.mp3",
+          "bytes": 20016,
+          "text": "无苦集灭道；无智亦无得。",
+          "pinyin": "Wú kǔ jí miè dào; wú zhì yì wú dé."
+        },
+        "yunxi": {
+          "hash": "27471c9985c9",
+          "path": "audio/inline/1fdbf6d58066cf64-yunxi.mp3",
+          "bytes": 23328,
+          "text": "无苦集灭道；无智亦无得。",
+          "pinyin": "Wú kǔ jí miè dào; wú zhì yì wú dé."
+        }
+      }
+    },
+    "16228a1dfea85a6d": {
+      "text": "以无所得故，菩提萨埵，依般若波罗蜜多故，心无挂碍；无挂碍故，无有恐怖，远离颠倒梦想，究竟涅槃。",
+      "pinyin": "Yǐ wú suǒ dé gù, pú tí sà duǒ, yī bō rě bō luó mì duō gù, xīn wú guà ài; wú guà ài gù, wú yǒu kǒng bù, yuǎn lí diān dǎo mèng xiǎng, jiū jìng niè pán.",
+      "kind": "passage",
+      "voices": {
+        "xiaoxiao": {
+          "hash": "b82767cab637",
+          "path": "audio/inline/16228a1dfea85a6d-xiaoxiao.mp3",
+          "bytes": 68400,
+          "text": "以无所得故，菩提萨埵，依般若波罗蜜多故，心无挂碍；无挂碍故，无有恐怖，远离颠倒梦想，究竟涅槃。",
+          "pinyin": "Yǐ wú suǒ dé gù, pú tí sà duǒ, yī bō rě bō luó mì duō gù, xīn wú guà ài; wú guà ài gù, wú yǒu kǒng bù, yuǎn lí diān dǎo mèng xiǎng, jiū jìng niè pán."
+        },
+        "yunxi": {
+          "hash": "cb9cdb7a9d38",
+          "path": "audio/inline/16228a1dfea85a6d-yunxi.mp3",
+          "bytes": 68544,
+          "text": "以无所得故，菩提萨埵，依般若波罗蜜多故，心无挂碍；无挂碍故，无有恐怖，远离颠倒梦想，究竟涅槃。",
+          "pinyin": "Yǐ wú suǒ dé gù, pú tí sà duǒ, yī bō rě bō luó mì duō gù, xīn wú guà ài; wú guà ài gù, wú yǒu kǒng bù, yuǎn lí diān dǎo mèng xiǎng, jiū jìng niè pán."
+        }
+      }
+    },
+    "2da3bcb8e5342116": {
+      "text": "三世诸佛，依般若波罗蜜多故，得阿耨多罗三藐三菩提。",
+      "pinyin": "Sān shì zhū fó, yī bō rě bō luó mì duō gù, dé ā nòu duō luó sān miǎo sān pú tí.",
+      "kind": "passage",
+      "voices": {
+        "xiaoxiao": {
+          "hash": "2c365f840edc",
+          "path": "audio/inline/2da3bcb8e5342116-xiaoxiao.mp3",
+          "bytes": 38016,
+          "text": "三世诸佛，依般若波罗蜜多故，得阿耨多罗三藐三菩提。",
+          "pinyin": "Sān shì zhū fó, yī bō rě bō luó mì duō gù, dé ā nòu duō luó sān miǎo sān pú tí."
+        },
+        "yunxi": {
+          "hash": "4647a95aa167",
+          "path": "audio/inline/2da3bcb8e5342116-yunxi.mp3",
+          "bytes": 36288,
+          "text": "三世诸佛，依般若波罗蜜多故，得阿耨多罗三藐三菩提。",
+          "pinyin": "Sān shì zhū fó, yī bō rě bō luó mì duō gù, dé ā nòu duō luó sān miǎo sān pú tí."
+        }
+      }
+    },
+    "56f839b04f2316e3": {
+      "text": "故知般若波罗蜜多，是大神咒，是大明咒，是无上咒，是无等等咒，能除一切苦，真实不虚。",
+      "pinyin": "Gù zhī bō rě bō luó mì duō, shì dà shén zhòu, shì dà míng zhòu, shì wú shàng zhòu, shì wú děng děng zhòu, néng chú yī qiè kǔ, zhēn shí bù xū.",
+      "kind": "passage",
+      "voices": {
+        "xiaoxiao": {
+          "hash": "3210a7eb6a36",
+          "path": "audio/inline/56f839b04f2316e3-xiaoxiao.mp3",
+          "bytes": 59040,
+          "text": "故知般若波罗蜜多，是大神咒，是大明咒，是无上咒，是无等等咒，能除一切苦，真实不虚。",
+          "pinyin": "Gù zhī bō rě bō luó mì duō, shì dà shén zhòu, shì dà míng zhòu, shì wú shàng zhòu, shì wú děng děng zhòu, néng chú yī qiè kǔ, zhēn shí bù xū."
+        },
+        "yunxi": {
+          "hash": "f9a45cbdd4ef",
+          "path": "audio/inline/56f839b04f2316e3-yunxi.mp3",
+          "bytes": 62784,
+          "text": "故知般若波罗蜜多，是大神咒，是大明咒，是无上咒，是无等等咒，能除一切苦，真实不虚。",
+          "pinyin": "Gù zhī bō rě bō luó mì duō, shì dà shén zhòu, shì dà míng zhòu, shì wú shàng zhòu, shì wú děng děng zhòu, néng chú yī qiè kǔ, zhēn shí bù xū."
+        }
+      }
+    },
+    "2e4f1002961adf3b": {
+      "text": "故说般若波罗蜜多咒，即说咒曰：揭谛揭谛，波罗揭谛，波罗僧揭谛，菩提萨婆诃。",
+      "pinyin": "Gù shuō bō rě bō luó mì duō zhòu, jí shuō zhòu yuē: Jiē dì jiē dì, bō luó jiē dì, bō luó sēng jiē dì, pú tí sà pó hē.",
+      "kind": "passage",
+      "voices": {
+        "xiaoxiao": {
+          "hash": "766d4315edd1",
+          "path": "audio/inline/2e4f1002961adf3b-xiaoxiao.mp3",
+          "bytes": 56736,
+          "text": "故说般若波罗蜜多咒，即说咒曰：揭谛揭谛，波罗揭谛，波罗僧揭谛，菩提萨婆诃。",
+          "pinyin": "Gù shuō bō rě bō luó mì duō zhòu, jí shuō zhòu yuē: Jiē dì jiē dì, bō luó jiē dì, bō luó sēng jiē dì, pú tí sà pó hē."
+        },
+        "yunxi": {
+          "hash": "619eb2f055e9",
+          "path": "audio/inline/2e4f1002961adf3b-yunxi.mp3",
+          "bytes": 55008,
+          "text": "故说般若波罗蜜多咒，即说咒曰：揭谛揭谛，波罗揭谛，波罗僧揭谛，菩提萨婆诃。",
+          "pinyin": "Gù shuō bō rě bō luó mì duō zhòu, jí shuō zhòu yuē: Jiē dì jiē dì, bō luó jiē dì, bō luó sēng jiē dì, pú tí sà pó hē."
         }
       }
     }
