@@ -103,11 +103,11 @@ content_sources:
       </div>
       <div class="card c-teal">
         <div class="card-head">歧 qí , a fork, a divergence</div>
-        <p>止 (zhǐ, to stop, a foot) on the left; 支 (zhī, a branch, to support) on the right. A road that branches off. Extended to: divergence, heterodoxy, anything that departs from the orthodox or standard. 歧视 (qíshì, discrimination , literally "divergent seeing"); 分歧 (fēnqí, a divergence, a difference of opinion). 歧 alone already contains the sense of wrongness — it is not a neutral fork but one that leads away.</p>
+        <p>止 (zhǐ, to stop, a foot) on the left; 支 (zhī, a branch, to support) on the right. A road that branches off. Extended to: divergence, heterodoxy, anything that departs from the orthodox or standard. 歧视 (qíshì, discrimination , literally "divergent seeing"); 分歧 (fēnqí, a divergence, a difference of opinion). 歧 alone already contains the sense of wrongness; it is not a neutral fork but one that leads away.</p>
       </div>
       <div class="card c-teal">
-        <div class="card-head">途 tú — road, the journey underway</div>
-        <p>The walking radical (辶); 余 as phonetic. Distinguished from 路 (lù, a road as a physical object) by its emphasis on the journey in progress. 途 is a road being travelled. Compounds: 途中 (tú zhōng, en route, midway), 前途 (qiántú, future prospects — the road ahead), 用途 (yòngtú, use, application). Shared with 迷途知返, which makes the two idioms feel like two moments on the same road.</p>
+        <div class="card-head">途 tú: road, the journey underway</div>
+        <p>The walking radical (辶); 余 as phonetic. Distinguished from 路 (lù, a road as a physical object) by its emphasis on the journey in progress. 途 is a road being travelled. Compounds: 途中 (tú zhōng, en route, midway), 前途 (qiántú, future prospects, the road ahead), 用途 (yòngtú, use, application). Shared with 迷途知返, which makes the two idioms feel like two moments on the same road.</p>
       </div>
     </div>
 

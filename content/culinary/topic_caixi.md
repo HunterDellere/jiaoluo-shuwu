@@ -193,14 +193,14 @@ pinyin: 'bā dà càixì'
         <span class="card-py">wǔ wèi</span>
         <span class="card-en">five flavors: sour, sweet, bitter, pungent, salty</span>
         <span class="tag-n">n.</span>
-        <p>The foundational flavor taxonomy of Chinese cooking and traditional medicine. Sour (酸 suān) , sweet (甜 tián) , bitter (苦 kǔ) — pungent/spicy (辣 là) — salty (咸 xián). Balance among these five is the aim of all sophisticated Chinese cooking.</p>
+        <p>The foundational flavor taxonomy of Chinese cooking and traditional medicine. Sour (酸 suān), sweet (甜 tián), bitter (苦 kǔ), pungent/spicy (辣 là), salty (咸 xián). Balance among these five is the aim of all sophisticated Chinese cooking.</p>
       </div>
       <div class="card c-sienna">
         <span class="card-cn">火候</span>
         <span class="card-py">huǒhòu</span>
         <span class="card-en">fire timing; heat control; the art of knowing when</span>
         <span class="tag-n">n.</span>
-        <p>One of the most important concepts in Chinese cooking — the precise calibration of heat intensity and duration. Applied beyond cooking to anything requiring well-timed judgment. To say someone has 火候 is to say they know exactly when to act and when to hold back.</p>
+        <p>One of the most important concepts in Chinese cooking: the precise calibration of heat intensity and duration. Applied beyond cooking to anything requiring well-timed judgment. To say someone has 火候 is to say they know exactly when to act and when to hold back.</p>
       </div>
       <div class="card c-violet">
         <span class="card-cn">烹饪</span>

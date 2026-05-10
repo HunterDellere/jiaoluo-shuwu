@@ -140,19 +140,19 @@ updated: '2026-04-25'
         <span class="cy-cn">墨守成规</span>
         <span class="cy-py">mòshǒu chéngguī</span>
         <span class="cy-en">to stick rigidly to established rules</span>
-        <span class="cy-note">The natural antonym of 与时俱进. 墨守 refers to Mozi's legendary skill at defensive warfare — holding a position without yielding. The phrase criticizes inflexibility and mechanical adherence to convention. The two idioms are frequently paired in contrast: 与时俱进 approves of adaptation; 墨守成规 criticizes the refusal to adapt.</span>
+        <span class="cy-note">The natural antonym of 与时俱进. 墨守 refers to Mozi's legendary skill at defensive warfare: holding a position without yielding. The phrase criticizes inflexibility and mechanical adherence to convention. The two idioms are frequently paired in contrast: 与时俱进 approves of adaptation; 墨守成规 criticizes the refusal to adapt.</span>
       </div>
       <div class="cy">
         <span class="cy-cn">因时制宜</span>
         <span class="cy-py">yīn shí zhì yí</span>
         <span class="cy-en">act according to what the time requires</span>
-        <span class="cy-note">A closely related four-character phrase drawing explicitly on the 时中 tradition. Where 与时俱进 emphasizes forward movement alongside the era, 因时制宜 emphasizes responsive calibration — making decisions that fit the specific circumstances of the moment. The two phrases complement each other and often appear together.</span>
+        <span class="cy-note">A closely related four-character phrase drawing explicitly on the 时中 tradition. Where 与时俱进 emphasizes forward movement alongside the era, 因时制宜 emphasizes responsive calibration: making decisions that fit the specific circumstances of the moment. The two phrases complement each other and often appear together.</span>
       </div>
       <div class="cy">
         <span class="cy-cn">革故鼎新</span>
         <span class="cy-py">gé gù dǐng xīn</span>
         <span class="cy-en">reform the old, establish the new</span>
-        <span class="cy-note">From the Book of Changes. The more active, transformative counterpart to 与时俱进 — where 与时俱进 describes keeping pace, 革故鼎新 describes active renovation. The 鼎 (bronze tripod) is a symbol of legitimate authority; 鼎新 means to inaugurate a new order as one would inaugurate a new dynasty. Used in contexts where the change being described is fundamental rather than incremental.</span>
+        <span class="cy-note">From the Book of Changes. The more active, transformative counterpart to 与时俱进; where 与时俱进 describes keeping pace, 革故鼎新 describes active renovation. The 鼎 (bronze tripod) is a symbol of legitimate authority; 鼎新 means to inaugurate a new order as one would inaugurate a new dynasty. Used in contexts where the change being described is fundamental rather than incremental.</span>
       </div>
     </div>
 

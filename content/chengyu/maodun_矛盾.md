@@ -94,15 +94,15 @@ content_sources:
       <div class="cards">
         <div class="card c-ochre">
           <div class="card-head"><span class="tag-n">n</span> 矛盾论 máodùn lùn</div>
-          <p>On Contradiction — Mao Zedong's 1937 philosophical essay applying materialist dialectics to political analysis. One of the two foundational texts of Mao Zedong Thought (alongside 实践论 Shíjiàn Lùn, "On Practice").</p>
+          <p>On Contradiction: Mao Zedong's 1937 philosophical essay applying materialist dialectics to political analysis. One of the two foundational texts of Mao Zedong Thought (alongside 实践论 Shíjiàn Lùn, "On Practice").</p>
         </div>
         <div class="card c-teal">
           <div class="card-head"><span class="tag-v">v</span> 化解矛盾 huàjiě máodùn</div>
-          <p>To resolve a contradiction — a common phrase in management, diplomacy, and mediation contexts. 化解 (huàjiě) means to dissolve or resolve; 化 alone means to transform or change.</p>
+          <p>To resolve a contradiction, a common phrase in management, diplomacy, and mediation contexts. 化解 (huàjiě) means to dissolve or resolve; 化 alone means to transform or change.</p>
         </div>
         <div class="card c-sienna">
           <div class="card-head"><span class="tag-adj">adj</span> 自相矛盾 zì xiāng máodùn</div>
-          <p>Self-contradictory — the four-character form of the original chengyu, used when a single person's or text's own claims conflict with each other. 自 (oneself) + 相 (mutually) + 矛盾.</p>
+          <p>Self-contradictory: the four-character form of the original chengyu, used when a single person's or text's own claims conflict with each other. 自 (oneself) + 相 (mutually) + 矛盾.</p>
         </div>
       </div>
 

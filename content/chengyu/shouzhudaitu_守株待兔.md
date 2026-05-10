@@ -102,11 +102,11 @@ content_sources:
       <div class="cards">
         <div class="card c-ochre">
           <div class="card-head">守 shǒu</div>
-          <p>To guard, to keep watch over, to defend. The 宀 (roof) radical above 寸 (hand-measure) suggests someone keeping vigil under a roof. Compounds: 守护 (to protect), 保守 (conservative), 遵守 (to abide by). The farmer's posture by the stump is literally 守 — patient, fixed, waiting for what is supposed to come.</p>
+          <p>To guard, to keep watch over, to defend. The 宀 (roof) radical above 寸 (hand-measure) suggests someone keeping vigil under a roof. Compounds: 守护 (to protect), 保守 (conservative), 遵守 (to abide by). The farmer's posture by the stump is literally 守: patient, fixed, waiting for what is supposed to come.</p>
         </div>
         <div class="card c-ochre">
           <div class="card-head">株 zhū</div>
-          <p>Tree stump, the stub of a tree. The 木 (tree) radical on the left makes the meaning visible; the 朱 (vermilion) on the right carries the sound. Also a measure word for trees: 一株树 ("one tree"). The choice of 株 rather than 树 (tree) is precise — the rabbit hit something dead, not living, and the farmer's wait inherits that deadness.</p>
+          <p>Tree stump, the stub of a tree. The 木 (tree) radical on the left makes the meaning visible; the 朱 (vermilion) on the right carries the sound. Also a measure word for trees: 一株树 ("one tree"). The choice of 株 rather than 树 (tree) is precise: the rabbit hit something dead, not living, and the farmer's wait inherits that deadness.</p>
         </div>
         <div class="card c-teal">
           <div class="card-head">待 dài</div>
@@ -114,7 +114,7 @@ content_sources:
         </div>
         <div class="card c-teal">
           <div class="card-head">兔 tù</div>
-          <p>Rabbit, hare. One of the older pictographs — the small dot at the bottom right is conventionally the tail. Rabbits in Chinese folklore are creatures of the moon (the Moon Rabbit, 月兔, pounds the elixir of immortality there). In this parable, however, the rabbit is purely accidental: a fast animal, a hard object, a coincidence the farmer mistook for a sign.</p>
+          <p>Rabbit, hare. One of the older pictographs; the small dot at the bottom right is conventionally the tail. Rabbits in Chinese folklore are creatures of the moon (the Moon Rabbit, 月兔, pounds the elixir of immortality there). In this parable, however, the rabbit is purely accidental: a fast animal, a hard object, a coincidence the farmer mistook for a sign.</p>
         </div>
       </div>
 

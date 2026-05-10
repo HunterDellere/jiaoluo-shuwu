@@ -206,7 +206,7 @@ content_review: 'pending'
       <p>三 idioms in the classical repertoire describe different flavors of misplaced imitation or overreach. Knowing the distinctions matters for precise use.</p>
       <p><strong>班门弄斧</strong> , you have skill, but you are showing it off in front of someone whose skill vastly exceeds yours, unaware of how the comparison reads. The problem is the audience, and the obliviousness to it.</p>
       <p><strong>东施效颦 dōng shī xiào pín</strong> , you imitate the surface behavior of a beautiful or admired person without understanding what made it attractive, producing the opposite of the intended effect. (东施, an ugly woman, imitated the face-touching gesture of the beautiful 西施, not knowing the gesture was attractive because 西施 was in pain from a genuine ailment.) The problem is imitation without understanding.</p>
-      <p><strong>邯郸学步 hándān xué bù</strong> — you go to learn the admired way of doing something, but in trying to copy it you forget how you used to do it yourself, ending up with neither. A young man from Yan went to Handan to learn the elegant Handan walk; he returned to Yan crawling on hands and knees, having forgotten how to walk at all. The problem is abandoning your own competence in the pursuit of someone else's.</p>
+      <p><strong>邯郸学步 hándān xué bù</strong>, you go to learn the admired way of doing something, but in trying to copy it you forget how you used to do it yourself, ending up with neither. A young man from Yan went to Handan to learn the elegant Handan walk; he returned to Yan crawling on hands and knees, having forgotten how to walk at all. The problem is abandoning your own competence in the pursuit of someone else's.</p>
     </div>
 
     <div class="chengyu-grid">
@@ -250,7 +250,7 @@ content_review: 'pending'
     <!-- RETENTION SCHOLAR BOX -->
     <div class="scholar" data-glyph="斧" style="margin-top:2.5rem;">
       <div class="scholar-label">记忆法 jìyìfǎ · Retention Image</div>
-      <p>The image is precise and unforgiving: you have walked up to Lu Ban's workshop door — the man who invented the saw, the square, and the plane — and you are standing there, waving your axe around. He is watching. You do not notice him watching.</p>
+      <p>The image is precise and unforgiving: you have walked up to Lu Ban's workshop door (the man who invented the saw, the square, and the plane) and you are standing there, waving your axe around. He is watching. You do not notice him watching.</p>
       <p>That last detail is the idiom's sharpest edge. The problem is not the axe or even the showing off. The problem is not knowing where you are standing. 班门弄斧 is always, at its core, a failure of situational awareness about one's own skill level relative to the context. In the self-deprecating register, the speaker preempts this judgment by naming it first. In the critical register, someone else names it for them.</p>
       <p>Mei Zhiyuan's original poem adds a layer worth keeping: even Li Bai, one of the greatest poets in Chinese history, knew to put down his brush at the Yellow Crane Tower. The mark of mastery is knowing when not to brandish the axe.</p>
     </div>
