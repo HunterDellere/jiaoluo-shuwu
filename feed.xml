@@ -6,7 +6,55 @@
     <atom:link href="https://jiaoshoo.com/feed.xml" rel="self" type="application/rss+xml" />
     <description>Notes on Chinese language and civilisation — characters, vocabulary, grammar, history, philosophy, and the world they shaped.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 10 May 2026 07:42:33 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 10 May 2026 13:02:12 GMT</lastBuildDate>
+    <item>
+      <title>秦朝 · The Qin Dynasty (221–206 BCE)</title>
+      <link>https://jiaoshoo.com/pages/history/topic_qinchao.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/history/topic_qinchao.html</guid>
+      <pubDate>Sun, 10 May 2026 00:00:00 GMT</pubDate>
+      <description>Fifteen years of imperial rule, fifteen centuries of imperial inheritance. The Qin unified the warring states, standardized writing, currency, and roads, built the first long wall, burned the books, and collapsed under the weight of its own apparatus.</description>
+      <category>history</category>
+    </item>
+    <item>
+      <title>必须 · must, have to (the obligation modal)</title>
+      <link>https://jiaoshoo.com/pages/vocab/bixu_必须.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/vocab/bixu_必须.html</guid>
+      <pubDate>Sun, 10 May 2026 00:00:00 GMT</pubDate>
+      <description>必须 is the strongest of the everyday modal verbs of obligation: a non-negotiable requirement that the speaker presents as not-up-for-discussion.</description>
+      <category>vocab</category>
+    </item>
+    <item>
+      <title>般若 · prajñā; the Buddhist wisdom that sees emptiness</title>
+      <link>https://jiaoshoo.com/pages/vocab/bore_般若.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/vocab/bore_般若.html</guid>
+      <pubDate>Sun, 10 May 2026 00:00:00 GMT</pubDate>
+      <description>般若 is the specific Buddhist wisdom that perceives the emptiness of self and phenomena: not knowledge, not cleverness, but the realization that dissolves clinging at its root.</description>
+      <category>vocab</category>
+    </item>
+    <item>
+      <title>论语 · The Analects of Confucius</title>
+      <link>https://jiaoshoo.com/pages/vocab/lunyu_论语.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/vocab/lunyu_论语.html</guid>
+      <pubDate>Sun, 10 May 2026 00:00:00 GMT</pubDate>
+      <description>The Analects: a thin book of recorded conversations and sayings that became the most quoted text in East Asian civilization, the entry point to Confucian thought, and the textbook of imperial education for two thousand years.</description>
+      <category>vocab</category>
+    </item>
+    <item>
+      <title>涅槃 · Nirvana; the extinction of craving and the end of rebirth</title>
+      <link>https://jiaoshoo.com/pages/vocab/niepan_涅槃.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/vocab/niepan_涅槃.html</guid>
+      <pubDate>Sun, 10 May 2026 00:00:00 GMT</pubDate>
+      <description>涅槃 is the Buddhist soteriological terminus: the extinction of the fires of greed, hatred, and delusion, and the cessation of the karmic cycle that they fuel.</description>
+      <category>vocab</category>
+    </item>
+    <item>
+      <title>文明 · civilization; cultivated and refined</title>
+      <link>https://jiaoshoo.com/pages/vocab/wenming_文明.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/vocab/wenming_文明.html</guid>
+      <pubDate>Sun, 10 May 2026 00:00:00 GMT</pubDate>
+      <description>文明 names both a state of cultivated life (literacy, ritual, the refined arts) and the global concept of civilization. The two meanings share a single Chinese word, and the doubling is the whole story.</description>
+      <category>vocab</category>
+    </item>
     <item>
       <title>命 · life, fate, command</title>
       <link>https://jiaoshoo.com/pages/characters/ming4_命.html</link>
@@ -198,54 +246,6 @@
       <pubDate>Sun, 26 Apr 2026 00:00:00 GMT</pubDate>
       <description>The material of kingship and moral cultivation: three jade discs on a cord, a glyph almost identical to king, the stone that Confucius said was virtue made visible.</description>
       <category>characters</category>
-    </item>
-    <item>
-      <title>吃饭文化 · Chinese Food Culture</title>
-      <link>https://jiaoshoo.com/pages/daily/topic_chifan.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/daily/topic_chifan.html</guid>
-      <pubDate>Sun, 26 Apr 2026 00:00:00 GMT</pubDate>
-      <description>Eating in China is not primarily about food. It is the medium through which relationships are initiated, obligations are incurred, hierarchies are performed, and social bonds are maintained.</description>
-      <category>daily</category>
-    </item>
-    <item>
-      <title>四川盆地 · The Sichuan Basin</title>
-      <link>https://jiaoshoo.com/pages/geography/topic_sichuanpen.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/geography/topic_sichuanpen.html</guid>
-      <pubDate>Sun, 26 Apr 2026 00:00:00 GMT</pubDate>
-      <description>An inland depression ringed by mountains on all four sides: the warm, humid, fog-wrapped basin that gave China its most distinctive regional cuisine, its Bronze Age mystery, and the world&apos;s longest-running irrigation system.</description>
-      <category>geography</category>
-    </item>
-    <item>
-      <title>汉朝 · The Han Dynasty</title>
-      <link>https://jiaoshoo.com/pages/history/topic_handai.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/history/topic_handai.html</guid>
-      <pubDate>Sun, 26 Apr 2026 00:00:00 GMT</pubDate>
-      <description>The dynasty that named the Chinese people and script: 400 years of empire, the Silk Road, Confucian statecraft, and Sima Qian writing history from prison.</description>
-      <category>history</category>
-    </item>
-    <item>
-      <title>城隍 · The City God</title>
-      <link>https://jiaoshoo.com/pages/religion/topic_chenghuang.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/religion/topic_chenghuang.html</guid>
-      <pubDate>Sun, 26 Apr 2026 00:00:00 GMT</pubDate>
-      <description>Every Chinese city had a City God who served as its divine magistrate, managing the dead and the living with the same bureaucratic precision as any imperial official.</description>
-      <category>religion</category>
-    </item>
-    <item>
-      <title>山水画 · Chinese Landscape Painting</title>
-      <link>https://jiaoshoo.com/pages/vocab/shanshuihua_山水画.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/vocab/shanshuihua_山水画.html</guid>
-      <pubDate>Sun, 26 Apr 2026 00:00:00 GMT</pubDate>
-      <description>Mountains and waters as a cosmological pair -- the genre that made ink the equal of philosophy.</description>
-      <category>vocab</category>
-    </item>
-    <item>
-      <title>正在 · currently doing, progressive aspect</title>
-      <link>https://jiaoshoo.com/pages/vocab/zhengzai_正在.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/vocab/zhengzai_正在.html</guid>
-      <pubDate>Sun, 26 Apr 2026 00:00:00 GMT</pubDate>
-      <description>The primary progressive marker in Mandarin -- placed before a verb to signal an action caught in mid-motion, exactly now, still in progress.</description>
-      <category>vocab</category>
     </item>
   </channel>
 </rss>
