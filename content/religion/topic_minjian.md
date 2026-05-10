@@ -411,7 +411,7 @@ pinyin: 'mínjiān xìnyǎng'
           <div class="example">
             <div class="ex-cn">去朋友婚礼，记得穿红色，千万别穿白色。</div>
             <div class="ex-py">Qù péngyou hūnlǐ, jìde chuān hóngsè, qiānwàn bié chuān báisè.</div>
-            <div class="ex-en">Going to a friend's wedding, remember to wear red — never wear white.</div>
+            <div class="ex-en">Going to a friend's wedding, remember to wear red, never wear white.</div>
           </div>
         </div>
       </div>
@@ -524,7 +524,7 @@ pinyin: 'mínjiān xìnyǎng'
         <span class="cy-cn">天地良心</span>
         <span class="cy-py">tiāndì liángxīn</span>
         <span class="cy-en">heaven and earth as my witness — swearing to one's sincerity before the cosmos</span>
-        <span class="cy-note">A folk oath formula invoking Heaven and Earth as moral witnesses. 我天地良心地告诉你 — "I'm telling you in all sincerity, with heaven and earth as my witness." Reveals how folk religion makes the cosmos itself a moral guarantor.</span>
+        <span class="cy-note">A folk oath formula invoking Heaven and Earth as moral witnesses. 我天地良心地告诉你. "I'm telling you in all sincerity, with heaven and earth as my witness." Reveals how folk religion makes the cosmos itself a moral guarantor.</span>
       </div>
 
       <div class="cy">
@@ -545,7 +545,7 @@ pinyin: 'mínjiān xìnyǎng'
         <span class="cy-cn">举头三尺有神明</span>
         <span class="cy-py">jǔ tóu sān chǐ yǒu shénmíng</span>
         <span class="cy-en">three feet above your head there are divine spirits — you are always watched</span>
-        <span class="cy-note">A foundational folk-religion moral warning: the gods are always observing human conduct — no action goes unseen. Functionally identical to the Western "God is watching." Used to caution against wrongdoing, especially in private. The full proverb: 举头三尺有神明，不畏人知畏己知。</span>
+        <span class="cy-note">A foundational folk-religion moral warning: the gods are always observing human conduct; no action goes unseen. Functionally identical to the Western "God is watching." Used to caution against wrongdoing, especially in private. The full proverb: 举头三尺有神明，不畏人知畏己知。</span>
       </div>
 
     </div>

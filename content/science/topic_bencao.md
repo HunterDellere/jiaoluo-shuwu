@@ -195,15 +195,15 @@ pinyin: 'běncǎo gāngmù'
     <div class="cards">
       <div class="card c-teal">
         <div class="card-head"><span class="tag-n">n</span> 本草 běncǎo</div>
-        <p>Materia medica — the traditional term for the pharmacological literature and its subject matter. 本 means "root" or "basis"; 草 means "grass/herb." Together they originally referred to herbal medicine specifically, then expanded to cover the full range of medicinal substances: minerals, animal products, and foods. The entire genre of Chinese pharmacopoeias is called the 本草 tradition.</p>
+        <p>Materia medica: the traditional term for the pharmacological literature and its subject matter. 本 means "root" or "basis"; 草 means "grass/herb." Together they originally referred to herbal medicine specifically, then expanded to cover the full range of medicinal substances: minerals, animal products, and foods. The entire genre of Chinese pharmacopoeias is called the 本草 tradition.</p>
       </div>
       <div class="card c-ochre">
         <div class="card-head"><span class="tag-n">n</span> 君臣佐使 jūn chén zuǒ shǐ</div>
-        <p>Ruler, minister, assistant, envoy — the four functional roles within a compound herbal formula. The 君 drug addresses the primary condition; the 臣 supports or amplifies it; the 佐 moderates harsh effects or treats secondary symptoms; the 使 guides the formula to the target organ and harmonizes the combination. This hierarchy organizes Chinese herbal prescription to the present day.</p>
+        <p>Ruler, minister, assistant, envoy: the four functional roles within a compound herbal formula. The 君 drug addresses the primary condition; the 臣 supports or amplifies it; the 佐 moderates harsh effects or treats secondary symptoms; the 使 guides the formula to the target organ and harmonizes the combination. This hierarchy organizes Chinese herbal prescription to the present day.</p>
       </div>
       <div class="card c-sienna">
         <div class="card-head"><span class="tag-n">n</span> 四气五味 sìqì wǔwèi</div>
-        <p>Four temperatures and five flavors — the two-axis system for classifying drug properties. The four temperatures: cold (寒), cool (凉), warm (温), hot (热). The five flavors: sour (酸), bitter (苦), sweet (甘), pungent (辛), salty (咸). Each flavor has specific organ affinities and physiological effects. A drug's properties in this system determine which patterns it treats and how it is combined with other substances.</p>
+        <p>Four temperatures and five flavors: the two-axis system for classifying drug properties. The four temperatures: cold (寒), cool (凉), warm (温), hot (热). The five flavors: sour (酸), bitter (苦), sweet (甘), pungent (辛), salty (咸). Each flavor has specific organ affinities and physiological effects. A drug's properties in this system determine which patterns it treats and how it is combined with other substances.</p>
       </div>
       <div class="card c-violet">
         <div class="card-head"><span class="tag-n">n</span> 毒性 dúxìng</div>

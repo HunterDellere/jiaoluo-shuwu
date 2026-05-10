@@ -410,7 +410,7 @@ pinyin: 'zǔxiān chóngbài'
         <span class="cy-cn">慎终追远</span>
         <span class="cy-py">shèn zhōng zhuī yuǎn</span>
         <span class="cy-en">careful attention to death rites and honoring distant ancestors</span>
-        <span class="cy-note">From the Analects (论语): 慎终追远，民德归厚矣 — "When the people are careful about death rites and diligently honor distant ancestors, the virtue of the people will return to richness." Confucius's most concise statement of why ancestor veneration matters: it cultivates moral seriousness in the living.</span>
+        <span class="cy-note">From the Analects (论语): 慎终追远，民德归厚矣. "When the people are careful about death rites and diligently honor distant ancestors, the virtue of the people will return to richness." Confucius's most concise statement of why ancestor veneration matters: it cultivates moral seriousness in the living.</span>
       </div>
 
       <div class="cy">
@@ -431,7 +431,7 @@ pinyin: 'zǔxiān chóngbài'
         <span class="cy-cn">认祖归宗</span>
         <span class="cy-py">rèn zǔ guī zōng</span>
         <span class="cy-en">to acknowledge one's ancestors and return to the lineage</span>
-        <span class="cy-note">Lit: recognize-ancestor-return-lineage. Used for those who were separated from their family — by adoption, diaspora, or historical disruption — and formally reconnect with their ancestral line. A profoundly significant act in Chinese social life. Also used metaphorically for cultural homecoming: overseas Chinese "returning" to ancestral villages.</span>
+        <span class="cy-note">Lit: recognize-ancestor-return-lineage. Used for those who were separated from their family (by adoption, diaspora, or historical disruption) and formally reconnect with their ancestral line. A profoundly significant act in Chinese social life. Also used metaphorically for cultural homecoming: overseas Chinese "returning" to ancestral villages.</span>
       </div>
 
     </div>
