@@ -442,6 +442,23 @@
     ],
     "hasPage": true
   },
+  "轮回": {
+    "cn": "轮回",
+    "py": "lúnhuí",
+    "en": "samsara; cycle of rebirth",
+    "count": 8,
+    "appearsOn": [
+      "pages/characters/fo2_佛.html",
+      "pages/characters/ming4_命.html",
+      "pages/religion/topic_amituojing.html",
+      "pages/religion/topic_fojiao.html",
+      "pages/religion/topic_xinjing.html",
+      "pages/vocab/niepan_涅槃.html",
+      "pages/vocab/pusa_菩萨.html",
+      "pages/vocab/yuanfen_缘分.html"
+    ],
+    "hasPage": true
+  },
   "书法": {
     "cn": "书法",
     "py": "shūfǎ",
@@ -618,22 +635,6 @@
       "pages/grammar/zhe_particle_呢.html",
       "pages/grammar/zhe_着.html",
       "pages/vocab/zhengzai_正在.html"
-    ],
-    "hasPage": true
-  },
-  "轮回": {
-    "cn": "轮回",
-    "py": "lúnhuí",
-    "en": "samsara; cycle of rebirth",
-    "count": 7,
-    "appearsOn": [
-      "pages/characters/fo2_佛.html",
-      "pages/characters/ming4_命.html",
-      "pages/religion/topic_fojiao.html",
-      "pages/religion/topic_xinjing.html",
-      "pages/vocab/niepan_涅槃.html",
-      "pages/vocab/pusa_菩萨.html",
-      "pages/vocab/yuanfen_缘分.html"
     ],
     "hasPage": true
   },
@@ -2242,6 +2243,18 @@
     ],
     "hasPage": false
   },
+  "阿弥陀佛": {
+    "cn": "阿弥陀佛",
+    "py": "Āmítuófó",
+    "en": "Amitābha Buddha",
+    "count": 3,
+    "appearsOn": [
+      "pages/religion/topic_amituojing.html",
+      "pages/religion/topic_fojing.html",
+      "pages/religion/topic_guanyin.html"
+    ],
+    "hasPage": false
+  },
   "啊": {
     "cn": "啊",
     "py": "a",
@@ -2685,6 +2698,18 @@
       "pages/culture/topic_duanwu.html"
     ],
     "hasPage": true
+  },
+  "净土": {
+    "cn": "净土",
+    "py": "jìngtǔ",
+    "en": "Pure Land",
+    "count": 3,
+    "appearsOn": [
+      "pages/religion/topic_amituojing.html",
+      "pages/religion/topic_fojing.html",
+      "pages/religion/topic_guanyin.html"
+    ],
+    "hasPage": false
   },
   "科举": {
     "cn": "科举",
@@ -3262,6 +3287,18 @@
     ],
     "hasPage": false
   },
+  "心经": {
+    "cn": "心经",
+    "py": "Xīnjīng",
+    "en": "the Heart Sutra",
+    "count": 3,
+    "appearsOn": [
+      "pages/religion/topic_amituojing.html",
+      "pages/religion/topic_fojing.html",
+      "pages/vocab/bore_般若.html"
+    ],
+    "hasPage": true
+  },
   "辛亥革命": {
     "cn": "辛亥革命",
     "py": "Xīnhài Gémìng",
@@ -3691,17 +3728,6 @@
       "pages/characters/da3_打.html",
       "pages/characters/wei2_为.html",
       "pages/characters/xing2_行.html"
-    ],
-    "hasPage": false
-  },
-  "阿弥陀佛": {
-    "cn": "阿弥陀佛",
-    "py": "Āmítuófó",
-    "en": "Amitābha Buddha",
-    "count": 2,
-    "appearsOn": [
-      "pages/religion/topic_fojing.html",
-      "pages/religion/topic_guanyin.html"
     ],
     "hasPage": false
   },
@@ -4816,6 +4842,17 @@
     ],
     "hasPage": true
   },
+  "观无量寿经": {
+    "cn": "观无量寿经",
+    "py": "Guān Wúliángshòu jīng",
+    "en": "the Contemplation Sutra",
+    "count": 2,
+    "appearsOn": [
+      "pages/religion/topic_amituojing.html",
+      "pages/religion/topic_fojing.html"
+    ],
+    "hasPage": false
+  },
   "广": {
     "cn": "广",
     "py": "guǎng",
@@ -5344,17 +5381,6 @@
     ],
     "hasPage": false
   },
-  "净土": {
-    "cn": "净土",
-    "py": "jìngtǔ",
-    "en": "Pure Land",
-    "count": 2,
-    "appearsOn": [
-      "pages/religion/topic_fojing.html",
-      "pages/religion/topic_guanyin.html"
-    ],
-    "hasPage": false
-  },
   "净土宗": {
     "cn": "净土宗",
     "py": "jìngtǔ zōng",
@@ -5365,6 +5391,17 @@
       "pages/religion/topic_fojiao.html"
     ],
     "hasPage": true
+  },
+  "鸠摩罗什": {
+    "cn": "鸠摩罗什",
+    "py": "Jiūmóluóshí",
+    "en": "Kumārajīva the translator",
+    "count": 2,
+    "appearsOn": [
+      "pages/religion/topic_amituojing.html",
+      "pages/religion/topic_fojing.html"
+    ],
+    "hasPage": false
   },
   "旧": {
     "cn": "旧",
@@ -5869,6 +5906,17 @@
     "appearsOn": [
       "pages/characters/bi4_必.html",
       "pages/characters/ke3_可.html"
+    ],
+    "hasPage": false
+  },
+  "念佛": {
+    "cn": "念佛",
+    "py": "niànfó",
+    "en": "recollection of the Buddha",
+    "count": 2,
+    "appearsOn": [
+      "pages/religion/topic_amituojing.html",
+      "pages/religion/topic_jingtu.html"
     ],
     "hasPage": false
   },
@@ -7104,6 +7152,17 @@
     ],
     "hasPage": true
   },
+  "无量寿经": {
+    "cn": "无量寿经",
+    "py": "Wúliángshòu jīng",
+    "en": "the Larger Amitabha Sutra",
+    "count": 2,
+    "appearsOn": [
+      "pages/religion/topic_amituojing.html",
+      "pages/religion/topic_fojing.html"
+    ],
+    "hasPage": false
+  },
   "无所谓": {
     "cn": "无所谓",
     "py": "wúsuǒwèi",
@@ -7266,17 +7325,6 @@
     "appearsOn": [
       "pages/characters/du2_读.html",
       "pages/characters/zi4_字.html"
-    ],
-    "hasPage": true
-  },
-  "心经": {
-    "cn": "心经",
-    "py": "Xīnjīng",
-    "en": "the Heart Sutra",
-    "count": 2,
-    "appearsOn": [
-      "pages/religion/topic_fojing.html",
-      "pages/vocab/bore_般若.html"
     ],
     "hasPage": true
   },
@@ -8123,7 +8171,7 @@
     "appearsOn": [
       "pages/religion/topic_fojing.html"
     ],
-    "hasPage": false
+    "hasPage": true
   },
   "矮": {
     "cn": "矮",
@@ -10955,6 +11003,16 @@
     ],
     "hasPage": false
   },
+  "佛经": {
+    "cn": "佛经",
+    "py": "fójīng",
+    "en": "Buddhist scriptures hub",
+    "count": 1,
+    "appearsOn": [
+      "pages/religion/topic_amituojing.html"
+    ],
+    "hasPage": true
+  },
   "佛性": {
     "cn": "佛性",
     "py": "fóxìng",
@@ -11652,16 +11710,6 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/yan3_眼.html"
-    ],
-    "hasPage": false
-  },
-  "观无量寿经": {
-    "cn": "观无量寿经",
-    "py": "Guān Wúliángshòu jīng",
-    "en": "the Contemplation Sutra",
-    "count": 1,
-    "appearsOn": [
-      "pages/religion/topic_fojing.html"
     ],
     "hasPage": false
   },
@@ -12575,6 +12623,16 @@
     ],
     "hasPage": false
   },
+  "极乐世界": {
+    "cn": "极乐世界",
+    "py": "Jílè shìjiè",
+    "en": "Land of Ultimate Bliss",
+    "count": 1,
+    "appearsOn": [
+      "pages/religion/topic_amituojing.html"
+    ],
+    "hasPage": false
+  },
   "极其": {
     "cn": "极其",
     "py": "jíqí",
@@ -13422,16 +13480,6 @@
     "count": 1,
     "appearsOn": [
       "pages/history/topic_mingchao.html"
-    ],
-    "hasPage": false
-  },
-  "鸠摩罗什": {
-    "cn": "鸠摩罗什",
-    "py": "Jiūmóluóshí",
-    "en": "Kumārajīva the translator",
-    "count": 1,
-    "appearsOn": [
-      "pages/religion/topic_fojing.html"
     ],
     "hasPage": false
   },
@@ -15665,16 +15713,6 @@
     ],
     "hasPage": false
   },
-  "念佛": {
-    "cn": "念佛",
-    "py": "niànfó",
-    "en": "Buddha-recitation",
-    "count": 1,
-    "appearsOn": [
-      "pages/religion/topic_jingtu.html"
-    ],
-    "hasPage": false
-  },
   "涅槃重生": {
     "cn": "涅槃重生",
     "py": "nièpán chóngshēng",
@@ -17102,6 +17140,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/shao3_少.html"
+    ],
+    "hasPage": false
+  },
+  "舍利弗": {
+    "cn": "舍利弗",
+    "py": "Shèlìfú",
+    "en": "Śāriputra",
+    "count": 1,
+    "appearsOn": [
+      "pages/religion/topic_amituojing.html"
     ],
     "hasPage": false
   },
@@ -19232,16 +19280,6 @@
     "count": 1,
     "appearsOn": [
       "pages/vocab/limao_礼貌.html"
-    ],
-    "hasPage": false
-  },
-  "无量寿经": {
-    "cn": "无量寿经",
-    "py": "Wúliángshòu jīng",
-    "en": "the Larger Amitabha Sutra",
-    "count": 1,
-    "appearsOn": [
-      "pages/religion/topic_fojing.html"
     ],
     "hasPage": false
   },

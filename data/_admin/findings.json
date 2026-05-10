@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-10T14:18:11.858Z",
+  "generated": "2026-05-10T14:24:37.178Z",
   "summary": {
     "errors": 0,
     "warnings": 18,
@@ -115,7 +115,7 @@
       "level": "WARN",
       "category": "factual",
       "file": "data/_reference/hanzi-facts.json",
-      "msg": "184 hanzi appear in content/ but have no reference entry: 桐梓谭鑫隋韻仝谿珪侄褚説辕弋変喫凵萃嘈剣罒吟聆彝诲亘翩冋丷闩魑魍魉幺楽謂趾绊辵萑…. Claims about these characters cannot be mechanically verified. Run 'npm run refresh:reference' after updating upstream data."
+      "msg": "196 hanzi appear in content/ but have no reference entry: 桐梓谭鑫隋韻仝谿珪侄褚説辕弋変喫凵萃嘈剣罒吟聆彝诲亘翩冋丷闩魑魍魉幺楽謂趾绊辵萑…. Claims about these characters cannot be mechanically verified. Run 'npm run refresh:reference' after updating upstream data."
     },
     {
       "level": "INFO",

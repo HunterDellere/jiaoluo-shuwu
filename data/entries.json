@@ -19,6 +19,24 @@
     "updated": "2026-05-10"
   },
   {
+    "path": "pages/religion/topic_amituojing.html",
+    "type": "topic",
+    "category": "religion",
+    "title": "阿弥陀经 · The Smaller Amitabha Sutra",
+    "desc": "The shorter Pure Land sutra: ~1,800 characters in which the Buddha describes Amitābha's Western Pure Land to Śāriputra and names the practice of single-minded recollection of the Buddha's name. The daily-recitation text of Pure Land Buddhism.",
+    "tags": [
+      "buddhism",
+      "classics",
+      "religion",
+      "pure-land",
+      "amitabha",
+      "faith"
+    ],
+    "status": "complete",
+    "pinyin": "Āmítuó jīng",
+    "updated": "2026-05-10"
+  },
+  {
     "path": "pages/religion/topic_fojing.html",
     "type": "topic",
     "category": "religion",

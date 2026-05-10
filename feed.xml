@@ -6,7 +6,7 @@
     <atom:link href="https://jiaoshoo.com/feed.xml" rel="self" type="application/rss+xml" />
     <description>Notes on Chinese language and civilisation — characters, vocabulary, grammar, history, philosophy, and the world they shaped.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 10 May 2026 14:18:09 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 10 May 2026 14:24:34 GMT</lastBuildDate>
     <item>
       <title>秦朝 · The Qin Dynasty (221–206 BCE)</title>
       <link>https://jiaoshoo.com/pages/history/topic_qinchao.html</link>
@@ -14,6 +14,14 @@
       <pubDate>Sun, 10 May 2026 00:00:00 GMT</pubDate>
       <description>Fifteen years of imperial rule, fifteen centuries of imperial inheritance. The Qin unified the warring states, standardized writing, currency, and roads, built the first long wall, burned the books, and collapsed under the weight of its own apparatus.</description>
       <category>history</category>
+    </item>
+    <item>
+      <title>阿弥陀经 · The Smaller Amitabha Sutra</title>
+      <link>https://jiaoshoo.com/pages/religion/topic_amituojing.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/religion/topic_amituojing.html</guid>
+      <pubDate>Sun, 10 May 2026 00:00:00 GMT</pubDate>
+      <description>The shorter Pure Land sutra: ~1,800 characters in which the Buddha describes Amitābha&apos;s Western Pure Land to Śāriputra and names the practice of single-minded recollection of the Buddha&apos;s name. The daily-recitation text of Pure Land Buddhism.</description>
+      <category>religion</category>
     </item>
     <item>
       <title>佛经 · Buddhist Scriptures</title>
@@ -238,14 +246,6 @@
       <pubDate>Sun, 26 Apr 2026 00:00:00 GMT</pubDate>
       <description>Five script styles chart two thousand years of Chinese writing, from the solemn bronze inscriptions of the Zhou to the explosive cursive of the Tang masters.</description>
       <category>arts</category>
-    </item>
-    <item>
-      <title>鬼 · ghost, the wandering dead</title>
-      <link>https://jiaoshoo.com/pages/characters/gui3_鬼.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/gui3_鬼.html</guid>
-      <pubDate>Sun, 26 Apr 2026 00:00:00 GMT</pubDate>
-      <description>A pictograph of a spirit with an oversized head: the disembodied soul of the unvenerated dead, a folk-religion category distinct from deity, demon, and ancestor.</description>
-      <category>characters</category>
     </item>
   </channel>
 </rss>
