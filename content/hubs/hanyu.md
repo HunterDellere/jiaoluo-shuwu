@@ -202,11 +202,11 @@ stages:
     <span class="section-anchor" id="also"></span>
     <div class="section-head"><h2>Tools &amp; Resources</h2></div>
     <div class="scholar" data-glyph="学">
-      <div class="scholar-label">延伸阅读 · yánshēn yuèdú — tools, references, and companion content</div>
+      <div class="scholar-label">延伸阅读 · yánshēn yuèdú · tools, references, and companion content</div>
       <p><strong>Dictionary tools:</strong> Pleco (iOS/Android) is the standard Mandarin dictionary app, offline-capable, with handwriting input, flashcard decks, and stroke-order animation. For quick browser lookups, MDBG (mdbg.net) uses the CC-CEDICT dataset, which is the best openly licensed Chinese-English dictionary and is worth knowing by name. Outlier Linguistics (outlier-linguistics.com) provides rigorous etymological entries grounded in current scholarship; it is the right tool for questions about character origin, not just definition.</p>
       <p><strong>Listening practice:</strong> Mandarin Corner (YouTube and podcast) produces graded content at HSK 1 through HSK 6 levels, with transcripts. Comprehensible input at the right level is more efficient than vocabulary drilling for listening acquisition, and Mandarin Corner's graded approach makes level-matching straightforward.</p>
       <p><strong>The HSK framework:</strong> HSK (汉语水平考试 Hànyǔ Shuǐpíng Kǎoshì) is the official Chinese proficiency test. The 2021 revision expanded the scale to nine levels; the widely used older version had six. HSK 1–2 covers basic survival vocabulary (around 500 words). HSK 3–4 covers everyday fluency (around 2,500 words). HSK 5–6 covers academic and professional use. The framework is useful as a rough map of where you are in the landscape, but it emphasises vocabulary count over grammar depth, and the grammar entries in Stage 4 of this path are more important for reading comprehension than HSK level alignment.</p>
-      <p><strong>Companion hubs on this site:</strong> The <a href="hanzi.html">汉字 — Writing System hub</a> is Stage 2's full destination: character etymology, radical logic, and calligraphy as a living practice. The <a href="zhexue.html">哲学 — Philosophy hub</a> is where 之 and 其 from Stage 5 earn their weight; nearly every classical passage in the philosophy reading path uses both.</p>
+      <p><strong>Companion hubs on this site:</strong> The <a href="hanzi.html">汉字 · Writing System hub</a> is Stage 2's full destination: character etymology, radical logic, and calligraphy as a living practice. The <a href="zhexue.html">哲学 · Philosophy hub</a> is where 之 and 其 from Stage 5 earn their weight; nearly every classical passage in the philosophy reading path uses both.</p>
     </div>
 
     <div class="adj-wrap">
