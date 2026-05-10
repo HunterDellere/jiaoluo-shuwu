@@ -106,20 +106,24 @@
     return wrap;
   }
 
-  // Place the export controls just below the hero. We append to the same
-  // parent the .topic-hero / .hero lives in (the .main column), right after
-  // the hero, so the buttons sit in document order between hero and the
-  // first content section.
+  // Place the export controls at the bottom of the page, just before the
+  // .page-footer. Readers reach them after engaging with the entry, when
+  // saving to Pleco/Anki feels like a natural next step rather than chrome
+  // crowding the hero. Falls back to appending to .main if no footer.
   function inject() {
     var meta = readMeta();
     if (!isExportable(meta)) return;
-    var hero = document.querySelector('.hero, .topic-hero');
-    if (!hero) return;
     if (document.querySelector('.page-export')) return; // idempotent
     var card = readCard();
     if (!card.hanzi || !card.pinyin) return; // missing data — bail silently
     var wrap = buildButtons(card);
-    hero.parentNode.insertBefore(wrap, hero.nextSibling);
+    var footer = document.querySelector('.page-footer');
+    if (footer && footer.parentNode) {
+      footer.parentNode.insertBefore(wrap, footer);
+      return;
+    }
+    var main = document.querySelector('main.main');
+    if (main) main.appendChild(wrap);
   }
 
   if (document.readyState === 'loading') {
