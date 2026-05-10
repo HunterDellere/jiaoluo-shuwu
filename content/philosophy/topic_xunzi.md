@@ -324,21 +324,21 @@ pinyin: 'xúnzǐ'
         <span class="cy-cn">锲而不舍，金石可镂</span>
         <span class="cy-py">qiè ér bù shě, jīn shí kě lòu</span>
         <span class="cy-en">Persevere without giving up, and you can engrave even metal and stone</span>
-        <span class="cy-note">From 劝学. The full passage contrasts: if you chisel but give up, you cannot even cut rotten wood; if you persevere without stopping, you can engrave metal and stone. The image captures Xunzi's emphasis on accumulation 积 and sustained effort: virtue is not achieved through sudden insight but through relentless, incremental practice. The contrast with Mencius is implicit — Mencius locates goodness in the innate; Xunzi locates it in the sustained act of cultivation. Used in modern Chinese to mean: persistence is the key to achievement in any difficult domain.</span>
+        <span class="cy-note">From 劝学. The full passage contrasts: if you chisel but give up, you cannot even cut rotten wood; if you persevere without stopping, you can engrave metal and stone. The image captures Xunzi's emphasis on accumulation 积 and sustained effort: virtue is not achieved through sudden insight but through relentless, incremental practice. The contrast with Mencius is implicit: Mencius locates goodness in the innate; Xunzi locates it in the sustained act of cultivation. Used in modern Chinese to mean: persistence is the key to achievement in any difficult domain.</span>
       </div>
 
       <div class="cy">
         <span class="cy-cn">学不可以已</span>
         <span class="cy-py">xué bù kě yǐ yǐ</span>
         <span class="cy-en">Learning cannot stop — the process of cultivation has no natural endpoint</span>
-        <span class="cy-note">Opening line of the Xunzi and of the 劝学 chapter — the programmatic statement of Xunzi's entire educational philosophy. 已 yǐ: to stop, to cease. The philosophical force follows from the 性恶论: if goodness is not innate but must be cultivated, then the cultivation is never complete by its own logic. There is no natural moment of arrival. Learning, self-examination, and ritual practice must be continuous. Used in modern Chinese as a general statement about the value of lifelong learning.</span>
+        <span class="cy-note">Opening line of the Xunzi and of the 劝学 chapter, the programmatic statement of Xunzi's entire educational philosophy. 已 yǐ: to stop, to cease. The philosophical force follows from the 性恶论: if goodness is not innate but must be cultivated, then the cultivation is never complete by its own logic. There is no natural moment of arrival. Learning, self-examination, and ritual practice must be continuous. Used in modern Chinese as a general statement about the value of lifelong learning.</span>
       </div>
 
       <div class="cy">
         <span class="cy-cn">制天命而用之</span>
         <span class="cy-py">zhì tiānmìng ér yòng zhī</span>
         <span class="cy-en">Master the decrees of Heaven and use them — human agency as the response to natural necessity</span>
-        <span class="cy-note">From 天论 (On Heaven). Contrasted with the alternative: 大天而思之 — "exalting Heaven and longing for it." Xunzi argues that the latter is passive and futile; the former is the correct response to a world governed by regular, impersonal natural processes. Rather than appeasing a morally attentive Heaven, learn the patterns of nature and put that knowledge to work. This proto-scientific orientation was unusual in classical Chinese thought and represents Xunzi's most distinctive contribution to Chinese intellectual history.</span>
+        <span class="cy-note">From 天论 (On Heaven). Contrasted with the alternative: 大天而思之, "exalting Heaven and longing for it." Xunzi argues that the latter is passive and futile; the former is the correct response to a world governed by regular, impersonal natural processes. Rather than appeasing a morally attentive Heaven, learn the patterns of nature and put that knowledge to work. This proto-scientific orientation was unusual in classical Chinese thought and represents Xunzi's most distinctive contribution to Chinese intellectual history.</span>
       </div>
 
     </div>

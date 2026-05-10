@@ -194,7 +194,7 @@ pinyin: 'Guānyīn'
           <span class="card-en">bodhisattva — an enlightened being who delays nirvana to save others</span>
         </div>
         <div class="card-def">
-          The Chinese transliteration of Sanskrit <em>bodhisattva</em> (bodhisattva = bodhi + sattva, "enlightenment-being"). A being who has attained the insight necessary for nirvana but vows to remain in the cycle of rebirth until all sentient beings have been liberated. Guanyin is the paradigmatic bodhisattva in Chinese Buddhism. In colloquial Chinese, 菩萨心肠 (púsà xīncháng, "bodhisattva's heart") means a deeply kind, selfless nature — used of anyone who consistently puts others first.
+          The Chinese transliteration of Sanskrit <em>bodhisattva</em> (bodhisattva = bodhi + sattva, "enlightenment-being"). A being who has attained the insight necessary for nirvana but vows to remain in the cycle of rebirth until all sentient beings have been liberated. Guanyin is the paradigmatic bodhisattva in Chinese Buddhism. In colloquial Chinese, 菩萨心肠 (púsà xīncháng, "bodhisattva's heart") means a deeply kind, selfless nature, used of anyone who consistently puts others first.
         </div>
       </div>
 
@@ -216,7 +216,7 @@ pinyin: 'Guānyīn'
           <span class="card-en">perceiver of the world's sounds/cries — the full Chinese name</span>
         </div>
         <div class="card-def">
-          The full three-character name, still used in formal liturgical and scriptural contexts. The <em>Pumen Pin</em> (普门品 Pǔmén Pǐn, "Universal Gate Chapter") of the Lotus Sutra — the key canonical text for Guanyin devotion in China — uses this form throughout: whoever calls the name of 观世音菩萨 in any moment of danger will be heard and rescued. The chapter describes 33 transformation bodies that Guanyin takes on to appear in whatever form is needed by the being being saved. Xuanzang's abbreviation to 观音 in the 7th century became the standard for daily use, while 观世音 retained its liturgical register.
+          The full three-character name, still used in formal liturgical and scriptural contexts. The <em>Pumen Pin</em> (普门品 Pǔmén Pǐn, "Universal Gate Chapter") of the Lotus Sutra (the key canonical text for Guanyin devotion in China) uses this form throughout: whoever calls the name of 观世音菩萨 in any moment of danger will be heard and rescued. The chapter describes 33 transformation bodies that Guanyin takes on to appear in whatever form is needed by the being being saved. Xuanzang's abbreviation to 观音 in the 7th century became the standard for daily use, while 观世音 retained its liturgical register.
         </div>
       </div>
 

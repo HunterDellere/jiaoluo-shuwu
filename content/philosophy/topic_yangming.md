@@ -312,21 +312,21 @@ updated: '2026-04-25'
         <span class="cy-cn">知行合一</span>
         <span class="cy-py">zhīxíng hé yī</span>
         <span class="cy-en">Unity of knowing and acting.</span>
-        <span class="cy-note">Wang Yangming's most cited formulation. The argument is conceptual, not motivational: genuine moral knowing is not a cognitive state that precedes action but an orientation that is already action-shaped. The person who "knows" something is wrong but consistently does it does not truly know it. This is why Wang Yangming saw the Neo-Confucian culture of his time , extensive study, delayed moral commitment — as a philosophical failure, not merely a personal one.</span>
+        <span class="cy-note">Wang Yangming's most cited formulation. The argument is conceptual, not motivational: genuine moral knowing is not a cognitive state that precedes action but an orientation that is already action-shaped. The person who "knows" something is wrong but consistently does it does not truly know it. This is why Wang Yangming saw the Neo-Confucian culture of his time (extensive study, delayed moral commitment) as a philosophical failure, not merely a personal one.</span>
       </div>
 
       <div class="cy">
         <span class="cy-cn">致良知</span>
         <span class="cy-py">zhì liángzhī</span>
         <span class="cy-en">Extending innate moral knowledge.</span>
-        <span class="cy-note">The core practice of Wang Yangming's philosophy. 致 means "to extend" or "to bring to bear fully." The practice is not the construction of moral knowledge through study but the removal of whatever obstructs the 良知 that is always already present. Wang Yangming wrote, late in his life, that 致良知 was the hardest-won insight of his entire philosophical career — the formulation that made everything else cohere.</span>
+        <span class="cy-note">The core practice of Wang Yangming's philosophy. 致 means "to extend" or "to bring to bear fully." The practice is not the construction of moral knowledge through study but the removal of whatever obstructs the 良知 that is always already present. Wang Yangming wrote, late in his life, that 致良知 was the hardest-won insight of his entire philosophical career, the formulation that made everything else cohere.</span>
       </div>
 
       <div class="cy">
         <span class="cy-cn">此心光明，亦复何言</span>
         <span class="cy-py">cǐ xīn guāngmíng, yì fù hé yán</span>
         <span class="cy-en">This mind is luminous — what more is there to say?</span>
-        <span class="cy-note">Wang Yangming's reported last words, spoken in 1529 as he was dying on the road back from a military campaign in Guangxi. When a disciple asked if he had any final instructions, he said only this. The phrase has become one of the most quoted moments in the history of Chinese philosophy: a compressed statement that 良知, the luminous moral mind, is always sufficient — and that its sufficiency requires no further elaboration.</span>
+        <span class="cy-note">Wang Yangming's reported last words, spoken in 1529 as he was dying on the road back from a military campaign in Guangxi. When a disciple asked if he had any final instructions, he said only this. The phrase has become one of the most quoted moments in the history of Chinese philosophy: a compressed statement that 良知, the luminous moral mind, is always sufficient, and that its sufficiency requires no further elaboration.</span>
       </div>
 
     </div>

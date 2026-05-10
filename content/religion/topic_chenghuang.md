@@ -239,7 +239,7 @@ updated: '2026-04-26'
 
     <div class="pattern">
       <span class="label">城隍庙标准空间布局 Standard Temple Layout</span>
-      <strong>山门</strong> shānmén , gateway, often with guardian generals (门神 ménshen) · <strong>前殿</strong> qiándiàn , front hall, with incense burners and fortune-telling alcoves · <strong>正殿</strong> zhèngdiàn , main hall: City God enthroned, flanked by attendants, facing south · <strong>十殿阎罗</strong> shí diàn Yánluó — side chapels for the ten courts of the underworld, with scenes of judgment · <strong>厢房</strong> xiāngfáng — side rooms for subordinate deities (土地公, 文昌帝君, etc.) · <strong>庙会场地</strong> — open space for festival gatherings and opera performances
+      <strong>山门</strong> shānmén , gateway, often with guardian generals (门神 ménshen) · <strong>前殿</strong> qiándiàn , front hall, with incense burners and fortune-telling alcoves · <strong>正殿</strong> zhèngdiàn , main hall: City God enthroned, flanked by attendants, facing south · <strong>十殿阎罗</strong> shí diàn Yánluó: side chapels for the ten courts of the underworld, with scenes of judgment · <strong>厢房</strong> xiāngfáng: side rooms for subordinate deities (土地公, 文昌帝君, etc.) · <strong>庙会场地</strong>: open space for festival gatherings and opera performances
     </div>
 
     <!-- ── RITUAL CALENDAR ── -->
