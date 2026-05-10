@@ -119,14 +119,14 @@ content_review: 'pending'
 
       <div class="card c-teal">
         <div class="card-head">
-          <span class="card-cn">佛说阿弥陀经</span>
+          <span class="card-cn"><a href="topic_amituojing.html">佛说阿弥陀经</a></span>
           <span class="card-py">Fó shuō Āmítuó jīng</span>
           <span class="card-en">the Smaller Sukhāvatīvyūha · ~1,800 characters · Kumārajīva's 402 CE translation</span>
         </div>
         <div class="tags"><span class="tag tag-n">Sūtra · Pure Land</span></div>
         <div class="card-def">
           The short Amitabha Sutra. The daily-recitation text of Pure Land practice. The Buddha describes the Pure Land's adornments to Śāriputra, names the practice (single-minded recollection of Amitābha), and is supported by the buddhas of the six directions affirming the teaching. Short enough to chant in a single sitting; the text most Chinese Pure Land practitioners know by heart.
-          <p style="margin-top:0.6rem; color: var(--ink-5); font-size: var(--fs-sm)"><em>Coming next.</em></p>
+          <p style="margin-top:0.6rem"><a href="topic_amituojing.html">→ Read the full text with audio</a></p>
         </div>
       </div>
 
