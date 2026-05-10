@@ -1,5 +1,106 @@
 [
   {
+    "path": "pages/history/topic_qinchao.html",
+    "type": "topic",
+    "category": "history",
+    "title": "秦朝 · The Qin Dynasty (221–206 BCE)",
+    "desc": "Fifteen years of imperial rule, fifteen centuries of imperial inheritance. The Qin unified the warring states, standardized writing, currency, and roads, built the first long wall, burned the books, and collapsed under the weight of its own apparatus.",
+    "tags": [
+      "history",
+      "dynasty",
+      "qin",
+      "unification",
+      "legalism",
+      "first-emperor",
+      "statecraft"
+    ],
+    "status": "complete",
+    "pinyin": "Qín cháo",
+    "updated": "2026-05-10"
+  },
+  {
+    "path": "pages/vocab/bixu_必须.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "必须 · must, have to (the obligation modal)",
+    "desc": "必须 is the strongest of the everyday modal verbs of obligation: a non-negotiable requirement that the speaker presents as not-up-for-discussion.",
+    "tags": [
+      "modal",
+      "grammar",
+      "register",
+      "syntax"
+    ],
+    "status": "complete",
+    "pinyin": "bìxū",
+    "updated": "2026-05-10"
+  },
+  {
+    "path": "pages/vocab/bore_般若.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "般若 · prajñā; the Buddhist wisdom that sees emptiness",
+    "desc": "般若 is the specific Buddhist wisdom that perceives the emptiness of self and phenomena: not knowledge, not cleverness, but the realization that dissolves clinging at its root.",
+    "tags": [
+      "buddhism",
+      "philosophy",
+      "religion",
+      "classics"
+    ],
+    "status": "complete",
+    "pinyin": "bōrě",
+    "updated": "2026-05-10"
+  },
+  {
+    "path": "pages/vocab/lunyu_论语.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "论语 · The Analects of Confucius",
+    "desc": "The Analects: a thin book of recorded conversations and sayings that became the most quoted text in East Asian civilization, the entry point to Confucian thought, and the textbook of imperial education for two thousand years.",
+    "tags": [
+      "confucianism",
+      "classics",
+      "philosophy",
+      "literature",
+      "analects",
+      "confucius"
+    ],
+    "status": "complete",
+    "pinyin": "Lúnyǔ",
+    "updated": "2026-05-10"
+  },
+  {
+    "path": "pages/vocab/niepan_涅槃.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "涅槃 · Nirvana; the extinction of craving and the end of rebirth",
+    "desc": "涅槃 is the Buddhist soteriological terminus: the extinction of the fires of greed, hatred, and delusion, and the cessation of the karmic cycle that they fuel.",
+    "tags": [
+      "buddhism",
+      "philosophy",
+      "religion",
+      "classics"
+    ],
+    "status": "complete",
+    "pinyin": "nièpán",
+    "updated": "2026-05-10"
+  },
+  {
+    "path": "pages/vocab/wenming_文明.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "文明 · civilization; cultivated and refined",
+    "desc": "文明 names both a state of cultivated life (literacy, ritual, the refined arts) and the global concept of civilization. The two meanings share a single Chinese word, and the doubling is the whole story.",
+    "tags": [
+      "culture",
+      "philosophy",
+      "modern",
+      "history"
+    ],
+    "status": "complete",
+    "pinyin": "wénmíng",
+    "updated": "2026-05-10"
+  },
+  {
     "path": "pages/characters/ming4_命.html",
     "type": "character",
     "category": "characters",
@@ -258,122 +359,5 @@
     "hsk": 5,
     "radical": "亻",
     "updated": "2026-05-04"
-  },
-  {
-    "path": "pages/characters/xing2_行.html",
-    "type": "character",
-    "category": "characters",
-    "title": "行 · to walk, to act, a row, a trade",
-    "desc": "One of the great polyphonic characters: xíng \"to walk; to act; conduct\" and háng \"row; profession; firm.\" A pictograph of a four-way crossroads, the place where walking and the world are organized.",
-    "tags": [
-      "movement",
-      "motion",
-      "ethics"
-    ],
-    "status": "complete",
-    "char": "行",
-    "pinyin": "xíng",
-    "tone": 2,
-    "hsk": {
-      "from": 1,
-      "to": 4
-    },
-    "radical": "行",
-    "updated": "2026-05-04"
-  },
-  {
-    "path": "pages/characters/yan3_眼.html",
-    "type": "character",
-    "category": "characters",
-    "title": "眼 · eye, glance",
-    "desc": "The everyday word for eye, and by extension any small opening, any moment of looking, any judgment made through sight. The body-part counterpart to literary 目.",
-    "tags": [
-      "body",
-      "perception",
-      "measure-words"
-    ],
-    "status": "complete",
-    "char": "眼",
-    "pinyin": "yǎn",
-    "tone": 3,
-    "hsk": 2,
-    "radical": "目",
-    "updated": "2026-05-04"
-  },
-  {
-    "path": "pages/characters/ren4_认.html",
-    "type": "character",
-    "category": "characters",
-    "title": "认 · to recognize, to acknowledge",
-    "desc": "The act of recognition: knowing something for what it is, owning up to it, and the small set of compounds that turn this on the world, on others, and on oneself.",
-    "tags": [
-      "knowing",
-      "mind",
-      "ethics"
-    ],
-    "status": "complete",
-    "char": "认",
-    "pinyin": "rèn",
-    "tone": 4,
-    "hsk": {
-      "from": 1,
-      "to": 3
-    },
-    "radical": "讠",
-    "updated": "2026-04-28"
-  },
-  {
-    "path": "pages/characters/zhen1_真.html",
-    "type": "character",
-    "category": "characters",
-    "title": "真 · real, true, genuine",
-    "desc": "Truth not as accuracy but as authenticity: the unadorned thing itself, prized in Daoist self-cultivation and in everyday emphasis.",
-    "tags": [
-      "knowing",
-      "daoism",
-      "philosophy",
-      "virtue"
-    ],
-    "status": "complete",
-    "char": "真",
-    "pinyin": "zhēn",
-    "tone": 1,
-    "hsk": 2,
-    "radical": "目",
-    "updated": "2026-04-28"
-  },
-  {
-    "path": "pages/vocab/renzhen_认真.html",
-    "type": "vocab",
-    "category": "vocab",
-    "title": "认真 · earnest, conscientious, taking it seriously",
-    "desc": "To recognize the 真 of a thing and engage with it on its own terms: the everyday word for taking work, study, and other people seriously rather than going through motions.",
-    "tags": [
-      "virtue",
-      "ethics",
-      "knowing",
-      "daily-life"
-    ],
-    "status": "complete",
-    "pinyin": "rènzhēn",
-    "updated": "2026-04-28"
-  },
-  {
-    "path": "pages/arts/topic_jingju_roles.html",
-    "type": "topic",
-    "category": "arts",
-    "title": "生旦净末丑 · Role Types in Peking Opera",
-    "desc": "Five role categories, each a complete performance tradition -- voice, movement, makeup, and costume as a total semiotic system.",
-    "tags": [
-      "opera",
-      "theatre",
-      "performance",
-      "culture",
-      "arts",
-      "music"
-    ],
-    "status": "complete",
-    "pinyin": "shēng dàn jìng mò chǒu",
-    "updated": "2026-04-26"
   }
 ]

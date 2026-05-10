@@ -1,5 +1,106 @@
 [
   {
+    "path": "pages/history/topic_qinchao.html",
+    "type": "topic",
+    "category": "history",
+    "title": "秦朝 · The Qin Dynasty (221–206 BCE)",
+    "desc": "Fifteen years of imperial rule, fifteen centuries of imperial inheritance. The Qin unified the warring states, standardized writing, currency, and roads, built the first long wall, burned the books, and collapsed under the weight of its own apparatus.",
+    "tags": [
+      "history",
+      "dynasty",
+      "qin",
+      "unification",
+      "legalism",
+      "first-emperor",
+      "statecraft"
+    ],
+    "status": "complete",
+    "pinyin": "Qín cháo",
+    "updated": "2026-05-10"
+  },
+  {
+    "path": "pages/vocab/bixu_必须.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "必须 · must, have to (the obligation modal)",
+    "desc": "必须 is the strongest of the everyday modal verbs of obligation: a non-negotiable requirement that the speaker presents as not-up-for-discussion.",
+    "tags": [
+      "modal",
+      "grammar",
+      "register",
+      "syntax"
+    ],
+    "status": "complete",
+    "pinyin": "bìxū",
+    "updated": "2026-05-10"
+  },
+  {
+    "path": "pages/vocab/bore_般若.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "般若 · prajñā; the Buddhist wisdom that sees emptiness",
+    "desc": "般若 is the specific Buddhist wisdom that perceives the emptiness of self and phenomena: not knowledge, not cleverness, but the realization that dissolves clinging at its root.",
+    "tags": [
+      "buddhism",
+      "philosophy",
+      "religion",
+      "classics"
+    ],
+    "status": "complete",
+    "pinyin": "bōrě",
+    "updated": "2026-05-10"
+  },
+  {
+    "path": "pages/vocab/lunyu_论语.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "论语 · The Analects of Confucius",
+    "desc": "The Analects: a thin book of recorded conversations and sayings that became the most quoted text in East Asian civilization, the entry point to Confucian thought, and the textbook of imperial education for two thousand years.",
+    "tags": [
+      "confucianism",
+      "classics",
+      "philosophy",
+      "literature",
+      "analects",
+      "confucius"
+    ],
+    "status": "complete",
+    "pinyin": "Lúnyǔ",
+    "updated": "2026-05-10"
+  },
+  {
+    "path": "pages/vocab/niepan_涅槃.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "涅槃 · Nirvana; the extinction of craving and the end of rebirth",
+    "desc": "涅槃 is the Buddhist soteriological terminus: the extinction of the fires of greed, hatred, and delusion, and the cessation of the karmic cycle that they fuel.",
+    "tags": [
+      "buddhism",
+      "philosophy",
+      "religion",
+      "classics"
+    ],
+    "status": "complete",
+    "pinyin": "nièpán",
+    "updated": "2026-05-10"
+  },
+  {
+    "path": "pages/vocab/wenming_文明.html",
+    "type": "vocab",
+    "category": "vocab",
+    "title": "文明 · civilization; cultivated and refined",
+    "desc": "文明 names both a state of cultivated life (literacy, ritual, the refined arts) and the global concept of civilization. The two meanings share a single Chinese word, and the doubling is the whole story.",
+    "tags": [
+      "culture",
+      "philosophy",
+      "modern",
+      "history"
+    ],
+    "status": "complete",
+    "pinyin": "wénmíng",
+    "updated": "2026-05-10"
+  },
+  {
     "path": "pages/characters/ming4_命.html",
     "type": "character",
     "category": "characters",

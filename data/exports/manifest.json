@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-10T07:42:34.383Z",
+  "generated": "2026-05-10T13:02:14.062Z",
   "files": [
     {
       "file": "pleco-characters.txt",
@@ -11,7 +11,7 @@
       "file": "pleco-vocab.txt",
       "format": "pleco",
       "type": "vocab",
-      "count": 72
+      "count": 77
     },
     {
       "file": "pleco-chengyu.txt",
@@ -23,7 +23,7 @@
       "file": "pleco-all.txt",
       "format": "pleco",
       "type": "all",
-      "count": 246
+      "count": 251
     },
     {
       "file": "anki-characters.tsv",
@@ -35,7 +35,7 @@
       "file": "anki-vocab.tsv",
       "format": "anki-tsv",
       "type": "vocab",
-      "count": 72
+      "count": 77
     },
     {
       "file": "anki-chengyu.tsv",
@@ -53,7 +53,7 @@
       "file": "vocab.apkg",
       "format": "anki-apkg",
       "type": "vocab",
-      "count": 72
+      "count": 77
     },
     {
       "file": "chengyu.apkg",
@@ -65,7 +65,7 @@
       "file": "all.apkg",
       "format": "anki-apkg",
       "type": "all",
-      "count": 246
+      "count": 251
     }
   ]
 }
