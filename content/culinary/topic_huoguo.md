@@ -92,7 +92,7 @@ pinyin: 'huǒguō'
       <strong>潮汕牛肉火锅 Chaoshan Beef Hotpot</strong> → Guangdong's premium expression; fresh-slaughtered beef presented within hours of butchering, sliced to translucency; clear broth that would interfere with the beef's own flavor; eaten plain or with soy and ginger<br>
       <strong>云南菌菇火锅 Yunnan Mushroom Hotpot</strong> → Wild mushroom broth of extraordinary depth; available only in season when Yunnan's mountain forests produce their extraordinary range of wild fungi; lighter and aromatic<br>
       <strong>海鲜火锅 Seafood Hotpot</strong> → Coastal styles from Fujian and Guangdong; clear broth; live shellfish, fish fillets, crab; the freshness philosophy applied to the communal pot<br>
-      <strong>鸳鸯锅 Yuānyāng Guō · Split Pot</strong> → The divided pot with mala broth on one side and clear broth on the other, accommodating diners with different heat tolerance — ubiquitous in contemporary chain restaurants
+      <strong>鸳鸯锅 Yuānyāng Guō · Split Pot</strong> → The divided pot with mala broth on one side and clear broth on the other, accommodating diners with different heat tolerance; ubiquitous in contemporary chain restaurants
     </div>
 
     <span class="section-anchor" id="broth"></span>
@@ -146,7 +146,7 @@ pinyin: 'huǒguō'
         <span class="card-py">zhànliào</span>
         <span class="card-en">dipping sauce; the condiment mix</span>
         <span class="tag-n">n.</span>
-        <p>The personalized dipping sauce composed by each diner at a sauce station — one of hotpot's distinguishing features. Options typically include sesame paste (麻酱 májiàng), soy sauce, vinegar, oyster sauce, garlic, scallion, chili oil, fermented tofu, and sesame oil. Each person's 蘸料 composition is a small self-portrait of their flavor preferences. Comparing 蘸料 compositions is a legitimate topic of conversation at the hotpot table.</p>
+        <p>The personalized dipping sauce composed by each diner at a sauce station: one of hotpot's distinguishing features. Options typically include sesame paste (麻酱 májiàng), soy sauce, vinegar, oyster sauce, garlic, scallion, chili oil, fermented tofu, and sesame oil. Each person's 蘸料 composition is a small self-portrait of their flavor preferences. Comparing 蘸料 compositions is a legitimate topic of conversation at the hotpot table.</p>
       </div>
       <div class="card c-teal">
         <span class="card-cn">涮</span>

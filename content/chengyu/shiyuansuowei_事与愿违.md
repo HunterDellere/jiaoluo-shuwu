@@ -127,7 +127,7 @@ updated: '2026-04-25'
       </div>
       <div class="card c-teal">
         <div class="card-head">With the acceptance frame</div>
-        <p>人生中事与愿违的时候很多，尽人事，听天命，才能保持内心的平静。(Rénshēng zhōng shì yǔ yuàn wéi de shíhòu hěn duō, jìn rén shì, tīng tiānmìng, cái néng bǎochí nèixīn de píngjìng.) — In life, things often go contrary to one's wishes. Do what you can as a human and accept the decree of Heaven — only then can you maintain inner calm.</p>
+        <p>人生中事与愿违的时候很多，尽人事，听天命，才能保持内心的平静。(Rénshēng zhōng shì yǔ yuàn wéi de shíhòu hěn duō, jìn rén shì, tīng tiānmìng, cái néng bǎochí nèixīn de píngjìng.) — In life, things often go contrary to one's wishes. Do what you can as a human and accept the decree of Heaven; only then can you maintain inner calm.</p>
       </div>
     </div>
 
@@ -145,7 +145,7 @@ updated: '2026-04-25'
         <span class="cy-cn">如愿以偿</span>
         <span class="cy-py">rú yuàn yǐ cháng</span>
         <span class="cy-en">to achieve one's wish; things went as hoped</span>
-        <span class="cy-note">The positive counterpart: wishes fulfilled, intention and outcome aligned. 如愿以偿 and 事与愿违 are natural antonyms — the same structure (relation of wish to outcome) with opposite results. Pairing them in commentary about uncertain situations (whether things went well or not) is a common rhetorical move.</span>
+        <span class="cy-note">The positive counterpart: wishes fulfilled, intention and outcome aligned. 如愿以偿 and 事与愿违 are natural antonyms: the same structure (relation of wish to outcome) with opposite results. Pairing them in commentary about uncertain situations (whether things went well or not) is a common rhetorical move.</span>
       </div>
       <div class="cy">
         <span class="cy-cn">事倍功半</span>
