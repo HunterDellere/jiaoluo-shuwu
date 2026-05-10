@@ -43,7 +43,7 @@ content_sources:
       <span class="topic-hero-eyebrow">Language · 语言 yǔyán</span>
       <h1 class="topic-hero-title">拼音</h1>
       <span class="topic-hero-title-py">pīn yīn</span>
-      <p class="topic-hero-desc">Pinyin is the official system for romanizing Mandarin Chinese — a pronunciation scaffold that maps syllables to the Latin alphabet. It is used to teach pronunciation, drive digital input, and appear in dictionaries alongside characters.</p>
+      <p class="topic-hero-desc">Pinyin is the official system for romanizing Mandarin Chinese: a pronunciation scaffold that maps syllables to the Latin alphabet. It is used to teach pronunciation, drive digital input, and appear in dictionaries alongside characters.</p>
     </header>
 
     <span class="section-anchor" id="what"></span>
@@ -122,7 +122,7 @@ content_sources:
 
       <div class="card c-red">
         <div class="card-hanzi">zh, ch, sh</div>
-        <div class="card-pinyin">retroflex — tongue tip curled back</div>
+        <div class="card-pinyin">retroflex, tongue tip curled back</div>
         <div class="card-en">NOT the same as j, q, x</div>
         <div class="card-note">The retroflex series (zh ch sh r) is produced with the tongue tip curled back toward the palate. Distinct from j q x which use the tongue tip down. 中 zhōng vs 精 jīng: different tongue positions entirely.</div>
       </div>
@@ -137,7 +137,7 @@ content_sources:
       <div class="card c-ochre">
         <div class="card-hanzi">ui / iu</div>
         <div class="card-pinyin">uei / iou (full form)</div>
-        <div class="card-en">abbreviated finals — the middle vowel is dropped in writing</div>
+        <div class="card-en">abbreviated finals, the middle vowel is dropped in writing</div>
         <div class="card-note">ui is actually uei with the e dropped: 对 duì is really du-ei. iu is actually iou with the o dropped: 六 liù is really li-ou. The full vowels are present in pronunciation.</div>
       </div>
 

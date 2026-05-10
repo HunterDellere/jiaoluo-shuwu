@@ -289,10 +289,10 @@ content_review: 'pending'
 
     <div class="scholar" data-glyph="菩">
       <div class="scholar-label">记忆钩 jìyì gōu · Retention Image</div>
-      <p>Picture the bodhisattva standing at the entrance to nirvana — the final dissolution of suffering, the door every practitioner on the path orients toward. The door is open. They have earned the passage through lifetimes of practice. They could walk through.</p>
+      <p>Picture the bodhisattva standing at the entrance to nirvana: the final dissolution of suffering, the door every practitioner on the path orients toward. The door is open. They have earned the passage through lifetimes of practice. They could walk through.</p>
       <p>They turn back.</p>
-      <p>The turning is the defining gesture. It is the vow made tangible: they will stand at that threshold, indefinitely, calling back to the beings still lost in the cycle — until the last one is ready. Then they will enter together.</p>
-      <p>菩萨 is the one who turns back. 菩提 is the awakening they have reached. 萨 is the being they remain — still in the world, still in motion, still helping. The character holds both: the attainment (菩提) and the continued being (萨). Awakening-that-stays.</p>
+      <p>The turning is the defining gesture. It is the vow made tangible: they will stand at that threshold, indefinitely, calling back to the beings still lost in the cycle, until the last one is ready. Then they will enter together.</p>
+      <p>菩萨 is the one who turns back. 菩提 is the awakening they have reached. 萨 is the being they remain: still in the world, still in motion, still helping. The character holds both: the attainment (菩提) and the continued being (萨). Awakening-that-stays.</p>
     </div>
 
     <footer class="page-footer">
