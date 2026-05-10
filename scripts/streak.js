@@ -15,6 +15,7 @@
  *     lastDayKey: 'YYYY-MM-DD',     // local-calendar last visit
  *     firstDayKey: 'YYYY-MM-DD',    // first visit ever
  *     totalDays: <number>,          // distinct days visited (lifetime)
+ *     recentDays: ['YYYY-MM-DD',…], // last 60 distinct days visited (newest first)
  *     deviceId: '<rand>',           // generated once; future cloud sync handle
  *     updatedAt: '<ISO>'            // last write
  *   })
@@ -68,9 +69,24 @@
       lastDayKey: legacyLast,
       firstDayKey: legacyLast,
       totalDays: legacyStreak > 0 ? legacyStreak : 0,
+      recentDays: legacyLast ? [legacyLast] : [],
       deviceId: makeDeviceId(),
       updatedAt: new Date().toISOString()
     };
+  }
+
+  // Visit history kept as an array of distinct day keys, newest first,
+  // capped at RECENT_CAP. We don't store more than this — the dot-grid
+  // visualisation only needs the last 14–30 days, and a tighter cap keeps
+  // the localStorage record small (~1 KB worst case).
+  var RECENT_CAP = 60;
+  function pushRecentDay(state, dayKey) {
+    if (!Array.isArray(state.recentDays)) state.recentDays = [];
+    if (state.recentDays[0] === dayKey) return;
+    state.recentDays.unshift(dayKey);
+    if (state.recentDays.length > RECENT_CAP) {
+      state.recentDays.length = RECENT_CAP;
+    }
   }
 
   function write(state) {
@@ -81,14 +97,18 @@
     var state = read();
     var diff = diffInLocalDays(state.lastDayKey, localKey);
     if (diff === 0) {
-      // Already counted today.
+      // Already counted today — but make sure recentDays is populated for
+      // sessions that pre-date this field (post-migration).
+      pushRecentDay(state, localKey);
     } else if (diff === 1) {
       state.current = (state.current || 0) + 1;
       state.totalDays = (state.totalDays || 0) + 1;
+      pushRecentDay(state, localKey);
     } else {
       state.current = 1;
       state.totalDays = (state.totalDays || 0) + 1;
       if (!state.firstDayKey) state.firstDayKey = localKey;
+      pushRecentDay(state, localKey);
     }
     if (!state.firstDayKey) state.firstDayKey = localKey;
     if (state.current > (state.longest || 0)) state.longest = state.current;
