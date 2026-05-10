@@ -7430,6 +7430,24 @@
           "pinyin": "Xīnjīng"
         }
       }
+    },
+    "pages/religion/topic_amituojing.html": {
+      "voices": {
+        "xiaoxiao": {
+          "hash": "36d7de1fab76",
+          "path": "audio/religion/topic_amituojing-xiaoxiao.mp3",
+          "bytes": 10512,
+          "text": "阿弥陀经",
+          "pinyin": "Āmítuó jīng"
+        },
+        "yunxi": {
+          "hash": "4f184b19ad2a",
+          "path": "audio/religion/topic_amituojing-yunxi.mp3",
+          "bytes": 12816,
+          "text": "阿弥陀经",
+          "pinyin": "Āmítuó jīng"
+        }
+      }
     }
   },
   "inline": {
@@ -35114,7 +35132,7 @@
     "40820943ad431c2e": {
       "text": "念佛",
       "pinyin": "niànfó",
-      "kind": "compound",
+      "kind": "section",
       "voices": {
         "xiaoxiao": {
           "hash": "186764586e44",
@@ -87860,6 +87878,174 @@
           "bytes": 55008,
           "text": "故说般若波罗蜜多咒，即说咒曰：揭谛揭谛，波罗揭谛，波罗僧揭谛，菩提萨婆诃。",
           "pinyin": "Gù shuō bō rě bō luó mì duō zhòu, jí shuō zhòu yuē: Jiē dì jiē dì, bō luó jiē dì, bō luó sēng jiē dì, pú tí sà pó hē."
+        }
+      }
+    },
+    "642bb55fed1d4011": {
+      "text": "如是我闻。一时佛在舍卫国祇树给孤独园，与大比丘僧千二百五十人俱，皆是大阿罗汉，众所知识。",
+      "pinyin": "Rú shì wǒ wén. Yī shí fó zài Shèwèiguó Qíshù Gěigūdú yuán, yǔ dà bǐqiū sēng qiān èr bǎi wǔ shí rén jù, jiē shì dà ā luó hàn, zhòng suǒ zhī shí.",
+      "kind": "passage",
+      "voices": {
+        "xiaoxiao": {
+          "hash": "2fb9d0f56cda",
+          "path": "audio/inline/642bb55fed1d4011-xiaoxiao.mp3",
+          "bytes": 66816,
+          "text": "如是我闻。一时佛在舍卫国祇树给孤独园，与大比丘僧千二百五十人俱，皆是大阿罗汉，众所知识。",
+          "pinyin": "Rú shì wǒ wén. Yī shí fó zài Shèwèiguó Qíshù Gěigūdú yuán, yǔ dà bǐqiū sēng qiān èr bǎi wǔ shí rén jù, jiē shì dà ā luó hàn, zhòng suǒ zhī shí."
+        },
+        "yunxi": {
+          "hash": "9ce0c7aa8c73",
+          "path": "audio/inline/642bb55fed1d4011-yunxi.mp3",
+          "bytes": 62784,
+          "text": "如是我闻。一时佛在舍卫国祇树给孤独园，与大比丘僧千二百五十人俱，皆是大阿罗汉，众所知识。",
+          "pinyin": "Rú shì wǒ wén. Yī shí fó zài Shèwèiguó Qíshù Gěigūdú yuán, yǔ dà bǐqiū sēng qiān èr bǎi wǔ shí rén jù, jiē shì dà ā luó hàn, zhòng suǒ zhī shí."
+        }
+      }
+    },
+    "4856deddc8f24d9b": {
+      "text": "尔时佛告长老舍利弗：从是西方过十万亿佛土，有世界名曰极乐。其土有佛，号阿弥陀，今现在说法。",
+      "pinyin": "Ěr shí fó gào zhǎnglǎo Shèlìfú: cóng shì xīfāng guò shí wàn yì fó tǔ, yǒu shìjiè míng yuē Jílè. Qí tǔ yǒu fó, hào Āmítuó, jīn xiànzài shuōfǎ.",
+      "kind": "passage",
+      "voices": {
+        "xiaoxiao": {
+          "hash": "c9e327dc65fc",
+          "path": "audio/inline/4856deddc8f24d9b-xiaoxiao.mp3",
+          "bytes": 67824,
+          "text": "尔时佛告长老舍利弗：从是西方过十万亿佛土，有世界名曰极乐。其土有佛，号阿弥陀，今现在说法。",
+          "pinyin": "Ěr shí fó gào zhǎnglǎo Shèlìfú: cóng shì xīfāng guò shí wàn yì fó tǔ, yǒu shìjiè míng yuē Jílè. Qí tǔ yǒu fó, hào Āmítuó, jīn xiànzài shuōfǎ."
+        },
+        "yunxi": {
+          "hash": "9b7647715a74",
+          "path": "audio/inline/4856deddc8f24d9b-yunxi.mp3",
+          "bytes": 65232,
+          "text": "尔时佛告长老舍利弗：从是西方过十万亿佛土，有世界名曰极乐。其土有佛，号阿弥陀，今现在说法。",
+          "pinyin": "Ěr shí fó gào zhǎnglǎo Shèlìfú: cóng shì xīfāng guò shí wàn yì fó tǔ, yǒu shìjiè míng yuē Jílè. Qí tǔ yǒu fó, hào Āmítuó, jīn xiànzài shuōfǎ."
+        }
+      }
+    },
+    "c28e3ccc095915f2": {
+      "text": "舍利弗，彼土何故名为极乐？其国众生，无有众苦，但受诸乐，故名极乐。又舍利弗，极乐国土，七重栏楯，七重罗网，七重行树，皆是四宝周匝围绕，是故彼国名为极乐。",
+      "pinyin": "Shèlìfú, bǐ tǔ hégù míng wéi Jílè? Qí guó zhòngshēng, wú yǒu zhòng kǔ, dàn shòu zhū lè, gù míng Jílè. Yòu Shèlìfú, Jílè guótǔ, qī chóng lán shǔn, qī chóng luó wǎng, qī chóng háng shù, jiē shì sì bǎo zhōu zā wéirào, shì gù bǐ guó míng wéi Jílè.",
+      "kind": "passage",
+      "voices": {
+        "xiaoxiao": {
+          "hash": "ff85bb373bfb",
+          "path": "audio/inline/c28e3ccc095915f2-xiaoxiao.mp3",
+          "bytes": 117072,
+          "text": "舍利弗，彼土何故名为极乐？其国众生，无有众苦，但受诸乐，故名极乐。又舍利弗，极乐国土，七重栏楯，七重罗网，七重行树，皆是四宝周匝围绕，是故彼国名为极乐。",
+          "pinyin": "Shèlìfú, bǐ tǔ hégù míng wéi Jílè? Qí guó zhòngshēng, wú yǒu zhòng kǔ, dàn shòu zhū lè, gù míng Jílè. Yòu Shèlìfú, Jílè guótǔ, qī chóng lán shǔn, qī chóng luó wǎng, qī chóng háng shù, jiē shì sì bǎo zhōu zā wéirào, shì gù bǐ guó míng wéi Jílè."
+        },
+        "yunxi": {
+          "hash": "e59e2cc805fc",
+          "path": "audio/inline/c28e3ccc095915f2-yunxi.mp3",
+          "bytes": 117360,
+          "text": "舍利弗，彼土何故名为极乐？其国众生，无有众苦，但受诸乐，故名极乐。又舍利弗，极乐国土，七重栏楯，七重罗网，七重行树，皆是四宝周匝围绕，是故彼国名为极乐。",
+          "pinyin": "Shèlìfú, bǐ tǔ hégù míng wéi Jílè? Qí guó zhòngshēng, wú yǒu zhòng kǔ, dàn shòu zhū lè, gù míng Jílè. Yòu Shèlìfú, Jílè guótǔ, qī chóng lán shǔn, qī chóng luó wǎng, qī chóng háng shù, jiē shì sì bǎo zhōu zā wéirào, shì gù bǐ guó míng wéi Jílè."
+        }
+      }
+    },
+    "5a2ce8da9ab544a3": {
+      "text": "又舍利弗，极乐国土，有七宝池，八功德水充满其中，池底纯以金沙布地。四边阶道，金、银、琉璃、玻璃合成。上有楼阁，亦以金、银、琉璃、玻璃、砗磲、赤珠、玛瑙而严饰之。池中莲华，大如车轮，青色青光，黄色黄光，赤色赤光，白色白光，微妙香洁。",
+      "pinyin": "Yòu Shèlìfú, Jílè guótǔ, yǒu qī bǎo chí, bā gōng dé shuǐ chōngmǎn qí zhōng, chí dǐ chún yǐ jīn shā bù dì. Sì biān jiē dào, jīn, yín, liúlí, bōli héchéng. Shàng yǒu lóugé, yì yǐ jīn, yín, liúlí, bōli, chēqú, chì zhū, mǎnǎo ér yán shì zhī. Chí zhōng liánhuá, dà rú chē lún, qīng sè qīng guāng, huáng sè huáng guāng, chì sè chì guāng, bái sè bái guāng, wēi miào xiāng jié.",
+      "kind": "passage",
+      "voices": {
+        "xiaoxiao": {
+          "hash": "b003a00d7428",
+          "path": "audio/inline/5a2ce8da9ab544a3-xiaoxiao.mp3",
+          "bytes": 183600,
+          "text": "又舍利弗，极乐国土，有七宝池，八功德水充满其中，池底纯以金沙布地。四边阶道，金、银、琉璃、玻璃合成。上有楼阁，亦以金、银、琉璃、玻璃、砗磲、赤珠、玛瑙而严饰之。池中莲华，大如车轮，青色青光，黄色黄光，赤色赤光，白色白光，微妙香洁。",
+          "pinyin": "Yòu Shèlìfú, Jílè guótǔ, yǒu qī bǎo chí, bā gōng dé shuǐ chōngmǎn qí zhōng, chí dǐ chún yǐ jīn shā bù dì. Sì biān jiē dào, jīn, yín, liúlí, bōli héchéng. Shàng yǒu lóugé, yì yǐ jīn, yín, liúlí, bōli, chēqú, chì zhū, mǎnǎo ér yán shì zhī. Chí zhōng liánhuá, dà rú chē lún, qīng sè qīng guāng, huáng sè huáng guāng, chì sè chì guāng, bái sè bái guāng, wēi miào xiāng jié."
+        },
+        "yunxi": {
+          "hash": "111ed4130b2a",
+          "path": "audio/inline/5a2ce8da9ab544a3-yunxi.mp3",
+          "bytes": 194688,
+          "text": "又舍利弗，极乐国土，有七宝池，八功德水充满其中，池底纯以金沙布地。四边阶道，金、银、琉璃、玻璃合成。上有楼阁，亦以金、银、琉璃、玻璃、砗磲、赤珠、玛瑙而严饰之。池中莲华，大如车轮，青色青光，黄色黄光，赤色赤光，白色白光，微妙香洁。",
+          "pinyin": "Yòu Shèlìfú, Jílè guótǔ, yǒu qī bǎo chí, bā gōng dé shuǐ chōngmǎn qí zhōng, chí dǐ chún yǐ jīn shā bù dì. Sì biān jiē dào, jīn, yín, liúlí, bōli héchéng. Shàng yǒu lóugé, yì yǐ jīn, yín, liúlí, bōli, chēqú, chì zhū, mǎnǎo ér yán shì zhī. Chí zhōng liánhuá, dà rú chē lún, qīng sè qīng guāng, huáng sè huáng guāng, chì sè chì guāng, bái sè bái guāng, wēi miào xiāng jié."
+        }
+      }
+    },
+    "7b7fda9c7f4c1ca6": {
+      "text": "复次舍利弗，彼国常有种种奇妙杂色之鸟：白鹤、孔雀、鹦鹉、舍利、迦陵频伽、共命之鸟。是诸众鸟，昼夜六时，出和雅音。其音演畅五根、五力、七菩提分、八圣道分如是等法。其土众生闻是音已，皆悉念佛、念法、念僧。",
+      "pinyin": "Fùcì Shèlìfú, bǐ guó cháng yǒu zhǒngzhǒng qí miào zá sè zhī niǎo: báihè, kǒngquè, yīngwǔ, shèlì, jiā líng pín jiā, gòng mìng zhī niǎo. Shì zhū zhòng niǎo, zhòu yè liù shí, chū hé yǎ yīn. Qí yīn yǎn chàng wǔ gēn, wǔ lì, qī pútí fēn, bā shèng dào fēn rú shì děng fǎ. Qí tǔ zhòngshēng wén shì yīn yǐ, jiē xī niàn fó, niàn fǎ, niàn sēng.",
+      "kind": "passage",
+      "voices": {
+        "xiaoxiao": {
+          "hash": "0a66563bc16f",
+          "path": "audio/inline/7b7fda9c7f4c1ca6-xiaoxiao.mp3",
+          "bytes": 156384,
+          "text": "复次舍利弗，彼国常有种种奇妙杂色之鸟：白鹤、孔雀、鹦鹉、舍利、迦陵频伽、共命之鸟。是诸众鸟，昼夜六时，出和雅音。其音演畅五根、五力、七菩提分、八圣道分如是等法。其土众生闻是音已，皆悉念佛、念法、念僧。",
+          "pinyin": "Fùcì Shèlìfú, bǐ guó cháng yǒu zhǒngzhǒng qí miào zá sè zhī niǎo: báihè, kǒngquè, yīngwǔ, shèlì, jiā líng pín jiā, gòng mìng zhī niǎo. Shì zhū zhòng niǎo, zhòu yè liù shí, chū hé yǎ yīn. Qí yīn yǎn chàng wǔ gēn, wǔ lì, qī pútí fēn, bā shèng dào fēn rú shì děng fǎ. Qí tǔ zhòngshēng wén shì yīn yǐ, jiē xī niàn fó, niàn fǎ, niàn sēng."
+        },
+        "yunxi": {
+          "hash": "a24d9bc13d92",
+          "path": "audio/inline/7b7fda9c7f4c1ca6-yunxi.mp3",
+          "bytes": 165744,
+          "text": "复次舍利弗，彼国常有种种奇妙杂色之鸟：白鹤、孔雀、鹦鹉、舍利、迦陵频伽、共命之鸟。是诸众鸟，昼夜六时，出和雅音。其音演畅五根、五力、七菩提分、八圣道分如是等法。其土众生闻是音已，皆悉念佛、念法、念僧。",
+          "pinyin": "Fùcì Shèlìfú, bǐ guó cháng yǒu zhǒngzhǒng qí miào zá sè zhī niǎo: báihè, kǒngquè, yīngwǔ, shèlì, jiā líng pín jiā, gòng mìng zhī niǎo. Shì zhū zhòng niǎo, zhòu yè liù shí, chū hé yǎ yīn. Qí yīn yǎn chàng wǔ gēn, wǔ lì, qī pútí fēn, bā shèng dào fēn rú shì děng fǎ. Qí tǔ zhòngshēng wén shì yīn yǐ, jiē xī niàn fó, niàn fǎ, niàn sēng."
+        }
+      }
+    },
+    "5caedf912f56bb40": {
+      "text": "舍利弗，于汝意云何？彼佛何故号阿弥陀？舍利弗，彼佛光明无量，照十方国，无所障碍，是故号为阿弥陀。又舍利弗，彼佛寿命，及其人民，无量无边阿僧祇劫，故名阿弥陀。",
+      "pinyin": "Shèlìfú, yú rǔ yì yún hé? Bǐ fó hégù hào Āmítuó? Shèlìfú, bǐ fó guāngmíng wúliàng, zhào shí fāng guó, wú suǒ zhàng ài, shì gù hào wéi Āmítuó. Yòu Shèlìfú, bǐ fó shòu mìng, jí qí rénmín, wúliàng wúbiān ā sēng qí jié, gù míng Āmítuó.",
+      "kind": "passage",
+      "voices": {
+        "xiaoxiao": {
+          "hash": "94ad5d6fd38a",
+          "path": "audio/inline/5caedf912f56bb40-xiaoxiao.mp3",
+          "bytes": 120384,
+          "text": "舍利弗，于汝意云何？彼佛何故号阿弥陀？舍利弗，彼佛光明无量，照十方国，无所障碍，是故号为阿弥陀。又舍利弗，彼佛寿命，及其人民，无量无边阿僧祇劫，故名阿弥陀。",
+          "pinyin": "Shèlìfú, yú rǔ yì yún hé? Bǐ fó hégù hào Āmítuó? Shèlìfú, bǐ fó guāngmíng wúliàng, zhào shí fāng guó, wú suǒ zhàng ài, shì gù hào wéi Āmítuó. Yòu Shèlìfú, bǐ fó shòu mìng, jí qí rénmín, wúliàng wúbiān ā sēng qí jié, gù míng Āmítuó."
+        },
+        "yunxi": {
+          "hash": "39e6f693133c",
+          "path": "audio/inline/5caedf912f56bb40-yunxi.mp3",
+          "bytes": 120384,
+          "text": "舍利弗，于汝意云何？彼佛何故号阿弥陀？舍利弗，彼佛光明无量，照十方国，无所障碍，是故号为阿弥陀。又舍利弗，彼佛寿命，及其人民，无量无边阿僧祇劫，故名阿弥陀。",
+          "pinyin": "Shèlìfú, yú rǔ yì yún hé? Bǐ fó hégù hào Āmítuó? Shèlìfú, bǐ fó guāngmíng wúliàng, zhào shí fāng guó, wú suǒ zhàng ài, shì gù hào wéi Āmítuó. Yòu Shèlìfú, bǐ fó shòu mìng, jí qí rénmín, wúliàng wúbiān ā sēng qí jié, gù míng Āmítuó."
+        }
+      }
+    },
+    "ea6a2eaba3cce13f": {
+      "text": "舍利弗，若有善男子善女人，闻说阿弥陀佛，执持名号，若一日、若二日、若三日、若四日、若五日、若六日、若七日，一心不乱。其人临命终时，阿弥陀佛与诸圣众现在其前，是人终时，心不颠倒，即得往生阿弥陀佛极乐国土。",
+      "pinyin": "Shèlìfú, ruò yǒu shàn nán zǐ shàn nǚ rén, wén shuō Āmítuó fó, zhí chí míng hào, ruò yī rì, ruò èr rì, ruò sān rì, ruò sì rì, ruò wǔ rì, ruò liù rì, ruò qī rì, yī xīn bú luàn. Qí rén lín mìng zhōng shí, Āmítuó fó yǔ zhū shèng zhòng xiàn zài qí qián, shì rén zhōng shí, xīn bù diāndǎo, jí dé wǎngshēng Āmítuó fó Jílè guótǔ.",
+      "kind": "passage",
+      "voices": {
+        "xiaoxiao": {
+          "hash": "76aa230f3037",
+          "path": "audio/inline/ea6a2eaba3cce13f-xiaoxiao.mp3",
+          "bytes": 149328,
+          "text": "舍利弗，若有善男子善女人，闻说阿弥陀佛，执持名号，若一日、若二日、若三日、若四日、若五日、若六日、若七日，一心不乱。其人临命终时，阿弥陀佛与诸圣众现在其前，是人终时，心不颠倒，即得往生阿弥陀佛极乐国土。",
+          "pinyin": "Shèlìfú, ruò yǒu shàn nán zǐ shàn nǚ rén, wén shuō Āmítuó fó, zhí chí míng hào, ruò yī rì, ruò èr rì, ruò sān rì, ruò sì rì, ruò wǔ rì, ruò liù rì, ruò qī rì, yī xīn bú luàn. Qí rén lín mìng zhōng shí, Āmítuó fó yǔ zhū shèng zhòng xiàn zài qí qián, shì rén zhōng shí, xīn bù diāndǎo, jí dé wǎngshēng Āmítuó fó Jílè guótǔ."
+        },
+        "yunxi": {
+          "hash": "efb24c6e9d5d",
+          "path": "audio/inline/ea6a2eaba3cce13f-yunxi.mp3",
+          "bytes": 148320,
+          "text": "舍利弗，若有善男子善女人，闻说阿弥陀佛，执持名号，若一日、若二日、若三日、若四日、若五日、若六日、若七日，一心不乱。其人临命终时，阿弥陀佛与诸圣众现在其前，是人终时，心不颠倒，即得往生阿弥陀佛极乐国土。",
+          "pinyin": "Shèlìfú, ruò yǒu shàn nán zǐ shàn nǚ rén, wén shuō Āmítuó fó, zhí chí míng hào, ruò yī rì, ruò èr rì, ruò sān rì, ruò sì rì, ruò wǔ rì, ruò liù rì, ruò qī rì, yī xīn bú luàn. Qí rén lín mìng zhōng shí, Āmítuó fó yǔ zhū shèng zhòng xiàn zài qí qián, shì rén zhōng shí, xīn bù diāndǎo, jí dé wǎngshēng Āmítuó fó Jílè guótǔ."
+        }
+      }
+    },
+    "d9db95e81e49f101": {
+      "text": "舍利弗，如我今者赞叹阿弥陀佛不可思议功德之利，东方亦有阿閦鞞佛、须弥相佛、大须弥佛、须弥光佛、妙音佛，如是等恒河沙数诸佛，各于其国，出广长舌相，遍覆三千大千世界，说诚实言：汝等众生，当信是称赞不可思议功德一切诸佛所护念经。",
+      "pinyin": "Shèlìfú, rú wǒ jīn zhě zàntàn Āmítuó fó bù kě sī yì gōngdé zhī lì, dōng fāng yì yǒu Ā chù bǐ fó, Xūmí xiàng fó, Dà Xūmí fó, Xūmí guāng fó, Miào yīn fó, rú shì děng héng hé shā shù zhū fó, gè yú qí guó, chū guǎng cháng shé xiàng, biàn fù sān qiān dà qiān shìjiè, shuō chéngshí yán: rǔ děng zhòngshēng, dāng xìn shì chēngzàn bù kě sī yì gōngdé yīqiè zhū fó suǒ hù niàn jīng.",
+      "kind": "passage",
+      "voices": {
+        "xiaoxiao": {
+          "hash": "3dcf6949c280",
+          "path": "audio/inline/d9db95e81e49f101-xiaoxiao.mp3",
+          "bytes": 163296,
+          "text": "舍利弗，如我今者赞叹阿弥陀佛不可思议功德之利，东方亦有阿閦鞞佛、须弥相佛、大须弥佛、须弥光佛、妙音佛，如是等恒河沙数诸佛，各于其国，出广长舌相，遍覆三千大千世界，说诚实言：汝等众生，当信是称赞不可思议功德一切诸佛所护念经。",
+          "pinyin": "Shèlìfú, rú wǒ jīn zhě zàntàn Āmítuó fó bù kě sī yì gōngdé zhī lì, dōng fāng yì yǒu Ā chù bǐ fó, Xūmí xiàng fó, Dà Xūmí fó, Xūmí guāng fó, Miào yīn fó, rú shì děng héng hé shā shù zhū fó, gè yú qí guó, chū guǎng cháng shé xiàng, biàn fù sān qiān dà qiān shìjiè, shuō chéngshí yán: rǔ děng zhòngshēng, dāng xìn shì chēngzàn bù kě sī yì gōngdé yīqiè zhū fó suǒ hù niàn jīng."
+        },
+        "yunxi": {
+          "hash": "d3b839ab0cfb",
+          "path": "audio/inline/d9db95e81e49f101-yunxi.mp3",
+          "bytes": 155232,
+          "text": "舍利弗，如我今者赞叹阿弥陀佛不可思议功德之利，东方亦有阿閦鞞佛、须弥相佛、大须弥佛、须弥光佛、妙音佛，如是等恒河沙数诸佛，各于其国，出广长舌相，遍覆三千大千世界，说诚实言：汝等众生，当信是称赞不可思议功德一切诸佛所护念经。",
+          "pinyin": "Shèlìfú, rú wǒ jīn zhě zàntàn Āmítuó fó bù kě sī yì gōngdé zhī lì, dōng fāng yì yǒu Ā chù bǐ fó, Xūmí xiàng fó, Dà Xūmí fó, Xūmí guāng fó, Miào yīn fó, rú shì děng héng hé shā shù zhū fó, gè yú qí guó, chū guǎng cháng shé xiàng, biàn fù sān qiān dà qiān shìjiè, shuō chéngshí yán: rǔ děng zhòngshēng, dāng xìn shì chēngzàn bù kě sī yì gōngdé yīqiè zhū fó suǒ hù niàn jīng."
         }
       }
     }
