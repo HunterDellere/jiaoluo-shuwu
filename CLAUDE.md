@@ -7,6 +7,16 @@ Run locally: `python3 -m http.server 8080` from the repo root (after running `np
 
 ---
 
+## Voice rule: no em-dashes in body prose
+
+**Do not use `—` (em-dash) anywhere in body prose.** The validator (`build/validate-formatting.mjs`) enforces a budget of 0 as an ERROR; any em-dash introduced into body prose blocks `npm run verify` and the pre-push hook. Em-dashes are the single clearest AI tell.
+
+When you would reach for `—`, use a comma, semicolon, colon, parenthetical, or sentence split instead. The full guidance lives in `templates/_drafting/VOICE.md`.
+
+The only `—` the validator allows is the gloss separator after a Chinese sentence in inline examples: `中文句子。 — English translation`. Everywhere else, including hero descriptions, scholar/retention prose, card definitions, cy-notes, ex-en translations, table cells, and adj chip glosses, rewrite.
+
+---
+
 ## Build System
 
 ```
