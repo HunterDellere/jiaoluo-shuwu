@@ -1,5 +1,5 @@
 {
-  "_note": "House style: one canonical English-context romanization per Chinese proper noun. The validator (build/validate-cross-references.mjs) flags any other romanization as a WARN. Tone marks are dropped in the canonical form for readability across long prose; the toned form remains valid in pinyin glosses (.sh-py, .card-py, .a-py — all stripped from validation). Add an entry only when the corpus shows variant spellings worth normalizing.",
+  "_note": "House style for Chinese proper nouns. Each CN entry has a `canonical` form (the primary spelling we prefer) and an `also_acceptable` list (forms we tolerate without comment — typically the well-known English title alongside the Mandarin pinyin). The validator (build/validate-cross-references.mjs) only WARNs on spellings that are neither canonical nor acceptable — typically toned-pinyin forms in body prose where the untoned form should be used (toned forms are appropriate inside .sh-py / .card-py / .a-py spans, all of which the validator strips before checking). Add a new entry when the corpus shows variant spellings worth normalizing.",
 
   "canonical": {
     "道德经": "Daodejing",
@@ -20,17 +20,21 @@
     "红楼梦": "Dream of the Red Chamber"
   },
 
-  "variants": {
-    "道德经": ["Dào Dé Jīng", "Dao De Jing", "Tao Te Ching", "Daodejing"],
-    "论语": ["Lúnyǔ", "Lunyu", "Analects"],
-    "孟子": ["Mengzi", "Mèngzǐ", "Mencius"],
-    "庄子": ["Zhuāngzǐ", "Zhuangzi", "Chuang Tzu"],
-    "孙子兵法": ["Sūnzǐ Bīngfǎ", "Sunzi Bingfa", "Sunzi bingfa", "Art of War"],
-    "诗经": ["Shījīng", "Shijing", "Book of Songs", "Book of Odes"],
-    "易经": ["Yìjīng", "Yijing", "I Ching", "Book of Changes"],
-    "礼记": ["Lǐjì", "Liji", "Book of Rites"],
-    "说文解字": ["Shuōwén Jiězì", "Shuōwén", "Shuowen Jiezi", "Shuowen"],
-    "心经": ["Xīnjīng", "Heart Sutra"],
-    "金刚经": ["Jīngāngjīng", "Diamond Sutra"]
+  "also_acceptable": {
+    "道德经":   ["Dào Dé Jīng"],
+    "论语":     ["Lúnyǔ"],
+    "孟子":     ["Mèngzǐ", "Mengzi"],
+    "庄子":     ["Zhuāngzǐ", "Chuang Tzu"],
+    "孙子兵法": ["Sūnzǐ Bīngfǎ", "Art of War"],
+    "诗经":     ["Shījīng", "Book of Songs", "Book of Odes"],
+    "易经":     ["Yìjīng", "I Ching", "Book of Changes"],
+    "礼记":     ["Lǐjì", "Book of Rites"],
+    "说文解字": ["Shuōwén", "Shuowen Jiezi", "Shuowen"],
+    "心经":     ["Xīnjīng"],
+    "金刚经":   ["Jīngāngjīng"]
+  },
+
+  "flagged": {
+    "道德经": ["Dao De Jing", "Tao Te Ching"]
   }
 }

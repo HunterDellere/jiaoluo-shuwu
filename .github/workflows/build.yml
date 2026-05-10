@@ -112,6 +112,38 @@ jobs:
           if-no-files-found: error
           retention-days: 1
 
+  e2e:
+    name: Playwright E2E (Today page)
+    needs: build
+    if: always() && needs.build.result == 'success'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with:
+          node-version: '22'
+          cache: 'npm'
+      - run: npm ci
+      - name: Download built site
+        uses: actions/download-artifact@v5
+        with:
+          name: site
+      # Playwright config webServer: { command: 'python3 -m http.server 4173' }.
+      # python3 is preinstalled on ubuntu-latest runners.
+      - name: Install Playwright browser (chromium only)
+        run: npx playwright install --with-deps chromium
+      - name: Run e2e suite
+        run: npm run test:e2e
+      - name: Upload failure artifacts
+        if: failure()
+        uses: actions/upload-artifact@v5
+        with:
+          name: playwright-report
+          path: |
+            test-results/
+            playwright-report/
+          retention-days: 7
+
   check:
     name: Post-build invariants & link check
     needs: build
@@ -137,7 +169,7 @@ jobs:
   deploy:
     name: Deploy to GitHub Pages
     if: github.ref == 'refs/heads/main'
-    needs: [build, check]
+    needs: [build, check, e2e]
     runs-on: ubuntu-latest
     environment:
       name: github-pages
