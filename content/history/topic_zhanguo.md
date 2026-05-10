@@ -294,8 +294,8 @@ faq:
     <div class="adj-wrap">
       <span class="adj-label">Related entries</span>
       <a class="adj" href="../../pages/history/topic_chunqiu.html">春秋 , what preceded</a>
-      <a class="adj" href="../../pages/history/topic_xia_shang_zhou.html">夏商周 — Three Dynasties context</a>
-      <a class="adj" href="../../pages/history/topic_qin_shihuang.html">秦始皇 — the conclusion</a>
+      <a class="adj" href="../../pages/history/topic_xia_shang_zhou.html">夏商周, Three Dynasties context</a>
+      <a class="adj" href="../../pages/history/topic_qin_shihuang.html">秦始皇, the conclusion</a>
       <a class="adj" href="../../pages/philosophy/topic_kongzi.html">孔子</a>
       <a class="adj" href="../../pages/philosophy/topic_laozi.html">老子</a>
       <a class="adj" href="../../pages/philosophy/topic_mengzi.html">孟子</a>

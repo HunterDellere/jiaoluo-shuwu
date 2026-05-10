@@ -221,7 +221,7 @@ pinyin: 'gāng'
           <div class="example">
             <div class="ex-cn">我刚从上海回来，还没休息。</div>
             <div class="ex-py">Wǒ gāng cóng Shànghǎi huí lái, hái méi xiūxi.</div>
-            <div class="ex-en">I just got back from Shanghai — haven't rested yet.</div>
+            <div class="ex-en">I just got back from Shanghai and haven't rested yet.</div>
           </div>
           <div class="example">
             <div class="ex-cn">手机刚充完电，又没电了。</div>
@@ -236,7 +236,7 @@ pinyin: 'gāng'
           <div class="example">
             <div class="ex-cn">这件事我刚知道，不知道你知不知道。</div>
             <div class="ex-py">Zhè jiàn shì wǒ gāng zhīdào, bù zhīdào nǐ zhī bu zhīdào.</div>
-            <div class="ex-en">I just found out about this — not sure if you know.</div>
+            <div class="ex-en">I just found out about this; not sure if you know.</div>
           </div>
         </div>
       </div>

@@ -207,7 +207,7 @@ content_review: 'pending'
         <div class="tags"><span class="tag-n">greeting 问候语</span></div>
         <p class="card-def">Adding the question particle 吗 ma turns 你好 into a genuine question: "Are you well?" This form is widely taught in textbooks and recognized by all speakers, but native speakers use it less than learners expect , it carries a slightly Western-influenced flavor, borrowed through the translation of "How are you?" More natural alternatives in casual speech include 最近怎么样 (how have things been lately?) or 还好吧 (you're doing okay, right?).</p>
         <div class="examples">
-          <div class="ex"><span class="ex-cn">你好吗？——还好，谢谢！</span><span class="ex-py">Nǐ hǎo ma? — Hái hǎo, xièxie!</span><span class="ex-en">How are you? — Fine, thanks!</span></div>
+          <div class="ex"><span class="ex-cn">你好吗？还好，谢谢！</span><span class="ex-py">Nǐ hǎo ma? — Hái hǎo, xièxie!</span><span class="ex-en">How are you? — Fine, thanks!</span></div>
         </div>
       </div>
 

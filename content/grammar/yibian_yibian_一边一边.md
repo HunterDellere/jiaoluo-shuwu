@@ -38,7 +38,7 @@ pinyin: 'yībiān yībiān'
       <span class="topic-hero-eyebrow">Grammar · 语法 yǔfǎ · Aspect &amp; Simultaneity</span>
       <h1 class="topic-hero-title">一边…一边</h1>
       <span class="topic-hero-title-py">yībiān…yībiān</span>
-      <p class="topic-hero-desc">The frame for doing two things at once. 一边 V₁ 一边 V₂ = while doing V₁, also doing V₂. One subject, two simultaneous ongoing actions — the Mandarin construction for multitasking.</p>
+      <p class="topic-hero-desc">The frame for doing two things at once. 一边 V₁ 一边 V₂ = while doing V₁, also doing V₂. One subject, two simultaneous ongoing actions: the Mandarin construction for multitasking.</p>
     </header>
 
     <span class="section-anchor" id="structure"></span>
@@ -101,7 +101,7 @@ pinyin: 'yībiān yībiān'
           <tr><td class="td-cn">一边…一边</td><td>while doing; simultaneously</td><td>Two ongoing ACTIONS by the same subject happening at the same time.</td></tr>
           <tr><td class="td-cn">又…又</td><td>both…and; at once (adj)</td><td>Two qualities or states simultaneously: 又快又好 (fast and good), 又哭又笑 (crying and laughing).</td></tr>
           <tr><td class="td-cn">同时 tóngshí</td><td>at the same time; simultaneously</td><td>Adverb used in formal writing. Can connect two clauses, different subjects allowed. 他同时兼顾两份工作。</td></tr>
-          <tr><td class="td-cn">趁…的时候</td><td>taking advantage of the time when</td><td>Do X while the opportunity exists: 趁年轻多学习 (study more while you're young). Different flavor — urgency or opportunism.</td></tr>
+          <tr><td class="td-cn">趁…的时候</td><td>taking advantage of the time when</td><td>Do X while the opportunity exists: 趁年轻多学习 (study more while you're young). Different flavor: urgency or opportunism.</td></tr>
         </tbody>
       </table>
     </div>

@@ -321,14 +321,14 @@ content_review: 'pending'
         <span class="cy-cn">孟姜女哭长城</span>
         <span class="cy-py">Mèng Jiāngnü kū Chángchéng</span>
         <span class="cy-en">"Meng Jiangnu weeping at the Great Wall" — grief strong enough to move stone</span>
-        <span class="cy-note">One of China's four great folk legends (四大民间故事 sì dà mínjiān gùshì). Meng Jiangnu's husband Fan Xiliang was conscripted to build the Qin wall and died of exhaustion. She walked to the frontier to bring him winter clothes, learned he had died, and wept so devastatingly that a section of the wall collapsed. Used to describe inconsolable grief, or any weeping so extreme it seems to affect the physical world. 她哭得如同孟姜女哭长城，令人动容。"She wept like Meng Jiangnu at the Great Wall — it was deeply moving."</span>
+        <span class="cy-note">One of China's four great folk legends (四大民间故事 sì dà mínjiān gùshì). Meng Jiangnu's husband Fan Xiliang was conscripted to build the Qin wall and died of exhaustion. She walked to the frontier to bring him winter clothes, learned he had died, and wept so devastatingly that a section of the wall collapsed. Used to describe inconsolable grief, or any weeping so extreme it seems to affect the physical world. 她哭得如同孟姜女哭长城，令人动容。"She wept like Meng Jiangnu at the Great Wall; it was deeply moving."</span>
       </div>
 
       <div class="cy">
         <span class="cy-cn">众志成城</span>
         <span class="cy-py">zhòngzhì chéng chéng</span>
         <span class="cy-en">"when wills unite, a city wall is formed" — collective will is an impregnable defense</span>
-        <span class="cy-note">From the Guoyu (国语 Guóyǔ), a pre-Qin historical text. 众 (the many; the people) + 志 (will; resolve) + 成 (form; become) + 城 (city wall). When a people are of one mind, they become as strong as a city's walls. Used in political speeches, team motivation, and times of national crisis. 面对困难，我们众志成城，一定能克服。"Facing difficulty, our united will forms a fortress — we will overcome it."</span>
+        <span class="cy-note">From the Guoyu (国语 Guóyǔ), a pre-Qin historical text. 众 (the many; the people) + 志 (will; resolve) + 成 (form; become) + 城 (city wall). When a people are of one mind, they become as strong as a city's walls. Used in political speeches, team motivation, and times of national crisis. 面对困难，我们众志成城，一定能克服。"Facing difficulty, our united will forms a fortress; we will overcome it."</span>
       </div>
 
     </div>

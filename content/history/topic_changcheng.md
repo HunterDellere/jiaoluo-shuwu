@@ -209,7 +209,7 @@ content_review: 'pending'
     <div class="scholar" data-glyph="国">
       <div class="scholar-label">象征化 xiàngzhēnghuà · Symbolization</div>
       <p>The wall's transformation from defensive infrastructure into national emblem was largely a 20th-century event. Pre-modern Chinese literature treated the wall ambivalently: as the site of Meng Jiangnu's grief, as the backdrop of frontier exile poetry, as the work of a tyrant emperor. The Qing dynasty , itself a Manchu dynasty whose ancestors had been outside the wall , let it decay.</p>
-      <p>The wall's elevation came under pressure of national crisis. The 1933 song <em>义勇军进行曲</em> (Yìyǒngjūn jìnxíngqǔ, "March of the Volunteers") , written during the Japanese invasion of Manchuria and now the national anthem — opens with <strong>"把我们的血肉，筑成我们新的长城"</strong> ("with our flesh and blood, let us build our new Great Wall"). Here the wall is no longer brick: it is the willingness of citizens to die for the country. Mao's 1935 line <em>不到长城非好汉</em>, written during the Long March, fixed the heroic-test reading. The 1980s tourism boom at Badaling, the 1987 UNESCO listing, and the standard primary-school curriculum that calls the wall <strong>世界八大奇迹之一</strong> (one of the eight wonders of the world) completed the symbolic capture.</p>
+      <p>The wall's elevation came under pressure of national crisis. The 1933 song <em>义勇军进行曲</em> (Yìyǒngjūn jìnxíngqǔ, "March of the Volunteers") , written during the Japanese invasion of Manchuria and now the national anthem, opens with <strong>"把我们的血肉，筑成我们新的长城"</strong> ("with our flesh and blood, let us build our new Great Wall"). Here the wall is no longer brick: it is the willingness of citizens to die for the country. Mao's 1935 line <em>不到长城非好汉</em>, written during the Long March, fixed the heroic-test reading. The 1980s tourism boom at Badaling, the 1987 UNESCO listing, and the standard primary-school curriculum that calls the wall <strong>世界八大奇迹之一</strong> (one of the eight wonders of the world) completed the symbolic capture.</p>
       <p>Today the wall is on the 100-yuan banknote, in Olympic ceremony backdrops, and on every souvenir at every airport. The Ming brick is real; the symbolism is recent. Both are true at once.</p>
     </div>
 
@@ -242,7 +242,7 @@ content_review: 'pending'
           <span class="card-en">"Qin Shihuang built the Great Wall"</span>
         </div>
         <div class="card-def">
-          He connected and extended pre-existing Warring States walls. He did not build from nothing, and what he did build is mostly gone. The visual wall most people picture is Ming, fifteen centuries later. The conflation comes from his genuine consolidation role — and from the fact that "the wall" entered the cultural imagination as a single thing under his unification.
+          He connected and extended pre-existing Warring States walls. He did not build from nothing, and what he did build is mostly gone. The visual wall most people picture is Ming, fifteen centuries later. The conflation comes from his genuine consolidation role, and from the fact that "the wall" entered the cultural imagination as a single thing under his unification.
         </div>
       </div>
 

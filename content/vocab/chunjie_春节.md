@@ -58,7 +58,7 @@ content_sources:
       <span class="topic-hero-eyebrow">Vocab · 词汇 cíhuì</span>
       <h1 class="topic-hero-title">春节</h1>
       <span class="topic-hero-title-py">Chūn Jié</span>
-      <p class="topic-hero-desc">The Spring Festival — the most important holiday in the Chinese calendar, marking the Lunar New Year with family reunion, feasting, red envelopes, and the ritual renewal of the year.</p>
+      <p class="topic-hero-desc">The Spring Festival: the most important holiday in the Chinese calendar, marking the Lunar New Year with family reunion, feasting, red envelopes, and the ritual renewal of the year.</p>
     </header>
 
     <span class="section-anchor" id="overview"></span>
@@ -134,7 +134,7 @@ content_sources:
           <div class="example">
             <div class="ex-cn">大年三十，全家一起包饺子，热热闹闹的。</div>
             <div class="ex-py">Dà nián sānshí, quánjiā yīqǐ bāo jiǎozi, rè re nào nào de.</div>
-            <div class="ex-en">On New Year's Eve, the whole family makes dumplings together — lively and festive.</div>
+            <div class="ex-en">On New Year's Eve, the whole family makes dumplings together, lively and festive.</div>
           </div>
         </div>
       </div>

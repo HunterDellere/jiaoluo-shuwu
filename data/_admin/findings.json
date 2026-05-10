@@ -1,8 +1,8 @@
 {
-  "generated": "2026-05-10T02:09:49.324Z",
+  "generated": "2026-05-10T02:16:26.861Z",
   "summary": {
     "errors": 0,
-    "warnings": 62,
+    "warnings": 50,
     "info": 373
   },
   "findings": [
@@ -50,72 +50,6 @@
       "category": "search",
       "file": "data/search-index.json",
       "msg": "19112 singleton tokens (appear in exactly 1 entry). Sample: facing-the-opportunity-immediately-decide, great-achievement-announce-accomplished, thunder-lightning-together-intensify, illuminate-lineage-glorify-ancestors, for-tiger-act-as-ghost-of-the-slain, chili-and-sichuan-pepper-saturated, exceed-people-intention-anticipate, hundred-feelings-intersect-gather, family-understood-household-known, have-no-ability-to-act-with-force, human-spirit-mutually-communicate, recognize-ancestor-return-lineage, breath-breath-mutually-connected, day-accumulate-month-accumulate, heart-receive-spirit-comprehend, urgent-like-shooting-star-fire, bright-observe-autumn-hair-tip, learning-has-no-stopping-point, matters-located-in-human-doing, right-wrong-overturned-upended, have-preparation-lack-disaster, legislative-executive-judicial, old-yet-increasingly-vigorous, accumulate-wrong-become-right, great-merit-announce-complete, right-wrong-correct-incorrect, benevolence-and-righteousness, no-connection-tense-important, clay-bodhisattva-cross-river, work-half-achievement-double"
-    },
-    {
-      "level": "WARN",
-      "category": "factual",
-      "file": "content/characters/chang2_长.md",
-      "msg": "pinyin 'cháng' differs from reference [\"zhǎng\"] for '长' — confirm if secondary reading is intended"
-    },
-    {
-      "level": "WARN",
-      "category": "factual",
-      "file": "content/characters/di4_地.md",
-      "msg": "pinyin 'dì' differs from reference [\"de\"] for '地' — confirm if secondary reading is intended"
-    },
-    {
-      "level": "WARN",
-      "category": "factual",
-      "file": "content/characters/dian4_电.md",
-      "msg": "radical '雨' differs from reference '曰' for '电' (may be a system choice — verify)"
-    },
-    {
-      "level": "WARN",
-      "category": "factual",
-      "file": "content/characters/fo2_佛.md",
-      "msg": "pinyin 'fó' differs from reference [\"fú\"] for '佛' — confirm if secondary reading is intended"
-    },
-    {
-      "level": "WARN",
-      "category": "factual",
-      "file": "content/characters/he2_和.md",
-      "msg": "radical '禾' differs from reference '口' for '和' (may be a system choice — verify)"
-    },
-    {
-      "level": "WARN",
-      "category": "factual",
-      "file": "content/characters/shu1_书.md",
-      "msg": "radical '乛' differs from reference '丨' for '书' (may be a system choice — verify)"
-    },
-    {
-      "level": "WARN",
-      "category": "factual",
-      "file": "content/characters/wei2_为.md",
-      "msg": "pinyin 'wéi' differs from reference [\"wèi\"] for '为' — confirm if secondary reading is intended"
-    },
-    {
-      "level": "WARN",
-      "category": "factual",
-      "file": "content/characters/yao4_要.md",
-      "msg": "radical '女' differs from reference '覀' for '要' (may be a system choice — verify)"
-    },
-    {
-      "level": "WARN",
-      "category": "factual",
-      "file": "content/characters/ye3_也.md",
-      "msg": "radical '乙' differs from reference '乚' for '也' (may be a system choice — verify)"
-    },
-    {
-      "level": "WARN",
-      "category": "factual",
-      "file": "content/characters/yi4_义.md",
-      "msg": "radical '丶' differs from reference '丿' for '义' (may be a system choice — verify)"
-    },
-    {
-      "level": "WARN",
-      "category": "factual",
-      "file": "data/_reference/hanzi-facts.json",
-      "msg": "181 hanzi appear in content/ but have no reference entry: 桐梓谭鑫隋韻仝谿珪侄褚説辕弋変喫凵萃嘈剣罒吟聆彝诲亘翩冋丷闩魑魍魉幺楽謂趾绊辵萑…. Claims about these characters cannot be mechanically verified. Run 'npm run refresh:reference' after updating upstream data."
     },
     {
       "level": "INFO",
@@ -669,13 +603,6 @@
       "file": "content/characters/nan2_南.md",
       "msg": "3 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
-    },
-    {
-      "level": "WARN",
-      "category": "formatting",
-      "file": "content/characters/ni3_你.md",
-      "msg": "2 em-dashes in body prose (budget 0). Voice regression risk.",
-      "fix": "Rewrite to use commas, colons, parentheticals, or sentence splits. Keep em-dashes only for sharp interruptions a comma cannot carry."
     },
     {
       "level": "INFO",
@@ -1602,13 +1529,6 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
-      "level": "WARN",
-      "category": "formatting",
-      "file": "content/daily/topic_xingming.md",
-      "msg": "2 em-dashes in body prose (budget 0). Voice regression risk.",
-      "fix": "Rewrite to use commas, colons, parentheticals, or sentence splits. Keep em-dashes only for sharp interruptions a comma cannot carry."
-    },
-    {
       "level": "INFO",
       "category": "formatting",
       "file": "content/daily/topic_xingming.md",
@@ -1784,13 +1704,6 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
-      "level": "WARN",
-      "category": "formatting",
-      "file": "content/grammar/bi_比.md",
-      "msg": "2 em-dashes in body prose (budget 0). Voice regression risk.",
-      "fix": "Rewrite to use commas, colons, parentheticals, or sentence splits. Keep em-dashes only for sharp interruptions a comma cannot carry."
-    },
-    {
       "level": "INFO",
       "category": "formatting",
       "file": "content/grammar/bi_比.md",
@@ -1803,13 +1716,6 @@
       "file": "content/grammar/chule_除了.md",
       "msg": "2 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
-    },
-    {
-      "level": "WARN",
-      "category": "formatting",
-      "file": "content/grammar/cong_从.md",
-      "msg": "2 em-dashes in body prose (budget 0). Voice regression risk.",
-      "fix": "Rewrite to use commas, colons, parentheticals, or sentence splits. Keep em-dashes only for sharp interruptions a comma cannot carry."
     },
     {
       "level": "INFO",
@@ -1866,13 +1772,6 @@
       "file": "content/grammar/erqie_而且.md",
       "msg": "2 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
-    },
-    {
-      "level": "WARN",
-      "category": "formatting",
-      "file": "content/grammar/gang_刚.md",
-      "msg": "2 em-dashes in body prose (budget 0). Voice regression risk.",
-      "fix": "Rewrite to use commas, colons, parentheticals, or sentence splits. Keep em-dashes only for sharp interruptions a comma cannot carry."
     },
     {
       "level": "INFO",
@@ -1959,13 +1858,6 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
-      "level": "WARN",
-      "category": "formatting",
-      "file": "content/grammar/rang_让.md",
-      "msg": "2 em-dashes in body prose (budget 0). Voice regression risk.",
-      "fix": "Rewrite to use commas, colons, parentheticals, or sentence splits. Keep em-dashes only for sharp interruptions a comma cannot carry."
-    },
-    {
       "level": "INFO",
       "category": "formatting",
       "file": "content/grammar/rang_让.md",
@@ -1999,13 +1891,6 @@
       "file": "content/grammar/taiLe_太了.md",
       "msg": "2 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
-    },
-    {
-      "level": "WARN",
-      "category": "formatting",
-      "file": "content/grammar/yibian_yibian_一边一边.md",
-      "msg": "2 em-dashes in body prose (budget 0). Voice regression risk.",
-      "fix": "Rewrite to use commas, colons, parentheticals, or sentence splits. Keep em-dashes only for sharp interruptions a comma cannot carry."
     },
     {
       "level": "INFO",
@@ -2087,13 +1972,6 @@
     {
       "level": "WARN",
       "category": "formatting",
-      "file": "content/history/topic_changcheng.md",
-      "msg": "2 em-dashes in body prose (budget 0). Voice regression risk.",
-      "fix": "Rewrite to use commas, colons, parentheticals, or sentence splits. Keep em-dashes only for sharp interruptions a comma cannot carry."
-    },
-    {
-      "level": "WARN",
-      "category": "formatting",
       "file": "content/history/topic_chunqiu.md",
       "msg": "1 em-dashes in body prose (budget 0). Voice regression risk.",
       "fix": "Rewrite to use commas, colons, parentheticals, or sentence splits. Keep em-dashes only for sharp interruptions a comma cannot carry."
@@ -2153,13 +2031,6 @@
       "file": "content/history/topic_yuanchao.md",
       "msg": "2 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
-    },
-    {
-      "level": "WARN",
-      "category": "formatting",
-      "file": "content/history/topic_zhanguo.md",
-      "msg": "2 em-dashes in body prose (budget 0). Voice regression risk.",
-      "fix": "Rewrite to use commas, colons, parentheticals, or sentence splits. Keep em-dashes only for sharp interruptions a comma cannot carry."
     },
     {
       "level": "INFO",
@@ -2463,13 +2334,6 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
-      "level": "WARN",
-      "category": "formatting",
-      "file": "content/science/topic_sidafaming.md",
-      "msg": "2 em-dashes in body prose (budget 0). Voice regression risk.",
-      "fix": "Rewrite to use commas, colons, parentheticals, or sentence splits. Keep em-dashes only for sharp interruptions a comma cannot carry."
-    },
-    {
       "level": "INFO",
       "category": "formatting",
       "file": "content/science/topic_suanpan.md",
@@ -2547,13 +2411,6 @@
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
-      "level": "WARN",
-      "category": "formatting",
-      "file": "content/vocab/changjian_长城.md",
-      "msg": "2 em-dashes in body prose (budget 0). Voice regression risk.",
-      "fix": "Rewrite to use commas, colons, parentheticals, or sentence splits. Keep em-dashes only for sharp interruptions a comma cannot carry."
-    },
-    {
       "level": "INFO",
       "category": "formatting",
       "file": "content/vocab/changjian_长城.md",
@@ -2573,13 +2430,6 @@
       "file": "content/vocab/chuantong_传统.md",
       "msg": "4 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
-    },
-    {
-      "level": "WARN",
-      "category": "formatting",
-      "file": "content/vocab/chunjie_春节.md",
-      "msg": "2 em-dashes in body prose (budget 0). Voice regression risk.",
-      "fix": "Rewrite to use commas, colons, parentheticals, or sentence splits. Keep em-dashes only for sharp interruptions a comma cannot carry."
     },
     {
       "level": "INFO",
@@ -3035,6 +2885,72 @@
       "file": "content/vocab/zhongyi_中医.md",
       "msg": "3 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "WARN",
+      "category": "factual",
+      "file": "content/characters/chang2_长.md",
+      "msg": "pinyin 'cháng' differs from reference [\"zhǎng\"] for '长' — confirm if secondary reading is intended"
+    },
+    {
+      "level": "WARN",
+      "category": "factual",
+      "file": "content/characters/di4_地.md",
+      "msg": "pinyin 'dì' differs from reference [\"de\"] for '地' — confirm if secondary reading is intended"
+    },
+    {
+      "level": "WARN",
+      "category": "factual",
+      "file": "content/characters/dian4_电.md",
+      "msg": "radical '雨' differs from reference '曰' for '电' (may be a system choice — verify)"
+    },
+    {
+      "level": "WARN",
+      "category": "factual",
+      "file": "content/characters/fo2_佛.md",
+      "msg": "pinyin 'fó' differs from reference [\"fú\"] for '佛' — confirm if secondary reading is intended"
+    },
+    {
+      "level": "WARN",
+      "category": "factual",
+      "file": "content/characters/he2_和.md",
+      "msg": "radical '禾' differs from reference '口' for '和' (may be a system choice — verify)"
+    },
+    {
+      "level": "WARN",
+      "category": "factual",
+      "file": "content/characters/shu1_书.md",
+      "msg": "radical '乛' differs from reference '丨' for '书' (may be a system choice — verify)"
+    },
+    {
+      "level": "WARN",
+      "category": "factual",
+      "file": "content/characters/wei2_为.md",
+      "msg": "pinyin 'wéi' differs from reference [\"wèi\"] for '为' — confirm if secondary reading is intended"
+    },
+    {
+      "level": "WARN",
+      "category": "factual",
+      "file": "content/characters/yao4_要.md",
+      "msg": "radical '女' differs from reference '覀' for '要' (may be a system choice — verify)"
+    },
+    {
+      "level": "WARN",
+      "category": "factual",
+      "file": "content/characters/ye3_也.md",
+      "msg": "radical '乙' differs from reference '乚' for '也' (may be a system choice — verify)"
+    },
+    {
+      "level": "WARN",
+      "category": "factual",
+      "file": "content/characters/yi4_义.md",
+      "msg": "radical '丶' differs from reference '丿' for '义' (may be a system choice — verify)"
+    },
+    {
+      "level": "WARN",
+      "category": "factual",
+      "file": "data/_reference/hanzi-facts.json",
+      "msg": "181 hanzi appear in content/ but have no reference entry: 桐梓谭鑫隋韻仝谿珪侄褚説辕弋変喫凵萃嘈剣罒吟聆彝诲亘翩冋丷闩魑魍魉幺楽謂趾绊辵萑…. Claims about these characters cannot be mechanically verified. Run 'npm run refresh:reference' after updating upstream data."
     }
   ]
 }
