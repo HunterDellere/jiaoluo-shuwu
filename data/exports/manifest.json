@@ -1,0 +1,71 @@
+{
+  "generated": "2026-05-10T06:56:02.990Z",
+  "files": [
+    {
+      "file": "pleco-characters.txt",
+      "format": "pleco",
+      "type": "characters",
+      "count": 153
+    },
+    {
+      "file": "pleco-vocab.txt",
+      "format": "pleco",
+      "type": "vocab",
+      "count": 72
+    },
+    {
+      "file": "pleco-chengyu.txt",
+      "format": "pleco",
+      "type": "chengyu",
+      "count": 21
+    },
+    {
+      "file": "pleco-all.txt",
+      "format": "pleco",
+      "type": "all",
+      "count": 246
+    },
+    {
+      "file": "anki-characters.tsv",
+      "format": "anki-tsv",
+      "type": "characters",
+      "count": 153
+    },
+    {
+      "file": "anki-vocab.tsv",
+      "format": "anki-tsv",
+      "type": "vocab",
+      "count": 72
+    },
+    {
+      "file": "anki-chengyu.tsv",
+      "format": "anki-tsv",
+      "type": "chengyu",
+      "count": 21
+    },
+    {
+      "file": "characters.apkg",
+      "format": "anki-apkg",
+      "type": "characters",
+      "count": 153
+    },
+    {
+      "file": "vocab.apkg",
+      "format": "anki-apkg",
+      "type": "vocab",
+      "count": 72
+    },
+    {
+      "file": "chengyu.apkg",
+      "format": "anki-apkg",
+      "type": "chengyu",
+      "count": 21
+    },
+    {
+      "file": "all.apkg",
+      "format": "anki-apkg",
+      "type": "all",
+      "count": 246
+    }
+  ]
+}

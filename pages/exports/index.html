@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<!-- {"type":"topic","category":"exports","status":"complete"} -->
+<html lang="zh-Hans">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>导出 Exports — Jiǎoluò Shūwū · 角落書屋</title>
+<meta name="description" content="Pleco and Anki flashcard exports of the corpus. Drop a TSV into Pleco, double-click an .apkg into Anki. Regenerated each build.">
+<meta name="theme-color" content="#1c1208" id="meta-theme-color">
+<script>(function(){try{var t=localStorage.getItem('shuwo-theme');if(t==='dark'||t==='light'){document.documentElement.setAttribute('data-theme',t);}else if(!t&&window.matchMedia('(prefers-color-scheme: dark)').matches){document.documentElement.setAttribute('data-theme','dark');}}catch(e){}})();</script>
+<link rel="manifest" href="../../manifest.webmanifest">
+<link rel="icon" href="data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20100%20100'%3E%3Crect%20width%3D'100'%20height%3D'100'%20rx%3D'18'%20fill%3D'%23f2e8d5'%2F%3E%3Ctext%20x%3D'50'%20y%3D'50'%20text-anchor%3D'middle'%20dominant-baseline%3D'central'%20font-family%3D'Noto%20Serif%20SC%2C%20serif'%20font-size%3D'58'%20font-weight%3D'700'%20fill%3D'%238b1a1a'%3E%E5%87%BA%3C%2Ftext%3E%3C%2Fsvg%3E">
+<link rel="apple-touch-icon" href="../../icons/apple-touch-icon.png">
+<link rel="canonical" href="https://jiaoshoo.com/pages/exports/">
+<meta property="og:type" content="website">
+<meta property="og:title" content="导出 · Exports">
+<meta property="og:description" content="Pleco and Anki flashcard exports of the corpus.">
+<meta property="og:url" content="https://jiaoshoo.com/pages/exports/">
+<meta property="og:site_name" content="Jiǎoluò Shūwū · 角落書屋">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400&family=Noto+Serif+SC:wght@400;600;700&family=LXGW+WenKai+TC&family=JetBrains+Mono:wght@400;500&display=swap" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400&family=Noto+Serif+SC:wght@400;600;700&family=LXGW+WenKai+TC&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet"></noscript>
+<link rel="stylesheet" href="../../style.css?v=18">
+</head>
+<body>
+<script>(function(){var m=document.documentElement.previousSibling;if(m&&m.nodeType===8){try{var d=JSON.parse(m.data);if(d.category)document.body.dataset.category=d.category;}catch(e){}}})();</script>
+
+<a class="skip-link" href="#main-content">Skip to content</a>
+
+<nav class="topnav" aria-label="Site">
+  <a href="../../index.html" class="topnav-brand" aria-label="Jiǎoluò Shūwū — home">
+    <span class="topnav-brand-cn">角書</span><span class="topnav-brand-sep"> · </span><span class="topnav-brand-en">Jiǎoshū</span>
+  </a>
+  <div class="topnav-right">
+    <a href="../today/" class="topnav-today" aria-label="Today's daily picks"><span aria-hidden="true">◔</span> Today</a>
+    <a href="#" class="topnav-random" data-random-entry data-entries-base="../../" aria-label="Open a random entry"><span aria-hidden="true">⟳</span> Random</a>
+    <a href="../families/explore.html" class="topnav-back" aria-label="Explore all entries">Explore</a>
+    <button class="theme-toggle" type="button" aria-label="Toggle dark mode" id="theme-toggle">
+      <span class="tt-sun" aria-hidden="true">☀</span>
+      <span class="tt-moon" aria-hidden="true">☾</span>
+    </button>
+  </div>
+</nav>
+
+<button class="toc-toggle" type="button" aria-controls="sidebar" aria-expanded="false" aria-label="Toggle contents"><span class="toc-toggle-label">目录 Contents</span><span class="toc-toggle-chevron" aria-hidden="true">▾</span></button>
+
+<div class="shell">
+
+  <aside class="sidebar" id="sidebar">
+    <span class="toc-topic">导出</span>
+    <span class="toc-topic-en">Exports</span>
+    <div class="toc-divider"></div>
+    <span class="toc-label">On this page</span>
+    <ul class="toc-list">
+      <li><a href="#pleco"><span class="toc-cn">百科</span><span class="toc-py">bǎikē</span> Pleco</a></li>
+      <li><a href="#anki"><span class="toc-cn">记忆</span><span class="toc-py">jìyì</span> Anki</a></li>
+      <li><a href="#how-to"><span class="toc-cn">用法</span><span class="toc-py">yòngfǎ</span> How to Import</a></li>
+    </ul>
+  </aside>
+
+  <main class="main" id="main-content">
+
+    <header class="topic-hero">
+      <span class="topic-hero-eyebrow">导出 dǎochū · Flashcard Exports</span>
+      <h1 class="topic-hero-title">
+        <span class="today-hero-title-cn" lang="zh">导出</span>
+        <span class="today-hero-title-py">dǎochū</span>
+        <span class="today-hero-title-en">Pleco &amp; Anki exports</span>
+      </h1>
+      <p class="topic-hero-desc">Every entry in the corpus, packaged for the two flashcard apps Chinese learners actually use. Regenerated on every build, so the files always match what's on the site.</p>
+    </header>
+
+    <span class="section-anchor" id="pleco"></span>
+    <div class="section-head">
+      <span class="sh-cn">百科</span>
+      <span class="sh-py">bǎikē</span>
+      <span class="sh-en">Pleco — tab-separated cards</span>
+    </div>
+    <div class="exports-grid" data-exports-format="pleco"></div>
+
+    <span class="section-anchor" id="anki"></span>
+    <div class="section-head">
+      <span class="sh-cn">记忆</span>
+      <span class="sh-py">jìyì</span>
+      <span class="sh-en">Anki — TSV and .apkg decks</span>
+    </div>
+    <div class="exports-grid" data-exports-format="anki-tsv"></div>
+    <div class="exports-grid" data-exports-format="anki-apkg"></div>
+
+    <span class="section-anchor" id="how-to"></span>
+    <div class="section-head">
+      <span class="sh-cn">用法</span>
+      <span class="sh-py">yòngfǎ</span>
+      <span class="sh-en">How to import</span>
+    </div>
+    <div class="scholar" data-glyph="导">
+      <div class="scholar-label">Pleco</div>
+      <p>Open Pleco → <strong>Settings → Flashcards → Import</strong>. Pick the <code>.txt</code> file. Set the field order to <strong>Simplified, Pinyin, Definition</strong> and the separator to <strong>Tab</strong>. The categories work as flashcard categories or as filter tags depending on how you've set up Pleco's flashcard system.</p>
+    </div>
+    <div class="scholar" data-glyph="记">
+      <div class="scholar-label">Anki — .apkg (recommended)</div>
+      <p>Double-click the <code>.apkg</code> file or use <strong>File → Import</strong> in Anki Desktop. The deck imports as <em>角落書屋 · &lt;type&gt;</em> with cards already styled. AnkiDroid and AnkiMobile open <code>.apkg</code> directly too.</p>
+    </div>
+    <div class="scholar" data-glyph="表">
+      <div class="scholar-label">Anki — TSV (custom mapping)</div>
+      <p>If you want to control the note type or merge into an existing deck, use <strong>File → Import</strong> and pick the <code>.tsv</code>. The first line (<code>#fields:Hanzi&nbsp;Pinyin&nbsp;…</code>) tells Anki the column order; map each column to a field on your note type. The TSVs are useful for power users; most people should grab the <code>.apkg</code>.</p>
+    </div>
+
+    <footer class="page-footer">
+      <span class="footer-id">Jiǎoluò Shūwū · 角落書屋 · <span>导出 dǎochū</span></span>
+      <a href="../../index.html" class="footer-back">← All Entries</a>
+    </footer>
+
+  </main>
+
+</div>
+
+<script src="../../scripts/streak.js?v=2" defer></script>
+<script src="../../scripts/toc-scroll.js"></script>
+<script src="../../scripts/enhance.js" defer></script>
+<script src="exports.js?v=1" defer></script>
+
+</body>
+</html>
