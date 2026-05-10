@@ -144,7 +144,7 @@ pinyin: 'Tàijí'
         <span class="card-py">tàijí quán</span>
         <span class="card-en">Tai Chi — the martial art form</span>
         <span class="tag-n">n.</span>
-        <p>Supreme Ultimate Fist — the full name of the martial art. 拳 quán (fist, boxing style) distinguishes the martial art from 太极 tàijí as a philosophical concept. Often shortened informally to 太极 alone in colloquial reference.</p>
+        <p>Supreme Ultimate Fist: the full name of the martial art. 拳 quán (fist, boxing style) distinguishes the martial art from 太极 tàijí as a philosophical concept. Often shortened informally to 太极 alone in colloquial reference.</p>
       </div>
       <div class="card c-teal">
         <span class="card-cn">松</span>
@@ -165,14 +165,14 @@ pinyin: 'Tàijí'
         <span class="card-py">fā jìn</span>
         <span class="card-en">issuing force — explosive power release</span>
         <span class="tag-vn">v/n</span>
-        <p>The controlled release of stored structural force — the sudden martial application that distinguishes Chen-style from its derivatives. 劲 jìn is a specific technical term meaning a quality of force that differs from 力 lì (brute muscular strength): 劲 is trained, patterned, structurally organized power.</p>
+        <p>The controlled release of stored structural force: the sudden martial application that distinguishes Chen-style from its derivatives. 劲 jìn is a specific technical term meaning a quality of force that differs from 力 lì (brute muscular strength): 劲 is trained, patterned, structurally organized power.</p>
       </div>
       <div class="card c-red">
         <span class="card-cn">养生</span>
         <span class="card-py">yǎngshēng</span>
         <span class="card-en">health cultivation; nourishing life</span>
         <span class="tag-vn">v/n</span>
-        <p>The cultivation of physical and mental health through deliberate practice — diet, movement, breath, sleep regulation. Tàijíquán is classified as a 养生功 yǎngshēng gōng (health cultivation exercise) in Chinese medical tradition, alongside qigong 气功. The dual identity of tàijí as both martial art and health practice reflects a view that these are not opposites.</p>
+        <p>The cultivation of physical and mental health through deliberate practice: diet, movement, breath, sleep regulation. Tàijíquán is classified as a 养生功 yǎngshēng gōng (health cultivation exercise) in Chinese medical tradition, alongside qigong 气功. The dual identity of tàijí as both martial art and health practice reflects a view that these are not opposites.</p>
       </div>
     </div>
 

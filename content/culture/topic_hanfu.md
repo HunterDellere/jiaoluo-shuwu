@@ -160,7 +160,7 @@ pinyin: 'Hànfú'
         <span class="card-py">qípáo</span>
         <span class="card-en">cheongsam — Manchu-derived dress, distinct from hànfú</span>
         <span class="tag-n">n.</span>
-        <p>The form-fitting silk dress recognizable worldwide as "Chinese." 旗 refers to the Manchu Banner (旗) system — this was originally Banner People's (Manchu) dress. Evolved through the 1920s into the modern silhouette. Explicitly not hànfú, though widely perceived abroad as traditional Chinese dress — a distinction the Hanfu Movement is insistent upon.</p>
+        <p>The form-fitting silk dress recognizable worldwide as "Chinese." 旗 refers to the Manchu Banner (旗) system; this was originally Banner People's (Manchu) dress. Evolved through the 1920s into the modern silhouette. Explicitly not hànfú, though widely perceived abroad as traditional Chinese dress, a distinction the Hanfu Movement is insistent upon.</p>
       </div>
       <div class="card c-violet">
         <span class="card-cn">汉元素</span>
@@ -174,7 +174,7 @@ pinyin: 'Hànfú'
         <span class="card-py">xíngzhì</span>
         <span class="card-en">garment structure; the form category of a historical garment</span>
         <span class="tag-n">n.</span>
-        <p>The technical term in the Hanfu Movement for a garment's historical type and construction principles — its dynasty of origin, cut, collar form, sleeve width, and combination rules. Evaluating whether a garment is 形制正确 (structurally correct) is the community's primary criterion for authenticity.</p>
+        <p>The technical term in the Hanfu Movement for a garment's historical type and construction principles: its dynasty of origin, cut, collar form, sleeve width, and combination rules. Evaluating whether a garment is 形制正确 (structurally correct) is the community's primary criterion for authenticity.</p>
       </div>
     </div>
 

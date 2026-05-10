@@ -160,7 +160,7 @@ updated: '2026-04-25'
       </p>
 
       <p style="font-style: italic; color: var(--ink-3); margin-top: 0.2em; margin-bottom: 1.4em; line-height: 1.9;">
-        Alone in a foreign place, a stranger among strangers —<br>
+        Alone in a foreign place, a stranger among strangers,<br>
         every festival comes, and the longing for family doubles.<br>
         From afar I know my brothers are climbing the high ground,<br>
         each one wearing zhuyu , but one person missing.
@@ -249,7 +249,7 @@ updated: '2026-04-25'
           <span class="card-en">auspicious festival; festive holiday — literary register</span>
         </div>
         <div class="card-def">
-          佳 jiā (excellent; fine; auspicious) + 节 jié (festival; season; node). A slightly elevated term for a holiday or festival occasion, preferred in literary and formal contexts over the more neutral 节日 (jiérì). Its appearance in Wang Wei's line 每逢佳节倍思亲 (every auspicious festival comes and longing doubles) is the reason the compound is so widely known — most speakers encounter 佳节 first through this poem, which fixes it permanently in the emotional register of festive occasions and the absence they throw into relief.
+          佳 jiā (excellent; fine; auspicious) + 节 jié (festival; season; node). A slightly elevated term for a holiday or festival occasion, preferred in literary and formal contexts over the more neutral 节日 (jiérì). Its appearance in Wang Wei's line 每逢佳节倍思亲 (every auspicious festival comes and longing doubles) is the reason the compound is so widely known; most speakers encounter 佳节 first through this poem, which fixes it permanently in the emotional register of festive occasions and the absence they throw into relief.
         </div>
       </div>
 
@@ -271,7 +271,7 @@ updated: '2026-04-25'
           <span class="card-en">homesickness; nostalgia for one native place</span>
         </div>
         <div class="card-def">
-          乡 xiāng (native place; hometown; rural area) + 愁 chóu (sorrow; melancholy; anxiety). The specific emotional register of Double Ninth as a festival: not grief for the dead (清明节), not fear of wandering spirits (中元节), but the longing of those separated from home by distance. Wang Wei's poem made 乡愁 the definitive emotional key of the festival. 愁 (chóu) appears in the radical 心 (heart/mind) combined with 秋 (qiū, autumn) as phonetic — the character encodes autumn as the season of this particular sorrow.
+          乡 xiāng (native place; hometown; rural area) + 愁 chóu (sorrow; melancholy; anxiety). The specific emotional register of Double Ninth as a festival: not grief for the dead (清明节), not fear of wandering spirits (中元节), but the longing of those separated from home by distance. Wang Wei's poem made 乡愁 the definitive emotional key of the festival. 愁 (chóu) appears in the radical 心 (heart/mind) combined with 秋 (qiū, autumn) as phonetic; the character encodes autumn as the season of this particular sorrow.
         </div>
       </div>
 

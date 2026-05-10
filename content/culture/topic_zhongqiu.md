@@ -165,21 +165,21 @@ pinyin: 'Zhōngqiūjié'
         <span class="card-py">yùtù</span>
         <span class="card-en">the Jade Rabbit</span>
         <span class="tag-n">n.</span>
-        <p>Cháng'é's companion on the moon, who pounds immortality herbs in a mortar for eternity. The rabbit in the moon is a common East Asian folk image — it corresponds to the same lunar maria (dark patches) that Western tradition reads as a man. In Japan it becomes the "mochi-pounding rabbit."</p>
+        <p>Cháng'é's companion on the moon, who pounds immortality herbs in a mortar for eternity. The rabbit in the moon is a common East Asian folk image; it corresponds to the same lunar maria (dark patches) that Western tradition reads as a man. In Japan it becomes the "mochi-pounding rabbit."</p>
       </div>
       <div class="card c-red">
         <span class="card-cn">赏月</span>
         <span class="card-py">shǎng yuè</span>
         <span class="card-en">to appreciate the moon; moon-gazing</span>
         <span class="tag-v">v.</span>
-        <p>The central activity of the festival night: sitting outdoors, eating mooncake, and watching the full moon rise. The verb 赏 shǎng (to appreciate, to enjoy aesthetically) is used for activities like 赏花 (appreciating flowers) and 赏雪 (appreciating snow) — it implies a cultivated, attentive pleasure rather than passive observation.</p>
+        <p>The central activity of the festival night: sitting outdoors, eating mooncake, and watching the full moon rise. The verb 赏 shǎng (to appreciate, to enjoy aesthetically) is used for activities like 赏花 (appreciating flowers) and 赏雪 (appreciating snow); it implies a cultivated, attentive pleasure rather than passive observation.</p>
       </div>
       <div class="card c-ochre">
         <span class="card-cn">广寒宫</span>
         <span class="card-py">Guǎnghán Gōng</span>
         <span class="card-en">the Palace of Vast Cold — the Moon Palace</span>
         <span class="tag-n">n.</span>
-        <p>The name of Cháng'é's celestial residence on the moon. 广 (vast, broad) + 寒 (cold) + 宫 (palace). The name encodes the isolation of her existence — not merely cold, but vastly, expansively cold. The cassia tree 桂树 guìshù grows in its courtyard, which is why osmanthus blossoms (桂花 guìhuā) are the flower of Mid-Autumn.</p>
+        <p>The name of Cháng'é's celestial residence on the moon. 广 (vast, broad) + 寒 (cold) + 宫 (palace). The name encodes the isolation of her existence: not merely cold, but vastly, expansively cold. The cassia tree 桂树 guìshù grows in its courtyard, which is why osmanthus blossoms (桂花 guìhuā) are the flower of Mid-Autumn.</p>
       </div>
     </div>
 
