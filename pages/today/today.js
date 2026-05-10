@@ -1,22 +1,35 @@
 /* today.js — daily picks page logic.
  *
- * Picks 1 character + 1 vocab + 1 grammar + 1 chengyu deterministically by
- * UTC date, so every visitor sees the same set on the same day. Picks rotate
- * at UTC midnight without any server rebuild.
+ * Renders five slots:
+ *   - Today's thread (theme + lead + related entries, mirroring the homepage)
+ *   - Character of the day
+ *   - Word of the day
+ *   - Grammar point of the day
+ *   - Chengyu of the day
  *
- * Streak counter (localStorage, this-device only): increments when a new UTC
- * day's pick is loaded, resets if the gap is more than one day.
+ * The four single-entry slots use UTC-keyed seeded RNGs so every visitor sees
+ * the same set on the same UTC day. The thread uses a year-seeded shuffle
+ * (mirroring scripts/homepage.js) so today's thread on the homepage and
+ * today's thread on this page agree.
+ *
+ * Streak counter: local-day keyed (so a visit at 11pm and another at 7am
+ * tomorrow correctly count as two consecutive days). LocalStorage is the
+ * sole persistence today; the data shape is versioned and structured so a
+ * future auth+sync layer can adopt it without migration. Per-device by
+ * design — clearing storage or switching browsers resets the streak.
  */
 (function () {
   'use strict';
 
   // ── Date helpers ────────────────────────────────────────────────────────
+  // todayUtcKey is used for picking content (so every visitor sees the same
+  // entries on the same UTC calendar day, regardless of timezone). The
+  // streak counter uses local-day keying (handled by scripts/streak.js) so
+  // a streak follows the user's perception of "a day," not UTC.
+  function pad2(n) { return String(n).padStart(2, '0'); }
   function todayUtcKey() {
     var d = new Date();
-    var y = d.getUTCFullYear();
-    var m = String(d.getUTCMonth() + 1).padStart(2, '0');
-    var day = String(d.getUTCDate()).padStart(2, '0');
-    return y + '-' + m + '-' + day;
+    return d.getUTCFullYear() + '-' + pad2(d.getUTCMonth() + 1) + '-' + pad2(d.getUTCDate());
   }
 
   // FNV-1a 32-bit hash → integer seed
@@ -83,50 +96,28 @@
   }
 
   // ── Streak counter ──────────────────────────────────────────────────────
-  function updateStreak(todayKey) {
-    var STREAK_KEY = 'shuwo-streak';
-    var LAST_KEY = 'shuwo-last-visit';
-    var streak = 0;
-    var last = '';
-    try {
-      streak = parseInt(localStorage.getItem(STREAK_KEY) || '0', 10) || 0;
-      last = localStorage.getItem(LAST_KEY) || '';
-    } catch (e) {}
-
-    if (last === todayKey) {
-      // Same day — don't double-count.
-    } else if (last && diffInDaysUtc(last, todayKey) === 1) {
-      streak += 1;
-    } else {
-      // First visit ever, or a gap of more than one day → start at 1.
-      streak = 1;
-    }
-
-    try {
-      localStorage.setItem(STREAK_KEY, String(streak));
-      localStorage.setItem(LAST_KEY, todayKey);
-    } catch (e) {}
-
+  // Backed by scripts/streak.js, which loads on every page and ticks the
+  // streak silently on load. This page is the only surface that *renders*
+  // it — other pages just record the visit. We always read; we don't tick
+  // here, since streak.js already did.
+  function renderStreak() {
+    var state = (window.shuwoStreak && window.shuwoStreak.read())
+      || { current: 0 };
+    var streak = state.current || 0;
     var el = document.querySelector('[data-streak-count]');
     if (el) el.textContent = String(streak);
     var box = document.querySelector('[data-today-streak]');
-    if (box) {
-      var label = box.querySelector('.today-streak-label');
-      if (label) label.textContent = streak === 1 ? 'day' : 'days in a row';
-      var hint = box.querySelector('.today-streak-hint');
-      if (hint) {
-        if (streak === 1) hint.textContent = 'Welcome — visit again tomorrow to keep it going.';
-        else if (streak < 7) hint.textContent = 'Resets if you skip a day.';
-        else if (streak < 30) hint.textContent = 'Nice — a week-plus rhythm.';
-        else hint.textContent = 'A serious habit. 厲害.';
-      }
-    }
-  }
-
-  function diffInDaysUtc(aIso, bIso) {
-    var a = new Date(aIso + 'T00:00:00Z').getTime();
-    var b = new Date(bIso + 'T00:00:00Z').getTime();
-    return Math.round((b - a) / 86400000);
+    if (!box) return;
+    var label = box.querySelector('.today-streak-label');
+    if (label) label.textContent = streak === 1 ? 'day' : 'days in a row';
+    var hint = box.querySelector('.today-streak-hint');
+    if (!hint) return;
+    if (streak === 0)        hint.textContent = 'Visit daily to start a streak.';
+    else if (streak === 1)   hint.textContent = 'Welcome. Visit tomorrow to keep it going.';
+    else if (streak < 7)     hint.textContent = 'Resets if you skip a day.';
+    else if (streak < 30)    hint.textContent = 'A week-plus rhythm. Keep going.';
+    else if (streak < 100)   hint.textContent = 'A serious habit. 厲害 lìhài.';
+    else                     hint.textContent = streak + ' days. 持之以恒 chízhī yǐhéng.';
   }
 
   // ── Date label ──────────────────────────────────────────────────────────
@@ -209,20 +200,116 @@
       escapeHtml(greeting.en) + '</span>';
   }
 
+  // ── Today's thread ──────────────────────────────────────────────────────
+  // Mirrors scripts/homepage.js renderFeatured: year-seeded shuffle of the
+  // featured.json themes, picked by day-of-year, with a forward walk past
+  // any theme whose lead page no longer exists. Same seed = same theme on
+  // both pages on the same day.
+  function dayOfYear(d) {
+    var u = new Date(Date.UTC(d.getFullYear(), d.getMonth(), d.getDate()));
+    var start = new Date(Date.UTC(u.getUTCFullYear(), 0, 1));
+    return Math.floor((u - start) / 86400000);
+  }
+  function seededShuffle(arr, seed) {
+    var out = arr.slice();
+    var rand = mulberry32(seed);
+    for (var i = out.length - 1; i > 0; i--) {
+      var j = Math.floor(rand() * (i + 1));
+      var tmp = out[i]; out[i] = out[j]; out[j] = tmp;
+    }
+    return out;
+  }
+  function leadCn(entry) {
+    if (!entry) return '';
+    if (entry.char) return entry.char;
+    if (entry.title && entry.title.indexOf('·') >= 0) return entry.title.split('·')[0].trim();
+    return entry.title || '';
+  }
+  function relPathFromToday(p) {
+    // Today page lives at pages/today/. Entry paths in entries.json are
+    // 'pages/<cat>/<slug>.html'. From here that's '../<cat>/<slug>.html'.
+    return '../' + String(p).replace(/^pages\//, '');
+  }
+  function renderThread(themes, byPath) {
+    var card = document.getElementById('today-thread-card');
+    if (!card) return;
+    if (!Array.isArray(themes) || !themes.length) {
+      card.removeAttribute('aria-busy');
+      card.innerHTML = '<div class="today-empty">No thread available today.</div>';
+      return;
+    }
+    var now = new Date();
+    var yearSeed = now.getFullYear() * 1000003;
+    var shuffled = seededShuffle(themes, yearSeed);
+    var day = dayOfYear(now);
+    var theme = null, lead = null;
+    for (var offset = 0; offset < shuffled.length; offset++) {
+      var t = shuffled[(day + offset) % shuffled.length];
+      var e = byPath[t.lead];
+      if (e) { theme = t; lead = e; break; }
+    }
+    if (!theme || !lead) {
+      card.removeAttribute('aria-busy');
+      card.innerHTML = '<div class="today-empty">No thread available today.</div>';
+      return;
+    }
+    var related = (theme.related || []).map(function (p) { return byPath[p]; }).filter(Boolean).slice(0, 4);
+    var glyph = leadCn(lead);
+    var glyphLen = glyph.length;
+    var glyphSize = glyphLen >= 4 ? ' glyph-4' : glyphLen === 3 ? ' glyph-3' : glyphLen === 2 ? ' glyph-2' : '';
+    var leadTitleEn = lead.title ? (lead.title.split('·').slice(1).join('·').trim() || lead.title) : theme.title;
+    card.dataset.watermark = glyph || '';
+    if (lead.category) card.dataset.category = lead.category;
+    card.removeAttribute('aria-busy');
+    card.innerHTML =
+      '<a class="featured-glyph' + glyphSize + '" href="' + escapeHtml(relPathFromToday(lead.path)) + '" aria-label="' + escapeHtml(theme.title) + '">' + escapeHtml(glyph) + '</a>' +
+      '<div class="featured-body">' +
+        '<span class="featured-week">' + escapeHtml(theme.title) + '</span>' +
+        '<h3 class="featured-title"><a href="' + escapeHtml(relPathFromToday(lead.path)) + '">' + escapeHtml(leadTitleEn) + '</a></h3>' +
+        (lead.pinyin ? '<span class="featured-py">' + escapeHtml(lead.pinyin) + '</span>' : '') +
+        '<p class="featured-hook">' + escapeHtml(theme.hook) + '</p>' +
+        (related.length ?
+          '<div class="featured-links" role="list">' +
+            '<span class="featured-links-label">Follow on</span>' +
+            related.map(function (e) {
+              var cn = leadCn(e);
+              var en = e.title ? (e.title.split('·').slice(1).join('·').trim() || e.title) : '';
+              return '<a class="featured-link" href="' + escapeHtml(relPathFromToday(e.path)) + '" role="listitem">' +
+                (cn ? '<span class="cn">' + escapeHtml(cn) + '</span>' : '') +
+                escapeHtml(en) + '</a>';
+            }).join('') +
+          '</div>'
+        : '') +
+      '</div>';
+  }
+
   // ── Main ────────────────────────────────────────────────────────────────
-  var todayKey = todayUtcKey();
+  var todayKey = todayUtcKey();    // for content picks (shared across visitors)
   setDateLabels(todayKey);
   setGreeting();
-  updateStreak(todayKey);
+  // streak.js (loaded earlier) already ticked the streak. Render once now,
+  // and again on next animation frame in case streak.js loaded after us
+  // (the script tags are both `defer`, so we're at the end of the queue —
+  // but be safe).
+  renderStreak();
+  if (typeof requestAnimationFrame === 'function') {
+    requestAnimationFrame(renderStreak);
+  }
 
-  fetch('../../data/entries.json', { cache: 'default' })
-    .then(function (r) { return r.json(); })
-    .then(function (entries) {
+  Promise.all([
+    fetch('../../data/entries.json', { cache: 'default' }).then(function (r) { return r.json(); }),
+    fetch('../../data/featured.json', { cache: 'default' }).then(function (r) { return r.json(); }).catch(function () { return []; })
+  ])
+    .then(function (results) {
+      var entries = results[0];
+      var featured = results[1];
       var complete = entries.filter(function (e) { return e.status === 'complete'; });
+      var byPath = {};
+      complete.forEach(function (e) { byPath[e.path] = e; });
 
       // Pools: a complete pinyin/CN body is the floor for being interesting;
-      // exclude meta categories (families, hsk list pages, hubs by default
-      // since hubs are reading-paths, not single-card subjects).
+      // exclude meta categories (families, hsk list pages, hubs — hubs are
+      // reading-paths, not single-card subjects).
       var META_CAT = { families: 1, hsk: 1, hubs: 1 };
       var alive = complete.filter(function (e) { return !META_CAT[e.category]; });
 
@@ -242,11 +329,18 @@
       fillSlot('vocab',     pickFrom(vocab,      rngVocab), 'c-teal');
       fillSlot('grammar',   pickFrom(grammar,    rngGrammar), 'c-violet');
       fillSlot('chengyu',   pickFrom(chengyu,    rngChengyu), 'c-ochre');
+
+      renderThread(featured, byPath);
     })
     .catch(function (err) {
       console.warn('today: failed to load entries.json', err);
       document.querySelectorAll('[data-today-slot]').forEach(function (slot) {
         slot.innerHTML = '<div class="card today-empty">Couldn’t load today’s picks. <a href="../../">Browse all entries →</a></div>';
       });
+      var card = document.getElementById('today-thread-card');
+      if (card) {
+        card.removeAttribute('aria-busy');
+        card.innerHTML = '<div class="today-empty">Couldn’t load today’s thread. <a href="../../">Browse all entries →</a></div>';
+      }
     });
 })();
