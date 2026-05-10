@@ -6,7 +6,7 @@
     <atom:link href="https://jiaoshoo.com/feed.xml" rel="self" type="application/rss+xml" />
     <description>Notes on Chinese language and civilisation — characters, vocabulary, grammar, history, philosophy, and the world they shaped.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 10 May 2026 13:45:45 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 10 May 2026 14:18:09 GMT</lastBuildDate>
     <item>
       <title>秦朝 · The Qin Dynasty (221–206 BCE)</title>
       <link>https://jiaoshoo.com/pages/history/topic_qinchao.html</link>
@@ -14,6 +14,22 @@
       <pubDate>Sun, 10 May 2026 00:00:00 GMT</pubDate>
       <description>Fifteen years of imperial rule, fifteen centuries of imperial inheritance. The Qin unified the warring states, standardized writing, currency, and roads, built the first long wall, burned the books, and collapsed under the weight of its own apparatus.</description>
       <category>history</category>
+    </item>
+    <item>
+      <title>佛经 · Buddhist Scriptures</title>
+      <link>https://jiaoshoo.com/pages/religion/topic_fojing.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/religion/topic_fojing.html</guid>
+      <pubDate>Sun, 10 May 2026 00:00:00 GMT</pubDate>
+      <description>The core Mahāyāna sutras the site presents in full: the Chan canon (心经, 金刚经, 坛经) and the Pure Land canon (阿弥陀经, 无量寿经, 观无量寿经). Each linked here gets its own page with full text, line-by-line audio, pinyin gloss, English translation, and commentary.</description>
+      <category>religion</category>
+    </item>
+    <item>
+      <title>心经 · The Heart Sutra</title>
+      <link>https://jiaoshoo.com/pages/religion/topic_xinjing.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/religion/topic_xinjing.html</guid>
+      <pubDate>Sun, 10 May 2026 00:00:00 GMT</pubDate>
+      <description>The Heart Sutra: 260 characters that condense the entire Prajñāpāramitā teaching of emptiness. Translated by Xuanzang in 649 CE; chanted daily across China, Japan, Korea, and Vietnam ever since. The full text, line by line, with audio, gloss, and commentary.</description>
+      <category>religion</category>
     </item>
     <item>
       <title>必须 · must, have to (the obligation modal)</title>
@@ -229,22 +245,6 @@
       <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/gui3_鬼.html</guid>
       <pubDate>Sun, 26 Apr 2026 00:00:00 GMT</pubDate>
       <description>A pictograph of a spirit with an oversized head: the disembodied soul of the unvenerated dead, a folk-religion category distinct from deity, demon, and ancestor.</description>
-      <category>characters</category>
-    </item>
-    <item>
-      <title>雷 · thunder, the Arousing</title>
-      <link>https://jiaoshoo.com/pages/characters/lei2_雷.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/lei2_雷.html</guid>
-      <pubDate>Sun, 26 Apr 2026 00:00:00 GMT</pubDate>
-      <description>Rain over fields struck by lightning: the ancient pictograph of thunder that became a deity, a Yijing trigram, and a metaphor for decisive force.</description>
-      <category>characters</category>
-    </item>
-    <item>
-      <title>玉 · jade, precious</title>
-      <link>https://jiaoshoo.com/pages/characters/yu4_玉.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/characters/yu4_玉.html</guid>
-      <pubDate>Sun, 26 Apr 2026 00:00:00 GMT</pubDate>
-      <description>The material of kingship and moral cultivation: three jade discs on a cord, a glyph almost identical to king, the stone that Confucius said was virtue made visible.</description>
       <category>characters</category>
     </item>
   </channel>

@@ -2287,6 +2287,196 @@ tbody tr:hover td { background: var(--papyrus-2); }
 .cy-en { font-size: var(--fs-base); color: var(--ink-2); font-style: italic; }
 .cy-note { font-size: var(--fs-md); color: var(--ink-4); line-height: 1.55; margin-top: 0.25rem; }
 
+/* ── SUTRA PASSAGE BLOCKS ─────────────────────────────────
+   Used on sutra pages (心经, 阿弥陀经, 金刚经, 坛经 etc.). Each
+   passage is a self-contained card: marker number, large CN text,
+   audio button, optional pinyin gloss (toggleable), English translation,
+   and optional commentary. The CN text is the artifact — generous
+   leading, large size, high contrast. Translation sits below as
+   support, not as a parallel column. */
+.sutra-frame {
+  display: flex;
+  flex-direction: column;
+  gap: 1.4rem;
+  margin: 1.2rem 0;
+}
+.sutra-controls {
+  display: flex;
+  align-items: center;
+  gap: 0.8rem;
+  flex-wrap: wrap;
+  font-size: var(--fs-sm);
+  color: var(--ink-4);
+  padding: 0.6rem 0.85rem;
+  background: var(--papyrus-2);
+  border-left: 3px solid var(--ochre);
+  border-radius: var(--radius);
+}
+.sutra-controls-label {
+  font-size: var(--fs-2xs);
+  letter-spacing: var(--tracking-eyebrow-loose);
+  text-transform: uppercase;
+  color: var(--ink-5);
+}
+.sutra-toggle {
+  appearance: none;
+  background: transparent;
+  border: 1px solid var(--rule);
+  border-radius: 999px;
+  padding: 0.25rem 0.7rem;
+  font: inherit;
+  font-size: var(--fs-sm);
+  color: var(--ink-3);
+  cursor: pointer;
+  transition: background 0.15s, color 0.15s, border-color 0.15s;
+}
+.sutra-toggle:hover { background: var(--papyrus); color: var(--ink); }
+.sutra-toggle[aria-pressed="true"] {
+  background: var(--ochre);
+  color: var(--papyrus);
+  border-color: var(--ochre);
+}
+.passage {
+  background: var(--papyrus-2);
+  border: 1px solid var(--rule);
+  border-left: 3px solid var(--ochre);
+  border-radius: var(--radius);
+  padding: 1.1rem 1.3rem 1.1rem 1.5rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.55rem;
+  position: relative;
+}
+.passage-marker {
+  font-family: var(--font-mono);
+  font-size: var(--fs-2xs);
+  letter-spacing: var(--tracking-eyebrow-loose);
+  text-transform: uppercase;
+  color: var(--ink-5);
+}
+.passage-head {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.7rem;
+  flex-wrap: wrap;
+}
+.passage-cn {
+  font-family: var(--font-cn-display, var(--font-cn));
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: var(--ink);
+  line-height: 1.85;
+  letter-spacing: 0.04em;
+  flex: 1 1 auto;
+  min-width: 0;
+}
+.passage-py {
+  font-family: var(--font-mono);
+  font-size: var(--fs-sm);
+  color: var(--ochre);
+  line-height: 1.7;
+  letter-spacing: 0.02em;
+  display: none;
+}
+.sutra-frame.is-pinyin-on .passage-py { display: block; }
+.passage.has-pinyin-open .passage-py { display: block; }
+.passage-en {
+  font-size: var(--fs-base);
+  color: var(--ink-3);
+  font-style: italic;
+  line-height: 1.7;
+}
+.passage-note {
+  font-size: var(--fs-sm);
+  color: var(--ink-4);
+  line-height: 1.65;
+  padding-top: 0.5rem;
+  margin-top: 0.2rem;
+  border-top: 1px dashed var(--rule);
+}
+.passage-note-toggle {
+  appearance: none;
+  background: transparent;
+  border: none;
+  padding: 0;
+  font: inherit;
+  font-size: var(--fs-2xs);
+  letter-spacing: var(--tracking-eyebrow-loose);
+  text-transform: uppercase;
+  color: var(--ink-5);
+  cursor: pointer;
+  align-self: flex-start;
+}
+.passage-note-toggle:hover { color: var(--ochre); }
+.passage-note[hidden] { display: none; }
+
+/* Sutra hero block — distinct from topic-hero by giving the central
+   text more vertical breathing room and letting the Sanskrit / English
+   subtitle anchor the orientation. */
+.sutra-hero {
+  margin: 0 0 1.4rem;
+}
+.sutra-hero-eyebrow {
+  font-size: var(--fs-2xs);
+  letter-spacing: var(--tracking-eyebrow-loose);
+  text-transform: uppercase;
+  color: var(--ink-5);
+  display: block;
+  margin-bottom: 0.45rem;
+}
+.sutra-hero-title {
+  font-family: var(--font-cn-display, var(--font-cn));
+  font-size: var(--fs-3xl);
+  font-weight: 700;
+  color: var(--ink);
+  letter-spacing: 0.04em;
+  line-height: 1.05;
+  margin: 0.1rem 0;
+}
+.sutra-hero-pinyin {
+  font-family: var(--font-mono);
+  font-size: var(--fs-md);
+  color: var(--ochre);
+  letter-spacing: 0.06em;
+  display: block;
+  margin-bottom: 0.25rem;
+}
+.sutra-hero-sanskrit {
+  font-size: var(--fs-md);
+  color: var(--ink-4);
+  font-style: italic;
+  display: block;
+  margin-bottom: 0.4rem;
+}
+.sutra-hero-en {
+  font-size: var(--fs-base);
+  color: var(--ink-3);
+  display: block;
+  margin-bottom: 0.55rem;
+}
+.sutra-hero-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem 1rem;
+  font-size: var(--fs-2xs);
+  letter-spacing: var(--tracking-eyebrow-loose);
+  text-transform: uppercase;
+  color: var(--ink-5);
+  margin-top: 0.6rem;
+}
+.sutra-hero-meta strong { color: var(--ink-3); font-weight: 500; }
+.sutra-hero-desc {
+  font-size: var(--fs-lg);
+  color: var(--ink-3);
+  line-height: 1.7;
+  margin-top: 0.85rem;
+}
+
+@media (max-width: 600px) {
+  .passage { padding: 0.95rem 1rem 0.95rem 1.15rem; }
+  .passage-cn { font-size: 1.3rem; line-height: 1.75; }
+}
+
 /* ── SOURCES BLOCK ───────────────────────────────────────── */
 .sources {
   margin-top: 2.5rem;

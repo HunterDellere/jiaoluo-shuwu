@@ -462,6 +462,20 @@ export function injectInlineAudio(body) {
     },
   );
 
+  // Sutra passage pairs — passage-cn + passage-py with an audio button
+  // injected after the pinyin span. Each passage is one clip in the inline
+  // audio manifest, hashed by (text|pinyin), so duplicates across sutra pages
+  // (eg. 揭谛揭谛… in both 心经 and a quoted commentary) share one MP3.
+  body = body.replace(
+    /<span class="passage-cn">([\s\S]*?)<\/span>(\s*)<span class="passage-py">([\s\S]*?)<\/span>/g,
+    (m, cnInner, ws, pyInner) => {
+      const text   = stripTags(cnInner).trim();
+      const pinyin = stripTags(pyInner).trim();
+      if (!text || !pinyin || !/[一-鿿]/.test(text)) return m;
+      return `<span class="passage-cn">${cnInner}</span>${ws}<span class="passage-py">${pyInner}</span>${buildAudioButton(text, pinyin, { inline: true })}`;
+    },
+  );
+
   return body;
 }
 
