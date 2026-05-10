@@ -195,7 +195,7 @@ content_sources:
           <div class="example">
             <div class="ex-cn">这个发型有点土，换个新的吧。</div>
             <div class="ex-py">Zhège fàxíng yǒudiǎn tǔ, huàn gè xīn de ba.</div>
-            <div class="ex-en">This hairstyle is a bit old-fashioned — try a new one.</div>
+            <div class="ex-en">This hairstyle is a bit old-fashioned; try a new one.</div>
           </div>
         </div>
       </div>
@@ -223,7 +223,7 @@ content_sources:
         <span class="cy-cn">入土为安</span>
         <span class="cy-py">rù tǔ wéi ān</span>
         <span class="cy-en">entering the earth brings peace — may they rest in peace</span>
-        <span class="cy-note">Lit: enter-earth-become-peaceful. The traditional Chinese expression for the peace of burial — entering the earth is how the deceased find rest. Used in discussions of funerary customs and in consoling the bereaved. Reflects the deep connection between 土 (earth) and the ancestral ground that both nourishes the living and receives the dead.</span>
+        <span class="cy-note">Lit: enter-earth-become-peaceful. The traditional Chinese expression for the peace of burial: entering the earth is how the deceased find rest. Used in discussions of funerary customs and in consoling the bereaved. Reflects the deep connection between 土 (earth) and the ancestral ground that both nourishes the living and receives the dead.</span>
       </div>
 
     </div>

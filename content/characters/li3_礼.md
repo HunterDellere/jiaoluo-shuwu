@@ -295,7 +295,7 @@ content_sources:
       <div class="scholar-label">哲学洞见 zhéxué dòngjiàn · Philosophical Insight</div>
       <p>Confucius's most concentrated statement on 礼 appears in the <em>Analects</em>: <strong>克己复礼为仁</strong> kè jǐ fù lǐ wéi rén , "To overcome the self and return to rites is to achieve 仁 (humaneness)." Four words of instruction, one of the most debated sentences in two thousand years of Chinese philosophy. What does it mean?</p>
       <p>The self being overcome (克己 kè jǐ) is the impulsive, appetite-driven, socially disruptive self that pushes in front of others, ignores its obligations, and acts as though it were the only person in the room. The self that emerges through 礼 is the 仁 self: attentive, responsive, capable of genuine relationship. Confucius saw no tension between self-cultivation and social form. Form was the instrument of cultivation. The repeated practice of the correct gesture (the bow, the yielding of the road, the correct seating at a feast) gradually reshapes the character of the person performing it.</p>
-      <p>The Confucian insight that distinguishes 礼 from mere rule-following: <strong>仁 (inner humaneness) and 礼 (external form) are inseparable.</strong> Without 礼, 仁 has no channel through which to act. Without 仁, 礼 becomes empty performance, the correct motions with nobody home inside them. Confucius was sharply critical of this failure: 人而不仁，如礼何？— "A person who lacks 仁, what use is 礼 to them?"</p>
+      <p>The Confucian insight that distinguishes 礼 from mere rule-following: <strong>仁 (inner humaneness) and 礼 (external form) are inseparable.</strong> Without 礼, 仁 has no channel through which to act. Without 仁, 礼 becomes empty performance, the correct motions with nobody home inside them. Confucius was sharply critical of this failure: 人而不仁，如礼何？"A person who lacks 仁, what use is 礼 to them?"</p>
       <p>The philosopher Xunzi 荀子, writing a century later, approached 礼 from a different angle: not as the expression of innate virtue but as the necessary correction of human nature. Where Mencius held that human nature is good and 礼 allows it to express itself, Xunzi held that human nature tends toward conflict and 礼 is the civilizational technology that redirects it. Both arguments arrive at the same conclusion: without 礼, there is 争 zhēng , contention, scrambling, the disintegration of social bonds. The disagreement is about why 礼 works; neither doubts that it does.</p>
       <p>A society that dismantles its forms of 礼 in the name of authenticity or spontaneity does not thereby become more genuine. It becomes less equipped to translate inner feeling into recognizable social action. 礼 is the grammar that makes social authenticity legible.</p>
     </div>
@@ -339,14 +339,14 @@ content_sources:
         <span class="cy-cn">克己复礼</span>
         <span class="cy-py">kè jǐ fù lǐ</span>
         <span class="cy-en">overcome the self, return to rites — the Confucian definition of humaneness</span>
-        <span class="cy-note">From <em>Analects</em> 12.1: 克己复礼为仁 — "To overcome the self and return to rites is to achieve 仁." One of the foundational statements of Confucian ethics. The phrase is quoted whenever the relationship between self-discipline and social form is under discussion. It encodes the central Confucian claim: that the cultivation of social forms is the cultivation of character, not its constraint.</span>
+        <span class="cy-note">From <em>Analects</em> 12.1: 克己复礼为仁. "To overcome the self and return to rites is to achieve 仁." One of the foundational statements of Confucian ethics. The phrase is quoted whenever the relationship between self-discipline and social form is under discussion. It encodes the central Confucian claim: that the cultivation of social forms is the cultivation of character, not its constraint.</span>
       </div>
 
       <div class="cy">
         <span class="cy-cn">礼尚往来</span>
         <span class="cy-py">lǐ shàng wǎng lái</span>
         <span class="cy-en">rites value reciprocity — one courtesy deserves another; give and take</span>
-        <span class="cy-note">From the 礼记 Lǐjì (Record of Rites): 礼尚往来，往而不来，非礼也；来而不往，亦非礼也 — "礼 values mutual exchange; to offer without receiving back is not 礼; to receive without offering back is also not 礼." The principle of reciprocity as the governing logic of social life. Used both seriously (the obligation to return a gift or favor) and lightly (teasing someone who owes you a visit).</span>
+        <span class="cy-note">From the 礼记 Lǐjì (Record of Rites): 礼尚往来，往而不来，非礼也；来而不往，亦非礼也. "礼 values mutual exchange; to offer without receiving back is not 礼; to receive without offering back is also not 礼." The principle of reciprocity as the governing logic of social life. Used both seriously (the obligation to return a gift or favor) and lightly (teasing someone who owes you a visit).</span>
       </div>
 
       <div class="cy">

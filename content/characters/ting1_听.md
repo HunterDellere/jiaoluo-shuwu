@@ -295,7 +295,7 @@ content_review: 'pending'
       <div class="scholar-label">记忆法 jìyìfǎ · Master Retention Image</div>
       <p>The traditional character 聽 is a diagram of what listening demands. Read it as a checklist: 耳 (is the ear turned toward the speaker?), 目 (are the eyes on them, reading their expression?), 心 (is the heart receiving their meaning?), 壬 (are you standing upright, posture signaling respect?). Every component is a requirement of genuine attention. The character describes not a physical act but a complete ethical orientation toward another person's words.</p>
       <p>The simplification to 听 (口 + 斤) is efficient. It is also a kind of forgetting: the new character tells you that listening involves a mouth-shaped context and a weight-like sound, but it does not tell you that it requires your eyes, your heart, or your moral bearing. The traditional form was pedagogical. It reminded the person writing it what listening was supposed to be.</p>
-      <p>The connection to obedience follows naturally from this ideal. If you have listened with ear, eye, heart, and upright virtue, then acting on what you heard is the completion of the act. 听话, 听从, 听命 — all the compliance compounds — are the logical outcome of the Confucian 聽. Full listening was never supposed to end at the ear.</p>
+      <p>The connection to obedience follows naturally from this ideal. If you have listened with ear, eye, heart, and upright virtue, then acting on what you heard is the completion of the act. 听话, 听从, 听命 (all the compliance compounds) are the logical outcome of the Confucian 聽. Full listening was never supposed to end at the ear.</p>
     </div>
 
     <footer class="page-footer">
