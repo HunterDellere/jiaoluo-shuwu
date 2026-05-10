@@ -1,8 +1,8 @@
 {
-  "generated": "2026-05-10T02:30:09.267Z",
+  "generated": "2026-05-10T03:48:15.352Z",
   "summary": {
     "errors": 0,
-    "warnings": 18,
+    "warnings": 131,
     "info": 373
   },
   "findings": [
@@ -116,6 +116,910 @@
       "category": "factual",
       "file": "data/_reference/hanzi-facts.json",
       "msg": "181 hanzi appear in content/ but have no reference entry: 桐梓谭鑫隋韻仝谿珪侄褚説辕弋変喫凵萃嘈剣罒吟聆彝诲亘翩冋丷闩魑魍魉幺楽謂趾绊辵萑…. Claims about these characters cannot be mechanically verified. Run 'npm run refresh:reference' after updating upstream data."
+    },
+    {
+      "level": "WARN",
+      "category": "cross-references",
+      "file": "content/characters/bai2_白.md",
+      "msg": "romanization 'Shījīng' for 诗经 — house style is 'Shijing'",
+      "context": "lasting into old age From the Shījīng 诗经. The standard wedding-toas",
+      "fix": "Replace 'Shījīng' with 'Shijing' in body prose, or rewrite so the toned form sits immediately after the CN form (parenthetical/adjacent glosses are exempt)."
+    },
+    {
+      "level": "WARN",
+      "category": "cross-references",
+      "file": "content/characters/bai2_白.md",
+      "msg": "romanization 'Lǐjì' for 礼记 — house style is 'Liji'",
+      "context": "is the color of mourning. The Lǐjì 礼记 codifies the 五服 (wǔ fú), t",
+      "fix": "Replace 'Lǐjì' with 'Liji' in body prose, or rewrite so the toned form sits immediately after the CN form (parenthetical/adjacent glosses are exempt)."
+    },
+    {
+      "level": "WARN",
+      "category": "cross-references",
+      "file": "content/characters/bai2_白.md",
+      "msg": "romanization 'Shuōwén' for 说文解字 — house style is 'Shuōwén Jiězì'",
+      "context": "light has overwhelmed it. The Shuōwén Jiězì places 白 in the Five Ph",
+      "fix": "Replace 'Shuōwén' with 'Shuōwén Jiězì' in body prose, or rewrite so the toned form sits immediately after the CN form (parenthetical/adjacent glosses are exempt)."
+    },
+    {
+      "level": "WARN",
+      "category": "cross-references",
+      "file": "content/characters/bai3_百.md",
+      "msg": "romanization 'Shuōwén' for 说文解字 — house style is 'Shuōwén Jiězì'",
+      "context": "one) on top of 白 (white). The Shuōwén Jiězì reads the character as",
+      "fix": "Replace 'Shuōwén' with 'Shuōwén Jiězì' in body prose, or rewrite so the toned form sits immediately after the CN form (parenthetical/adjacent glosses are exempt)."
+    },
+    {
+      "level": "WARN",
+      "category": "cross-references",
+      "file": "content/characters/bai3_百.md",
+      "msg": "romanization 'Shuōwén' for 说文解字 — house style is 'Shuōwén Jiězì'",
+      "context": ". One stroke above white. The Shuōwén called it \"ten tens,\" which i",
+      "fix": "Replace 'Shuōwén' with 'Shuōwén Jiězì' in body prose, or rewrite so the toned form sits immediately after the CN form (parenthetical/adjacent glosses are exempt)."
+    },
+    {
+      "level": "WARN",
+      "category": "cross-references",
+      "file": "content/characters/bi4_必.md",
+      "msg": "romanization 'Shuōwén' for 说文解字 — house style is 'Shuōwén Jiězì'",
+      "context": "s no middle ground. Xu Shen's Shuōwén Jiězì (说文解字, 100 CE) analyzes",
+      "fix": "Replace 'Shuōwén' with 'Shuōwén Jiězì' in body prose, or rewrite so the toned form sits immediately after the CN form (parenthetical/adjacent glosses are exempt)."
+    },
+    {
+      "level": "WARN",
+      "category": "cross-references",
+      "file": "content/characters/bian4_变.md",
+      "msg": "romanization 'Book of Changes' for 易经 — house style is 'Yijing'",
+      "context": "bulary 易 yì change; easy; the Book of Changes 化 huà to transform; to dissol",
+      "fix": "Replace 'Book of Changes' with 'Yijing' in body prose, or rewrite so the toned form sits immediately after the CN form (parenthetical/adjacent glosses are exempt)."
+    },
+    {
+      "level": "WARN",
+      "category": "cross-references",
+      "file": "content/characters/chu1_出.md",
+      "msg": "romanization 'Shuōwén' for 说文解字 — house style is 'Shuōwén Jiězì'",
+      "context": "tween inside and outside. The Shuōwén Jiězì defines 出 as 進 jìn (to",
+      "fix": "Replace 'Shuōwén' with 'Shuōwén Jiězì' in body prose, or rewrite so the toned form sits immediately after the CN form (parenthetical/adjacent glosses are exempt)."
+    },
+    {
+      "level": "WARN",
+      "category": "cross-references",
+      "file": "content/characters/de2_德.md",
+      "msg": "romanization 'Yìjīng' for 易经 — house style is 'Yijing'",
+      "context": "y supports the world From the Yìjīng (易经), the Book of Changes. Th",
+      "fix": "Replace 'Yìjīng' with 'Yijing' in body prose, or rewrite so the toned form sits immediately after the CN form (parenthetical/adjacent glosses are exempt)."
+    },
+    {
+      "level": "WARN",
+      "category": "cross-references",
+      "file": "content/characters/di4_地.md",
+      "msg": "romanization 'Book of Changes' for 易经 — house style is 'Yijing'",
+      "context": "ing and harmonizing both. The Book of Changes (易经 Yìjīng) organizes its hex",
+      "fix": "Replace 'Book of Changes' with 'Yijing' in body prose, or rewrite so the toned form sits immediately after the CN form (parenthetical/adjacent glosses are exempt)."
+    },
+    {
+      "level": "WARN",
+      "category": "cross-references",
+      "file": "content/characters/dong1_东.md",
+      "msg": "romanization 'Shuōwén' for 说文解字 — house style is 'Shuōwén Jiězì'",
+      "context": "is elegant and ancient , the Shuōwén Jiězì (100 CE) explicitly sta",
+      "fix": "Replace 'Shuōwén' with 'Shuōwén Jiězì' in body prose, or rewrite so the toned form sits immediately after the CN form (parenthetical/adjacent glosses are exempt)."
+    },
+    {
+      "level": "WARN",
+      "category": "cross-references",
+      "file": "content/characters/duo1_多.md",
+      "msg": "romanization 'Shuōwén' for 说文解字 — house style is 'Shuōwén Jiězì'",
+      "context": "on, plurality, intensity. The Shuōwén Jiězì (100 CE) confirms the s",
+      "fix": "Replace 'Shuōwén' with 'Shuōwén Jiězì' in body prose, or rewrite so the toned form sits immediately after the CN form (parenthetical/adjacent glosses are exempt)."
+    },
+    {
+      "level": "WARN",
+      "category": "cross-references",
+      "file": "content/characters/gao1_高.md",
+      "msg": "romanization 'Shuōwén' for 说文解字 — house style is 'Shuōwén Jiězì'",
+      "context": "er than its surroundings. The Shuōwén analysis identifies 高 as show",
+      "fix": "Replace 'Shuōwén' with 'Shuōwén Jiězì' in body prose, or rewrite so the toned form sits immediately after the CN form (parenthetical/adjacent glosses are exempt)."
+    },
+    {
+      "level": "WARN",
+      "category": "cross-references",
+      "file": "content/characters/guan1_关.md",
+      "msg": "romanization 'Shuōwén' for 说文解字 — house style is 'Shuōwén Jiězì'",
+      "context": "s, sealing the gate shut. The Shuōwén Jiězì gives the gloss directl",
+      "fix": "Replace 'Shuōwén' with 'Shuōwén Jiězì' in body prose, or rewrite so the toned form sits immediately after the CN form (parenthetical/adjacent glosses are exempt)."
+    },
+    {
+      "level": "WARN",
+      "category": "cross-references",
+      "file": "content/characters/he2_和.md",
+      "msg": "romanization 'Book of Rites' for 礼记 — house style is 'Liji'",
+      "context": "e everyone merely agrees. The Book of Rites (礼记) states: 礼之用，和为贵 , \"In th",
+      "fix": "Replace 'Book of Rites' with 'Liji' in body prose, or rewrite so the toned form sits immediately after the CN form (parenthetical/adjacent glosses are exempt)."
+    },
+    {
+      "level": "WARN",
+      "category": "cross-references",
+      "file": "content/characters/he2_和.md",
+      "msg": "romanization 'Book of Rites' for 礼记 — house style is 'Liji'",
+      "context": "se, harmony is most precious (Book of Rites) 中和 zhōnghé , moderation and",
+      "fix": "Replace 'Book of Rites' with 'Liji' in body prose, or rewrite so the toned form sits immediately after the CN form (parenthetical/adjacent glosses are exempt)."
+    },
+    {
+      "level": "WARN",
+      "category": "cross-references",
+      "file": "content/characters/jian4_见.md",
+      "msg": "romanization 'Yìjīng' for 易经 — house style is 'Yijing'",
+      "context": "legitimately differ From the Yìjīng 易经 commentary on the Way: 仁者見",
+      "fix": "Replace 'Yìjīng' with 'Yijing' in body prose, or rewrite so the toned form sits immediately after the CN form (parenthetical/adjacent glosses are exempt)."
+    },
+    {
+      "level": "WARN",
+      "category": "cross-references",
+      "file": "content/characters/jian4_见.md",
+      "msg": "romanization 'Shuōwén' for 说文解字 — house style is 'Shuōwén Jiězì'",
+      "context": "into one big sense organ. The Shuōwén Jiězì glosses 見 as 視也 (shì yě",
+      "fix": "Replace 'Shuōwén' with 'Shuōwén Jiězì' in body prose, or rewrite so the toned form sits immediately after the CN form (parenthetical/adjacent glosses are exempt)."
+    },
+    {
+      "level": "WARN",
+      "category": "cross-references",
+      "file": "content/characters/jin4_近.md",
+      "msg": "romanization 'Shuōwén' for 说文解字 — house style is 'Shuōwén Jiězì'",
+      "context": "atchet on it , that is 近. The Shuōwén Jiězì (Eastern Han, 121 CE) g",
+      "fix": "Replace 'Shuōwén' with 'Shuōwén Jiězì' in body prose, or rewrite so the toned form sits immediately after the CN form (parenthetical/adjacent glosses are exempt)."
+    },
+    {
+      "level": "WARN",
+      "category": "cross-references",
+      "file": "content/characters/kai1_开.md",
+      "msg": "romanization 'Shuōwén' for 说文解字 — house style is 'Shuōwén Jiězì'",
+      "context": "off and the doors swing. The Shuōwén Jiězì glosses 開 as 張也 (zhāng",
+      "fix": "Replace 'Shuōwén' with 'Shuōwén Jiězì' in body prose, or rewrite so the toned form sits immediately after the CN form (parenthetical/adjacent glosses are exempt)."
+    },
+    {
+      "level": "WARN",
+      "category": "cross-references",
+      "file": "content/characters/ke3_可.md",
+      "msg": "romanization 'Shuōwén' for 说文解字 — house style is 'Shuōwén Jiězì'",
+      "context": "s\" exhaled from the body. The Shuōwén Jiězì defines 可 as 肯也 , \"asse",
+      "fix": "Replace 'Shuōwén' with 'Shuōwén Jiězì' in body prose, or rewrite so the toned form sits immediately after the CN form (parenthetical/adjacent glosses are exempt)."
+    },
+    {
+      "level": "WARN",
+      "category": "cross-references",
+      "file": "content/characters/kong1_空.md",
+      "msg": "romanization 'Shuōwén' for 说文解字 — house style is 'Shuōwén Jiězì'",
+      "context": "rather than its meaning. The Shuōwén Jiězì glosses 空 as 竅也 (qiào y",
+      "fix": "Replace 'Shuōwén' with 'Shuōwén Jiězì' in body prose, or rewrite so the toned form sits immediately after the CN form (parenthetical/adjacent glosses are exempt)."
+    },
+    {
+      "level": "WARN",
+      "category": "cross-references",
+      "file": "content/characters/kuai4_快.md",
+      "msg": "romanization 'Shuōwén' for 说文解字 — house style is 'Shuōwén Jiězì'",
+      "context": "otch composition clearly. The Shuōwén Jiězì (121 CE) defines 快 as 喜",
+      "fix": "Replace 'Shuōwén' with 'Shuōwén Jiězì' in body prose, or rewrite so the toned form sits immediately after the CN form (parenthetical/adjacent glosses are exempt)."
+    },
+    {
+      "level": "WARN",
+      "category": "cross-references",
+      "file": "content/characters/lai2_来.md",
+      "msg": "romanization 'Shuōwén' for 说文解字 — house style is 'Shuōwén Jiězì'",
+      "context": "ide, roots visible below. The Shuōwén Jiězì (说文解字) records this exp",
+      "fix": "Replace 'Shuōwén' with 'Shuōwén Jiězì' in body prose, or rewrite so the toned form sits immediately after the CN form (parenthetical/adjacent glosses are exempt)."
+    },
+    {
+      "level": "WARN",
+      "category": "cross-references",
+      "file": "content/characters/lao3_老.md",
+      "msg": "romanization 'Tao Te Ching' for 道德经 — house style is 'Daodejing'",
+      "context": "e wrote 5,000 characters (the Tao Te Ching) and was never seen again. Th",
+      "fix": "Replace 'Tao Te Ching' with 'Daodejing' in body prose, or rewrite so the toned form sits immediately after the CN form (parenthetical/adjacent glosses are exempt)."
+    },
+    {
+      "level": "WARN",
+      "category": "cross-references",
+      "file": "content/characters/li3_里.md",
+      "msg": "romanization 'Shuowen Jiezi' for 说文解字 — house style is 'Shuōwén Jiězì'",
+      "context": "bounded, ploughed, owned. The Shuowen Jiezi (说文解字, 100 CE) defines it sim",
+      "fix": "Replace 'Shuowen Jiezi' with 'Shuōwén Jiězì' in body prose, or rewrite so the toned form sits immediately after the CN form (parenthetical/adjacent glosses are exempt)."
+    },
+    {
+      "level": "WARN",
+      "category": "cross-references",
+      "file": "content/characters/li3_里.md",
+      "msg": "romanization 'Shuowen' for 说文解字 — house style is 'Shuōwén Jiězì'",
+      "context": "bounded, ploughed, owned. The Shuowen Jiezi (说文解字, 100 CE) defines",
+      "fix": "Replace 'Shuowen' with 'Shuōwén Jiězì' in body prose, or rewrite so the toned form sits immediately after the CN form (parenthetical/adjacent glosses are exempt)."
+    },
+    {
+      "level": "WARN",
+      "category": "cross-references",
+      "file": "content/characters/nan2_南.md",
+      "msg": "romanization 'Shuōwén' for 说文解字 — house style is 'Shuōwén Jiězì'",
+      "context": "or the direction \"south.\" The Shuōwén analyzes 南 as depicting the p",
+      "fix": "Replace 'Shuōwén' with 'Shuōwén Jiězì' in body prose, or rewrite so the toned form sits immediately after the CN form (parenthetical/adjacent glosses are exempt)."
+    },
+    {
+      "level": "WARN",
+      "category": "cross-references",
+      "file": "content/characters/ni3_你.md",
+      "msg": "romanization 'Book of Odes' for 诗经 — house style is 'Shijing'",
+      "context": "ears throughout the Shī Jīng (Book of Odes, c. 1000–600 BCE) meaning \"yo",
+      "fix": "Replace 'Book of Odes' with 'Shijing' in body prose, or rewrite so the toned form sits immediately after the CN form (parenthetical/adjacent glosses are exempt)."
+    },
+    {
+      "level": "WARN",
+      "category": "cross-references",
+      "file": "content/characters/qu4_去.md",
+      "msg": "romanization 'Shuōwén' for 说文解字 — house style is 'Shuōwén Jiězì'",
+      "context": "inal pictographic intent. The Shuōwén Jiězì classifies 去 under its",
+      "fix": "Replace 'Shuōwén' with 'Shuōwén Jiězì' in body prose, or rewrite so the toned form sits immediately after the CN form (parenthetical/adjacent glosses are exempt)."
+    },
+    {
+      "level": "WARN",
+      "category": "cross-references",
+      "file": "content/characters/san1_三.md",
+      "msg": "romanization 'Shuowen Jiezi' for 说文解字 — house style is 'Shuōwén Jiězì'",
+      "context": "move toward the infinite. The Shuowen Jiezi defines 三 as: 三，天地人之道也 , \"Thr",
+      "fix": "Replace 'Shuowen Jiezi' with 'Shuōwén Jiězì' in body prose, or rewrite so the toned form sits immediately after the CN form (parenthetical/adjacent glosses are exempt)."
+    },
+    {
+      "level": "WARN",
+      "category": "cross-references",
+      "file": "content/characters/san1_三.md",
+      "msg": "romanization 'Shuowen' for 说文解字 — house style is 'Shuōwén Jiězì'",
+      "context": "move toward the infinite. The Shuowen Jiezi defines 三 as: 三，天地人之道也",
+      "fix": "Replace 'Shuowen' with 'Shuōwén Jiězì' in body prose, or rewrite so the toned form sits immediately after the CN form (parenthetical/adjacent glosses are exempt)."
+    },
+    {
+      "level": "WARN",
+      "category": "cross-references",
+      "file": "content/characters/shan4_善.md",
+      "msg": "romanization 'Yìjīng' for 易经 — house style is 'Yijing'",
+      "context": "blessings to spare. (from the Yìjīng, Xìcí) 善于 shànyú Skill & Apti",
+      "fix": "Replace 'Yìjīng' with 'Yijing' in body prose, or rewrite so the toned form sits immediately after the CN form (parenthetical/adjacent glosses are exempt)."
+    },
+    {
+      "level": "WARN",
+      "category": "cross-references",
+      "file": "content/characters/shan4_善.md",
+      "msg": "romanization 'Shuōwén' for 说文解字 — house style is 'Shuōwén Jiězì'",
+      "context": "ocial act of recognition. The Shuōwén Jiězì defines 善 tersely: 吉也 ,",
+      "fix": "Replace 'Shuōwén' with 'Shuōwén Jiězì' in body prose, or rewrite so the toned form sits immediately after the CN form (parenthetical/adjacent glosses are exempt)."
+    },
+    {
+      "level": "WARN",
+      "category": "cross-references",
+      "file": "content/characters/shang4_上.md",
+      "msg": "romanization 'Shuōwén' for 说文解字 — house style is 'Shuōwén Jiězì'",
+      "context": "s \"something is up here.\" The Shuōwén Jiězì (说文解字) describes 上 as a",
+      "fix": "Replace 'Shuōwén' with 'Shuōwén Jiězì' in body prose, or rewrite so the toned form sits immediately after the CN form (parenthetical/adjacent glosses are exempt)."
+    },
+    {
+      "level": "WARN",
+      "category": "cross-references",
+      "file": "content/characters/shao3_少.md",
+      "msg": "romanization 'Shuōwén' for 说文解字 — house style is 'Shuōwén Jiězì'",
+      "context": "roke through or below it. The Shuōwén notes that 少 relates to 小 sem",
+      "fix": "Replace 'Shuōwén' with 'Shuōwén Jiězì' in body prose, or rewrite so the toned form sits immediately after the CN form (parenthetical/adjacent glosses are exempt)."
+    },
+    {
+      "level": "WARN",
+      "category": "cross-references",
+      "file": "content/characters/shen2_神.md",
+      "msg": "romanization 'Shuōwén' for 说文解字 — house style is 'Shuōwén Jiězì'",
+      "context": "unning from sky to earth. The Shuōwén Jiězì glosses 申 with this sen",
+      "fix": "Replace 'Shuōwén' with 'Shuōwén Jiězì' in body prose, or rewrite so the toned form sits immediately after the CN form (parenthetical/adjacent glosses are exempt)."
+    },
+    {
+      "level": "WARN",
+      "category": "cross-references",
+      "file": "content/characters/shen2_神.md",
+      "msg": "romanization 'Shuōwén' for 说文解字 — house style is 'Shuōwén Jiězì'",
+      "context": "ed a space to receive it. The Shuōwén Jiězì (说文解字, compiled 100 CE",
+      "fix": "Replace 'Shuōwén' with 'Shuōwén Jiězì' in body prose, or rewrite so the toned form sits immediately after the CN form (parenthetical/adjacent glosses are exempt)."
+    },
+    {
+      "level": "WARN",
+      "category": "cross-references",
+      "file": "content/characters/shi2_十.md",
+      "msg": "romanization 'Shuowen Jiezi' for 说文解字 — house style is 'Shuōwén Jiězì'",
+      "context": "hape still written today. The Shuowen Jiezi defines it plainly: 十，数之具也 ,",
+      "fix": "Replace 'Shuowen Jiezi' with 'Shuōwén Jiězì' in body prose, or rewrite so the toned form sits immediately after the CN form (parenthetical/adjacent glosses are exempt)."
+    },
+    {
+      "level": "WARN",
+      "category": "cross-references",
+      "file": "content/characters/shi2_十.md",
+      "msg": "romanization 'Shuowen' for 说文解字 — house style is 'Shuōwén Jiězì'",
+      "context": "hape still written today. The Shuowen Jiezi defines it plainly: 十，数",
+      "fix": "Replace 'Shuowen' with 'Shuōwén Jiězì' in body prose, or rewrite so the toned form sits immediately after the CN form (parenthetical/adjacent glosses are exempt)."
+    },
+    {
+      "level": "WARN",
+      "category": "cross-references",
+      "file": "content/characters/si3_死.md",
+      "msg": "romanization 'Mengzi' for 孟子 — house style is 'Mencius'",
+      "context": "th and rank are with heaven.\" Mengzi 6A.10 chooses 义 (yì, righteou",
+      "fix": "Replace 'Mengzi' with 'Mencius' in body prose, or rewrite so the toned form sits immediately after the CN form (parenthetical/adjacent glosses are exempt)."
+    },
+    {
+      "level": "WARN",
+      "category": "cross-references",
+      "file": "content/characters/si3_死.md",
+      "msg": "romanization 'Sūnzǐ Bīngfǎ' for 孙子兵法 — house style is 'Sunzi Bingfa'",
+      "context": "es does one fight to win From Sūnzǐ Bīngfǎ 孙子兵法, the Art of War. Sun Tzu",
+      "fix": "Replace 'Sūnzǐ Bīngfǎ' with 'Sunzi Bingfa' in body prose, or rewrite so the toned form sits immediately after the CN form (parenthetical/adjacent glosses are exempt)."
+    },
+    {
+      "level": "WARN",
+      "category": "cross-references",
+      "file": "content/characters/si3_死.md",
+      "msg": "romanization 'Shuōwén' for 说文解字 — house style is 'Shuōwén Jiězì'",
+      "context": "t as the dead body alone. The Shuōwén Jiězì glosses 死 as 澌也，人所離也 (s",
+      "fix": "Replace 'Shuōwén' with 'Shuōwén Jiězì' in body prose, or rewrite so the toned form sits immediately after the CN form (parenthetical/adjacent glosses are exempt)."
+    },
+    {
+      "level": "WARN",
+      "category": "cross-references",
+      "file": "content/characters/ta1_他.md",
+      "msg": "romanization 'Book of Songs' for 诗经 — house style is 'Shijing'",
+      "context": "polish your own jade From the Book of Songs (诗经): \"stones from other hill",
+      "fix": "Replace 'Book of Songs' with 'Shijing' in body prose, or rewrite so the toned form sits immediately after the CN form (parenthetical/adjacent glosses are exempt)."
+    },
+    {
+      "level": "WARN",
+      "category": "cross-references",
+      "file": "content/characters/ta1_她.md",
+      "msg": "romanization 'Book of Songs' for 诗经 — house style is 'Shijing'",
+      "context": "the far side of the waters. (Book of Songs 诗经) 祂 tā He/She (capitalized,",
+      "fix": "Replace 'Book of Songs' with 'Shijing' in body prose, or rewrite so the toned form sits immediately after the CN form (parenthetical/adjacent glosses are exempt)."
+    },
+    {
+      "level": "WARN",
+      "category": "cross-references",
+      "file": "content/characters/wang2_王.md",
+      "msg": "romanization 'Shuōwén' for 说文解字 — house style is 'Shuōwén Jiězì'",
+      "context": "as taken up by Xǔ Shèn in the Shuōwén Jiězì a century later. It is",
+      "fix": "Replace 'Shuōwén' with 'Shuōwén Jiězì' in body prose, or rewrite so the toned form sits immediately after the CN form (parenthetical/adjacent glosses are exempt)."
+    },
+    {
+      "level": "WARN",
+      "category": "cross-references",
+      "file": "content/characters/wei2_为.md",
+      "msg": "romanization 'Shuōwén' for 说文解字 — house style is 'Shuōwén Jiězì'",
+      "context": "the original at the top. The Shuōwén Jiězì defines 为 as 母猴也 (a mac",
+      "fix": "Replace 'Shuōwén' with 'Shuōwén Jiězì' in body prose, or rewrite so the toned form sits immediately after the CN form (parenthetical/adjacent glosses are exempt)."
+    },
+    {
+      "level": "WARN",
+      "category": "cross-references",
+      "file": "content/characters/wu2_无.md",
+      "msg": "romanization 'Dào Dé Jīng' for 道德经 — house style is 'Daodejing'",
+      "context": "te each other,\" the line from Dào Dé Jīng 2 that founded a millennium o",
+      "fix": "Replace 'Dào Dé Jīng' with 'Daodejing' in body prose, or rewrite so the toned form sits immediately after the CN form (parenthetical/adjacent glosses are exempt)."
+    },
+    {
+      "level": "WARN",
+      "category": "cross-references",
+      "file": "content/characters/wu2_无.md",
+      "msg": "romanization 'Dào Dé Jīng' for 道德经 — house style is 'Daodejing'",
+      "context": "s cosmology. Chapter 1 of the Dào Dé Jīng opens with the line 无名天地之始，有名",
+      "fix": "Replace 'Dào Dé Jīng' with 'Daodejing' in body prose, or rewrite so the toned form sits immediately after the CN form (parenthetical/adjacent glosses are exempt)."
+    },
+    {
+      "level": "WARN",
+      "category": "cross-references",
+      "file": "content/characters/wu2_无.md",
+      "msg": "romanization 'Dào Dé Jīng' for 道德经 — house style is 'Daodejing'",
+      "context": ", 无名 is the unnamed origin of Dào Dé Jīng 1, the prior condition before",
+      "fix": "Replace 'Dào Dé Jīng' with 'Daodejing' in body prose, or rewrite so the toned form sits immediately after the CN form (parenthetical/adjacent glosses are exempt)."
+    },
+    {
+      "level": "WARN",
+      "category": "cross-references",
+      "file": "content/characters/wu2_无.md",
+      "msg": "romanization 'Dào Dé Jīng' for 道德经 — house style is 'Daodejing'",
+      "context": ", to invent from nothing From Dào Dé Jīng 40: 天下万物生于有，有生于无 (tiānxià wàn",
+      "fix": "Replace 'Dào Dé Jīng' with 'Daodejing' in body prose, or rewrite so the toned form sits immediately after the CN form (parenthetical/adjacent glosses are exempt)."
+    },
+    {
+      "level": "WARN",
+      "category": "cross-references",
+      "file": "content/characters/wu2_无.md",
+      "msg": "romanization 'Yìjīng' for 易经 — house style is 'Yijing'",
+      "context": "form already attested in the Yìjīng and other classical texts; th",
+      "fix": "Replace 'Yìjīng' with 'Yijing' in body prose, or rewrite so the toned form sits immediately after the CN form (parenthetical/adjacent glosses are exempt)."
+    },
+    {
+      "level": "WARN",
+      "category": "cross-references",
+      "file": "content/characters/wu2_无.md",
+      "msg": "romanization 'Shuōwén' for 说文解字 — house style is 'Shuōwén Jiězì'",
+      "context": "the 无-family characters. The Shuōwén Jiězì glosses 無 as 亡也 (wáng y",
+      "fix": "Replace 'Shuōwén' with 'Shuōwén Jiězì' in body prose, or rewrite so the toned form sits immediately after the CN form (parenthetical/adjacent glosses are exempt)."
+    },
+    {
+      "level": "WARN",
+      "category": "cross-references",
+      "file": "content/characters/xi1_西.md",
+      "msg": "romanization 'Shuōwén' for 说文解字 — house style is 'Shuōwén Jiězì'",
+      "context": "the direction of sunset. The Shuōwén analysis (100 CE) reads 西 as",
+      "fix": "Replace 'Shuōwén' with 'Shuōwén Jiězì' in body prose, or rewrite so the toned form sits immediately after the CN form (parenthetical/adjacent glosses are exempt)."
+    },
+    {
+      "level": "WARN",
+      "category": "cross-references",
+      "file": "content/characters/xia4_下.md",
+      "msg": "romanization 'Shuōwén' for 说文解字 — house style is 'Shuōwén Jiězì'",
+      "context": "ns confirm this directly. The Shuōwén Jiězì (说文解字) records 下 as \"be",
+      "fix": "Replace 'Shuōwén' with 'Shuōwén Jiězì' in body prose, or rewrite so the toned form sits immediately after the CN form (parenthetical/adjacent glosses are exempt)."
+    },
+    {
+      "level": "WARN",
+      "category": "cross-references",
+      "file": "content/characters/xiao3_小.md",
+      "msg": "romanization 'Shuōwén' for 说文解字 — house style is 'Shuōwén Jiězì'",
+      "context": "est lexicographic traditions. Shuōwén Jiězì glosses it as represent",
+      "fix": "Replace 'Shuōwén' with 'Shuōwén Jiězì' in body prose, or rewrite so the toned form sits immediately after the CN form (parenthetical/adjacent glosses are exempt)."
+    },
+    {
+      "level": "WARN",
+      "category": "cross-references",
+      "file": "content/characters/xing2_行.md",
+      "msg": "romanization 'Shuōwén' for 说文解字 — house style is 'Shuōwén Jiězì'",
+      "context": "rsecting at right angles. The Shuōwén Jiězì 说文解字 already gives this",
+      "fix": "Replace 'Shuōwén' with 'Shuōwén Jiězì' in body prose, or rewrite so the toned form sits immediately after the CN form (parenthetical/adjacent glosses are exempt)."
+    },
+    {
+      "level": "WARN",
+      "category": "cross-references",
+      "file": "content/characters/yi1_一.md",
+      "msg": "romanization 'Lunyu' for 论语 — house style is 'Analects'",
+      "context": "haracter expressions from the Lunyu. 一举两得 yī jǔ liǎng dé one acti",
+      "fix": "Replace 'Lunyu' with 'Analects' in body prose, or rewrite so the toned form sits immediately after the CN form (parenthetical/adjacent glosses are exempt)."
+    },
+    {
+      "level": "WARN",
+      "category": "cross-references",
+      "file": "content/characters/yi1_一.md",
+      "msg": "romanization 'Shuōwén' for 说文解字 — house style is 'Shuōwén Jiězì'",
+      "context": "characters derive. Xu Shen's Shuōwén Jiézì (說文解字, 121 CE) opens wi",
+      "fix": "Replace 'Shuōwén' with 'Shuōwén Jiězì' in body prose, or rewrite so the toned form sits immediately after the CN form (parenthetical/adjacent glosses are exempt)."
+    },
+    {
+      "level": "WARN",
+      "category": "cross-references",
+      "file": "content/characters/yi1_一.md",
+      "msg": "romanization 'Shuowen' for 说文解字 — house style is 'Shuōwén Jiězì'",
+      "context": "字源 Etymology one stroke; the Shuowen primordial 变调 Tone Sandhi yī",
+      "fix": "Replace 'Shuowen' with 'Shuōwén Jiězì' in body prose, or rewrite so the toned form sits immediately after the CN form (parenthetical/adjacent glosses are exempt)."
+    },
+    {
+      "level": "WARN",
+      "category": "cross-references",
+      "file": "content/characters/yi1_一.md",
+      "msg": "romanization 'Shuowen' for 说文解字 — house style is 'Shuōwén Jiězì'",
+      "context": "kes its first mark. Xu Shen's Shuowen gloss , 道立于一，造分天地 , reads Lao",
+      "fix": "Replace 'Shuowen' with 'Shuōwén Jiězì' in body prose, or rewrite so the toned form sits immediately after the CN form (parenthetical/adjacent glosses are exempt)."
+    },
+    {
+      "level": "WARN",
+      "category": "cross-references",
+      "file": "content/characters/yi3_以.md",
+      "msg": "romanization 'Shuōwén' for 说文解字 — house style is 'Shuōwén Jiězì'",
+      "context": "use, to take, to employ. The Shuōwén Jiězì defines 以 as 用也 , \"to u",
+      "fix": "Replace 'Shuōwén' with 'Shuōwén Jiězì' in body prose, or rewrite so the toned form sits immediately after the CN form (parenthetical/adjacent glosses are exempt)."
+    },
+    {
+      "level": "WARN",
+      "category": "cross-references",
+      "file": "content/characters/yong4_用.md",
+      "msg": "romanization 'Zhuāngzǐ' for 庄子 — house style is 'Zhuangzi'",
+      "context": "Inversion In Chapter 4 of the Zhuāngzǐ , a carpenter passes an enorm",
+      "fix": "Replace 'Zhuāngzǐ' with 'Zhuangzi' in body prose, or rewrite so the toned form sits immediately after the CN form (parenthetical/adjacent glosses are exempt)."
+    },
+    {
+      "level": "WARN",
+      "category": "cross-references",
+      "file": "content/characters/yong4_用.md",
+      "msg": "romanization 'Shuōwén' for 说文解字 — house style is 'Shuōwén Jiězì'",
+      "context": "entirely in what it does. The Shuōwén Jiězì reads: 用，可施行也 , \"用 mean",
+      "fix": "Replace 'Shuōwén' with 'Shuōwén Jiězì' in body prose, or rewrite so the toned form sits immediately after the CN form (parenthetical/adjacent glosses are exempt)."
+    },
+    {
+      "level": "WARN",
+      "category": "cross-references",
+      "file": "content/characters/you4_右.md",
+      "msg": "romanization 'Lǐjì' for 礼记 — house style is 'Liji'",
+      "context": "tual contexts governed by the Lǐjì (Book of Rites), certain cere",
+      "fix": "Replace 'Lǐjì' with 'Liji' in body prose, or rewrite so the toned form sits immediately after the CN form (parenthetical/adjacent glosses are exempt)."
+    },
+    {
+      "level": "WARN",
+      "category": "cross-references",
+      "file": "content/characters/you4_右.md",
+      "msg": "romanization 'Lǐjì' for 礼记 — house style is 'Liji'",
+      "context": "higher ceremonial weight. The Lǐjì is explicit that mourning cha",
+      "fix": "Replace 'Lǐjì' with 'Liji' in body prose, or rewrite so the toned form sits immediately after the CN form (parenthetical/adjacent glosses are exempt)."
+    },
+    {
+      "level": "WARN",
+      "category": "cross-references",
+      "file": "content/characters/you4_右.md",
+      "msg": "romanization 'Book of Rites' for 礼记 — house style is 'Liji'",
+      "context": "ontexts governed by the Lǐjì (Book of Rites), certain ceremonial arrangem",
+      "fix": "Replace 'Book of Rites' with 'Liji' in body prose, or rewrite so the toned form sits immediately after the CN form (parenthetical/adjacent glosses are exempt)."
+    },
+    {
+      "level": "WARN",
+      "category": "cross-references",
+      "file": "content/characters/yu3_雨.md",
+      "msg": "romanization 'Art of War' for 孙子兵法 — house style is 'Sunzi Bingfa'",
+      "context": "ardship together From Sunzi's Art of War: \"People of Wu and Yue hate e",
+      "fix": "Replace 'Art of War' with 'Sunzi Bingfa' in body prose, or rewrite so the toned form sits immediately after the CN form (parenthetical/adjacent glosses are exempt)."
+    },
+    {
+      "level": "WARN",
+      "category": "cross-references",
+      "file": "content/characters/yu4_玉.md",
+      "msg": "romanization 'Lǐjì' for 礼记 — house style is 'Liji'",
+      "context": "t on jade is a passage in the Lǐjì (礼记, Book of Rites), in which",
+      "fix": "Replace 'Lǐjì' with 'Liji' in body prose, or rewrite so the toned form sits immediately after the CN form (parenthetical/adjacent glosses are exempt)."
+    },
+    {
+      "level": "WARN",
+      "category": "cross-references",
+      "file": "content/characters/zhen1_真.md",
+      "msg": "romanization 'Shuōwén' for 说文解字 — house style is 'Shuōwén Jiězì'",
+      "context": "(a small table or stand). The Shuōwén glosses 真 as \"the form a tran",
+      "fix": "Replace 'Shuōwén' with 'Shuōwén Jiězì' in body prose, or rewrite so the toned form sits immediately after the CN form (parenthetical/adjacent glosses are exempt)."
+    },
+    {
+      "level": "WARN",
+      "category": "cross-references",
+      "file": "content/characters/zhi1_知.md",
+      "msg": "romanization 'Art of War' for 孙子兵法 — house style is 'Sunzi Bingfa'",
+      "context": "understanding From Sun Tzu's Art of War (孙子兵法·谋攻篇): 知彼知己，百战不殆 (zhī bǐ",
+      "fix": "Replace 'Art of War' with 'Sunzi Bingfa' in body prose, or rewrite so the toned form sits immediately after the CN form (parenthetical/adjacent glosses are exempt)."
+    },
+    {
+      "level": "WARN",
+      "category": "cross-references",
+      "file": "content/characters/zu2_足.md",
+      "msg": "romanization 'Shuōwén' for 说文解字 — house style is 'Shuōwén Jiězì'",
+      "context": "heel and toes suggested. The Shuōwén Jiězì (100 CE) analyzed the c",
+      "fix": "Replace 'Shuōwén' with 'Shuōwén Jiězì' in body prose, or rewrite so the toned form sits immediately after the CN form (parenthetical/adjacent glosses are exempt)."
+    },
+    {
+      "level": "WARN",
+      "category": "cross-references",
+      "file": "content/characters/zuo3_左.md",
+      "msg": "romanization 'Lǐjì' for 礼记 — house style is 'Liji'",
+      "context": "e solemn or honored side. The Lǐjì (Book of Rites) specifies dif",
+      "fix": "Replace 'Lǐjì' with 'Liji' in body prose, or rewrite so the toned form sits immediately after the CN form (parenthetical/adjacent glosses are exempt)."
+    },
+    {
+      "level": "WARN",
+      "category": "cross-references",
+      "file": "content/characters/zuo3_左.md",
+      "msg": "romanization 'Book of Rites' for 礼记 — house style is 'Liji'",
+      "context": "mn or honored side. The Lǐjì (Book of Rites) specifies different spatial",
+      "fix": "Replace 'Book of Rites' with 'Liji' in body prose, or rewrite so the toned form sits immediately after the CN form (parenthetical/adjacent glosses are exempt)."
+    },
+    {
+      "level": "WARN",
+      "category": "cross-references",
+      "file": "content/chengyu/mituzhifan_迷途知返.md",
+      "msg": "romanization 'Book of Changes' for 易经 — house style is 'Yijing'",
+      "context": "hilosophical root sits in the Book of Changes hexagram 复 (fù, Return): \"In",
+      "fix": "Replace 'Book of Changes' with 'Yijing' in body prose, or rewrite so the toned form sits immediately after the CN form (parenthetical/adjacent glosses are exempt)."
+    },
+    {
+      "level": "WARN",
+      "category": "cross-references",
+      "file": "content/chengyu/saiwengshima_塞翁失马.md",
+      "msg": "romanization 'Zhuāngzǐ' for 庄子 — house style is 'Zhuangzi'",
+      "context": "at runs through the Lǎozǐ and Zhuāngzǐ : opposites generate each oth",
+      "fix": "Replace 'Zhuāngzǐ' with 'Zhuangzi' in body prose, or rewrite so the toned form sits immediately after the CN form (parenthetical/adjacent glosses are exempt)."
+    },
+    {
+      "level": "WARN",
+      "category": "cross-references",
+      "file": "content/chengyu/wangyangbuao_亡羊补牢.md",
+      "msg": "romanization 'Book of Songs' for 诗经 — house style is 'Shijing'",
+      "context": "efore the rain comes From the Book of Songs (诗经, Shījīng): the bird weave",
+      "fix": "Replace 'Book of Songs' with 'Shijing' in body prose, or rewrite so the toned form sits immediately after the CN form (parenthetical/adjacent glosses are exempt)."
+    },
+    {
+      "level": "WARN",
+      "category": "cross-references",
+      "file": "content/chengyu/yushijujin_与时俱进.md",
+      "msg": "romanization 'Book of Changes' for 易经 — house style is 'Yijing'",
+      "context": "erm from the Analects and the Book of Changes. Confucius, in the Analects,",
+      "fix": "Replace 'Book of Changes' with 'Yijing' in body prose, or rewrite so the toned form sits immediately after the CN form (parenthetical/adjacent glosses are exempt)."
+    },
+    {
+      "level": "WARN",
+      "category": "cross-references",
+      "file": "content/chengyu/yushijujin_与时俱进.md",
+      "msg": "romanization 'Book of Changes' for 易经 — house style is 'Yijing'",
+      "context": "lly applying fixed rules. The Book of Changes, in its commentary tradition,",
+      "fix": "Replace 'Book of Changes' with 'Yijing' in body prose, or rewrite so the toned form sits immediately after the CN form (parenthetical/adjacent glosses are exempt)."
+    },
+    {
+      "level": "WARN",
+      "category": "cross-references",
+      "file": "content/chengyu/yushijujin_与时俱进.md",
+      "msg": "romanization 'Book of Changes' for 易经 — house style is 'Yijing'",
+      "context": "d, establish the new From the Book of Changes. The more active, transformat",
+      "fix": "Replace 'Book of Changes' with 'Yijing' in body prose, or rewrite so the toned form sits immediately after the CN form (parenthetical/adjacent glosses are exempt)."
+    },
+    {
+      "level": "WARN",
+      "category": "cross-references",
+      "file": "content/daily/topic_mixin.md",
+      "msg": "romanization 'I Ching' for 易经 — house style is 'Yijing'",
+      "context": "he eight trigrams (八卦) of the I Ching, hung above doorways to defle",
+      "fix": "Replace 'I Ching' with 'Yijing' in body prose, or rewrite so the toned form sits immediately after the CN form (parenthetical/adjacent glosses are exempt)."
+    },
+    {
+      "level": "WARN",
+      "category": "cross-references",
+      "file": "content/grammar/suo_所.md",
+      "msg": "romanization 'Shījīng' for 诗经 — house style is 'Shijing'",
+      "context": "tosses in sleepless longing (Shījīng, \"Guānjū\"). 所见 suǒ jiàn that",
+      "fix": "Replace 'Shījīng' with 'Shijing' in body prose, or rewrite so the toned form sits immediately after the CN form (parenthetical/adjacent glosses are exempt)."
+    },
+    {
+      "level": "WARN",
+      "category": "cross-references",
+      "file": "content/grammar/zhi_者.md",
+      "msg": "romanization 'Art of War' for 孙子兵法 — house style is 'Sunzi Bingfa'",
+      "context": "a hundred battles. (Sun Tzu, Art of War) 不劳而获者 bù láo ér huò zhě one",
+      "fix": "Replace 'Art of War' with 'Sunzi Bingfa' in body prose, or rewrite so the toned form sits immediately after the CN form (parenthetical/adjacent glosses are exempt)."
+    },
+    {
+      "level": "WARN",
+      "category": "cross-references",
+      "file": "content/history/topic_chunqiu.md",
+      "msg": "romanization 'Zhuāngzǐ' for 庄子 — house style is 'Zhuangzi'",
+      "context": "he Dàodéjīng , the Mòzǐ , the Zhuāngzǐ , the Hánfēizǐ , defined the",
+      "fix": "Replace 'Zhuāngzǐ' with 'Zhuangzi' in body prose, or rewrite so the toned form sits immediately after the CN form (parenthetical/adjacent glosses are exempt)."
+    },
+    {
+      "level": "WARN",
+      "category": "cross-references",
+      "file": "content/history/topic_handai.md",
+      "msg": "romanization 'Art of War' for 孙子兵法 — house style is 'Sunzi Bingfa'",
+      "context": "nishment, Sun Tzu writing the Art of War after losing his feet to judi",
+      "fix": "Replace 'Art of War' with 'Sunzi Bingfa' in body prose, or rewrite so the toned form sits immediately after the CN form (parenthetical/adjacent glosses are exempt)."
+    },
+    {
+      "level": "WARN",
+      "category": "cross-references",
+      "file": "content/history/topic_handai.md",
+      "msg": "romanization 'Shuowen Jiezi' for 说文解字 — house style is 'Shuōwén Jiězì'",
+      "context": "e dictionaries (above all the Shuowen Jiezi) that fixed the classical voc",
+      "fix": "Replace 'Shuowen Jiezi' with 'Shuōwén Jiězì' in body prose, or rewrite so the toned form sits immediately after the CN form (parenthetical/adjacent glosses are exempt)."
+    },
+    {
+      "level": "WARN",
+      "category": "cross-references",
+      "file": "content/history/topic_handai.md",
+      "msg": "romanization 'Shuowen' for 说文解字 — house style is 'Shuōwén Jiězì'",
+      "context": "e dictionaries (above all the Shuowen Jiezi) that fixed the classic",
+      "fix": "Replace 'Shuowen' with 'Shuōwén Jiězì' in body prose, or rewrite so the toned form sits immediately after the CN form (parenthetical/adjacent glosses are exempt)."
+    },
+    {
+      "level": "WARN",
+      "category": "cross-references",
+      "file": "content/history/topic_keju.md",
+      "msg": "romanization 'Book of Rites' for 礼记 — house style is 'Liji'",
+      "context": "(originally a chapter of the Book of Rites) synthesizing the path from s",
+      "fix": "Replace 'Book of Rites' with 'Liji' in body prose, or rewrite so the toned form sits immediately after the CN form (parenthetical/adjacent glosses are exempt)."
+    },
+    {
+      "level": "WARN",
+      "category": "cross-references",
+      "file": "content/history/topic_keju.md",
+      "msg": "romanization 'Book of Rites' for 礼记 — house style is 'Liji'",
+      "context": "ean: another excerpt from the Book of Rites, concerned with sincerity (诚",
+      "fix": "Replace 'Book of Rites' with 'Liji' in body prose, or rewrite so the toned form sits immediately after the CN form (parenthetical/adjacent glosses are exempt)."
+    },
+    {
+      "level": "WARN",
+      "category": "cross-references",
+      "file": "content/history/topic_xinhai.md",
+      "msg": "romanization 'Book of Rites' for 礼记 — house style is 'Liji'",
+      "context": "public good\"), drawn from the Book of Rites (礼记 Lǐjì), appears on buildin",
+      "fix": "Replace 'Book of Rites' with 'Liji' in body prose, or rewrite so the toned form sits immediately after the CN form (parenthetical/adjacent glosses are exempt)."
+    },
+    {
+      "level": "WARN",
+      "category": "cross-references",
+      "file": "content/history/topic_xinhai.md",
+      "msg": "romanization 'Book of Rites' for 礼记 — house style is 'Liji'",
+      "context": "motto, drawn from the ancient Book of Rites . Inscribed on buildings and",
+      "fix": "Replace 'Book of Rites' with 'Liji' in body prose, or rewrite so the toned form sits immediately after the CN form (parenthetical/adjacent glosses are exempt)."
+    },
+    {
+      "level": "WARN",
+      "category": "cross-references",
+      "file": "content/history/topic_zhanguo.md",
+      "msg": "romanization 'Art of War' for 孙子兵法 — house style is 'Sunzi Bingfa'",
+      "context": "u will never be in danger.\" — Art of War, Chapter 3. 秦为何胜出 Qín Wèi Hé",
+      "fix": "Replace 'Art of War' with 'Sunzi Bingfa' in body prose, or rewrite so the toned form sits immediately after the CN form (parenthetical/adjacent glosses are exempt)."
+    },
+    {
+      "level": "WARN",
+      "category": "cross-references",
+      "file": "content/hubs/daode.md",
+      "msg": "romanization 'Lǐjì' for 礼记 — house style is 'Liji'",
+      "context": "ants. For 礼 specifically, the Lǐjì 礼记 (Record of Rites) is the e",
+      "fix": "Replace 'Lǐjì' with 'Liji' in body prose, or rewrite so the toned form sits immediately after the CN form (parenthetical/adjacent glosses are exempt)."
+    },
+    {
+      "level": "WARN",
+      "category": "cross-references",
+      "file": "content/hubs/wenxue.md",
+      "msg": "romanization 'Book of Songs' for 诗经 — house style is 'Shijing'",
+      "context": "n translation: Arthur Waley's Book of Songs (1937, reprinted Grove Press)",
+      "fix": "Replace 'Book of Songs' with 'Shijing' in body prose, or rewrite so the toned form sits immediately after the CN form (parenthetical/adjacent glosses are exempt)."
+    },
+    {
+      "level": "WARN",
+      "category": "cross-references",
+      "file": "content/philosophy/topic_lixue.md",
+      "msg": "romanization 'Book of Changes' for 易经 — house style is 'Yijing'",
+      "context": "《通书》Tōngshū (Penetrating the Book of Changes). In the Tàijí Túshuō, a text",
+      "fix": "Replace 'Book of Changes' with 'Yijing' in body prose, or rewrite so the toned form sits immediately after the CN form (parenthetical/adjacent glosses are exempt)."
+    },
+    {
+      "level": "WARN",
+      "category": "cross-references",
+      "file": "content/philosophy/topic_mengzi.md",
+      "msg": "romanization 'Lúnyǔ' for 论语 — house style is 'Analects'",
+      "context": "s 四书 (Dàxué 大学, Zhōngyōng 中庸, Lúnyǔ 论语, Mèngzǐ 孟子) and elevated t",
+      "fix": "Replace 'Lúnyǔ' with 'Analects' in body prose, or rewrite so the toned form sits immediately after the CN form (parenthetical/adjacent glosses are exempt)."
+    },
+    {
+      "level": "WARN",
+      "category": "cross-references",
+      "file": "content/philosophy/topic_mengzi.md",
+      "msg": "romanization 'Mèngzǐ' for 孟子 — house style is 'Mencius'",
+      "context": "é 大学, Zhōngyōng 中庸, Lúnyǔ 论语, Mèngzǐ 孟子) and elevated them above t",
+      "fix": "Replace 'Mèngzǐ' with 'Mencius' in body prose, or rewrite so the toned form sits immediately after the CN form (parenthetical/adjacent glosses are exempt)."
+    },
+    {
+      "level": "WARN",
+      "category": "cross-references",
+      "file": "content/philosophy/topic_yijing.md",
+      "msg": "romanization 'Book of Changes' for 易经 — house style is 'Yijing'",
+      "context": "attributed to Confucius. The Book of Changes is simultaneously the oldest",
+      "fix": "Replace 'Book of Changes' with 'Yijing' in body prose, or rewrite so the toned form sits immediately after the CN form (parenthetical/adjacent glosses are exempt)."
+    },
+    {
+      "level": "WARN",
+      "category": "cross-references",
+      "file": "content/science/topic_fengshui_science.md",
+      "msg": "romanization 'I Ching' for 易经 — house style is 'Yijing'",
+      "context": "十八宿), the 64 hexagrams of the I Ching, various schools' proprietary",
+      "fix": "Replace 'I Ching' with 'Yijing' in body prose, or rewrite so the toned form sits immediately after the CN form (parenthetical/adjacent glosses are exempt)."
+    },
+    {
+      "level": "WARN",
+      "category": "cross-references",
+      "file": "content/vocab/bushou_部首.md",
+      "msg": "romanization 'Shuowen Jiezi' for 说文解字 — house style is 'Shuōwén Jiězì'",
+      "context": "onetic loan). Codified in the Shuowen Jiezi (100 CE). Jiǎoluò Shūwū · 角落書",
+      "fix": "Replace 'Shuowen Jiezi' with 'Shuōwén Jiězì' in body prose, or rewrite so the toned form sits immediately after the CN form (parenthetical/adjacent glosses are exempt)."
+    },
+    {
+      "level": "WARN",
+      "category": "cross-references",
+      "file": "content/vocab/bushou_部首.md",
+      "msg": "romanization 'Shuowen' for 说文解字 — house style is 'Shuōwén Jiězì'",
+      "context": "onetic loan). Codified in the Shuowen Jiezi (100 CE). Jiǎoluò Shūwū",
+      "fix": "Replace 'Shuowen' with 'Shuōwén Jiězì' in body prose, or rewrite so the toned form sits immediately after the CN form (parenthetical/adjacent glosses are exempt)."
+    },
+    {
+      "level": "WARN",
+      "category": "cross-references",
+      "file": "content/vocab/guojia_国家.md",
+      "msg": "romanization 'Book of Rites' for 礼记 — house style is 'Liji'",
+      "context": "(大学 Dàxué), a chapter of the Book of Rites later elevated to one of the",
+      "fix": "Replace 'Book of Rites' with 'Liji' in body prose, or rewrite so the toned form sits immediately after the CN form (parenthetical/adjacent glosses are exempt)."
+    },
+    {
+      "level": "WARN",
+      "category": "cross-references",
+      "file": "content/vocab/hanzi_汉字.md",
+      "msg": "romanization 'Shuowen Jiezi' for 说文解字 — house style is 'Shuōwén Jiězì'",
+      "context": ", codified in the Han dynasty Shuowen Jiezi (说文解字, 100 CE). Understanding",
+      "fix": "Replace 'Shuowen Jiezi' with 'Shuōwén Jiězì' in body prose, or rewrite so the toned form sits immediately after the CN form (parenthetical/adjacent glosses are exempt)."
+    },
+    {
+      "level": "WARN",
+      "category": "cross-references",
+      "file": "content/vocab/hanzi_汉字.md",
+      "msg": "romanization 'Shuowen' for 说文解字 — house style is 'Shuōwén Jiězì'",
+      "context": ", codified in the Han dynasty Shuowen Jiezi (说文解字, 100 CE). Underst",
+      "fix": "Replace 'Shuowen' with 'Shuōwén Jiězì' in body prose, or rewrite so the toned form sits immediately after the CN form (parenthetical/adjacent glosses are exempt)."
+    },
+    {
+      "level": "WARN",
+      "category": "cross-references",
+      "file": "content/vocab/junzi_君子.md",
+      "msg": "romanization 'I Ching' for 易经 — house style is 'Yijing'",
+      "context": "modesty) + 君子. Drawn from the I Ching, hexagram 15: 谦谦君子，用涉大川，吉。 \"T",
+      "fix": "Replace 'I Ching' with 'Yijing' in body prose, or rewrite so the toned form sits immediately after the CN form (parenthetical/adjacent glosses are exempt)."
+    },
+    {
+      "level": "WARN",
+      "category": "cross-references",
+      "file": "content/vocab/li3_礼.md",
+      "msg": "romanization 'Lǐjì' for 礼记 — house style is 'Liji'",
+      "context": "ct, interiority and form. The Lǐjì 礼记 (Record of Rites), one of",
+      "fix": "Replace 'Lǐjì' with 'Liji' in body prose, or rewrite so the toned form sits immediately after the CN form (parenthetical/adjacent glosses are exempt)."
+    },
+    {
+      "level": "WARN",
+      "category": "cross-references",
+      "file": "content/vocab/limao_礼貌.md",
+      "msg": "romanization 'Lúnyǔ' for 论语 — house style is 'Analects'",
+      "context": "efully well-mannered From the Lúnyǔ (论语·雍也): 文质彬彬，然后君子 (\"when ref",
+      "fix": "Replace 'Lúnyǔ' with 'Analects' in body prose, or rewrite so the toned form sits immediately after the CN form (parenthetical/adjacent glosses are exempt)."
+    },
+    {
+      "level": "WARN",
+      "category": "cross-references",
+      "file": "content/vocab/limao_礼貌.md",
+      "msg": "romanization 'Lǐjì' for 礼记 — house style is 'Liji'",
+      "context": "philosophical treatises (the Lǐjì , Yílǐ , Zhōulǐ ). Modern spe",
+      "fix": "Replace 'Lǐjì' with 'Liji' in body prose, or rewrite so the toned form sits immediately after the CN form (parenthetical/adjacent glosses are exempt)."
+    },
+    {
+      "level": "WARN",
+      "category": "cross-references",
+      "file": "content/vocab/lishi_历史.md",
+      "msg": "romanization 'Shuōwén' for 说文解字 — house style is 'Shuōwén Jiězì'",
+      "context": "ing events as they occur. The Shuōwén Jiězì defines 史 as \"the recor",
+      "fix": "Replace 'Shuōwén' with 'Shuōwén Jiězì' in body prose, or rewrite so the toned form sits immediately after the CN form (parenthetical/adjacent glosses are exempt)."
+    },
+    {
+      "level": "WARN",
+      "category": "cross-references",
+      "file": "content/vocab/pinyin_拼音.md",
+      "msg": "romanization 'Tao Te Ching' for 道德经 — house style is 'Daodejing'",
+      "context": "alogs, and some proper nouns: Tao Te Ching (=道德经), Mao Tse-tung (=毛泽东),",
+      "fix": "Replace 'Tao Te Ching' with 'Daodejing' in body prose, or rewrite so the toned form sits immediately after the CN form (parenthetical/adjacent glosses are exempt)."
+    },
+    {
+      "level": "WARN",
+      "category": "cross-references",
+      "file": "content/vocab/tianren_天人.md",
+      "msg": "romanization 'I Ching' for 易经 — house style is 'Yijing'",
+      "context": "rk (三才 sāncái) appears in the I Ching (易经 Yìjīng) and in Confucian,",
+      "fix": "Replace 'I Ching' with 'Yijing' in body prose, or rewrite so the toned form sits immediately after the CN form (parenthetical/adjacent glosses are exempt)."
+    },
+    {
+      "level": "WARN",
+      "category": "cross-references",
+      "file": "content/vocab/tianren_天人.md",
+      "msg": "romanization 'I Ching' for 易经 — house style is 'Yijing'",
+      "context": "iǎo tiān, dì, rén sāncái. The I Ching's sixty-four hexagrams each h",
+      "fix": "Replace 'I Ching' with 'Yijing' in body prose, or rewrite so the toned form sits immediately after the CN form (parenthetical/adjacent glosses are exempt)."
+    },
+    {
+      "level": "WARN",
+      "category": "cross-references",
+      "file": "content/vocab/zhihui_智慧.md",
+      "msg": "romanization 'Mengzi' for 孟子 — house style is 'Mencius'",
+      "context": "onfucian account of 智. In the Mengzi (孟子), he argues that the hear",
+      "fix": "Replace 'Mengzi' with 'Mencius' in body prose, or rewrite so the toned form sits immediately after the CN form (parenthetical/adjacent glosses are exempt)."
     },
     {
       "level": "INFO",

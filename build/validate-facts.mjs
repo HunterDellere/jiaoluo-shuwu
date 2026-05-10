@@ -21,6 +21,7 @@ const REF_DIR = path.join(ROOT, 'data', '_reference');
 const FACTS = JSON.parse(fs.readFileSync(path.join(REF_DIR, 'hanzi-facts.json'), 'utf8'));
 const VARIANTS_RAW = JSON.parse(fs.readFileSync(path.join(REF_DIR, 'radical-variants.json'), 'utf8'));
 const SIMP_TRAD_PAIRS = JSON.parse(fs.readFileSync(path.join(REF_DIR, 'simp-trad-pairs.json'), 'utf8'));
+const KNOWN_SOURCES = JSON.parse(fs.readFileSync(path.join(REF_DIR, 'known-sources.json'), 'utf8'));
 
 // Build equivalence map: every char in a group maps to the canonical form (group[0]).
 const VARIANT_OF = new Map();
@@ -287,9 +288,37 @@ function validateFile(fp) {
     } else if (!['verified', 'pending', 'unverified'].includes(fm.content_review)) {
       emit('ERROR', rel,
         `content_review: '${fm.content_review}' — must be 'verified', 'pending', or 'unverified'`);
-    } else if (fm.content_review === 'verified' && (!fm.content_sources || fm.content_sources.length === 0)) {
-      emit('ERROR', rel,
-        `content_review: verified requires a non-empty 'content_sources' array (e.g. ['Outlier', 'Wenlin', 'Shuōwén'])`);
+    } else if (fm.content_review === 'verified') {
+      if (!fm.content_sources || fm.content_sources.length === 0) {
+        emit('ERROR', rel,
+          `content_review: verified requires a non-empty 'content_sources' array (e.g. ['Outlier', 'Wenlin', 'Shuōwén'])`);
+      } else {
+        // Layer 2a: source-label whitelist. Each source string is matched
+        // case-sensitively against KNOWN_SOURCES.known_prefixes; the source
+        // is accepted if it equals a known prefix or starts with
+        // "<known-prefix>," (i.e. the entry is a known source followed by a
+        // free-text addendum like "Outlier, entry on 白").
+        const known = KNOWN_SOURCES.known_prefixes || [];
+        for (const s of fm.content_sources) {
+          const ss = String(s);
+          const ok = known.some(pfx => ss === pfx || ss.startsWith(pfx + ',') || ss.startsWith(pfx + ' '));
+          if (!ok) {
+            emit('WARN', rel,
+              `content_sources entry '${ss}' is not a recognised source label. Add it to data/_reference/known-sources.json or fix the citation.`);
+          }
+        }
+        // Layer 2b: minimum-source rule for sensitive categories. Pages in
+        // categories listed in known-sources.json must cite at least N
+        // sources before being marked verified, since these have higher
+        // disagreement risk than character etymology.
+        const minByCat = KNOWN_SOURCES.minimum_sources_by_category || {};
+        const cat = fm.category;
+        if (cat && minByCat[cat] && fm.content_sources.length < minByCat[cat]) {
+          emit('ERROR', rel,
+            `category:${cat} requires ≥${minByCat[cat]} content_sources for content_review:verified, but page lists ${fm.content_sources.length}.`,
+            { fix: `Add additional citations or downgrade content_review to 'pending' until more sources are available.` });
+        }
+      }
     }
   }
 }

@@ -22,8 +22,9 @@ The only `—` the validator allows is the gloss separator after a Chinese sente
 ```
 npm run build           # generate pages/ + data/ from content/
 npm run validate        # schema-check all content files
-npm run validate:facts  # cross-check factual claims against vendored reference data
-npm run check           # post-build invariants + link/anchor resolution + orphan detection + validate:facts
+npm run validate:facts             # cross-check character-level claims against vendored reference data
+npm run validate:cross-references  # cross-page consistency + canonical claims registry + romanization style
+npm run check                      # post-build invariants + link/anchor resolution + orphan detection + factual + cross-references
 npm run verify          # validate + build + check (run before pushing)
 ```
 
@@ -393,13 +394,22 @@ Every complete page carries a `content_review` frontmatter field (`verified` / `
 
 The admin page carries `<meta name="robots" content="noindex,nofollow">`. It's excluded from `sitemap.xml`, `feed.xml`, `data/search-index.json`, `data/entries.json`, and the check.mjs orphan/layout invariants (anything under `pages/_*` is treated as a generated dashboard).
 
-`npm run validate:facts` (part of `npm run check`) automatically:
+`npm run validate:facts` (part of `npm run check`) handles **character-level** claims:
 - Cross-checks frontmatter `radical`, `pinyin`, `tone` against `data/_reference/hanzi-facts.json` (a site-filtered subset of Unihan + CC-CEDICT + IDS data).
 - Extracts every `X = Y + Z` claim from etymology prose and verifies the components match the IDS decomposition, with radical-variant and simp↔trad equivalence applied.
 - Checks `phonetic` claims against the reference phonetic component.
 - Fails the build if a `status: complete` page is missing `content_review`, or if `content_review: verified` lacks `content_sources`.
+- WARNs when a `content_sources` entry doesn't match a known source prefix from `data/_reference/known-sources.json`.
+- Requires ≥2 sources for `content_review: verified` in `category: history|philosophy|religion|geography` (configured in `known-sources.json`).
 
-Before flipping a page from `pending` to `verified`: follow the checklist in `templates/_drafting/factual-review.md`, populate `content_sources` (e.g. `['Outlier', 'Wenlin', 'Shuōwén']`), and bump `updated`.
+`npm run validate:cross-references` (also part of `npm run check`) handles **non-character** factual claims and runs three checks over body prose:
+- **Cross-page consistency**: when two pages cite different year ranges for the same named entity, ERROR. Pure self-consistency, no registry lookup needed.
+- **Canonical claims**: when a name matches an entry in `data/_reference/canonical-claims.json` (dynasties, philosophers, classical texts, major events), the cited range must match. ERROR on mismatch (or WARN when the page uses `c.` to soften the claim).
+- **Romanization consistency**: enforces house-style spelling per CN proper noun via `data/_reference/canonical-romanizations.json`. WARN on variants. Adjacent gloss patterns (`心经 (Xīnjīng)`, `Heart Sutra · 心经 Xīnjīng`) are exempt.
+
+Plus a freshness gate: WARN when any `data/_reference/upstream/MANIFEST.json` `fetched` date is >180 days old.
+
+Before flipping a page from `pending` to `verified`: follow the checklist in `templates/_drafting/factual-review.md`, populate `content_sources` (e.g. `['Outlier', 'Wenlin', 'Shuōwén']`) using only labels from `data/_reference/known-sources.json`, and bump `updated`.
 
 ### Reference data is durable (no network dependency at build time)
 
