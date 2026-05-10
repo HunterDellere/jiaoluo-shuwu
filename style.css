@@ -551,10 +551,22 @@ body {
   background: var(--papyrus);
   box-shadow: inset 0 0 0 1px var(--papyrus);
 }
+.today-section-head[data-ord="0"] .today-ord {
+  /* The thread sits above the four daily picks; its ord glyph is the
+     character 线 (thread) rather than a Chinese numeral. Coloured in ink
+     so the four numeral-marked picks (1–4) read as a sequence below. */
+  color: var(--ink-2); border-color: var(--ink-3);
+  font-size: var(--fs-2xl);
+}
 .today-section-head[data-ord="1"] .today-ord { color: var(--red);        border-color: var(--red); }
 .today-section-head[data-ord="2"] .today-ord { color: var(--teal-2);     border-color: var(--teal-2); }
 .today-section-head[data-ord="3"] .today-ord { color: var(--violet-ink); border-color: var(--violet-ink); }
 .today-section-head[data-ord="4"] .today-ord { color: var(--ochre);      border-color: var(--ochre); }
+
+/* Spacing under the thread card so the next section ('Character of the day')
+   doesn't crowd it. The featured-card already has its own internal padding
+   from style-home.css. */
+.today-thread-card { margin-bottom: 2rem; }
 
 /* Today cards: bigger and more deliberate than .cards default */
 .today-cards {

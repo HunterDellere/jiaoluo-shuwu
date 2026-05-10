@@ -30,6 +30,11 @@
 <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400&family=Noto+Serif+SC:wght@400;600;700&family=LXGW+WenKai+TC&family=JetBrains+Mono:wght@400;500&display=swap" onload="this.onload=null;this.rel='stylesheet'">
 <noscript><link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400&family=Noto+Serif+SC:wght@400;600;700&family=LXGW+WenKai+TC&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet"></noscript>
 <link rel="stylesheet" href="../../style.css?v=17">
+<!-- style-home.css carries the .featured-card styling reused by today's
+     thread section. Loaded here as a small additive layer rather than
+     ported into style.css to keep one source of truth for the thread
+     visual. -->
+<link rel="stylesheet" href="../../style-home.css?v=17">
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"WebPage","name":"今日 Today — daily picks","description":"One character, one word, one grammar point, one chengyu. Rotates at UTC midnight.","url":"https://jiaoshoo.com/pages/today/","inLanguage":"en","isPartOf":{"@type":"WebSite","name":"Jiǎoluò Shūwū · 角落書屋","url":"https://jiaoshoo.com/"}}</script>
 </head>
 <body>
@@ -63,6 +68,7 @@
     <div class="toc-divider"></div>
     <span class="toc-label">On this page</span>
     <ul class="toc-list">
+      <li><a href="#today-thread"><span class="toc-cn">线</span> Today's Thread</a></li>
       <li><a href="#today-character"><span class="toc-cn">字</span> Character</a></li>
       <li><a href="#today-vocab"><span class="toc-cn">词</span> Word</a></li>
       <li><a href="#today-grammar"><span class="toc-cn">法</span> Grammar</a></li>
@@ -91,6 +97,17 @@
         <span class="today-streak-hint">Visit daily; resets if you skip a day.</span>
       </div>
     </header>
+
+    <span class="section-anchor" id="today-thread"></span>
+    <div class="section-head today-section-head" data-ord="0">
+      <span class="today-ord" aria-hidden="true">线</span>
+      <span class="sh-cn">今日话题</span>
+      <span class="sh-py">jīnrì huàtí</span>
+      <span class="sh-en">Today's thread</span>
+    </div>
+    <article class="featured-card today-thread-card" id="today-thread-card" data-watermark="" aria-busy="true">
+      <div class="today-skeleton">Loading today's thread…</div>
+    </article>
 
     <span class="section-anchor" id="today-character"></span>
     <div class="section-head today-section-head" data-ord="1">
@@ -160,6 +177,7 @@
 
 </div>
 
+<script src="../../scripts/streak.js" defer></script>
 <script src="../../scripts/toc-scroll.js"></script>
 <script src="../../scripts/enhance.js" defer></script>
 <script src="today.js" defer></script>

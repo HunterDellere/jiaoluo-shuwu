@@ -131,6 +131,17 @@
   a.hero-cta-secondary { background: transparent; color: var(--ink-3); border-color: var(--rule); }
   a.hero-cta-secondary:hover { background: var(--papyrus-2); color: var(--ink); border-color: var(--ochre); }
   a.hero-cta-secondary:focus-visible { outline: 2px solid var(--ochre); outline-offset: 3px; }
+  /* CN chip inside the primary CTA — small, on-brand cue (今日 jīnrì) that
+     leads the eye into the action. Sized to match the surrounding text but
+     drawn in the serif CN family so it reads as a stamp, not a glyph. */
+  .hero-cta-cn {
+    font-family: var(--font-cn-serif, 'Noto Serif SC', serif);
+    font-weight: 500;
+    font-size: 0.95em;
+    letter-spacing: 0.01em;
+    padding-right: 0.1rem;
+    opacity: 0.92;
+  }
 
   .index-stats { font-family: var(--font-mono); font-size: 0.68rem; color: var(--ink-5); text-align: center; margin-bottom: 3rem; letter-spacing: 0.12em; text-transform: uppercase; }
   .index-stats strong { color: var(--ochre); font-size: 0.78rem; font-weight: 700; letter-spacing: 0.04em; }
