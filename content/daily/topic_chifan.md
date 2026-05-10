@@ -190,11 +190,11 @@ pinyin: 'chī fàn wén huà'
       </div>
       <div class="card c-ochre">
         <div class="card-head"><span class="tag-n">n</span> 主食 zhǔshí</div>
-        <p>Staple food — the rice, noodles, or dumplings that anchor a Chinese meal in terms of caloric structure, though served last in formal contexts. 主 means "primary" or "main"; 食 means "food." The late arrival of 主食 at a banquet signals that the dishes were so plentiful that no one needed to fill up on starch — a marker of the host's generosity.</p>
+        <p>Staple food: the rice, noodles, or dumplings that anchor a Chinese meal in terms of caloric structure, though served last in formal contexts. 主 means "primary" or "main"; 食 means "food." The late arrival of 主食 at a banquet signals that the dishes were so plentiful that no one needed to fill up on starch, a marker of the host's generosity.</p>
       </div>
       <div class="card c-violet">
         <div class="card-head"><span class="tag-n">n</span> 关系 guānxi</div>
-        <p>Relationships — the network of personal connections, mutual obligations, and social bonds that structure Chinese professional and social life. 关 means "connection" or "gateway"; 系 means "system" or "tie." 关系 is cultivated, not simply had: meals, favors, gifts, and reciprocal treating are the primary mechanisms by which 关系 is built and maintained. The table is where 关系 is most actively managed.</p>
+        <p>Relationships: the network of personal connections, mutual obligations, and social bonds that structure Chinese professional and social life. 关 means "connection" or "gateway"; 系 means "system" or "tie." 关系 is cultivated, not simply had: meals, favors, gifts, and reciprocal treating are the primary mechanisms by which 关系 is built and maintained. The table is where 关系 is most actively managed.</p>
       </div>
     </div>
 

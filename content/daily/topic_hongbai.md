@@ -155,15 +155,15 @@ pinyin: 'hóngbái xǐshì'
       </div>
       <div class="card c-ochre">
         <div class="card-head"><span class="tag-n">n</span> 喜丧 xǐsāng</div>
-        <p>A "joyful funeral" — the death of a person who lived to old age and left many descendants. Treated as cause for celebration alongside mourning, and marked with comparatively festive elements: the music may be more exuberant, the occasion more public.</p>
+        <p>A "joyful funeral": the death of a person who lived to old age and left many descendants. Treated as cause for celebration alongside mourning, and marked with comparatively festive elements: the music may be more exuberant, the occasion more public.</p>
       </div>
       <div class="card c-ochre">
         <div class="card-head"><span class="tag-n">n</span> 冥币 míngbì</div>
-        <p>Ghost money — paper currency printed for burning at funerals and during ghost festivals. The term literally means "underworld currency." The notes often imitate real currency designs or depict the Bank of Hades. A broader category, 纸钱 (zhǐqián), covers all paper goods burned for the dead.</p>
+        <p>Ghost money: paper currency printed for burning at funerals and during ghost festivals. The term literally means "underworld currency." The notes often imitate real currency designs or depict the Bank of Hades. A broader category, 纸钱 (zhǐqián), covers all paper goods burned for the dead.</p>
       </div>
       <div class="card c-teal">
         <div class="card-head"><span class="tag-n">n</span> 闹洞房 nào dòngfáng</div>
-        <p>The wedding-night hazing — guests entering the bridal chamber to subject the couple to games and pranks. The custom is ancient, widely practiced, and occasionally criticized for going too far. The word 闹 (nào) means to make noise, to create commotion.</p>
+        <p>The wedding-night hazing: guests entering the bridal chamber to subject the couple to games and pranks. The custom is ancient, widely practiced, and occasionally criticized for going too far. The word 闹 (nào) means to make noise, to create commotion.</p>
       </div>
       <div class="card c-teal">
         <div class="card-head"><span class="tag-n">n</span> 百日 bǎirì</div>

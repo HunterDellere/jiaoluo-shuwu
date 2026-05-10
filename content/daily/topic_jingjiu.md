@@ -146,15 +146,15 @@ pinyin: 'jìngjiǔ'
       </div>
       <div class="card c-ochre">
         <div class="card-head"><span class="tag-n">n</span> 以茶代酒 yǐ chá dài jiǔ</div>
-        <p>Substitute tea for spirits — the accepted formula for toasting without drinking alcohol. The phrase is spoken while raising a cup of tea, acknowledging the substitution explicitly. Its use signals that you understand the protocol and are respecting the form of the occasion even while opting out of the alcohol. It is gracious and is understood as such.</p>
+        <p>Substitute tea for spirits: the accepted formula for toasting without drinking alcohol. The phrase is spoken while raising a cup of tea, acknowledging the substitution explicitly. Its use signals that you understand the protocol and are respecting the form of the occasion even while opting out of the alcohol. It is gracious and is understood as such.</p>
       </div>
       <div class="card c-teal">
         <div class="card-head"><span class="tag-n">n</span> 茅台 máotái</div>
-        <p>Moutai — the prestige baijiu produced in Maotai Town, Guizhou province. Made from sorghum using the sauce-aroma (酱香 jiàngxiāng) method, it is the most famous Chinese spirit and functions as a currency of respect in formal Chinese business culture. Its price and scarcity have made it a marker of serious intent: bringing a bottle of Moutai to a banquet is a meaningful gesture.</p>
+        <p>Moutai: the prestige baijiu produced in Maotai Town, Guizhou province. Made from sorghum using the sauce-aroma (酱香 jiàngxiāng) method, it is the most famous Chinese spirit and functions as a currency of respect in formal Chinese business culture. Its price and scarcity have made it a marker of serious intent: bringing a bottle of Moutai to a banquet is a meaningful gesture.</p>
       </div>
       <div class="card c-sienna">
         <div class="card-head"><span class="tag-n">n</span> 酒量 jiǔliàng</div>
-        <p>Drinking capacity, alcohol tolerance — the amount a person can drink before losing composure. Having a good 酒量 is considered a professional asset in industries and regions where banquet culture is strong. The phrase 我酒量不好 (wǒ jiǔliàng bù hǎo, "my capacity is poor") is a common and accepted excuse for drinking lightly, particularly from younger participants and women.</p>
+        <p>Drinking capacity, alcohol tolerance: the amount a person can drink before losing composure. Having a good 酒量 is considered a professional asset in industries and regions where banquet culture is strong. The phrase 我酒量不好 (wǒ jiǔliàng bù hǎo, "my capacity is poor") is a common and accepted excuse for drinking lightly, particularly from younger participants and women.</p>
       </div>
     </div>
 
