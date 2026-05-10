@@ -193,6 +193,52 @@ function injectHubBadges(body, hubInfos, fromPath) {
   return body;
 }
 
+/**
+ * Compute a reading-time estimate for a content page body and return the
+ * snippet to inject into the hero. Counts ASCII words at ~220 wpm and
+ * CJK ideographs at ~300 cpm — separate baselines because the corpus is
+ * roughly 60/40 English/Chinese and the two read at different speeds.
+ * Floor of 2 minutes (a 1-min badge feels dismissive even for short cards).
+ *
+ * The hero badge uses a small mono caption matching .topic-hero-eyebrow's
+ * typography ("~3 min read"). Skips family / hsk / hubs / explore index
+ * pages — those are navigational, not articles.
+ */
+function readingMinutesFromBody(body) {
+  const text = body
+    .replace(/<button[^>]*class="toc-toggle"[^>]*>[\s\S]*?<\/button>/g, ' ')
+    .replace(/<aside[^>]*class="sidebar"[^>]*>[\s\S]*?<\/aside>/g, ' ')
+    .replace(/<header[^>]*class="(topic-hero|hero)"[^>]*>[\s\S]*?<\/header>/g, ' ')
+    .replace(/<footer[^>]*>[\s\S]*?<\/footer>/g, ' ')
+    .replace(/<(script|style)[\s\S]*?<\/\1>/g, ' ')
+    .replace(/<!--[\s\S]*?-->/g, ' ')
+    .replace(/<[^>]+>/g, ' ');
+  const cjkChars = (text.match(/[一-鿿㐀-䶿]/g) || []).length;
+  const asciiWords = (text.match(/[A-Za-z][A-Za-z'’-]*/g) || []).length;
+  // 250 wpm for English (medium-fast adult reader); 400 cpm for CJK (a
+  // proficient reader; learners will read slower but the badge is meant
+  // to be a typical-reader floor, not a worst-case ceiling).
+  const minutes = Math.ceil(asciiWords / 250 + cjkChars / 400);
+  return Math.max(2, minutes);
+}
+
+function injectReadingTime(body, fm) {
+  if (!fm || fm.status !== 'complete') return body;
+  // Skip navigational / index page types.
+  const skipCats = new Set(['families', 'hsk', 'hubs', 'explore']);
+  if (skipCats.has(fm.category)) return body;
+  if (body.includes('class="topic-hero-meta-time"')) return body; // already injected
+  const minutes = readingMinutesFromBody(body);
+  const block = `\n    <span class="topic-hero-meta-time" aria-label="Approximate reading time">~${minutes} min read</span>`;
+
+  // For character pages (.hero with .hero-chips) or topic pages
+  // (.topic-hero with eyebrow), insert before </header>.
+  if (body.includes('class="topic-hero"') || body.includes('<div class="hero-chips">')) {
+    return body.replace(/<\/header>/, `${block}\n  </header>`);
+  }
+  return body;
+}
+
 // ── helpers ─────────────────────────────────────────────────────────────────
 
 function walk(dir) {
@@ -624,6 +670,11 @@ for (const { fm, body, slug, category, outDir, entry } of pending) {
       if (hubInfos && hubInfos.length) {
         augmentedBody = injectHubBadges(augmentedBody, hubInfos, entry.path);
       }
+
+      // Reading-time estimate in the hero. Cheap to compute (one regex pass),
+      // visible on every content page, helps readers decide which pick to
+      // open from the Today page or homepage.
+      augmentedBody = injectReadingTime(augmentedBody, fm);
 
       // 1. Stroke order on character pages
       augmentedBody = injectStrokeOrder(augmentedBody, fm);
