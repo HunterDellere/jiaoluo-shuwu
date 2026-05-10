@@ -41,7 +41,7 @@ content_sources:
       <span class="topic-hero-eyebrow">Vocab · 词汇 cíhuì · Daily Life &amp; Cosmology</span>
       <h1 class="topic-hero-title">时间</h1>
       <span class="topic-hero-title-py">shíjiān</span>
-      <p class="topic-hero-desc">Time — the compound that anchors all temporal language. 时 (season/moment) and 间 (interval/space-between) together: the space between moments, time as something lived and measured.</p>
+      <p class="topic-hero-desc">Time: the compound that anchors all temporal language. 时 (season/moment) and 间 (interval/space-between) together: the space between moments, time as something lived and measured.</p>
     </header>
 
     <span class="section-anchor" id="etymology"></span>
@@ -98,7 +98,7 @@ content_sources:
         <div class="tags"><span class="tag tag-n">N 名词 辨析</span></div>
         <div class="card-def">
           <strong>时间 shíjiān</strong> = time as a measurable quantity: 没有时间 (no time), 时间不够 (not enough time), 花时间 (spend time). Answers "how long."<br>
-          <strong>时候 shíhòu</strong> = a point or period in time: 什么时候 (when?), 那个时候 (at that time), 小时候 (childhood — "when [one was] little"). Answers "when."
+          <strong>时候 shíhòu</strong> = a point or period in time: 什么时候 (when?), 那个时候 (at that time), 小时候 (childhood; "when [one was] little"). Answers "when."
         </div>
         <div class="examples">
           <div class="example"><div class="ex-cn">你有时间吗？</div><div class="ex-py">Nǐ yǒu shíjiān ma?</div><div class="ex-en">Do you have time?</div></div>
@@ -130,7 +130,7 @@ content_sources:
           <tr><td class="td-cn">及时</td><td class="td-py">jíshí</td><td>timely; in time; promptly</td></tr>
           <tr><td class="td-cn">空间</td><td class="td-py">kōngjiān</td><td>space; spatial dimension</td></tr>
           <tr><td class="td-cn">瞬间</td><td class="td-py">shùnjiān</td><td>an instant; in the blink of an eye</td></tr>
-          <tr><td class="td-cn">时光</td><td class="td-py">shíguāng</td><td>time (as light — poetic, flowing)</td></tr>
+          <tr><td class="td-cn">时光</td><td class="td-py">shíguāng</td><td>time as light; poetic, flowing</td></tr>
           <tr><td class="td-cn">时节</td><td class="td-py">shíjié</td><td>season; time of year</td></tr>
         </tbody>
       </table>

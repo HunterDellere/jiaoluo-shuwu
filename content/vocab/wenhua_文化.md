@@ -165,7 +165,7 @@ content_review: 'pending'
       <div class="card c-sienna">
         <div class="card-head"><span class="card-cn">文化大革命</span><span class="card-py">Wénhuà Dàgémìng</span><span class="card-en">Cultural Revolution (1966–1976)</span></div>
         <div class="tags"><span class="tag tag-n">N 名词</span></div>
-        <div class="card-def">文化 (cultural) + 大 (great) + 革命 gémìng (revolution). The political campaign launched by Mao Zedong in 1966 to eliminate "bourgeois" and "counterrevolutionary" elements from Chinese society and culture. The name was bitterly ironic in practice: the campaign destroyed an enormous proportion of China's cultural heritage — temples, artefacts, books, scholars, practitioners of traditional arts — in the name of cultural renewal. Now spoken of either carefully or bluntly, depending on context; the CCP's official verdict (1981) calls it a "serious mistake."</div>
+        <div class="card-def">文化 (cultural) + 大 (great) + 革命 gémìng (revolution). The political campaign launched by Mao Zedong in 1966 to eliminate "bourgeois" and "counterrevolutionary" elements from Chinese society and culture. The name was bitterly ironic in practice: the campaign destroyed an enormous proportion of China's cultural heritage (temples, artefacts, books, scholars, practitioners of traditional arts) in the name of cultural renewal. Now spoken of either carefully or bluntly, depending on context; the CCP's official verdict (1981) calls it a "serious mistake."</div>
       </div>
 
       <div class="card c-red">
@@ -189,7 +189,7 @@ content_review: 'pending'
         <span class="cy-cn">博大精深</span>
         <span class="cy-py">bó dà jīng shēn</span>
         <span class="cy-en">"broad, great, refined, and deep" — vast and profound</span>
-        <span class="cy-note">博 (broad) + 大 (great) + 精 (refined, essential) + 深 (deep). The standard four-character formula for describing Chinese culture in formal contexts: 中华文化博大精深 is a set phrase appearing in textbooks, official speeches, and tourist literature. It encodes breadth (博大) and depth (精深) as twin virtues of a great civilization. Non-Chinese scholars sometimes note that the phrase is more assertion than analysis — which is partly the point: it functions as cultural affirmation, not description.</span>
+        <span class="cy-note">博 (broad) + 大 (great) + 精 (refined, essential) + 深 (deep). The standard four-character formula for describing Chinese culture in formal contexts: 中华文化博大精深 is a set phrase appearing in textbooks, official speeches, and tourist literature. It encodes breadth (博大) and depth (精深) as twin virtues of a great civilization. Non-Chinese scholars sometimes note that the phrase is more assertion than analysis, which is partly the point: it functions as cultural affirmation, not description.</span>
       </div>
       <div class="cy">
         <span class="cy-cn">以文会友</span>

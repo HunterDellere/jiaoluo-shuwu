@@ -548,14 +548,14 @@ content_sources:
         <span class="cy-cn">天赐良缘</span>
         <span class="cy-py">tiān cì liáng yuán</span>
         <span class="cy-en">"heaven-bestowed good fate" — a heaven-sent destined match; a blessed union</span>
-        <span class="cy-note">Lit: heaven-bestow-good-fate. The most auspicious framing for a destined romantic match , one that heaven itself has arranged and blessed. Used in wedding toasts, blessings, and romantic contexts when the match seems particularly right. 他们的婚姻真是天赐良缘，两个人都幸福极了。"Their marriage is truly heaven-sent — both of them are genuinely happy."</span>
+        <span class="cy-note">Lit: heaven-bestow-good-fate. The most auspicious framing for a destined romantic match , one that heaven itself has arranged and blessed. Used in wedding toasts, blessings, and romantic contexts when the match seems particularly right. 他们的婚姻真是天赐良缘，两个人都幸福极了。"Their marriage is truly heaven-sent; both of them are genuinely happy."</span>
       </div>
 
       <div class="cy">
         <span class="cy-cn">随缘</span>
         <span class="cy-py">suí yuán</span>
         <span class="cy-en">"follow the karmic current" — to go with the flow; to accept what fate brings; non-attachment</span>
-        <span class="cy-note">Lit: follow-karmic-connection. A Buddhist and Daoist attitude of non-attachment — accepting outcomes without forcing them, trusting the flow of conditions rather than imposing a rigid agenda. Has become a widely used life philosophy and response to uncertainty or disappointment. 随缘吧，强求没用。"Just go with fate — forcing it is useless." The phrase can express wisdom, resignation, or genuine peace depending on context.</span>
+        <span class="cy-note">Lit: follow-karmic-connection. A Buddhist and Daoist attitude of non-attachment: accepting outcomes without forcing them, trusting the flow of conditions rather than imposing a rigid agenda. Has become a widely used life philosophy and response to uncertainty or disappointment. 随缘吧，强求没用。"Just go with fate; forcing it is useless." The phrase can express wisdom, resignation, or genuine peace depending on context.</span>
       </div>
 
     </div>

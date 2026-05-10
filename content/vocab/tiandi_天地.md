@@ -161,7 +161,7 @@ updated: '2026-04-25'
           <div class="example">
             <div class="ex-cn">他是一个顶天立地的男子汉，从不逃避责任。</div>
             <div class="ex-py">Tā shì yīgè dǐng tiān lì dì de nánzǐhàn, cóng bù táobì zérèn.</div>
-            <div class="ex-en">He is a man of genuine integrity — he never evades responsibility.</div>
+            <div class="ex-en">He is a man of genuine integrity; he never evades responsibility.</div>
           </div>
         </div>
       </div>
@@ -177,7 +177,7 @@ updated: '2026-04-25'
           <div class="example">
             <div class="ex-cn">天地良心，我真的没有说谎！</div>
             <div class="ex-py">Tiāndì liángxīn, wǒ zhēn de méiyǒu shuōhuǎng!</div>
-            <div class="ex-en">By heaven, earth, and my conscience — I truly did not lie!</div>
+            <div class="ex-en">By heaven, earth, and my conscience, I truly did not lie!</div>
           </div>
         </div>
       </div>
@@ -199,7 +199,7 @@ updated: '2026-04-25'
         <span class="cy-cn">开天辟地</span>
         <span class="cy-py">kāi tiān pì dì</span>
         <span class="cy-en">"to split open heaven and cleave earth" — to create the world; a groundbreaking, unprecedented achievement</span>
-        <span class="cy-note">From the Pangu myth (盘古 Pángǔ). In the beginning, all was 混沌 hùndùn — undifferentiated chaos. Pangu broke it open. The light, clear elements rose and became Heaven; the heavy, turbid elements sank and became Earth. Pangu stood between them for 18,000 years until the separation was permanent. His body became the landscape: his breath the wind, his eyes the sun and moon, his flesh the soil. Used for any genuinely unprecedented, world-creating achievement. 这是一项开天辟地的发明。(This is an invention of world-creating magnitude.)</span>
+        <span class="cy-note">From the Pangu myth (盘古 Pángǔ). In the beginning, all was 混沌 hùndùn: undifferentiated chaos. Pangu broke it open. The light, clear elements rose and became Heaven; the heavy, turbid elements sank and became Earth. Pangu stood between them for 18,000 years until the separation was permanent. His body became the landscape: his breath the wind, his eyes the sun and moon, his flesh the soil. Used for any genuinely unprecedented, world-creating achievement. 这是一项开天辟地的发明。(This is an invention of world-creating magnitude.)</span>
       </div>
 
       <div class="cy">

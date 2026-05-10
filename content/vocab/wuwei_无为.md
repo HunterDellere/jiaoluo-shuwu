@@ -312,7 +312,7 @@ content_review: 'pending'
         <span class="cy-cn">顺其自然</span>
         <span class="cy-py">shùn qí zìrán</span>
         <span class="cy-en">let things take their natural course; go with the flow; accord with what is self-so</span>
-        <span class="cy-note">顺 shùn (to follow; to go along with; to accord with; to flow downstream) + 其 qí (its; their; that) + 自然 zìrán (nature; the natural; self-so , 自 zì = self, 然 rán = thus/so: what is so of itself, without external imposition). The modern everyday expression for the principle underlying 无为. In colloquial usage it often carries a light fatalistic flavor — whatever will be, will be — but philosophically it is more precise: 自然 is what things are when no one is forcing them to be otherwise. 顺其自然 = align with the self-so-ness of things. The gap between philosophical precision and casual usage is one measure of how deeply Daoist concepts have permeated ordinary Chinese speech.</span>
+        <span class="cy-note">顺 shùn (to follow; to go along with; to accord with; to flow downstream) + 其 qí (its; their; that) + 自然 zìrán (nature; the natural; self-so , 自 zì = self, 然 rán = thus/so: what is so of itself, without external imposition). The modern everyday expression for the principle underlying 无为. In colloquial usage it often carries a light fatalistic flavor (whatever will be, will be), but philosophically it is more precise: 自然 is what things are when no one is forcing them to be otherwise. 顺其自然 = align with the self-so-ness of things. The gap between philosophical precision and casual usage is one measure of how deeply Daoist concepts have permeated ordinary Chinese speech.</span>
       </div>
 
       <div class="cy">
@@ -344,7 +344,7 @@ content_review: 'pending'
     <!-- RETENTION SCHOLAR BOX -->
     <div class="scholar" data-glyph="刃">
       <div class="scholar-label">记忆法 jìyìfǎ · Master Retention Image</div>
-      <p>Cook Ding's knife is seventeen years old. In that time it has carved hundreds of oxen and never once touched bone — because it has never forced. Every cut follows a space that was already there: the joint, the cavity, the hollow between muscle groups. The knife moves through air that happens to be inside an ox. After seventeen years it is still sharp enough to split a hair, because sharpness depends on never meeting resistance, and resistance is what you meet when you force.</p>
+      <p>Cook Ding's knife is seventeen years old. In that time it has carved hundreds of oxen and never once touched bone, because it has never forced. Every cut follows a space that was already there: the joint, the cavity, the hollow between muscle groups. The knife moves through air that happens to be inside an ox. After seventeen years it is still sharp enough to split a hair, because sharpness depends on never meeting resistance, and resistance is what you meet when you force.</p>
       <p>无为 is the knife. The forcing is what dulls you. The practice is learning to move through the spaces that are already there.</p>
     </div>
 
