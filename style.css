@@ -1250,6 +1250,26 @@ body {
   margin-bottom: 0.6rem;
   font-weight: 500;
 }
+/* Reading-time badge: a small mono caption injected after the hero copy.
+   Sits below the desc, above the divider, in the hero's right gutter on
+   wide viewports. Quiet on purpose — the digit is the signal, not the
+   chrome around it. */
+.topic-hero-meta-time {
+  display: inline-block;
+  margin-top: 0.6rem;
+  padding: 0.2rem 0.55rem;
+  border: 1px solid var(--rule);
+  border-radius: 99px;
+  background: var(--papyrus);
+  font-family: var(--font-mono);
+  font-size: 0.66rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--ink-5);
+}
+.hero .topic-hero-meta-time { /* on character heroes */
+  margin-top: 0.7rem;
+}
 .topic-hero-title {
   font-family: var(--font-cn-display);
   font-size: var(--fs-display-2);
