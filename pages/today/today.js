@@ -180,36 +180,7 @@
       else if (streak < 100)   hint.textContent = 'A serious habit. 厲害 lìhài.';
       else                     hint.textContent = streak + ' days. 持之以恒 chízhī yǐhéng.';
     }
-    renderStreakGrid(state);
     renderStreakMeta(state);
-  }
-
-  // 14-day visit dot grid. Newest day on the right (matches reading
-  // direction). A filled dot means the visitor opened the site that day;
-  // an empty dot means they didn't. Today's dot has a small ring so the
-  // current position is unambiguous even before they accumulate history.
-  function renderStreakGrid(state) {
-    var grid = document.querySelector('[data-streak-grid]');
-    if (!grid) return;
-    var DAYS = 14;
-    var visited = new Set(Array.isArray(state.recentDays) ? state.recentDays : []);
-    var today = (window.shuwoStreak && window.shuwoStreak.localDayKey()) || '';
-    var dots = [];
-    for (var offset = DAYS - 1; offset >= 0; offset--) {
-      var key = dayKeyOffset(-offset);
-      var hit = visited.has(key);
-      var isToday = key === today;
-      var cls = 'tsg-dot' + (hit ? ' is-hit' : '') + (isToday ? ' is-today' : '');
-      var label = key + (hit ? ' · visited' : ' · no visit');
-      dots.push('<span class="' + cls + '" title="' + escapeHtml(label) + '" aria-label="' + escapeHtml(label) + '"></span>');
-    }
-    grid.innerHTML = dots.join('');
-  }
-
-  function dayKeyOffset(deltaDays) {
-    var d = new Date();
-    d.setDate(d.getDate() + deltaDays);
-    return d.getFullYear() + '-' + pad2(d.getMonth() + 1) + '-' + pad2(d.getDate());
   }
 
   function renderStreakMeta(state) {

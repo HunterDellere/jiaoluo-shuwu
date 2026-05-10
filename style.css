@@ -525,30 +525,6 @@ body {
   grid-column: 2;
   font-style: italic;
 }
-/* 14-day visit dot grid — newest day on the right. Filled (papyrus → red)
-   means visited, empty means missed, ringed means today. The grid sits
-   below the streak label and is the small reward for opening the page. */
-.today-streak-grid {
-  grid-column: 1 / -1;
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.18rem;
-  margin: 0.45rem 0 0.05rem;
-}
-.tsg-dot {
-  width: 9px; height: 9px;
-  border-radius: 2px;
-  background: var(--rule);
-  opacity: 0.55;
-  transition: background 0.15s, opacity 0.15s, transform 0.15s;
-}
-.tsg-dot.is-hit { background: var(--red); opacity: 0.92; }
-.tsg-dot.is-today {
-  outline: 1.5px solid var(--ochre);
-  outline-offset: 1.5px;
-}
-.tsg-dot.is-today.is-hit { outline-color: var(--red); }
-.tsg-dot:hover { transform: scale(1.25); opacity: 1; }
 .today-streak-meta {
   grid-column: 2;
   font-family: var(--font-mono);
@@ -614,8 +590,6 @@ body {
   .today-streak { min-width: 0; padding: 0.7rem 0.95rem; }
   .today-card { padding: 0.95rem 1.1rem; gap: 0.3rem 1rem; }
   .today-card .card-title { font-size: var(--fs-display-2-mobile, 1.85rem); }
-  .today-streak-grid { gap: 0.14rem; }
-  .tsg-dot { width: 8px; height: 8px; }
 }
 
 /* Today section heads — large CN numeral ordinal (一/二/三/四) sits to the

@@ -1,6 +1,5 @@
 // Smoke tests for /pages/today/. Verifies the issues Hunter reported:
-//   1. The 14-day streak grid renders inside the streak chip without
-//      breaking the chip's layout.
+//   1. The streak chip renders inside its hero column without breaking layout.
 //   2. The "Picks rotate in <countdown>" countdown shows a real value,
 //      not the placeholder "—".
 //   3. Keyboard shortcuts 1–4 + T + R are handled.
@@ -17,12 +16,7 @@ test.describe('Today page', () => {
     // Streak counter has rendered (i.e. JS ran).
     await expect(page.locator('[data-streak-count]')).not.toHaveText('—');
 
-    // Visit grid is present and has 14 dots.
-    const dots = page.locator('.tsg-dot');
-    await expect(dots).toHaveCount(14);
-
-    // The streak chip should not exceed its hero column width — i.e.
-    // the grid wraps inside the chip rather than blowing it out.
+    // The streak chip should not exceed its hero column width.
     const chip = page.locator('[data-today-streak]');
     const chipBox = await chip.boundingBox();
     expect(chipBox).toBeTruthy();
@@ -122,23 +116,17 @@ test.describe('Today page', () => {
     for (const vp of [{ width: 375, height: 812 }, { width: 720, height: 900 }, { width: 1280, height: 900 }]) {
       await page.setViewportSize(vp);
       await page.goto(TODAY_URL);
-      await page.waitForSelector('.tsg-dot', { timeout: 5_000 });
+      await page.waitForSelector('[data-streak-count]', { timeout: 5_000 });
       const measurements = await page.evaluate(() => {
         const chip = document.querySelector('[data-today-streak]');
         const main = document.querySelector('main.main');
-        const chipRect = chip.getBoundingClientRect();
-        const mainRect = main.getBoundingClientRect();
-        const grid = document.querySelector('[data-streak-grid]');
-        const gridRect = grid.getBoundingClientRect();
-        return { chipRect, mainRect, gridRect, gridChildren: grid.children.length };
+        return {
+          chipRect: chip.getBoundingClientRect(),
+          mainRect: main.getBoundingClientRect()
+        };
       });
       // Chip never exceeds main column.
       expect(measurements.chipRect.right).toBeLessThanOrEqual(measurements.mainRect.right + 1);
-      // Grid contains 14 dots.
-      expect(measurements.gridChildren).toBe(14);
-      // Grid sits inside its chip parent.
-      expect(measurements.gridRect.right).toBeLessThanOrEqual(measurements.chipRect.right + 1);
-      expect(measurements.gridRect.left).toBeGreaterThanOrEqual(measurements.chipRect.left - 1);
     }
   });
 
