@@ -1,0 +1,36 @@
+{
+  "_note": "House style: one canonical English-context romanization per Chinese proper noun. The validator (build/validate-cross-references.mjs) flags any other romanization as a WARN. Tone marks are dropped in the canonical form for readability across long prose; the toned form remains valid in pinyin glosses (.sh-py, .card-py, .a-py — all stripped from validation). Add an entry only when the corpus shows variant spellings worth normalizing.",
+
+  "canonical": {
+    "道德经": "Daodejing",
+    "论语": "Analects",
+    "孟子": "Mencius",
+    "庄子": "Zhuangzi",
+    "孙子兵法": "Sunzi Bingfa",
+    "诗经": "Shijing",
+    "易经": "Yijing",
+    "礼记": "Liji",
+    "说文解字": "Shuōwén Jiězì",
+    "心经": "Heart Sutra",
+    "金刚经": "Diamond Sutra",
+    "史记": "Shiji",
+    "三国演义": "Romance of the Three Kingdoms",
+    "水浒传": "Water Margin",
+    "西游记": "Journey to the West",
+    "红楼梦": "Dream of the Red Chamber"
+  },
+
+  "variants": {
+    "道德经": ["Dào Dé Jīng", "Dao De Jing", "Tao Te Ching", "Daodejing"],
+    "论语": ["Lúnyǔ", "Lunyu", "Analects"],
+    "孟子": ["Mengzi", "Mèngzǐ", "Mencius"],
+    "庄子": ["Zhuāngzǐ", "Zhuangzi", "Chuang Tzu"],
+    "孙子兵法": ["Sūnzǐ Bīngfǎ", "Sunzi Bingfa", "Sunzi bingfa", "Art of War"],
+    "诗经": ["Shījīng", "Shijing", "Book of Songs", "Book of Odes"],
+    "易经": ["Yìjīng", "Yijing", "I Ching", "Book of Changes"],
+    "礼记": ["Lǐjì", "Liji", "Book of Rites"],
+    "说文解字": ["Shuōwén Jiězì", "Shuōwén", "Shuowen Jiezi", "Shuowen"],
+    "心经": ["Xīnjīng", "Heart Sutra"],
+    "金刚经": ["Jīngāngjīng", "Diamond Sutra"]
+  }
+}

@@ -20,8 +20,8 @@ import path from 'node:path';
 
 const VALID_LEVELS = new Set(['ERROR', 'WARN', 'INFO']);
 const VALID_CATEGORIES = new Set([
-  'factual', 'schema', 'tags', 'links', 'anchors', 'orphans',
-  'layout', 'hub-members', 'content-health', 'relations',
+  'factual', 'cross-references', 'schema', 'tags', 'links', 'anchors',
+  'orphans', 'layout', 'hub-members', 'content-health', 'relations',
   'search', 'formatting',
 ]);
 
