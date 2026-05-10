@@ -238,7 +238,7 @@ content_sources:
         <div class="cy-hanzi">多快好省</div>
         <div class="cy-py">duō kuài hǎo shěng</div>
         <div class="cy-en">more, faster, better, cheaper → the four production virtues of the Great Leap Forward era</div>
-        <div class="cy-note">多 (more/quantity) + 快 (faster/speed) + 好 (better/quality) + 省 (cheaper/frugal). A Maoist production slogan from the Great Leap Forward (1958–1960). The effort to achieve all four simultaneously (maximum output, maximum speed, maximum quality, minimum cost) contributed to catastrophic overreach and famine. Now used ironically to describe impossible management demands.</div>
+        <div class="cy-note">多 (more/quantity) + 快 (faster/speed) + 好 (better/quality) + 省 (cheaper/frugal). A Maoist production slogan from the Great Leap Forward (1958–1962). The effort to achieve all four simultaneously (maximum output, maximum speed, maximum quality, minimum cost) contributed to catastrophic overreach and famine. Now used ironically to describe impossible management demands.</div>
       </div>
 
     </div>
