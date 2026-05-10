@@ -462,7 +462,7 @@ updated: '2026-04-25'
         <span class="cy-cn">言必有中</span>
         <span class="cy-py">yán bì yǒu zhòng</span>
         <span class="cy-en">words that always hit the mark; speech that is measured and unfailingly accurate</span>
-        <span class="cy-note">From Analects XI.14: Confucius describes a man who rarely speaks , 不言则已，一言必中 — but when he does, always hits the target. 中 zhòng here means "center; bull's-eye," not "middle." The standard for speech that earns its right to be heard: few words, each one aimed and landing. The 必 makes hitting the mark not a habit but a law: he cannot miss. Used today as praise for someone whose rare speech carries unusual authority.</span>
+        <span class="cy-note">From Analects XI.14: Confucius describes a man who rarely speaks , 不言则已，一言必中: but when he does, always hits the target. 中 zhòng here means "center; bull's-eye," not "middle." The standard for speech that earns its right to be heard: few words, each one aimed and landing. The 必 makes hitting the mark not a habit but a law: he cannot miss. Used today as praise for someone whose rare speech carries unusual authority.</span>
       </div>
 
       <div class="cy">
@@ -502,7 +502,7 @@ updated: '2026-04-25'
     <!-- RETENTION IMAGE -->
     <div class="scholar" data-glyph="必" style="margin-top:2.5rem;">
       <div class="scholar-label">记忆法 jìyìfǎ · Master Retention Image</div>
-      <p>Hold the image of a blade striking clean through something. No hesitation, no partial cut. The oracle bone character is that image: a weapon gripped and deployed. When 必 appears in a sentence, that finality comes with it. 必须 is the requirement that admits no route around it. 必定 is the speaker gripping their certainty the same way. 必然 is the law that the blade obeys. 必然, 必定, 必须, 必要: four words, one underlying force — the division that admits no middle.</p>
+      <p>Hold the image of a blade striking clean through something. No hesitation, no partial cut. The oracle bone character is that image: a weapon gripped and deployed. When 必 appears in a sentence, that finality comes with it. 必须 is the requirement that admits no route around it. 必定 is the speaker gripping their certainty the same way. 必然 is the law that the blade obeys. 必然, 必定, 必须, 必要: four words, one underlying force, the division that admits no middle.</p>
       <p>The classical usage in the Analects sharpens this further. 言必有中: words that cannot miss their mark. 君子必慎其独: the standard that does not relax when no one is watching. The 必 in these sentences is not a prediction. It is a declaration about character: this person does not negotiate with exceptions.</p>
     </div>
 

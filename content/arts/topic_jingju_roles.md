@@ -101,7 +101,7 @@ pinyin: 'shēng dàn jìng mò chǒu'
     <span class="section-anchor" id="dan"></span>
     <div class="section-head">
       <span class="sh-cn">旦 , 女性角色</span>
-      <span class="sh-py">dàn — nǚxìng juésè</span>
+      <span class="sh-py">dàn · nǚxìng juésè</span>
       <span class="sh-en">Dan -- The Female Roles</span>
       <span class="sh-rule"></span>
     </div>
@@ -118,7 +118,7 @@ pinyin: 'shēng dàn jìng mò chǒu'
     <span class="section-anchor" id="jing"></span>
     <div class="section-head">
       <span class="sh-cn">净 — 花脸与脸谱</span>
-      <span class="sh-py">jìng — huāliǎn yǔ liǎnpǔ</span>
+      <span class="sh-py">jìng · huāliǎn yǔ liǎnpǔ</span>
       <span class="sh-en">Jing -- Painted-Face Roles and the Color Code</span>
       <span class="sh-rule"></span>
     </div>

@@ -121,7 +121,7 @@ updated: '2026-04-26'
     <div class="scholar" data-glyph="华">
       <div class="scholar-label">海外华人 hǎiwài huárén · Overseas Chinese Communities</div>
       <p><strong>华文 Huáwén</strong> is the term preferred in Southeast Asia for the Chinese language as used by overseas Chinese communities (华人 Huárén , people of Chinese cultural descent). Where 汉语 emphasizes ethnicity (Han people), 华文 and 华语 emphasize civilizational and cultural belonging. The distinction matters most in countries like Malaysia, Indonesia, and Singapore, where Chinese communities have lived for generations and have complex, sometimes fraught, relationships with both their ancestral homeland and the nations where they were born. Calling the language 华语 rather than 汉语 signals cultural heritage without asserting ethnic or political allegiance to mainland China.</p>
-      <p>华 (huá) itself is a rich character: it means magnificent, splendid, Chinese, or flourishing — it carries connotations of civilizational grandeur rather than ethnic specificity. 中华 (Zhōnghuá) is a literary and formal name for China that blends center (中) and magnificence (华), and appears in the official names of both the People's Republic of China (中华人民共和国) and the Republic of China on Taiwan (中华民国).</p>
+      <p>华 (huá) itself is a rich character: it means magnificent, splendid, Chinese, or flourishing, and carries connotations of civilizational grandeur rather than ethnic specificity. 中华 (Zhōnghuá) is a literary and formal name for China that blends center (中) and magnificence (华), and appears in the official names of both the People's Republic of China (中华人民共和国) and the Republic of China on Taiwan (中华民国).</p>
     </div>
 
     <!-- ── PRACTICAL GUIDE ── -->
@@ -153,14 +153,14 @@ updated: '2026-04-26'
         <div class="card-hanzi">普通话</div>
         <div class="card-pinyin">Pǔtōnghuà</div>
         <div class="card-en">common + speech</div>
-        <div class="card-note">Standard Mandarin specifically — the phonological standard taught in schools and used in broadcast media. Use when: distinguishing the standard spoken form from regional varieties, discussing Chinese-language education policy, or asking if someone speaks the standard variety rather than a local language.</div>
+        <div class="card-note">Standard Mandarin specifically: the phonological standard taught in schools and used in broadcast media. Use when: distinguishing the standard spoken form from regional varieties, discussing Chinese-language education policy, or asking if someone speaks the standard variety rather than a local language.</div>
       </div>
 
       <div class="card c-ochre">
         <div class="card-hanzi">汉字</div>
         <div class="card-pinyin">Hànzì</div>
         <div class="card-en">Han people + characters</div>
-        <div class="card-note">The writing system itself — the characters as a script. Use when: discussing the written form specifically, learning stroke order, talking about simplified vs traditional forms, or referring to the script system shared with Japanese kanji and Korean hanja. Distinct from any spoken language.</div>
+        <div class="card-note">The writing system itself: the characters as a script. Use when: discussing the written form specifically, learning stroke order, talking about simplified vs traditional forms, or referring to the script system shared with Japanese kanji and Korean hanja. Distinct from any spoken language.</div>
       </div>
 
       <div class="card c-ochre">

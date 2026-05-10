@@ -126,7 +126,7 @@ content_review: 'pending'
         <span class="cy-cn">光宗耀祖</span>
         <span class="cy-py">guāng zōng yào zǔ</span>
         <span class="cy-en">bring glory to the clan and illuminate the ancestors</span>
-        <span class="cy-note">光 (illuminate) + 宗 (clan lineage) + 耀 (cause to shine) + 祖 (ancestors). The foundational aspiration of Chinese family-oriented ambition — achievement is owed to and shared with those who came before. Used sincerely in formal contexts; with ironic distance among younger generations.</span>
+        <span class="cy-note">光 (illuminate) + 宗 (clan lineage) + 耀 (cause to shine) + 祖 (ancestors). The foundational aspiration of Chinese family-oriented ambition: achievement is owed to and shared with those who came before. Used sincerely in formal contexts; with ironic distance among younger generations.</span>
       </div>
       <div class="cy">
         <span class="cy-cn">数典忘祖</span>
@@ -138,13 +138,13 @@ content_review: 'pending'
         <span class="cy-cn">追本溯源</span>
         <span class="cy-py">zhuī běn sù yuán</span>
         <span class="cy-en">trace back to the root and seek the source</span>
-        <span class="cy-note">追 (pursue) + 本 (root) + 溯 (go upstream) + 源 (source). Used for rigorous investigation of origins — of a word, a practice, a family line, a historical claim. The metaphor of going upstream to find the source of a river runs through classical Chinese thought about genealogy and textual scholarship.</span>
+        <span class="cy-note">追 (pursue) + 本 (root) + 溯 (go upstream) + 源 (source). Used for rigorous investigation of origins: of a word, a practice, a family line, a historical claim. The metaphor of going upstream to find the source of a river runs through classical Chinese thought about genealogy and textual scholarship.</span>
       </div>
       <div class="cy">
         <span class="cy-cn">列祖列宗</span>
         <span class="cy-py">liè zǔ liè zōng</span>
         <span class="cy-en">all the ancestors of the line, generation upon generation</span>
-        <span class="cy-note">列 (arrayed, successive) + 祖 + 列 + 宗. A formulaic invocation of the entire ancestral chain — used in formal toasts, funeral eulogies, and solemn declarations where one speaks on behalf of the whole family line. The repetition of 列 creates a sense of unbroken succession stretching backward.</span>
+        <span class="cy-note">列 (arrayed, successive) + 祖 + 列 + 宗. A formulaic invocation of the entire ancestral chain, used in formal toasts, funeral eulogies, and solemn declarations where one speaks on behalf of the whole family line. The repetition of 列 creates a sense of unbroken succession stretching backward.</span>
       </div>
     </div>
 

@@ -59,7 +59,7 @@ content_review: 'pending'
       <span class="topic-hero-eyebrow">Vocab · 词汇 cíhuì</span>
       <h1 class="topic-hero-title">自然</h1>
       <span class="topic-hero-title-py">zì rán</span>
-      <p class="topic-hero-desc">Self-so: the things that function as they are, without outside interference — and in modern Chinese, "the natural world" and "of course" simultaneously.</p>
+      <p class="topic-hero-desc">Self-so: the things that function as they are, without outside interference; and in modern Chinese, "the natural world" and "of course" simultaneously.</p>
     </header>
 
     <span class="section-anchor" id="etymology"></span>
@@ -86,8 +86,8 @@ content_review: 'pending'
     </div>
 
     <div class="scholar" data-glyph="道">
-      <div class="scholar-label">道法自然 — the Way takes 自然 as its model</div>
-      <p>Chapter 25 of the Daodejing contains the line that made 自然 a philosophical concept rather than merely a compound adjective: <strong>人法地，地法天，天法道，道法自然</strong> — "Humanity models itself on Earth, Earth models itself on Heaven, Heaven models itself on the Way, the Way models itself on what is so of itself." The chain ascends through human civilization, the physical world, the cosmic principle, and then arrives at 自然: not as something above the Way, but as the Way's own character. It does not take a model from elsewhere. It is its own ground.</p>
+      <div class="scholar-label">道法自然 · the Way takes 自然 as its model</div>
+      <p>Chapter 25 of the Daodejing contains the line that made 自然 a philosophical concept rather than merely a compound adjective: <strong>人法地，地法天，天法道，道法自然</strong>. "Humanity models itself on Earth, Earth models itself on Heaven, Heaven models itself on the Way, the Way models itself on what is so of itself." The chain ascends through human civilization, the physical world, the cosmic principle, and then arrives at 自然: not as something above the Way, but as the Way's own character. It does not take a model from elsewhere. It is its own ground.</p>
       <p>This was Laozi's most radical claim. Every other thing in the hierarchy takes something above it as a model; only 自然 has no external reference. 自然 is the condition of things that function without outside enforcement, without the need for law, command, or correction. The Daoist political ideal is the ruler who governs so well that the people do not know they are being governed (无为而治, wú wéi ér zhì). For the full treatment of Daoist philosophy, see the <a href="../philosophy/topic_laozi.html">老子 Laozi</a> entry.</p>
       <p>The connection to 道德 is direct: if the Way models itself on 自然, then virtue (德) is the natural functioning of things in alignment with the Way. Virtue, on this reading, is not an imposition from outside but the expression of what things already are. See the <a href="daode_道德.html">道德</a> entry for the relationship between Dao and De.</p>
     </div>

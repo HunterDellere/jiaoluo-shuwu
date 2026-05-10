@@ -100,7 +100,7 @@ content_sources:
       <div class="card c-v">
         <div class="card-head"><span class="card-cn">吃亏</span><span class="card-py">chī kuī</span><span class="card-en">to suffer a loss; to be at a disadvantage; to get the short end</span></div>
         <div class="tags"><span class="tag tag-v">V 动词 dòngcí</span></div>
-        <div class="card-def">吃 chī + 亏 kuī (deficit; shortfall). To eat a shortfall , to come out worse, to be cheated or disadvantaged. 吃亏是福 chī kuī shì fú (suffering loss is a blessing) is a common proverb — the Daoist wisdom that accepting disadvantage builds character.</div>
+        <div class="card-def">吃 chī + 亏 kuī (deficit; shortfall). To eat a shortfall , to come out worse, to be cheated or disadvantaged. 吃亏是福 chī kuī shì fú (suffering loss is a blessing) is a common proverb: the Daoist wisdom that accepting disadvantage builds character.</div>
         <div class="examples">
           <div class="example"><div class="ex-cn">他这次吃了大亏。</div><div class="ex-py">Tā zhè cì chī le dà kuī.</div><div class="ex-en">He really got the short end of it this time.</div></div>
         </div>
@@ -109,7 +109,7 @@ content_sources:
       <div class="card c-v">
         <div class="card-head"><span class="card-cn">吃醋</span><span class="card-py">chī cù</span><span class="card-en">to be jealous (in love); to eat vinegar</span></div>
         <div class="tags"><span class="tag tag-v">V 动词 dòngcí</span></div>
-        <div class="card-def">吃 chī + 醋 cù (vinegar). Eating vinegar — romantic jealousy. The origin story: a Tang dynasty concubine had to drink vinegar as punishment when she defied orders, giving rise to this vivid metaphor. Exclusively romantic jealousy (not professional envy, which is 嫉妒 jídù).</div>
+        <div class="card-def">吃 chī + 醋 cù (vinegar). Eating vinegar: romantic jealousy. The origin story: a Tang dynasty concubine had to drink vinegar as punishment when she defied orders, giving rise to this vivid metaphor. Exclusively romantic jealousy (not professional envy, which is 嫉妒 jídù).</div>
         <div class="examples">
           <div class="example"><div class="ex-cn">他看见女朋友跟别人说话就吃醋。</div><div class="ex-py">Tā kànjiàn nǚpéngyou gēn biéren shuōhuà jiù chī cù.</div><div class="ex-en">He gets jealous whenever he sees his girlfriend talking to someone else.</div></div>
         </div>
