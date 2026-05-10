@@ -129,13 +129,13 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          礼 lǐ (ritual offering; gift) + 物 wù (thing; object). A ritual offering made tangible, the gift as a physical expression of a relationship. 送礼 sòng lǐ (to give a gift; also: to bribe — context disambiguates). Gift-giving in Chinese culture is governed by complex rules involving timing, amount, presentation, and reciprocity.
+          礼 lǐ (ritual offering; gift) + 物 wù (thing; object). A ritual offering made tangible, the gift as a physical expression of a relationship. 送礼 sòng lǐ (to give a gift; also: to bribe; context disambiguates). Gift-giving in Chinese culture is governed by complex rules involving timing, amount, presentation, and reciprocity.
         </div>
         <div class="examples">
           <div class="example">
             <div class="ex-cn">你来了还带礼物，太客气了！</div>
             <div class="ex-py">Nǐ lái le hái dài lǐwù, tài kèqi le!</div>
-            <div class="ex-en">You came and brought a gift — you're too kind!</div>
+            <div class="ex-en">You came and brought a gift, you're too kind!</div>
           </div>
         </div>
         <div class="note">
@@ -207,7 +207,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 成语 set phrase</span></div>
         <div class="card-def">
-          A classical phrase of national self-identification — China sees itself as the civilization that most completely developed and transmitted the principles of ritual propriety. Used in cultural pride contexts and historical writing. 礼仪之邦 = "a land of ritual propriety."
+          A classical phrase of national self-identification: China sees itself as the civilization that most completely developed and transmitted the principles of ritual propriety. Used in cultural pride contexts and historical writing. 礼仪之邦 = "a land of ritual propriety."
         </div>
         <div class="examples">
           <div class="example">

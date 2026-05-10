@@ -532,21 +532,21 @@ content_sources:
         <span class="cy-cn">江山易改本性难移</span>
         <span class="cy-py">jiāng shān yì gǎi běn xìng nán yí</span>
         <span class="cy-en">territory is easy to change; fundamental nature is hard to move — a leopard cannot change its spots</span>
-        <span class="cy-note">Classic proverb about human nature used in resignation or rueful acknowledgment. 他就是这样的人，江山易改本性难移。(He's just that kind of person — a leopard can't change its spots.) Often invoked by someone who has tried to change another person and given up.</span>
+        <span class="cy-note">Classic proverb about human nature used in resignation or rueful acknowledgment. 他就是这样的人，江山易改本性难移。(He's just that kind of person; a leopard can't change its spots.) Often invoked by someone who has tried to change another person and given up.</span>
       </div>
 
       <div class="cy">
         <span class="cy-cn">大江东去</span>
         <span class="cy-py">dà jiāng dōng qù</span>
         <span class="cy-en">the great river flows east — time and history flow on; the brilliant figures of the past are gone</span>
-        <span class="cy-note">From Su Shi's 苏轼 famous ci poem "Niannujiao · Red Cliff Nostalgia" (念奴娇·赤壁怀古): 大江东去，浪淘尽，千古风流人物 — "The great river flows east; its waves wash away the brilliant figures of a thousand ages." Invoked for historical grandeur and the irreversible passage of time.</span>
+        <span class="cy-note">From Su Shi's 苏轼 famous ci poem "Niannujiao · Red Cliff Nostalgia" (念奴娇·赤壁怀古): 大江东去，浪淘尽，千古风流人物. "The great river flows east; its waves wash away the brilliant figures of a thousand ages." Invoked for historical grandeur and the irreversible passage of time.</span>
       </div>
 
       <div class="cy">
         <span class="cy-cn">江郎才尽</span>
         <span class="cy-py">jiāng láng cái jìn</span>
         <span class="cy-en">Jiang's talent is exhausted — creative powers have run dry; the burnt-out genius</span>
-        <span class="cy-note">From the Southern Qi dynasty writer Jiang Yan (江淹), famed for his prose, who stopped producing good work later in life. Legend says he dreamed that a man demanded his writing brush back — after that, his talent was gone. 他感觉自己江郎才尽了。(He feels his talent has run dry.) Applied to writers, artists, and innovators who seem to have lost their creative spark.</span>
+        <span class="cy-note">From the Southern Qi dynasty writer Jiang Yan (江淹), famed for his prose, who stopped producing good work later in life. Legend says he dreamed that a man demanded his writing brush back; after that, his talent was gone. 他感觉自己江郎才尽了。(He feels his talent has run dry.) Applied to writers, artists, and innovators who seem to have lost their creative spark.</span>
       </div>
 
     </div>

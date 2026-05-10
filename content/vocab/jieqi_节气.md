@@ -142,7 +142,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 专名 zhuānmíng proper noun</span></div>
         <div class="card-def">
-          冬 dōng (winter) + 至 zhì (to arrive; to reach its extreme). The Winter Solstice — the shortest day, when yin energy reaches its peak and yang begins to return. Historically considered even more important than the New Year in some regions. Traditional foods: 汤圆 tāngyuán (glutinous rice balls, eaten in southern China), 饺子 jiǎozi (dumplings, eaten in northern China). The saying: 冬至大如年 "Winter Solstice is as grand as New Year."
+          冬 dōng (winter) + 至 zhì (to arrive; to reach its extreme). The Winter Solstice: the shortest day, when yin energy reaches its peak and yang begins to return. Historically considered even more important than the New Year in some regions. Traditional foods: 汤圆 tāngyuán (glutinous rice balls, eaten in southern China), 饺子 jiǎozi (dumplings, eaten in northern China). The saying: 冬至大如年 "Winter Solstice is as grand as New Year."
         </div>
         <div class="examples">
           <div class="example">
@@ -161,7 +161,7 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 专名 zhuānmíng proper noun</span></div>
         <div class="card-def">
-          春 chūn (spring) + 分 fēn (to divide; to share equally). The Spring Equinox — the day of perfect balance, when day and night are equal. In traditional cosmology, the moment when yin and yang are in exact equilibrium before yang takes the lead toward summer. A time for 踏青 tàqīng (going out to enjoy fresh spring greenery). Eggs can allegedly be stood on end on this day — a popular legend that millions test each year.
+          春 chūn (spring) + 分 fēn (to divide; to share equally). The Spring Equinox: the day of perfect balance, when day and night are equal. In traditional cosmology, the moment when yin and yang are in exact equilibrium before yang takes the lead toward summer. A time for 踏青 tàqīng (going out to enjoy fresh spring greenery). Eggs can allegedly be stood on end on this day, a popular legend that millions test each year.
         </div>
         <div class="examples">
           <div class="example">

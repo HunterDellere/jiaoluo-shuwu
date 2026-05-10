@@ -329,7 +329,7 @@ content_review: 'pending'
           <span class="cy-py">jūnzǐ zhī jiāo dàn rú shuǐ</span>
         </div>
         <div class="cy-en">The friendship of junzi is clear as water</div>
-        <div class="cy-body">From the Zhuangzi, where the full line is: "君子之交淡如水，小人之交甘若醴" — the junzi's friendship is clear as water; the petty person's friendship is sweet as wine. Wine intoxicates and eventually sickens; water sustains without drama. A friendship between junzi needs no flattery, no gifts, no mutual benefit to sustain it — it rests on genuine recognition of character, which is why it endures.</div>
+        <div class="cy-body">From the Zhuangzi, where the full line is: "君子之交淡如水，小人之交甘若醴." The junzi's friendship is clear as water; the petty person's friendship is sweet as wine. Wine intoxicates and eventually sickens; water sustains without drama. A friendship between junzi needs no flattery, no gifts, no mutual benefit to sustain it; it rests on genuine recognition of character, which is why it endures.</div>
       </div>
 
       <div class="cy">
@@ -345,7 +345,7 @@ content_review: 'pending'
 
     <div class="scholar" data-glyph="仁">
       <div class="scholar-label">记忆钩 jìyì gōu · Retention</div>
-      <p>The single most useful frame for remembering 君子: Confucius replaced a birth certificate with a cultivation practice. In the old Zhou world, your 君子 status was determined the moment you were born into the right family. Confucius said the relevant question was not what family you came from, but what you had developed — whether you had done the work of 仁义礼智信. That is the wager at the center of Confucian thought, and 君子 is the word that carries it.</p>
+      <p>The single most useful frame for remembering 君子: Confucius replaced a birth certificate with a cultivation practice. In the old Zhou world, your 君子 status was determined the moment you were born into the right family. Confucius said the relevant question was not what family you came from, but what you had developed: whether you had done the work of 仁义礼智信. That is the wager at the center of Confucian thought, and 君子 is the word that carries it.</p>
       <p>Whenever you see 君子 in a classical text, the contrast with 小人 is structurally present even when unspoken. The two terms define each other: the junzi is the person whose center of gravity is 义 (rightness); the 小人 is the person whose center of gravity is 利 (advantage). Every Analects passage featuring one implies the shadow of the other.</p>
     </div>
 
