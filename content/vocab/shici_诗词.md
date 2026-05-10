@@ -38,7 +38,7 @@ content_sources:
         <span class="toc-sub">shī · the regulated verse form</span>
       </a></li>
       <li><a href="#ci">
-        <span class="toc-cn">宋词</span> Ci — Song Dynasty Lyrics
+        <span class="toc-cn">宋词</span> Ci · Song Dynasty Lyrics
         <span class="toc-sub">cí · poetry set to music</span>
       </a></li>
       <li><a href="#key">
@@ -129,13 +129,13 @@ content_sources:
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 míngcí</span></div>
         <div class="card-def">
-          意 yì (meaning; intention; feeling) + 境 jìng (realm; situation; space). The characteristic Chinese aesthetic concept of the space created beyond the words themselves — what the poem evokes rather than describes. Good poetry has 意境; pedestrian verse merely reports facts. The standard critical compliment: 这首诗意境深远 "this poem has deep and far-reaching 意境." The concept is central to Chinese aesthetic criticism in poetry, painting, and garden design alike.
+          意 yì (meaning; intention; feeling) + 境 jìng (realm; situation; space). The characteristic Chinese aesthetic concept of the space created beyond the words themselves: what the poem evokes rather than describes. Good poetry has 意境; pedestrian verse merely reports facts. The standard critical compliment: 这首诗意境深远 "this poem has deep and far-reaching 意境." The concept is central to Chinese aesthetic criticism in poetry, painting, and garden design alike.
         </div>
         <div class="examples">
           <div class="example">
             <div class="ex-cn">王维的山水诗意境空灵，读之令人心旷神怡。</div>
             <div class="ex-py">Wáng Wéi de shānshuǐ shī yìjìng kōnglíng, dú zhī lìng rén xīnkuàngshényí.</div>
-            <div class="ex-en">Wang Wei's landscape poetry has an ethereal atmosphere — reading it refreshes the heart and delights the spirit.</div>
+            <div class="ex-en">Wang Wei's landscape poetry has an ethereal atmosphere; reading it refreshes the heart and delights the spirit.</div>
           </div>
         </div>
       </div>

@@ -301,7 +301,7 @@ content_sources:
     <div class="scholar" data-glyph="水">
       <div class="scholar-label">记忆法 jìyìfǎ · Retention Image</div>
       <p>The two characters look like what they name. 山 is three peaks. 水 is a stream with eddies on either side. The Chinese landscape is the meeting of these two shapes , one rising, one running , and a thousand years of painting and poetry are the long unfolding of the implications of holding them together in a single word.</p>
-      <p>If the Western tradition's defining landscape is a view , something seen from a vantage — the Chinese 山水 is a pairing — something inhabited from inside. To remember the word is to remember that landscape, in this language, is never one thing. It is always two things in relation: the still and the flowing, the standing and the yielding, the benevolence that supports and the wisdom that adapts. The painting genre, the poetic genre, the Confucian couplet, the Daoist hermitage — all unfold from the dyad encoded in two characters.</p>
+      <p>If the Western tradition's defining landscape is a view, something seen from a vantage, the Chinese 山水 is a pairing: something inhabited from inside. To remember the word is to remember that landscape, in this language, is never one thing. It is always two things in relation: the still and the flowing, the standing and the yielding, the benevolence that supports and the wisdom that adapts. The painting genre, the poetic genre, the Confucian couplet, the Daoist hermitage: all unfold from the dyad encoded in two characters.</p>
     </div>
 
     <footer class="page-footer">

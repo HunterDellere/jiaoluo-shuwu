@@ -103,9 +103,9 @@ content_sources:
     <div class="pattern">
       <span class="label">三要素 sān yàosù · Three Essential Elements</span>
       All qigong practice integrates three elements:<br>
-      <strong>调身</strong> tiáo shēn — regulating the body (posture, alignment, movement)<br>
-      <strong>调息</strong> tiáo xī — regulating the breath (rate, depth, rhythm, direction)<br>
-      <strong>调心</strong> tiáo xīn — regulating the mind (attention, visualization, intention)
+      <strong>调身</strong> tiáo shēn: regulating the body (posture, alignment, movement)<br>
+      <strong>调息</strong> tiáo xī: regulating the breath (rate, depth, rhythm, direction)<br>
+      <strong>调心</strong> tiáo xīn: regulating the mind (attention, visualization, intention)
     </div>
 
     <div class="cards">

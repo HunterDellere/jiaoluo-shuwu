@@ -231,14 +231,14 @@ content_sources:
         <div class="cy-hanzi">自给自足</div>
         <div class="cy-py">zì jǐ zì zú</div>
         <div class="cy-en">self-supply and self-sufficiency → to produce what one consumes; self-reliant economy</div>
-        <div class="cy-note">自 (self) + 给 (to supply) + 自 + 足 (sufficient). A description of a closed production-consumption loop. Historically the ideal of the peasant household economy; in modern China, used for food security policy (粮食自给自足, grain self-sufficiency) and strategic industries (半导体自给自足, semiconductor self-sufficiency — an active national policy goal).</div>
+        <div class="cy-note">自 (self) + 给 (to supply) + 自 + 足 (sufficient). A description of a closed production-consumption loop. Historically the ideal of the peasant household economy; in modern China, used for food security policy (粮食自给自足, grain self-sufficiency) and strategic industries (半导体自给自足, semiconductor self-sufficiency, an active national policy goal).</div>
       </div>
 
       <div class="cy">
         <div class="cy-hanzi">多快好省</div>
         <div class="cy-py">duō kuài hǎo shěng</div>
         <div class="cy-en">more, faster, better, cheaper → the four production virtues of the Great Leap Forward era</div>
-        <div class="cy-note">多 (more/quantity) + 快 (faster/speed) + 好 (better/quality) + 省 (cheaper/frugal). A Maoist production slogan from the Great Leap Forward (1958–1960). The effort to achieve all four simultaneously — maximum output, maximum speed, maximum quality, minimum cost — contributed to catastrophic overreach and famine. Now used ironically to describe impossible management demands.</div>
+        <div class="cy-note">多 (more/quantity) + 快 (faster/speed) + 好 (better/quality) + 省 (cheaper/frugal). A Maoist production slogan from the Great Leap Forward (1958–1960). The effort to achieve all four simultaneously (maximum output, maximum speed, maximum quality, minimum cost) contributed to catastrophic overreach and famine. Now used ironically to describe impossible management demands.</div>
       </div>
 
     </div>

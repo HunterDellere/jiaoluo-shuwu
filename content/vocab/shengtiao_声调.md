@@ -121,7 +121,7 @@ content_sources:
     <div class="section-head"><span class="sh-cn">声调标注</span><span class="sh-py">shēngdiào biāozhù</span><span class="sh-en">Marking Tones in Pinyin</span><span class="sh-rule"></span></div>
 
     <div class="pattern">
-      <div class="pattern-label">Rule · 规则 guīzé — Where the diacritic goes</div>
+      <div class="pattern-label">Rule · 规则 guīzé · Where the diacritic goes</div>
       <div class="pattern-formula">
         <span class="pf-slot pf-noun">a / e</span>
         <span class="pf-op">always takes the mark</span>
@@ -129,7 +129,7 @@ content_sources:
       <div class="pattern-note">If a or e appears in the syllable, the mark goes there: hǎo, méi, tiě.</div>
     </div>
     <div class="pattern">
-      <div class="pattern-label">Rule · 规则 guīzé — ou rule</div>
+      <div class="pattern-label">Rule · 规则 guīzé · ou rule</div>
       <div class="pattern-formula">
         <span class="pf-slot pf-noun">ou</span>
         <span class="pf-op">mark goes on o</span>
@@ -137,7 +137,7 @@ content_sources:
       <div class="pattern-note">In the diphthong ou, the mark goes on o: gǒu (dog), hòu (behind).</div>
     </div>
     <div class="pattern">
-      <div class="pattern-label">Rule · 规则 guīzé — final vowel rule</div>
+      <div class="pattern-label">Rule · 规则 guīzé · final vowel rule</div>
       <div class="pattern-formula">
         <span class="pf-slot pf-noun">other diphthongs</span>
         <span class="pf-op">mark the last vowel</span>
