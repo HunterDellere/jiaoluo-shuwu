@@ -2,260 +2,408 @@
   {
     "slug": "the-way",
     "title": "The Way",
-    "hook": "道 is the oldest metaphor in Chinese thought — a road you walk and a pattern the world follows. A day to sit with it, from Laozi's paradoxes to the Daoist temples that keep the image alive.",
+    "hook": "道 is the oldest metaphor in Chinese thought: a road you walk and a pattern the world follows. A day to sit with it, from Laozi's paradoxes to the Daoist temples that keep the image alive.",
     "lead": "pages/characters/dao4_道.html",
-    "related": ["pages/philosophy/topic_laozi.html", "pages/philosophy/topic_zhuangzi.html", "pages/religion/topic_daojiao.html"]
+    "related": [
+      "pages/philosophy/topic_laozi.html",
+      "pages/philosophy/topic_zhuangzi.html",
+      "pages/religion/topic_daojiao.html"
+    ]
   },
   {
     "slug": "the-heart",
     "title": "The Heart-Mind",
-    "hook": "心 is both organ and consciousness — the seat of feeling and the seat of thought, inseparable in Chinese. Read it as a character, then read what Mencius and the Neo-Confucians made of it.",
+    "hook": "心 is both organ and consciousness, the seat of feeling and the seat of thought, inseparable in Chinese. Read it as a character, then read what Mencius and the Neo-Confucians made of it.",
     "lead": "pages/characters/xin1_心.html",
-    "related": ["pages/characters/gan3_感.html", "pages/philosophy/topic_mengzi.html", "pages/philosophy/topic_xinxue.html"]
+    "related": [
+      "pages/characters/gan3_感.html",
+      "pages/philosophy/topic_mengzi.html",
+      "pages/philosophy/topic_xinxue.html"
+    ]
   },
   {
     "slug": "spring-festival",
     "title": "Spring Festival",
-    "hook": "春节 is the hinge of the Chinese year. A day on how it is kept — dumplings folded by hand, red envelopes tucked under doors, the zodiac turning over.",
+    "hook": "春节 is the hinge of the Chinese year. A day on how it is kept: dumplings folded by hand, red envelopes tucked under doors, the zodiac turning over.",
     "lead": "pages/culture/topic_chunjie.html",
-    "related": ["pages/culture/topic_hongbao.html", "pages/culture/topic_shengxiao.html", "pages/culinary/topic_jiaozi.html"]
+    "related": [
+      "pages/culture/topic_hongbao.html",
+      "pages/culture/topic_shengxiao.html",
+      "pages/culinary/topic_jiaozi.html"
+    ]
   },
   {
     "slug": "yin-yang",
     "title": "Yin & Yang",
-    "hook": "Two halves of one circle that produce each other — neither good nor evil, but the way Chinese thought refuses dualism. Pair the diagram with the five phases that flow out of it.",
+    "hook": "Two halves of one circle that produce each other, neither good nor evil, but the way Chinese thought refuses dualism. Pair the diagram with the five phases that flow out of it.",
     "lead": "pages/philosophy/topic_yinyang_wuxing.html",
-    "related": ["pages/science/topic_wuxing.html", "pages/philosophy/topic_yijing.html", "pages/science/topic_zhongyi.html"]
+    "related": [
+      "pages/science/topic_wuxing.html",
+      "pages/philosophy/topic_yijing.html",
+      "pages/science/topic_zhongyi.html"
+    ]
   },
   {
     "slug": "tang-poetry",
     "title": "Tang Poetry",
-    "hook": "Tang poems are short, image-led, and easy to memorize on purpose — the shape of literary Chinese at its most distilled. Read a few alongside the dynasty that produced them.",
+    "hook": "Tang poems are short, image-led, and easy to memorize on purpose: the shape of literary Chinese at its most distilled. Read a few alongside the dynasty that produced them.",
     "lead": "pages/arts/topic_tangshi.html",
-    "related": ["pages/history/topic_tangchao.html", "pages/arts/topic_songci.html", "pages/arts/topic_shijing.html"]
+    "related": [
+      "pages/history/topic_tangchao.html",
+      "pages/arts/topic_songci.html",
+      "pages/arts/topic_shijing.html"
+    ]
   },
   {
     "slug": "face",
     "title": "Face & Relation",
-    "hook": "面子 isn't pride — it's the social credit you carry into every room. A day on what it means, why losing it stings, and how it's repaired.",
+    "hook": "面子 isn't pride; it's the social credit you carry into every room. A day on what it means, why losing it stings, and how it's repaired.",
     "lead": "pages/vocab/mianzi_面子.html",
-    "related": ["pages/daily/topic_mianzi_practice.html", "pages/daily/topic_qingke.html", "pages/daily/topic_jingjiu.html"]
+    "related": [
+      "pages/daily/topic_mianzi_practice.html",
+      "pages/daily/topic_qingke.html",
+      "pages/daily/topic_jingjiu.html"
+    ]
   },
   {
     "slug": "confucius",
     "title": "Confucius",
-    "hook": "Not a religion, not a philosophy in the Greek sense — a set of social practices for becoming a fully human person. Start with the Analects, then the rituals he tried to revive.",
+    "hook": "Not a religion, not a philosophy in the Greek sense, but a set of social practices for becoming a fully human person. Start with the Analects, then the rituals he tried to revive.",
     "lead": "pages/philosophy/topic_kongzi.html",
-    "related": ["pages/religion/topic_rujia.html", "pages/philosophy/topic_mengzi.html", "pages/vocab/junzi_君子.html"]
+    "related": [
+      "pages/religion/topic_rujia.html",
+      "pages/philosophy/topic_mengzi.html",
+      "pages/vocab/junzi_君子.html"
+    ]
   },
   {
     "slug": "tea",
     "title": "Tea",
-    "hook": "Six categories, one leaf. A day on how 茶 evolved from medicine to ritual to everyday drink — and the philosophy that grew up alongside the kettle.",
+    "hook": "Six categories, one leaf. A day on how 茶 evolved from medicine to ritual to everyday drink, and the philosophy that grew up alongside the kettle.",
     "lead": "pages/characters/cha2_茶.html",
-    "related": ["pages/culture/topic_cha_wenhua.html", "pages/culinary/topic_lücha.html", "pages/culinary/topic_wulong.html"]
+    "related": [
+      "pages/culture/topic_cha_wenhua.html",
+      "pages/culinary/topic_lücha.html",
+      "pages/culinary/topic_wulong.html"
+    ]
   },
   {
     "slug": "chan",
     "title": "Chan Buddhism",
-    "hook": "禅 became Zen in Japan, but it was Chinese first — Buddhism filtered through Daoism, distrustful of words and devoted to sudden insight.",
+    "hook": "禅 became Zen in Japan, but it was Chinese first: Buddhism filtered through Daoism, distrustful of words and devoted to sudden insight.",
     "lead": "pages/religion/topic_chan.html",
-    "related": ["pages/religion/topic_fojiao.html", "pages/religion/topic_jingtu.html", "pages/philosophy/topic_zhuangzi.html"]
+    "related": [
+      "pages/religion/topic_fojiao.html",
+      "pages/religion/topic_jingtu.html",
+      "pages/philosophy/topic_zhuangzi.html"
+    ]
   },
   {
     "slug": "first-emperor",
     "title": "The First Emperor",
-    "hook": "He unified the script, the roads, and the measures — and burned the books that disagreed. A day on Qin Shi Huang and the empire he forged in fifteen years.",
+    "hook": "He unified the script, the roads, and the measures, and burned the books that disagreed. A day on Qin Shi Huang and the empire he forged in fifteen years.",
     "lead": "pages/history/topic_qin_shihuang.html",
-    "related": ["pages/history/topic_changcheng.html", "pages/philosophy/topic_fajia.html", "pages/history/topic_zhanguo.html"]
+    "related": [
+      "pages/history/topic_changcheng.html",
+      "pages/philosophy/topic_fajia.html",
+      "pages/history/topic_zhanguo.html"
+    ]
   },
   {
     "slug": "contradiction",
-    "title": "Chengyu — Contradiction",
+    "title": "Chengyu : Contradiction",
     "hook": "Four-character idioms that teach by paradox: stories where wisdom comes from realizing you've outsmarted yourself. A day among them.",
     "lead": "pages/chengyu/maodun_矛盾.html",
-    "related": ["pages/chengyu/huashetianzu_画蛇添足.html", "pages/chengyu/kezhouqiujian_刻舟求剑.html", "pages/chengyu/yeggonghalong_叶公好龙.html"]
+    "related": [
+      "pages/chengyu/huashetianzu_画蛇添足.html",
+      "pages/chengyu/kezhouqiujian_刻舟求剑.html",
+      "pages/chengyu/yeggonghalong_叶公好龙.html"
+    ]
   },
   {
     "slug": "dumplings",
     "title": "Dumplings & the Table",
-    "hook": "饺子 are folded by hand because of what folding represents — making the year together, sealing in the hope. A day on the food and the table that shapes Chinese life.",
+    "hook": "饺子 are folded by hand because of what folding represents: making the year together, sealing in the hope. A day on the food and the table that shapes Chinese life.",
     "lead": "pages/culinary/topic_jiaozi.html",
-    "related": ["pages/daily/topic_chifan.html", "pages/daily/topic_qingke.html", "pages/culture/topic_chunjie.html"]
+    "related": [
+      "pages/daily/topic_chifan.html",
+      "pages/daily/topic_qingke.html",
+      "pages/culture/topic_chunjie.html"
+    ]
   },
   {
     "slug": "the-mountain-and-the-water",
     "title": "Mountain and Water",
-    "hook": "山水 isn't landscape — it's the genre of Chinese painting where two opposing principles meet, and the eye learns to read empty space as something. Pair the painting tradition with the chengyu it inspired.",
+    "hook": "山水 isn't landscape; it's the genre of Chinese painting where two opposing principles meet, and the eye learns to read empty space as something. Pair the painting tradition with the chengyu it inspired.",
     "lead": "pages/vocab/shanshui_山水.html",
-    "related": ["pages/arts/topic_shanshui.html", "pages/arts/topic_shuimohua.html", "pages/chengyu/renshanshuixiu_山清水秀.html"]
+    "related": [
+      "pages/arts/topic_shanshui.html",
+      "pages/arts/topic_shuimohua.html",
+      "pages/chengyu/renshanshuixiu_山清水秀.html"
+    ]
   },
   {
     "slug": "the-exemplary-person",
     "title": "The Exemplary Person",
-    "hook": "君子 is the goal of Confucian education — not a saint and not a scholar, but a person other people want to be near. A day on what it means and how it's earned.",
+    "hook": "君子 is the goal of Confucian education: not a saint and not a scholar, but a person other people want to be near. A day on what it means and how it's earned.",
     "lead": "pages/vocab/junzi_君子.html",
-    "related": ["pages/chengyu/junzibugui_君子不器.html", "pages/philosophy/topic_kongzi.html", "pages/vocab/yi4_义.html"]
+    "related": [
+      "pages/chengyu/junzibugui_君子不器.html",
+      "pages/philosophy/topic_kongzi.html",
+      "pages/vocab/yi4_义.html"
+    ]
   },
   {
     "slug": "non-action",
     "title": "Non-Action",
-    "hook": "无为 doesn't mean doing nothing — it means acting so deeply with the grain of the situation that no force is required. The hardest idea in Daoism, in one phrase.",
+    "hook": "无为 doesn't mean doing nothing; it means acting so deeply with the grain of the situation that no force is required. The hardest idea in Daoism, in one phrase.",
     "lead": "pages/vocab/wuwei_无为.html",
-    "related": ["pages/philosophy/topic_laozi.html", "pages/philosophy/topic_zhuangzi.html", "pages/characters/dao4_道.html"]
+    "related": [
+      "pages/philosophy/topic_laozi.html",
+      "pages/philosophy/topic_zhuangzi.html",
+      "pages/characters/dao4_道.html"
+    ]
   },
   {
     "slug": "the-yellow-river",
     "title": "The Yellow River",
-    "hook": "黄河 is called both the cradle and the sorrow of China — the river that watered the first civilizations and drowned them again and again. A day on the geography that shaped the country.",
+    "hook": "黄河 is called both the cradle and the sorrow of China: the river that watered the first civilizations and drowned them again and again. A day on the geography that shaped the country.",
     "lead": "pages/geography/topic_huanghe.html",
-    "related": ["pages/geography/topic_changjiang.html", "pages/history/topic_xia_shang_zhou.html", "pages/history/topic_zhoudai.html"]
+    "related": [
+      "pages/geography/topic_changjiang.html",
+      "pages/history/topic_xia_shang_zhou.html",
+      "pages/history/topic_zhoudai.html"
+    ]
   },
   {
     "slug": "the-silk-road",
     "title": "The Silk Road",
-    "hook": "丝绸之路 was less a road than a network — silk going west, Buddhism coming east, ideas moving in both directions for fifteen hundred years.",
+    "hook": "丝绸之路 was less a road than a network: silk going west, Buddhism coming east, ideas moving in both directions for fifteen hundred years.",
     "lead": "pages/vocab/siluzhilu_丝绸之路.html",
-    "related": ["pages/science/topic_sichou.html", "pages/history/topic_handai.html", "pages/religion/topic_fojiao.html"]
+    "related": [
+      "pages/science/topic_sichou.html",
+      "pages/history/topic_handai.html",
+      "pages/religion/topic_fojiao.html"
+    ]
   },
   {
     "slug": "the-imperial-exam",
     "title": "The Imperial Exam",
-    "hook": "科举 was the most ambitious meritocratic experiment in human history — fourteen hundred years of selecting government officials by writing test. A day on what it produced and what it cost.",
+    "hook": "科举 was the most ambitious meritocratic experiment in human history: fourteen hundred years of selecting government officials by writing test. A day on what it produced and what it cost.",
     "lead": "pages/history/topic_keju.html",
-    "related": ["pages/philosophy/topic_kongzi.html", "pages/history/topic_songchao.html", "pages/arts/topic_shufa.html"]
+    "related": [
+      "pages/philosophy/topic_kongzi.html",
+      "pages/history/topic_songchao.html",
+      "pages/arts/topic_shufa.html"
+    ]
   },
   {
     "slug": "guanyin",
     "title": "Guanyin",
-    "hook": "观音 is the bodhisattva of compassion — once male, then female, then both, gradually becoming the most beloved deity in Chinese folk religion. A day on the figure and the practice.",
+    "hook": "观音 is the bodhisattva of compassion: once male, then female, then both, gradually becoming the most beloved deity in Chinese folk religion. A day on the figure and the practice.",
     "lead": "pages/religion/topic_guanyin.html",
-    "related": ["pages/religion/topic_fojiao.html", "pages/religion/topic_minjian.html", "pages/vocab/cibi_慈悲.html"]
+    "related": [
+      "pages/religion/topic_fojiao.html",
+      "pages/religion/topic_minjian.html",
+      "pages/vocab/cibi_慈悲.html"
+    ]
   },
   {
     "slug": "calligraphy",
     "title": "Calligraphy",
-    "hook": "书法 is the closest Chinese art has to a portrait of the artist — the line records the breath, the hesitation, the moment. A day on the five scripts and the brush.",
+    "hook": "书法 is the closest Chinese art has to a portrait of the artist: the line records the breath, the hesitation, the moment. A day on the five scripts and the brush.",
     "lead": "pages/arts/topic_shufa.html",
-    "related": ["pages/arts/topic_shufa_styles.html", "pages/arts/topic_wenfangsibao.html", "pages/arts/topic_zhuanke.html"]
+    "related": [
+      "pages/arts/topic_shufa_styles.html",
+      "pages/arts/topic_wenfangsibao.html",
+      "pages/arts/topic_zhuanke.html"
+    ]
   },
   {
     "slug": "five-phases",
     "title": "Five Phases",
-    "hook": "五行 — wood, fire, earth, metal, water — are not elements but stages in a cycle of transformation. The grammar of Chinese science before there was a word for science.",
+    "hook": "五行 (wood, fire, earth, metal, water) are not elements but stages in a cycle of transformation. The grammar of Chinese science before there was a word for science.",
     "lead": "pages/science/topic_wuxing.html",
-    "related": ["pages/philosophy/topic_yinyang_wuxing.html", "pages/science/topic_zhongyi.html", "pages/philosophy/topic_yijing.html"]
+    "related": [
+      "pages/philosophy/topic_yinyang_wuxing.html",
+      "pages/science/topic_zhongyi.html",
+      "pages/philosophy/topic_yijing.html"
+    ]
   },
   {
     "slug": "mid-autumn",
     "title": "Mid-Autumn",
     "hook": "中秋节 is the moon at its fullest, families gathering, mooncakes split into pieces. A day on the festival and what it gathers around.",
     "lead": "pages/culture/topic_zhongqiu.html",
-    "related": ["pages/culture/topic_chunjie.html", "pages/culture/topic_duanwu.html", "pages/culture/topic_qingming.html"]
+    "related": [
+      "pages/culture/topic_chunjie.html",
+      "pages/culture/topic_duanwu.html",
+      "pages/culture/topic_qingming.html"
+    ]
   },
   {
     "slug": "the-i-ching",
     "title": "The Book of Changes",
-    "hook": "易经 is the oldest book in the Chinese canon — sixty-four hexagrams reading the patterns of change. A day on what it actually says and how to use it.",
+    "hook": "易经 is the oldest book in the Chinese canon: sixty-four hexagrams reading the patterns of change. A day on what it actually says and how to use it.",
     "lead": "pages/philosophy/topic_yijing.html",
-    "related": ["pages/philosophy/topic_yinyang_wuxing.html", "pages/vocab/qiankun_乾坤.html", "pages/philosophy/topic_laozi.html"]
+    "related": [
+      "pages/philosophy/topic_yinyang_wuxing.html",
+      "pages/vocab/qiankun_乾坤.html",
+      "pages/philosophy/topic_laozi.html"
+    ]
   },
   {
     "slug": "wang-yangming",
     "title": "Wang Yangming",
-    "hook": "王阳明 broke with five hundred years of Neo-Confucian orthodoxy with a single idea — that knowledge and action are one thing. A day on the philosopher who became a general.",
+    "hook": "王阳明 broke with five hundred years of Neo-Confucian orthodoxy with a single idea: that knowledge and action are one thing. A day on the philosopher who became a general.",
     "lead": "pages/philosophy/topic_yangming.html",
-    "related": ["pages/philosophy/topic_xinxue.html", "pages/philosophy/topic_lixue.html", "pages/characters/xin1_心.html"]
+    "related": [
+      "pages/philosophy/topic_xinxue.html",
+      "pages/philosophy/topic_lixue.html",
+      "pages/characters/xin1_心.html"
+    ]
   },
   {
     "slug": "the-character-as-history",
     "title": "Reading a Character as History",
-    "hook": "Every hanzi is a sediment of meanings — the original drawing, the metaphor that grew out of it, the borrowing it picked up centuries later. A day on the layers, using one character.",
+    "hook": "Every hanzi is a sediment of meanings: the original drawing, the metaphor that grew out of it, the borrowing it picked up centuries later. A day on the layers, using one character.",
     "lead": "pages/characters/de2_德.html",
-    "related": ["pages/characters/ren2_仁.html", "pages/characters/yi4_义.html", "pages/characters/dao4_道.html"]
+    "related": [
+      "pages/characters/ren2_仁.html",
+      "pages/characters/yi4_义.html",
+      "pages/characters/dao4_道.html"
+    ]
   },
   {
     "slug": "ghosts",
     "title": "Ghosts and the Dead",
-    "hook": "鬼 in Chinese cosmology aren't horror — they're family who didn't get the right rites, or strangers passing through. A day on the dead, the festival that feeds them, and the gods who keep them in line.",
+    "hook": "鬼 in Chinese cosmology aren't horror; they're family who didn't get the right rites, or strangers passing through. A day on the dead, the festival that feeds them, and the gods who keep them in line.",
     "lead": "pages/characters/gui3_鬼.html",
-    "related": ["pages/culture/topic_zhongyuan.html", "pages/religion/topic_chenghuang.html", "pages/religion/topic_zuxian.html"]
+    "related": [
+      "pages/culture/topic_zhongyuan.html",
+      "pages/religion/topic_chenghuang.html",
+      "pages/religion/topic_zuxian.html"
+    ]
   },
   {
     "slug": "harmony",
     "title": "Harmony",
-    "hook": "和 is the word painted over restaurant doors and government buildings alike — but its older meaning is musical, not political. A day on what harmony actually means in Chinese.",
+    "hook": "和 is the word painted over restaurant doors and government buildings alike, but its older meaning is musical, not political. A day on what harmony actually means in Chinese.",
     "lead": "pages/characters/he2_和.html",
-    "related": ["pages/philosophy/topic_kongzi.html", "pages/vocab/junzi_君子.html", "pages/vocab/limao_礼貌.html"]
+    "related": [
+      "pages/philosophy/topic_kongzi.html",
+      "pages/vocab/junzi_君子.html",
+      "pages/vocab/limao_礼貌.html"
+    ]
   },
   {
     "slug": "the-great-wall",
     "title": "The Great Wall",
-    "hook": "长城 is not one wall but two thousand years of walls — and the empires that built them have more in common than the stones do. A day on the building, the strategy, and the myth.",
+    "hook": "长城 is not one wall but two thousand years of walls, and the empires that built them have more in common than the stones do. A day on the building, the strategy, and the myth.",
     "lead": "pages/history/topic_changcheng.html",
-    "related": ["pages/vocab/changjian_长城.html", "pages/history/topic_qin_shihuang.html", "pages/history/topic_mingchao.html"]
+    "related": [
+      "pages/vocab/changjian_长城.html",
+      "pages/history/topic_qin_shihuang.html",
+      "pages/history/topic_mingchao.html"
+    ]
   },
   {
     "slug": "rectification-of-names",
     "title": "Rectification of Names",
-    "hook": "正名 — Confucius said that if names are not correct, language doesn't fit, things don't get done. The most undervalued idea in his system, with consequences for how Chinese politics still talks.",
+    "hook": "正名: Confucius said that if names are not correct, language doesn't fit, things don't get done. The most undervalued idea in his system, with consequences for how Chinese politics still talks.",
     "lead": "pages/philosophy/topic_zhengming.html",
-    "related": ["pages/philosophy/topic_kongzi.html", "pages/philosophy/topic_xunzi.html", "pages/daily/topic_chenghu.html"]
+    "related": [
+      "pages/philosophy/topic_kongzi.html",
+      "pages/philosophy/topic_xunzi.html",
+      "pages/daily/topic_chenghu.html"
+    ]
   },
   {
     "slug": "compassion",
     "title": "Compassion",
-    "hook": "慈悲 is the Buddhist word for active kindness — pity that doesn't condescend, love that has work to do. Pair the term with Guanyin, who embodies it.",
+    "hook": "慈悲 is the Buddhist word for active kindness: pity that doesn't condescend, love that has work to do. Pair the term with Guanyin, who embodies it.",
     "lead": "pages/vocab/cibi_慈悲.html",
-    "related": ["pages/religion/topic_guanyin.html", "pages/religion/topic_fojiao.html", "pages/vocab/pusa_菩萨.html"]
+    "related": [
+      "pages/religion/topic_guanyin.html",
+      "pages/religion/topic_fojiao.html",
+      "pages/vocab/pusa_菩萨.html"
+    ]
   },
   {
     "slug": "shanghai",
     "title": "Shanghai",
     "hook": "Not the oldest Chinese city, not a capital, but the one that has been most willing to be modern. A day on the port, the colonial era, and the China that came out of it.",
     "lead": "pages/geography/topic_shanghai.html",
-    "related": ["pages/geography/topic_xianggang.html", "pages/geography/topic_changjiang.html", "pages/history/topic_xinhai.html"]
+    "related": [
+      "pages/geography/topic_xianggang.html",
+      "pages/geography/topic_changjiang.html",
+      "pages/history/topic_xinhai.html"
+    ]
   },
   {
     "slug": "tomb-sweeping",
     "title": "Tomb-Sweeping Day",
     "hook": "清明节 is when families return to ancestral graves to weed, repaint, burn paper, talk to the dead. A day on the ritual and the relationship it keeps alive.",
     "lead": "pages/culture/topic_qingming.html",
-    "related": ["pages/religion/topic_zuxian.html", "pages/culture/topic_zhongyuan.html", "pages/daily/topic_hongbai.html"]
+    "related": [
+      "pages/religion/topic_zuxian.html",
+      "pages/culture/topic_zhongyuan.html",
+      "pages/daily/topic_hongbai.html"
+    ]
   },
   {
     "slug": "ink-wash",
     "title": "Ink-Wash",
-    "hook": "水墨画 is painting where what isn't painted matters more than what is — the empty paper carrying the meaning. A day on the technique, the masters, and the philosophy underneath.",
+    "hook": "水墨画 is painting where what isn't painted matters more than what is, the empty paper carrying the meaning. A day on the technique, the masters, and the philosophy underneath.",
     "lead": "pages/arts/topic_shuimohua.html",
-    "related": ["pages/arts/topic_shanshui.html", "pages/arts/topic_wenfangsibao.html", "pages/philosophy/topic_zhuangzi.html"]
+    "related": [
+      "pages/arts/topic_shanshui.html",
+      "pages/arts/topic_wenfangsibao.html",
+      "pages/philosophy/topic_zhuangzi.html"
+    ]
   },
   {
     "slug": "twenty-four-solar-terms",
     "title": "The 24 Solar Terms",
-    "hook": "节气 divides the year into twenty-four micro-seasons, each fifteen days, each named for what's happening — Insects Awaken, Grain Buds, White Dew. A day on the calendar that ran agriculture for two thousand years.",
+    "hook": "节气 divides the year into twenty-four micro-seasons, each fifteen days, each named for what's happening: Insects Awaken, Grain Buds, White Dew. A day on the calendar that ran agriculture for two thousand years.",
     "lead": "pages/science/topic_jieqi.html",
-    "related": ["pages/science/topic_lifa.html", "pages/science/topic_xingxiu.html", "pages/culture/topic_qingming.html"]
+    "related": [
+      "pages/science/topic_lifa.html",
+      "pages/science/topic_xingxiu.html",
+      "pages/culture/topic_qingming.html"
+    ]
   },
   {
     "slug": "tofu",
     "title": "Tofu",
-    "hook": "豆腐 was invented as Buddhist meat — protein for monks who wouldn't eat animals. A day on the food, the technique, and what it became outside the temple.",
+    "hook": "豆腐 was invented as Buddhist meat: protein for monks who wouldn't eat animals. A day on the food, the technique, and what it became outside the temple.",
     "lead": "pages/culinary/topic_doufu.html",
-    "related": ["pages/religion/topic_fojiao.html", "pages/daily/topic_chifan.html", "pages/culinary/topic_caixi.html"]
+    "related": [
+      "pages/religion/topic_fojiao.html",
+      "pages/daily/topic_chifan.html",
+      "pages/culinary/topic_caixi.html"
+    ]
   },
   {
     "slug": "humility",
     "title": "Humility",
-    "hook": "谦虚 is mandatory grammar in Chinese politeness — the place where the language enforces what the culture believes. A day on the practice and the philosophy behind it.",
+    "hook": "谦虚 is mandatory grammar in Chinese politeness: the place where the language enforces what the culture believes. A day on the practice and the philosophy behind it.",
     "lead": "pages/vocab/qianxu_谦虚.html",
-    "related": ["pages/vocab/limao_礼貌.html", "pages/philosophy/topic_kongzi.html", "pages/daily/topic_qingke.html"]
+    "related": [
+      "pages/vocab/limao_礼貌.html",
+      "pages/philosophy/topic_kongzi.html",
+      "pages/daily/topic_qingke.html"
+    ]
   },
   {
     "slug": "the-zodiac",
     "title": "The Zodiac",
-    "hook": "生肖 — twelve animals on a twelve-year cycle, with the dragon as the only mythic one. A day on what each animal carries, what year you fall in, and why dragon years still spike the birth rate.",
+    "hook": "生肖: twelve animals on a twelve-year cycle, with the dragon as the only mythic one. A day on what each animal carries, what year you fall in, and why dragon years still spike the birth rate.",
     "lead": "pages/culture/topic_shengxiao.html",
-    "related": ["pages/characters/long2_龙.html", "pages/science/topic_tiangan_dizhi.html", "pages/culture/topic_chunjie.html"]
+    "related": [
+      "pages/characters/long2_龙.html",
+      "pages/science/topic_tiangan_dizhi.html",
+      "pages/culture/topic_chunjie.html"
+    ]
   }
 ]

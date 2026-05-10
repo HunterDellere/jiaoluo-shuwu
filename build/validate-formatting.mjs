@@ -194,6 +194,30 @@ for (const pageFull of walkPages(PAGES)) {
   }
 }
 
+// ── data/featured.json — homepage and Today thread cards render these strings
+// directly, so em-dashes here surface in user-facing copy. The validator only
+// walks content/ by default, so featured.json bypassed the gate. Check it
+// explicitly: any `—` in `title` or `hook` is an ERROR.
+{
+  const featuredPath = path.join(ROOT, 'data', 'featured.json');
+  if (fs.existsSync(featuredPath)) {
+    try {
+      const themes = JSON.parse(fs.readFileSync(featuredPath, 'utf8'));
+      for (const t of themes) {
+        for (const field of ['title', 'hook']) {
+          if (typeof t[field] === 'string' && t[field].includes('—')) {
+            emit('ERROR', 'data/featured.json',
+              `theme '${t.slug}' field '${field}' contains em-dash (—). Renders verbatim on the homepage and Today page.`,
+              { fix: `Rewrite ${field} without em-dash. Use comma, colon, parenthetical, or split.` });
+          }
+        }
+      }
+    } catch (e) {
+      emit('WARN', 'data/featured.json', `could not parse: ${e.message}`);
+    }
+  }
+}
+
 // ── persist ──────────────────────────────────────────────────────────────────
 reportFindings('validate-formatting', findings);
 mergeFindings(ROOT, findings, ['formatting']);

@@ -190,37 +190,38 @@ function formatRange(start, end) {
 }
 
 // ────────────────────── Pass 3: romanization consistency ──────────────────────
-// For each CN proper noun we have a canonical romanization for: scan the
-// text, find ANY romanization variant, flag any that aren't canonical.
-// Operates on body text after HTML strip — picks up romanizations that
-// appear in prose rather than in stripped pinyin spans.
-const ROM_VARIANTS = ROMANIZATIONS.variants || {};
+// For each CN proper noun, a `canonical` form is preferred and an
+// `also_acceptable` list is tolerated. Only spellings explicitly listed in
+// `flagged` get a WARN — this is the strict subset we've decided to push
+// out of the corpus. Adjacent gloss patterns (e.g. `心经 (Xīnjīng)`) are
+// exempt so glossed pinyin doesn't trip the check.
 const ROM_CANONICAL = ROMANIZATIONS.canonical || {};
+const ROM_FLAGGED = ROMANIZATIONS.flagged || {};
 
 function checkRomanizations(rel, text) {
-  for (const [cn, variants] of Object.entries(ROM_VARIANTS)) {
+  for (const [cn, flaggedList] of Object.entries(ROM_FLAGGED)) {
     const canonical = ROM_CANONICAL[cn];
     if (!canonical) continue;
-    for (const v of variants) {
+    for (const v of flaggedList) {
       if (v === canonical) continue;
-      // Word-boundary match. Variants may contain spaces and tone marks; we
-      // build the regex against the literal text.
       const re = new RegExp('(?:^|[^\\w])(' + escapeRegex(v) + ')(?=[^\\w]|$)', 'gu');
       let m;
       while ((m = re.exec(text)) !== null) {
         const off = m.index + m[0].indexOf(v);
-        // Skip if the variant appears as a parenthetical gloss next to the
-        // CN form or the canonical English form. Patterns we permit:
-        //   "诗经 (Shījīng)", "诗经 Shījīng", "Shijing (诗经 Shījīng)",
-        //   "Shijing 诗经 Shījīng", "Heart Sutra · Xīnjīng".
-        // Look at a 60-char window before the match for either anchor.
+        // Adjacent-gloss exemption — bidirectional. The variant counts as a
+        // gloss if either the CN form or the canonical English form appears
+        // within ~60 chars on either side. Catches `心经 (Xīnjīng)` (CN
+        // before), `Xīnjīng (心经)` (CN after), and `Tao Te Ching (=道德经)`
+        // (CN after, parenthetical-with-equals teaching context).
         const before = text.slice(Math.max(0, off - 60), off);
-        const isGloss = before.includes(cn) || before.includes(canonical);
+        const after  = text.slice(off + v.length, off + v.length + 60);
+        const isGloss = before.includes(cn) || before.includes(canonical)
+                     ||  after.includes(cn) ||  after.includes(canonical);
         if (isGloss) continue;
         const ctx = text.slice(Math.max(0, off - 30), off + v.length + 30).trim();
         emit('WARN', rel,
           `romanization '${v}' for ${cn} — house style is '${canonical}'`,
-          { context: ctx, fix: `Replace '${v}' with '${canonical}' in body prose, or rewrite so the toned form sits immediately after the CN form (parenthetical/adjacent glosses are exempt).` });
+          { context: ctx, fix: `Replace '${v}' with '${canonical}' in body prose. Toned/native forms inside pinyin spans (.sh-py / .card-py / .a-py) are exempt — those spans are stripped before validation.` });
       }
     }
   }
