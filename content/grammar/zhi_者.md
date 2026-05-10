@@ -458,7 +458,7 @@ pinyin: 'zhě'
       <div class="scholar-label">古典句式 gǔdiǎn jùshì · Classical Sentence Structures Still in Use</div>
       <p>Several sentence patterns built around 者 passed from Classical Chinese into modern formal writing largely intact. Encountering them in texts feels like discovering that a piece of old machinery still runs. The most important is the definition formula: <strong>X者，Y也</strong> , "as for X, [it is] Y." The 者 brackets the topic and holds it up for definition; the 也 yě closes the predicate. This is how classical writers composed dictionary entries, philosophical definitions, and categorical claims.</p>
       <p>学者，学习之人也 , "A scholar is a person who studies." The structure reads as archaic today but survives in formal definitions and philosophical writing, especially in texts engaging with classical Chinese thought. A modern writer who wants to echo classical authority may deliberately invoke this pattern.</p>
-      <p>A second live pattern: <strong>来者不拒</strong> lái zhě bù jù — "refuse no one who comes." 来者 = those who come; 不拒 = do not refuse/turn away. A fixed four-character set phrase meaning to welcome all comers, accept all business, or turn no one away. Used in hospitality contexts, commercial slogans, and descriptions of a generous or all-accepting stance.</p>
+      <p>A second live pattern: <strong>来者不拒</strong> lái zhě bù jù, "refuse no one who comes." 来者 = those who come; 不拒 = do not refuse/turn away. A fixed four-character set phrase meaning to welcome all comers, accept all business, or turn no one away. Used in hospitality contexts, commercial slogans, and descriptions of a generous or all-accepting stance.</p>
     </div>
 
     <div class="cards">
@@ -500,7 +500,7 @@ pinyin: 'zhě'
         </div>
         <div class="tags"><span class="tag tag-n">N 名词 · set noun phrase</span></div>
         <div class="card-def">
-          不劳而获 (to gain without labor) + 者. A full predicate — verb phrase plus adverb — nominalized by 者. The resulting noun phrase can serve as subject, object, or object of a preposition. This is 者 at its most generative: even a four-character predicate can be converted into a noun phrase by appending 者. Common in moral and political discourse.
+          不劳而获 (to gain without labor) + 者. A full predicate (verb phrase plus adverb) nominalized by 者. The resulting noun phrase can serve as subject, object, or object of a preposition. This is 者 at its most generative: even a four-character predicate can be converted into a noun phrase by appending 者. Common in moral and political discourse.
         </div>
         <div class="examples">
           <div class="example">

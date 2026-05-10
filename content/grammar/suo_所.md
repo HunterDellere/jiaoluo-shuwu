@@ -418,7 +418,7 @@ content_review: 'pending'
           <span class="card-py">zhī zhě</span>
           <span class="card-en">the one who knows; the wise person</span>
         </div>
-        <p>知 (know) + 者 = "the one who knows." Subject nominalization. 知者不惑 (Analects 9.29) — the wise person is not confused. 者 after a verb or adjective always names the agent or bearer of that quality.</p>
+        <p>知 (know) + 者 = "the one who knows." Subject nominalization. 知者不惑 (Analects 9.29): the wise person is not confused. 者 after a verb or adjective always names the agent or bearer of that quality.</p>
       </div>
       <div class="card c-ochre">
         <div class="card-head">
@@ -426,7 +426,7 @@ content_review: 'pending'
           <span class="card-py">suǒ zhī</span>
           <span class="card-en">that which is known; the content of knowledge</span>
         </div>
-        <p>所 + 知 = "that which is known." Object nominalization. The focus is on the content — what is known — not on the knower. Compare directly with 知者 above: same verb, opposite grammatical orientation.</p>
+        <p>所 + 知 = "that which is known." Object nominalization. The focus is on the content (what is known), not on the knower. Compare directly with 知者 above: same verb, opposite grammatical orientation.</p>
       </div>
       <div class="card c-ochre">
         <div class="card-head">

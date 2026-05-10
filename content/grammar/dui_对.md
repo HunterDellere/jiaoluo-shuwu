@@ -184,7 +184,7 @@ pinyin: 'duì'
           <div class="example">
             <div class="ex-cn">对了，你知道王老师的电话号码吗？</div>
             <div class="ex-py">Duì le, nǐ zhīdào Wáng lǎoshī de diànhuà hàomǎ ma?</div>
-            <div class="ex-en">Oh right — do you have Teacher Wang's phone number?</div>
+            <div class="ex-en">Oh right, do you have Teacher Wang's phone number?</div>
           </div>
         </div>
       </div>
@@ -215,12 +215,12 @@ pinyin: 'duì'
           <div class="example">
             <div class="ex-cn">他对朋友非常慷慨，有什么好的都会分享。</div>
             <div class="ex-py">Tā duì péngyou fēicháng kāngkǎi, yǒu shénme hǎo de dōu huì fēnxiǎng.</div>
-            <div class="ex-en">He is very generous toward his friends — he shares anything good he has.</div>
+            <div class="ex-en">He is very generous toward his friends; he shares anything good he has.</div>
           </div>
           <div class="example">
             <div class="ex-cn">你的发音对了，现在练习声调。</div>
             <div class="ex-py">Nǐ de fāyīn duì le, xiànzài liànxí shēngdiào.</div>
-            <div class="ex-en">Your pronunciation is correct now — practice the tones.</div>
+            <div class="ex-en">Your pronunciation is correct now; practice the tones.</div>
           </div>
           <div class="example">
             <div class="ex-cn">我对他说的话感到很困惑。</div>

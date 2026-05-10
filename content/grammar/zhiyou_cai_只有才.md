@@ -38,7 +38,7 @@ pinyin: 'zhǐyǒu cái'
       <span class="topic-hero-eyebrow">Grammar · 语法 yǔfǎ · Conditional &amp; Restriction</span>
       <h1 class="topic-hero-title">只有…才</h1>
       <span class="topic-hero-title-py">zhǐyǒu…cái</span>
-      <p class="topic-hero-desc">The restrictive conditional — only if the condition in 只有 is met, can the result in 才 occur. This frame expresses <em>necessity</em>: X is the one and only path to Y. Without X, Y is impossible.</p>
+      <p class="topic-hero-desc">The restrictive conditional: only if the condition in 只有 is met, can the result in 才 occur. This frame expresses <em>necessity</em>: X is the one and only path to Y. Without X, Y is impossible.</p>
     </header>
 
     <span class="section-anchor" id="structure"></span>
@@ -72,7 +72,7 @@ pinyin: 'zhǐyǒu cái'
     <div class="scholar" data-glyph="才">
       <div class="scholar-label">语法洞见 yǔfǎ dòngjiàn · Grammar Insight</div>
       <p>只有…才 expresses a <strong>necessary condition</strong> (必要条件 bìyào tiáojiàn): X is required for Y, but X alone may not guarantee Y. "Only by studying hard can you pass" does not mean studying hard is sufficient; other factors may still prevent passing. It means: not studying = definitely not passing.</p>
-      <p>This contrasts with 只要…就 (sufficient condition), where "as long as X, then Y" — X is enough to bring about Y. In practice, 只有…才 says "X is the minimum requirement" and 只要…就 says "X is all you need." Chinese speakers switch between them with precision to signal whether they are describing a floor or a threshold.</p>
+      <p>This contrasts with 只要…就 (sufficient condition), where "as long as X, then Y" means X is enough to bring about Y. In practice, 只有…才 says "X is the minimum requirement" and 只要…就 says "X is all you need." Chinese speakers switch between them with precision to signal whether they are describing a floor or a threshold.</p>
     </div>
 
     <span class="section-anchor" id="compare"></span>
@@ -96,7 +96,7 @@ pinyin: 'zhǐyǒu cái'
     <div class="scholar" data-glyph="才">
       <div class="scholar-label">才 cái · Multiple Functions</div>
       <p>才 cái carries multiple meanings depending on context. In 只有…才, it functions as a <strong>consequence marker</strong> meaning "then and only then." 才 has two other core uses: (1) <strong>lateness / delay</strong>: 你才来 = you're only now arriving (I've been waiting); (2) <strong>talent</strong>: 才能 cáinéng = talent and ability.</p>
-      <p>In the conditional frame, 才 always comes before the main verb of the result clause and cannot be dropped. Compare: 只有努力才能成功 vs. *只有努力能成功 (wrong). 才 is structurally required to mark the contingent result. It signals that this result is not freely available — it requires the condition just stated.</p>
+      <p>In the conditional frame, 才 always comes before the main verb of the result clause and cannot be dropped. Compare: 只有努力才能成功 vs. *只有努力能成功 (wrong). 才 is structurally required to mark the contingent result. It signals that this result is not freely available; it requires the condition just stated.</p>
     </div>
 
     <span class="section-anchor" id="adjacent"></span>
