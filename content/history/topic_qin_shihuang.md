@@ -245,21 +245,21 @@ pinyin: 'qín shǐhuáng'
         <span class="cy-cn">指鹿为马</span>
         <span class="cy-py">zhǐ lù wéi mǎ</span>
         <span class="cy-en">point at a deer and call it a horse — deliberate falsification to identify loyalists</span>
-        <span class="cy-note">Zhao Gao presented a deer to the court and declared it a horse, watching who agreed and who dared contradict him. Those who said "deer" were later executed. Now the standard idiom for using power to force people to deny observable reality — invoking political coercion, propaganda, and the suppression of truth. Appears constantly in modern Chinese political commentary and social media.</span>
+        <span class="cy-note">Zhao Gao presented a deer to the court and declared it a horse, watching who agreed and who dared contradict him. Those who said "deer" were later executed. Now the standard idiom for using power to force people to deny observable reality, invoking political coercion, propaganda, and the suppression of truth. Appears constantly in modern Chinese political commentary and social media.</span>
       </div>
 
       <div class="cy">
         <span class="cy-cn">书同文，车同轨</span>
         <span class="cy-py">shū tóng wén, chē tóng guǐ</span>
         <span class="cy-en">unified script, standardized axle widths — the rhetorical formula of systemic national unity</span>
-        <span class="cy-note">Still quoted in policy arguments about national standards — language standardization, infrastructure compatibility, technical regulation. The pairing condenses the Qin unification logic: physical connectivity (roads) plus cultural connectivity (writing) equals empire. It appears in speeches about high-speed rail interoperability as naturally as in discussions of character simplification.</span>
+        <span class="cy-note">Still quoted in policy arguments about national standards: language standardization, infrastructure compatibility, technical regulation. The pairing condenses the Qin unification logic: physical connectivity (roads) plus cultural connectivity (writing) equals empire. It appears in speeches about high-speed rail interoperability as naturally as in discussions of character simplification.</span>
       </div>
 
       <div class="cy">
         <span class="cy-cn">万里长城</span>
         <span class="cy-py">wànlǐ Chángchéng</span>
         <span class="cy-en">the ten-thousand-li Great Wall — symbol of colossal collective effort</span>
-        <span class="cy-note">万里 wànlǐ (ten thousand li) is figurative hyperbole. The wall's actual total length across all dynasties is approximately 21,196 km. Used metaphorically for any enormous undertaking requiring sustained collective effort. Classical phrase: 不到长城非好汉 "you're not a real hero until you've climbed the Great Wall" — popularized by Mao Zedong, now a common tourist slogan.</span>
+        <span class="cy-note">万里 wànlǐ (ten thousand li) is figurative hyperbole. The wall's actual total length across all dynasties is approximately 21,196 km. Used metaphorically for any enormous undertaking requiring sustained collective effort. Classical phrase: 不到长城非好汉 "you're not a real hero until you've climbed the Great Wall", popularized by Mao Zedong, now a common tourist slogan.</span>
       </div>
 
     </div>

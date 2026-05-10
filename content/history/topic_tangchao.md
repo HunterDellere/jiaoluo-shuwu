@@ -204,7 +204,7 @@ pinyin: 'tángcháo'
       <p>The <strong>安史之乱 Ān-Shǐ zhī Luàn</strong> (An-Shi Rebellion, 755–763 CE) is the great rupture in Tang history, the event that divides "High Tang" from "Late Tang," confident expansion from anxious contraction. It is named for its two leaders: <strong>安禄山 Ān Lùshān</strong>, a military commander of Sogdian-Turkic origin who controlled three northeastern frontier commands (节度使 jiédùshǐ), and his subordinate <strong>史思明 Shǐ Sīmíng</strong>.</p>
       <p>The rebellion's precondition was the concentration of military power in the frontier commands. Emperor Xuanzong (r. 712–756 CE), in the long and brilliant opening decades of his reign (the <strong>开元盛世 Kāiyuán Shèngshì</strong>, Glorious Era of Kaiyuan) had allowed this concentration to develop while himself falling into the pleasures of late reign: his obsessive love for the imperial consort <strong>杨贵妃 Yáng Guìfēi</strong> (Yang Guifei) and his reliance on the corrupt chief minister <strong>杨国忠 Yáng Guózhōng</strong> (Yang Guifei's cousin) had weakened court governance.</p>
       <p>An Lushan launched his rebellion in December 755 CE with an army of approximately 200,000. He captured the secondary capital Luoyang in January 756 CE, and the primary capital Chang'an fell that summer. Xuanzong fled southwest toward Sichuan; at the Mawei station (<strong>马嵬驿 Mǎwéi Yì</strong>), his escort troops mutinied and demanded the execution of Yang Guozhong, and then of Yang Guifei herself. Xuanzong consented; she was strangled. The tragedy of Xuanzong and Yang Guifei became the most celebrated love story in Chinese literary history, immortalized in Bai Juyi's <strong>长恨歌 Cháng Hèn Gē</strong> (Song of Everlasting Regret).</p>
-      <p>The rebellion was suppressed by 763 CE but only with the help of the Uyghur Khaganate, at significant political cost. The Tang never recovered its former vigor. The frontier military commanders (节度使) retained their power; the court depended on them rather than commanding them. Over the next century and a half, the Tang contracted, eunuch power at court intensified, and the brilliant provincial culture of the Late Tang , melancholy, self-aware, retrospective — expressed the mood of an empire that knew its best years were past.</p>
+      <p>The rebellion was suppressed by 763 CE but only with the help of the Uyghur Khaganate, at significant political cost. The Tang never recovered its former vigor. The frontier military commanders (节度使) retained their power; the court depended on them rather than commanding them. Over the next century and a half, the Tang contracted, eunuch power at court intensified, and the brilliant provincial culture of the Late Tang (melancholy, self-aware, retrospective) expressed the mood of an empire that knew its best years were past.</p>
     </div>
 
     <!-- ── CHENGYU ── -->
@@ -222,7 +222,7 @@ pinyin: 'tángcháo'
         <span class="cy-cn">贞观之治</span>
         <span class="cy-py">Zhēnguān zhī Zhì</span>
         <span class="cy-en">the Well-Governed Era of Zhenguan — the Confucian ideal of enlightened imperial rule</span>
-        <span class="cy-note">Taizong's reign era (627–649 CE), celebrated as the model of good governance in Chinese political tradition. The formula "[reign-era name] 之治" became the standard way to name historical periods of exceptional governance — as in 文景之治 and 开元盛世. Used today in political speeches to invoke the ideal of a competent, morally serious ruler who listens to honest remonstrance.</span>
+        <span class="cy-note">Taizong's reign era (627–649 CE), celebrated as the model of good governance in Chinese political tradition. The formula "[reign-era name] 之治" became the standard way to name historical periods of exceptional governance, as in 文景之治 and 开元盛世. Used today in political speeches to invoke the ideal of a competent, morally serious ruler who listens to honest remonstrance.</span>
       </div>
 
       <div class="cy">
@@ -243,7 +243,7 @@ pinyin: 'tángcháo'
         <span class="cy-cn">烽火连三月，家书抵万金</span>
         <span class="cy-py">fēnghuǒ lián sān yuè, jiāshū dǐ wàn jīn</span>
         <span class="cy-en">beacon fires for three months; a letter from home worth ten thousand gold</span>
-        <span class="cy-note">Du Fu's couplet from 春望 (Spring View), written during the An Lushan Rebellion while imprisoned in rebel-held Chang'an (756 CE). Among the most quoted lines in Chinese literature — a complete world of wartime separation compressed into fourteen characters. 家书抵万金 jiāshū dǐ wàn jīn (a letter from home is worth ten thousand gold) is quoted independently whenever discussing the preciousness of family connection during separation or hardship.</span>
+        <span class="cy-note">Du Fu's couplet from 春望 (Spring View), written during the An Lushan Rebellion while imprisoned in rebel-held Chang'an (756 CE). Among the most quoted lines in Chinese literature: a complete world of wartime separation compressed into fourteen characters. 家书抵万金 jiāshū dǐ wàn jīn (a letter from home is worth ten thousand gold) is quoted independently whenever discussing the preciousness of family connection during separation or hardship.</span>
       </div>
 
     </div>

@@ -209,14 +209,14 @@ faq:
         <span class="cy-cn">莫须有</span>
         <span class="cy-py">mò xū yǒu</span>
         <span class="cy-en">perhaps he did — a charge without evidence; judicial murder by innuendo</span>
-        <span class="cy-note">Chancellor Qin Hui's response when asked what evidence existed for Yue Fei's treason charge: 莫须有 — variously translated as "perhaps," "maybe there was a reason," or "need it necessarily be?" The phrase captures the essence of political show-trial logic: the accusation is sufficient; evidence is irrelevant because the conclusion is predetermined. Now the standard Chinese phrase for an evidence-free accusation or a charge fabricated to eliminate someone inconvenient. 莫须有的罪名 — "a charge of 'perhaps he did.'"</span>
+        <span class="cy-note">Chancellor Qin Hui's response when asked what evidence existed for Yue Fei's treason charge: 莫须有, variously translated as "perhaps," "maybe there was a reason," or "need it necessarily be?" The phrase captures the essence of political show-trial logic: the accusation is sufficient; evidence is irrelevant because the conclusion is predetermined. Now the standard Chinese phrase for an evidence-free accusation or a charge fabricated to eliminate someone inconvenient. 莫须有的罪名. "A charge of 'perhaps he did.'"</span>
       </div>
 
       <div class="cy">
         <span class="cy-cn">忧国忧民</span>
         <span class="cy-py">yōuguó yōumín</span>
         <span class="cy-en">worried about the country and the people — the Confucian official's moral burden</span>
-        <span class="cy-note">The phrase encodes the Confucian ideal of public-spirited concern: not personal ambition but sorrow at the state's condition and compassion for the people's suffering. Associated with the Song literati tradition, particularly with Du Fu's poetry (though the phrase itself crystallizes in Song usage). Fan Zhongyan's (范仲淹) famous formulation in his 岳阳楼记: 先天下之忧而忧，后天下之乐而乐 — "Be first to worry about the world's troubles; be last to enjoy the world's pleasures." This sentence remains one of the most quoted in Chinese political ethics.</span>
+        <span class="cy-note">The phrase encodes the Confucian ideal of public-spirited concern: not personal ambition but sorrow at the state's condition and compassion for the people's suffering. Associated with the Song literati tradition, particularly with Du Fu's poetry (though the phrase itself crystallizes in Song usage). Fan Zhongyan's (范仲淹) famous formulation in his 岳阳楼记: 先天下之忧而忧，后天下之乐而乐. "Be first to worry about the world's troubles; be last to enjoy the world's pleasures." This sentence remains one of the most quoted in Chinese political ethics.</span>
       </div>
 
     </div>

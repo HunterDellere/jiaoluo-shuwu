@@ -273,7 +273,7 @@ pinyin: 'yuáncháo'
         <span class="cy-cn">物是人非</span>
         <span class="cy-py">wù shì rén fēi</span>
         <span class="cy-en">things remain but people have changed — the bittersweet feeling of returning to a place where everything looks the same but everyone is gone</span>
-        <span class="cy-note">Lit: things-are-people-not. A key phrase in classical Chinese poetry for the emotional experience of historical rupture — looking at unchanged landscapes after dynasties have fallen. Deeply appropriate to the Yuan-Ming transition, when the same cities stood but an entire ruling order had vanished.</span>
+        <span class="cy-note">Lit: things-are-people-not. A key phrase in classical Chinese poetry for the emotional experience of historical rupture: looking at unchanged landscapes after dynasties have fallen. Deeply appropriate to the Yuan-Ming transition, when the same cities stood but an entire ruling order had vanished.</span>
       </div>
 
       <div class="cy">
@@ -287,7 +287,7 @@ pinyin: 'yuáncháo'
         <span class="cy-cn">窦娥冤</span>
         <span class="cy-py">Dòu É Yuān</span>
         <span class="cy-en">the injustice done to Dou E — a metonym for any terrible, heaven-shaking wrong</span>
-        <span class="cy-note">From Guan Hanqing's most famous play. 比窦娥还冤 bǐ Dòu É hái yuān — "more wronged than Dou E herself" — is a common colloquial expression for extreme injustice. 比窦娥冤 appears in everyday speech whenever someone protests they have been treated unfairly.</span>
+        <span class="cy-note">From Guan Hanqing's most famous play. 比窦娥还冤 bǐ Dòu É hái yuān, "more wronged than Dou E herself", is a common colloquial expression for extreme injustice. 比窦娥冤 appears in everyday speech whenever someone protests they have been treated unfairly.</span>
       </div>
 
     </div>
