@@ -51,7 +51,7 @@ content_sources:
       <span class="topic-hero-eyebrow">Chengyu · 成语 chéngyǔ</span>
       <h1 class="topic-hero-title">叶公好龙</h1>
       <span class="topic-hero-title-py">Yègōng hào lóng</span>
-      <p class="topic-hero-desc">He decorated his palace with dragons — until a real one appeared. The idiom for loving what you only love in the abstract.</p>
+      <p class="topic-hero-desc">He decorated his palace with dragons, until a real one appeared. The idiom for loving what you only love in the abstract.</p>
     </header>
 
     <span class="section-anchor" id="story"></span>

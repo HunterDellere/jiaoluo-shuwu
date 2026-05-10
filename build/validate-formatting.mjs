@@ -168,8 +168,8 @@ for (const pageFull of walkPages(PAGES)) {
   const emDashCount = proseEmDashes.length - (bodyForCount.match(/[.!?。！？][\s"'”’)\]]*—\s/g) || []).length;
   const EM_DASH_BUDGET = 0;
   if (emDashCount > EM_DASH_BUDGET) {
-    emit('WARN', relFile,
-      `${emDashCount} em-dashes in body prose (budget ${EM_DASH_BUDGET}). Voice regression risk.`,
+    emit('ERROR', relFile,
+      `${emDashCount} em-dashes in body prose. Voice regression — em-dashes are an LLM tell.`,
       { fix: `Rewrite to use commas, colons, parentheticals, or sentence splits. Keep em-dashes only for sharp interruptions a comma cannot carry.` });
   }
 

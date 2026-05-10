@@ -214,7 +214,7 @@ content_sources:
             <span class="card-py">tài rènzhēn le</span>
             <span class="card-en">taking it too seriously; too earnest about it</span>
           </div>
-          <p class="card-def">Two readings. As gentle protest against a host's elaborate hospitality: "you've gone to too much trouble" — a cousin of 太客气了 (see <a href="../../pages/vocab/keqi_客气.html">客气</a>). As mild critique of someone overinvesting in something trivial: "you're taking this too seriously, it's just a game." Tone tells you which.</p>
+          <p class="card-def">Two readings. As gentle protest against a host's elaborate hospitality: "you've gone to too much trouble," a cousin of 太客气了 (see <a href="../../pages/vocab/keqi_客气.html">客气</a>). As mild critique of someone overinvesting in something trivial: "you're taking this too seriously, it's just a game." Tone tells you which.</p>
         </div>
         <div class="card c-conj">
           <div class="tags"><span class="tag tag-conj">phr</span></div>

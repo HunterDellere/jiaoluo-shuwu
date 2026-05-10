@@ -152,7 +152,7 @@ content_sources:
 
     <div class="chengyu-grid">
       <div class="cy"><span class="cy-cn">相亲相爱</span><span class="cy-py">xiāng qīn xiāng ài</span><span class="cy-en">to be close and loving — mutual affection between people</span><span class="cy-note">Lit: mutually-close mutually-love. The standard phrase for loving harmony in a family or couple. Often used in toasts and wedding speeches.</span></div>
-      <div class="cy"><span class="cy-cn">爱屋及乌</span><span class="cy-py">ài wū jí wū</span><span class="cy-en">love me, love my dog — love extends to all connected with the beloved</span><span class="cy-note">Lit: love-house reach-crow. If you love the house, you even love the crow on the roof. Love spreads to everything associated with the beloved — people or things that would otherwise seem unremarkable.</span></div>
+      <div class="cy"><span class="cy-cn">爱屋及乌</span><span class="cy-py">ài wū jí wū</span><span class="cy-en">love me, love my dog — love extends to all connected with the beloved</span><span class="cy-note">Lit: love-house reach-crow. If you love the house, you even love the crow on the roof. Love spreads to everything associated with the beloved, even people or things that would otherwise seem unremarkable.</span></div>
       <div class="cy"><span class="cy-cn">博爱</span><span class="cy-py">bó ài</span><span class="cy-en">universal love; philanthropy — broad, impartial love for all</span><span class="cy-note">博 bó = broad, extensive. Sun Yat-sen's Three Principles include 博爱 as a founding ideal. Also the Chinese word for philanthropy and humanitarian love. Related to the Mohist concept of 兼爱.</span></div>
     </div>
 

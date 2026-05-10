@@ -115,7 +115,7 @@ content_sources:
           <div class="example">
             <div class="ex-cn">中国画善用留白，以无胜有，给观者留下想象的空间。</div>
             <div class="ex-py">Zhōngguó huà shànyòng liúbái, yǐ wú shèng yǒu, gěi guānzhě liú xià xiǎngxiàng de kōngjiān.</div>
-            <div class="ex-en">Chinese painting makes skillful use of empty space — achieving more through less, leaving room for the viewer's imagination.</div>
+            <div class="ex-en">Chinese painting makes skillful use of empty space, achieving more through less, leaving room for the viewer's imagination.</div>
           </div>
         </div>
       </div>
@@ -134,7 +134,7 @@ content_sources:
           <div class="example">
             <div class="ex-cn">评论家认为，这幅画气韵生动，笔墨精到，是难得的佳作。</div>
             <div class="ex-py">Pínglùnjiā rènwéi, zhè fú huà qìyùn shēngdòng, bǐmò jīngdào, shì nándé de jiāzuò.</div>
-            <div class="ex-en">Critics consider this painting full of spirit and vitality, with masterful brushwork — a rare masterpiece.</div>
+            <div class="ex-en">Critics consider this painting full of spirit and vitality, with masterful brushwork, a rare masterpiece.</div>
           </div>
         </div>
       </div>

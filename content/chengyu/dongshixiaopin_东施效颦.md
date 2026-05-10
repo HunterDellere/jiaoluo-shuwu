@@ -121,7 +121,7 @@ content_review: 'pending'
       </div>
       <div class="card c-teal">
         <div class="card-head">Self-deprecating modesty</div>
-        <p>我在这里班门弄斧，东施效颦，还请各位前辈多多指教。(Wǒ zài zhèlǐ bān mén nòng fǔ, Dōng Shī xiào pín, hái qǐng gèwèi qiánbèi duōduō zhǐjiào.) — I'm displaying my poor skills before experts and imitating my betters badly — I hope the seniors here will offer their guidance.</p>
+        <p>我在这里班门弄斧，东施效颦，还请各位前辈多多指教。(Wǒ zài zhèlǐ bān mén nòng fǔ, Dōng Shī xiào pín, hái qǐng gèwèi qiánbèi duōduō zhǐjiào.) — I'm displaying my poor skills before experts and imitating my betters badly; I hope the seniors here will offer their guidance.</p>
         <p>Note: 班门弄斧 (bān mén nòng fǔ, "wielding an axe at Lu Ban's gate") is a companion idiom for presuming to show skill before a master; the two are often stacked for emphasis in formal self-deprecation.</p>
       </div>
     </div>

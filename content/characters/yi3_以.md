@@ -491,7 +491,7 @@ updated: '2026-04-25'
     <!-- RETENTION IMAGE -->
     <div class="scholar" data-glyph="以" style="margin-top:2.5rem;">
       <div class="scholar-label">记忆法 jìyìfǎ · Master Retention Image</div>
-      <p>Picture 以 as a hand extended outward, offering one thing in service of another. That gesture , "here, use this" — is the root of everything 以 does. When 以 precedes a noun it says: "here is the instrument." When 以 precedes a verb phrase it says: "here is the purpose." When 以 anchors 以…为 it says: "take this, treat it as that."</p>
+      <p>Picture 以 as a hand extended outward, offering one thing in service of another. That gesture, "here, use this," is the root of everything 以 does. When 以 precedes a noun it says: "here is the instrument." When 以 precedes a verb phrase it says: "here is the purpose." When 以 anchors 以…为 it says: "take this, treat it as that."</p>
       <p>The three chengyu that carry 以 deepest into Chinese civilization all share this logic. 以身作则: here is the whole self, offered as the standard. 以德报怨: here is virtue, offered in return for resentment. 以和为贵: here is harmony, elevated into what is held precious. One character, one gesture, centuries of ethical argument.</p>
     </div>
 

@@ -758,7 +758,7 @@ content_sources:
       <div class="scholar-label">记忆法 jìyìfǎ · Master Retention Image</div>
       <p>Picture the sun at high noon , directly overhead, casting no shadow in any direction. That moment is <strong>是 shì</strong>: the "true" position, the correct one, the point where nothing is ambiguous or uncertain. When you say 他是老师, you are placing him at high noon under the sun of identity , no shadow of doubt, no ambiguity.</p>
       <p>When 是 moves into 是…的, it becomes a spotlight. The event already happened , the sun already rose and set. 是…的 aims the beam at one precise element: the moment, the location, the means. "It was <em>then</em>" , the sun fixed at that specific meridian and no other.</p>
-      <p>And 是非: the ancient pronouns "this-that" , this thing here, in the light, versus that other thing, over in shadow. The Confucian imperative 明辨是非 is simply: learn to tell noon from twilight. The character carries the entire history of Chinese moral reasoning inside it — a sun, a foot on a straight path, and the question of where something truly stands.</p>
+      <p>And 是非: the ancient pronouns "this-that" , this thing here, in the light, versus that other thing, over in shadow. The Confucian imperative 明辨是非 is simply: learn to tell noon from twilight. The character carries the entire history of Chinese moral reasoning inside it: a sun, a foot on a straight path, and the question of where something truly stands.</p>
     </div>
 
     
