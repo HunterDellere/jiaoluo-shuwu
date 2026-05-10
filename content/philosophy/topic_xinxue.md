@@ -200,14 +200,14 @@ pinyin: 'xīnxué'
         <span class="cy-cn">满街都是圣人</span>
         <span class="cy-py">mǎn jiē dōu shì shèngrén</span>
         <span class="cy-en">saints fill the streets — everyone already has the innate moral knowledge to be a sage</span>
-        <span class="cy-note">Said to have been uttered by Wang Yangming after a student asked skeptically whether ordinary people could really possess 良知. His response: walk out onto any busy street and observe — anyone who acts from their innate moral sense in that moment is a sage. This is the democratizing provocation at the heart of his philosophy, and it alarmed conservative Confucians who thought sagehood was the result of decades of rigorous cultivation. Wang Yangming was not denying that cultivation matters — but he was insisting that the moral resource from which cultivation works is already universally present.</span>
+        <span class="cy-note">Said to have been uttered by Wang Yangming after a student asked skeptically whether ordinary people could really possess 良知. His response: walk out onto any busy street and observe; anyone who acts from their innate moral sense in that moment is a sage. This is the democratizing provocation at the heart of his philosophy, and it alarmed conservative Confucians who thought sagehood was the result of decades of rigorous cultivation. Wang Yangming was not denying that cultivation matters; he was insisting that the moral resource from which cultivation works is already universally present.</span>
       </div>
 
       <div class="cy">
         <span class="cy-cn">心外无理，心外无物</span>
         <span class="cy-py">xīn wài wú lǐ, xīn wài wú wù</span>
         <span class="cy-en">outside the mind there is no principle; outside the mind there are no things</span>
-        <span class="cy-note">Two formulations of Wang Yangming's central thesis in their most direct form. 心外无理 xīn wài wú lǐ directly contradicts Zhu Xi: principle is not outside the mind awaiting investigation. 心外无物 xīn wài wú wù is his response to the "flowers on the mountain" question — in the morally relevant sense, things do not exist independently of the mind that perceives them. These phrases were the most controversial in his philosophy; critics accused him of Buddhist idealism; supporters argued he was making a phenomenological point about moral experience, not a metaphysical claim about physical reality.</span>
+        <span class="cy-note">Two formulations of Wang Yangming's central thesis in their most direct form. 心外无理 xīn wài wú lǐ directly contradicts Zhu Xi: principle is not outside the mind awaiting investigation. 心外无物 xīn wài wú wù is his response to the "flowers on the mountain" question: in the morally relevant sense, things do not exist independently of the mind that perceives them. These phrases were the most controversial in his philosophy; critics accused him of Buddhist idealism; supporters argued he was making a phenomenological point about moral experience, not a metaphysical claim about physical reality.</span>
       </div>
 
     </div>

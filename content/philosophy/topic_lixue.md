@@ -240,7 +240,7 @@ pinyin: 'lǐxué'
         <span class="cy-cn">存天理，灭人欲</span>
         <span class="cy-py">cún tiānlǐ, miè rén yù</span>
         <span class="cy-en">preserve Heavenly Principle, eliminate human desire — Zhu Xi's formulation of moral cultivation</span>
-        <span class="cy-note">Perhaps the most quoted and most criticized phrase in Neo-Confucianism. 天理 tiānlǐ = Heavenly Principle (the universal moral norm); 人欲 rén yù = human desires (not all desires but those that conflict with Heavenly Principle — excessive appetite, selfishness). Critics — especially post-May Fourth reformers — read this as Confucian repression of natural human impulses. In context, Zhu Xi meant something more specific: not the elimination of normal human needs but the subordination of selfish desire to moral principle. The phrase became a flashpoint in modern Chinese debates about tradition and liberation.</span>
+        <span class="cy-note">Perhaps the most quoted and most criticized phrase in Neo-Confucianism. 天理 tiānlǐ = Heavenly Principle (the universal moral norm); 人欲 rén yù = human desires (not all desires but those that conflict with Heavenly Principle: excessive appetite, selfishness). Critics, especially post-May Fourth reformers, read this as Confucian repression of natural human impulses. In context, Zhu Xi meant something more specific: not the elimination of normal human needs but the subordination of selfish desire to moral principle. The phrase became a flashpoint in modern Chinese debates about tradition and liberation.</span>
       </div>
 
       <div class="cy">
