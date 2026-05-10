@@ -67,7 +67,58 @@
     return String(s == null ? '' : s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
   }
 
-  function renderCard(entry, colorClass) {
+  // ── Reading-time estimate ───────────────────────────────────────────────
+  // entries.json doesn't carry word counts, so we estimate from a small
+  // category baseline. Character pages are dense and slow to read; chengyu
+  // and grammar have the smallest body; topic pages vary widely. The
+  // numbers are deliberately conservative — under-promising beats
+  // over-promising for a site that wants the reader to slow down.
+  var READ_MINUTES = {
+    character: 5,
+    vocab: 4,
+    chengyu: 3,
+    grammar: 4,
+    topic: 6
+  };
+  function readMinutes(entry) {
+    if (!entry) return null;
+    if (entry.category === 'chengyu') return READ_MINUTES.chengyu;
+    if (entry.type && READ_MINUTES[entry.type]) return READ_MINUTES[entry.type];
+    return READ_MINUTES.topic;
+  }
+
+  // ── Visited tracking (per-day) ──────────────────────────────────────────
+  // Records which entry paths the user has clicked from the Today page on
+  // the current local day. Used to draw a small ✓ on already-opened picks
+  // and on the thread lead/related so the page reflects what's been read.
+  // Storage shape:
+  //   localStorage['shuwo.today.visited.v1'] = { day: 'YYYY-MM-DD', paths: [...] }
+  // Resets when the day changes.
+  var VISITED_KEY = 'shuwo.today.visited.v1';
+  function getVisited(localKey) {
+    try {
+      var raw = localStorage.getItem(VISITED_KEY);
+      if (raw) {
+        var parsed = JSON.parse(raw);
+        if (parsed && parsed.day === localKey && Array.isArray(parsed.paths)) {
+          return new Set(parsed.paths);
+        }
+      }
+    } catch (e) {}
+    return new Set();
+  }
+  function markVisited(localKey, path) {
+    var set = getVisited(localKey);
+    if (set.has(path)) return;
+    set.add(path);
+    try {
+      localStorage.setItem(VISITED_KEY, JSON.stringify({ day: localKey, paths: Array.from(set) }));
+    } catch (e) {}
+  }
+
+  // ── Card rendering ──────────────────────────────────────────────────────
+  function renderCard(entry, colorClass, opts) {
+    opts = opts || {};
     if (!entry) return '<div class="card ' + colorClass + ' today-empty">No entry available yet for this slot.</div>';
     var href = '../' + entry.path.replace(/^pages\//, '');
     var glyph = entry.char || (entry.title ? entry.title.split('·')[0].trim() : '');
@@ -77,22 +128,32 @@
       en = entry.title.split('·').slice(1).join('·').split('—')[0].trim();
     }
     var desc = entry.desc || '';
+    var mins = readMinutes(entry);
+    var visited = opts.visited && opts.visited.has(entry.path);
     return (
-      '<a class="card ' + colorClass + ' today-card" href="' + escapeHtml(href) + '">' +
+      '<a class="card ' + colorClass + ' today-card' + (visited ? ' is-visited' : '') + '"' +
+          ' href="' + escapeHtml(href) + '"' +
+          ' data-entry-path="' + escapeHtml(entry.path) + '"' +
+          (visited ? ' aria-label="' + escapeHtml((entry.title || glyph) + ' (already opened today)') + '"' : '') +
+          '>' +
         '<div class="card-head">' +
           '<span class="card-title" lang="zh">' + escapeHtml(glyph) + '</span>' +
           (pinyin ? '<span class="card-pinyin">' + escapeHtml(pinyin) + '</span>' : '') +
         '</div>' +
         (en ? '<div class="card-body"><strong>' + escapeHtml(en) + '</strong></div>' : '') +
         (desc ? '<div class="card-body">' + escapeHtml(desc) + '</div>' : '') +
+        '<div class="today-card-meta">' +
+          (mins ? '<span class="tcm-time" aria-label="Approximate reading time">~' + mins + ' min</span>' : '') +
+          (visited ? '<span class="tcm-visited" aria-hidden="true">✓ opened today</span>' : '') +
+        '</div>' +
       '</a>'
     );
   }
 
-  function fillSlot(slotName, entry, colorClass) {
+  function fillSlot(slotName, entry, colorClass, visited) {
     var slot = document.querySelector('[data-today-slot="' + slotName + '"]');
     if (!slot) return;
-    slot.innerHTML = renderCard(entry, colorClass);
+    slot.innerHTML = renderCard(entry, colorClass, { visited: visited });
   }
 
   // ── Streak counter ──────────────────────────────────────────────────────
@@ -102,7 +163,7 @@
   // here, since streak.js already did.
   function renderStreak() {
     var state = (window.shuwoStreak && window.shuwoStreak.read())
-      || { current: 0 };
+      || { current: 0, longest: 0, totalDays: 0, recentDays: [] };
     var streak = state.current || 0;
     var el = document.querySelector('[data-streak-count]');
     if (el) el.textContent = String(streak);
@@ -111,13 +172,59 @@
     var label = box.querySelector('.today-streak-label');
     if (label) label.textContent = streak === 1 ? 'day' : 'days in a row';
     var hint = box.querySelector('.today-streak-hint');
-    if (!hint) return;
-    if (streak === 0)        hint.textContent = 'Visit daily to start a streak.';
-    else if (streak === 1)   hint.textContent = 'Welcome. Visit tomorrow to keep it going.';
-    else if (streak < 7)     hint.textContent = 'Resets if you skip a day.';
-    else if (streak < 30)    hint.textContent = 'A week-plus rhythm. Keep going.';
-    else if (streak < 100)   hint.textContent = 'A serious habit. 厲害 lìhài.';
-    else                     hint.textContent = streak + ' days. 持之以恒 chízhī yǐhéng.';
+    if (hint) {
+      if (streak === 0)        hint.textContent = 'Visit daily to start a streak.';
+      else if (streak === 1)   hint.textContent = 'Welcome. Visit tomorrow to keep it going.';
+      else if (streak < 7)     hint.textContent = 'Resets if you skip a day.';
+      else if (streak < 30)    hint.textContent = 'A week-plus rhythm. Keep going.';
+      else if (streak < 100)   hint.textContent = 'A serious habit. 厲害 lìhài.';
+      else                     hint.textContent = streak + ' days. 持之以恒 chízhī yǐhéng.';
+    }
+    renderStreakGrid(state);
+    renderStreakMeta(state);
+  }
+
+  // 14-day visit dot grid. Newest day on the right (matches reading
+  // direction). A filled dot means the visitor opened the site that day;
+  // an empty dot means they didn't. Today's dot has a small ring so the
+  // current position is unambiguous even before they accumulate history.
+  function renderStreakGrid(state) {
+    var grid = document.querySelector('[data-streak-grid]');
+    if (!grid) return;
+    var DAYS = 14;
+    var visited = new Set(Array.isArray(state.recentDays) ? state.recentDays : []);
+    var today = (window.shuwoStreak && window.shuwoStreak.localDayKey()) || '';
+    var dots = [];
+    for (var offset = DAYS - 1; offset >= 0; offset--) {
+      var key = dayKeyOffset(-offset);
+      var hit = visited.has(key);
+      var isToday = key === today;
+      var cls = 'tsg-dot' + (hit ? ' is-hit' : '') + (isToday ? ' is-today' : '');
+      var label = key + (hit ? ' · visited' : ' · no visit');
+      dots.push('<span class="' + cls + '" title="' + escapeHtml(label) + '" aria-label="' + escapeHtml(label) + '"></span>');
+    }
+    grid.innerHTML = dots.join('');
+  }
+
+  function dayKeyOffset(deltaDays) {
+    var d = new Date();
+    d.setDate(d.getDate() + deltaDays);
+    return d.getFullYear() + '-' + pad2(d.getMonth() + 1) + '-' + pad2(d.getDate());
+  }
+
+  function renderStreakMeta(state) {
+    var el = document.querySelector('[data-streak-meta]');
+    if (!el) return;
+    var longest = state.longest || 0;
+    var total = state.totalDays || 0;
+    if (longest <= 1 && total <= 1) {
+      el.textContent = '';
+      return;
+    }
+    var parts = [];
+    if (longest > 0) parts.push('longest ' + longest);
+    if (total > 0) parts.push(total + ' days total');
+    el.textContent = parts.join(' · ');
   }
 
   // ── Date label ──────────────────────────────────────────────────────────
@@ -230,7 +337,7 @@
     // 'pages/<cat>/<slug>.html'. From here that's '../<cat>/<slug>.html'.
     return '../' + String(p).replace(/^pages\//, '');
   }
-  function renderThread(themes, byPath) {
+  function renderThread(themes, byPath, visited) {
     var card = document.getElementById('today-thread-card');
     if (!card) return;
     if (!Array.isArray(themes) || !themes.length) {
@@ -254,18 +361,25 @@
       return;
     }
     var related = (theme.related || []).map(function (p) { return byPath[p]; }).filter(Boolean).slice(0, 4);
+    var v = visited || new Set();
     var glyph = leadCn(lead);
     var glyphLen = glyph.length;
     var glyphSize = glyphLen >= 4 ? ' glyph-4' : glyphLen === 3 ? ' glyph-3' : glyphLen === 2 ? ' glyph-2' : '';
     var leadTitleEn = lead.title ? (lead.title.split('·').slice(1).join('·').trim() || lead.title) : theme.title;
+    var leadVisited = v.has(lead.path);
     card.dataset.watermark = glyph || '';
     if (lead.category) card.dataset.category = lead.category;
+    if (leadVisited) card.classList.add('is-visited'); else card.classList.remove('is-visited');
     card.removeAttribute('aria-busy');
     card.innerHTML =
-      '<a class="featured-glyph' + glyphSize + '" href="' + escapeHtml(relPathFromToday(lead.path)) + '" aria-label="' + escapeHtml(theme.title) + '">' + escapeHtml(glyph) + '</a>' +
+      '<a class="featured-glyph' + glyphSize + (leadVisited ? ' is-visited' : '') + '"' +
+        ' href="' + escapeHtml(relPathFromToday(lead.path)) + '"' +
+        ' data-entry-path="' + escapeHtml(lead.path) + '"' +
+        ' aria-label="' + escapeHtml(theme.title + (leadVisited ? ' (already opened today)' : '')) + '">' +
+        escapeHtml(glyph) + '</a>' +
       '<div class="featured-body">' +
-        '<span class="featured-week">' + escapeHtml(theme.title) + '</span>' +
-        '<h3 class="featured-title"><a href="' + escapeHtml(relPathFromToday(lead.path)) + '">' + escapeHtml(leadTitleEn) + '</a></h3>' +
+        '<span class="featured-week">' + escapeHtml(theme.title) + (leadVisited ? ' <span class="tcm-visited" aria-hidden="true">✓</span>' : '') + '</span>' +
+        '<h3 class="featured-title"><a href="' + escapeHtml(relPathFromToday(lead.path)) + '" data-entry-path="' + escapeHtml(lead.path) + '">' + escapeHtml(leadTitleEn) + '</a></h3>' +
         (lead.pinyin ? '<span class="featured-py">' + escapeHtml(lead.pinyin) + '</span>' : '') +
         '<p class="featured-hook">' + escapeHtml(theme.hook) + '</p>' +
         (related.length ?
@@ -274,17 +388,102 @@
             related.map(function (e) {
               var cn = leadCn(e);
               var en = e.title ? (e.title.split('·').slice(1).join('·').trim() || e.title) : '';
-              return '<a class="featured-link" href="' + escapeHtml(relPathFromToday(e.path)) + '" role="listitem">' +
+              var rv = v.has(e.path);
+              return '<a class="featured-link' + (rv ? ' is-visited' : '') + '"' +
+                ' href="' + escapeHtml(relPathFromToday(e.path)) + '"' +
+                ' data-entry-path="' + escapeHtml(e.path) + '"' +
+                ' role="listitem">' +
                 (cn ? '<span class="cn">' + escapeHtml(cn) + '</span>' : '') +
-                escapeHtml(en) + '</a>';
+                escapeHtml(en) +
+                (rv ? ' <span class="tcm-visited" aria-hidden="true">✓</span>' : '') + '</a>';
             }).join('') +
           '</div>'
         : '') +
       '</div>';
   }
 
+  // ── Rotation countdown ──────────────────────────────────────────────────
+  // Picks rotate at UTC midnight. Show the human-friendly remaining time
+  // so visitors know their picks are stable for the rest of the UTC day,
+  // and ticks every minute (cheap; the page is already alive).
+  function nextUtcMidnight() {
+    var d = new Date();
+    d.setUTCHours(24, 0, 0, 0);
+    return d;
+  }
+  function formatCountdown(ms) {
+    if (ms <= 0) return 'just now';
+    var totalMin = Math.floor(ms / 60000);
+    var h = Math.floor(totalMin / 60);
+    var m = totalMin % 60;
+    if (h <= 0) return m + ' min';
+    if (m === 0) return h + 'h';
+    return h + 'h ' + m + 'm';
+  }
+  function tickCountdown() {
+    var el = document.querySelector('[data-rotation-countdown]');
+    if (!el) return;
+    el.textContent = formatCountdown(nextUtcMidnight() - new Date());
+  }
+
+  // ── Keyboard navigation ─────────────────────────────────────────────────
+  // 1–4 jump to the four daily picks; T jumps to the thread; R opens a
+  // random entry. Skip when the user is typing into a form, or when a
+  // modifier key is pressed (don't intercept Cmd-R / Ctrl-R reload).
+  function bindKeys() {
+    document.addEventListener('keydown', function (ev) {
+      if (ev.metaKey || ev.ctrlKey || ev.altKey) return;
+      var t = ev.target;
+      if (t && (t.tagName === 'INPUT' || t.tagName === 'TEXTAREA' || t.isContentEditable)) return;
+      var k = ev.key.toLowerCase();
+      var jump = null;
+      if (k === '1')      jump = { anchor: '#today-character', slot: 'character' };
+      else if (k === '2') jump = { anchor: '#today-vocab',     slot: 'vocab' };
+      else if (k === '3') jump = { anchor: '#today-grammar',   slot: 'grammar' };
+      else if (k === '4') jump = { anchor: '#today-chengyu',   slot: 'chengyu' };
+      else if (k === 't') jump = { anchor: '#today-thread',    threadCard: true };
+      else if (k === 'r') {
+        // Defer to the topnav Random link if present so we reuse its
+        // existing fetch/redirect logic.
+        var rand = document.querySelector('[data-random-entry]');
+        if (rand) { ev.preventDefault(); rand.click(); return; }
+      }
+      if (!jump) return;
+      var target = document.querySelector(jump.anchor);
+      if (!target) return;
+      ev.preventDefault();
+      target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      // Then move focus into the entry link under that section so a
+      // following Enter actually opens it.
+      var card = null;
+      if (jump.slot) {
+        var slotEl = document.querySelector('[data-today-slot="' + jump.slot + '"]');
+        if (slotEl) card = slotEl.querySelector('a.today-card');
+      } else if (jump.threadCard) {
+        var thread = document.getElementById('today-thread-card');
+        if (thread) card = thread.querySelector('a.featured-title a, a.featured-glyph') || thread.querySelector('a');
+      }
+      if (card && typeof card.focus === 'function') {
+        setTimeout(function () { card.focus({ preventScroll: true }); }, 250);
+      }
+    });
+  }
+
+  // ── Visited tracking on click ───────────────────────────────────────────
+  function bindVisitedTracking(localKey) {
+    document.addEventListener('click', function (ev) {
+      var a = ev.target.closest && ev.target.closest('a[data-entry-path]');
+      if (!a) return;
+      markVisited(localKey, a.getAttribute('data-entry-path'));
+      // We don't await — the navigation is happening anyway. localStorage
+      // is synchronous so the write completes before the unload.
+    });
+  }
+
   // ── Main ────────────────────────────────────────────────────────────────
   var todayKey = todayUtcKey();    // for content picks (shared across visitors)
+  var localKey = (window.shuwoStreak && window.shuwoStreak.localDayKey()) ||
+    (new Date().getFullYear() + '-' + pad2(new Date().getMonth() + 1) + '-' + pad2(new Date().getDate()));
   setDateLabels(todayKey);
   setGreeting();
   // streak.js (loaded earlier) already ticked the streak. Render once now,
@@ -295,6 +494,10 @@
   if (typeof requestAnimationFrame === 'function') {
     requestAnimationFrame(renderStreak);
   }
+  tickCountdown();
+  setInterval(tickCountdown, 60000);
+  bindKeys();
+  bindVisitedTracking(localKey);
 
   Promise.all([
     fetch('../../data/entries.json', { cache: 'default' }).then(function (r) { return r.json(); }),
@@ -325,12 +528,13 @@
       var rngGrammar = mulberry32(seedFromString('grammar-' + todayKey));
       var rngChengyu = mulberry32(seedFromString('chengyu-' + todayKey));
 
-      fillSlot('character', pickFrom(characters, rngChar), 'c-red');
-      fillSlot('vocab',     pickFrom(vocab,      rngVocab), 'c-teal');
-      fillSlot('grammar',   pickFrom(grammar,    rngGrammar), 'c-violet');
-      fillSlot('chengyu',   pickFrom(chengyu,    rngChengyu), 'c-ochre');
+      var visited = getVisited(localKey);
+      fillSlot('character', pickFrom(characters, rngChar), 'c-red', visited);
+      fillSlot('vocab',     pickFrom(vocab,      rngVocab), 'c-teal', visited);
+      fillSlot('grammar',   pickFrom(grammar,    rngGrammar), 'c-violet', visited);
+      fillSlot('chengyu',   pickFrom(chengyu,    rngChengyu), 'c-ochre', visited);
 
-      renderThread(featured, byPath);
+      renderThread(featured, byPath, visited);
     })
     .catch(function (err) {
       console.warn('today: failed to load entries.json', err);

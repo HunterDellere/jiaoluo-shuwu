@@ -512,6 +512,40 @@ body {
   grid-column: 2;
   font-style: italic;
 }
+/* 14-day visit dot grid — newest day on the right. Filled (papyrus → red)
+   means visited, empty means missed, ringed means today. The grid sits
+   below the streak label and is the small reward for opening the page. */
+.today-streak-grid {
+  grid-column: 1 / -1;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.18rem;
+  margin: 0.45rem 0 0.05rem;
+}
+.tsg-dot {
+  width: 9px; height: 9px;
+  border-radius: 2px;
+  background: var(--rule);
+  opacity: 0.55;
+  transition: background 0.15s, opacity 0.15s, transform 0.15s;
+}
+.tsg-dot.is-hit { background: var(--red); opacity: 0.92; }
+.tsg-dot.is-today {
+  outline: 1.5px solid var(--ochre);
+  outline-offset: 1.5px;
+}
+.tsg-dot.is-today.is-hit { outline-color: var(--red); }
+.tsg-dot:hover { transform: scale(1.25); opacity: 1; }
+.today-streak-meta {
+  grid-column: 2;
+  font-family: var(--font-mono);
+  font-size: var(--fs-2xs, 0.66rem);
+  color: var(--ink-5);
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  margin-top: 0.15rem;
+}
+.today-streak-meta:empty { display: none; }
 
 @media (max-width: 720px) {
   .today-hero {
@@ -527,6 +561,8 @@ body {
   .today-streak { min-width: 0; padding: 0.7rem 0.95rem; }
   .today-card { padding: 0.95rem 1.1rem; gap: 0.3rem 1rem; }
   .today-card .card-title { font-size: var(--fs-display-2-mobile, 1.85rem); }
+  .today-streak-grid { gap: 0.14rem; }
+  .tsg-dot { width: 8px; height: 8px; }
 }
 
 /* Today section heads — large CN numeral ordinal (一/二/三/四) sits to the
@@ -622,6 +658,119 @@ body {
   margin-top: 0.1rem;
   font-size: var(--fs-md);
   color: var(--ink-4);
+}
+/* Card meta footer: reading time + visited indicator. Sits in the right
+   column under the card body; small, monospaced, low-key — meant to read
+   as utility text, not a primary signal. */
+.today-card-meta {
+  grid-column: 2;
+  margin-top: 0.4rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.2rem 0.85rem;
+  font-family: var(--font-mono);
+  font-size: var(--fs-2xs, 0.68rem);
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--ink-5);
+}
+.tcm-time { color: var(--ink-5); }
+.tcm-visited { color: var(--teal-2); font-weight: 600; }
+.today-card-meta:empty { display: none; }
+
+/* Visited state on cards — pull saturation back so the eye reads them as
+   "already done" without making them feel demoted. The tick + ✓ in the
+   meta footer carries the primary signal. */
+.today-card.is-visited {
+  background: var(--papyrus-2);
+}
+.today-card.is-visited .card-title { color: var(--ink-2); }
+.today-card.is-visited .card-body { color: var(--ink-4); }
+.today-card.is-visited::after {
+  /* Subtle corner check so visited state is visible at a glance even when
+     the meta line wraps off-screen on narrow viewports. */
+  content: '✓';
+  position: absolute;
+  top: 0.5rem; right: 0.7rem;
+  font-size: var(--fs-md);
+  color: var(--teal-2);
+  opacity: 0.7;
+  font-weight: 600;
+}
+.today-card { position: relative; }
+
+/* Featured-card visited state (thread lead glyph + related chips) */
+.featured-glyph.is-visited { opacity: 0.78; }
+.featured-glyph.is-visited::before {
+  content: '✓';
+  position: absolute;
+  top: -8px; right: -8px;
+  width: 18px; height: 18px;
+  display: flex; align-items: center; justify-content: center;
+  background: var(--teal-2);
+  color: var(--papyrus);
+  border-radius: 50%;
+  font-size: 11px; font-weight: 700;
+  z-index: 2;
+}
+.featured-link.is-visited { opacity: 0.72; }
+.featured-link.is-visited .tcm-visited { color: var(--teal-2); margin-left: 0.2rem; }
+.featured-week .tcm-visited { color: var(--teal-2); margin-left: 0.4rem; font-weight: 600; }
+
+/* Picks-rotation aside — sits between chengyu and subscribe. Mono caption
+   on the left; keyboard hints on the right. Visually quiet, but anchors
+   the page with a sense of cadence ("picks rotate in 14h 20m"). */
+.today-rotation {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem 1.5rem;
+  align-items: baseline;
+  justify-content: space-between;
+  margin: 1.2rem 0 2rem;
+  padding: 0.7rem 1rem;
+  border-top: 1px dashed var(--rule);
+  border-bottom: 1px dashed var(--rule);
+  font-family: var(--font-mono);
+  font-size: var(--fs-2xs, 0.68rem);
+  letter-spacing: 0.08em;
+  color: var(--ink-5);
+}
+.today-rotation-line { display: inline-flex; align-items: baseline; gap: 0.55rem; }
+.today-rotation-cn {
+  font-family: var(--font-cn);
+  font-size: var(--fs-md);
+  color: var(--ochre);
+  letter-spacing: 0.04em;
+}
+.today-rotation-en { text-transform: uppercase; }
+.today-rotation-en [data-rotation-countdown] {
+  color: var(--red);
+  font-weight: 600;
+  font-variant-numeric: tabular-nums;
+  text-transform: none;
+  letter-spacing: 0.05em;
+}
+.today-rotation-keys { color: var(--ink-5); text-transform: none; letter-spacing: 0.04em; }
+.today-rotation-keys kbd {
+  display: inline-block;
+  padding: 0.05rem 0.35rem;
+  margin: 0 0.05rem;
+  border: 1px solid var(--rule);
+  border-bottom-width: 2px;
+  border-radius: 3px;
+  background: var(--papyrus);
+  color: var(--ink-3);
+  font-family: var(--font-mono);
+  font-size: 0.72rem;
+  letter-spacing: 0;
+  line-height: 1;
+}
+@media (max-width: 540px) {
+  /* Stack on narrow screens; the keys hint becomes mostly informational
+     since touch users can't press them. We still render — sighted users
+     learn the shortcuts here for next time on a desktop. */
+  .today-rotation { flex-direction: column; align-items: flex-start; }
+  .today-rotation-keys { font-size: 0.62rem; }
 }
 
 .today-skeleton, .today-empty {
