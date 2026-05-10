@@ -331,9 +331,9 @@ content_review: 'pending'
       <strong><a href="../vocab/ren2_仁.html">仁 rén</a></strong> humaneness , the foundation; genuine care for others<br>
       <strong><a href="yi4_义.html">义 yì</a></strong> righteousness , acting rightly on that care; moral courage<br>
       <strong><a href="li3_礼.html">礼 lǐ</a></strong> ritual propriety , conducting relationships through correct form<br>
-      <strong>智 zhì</strong> wisdom — moral discernment; knowing what the right action is<br>
-      <strong><a href="xin4_信.html">信 xìn</a></strong> trustworthiness — reliability in word and conduct<br><br>
-      智 is the cognitive foundation of the other virtues — without it, 仁 is feeling without direction, and 义 is will without judgment.
+      <strong>智 zhì</strong> wisdom: moral discernment; knowing what the right action is<br>
+      <strong><a href="xin4_信.html">信 xìn</a></strong> trustworthiness: reliability in word and conduct<br><br>
+      智 is the cognitive foundation of the other virtues; without it, 仁 is feeling without direction, and 义 is will without judgment.
     </div>
 
     <!-- ── CHENGYU ── -->

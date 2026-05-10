@@ -186,14 +186,14 @@ content_sources:
         <span class="cy-cn">走马观花</span>
         <span class="cy-py">zǒu mǎ guān huā</span>
         <span class="cy-en">viewing flowers on horseback — a superficial glance; sightseeing without depth</span>
-        <span class="cy-note">Lit: galloping-horse-view-flowers. The image of someone riding a horse at full gallop through a garden — they see the flowers but cannot pause to appreciate them. Used to describe hasty, superficial engagement with anything: a tourist who rushes through museums, a reader who skims without understanding. Also used self-deprecatingly: 我只是走马观花地看了一下 "I only took a quick glance."</span>
+        <span class="cy-note">Lit: galloping-horse-view-flowers. The image of someone riding a horse at full gallop through a garden: they see the flowers but cannot pause to appreciate them. Used to describe hasty, superficial engagement with anything: a tourist who rushes through museums, a reader who skims without understanding. Also used self-deprecatingly: 我只是走马观花地看了一下 "I only took a quick glance."</span>
       </div>
 
       <div class="cy">
         <span class="cy-cn">行走天下</span>
         <span class="cy-py">xíng zǒu tiānxià</span>
         <span class="cy-en">walk throughout the world — to travel the world boldly</span>
-        <span class="cy-note">The romantic image of the 江湖 adventurer or itinerant scholar — someone who has traveled all under Heaven, accumulating experience and connections. The phrase captures the Chinese ideal of the person who has moved through the world and is at home everywhere. Related: 走江湖 "to roam the rivers and lakes" — to live by one's skills as a traveling performer or martial artist.</span>
+        <span class="cy-note">The romantic image of the 江湖 adventurer or itinerant scholar: someone who has traveled all under Heaven, accumulating experience and connections. The phrase captures the Chinese ideal of the person who has moved through the world and is at home everywhere. Related: 走江湖 "to roam the rivers and lakes", to live by one's skills as a traveling performer or martial artist.</span>
       </div>
 
     </div>

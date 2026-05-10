@@ -204,7 +204,7 @@ content_review: 'pending'
         <span class="cy-cn">画蛇添足</span>
         <span class="cy-py">huà shé tiān zú</span>
         <span class="cy-en">"drawing a snake, then adding feet" — ruining something by overdoing it</span>
-        <span class="cy-note">From the Zhànguó Cè (Strategies of the Warring States, 3rd century BCE): a group bet on who could draw a snake fastest. One man finished first but, with time to spare, added feet to his snake , at which point the second finisher seized the cup of wine, arguing that snakes have no feet and the first drawing was no longer a snake. The winning addition turned a victory into a forfeit. 画蛇添足 means adding something unnecessary that actually undoes the work — the classic warning against over-elaboration.</span>
+        <span class="cy-note">From the Zhànguó Cè (Strategies of the Warring States, 3rd century BCE): a group bet on who could draw a snake fastest. One man finished first but, with time to spare, added feet to his snake , at which point the second finisher seized the cup of wine, arguing that snakes have no feet and the first drawing was no longer a snake. The winning addition turned a victory into a forfeit. 画蛇添足 means adding something unnecessary that actually undoes the work: the classic warning against over-elaboration.</span>
       </div>
       <div class="cy">
         <span class="cy-cn">手足无措</span>
@@ -216,7 +216,7 @@ content_review: 'pending'
         <span class="cy-cn">一步一个脚印</span>
         <span class="cy-py">yī bù yī gè jiǎoyìn</span>
         <span class="cy-en">"one step, one footprint" — steady, methodical progress</span>
-        <span class="cy-note">Lit: each step leaves exactly one footprint — nothing rushed, nothing skipped. A modern proverb for diligent, unhurried work that builds on itself. Often used in career advice, study guidance, and praise for craftsmen. 脚印 jiǎoyìn is the everyday word for footprint (using 脚 rather than 足, both meaning foot but 脚 is more colloquial). The contrast with 画蛇添足 is implicit: here you add nothing, you simply walk steadily forward.</span>
+        <span class="cy-note">Lit: each step leaves exactly one footprint; nothing rushed, nothing skipped. A modern proverb for diligent, unhurried work that builds on itself. Often used in career advice, study guidance, and praise for craftsmen. 脚印 jiǎoyìn is the everyday word for footprint (using 脚 rather than 足, both meaning foot but 脚 is more colloquial). The contrast with 画蛇添足 is implicit: here you add nothing, you simply walk steadily forward.</span>
       </div>
     </div>
 
@@ -239,7 +239,7 @@ content_review: 'pending'
     <!-- Retention image -->
     <div class="scholar" data-glyph="足">
       <div class="scholar-label">记忆法 jìyìfǎ · Master Retention Image</div>
-      <p>The upper part of 足 is a stylized knee joint — the 口-like rectangle is not a mouth but a shin ending at the knee. Below it, the foot and heel. The whole character is the lower limb from knee to toe, drawn with efficient strokes. When you write 足, you are tracing a leg.</p>
+      <p>The upper part of 足 is a stylized knee joint: the 口-like rectangle is not a mouth but a shin ending at the knee. Below it, the foot and heel. The whole character is the lower limb from knee to toe, drawn with efficient strokes. When you write 足, you are tracing a leg.</p>
       <p>The semantic leap from "foot" to "sufficient" follows the logic of the journey: a foot that has gone far enough, reached the goal, completed the distance. 满足 (full + sufficient = satisfaction) is the feeling of the foot that has arrived. 不足 (not enough) is the foot that fell short. 知足常乐 (know-enough always-happy) is the Daoist wisdom that happiness comes from understanding when the foot has walked far enough, not from running further.</p>
       <p>画蛇添足 (drawing a snake, then adding feet) survives because it captures a universal mistake: the impulse to keep working on something that is already done. Snakes need no feet. Finished work needs no addenda. The character for the lesson is literally in the phrase.</p>
     </div>

@@ -198,7 +198,7 @@ content_sources:
           <div class="example">
             <div class="ex-cn">他不认字。</div>
             <div class="ex-py">Tā bú rèn zì.</div>
-            <div class="ex-en">He can't read — he is illiterate.</div>
+            <div class="ex-en">He can't read; he is illiterate.</div>
           </div>
         </div>
         <div class="note">
@@ -227,7 +227,7 @@ content_sources:
           <div class="example">
             <div class="ex-cn">我在打字，请稍等。</div>
             <div class="ex-py">Wǒ zài dǎ zì, qǐng shāo děng.</div>
-            <div class="ex-en">I'm typing — please wait a moment.</div>
+            <div class="ex-en">I'm typing; please wait a moment.</div>
           </div>
           <div class="example">
             <div class="ex-cn">打字机已经很少见了。</div>
@@ -891,7 +891,7 @@ content_sources:
       <p>A child born under a roof. That moment, the birth, the name-giving, the entry into the household record, is what 字 encodes. Writing is the same event for a word: the moment language is fixed on a surface, given a body, made recognizable and transmissible across time. A word without its 字 is like a child with no name: present but unrecognized by the social world.</p>
       <p>The ~85,000 characters in the great dictionaries are 85,000 children under 85,000 roofs, all the thoughts the civilization decided to preserve. When you learn a new 字, you are not memorizing a shape. You are giving a word its courtesy name, the form by which it can be recognized in polite company, across centuries.</p>
       <p>And note the self-reference: the character 字 is itself a 字. The child under the roof named itself. No other writing system has this: a word that is literally what it describes.</p>
-      <p>In Japanese: 漢字 <em>kanji</em> — the same child, the same roof, the same 3,500-year tradition, still being born into new households every day.</p>
+      <p>In Japanese: 漢字 <em>kanji</em>: the same child, the same roof, the same 3,500-year tradition, still being born into new households every day.</p>
     </div>
 
     
