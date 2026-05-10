@@ -86668,6 +86668,48 @@
           "pinyin": "从革 cóng gé , following and changing form"
         }
       }
+    },
+    "a51e11abc9e937b5": {
+      "text": "旦 , 女性角色",
+      "pinyin": "dàn · nǚxìng juésè",
+      "kind": "section",
+      "voices": {
+        "xiaoxiao": {
+          "hash": "f71246f2d8c2",
+          "path": "audio/inline/a51e11abc9e937b5-xiaoxiao.mp3",
+          "bytes": 13968,
+          "text": "旦 , 女性角色",
+          "pinyin": "dàn · nǚxìng juésè"
+        },
+        "yunxi": {
+          "hash": "cdb0e0386010",
+          "path": "audio/inline/a51e11abc9e937b5-yunxi.mp3",
+          "bytes": 16704,
+          "text": "旦 , 女性角色",
+          "pinyin": "dàn · nǚxìng juésè"
+        }
+      }
+    },
+    "673ec40f5ba4fe9d": {
+      "text": "净 — 花脸与脸谱",
+      "pinyin": "jìng · huāliǎn yǔ liǎnpǔ",
+      "kind": "section",
+      "voices": {
+        "xiaoxiao": {
+          "hash": "f3e7bd177f8b",
+          "path": "audio/inline/673ec40f5ba4fe9d-xiaoxiao.mp3",
+          "bytes": 13680,
+          "text": "净 — 花脸与脸谱",
+          "pinyin": "jìng · huāliǎn yǔ liǎnpǔ"
+        },
+        "yunxi": {
+          "hash": "770f4ab8e36e",
+          "path": "audio/inline/673ec40f5ba4fe9d-yunxi.mp3",
+          "bytes": 13824,
+          "text": "净 — 花脸与脸谱",
+          "pinyin": "jìng · huāliǎn yǔ liǎnpǔ"
+        }
+      }
     }
   }
 }
