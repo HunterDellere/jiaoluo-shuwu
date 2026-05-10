@@ -196,8 +196,8 @@ content_review: 'pending'
         </div>
       </div>
 
-      <div class="passage" id="p10">
-        <span class="passage-marker">第十段 · dì-shí duàn · 10 of 10</span>
+      <div class="passage" id="p10" data-passage-type="mantra">
+        <span class="passage-marker">第十段 · dì-shí duàn · 10 of 10 · The Mantra</span>
         <div class="passage-head">
           <span class="passage-cn">故说般若波罗蜜多咒，即说咒曰：揭谛揭谛，波罗揭谛，波罗僧揭谛，菩提萨婆诃。</span>
           <span class="passage-py">Gù shuō bō rě bō luó mì duō zhòu, jí shuō zhòu yuē: Jiē dì jiē dì, bō luó jiē dì, bō luó sēng jiē dì, pú tí sà pó hē.</span>

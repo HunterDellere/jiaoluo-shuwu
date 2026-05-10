@@ -2289,17 +2289,20 @@ tbody tr:hover td { background: var(--papyrus-2); }
 
 /* ── SUTRA PASSAGE BLOCKS ─────────────────────────────────
    Used on sutra pages (心经, 阿弥陀经, 金刚经, 坛经 etc.). Each
-   passage is a self-contained card: marker number, large CN text,
-   audio button, optional pinyin gloss (toggleable), English translation,
-   and optional commentary. The CN text is the artifact — generous
-   leading, large size, high contrast. Translation sits below as
-   support, not as a parallel column. */
+   passage is a self-contained card with a numbered ordinal in the
+   left gutter (manuscript style), large CN text as the artifact,
+   pinyin (toggleable), English support translation, and optional
+   commentary. Spacious leading, generous interior padding. */
 .sutra-frame {
   display: flex;
   flex-direction: column;
-  gap: 1.4rem;
-  margin: 1.2rem 0;
+  gap: 1.6rem;
+  margin: 1.4rem 0 0.6rem;
 }
+
+/* Sticky controls bar — stays at the top of viewport while the reader
+   scrolls through long passages, so toggling pinyin is always one click
+   away. Slight backdrop blur keeps it readable over passage cards. */
 .sutra-controls {
   display: flex;
   align-items: center;
@@ -2307,10 +2310,16 @@ tbody tr:hover td { background: var(--papyrus-2); }
   flex-wrap: wrap;
   font-size: var(--fs-sm);
   color: var(--ink-4);
-  padding: 0.6rem 0.85rem;
-  background: var(--papyrus-2);
-  border-left: 3px solid var(--ochre);
-  border-radius: var(--radius);
+  padding: 0.55rem 1rem;
+  background: color-mix(in srgb, var(--papyrus) 92%, transparent);
+  -webkit-backdrop-filter: blur(8px);
+  backdrop-filter: blur(8px);
+  border: 1px solid var(--rule);
+  border-radius: var(--radius-pill);
+  position: sticky;
+  top: calc(var(--nav-h) + 8px);
+  z-index: 10;
+  box-shadow: 0 2px 12px color-mix(in srgb, var(--ink) 4%, transparent);
 }
 .sutra-controls-label {
   font-size: var(--fs-2xs);
@@ -2323,82 +2332,159 @@ tbody tr:hover td { background: var(--papyrus-2); }
   background: transparent;
   border: 1px solid var(--rule);
   border-radius: 999px;
-  padding: 0.25rem 0.7rem;
+  padding: 0.28rem 0.78rem;
   font: inherit;
   font-size: var(--fs-sm);
   color: var(--ink-3);
   cursor: pointer;
   transition: background 0.15s, color 0.15s, border-color 0.15s;
 }
-.sutra-toggle:hover { background: var(--papyrus); color: var(--ink); }
+.sutra-toggle:hover { background: var(--papyrus-2); color: var(--ink); border-color: var(--ochre); }
 .sutra-toggle[aria-pressed="true"] {
   background: var(--ochre);
   color: var(--papyrus);
   border-color: var(--ochre);
 }
+
 .passage {
   background: var(--papyrus-2);
   border: 1px solid var(--rule);
-  border-left: 3px solid var(--ochre);
-  border-radius: var(--radius);
-  padding: 1.1rem 1.3rem 1.1rem 1.5rem;
+  border-radius: var(--radius-lg);
+  padding: 1.5rem 1.6rem 1.4rem 4rem;
   display: flex;
   flex-direction: column;
-  gap: 0.55rem;
+  gap: 0.7rem;
   position: relative;
+  transition: border-color 0.2s, background 0.2s;
 }
+.passage:target {
+  border-color: var(--ochre);
+  background: color-mix(in srgb, var(--papyrus-2) 88%, var(--ochre-tint) 12%);
+}
+
+/* Numbered ordinal in the gutter — manuscript folio numbering.
+   Roman-style serif numeral, ochre, anchored top-left so the eye reads
+   it as a marker rather than as part of the text. */
+.passage-ordinal {
+  position: absolute;
+  top: 1.4rem;
+  left: 1.2rem;
+  width: 2.1rem;
+  text-align: right;
+  font-family: var(--font-cn-display, var(--font-cn));
+  font-size: 1.5rem;
+  font-weight: 500;
+  color: var(--ochre);
+  line-height: 1;
+  letter-spacing: 0;
+  user-select: none;
+  font-variant-numeric: oldstyle-nums;
+}
+.passage-ordinal::after {
+  content: '';
+  display: block;
+  width: 1.6rem;
+  height: 1px;
+  background: var(--ochre-tint-strong);
+  margin: 0.5rem 0 0 auto;
+}
+
+/* Passage label sits above the CN text — short, semantic
+   (eg. "Setting", "The Mantra"), uppercase eyebrow style. */
 .passage-marker {
   font-family: var(--font-mono);
   font-size: var(--fs-2xs);
   letter-spacing: var(--tracking-eyebrow-loose);
   text-transform: uppercase;
   color: var(--ink-5);
+  margin-bottom: 0.2rem;
 }
+
 .passage-head {
   display: flex;
   align-items: flex-start;
-  gap: 0.7rem;
+  gap: 0.5rem 0.85rem;
   flex-wrap: wrap;
 }
 .passage-cn {
   font-family: var(--font-cn-display, var(--font-cn));
-  font-size: 1.5rem;
-  font-weight: 600;
+  font-size: 1.55rem;
+  font-weight: 500;
   color: var(--ink);
-  line-height: 1.85;
-  letter-spacing: 0.04em;
+  line-height: 1.95;
+  letter-spacing: 0.06em;
   flex: 1 1 auto;
   min-width: 0;
+  /* Reserve space for the absolutely-positioned audio button so the
+     first line of CN doesn't run under it. */
+  padding-right: 3rem;
+}
+.passage--mantra .passage-cn { padding-right: 0; padding-left: 0; }
+/* Audio button when it lives in .passage-head: pull it out of the
+   flex flow and dock it at the top-right of the passage card, so it's
+   always reachable without competing with CN/pinyin for layout space. */
+.passage-head > .audio-btn--inline {
+  position: absolute;
+  top: 1.5rem;
+  right: 1.4rem;
+  z-index: 1;
+}
+.passage--mantra .passage-head > .audio-btn--inline {
+  top: 1.6rem;
+  right: 1.4rem;
 }
 .passage-py {
   font-family: var(--font-mono);
   font-size: var(--fs-sm);
   color: var(--ochre);
-  line-height: 1.7;
+  line-height: 1.75;
   letter-spacing: 0.02em;
   display: none;
+  padding: 0.55rem 0.8rem;
+  background: color-mix(in srgb, var(--papyrus) 70%, transparent);
+  border-left: 2px solid var(--ochre-tint-strong);
+  border-radius: var(--radius-sm);
+  flex: 0 0 100%;
+  order: 2;
 }
 .sutra-frame.is-pinyin-on .passage-py { display: block; }
 .passage.has-pinyin-open .passage-py { display: block; }
+
 .passage-en {
   font-size: var(--fs-base);
   color: var(--ink-3);
-  font-style: italic;
-  line-height: 1.7;
+  line-height: 1.75;
+  padding-left: 0.9rem;
+  border-left: 2px solid var(--rule-2);
+  margin-top: 0.15rem;
 }
+
+.passage-actions {
+  display: flex;
+  gap: 0.6rem 1rem;
+  flex-wrap: wrap;
+  align-items: center;
+  margin-top: 0.15rem;
+}
+
 .passage-note {
   font-size: var(--fs-sm);
   color: var(--ink-4);
-  line-height: 1.65;
-  padding-top: 0.5rem;
-  margin-top: 0.2rem;
-  border-top: 1px dashed var(--rule);
+  line-height: 1.7;
+  padding: 0.85rem 1rem;
+  margin-top: 0.4rem;
+  background: color-mix(in srgb, var(--papyrus) 60%, transparent);
+  border-left: 2px solid var(--ochre-tint-strong);
+  border-radius: var(--radius-sm);
 }
+.passage-note p:first-child { margin-top: 0; }
+.passage-note p:last-child  { margin-bottom: 0; }
 .passage-note-toggle {
   appearance: none;
   background: transparent;
-  border: none;
-  padding: 0;
+  border: 1px solid var(--rule-2);
+  border-radius: var(--radius-pill);
+  padding: 0.18rem 0.65rem;
   font: inherit;
   font-size: var(--fs-2xs);
   letter-spacing: var(--tracking-eyebrow-loose);
@@ -2406,75 +2492,188 @@ tbody tr:hover td { background: var(--papyrus-2); }
   color: var(--ink-5);
   cursor: pointer;
   align-self: flex-start;
+  transition: color 0.15s, border-color 0.15s, background 0.15s;
 }
-.passage-note-toggle:hover { color: var(--ochre); }
+.passage-note-toggle:hover { color: var(--ochre); border-color: var(--ochre); }
+.passage-note-toggle[aria-expanded="true"] {
+  color: var(--ochre);
+  border-color: var(--ochre);
+  background: var(--papyrus);
+}
 .passage-note[hidden] { display: none; }
 
-/* Sutra hero block — distinct from topic-hero by giving the central
-   text more vertical breathing room and letting the Sanskrit / English
-   subtitle anchor the orientation. */
-.sutra-hero {
-  margin: 0 0 1.4rem;
+/* ── Mantra passage variant ───────────────────────────────
+   Used for the closing mantra passage of the Heart Sutra and any
+   mantra-style passage in other sutras. Centered text, deeper red
+   left bar, larger spacing to mark it as the climactic / liturgical
+   moment of the text. */
+.passage--mantra {
+  background: linear-gradient(180deg,
+    color-mix(in srgb, var(--papyrus-2) 80%, var(--red-tint) 20%) 0%,
+    var(--papyrus-2) 100%);
+  border-color: color-mix(in srgb, var(--red) 28%, var(--rule));
+  text-align: center;
+  padding: 1.8rem 1.6rem 1.6rem 4rem;
 }
+.passage--mantra .passage-ordinal { color: var(--red); }
+.passage--mantra .passage-ordinal::after { background: color-mix(in srgb, var(--red) 25%, transparent); }
+.passage--mantra .passage-cn {
+  font-size: 1.7rem;
+  letter-spacing: 0.1em;
+  line-height: 2.1;
+  color: var(--red-2);
+}
+.passage--mantra .passage-head { justify-content: center; }
+.passage--mantra .passage-py {
+  text-align: center;
+  border-left: none;
+  border-right: none;
+  border-top: 1px dashed color-mix(in srgb, var(--red) 25%, transparent);
+  border-bottom: 1px dashed color-mix(in srgb, var(--red) 25%, transparent);
+  background: transparent;
+  color: color-mix(in srgb, var(--red-2) 70%, var(--ochre) 30%);
+  margin: 0 auto;
+  max-width: 50ch;
+}
+.passage--mantra .passage-en {
+  text-align: center;
+  border-left: none;
+  padding-left: 0;
+  margin: 0 auto;
+  max-width: 55ch;
+  font-style: italic;
+  color: var(--ink-4);
+}
+.passage--mantra .passage-actions { justify-content: center; }
+/* Ordinal still in the gutter; marker label above the CN block stays
+   centered. The ordinal-in-gutter / marker-centered asymmetry is
+   deliberate: the ordinal is a folio number (always left), the marker
+   is the title of the passage (always centered above the artifact). */
+
+/* ── Sutra hero ────────────────────────────────────────────
+   The title is the artifact: large display kaiti, centered. Sanskrit
+   sits above as the bibliographic subtitle, the canonical English
+   title below the pinyin in small caps, then the descriptive prose,
+   and a meta strip docked at the bottom carrying liturgical data. */
+.sutra-hero {
+  position: relative;
+  margin: 0.4rem 0 1.8rem;
+  padding: 1.6rem 1.5rem 1.6rem;
+  background: linear-gradient(180deg,
+    color-mix(in srgb, var(--papyrus-2) 55%, transparent) 0%,
+    transparent 100%);
+  border-top: 1px solid var(--rule-2);
+  border-bottom: 1px solid var(--rule-2);
+  text-align: center;
+}
+
 .sutra-hero-eyebrow {
   font-size: var(--fs-2xs);
   letter-spacing: var(--tracking-eyebrow-loose);
   text-transform: uppercase;
   color: var(--ink-5);
   display: block;
-  margin-bottom: 0.45rem;
+  margin-bottom: 0.65rem;
 }
 .sutra-hero-title {
   font-family: var(--font-cn-display, var(--font-cn));
-  font-size: var(--fs-3xl);
-  font-weight: 700;
+  font-size: clamp(2.6rem, 6vw, 4rem);
+  font-weight: 600;
   color: var(--ink);
-  letter-spacing: 0.04em;
-  line-height: 1.05;
-  margin: 0.1rem 0;
+  letter-spacing: 0.12em;
+  line-height: 1.1;
+  margin: 0.2rem 0 0.4rem;
 }
 .sutra-hero-pinyin {
   font-family: var(--font-mono);
   font-size: var(--fs-md);
   color: var(--ochre);
-  letter-spacing: 0.06em;
+  letter-spacing: 0.14em;
   display: block;
-  margin-bottom: 0.25rem;
+  margin-bottom: 0.55rem;
+  text-transform: lowercase;
 }
 .sutra-hero-sanskrit {
-  font-size: var(--fs-md);
-  color: var(--ink-4);
+  font-size: var(--fs-sm);
+  color: var(--ink-5);
   font-style: italic;
   display: block;
   margin-bottom: 0.4rem;
+  letter-spacing: 0.01em;
 }
 .sutra-hero-en {
+  font-size: var(--fs-md);
+  color: var(--ink-2);
+  display: block;
+  margin-bottom: 0.7rem;
+  font-variant-caps: small-caps;
+  letter-spacing: 0.08em;
+  font-weight: 500;
+}
+.sutra-hero-desc {
   font-size: var(--fs-base);
   color: var(--ink-3);
-  display: block;
-  margin-bottom: 0.55rem;
+  line-height: 1.75;
+  margin: 1rem auto 0;
+  max-width: 60ch;
+  text-align: left;
+  text-wrap: pretty;
 }
 .sutra-hero-meta {
   display: flex;
   flex-wrap: wrap;
-  gap: 0.4rem 1rem;
+  justify-content: center;
+  gap: 0.5rem 1.4rem;
   font-size: var(--fs-2xs);
   letter-spacing: var(--tracking-eyebrow-loose);
   text-transform: uppercase;
   color: var(--ink-5);
-  margin-top: 0.6rem;
+  margin-top: 1.1rem;
+  padding-top: 0.9rem;
+  border-top: 1px dashed var(--rule-2);
 }
 .sutra-hero-meta strong { color: var(--ink-3); font-weight: 500; }
-.sutra-hero-desc {
-  font-size: var(--fs-lg);
-  color: var(--ink-3);
-  line-height: 1.7;
-  margin-top: 0.85rem;
-}
 
-@media (max-width: 600px) {
-  .passage { padding: 0.95rem 1rem 0.95rem 1.15rem; }
-  .passage-cn { font-size: 1.3rem; line-height: 1.75; }
+/* When sutra-hero lives inside a topic-hero (current authoring pattern),
+   neutralize the outer container's padding/border so the sutra-hero
+   reads as the hero proper. */
+.topic-hero:has(> .sutra-hero) {
+  padding: 0;
+  border: none;
+  background: none;
+}
+.topic-hero > .topic-hero-eyebrow + .sutra-hero { margin-top: 0.6rem; }
+
+/* ── Mobile ─────────────────────────────────────────────── */
+@media (max-width: 700px) {
+  .passage {
+    padding: 1.1rem 1.05rem 1.05rem 3.1rem;
+    border-radius: var(--radius);
+  }
+  .passage-ordinal {
+    top: 1rem;
+    left: 0.85rem;
+    width: 1.6rem;
+    font-size: 1.2rem;
+  }
+  .passage-ordinal::after { width: 1.2rem; margin-top: 0.4rem; }
+  .passage-cn { font-size: 1.3rem; line-height: 1.85; letter-spacing: 0.04em; }
+  .passage-head > .audio-btn--inline {
+    top: 1rem;
+    right: 0.9rem;
+  }
+  .passage--mantra .passage-head > .audio-btn--inline {
+    top: 1.2rem;
+    right: 0.9rem;
+  }
+  .passage--mantra { padding: 1.3rem 1.05rem 1.2rem 3.1rem; }
+  .passage--mantra .passage-cn { font-size: 1.4rem; letter-spacing: 0.07em; line-height: 1.95; }
+  .sutra-hero { padding: 1.2rem 0.9rem 1.3rem; }
+  .sutra-controls {
+    border-radius: var(--radius-lg);
+    top: calc(var(--nav-h) + 4px);
+    padding: 0.5rem 0.85rem;
+  }
 }
 
 /* ── SOURCES BLOCK ───────────────────────────────────────── */
