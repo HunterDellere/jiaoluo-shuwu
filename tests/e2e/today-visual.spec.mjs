@@ -6,8 +6,7 @@ import fs from 'node:fs';
 const TODAY_URL = '/pages/today/';
 
 test('capture today page state', async ({ page }) => {
-  // Seed localStorage so we have a streak with history (otherwise the
-  // grid only shows one filled dot for today).
+  // Seed localStorage so we have a streak with history.
   await page.addInitScript(() => {
     const dayKey = (offset) => {
       const d = new Date();
@@ -15,18 +14,14 @@ test('capture today page state', async ({ page }) => {
       return d.getFullYear() + '-' + String(d.getMonth() + 1).padStart(2, '0') + '-' + String(d.getDate()).padStart(2, '0');
     };
     const recentDays = [];
-    // Simulate a 5-day streak with 3 visits in the prior 14 days.
     for (let i = 0; i < 5; i++) recentDays.push(dayKey(-i));
-    recentDays.push(dayKey(-7));
-    recentDays.push(dayKey(-9));
-    recentDays.push(dayKey(-12));
     localStorage.setItem('shuwo.streak.v1', JSON.stringify({
       v: 1, current: 5, longest: 12, lastDayKey: dayKey(-1), firstDayKey: dayKey(-30),
       totalDays: 18, recentDays, deviceId: 'd_test', updatedAt: new Date().toISOString()
     }));
   });
   await page.goto(TODAY_URL);
-  await page.waitForSelector('.tsg-dot', { timeout: 5_000 });
+  await page.waitForSelector('[data-streak-count]', { timeout: 5_000 });
   await page.waitForTimeout(500);
 
   fs.mkdirSync('test-results', { recursive: true });
@@ -39,28 +34,6 @@ test('capture today page state', async ({ page }) => {
     await rotation.scrollIntoViewIfNeeded();
     await rotation.screenshot({ path: 'test-results/today-rotation.png' });
   }
-
-  // DOM state for the streak grid.
-  const gridState = await page.evaluate(() => {
-    const grid = document.querySelector('[data-streak-grid]');
-    if (!grid) return { exists: false };
-    const dots = Array.from(grid.querySelectorAll('.tsg-dot'));
-    const computedGrid = window.getComputedStyle(grid);
-    const computedDot = dots.length > 0 ? window.getComputedStyle(dots[0]) : null;
-    return {
-      exists: true,
-      dotCount: dots.length,
-      gridRect: grid.getBoundingClientRect(),
-      gridParentRect: grid.parentElement.getBoundingClientRect(),
-      gridDisplay: computedGrid.display,
-      gridFlexWrap: computedGrid.flexWrap,
-      gridGap: computedGrid.gap,
-      dotWidth: computedDot ? computedDot.width : null,
-      dotHeight: computedDot ? computedDot.height : null,
-      hits: dots.filter(d => d.classList.contains('is-hit')).length
-    };
-  });
-  console.log('GRID STATE:', JSON.stringify(gridState, null, 2));
 
   // Streak chip layout
   const chipState = await page.evaluate(() => {

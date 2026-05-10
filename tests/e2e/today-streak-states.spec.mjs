@@ -30,7 +30,8 @@ for (const s of STREAKS) {
       }));
     }, s);
     await page.goto('/pages/today/');
-    await page.waitForSelector('.tsg-dot', { timeout: 5_000 });
+    await page.waitForSelector('[data-streak-count]', { timeout: 5_000 });
+    await expect(page.locator('[data-streak-count]')).toHaveText(String(s.current));
     await page.waitForTimeout(300);
     await page.locator('[data-today-streak]').screenshot({
       path: `test-results/streak-${s.current}.png`
@@ -42,13 +43,8 @@ for (const s of STREAKS) {
       const hero = document.querySelector('.today-hero');
       const chipRect = chip.getBoundingClientRect();
       const heroRect = hero.getBoundingClientRect();
-      const grid = document.querySelector('[data-streak-grid]');
-      const gridRect = grid ? grid.getBoundingClientRect() : null;
-      const num = document.querySelector('[data-streak-count]');
-      const numRect = num ? num.getBoundingClientRect() : null;
-      return { chip: chipRect, hero: heroRect, grid: gridRect, num: numRect };
+      return { chip: chipRect, hero: heroRect };
     });
-    // Grid height should be ≤ 24px (single line of 9px dots + gap).
-    expect(measurements.grid.height).toBeLessThanOrEqual(28);
+    expect(measurements.chip.width).toBeLessThanOrEqual(measurements.hero.width);
   });
 }
