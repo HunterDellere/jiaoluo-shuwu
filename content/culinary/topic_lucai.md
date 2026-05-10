@@ -105,9 +105,9 @@ pinyin: 'lǔcài'
       <strong>扒 pá</strong> → Red-braising until tender, then glazing with the reduced sauce , the technique behind sea cucumber and abalone preparations<br>
       <strong>爆 bào</strong> → Flash-frying over maximum heat for seconds , used for liver, kidney, and squid where texture is everything<br>
       <strong>熘 liū</strong> → Coating ingredients with starch before frying or poaching, then adding a sauce , produces the velveted, glossy texture of sweet-and-sour dishes<br>
-      <strong>清汤 qīngtāng</strong> → Double-clarified crystal-clear stock — the foundation of refined Shandong soups and many subsequent dishes<br>
+      <strong>清汤 qīngtāng</strong> → Double-clarified crystal-clear stock: the foundation of refined Shandong soups and many subsequent dishes<br>
       <strong>葱烧 cōngshāo</strong> → Scallion-braising: Shandong's signature aromatic technique, using long-braised scallions as both flavoring and textural element<br>
-      <strong>刀工 dāogōng</strong> → Knife technique: Shandong cooking prizes precise, uniform cuts — a discipline that reflects the Confucian valuation of ordered form
+      <strong>刀工 dāogōng</strong> → Knife technique: Shandong cooking prizes precise, uniform cuts, a discipline that reflects the Confucian valuation of ordered form
     </div>
 
     <span class="section-anchor" id="dishes"></span>
@@ -170,7 +170,7 @@ pinyin: 'lǔcài'
         <span class="card-py">dāogōng</span>
         <span class="card-en">knife technique; knife skills</span>
         <span class="tag-n">n.</span>
-        <p>Literally "knife work": the craft of cutting. Shandong cooking elevates 刀工 to an art form: julienne, brunoise, flower-cut, thread-cut. Uniformity of cut ensures uniform cooking. The 工 (gōng) is the same character as in 功夫 gōngfu — it implies mastery through disciplined practice. A chef's 刀工 is evaluated in culinary competitions as a skill in its own right.</p>
+        <p>Literally "knife work": the craft of cutting. Shandong cooking elevates 刀工 to an art form: julienne, brunoise, flower-cut, thread-cut. Uniformity of cut ensures uniform cooking. The 工 (gōng) is the same character as in 功夫 gōngfu; it implies mastery through disciplined practice. A chef's 刀工 is evaluated in culinary competitions as a skill in its own right.</p>
       </div>
       <div class="card c-sienna">
         <span class="card-cn">海鲜</span>

@@ -153,7 +153,7 @@ content_review: 'pending'
       <div class="card c-ochre">
         <div class="card-head"><span class="card-cn">龙舟</span><span class="card-py">lóngzhōu</span><span class="card-en">dragon boat</span></div>
         <div class="tags"><span class="tag tag-n">N 名词</span></div>
-        <div class="card-def">龙 (dragon) + 舟 (boat — the classical word for boat; 船 chuán is more common in modern speech). The ornate long boat with a dragon head at the prow. 赛龙舟 (to race dragon boats) is the verb phrase. 龙舟竞渡 (lóngzhōu jìngdù) is the literary term for the race.</div>
+        <div class="card-def">龙 (dragon) + 舟 (boat, the classical word for it; 船 chuán is more common in modern speech). The ornate long boat with a dragon head at the prow. 赛龙舟 (to race dragon boats) is the verb phrase. 龙舟竞渡 (lóngzhōu jìngdù) is the literary term for the race.</div>
         <div class="examples">
           <div class="example"><div class="ex-cn">比赛时，二十个人一起划龙舟，鼓声震天。</div><div class="ex-py">Bǐsài shí, èrshí gè rén yīqǐ huá lóngzhōu, gǔ shēng zhèn tiān.</div><div class="ex-en">During the race, twenty people paddle the dragon boat together, the drumbeats shaking the sky.</div></div>
         </div>
@@ -171,7 +171,7 @@ content_review: 'pending'
       <div class="card c-violet">
         <div class="card-head"><span class="card-cn">屈原</span><span class="card-py">Qū Yuán</span><span class="card-en">Qū Yuán (c. 340–278 BCE)</span></div>
         <div class="tags"><span class="tag tag-n">N 名词 (proper)</span></div>
-        <div class="card-def">The Chǔ minister-poet whose drowning the festival commemorates. Author of 离骚 Lí Sāo (Encountering Sorrow) and associated poems in the 楚辞 Songs of Chu anthology. The first named author in Chinese literary history whose works survive in substantial quantity. His character — incorruptible loyalty to a state that rejected him, beauty maintained in exile — made him the prototype of the upright minister and the loyal subject.</div>
+        <div class="card-def">The Chǔ minister-poet whose drowning the festival commemorates. Author of 离骚 Lí Sāo (Encountering Sorrow) and associated poems in the 楚辞 Songs of Chu anthology. The first named author in Chinese literary history whose works survive in substantial quantity. His character (incorruptible loyalty to a state that rejected him, beauty maintained in exile) made him the prototype of the upright minister and the loyal subject.</div>
       </div>
     </div>
 

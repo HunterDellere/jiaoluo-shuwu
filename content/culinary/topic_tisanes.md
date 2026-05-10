@@ -165,14 +165,14 @@ related:
         <span class="card-py">xùn huā</span>
         <span class="card-en">scenting — the process of infusing tea with flower fragrance</span>
         <span class="tag-v">v.</span>
-        <p>The traditional method of scenting tea by layering the dry tea leaf with fresh, fragrant flowers — most commonly jasmine — and allowing the tea to absorb the volatile aromatics overnight, then removing the spent flowers. Premium grades may be scented three to nine times with fresh flower batches, building intensity without acquiring the weight of the flower itself.</p>
+        <p>The traditional method of scenting tea by layering the dry tea leaf with fresh, fragrant flowers (most commonly jasmine) and allowing the tea to absorb the volatile aromatics overnight, then removing the spent flowers. Premium grades may be scented three to nine times with fresh flower batches, building intensity without acquiring the weight of the flower itself.</p>
       </div>
       <div class="card c-teal">
         <span class="card-cn">枸杞</span>
         <span class="card-py">gǒuqǐ</span>
         <span class="card-en">wolfberry / goji berry — the ubiquitous health supplement</span>
         <span class="tag-n">n.</span>
-        <p>The red berries of Lycium barbarum, used in Chinese medicine for millennia to nourish liver and kidney Yin, improve eyesight, and support general vitality. In practice, scattered into hot water or tea by Chinese professionals and office workers in equal measure — a near-universal daily health supplement. The global marketing of "goji berry" as a superfood is based on wolfberry export, mostly from Ningxia province.</p>
+        <p>The red berries of Lycium barbarum, used in Chinese medicine for millennia to nourish liver and kidney Yin, improve eyesight, and support general vitality. In practice, scattered into hot water or tea by Chinese professionals and office workers in equal measure: a near-universal daily health supplement. The global marketing of "goji berry" as a superfood is based on wolfberry export, mostly from Ningxia province.</p>
       </div>
     </div>
 
