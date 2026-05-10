@@ -147,8 +147,8 @@ pinyin: 'érqiě'
     <div class="pattern">
       <span class="label">成对连词 chéngduì liáncí · Paired Connectives</span>
       <strong>不但 [A]，而且 [B]</strong> , not only A, but also B (standard)<br>
-      <strong>不仅 [A]，而且 [B]</strong> — not merely A, but moreover B (slightly more formal)<br>
-      <strong>不只 [A]，而且 [B]</strong> — not just A, but furthermore B (colloquial variant)
+      <strong>不仅 [A]，而且 [B]</strong> · not merely A, but moreover B (slightly more formal)<br>
+      <strong>不只 [A]，而且 [B]</strong> · not just A, but furthermore B (colloquial variant)
     </div>
 
     <div class="cards">
@@ -224,7 +224,7 @@ pinyin: 'érqiě'
             <td class="td-cn">还 hái</td>
             <td>adverb; before verb; implies "in addition to what was mentioned"</td>
             <td>continuation; "on top of this, there is more"</td>
-            <td class="td-small">她聪明，<strong>还</strong>很努力。<br>She's smart — and on top of that, hardworking.</td>
+            <td class="td-small">她聪明，<strong>还</strong>很努力。<br>She's smart, and on top of that, hardworking.</td>
           </tr>
           <tr>
             <td class="td-cn">又 yòu</td>

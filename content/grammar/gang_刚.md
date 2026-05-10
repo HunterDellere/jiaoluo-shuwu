@@ -194,7 +194,7 @@ pinyin: 'gāng'
       <strong>刚</strong> gāng , just happened (value-neutral recency): 我刚吃 "I just ate"<br>
       <strong>才</strong> cái , only just/barely; often implies later than expected or surprisingly small amount: 他才来 "he only just now came / he finally came" (implies long-awaited or surprisingly late)<br>
       <strong>已经</strong> yǐjīng , already (completion relative to a reference point, often sooner than expected): 他已经来了 "he has already come" (earlier than expected, or establishing prior completion)<br>
-      <strong>刚才</strong> gāngcái — a moment ago (past time reference): refers to a recent but completed moment
+      <strong>刚才</strong> gāngcái · a moment ago (past time reference): refers to a recent but completed moment
     </div>
 
     <span class="section-anchor" id="examples"></span>
