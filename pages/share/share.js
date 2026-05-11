@@ -118,10 +118,12 @@ const state = {
 window.addEventListener('DOMContentLoaded', boot);
 
 async function boot() {
-  // Pull brand strings before anything renders. Fast (small JSON, cached
-  // by the SW after first request), and lets us avoid duplicating taglines.
-  // Falls through silently to the hard-coded defaults if the fetch fails.
+  // Pull brand strings + the share-cache (LLM-generated hooks/beats) in
+  // parallel before anything renders. Both are small JSON files cached by
+  // the SW after first request. Both fail through silently when missing
+  // so the builder still works for offline / pre-cache-gen states.
   loadBrand();
+  loadShareCache();
   renderPlatformPicker();
   bindControls();
   const params = new URLSearchParams(location.search);
@@ -147,6 +149,24 @@ async function loadBrand() {
     BRAND_CN = BRAND.cn;
     BRAND_EN = BRAND.en;
   } catch (_) { /* keep defaults */ }
+}
+
+// LLM-generated share content keyed by entry path. Populated by
+// `npm run share:generate` and committed to data/share-cache.json. The
+// builder uses cache entries when frontmatter `share:` isn't authored,
+// giving every page publication-quality hook + beats without per-page
+// authoring effort. Authored frontmatter always wins.
+let _shareCache = null;
+async function loadShareCache() {
+  try {
+    const res = await fetch('../../data/share-cache.json');
+    if (!res.ok) { _shareCache = {}; return; }
+    _shareCache = await res.json();
+  } catch (_) { _shareCache = {}; }
+}
+
+function getCachedShare(path) {
+  return (_shareCache && _shareCache[path]) || null;
 }
 
 function showEmpty() {
@@ -238,11 +258,27 @@ async function loadSource(rawInput) {
   const category = (meta && meta.category) || 'characters';
   const cat = CATEGORY[category] || CATEGORY.characters;
 
+  // Merge share content from three sources, in priority order:
+  //   1. Authored frontmatter `share:` (per-entry handcraft, always wins).
+  //   2. data/share-cache.json (LLM enrichment pass; covers every entry).
+  //   3. Empty (the heuristic auto-extractor in collectBeats() takes over).
+  const authoredShare = (meta && meta.share) || {};
+  const cachedShare = getCachedShare(pagePath) || {};
+  const share = {
+    hook: authoredShare.hook || cachedShare.hook || '',
+    beats: (authoredShare.beats && authoredShare.beats.length)
+      ? authoredShare.beats
+      : (cachedShare.beats || []),
+    cta: authoredShare.cta || cachedShare.cta || '',
+    _origin: authoredShare.hook ? 'authored'
+           : cachedShare.hook   ? 'enriched'
+           :                       'auto',
+  };
+
   return {
     sourcePath: pagePath,
     sourceTitle: (doc.querySelector('title')?.textContent || '').split(' — ')[0].trim(),
-    meta, category, cat,
-    share: (meta && meta.share) || {},
+    meta, category, cat, share,
     hero: parseHero(doc, meta),
     sections: parseScholars(doc),
     cards: parseCards(doc),
@@ -349,22 +385,33 @@ function showSourceMeta(source) {
   linkEl.href = '../../' + source.sourcePath;
   linkEl.hidden = false;
   if (modeEl) {
-    const authored = !!(source.share && (source.share.hook || (source.share.beats && source.share.beats.length)));
-    modeEl.textContent = authored ? 'Authored hook + beats' : 'Auto-extracted from prose';
-    modeEl.dataset.kind = authored ? 'authored' : 'auto';
+    const origin = source.share && source.share._origin;
+    const label = origin === 'authored' ? 'Authored hook + beats'
+               : origin === 'enriched' ? 'AI-enriched hook + beats'
+               :                          'Auto-extracted from prose';
+    modeEl.textContent = label;
+    modeEl.dataset.kind = origin || 'auto';
   }
 }
 
 // ── UI: platform picker ────────────────────────────────────────────────
+//
+// Each card shows a true-shape ratio chip (filled with the bg color when
+// active so you actually see the canvas shape change), the platform name,
+// and the export dimensions in mono. Active state lifts and gains an
+// accent border.
 function renderPlatformPicker() {
   const host = document.querySelector('[data-share-formats]');
   host.innerHTML = PLATFORMS.map(p => {
     const on = p.key === state.platform.key ? ' is-on' : '';
-    return `<button type="button" class="share-platform${on}" data-share-platform="${p.key}">
-      <span class="share-platform-ratio share-platform-ratio--${p.ratio}" aria-hidden="true"></span>
+    return `<button type="button" class="share-platform${on}" data-share-platform="${p.key}" aria-pressed="${p.key === state.platform.key}">
+      <span class="share-platform-chip share-platform-chip--${p.ratio}" aria-hidden="true">
+        <span class="share-platform-chip-fill"></span>
+      </span>
       <span class="share-platform-text">
         <span class="share-platform-label">${p.label}</span>
         <span class="share-platform-sub">${p.sub}</span>
+        <span class="share-platform-dim">${p.w} × ${p.h}</span>
       </span>
     </button>`;
   }).join('');

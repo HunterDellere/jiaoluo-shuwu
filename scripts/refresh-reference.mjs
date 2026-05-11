@@ -212,11 +212,14 @@ function deriveStrokeData(_unused) {
     let e;
     try { e = JSON.parse(ln); } catch { continue; }
     if (!scope.has(e.character)) continue;
-    // Medians are omitted — animation drives stroke-dashoffset on each path
-    // directly via getTotalLength(), so per-stroke median polylines aren't
-    // needed for the hero. Keep the file small.
+    // Keep both strokes (filled outlines, used as the visible glyph) AND
+    // medians (centerline polylines, used as the animated pen path). The
+    // hero animation reveals each stroke shape under its corresponding
+    // median sweep, which reads as actual writing rather than a perimeter
+    // trace.
     out[e.character] = {
       strokes: e.strokes || [],
+      medians: e.medians || [],
     };
     matched++;
   }

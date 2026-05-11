@@ -44,13 +44,38 @@ function escapeAttr(s) {
  * group to flip it back. The translate offset (-900) accounts for the
  * intended baseline used by makemeahanzi's CJK glyph outlines.
  */
+/**
+ * Convert a makemeahanzi median (an array of [x,y] points) into an SVG
+ * path "d" attribute: "M x0,y0 L x1,y1 L x2,y2 …". Used as the animated
+ * pen path for each stroke.
+ */
+function medianToPath(points) {
+  if (!Array.isArray(points) || points.length === 0) return '';
+  return points.map((pt, i) => `${i === 0 ? 'M' : 'L'} ${pt[0]} ${pt[1]}`).join(' ');
+}
+
+/**
+ * Each stroke gets two layered SVG paths:
+ *   .stroke-shape    the filled outline of the stroke (visible glyph)
+ *   .stroke-median   a thin centerline traced by stroke-dashoffset, drawn
+ *                    on top during animation as the "pen" sweep
+ *
+ * The CSS hides .stroke-shape until its sibling .stroke-median completes,
+ * then fades the shape in. When medians aren't available (rare — older
+ * cached data), we fall back to revealing shapes one at a time without
+ * a pen.
+ */
 function renderStrokeSvg(char, form) {
   const data = loadStrokeData()[char];
   if (!data || !data.strokes || !data.strokes.length) return null;
-  const paths = data.strokes
-    .map(d => `<path class="stroke" d="${escapeAttr(d)}"/>`)
-    .join('');
-  return `<svg class="stroke-svg" data-form="${form}" data-char="${escapeAttr(char)}" viewBox="0 0 1024 1024" role="img" aria-label="Stroke order animation for ${escapeAttr(char)}"><g transform="scale(1,-1) translate(0,-900)">${paths}</g></svg>`;
+  const medians = Array.isArray(data.medians) ? data.medians : [];
+  const groups = data.strokes.map((d, i) => {
+    const med = medians[i];
+    const medPath = med ? medianToPath(med) : '';
+    const medAttr = medPath ? `<path class="stroke-median" d="${escapeAttr(medPath)}"/>` : '';
+    return `<g class="stroke" data-stroke-index="${i}"><path class="stroke-shape" d="${escapeAttr(d)}"/>${medAttr}</g>`;
+  }).join('');
+  return `<svg class="stroke-svg" data-form="${form}" data-char="${escapeAttr(char)}" data-has-medians="${medians.length > 0 ? '1' : '0'}" viewBox="0 0 1024 1024" role="img" aria-label="Stroke order animation for ${escapeAttr(char)}"><g transform="scale(1,-1) translate(0,-900)">${groups}</g></svg>`;
 }
 
 /**

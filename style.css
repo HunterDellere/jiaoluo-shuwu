@@ -6252,26 +6252,49 @@ html[data-theme="dark"] .map-wrapper { filter: brightness(0.92) saturate(0.9); }
   transition: opacity 200ms ease;
 }
 /* Once the script preps the SVG (any path has data-len), fade the fallback. */
-.hero-glyph--stroke:has(.stroke-svg path.stroke[data-len]) .hero-glyph-fallback {
+.hero-glyph--stroke:has(.stroke-svg g.stroke.is-complete) .hero-glyph-fallback {
   opacity: 0;
 }
-.stroke-svg path.stroke {
+
+/* Each stroke is a <g> that holds two layers:
+ *   .stroke-shape    the filled outline of the stroke (the visible ink)
+ *   .stroke-median   a thin centerline polyline used as the animated pen
+ *
+ * Default state: shape is invisible, median is invisible too (waiting for
+ * JS to start). When JS animates a stroke, it sweeps the median's
+ * stroke-dashoffset to reveal the centerline, then marks the parent <g>
+ * .is-complete which fades in the shape and hides the median. */
+.stroke-svg g.stroke .stroke-shape {
+  fill: var(--red);
+  opacity: 0;
+  transition: opacity 140ms ease;
+}
+.stroke-svg g.stroke .stroke-median {
   fill: none;
   stroke: var(--red);
   stroke-width: 64;
   stroke-linecap: round;
   stroke-linejoin: round;
+  opacity: 0;
 }
-.hero-script--trad .stroke-svg path.stroke {
-  stroke: var(--sienna);
+.hero-script--trad .stroke-svg g.stroke .stroke-shape,
+.hero-script--trad .stroke-svg g.stroke .stroke-median {
+  /* Use --sienna for the trad form so the simp→trad pair reads as two
+   * distinct colors. */
 }
-.stroke-svg.is-complete path.stroke {
-  fill: var(--red);
-  transition: fill 280ms ease;
-}
-.hero-script--trad .stroke-svg.is-complete path.stroke {
-  fill: var(--sienna);
-}
+.hero-script--trad .stroke-svg g.stroke .stroke-shape { fill: var(--sienna); }
+.hero-script--trad .stroke-svg g.stroke .stroke-median { stroke: var(--sienna); }
+
+/* Active stroke: median visible while sweeping. */
+.stroke-svg g.stroke.is-active .stroke-median { opacity: 0.95; }
+
+/* Completed stroke: shape revealed, median hidden. */
+.stroke-svg g.stroke.is-complete .stroke-shape { opacity: 1; }
+.stroke-svg g.stroke.is-complete .stroke-median { opacity: 0; }
+
+/* Whole-glyph complete state: every stroke is filled. */
+.stroke-svg.is-complete g.stroke .stroke-shape { opacity: 1; }
+.stroke-svg.is-complete g.stroke .stroke-median { opacity: 0; }
 
 /* Stroke replay controls — injected by scripts/stroke-anim.js at the hero
  * level, so the controls appear once even when both simp + trad render. */
@@ -6311,12 +6334,8 @@ html[data-theme="dark"] .map-wrapper { filter: brightness(0.92) saturate(0.9); }
 }
 
 @media (prefers-reduced-motion: reduce) {
-  .stroke-svg path.stroke {
-    fill: var(--red);
-    stroke-dasharray: none !important;
-    stroke-dashoffset: 0 !important;
-  }
-  .hero-script--trad .stroke-svg path.stroke { fill: var(--sienna); }
+  .stroke-svg g.stroke .stroke-shape { opacity: 1; }
+  .stroke-svg g.stroke .stroke-median { opacity: 0; }
 }
 
 @media print {
@@ -6434,6 +6453,11 @@ a.pf-btn-carousel:focus-visible, button.pf-btn-carousel:focus-visible {
   background: var(--ink);
   border-color: var(--ink);
 }
+.share-source-mode[data-kind="enriched"] {
+  color: var(--papyrus);
+  background: var(--ochre);
+  border-color: var(--ochre);
+}
 .share-source-mode:empty { display: none; }
 
 /* Controls row: platform picker + actions, side-by-side when there's room. */
@@ -6471,41 +6495,97 @@ a.pf-btn-carousel:focus-visible, button.pf-btn-carousel:focus-visible {
 
 .share-platform {
   display: flex;
-  flex-direction: column;
   align-items: flex-start;
-  gap: 0.3rem;
-  padding: 0.65rem 0.8rem 0.7rem;
+  gap: 0.7rem;
+  padding: 0.85rem 0.95rem 0.85rem 0.85rem;
   background: var(--papyrus);
   color: var(--ink-3);
-  border: 1px solid var(--rule);
+  border: 1.5px solid var(--rule);
   border-radius: var(--radius-md);
   cursor: pointer;
   font-family: var(--font-ui);
   text-align: left;
-  transition: background 0.15s, border-color 0.15s, color 0.15s, transform 0.1s;
+  transition: background 160ms ease, border-color 160ms ease, color 160ms ease, transform 120ms ease, box-shadow 160ms ease;
+  position: relative;
+  min-height: 78px;
 }
 .share-platform:hover {
   background: var(--papyrus-3);
   border-color: var(--ochre);
+  transform: translateY(-1px);
+}
+.share-platform:hover .share-platform-chip-fill {
+  background: var(--ochre);
 }
 .share-platform.is-on {
-  background: var(--ink);
-  border-color: var(--ink);
-  color: var(--papyrus);
+  background: var(--papyrus);
+  border-color: var(--red);
+  color: var(--ink);
+  box-shadow: 0 2px 0 0 var(--red), 0 4px 14px rgba(139,26,26,0.10);
+  transform: translateY(-1px);
 }
-.share-platform-text { display: flex; flex-direction: column; gap: 0.05rem; }
-.share-platform-label { font-size: 0.92rem; font-weight: 500; line-height: 1.1; }
-.share-platform-sub { font-size: 0.7rem; opacity: 0.7; line-height: 1.1; }
-.share-platform-ratio {
-  display: inline-block;
-  border: 1.5px solid currentColor;
-  opacity: 0.55;
+.share-platform.is-on .share-platform-chip {
+  border-color: var(--red);
+}
+.share-platform.is-on .share-platform-chip-fill {
+  background: var(--red);
+  opacity: 1;
+}
+.share-platform.is-on .share-platform-label {
+  color: var(--red);
+}
+
+/* Ratio chip: a true-shape thumbnail of the export canvas. The outer
+   border is the canvas frame; the inner fill expands to match the active
+   state, giving the user visual confirmation that picking this platform
+   produces *that shape*. Sizes are scaled to a 22px tall slot so all
+   ratios share one baseline. */
+.share-platform-chip {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  border: 1.5px solid var(--ink-5);
+  border-radius: 2px;
+  padding: 1.5px;
+  margin-top: 0.15rem;
+  transition: border-color 160ms ease;
+}
+.share-platform-chip-fill {
+  display: block;
+  width: 100%;
+  height: 100%;
+  background: var(--ink-5);
+  opacity: 0.35;
   border-radius: 1px;
+  transition: background 160ms ease, opacity 160ms ease;
 }
-.share-platform-ratio--square   { width: 14px; height: 14px; }
-.share-platform-ratio--portrait { width: 13px; height: 16px; }
-.share-platform-ratio--xhs      { width: 13px; height: 17px; }
-.share-platform-ratio--story    { width: 10px; height: 18px; }
+.share-platform-chip--square   { width: 22px; height: 22px; }
+.share-platform-chip--portrait { width: 20px; height: 25px; }
+.share-platform-chip--xhs      { width: 20px; height: 27px; }
+.share-platform-chip--story    { width: 16px; height: 28px; }
+
+.share-platform-text { display: flex; flex-direction: column; gap: 0.1rem; min-width: 0; }
+.share-platform-label {
+  font-size: 0.95rem;
+  font-weight: 600;
+  line-height: 1.15;
+  color: var(--ink);
+  transition: color 160ms ease;
+}
+.share-platform-sub {
+  font-size: 0.74rem;
+  color: var(--ink-5);
+  line-height: 1.2;
+}
+.share-platform-dim {
+  font-family: var(--font-mono);
+  font-size: 0.66rem;
+  letter-spacing: 0.04em;
+  color: var(--ink-5);
+  opacity: 0.7;
+  margin-top: 0.15rem;
+}
 
 .share-actions {
   display: flex; flex-wrap: wrap; gap: 0.5rem;
