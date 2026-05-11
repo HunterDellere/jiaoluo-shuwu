@@ -46,6 +46,16 @@ updated: "2026-04-25"
 
     <!--FAMILY_CONTENT-->
 
+    <a class="exports-promo" href="../exports/">
+      <div class="exports-promo-head">
+        <span class="exports-promo-cn" lang="zh">导出</span>
+        <span class="exports-promo-py">dǎochū</span>
+      </div>
+      <h2 class="exports-promo-title">Exports: Pleco &amp; Anki decks</h2>
+      <p class="exports-promo-desc">Every entry packaged as flashcards. Forty-two pre-built decks (HSK ladder, Survival Mandarin, Buddhist Reader, Confucian Core …) plus a custom builder that lets you slice the corpus by type, level, topic, or search term.</p>
+      <span class="exports-promo-cta">Browse all decks →</span>
+    </a>
+
     <!--FAMILY_CROSSLINKS-->
 
     <div class="adj-wrap">

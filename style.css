@@ -5836,6 +5836,73 @@ html[data-theme="dark"] .map-wrapper { filter: brightness(0.92) saturate(0.9); }
 .slice-card[data-dimension="hsk-ladder"] { border-left: 3px solid var(--ochre); padding-left: calc(1.1rem - 2px); }
 .slice-card[data-dimension="tag"] { border-left: 3px solid var(--rule-2); padding-left: calc(1.1rem - 2px); }
 
+/* ── Exports promo card (on family-index pages) ───────────
+   Discoverable hand-off to /pages/exports/ from Explore + Collections.
+   Block-level link, papyrus-2 background with a red left rule to
+   signal "actionable" without looking like an ad. */
+.exports-promo {
+  display: block;
+  margin: 1.6rem 0;
+  padding: 1.2rem 1.4rem 1.1rem;
+  background: var(--papyrus-2);
+  border: 1px solid var(--rule);
+  border-left: 3px solid var(--red);
+  border-radius: var(--radius-lg, 8px);
+  text-decoration: none;
+  color: inherit;
+  transition: background var(--t-base), border-color var(--t-base), transform var(--t-base);
+}
+.exports-promo:hover {
+  background: color-mix(in srgb, var(--papyrus-2) 85%, var(--papyrus));
+  border-color: color-mix(in srgb, var(--red) 35%, var(--rule));
+  transform: translateY(-1px);
+}
+.exports-promo-head {
+  display: flex;
+  align-items: baseline;
+  gap: 0.5rem;
+  margin-bottom: 0.3rem;
+}
+.exports-promo-cn {
+  font-family: var(--font-cn-display, var(--font-cn));
+  font-size: 1.4rem;
+  font-weight: 600;
+  color: var(--red);
+  line-height: 1;
+}
+.exports-promo-py {
+  font-family: var(--font-mono);
+  font-size: 0.7rem;
+  letter-spacing: 0.06em;
+  color: var(--ochre);
+}
+.exports-promo-title {
+  font-family: var(--font-body);
+  font-size: var(--fs-lg);
+  font-weight: 600;
+  color: var(--ink);
+  margin: 0 0 0.45rem;
+  line-height: 1.2;
+}
+.exports-promo-desc {
+  font-size: var(--fs-base);
+  color: var(--ink-3);
+  line-height: 1.55;
+  margin: 0 0 0.7rem;
+  text-wrap: pretty;
+}
+.exports-promo-cta {
+  display: inline-block;
+  font-family: var(--font-mono);
+  font-size: 0.72rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--red);
+}
+.exports-promo:hover .exports-promo-cta {
+  color: color-mix(in srgb, var(--red) 88%, var(--ink));
+}
+
 /* ── Custom deck builder ────────────────────────────────
    Two-column layout on desktop (filters left, result right), stacks on
    mobile. Filters group into fieldsets with a clear visual hierarchy:

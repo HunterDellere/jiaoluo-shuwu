@@ -55,6 +55,16 @@ updated: "2026-04-25"
 
     <!--FAMILY_CONTENT-->
 
+    <a class="exports-promo" href="../exports/">
+      <div class="exports-promo-head">
+        <span class="exports-promo-cn" lang="zh">导出</span>
+        <span class="exports-promo-py">dǎochū</span>
+      </div>
+      <h2 class="exports-promo-title">Exports: Pleco &amp; Anki decks</h2>
+      <p class="exports-promo-desc">Take the corpus offline. Pre-built decks (HSK ladder, Survival Mandarin, Buddhist Reader …) and a custom builder for any slice you want.</p>
+      <span class="exports-promo-cta">Browse all decks →</span>
+    </a>
+
     <div class="adj-wrap">
       <span class="adj"><span class="a-cn">语言</span><span class="a-py">yǔyán</span><span class="a-en">The Language family — characters, vocabulary, grammar</span></span>
       <span class="adj"><span class="a-cn">话题</span><span class="a-py">huàtí</span><span class="a-en">The Topics family — philosophy, religion, history, culture</span></span>
