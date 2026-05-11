@@ -1,154 +1,60 @@
 /**
- * stroke-anim.js — hero stroke-order animation.
+ * stroke-anim.js — hero stroke-order entrance animation.
  *
- * Each <svg.stroke-svg> has a <defs><clipPath> per stroke whose <path>
- * (.stroke-mask) is the median polyline drawn with a very wide stroke.
- * The corresponding visible <path.stroke-shape> is clip-pathed by it.
+ * Quiet, one-shot reveal: when an .hero containing one or more
+ * <svg.stroke-svg> elements scrolls into view, add .is-playing to each
+ * SVG to trigger the staggered fade-in defined in style.css. Once the
+ * full stagger duration has elapsed, swap to .is-complete to pin every
+ * stroke at full opacity (so they don't fade out).
  *
- * Animating each .stroke-mask's stroke-dashoffset from full → 0 grows
- * the clipped area along the median direction, so the filled stroke
- * shape appears swept into existence. There's only one visual layer per
- * stroke (the shape itself), so no flash on completion and no font
- * mismatch with the static fallback.
+ * No replay button. No interactive controls. The animation is a small
+ * delight that plays once on first scroll-in; subsequent visits or
+ * reloads play it once again. That's it.
  *
- * Auto-plays once on viewport entry. Replay button injected at the .hero
- * level so a single button drives the simp/trad pair.
+ * Respects prefers-reduced-motion: reduce by jumping straight to
+ * .is-complete with no animation.
  */
 (function () {
   'use strict';
 
-  // Per-stroke duration is roughly half what it was before this rewrite.
-  // Single character lands ~0.8–1.2s; simp→trad pair ~2s with the gap.
-  const PER_STROKE_BASE_MS = 140;
-  const PER_STROKE_LENGTH_FACTOR = 0.7;
-  const INTER_STROKE_GAP_MS = 30;
-  const INTER_FIGURE_GAP_MS = 320;
+  // Per-stroke stagger (must match style.css animation-delay multiplier).
+  const STAGGER_MS = 110;
+  // Per-stroke fade duration (must match style.css animation duration).
+  const FADE_MS = 220;
+  // Pause between simp and trad in a pair so the simp finishes settling
+  // before the trad starts writing.
+  const PAIR_GAP_MS = 240;
 
   const prefersReduced = window.matchMedia &&
     window.matchMedia('(prefers-reduced-motion: reduce)').matches;
 
-  function preparePath(p) {
-    let len;
-    try { len = p.getTotalLength(); } catch (e) { len = 1000; }
-    p.style.strokeDasharray = len;
-    p.style.strokeDashoffset = len;
-    p.dataset.len = String(len);
-    return len;
+  function totalRunMs(svg) {
+    const n = parseInt(svg.dataset.strokeCount || '0', 10) || 0;
+    if (!n) return FADE_MS;
+    return (n - 1) * STAGGER_MS + FADE_MS;
   }
 
-  function showInstant(svg) {
-    // Drop all clip masks so every stroke shows fully.
-    svg.classList.add('is-ready');
-    svg.classList.add('is-complete');
-  }
-
-  /**
-   * Animate via CSS transition rather than per-frame rAF. The browser
-   * compositor handles dashoffset interpolation natively — much smoother
-   * than per-frame JS updates that force a clip-path recomputation each
-   * tick. Also eliminates the jitter at median polyline vertices that
-   * a stuttering rAF loop made visible.
-   */
-  function animatePath(p, durationMs) {
-    return new Promise(resolve => {
-      // Two RAFs to ensure the initial offset paints before the transition
-      // kicks in. Without this the browser may collapse "set offset = L,
-      // transition to 0" into "transition from current to 0" with no
-      // intermediate paint, producing an instant snap on some browsers.
-      p.style.transition = 'none';
-      p.style.strokeDashoffset = String(parseFloat(p.dataset.len) || 1000);
-      requestAnimationFrame(() => requestAnimationFrame(() => {
-        p.style.transition = `stroke-dashoffset ${durationMs}ms linear`;
-        p.style.strokeDashoffset = '0';
-        let resolved = false;
-        const onEnd = (e) => {
-          if (e.propertyName && e.propertyName !== 'stroke-dashoffset') return;
-          if (resolved) return;
-          resolved = true;
-          p.removeEventListener('transitionend', onEnd);
-          resolve();
-        };
-        p.addEventListener('transitionend', onEnd);
-        // Fallback timer in case transitionend doesn't fire (browser quirks).
-        setTimeout(() => { if (!resolved) { resolved = true; resolve(); } }, durationMs + 80);
-      }));
-    });
-  }
-
-  function durationFor(len) {
-    return PER_STROKE_BASE_MS + (len / 100) * PER_STROKE_LENGTH_FACTOR * 100;
-  }
-
-  /**
-   * Animate one SVG glyph: walk each stroke in document order and animate
-   * its corresponding clip-mask path (the .stroke-mask inside the
-   * matching <clipPath>). Strokes without a mask (rare — old data) just
-   * fade in.
-   */
-  async function animateSvg(svg) {
-    svg.classList.remove('is-complete');
-    const groups = Array.from(svg.querySelectorAll('g.stroke'));
-
-    // Map stroke index → its clip-mask path. clipPath ids look like
-    // "cp-<ns>-<i>" — but rather than parse, we just match each group's
-    // clip-path attr to its referenced clipPath in defs.
-    const masksByIndex = new Map();
-    groups.forEach(g => {
-      const idx = g.dataset.strokeIndex;
-      const shape = g.querySelector('.stroke-shape');
-      const clipUrl = shape && shape.getAttribute('clip-path');
-      if (!clipUrl) return;
-      const clipId = clipUrl.replace(/^url\(#?/, '').replace(/\)$/, '');
-      const mask = svg.querySelector(`#${CSS.escape(clipId)} .stroke-mask`);
-      if (mask) masksByIndex.set(idx, mask);
-    });
-
-    // Reset all masks to fully hidden.
-    masksByIndex.forEach(m => preparePath(m));
-
-    // Now that masks are prepped, mark SVG ready so shapes become opaque
-    // (they remain invisible because their clip-mask is at full offset).
-    svg.classList.add('is-ready');
-
-    for (const g of groups) {
-      const idx = g.dataset.strokeIndex;
-      const mask = masksByIndex.get(idx);
-      if (mask) {
-        const len = parseFloat(mask.dataset.len) || 1000;
-        await animatePath(mask, durationFor(len));
-      }
-      // Else: no mask (clip-less stroke); shape is already visible because
-      // .stroke-shape with no clip-path attr renders unconditionally.
-      if (groups.indexOf(g) < groups.length - 1) {
-        await new Promise(r => setTimeout(r, INTER_STROKE_GAP_MS));
-      }
+  async function play(svg) {
+    if (prefersReduced) {
+      svg.classList.add('is-complete');
+      return;
     }
+    svg.classList.add('is-playing');
+    await new Promise(r => setTimeout(r, totalRunMs(svg) + 30));
+    // Add is-complete BEFORE removing is-playing so there's no frame
+    // where neither class is present (which would let opacity snap to 0
+    // because the base .stroke-shape rule sets opacity: 0).
     svg.classList.add('is-complete');
+    svg.classList.remove('is-playing');
   }
 
   async function playGroup(svgs) {
     for (let i = 0; i < svgs.length; i++) {
-      await animateSvg(svgs[i]);
+      await play(svgs[i]);
       if (i < svgs.length - 1) {
-        await new Promise(r => setTimeout(r, INTER_FIGURE_GAP_MS));
+        await new Promise(r => setTimeout(r, PAIR_GAP_MS));
       }
     }
-  }
-
-  function injectControls(hero, svgs) {
-    if (hero.querySelector('.stroke-controls')) return;
-    const dual = svgs.length > 1;
-    const wrap = document.createElement('div');
-    wrap.className = 'stroke-controls';
-    wrap.innerHTML =
-      '<button type="button" class="stroke-replay" aria-label="Replay stroke animation">' +
-      '<span class="stroke-replay-ico" aria-hidden="true">↻</span> <span class="stroke-replay-label">Replay</span>' +
-      '</button>' +
-      (dual ? '<span class="stroke-pair-label" aria-hidden="true">简 ↔ 繁</span>' : '');
-    hero.appendChild(wrap);
-    wrap.querySelector('.stroke-replay').addEventListener('click', () => {
-      playGroup(svgs);
-    });
   }
 
   function findHeroGroups() {
@@ -167,20 +73,9 @@
 
     groups.forEach((svgs, hero) => {
       if (prefersReduced) {
-        svgs.forEach(showInstant);
-        injectControls(hero, svgs);
+        svgs.forEach(s => s.classList.add('is-complete'));
         return;
       }
-
-      // Prep every clip mask to its full dashoffset BEFORE adding is-ready.
-      // is-ready makes the stroke shapes opaque; if masks aren't prepped
-      // first, the shapes paint fully visible for one frame.
-      svgs.forEach(svg => {
-        svg.querySelectorAll('.stroke-mask').forEach(preparePath);
-        svg.classList.add('is-ready');
-      });
-      injectControls(hero, svgs);
-
       const io = new IntersectionObserver(entries => {
         for (const entry of entries) {
           if (entry.isIntersecting) {

@@ -45,66 +45,32 @@ function escapeAttr(s) {
  * intended baseline used by makemeahanzi's CJK glyph outlines.
  */
 /**
- * Convert a makemeahanzi median (an array of [x,y] points) into an SVG
- * path "d" attribute: "M x0,y0 L x1,y1 L x2,y2 …". Used as the animated
- * pen path for each stroke.
- */
-function medianToPath(points) {
-  if (!Array.isArray(points) || points.length === 0) return '';
-  return points.map((pt, i) => `${i === 0 ? 'M' : 'L'} ${pt[0]} ${pt[1]}`).join(' ');
-}
-
-/**
- * Hanzi-writer–style stroke reveal.
+ * Stroke reveal — minimal, fade-in-per-stroke in correct stroke order.
  *
- * Each stroke is one filled shape (.stroke-shape) clipped by a clipPath
- * whose <path> is the median polyline drawn with a very wide stroke. By
- * animating that clip path's stroke-dashoffset from full → 0, the visible
- * area of the stroke shape expands along the median direction — the
- * brush is the stroke shape itself, not a separate thin centerline.
+ * The "directional accuracy" comes from showing strokes in their
+ * canonical makemeahanzi order. We deliberately do NOT animate within
+ * each stroke (pen-sweep, mask-reveal, etc.) — every per-stroke approach
+ * we tried produced jitter, font mismatches, or completion flashes.
+ * Stroke order alone is enough to convey the writing rhythm, and the
+ * filled shape is identical to the static glyph so there's nothing to
+ * mismatch.
  *
- * Result: no swap-and-flash between a "pen" layer and an "ink" layer,
- * because there is only one layer. The filled glyph is identical at
- * every moment of the animation; we just unmask it progressively.
- *
- * Each clipPath needs a unique id; we namespace per character + form
- * so multiple SVGs on a page don't collide. Falls back to
- * reveal-without-mask if median data is missing.
+ * Each stroke gets a CSS variable --stroke-i (0-based index) that drives
+ * a staggered fade-in animation defined in style.css. The IntersectionObserver
+ * in scripts/stroke-anim.js just adds .is-playing to start the animation
+ * once when the hero scrolls into view; CSS does the rest.
  */
 function renderStrokeSvg(char, form) {
   const data = loadStrokeData()[char];
   if (!data || !data.strokes || !data.strokes.length) return null;
-  const medians = Array.isArray(data.medians) ? data.medians : [];
-  // Stable id namespace — unique per (form, char) so simp + trad of the
-  // same character (or the same character on multiple pages) don't share
-  // clip ids. Random suffix avoids server-rendered HTML caching collisions.
-  const ns = `${form === 'traditional' ? 't' : 's'}-${char.codePointAt(0).toString(16)}-${Math.random().toString(36).slice(2, 6)}`;
-
-  const clipPaths = [];
+  const total = data.strokes.length;
   const groups = data.strokes.map((d, i) => {
-    const med = medians[i];
-    const clipId = `cp-${ns}-${i}`;
-    if (med && med.length > 1) {
-      const medPath = medianToPath(med);
-      // The clip path uses a wide stroke that fully covers each stroke
-      // shape's width. 200 is generous (strokes are ~80–120 wide) so the
-      // mask never under-reveals the shape's edges.
-      // Mask brush: 200px wide (fully covers any stroke's outline), butt
-      // linecap (sharper leading edge as the brush sweeps — round caps
-      // produce subpixel jitter at every median vertex), miter join
-      // (cleaner corners than round at this width).
-      clipPaths.push(`<clipPath id="${clipId}"><path class="stroke-mask" d="${escapeAttr(medPath)}" stroke-width="200" stroke-linecap="butt" stroke-linejoin="miter" fill="none" stroke="black"/></clipPath>`);
-      return `<g class="stroke" data-stroke-index="${i}"><path class="stroke-shape" d="${escapeAttr(d)}" clip-path="url(#${clipId})"/></g>`;
-    }
-    // No median → reveal without mask (will pop in but still uses the
-    // correct filled shape, so no font mismatch).
-    return `<g class="stroke" data-stroke-index="${i}"><path class="stroke-shape" d="${escapeAttr(d)}"/></g>`;
+    return `<path class="stroke-shape" d="${escapeAttr(d)}" style="--stroke-i:${i};"/>`;
   }).join('');
-
-  // Defs go inside the SVG so clip refs resolve. Outer transform flips
-  // the makemeahanzi y-up coordinate system into SVG y-down.
-  const defs = clipPaths.length ? `<defs>${clipPaths.join('')}</defs>` : '';
-  return `<svg class="stroke-svg" data-form="${form}" data-char="${escapeAttr(char)}" data-has-medians="${medians.length > 0 ? '1' : '0'}" viewBox="0 0 1024 1024" role="img" aria-label="Stroke order animation for ${escapeAttr(char)}">${defs}<g transform="scale(1,-1) translate(0,-900)">${groups}</g></svg>`;
+  // Outer transform flips the makemeahanzi y-up coordinate system into
+  // SVG y-down. translate(-100) nudges the visible glyph up; the original
+  // -900 offset accounted for makemeahanzi's intended baseline.
+  return `<svg class="stroke-svg" data-form="${form}" data-char="${escapeAttr(char)}" data-stroke-count="${total}" viewBox="0 0 1024 1024" role="img" aria-label="${escapeAttr(char)} (${total} strokes)"><g transform="scale(1,-1) translate(0,-900)">${groups}</g></svg>`;
 }
 
 /**

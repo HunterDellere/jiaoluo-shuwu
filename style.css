@@ -6252,105 +6252,53 @@ html[data-theme="dark"] .map-wrapper { filter: brightness(0.92) saturate(0.9); }
   transition: opacity 200ms ease;
 }
 /* Once the script preps the SVG (any path has data-len), fade the fallback. */
-/* Hide the static fallback glyph as soon as the SVG is ready (data-has-medians
- * is set on every built SVG). Otherwise the fallback shows a Noto Serif SC
- * "爱" while makemeahanzi shapes draw, and the two typefaces don't match. */
-.hero-glyph--stroke .stroke-svg[data-char] ~ .hero-glyph-fallback {
+/* Hide the Noto Serif fallback once the SVG mounts — the makemeahanzi
+ * outline is the only glyph the user should ever see. */
+.hero-glyph--stroke .stroke-svg ~ .hero-glyph-fallback {
   opacity: 0;
 }
 
-/* One stroke = one filled shape. Visibility is controlled by a clipPath
- * whose <path> is the median polyline drawn with a wide stroke. JS animates
- * the clip path's stroke-dashoffset from full → 0; the visible portion of
- * the stroke shape grows along the median direction. The brush IS the
- * stroke shape getting unmasked, not a separate pen layer.
+/* One stroke = one filled shape. Each shape has --stroke-i (its 0-based
+ * order in the stroke sequence) set inline. CSS uses that variable to
+ * stagger the fade-in: stroke 0 fires first, stroke 1 ~120ms later, etc.
  *
- * Default state: shape rendered but fully clipped (invisible). JS prep
- * sets the dasharray; until then the shape is visible. To avoid that
- * flash, we keep stroke shapes at opacity 0 until the SVG enters the
- * "ready" state (added by JS once all clip masks are prepped). */
-.stroke-svg g.stroke .stroke-shape {
+ * Animation only runs once when JS adds .is-playing on viewport entry.
+ * Until then, shapes are invisible. Once the run finishes, .is-complete
+ * pins them visible so they don't fade out.
+ *
+ * No replay button, no per-stroke pen sweep — this is a quiet entrance
+ * animation, not an interactive widget. The directional accuracy is
+ * carried by stroke order alone. */
+.stroke-svg .stroke-shape {
   fill: var(--red);
-}
-.hero-script--trad .stroke-svg g.stroke .stroke-shape { fill: var(--sienna); }
-
-/* Initial paint: hide all stroke shapes until JS has had a chance to
- * prep clip masks (otherwise the user sees a fully-rendered glyph for
- * one frame before the animation starts). */
-.stroke-svg:not(.is-ready):not(.is-complete) g.stroke .stroke-shape {
   opacity: 0;
 }
-/* Once ready, shapes are opaque but still clipped — the clip-path is
- * what controls reveal progress. */
-.stroke-svg.is-ready g.stroke .stroke-shape,
-.stroke-svg.is-complete g.stroke .stroke-shape {
-  opacity: 1;
-}
+.hero-script--trad .stroke-svg .stroke-shape { fill: var(--sienna); }
 
-/* Reduced-motion / completed: drop the clip so every stroke is fully
- * visible. Setting clip-path: none on the shape overrides the inline
- * clip-path attr from the build. */
-.stroke-svg.is-complete g.stroke .stroke-shape {
-  clip-path: none;
+.stroke-svg.is-playing .stroke-shape {
+  animation: stroke-fade-in 220ms ease-out forwards;
+  /* Stagger: each stroke starts 110ms after the previous. Total run for
+   * a 10-stroke character lands around 1.3s. */
+  animation-delay: calc(var(--stroke-i) * 110ms);
 }
+.stroke-svg.is-complete .stroke-shape { opacity: 1; }
 
-/* Stroke replay controls — injected by scripts/stroke-anim.js at the hero
- * level, so the controls appear once even when both simp + trad render. */
-.stroke-controls {
-  display: flex;
-  align-items: center;
-  gap: 0.75rem;
-  margin-top: 0.5rem;
-  padding-top: 0.4rem;
-  font-family: var(--font-mono);
-  font-size: var(--fs-xs);
-  color: var(--ink-5);
-}
-.stroke-replay {
-  display: inline-flex;
-  align-items: center;
-  gap: 0.35rem;
-  padding: 0.25rem 0.6rem;
-  background: transparent;
-  border: 1px solid var(--rule);
-  border-radius: 999px;
-  color: var(--ink-3);
-  font: inherit;
-  cursor: pointer;
-  transition: background 160ms ease, color 160ms ease, border-color 160ms ease;
-}
-.stroke-replay:hover {
-  background: var(--paper);
-  color: var(--red);
-  border-color: var(--red);
-}
-.stroke-replay-ico { font-size: 1.05em; line-height: 1; }
-.stroke-pair-label {
-  font-family: var(--font-cn);
-  letter-spacing: 0.06em;
-  color: var(--ink-6);
+@keyframes stroke-fade-in {
+  from { opacity: 0; }
+  to   { opacity: 1; }
 }
 
 @media (prefers-reduced-motion: reduce) {
-  .stroke-svg g.stroke .stroke-shape { opacity: 1; }
-  .stroke-svg g.stroke .stroke-median { opacity: 0; }
+  .stroke-svg .stroke-shape { opacity: 1; animation: none; }
 }
 
 @media print {
   .stroke-svg { display: none !important; }
-  .stroke-controls { display: none !important; }
   .hero-glyph--stroke .hero-glyph-fallback {
     position: static;
     opacity: 1 !important;
     display: block;
   }
-}
-
-html[data-theme="dark"] .stroke-svg path.stroke {
-  stroke: var(--red);
-}
-html[data-theme="dark"] .hero-script--trad .stroke-svg path.stroke {
-  stroke: var(--sienna);
 }
 
 /* Responsive hero stroke sizes — keep visual weight aligned with the
