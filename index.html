@@ -134,7 +134,7 @@
 <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='14' fill='%238b1a1a'/><rect x='6' y='6' width='88' height='88' rx='10' fill='none' stroke='%23f2e8d5' stroke-width='2' stroke-opacity='0.55'/><text x='50' y='30' text-anchor='middle' dominant-baseline='central' font-family='Noto Serif SC, serif' font-size='42' font-weight='700' fill='%23f2e8d5'>角</text><text x='50' y='72' text-anchor='middle' dominant-baseline='central' font-family='Noto Serif SC, serif' font-size='42' font-weight='700' fill='%23f2e8d5'>書</text></svg>">
 <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
 <link rel="stylesheet" href="style.css?v=18">
-<link rel="stylesheet" href="style-home.css?v=9">
+<link rel="stylesheet" href="style-home.css?v=10">
 <script>
   // Legacy #browse anchor → Collections (per the family redesign).
   // Runs before paint so users with old bookmarks land on the right page.
@@ -191,12 +191,33 @@
     </svg>
   </header>
 
-  <!-- Today's reading. Rotates daily so returning visitors get a fresh lead. -->
-  <section class="featured-section" id="featured" aria-labelledby="featured-heading">
+  <!-- Today. One combined section: the curated thread on top, the four
+       UTC-seeded daily picks and visit streak below. Both surfaces are
+       fed by the shared scripts/daily-pick.js, so the homepage and
+       /pages/today/ always agree on the same UTC day. -->
+  <section class="today-section" id="today" aria-labelledby="today-heading">
     <div class="section-eyebrow"><span class="eb-mark" aria-hidden="true"></span>今日 jīnrì</div>
-    <h2 class="section-title" id="featured-heading">Today's thread</h2>
-    <p class="section-sub">One theme, a few related entries. Follow the thread; it tends to go somewhere interesting.</p>
+    <h2 class="section-title" id="today-heading">Today</h2>
+    <p class="section-sub" data-daily-date>—</p>
+
     <article class="featured-card" id="featured-card" data-watermark=""></article>
+
+    <div class="daily-draw-card">
+      <div class="daily-draw-chips" data-daily-chips aria-label="Today's four picks">
+        <div class="daily-chip is-skeleton" aria-hidden="true"><span class="dc-tag">字</span><span class="dc-en">Loading…</span></div>
+        <div class="daily-chip is-skeleton" aria-hidden="true"><span class="dc-tag">词</span><span class="dc-en">Loading…</span></div>
+        <div class="daily-chip is-skeleton" aria-hidden="true"><span class="dc-tag">法</span><span class="dc-en">Loading…</span></div>
+        <div class="daily-chip is-skeleton" aria-hidden="true"><span class="dc-tag">语</span><span class="dc-en">Loading…</span></div>
+      </div>
+      <aside class="daily-draw-streak" data-daily-streak aria-label="Visit streak">
+        <span class="dd-streak-tab"><span lang="zh">连</span> <span class="dd-streak-tab-py">lián</span></span>
+        <span class="dd-streak-num">·</span>
+        <span class="dd-streak-label">days</span>
+        <span class="dd-streak-hint">Visit daily; resets if you skip.</span>
+      </aside>
+    </div>
+
+    <a class="daily-draw-more" href="pages/today/">See the full daily reading <span aria-hidden="true">→</span></a>
   </section>
 
   <!-- Search. Standalone, no connection to browse. -->
@@ -231,30 +252,6 @@
     <h2 class="section-title">New here? Start with these</h2>
     <p class="section-sub" id="start-here-sub">Entries that give a sense of the whole: language, philosophy, culture, food. Read in order, or wander.</p>
     <ol class="start-here-list" id="start-here-list"></ol>
-  </section>
-
-  <!-- Daily draw. Surfaces the four daily picks (same UTC-seeded entries as
-       /pages/today/) plus the visit streak. Reserved min-height prevents
-       layout shift while picks load. -->
-  <section class="daily-draw-section" id="daily-draw" aria-labelledby="daily-draw-heading">
-    <div class="section-eyebrow"><span class="eb-mark" aria-hidden="true"></span>今日 jīnrì</div>
-    <h2 class="section-title" id="daily-draw-heading">Today's draw</h2>
-    <p class="section-sub" data-daily-date>—</p>
-    <div class="daily-draw-card">
-      <div class="daily-draw-chips" data-daily-chips aria-label="Today's four picks">
-        <div class="daily-chip is-skeleton" aria-hidden="true"><span class="dc-tag">字</span><span class="dc-en">Loading…</span></div>
-        <div class="daily-chip is-skeleton" aria-hidden="true"><span class="dc-tag">词</span><span class="dc-en">Loading…</span></div>
-        <div class="daily-chip is-skeleton" aria-hidden="true"><span class="dc-tag">法</span><span class="dc-en">Loading…</span></div>
-        <div class="daily-chip is-skeleton" aria-hidden="true"><span class="dc-tag">语</span><span class="dc-en">Loading…</span></div>
-      </div>
-      <aside class="daily-draw-streak" data-daily-streak aria-label="Visit streak">
-        <span class="dd-streak-tab"><span lang="zh">连</span> <span class="dd-streak-tab-py">lián</span></span>
-        <span class="dd-streak-num">·</span>
-        <span class="dd-streak-label">days</span>
-        <span class="dd-streak-hint">Visit daily; resets if you skip.</span>
-      </aside>
-    </div>
-    <a class="daily-draw-more" href="pages/today/">See the full daily reading <span aria-hidden="true">→</span></a>
   </section>
 
   <!-- Recently added. Surfaces the latest work right near the top. -->

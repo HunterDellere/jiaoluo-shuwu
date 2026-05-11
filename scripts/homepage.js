@@ -270,7 +270,7 @@
 
     // ── today's featured thread ──────────────────────────────────────────────
     (function renderFeatured() {
-      const section = document.getElementById("featured");
+      const section = document.getElementById("today") || document.getElementById("featured");
       const card = document.getElementById("featured-card");
       const themes = Array.isArray(featured) ? featured : [];
       if (!section || !card || !themes.length) return;
@@ -326,7 +326,8 @@
           ` : ""}
         </div>
       `;
-      section.classList.add("visible");
+      card.classList.add("visible");
+      section.classList.add("visible"); // legacy: also keep section flag for any prior CSS
     })();
 
     // ── daily draw (4 picks + streak) ─────────────────────────────────────────
@@ -336,7 +337,7 @@
     // sourced via the shared scripts/daily-pick.js module so this page and
     // /today/ can never disagree.
     (function renderDailyDraw() {
-      const section = document.getElementById('daily-draw');
+      const section = document.getElementById('today') || document.getElementById('daily-draw');
       if (!section) return;
       if (!window.shuwoDaily || !window.shuwoDaily.pickDaily) return;
 

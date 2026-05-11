@@ -1,5 +1,5 @@
-// Smoke tests for the homepage daily-draw section. Verifies:
-//   1. The #daily-draw section renders above #recent.
+// Smoke tests for the homepage today section. Verifies:
+//   1. The #today section renders above #recent.
 //   2. The four chips populate with real entries (not skeletons).
 //   3. The streak chip renders with either a numeric count or the
 //      "begin a streak" zero state.
@@ -8,10 +8,10 @@
 //      they share a single seeded module).
 import { test, expect } from '@playwright/test';
 
-test.describe('Homepage daily draw', () => {
-  test('daily-draw section renders above recent', async ({ page }) => {
+test.describe('Homepage Today section', () => {
+  test('today section renders above recent', async ({ page }) => {
     await page.goto('/');
-    const daily = page.locator('#daily-draw');
+    const daily = page.locator('#today');
     const recent = page.locator('#recent');
     await expect(daily).toBeVisible();
     await expect(recent).toBeVisible();
@@ -24,17 +24,17 @@ test.describe('Homepage daily draw', () => {
     await page.goto('/');
     // Wait for the section to lose its skeleton chips (JS swaps them in).
     await page.waitForFunction(() => {
-      const chips = document.querySelectorAll('#daily-draw .daily-chip');
+      const chips = document.querySelectorAll('#today .daily-chip');
       if (chips.length !== 4) return false;
       return Array.from(chips).every(c => !c.classList.contains('is-skeleton'));
     }, { timeout: 5000 });
-    const chips = page.locator('#daily-draw .daily-chip');
+    const chips = page.locator('#today .daily-chip');
     await expect(chips).toHaveCount(4);
   });
 
   test('streak chip renders numeric or zero state', async ({ page }) => {
     await page.goto('/');
-    const streak = page.locator('#daily-draw [data-daily-streak]');
+    const streak = page.locator('#today [data-daily-streak]');
     await expect(streak).toBeVisible();
     const num = (await streak.locator('.dd-streak-num').textContent() || '').trim();
     // Either a number (≥1) or the dot we render for streak === 0.
@@ -44,10 +44,10 @@ test.describe('Homepage daily draw', () => {
   test('picks match /pages/today/ for the same day', async ({ page }) => {
     await page.goto('/');
     await page.waitForFunction(() => {
-      const chips = document.querySelectorAll('#daily-draw .daily-chip');
+      const chips = document.querySelectorAll('#today .daily-chip');
       return chips.length === 4 && Array.from(chips).every(c => !c.classList.contains('is-skeleton'));
     }, { timeout: 5000 });
-    const homepageHrefs = await page.locator('#daily-draw .daily-chip').evaluateAll(els =>
+    const homepageHrefs = await page.locator('#today .daily-chip').evaluateAll(els =>
       els.map(e => e.getAttribute('href')).filter(Boolean)
     );
 
