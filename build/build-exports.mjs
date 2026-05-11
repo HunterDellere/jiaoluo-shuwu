@@ -35,6 +35,7 @@ import { readFileSync, writeFileSync, mkdirSync, readdirSync } from 'node:fs';
 import { join, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { buildApkg } from './lib/anki-apkg.mjs';
+import { buildSlices, buildCharHskMap, normalizeHsk } from './lib/export-slices.mjs';
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
 const ENTRIES = JSON.parse(readFileSync(join(ROOT, 'data/entries.json'), 'utf8'));
@@ -72,12 +73,14 @@ function extractCards() {
   const characters = [];
   const vocab = [];
   const chengyu = [];
+  const grammar = [];
 
   for (const e of ENTRIES) {
     if (e.status !== 'complete') continue;
 
     if (e.type === 'character') {
       characters.push({
+        _type: 'character',
         hanzi: e.char || cnFromTitle(e.title),
         pinyin: e.pinyin || '',
         english: enFromTitle(e.title),
@@ -86,36 +89,55 @@ function extractCards() {
         radical: e.radical || '',
         tone: e.tone || '',
         tags: e.tags || [],
+        category: e.category || 'characters',
         path: e.path
       });
     } else if (e.type === 'vocab' && e.category === 'vocab') {
       vocab.push({
+        _type: 'vocab',
         hanzi: cnFromTitle(e.title),
         pinyin: e.pinyin || '',
         english: enFromTitle(e.title),
         desc: e.desc || '',
         hsk: e.hsk || '',
         tags: e.tags || [],
+        category: e.category || 'vocab',
         path: e.path
       });
     } else if (e.category === 'chengyu') {
       chengyu.push({
+        _type: 'chengyu',
         hanzi: cnFromTitle(e.title),
         pinyin: e.pinyin || '',
         english: enFromTitle(e.title),
         desc: e.desc || '',
+        hsk: e.hsk || '',
         tags: e.tags || [],
+        category: e.category || 'chengyu',
+        path: e.path
+      });
+    } else if (e.type === 'grammar') {
+      grammar.push({
+        _type: 'grammar',
+        hanzi: cnFromTitle(e.title),
+        pinyin: e.pinyin || '',
+        english: enFromTitle(e.title),
+        desc: e.desc || '',
+        hsk: e.hsk || '',
+        tags: e.tags || [],
+        category: e.category || 'grammar',
         path: e.path
       });
     }
   }
 
   // Stable sort by hanzi so day-to-day rebuilds produce diffable exports.
-  const byHanzi = (a, b) => a.hanzi.localeCompare(b.hanzi, 'zh');
+  const byHanzi = (a, b) => (a.hanzi || '').localeCompare(b.hanzi || '', 'zh');
   characters.sort(byHanzi);
   vocab.sort(byHanzi);
   chengyu.sort(byHanzi);
-  return { characters, vocab, chengyu };
+  grammar.sort(byHanzi);
+  return { characters, vocab, chengyu, grammar };
 }
 
 // ────────────────────── Pleco TSV ──────────────────────
@@ -157,7 +179,7 @@ function emitAnkiTsv(cards, file, columns) {
 
 // ────────────────────── Main ──────────────────────
 
-const { characters, vocab, chengyu } = extractCards();
+const { characters, vocab, chengyu, grammar } = extractCards();
 
 const plecoCharCount  = emitPleco(characters, 'pleco-characters.txt');
 const plecoVocabCount = emitPleco(vocab,      'pleco-vocab.txt');
@@ -269,7 +291,96 @@ const apkgAllCount = await (async () => {
   return ankiCards.length;
 })();
 
+// ────────────────────── Sliced decks ──────────────────────
+// Builds targeted Anki .apkg + Pleco TSV per slice (HSK level, HSK ladder,
+// topic, tag, intent). Slice definitions live in build/lib/export-slices.mjs.
+// Files land under data/exports/slices/ so the top-level dir stays focused
+// on the core 11 files; manifest references both layers.
+
+const SLICES_DIR = join(OUT_DIR, 'slices');
+mkdirSync(SLICES_DIR, { recursive: true });
+
+// Combined corpus (all four types) for the slicer. Each card already has
+// _type, hanzi, pinyin, english, desc, hsk, tags, category, path.
+const corpus = [...characters, ...vocab, ...chengyu, ...grammar];
+const charHskMap = buildCharHskMap(ENTRIES);
+const slices = buildSlices(corpus, charHskMap);
+
+// Pick the right card-back formatter based on the card's _type. Grammar
+// uses backVocab (same fields render usefully).
+function backFor(card) {
+  if (card._type === 'character') return backCharacter(card);
+  if (card._type === 'chengyu')   return backChengyu(card);
+  return backVocab(card);
+}
+
+// Tags emitted to Anki must be [\w-]+ — Anki splits on whitespace so we
+// also include slice-identifying tags (`hsk-3`, `topic-religion`, etc.)
+// to make in-Anki sub-deck filtering possible after import.
+function ankiTagsForSlice(card, slice) {
+  const baseTags = (card.tags || []).filter(t => t && /^[\w-]+$/.test(t));
+  const sliceTag = `${slice.dimension}-${slice.criterion}`.replace(/[^\w-]/g, '-');
+  const typeTag = card._type;
+  return [...new Set([...baseTags, sliceTag, typeTag])];
+}
+
+async function emitSliceApkg(slice) {
+  const ankiCards = slice.cards
+    .filter(c => c.hanzi)
+    .map(c => ({
+      front: `<div style="font-size:42px;font-family:'Noto Serif SC',serif;">${escapeHtml(c.hanzi)}</div>`,
+      back: backFor(c),
+      tags: ankiTagsForSlice(c, slice),
+    }));
+  const deckName = `角落書屋 · ${slice.name}`;
+  const buf = await buildApkg({ deckName, cards: ankiCards });
+  const file = `slices/${slice.slug}.apkg`;
+  writeFileSync(join(OUT_DIR, file), buf);
+  return { file, count: ankiCards.length };
+}
+
+function emitSlicePleco(slice) {
+  const lines = slice.cards
+    .filter(c => c.hanzi && c.pinyin)
+    .map(c => `${tsvEscape(c.hanzi)}\t${tsvEscape(c.pinyin)}\t${tsvEscape(plecoDefinition(c))}`);
+  const file = `slices/${slice.slug}.txt`;
+  writeFileSync(join(OUT_DIR, file), lines.join('\n') + '\n', 'utf8');
+  return { file, count: lines.length };
+}
+
+const sliceEntries = [];
+for (const slice of slices) {
+  const apkg = await emitSliceApkg(slice);
+  const pleco = emitSlicePleco(slice);
+  sliceEntries.push({
+    slug: slice.slug,
+    name: slice.name,
+    cn: slice.cn || null,
+    dimension: slice.dimension,
+    criterion: slice.criterion,
+    description: slice.description || null,
+    count: apkg.count,
+    apkg: apkg.file,
+    pleco: pleco.file,
+    // HSK breakdown of the cards in this slice — useful for the library UI
+    // to show "mostly HSK 3" badges on intent decks.
+    hskBreakdown: hskHistogram(slice.cards),
+  });
+}
+
+function hskHistogram(cards) {
+  const h = {};
+  for (const c of cards) {
+    const k = c._resolvedHsk == null ? 'unknown' : `hsk-${c._resolvedHsk}`;
+    h[k] = (h[k] || 0) + 1;
+  }
+  return h;
+}
+
 // Manifest summarizing counts so the bulk page can render dynamically.
+// `files` keeps the original top-level cards for backwards compatibility
+// with the existing exports page; `slices` is the new layer the next-gen
+// page will read.
 const manifest = {
   generated: new Date().toISOString(),
   files: [
@@ -284,12 +395,23 @@ const manifest = {
     { file: 'vocab.apkg',           format: 'anki-apkg', type: 'vocab',      count: apkgVocabCount },
     { file: 'chengyu.apkg',         format: 'anki-apkg', type: 'chengyu',    count: apkgCyCount },
     { file: 'all.apkg',             format: 'anki-apkg', type: 'all',        count: apkgAllCount }
-  ]
+  ],
+  slices: sliceEntries,
 };
 writeFileSync(join(OUT_DIR, 'manifest.json'), JSON.stringify(manifest, null, 2));
+
+const sliceCountsByDim = sliceEntries.reduce((acc, s) => {
+  acc[s.dimension] = (acc[s.dimension] || 0) + 1;
+  return acc;
+}, {});
 
 console.log('build-exports:');
 console.log(`  Pleco — characters: ${plecoCharCount}, vocab: ${plecoVocabCount}, chengyu: ${plecoCyCount}`);
 console.log(`  Anki TSV — characters: ${ankiCharCount}, vocab: ${ankiVocabCount}, chengyu: ${ankiCyCount}`);
 console.log(`  Anki .apkg — characters: ${apkgCharCount}, vocab: ${apkgVocabCount}, chengyu: ${apkgCyCount}, all: ${apkgAllCount}`);
+console.log(`  Slices (.apkg + .txt each): ${sliceEntries.length} total — ${Object.entries(sliceCountsByDim).map(([d,n])=>`${d}:${n}`).join(', ')}`);
+const thinSlices = sliceEntries.filter(s => s.count < 5);
+if (thinSlices.length) {
+  console.log(`  Thin slices (<5 cards) — predicates correct, corpus thin: ${thinSlices.map(s => `${s.slug}(${s.count})`).join(', ')}`);
+}
 console.log(`  Manifest: data/exports/manifest.json`);
