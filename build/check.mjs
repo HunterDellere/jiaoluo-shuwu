@@ -121,8 +121,13 @@ const TYPE_INVARIANTS = {
     { name: 'character.stroke-order',
       test: (h, m) => new RegExp(`class="so-stage"[^>]*data-char="${escRe(m.char)}"`).test(h) },
     { name: 'character.hero-glyph',
+      // Hero glyph may render in three forms: original static <div>/<span>,
+      // or the upgraded `.hero-glyph--stroke` wrapper that carries a
+      // <span class="hero-glyph-fallback"> with the character. All count.
       test: (h, m) => h.includes(`<div class="hero-glyph">${m.char}</div>`) ||
-                       h.includes(`<span class="hero-glyph">${m.char}</span>`) },
+                       h.includes(`<span class="hero-glyph">${m.char}</span>`) ||
+                       new RegExp(`class="hero-glyph hero-glyph--stroke"[^>]*data-char="${escRe(m.char)}"`).test(h) ||
+                       new RegExp(`class="hero-glyph-fallback"[^>]*>${escRe(m.char)}<`).test(h) },
   ],
   // Topic-style hero invariant: tolerate multi-class headers (e.g.
   // family-index pages add `family-hero` modifier classes alongside `topic-hero`).
@@ -276,6 +281,30 @@ for (const slug of pageSlugs) {
   }
 }
 
+// Stage 5: OG PNG presence — every complete entry must have a 1200×630 PNG
+// on disk; meta tags reference these URLs so a missing file = 404 unfurl.
+const ogPngBase = join(ROOT, 'assets', 'og');
+let ogChecked = 0;
+try {
+  const entriesJson = JSON.parse(readFileSync(join(ROOT, 'data', 'entries.json'), 'utf8'));
+  for (const e of entriesJson) {
+    if (e.status !== 'complete') continue;
+    const slug = basename(e.path, '.html');
+    const png = join(ogPngBase, e.category, `${slug}.png`);
+    try {
+      statSync(png);
+      ogChecked++;
+    } catch {
+      fail(png, `missing OG PNG for complete entry ${e.path} — run \`npm run build\` to regenerate`);
+    }
+  }
+  // Homepage OG
+  try { statSync(join(ROOT, 'assets', 'og-image.png')); }
+  catch { fail(join(ROOT, 'assets', 'og-image.png'), 'missing homepage OG PNG'); }
+} catch (err) {
+  fail(join(ROOT, 'data', 'entries.json'), `og check skipped: ${err.message}`);
+}
+
 // ── report ──────────────────────────────────────────────────────────────────
 
 if (EMIT) {
@@ -294,7 +323,7 @@ if (EMIT) {
 }
 
 if (errors.length === 0) {
-  console.log(`✓ check.mjs: ${pageInfo.size} pages, ${contentSlugs.size} content sources — all invariants hold, all links resolve.`);
+  console.log(`✓ check.mjs: ${pageInfo.size} pages, ${contentSlugs.size} content sources, ${ogChecked} OG PNGs — all invariants hold, all links resolve.`);
 } else {
   console.error(`\n${errors.length} check error(s):\n`);
   for (const e of errors) console.error('✗ ' + e + '\n');

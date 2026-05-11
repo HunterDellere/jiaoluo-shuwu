@@ -1,82 +1,16 @@
 /**
- * Per-entry SVG OG card + category favicon.
- * Both are SVG so they're tiny and need no image library.
+ * OG facade — re-exports SVG generation, PNG rasterization, and the
+ * category favicon helper. Kept thin so callers (build/build.mjs) can
+ * import one symbol set without coupling to the implementation modules.
  */
 
-const CATEGORY_GLYPH = {
-  characters: { glyph: '書', color: '#8b1a1a' },
-  vocab:      { glyph: '词', color: '#a06428' },
-  grammar:    { glyph: '法', color: '#1a5050' },
-  chengyu:    { glyph: '语', color: '#6b1a2a' },
-  religion:   { glyph: '宗', color: '#5c3d7a' },
-  philosophy: { glyph: '哲', color: '#3a5c3a' },
-  history:    { glyph: '史', color: '#6b4420' },
-  geography:  { glyph: '地', color: '#2a5c6b' },
-  culture:    { glyph: '文', color: '#8b3a1a' },
-  culinary:   { glyph: '食', color: '#7a4a10' },
-  arts:       { glyph: '艺', color: '#4a2878' },
-  science:    { glyph: '科', color: '#1a4a5c' },
-  daily:      { glyph: '日', color: '#5c4a1a' }
-};
+import { CATEGORY_META, renderOgSvg, renderHomepageOgSvg, ogAltText } from './og-svg.mjs';
 
-function escXml(s) {
-  return String(s || '')
-    .replace(/&/g, '&amp;')
-    .replace(/</g, '&lt;')
-    .replace(/>/g, '&gt;')
-    .replace(/"/g, '&quot;')
-    .replace(/'/g, '&apos;');
-}
+export { renderOgSvg, renderHomepageOgSvg, ogAltText, CATEGORY_META };
+export { rasterizeOgSvg, ogContentHash } from './og-png.mjs';
 
-/**
- * 1200×630 SVG OG image. Papyrus background, hero glyph centred, pinyin + title underneath.
- */
-export function renderOgSvg(entry) {
-  const cat = CATEGORY_GLYPH[entry.category] || { glyph: '字', color: '#8b1a1a' };
-  const glyph = entry.char || (entry.title ? entry.title.split('·')[0].trim() : cat.glyph);
-  const pinyin = entry.pinyin || '';
-  const titleEn = entry.title
-    ? (entry.title.split('·').slice(1).join('·').trim() || entry.title)
-    : '';
-
-  // Unicode-safe length (surrogate pairs for rare CJK glyphs).
-  const len = [...glyph].length;
-  // Single char gets a heroic size; multi-char scales down so chengyu still fit.
-  const glyphSize = len === 1
-    ? 300
-    : Math.max(150, 280 - (len - 2) * 32);
-
-  // Vertical rhythm — center-anchored bands within the 60→570 frame.
-  // Glyph, pinyin, and title sit in distinct bands so the CJK ink never
-  // collides with the pinyin/title below it.
-  const glyphY  = 275;
-  const pinyinY = 460;
-  const titleY  = 525;
-
-  return `<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
-  <defs>
-    <filter id="paper">
-      <feTurbulence type="fractalNoise" baseFrequency="0.65" numOctaves="5" stitchTiles="stitch"/>
-      <feColorMatrix type="saturate" values="0"/>
-    </filter>
-    <radialGradient id="vignette" cx="50%" cy="0%" r="80%">
-      <stop offset="0%" stop-color="${cat.color}" stop-opacity="0.05"/>
-      <stop offset="100%" stop-color="#f2e8d5" stop-opacity="0"/>
-    </radialGradient>
-  </defs>
-  <rect width="1200" height="630" fill="#f2e8d5"/>
-  <rect width="1200" height="630" fill="url(#vignette)"/>
-  <rect width="1200" height="630" filter="url(#paper)" opacity="0.06"/>
-  <line x1="60" y1="60" x2="1140" y2="60" stroke="${cat.color}" stroke-width="3"/>
-  <line x1="60" y1="570" x2="1140" y2="570" stroke="${cat.color}" stroke-width="3"/>
-  <text x="80" y="100" font-family="Inconsolata, monospace" font-size="22" letter-spacing="6" fill="#6b5535" text-transform="uppercase">JIǍOLUÒ SHŪWŪ · 角落書屋</text>
-  <text x="1120" y="100" font-family="Inconsolata, monospace" font-size="22" letter-spacing="3" fill="#6b5535" text-anchor="end">${escXml(entry.category)}</text>
-  <text x="600" y="${glyphY}" font-family="Noto Serif SC, serif" font-size="${glyphSize}" font-weight="700" fill="${cat.color}" text-anchor="middle" dominant-baseline="middle">${escXml(glyph)}</text>
-  ${pinyin ? `<text x="600" y="${pinyinY}" font-family="Inconsolata, monospace" font-size="40" letter-spacing="4" fill="#a06428" text-anchor="middle" dominant-baseline="middle">${escXml(pinyin)}</text>` : ''}
-  ${titleEn ? `<text x="600" y="${titleY}" font-family="EB Garamond, Georgia, serif" font-style="italic" font-size="30" fill="#2e2010" text-anchor="middle" dominant-baseline="middle">${escXml(titleEn)}</text>` : ''}
-</svg>`;
-}
+// Back-compat alias: old name used elsewhere.
+export const CATEGORY_GLYPH = CATEGORY_META;
 
 /**
  * Inline SVG data-URI favicon: consistent 書 glyph on papyrus background,
@@ -91,5 +25,3 @@ export function categoryFaviconDataUri(_category) {
     `</svg>`;
   return 'data:image/svg+xml,' + encodeURIComponent(svg);
 }
-
-export { CATEGORY_GLYPH };

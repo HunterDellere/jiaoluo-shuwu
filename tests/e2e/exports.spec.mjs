@@ -68,10 +68,10 @@ test.describe('Exports — bulk page', () => {
     }
   });
 
-  test('/pages/exports/ has the three section heads', async ({ page }) => {
+  test('/pages/exports/ has the expected section heads', async ({ page }) => {
     await page.goto('/pages/exports/');
-    await expect(page.locator('#pleco')).toBeAttached();
-    await expect(page.locator('#anki')).toBeAttached();
+    await expect(page.locator('#builder')).toBeAttached();
+    await expect(page.locator('#hsk')).toBeAttached();
     await expect(page.locator('#how-to')).toBeAttached();
   });
 });

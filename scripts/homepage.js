@@ -275,21 +275,15 @@
       const themes = Array.isArray(featured) ? featured : [];
       if (!section || !card || !themes.length) return;
 
-      // Seeded shuffle: same order all year, never repeats until all themes
-      // exhausted. Seed = year so order changes each January 1.
+      // Use the shared picker (scripts/daily-pick.js) so the homepage and
+      // /pages/today/ always show the same thread on the same UTC day.
       const now = new Date();
-      const yearSeed = now.getFullYear() * 1000003;
-      const shuffled = seededShuffle(themes, yearSeed);
-      const day = dayOfYear(now);
-      const len = shuffled.length;
-      let theme = null, lead = null;
-      // Walk forward from today's slot; skip any entry whose page doesn't exist.
-      for (let offset = 0; offset < len; offset++) {
-        const t = shuffled[(day + offset) % len];
-        const e = byPath[t.lead];
-        if (e) { theme = t; lead = e; break; }
-      }
-      if (!theme || !lead) return;
+      const picked = (window.shuwoDaily && window.shuwoDaily.pickThread)
+        ? window.shuwoDaily.pickThread(themes, byPath, now)
+        : null;
+      if (!picked) return;
+      const theme = picked.theme;
+      const lead = picked.lead;
 
       const related = (theme.related || [])
         .map(p => byPath[p])
@@ -333,6 +327,97 @@
         </div>
       `;
       section.classList.add("visible");
+    })();
+
+    // ── daily draw (4 picks + streak) ─────────────────────────────────────────
+    // A compact card that surfaces the four daily picks (same UTC-seeded
+    // entries the /pages/today/ page shows), today's date in CN + en, the
+    // current visit streak, and a link into the full Today page. Picks are
+    // sourced via the shared scripts/daily-pick.js module so this page and
+    // /today/ can never disagree.
+    (function renderDailyDraw() {
+      const section = document.getElementById('daily-draw');
+      if (!section) return;
+      if (!window.shuwoDaily || !window.shuwoDaily.pickDaily) return;
+
+      // Today's date label: "5月10日 · Sunday, May 10".
+      const now = new Date();
+      const utcKey = window.shuwoDaily.todayUtcKey();
+      const cnDate = `${now.getUTCMonth() + 1}月${now.getUTCDate()}日`;
+      let enDate = '';
+      try {
+        enDate = now.toLocaleDateString(undefined, { weekday: 'long', month: 'long', day: 'numeric', timeZone: 'UTC' });
+      } catch (e) { enDate = utcKey; }
+      const dateEl = section.querySelector('[data-daily-date]');
+      if (dateEl) {
+        dateEl.innerHTML = `<span class="dd-date-cn" lang="zh">${escapeHtml(cnDate)}</span><span class="dd-date-sep" aria-hidden="true">·</span><span class="dd-date-en">${escapeHtml(enDate)}</span>`;
+      }
+
+      // Four picks. Render each as a chip-style link with category color.
+      const picks = window.shuwoDaily.pickDaily(allEntries, utcKey);
+      const SLOTS = [
+        { key: 'character', label: '字', py: 'zì',     en: 'Character' },
+        { key: 'vocab',     label: '词', py: 'cí',     en: 'Word' },
+        { key: 'grammar',   label: '法', py: 'fǎ',     en: 'Grammar' },
+        { key: 'chengyu',   label: '语', py: 'chéngyǔ', en: 'Chengyu' }
+      ];
+      const chipsEl = section.querySelector('[data-daily-chips]');
+      if (chipsEl) {
+        const html = SLOTS.map(slot => {
+          const e = picks[slot.key];
+          if (!e) {
+            return `<div class="daily-chip is-empty"><span class="dc-tag" aria-hidden="true">${slot.label}</span><span class="dc-en">${slot.en} of the day not available yet.</span></div>`;
+          }
+          const glyph = leadCn(e);
+          const titleEn = e.title ? (e.title.split('·').slice(1).join('·').trim() || e.title) : slot.en;
+          const cat = e.category ? ` data-category="${escapeHtml(e.category)}"` : '';
+          return `<a class="daily-chip" href="${escapeHtml(e.path)}"${cat} aria-label="${escapeHtml(slot.en + ' of the day: ' + (e.title || glyph))}">` +
+            `<span class="dc-tag" aria-hidden="true">${slot.label}</span>` +
+            (glyph ? `<span class="dc-cn" lang="zh">${escapeHtml(glyph)}</span>` : '') +
+            (e.pinyin ? `<span class="dc-py">${escapeHtml(e.pinyin)}</span>` : '') +
+            `<span class="dc-en">${escapeHtml(titleEn)}</span>` +
+          `</a>`;
+        }).join('');
+        chipsEl.innerHTML = html;
+      }
+
+      // Streak chip. Reads from scripts/streak.js (already loaded and
+      // ticked). On streak === 0 show an inviting "begin a streak" hint
+      // instead of a zero.
+      function renderStreakChip() {
+        const box = section.querySelector('[data-daily-streak]');
+        if (!box) return;
+        const state = (window.shuwoStreak && window.shuwoStreak.read())
+          || { current: 0, longest: 0 };
+        const cur = state.current || 0;
+        const numEl = box.querySelector('.dd-streak-num');
+        const labelEl = box.querySelector('.dd-streak-label');
+        const hintEl = box.querySelector('.dd-streak-hint');
+        if (cur === 0) {
+          box.classList.add('is-zero');
+          if (numEl) numEl.textContent = '·';
+          if (labelEl) labelEl.textContent = 'begin a streak';
+          if (hintEl) hintEl.textContent = 'Visit tomorrow to start counting.';
+        } else {
+          box.classList.remove('is-zero');
+          if (numEl) numEl.textContent = String(cur);
+          if (labelEl) labelEl.textContent = cur === 1 ? 'day' : 'days in a row';
+          if (hintEl) {
+            if (cur < 7)        hintEl.textContent = 'Resets if you skip a day.';
+            else if (cur < 30)  hintEl.textContent = 'A week-plus rhythm.';
+            else                hintEl.textContent = '持之以恒 chízhī yǐhéng.';
+          }
+        }
+      }
+      renderStreakChip();
+      // streak.js loads with `defer` like homepage.js, but order isn't
+      // guaranteed across browsers; render again on next frame to catch up
+      // if streak.js hadn't ticked by the time we read.
+      if (typeof requestAnimationFrame === 'function') {
+        requestAnimationFrame(renderStreakChip);
+      }
+
+      section.classList.add('visible');
     })();
 
     // ── start-here list ────────────────────────────────────────────────────────
