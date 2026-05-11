@@ -18,12 +18,12 @@
   'use strict';
 
   // Per-stroke stagger (must match style.css animation-delay multiplier).
-  const STAGGER_MS = 110;
+  const STAGGER_MS = 55;
   // Per-stroke fade duration (must match style.css animation duration).
-  const FADE_MS = 220;
+  const FADE_MS = 110;
   // Pause between simp and trad in a pair so the simp finishes settling
   // before the trad starts writing.
-  const PAIR_GAP_MS = 240;
+  const PAIR_GAP_MS = 160;
 
   const prefersReduced = window.matchMedia &&
     window.matchMedia('(prefers-reduced-motion: reduce)').matches;

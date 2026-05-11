@@ -6276,10 +6276,10 @@ html[data-theme="dark"] .map-wrapper { filter: brightness(0.92) saturate(0.9); }
 .hero-script--trad .stroke-svg .stroke-shape { fill: var(--sienna); }
 
 .stroke-svg.is-playing .stroke-shape {
-  animation: stroke-fade-in 220ms ease-out forwards;
-  /* Stagger: each stroke starts 110ms after the previous. Total run for
-   * a 10-stroke character lands around 1.3s. */
-  animation-delay: calc(var(--stroke-i) * 110ms);
+  animation: stroke-fade-in 110ms ease-out forwards;
+  /* Stagger: each stroke starts 55ms after the previous. Total run for
+   * a 10-stroke character lands around 600ms. */
+  animation-delay: calc(var(--stroke-i) * 55ms);
 }
 .stroke-svg.is-complete .stroke-shape { opacity: 1; }
 
