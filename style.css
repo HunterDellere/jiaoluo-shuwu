@@ -6252,49 +6252,47 @@ html[data-theme="dark"] .map-wrapper { filter: brightness(0.92) saturate(0.9); }
   transition: opacity 200ms ease;
 }
 /* Once the script preps the SVG (any path has data-len), fade the fallback. */
-.hero-glyph--stroke:has(.stroke-svg g.stroke.is-complete) .hero-glyph-fallback {
+/* Hide the static fallback glyph as soon as the SVG is ready (data-has-medians
+ * is set on every built SVG). Otherwise the fallback shows a Noto Serif SC
+ * "爱" while makemeahanzi shapes draw, and the two typefaces don't match. */
+.hero-glyph--stroke .stroke-svg[data-char] ~ .hero-glyph-fallback {
   opacity: 0;
 }
 
-/* Each stroke is a <g> that holds two layers:
- *   .stroke-shape    the filled outline of the stroke (the visible ink)
- *   .stroke-median   a thin centerline polyline used as the animated pen
+/* One stroke = one filled shape. Visibility is controlled by a clipPath
+ * whose <path> is the median polyline drawn with a wide stroke. JS animates
+ * the clip path's stroke-dashoffset from full → 0; the visible portion of
+ * the stroke shape grows along the median direction. The brush IS the
+ * stroke shape getting unmasked, not a separate pen layer.
  *
- * Default state: shape is invisible, median is invisible too (waiting for
- * JS to start). When JS animates a stroke, it sweeps the median's
- * stroke-dashoffset to reveal the centerline, then marks the parent <g>
- * .is-complete which fades in the shape and hides the median. */
+ * Default state: shape rendered but fully clipped (invisible). JS prep
+ * sets the dasharray; until then the shape is visible. To avoid that
+ * flash, we keep stroke shapes at opacity 0 until the SVG enters the
+ * "ready" state (added by JS once all clip masks are prepped). */
 .stroke-svg g.stroke .stroke-shape {
   fill: var(--red);
-  opacity: 0;
-  transition: opacity 140ms ease;
-}
-.stroke-svg g.stroke .stroke-median {
-  fill: none;
-  stroke: var(--red);
-  stroke-width: 64;
-  stroke-linecap: round;
-  stroke-linejoin: round;
-  opacity: 0;
-}
-.hero-script--trad .stroke-svg g.stroke .stroke-shape,
-.hero-script--trad .stroke-svg g.stroke .stroke-median {
-  /* Use --sienna for the trad form so the simp→trad pair reads as two
-   * distinct colors. */
 }
 .hero-script--trad .stroke-svg g.stroke .stroke-shape { fill: var(--sienna); }
-.hero-script--trad .stroke-svg g.stroke .stroke-median { stroke: var(--sienna); }
 
-/* Active stroke: median visible while sweeping. */
-.stroke-svg g.stroke.is-active .stroke-median { opacity: 0.95; }
+/* Initial paint: hide all stroke shapes until JS has had a chance to
+ * prep clip masks (otherwise the user sees a fully-rendered glyph for
+ * one frame before the animation starts). */
+.stroke-svg:not(.is-ready):not(.is-complete) g.stroke .stroke-shape {
+  opacity: 0;
+}
+/* Once ready, shapes are opaque but still clipped — the clip-path is
+ * what controls reveal progress. */
+.stroke-svg.is-ready g.stroke .stroke-shape,
+.stroke-svg.is-complete g.stroke .stroke-shape {
+  opacity: 1;
+}
 
-/* Completed stroke: shape revealed, median hidden. */
-.stroke-svg g.stroke.is-complete .stroke-shape { opacity: 1; }
-.stroke-svg g.stroke.is-complete .stroke-median { opacity: 0; }
-
-/* Whole-glyph complete state: every stroke is filled. */
-.stroke-svg.is-complete g.stroke .stroke-shape { opacity: 1; }
-.stroke-svg.is-complete g.stroke .stroke-median { opacity: 0; }
+/* Reduced-motion / completed: drop the clip so every stroke is fully
+ * visible. Setting clip-path: none on the shape overrides the inline
+ * clip-path attr from the build. */
+.stroke-svg.is-complete g.stroke .stroke-shape {
+  clip-path: none;
+}
 
 /* Stroke replay controls — injected by scripts/stroke-anim.js at the hero
  * level, so the controls appear once even when both simp + trad render. */

@@ -55,27 +55,56 @@ function medianToPath(points) {
 }
 
 /**
- * Each stroke gets two layered SVG paths:
- *   .stroke-shape    the filled outline of the stroke (visible glyph)
- *   .stroke-median   a thin centerline traced by stroke-dashoffset, drawn
- *                    on top during animation as the "pen" sweep
+ * Hanzi-writer–style stroke reveal.
  *
- * The CSS hides .stroke-shape until its sibling .stroke-median completes,
- * then fades the shape in. When medians aren't available (rare — older
- * cached data), we fall back to revealing shapes one at a time without
- * a pen.
+ * Each stroke is one filled shape (.stroke-shape) clipped by a clipPath
+ * whose <path> is the median polyline drawn with a very wide stroke. By
+ * animating that clip path's stroke-dashoffset from full → 0, the visible
+ * area of the stroke shape expands along the median direction — the
+ * brush is the stroke shape itself, not a separate thin centerline.
+ *
+ * Result: no swap-and-flash between a "pen" layer and an "ink" layer,
+ * because there is only one layer. The filled glyph is identical at
+ * every moment of the animation; we just unmask it progressively.
+ *
+ * Each clipPath needs a unique id; we namespace per character + form
+ * so multiple SVGs on a page don't collide. Falls back to
+ * reveal-without-mask if median data is missing.
  */
 function renderStrokeSvg(char, form) {
   const data = loadStrokeData()[char];
   if (!data || !data.strokes || !data.strokes.length) return null;
   const medians = Array.isArray(data.medians) ? data.medians : [];
+  // Stable id namespace — unique per (form, char) so simp + trad of the
+  // same character (or the same character on multiple pages) don't share
+  // clip ids. Random suffix avoids server-rendered HTML caching collisions.
+  const ns = `${form === 'traditional' ? 't' : 's'}-${char.codePointAt(0).toString(16)}-${Math.random().toString(36).slice(2, 6)}`;
+
+  const clipPaths = [];
   const groups = data.strokes.map((d, i) => {
     const med = medians[i];
-    const medPath = med ? medianToPath(med) : '';
-    const medAttr = medPath ? `<path class="stroke-median" d="${escapeAttr(medPath)}"/>` : '';
-    return `<g class="stroke" data-stroke-index="${i}"><path class="stroke-shape" d="${escapeAttr(d)}"/>${medAttr}</g>`;
+    const clipId = `cp-${ns}-${i}`;
+    if (med && med.length > 1) {
+      const medPath = medianToPath(med);
+      // The clip path uses a wide stroke that fully covers each stroke
+      // shape's width. 200 is generous (strokes are ~80–120 wide) so the
+      // mask never under-reveals the shape's edges.
+      // Mask brush: 200px wide (fully covers any stroke's outline), butt
+      // linecap (sharper leading edge as the brush sweeps — round caps
+      // produce subpixel jitter at every median vertex), miter join
+      // (cleaner corners than round at this width).
+      clipPaths.push(`<clipPath id="${clipId}"><path class="stroke-mask" d="${escapeAttr(medPath)}" stroke-width="200" stroke-linecap="butt" stroke-linejoin="miter" fill="none" stroke="black"/></clipPath>`);
+      return `<g class="stroke" data-stroke-index="${i}"><path class="stroke-shape" d="${escapeAttr(d)}" clip-path="url(#${clipId})"/></g>`;
+    }
+    // No median → reveal without mask (will pop in but still uses the
+    // correct filled shape, so no font mismatch).
+    return `<g class="stroke" data-stroke-index="${i}"><path class="stroke-shape" d="${escapeAttr(d)}"/></g>`;
   }).join('');
-  return `<svg class="stroke-svg" data-form="${form}" data-char="${escapeAttr(char)}" data-has-medians="${medians.length > 0 ? '1' : '0'}" viewBox="0 0 1024 1024" role="img" aria-label="Stroke order animation for ${escapeAttr(char)}"><g transform="scale(1,-1) translate(0,-900)">${groups}</g></svg>`;
+
+  // Defs go inside the SVG so clip refs resolve. Outer transform flips
+  // the makemeahanzi y-up coordinate system into SVG y-down.
+  const defs = clipPaths.length ? `<defs>${clipPaths.join('')}</defs>` : '';
+  return `<svg class="stroke-svg" data-form="${form}" data-char="${escapeAttr(char)}" data-has-medians="${medians.length > 0 ? '1' : '0'}" viewBox="0 0 1024 1024" role="img" aria-label="Stroke order animation for ${escapeAttr(char)}">${defs}<g transform="scale(1,-1) translate(0,-900)">${groups}</g></svg>`;
 }
 
 /**
