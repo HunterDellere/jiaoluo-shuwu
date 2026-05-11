@@ -11,9 +11,15 @@ const out = (n) => path.join(OUT, n);
 test('exports page screenshots', async ({ page }) => {
   await page.goto('/pages/exports/');
   await page.waitForSelector('.slice-card', { timeout: 5_000 });
+  await page.waitForSelector('.builder-tag-chip', { timeout: 5_000 });
   await page.waitForTimeout(400);
 
   await page.screenshot({ path: out('exports-page.png'), fullPage: true });
+
+  const builder = page.locator('.builder');
+  await builder.scrollIntoViewIfNeeded();
+  await page.waitForTimeout(150);
+  await builder.screenshot({ path: out('exports-builder.png') });
 
   const intent = page.locator('[data-slice-section="intent"]');
   await intent.scrollIntoViewIfNeeded();
@@ -36,10 +42,79 @@ test('exports page screenshots', async ({ page }) => {
       out[s] = el ? el.querySelectorAll('.slice-card').length : 0;
     }
     out.legacy = document.querySelectorAll('.export-card').length;
+    out.tagChips = document.querySelectorAll('.builder-tag-chip').length;
+    out.builderCount = parseInt(document.querySelector('[data-builder-count]')?.textContent || '0', 10);
     return out;
   });
-  for (const k of Object.keys(counts)) {
+  for (const k of ['intent', 'hsk-ladder', 'hsk', 'type', 'tag', 'legacy']) {
     if (counts[k] === 0) throw new Error(`section "${k}" rendered 0 cards`);
+  }
+  if (counts.tagChips === 0) throw new Error('builder rendered 0 tag chips');
+  if (counts.builderCount === 0) throw new Error('builder live count is 0 with all defaults — should match full corpus');
+});
+
+test('builder filters narrow the corpus and the Pleco download fires', async ({ page }) => {
+  await page.goto('/pages/exports/');
+  await page.waitForSelector('.builder-tag-chip', { timeout: 5_000 });
+  await page.waitForTimeout(150);
+
+  const initial = await page.evaluate(() => parseInt(document.querySelector('[data-builder-count]').textContent, 10));
+  if (initial < 200) throw new Error('initial count should be the full corpus, got ' + initial);
+
+  // Narrow: untick all types except 'character', set HSK 1-1.
+  await page.evaluate(() => {
+    document.querySelectorAll('[data-builder-type]').forEach(cb => {
+      if (cb.dataset.builderType !== 'character') {
+        cb.checked = false;
+        cb.dispatchEvent(new Event('change', { bubbles: true }));
+      }
+    });
+    const min = document.querySelector('[data-builder-hsk-min]');
+    const max = document.querySelector('[data-builder-hsk-max]');
+    max.value = '1';
+    max.dispatchEvent(new Event('change', { bubbles: true }));
+  });
+  await page.waitForTimeout(120);
+  const narrow = await page.evaluate(() => parseInt(document.querySelector('[data-builder-count]').textContent, 10));
+  if (narrow >= initial) throw new Error('expected narrow filter to reduce count: initial=' + initial + ' narrow=' + narrow);
+  if (narrow === 0) throw new Error('narrowed to zero unexpectedly');
+
+  // Click Pleco download — verify a download is triggered.
+  const downloadPromise = page.waitForEvent('download', { timeout: 5_000 });
+  await page.click('[data-builder-pleco]');
+  const download = await downloadPromise;
+  const filename = download.suggestedFilename();
+  if (!filename.startsWith('shuwu-') || !filename.endsWith('.txt')) {
+    throw new Error('unexpected download filename: ' + filename);
+  }
+});
+
+test('builder Anki .apkg download works (loads sql.js + jszip)', async ({ page }) => {
+  test.setTimeout(30_000); // sql.js wasm + jszip CDN can be slow first time
+  await page.goto('/pages/exports/');
+  await page.waitForSelector('.builder-tag-chip', { timeout: 5_000 });
+  await page.waitForTimeout(150);
+
+  // Narrow to a small set so the .apkg build is fast.
+  await page.evaluate(() => {
+    document.querySelectorAll('[data-builder-type]').forEach(cb => {
+      if (cb.dataset.builderType !== 'character') {
+        cb.checked = false;
+        cb.dispatchEvent(new Event('change', { bubbles: true }));
+      }
+    });
+    const max = document.querySelector('[data-builder-hsk-max]');
+    max.value = '1';
+    max.dispatchEvent(new Event('change', { bubbles: true }));
+  });
+  await page.waitForTimeout(120);
+
+  const downloadPromise = page.waitForEvent('download', { timeout: 25_000 });
+  await page.click('[data-builder-anki]');
+  const download = await downloadPromise;
+  const filename = download.suggestedFilename();
+  if (!filename.startsWith('shuwu-') || !filename.endsWith('.apkg')) {
+    throw new Error('unexpected download filename: ' + filename);
   }
 });
 

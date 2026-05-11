@@ -5813,10 +5813,21 @@ html[data-theme="dark"] .map-wrapper { filter: brightness(0.92) saturate(0.9); }
   transition: color var(--t-base), border-color var(--t-base), background var(--t-base);
 }
 .slice-card-btn:hover { color: var(--ink); border-color: var(--ochre); background: var(--papyrus-2); }
-.slice-card-btn--anki { border-color: color-mix(in srgb, var(--red) 35%, var(--rule)); color: var(--red); }
-.slice-card-btn--anki:hover { background: color-mix(in srgb, var(--red) 8%, transparent); border-color: var(--red); }
-.slice-card-btn--pleco { border-color: color-mix(in srgb, var(--ochre) 35%, var(--rule)); color: var(--ochre); }
-.slice-card-btn--pleco:hover { background: color-mix(in srgb, var(--ochre) 10%, transparent); border-color: var(--ochre); }
+/* Pleco-primary: filled red, the headline action. Anki secondary:
+   outlined ochre, available but visually quieter. */
+.slice-card-btn--pleco {
+  background: var(--red);
+  border-color: var(--red);
+  color: var(--papyrus);
+  font-weight: 500;
+}
+.slice-card-btn--pleco:hover {
+  background: color-mix(in srgb, var(--red) 88%, var(--ink));
+  border-color: color-mix(in srgb, var(--red) 88%, var(--ink));
+  color: var(--papyrus);
+}
+.slice-card-btn--anki { border-color: color-mix(in srgb, var(--ochre) 40%, var(--rule)); color: var(--ochre); }
+.slice-card-btn--anki:hover { background: color-mix(in srgb, var(--ochre) 10%, transparent); border-color: var(--ochre); color: var(--ochre); }
 
 /* Dimension-specific accent: intent decks get a subtle red left rule
    to mark them as the curated/featured tier; tag decks get a softer
@@ -5824,6 +5835,236 @@ html[data-theme="dark"] .map-wrapper { filter: brightness(0.92) saturate(0.9); }
 .slice-card[data-dimension="intent"] { border-left: 3px solid var(--red); padding-left: calc(1.1rem - 2px); }
 .slice-card[data-dimension="hsk-ladder"] { border-left: 3px solid var(--ochre); padding-left: calc(1.1rem - 2px); }
 .slice-card[data-dimension="tag"] { border-left: 3px solid var(--rule-2); padding-left: calc(1.1rem - 2px); }
+
+/* ── Custom deck builder ────────────────────────────────
+   Two-column layout on desktop (filters left, result right), stacks on
+   mobile. Filters group into fieldsets with a clear visual hierarchy:
+   type checkboxes, HSK range, tag chips, search. The result panel shows
+   live count + suggested deck name + two action buttons (Pleco primary,
+   Anki secondary), and a status line for async build progress. */
+.builder {
+  display: grid;
+  grid-template-columns: minmax(0, 1.4fr) minmax(0, 1fr);
+  gap: 1.6rem;
+  margin-bottom: 1.6rem;
+  border: 1px solid var(--rule);
+  border-radius: var(--radius-lg, 8px);
+  background: var(--papyrus);
+  padding: 1.4rem 1.5rem;
+}
+@media (max-width: 760px) {
+  .builder { grid-template-columns: 1fr; padding: 1.1rem; gap: 1.2rem; }
+}
+
+.builder-filters {
+  display: flex;
+  flex-direction: column;
+  gap: 1.25rem;
+}
+.builder-fieldset {
+  border: none;
+  padding: 0;
+  margin: 0;
+}
+.builder-fieldset > legend {
+  font-family: var(--font-mono);
+  font-size: 0.7rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--ink-4);
+  margin-bottom: 0.55rem;
+  padding: 0;
+}
+
+.builder-checks {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: 0.45rem 1rem;
+}
+.builder-check {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  font-size: var(--fs-sm);
+  color: var(--ink-2);
+  cursor: pointer;
+  user-select: none;
+}
+.builder-check input { accent-color: var(--red); }
+.builder-check-count {
+  font-family: var(--font-mono);
+  font-size: 0.68rem;
+  color: var(--ink-5);
+  margin-left: auto;
+  padding-left: 0.4rem;
+}
+
+.builder-hsk {
+  display: flex;
+  flex-direction: column;
+  gap: 0.55rem;
+}
+.builder-hsk-range {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.55rem;
+}
+.builder-hsk-arrow {
+  font-family: var(--font-mono);
+  color: var(--ink-5);
+  font-size: 0.9rem;
+}
+.builder-hsk select {
+  font: inherit;
+  font-size: var(--fs-sm);
+  padding: 0.3rem 0.5rem;
+  border: 1px solid var(--rule);
+  border-radius: var(--radius-sm, 4px);
+  background: var(--papyrus-2);
+  color: var(--ink-2);
+  min-width: 5.2rem;
+}
+.builder-hsk-unknown {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  font-size: var(--fs-sm);
+  color: var(--ink-4);
+}
+.builder-hsk-unknown input { accent-color: var(--red); }
+
+.builder-tag-chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+}
+.builder-tag-chip {
+  appearance: none;
+  font: inherit;
+  font-size: 0.78rem;
+  padding: 0.22rem 0.65rem;
+  border: 1px solid var(--rule);
+  border-radius: 99px;
+  background: var(--papyrus-2);
+  color: var(--ink-3);
+  cursor: pointer;
+  transition: background var(--t-base), color var(--t-base), border-color var(--t-base);
+}
+.builder-tag-chip:hover { border-color: var(--ochre); color: var(--ink); }
+.builder-tag-chip.is-on {
+  background: var(--ochre);
+  color: var(--papyrus);
+  border-color: var(--ochre);
+}
+
+.builder-search {
+  width: 100%;
+  font: inherit;
+  font-size: var(--fs-sm);
+  padding: 0.4rem 0.7rem;
+  border: 1px solid var(--rule);
+  border-radius: var(--radius-sm, 4px);
+  background: var(--papyrus-2);
+  color: var(--ink-2);
+}
+.builder-search:focus { outline: 2px solid color-mix(in srgb, var(--ochre) 50%, transparent); outline-offset: -1px; }
+
+.builder-result {
+  display: flex;
+  flex-direction: column;
+  padding: 1.25rem 1.2rem 1.1rem;
+  background: var(--papyrus-2);
+  border: 1px solid var(--rule);
+  border-radius: var(--radius-md, 6px);
+  min-height: 220px;
+  position: relative;
+}
+.builder-result-summary {
+  display: flex;
+  align-items: baseline;
+  gap: 0.45rem;
+  margin-bottom: 0.35rem;
+}
+.builder-result-count {
+  font-family: var(--font-cn-display, var(--font-cn));
+  font-size: 2.4rem;
+  font-weight: 600;
+  color: var(--red);
+  line-height: 1;
+  font-variant-numeric: tabular-nums;
+}
+.builder-result-count-label {
+  font-family: var(--font-mono);
+  font-size: 0.7rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--ink-5);
+}
+.builder-result-name {
+  font-size: var(--fs-sm);
+  color: var(--ink-3);
+  line-height: 1.45;
+  margin: 0 0 1.2rem;
+  word-break: break-word;
+  min-height: 2.5em;
+}
+
+.builder-result-actions {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  margin-top: auto;
+}
+.builder-btn {
+  appearance: none;
+  display: block;
+  text-align: center;
+  padding: 0.65rem 0.9rem;
+  font: inherit;
+  font-size: var(--fs-base);
+  font-weight: 500;
+  border: 1px solid var(--rule);
+  border-radius: var(--radius-md, 6px);
+  cursor: pointer;
+  transition: background var(--t-base), border-color var(--t-base), color var(--t-base), opacity var(--t-base);
+}
+.builder-btn:disabled { opacity: 0.4; cursor: not-allowed; }
+.builder-btn--pleco {
+  background: var(--red);
+  border-color: var(--red);
+  color: var(--papyrus);
+}
+.builder-btn--pleco:hover:not(:disabled) {
+  background: color-mix(in srgb, var(--red) 88%, var(--ink));
+  border-color: color-mix(in srgb, var(--red) 88%, var(--ink));
+}
+.builder-btn--anki {
+  background: transparent;
+  color: var(--ochre);
+  border-color: color-mix(in srgb, var(--ochre) 55%, var(--rule));
+}
+.builder-btn--anki:hover:not(:disabled) {
+  background: color-mix(in srgb, var(--ochre) 10%, transparent);
+  border-color: var(--ochre);
+}
+
+.builder-result-status {
+  margin: 0.7rem 0 0;
+  font-size: 0.78rem;
+  color: var(--ink-4);
+  line-height: 1.5;
+  min-height: 1.4em;
+}
+.builder-result-status[data-kind="ok"] { color: var(--ochre); }
+.builder-result-status[data-kind="err"] { color: var(--red); }
+.builder-result-status[data-kind="pending"] { color: var(--ink-5); font-style: italic; }
+
+.builder-empty {
+  font-size: var(--fs-sm);
+  color: var(--ink-5);
+  font-style: italic;
+  margin: 0;
+}
 
 /* ── Per-page Pleco/Anki export buttons (.page-export) ─────────────────── */
 /* Sits at the bottom of the entry, just above .page-footer. By the time a
