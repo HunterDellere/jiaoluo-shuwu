@@ -53,9 +53,13 @@
     <div class="toc-divider"></div>
     <span class="toc-label">On this page</span>
     <ul class="toc-list">
-      <li><a href="#pleco"><span class="toc-cn">百科</span><span class="toc-py">bǎikē</span> Pleco</a></li>
-      <li><a href="#anki"><span class="toc-cn">记忆</span><span class="toc-py">jìyì</span> Anki</a></li>
-      <li><a href="#how-to"><span class="toc-cn">用法</span><span class="toc-py">yòngfǎ</span> How to Import</a></li>
+      <li><a href="#intent"><span class="toc-cn">推荐</span><span class="toc-py">tuījiàn</span> Featured decks</a></li>
+      <li><a href="#hsk-ladder"><span class="toc-cn">阶梯</span><span class="toc-py">jiētī</span> HSK ladder</a></li>
+      <li><a href="#hsk"><span class="toc-cn">水平</span><span class="toc-py">shuǐpíng</span> By HSK level</a></li>
+      <li><a href="#type"><span class="toc-cn">类型</span><span class="toc-py">lèixíng</span> By type</a></li>
+      <li><a href="#tag"><span class="toc-cn">主题</span><span class="toc-py">zhǔtí</span> By topic / tag</a></li>
+      <li><a href="#global"><span class="toc-cn">全套</span><span class="toc-py">quántào</span> Global decks</a></li>
+      <li><a href="#how-to"><span class="toc-cn">用法</span><span class="toc-py">yòngfǎ</span> How to import</a></li>
     </ul>
   </aside>
 
@@ -68,25 +72,64 @@
         <span class="today-hero-title-py">dǎochū</span>
         <span class="today-hero-title-en">Pleco &amp; Anki exports</span>
       </h1>
-      <p class="topic-hero-desc">Every entry in the corpus, packaged for the two flashcard apps Chinese learners actually use. Regenerated on every build, so the files always match what's on the site.</p>
+      <p class="topic-hero-desc">Every entry in the corpus, sliced into targeted decks. Pick the slice that matches what you're working on — a survival kit for week one, a Buddhist reader, the cumulative HSK ladder, or just one pillar of the corpus. Regenerated on every build.</p>
     </header>
 
-    <span class="section-anchor" id="pleco"></span>
+    <span class="section-anchor" id="intent"></span>
     <div class="section-head">
-      <span class="sh-cn">百科</span>
-      <span class="sh-py">bǎikē</span>
-      <span class="sh-en">Pleco — tab-separated cards</span>
+      <span class="sh-cn">推荐</span>
+      <span class="sh-py">tuījiàn</span>
+      <span class="sh-en">Featured learning decks</span>
     </div>
-    <div class="exports-grid" data-exports-format="pleco"></div>
+    <p class="exports-format-sub">Hand-curated for concrete learning goals. Each deck pulls from across the corpus.</p>
+    <div data-slice-section="intent"></div>
 
-    <span class="section-anchor" id="anki"></span>
+    <span class="section-anchor" id="hsk-ladder"></span>
     <div class="section-head">
-      <span class="sh-cn">记忆</span>
-      <span class="sh-py">jìyì</span>
-      <span class="sh-en">Anki — TSV and .apkg decks</span>
+      <span class="sh-cn">阶梯</span>
+      <span class="sh-py">jiētī</span>
+      <span class="sh-en">HSK ladder — cumulative</span>
     </div>
-    <div class="exports-grid" data-exports-format="anki-tsv"></div>
+    <p class="exports-format-sub">Climb one rung at a time. HSK 1 first, then everything through HSK 2, and so on. Best for steady progression.</p>
+    <div data-slice-section="hsk-ladder"></div>
+
+    <span class="section-anchor" id="hsk"></span>
+    <div class="section-head">
+      <span class="sh-cn">水平</span>
+      <span class="sh-py">shuǐpíng</span>
+      <span class="sh-en">By single HSK level</span>
+    </div>
+    <p class="exports-format-sub">Just one level — useful for plateau review or filling a specific gap.</p>
+    <div data-slice-section="hsk"></div>
+
+    <span class="section-anchor" id="type"></span>
+    <div class="section-head">
+      <span class="sh-cn">类型</span>
+      <span class="sh-py">lèixíng</span>
+      <span class="sh-en">By entry type</span>
+    </div>
+    <p class="exports-format-sub">Characters, vocabulary, chengyu, or grammar — one pillar at a time.</p>
+    <div data-slice-section="type"></div>
+
+    <span class="section-anchor" id="tag"></span>
+    <div class="section-head">
+      <span class="sh-cn">主题</span>
+      <span class="sh-py">zhǔtí</span>
+      <span class="sh-en">By topic and tag</span>
+    </div>
+    <p class="exports-format-sub">Semantic chips — emotion, time, family, modal verbs, classical Chinese, Buddhism, Daoism, and more.</p>
+    <div data-slice-section="tag"></div>
+
+    <span class="section-anchor" id="global"></span>
+    <div class="section-head">
+      <span class="sh-cn">全套</span>
+      <span class="sh-py">quántào</span>
+      <span class="sh-en">Global decks — everything in one file</span>
+    </div>
+    <p class="exports-format-sub">The full corpus packaged three ways. Use these only if you want to import everything at once and filter inside Anki/Pleco yourself.</p>
     <div class="exports-grid" data-exports-format="anki-apkg"></div>
+    <div class="exports-grid" data-exports-format="anki-tsv"></div>
+    <div class="exports-grid" data-exports-format="pleco"></div>
 
     <span class="section-anchor" id="how-to"></span>
     <div class="section-head">
@@ -119,7 +162,7 @@
 <script src="../../scripts/streak.js?v=2" defer></script>
 <script src="../../scripts/toc-scroll.js"></script>
 <script src="../../scripts/enhance.js" defer></script>
-<script src="exports.js?v=1" defer></script>
+<script src="exports.js?v=2" defer></script>
 
 </body>
 </html>

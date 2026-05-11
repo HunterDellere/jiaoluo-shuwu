@@ -1,13 +1,46 @@
 import { test } from '@playwright/test';
 import { mkdirSync } from 'node:fs';
+import path from 'node:path';
+import { fileURLToPath } from 'node:url';
 
-mkdirSync('test-results', { recursive: true });
+const REPO_ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '../..');
+const OUT = path.join(REPO_ROOT, 'test-results');
+mkdirSync(OUT, { recursive: true });
+const out = (n) => path.join(OUT, n);
 
-test('exports page screenshot', async ({ page }) => {
+test('exports page screenshots', async ({ page }) => {
   await page.goto('/pages/exports/');
-  await page.waitForSelector('.export-card', { timeout: 5_000 });
+  await page.waitForSelector('.slice-card', { timeout: 5_000 });
   await page.waitForTimeout(400);
-  await page.screenshot({ path: 'test-results/exports-page.png', fullPage: true });
+
+  await page.screenshot({ path: out('exports-page.png'), fullPage: true });
+
+  const intent = page.locator('[data-slice-section="intent"]');
+  await intent.scrollIntoViewIfNeeded();
+  await page.waitForTimeout(150);
+  await intent.screenshot({ path: out('exports-intent.png') });
+
+  const firstCard = page.locator('.slice-card').first();
+  await firstCard.screenshot({ path: out('exports-slice-card.png') });
+
+  const ladder = page.locator('[data-slice-section="hsk-ladder"]');
+  await ladder.scrollIntoViewIfNeeded();
+  await page.waitForTimeout(150);
+  await ladder.screenshot({ path: out('exports-hsk-ladder.png') });
+
+  const counts = await page.evaluate(() => {
+    const sections = ['intent', 'hsk-ladder', 'hsk', 'type', 'tag'];
+    const out = {};
+    for (const s of sections) {
+      const el = document.querySelector(`[data-slice-section="${s}"]`);
+      out[s] = el ? el.querySelectorAll('.slice-card').length : 0;
+    }
+    out.legacy = document.querySelectorAll('.export-card').length;
+    return out;
+  });
+  for (const k of Object.keys(counts)) {
+    if (counts[k] === 0) throw new Error(`section "${k}" rendered 0 cards`);
+  }
 });
 
 test('per-page export buttons sit above the page footer', async ({ page }) => {
@@ -15,9 +48,6 @@ test('per-page export buttons sit above the page footer', async ({ page }) => {
   await page.waitForSelector('.page-export', { timeout: 5_000 });
   await page.waitForTimeout(300);
 
-  // Verify positioning: .page-export should be a previous sibling of
-  // .page-footer (or anywhere above it in document order, but adjacent
-  // is what we want here).
   const layout = await page.evaluate(() => {
     const exp = document.querySelector('.page-export');
     const foot = document.querySelector('.page-footer');
@@ -30,23 +60,5 @@ test('per-page export buttons sit above the page footer', async ({ page }) => {
   });
   if (!(layout.expBeforeFooter && layout.adjacentBefore)) {
     throw new Error('page-export is not directly before .page-footer: ' + JSON.stringify(layout));
-  }
-
-  // Screenshot the export bar + footer together so the bottom-of-page
-  // placement is visible.
-  const exp = page.locator('.page-export');
-  await exp.scrollIntoViewIfNeeded();
-  const expBox = await exp.boundingBox();
-  const footBox = await page.locator('.page-footer').boundingBox();
-  if (expBox && footBox) {
-    await page.screenshot({
-      path: 'test-results/per-page-export.png',
-      clip: {
-        x: Math.max(0, expBox.x - 16),
-        y: Math.max(0, expBox.y - 30),
-        width: Math.max(expBox.width, footBox.width) + 32,
-        height: (footBox.y + footBox.height) - expBox.y + 50
-      }
-    });
   }
 });
