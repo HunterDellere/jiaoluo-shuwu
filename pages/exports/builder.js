@@ -119,46 +119,40 @@
           '<fieldset class="builder-fieldset">' +
             '<legend>HSK level</legend>' +
             '<div class="builder-hsk">' +
-              '<label class="builder-hsk-row">From <select data-builder-hsk-min>' +
-                '<option value="1">HSK 1</option><option value="2">HSK 2</option>' +
-                '<option value="3">HSK 3</option><option value="4">HSK 4</option>' +
-                '<option value="5">HSK 5</option><option value="6">HSK 6</option>' +
-              '</select></label>' +
-              '<label class="builder-hsk-row">to <select data-builder-hsk-max>' +
-                '<option value="1">HSK 1</option><option value="2">HSK 2</option>' +
-                '<option value="3">HSK 3</option><option value="4">HSK 4</option>' +
-                '<option value="5">HSK 5</option><option value="6">HSK 6</option>' +
-              '</select></label>' +
-              '<label class="builder-hsk-unknown"><input type="checkbox" data-builder-hsk-unknown checked> include unleveled</label>' +
+              '<div class="builder-hsk-range">' +
+                '<select data-builder-hsk-min aria-label="HSK from">' +
+                  '<option value="1">HSK 1</option><option value="2">HSK 2</option>' +
+                  '<option value="3">HSK 3</option><option value="4">HSK 4</option>' +
+                  '<option value="5">HSK 5</option><option value="6">HSK 6</option>' +
+                '</select>' +
+                '<span class="builder-hsk-arrow" aria-hidden="true">→</span>' +
+                '<select data-builder-hsk-max aria-label="HSK to">' +
+                  '<option value="1">HSK 1</option><option value="2">HSK 2</option>' +
+                  '<option value="3">HSK 3</option><option value="4">HSK 4</option>' +
+                  '<option value="5">HSK 5</option><option value="6">HSK 6</option>' +
+                '</select>' +
+              '</div>' +
+              '<label class="builder-hsk-unknown"><input type="checkbox" data-builder-hsk-unknown checked> include unleveled cards</label>' +
             '</div>' +
           '</fieldset>' +
           '<fieldset class="builder-fieldset">' +
-            '<legend>Tags <span class="builder-fieldset-hint">— any selected (OR)</span></legend>' +
+            '<legend>Topics</legend>' +
             '<div class="builder-tag-chips" data-builder-tags></div>' +
           '</fieldset>' +
           '<fieldset class="builder-fieldset">' +
-            '<legend>Search <span class="builder-fieldset-hint">— hanzi, pinyin, English</span></legend>' +
-            '<input type="search" class="builder-search" data-builder-search placeholder="e.g. fate, 心, qing">' +
+            '<legend>Search</legend>' +
+            '<input type="search" class="builder-search" data-builder-search placeholder="hanzi, pinyin, or English">' +
           '</fieldset>' +
         '</div>' +
         '<div class="builder-result">' +
-          '<div class="builder-result-name">' +
-            '<span class="builder-result-label">Your deck</span>' +
-            '<strong class="builder-result-title" data-builder-name>—</strong>' +
-          '</div>' +
-          '<div class="builder-result-stats">' +
+          '<div class="builder-result-summary">' +
             '<span class="builder-result-count" data-builder-count>0</span>' +
-            '<span class="builder-result-count-label">cards selected</span>' +
+            '<span class="builder-result-count-label">cards</span>' +
           '</div>' +
+          '<div class="builder-result-name" data-builder-name>—</div>' +
           '<div class="builder-result-actions">' +
-            '<button type="button" class="builder-btn builder-btn--pleco" data-builder-pleco disabled>' +
-              '<span class="builder-btn-label">Download Pleco .txt</span>' +
-              '<span class="builder-btn-sub">instant · no dependencies</span>' +
-            '</button>' +
-            '<button type="button" class="builder-btn builder-btn--anki" data-builder-anki disabled>' +
-              '<span class="builder-btn-label">Build Anki .apkg</span>' +
-              '<span class="builder-btn-sub">~1s · loads sql.js (700KB)</span>' +
-            '</button>' +
+            '<button type="button" class="builder-btn builder-btn--pleco" data-builder-pleco disabled>Download for Pleco</button>' +
+            '<button type="button" class="builder-btn builder-btn--anki" data-builder-anki disabled>Download for Anki</button>' +
           '</div>' +
           '<p class="builder-result-status" data-builder-status></p>' +
         '</div>' +
@@ -291,23 +285,22 @@
   function onDownloadPleco() {
     var cards = filteredCards();
     if (cards.length === 0) return;
-    setStatus('Building Pleco TSV…', 'pending');
+    setStatus('', '');
     import('../../scripts/anki-apkg-browser.mjs').then(function (mod) {
       var tsv = mod.buildPlecoTsv(cards);
       var blob = new Blob([tsv], { type: 'text/tab-separated-values;charset=utf-8' });
       mod.downloadBlob(blob, 'shuwu-' + suggestedSlug() + '.txt');
-      setStatus('Pleco file downloaded. Open Pleco → Settings → Flashcards → Import → set fields to Simplified, Pinyin, Definition (Tab separator).', 'ok');
+      setStatus('Open in Pleco → Settings → Flashcards → Import (tab-separated).', 'ok');
     }).catch(function (err) {
-      setStatus('Pleco build failed: ' + err.message, 'err');
+      setStatus('Download failed. Try again.', 'err');
     });
   }
 
   function onBuildAnki() {
     var cards = filteredCards();
     if (cards.length === 0) return;
-    setStatus('Loading sql.js + jszip (one-time, ~700KB)…', 'pending');
+    setStatus('Building deck…', 'pending');
     import('../../scripts/anki-apkg-browser.mjs').then(function (mod) {
-      setStatus('Building .apkg (' + cards.length + ' cards)…', 'pending');
       var deckName = '角落書屋 · ' + suggestedName();
       var slug = suggestedSlug();
       return mod.buildApkgInBrowser({
@@ -316,10 +309,10 @@
         extraTags: ['custom-build', slug],
       }).then(function (blob) {
         mod.downloadBlob(blob, 'shuwu-' + slug + '.apkg');
-        setStatus('Anki deck downloaded. Double-click the .apkg to import, or use File → Import.', 'ok');
+        setStatus('Double-click the .apkg to import into Anki.', 'ok');
       });
     }).catch(function (err) {
-      setStatus('Anki build failed: ' + err.message, 'err');
+      setStatus('Build failed. Try again.', 'err');
     });
   }
 
@@ -327,7 +320,6 @@
 
   function boot() {
     renderShell();
-    setStatus('Loading corpus…', 'pending');
     Promise.all([
       fetch('../../data/exports/cards.json').then(function (r) { return r.json(); }),
       fetch('../../data/exports/manifest.json').then(function (r) { return r.json(); }),
@@ -344,8 +336,8 @@
       renderTags();
       renderResult();
       setStatus('', '');
-    }).catch(function (err) {
-      setStatus('Failed to load corpus: ' + err.message, 'err');
+    }).catch(function () {
+      setStatus('Couldn’t load the corpus. Try refreshing.', 'err');
     });
   }
 
