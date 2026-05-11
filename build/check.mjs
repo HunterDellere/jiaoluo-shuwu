@@ -281,6 +281,30 @@ for (const slug of pageSlugs) {
   }
 }
 
+// Stage 5: OG PNG presence — every complete entry must have a 1200×630 PNG
+// on disk; meta tags reference these URLs so a missing file = 404 unfurl.
+const ogPngBase = join(ROOT, 'assets', 'og');
+let ogChecked = 0;
+try {
+  const entriesJson = JSON.parse(readFileSync(join(ROOT, 'data', 'entries.json'), 'utf8'));
+  for (const e of entriesJson) {
+    if (e.status !== 'complete') continue;
+    const slug = basename(e.path, '.html');
+    const png = join(ogPngBase, e.category, `${slug}.png`);
+    try {
+      statSync(png);
+      ogChecked++;
+    } catch {
+      fail(png, `missing OG PNG for complete entry ${e.path} — run \`npm run build\` to regenerate`);
+    }
+  }
+  // Homepage OG
+  try { statSync(join(ROOT, 'assets', 'og-image.png')); }
+  catch { fail(join(ROOT, 'assets', 'og-image.png'), 'missing homepage OG PNG'); }
+} catch (err) {
+  fail(join(ROOT, 'data', 'entries.json'), `og check skipped: ${err.message}`);
+}
+
 // ── report ──────────────────────────────────────────────────────────────────
 
 if (EMIT) {
@@ -299,7 +323,7 @@ if (EMIT) {
 }
 
 if (errors.length === 0) {
-  console.log(`✓ check.mjs: ${pageInfo.size} pages, ${contentSlugs.size} content sources — all invariants hold, all links resolve.`);
+  console.log(`✓ check.mjs: ${pageInfo.size} pages, ${contentSlugs.size} content sources, ${ogChecked} OG PNGs — all invariants hold, all links resolve.`);
 } else {
   console.error(`\n${errors.length} check error(s):\n`);
   for (const e of errors) console.error('✗ ' + e + '\n');

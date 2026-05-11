@@ -1,4 +1,5 @@
 .DS_Store
+.claude/
 local/
 node_modules/
 # Playwright artifacts (screenshots, traces, reports) from `npm run test:e2e`.

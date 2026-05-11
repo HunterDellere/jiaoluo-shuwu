@@ -20,7 +20,7 @@ import { renderHskBody } from './lib/hsk.mjs';
 import { injectStrokeOrder, buildLinkMap, autoLinkBody, addPinyinAudio, injectInlineAudio, buildPageFooter, renderSourcesHtml, ensureMainContentId, buildChipLinkMap, linkifyAdjChips, injectPinyinIndexChip, transformSutraPassages } from './lib/augment.mjs';
 import { buildAdjIndex } from './lib/adj-index.mjs';
 import { renderFamilyContent, renderFamilyCrosslinks } from './lib/family-render.mjs';
-import { renderOgSvg, categoryFaviconDataUri } from './lib/og.mjs';
+import { renderOgSvg, renderHomepageOgSvg, rasterizeOgSvg, ogContentHash, ogAltText, categoryFaviconDataUri } from './lib/og.mjs';
 import { emitPinyinPages, buildPinyinIndex } from './lib/pinyin-index.mjs';
 import { buildComponentIndex, renderAppearsInHtml } from './lib/component-index.mjs';
 import { injectHeroStrokes, buildSimpTradMap } from './lib/stroke.mjs';
@@ -373,24 +373,39 @@ const LANG_LOCALE = {
 function buildOgTags(fm, slug, category) {
   if (fm.status !== 'complete') return '';
   const url = `${SITE_URL}/pages/${category}/${slug}.html`;
-  const ogImg = `${SITE_URL}/og/${category}/${slug}.svg`;
+  const ogPng = `${SITE_URL}/assets/og/${category}/${slug}.png`;
+  const ogSvg = `${SITE_URL}/og/${category}/${slug}.svg`;
   const title = fm.pageTitle || buildPageTitle(fm);
   const desc = fm.metaDesc || fm.desc || '';
   const primaryLocale = LANG_LOCALE[category] || 'en_US';
   const alternateLocale = primaryLocale === 'zh_CN' ? 'en_US' : 'zh_CN';
+  const altEntry = {
+    category,
+    char: fm.char,
+    title: fm.title,
+    pinyin: fm.pinyin,
+  };
+  const alt = ogAltText(altEntry);
   return [
     `<meta property="og:type" content="article">`,
     `<meta property="og:title" content="${escapeAttr(title)}">`,
     `<meta property="og:description" content="${escapeAttr(desc)}">`,
     `<meta property="og:url" content="${url}">`,
-    `<meta property="og:image" content="${ogImg}">`,
+    `<meta property="og:image" content="${ogPng}">`,
+    `<meta property="og:image:type" content="image/png">`,
+    `<meta property="og:image:width" content="1200">`,
+    `<meta property="og:image:height" content="630">`,
+    `<meta property="og:image:alt" content="${escapeAttr(alt)}">`,
+    `<meta property="og:image" content="${ogSvg}">`,
+    `<meta property="og:image:type" content="image/svg+xml">`,
     `<meta property="og:site_name" content="Jiǎoluò Shūwū · 角落書屋">`,
     `<meta property="og:locale" content="${primaryLocale}">`,
     `<meta property="og:locale:alternate" content="${alternateLocale}">`,
     `<meta name="twitter:card" content="summary_large_image">`,
     `<meta name="twitter:title" content="${escapeAttr(title)}">`,
     `<meta name="twitter:description" content="${escapeAttr(desc)}">`,
-    `<meta name="twitter:image" content="${ogImg}">`,
+    `<meta name="twitter:image" content="${ogPng}">`,
+    `<meta name="twitter:image:alt" content="${escapeAttr(alt)}">`,
   ].join('\n');
 }
 
@@ -1044,19 +1059,91 @@ const rssXml =
   `</rss>\n`;
 writeFileSync(join(ROOT, 'feed.xml'), rssXml, 'utf8');
 
-// Per-entry OG SVG cards
-const ogDir = join(ROOT, 'og');
-mkdirSync(ogDir, { recursive: true });
-let ogWritten = 0;
+// Per-entry OG cards — SVG (fallback) + PNG (primary, 1200×630)
+// The PNG is the primary og:image because most unfurlers (Twitter/X,
+// LinkedIn, iMessage, Slack, WeChat) handle PNG more reliably than SVG.
+// SVG stays as a secondary tag for SVG-friendly clients.
+//
+// PNGs are cached in data/og-manifest.json keyed by content hash of
+// (svg + font corpus) so warm builds skip rasterization when unchanged.
+const ogSvgDir = join(ROOT, 'og');
+const ogPngDir = join(ROOT, 'assets', 'og');
+mkdirSync(ogSvgDir, { recursive: true });
+mkdirSync(ogPngDir, { recursive: true });
+
+const ogManifestPath = join(ROOT, 'data', 'og-manifest.json');
+let ogManifest = {};
+try { ogManifest = JSON.parse(readFileSync(ogManifestPath, 'utf8')); } catch { ogManifest = {}; }
+const nextOgManifest = {};
+
+let ogSvgWritten = 0;
+let ogPngWritten = 0;
+let ogPngCached = 0;
+
+// Stage 1: emit SVGs and queue PNG work.
+const pngJobs = [];
 for (const e of entries) {
   if (e.status !== 'complete') continue;
   const slug = basename(e.path, '.html');
   const cat = e.category;
-  const dir = join(ogDir, cat);
-  mkdirSync(dir, { recursive: true });
-  writeFileSync(join(dir, `${slug}.svg`), renderOgSvg(e), 'utf8');
-  ogWritten++;
+
+  const svgDir = join(ogSvgDir, cat);
+  mkdirSync(svgDir, { recursive: true });
+  const svg = renderOgSvg(e);
+  writeFileSync(join(svgDir, `${slug}.svg`), svg, 'utf8');
+  ogSvgWritten++;
+
+  const pngDir = join(ogPngDir, cat);
+  mkdirSync(pngDir, { recursive: true });
+  const pngPath = join(pngDir, `${slug}.png`);
+  const key = `${cat}/${slug}`;
+  const hash = ogContentHash(svg);
+  nextOgManifest[key] = hash;
+  let needsRender = true;
+  try {
+    if (ogManifest[key] === hash) {
+      statSync(pngPath);
+      needsRender = false;
+      ogPngCached++;
+    }
+  } catch { /* missing file — render */ }
+  if (needsRender) pngJobs.push({ svg, pngPath });
 }
+
+// Stage 2: rasterize PNGs in parallel batches to amortize per-call cost.
+// resvg-js is sync per call but Node will let us interleave I/O cleanly
+// via Promise.all on micro-batches.
+const BATCH = 16;
+for (let i = 0; i < pngJobs.length; i += BATCH) {
+  const slice = pngJobs.slice(i, i + BATCH);
+  await Promise.all(slice.map(async (job) => {
+    const png = rasterizeOgSvg(job.svg);
+    writeFileSync(job.pngPath, png);
+    ogPngWritten++;
+  }));
+}
+
+// Homepage OG card — same parchment, brand wordmark, tagline.
+const homepageSvg = renderHomepageOgSvg();
+writeFileSync(join(ROOT, 'assets', 'og-image.svg'), homepageSvg, 'utf8');
+const homepageKey = '__homepage';
+const homepageHash = ogContentHash(homepageSvg);
+nextOgManifest[homepageKey] = homepageHash;
+const homepagePngPath = join(ROOT, 'assets', 'og-image.png');
+let homepageNeeds = true;
+try {
+  if (ogManifest[homepageKey] === homepageHash) {
+    statSync(homepagePngPath);
+    homepageNeeds = false;
+    ogPngCached++;
+  }
+} catch { /* render */ }
+if (homepageNeeds) {
+  writeFileSync(homepagePngPath, rasterizeOgSvg(homepageSvg));
+  ogPngWritten++;
+}
+
+writeFileSync(ogManifestPath, JSON.stringify(nextOgManifest, null, 2) + '\n', 'utf8');
 
 // PWA manifest
 const manifest = {
@@ -1078,7 +1165,7 @@ const manifest = {
 writeFileSync(join(ROOT, 'manifest.webmanifest'), JSON.stringify(manifest, null, 2), 'utf8');
 
 console.log(`\nBuild complete: ${built} pages written, ${pruned} pruned, ${errors} errors.`);
-console.log(`OG cards: ${ogWritten} SVGs generated.`);
+console.log(`OG cards: ${ogSvgWritten} SVGs · ${ogPngWritten} PNGs rasterized · ${ogPngCached} cached.`);
 console.log(`Sitemap: ${contentUrls.length} content + ${pinyinUrls.length} pinyin URLs (sitemap-index).`);
 console.log(`Auto-linked: ${autoLinkCount}/${pending.length} pages.`);
 
