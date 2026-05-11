@@ -372,8 +372,27 @@ body {
 .topnav-today:hover span { transform: translateY(-1px); }
 .topnav-today:focus-visible { outline: 2px solid var(--topnav-accent); outline-offset: 3px; border-radius: var(--radius-xs); }
 
-/* Tighten the gap between Today / Random / Explore so four items don't read
-   as four separate buttons. Theme toggle stays slightly further out. */
+.topnav-exports {
+  font-family: var(--font-mono);
+  font-size: var(--fs-sm);
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--topnav-fg-dim);
+  text-decoration: none;
+  transition: color var(--t-base);
+  display: inline-flex; align-items: center; gap: 0.35rem;
+}
+.topnav-exports span {
+  font-family: var(--font-mono); font-size: var(--fs-lg); color: var(--topnav-accent);
+  display: inline-block; line-height: 1;
+  transition: transform var(--t-base);
+}
+.topnav-exports:hover { color: var(--topnav-fg-bright); }
+.topnav-exports:hover span { transform: translateY(1px); }
+.topnav-exports:focus-visible { outline: 2px solid var(--topnav-accent); outline-offset: 3px; border-radius: var(--radius-xs); }
+
+/* Tighten the gap between Today / Random / Exports / Explore so the items
+   don't read as separate buttons. Theme toggle stays slightly further out. */
 .topnav-right { gap: 1.1rem; }
 .topnav-right .theme-toggle { margin-left: 0.4rem; }
 
