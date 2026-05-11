@@ -267,6 +267,10 @@ function buildMetaComment(fm) {
   for (const k of ['type','char','pinyin','tone','hsk','radical','category','topic','tags','status']) {
     if (fm[k] !== undefined) obj[k] = fm[k];
   }
+  // Carousel-exporter overrides — read by /pages/share/ if present. Embedding
+  // them in the meta comment means share.js can pull authored hooks without
+  // a separate fetch to entries.json (which doesn't carry per-page share blocks).
+  if (fm.share) obj.share = fm.share;
   return JSON.stringify(obj);
 }
 

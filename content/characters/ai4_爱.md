@@ -19,6 +19,14 @@ radical: '爫'
 content_review: 'verified'
 content_sources:
   - 'Unihan'
+share:
+  hook: "Why does the traditional 愛 contain a heart, and what changed when simplification took it out?"
+  beats:
+    - "愛 stacks 爫 (a hand reaching) over 心 (heart) over 夂 (a slow walking foot). Love as a heart carried forward by deliberate steps, not a static state."
+    - "Simplified 爱 strips out 心 entirely. The hand still reaches, the foot still walks, but the heart is gone."
+    - "没有心的爱, 'love without a heart', became a quiet complaint in Taiwan and Hong Kong when simplified script spread."
+    - "我爱你 stays heavy in Chinese. Reserved for deep romantic love, close family, your homeland. For pizza, use 喜欢."
+  cta: "One character a week, written without flair. jiaoshoo.com"
 ---
 
 

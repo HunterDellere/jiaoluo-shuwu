@@ -6409,6 +6409,24 @@ a.pf-btn-carousel:focus-visible, button.pf-btn-carousel:focus-visible {
   width: max-content;
 }
 .share-source-link:hover { text-decoration: underline; }
+.share-source-mode {
+  font-family: var(--font-mono);
+  font-size: 0.7rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--ink-5);
+  width: max-content;
+  padding: 0.15rem 0.5rem;
+  border-radius: var(--radius-sm);
+  background: var(--papyrus);
+  border: 1px solid var(--rule-2);
+}
+.share-source-mode[data-kind="authored"] {
+  color: var(--papyrus);
+  background: var(--ink);
+  border-color: var(--ink);
+}
+.share-source-mode:empty { display: none; }
 
 .share-controls {
   display: grid; gap: 1rem;
@@ -6464,6 +6482,7 @@ a.pf-btn-carousel:focus-visible, button.pf-btn-carousel:focus-visible {
 }
 .share-format-ratio--square   { width: 14px; height: 14px; }
 .share-format-ratio--portrait { width: 12px; height: 15px; }
+.share-format-ratio--xhs      { width: 12px; height: 16px; }
 .share-format-ratio--story    { width: 10px; height: 17px; }
 
 .share-actions { display: flex; flex-wrap: wrap; gap: 0.5rem; }
@@ -6513,7 +6532,8 @@ a.pf-btn-carousel:focus-visible, button.pf-btn-carousel:focus-visible {
    canvas's own width/height attrs preserve the export resolution; CSS just
    constrains display height so previews don't tower. */
 .share-slide-card[data-format="story"] .share-slide-canvas,
-.share-slide-card[data-format="portrait"] .share-slide-canvas {
+.share-slide-card[data-format="portrait"] .share-slide-canvas,
+.share-slide-card[data-format="xhs"] .share-slide-canvas {
   max-height: 70vh;
   width: auto;
   margin: 0 auto;

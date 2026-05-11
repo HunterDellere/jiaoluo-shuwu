@@ -32,7 +32,7 @@ test.describe('Share — carousel builder', () => {
     await page.goto('/pages/share/?page=' + encodeURIComponent(SOURCE_PATH));
     await expect(page.locator('[data-share-status]')).toContainText(/slides rendered/i, { timeout: 8000 });
 
-    await page.locator('[data-share-format="story"]').click();
+    await page.locator('[data-share-platform="story"]').click();
     await expect(page.locator('[data-share-status]')).toContainText(/slides rendered/i, { timeout: 8000 });
     const first = page.locator('.share-slide-canvas').first();
     await expect(first).toHaveAttribute('width', '1080');
@@ -49,6 +49,39 @@ test.describe('Share — carousel builder', () => {
   test('shows empty state when no ?page= query', async ({ page }) => {
     await page.goto('/pages/share/');
     await expect(page.locator('[data-share-empty]')).toBeVisible();
+  });
+
+  test('detects authored share frontmatter and labels the source as "authored"', async ({ page }) => {
+    // ai4_爱.md ships with a curated share: { hook, beats, cta } block.
+    await page.goto('/pages/share/?page=' + encodeURIComponent(SOURCE_PATH));
+    await expect(page.locator('[data-share-status]')).toContainText(/slides rendered/i, { timeout: 8000 });
+    const mode = page.locator('[data-share-source-mode]');
+    await expect(mode).toHaveText(/authored/i);
+    await expect(mode).toHaveAttribute('data-kind', 'authored');
+  });
+
+  test('falls back to auto-extracted content for pages without a share block', async ({ page }) => {
+    // bai2_白.md does not author a share block; should auto-extract.
+    await page.goto('/pages/share/?page=' + encodeURIComponent('pages/characters/bai2_白.html'));
+    await expect(page.locator('[data-share-status]')).toContainText(/slides rendered/i, { timeout: 8000 });
+    await expect(page.locator('[data-share-source-mode]')).toHaveAttribute('data-kind', 'auto');
+  });
+
+  test('Xiaohongshu and LinkedIn platforms render at expected dimensions', async ({ page }) => {
+    await page.goto('/pages/share/?page=' + encodeURIComponent(SOURCE_PATH));
+    await expect(page.locator('[data-share-status]')).toContainText(/slides rendered/i, { timeout: 8000 });
+
+    await page.locator('[data-share-platform="xhs"]').click();
+    await expect(page.locator('[data-share-status]')).toContainText(/slides rendered/i, { timeout: 8000 });
+    let first = page.locator('.share-slide-canvas').first();
+    await expect(first).toHaveAttribute('width', '1080');
+    await expect(first).toHaveAttribute('height', '1440');
+
+    await page.locator('[data-share-platform="linkedin"]').click();
+    await expect(page.locator('[data-share-status]')).toContainText(/slides rendered/i, { timeout: 8000 });
+    first = page.locator('.share-slide-canvas').first();
+    await expect(first).toHaveAttribute('width', '1080');
+    await expect(first).toHaveAttribute('height', '1350');
   });
 });
 
