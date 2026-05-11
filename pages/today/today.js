@@ -21,46 +21,13 @@
 (function () {
   'use strict';
 
-  // ── Date helpers ────────────────────────────────────────────────────────
-  // todayUtcKey is used for picking content (so every visitor sees the same
-  // entries on the same UTC calendar day, regardless of timezone). The
-  // streak counter uses local-day keying (handled by scripts/streak.js) so
-  // a streak follows the user's perception of "a day," not UTC.
+  // ── Shared daily-pick module ────────────────────────────────────────────
+  // Seed + pool + thread logic lives in scripts/daily-pick.js so the
+  // homepage and this page can never disagree on what "today" looks like.
+  // The streak counter still uses local-day keying (via scripts/streak.js)
+  // so a streak follows the user's perception of "a day," not UTC.
+  var daily = window.shuwoDaily;
   function pad2(n) { return String(n).padStart(2, '0'); }
-  function todayUtcKey() {
-    var d = new Date();
-    return d.getUTCFullYear() + '-' + pad2(d.getUTCMonth() + 1) + '-' + pad2(d.getUTCDate());
-  }
-
-  // FNV-1a 32-bit hash → integer seed
-  function seedFromString(str) {
-    var h = 2166136261;
-    for (var i = 0; i < str.length; i++) {
-      h ^= str.charCodeAt(i);
-      h = Math.imul(h, 16777619);
-    }
-    return h >>> 0;
-  }
-
-  // mulberry32 — small fast deterministic PRNG
-  function mulberry32(seed) {
-    var s = seed >>> 0;
-    return function () {
-      s |= 0; s = s + 0x6D2B79F5 | 0;
-      var t = Math.imul(s ^ s >>> 15, 1 | s);
-      t = t + Math.imul(t ^ t >>> 7, 61 | t) ^ t;
-      return ((t ^ t >>> 14) >>> 0) / 4294967296;
-    };
-  }
-
-  // Pick one entry from `pool` with `rng`, advancing it twice per pick so
-  // the four slots don't share state.
-  function pickFrom(pool, rng) {
-    if (!pool.length) return null;
-    rng();
-    var idx = Math.floor(rng() * pool.length);
-    return pool[idx];
-  }
 
   // ── Card rendering ──────────────────────────────────────────────────────
   function escapeHtml(s) {
@@ -279,24 +246,8 @@
   }
 
   // ── Today's thread ──────────────────────────────────────────────────────
-  // Mirrors scripts/homepage.js renderFeatured: year-seeded shuffle of the
-  // featured.json themes, picked by day-of-year, with a forward walk past
-  // any theme whose lead page no longer exists. Same seed = same theme on
-  // both pages on the same day.
-  function dayOfYear(d) {
-    var u = new Date(Date.UTC(d.getFullYear(), d.getMonth(), d.getDate()));
-    var start = new Date(Date.UTC(u.getUTCFullYear(), 0, 1));
-    return Math.floor((u - start) / 86400000);
-  }
-  function seededShuffle(arr, seed) {
-    var out = arr.slice();
-    var rand = mulberry32(seed);
-    for (var i = out.length - 1; i > 0; i--) {
-      var j = Math.floor(rand() * (i + 1));
-      var tmp = out[i]; out[i] = out[j]; out[j] = tmp;
-    }
-    return out;
-  }
+  // Thread selection lives in scripts/daily-pick.js (window.shuwoDaily) so
+  // the homepage and this page render the same thread on the same day.
   function leadCn(entry) {
     if (!entry) return '';
     if (entry.char) return entry.char;
@@ -316,16 +267,9 @@
       card.innerHTML = '<div class="today-empty">No thread available today.</div>';
       return;
     }
-    var now = new Date();
-    var yearSeed = now.getFullYear() * 1000003;
-    var shuffled = seededShuffle(themes, yearSeed);
-    var day = dayOfYear(now);
-    var theme = null, lead = null;
-    for (var offset = 0; offset < shuffled.length; offset++) {
-      var t = shuffled[(day + offset) % shuffled.length];
-      var e = byPath[t.lead];
-      if (e) { theme = t; lead = e; break; }
-    }
+    var picked = daily.pickThread(themes, byPath, new Date());
+    var theme = picked && picked.theme;
+    var lead = picked && picked.lead;
     if (!theme || !lead) {
       card.removeAttribute('aria-busy');
       card.innerHTML = '<div class="today-empty">No thread available today.</div>';
@@ -452,7 +396,7 @@
   }
 
   // ── Main ────────────────────────────────────────────────────────────────
-  var todayKey = todayUtcKey();    // for content picks (shared across visitors)
+  var todayKey = daily.todayUtcKey();    // for content picks (shared across visitors)
   var localKey = (window.shuwoStreak && window.shuwoStreak.localDayKey()) ||
     (new Date().getFullYear() + '-' + pad2(new Date().getMonth() + 1) + '-' + pad2(new Date().getDate()));
   setDateLabels(todayKey);
@@ -481,29 +425,12 @@
       var byPath = {};
       complete.forEach(function (e) { byPath[e.path] = e; });
 
-      // Pools: a complete pinyin/CN body is the floor for being interesting;
-      // exclude meta categories (families, hsk list pages, hubs — hubs are
-      // reading-paths, not single-card subjects).
-      var META_CAT = { families: 1, hsk: 1, hubs: 1 };
-      var alive = complete.filter(function (e) { return !META_CAT[e.category]; });
-
-      var characters = alive.filter(function (e) { return e.type === 'character'; });
-      var vocab      = alive.filter(function (e) { return e.type === 'vocab' && e.category !== 'chengyu'; });
-      var grammar    = alive.filter(function (e) { return e.type === 'grammar'; });
-      var chengyu    = alive.filter(function (e) { return e.category === 'chengyu'; });
-
-      // Each slot gets its own seeded RNG so adding a new entry to vocab
-      // doesn't shift the character pick.
-      var rngChar = mulberry32(seedFromString('char-' + todayKey));
-      var rngVocab = mulberry32(seedFromString('vocab-' + todayKey));
-      var rngGrammar = mulberry32(seedFromString('grammar-' + todayKey));
-      var rngChengyu = mulberry32(seedFromString('chengyu-' + todayKey));
-
+      var picks = daily.pickDaily(complete, todayKey);
       var visited = getVisited(localKey);
-      fillSlot('character', pickFrom(characters, rngChar), 'c-red', visited);
-      fillSlot('vocab',     pickFrom(vocab,      rngVocab), 'c-teal', visited);
-      fillSlot('grammar',   pickFrom(grammar,    rngGrammar), 'c-violet', visited);
-      fillSlot('chengyu',   pickFrom(chengyu,    rngChengyu), 'c-ochre', visited);
+      fillSlot('character', picks.character, 'c-red',    visited);
+      fillSlot('vocab',     picks.vocab,     'c-teal',   visited);
+      fillSlot('grammar',   picks.grammar,   'c-violet', visited);
+      fillSlot('chengyu',   picks.chengyu,   'c-ochre',  visited);
 
       renderThread(featured, byPath, visited);
     })

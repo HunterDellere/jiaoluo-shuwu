@@ -320,6 +320,210 @@
     letter-spacing: 0.14em; color: var(--ink-5); margin-top: auto; padding-top: 0.55rem; display: block;
   }
 
+  /* ── Daily draw ───────────────────────────────────────────────────────
+     Compact card surfacing the four daily picks (字/词/法/语) and the
+     visit streak. Same UTC-seeded entries as /pages/today/. Reserves a
+     min-height so the section doesn't push "Recently added" down when
+     entries.json finishes loading. */
+  .daily-draw-section {
+    margin: 0 0 2.6rem;
+    min-height: 240px; /* reserves space; chips wrap to ~220px on desktop */
+  }
+  .daily-draw-card {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) auto;
+    gap: 1rem 1.6rem;
+    align-items: stretch;
+    background: var(--papyrus-2);
+    border: 1px solid var(--rule);
+    border-left: 3px solid var(--ochre);
+    border-radius: var(--radius-lg);
+    padding: 1.1rem 1.3rem;
+  }
+  .daily-draw-chips {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+    gap: 0.7rem;
+    min-width: 0;
+  }
+  .daily-chip {
+    display: grid;
+    grid-template-columns: auto auto 1fr;
+    grid-template-rows: auto auto;
+    grid-template-areas:
+      "tag cn  py"
+      "tag en  en";
+    column-gap: 0.55rem;
+    row-gap: 0.1rem;
+    align-items: center;
+    padding: 0.55rem 0.7rem;
+    background: var(--papyrus);
+    border: 1px solid var(--rule);
+    border-radius: var(--radius-md, 8px);
+    text-decoration: none;
+    color: var(--ink);
+    transition: background 0.15s, border-color 0.15s, transform 0.15s;
+    min-width: 0;
+  }
+  .daily-chip:hover {
+    background: var(--papyrus-3);
+    border-color: rgba(139,26,26,0.3);
+    transform: translateY(-1px);
+  }
+  .daily-chip:focus-visible {
+    outline: 2px solid var(--ochre);
+    outline-offset: 2px;
+  }
+  .daily-chip .dc-tag {
+    grid-area: tag;
+    font-family: var(--font-cn);
+    font-size: 1.4rem;
+    color: var(--ochre);
+    font-weight: 700;
+    line-height: 1;
+    padding: 0.15rem 0.45rem;
+    background: var(--ochre-tint);
+    border-radius: 6px;
+    min-width: 1.8rem;
+    text-align: center;
+  }
+  .daily-chip .dc-cn {
+    grid-area: cn;
+    font-family: var(--font-cn);
+    font-size: 1.15rem;
+    color: var(--red);
+    font-weight: 600;
+    line-height: 1.1;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 100%;
+  }
+  .daily-chip .dc-py {
+    grid-area: py;
+    font-family: var(--font-mono);
+    font-size: 0.72rem;
+    color: var(--ochre);
+    letter-spacing: 0.04em;
+    align-self: end;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  .daily-chip .dc-en {
+    grid-area: en;
+    font-size: 0.78rem;
+    color: var(--ink-3);
+    line-height: 1.3;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+  }
+  .daily-chip.is-skeleton, .daily-chip.is-empty {
+    color: var(--ink-5);
+    background: var(--papyrus);
+    cursor: default;
+  }
+  .daily-chip.is-skeleton .dc-en { opacity: 0.6; }
+  .daily-chip[data-category="characters"] { border-left: 3px solid var(--cat-characters); }
+  .daily-chip[data-category="vocab"]      { border-left: 3px solid var(--cat-vocab); }
+  .daily-chip[data-category="grammar"]    { border-left: 3px solid var(--cat-grammar); }
+  .daily-chip[data-category="chengyu"]    { border-left: 3px solid var(--cat-chengyu); }
+
+  .daily-draw-streak {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 0.15rem;
+    padding: 0.55rem 1rem;
+    min-width: 130px;
+    background: var(--papyrus);
+    border: 1px solid var(--rule);
+    border-radius: var(--radius-md, 8px);
+    text-align: center;
+  }
+  .daily-draw-streak .dd-streak-tab {
+    font-size: 0.7rem;
+    color: var(--ochre);
+    letter-spacing: 0.04em;
+    text-transform: lowercase;
+  }
+  .daily-draw-streak .dd-streak-tab-py {
+    font-family: var(--font-mono);
+  }
+  .daily-draw-streak .dd-streak-num {
+    font-family: var(--font-cn);
+    font-size: 2rem;
+    color: var(--red);
+    font-weight: 700;
+    line-height: 1;
+  }
+  .daily-draw-streak.is-zero .dd-streak-num {
+    color: var(--ink-5);
+    font-size: 1.6rem;
+  }
+  .daily-draw-streak .dd-streak-label {
+    font-size: 0.78rem;
+    color: var(--ink-3);
+    letter-spacing: 0.02em;
+  }
+  .daily-draw-streak .dd-streak-hint {
+    font-size: 0.7rem;
+    color: var(--ink-5);
+    font-style: italic;
+    margin-top: 0.2rem;
+    max-width: 14ch;
+    line-height: 1.3;
+  }
+  .daily-draw-more {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+    margin-top: 0.7rem;
+    font-size: 0.85rem;
+    color: var(--red);
+    text-decoration: none;
+    border-bottom: 1px dotted transparent;
+    transition: border-color 0.15s;
+  }
+  .daily-draw-more:hover { border-bottom-color: var(--red); }
+  .daily-draw-section .section-sub .dd-date-cn {
+    font-family: var(--font-cn);
+    color: var(--red);
+    font-weight: 600;
+    margin-right: 0.35rem;
+  }
+  .daily-draw-section .section-sub .dd-date-sep {
+    color: var(--ink-5);
+    margin: 0 0.35rem;
+  }
+  @media (max-width: 640px) {
+    .daily-draw-card {
+      grid-template-columns: 1fr;
+      gap: 0.9rem;
+      padding: 1rem 1.1rem;
+    }
+    .daily-draw-chips {
+      grid-template-columns: 1fr;
+    }
+    .daily-draw-streak {
+      flex-direction: row;
+      gap: 0.6rem;
+      min-width: 0;
+      padding: 0.55rem 0.9rem;
+    }
+    .daily-draw-streak .dd-streak-num { font-size: 1.5rem; }
+    .daily-draw-streak .dd-streak-hint { display: none; }
+  }
+  html[data-theme="dark"] .daily-draw-card,
+  html[data-theme="dark"] .daily-chip,
+  html[data-theme="dark"] .daily-draw-streak {
+    background: var(--papyrus-2);
+  }
+
   .recent-section { margin-bottom: 4rem; }
   .recent-grid {
     display: grid; grid-template-columns: repeat(auto-fill, minmax(230px, 1fr)); gap: 0.9rem;
