@@ -50,8 +50,19 @@ const FONT_CN = '"Noto Serif SC", "PingFang SC", "Songti SC", "Hiragino Sans GB"
 const FONT_EN = '"EB Garamond", Georgia, "Times New Roman", serif';
 const FONT_MONO = '"JetBrains Mono", "SF Mono", Menlo, monospace';
 
-const BRAND_CN = '角落書屋';
-const BRAND_EN = 'Jiǎoluò Shūwū';
+// Brand strings — populated from data/brand.json on boot. Hard-coded
+// fallbacks match the build module so the page still renders sensibly
+// if brand.json fetch fails (offline, mid-deploy). Edit at one source:
+// build/lib/brand.mjs.
+const BRAND = {
+  cn: '角落書屋',
+  en: 'Jiǎoluò Shūwū',
+  domain: 'jiaoshoo.com',
+  tagline: 'A reading nook for Chinese language and civilisation',
+};
+// Aliases retained for callsite readability.
+let BRAND_CN = BRAND.cn;
+let BRAND_EN = BRAND.en;
 
 // ── Platforms ───────────────────────────────────────────────────────────
 //
@@ -107,6 +118,10 @@ const state = {
 window.addEventListener('DOMContentLoaded', boot);
 
 async function boot() {
+  // Pull brand strings before anything renders. Fast (small JSON, cached
+  // by the SW after first request), and lets us avoid duplicating taglines.
+  // Falls through silently to the hard-coded defaults if the fetch fails.
+  loadBrand();
   renderPlatformPicker();
   bindControls();
   const params = new URLSearchParams(location.search);
@@ -121,6 +136,17 @@ async function boot() {
     console.error(err);
     setStatus('Could not load that page. Check the URL and try again.', 'err');
   }
+}
+
+async function loadBrand() {
+  try {
+    const res = await fetch('../../data/brand.json');
+    if (!res.ok) return;
+    const data = await res.json();
+    Object.assign(BRAND, data);
+    BRAND_CN = BRAND.cn;
+    BRAND_EN = BRAND.en;
+  } catch (_) { /* keep defaults */ }
 }
 
 function showEmpty() {
@@ -1037,8 +1063,9 @@ function makeCloserSlide(source, platform) {
       ctx.textBaseline = 'middle';
       ctx.fillText('屋', w / 2, sealCy + h * 0.003);
 
-      // CTA at the bottom of the composition — authored or default.
-      const ctaText = share.cta || 'jiaoshoo.com';
+      // CTA at the bottom of the composition — authored cta wins; fall
+      // back to the brand tagline (single-source via build/lib/brand.mjs).
+      const ctaText = share.cta || BRAND.tagline;
       const ctaY = cy + h * 0.16;
       const ctaFs = Math.round(h * 0.028);
       const ctaLines = wrapLines(ctx, ctaText, w - padX * 2);

@@ -26,7 +26,6 @@ share:
     - "Simplified 爱 strips out 心 entirely. The hand still reaches, the foot still walks, but the heart is gone."
     - "没有心的爱, 'love without a heart', became a quiet complaint in Taiwan and Hong Kong when simplified script spread."
     - "我爱你 stays heavy in Chinese. Reserved for deep romantic love, close family, your homeland. For pizza, use 喜欢."
-  cta: "One character a week, written without flair. jiaoshoo.com"
 ---
 
 

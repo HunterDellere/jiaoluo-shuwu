@@ -1,3 +1,5 @@
+import { BRAND } from './brand.mjs';
+
 /**
  * Per-entry 1200×630 OG SVG card.
  *
@@ -151,7 +153,7 @@ export function renderHomepageOgSvg() {
   <text x="1140" y="68" font-family="Inconsolata" font-size="22" letter-spacing="4" fill="${MUTED}" text-anchor="end">SHŪWŪ.IO</text>
   <text x="600" y="310" font-family="Noto Serif SC" font-size="200" font-weight="700"
         fill="#8b1a1a" text-anchor="middle" dominant-baseline="middle">角落書屋</text>
-  <text x="600" y="430" font-family="EB Garamond" font-size="38" fill="${INK}" text-anchor="middle" dominant-baseline="middle">A reading corner for Chinese</text>
+  <text x="600" y="430" font-family="EB Garamond" font-size="38" fill="${INK}" text-anchor="middle" dominant-baseline="middle">${escXml(BRAND.tagline)}</text>
   <text x="600" y="500" font-family="EB Garamond" font-size="24" fill="${MUTED}" text-anchor="middle" dominant-baseline="middle">characters · vocabulary · grammar · philosophy · history · culture</text>
   <text x="1140" y="600" font-family="Noto Serif SC" font-size="22" letter-spacing="2" fill="${MUTED}" text-anchor="end">jiǎoluò shūwū</text>
 </svg>`;
