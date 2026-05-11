@@ -72,8 +72,8 @@
           (apkgSize ? '<span class="slice-card-size">' + escapeHtml(formatBytes(apkgSize)) + '</span>' : '') +
         '</div>' +
         '<div class="slice-card-actions">' +
-          '<a class="slice-card-btn slice-card-btn--anki" href="' + escapeHtml(apkgHref) + '" download>Anki .apkg</a>' +
           '<a class="slice-card-btn slice-card-btn--pleco" href="' + escapeHtml(plecoHref) + '" download>Pleco .txt</a>' +
+          '<a class="slice-card-btn slice-card-btn--anki" href="' + escapeHtml(apkgHref) + '" download>Anki .apkg</a>' +
         '</div>' +
       '</article>'
     );

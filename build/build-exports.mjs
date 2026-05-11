@@ -306,6 +306,25 @@ const corpus = [...characters, ...vocab, ...chengyu, ...grammar];
 const charHskMap = buildCharHskMap(ENTRIES);
 const slices = buildSlices(corpus, charHskMap);
 
+// Emit a single combined cards.json that the in-browser builder filters.
+// Trimmed to the minimum the builder needs (no _back functions, no
+// internal-only fields). One source of truth: same objects the slicer
+// just operated on, so cards.json and slices/* always agree.
+const cardsJson = corpus
+  .filter(c => c.hanzi && c.pinyin)
+  .map(c => ({
+    h: c.hanzi,
+    p: c.pinyin,
+    e: c.english || '',
+    d: c.desc || '',
+    t: c._type,                          // character | vocab | chengyu | grammar
+    hsk: c._resolvedHsk == null ? null : c._resolvedHsk,
+    hskI: c._hskInferred ? 1 : 0,        // inferred flag (0/1 to keep payload tight)
+    tags: (c.tags || []).filter(Boolean),
+    r: c.radical || undefined,           // characters only
+  }));
+writeFileSync(join(OUT_DIR, 'cards.json'), JSON.stringify(cardsJson));
+
 // Pick the right card-back formatter based on the card's _type. Grammar
 // uses backVocab (same fields render usefully).
 function backFor(card) {
