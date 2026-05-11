@@ -10,6 +10,14 @@
       "description": "One JSON object per line per hanzi. Fields: character, pinyin[], decomposition (IDS), radical, etymology, definition. Derived from Unihan + CJKlib. Used for frontmatter cross-check and prose decomposition validation."
     },
     {
+      "file": "makemeahanzi-graphics.txt",
+      "source_url": "https://raw.githubusercontent.com/skishore/makemeahanzi/master/graphics.txt",
+      "fetched": "2026-05-10",
+      "sha256": "a28c478b5178e98f67f510b2d52fde08a69dc664654ef43498253b9b764d46ee",
+      "license": "ARPHIC PL (see LICENSE-makemeahanzi.txt)",
+      "description": "One JSON object per line per hanzi. Fields: character, strokes[] (SVG path d strings in 1024x1024 with y-axis flip), medians[] (per-stroke median polyline). Source for stroke-order animation."
+    },
+    {
       "file": "opencc-TSCharacters.txt",
       "source_url": "https://raw.githubusercontent.com/BYVoid/OpenCC/master/data/dictionary/TSCharacters.txt",
       "fetched": "2026-04-21",

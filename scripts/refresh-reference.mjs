@@ -174,6 +174,56 @@ function deriveHanziFacts(used) {
   return { matched, total: used.size, missing: missing.length };
 }
 
+function enumerateCharacterHeroHanzi() {
+  // Stroke data is only needed for hero glyphs on character pages, not for
+  // every hanzi mentioned in prose. Pull the `char:` field from each
+  // content/characters/*.md frontmatter.
+  const dir = path.join(CONTENT, 'characters');
+  const set = new Set();
+  if (!fs.existsSync(dir)) return set;
+  for (const name of fs.readdirSync(dir)) {
+    if (!name.endsWith('.md')) continue;
+    const src = fs.readFileSync(path.join(dir, name), 'utf8');
+    const m = src.match(/^char:\s*["']?([^\s"'\n]+)/m);
+    if (m) set.add(m[1]);
+  }
+  return set;
+}
+
+function deriveStrokeData(_unused) {
+  // Filter graphics.txt to hero hanzi on character pages + their simp/trad
+  // counterparts. Prose hanzi are out of scope for the hero animation.
+  const heroes = enumerateCharacterHeroHanzi();
+  const pairsPath = path.join(REF_DIR, 'simp-trad-pairs.json');
+  const pairs = JSON.parse(fs.readFileSync(pairsPath, 'utf8'));
+  const scope = new Set(heroes);
+  for (const [trad, simp] of pairs) {
+    if (heroes.has(trad) || heroes.has(simp)) {
+      scope.add(trad);
+      scope.add(simp);
+    }
+  }
+  const graphicsPath = path.join(UP_DIR, 'makemeahanzi-graphics.txt');
+  const out = {};
+  let matched = 0;
+  // Stream line-by-line; the file is ~30 MB so readFileSync is fine on dev machines.
+  for (const ln of fs.readFileSync(graphicsPath, 'utf8').split('\n')) {
+    if (!ln.trim()) continue;
+    let e;
+    try { e = JSON.parse(ln); } catch { continue; }
+    if (!scope.has(e.character)) continue;
+    // Medians are omitted — animation drives stroke-dashoffset on each path
+    // directly via getTotalLength(), so per-stroke median polylines aren't
+    // needed for the hero. Keep the file small.
+    out[e.character] = {
+      strokes: e.strokes || [],
+    };
+    matched++;
+  }
+  fs.writeFileSync(path.join(REF_DIR, 'stroke-data.json'), JSON.stringify(out));
+  return { matched, scope: scope.size };
+}
+
 function deriveSimpTradPairs(used) {
   const ts = path.join(UP_DIR, 'opencc-TSCharacters.txt');
   const parse = (fp) => {
@@ -241,6 +291,10 @@ async function main() {
   console.log('\nDeriving simp-trad-pairs.json …');
   const r2 = deriveSimpTradPairs(used);
   console.log(`  scope ${r2.scope}, ${r2.pairs} pairs`);
+
+  console.log('\nDeriving stroke-data.json …');
+  const r3 = deriveStrokeData(used);
+  console.log(`  matched ${r3.matched}/${r3.scope} (incl. simp/trad counterparts)`);
 
   console.log('\n✓ reference data regenerated from vendored upstream files.');
 }

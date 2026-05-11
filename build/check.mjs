@@ -121,8 +121,13 @@ const TYPE_INVARIANTS = {
     { name: 'character.stroke-order',
       test: (h, m) => new RegExp(`class="so-stage"[^>]*data-char="${escRe(m.char)}"`).test(h) },
     { name: 'character.hero-glyph',
+      // Hero glyph may render in three forms: original static <div>/<span>,
+      // or the upgraded `.hero-glyph--stroke` wrapper that carries a
+      // <span class="hero-glyph-fallback"> with the character. All count.
       test: (h, m) => h.includes(`<div class="hero-glyph">${m.char}</div>`) ||
-                       h.includes(`<span class="hero-glyph">${m.char}</span>`) },
+                       h.includes(`<span class="hero-glyph">${m.char}</span>`) ||
+                       new RegExp(`class="hero-glyph hero-glyph--stroke"[^>]*data-char="${escRe(m.char)}"`).test(h) ||
+                       new RegExp(`class="hero-glyph-fallback"[^>]*>${escRe(m.char)}<`).test(h) },
   ],
   // Topic-style hero invariant: tolerate multi-class headers (e.g.
   // family-index pages add `family-hero` modifier classes alongside `topic-hero`).

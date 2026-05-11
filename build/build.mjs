@@ -23,6 +23,7 @@ import { renderFamilyContent, renderFamilyCrosslinks } from './lib/family-render
 import { renderOgSvg, categoryFaviconDataUri } from './lib/og.mjs';
 import { emitPinyinPages, buildPinyinIndex } from './lib/pinyin-index.mjs';
 import { buildComponentIndex, renderAppearsInHtml } from './lib/component-index.mjs';
+import { injectHeroStrokes, buildSimpTradMap } from './lib/stroke.mjs';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const ROOT      = join(__dirname, '..');
@@ -567,6 +568,9 @@ const pinyinSyllableSet = new Set(
 // growth plan). Doubles internal-link density without new content.
 const componentIndex = buildComponentIndex(contentDir, entries);
 
+// Simp ↔ trad lookup for hero stroke-order injection (used in pass 2).
+const simpTradMap = buildSimpTradMap();
+
 // Sibling-character ordering for prev/next nav + rel=prev/rel=next.
 // Order primary by HSK level (1, 2, ..., 7-9), then within each level by
 // pinyin alpha. Characters with no HSK level go to a final bucket sorted
@@ -678,6 +682,11 @@ for (const { fm, body, slug, category, outDir, entry } of pending) {
 
       // 1. Stroke order on character pages
       augmentedBody = injectStrokeOrder(augmentedBody, fm);
+
+      // 1a. Animated hero glyphs — upgrade each `<span class="hero-glyph">`
+      //     to an inline SVG that animates its strokes on first view. Falls
+      //     back to the static glyph when stroke data isn't vendored.
+      augmentedBody = injectHeroStrokes(augmentedBody, fm, simpTradMap);
 
       // 1b. Pinyin-index chip on character pages (links to /pinyin/<base>.html)
       augmentedBody = injectPinyinIndexChip(augmentedBody, fm, pinyinSyllableSet);
