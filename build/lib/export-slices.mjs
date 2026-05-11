@@ -346,8 +346,8 @@ export function buildSlices(cards, charHskMap) {
       dimension: 'hsk',
       criterion: lvl,
       name: `HSK ${lvl}`,
-      cn: `HSK ${lvl}`,
-      description: `All entries at HSK level ${lvl} (authored or inferred from constituent characters).`,
+      cn: '级', // 'jí' — level / grade
+      description: `Just HSK level ${lvl} on its own (authored or inferred from constituent characters).`,
       cards: items,
     });
   }
@@ -357,13 +357,16 @@ export function buildSlices(cards, charHskMap) {
   for (let upper = 1; upper <= 6; upper++) {
     const items = cards.filter(c => c._resolvedHsk != null && c._resolvedHsk <= upper);
     if (items.length === 0) continue;
+    const label = upper === 1 ? 'HSK 1' : `HSK 1–${upper}`;
     slices.push({
       slug: `hsk-up-to-${upper}`,
       dimension: 'hsk-ladder',
       criterion: upper,
-      name: `HSK 1–${upper}`,
-      cn: `HSK 1–${upper}`,
-      description: `Cumulative deck: every card up to and including HSK ${upper}.`,
+      name: label,
+      cn: '阶', // 'jiē' — step / rung
+      description: upper === 1
+        ? 'Just HSK 1 — the foundation deck for absolute beginners.'
+        : `Cumulative deck: every card from HSK 1 up to and including HSK ${upper}.`,
       cards: items,
     });
   }
