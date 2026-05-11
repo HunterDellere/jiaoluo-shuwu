@@ -870,7 +870,7 @@ for (const { fm, body, slug, category, outDir, entry } of pending) {
 const expectedPaths = new Set(entries.map(e => e.path));
 let pruned = 0;
 const pagesRoot = join(ROOT, 'pages');
-const PRUNE_SKIP = new Set(['hsk', 'maps', '_admin', 'pinyin', 'today', 'exports']);
+const PRUNE_SKIP = new Set(['hsk', 'maps', '_admin', 'pinyin', 'today', 'exports', 'share']);
 for (const cat of readdirSync(pagesRoot)) {
   if (PRUNE_SKIP.has(cat)) continue;
   const catDir = join(pagesRoot, cat);

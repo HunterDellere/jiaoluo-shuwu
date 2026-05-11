@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<!-- {"type":"topic","category":"share","status":"complete"} -->
+<html lang="zh-Hans">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>分享 Carousel — Jiǎoluò Shūwū · 角落書屋</title>
+<meta name="description" content="Turn any entry into a downloadable image carousel for Instagram, Xiaohongshu, or Threads.">
+<meta name="robots" content="noindex,nofollow">
+<meta name="theme-color" content="#1c1208" id="meta-theme-color">
+<script>(function(){try{var t=localStorage.getItem('shuwo-theme');if(t==='dark'||t==='light'){document.documentElement.setAttribute('data-theme',t);}else if(!t&&window.matchMedia('(prefers-color-scheme: dark)').matches){document.documentElement.setAttribute('data-theme','dark');}}catch(e){}})();</script>
+<link rel="manifest" href="../../manifest.webmanifest">
+<link rel="icon" href="data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20100%20100'%3E%3Crect%20width%3D'100'%20height%3D'100'%20rx%3D'18'%20fill%3D'%23f2e8d5'%2F%3E%3Ctext%20x%3D'50'%20y%3D'50'%20text-anchor%3D'middle'%20dominant-baseline%3D'central'%20font-family%3D'Noto%20Serif%20SC%2C%20serif'%20font-size%3D'58'%20font-weight%3D'700'%20fill%3D'%238b1a1a'%3E%E5%88%86%3C%2Ftext%3E%3C%2Fsvg%3E">
+<link rel="canonical" href="https://jiaoshoo.com/pages/share/">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400&family=Noto+Serif+SC:wght@400;600;700&family=LXGW+WenKai+TC&family=JetBrains+Mono:wght@400;500&display=swap" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400&family=Noto+Serif+SC:wght@400;600;700&family=LXGW+WenKai+TC&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet"></noscript>
+<link rel="stylesheet" href="../../style.css?v=18">
+</head>
+<body data-category="share">
+
+<a class="skip-link" href="#main-content">Skip to content</a>
+
+<nav class="topnav" aria-label="Site">
+  <a href="../../index.html" class="topnav-brand" aria-label="Jiǎoluò Shūwū — home">
+    <span class="topnav-brand-cn">角書</span><span class="topnav-brand-sep"> · </span><span class="topnav-brand-en">Jiǎoshū</span>
+  </a>
+  <div class="topnav-right">
+    <a href="../today/" class="topnav-today" aria-label="Today's daily picks"><span aria-hidden="true">◔</span> Today</a>
+    <a href="../exports/" class="topnav-exports" aria-label="Pleco and Anki flashcard exports"><span aria-hidden="true">⤓</span> Exports</a>
+    <a href="../families/explore.html" class="topnav-back" aria-label="Explore all entries">Explore</a>
+    <button class="theme-toggle" type="button" aria-label="Toggle dark mode" id="theme-toggle">
+      <span class="tt-sun" aria-hidden="true">☀</span>
+      <span class="tt-moon" aria-hidden="true">☾</span>
+    </button>
+  </div>
+</nav>
+
+<div class="shell shell--share">
+  <main class="main" id="main-content" data-share-main>
+
+    <header class="topic-hero">
+      <span class="topic-hero-eyebrow">分享 fēnxiǎng · Social carousel</span>
+      <h1 class="topic-hero-title">
+        <span class="today-hero-title-cn" lang="zh">分享</span>
+        <span class="today-hero-title-py">fēnxiǎng</span>
+        <span class="today-hero-title-en">Carousel exporter</span>
+      </h1>
+      <p class="topic-hero-desc">Turn any entry into an image carousel for Instagram, Xiaohongshu, Threads, or anywhere else that takes a stack of square pictures. Pick a format, preview the slides, download the set as a ZIP.</p>
+    </header>
+
+    <div class="share-toolbar" role="toolbar" aria-label="Carousel controls">
+      <div class="share-source" data-share-source>
+        <span class="share-source-label">Source</span>
+        <span class="share-source-title" data-share-source-title>—</span>
+        <a class="share-source-link" data-share-source-link href="#" target="_blank" rel="noopener" hidden>view entry →</a>
+      </div>
+
+      <div class="share-controls">
+        <fieldset class="share-fieldset">
+          <legend>Format</legend>
+          <div class="share-format-grid" data-share-formats></div>
+        </fieldset>
+
+        <fieldset class="share-fieldset">
+          <legend>Actions</legend>
+          <div class="share-actions">
+            <button type="button" class="pf-btn pf-btn-donate" data-share-download-zip disabled>Download all (ZIP)</button>
+            <button type="button" class="pf-btn pf-btn-share" data-share-rebuild>Rebuild slides</button>
+          </div>
+        </fieldset>
+      </div>
+    </div>
+
+    <p class="share-status" data-share-status role="status" aria-live="polite">Loading source page…</p>
+
+    <section class="share-preview" data-share-preview aria-label="Carousel preview"></section>
+
+    <section class="share-empty" data-share-empty hidden>
+      <div class="scholar" data-glyph="分">
+        <div class="scholar-label">No source page</div>
+        <p>Open this builder from any complete entry's <em>Carousel</em> button at the bottom of the page. Or pass <code>?page=pages/characters/&lt;slug&gt;.html</code> in the URL.</p>
+        <p><a href="../families/explore.html">Browse all entries →</a></p>
+      </div>
+    </section>
+
+    <footer class="page-footer">
+      <div class="page-footer-row">
+        <span class="footer-id">角落書屋 · Jiǎoluò Shūwū · <span>分享 fēnxiǎng</span></span>
+        <a href="../../index.html" class="footer-back">← All entries</a>
+      </div>
+    </footer>
+
+  </main>
+</div>
+
+<script src="../../scripts/toc-scroll.js" defer></script>
+<script src="../../scripts/enhance.js" defer></script>
+<script type="module" src="share.js?v=1"></script>
+
+</body>
+</html>
