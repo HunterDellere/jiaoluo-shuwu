@@ -50,31 +50,34 @@
       <p class="topic-hero-desc">Turn any entry into an image carousel for Instagram, Xiaohongshu, LinkedIn, or Stories. Pick a platform, preview the slides, download the set as a ZIP. Pages with an authored <code>share:</code> block render a curated hook and payoff beats; everything else falls back to auto-extracted prose.</p>
     </header>
 
-    <div class="share-toolbar" role="toolbar" aria-label="Carousel controls">
-      <div class="share-source" data-share-source>
-        <span class="share-source-label">Source</span>
-        <span class="share-source-title" data-share-source-title>—</span>
+    <section class="share-toolbar" aria-label="Carousel controls">
+
+      <header class="share-source-row">
+        <div class="share-source-meta">
+          <span class="share-source-eyebrow" data-share-source-sub>—</span>
+          <h2 class="share-source-title" data-share-source-title>Loading…</h2>
+          <a class="share-source-link" data-share-source-link href="#" target="_blank" rel="noopener" hidden>open entry →</a>
+        </div>
         <span class="share-source-mode" data-share-source-mode></span>
-        <a class="share-source-link" data-share-source-link href="#" target="_blank" rel="noopener" hidden>view entry →</a>
-      </div>
+      </header>
 
-      <div class="share-controls">
-        <fieldset class="share-fieldset">
-          <legend>Format</legend>
-          <div class="share-format-grid" data-share-formats></div>
-        </fieldset>
-
-        <fieldset class="share-fieldset">
-          <legend>Actions</legend>
+      <div class="share-controls-row">
+        <div class="share-control share-control--platforms">
+          <span class="share-control-label">Platform</span>
+          <div class="share-platform-grid" data-share-formats></div>
+        </div>
+        <div class="share-control share-control--actions">
+          <span class="share-control-label">Export</span>
           <div class="share-actions">
-            <button type="button" class="pf-btn pf-btn-donate" data-share-download-zip disabled>Download all (ZIP)</button>
-            <button type="button" class="pf-btn pf-btn-share" data-share-rebuild>Rebuild slides</button>
+            <button type="button" class="pf-btn pf-btn-donate" data-share-download-zip disabled>Download ZIP</button>
+            <button type="button" class="pf-btn pf-btn-share" data-share-rebuild>Rebuild</button>
           </div>
-        </fieldset>
+        </div>
       </div>
-    </div>
 
-    <p class="share-status" data-share-status role="status" aria-live="polite">Loading source page…</p>
+      <p class="share-status" data-share-status role="status" aria-live="polite">Loading source page…</p>
+
+    </section>
 
     <section class="share-preview" data-share-preview aria-label="Carousel preview"></section>
 

@@ -6363,41 +6363,46 @@ a.pf-btn-carousel:focus-visible, button.pf-btn-carousel:focus-visible {
 
 /* ── Share / carousel builder page (/pages/share/) ───────────────────── */
 .shell--share { display: block; padding: 0 1.25rem; }
-[data-share-main] { max-width: 1180px; margin: 0 auto; padding-bottom: 4rem; }
+[data-share-main] { max-width: 1240px; margin: 0 auto; padding-bottom: 4rem; }
 
 .share-toolbar {
-  margin: 1.5rem 0 1rem;
-  display: grid;
-  grid-template-columns: minmax(0, 1fr);
+  margin: 1.5rem 0 1.5rem;
+  display: flex;
+  flex-direction: column;
   gap: 1.25rem;
-  padding: 1.25rem;
+  padding: 1.5rem 1.5rem 1.25rem;
   background: var(--papyrus-2);
   border: 1px solid var(--rule-2);
   border-radius: var(--radius-lg);
 }
-@media (min-width: 720px) {
-  .share-toolbar {
-    grid-template-columns: minmax(0, 1fr) auto;
-    align-items: center;
-  }
-}
 
-.share-source {
-  display: flex; flex-direction: column; gap: 0.25rem;
+/* Source row: eyebrow + title on the left, mode badge floats right. */
+.share-source-row {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 1rem;
+  padding-bottom: 1.1rem;
+  border-bottom: 1px solid var(--rule-2);
+}
+.share-source-meta {
+  display: flex; flex-direction: column; gap: 0.2rem;
   min-width: 0;
 }
-.share-source-label {
+.share-source-eyebrow {
   font-family: var(--font-mono);
   font-size: 0.7rem;
-  letter-spacing: 0.12em;
+  letter-spacing: 0.14em;
   text-transform: uppercase;
   color: var(--ink-5);
 }
 .share-source-title {
   font-family: var(--font-cn);
-  font-size: 1.4rem;
+  font-size: 1.7rem;
   font-weight: 600;
   color: var(--ink);
+  margin: 0;
+  line-height: 1.2;
   overflow: hidden;
   text-overflow: ellipsis;
 }
@@ -6407,19 +6412,22 @@ a.pf-btn-carousel:focus-visible, button.pf-btn-carousel:focus-visible {
   color: var(--red);
   text-decoration: none;
   width: max-content;
+  margin-top: 0.15rem;
 }
 .share-source-link:hover { text-decoration: underline; }
 .share-source-mode {
   font-family: var(--font-mono);
-  font-size: 0.7rem;
-  letter-spacing: 0.06em;
+  font-size: 0.66rem;
+  letter-spacing: 0.10em;
   text-transform: uppercase;
   color: var(--ink-5);
   width: max-content;
-  padding: 0.15rem 0.5rem;
-  border-radius: var(--radius-sm);
+  padding: 0.3rem 0.65rem;
+  border-radius: 999px;
   background: var(--papyrus);
   border: 1px solid var(--rule-2);
+  white-space: nowrap;
+  flex-shrink: 0;
 }
 .share-source-mode[data-kind="authored"] {
   color: var(--papyrus);
@@ -6428,87 +6436,113 @@ a.pf-btn-carousel:focus-visible, button.pf-btn-carousel:focus-visible {
 }
 .share-source-mode:empty { display: none; }
 
-.share-controls {
-  display: grid; gap: 1rem;
+/* Controls row: platform picker + actions, side-by-side when there's room. */
+.share-controls-row {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1.25rem;
 }
 @media (min-width: 920px) {
-  .share-controls { grid-template-columns: auto auto; align-items: end; }
+  .share-controls-row {
+    grid-template-columns: 1fr auto;
+    align-items: end;
+  }
 }
 
-.share-fieldset {
-  border: none; padding: 0; margin: 0;
-  display: flex; flex-direction: column; gap: 0.5rem;
-}
-.share-fieldset legend {
+.share-control { display: flex; flex-direction: column; gap: 0.6rem; min-width: 0; }
+.share-control-label {
   font-family: var(--font-mono);
-  font-size: 0.7rem;
-  letter-spacing: 0.12em;
+  font-size: 0.66rem;
+  letter-spacing: 0.14em;
   text-transform: uppercase;
   color: var(--ink-5);
-  padding: 0;
-  margin-bottom: 0.4rem;
 }
 
-.share-format-grid {
-  display: flex; flex-wrap: wrap; gap: 0.5rem;
+.share-platform-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(9.5rem, 1fr));
+  gap: 0.5rem;
 }
-.share-format {
-  display: flex; flex-direction: column; align-items: flex-start;
-  gap: 0.15rem;
-  padding: 0.55rem 0.85rem 0.6rem;
+@media (min-width: 920px) {
+  .share-platform-grid {
+    grid-template-columns: repeat(5, minmax(0, 1fr));
+  }
+}
+
+.share-platform {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 0.3rem;
+  padding: 0.65rem 0.8rem 0.7rem;
   background: var(--papyrus);
   color: var(--ink-3);
   border: 1px solid var(--rule);
   border-radius: var(--radius-md);
   cursor: pointer;
   font-family: var(--font-ui);
-  min-width: 7rem;
   text-align: left;
-  transition: background 0.15s, border-color 0.15s, color 0.15s;
+  transition: background 0.15s, border-color 0.15s, color 0.15s, transform 0.1s;
 }
-.share-format:hover { background: var(--papyrus-3); border-color: var(--ochre); }
-.share-format.is-on {
+.share-platform:hover {
+  background: var(--papyrus-3);
+  border-color: var(--ochre);
+}
+.share-platform.is-on {
   background: var(--ink);
   border-color: var(--ink);
   color: var(--papyrus);
 }
-.share-format-label { font-size: 0.92rem; font-weight: 500; }
-.share-format-sub { font-size: 0.72rem; opacity: 0.7; }
-.share-format-ratio {
+.share-platform-text { display: flex; flex-direction: column; gap: 0.05rem; }
+.share-platform-label { font-size: 0.92rem; font-weight: 500; line-height: 1.1; }
+.share-platform-sub { font-size: 0.7rem; opacity: 0.7; line-height: 1.1; }
+.share-platform-ratio {
   display: inline-block;
   border: 1.5px solid currentColor;
-  margin-bottom: 0.25rem;
-  opacity: 0.5;
+  opacity: 0.55;
+  border-radius: 1px;
 }
-.share-format-ratio--square   { width: 14px; height: 14px; }
-.share-format-ratio--portrait { width: 12px; height: 15px; }
-.share-format-ratio--xhs      { width: 12px; height: 16px; }
-.share-format-ratio--story    { width: 10px; height: 17px; }
+.share-platform-ratio--square   { width: 14px; height: 14px; }
+.share-platform-ratio--portrait { width: 13px; height: 16px; }
+.share-platform-ratio--xhs      { width: 13px; height: 17px; }
+.share-platform-ratio--story    { width: 10px; height: 18px; }
 
-.share-actions { display: flex; flex-wrap: wrap; gap: 0.5rem; }
+.share-actions {
+  display: flex; flex-wrap: wrap; gap: 0.5rem;
+  align-items: center;
+}
+.share-actions .pf-btn { min-height: 38px; padding: 0.55rem 1.1rem; font-size: 0.92rem; }
 
 .share-status {
   font-family: var(--font-mono);
-  font-size: 0.85rem;
+  font-size: 0.82rem;
   color: var(--ink-5);
-  margin: 0.75rem 0 1.5rem;
+  margin: 0;
+  padding-top: 0.6rem;
+  border-top: 1px solid var(--rule-2);
 }
 .share-status[data-kind="ok"]  { color: var(--ink-3); }
 .share-status[data-kind="err"] { color: var(--red); }
 
-/* Slide preview grid: square laid out 2-up on desktop, 1-up on mobile.
-   Portrait & story formats also fit the same grid since the canvas object
-   scales via CSS aspect rules below. */
+/* Preview grid. The grid layout adapts per ratio — square gets 3-up on
+   desktop, taller ratios (portrait/xhs) get 2-up so each preview stays
+   readable, story (very tall) goes 2-up max with tighter constraints. */
 .share-preview {
   display: grid;
   gap: 1.25rem;
   grid-template-columns: 1fr;
 }
 @media (min-width: 760px) {
-  .share-preview { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .share-preview[data-ratio="square"]   { grid-template-columns: repeat(2, 1fr); }
+  .share-preview[data-ratio="portrait"] { grid-template-columns: repeat(2, 1fr); }
+  .share-preview[data-ratio="xhs"]      { grid-template-columns: repeat(2, 1fr); }
+  .share-preview[data-ratio="story"]    { grid-template-columns: repeat(2, 1fr); }
 }
-@media (min-width: 1080px) {
-  .share-preview { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+@media (min-width: 1180px) {
+  .share-preview[data-ratio="square"]   { grid-template-columns: repeat(2, 1fr); }
+  .share-preview[data-ratio="portrait"] { grid-template-columns: repeat(2, 1fr); }
+  .share-preview[data-ratio="xhs"]      { grid-template-columns: repeat(2, 1fr); }
+  .share-preview[data-ratio="story"]    { grid-template-columns: repeat(3, 1fr); }
 }
 
 .share-slide-card {
@@ -6526,34 +6560,31 @@ a.pf-btn-carousel:focus-visible, button.pf-btn-carousel:focus-visible {
   height: auto;
   background: var(--papyrus);
   border-radius: var(--radius-sm);
-  box-shadow: 0 2px 14px rgba(0,0,0,0.05);
-}
-/* Heuristic: portrait/story formats can render quite tall in preview. The
-   canvas's own width/height attrs preserve the export resolution; CSS just
-   constrains display height so previews don't tower. */
-.share-slide-card[data-format="story"] .share-slide-canvas,
-.share-slide-card[data-format="portrait"] .share-slide-canvas,
-.share-slide-card[data-format="xhs"] .share-slide-canvas {
-  max-height: 70vh;
-  width: auto;
-  margin: 0 auto;
+  box-shadow: 0 2px 14px rgba(0,0,0,0.06);
 }
 
 .share-slide-meta {
   display: flex; align-items: center; gap: 0.6rem;
   font-family: var(--font-mono);
-  font-size: 0.78rem;
+  font-size: 0.76rem;
   color: var(--ink-5);
 }
-.share-slide-num { font-weight: 600; color: var(--ink-3); }
+.share-slide-num {
+  font-weight: 600; color: var(--ink-3);
+  background: var(--papyrus-2);
+  padding: 0.15rem 0.45rem;
+  border-radius: var(--radius-sm);
+  font-size: 0.7rem;
+}
 .share-slide-label { flex: 1; min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 .share-slide-dl {
   font-family: var(--font-mono);
-  font-size: 0.74rem;
+  font-size: 0.72rem;
+  letter-spacing: 0.06em;
   background: transparent;
   border: 1px solid var(--rule);
   color: var(--ink-3);
-  padding: 0.25rem 0.55rem;
+  padding: 0.3rem 0.65rem;
   border-radius: var(--radius-sm);
   cursor: pointer;
   transition: background 0.15s, border-color 0.15s;
@@ -6563,6 +6594,8 @@ a.pf-btn-carousel:focus-visible, button.pf-btn-carousel:focus-visible {
 .share-empty { margin-top: 2rem; }
 
 @media (max-width: 540px) {
-  .share-toolbar { padding: 1rem; gap: 1rem; }
-  .share-source-title { font-size: 1.15rem; }
+  .share-toolbar { padding: 1.1rem; gap: 1rem; }
+  .share-source-title { font-size: 1.3rem; }
+  .share-source-row { flex-direction: column; }
+  .share-source-mode { align-self: flex-start; }
 }

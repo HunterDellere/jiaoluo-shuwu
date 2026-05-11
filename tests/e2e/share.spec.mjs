@@ -51,6 +51,20 @@ test.describe('Share — carousel builder', () => {
     await expect(page.locator('[data-share-empty]')).toBeVisible();
   });
 
+  test('resolves typing-friendly aliases to the canonical page path', async ({ page }) => {
+    // Each of these should resolve to pages/characters/ai4_爱.html.
+    const aliases = [
+      'characters/ai4',
+      'ai4',
+      'characters/ai4_爱',
+    ];
+    for (const alias of aliases) {
+      await page.goto('/pages/share/?page=' + encodeURIComponent(alias));
+      await expect(page.locator('[data-share-status]')).toContainText(/slides rendered/i, { timeout: 8000 });
+      await expect(page.locator('[data-share-source-title]')).toContainText('爱');
+    }
+  });
+
   test('detects authored share frontmatter and labels the source as "authored"', async ({ page }) => {
     // ai4_爱.md ships with a curated share: { hook, beats, cta } block.
     await page.goto('/pages/share/?page=' + encodeURIComponent(SOURCE_PATH));

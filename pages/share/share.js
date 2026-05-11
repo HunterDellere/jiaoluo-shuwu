@@ -1,19 +1,34 @@
 /* share.js — social-carousel exporter.
  *
- * Reads a source content page (?page=pages/<cat>/<slug>.html), parses out the
- * structured chunks (hero, scholar boxes, cards, chengyu, related chips), and
- * assembles 6–10 slides. Renders each slide directly to a 2D canvas at
- * 1080×1080 / 1080×1350 / 1080×1920. Canvas text APIs handle CJK glyphs via
- * the OS font stack, so no font embedding gymnastics are needed; we just
- * await document.fonts.ready before rasterizing.
+ * Reads a source content page (?page=pages/<cat>/<slug>.html), parses out
+ * the structured chunks (hero glyph, scholar prose, vocab cards, chengyu,
+ * related chips), and assembles a platform-tuned carousel.
  *
- * Bundles all PNGs into a ZIP using the project's existing JSZip dep
- * (loaded via the same browser shim used by the exports builder).
+ * Each slide is drawn directly to a 2D canvas at the platform's native
+ * export resolution. Canvas text APIs handle CJK glyphs via the OS font
+ * stack, so no font-embedding gymnastics are needed; we await
+ * document.fonts.ready before rasterizing so EB Garamond + Noto Serif SC
+ * commit before drawing.
  *
- * Pure client-side, no server. Idempotent: rebuilding does not mutate state.
+ * Pure client-side, no server. JSZip is lazy-loaded for the bulk download.
  */
 
-// ── category palette (mirrors build/lib/og-svg.mjs CATEGORY_META) ─────────
+// ── Visual identity ─────────────────────────────────────────────────────
+//
+// Three palette themes, applied per platform:
+//   parchment : the site's default warm cream (IG, XHS)
+//   ink       : near-black background, parchment ink (Story/Reel —
+//               higher contrast for tiny phone screens, no ad-overlay clash)
+//   notebook  : white background, hairline rules, minimal color
+//               (LinkedIn — reads as a document, not an ad)
+//
+// Each theme defines bg/ink/muted/accent so slides can share one renderer.
+const THEMES = {
+  parchment: { bg: '#f2e8d5', bg2: '#ebe0c8', ink: '#1c1208', ink2: '#2c1f10', muted: '#6b5535', accent: '#a06428', rule: 'rgba(60,40,20,0.18)' },
+  ink:       { bg: '#1c1208', bg2: '#2a1c10', ink: '#f2e8d5', ink2: '#e0d4b8', muted: '#a8946a', accent: '#d4a458', rule: 'rgba(242,232,213,0.20)' },
+  notebook:  { bg: '#fafaf6', bg2: '#f0efe8', ink: '#0f0d08', ink2: '#26221a', muted: '#615a4a', accent: '#8b1a1a', rule: 'rgba(15,13,8,0.16)' },
+};
+
 const CATEGORY = {
   characters: { glyph: '字', label: 'Character',  pinyin: 'zì',       color: '#8b1a1a' },
   vocab:      { glyph: '词', label: 'Vocabulary', pinyin: 'cí',       color: '#a06428' },
@@ -31,51 +46,60 @@ const CATEGORY = {
   hubs:       { glyph: '集', label: 'Reading',    pinyin: 'jí',       color: '#5a5a5a' },
 };
 
-const PAPER = '#f2e8d5';
-const PAPER_2 = '#ebe0c8';
-const INK = '#2c1f10';
-const MUTED = '#6b5535';
-
-/**
- * Platforms bundle a canvas size with platform-specific slide treatment.
- *
- *   ratio     visual aid for the picker (purely cosmetic).
- *   w/h       export resolution.
- *   safeTop / safeBottom   reserved insets where platform UI overlays sit
- *                          (Story/Reel handles, captions). Position-indicator
- *                          and footer brand respect these so text stays clear.
- *   indicator whether to draw the "1 / 7  swipe →" position chip on the slide.
- *   maxSlides absolute cap on slide count for that platform.
- *   slant     'visual'  → glyph-forward, less prose (IG square/portrait, XHS)
- *             'textual' → text-forward, more beats (LinkedIn document)
- *             'story'   → vertical safe insets, fewer slides, larger glyphs
- */
-const PLATFORMS = [
-  { key: 'ig-square',  label: 'Instagram', sub: '1:1 square',     w: 1080, h: 1080, ratio: 'square',
-    safeTop: 0, safeBottom: 0, indicator: true,  maxSlides: 8, slant: 'visual'  },
-  { key: 'ig-portrait',label: 'Instagram', sub: '4:5 portrait',   w: 1080, h: 1350, ratio: 'portrait',
-    safeTop: 0, safeBottom: 0, indicator: true,  maxSlides: 8, slant: 'visual'  },
-  { key: 'story',      label: 'Story / Reel', sub: '9:16 vertical', w: 1080, h: 1920, ratio: 'story',
-    safeTop: 220, safeBottom: 320, indicator: true, maxSlides: 6, slant: 'story' },
-  { key: 'xhs',        label: 'Xiaohongshu', sub: '3:4 native',   w: 1080, h: 1440, ratio: 'xhs',
-    safeTop: 0, safeBottom: 0, indicator: true,  maxSlides: 9, slant: 'visual'  },
-  { key: 'linkedin',   label: 'LinkedIn',    sub: '4:5 document', w: 1080, h: 1350, ratio: 'portrait',
-    safeTop: 0, safeBottom: 0, indicator: true,  maxSlides: 10, slant: 'textual' },
-];
-
 const FONT_CN = '"Noto Serif SC", "PingFang SC", "Songti SC", "Hiragino Sans GB", serif';
 const FONT_EN = '"EB Garamond", Georgia, "Times New Roman", serif';
 const FONT_MONO = '"JetBrains Mono", "SF Mono", Menlo, monospace';
 
-const SITE_URL = 'https://jiaoshoo.com';
 const BRAND_CN = '角落書屋';
 const BRAND_EN = 'Jiǎoluò Shūwū';
+
+// ── Platforms ───────────────────────────────────────────────────────────
+//
+// Each platform bundles size + safe insets + theme + slide selection rules.
+// `kinds` lists which slide kinds to include in order; the renderer fills
+// each kind from the source until the budget runs out.
+const PLATFORMS = [
+  {
+    key: 'ig-square', label: 'Instagram', sub: '1:1 square',
+    w: 1080, h: 1080, ratio: 'square', theme: 'parchment',
+    safeTop: 0, safeBottom: 0, indicator: true, maxBeats: 3, maxCards: 2,
+    kinds: ['hook', 'beat', 'card', 'chengyu', 'related', 'closer'],
+  },
+  {
+    key: 'ig-portrait', label: 'Instagram', sub: '4:5 portrait',
+    w: 1080, h: 1350, ratio: 'portrait', theme: 'parchment',
+    safeTop: 0, safeBottom: 0, indicator: true, maxBeats: 3, maxCards: 2,
+    kinds: ['hook', 'beat', 'card', 'chengyu', 'related', 'closer'],
+  },
+  {
+    key: 'story', label: 'Story / Reel', sub: '9:16 vertical',
+    w: 1080, h: 1920, ratio: 'story', theme: 'ink',
+    safeTop: 240, safeBottom: 340, indicator: true, maxBeats: 2, maxCards: 0,
+    // Stories drop card/chengyu slides — no real estate inside the safe zone
+    // for example sentences, and viewers swipe-tap fast.
+    kinds: ['hook', 'beat', 'closer'],
+  },
+  {
+    key: 'xhs', label: 'Xiaohongshu', sub: '3:4 native',
+    w: 1080, h: 1440, ratio: 'xhs', theme: 'parchment',
+    safeTop: 0, safeBottom: 0, indicator: true, maxBeats: 3, maxCards: 2,
+    kinds: ['hook', 'beat', 'card', 'chengyu', 'related', 'closer'],
+  },
+  {
+    key: 'linkedin', label: 'LinkedIn', sub: '4:5 document',
+    w: 1080, h: 1350, ratio: 'portrait', theme: 'notebook',
+    safeTop: 0, safeBottom: 0, indicator: true, maxBeats: 4, maxCards: 0,
+    // LinkedIn swipes are read like a paper. No card/chengyu noise; more
+    // beats; quieter hairline aesthetic instead of glyph watermarks.
+    kinds: ['hook', 'beat', 'related', 'closer'],
+  },
+];
 
 // ── State ───────────────────────────────────────────────────────────────
 const state = {
   platform: PLATFORMS[0],
-  source: null,        // { meta, hero, sections, cards, chengyu, chips, sourcePath, share }
-  slides: [],          // [{ id, kind, title, render(ctx, w, h, ctxOpts) }]
+  source: null,
+  slides: [],
   rendering: false,
 };
 
@@ -85,18 +109,13 @@ window.addEventListener('DOMContentLoaded', boot);
 async function boot() {
   renderPlatformPicker();
   bindControls();
-
   const params = new URLSearchParams(location.search);
   const pagePath = params.get('page');
-  if (!pagePath) {
-    showEmpty();
-    return;
-  }
+  if (!pagePath) { showEmpty(); return; }
   setStatus('Loading source page…');
   try {
-    const source = await loadSource(pagePath);
-    state.source = source;
-    showSourceMeta(source);
+    state.source = await loadSource(pagePath);
+    showSourceMeta(state.source);
     rebuild();
   } catch (err) {
     console.error(err);
@@ -111,65 +130,98 @@ function showEmpty() {
   document.querySelector('[data-share-status]').hidden = true;
 }
 
-// ── Platform picker ─────────────────────────────────────────────────────
-function renderPlatformPicker() {
-  const host = document.querySelector('[data-share-formats]');
-  host.innerHTML = PLATFORMS.map(p => {
-    const on = p.key === state.platform.key ? ' is-on' : '';
-    return `<button type="button" class="share-format${on}" data-share-platform="${p.key}">
-      <span class="share-format-ratio share-format-ratio--${p.ratio}" aria-hidden="true"></span>
-      <span class="share-format-label">${p.label}</span>
-      <span class="share-format-sub">${p.sub}</span>
-    </button>`;
-  }).join('');
+function setStatus(msg, kind) {
+  const el = document.querySelector('[data-share-status]');
+  el.hidden = false;
+  el.textContent = msg;
+  el.dataset.kind = kind || '';
 }
 
-function bindControls() {
-  document.querySelector('[data-share-formats]').addEventListener('click', e => {
-    const btn = e.target.closest('[data-share-platform]');
-    if (!btn) return;
-    const next = PLATFORMS.find(p => p.key === btn.dataset.sharePlatform);
-    if (!next || next.key === state.platform.key) return;
-    state.platform = next;
-    renderPlatformPicker();
-    rebuild();
+// ── Source loading ──────────────────────────────────────────────────────
+//
+// Path resolution accepts several typing-friendly forms, normalized to the
+// canonical pages/<category>/<slug>.html before fetching. Examples that
+// all resolve to pages/characters/ai4_爱.html:
+//
+//   ?page=pages/characters/ai4_%E7%88%B1.html  (canonical, what the
+//                                               Carousel button emits)
+//   ?page=characters/ai4_爱.html               (drop the pages/ prefix)
+//   ?page=characters/ai4                       (drop the hanzi suffix)
+//   ?page=ai4_爱                               (just the slug)
+//   ?page=ai4                                  (slug ASCII prefix only)
+//
+// Resolution looks up data/entries.json once and caches it. Ambiguous
+// short forms (multiple matches) fail fast with a helpful message.
+let _entriesPromise = null;
+function loadEntries() {
+  if (_entriesPromise) return _entriesPromise;
+  _entriesPromise = fetch('../../data/entries.json').then(r => r.json());
+  return _entriesPromise;
+}
+
+async function resolvePagePath(input) {
+  if (!input) return null;
+  // Decode any URL-escaped CJK and trim whitespace.
+  let raw = input.trim();
+  try { raw = decodeURIComponent(raw); } catch (_) { /* already decoded */ }
+
+  // Already a fully-qualified path? Use as-is.
+  if (/^pages\/[^/]+\/.+\.html$/.test(raw)) return raw;
+
+  // pages/X without leading "pages/" but with .html suffix.
+  if (/^[^/]+\/.+\.html$/.test(raw)) return 'pages/' + raw;
+
+  // No extension or partial slug — search entries.json.
+  const entries = await loadEntries();
+  const norm = raw.replace(/\.html$/, '');
+
+  // Try exact path matches first (drop pages/ prefix variants).
+  const candidates = entries.filter(e => {
+    const path = e.path;                                  // pages/characters/ai4_爱.html
+    const noExt = path.replace(/\.html$/, '');             // pages/characters/ai4_爱
+    const noPages = noExt.replace(/^pages\//, '');         // characters/ai4_爱
+    const slug = noPages.split('/').pop();                 // ai4_爱
+    const ascii = slug.split('_')[0];                      // ai4
+    const cat = noPages.split('/')[0];                     // characters
+    const catAscii = `${cat}/${ascii}`;                    // characters/ai4
+    return raw === path || raw === noExt || raw === noPages
+        || norm === noPages || norm === slug || norm === ascii
+        || norm === catAscii;
   });
-  document.querySelector('[data-share-rebuild]').addEventListener('click', rebuild);
-  document.querySelector('[data-share-download-zip]').addEventListener('click', downloadAll);
-  document.querySelector('[data-share-preview]').addEventListener('click', onSlideAction);
+
+  if (candidates.length === 1) return candidates[0].path;
+  if (candidates.length > 1) {
+    const list = candidates.slice(0, 4).map(e => e.path).join(', ');
+    throw new Error(`Ambiguous page reference "${raw}" — matches ${candidates.length} entries (${list}…). Use the full path.`);
+  }
+
+  // Last resort: try as-is anyway. May still fetch successfully if the
+  // user passed a path the matcher doesn't recognize.
+  return raw;
 }
 
-// ── Source loading + parsing ────────────────────────────────────────────
-async function loadSource(pagePath) {
-  // pagePath is like "pages/characters/gan3_感.html"; the share builder lives
-  // at /pages/share/, so two levels up plus the path resolves correctly.
+async function loadSource(rawInput) {
+  const pagePath = await resolvePagePath(rawInput);
+  if (!pagePath) throw new Error('No page specified.');
   const url = '../../' + pagePath;
   const res = await fetch(url);
-  if (!res.ok) throw new Error('fetch failed: ' + res.status);
+  if (!res.ok) throw new Error(`Fetch failed for ${pagePath}: ${res.status}`);
   const html = await res.text();
   const doc = new DOMParser().parseFromString(html, 'text/html');
-
   const meta = readMeta(html);
   const category = (meta && meta.category) || 'characters';
   const cat = CATEGORY[category] || CATEGORY.characters;
 
-  const hero = parseHero(doc, meta);
-  const sections = parseScholars(doc);
-  const cards = parseCards(doc);
-  const chengyu = parseChengyu(doc);
-  const chips = parseChips(doc);
-  const titleText = doc.querySelector('title')?.textContent || '';
-
-  // Authored carousel overrides — when present, use them instead of
-  // auto-extracted prose so the post reads like an actual hook → payoff.
-  // Schema: { hook?: string, beats?: string[], cta?: string }
-  const share = (meta && meta.share) || {};
-
   return {
     sourcePath: pagePath,
-    sourceTitle: titleText.split(' — ')[0].trim(),
-    meta, category, cat, share,
-    hero, sections, cards, chengyu, chips,
+    sourceTitle: (doc.querySelector('title')?.textContent || '').split(' — ')[0].trim(),
+    meta, category, cat,
+    share: (meta && meta.share) || {},
+    hero: parseHero(doc, meta),
+    sections: parseScholars(doc),
+    cards: parseCards(doc),
+    chengyu: parseChengyu(doc),
+    chips: parseChips(doc),
   };
 }
 
@@ -187,32 +239,28 @@ function textOf(el) {
 function parseHero(doc, meta) {
   const isChar = meta && meta.type === 'character';
   if (isChar) {
-    const glyph = meta.char || textOf(doc.querySelector('.hero-glyph-fallback')) || '';
-    const pinyin = textOf(doc.querySelector('.hero-pinyin'))
-      .replace(/[A-Za-z]+$/, '').replace(/^[\s·]+|[\s·]+$/g, '').trim() || meta.pinyin || '';
+    // Trust the metadata comment over scraped DOM — character pages
+    // contain inline stroke-order SVG markup that can confuse text scrapes.
+    const glyph = (meta && meta.char) || '';
+    const pinyin = (meta && meta.pinyin) || textOf(doc.querySelector('.hero-pinyin')).split(' ')[0] || '';
     const en = textOf(doc.querySelector('.hero-en'));
     return { kind: 'character', glyph, pinyin, en };
   }
-  const cn = textOf(doc.querySelector('.today-hero-title-cn, .topic-hero-title'))
-    .split('\n')[0];
-  // For topic pages built with the multi-span title, prefer .today-hero-title-cn.
   const cnSpan = doc.querySelector('.today-hero-title-cn');
-  const cn2 = cnSpan ? textOf(cnSpan) : cn;
+  const cn = cnSpan ? textOf(cnSpan) : textOf(doc.querySelector('.topic-hero-title'));
   const py = textOf(doc.querySelector('.today-hero-title-py, .topic-hero-title-py'));
   const en = textOf(doc.querySelector('.today-hero-title-en, .topic-hero-en'));
   const desc = textOf(doc.querySelector('.topic-hero-desc'));
-  return { kind: 'topic', glyph: cn2, pinyin: py, en, desc };
+  return { kind: 'topic', glyph: cn, pinyin: py, en, desc };
 }
 
 function parseScholars(doc) {
-  // .scholar boxes — each has a label + paragraphs. Take the first 3 with
-  // meaningful prose so we don't end up with attribution stubs.
   const out = [];
   doc.querySelectorAll('.scholar').forEach(el => {
     const label = textOf(el.querySelector('.scholar-label'));
     const paragraphs = Array.from(el.querySelectorAll('p')).map(p => textOf(p)).filter(Boolean);
     const body = paragraphs.join(' ');
-    if (body.length < 40) return;     // skip tiny stubs / mantra labels
+    if (body.length < 40) return;
     out.push({ label, body, glyph: el.dataset.glyph || '' });
   });
   return out.slice(0, 4);
@@ -266,100 +314,98 @@ function showSourceMeta(source) {
   const titleEl = document.querySelector('[data-share-source-title]');
   const linkEl = document.querySelector('[data-share-source-link]');
   const modeEl = document.querySelector('[data-share-source-mode]');
+  const subEl = document.querySelector('[data-share-source-sub]');
   titleEl.textContent = source.sourceTitle || source.sourcePath;
+  if (subEl) {
+    const cat = source.cat;
+    subEl.textContent = `${cat.label} · ${cat.glyph} ${cat.pinyin}`;
+  }
   linkEl.href = '../../' + source.sourcePath;
   linkEl.hidden = false;
   if (modeEl) {
     const authored = !!(source.share && (source.share.hook || (source.share.beats && source.share.beats.length)));
-    modeEl.textContent = authored ? 'authored hook + beats' : 'auto-extracted';
+    modeEl.textContent = authored ? 'Authored hook + beats' : 'Auto-extracted from prose';
     modeEl.dataset.kind = authored ? 'authored' : 'auto';
   }
 }
 
-// ── Slide assembly ──────────────────────────────────────────────────────
-//
-// Slide order follows the "hook → payoff → CTA" arc that performs on
-// carousel platforms, not the reading-order of the source page. When the
-// author supplies share.hook + share.beats, they take precedence over
-// auto-extracted etymology and card prose. Auto-mode still produces a
-// usable carousel for every page, but authored entries read sharper.
-//
-// Platform "slant" tunes content density:
-//   visual   : more visual slides, fewer prose beats (IG, XHS)
-//   textual  : more beats slides, prose carries more weight (LinkedIn)
-//   story    : fewer slides, larger glyphs, vertical safe insets respected
-function buildSlides(source, platform) {
-  const slant = platform.slant;
-  const slides = [];
-  const hasAuthoredHook = !!(source.share && source.share.hook);
-
-  // 1. Opener — either an authored hook or a glyph-forward title.
-  slides.push(hasAuthoredHook
-    ? makeHookSlide(source)
-    : makeTitleSlide(source));
-
-  // 2. Payoff beats — authored when present, otherwise the etymology /
-  //    overview prose synthesized from the first scholar box.
-  const beats = collectBeats(source, slant);
-  beats.forEach((beat, i) => {
-    slides.push(makeBeatSlide(source, beat, i + 1, beats.length));
-  });
-
-  // 3. Concrete examples — vocab cards and chengyu both ride on the same
-  //    visual treatment. Story slant takes fewer; textual takes more.
-  const exampleBudget = slant === 'story'   ? 2
-                      : slant === 'textual' ? 4
-                      : 3;
-  let exampleCount = 0;
-  const exampleCards = source.cards.slice(0, exampleBudget);
-  exampleCards.forEach((c, i) => {
-    slides.push(makeCardSlide(source, c, i + 1, exampleCards.length));
-    exampleCount++;
-  });
-  if (exampleCount < exampleBudget) {
-    const remaining = exampleBudget - exampleCount;
-    source.chengyu.slice(0, remaining).forEach((cy, i) => {
-      slides.push(makeChengyuSlide(source, cy, i + 1, Math.min(source.chengyu.length, remaining)));
-    });
-  }
-
-  // 4. Related chips slide — only when the page has a meaningful field.
-  //    Story slant skips this (vertical real estate at a premium).
-  if (slant !== 'story' && source.chips.length >= 3) {
-    slides.push(makeChipsSlide(source));
-  }
-
-  // 5. CTA / attribution always closes.
-  slides.push(makeAttributionSlide(source));
-
-  return slides.slice(0, platform.maxSlides);
+// ── UI: platform picker ────────────────────────────────────────────────
+function renderPlatformPicker() {
+  const host = document.querySelector('[data-share-formats]');
+  host.innerHTML = PLATFORMS.map(p => {
+    const on = p.key === state.platform.key ? ' is-on' : '';
+    return `<button type="button" class="share-platform${on}" data-share-platform="${p.key}">
+      <span class="share-platform-ratio share-platform-ratio--${p.ratio}" aria-hidden="true"></span>
+      <span class="share-platform-text">
+        <span class="share-platform-label">${p.label}</span>
+        <span class="share-platform-sub">${p.sub}</span>
+      </span>
+    </button>`;
+  }).join('');
 }
 
-/**
- * Collect 1–4 payoff "beats" — one short statement per slide.
- * Priority:
- *   1. Authored share.beats   (curated, best)
- *   2. Etymology / overview paragraphs from the first scholar box
- *   3. The page's hero gloss as a single beat
- */
-function collectBeats(source, slant) {
+function bindControls() {
+  document.querySelector('[data-share-formats]').addEventListener('click', e => {
+    const btn = e.target.closest('[data-share-platform]');
+    if (!btn) return;
+    const next = PLATFORMS.find(p => p.key === btn.dataset.sharePlatform);
+    if (!next || next.key === state.platform.key) return;
+    state.platform = next;
+    renderPlatformPicker();
+    rebuild();
+  });
+  document.querySelector('[data-share-rebuild]').addEventListener('click', rebuild);
+  document.querySelector('[data-share-download-zip]').addEventListener('click', downloadAll);
+  document.querySelector('[data-share-preview]').addEventListener('click', e => {
+    const btn = e.target.closest('[data-share-slide-index]');
+    if (!btn) return;
+    downloadSlide(parseInt(btn.dataset.shareSlideIndex, 10));
+  });
+}
+
+// ── Slide assembly ──────────────────────────────────────────────────────
+//
+// Order is dictated by the platform's `kinds` array. Each kind pulls its
+// content from `source` (authored share.* takes priority where applicable)
+// and produces zero, one, or many slide objects.
+function buildSlides(source, platform) {
+  const slides = [];
+  const beats = collectBeats(source, platform);
+  const cards = source.cards.slice(0, platform.maxCards);
+  const cyTotal = Math.max(0, platform.maxCards - cards.length);
+  const chengyu = source.chengyu.slice(0, cyTotal);
+  const showRelated = source.chips.length >= 3;
+
+  for (const kind of platform.kinds) {
+    if (kind === 'hook') {
+      slides.push(makeHookSlide(source, platform));
+    } else if (kind === 'beat') {
+      beats.forEach((beat, i) => slides.push(makeBeatSlide(source, platform, beat, i + 1, beats.length)));
+    } else if (kind === 'card') {
+      cards.forEach((c, i) => slides.push(makeCardSlide(source, platform, c, i + 1, cards.length)));
+    } else if (kind === 'chengyu') {
+      chengyu.forEach((cy, i) => slides.push(makeChengyuSlide(source, platform, cy, i + 1, chengyu.length)));
+    } else if (kind === 'related') {
+      if (showRelated) slides.push(makeRelatedSlide(source, platform));
+    } else if (kind === 'closer') {
+      slides.push(makeCloserSlide(source, platform));
+    }
+  }
+  return slides;
+}
+
+function collectBeats(source, platform) {
+  const cap = platform.maxBeats;
   const authored = source.share && Array.isArray(source.share.beats) ? source.share.beats : null;
   if (authored && authored.length) {
-    const cap = slant === 'story' ? 2 : slant === 'textual' ? 4 : 3;
     return authored.slice(0, cap).map(text => ({ kind: 'authored', text }));
   }
-
   const out = [];
   const first = source.sections[0];
   if (first && first.body) {
-    // Split the first scholar paragraph into sentence-ish beats so the
-    // slide doesn't dump 600 chars at once. Keep beats short enough to
-    // wrap cleanly at 36pt body type.
     const sentences = splitSentences(first.body).filter(s => s.length >= 30 && s.length <= 240);
-    const cap = slant === 'story' ? 2 : slant === 'textual' ? 4 : 3;
     sentences.slice(0, cap).forEach(s => out.push({ kind: 'derived', text: s, label: first.label }));
   }
-
   if (out.length === 0 && source.hero && source.hero.en) {
     out.push({ kind: 'derived', text: source.hero.en });
   }
@@ -367,109 +413,157 @@ function collectBeats(source, slant) {
 }
 
 function splitSentences(text) {
-  // Handle both English (. ! ?) and Chinese (。!?) sentence boundaries.
-  // Keep the terminator on the preceding sentence so the slide doesn't
-  // end on a comma fragment.
   return text
     .split(/(?<=[.!?。！？])\s+/)
     .map(s => s.trim())
     .filter(Boolean);
 }
 
-// ── Canvas drawing helpers ──────────────────────────────────────────────
-function drawBackground(ctx, w, h, cat) {
-  ctx.fillStyle = PAPER;
-  ctx.fillRect(0, 0, w, h);
-  // Subtle radial vignette in the category color, anchored at the top.
-  const grad = ctx.createRadialGradient(w / 2, 0, 0, w / 2, 0, h * 0.85);
-  grad.addColorStop(0, hexWithAlpha(cat.color, 0.07));
-  grad.addColorStop(1, hexWithAlpha(PAPER, 0));
-  ctx.fillStyle = grad;
-  ctx.fillRect(0, 0, w, h);
-  // Top accent band.
-  ctx.fillStyle = cat.color;
-  ctx.fillRect(0, 0, w, Math.round(h * 0.008));
+// ── Canvas primitives ──────────────────────────────────────────────────
+function ctxState(platform) {
+  const theme = THEMES[platform.theme] || THEMES.parchment;
+  return {
+    platform, theme,
+    safeTop: platform.safeTop || 0,
+    safeBottom: platform.safeBottom || 0,
+    indicator: platform.indicator,
+  };
 }
 
-function drawWatermark(ctx, w, h, glyph, color) {
-  const size = Math.round(h * 0.6);
+function fillBg(ctx, w, h, theme, cat) {
+  ctx.fillStyle = theme.bg;
+  ctx.fillRect(0, 0, w, h);
+  // Quiet vignette in the category color anchored top-center.
+  const grad = ctx.createRadialGradient(w / 2, 0, 0, w / 2, 0, h * 0.95);
+  grad.addColorStop(0, hexA(cat.color, 0.08));
+  grad.addColorStop(1, hexA(theme.bg, 0));
+  ctx.fillStyle = grad;
+  ctx.fillRect(0, 0, w, h);
+}
+
+function topBand(ctx, w, h, color, thick) {
+  ctx.fillStyle = color;
+  ctx.fillRect(0, 0, w, thick || Math.round(h * 0.008));
+}
+
+function bleedGlyph(ctx, w, h, glyph, color, opts) {
+  // Watermark glyph anchored bottom-right and clamped INSIDE the canvas
+  // (not bleeding off, which previously cropped to fragments that read as
+  // unrelated characters). Big enough to feel like a deliberate stamp,
+  // small enough to keep the full character shape visible.
+  const opacity = (opts && opts.opacity) ?? 0.10;
+  const size = (opts && opts.size) ?? Math.round(Math.min(w, h) * 0.55);
+  const xRatio = (opts && opts.xRatio) ?? 0.97;
+  const yRatio = (opts && opts.yRatio) ?? 0.7;
   ctx.save();
-  ctx.globalAlpha = 0.07;
+  ctx.globalAlpha = opacity;
   ctx.fillStyle = color;
   ctx.font = `700 ${size}px ${FONT_CN}`;
   ctx.textAlign = 'right';
   ctx.textBaseline = 'middle';
-  ctx.fillText(glyph, w - Math.round(w * 0.04), h * 0.4);
+  ctx.fillText(glyph, w * xRatio, h * yRatio);
   ctx.restore();
 }
 
-function drawEyebrow(ctx, w, h, leftText, rightText, opts) {
+function leftMarginNumber(ctx, w, h, n, color, opts) {
+  // Big numerical or stroke marginalia in the left gutter — gives beat
+  // slides a "page in a manuscript" feel without dumping a watermark.
+  const safeTop = (opts && opts.safeTop) || 0;
+  const fs = Math.round(h * 0.18);
+  ctx.save();
+  ctx.globalAlpha = 0.85;
+  ctx.fillStyle = color;
+  ctx.font = `700 ${fs}px ${FONT_EN}`;
+  ctx.textAlign = 'left';
+  ctx.textBaseline = 'top';
+  ctx.fillText(String(n), Math.round(w * 0.07), safeTop + Math.round(h * 0.18));
+  ctx.restore();
+}
+
+function topEyebrow(ctx, w, h, leftText, rightText, theme, opts) {
   const fs = Math.round(h * 0.018);
   const safeTop = (opts && opts.safeTop) || 0;
-  const yPad = safeTop + Math.round(h * 0.05);
-  ctx.fillStyle = MUTED;
+  const y = safeTop + Math.round(h * 0.05);
+  ctx.fillStyle = theme.muted;
   ctx.font = `500 ${fs}px ${FONT_MONO}`;
   ctx.textBaseline = 'middle';
   if (leftText) {
     ctx.textAlign = 'left';
-    ctx.fillText(leftText, Math.round(w * 0.07), yPad);
+    ctx.fillText(leftText, Math.round(w * 0.07), y);
   }
   if (rightText) {
     ctx.textAlign = 'right';
-    ctx.fillText(rightText, w - Math.round(w * 0.07), yPad);
+    ctx.fillText(rightText, w - Math.round(w * 0.07), y);
   }
-}
-
-function drawFooterBrand(ctx, w, h, opts) {
-  const fs = Math.round(h * 0.017);
-  const safeBottom = (opts && opts.safeBottom) || 0;
-  const y = h - safeBottom - Math.round(h * 0.045);
-  ctx.fillStyle = MUTED;
-  ctx.font = `500 ${fs}px ${FONT_CN}`;
-  ctx.textAlign = 'right';
-  ctx.textBaseline = 'middle';
-  ctx.fillText(BRAND_CN, w - Math.round(w * 0.07), y);
-
-  ctx.font = `500 ${Math.round(h * 0.014)}px ${FONT_MONO}`;
-  ctx.textAlign = 'left';
-  ctx.fillText('jiaoshoo.com', Math.round(w * 0.07), y);
+  // Hairline under the eyebrow row so the slide has a clear masthead.
+  ctx.fillStyle = theme.rule;
+  ctx.fillRect(Math.round(w * 0.07), y + Math.round(h * 0.025),
+               w - Math.round(w * 0.07) * 2, 1);
 }
 
 /**
- * Position chip drawn at the bottom-center of each slide (above the
- * platform-safe footer brand). Tells the reader where they are in the
- * deck and what to do next:
- *   non-final → "1 / 7   swipe →"
- *   final     → "↓ save this"
- * Skipped on platforms where `indicator: false` (none currently, but the
- * hook lives in the platform config for future single-image modes).
+ * Single-row footer combining brand + slide indicator on one strip so
+ * the bottom doesn't waste a fifth of the slide on two stacked rows.
+ *   left   : 角落書屋 · jiaoshoo.com
+ *   right  : 1/8 · swipe →   (or)   ↓ save this
  */
-function drawSlideIndicator(ctx, w, h, idx, total, opts) {
-  if (!opts || !opts.indicator) return;
-  const safeBottom = (opts.safeBottom) || 0;
-  const y = h - safeBottom - Math.round(h * 0.085);
-  const isFinal = idx === total - 1;
-  const text = isFinal
-    ? '↓ save this'
-    : `${idx + 1} / ${total}   swipe →`;
-  ctx.fillStyle = isFinal ? '#a06428' : MUTED;
-  ctx.font = `500 ${Math.round(h * 0.016)}px ${FONT_MONO}`;
-  ctx.textAlign = 'center';
+function bottomStrip(ctx, w, h, idx, total, theme, opts) {
+  const safeBottom = (opts && opts.safeBottom) || 0;
+  const y = h - safeBottom - Math.round(h * 0.045);
+  const padX = Math.round(w * 0.07);
   ctx.textBaseline = 'middle';
-  ctx.fillText(text, w / 2, y);
+
+  ctx.fillStyle = theme.muted;
+  ctx.font = `500 ${Math.round(h * 0.016)}px ${FONT_CN}`;
+  ctx.textAlign = 'left';
+  ctx.fillText(BRAND_CN, padX, y);
+
+  ctx.font = `400 ${Math.round(h * 0.013)}px ${FONT_MONO}`;
+  const brandWidth = ctx.measureText(BRAND_CN).width;
+  ctx.fillStyle = theme.muted;
+  ctx.fillText('· jiaoshoo.com', padX + brandWidth + Math.round(w * 0.012), y);
+
+  if (opts && opts.indicator) {
+    const isFinal = idx === total - 1;
+    const text = isFinal ? '↓ save this' : `${idx + 1} / ${total}  swipe →`;
+    ctx.fillStyle = isFinal ? (theme.accent) : theme.muted;
+    ctx.font = `500 ${Math.round(h * 0.015)}px ${FONT_MONO}`;
+    ctx.textAlign = 'right';
+    ctx.fillText(text, w - padX, y);
+  }
 }
 
-function drawCenteredText(ctx, text, x, y, font, color, align = 'center') {
-  ctx.fillStyle = color;
-  ctx.font = font;
-  ctx.textAlign = align;
-  ctx.textBaseline = 'middle';
-  ctx.fillText(text, x, y);
+function tokenize(text) {
+  const out = [];
+  let buf = '';
+  let mode = 'none';
+  for (const ch of text) {
+    const isCjk = /[　-鿿＀-￯]/.test(ch);
+    const isSpace = /\s/.test(ch);
+    if (isCjk) {
+      if (buf) out.push(buf);
+      buf = '';
+      out.push(ch);
+      mode = 'cjk';
+    } else if (isSpace) {
+      buf += ' ';
+      out.push(buf);
+      buf = '';
+      mode = 'space';
+    } else {
+      if (mode === 'cjk' && out.length && /[.,;:!?…]/.test(ch)) {
+        out[out.length - 1] += ch;
+        continue;
+      }
+      buf += ch;
+      mode = 'ascii';
+    }
+  }
+  if (buf) out.push(buf);
+  return out;
 }
 
 function wrapLines(ctx, text, maxWidth) {
-  // Word-wrap that handles CJK by breaking on any character boundary when
-  // a "word" would overflow on its own. ASCII tokens stay intact.
   const tokens = tokenize(text);
   const lines = [];
   let current = '';
@@ -479,7 +573,6 @@ function wrapLines(ctx, text, maxWidth) {
       current = next;
     } else {
       if (current) lines.push(current);
-      // If the single token still overflows (long ASCII word), hard-break it.
       if (ctx.measureText(tok).width > maxWidth) {
         let buf = '';
         for (const ch of tok) {
@@ -500,47 +593,12 @@ function wrapLines(ctx, text, maxWidth) {
   return lines;
 }
 
-function tokenize(text) {
-  // Split into ASCII words (with trailing space) and individual CJK chars.
-  // Punctuation sticks to whatever it follows.
-  const out = [];
-  let buf = '';
-  let mode = 'none';   // 'ascii' | 'cjk' | 'space'
-  for (const ch of text) {
-    const isCjk = /[　-鿿＀-￯]/.test(ch);
-    const isSpace = /\s/.test(ch);
-    if (isCjk) {
-      if (buf) out.push(buf);
-      buf = '';
-      out.push(ch);
-      mode = 'cjk';
-    } else if (isSpace) {
-      buf += ' ';
-      out.push(buf);
-      buf = '';
-      mode = 'space';
-    } else {
-      if (mode === 'cjk') {
-        // Punctuation following CJK: stick to previous char.
-        if (out.length && /[.,;:!?…]/.test(ch)) {
-          out[out.length - 1] += ch;
-          continue;
-        }
-      }
-      buf += ch;
-      mode = 'ascii';
-    }
-  }
-  if (buf) out.push(buf);
-  return out;
-}
-
 function drawWrapped(ctx, text, x, y, maxWidth, lineHeight, font, color, align = 'left') {
   ctx.font = font;
-  const lines = wrapLines(ctx, text, maxWidth);
   ctx.fillStyle = color;
   ctx.textAlign = align;
   ctx.textBaseline = 'top';
+  const lines = wrapLines(ctx, text, maxWidth);
   let cy = y;
   for (const line of lines) {
     ctx.fillText(line, x, cy);
@@ -549,412 +607,12 @@ function drawWrapped(ctx, text, x, y, maxWidth, lineHeight, font, color, align =
   return cy;
 }
 
-function hexWithAlpha(hex, a) {
-  const m = hex.replace('#', '');
-  const n = parseInt(m, 16);
-  const r = (n >> 16) & 255, g = (n >> 8) & 255, b = n & 255;
-  return `rgba(${r},${g},${b},${a})`;
-}
-
-// ── Slide makers ────────────────────────────────────────────────────────
-//
-// Hook slide — used when share.hook is authored. Glyph drops to a quiet
-// background watermark; the question/claim takes the foreground. This is
-// the single most important slide for swipe-through on social.
-function makeHookSlide(source) {
-  return {
-    id: 'hook',
-    kind: 'hook',
-    label: 'Hook',
-    render(ctx, w, h, ctxOpts) {
-      const { cat, hero, share } = source;
-      drawBackground(ctx, w, h, cat);
-      drawWatermark(ctx, w, h, hero.glyph || cat.glyph, cat.color);
-      drawEyebrow(ctx, w, h,
-        `${cat.label.toUpperCase()} · ${cat.glyph} ${cat.pinyin}`,
-        BRAND_EN.toUpperCase(), ctxOpts);
-
-      const padX = Math.round(w * 0.085);
-      const top = (ctxOpts.safeTop || 0) + Math.round(h * 0.18);
-      const maxW = w - padX * 2;
-      // Hook copy size scales with how much there is — a tight 8-word hook
-      // can go large; a 30-word setup needs to step down so it doesn't
-      // wrap into a wall.
-      const len = share.hook.length;
-      const baseFs = len < 70  ? Math.round(h * 0.062)
-                   : len < 130 ? Math.round(h * 0.05)
-                   :             Math.round(h * 0.04);
-      const lh = Math.round(baseFs * 1.22);
-      drawWrapped(ctx, share.hook, padX, top, maxW, lh,
-        `700 ${baseFs}px ${FONT_EN}`, INK, 'left');
-
-      // Quiet eyebrow tag below the hook so it reads as "this is a hook,
-      // there's more if you swipe".
-      ctx.font = `500 ${Math.round(h * 0.018)}px ${FONT_MONO}`;
-      ctx.fillStyle = cat.color;
-      ctx.textAlign = 'left';
-      ctx.textBaseline = 'top';
-      ctx.fillText('a thread on ' + (hero.glyph || cat.glyph), padX, h - (ctxOpts.safeBottom || 0) - Math.round(h * 0.11));
-
-      drawFooterBrand(ctx, w, h, ctxOpts);
-    },
-  };
-}
-
-// Beat slide — one payoff statement per slide. Either an authored
-// share.beats[i] or a derived sentence from the etymology paragraph.
-function makeBeatSlide(source, beat, idx, total) {
-  return {
-    id: 'beat-' + idx,
-    kind: 'beat',
-    label: `Beat ${idx}/${total}`,
-    render(ctx, w, h, ctxOpts) {
-      const { cat, hero } = source;
-      drawBackground(ctx, w, h, cat);
-      drawWatermark(ctx, w, h, hero.glyph || cat.glyph, cat.color);
-      drawEyebrow(ctx, w, h,
-        beat.label ? beat.label.toUpperCase() : `${idx} OF ${total}`,
-        BRAND_EN.toUpperCase(), ctxOpts);
-
-      const padX = Math.round(w * 0.085);
-      const top = (ctxOpts.safeTop || 0) + Math.round(h * 0.22);
-      const maxW = w - padX * 2;
-      const len = beat.text.length;
-      const baseFs = len < 90  ? Math.round(h * 0.046)
-                   : len < 180 ? Math.round(h * 0.038)
-                   :             Math.round(h * 0.032);
-      const lh = Math.round(baseFs * 1.4);
-      drawWrapped(ctx, beat.text, padX, top, maxW, lh,
-        `400 ${baseFs}px ${FONT_EN}`, INK, 'left');
-
-      // Small accent rule under the eyebrow so beats feel like a series.
-      ctx.fillStyle = cat.color;
-      ctx.fillRect(padX, top - Math.round(h * 0.04), Math.round(w * 0.08), 2);
-
-      drawFooterBrand(ctx, w, h, ctxOpts);
-    },
-  };
-}
-
-function makeTitleSlide(source) {
-  return {
-    id: 'title',
-    kind: 'title',
-    label: 'Title',
-    render(ctx, w, h, ctxOpts) {
-      const { cat, hero, category } = source;
-      drawBackground(ctx, w, h, cat);
-      drawWatermark(ctx, w, h, cat.glyph, cat.color);
-      drawEyebrow(ctx, w, h,
-        `${cat.label.toUpperCase()} · ${cat.glyph} ${cat.pinyin}`,
-        BRAND_EN.toUpperCase());
-
-      const cy = h * 0.5;
-      const glyph = hero.glyph || cat.glyph;
-      const len = [...glyph].length;
-      const glyphSize = len === 1 ? Math.round(h * 0.36)
-                       : len === 2 ? Math.round(h * 0.24)
-                       : len === 3 ? Math.round(h * 0.18)
-                       : len === 4 ? Math.round(h * 0.15)
-                       : Math.max(Math.round(h * 0.08), Math.round(h * 0.15) - (len - 4) * Math.round(h * 0.012));
-      drawCenteredText(ctx, glyph, w / 2, cy - h * 0.06,
-        `700 ${glyphSize}px ${FONT_CN}`, cat.color);
-
-      if (hero.pinyin) {
-        drawCenteredText(ctx, hero.pinyin, w / 2, cy + h * 0.13,
-          `500 ${Math.round(h * 0.038)}px ${FONT_MONO}`, '#a06428');
-      }
-      if (hero.en) {
-        const maxW = w * 0.78;
-        ctx.font = `400 ${Math.round(h * 0.028)}px ${FONT_EN}`;
-        const lines = wrapLines(ctx, hero.en, maxW);
-        const lh = Math.round(h * 0.035);
-        const startY = cy + h * 0.19;
-        lines.slice(0, 2).forEach((ln, i) => {
-          drawCenteredText(ctx, ln, w / 2, startY + i * lh,
-            `400 ${Math.round(h * 0.028)}px ${FONT_EN}`, INK);
-        });
-      }
-      drawFooterBrand(ctx, w, h, ctxOpts);
-    },
-  };
-}
-
-function makeProseSlide(source, en, eyebrow, section) {
-  return {
-    id: 'prose-' + en.toLowerCase(),
-    kind: 'prose',
-    label: en,
-    render(ctx, w, h, ctxOpts) {
-      const { cat } = source;
-      drawBackground(ctx, w, h, cat);
-      const watermark = section.glyph || source.hero.glyph || cat.glyph;
-      drawWatermark(ctx, w, h, watermark, cat.color);
-      drawEyebrow(ctx, w, h, eyebrow.toUpperCase(), BRAND_EN.toUpperCase());
-
-      const padX = Math.round(w * 0.085);
-      let y = Math.round(h * 0.16);
-
-      if (section.label) {
-        drawCenteredText(ctx, section.label, w / 2, y,
-          `500 ${Math.round(h * 0.022)}px ${FONT_MONO}`, cat.color);
-        y += Math.round(h * 0.04);
-      }
-
-      // Title line.
-      drawCenteredText(ctx, en, w / 2, y,
-        `700 ${Math.round(h * 0.038)}px ${FONT_EN}`, INK);
-      y += Math.round(h * 0.06);
-
-      // Body paragraph.
-      const fs = Math.round(h * 0.024);
-      const lh = Math.round(fs * 1.55);
-      ctx.font = `400 ${fs}px ${FONT_EN}`;
-      const maxW = w - padX * 2;
-      const truncated = truncateForLines(ctx, section.body, maxW, Math.floor((h * 0.6) / lh));
-      drawWrapped(ctx, truncated, padX, y, maxW, lh,
-        `400 ${fs}px ${FONT_EN}`, INK, 'left');
-
-      drawFooterBrand(ctx, w, h, ctxOpts);
-    },
-  };
-}
-
-function makeCardSlide(source, card, idx, total) {
-  return {
-    id: 'card-' + idx,
-    kind: 'card',
-    label: `Card ${idx}/${total}`,
-    render(ctx, w, h, ctxOpts) {
-      const { cat } = source;
-      drawBackground(ctx, w, h, cat);
-      drawWatermark(ctx, w, h, card.cn[0] || cat.glyph, cat.color);
-      drawEyebrow(ctx, w, h,
-        `VOCAB · ${idx}/${total}`,
-        BRAND_EN.toUpperCase());
-
-      const padX = Math.round(w * 0.085);
-      let y = Math.round(h * 0.22);
-
-      // Hanzi title.
-      const hanziSize = card.cn.length <= 2 ? Math.round(h * 0.16)
-                       : card.cn.length <= 4 ? Math.round(h * 0.11)
-                       : Math.round(h * 0.085);
-      drawCenteredText(ctx, card.cn, w / 2, y,
-        `700 ${hanziSize}px ${FONT_CN}`, cat.color);
-      y += Math.round(hanziSize * 0.85);
-
-      if (card.py) {
-        drawCenteredText(ctx, card.py, w / 2, y,
-          `500 ${Math.round(h * 0.03)}px ${FONT_MONO}`, '#a06428');
-        y += Math.round(h * 0.05);
-      }
-
-      if (card.en) {
-        const fs = Math.round(h * 0.026);
-        ctx.font = `400 ${fs}px ${FONT_EN}`;
-        const lines = wrapLines(ctx, card.en, w - padX * 2);
-        lines.slice(0, 2).forEach((ln, i) => {
-          drawCenteredText(ctx, ln, w / 2, y + i * Math.round(fs * 1.4),
-            `400 ${fs}px ${FONT_EN}`, INK);
-        });
-        y += Math.min(2, lines.length) * Math.round(fs * 1.4) + Math.round(h * 0.025);
-      }
-
-      // Example block (if room).
-      if (card.example && card.example.cn) {
-        const blockY = Math.round(h * 0.62);
-        const blockH = Math.round(h * 0.28);
-        ctx.fillStyle = PAPER_2;
-        roundRect(ctx, padX, blockY, w - padX * 2, blockH, Math.round(h * 0.018));
-        ctx.fill();
-
-        let ey = blockY + Math.round(h * 0.04);
-        const exMax = w - padX * 2 - Math.round(w * 0.06);
-        const cnFs = Math.round(h * 0.024);
-        ctx.font = `500 ${cnFs}px ${FONT_CN}`;
-        const cnLines = wrapLines(ctx, card.example.cn, exMax);
-        cnLines.slice(0, 2).forEach((ln, i) => {
-          drawCenteredText(ctx, ln, w / 2, ey + i * Math.round(cnFs * 1.4),
-            `500 ${cnFs}px ${FONT_CN}`, INK);
-        });
-        ey += Math.min(2, cnLines.length) * Math.round(cnFs * 1.4) + Math.round(h * 0.018);
-
-        if (card.example.en) {
-          const enFs = Math.round(h * 0.018);
-          ctx.font = `400italic ${enFs}px ${FONT_EN}`;
-          const enLines = wrapLines(ctx, card.example.en, exMax);
-          enLines.slice(0, 2).forEach((ln, i) => {
-            drawCenteredText(ctx, ln, w / 2, ey + i * Math.round(enFs * 1.4),
-              `400italic ${enFs}px ${FONT_EN}`, MUTED);
-          });
-        }
-      }
-
-      drawFooterBrand(ctx, w, h, ctxOpts);
-    },
-  };
-}
-
-function makeChengyuSlide(source, cy, idx, total) {
-  return {
-    id: 'cy-' + idx,
-    kind: 'chengyu',
-    label: `Chengyu ${idx}/${total}`,
-    render(ctx, w, h, ctxOpts) {
-      const { cat } = source;
-      drawBackground(ctx, w, h, cat);
-      drawWatermark(ctx, w, h, '语', cat.color);
-      drawEyebrow(ctx, w, h, `CHENGYU · ${idx}/${total}`, BRAND_EN.toUpperCase());
-
-      const padX = Math.round(w * 0.085);
-      let y = Math.round(h * 0.26);
-
-      // Four-char display, drawn character-by-character so it always reads
-      // as a clean four-square regardless of how the source styled it.
-      const chars = [...cy.cn].slice(0, 4);
-      const cellSize = Math.round((w - padX * 2) / 4.5);
-      const totalW = cellSize * chars.length + (chars.length - 1) * Math.round(w * 0.02);
-      let cx = (w - totalW) / 2;
-      ctx.fillStyle = cat.color;
-      ctx.font = `700 ${Math.round(cellSize * 0.85)}px ${FONT_CN}`;
-      ctx.textAlign = 'center';
-      ctx.textBaseline = 'middle';
-      chars.forEach(ch => {
-        ctx.fillText(ch, cx + cellSize / 2, y + cellSize / 2);
-        cx += cellSize + Math.round(w * 0.02);
-      });
-      y += cellSize + Math.round(h * 0.04);
-
-      if (cy.py) {
-        drawCenteredText(ctx, cy.py, w / 2, y,
-          `500 ${Math.round(h * 0.026)}px ${FONT_MONO}`, '#a06428');
-        y += Math.round(h * 0.045);
-      }
-      if (cy.lit) {
-        drawCenteredText(ctx, '"' + cy.lit + '"', w / 2, y,
-          `400italic ${Math.round(h * 0.022)}px ${FONT_EN}`, MUTED);
-        y += Math.round(h * 0.04);
-      }
-      if (cy.en) {
-        const fs = Math.round(h * 0.024);
-        ctx.font = `400 ${fs}px ${FONT_EN}`;
-        const lines = wrapLines(ctx, cy.en, w - padX * 2);
-        lines.slice(0, 3).forEach((ln, i) => {
-          drawCenteredText(ctx, ln, w / 2, y + i * Math.round(fs * 1.4),
-            `400 ${fs}px ${FONT_EN}`, INK);
-        });
-      }
-
-      drawFooterBrand(ctx, w, h, ctxOpts);
-    },
-  };
-}
-
-function makeChipsSlide(source) {
-  return {
-    id: 'related',
-    kind: 'related',
-    label: 'Related',
-    render(ctx, w, h, ctxOpts) {
-      const { cat } = source;
-      drawBackground(ctx, w, h, cat);
-      drawWatermark(ctx, w, h, '词', cat.color);
-      drawEyebrow(ctx, w, h, '词族 · CÍZÚ · RELATED', BRAND_EN.toUpperCase());
-
-      drawCenteredText(ctx, 'Vocabulary in this field', w / 2, Math.round(h * 0.16),
-        `500 ${Math.round(h * 0.028)}px ${FONT_EN}`, INK);
-
-      const padX = Math.round(w * 0.09);
-      const chips = source.chips.slice(0, 6);
-      const startY = Math.round(h * 0.26);
-      const rowH = Math.round(h * 0.105);
-
-      chips.forEach((chip, i) => {
-        const y = startY + i * rowH;
-        // Card row.
-        ctx.fillStyle = PAPER_2;
-        roundRect(ctx, padX, y, w - padX * 2, rowH - Math.round(h * 0.015), Math.round(h * 0.012));
-        ctx.fill();
-        // Left color band.
-        ctx.fillStyle = cat.color;
-        ctx.fillRect(padX, y, Math.round(w * 0.008), rowH - Math.round(h * 0.015));
-
-        const innerX = padX + Math.round(w * 0.025);
-        const midY = y + (rowH - Math.round(h * 0.015)) / 2;
-
-        ctx.fillStyle = cat.color;
-        ctx.font = `700 ${Math.round(h * 0.035)}px ${FONT_CN}`;
-        ctx.textAlign = 'left';
-        ctx.textBaseline = 'middle';
-        ctx.fillText(chip.cn, innerX, midY);
-
-        const cnW = ctx.measureText(chip.cn).width;
-        ctx.fillStyle = '#a06428';
-        ctx.font = `500 ${Math.round(h * 0.020)}px ${FONT_MONO}`;
-        ctx.fillText(chip.py || '', innerX + cnW + Math.round(w * 0.02), midY);
-
-        if (chip.en) {
-          ctx.fillStyle = INK;
-          ctx.font = `400 ${Math.round(h * 0.022)}px ${FONT_EN}`;
-          ctx.textAlign = 'right';
-          const enText = truncate(chip.en, 38);
-          ctx.fillText(enText, w - padX - Math.round(w * 0.025), midY);
-        }
-      });
-
-      drawFooterBrand(ctx, w, h, ctxOpts);
-    },
-  };
-}
-
-function makeAttributionSlide(source) {
-  return {
-    id: 'attribution',
-    kind: 'attribution',
-    label: 'Read more',
-    render(ctx, w, h, ctxOpts) {
-      const { cat, hero } = source;
-      drawBackground(ctx, w, h, cat);
-      drawWatermark(ctx, w, h, cat.glyph, cat.color);
-      drawEyebrow(ctx, w, h,
-        `${cat.label.toUpperCase()} · ${cat.glyph} ${cat.pinyin}`,
-        BRAND_EN.toUpperCase());
-
-      const cy = h * 0.42;
-      drawCenteredText(ctx, BRAND_CN, w / 2, cy - h * 0.06,
-        `700 ${Math.round(h * 0.085)}px ${FONT_CN}`, cat.color);
-      drawCenteredText(ctx, BRAND_EN, w / 2, cy + h * 0.005,
-        `500 ${Math.round(h * 0.025)}px ${FONT_MONO}`, MUTED);
-
-      drawCenteredText(ctx, 'Read the full entry', w / 2, cy + h * 0.09,
-        `400 ${Math.round(h * 0.028)}px ${FONT_EN}`, INK);
-
-      // URL line. Truncate sensibly for stories where the path could overflow.
-      const urlLine = 'jiaoshoo.com/' + source.sourcePath;
-      const padX = Math.round(w * 0.07);
-      ctx.font = `500 ${Math.round(h * 0.02)}px ${FONT_MONO}`;
-      const urlText = truncateToWidth(ctx, urlLine, w - padX * 2);
-      drawCenteredText(ctx, urlText, w / 2, cy + h * 0.14,
-        `500 ${Math.round(h * 0.02)}px ${FONT_MONO}`, '#a06428');
-
-      // Decorative seal-like stamp using the category glyph.
-      const sealCy = cy + h * 0.24;
-      ctx.save();
-      ctx.fillStyle = cat.color;
-      ctx.beginPath();
-      ctx.arc(w / 2, sealCy, h * 0.04, 0, Math.PI * 2);
-      ctx.fill();
-      ctx.fillStyle = PAPER;
-      ctx.font = `700 ${Math.round(h * 0.045)}px ${FONT_CN}`;
-      ctx.textAlign = 'center';
-      ctx.textBaseline = 'middle';
-      ctx.fillText('屋', w / 2, sealCy + h * 0.002);
-      ctx.restore();
-
-      drawFooterBrand(ctx, w, h, ctxOpts);
-    },
-  };
+function drawText(ctx, text, x, y, font, color, align = 'center', baseline = 'middle') {
+  ctx.fillStyle = color;
+  ctx.font = font;
+  ctx.textAlign = align;
+  ctx.textBaseline = baseline;
+  ctx.fillText(text, x, y);
 }
 
 function roundRect(ctx, x, y, w, h, r) {
@@ -967,26 +625,432 @@ function roundRect(ctx, x, y, w, h, r) {
   ctx.closePath();
 }
 
+function hexA(hex, a) {
+  const m = hex.replace('#', '');
+  const n = parseInt(m, 16);
+  return `rgba(${(n >> 16) & 255},${(n >> 8) & 255},${n & 255},${a})`;
+}
+
 function truncate(s, n) {
   if (!s) return '';
   return s.length > n ? s.slice(0, n - 1).trim() + '…' : s;
 }
 
-function truncateToWidth(ctx, s, maxWidth) {
-  if (ctx.measureText(s).width <= maxWidth) return s;
-  let lo = 0, hi = s.length;
-  while (lo < hi) {
-    const mid = (lo + hi + 1) >> 1;
-    if (ctx.measureText(s.slice(0, mid) + '…').width <= maxWidth) lo = mid; else hi = mid - 1;
-  }
-  return s.slice(0, lo).trim() + '…';
+// ── Slide makers ────────────────────────────────────────────────────────
+//
+// Hook slide — pull-quote treatment. Big bleed-glyph at the right edge,
+// hook copy left-aligned occupying ~60% of the canvas. The single most
+// important slide for swipe-through.
+function makeHookSlide(source, platform) {
+  return {
+    id: 'hook', kind: 'hook', label: 'Hook',
+    render(ctx, w, h, st) {
+      const { theme } = st;
+      const { cat, hero, share } = source;
+      fillBg(ctx, w, h, theme, cat);
+      topBand(ctx, w, h, cat.color, Math.round(h * 0.012));
+      // Notebook theme keeps things quiet — no glyph bleed.
+      if (platform.theme !== 'notebook') {
+        bleedGlyph(ctx, w, h, hero.glyph || cat.glyph, cat.color,
+          { opacity: platform.theme === 'ink' ? 0.15 : 0.12,
+            size: Math.round(h * 0.95), xRatio: 1.08, yRatio: 0.6 });
+      }
+      topEyebrow(ctx, w, h,
+        `${cat.label.toUpperCase()} · ${cat.glyph} ${cat.pinyin}`,
+        BRAND_EN.toUpperCase(), theme, st);
+
+      const padX = Math.round(w * 0.085);
+      const top = st.safeTop + Math.round(h * 0.18);
+      const maxW = Math.round(w * 0.78);  // leave room for the bleed glyph
+      const hookText = share.hook || hero.en || (hero.glyph + ' ' + hero.pinyin);
+      const len = hookText.length;
+      const baseFs = len < 60  ? Math.round(h * 0.072)
+                   : len < 110 ? Math.round(h * 0.058)
+                   : len < 170 ? Math.round(h * 0.046)
+                   :             Math.round(h * 0.038);
+      const lh = Math.round(baseFs * 1.18);
+      drawWrapped(ctx, hookText, padX, top, maxW, lh,
+        `700 ${baseFs}px ${FONT_EN}`, theme.ink, 'left');
+
+      // Subtle category-color underline below the hook to frame it.
+      const underY = top + Math.min(wrapLines(ctx, hookText, maxW).length, 6) * lh + Math.round(h * 0.02);
+      ctx.fillStyle = cat.color;
+      ctx.fillRect(padX, underY, Math.round(w * 0.12), 3);
+
+      // Tiny "a thread on 字" eyebrow at the bottom-left, above the strip.
+      const tagY = h - st.safeBottom - Math.round(h * 0.11);
+      ctx.fillStyle = theme.muted;
+      ctx.font = `500 ${Math.round(h * 0.018)}px ${FONT_MONO}`;
+      ctx.textAlign = 'left';
+      ctx.textBaseline = 'top';
+      ctx.fillText(`A thread on ${hero.glyph || cat.glyph}`, padX, tagY);
+
+      bottomStrip(ctx, w, h, st.idx, st.total, theme, st);
+    },
+  };
 }
 
-function truncateForLines(ctx, text, maxWidth, maxLines) {
-  const lines = wrapLines(ctx, text, maxWidth);
-  if (lines.length <= maxLines) return text;
-  const kept = lines.slice(0, maxLines).join('');
-  return truncate(kept, kept.length - 1) + '…';
+// Beat slide — numbered marginalia in the left gutter, body type in the
+// right column. Reads like an annotated page rather than a TOC entry.
+function makeBeatSlide(source, platform, beat, idx, total) {
+  return {
+    id: 'beat-' + idx, kind: 'beat', label: `Beat ${idx}/${total}`,
+    render(ctx, w, h, st) {
+      const { theme } = st;
+      const { cat } = source;
+      fillBg(ctx, w, h, theme, cat);
+      topBand(ctx, w, h, cat.color, Math.round(h * 0.006));
+      topEyebrow(ctx, w, h,
+        beat.label ? beat.label.toUpperCase() : `BEAT ${idx} / ${total}`,
+        BRAND_EN.toUpperCase(), theme, st);
+
+      // Big numeral in left gutter. Roman ordinals on notebook (editorial).
+      // Size and weight scale per theme: ink (Story) gets a smaller ordinal
+      // so the body type can carry the slide.
+      const numeral = platform.theme === 'notebook'
+        ? toRoman(idx)
+        : String(idx);
+      const padX = Math.round(w * 0.085);
+      const numY = st.safeTop + Math.round(h * 0.16);
+      const numFs = platform.theme === 'notebook' ? Math.round(h * 0.075)
+                  : platform.theme === 'ink'      ? Math.round(h * 0.10)
+                  :                                  Math.round(h * 0.16);
+      ctx.fillStyle = cat.color;
+      ctx.globalAlpha = platform.theme === 'notebook' ? 1
+                      : platform.theme === 'ink'      ? 1
+                      :                                  0.85;
+      ctx.font = `700 ${numFs}px ${FONT_EN}`;
+      ctx.textAlign = 'left';
+      ctx.textBaseline = 'top';
+      ctx.fillText(numeral, padX, numY);
+      ctx.globalAlpha = 1;
+
+      // Body text — start below the numeral. Story (ink) gets bigger
+      // body type since the canvas is 1920px tall.
+      const bodyTop = numY + Math.round(numFs * 1.25);
+      const maxW = w - padX * 2;
+      const len = beat.text.length;
+      const scale = platform.theme === 'ink' ? 1.4 : 1.0;
+      const baseFs = len < 80  ? Math.round(h * 0.046 * scale)
+                   : len < 160 ? Math.round(h * 0.038 * scale)
+                   :             Math.round(h * 0.032 * scale);
+      const lh = Math.round(baseFs * 1.42);
+      drawWrapped(ctx, beat.text, padX, bodyTop, maxW, lh,
+        `400 ${baseFs}px ${FONT_EN}`, theme.ink, 'left');
+
+      bottomStrip(ctx, w, h, st.idx, st.total, theme, st);
+    },
+  };
+}
+
+function toRoman(n) {
+  const map = { 1: 'I', 2: 'II', 3: 'III', 4: 'IV', 5: 'V', 6: 'VI' };
+  return map[n] || String(n);
+}
+
+// Card slide — split layout. Hanzi takes the left half (huge, category
+// color); pinyin + gloss + definition stack in the right column. When an
+// example sentence is present, it tucks under the gloss in a soft block;
+// when absent, the right column reclaims the space for the definition
+// rather than leaving dead air.
+function makeCardSlide(source, platform, card, idx, total) {
+  return {
+    id: 'card-' + idx, kind: 'card', label: `Card ${idx}/${total}`,
+    render(ctx, w, h, st) {
+      const { theme } = st;
+      const { cat } = source;
+      fillBg(ctx, w, h, theme, cat);
+      topBand(ctx, w, h, cat.color, Math.round(h * 0.006));
+      topEyebrow(ctx, w, h, `VOCAB · ${idx} / ${total}`, BRAND_EN.toUpperCase(), theme, st);
+
+      // Left: hanzi block, vertically centered in the canvas body.
+      const padX = Math.round(w * 0.07);
+      const bodyTop = st.safeTop + Math.round(h * 0.13);
+      const bodyBot = h - st.safeBottom - Math.round(h * 0.13);
+      const bodyH = bodyBot - bodyTop;
+      const leftColW = Math.round(w * 0.42);
+      const rightColX = padX + leftColW + Math.round(w * 0.04);
+      const rightColW = w - rightColX - padX;
+
+      const hanzi = card.cn;
+      const len = [...hanzi].length;
+      // Size such that the full word fits inside leftColW with comfortable
+      // padding. CJK glyphs render close to their font-size in width, so
+      // budget = leftColW * 0.85, divided by char count.
+      const widthBudget = leftColW * 0.85;
+      const heightBudget = bodyH * 0.65;
+      let hanziSize = Math.floor(widthBudget / Math.max(1, len));
+      // But also clamp to a sane vertical proportion so a single char
+      // doesn't tower or a 4-char word vanish.
+      hanziSize = Math.min(hanziSize, Math.round(heightBudget));
+      hanziSize = Math.max(hanziSize, Math.round(h * 0.06));
+      const hanziCx = padX + leftColW / 2;
+      const hanziCy = bodyTop + bodyH / 2;
+      drawText(ctx, hanzi, hanziCx, hanziCy,
+        `700 ${hanziSize}px ${FONT_CN}`, cat.color, 'center', 'middle');
+
+      // Vertical hairline rule between columns.
+      ctx.fillStyle = theme.rule;
+      ctx.fillRect(padX + leftColW + Math.round(w * 0.02), bodyTop + Math.round(h * 0.04),
+        1, bodyH - Math.round(h * 0.08));
+
+      // Right column: pinyin > gloss > definition (or example).
+      let ry = bodyTop + Math.round(h * 0.04);
+      drawText(ctx, card.py, rightColX, ry,
+        `500 ${Math.round(h * 0.028)}px ${FONT_MONO}`, theme.accent, 'left', 'top');
+      ry += Math.round(h * 0.05);
+
+      if (card.en) {
+        const enFs = Math.round(h * 0.034);
+        ry = drawWrapped(ctx, card.en, rightColX, ry, rightColW,
+          Math.round(enFs * 1.3), `600 ${enFs}px ${FONT_EN}`, theme.ink, 'left');
+        ry += Math.round(h * 0.025);
+      }
+
+      // Gloss/definition or example, whichever is present and richer.
+      const detail = card.example && card.example.cn
+        ? null
+        : (card.def || '');
+      if (detail) {
+        const detailFs = Math.round(h * 0.022);
+        ry = drawWrapped(ctx, truncate(detail, 320), rightColX, ry, rightColW,
+          Math.round(detailFs * 1.45), `400 ${detailFs}px ${FONT_EN}`, theme.ink2, 'left');
+      } else if (card.example && card.example.cn) {
+        // Example block — soft inset sized to its content (not stretched
+        // to the bottom of the canvas). Below it, an "example ·" marginalia
+        // label pinned to the top-left of the block to ground it.
+        const exPad = Math.round(h * 0.025);
+        const cnFs = Math.round(h * 0.026);
+        const enFs = Math.round(h * 0.020);
+        const cnLines = wrapLines(ctx, card.example.cn, rightColW - Math.round(w * 0.02));
+        const cnLineCount = Math.min(cnLines.length, 3);
+        const enLines = card.example.en
+          ? wrapLines(ctx, card.example.en, rightColW - Math.round(w * 0.02))
+          : [];
+        const enLineCount = Math.min(enLines.length, 3);
+        const contentH = cnLineCount * Math.round(cnFs * 1.4)
+                       + (enLineCount > 0 ? Math.round(h * 0.02) + enLineCount * Math.round(enFs * 1.4) : 0)
+                       + exPad * 2 + Math.round(h * 0.02);
+        const blockY = ry;
+        const blockH = Math.min(contentH, bodyBot - blockY - Math.round(h * 0.02));
+
+        ctx.fillStyle = hexA(cat.color, 0.07);
+        roundRect(ctx, rightColX - Math.round(w * 0.018), blockY,
+          rightColW + Math.round(w * 0.018), blockH, Math.round(h * 0.014));
+        ctx.fill();
+
+        // Tiny "EXAMPLE" tab on the block.
+        ctx.fillStyle = cat.color;
+        ctx.font = `500 ${Math.round(h * 0.013)}px ${FONT_MONO}`;
+        ctx.textAlign = 'left';
+        ctx.textBaseline = 'top';
+        ctx.fillText('EXAMPLE · 例句', rightColX, blockY + exPad - Math.round(h * 0.005));
+
+        let ey = blockY + exPad + Math.round(h * 0.025);
+        ey = drawWrapped(ctx, card.example.cn, rightColX, ey, rightColW - Math.round(w * 0.02),
+          Math.round(cnFs * 1.4), `500 ${cnFs}px ${FONT_CN}`, theme.ink, 'left');
+        if (card.example.en) {
+          ey += Math.round(h * 0.018);
+          drawWrapped(ctx, card.example.en, rightColX, ey, rightColW - Math.round(w * 0.02),
+            Math.round(enFs * 1.4), `400italic ${enFs}px ${FONT_EN}`, theme.muted, 'left');
+        }
+      }
+
+      bottomStrip(ctx, w, h, st.idx, st.total, theme, st);
+    },
+  };
+}
+
+// Chengyu slide — four-character display rendered as a square seal.
+// Each cell carries a hairline border; the whole block reads as a stamp
+// rather than four floating glyphs.
+function makeChengyuSlide(source, platform, cy, idx, total) {
+  return {
+    id: 'cy-' + idx, kind: 'chengyu', label: `Chengyu ${idx}/${total}`,
+    render(ctx, w, h, st) {
+      const { theme } = st;
+      const { cat } = source;
+      fillBg(ctx, w, h, theme, cat);
+      topBand(ctx, w, h, cat.color, Math.round(h * 0.006));
+      topEyebrow(ctx, w, h, `CHENGYU · ${idx} / ${total}`, BRAND_EN.toUpperCase(), theme, st);
+
+      const padX = Math.round(w * 0.085);
+      const bodyTop = st.safeTop + Math.round(h * 0.16);
+      const chars = [...cy.cn].slice(0, 4);
+
+      // Compute cell size such that the whole 4-grid fits ~50% of body width.
+      const gridW = Math.min(w - padX * 2, Math.round(w * 0.7));
+      const cellSize = Math.floor(gridW / chars.length) - 4;
+      const totalGridW = cellSize * chars.length + (chars.length - 1) * 4;
+      const startX = (w - totalGridW) / 2;
+      const gridY = bodyTop;
+
+      // Cells.
+      chars.forEach((ch, i) => {
+        const cx = startX + i * (cellSize + 4);
+        // Cell background: faint paper tint with category-color hairline.
+        ctx.fillStyle = hexA(cat.color, 0.04);
+        roundRect(ctx, cx, gridY, cellSize, cellSize, 4);
+        ctx.fill();
+        ctx.strokeStyle = hexA(cat.color, 0.5);
+        ctx.lineWidth = 1.5;
+        ctx.stroke();
+        // Glyph.
+        ctx.fillStyle = cat.color;
+        ctx.font = `700 ${Math.round(cellSize * 0.7)}px ${FONT_CN}`;
+        ctx.textAlign = 'center';
+        ctx.textBaseline = 'middle';
+        ctx.fillText(ch, cx + cellSize / 2, gridY + cellSize / 2);
+      });
+
+      let ry = gridY + cellSize + Math.round(h * 0.04);
+      if (cy.py) {
+        drawText(ctx, cy.py, w / 2, ry,
+          `500 ${Math.round(h * 0.026)}px ${FONT_MONO}`, theme.accent, 'center', 'top');
+        ry += Math.round(h * 0.045);
+      }
+      if (cy.lit) {
+        drawText(ctx, '"' + cy.lit + '"', w / 2, ry,
+          `400italic ${Math.round(h * 0.022)}px ${FONT_EN}`, theme.muted, 'center', 'top');
+        ry += Math.round(h * 0.04);
+      }
+      if (cy.en) {
+        const fs = Math.round(h * 0.028);
+        const lh = Math.round(fs * 1.4);
+        const lines = wrapLines(ctx, cy.en, w - padX * 2);
+        ctx.font = `400 ${fs}px ${FONT_EN}`;
+        lines.slice(0, 4).forEach((ln, i) => {
+          drawText(ctx, ln, w / 2, ry + i * lh,
+            `400 ${fs}px ${FONT_EN}`, theme.ink, 'center', 'top');
+        });
+      }
+      bottomStrip(ctx, w, h, st.idx, st.total, theme, st);
+    },
+  };
+}
+
+// Related slide — rows with category-color rule + clean meta. Tighter
+// row height than before so 6 chips don't span the full canvas.
+function makeRelatedSlide(source, platform) {
+  return {
+    id: 'related', kind: 'related', label: 'Related',
+    render(ctx, w, h, st) {
+      const { theme } = st;
+      const { cat } = source;
+      fillBg(ctx, w, h, theme, cat);
+      topBand(ctx, w, h, cat.color, Math.round(h * 0.006));
+      topEyebrow(ctx, w, h, '词族 · CÍZÚ · IN THIS FIELD', BRAND_EN.toUpperCase(), theme, st);
+
+      const padX = Math.round(w * 0.07);
+      const chips = source.chips.slice(0, 6);
+      const blockTop = st.safeTop + Math.round(h * 0.16);
+      const blockBot = h - st.safeBottom - Math.round(h * 0.13);
+      const rowH = Math.floor((blockBot - blockTop) / chips.length);
+
+      chips.forEach((chip, i) => {
+        const y = blockTop + i * rowH;
+        const innerH = rowH - Math.round(h * 0.012);
+        // Row background.
+        ctx.fillStyle = hexA(cat.color, 0.05);
+        roundRect(ctx, padX, y, w - padX * 2, innerH, 6);
+        ctx.fill();
+        // Left rule.
+        ctx.fillStyle = cat.color;
+        ctx.fillRect(padX, y, Math.round(w * 0.006), innerH);
+
+        const innerX = padX + Math.round(w * 0.025);
+        const midY = y + innerH / 2;
+
+        // CN hanzi.
+        const cnFs = Math.round(h * 0.038);
+        drawText(ctx, chip.cn, innerX, midY,
+          `700 ${cnFs}px ${FONT_CN}`, cat.color, 'left', 'middle');
+        ctx.font = `700 ${cnFs}px ${FONT_CN}`;
+        const cnW = ctx.measureText(chip.cn).width;
+
+        // Pinyin to the right of CN.
+        if (chip.py) {
+          drawText(ctx, chip.py, innerX + cnW + Math.round(w * 0.022), midY,
+            `500 ${Math.round(h * 0.020)}px ${FONT_MONO}`, theme.accent, 'left', 'middle');
+        }
+
+        // English right-aligned.
+        if (chip.en) {
+          drawText(ctx, truncate(chip.en, 36),
+            w - padX - Math.round(w * 0.025), midY,
+            `400 ${Math.round(h * 0.022)}px ${FONT_EN}`, theme.ink, 'right', 'middle');
+        }
+      });
+      bottomStrip(ctx, w, h, st.idx, st.total, theme, st);
+    },
+  };
+}
+
+// Closer — clean attribution slide. Big seal, brand wordmark, single
+// CTA line. No watermark glyph (it would crowd the seal).
+function makeCloserSlide(source, platform) {
+  return {
+    id: 'closer', kind: 'closer', label: 'Read more',
+    render(ctx, w, h, st) {
+      const { theme } = st;
+      const { cat, share } = source;
+      fillBg(ctx, w, h, theme, cat);
+      topBand(ctx, w, h, cat.color, Math.round(h * 0.012));
+      topEyebrow(ctx, w, h,
+        `${cat.label.toUpperCase()} · ${cat.glyph} ${cat.pinyin}`,
+        BRAND_EN.toUpperCase(), theme, st);
+
+      // Tight composition — brand wordmark, seal directly below, then CTA.
+      // Vertically centered around the canvas midpoint so there's no
+      // bottom dead air.
+      const cy = h * 0.5;
+      const padX = Math.round(w * 0.1);
+
+      // Top: tiny "read more →" prompt to set up the wordmark.
+      drawText(ctx, 'Read the full entry', w / 2, cy - h * 0.18,
+        `400italic ${Math.round(h * 0.024)}px ${FONT_EN}`, theme.muted, 'center', 'middle');
+
+      // Brand wordmark.
+      drawText(ctx, BRAND_CN, w / 2, cy - h * 0.10,
+        `700 ${Math.round(h * 0.105)}px ${FONT_CN}`, cat.color, 'center', 'middle');
+      drawText(ctx, BRAND_EN, w / 2, cy - h * 0.02,
+        `500 ${Math.round(h * 0.024)}px ${FONT_MONO}`, theme.muted, 'center', 'middle');
+
+      // Seal directly under the wordmark — small but present.
+      const sealCy = cy + h * 0.05;
+      if (platform.theme === 'notebook') {
+        ctx.strokeStyle = cat.color;
+        ctx.lineWidth = 2;
+        ctx.beginPath();
+        ctx.arc(w / 2, sealCy, h * 0.035, 0, Math.PI * 2);
+        ctx.stroke();
+        ctx.fillStyle = cat.color;
+      } else {
+        ctx.fillStyle = cat.color;
+        ctx.beginPath();
+        ctx.arc(w / 2, sealCy, h * 0.038, 0, Math.PI * 2);
+        ctx.fill();
+        ctx.fillStyle = theme.bg;
+      }
+      ctx.font = `700 ${Math.round(h * 0.042)}px ${FONT_CN}`;
+      ctx.textAlign = 'center';
+      ctx.textBaseline = 'middle';
+      ctx.fillText('屋', w / 2, sealCy + h * 0.003);
+
+      // CTA at the bottom of the composition — authored or default.
+      const ctaText = share.cta || 'jiaoshoo.com';
+      const ctaY = cy + h * 0.16;
+      const ctaFs = Math.round(h * 0.028);
+      const ctaLines = wrapLines(ctx, ctaText, w - padX * 2);
+      ctx.font = `400 ${ctaFs}px ${FONT_EN}`;
+      ctaLines.slice(0, 2).forEach((ln, i) => {
+        drawText(ctx, ln, w / 2, ctaY + i * Math.round(ctaFs * 1.4),
+          `400 ${ctaFs}px ${FONT_EN}`, theme.ink, 'center', 'middle');
+      });
+
+      bottomStrip(ctx, w, h, st.idx, st.total, theme, st);
+    },
+  };
 }
 
 // ── Render pipeline ─────────────────────────────────────────────────────
@@ -999,7 +1063,7 @@ async function rebuild() {
     state.slides = buildSlides(state.source, state.platform);
     await renderAllPreviews();
     document.querySelector('[data-share-download-zip]').disabled = false;
-    setStatus(`${state.slides.length} slides rendered. Download all or grab one at a time.`, 'ok');
+    setStatus(`${state.slides.length} slides rendered for ${state.platform.label} (${state.platform.sub}).`, 'ok');
   } catch (err) {
     console.error(err);
     setStatus('Rendering failed. Check the console for details.', 'err');
@@ -1010,11 +1074,11 @@ async function rebuild() {
 
 async function waitForFonts() {
   if (!document.fonts) return;
-  // Touch the fonts we plan to use so the browser commits to loading them.
   await Promise.all([
     document.fonts.load(`700 80px "Noto Serif SC"`),
     document.fonts.load(`500 32px "Noto Serif SC"`),
     document.fonts.load(`400 32px "EB Garamond"`),
+    document.fonts.load(`700 64px "EB Garamond"`),
     document.fonts.load(`500 24px "JetBrains Mono"`),
   ]);
   await document.fonts.ready;
@@ -1024,14 +1088,10 @@ async function renderAllPreviews() {
   const host = document.querySelector('[data-share-preview]');
   host.hidden = false;
   host.innerHTML = '';
+  host.dataset.ratio = state.platform.ratio;
   const platform = state.platform;
   const { w, h } = platform;
-  const ctxOpts = {
-    safeTop: platform.safeTop,
-    safeBottom: platform.safeBottom,
-    indicator: platform.indicator,
-    platform: platform.key,
-  };
+  const baseSt = ctxState(platform);
 
   for (let i = 0; i < state.slides.length; i++) {
     const slide = state.slides[i];
@@ -1045,51 +1105,31 @@ async function renderAllPreviews() {
     canvas.className = 'share-slide-canvas';
     canvas.setAttribute('aria-label', `Slide ${i + 1}: ${slide.label}`);
     const ctx = canvas.getContext('2d');
-    slide.render(ctx, w, h, ctxOpts);
-    // Position indicator drawn AFTER the slide body so it sits on top of
-    // any background watermark and isn't overwritten by slide content.
-    drawSlideIndicator(ctx, w, h, i, state.slides.length, ctxOpts);
+    slide.render(ctx, w, h, { ...baseSt, idx: i, total: state.slides.length });
 
     const meta = document.createElement('div');
     meta.className = 'share-slide-meta';
     meta.innerHTML = `
-      <span class="share-slide-num">Slide ${i + 1}</span>
+      <span class="share-slide-num">${String(i + 1).padStart(2, '0')}</span>
       <span class="share-slide-label">${escapeHtml(slide.label)}</span>
-      <button type="button" class="share-slide-dl" data-share-slide-index="${i}">Download PNG</button>
+      <button type="button" class="share-slide-dl" data-share-slide-index="${i}">PNG</button>
     `;
-
     card.appendChild(canvas);
     card.appendChild(meta);
     host.appendChild(card);
   }
 }
 
-function onSlideAction(e) {
-  const btn = e.target.closest('[data-share-slide-index]');
-  if (!btn) return;
-  const i = parseInt(btn.dataset.shareSlideIndex, 10);
-  downloadSlide(i);
-}
-
-function setStatus(msg, kind) {
-  const el = document.querySelector('[data-share-status]');
-  el.hidden = false;
-  el.textContent = msg;
-  el.dataset.kind = kind || '';
-}
-
 // ── Downloads ───────────────────────────────────────────────────────────
 function slugForSlide(i) {
   const slide = state.slides[i];
-  const fmt = state.platform.key;
   const sourceSlug = (state.source.sourcePath.split('/').pop() || 'entry').replace(/\.html$/, '');
-  return `shuwu-${sourceSlug}-${fmt}-${String(i + 1).padStart(2, '0')}-${slide.id}.png`;
+  return `shuwu-${sourceSlug}-${state.platform.key}-${String(i + 1).padStart(2, '0')}-${slide.id}.png`;
 }
 
 async function canvasForSlide(i) {
   const card = document.querySelectorAll('.share-slide-card')[i];
-  if (!card) return null;
-  return card.querySelector('canvas');
+  return card ? card.querySelector('canvas') : null;
 }
 
 async function downloadSlide(i) {
@@ -1138,8 +1178,6 @@ function triggerDownload(blob, filename) {
 let _jszipPromise = null;
 function loadJSZip() {
   if (_jszipPromise) return _jszipPromise;
-  // The exports builder loads JSZip via the same browser shim. Reuse it so
-  // we don't double-fetch the library when both pages are open.
   _jszipPromise = import('../../scripts/anki-apkg-browser.mjs').then(mod => mod.ensureJSZip());
   return _jszipPromise;
 }
