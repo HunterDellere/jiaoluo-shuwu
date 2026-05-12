@@ -103,8 +103,7 @@ function entryPath(filePath) {
 // ── prompt ─────────────────────────────────────────────────────────────
 //
 // Asked to produce structured JSON. Tone instructions reference the
-// VOICE.md voice rules (no em-dashes, no hyperbole). Few-shot example
-// uses 爱 since Hunter's authored hook is already in the repo.
+// VOICE.md voice rules (no em-dashes, no hyperbole).
 const SYSTEM_PROMPT = `You write social-media carousel copy for Jiǎoluò Shūwū (角落書屋), a scholarly site about Chinese language and civilisation. Each carousel opens with a hook (a question or claim that earns the swipe), then 2-3 short payoff beats, then a call-to-action.
 
 VOICE

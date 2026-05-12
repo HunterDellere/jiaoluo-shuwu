@@ -122,8 +122,8 @@ async function boot() {
   // parallel before anything renders. Both are small JSON files cached by
   // the SW after first request. Both fail through silently when missing
   // so the builder still works for offline / pre-cache-gen states.
-  loadBrand();
-  loadShareCache();
+  // Awaited because loadSource() reads _shareCache during page resolve.
+  await Promise.all([loadBrand(), loadShareCache()]);
   renderPlatformPicker();
   bindControls();
   const params = new URLSearchParams(location.search);
