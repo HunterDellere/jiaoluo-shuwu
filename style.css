@@ -6252,88 +6252,53 @@ html[data-theme="dark"] .map-wrapper { filter: brightness(0.92) saturate(0.9); }
   transition: opacity 200ms ease;
 }
 /* Once the script preps the SVG (any path has data-len), fade the fallback. */
-.hero-glyph--stroke:has(.stroke-svg path.stroke[data-len]) .hero-glyph-fallback {
+/* Hide the Noto Serif fallback once the SVG mounts — the makemeahanzi
+ * outline is the only glyph the user should ever see. */
+.hero-glyph--stroke .stroke-svg ~ .hero-glyph-fallback {
   opacity: 0;
 }
-.stroke-svg path.stroke {
-  fill: none;
-  stroke: var(--red);
-  stroke-width: 64;
-  stroke-linecap: round;
-  stroke-linejoin: round;
-}
-.hero-script--trad .stroke-svg path.stroke {
-  stroke: var(--sienna);
-}
-.stroke-svg.is-complete path.stroke {
-  fill: var(--red);
-  transition: fill 280ms ease;
-}
-.hero-script--trad .stroke-svg.is-complete path.stroke {
-  fill: var(--sienna);
-}
 
-/* Stroke replay controls — injected by scripts/stroke-anim.js at the hero
- * level, so the controls appear once even when both simp + trad render. */
-.stroke-controls {
-  display: flex;
-  align-items: center;
-  gap: 0.75rem;
-  margin-top: 0.5rem;
-  padding-top: 0.4rem;
-  font-family: var(--font-mono);
-  font-size: var(--fs-xs);
-  color: var(--ink-5);
+/* One stroke = one filled shape. Each shape has --stroke-i (its 0-based
+ * order in the stroke sequence) set inline. CSS uses that variable to
+ * stagger the fade-in: stroke 0 fires first, stroke 1 ~120ms later, etc.
+ *
+ * Animation only runs once when JS adds .is-playing on viewport entry.
+ * Until then, shapes are invisible. Once the run finishes, .is-complete
+ * pins them visible so they don't fade out.
+ *
+ * No replay button, no per-stroke pen sweep — this is a quiet entrance
+ * animation, not an interactive widget. The directional accuracy is
+ * carried by stroke order alone. */
+.stroke-svg .stroke-shape {
+  fill: var(--red);
+  opacity: 0;
 }
-.stroke-replay {
-  display: inline-flex;
-  align-items: center;
-  gap: 0.35rem;
-  padding: 0.25rem 0.6rem;
-  background: transparent;
-  border: 1px solid var(--rule);
-  border-radius: 999px;
-  color: var(--ink-3);
-  font: inherit;
-  cursor: pointer;
-  transition: background 160ms ease, color 160ms ease, border-color 160ms ease;
+.hero-script--trad .stroke-svg .stroke-shape { fill: var(--sienna); }
+
+.stroke-svg.is-playing .stroke-shape {
+  animation: stroke-fade-in 200ms ease-out forwards;
+  /* Stagger: each stroke starts 110ms after the previous. Total run for
+   * a 10-stroke character lands around 1.2s. */
+  animation-delay: calc(var(--stroke-i) * 110ms);
 }
-.stroke-replay:hover {
-  background: var(--paper);
-  color: var(--red);
-  border-color: var(--red);
-}
-.stroke-replay-ico { font-size: 1.05em; line-height: 1; }
-.stroke-pair-label {
-  font-family: var(--font-cn);
-  letter-spacing: 0.06em;
-  color: var(--ink-6);
+.stroke-svg.is-complete .stroke-shape { opacity: 1; }
+
+@keyframes stroke-fade-in {
+  from { opacity: 0; }
+  to   { opacity: 1; }
 }
 
 @media (prefers-reduced-motion: reduce) {
-  .stroke-svg path.stroke {
-    fill: var(--red);
-    stroke-dasharray: none !important;
-    stroke-dashoffset: 0 !important;
-  }
-  .hero-script--trad .stroke-svg path.stroke { fill: var(--sienna); }
+  .stroke-svg .stroke-shape { opacity: 1; animation: none; }
 }
 
 @media print {
   .stroke-svg { display: none !important; }
-  .stroke-controls { display: none !important; }
   .hero-glyph--stroke .hero-glyph-fallback {
     position: static;
     opacity: 1 !important;
     display: block;
   }
-}
-
-html[data-theme="dark"] .stroke-svg path.stroke {
-  stroke: var(--red);
-}
-html[data-theme="dark"] .hero-script--trad .stroke-svg path.stroke {
-  stroke: var(--sienna);
 }
 
 /* Responsive hero stroke sizes — keep visual weight aligned with the
@@ -6345,4 +6310,333 @@ html[data-theme="dark"] .hero-script--trad .stroke-svg path.stroke {
 @media (max-width: 540px) {
   .hero-glyph--stroke { --hero-stroke-size: 6.5rem; }
   .hero-glyph--stroke .hero-glyph-fallback { font-size: var(--fs-display-3); }
+}
+
+/* ── Carousel button (footer affordance) ─────────────────────────────── */
+a.pf-btn-carousel, button.pf-btn-carousel {
+  background: transparent;
+  color: var(--ink-3);
+  border-color: var(--rule);
+}
+a.pf-btn-carousel:hover, button.pf-btn-carousel:hover {
+  background: var(--papyrus-2); color: var(--ink); border-color: var(--ochre);
+}
+a.pf-btn-carousel:focus-visible, button.pf-btn-carousel:focus-visible {
+  outline: 2px solid var(--ochre); outline-offset: 3px;
+}
+.pf-btn-carousel:hover .pf-btn-icon { opacity: 1; }
+
+/* ── Share / carousel builder page (/pages/share/) ───────────────────── */
+.shell--share { display: block; padding: 0 1.25rem; }
+[data-share-main] { max-width: 1240px; margin: 0 auto; padding-bottom: 4rem; }
+
+.share-toolbar {
+  margin: 1.5rem 0 1.5rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1.25rem;
+  padding: 1.5rem 1.5rem 1.25rem;
+  background: var(--papyrus-2);
+  border: 1px solid var(--rule-2);
+  border-radius: var(--radius-lg);
+}
+
+/* Source row: eyebrow + title on the left, mode badge floats right. */
+.share-source-row {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 1rem;
+  padding-bottom: 1.1rem;
+  border-bottom: 1px solid var(--rule-2);
+}
+.share-source-meta {
+  display: flex; flex-direction: column; gap: 0.2rem;
+  min-width: 0;
+}
+.share-source-eyebrow {
+  font-family: var(--font-mono);
+  font-size: 0.7rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--ink-5);
+}
+.share-source-title {
+  font-family: var(--font-cn);
+  font-size: 1.7rem;
+  font-weight: 600;
+  color: var(--ink);
+  margin: 0;
+  line-height: 1.2;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.share-source-link {
+  font-family: var(--font-mono);
+  font-size: 0.78rem;
+  color: var(--red);
+  text-decoration: none;
+  width: max-content;
+  margin-top: 0.15rem;
+}
+.share-source-link:hover { text-decoration: underline; }
+.share-source-mode {
+  font-family: var(--font-mono);
+  font-size: 0.66rem;
+  letter-spacing: 0.10em;
+  text-transform: uppercase;
+  color: var(--ink-5);
+  width: max-content;
+  padding: 0.3rem 0.65rem;
+  border-radius: 999px;
+  background: var(--papyrus);
+  border: 1px solid var(--rule-2);
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.share-source-mode[data-kind="authored"] {
+  color: var(--papyrus);
+  background: var(--ink);
+  border-color: var(--ink);
+}
+.share-source-mode[data-kind="enriched"] {
+  color: var(--papyrus);
+  background: var(--ochre);
+  border-color: var(--ochre);
+}
+.share-source-mode:empty { display: none; }
+
+/* Controls row: platform picker spans full width; actions sit below on
+ * their own row. Side-by-side competed for horizontal space and forced
+ * the platform cards too narrow at every breakpoint. */
+.share-controls-row {
+  display: flex;
+  flex-direction: column;
+  gap: 1.25rem;
+}
+
+.share-control { display: flex; flex-direction: column; gap: 0.6rem; min-width: 0; }
+.share-control-label {
+  font-family: var(--font-mono);
+  font-size: 0.66rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--ink-5);
+}
+
+/* Platform picker grid. Three responsive tiers chosen to keep cells wide
+ * enough for "Xiaohongshu" + "1080×1920" sub-line to fit on one line:
+ *   ≥1100px : 5-up (each cell ~190px after gaps + container padding)
+ *   ≥640px  : 3-up
+ *   <640px  : 1-up (full-width rows)
+ * No auto-fit — produces orphan rows like "LinkedIn alone on row 2". */
+.share-platform-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 0.5rem;
+}
+@media (min-width: 560px) {
+  .share-platform-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+}
+@media (min-width: 1180px) {
+  /* 5-up only when each cell can fit "Xiaohongshu  3:4 · 1080×1440"
+   * cleanly. Below this we stick with 3-up (which wraps to 3+2 rows)
+   * to keep every label readable. */
+  .share-platform-grid { grid-template-columns: repeat(5, minmax(0, 1fr)); }
+}
+
+.share-platform {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  padding: 0.7rem 0.85rem;
+  background: var(--papyrus);
+  color: var(--ink-3);
+  border: 1px solid var(--rule);
+  border-radius: var(--radius-md);
+  cursor: pointer;
+  font-family: var(--font-ui);
+  text-align: left;
+  position: relative;
+  min-width: 0;
+  overflow: hidden;
+  transition: background 140ms ease, border-color 140ms ease;
+}
+.share-platform:hover {
+  background: var(--papyrus-3);
+  border-color: var(--ochre);
+}
+.share-platform:hover .share-platform-chip-fill {
+  background: var(--ochre);
+  opacity: 0.6;
+}
+/* Active state: subtle inset shadow + small red rule on the left edge.
+ * No translateY lift, no full-card border color — those were too loud
+ * for a quiet picker. */
+.share-platform.is-on {
+  background: var(--papyrus-2);
+  border-color: var(--ink-4);
+  box-shadow: inset 3px 0 0 0 var(--red);
+}
+.share-platform.is-on .share-platform-chip {
+  border-color: var(--red);
+}
+.share-platform.is-on .share-platform-chip-fill {
+  background: var(--red);
+  opacity: 1;
+}
+.share-platform.is-on .share-platform-label {
+  color: var(--ink);
+}
+
+/* True-shape ratio chip — the chip's actual dimensions mirror the
+ * export canvas aspect ratio, so picking this platform produces THAT
+ * shape. Outer border = canvas frame; inner fill = visualization of
+ * the active state. */
+.share-platform-chip {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  border: 1.5px solid var(--ink-5);
+  border-radius: 2px;
+  padding: 1.5px;
+  transition: border-color 140ms ease;
+}
+.share-platform-chip-fill {
+  display: block;
+  width: 100%;
+  height: 100%;
+  background: var(--ink-5);
+  opacity: 0.3;
+  border-radius: 1px;
+  transition: background 140ms ease, opacity 140ms ease;
+}
+.share-platform-chip--square   { width: 20px; height: 20px; }
+.share-platform-chip--portrait { width: 18px; height: 22px; }
+.share-platform-chip--xhs      { width: 18px; height: 24px; }
+.share-platform-chip--story    { width: 14px; height: 25px; }
+
+/* Text column: min-width: 0 plus overflow: hidden on the parent button
+ * lets the label truncate cleanly instead of overflowing into the next
+ * card. Single line each for label and sub. */
+.share-platform-text {
+  display: flex;
+  flex-direction: column;
+  gap: 0.1rem;
+  min-width: 0;
+  flex: 1 1 auto;
+}
+.share-platform-label {
+  font-size: 0.9rem;
+  font-weight: 600;
+  line-height: 1.2;
+  color: var(--ink);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  transition: color 140ms ease;
+}
+.share-platform-sub {
+  font-family: var(--font-mono);
+  font-size: 0.68rem;
+  letter-spacing: 0.03em;
+  color: var(--ink-5);
+  line-height: 1.2;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.share-actions {
+  display: flex; flex-wrap: wrap; gap: 0.5rem;
+  align-items: center;
+}
+.share-actions .pf-btn { min-height: 38px; padding: 0.55rem 1.1rem; font-size: 0.92rem; }
+
+.share-status {
+  font-family: var(--font-mono);
+  font-size: 0.82rem;
+  color: var(--ink-5);
+  margin: 0;
+  padding-top: 0.6rem;
+  border-top: 1px solid var(--rule-2);
+}
+.share-status[data-kind="ok"]  { color: var(--ink-3); }
+.share-status[data-kind="err"] { color: var(--red); }
+
+/* Preview grid. The grid layout adapts per ratio — square gets 3-up on
+   desktop, taller ratios (portrait/xhs) get 2-up so each preview stays
+   readable, story (very tall) goes 2-up max with tighter constraints. */
+.share-preview {
+  display: grid;
+  gap: 1.25rem;
+  grid-template-columns: 1fr;
+}
+@media (min-width: 760px) {
+  .share-preview[data-ratio="square"]   { grid-template-columns: repeat(2, 1fr); }
+  .share-preview[data-ratio="portrait"] { grid-template-columns: repeat(2, 1fr); }
+  .share-preview[data-ratio="xhs"]      { grid-template-columns: repeat(2, 1fr); }
+  .share-preview[data-ratio="story"]    { grid-template-columns: repeat(2, 1fr); }
+}
+@media (min-width: 1180px) {
+  .share-preview[data-ratio="square"]   { grid-template-columns: repeat(2, 1fr); }
+  .share-preview[data-ratio="portrait"] { grid-template-columns: repeat(2, 1fr); }
+  .share-preview[data-ratio="xhs"]      { grid-template-columns: repeat(2, 1fr); }
+  .share-preview[data-ratio="story"]    { grid-template-columns: repeat(3, 1fr); }
+}
+
+.share-slide-card {
+  display: flex; flex-direction: column;
+  background: var(--papyrus);
+  border: 1px solid var(--rule-2);
+  border-radius: var(--radius-md);
+  padding: 0.75rem;
+  gap: 0.6rem;
+}
+
+.share-slide-canvas {
+  display: block;
+  width: 100%;
+  height: auto;
+  background: var(--papyrus);
+  border-radius: var(--radius-sm);
+  box-shadow: 0 2px 14px rgba(0,0,0,0.06);
+}
+
+.share-slide-meta {
+  display: flex; align-items: center; gap: 0.6rem;
+  font-family: var(--font-mono);
+  font-size: 0.76rem;
+  color: var(--ink-5);
+}
+.share-slide-num {
+  font-weight: 600; color: var(--ink-3);
+  background: var(--papyrus-2);
+  padding: 0.15rem 0.45rem;
+  border-radius: var(--radius-sm);
+  font-size: 0.7rem;
+}
+.share-slide-label { flex: 1; min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.share-slide-dl {
+  font-family: var(--font-mono);
+  font-size: 0.72rem;
+  letter-spacing: 0.06em;
+  background: transparent;
+  border: 1px solid var(--rule);
+  color: var(--ink-3);
+  padding: 0.3rem 0.65rem;
+  border-radius: var(--radius-sm);
+  cursor: pointer;
+  transition: background 0.15s, border-color 0.15s;
+}
+.share-slide-dl:hover { background: var(--papyrus-2); border-color: var(--ochre); color: var(--ink); }
+
+.share-empty { margin-top: 2rem; }
+
+@media (max-width: 540px) {
+  .share-toolbar { padding: 1.1rem; gap: 1rem; }
+  .share-source-title { font-size: 1.3rem; }
+  .share-source-row { flex-direction: column; }
+  .share-source-mode { align-self: flex-start; }
 }

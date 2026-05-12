@@ -1,109 +1,63 @@
 /**
- * stroke-anim.js — hero stroke-order animation.
+ * stroke-anim.js — hero stroke-order entrance animation.
  *
- * Finds every <svg class="stroke-svg"> on the page, hides its <path class="stroke">
- * children via stroke-dasharray/stroke-dashoffset, then animates them in
- * order using requestAnimationFrame. Per-stroke duration is proportional to
- * the stroke's path length, so short strokes don't feel rushed.
+ * Quiet, one-shot reveal: when an .hero containing one or more
+ * <svg.stroke-svg> elements scrolls into view, add .is-playing to each
+ * SVG to trigger the staggered fade-in defined in style.css. Once the
+ * full stagger duration has elapsed, swap to .is-complete to pin every
+ * stroke at full opacity (so they don't fade out).
  *
- * If two SVGs share a .hero-script-pair, the first animates to completion,
- * holds briefly, then the second animates — viewer sees a simp → trad walk-
- * through rather than parallel motion.
+ * No replay button. No interactive controls. The animation is a small
+ * delight that plays once on first scroll-in; subsequent visits or
+ * reloads play it once again. That's it.
  *
- * Auto-plays once when the hero enters the viewport. Respects
- * prefers-reduced-motion: reduce by skipping animation and rendering all
- * strokes immediately. The replay button is injected by this script (so
- * pages without working JS show the static fallback glyph cleanly).
+ * Respects prefers-reduced-motion: reduce by jumping straight to
+ * .is-complete with no animation.
  */
 (function () {
   'use strict';
 
-  const PER_STROKE_BASE_MS = 320;     // floor per stroke
-  const PER_STROKE_LENGTH_FACTOR = 1.4; // additional ms per 100 path units
-  const INTER_STROKE_GAP_MS = 60;
-  const INTER_FIGURE_GAP_MS = 600;
+  // Per-stroke stagger (must match style.css animation-delay multiplier).
+  const STAGGER_MS = 110;
+  // Per-stroke fade duration (must match style.css animation duration).
+  const FADE_MS = 200;
+  // Pause between simp and trad in a pair so the simp finishes settling
+  // before the trad starts writing.
+  const PAIR_GAP_MS = 240;
 
-  const prefersReduced = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+  const prefersReduced = window.matchMedia &&
+    window.matchMedia('(prefers-reduced-motion: reduce)').matches;
 
-  function preparePath(p) {
-    let len;
-    try { len = p.getTotalLength(); } catch (e) { len = 1000; }
-    p.style.strokeDasharray = len;
-    p.style.strokeDashoffset = len;
-    p.dataset.len = String(len);
-    return len;
+  function totalRunMs(svg) {
+    const n = parseInt(svg.dataset.strokeCount || '0', 10) || 0;
+    if (!n) return FADE_MS;
+    return (n - 1) * STAGGER_MS + FADE_MS;
   }
 
-  function showInstant(svg) {
-    const paths = svg.querySelectorAll('path.stroke');
-    paths.forEach(p => {
-      p.style.strokeDasharray = '';
-      p.style.strokeDashoffset = '0';
-    });
-    svg.classList.add('is-complete');
-  }
-
-  function animatePath(p, durationMs) {
-    return new Promise(resolve => {
-      const len = parseFloat(p.dataset.len) || 1000;
-      const start = performance.now();
-      function tick(now) {
-        const t = Math.min(1, (now - start) / durationMs);
-        // Ease out cubic for a calmer settle on each stroke.
-        const eased = 1 - Math.pow(1 - t, 3);
-        p.style.strokeDashoffset = String(len * (1 - eased));
-        if (t < 1) requestAnimationFrame(tick);
-        else { p.style.strokeDashoffset = '0'; resolve(); }
-      }
-      requestAnimationFrame(tick);
-    });
-  }
-
-  function durationFor(len) {
-    return PER_STROKE_BASE_MS + (len / 100) * PER_STROKE_LENGTH_FACTOR * 100;
-  }
-
-  async function animateSvg(svg) {
-    svg.classList.remove('is-complete');
-    const paths = Array.from(svg.querySelectorAll('path.stroke'));
-    paths.forEach(preparePath);
-    for (const p of paths) {
-      const len = parseFloat(p.dataset.len) || 1000;
-      await animatePath(p, durationFor(len));
-      await new Promise(r => setTimeout(r, INTER_STROKE_GAP_MS));
+  async function play(svg) {
+    if (prefersReduced) {
+      svg.classList.add('is-complete');
+      return;
     }
+    svg.classList.add('is-playing');
+    await new Promise(r => setTimeout(r, totalRunMs(svg) + 30));
+    // Add is-complete BEFORE removing is-playing so there's no frame
+    // where neither class is present (which would let opacity snap to 0
+    // because the base .stroke-shape rule sets opacity: 0).
     svg.classList.add('is-complete');
+    svg.classList.remove('is-playing');
   }
 
   async function playGroup(svgs) {
     for (let i = 0; i < svgs.length; i++) {
-      await animateSvg(svgs[i]);
+      await play(svgs[i]);
       if (i < svgs.length - 1) {
-        await new Promise(r => setTimeout(r, INTER_FIGURE_GAP_MS));
+        await new Promise(r => setTimeout(r, PAIR_GAP_MS));
       }
     }
   }
 
-  function injectControls(hero, svgs) {
-    if (hero.querySelector('.stroke-controls')) return;
-    const dual = svgs.length > 1;
-    const wrap = document.createElement('div');
-    wrap.className = 'stroke-controls';
-    wrap.innerHTML =
-      '<button type="button" class="stroke-replay" aria-label="Replay stroke animation">' +
-      '<span class="stroke-replay-ico" aria-hidden="true">↻</span> <span class="stroke-replay-label">Replay</span>' +
-      '</button>' +
-      (dual ? '<span class="stroke-pair-label" aria-hidden="true">简 ↔ 繁</span>' : '');
-    hero.appendChild(wrap);
-    wrap.querySelector('.stroke-replay').addEventListener('click', () => {
-      playGroup(svgs);
-    });
-  }
-
   function findHeroGroups() {
-    // Group SVGs by their nearest .hero ancestor so the simp + trad pair
-    // animates as a unit. Pages without a .hero (shouldn't happen for
-    // character pages, but guard anyway) fall back to one-figure groups.
     const groups = new Map();
     document.querySelectorAll('svg.stroke-svg').forEach(svg => {
       const hero = svg.closest('.hero') || svg.parentElement;
@@ -118,19 +72,10 @@
     if (!groups.size) return;
 
     groups.forEach((svgs, hero) => {
-      // Prep paths immediately so initial paint is blank strokes (not a
-      // flash of fully-rendered strokes that then animate from full to
-      // empty and back). On reduced-motion we skip prep entirely.
       if (prefersReduced) {
-        svgs.forEach(showInstant);
-        injectControls(hero, svgs);
+        svgs.forEach(s => s.classList.add('is-complete'));
         return;
       }
-
-      svgs.forEach(svg => svg.querySelectorAll('path.stroke').forEach(preparePath));
-      injectControls(hero, svgs);
-
-      // Auto-play once on first viewport entry.
       const io = new IntersectionObserver(entries => {
         for (const entry of entries) {
           if (entry.isIntersecting) {

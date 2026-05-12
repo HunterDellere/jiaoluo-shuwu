@@ -64,6 +64,15 @@ export function buildPageFooter(body, fm, slug, category) {
     ? `${fm.char} ${fm.pinyin || ''} · ${slug}`
     : (fm.title ? `${fm.title.split('·')[0].trim()} · ${slug}` : slug);
 
+  const carouselHref = `../share/?page=pages/${category}/${slug}.html`;
+  const isShareable = fm.status === 'complete' && category !== 'families' && category !== 'hsk';
+  const carouselBtn = isShareable
+    ? `<a class="pf-btn pf-btn-carousel" href="${carouselHref}" aria-label="Generate a social carousel from this page">
+            <svg class="pf-btn-icon" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="5" width="13" height="14" rx="1.5"/><path d="M19 7v10"/><path d="M22 9v6"/></svg>
+            <span>Carousel</span>
+          </a>`
+    : '';
+
   const footer = `<footer class="page-footer">
       <div class="page-footer-actions">
         <div class="page-footer-buttons">
@@ -72,6 +81,7 @@ export function buildPageFooter(body, fm, slug, category) {
             <svg class="pf-btn-icon" viewBox="0 0 24 24" width="15" height="15" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M4 12v7a1 1 0 0 0 1 1h14a1 1 0 0 0 1-1v-7"/><polyline points="16 6 12 2 8 6"/><line x1="12" y1="2" x2="12" y2="15"/></svg>
             <span data-share-label>Share</span>
           </button>
+          ${carouselBtn}
         </div>
         <div class="page-footer-links">
           <a href="${corrUrl}" class="pf-link" target="_blank" rel="noopener noreferrer">Corrections</a>

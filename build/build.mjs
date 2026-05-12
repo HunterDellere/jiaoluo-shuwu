@@ -24,6 +24,7 @@ import { renderOgSvg, renderHomepageOgSvg, rasterizeOgSvg, ogContentHash, ogAltT
 import { emitPinyinPages, buildPinyinIndex } from './lib/pinyin-index.mjs';
 import { buildComponentIndex, renderAppearsInHtml } from './lib/component-index.mjs';
 import { injectHeroStrokes, buildSimpTradMap } from './lib/stroke.mjs';
+import { BRAND } from './lib/brand.mjs';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const ROOT      = join(__dirname, '..');
@@ -267,6 +268,10 @@ function buildMetaComment(fm) {
   for (const k of ['type','char','pinyin','tone','hsk','radical','category','topic','tags','status']) {
     if (fm[k] !== undefined) obj[k] = fm[k];
   }
+  // Carousel-exporter overrides — read by /pages/share/ if present. Embedding
+  // them in the meta comment means share.js can pull authored hooks without
+  // a separate fetch to entries.json (which doesn't carry per-page share blocks).
+  if (fm.share) obj.share = fm.share;
   return JSON.stringify(obj);
 }
 
@@ -870,7 +875,7 @@ for (const { fm, body, slug, category, outDir, entry } of pending) {
 const expectedPaths = new Set(entries.map(e => e.path));
 let pruned = 0;
 const pagesRoot = join(ROOT, 'pages');
-const PRUNE_SKIP = new Set(['hsk', 'maps', '_admin', 'pinyin', 'today', 'exports']);
+const PRUNE_SKIP = new Set(['hsk', 'maps', '_admin', 'pinyin', 'today', 'exports', 'share']);
 for (const cat of readdirSync(pagesRoot)) {
   if (PRUNE_SKIP.has(cat)) continue;
   const catDir = join(pagesRoot, cat);
@@ -1051,7 +1056,7 @@ const rssXml =
   `    <title>Jiǎoluò Shūwū · 角落書屋</title>\n` +
   `    <link>${SITE_URL}/</link>\n` +
   `    <atom:link href="${SITE_URL}/feed.xml" rel="self" type="application/rss+xml" />\n` +
-  `    <description>Notes on Chinese language and civilisation — characters, vocabulary, grammar, history, philosophy, and the world they shaped.</description>\n` +
+  `    <description>${rssEscape(BRAND.description)}</description>\n` +
   `    <language>en</language>\n` +
   `    <lastBuildDate>${new Date().toUTCString()}</lastBuildDate>\n` +
   rssItems + `\n` +
@@ -1149,7 +1154,7 @@ writeFileSync(ogManifestPath, JSON.stringify(nextOgManifest, null, 2) + '\n', 'u
 const manifest = {
   name: '角落書屋',
   short_name: '角落書屋',
-  description: 'Notes on Chinese language and civilisation — characters, vocabulary, grammar, history, philosophy, and the world they shaped.',
+  description: BRAND.description,
   start_url: '/',
   scope: '/',
   display: 'standalone',
@@ -1163,6 +1168,12 @@ const manifest = {
   ]
 };
 writeFileSync(join(ROOT, 'manifest.webmanifest'), JSON.stringify(manifest, null, 2), 'utf8');
+
+// Brand strings — emit once per build so client-side renderers (the
+// carousel exporter at /pages/share/) can read the same source of truth
+// the homepage OG card and PWA manifest use. Single edit point in
+// build/lib/brand.mjs propagates everywhere.
+writeFileSync(join(dataDir, 'brand.json'), JSON.stringify(BRAND, null, 2) + '\n', 'utf8');
 
 console.log(`\nBuild complete: ${built} pages written, ${pruned} pruned, ${errors} errors.`);
 console.log(`OG cards: ${ogSvgWritten} SVGs · ${ogPngWritten} PNGs rasterized · ${ogPngCached} cached.`);

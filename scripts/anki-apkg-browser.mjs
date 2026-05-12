@@ -44,7 +44,7 @@ async function ensureSqlJs() {
   return sqlJsModule;
 }
 
-async function ensureJSZip() {
+export async function ensureJSZip() {
   if (JSZipCtor) return JSZipCtor;
   if (typeof window.JSZip !== 'function') {
     await loadScript(JSZIP_URL);

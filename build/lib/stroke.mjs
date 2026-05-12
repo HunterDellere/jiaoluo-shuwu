@@ -44,13 +44,33 @@ function escapeAttr(s) {
  * group to flip it back. The translate offset (-900) accounts for the
  * intended baseline used by makemeahanzi's CJK glyph outlines.
  */
+/**
+ * Stroke reveal — minimal, fade-in-per-stroke in correct stroke order.
+ *
+ * The "directional accuracy" comes from showing strokes in their
+ * canonical makemeahanzi order. We deliberately do NOT animate within
+ * each stroke (pen-sweep, mask-reveal, etc.) — every per-stroke approach
+ * we tried produced jitter, font mismatches, or completion flashes.
+ * Stroke order alone is enough to convey the writing rhythm, and the
+ * filled shape is identical to the static glyph so there's nothing to
+ * mismatch.
+ *
+ * Each stroke gets a CSS variable --stroke-i (0-based index) that drives
+ * a staggered fade-in animation defined in style.css. The IntersectionObserver
+ * in scripts/stroke-anim.js just adds .is-playing to start the animation
+ * once when the hero scrolls into view; CSS does the rest.
+ */
 function renderStrokeSvg(char, form) {
   const data = loadStrokeData()[char];
   if (!data || !data.strokes || !data.strokes.length) return null;
-  const paths = data.strokes
-    .map(d => `<path class="stroke" d="${escapeAttr(d)}"/>`)
-    .join('');
-  return `<svg class="stroke-svg" data-form="${form}" data-char="${escapeAttr(char)}" viewBox="0 0 1024 1024" role="img" aria-label="Stroke order animation for ${escapeAttr(char)}"><g transform="scale(1,-1) translate(0,-900)">${paths}</g></svg>`;
+  const total = data.strokes.length;
+  const groups = data.strokes.map((d, i) => {
+    return `<path class="stroke-shape" d="${escapeAttr(d)}" style="--stroke-i:${i};"/>`;
+  }).join('');
+  // Outer transform flips the makemeahanzi y-up coordinate system into
+  // SVG y-down. translate(-100) nudges the visible glyph up; the original
+  // -900 offset accounted for makemeahanzi's intended baseline.
+  return `<svg class="stroke-svg" data-form="${form}" data-char="${escapeAttr(char)}" data-stroke-count="${total}" viewBox="0 0 1024 1024" role="img" aria-label="${escapeAttr(char)} (${total} strokes)"><g transform="scale(1,-1) translate(0,-900)">${groups}</g></svg>`;
 }
 
 /**
