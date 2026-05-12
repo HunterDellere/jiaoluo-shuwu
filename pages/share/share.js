@@ -387,7 +387,7 @@ function showSourceMeta(source) {
   if (modeEl) {
     const origin = source.share && source.share._origin;
     const label = origin === 'authored' ? 'Authored hook + beats'
-               : origin === 'enriched' ? 'AI-enriched hook + beats'
+               : origin === 'enriched' ? 'Enriched hook + beats'
                :                          'Auto-extracted from prose';
     modeEl.textContent = label;
     modeEl.dataset.kind = origin || 'auto';
