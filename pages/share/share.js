@@ -387,7 +387,7 @@ function showSourceMeta(source) {
   if (modeEl) {
     const origin = source.share && source.share._origin;
     const label = origin === 'authored' ? 'Authored hook + beats'
-               : origin === 'enriched' ? 'AI-enriched hook + beats'
+               : origin === 'enriched' ? 'Enriched hook + beats'
                :                          'Auto-extracted from prose';
     modeEl.textContent = label;
     modeEl.dataset.kind = origin || 'auto';
@@ -431,7 +431,6 @@ function bindControls() {
     renderPlatformPicker();
     rebuild();
   });
-  document.querySelector('[data-share-rebuild]').addEventListener('click', rebuild);
   document.querySelector('[data-share-download-zip]').addEventListener('click', downloadAll);
   document.querySelector('[data-share-preview]').addEventListener('click', e => {
     const btn = e.target.closest('[data-share-slide-index]');
@@ -1185,15 +1184,28 @@ async function renderAllPreviews() {
     const ctx = canvas.getContext('2d');
     slide.render(ctx, w, h, { ...baseSt, idx: i, total: state.slides.length });
 
-    const meta = document.createElement('div');
-    meta.className = 'share-slide-meta';
-    meta.innerHTML = `
-      <span class="share-slide-num">${String(i + 1).padStart(2, '0')}</span>
-      <span class="share-slide-label">${escapeHtml(slide.label)}</span>
-      <button type="button" class="share-slide-dl" data-share-slide-index="${i}">PNG</button>
+    // Eyebrow row above the canvas: position + kind on the left, download
+    // pill on the right. Mono, low-emphasis — reads as a deck caption,
+    // not as form chrome.
+    const eyebrow = document.createElement('div');
+    eyebrow.className = 'share-slide-eyebrow';
+    eyebrow.innerHTML = `
+      <span class="share-slide-meta-left">
+        <span class="share-slide-pos">${String(i + 1).padStart(2, '0')} / ${String(state.slides.length).padStart(2, '0')}</span>
+        <span class="share-slide-kind">${escapeHtml(slide.label)}</span>
+      </span>
+      <button type="button" class="share-slide-dl" data-share-slide-index="${i}" aria-label="Download slide ${i + 1} as PNG">
+        <svg viewBox="0 0 24 24" width="13" height="13" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
+        <span>PNG</span>
+      </button>
     `;
-    card.appendChild(canvas);
-    card.appendChild(meta);
+
+    const canvasWrap = document.createElement('div');
+    canvasWrap.className = 'share-slide-canvas-wrap';
+    canvasWrap.appendChild(canvas);
+
+    card.appendChild(eyebrow);
+    card.appendChild(canvasWrap);
     host.appendChild(card);
   }
 }

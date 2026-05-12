@@ -6586,13 +6586,62 @@ a.pf-btn-carousel:focus-visible, button.pf-btn-carousel:focus-visible {
   .share-preview[data-ratio="story"]    { grid-template-columns: repeat(3, 1fr); }
 }
 
+/* Slide preview card. No border, no background — the canvas itself is
+ * the card. The eyebrow row above gives slide identity in mono caption,
+ * the download button sits as a quiet hover overlay on the canvas. */
 .share-slide-card {
-  display: flex; flex-direction: column;
-  background: var(--papyrus);
-  border: 1px solid var(--rule-2);
-  border-radius: var(--radius-md);
-  padding: 0.75rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+/* Eyebrow line above each canvas: "01 / 08   Hook" — position on the
+ * left, slide kind on the right. Reads as a deck index, not as form
+ * chrome. */
+.share-slide-eyebrow {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
   gap: 0.6rem;
+  padding: 0 0.15rem;
+  font-family: var(--font-mono);
+  font-size: 0.7rem;
+  letter-spacing: 0.06em;
+  color: var(--ink-5);
+}
+.share-slide-meta-left {
+  display: inline-flex;
+  align-items: baseline;
+  gap: 0.65rem;
+  min-width: 0;
+  overflow: hidden;
+}
+.share-slide-pos {
+  font-weight: 600;
+  color: var(--ink-3);
+  letter-spacing: 0.10em;
+  flex-shrink: 0;
+}
+.share-slide-kind {
+  text-transform: uppercase;
+  font-size: 0.65rem;
+  opacity: 0.75;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.share-slide-canvas-wrap {
+  position: relative;
+  border-radius: var(--radius-md);
+  overflow: hidden;
+  background: var(--papyrus);
+  box-shadow: 0 1px 2px rgba(0,0,0,0.04), 0 8px 24px rgba(28,18,8,0.05);
+  transition: transform 180ms ease, box-shadow 180ms ease;
+}
+.share-slide-canvas-wrap:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 2px 4px rgba(0,0,0,0.06), 0 14px 32px rgba(28,18,8,0.10);
 }
 
 .share-slide-canvas {
@@ -6600,37 +6649,37 @@ a.pf-btn-carousel:focus-visible, button.pf-btn-carousel:focus-visible {
   width: 100%;
   height: auto;
   background: var(--papyrus);
-  border-radius: var(--radius-sm);
-  box-shadow: 0 2px 14px rgba(0,0,0,0.06);
 }
 
-.share-slide-meta {
-  display: flex; align-items: center; gap: 0.6rem;
-  font-family: var(--font-mono);
-  font-size: 0.76rem;
-  color: var(--ink-5);
-}
-.share-slide-num {
-  font-weight: 600; color: var(--ink-3);
-  background: var(--papyrus-2);
-  padding: 0.15rem 0.45rem;
-  border-radius: var(--radius-sm);
-  font-size: 0.7rem;
-}
-.share-slide-label { flex: 1; min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+/* Download button sits in the eyebrow row above the canvas, right-side.
+ * Inline with the slide kind label, lower visual weight than the canvas
+ * content itself. No hover gymnastics — keyboard-accessible by default
+ * and visible at all times so first-time users find it. */
 .share-slide-dl {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+  padding: 0.2rem 0.55rem;
   font-family: var(--font-mono);
-  font-size: 0.72rem;
+  font-size: 0.7rem;
   letter-spacing: 0.06em;
   background: transparent;
+  color: var(--ink-5);
   border: 1px solid var(--rule);
-  color: var(--ink-3);
-  padding: 0.3rem 0.65rem;
-  border-radius: var(--radius-sm);
+  border-radius: 999px;
   cursor: pointer;
-  transition: background 0.15s, border-color 0.15s;
+  transition: background 140ms ease, color 140ms ease, border-color 140ms ease;
 }
-.share-slide-dl:hover { background: var(--papyrus-2); border-color: var(--ochre); color: var(--ink); }
+.share-slide-dl:hover {
+  background: var(--ink);
+  color: var(--papyrus);
+  border-color: var(--ink);
+}
+.share-slide-dl:focus-visible {
+  outline: 2px solid var(--ochre);
+  outline-offset: 2px;
+}
+.share-slide-dl svg { flex-shrink: 0; opacity: 0.85; }
 
 .share-empty { margin-top: 2rem; }
 
