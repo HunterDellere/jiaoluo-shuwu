@@ -1,0 +1,5516 @@
+{
+  "generated": "2026-05-12",
+  "summary": {
+    "reviewed": 446,
+    "meanTotal": 23.7,
+    "medianTotal": 24,
+    "flaggedCount": 8,
+    "flagCounts": {
+      "weak-ending": 1,
+      "too-short": 3,
+      "fact-suspect": 2,
+      "too-long": 1,
+      "redundant-beats": 1
+    }
+  },
+  "flagged": [
+    {
+      "path": "pages/chengyu/huashetianzu_画蛇添足.html",
+      "scores": {
+        "hook": 2,
+        "beats": 4,
+        "voice": 5,
+        "facts": 4,
+        "ending": 4
+      },
+      "total": 19,
+      "flags": [
+        "too-short"
+      ],
+      "notes": "hook or beats undersized"
+    },
+    {
+      "path": "pages/characters/mu4_木.html",
+      "scores": {
+        "hook": 4,
+        "beats": 4,
+        "voice": 5,
+        "facts": 5,
+        "ending": 3
+      },
+      "total": 21,
+      "flags": [
+        "weak-ending"
+      ],
+      "notes": "Last beat is vague gesture toward 'another character' without naming one."
+    },
+    {
+      "path": "pages/characters/shi2_十.html",
+      "scores": {
+        "hook": 2,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 22,
+      "flags": [
+        "too-short"
+      ],
+      "notes": "hook or beats undersized"
+    },
+    {
+      "path": "pages/characters/zu2_足.html",
+      "scores": {
+        "hook": 2,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 22,
+      "flags": [
+        "too-short"
+      ],
+      "notes": "hook or beats undersized"
+    },
+    {
+      "path": "pages/history/topic_wenge.html",
+      "scores": {
+        "hook": 4,
+        "beats": 4,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 22,
+      "flags": [
+        "too-long"
+      ],
+      "notes": "overlong"
+    },
+    {
+      "path": "pages/vocab/fangxiang_方向.html",
+      "scores": {
+        "hook": 5,
+        "beats": 3,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 22,
+      "flags": [
+        "redundant-beats"
+      ],
+      "notes": "beat vocabulary overlaps"
+    },
+    {
+      "path": "pages/chengyu/banmenmennong_班门弄斧.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 23,
+      "flags": [
+        "fact-suspect"
+      ],
+      "notes": "overclaim phrasing"
+    },
+    {
+      "path": "pages/characters/ta1_她.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": [
+        "fact-suspect"
+      ],
+      "notes": "overclaim phrasing"
+    }
+  ],
+  "all": [
+    {
+      "path": "pages/chengyu/huashetianzu_画蛇添足.html",
+      "scores": {
+        "hook": 2,
+        "beats": 4,
+        "voice": 5,
+        "facts": 4,
+        "ending": 4
+      },
+      "total": 19,
+      "flags": [
+        "too-short"
+      ],
+      "notes": "hook or beats undersized"
+    },
+    {
+      "path": "pages/characters/mu4_木.html",
+      "scores": {
+        "hook": 4,
+        "beats": 4,
+        "voice": 5,
+        "facts": 5,
+        "ending": 3
+      },
+      "total": 21,
+      "flags": [
+        "weak-ending"
+      ],
+      "notes": "Last beat is vague gesture toward 'another character' without naming one."
+    },
+    {
+      "path": "pages/chengyu/yeggonghalong_叶公好龙.html",
+      "scores": {
+        "hook": 4,
+        "beats": 4,
+        "voice": 5,
+        "facts": 3,
+        "ending": 5
+      },
+      "total": 21,
+      "flags": []
+    },
+    {
+      "path": "pages/culinary/topic_tisanes.html",
+      "scores": {
+        "hook": 4,
+        "beats": 4,
+        "voice": 5,
+        "facts": 4,
+        "ending": 4
+      },
+      "total": 21,
+      "flags": []
+    },
+    {
+      "path": "pages/arts/topic_shufa_styles.html",
+      "scores": {
+        "hook": 4,
+        "beats": 4,
+        "voice": 5,
+        "facts": 5,
+        "ending": 4
+      },
+      "total": 22,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/di1_低.html",
+      "scores": {
+        "hook": 4,
+        "beats": 4,
+        "voice": 5,
+        "facts": 5,
+        "ending": 4
+      },
+      "total": 22,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/nu3_女.html",
+      "scores": {
+        "hook": 4,
+        "beats": 4,
+        "voice": 5,
+        "facts": 5,
+        "ending": 4
+      },
+      "total": 22,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/shi2_十.html",
+      "scores": {
+        "hook": 2,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 22,
+      "flags": [
+        "too-short"
+      ],
+      "notes": "hook or beats undersized"
+    },
+    {
+      "path": "pages/characters/zu2_足.html",
+      "scores": {
+        "hook": 2,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 22,
+      "flags": [
+        "too-short"
+      ],
+      "notes": "hook or beats undersized"
+    },
+    {
+      "path": "pages/chengyu/kezhouqiujian_刻舟求剑.html",
+      "scores": {
+        "hook": 4,
+        "beats": 4,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 22,
+      "flags": []
+    },
+    {
+      "path": "pages/chengyu/saiwengshima_塞翁失马.html",
+      "scores": {
+        "hook": 4,
+        "beats": 4,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 22,
+      "flags": []
+    },
+    {
+      "path": "pages/chengyu/shouzhudaitu_守株待兔.html",
+      "scores": {
+        "hook": 4,
+        "beats": 4,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 22,
+      "flags": []
+    },
+    {
+      "path": "pages/chengyu/yugongyishan_愚公移山.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 4
+      },
+      "total": 22,
+      "flags": []
+    },
+    {
+      "path": "pages/culinary/topic_baicha.html",
+      "scores": {
+        "hook": 4,
+        "beats": 4,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 22,
+      "flags": []
+    },
+    {
+      "path": "pages/culinary/topic_cha.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 4
+      },
+      "total": 22,
+      "flags": []
+    },
+    {
+      "path": "pages/culinary/topic_chuancai.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 4
+      },
+      "total": 22,
+      "flags": []
+    },
+    {
+      "path": "pages/culinary/topic_doufu.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 4
+      },
+      "total": 22,
+      "flags": []
+    },
+    {
+      "path": "pages/culinary/topic_huangcha.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 4
+      },
+      "total": 22,
+      "flags": []
+    },
+    {
+      "path": "pages/culture/topic_chunjie.html",
+      "scores": {
+        "hook": 5,
+        "beats": 4,
+        "voice": 5,
+        "facts": 4,
+        "ending": 4
+      },
+      "total": 22,
+      "flags": []
+    },
+    {
+      "path": "pages/culture/topic_hongbao.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 4
+      },
+      "total": 22,
+      "flags": []
+    },
+    {
+      "path": "pages/culture/topic_qingming.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 4
+      },
+      "total": 22,
+      "flags": []
+    },
+    {
+      "path": "pages/culture/topic_shengxiao.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 4
+      },
+      "total": 22,
+      "flags": []
+    },
+    {
+      "path": "pages/culture/topic_taiji.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 4
+      },
+      "total": 22,
+      "flags": []
+    },
+    {
+      "path": "pages/culture/topic_zhongjiu.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 4
+      },
+      "total": 22,
+      "flags": []
+    },
+    {
+      "path": "pages/culture/topic_zhongqiu.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 4
+      },
+      "total": 22,
+      "flags": []
+    },
+    {
+      "path": "pages/daily/topic_chifan.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 4
+      },
+      "total": 22,
+      "flags": []
+    },
+    {
+      "path": "pages/daily/topic_jingjiu.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 4
+      },
+      "total": 22,
+      "flags": []
+    },
+    {
+      "path": "pages/daily/topic_xingming.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 4
+      },
+      "total": 22,
+      "flags": []
+    },
+    {
+      "path": "pages/daily/topic_yanse.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 4
+      },
+      "total": 22,
+      "flags": []
+    },
+    {
+      "path": "pages/families/language.html",
+      "scores": {
+        "hook": 4,
+        "beats": 4,
+        "voice": 5,
+        "facts": 5,
+        "ending": 4
+      },
+      "total": 22,
+      "flags": []
+    },
+    {
+      "path": "pages/geography/topic_shanghai.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 3,
+        "ending": 4
+      },
+      "total": 22,
+      "flags": []
+    },
+    {
+      "path": "pages/geography/topic_sichuanpen.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 4
+      },
+      "total": 22,
+      "flags": []
+    },
+    {
+      "path": "pages/grammar/de_的得地.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 4
+      },
+      "total": 22,
+      "flags": []
+    },
+    {
+      "path": "pages/history/topic_chunqiu.html",
+      "scores": {
+        "hook": 4,
+        "beats": 4,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 22,
+      "flags": []
+    },
+    {
+      "path": "pages/history/topic_qin_shihuang.html",
+      "scores": {
+        "hook": 4,
+        "beats": 4,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 22,
+      "flags": []
+    },
+    {
+      "path": "pages/history/topic_qinchao.html",
+      "scores": {
+        "hook": 4,
+        "beats": 4,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 22,
+      "flags": []
+    },
+    {
+      "path": "pages/history/topic_wenge.html",
+      "scores": {
+        "hook": 4,
+        "beats": 4,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 22,
+      "flags": [
+        "too-long"
+      ],
+      "notes": "overlong"
+    },
+    {
+      "path": "pages/history/topic_xia_shang_zhou.html",
+      "scores": {
+        "hook": 4,
+        "beats": 4,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 22,
+      "flags": []
+    },
+    {
+      "path": "pages/history/topic_zhanguo.html",
+      "scores": {
+        "hook": 4,
+        "beats": 4,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 22,
+      "flags": []
+    },
+    {
+      "path": "pages/hubs/daode.html",
+      "scores": {
+        "hook": 4,
+        "beats": 4,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 22,
+      "flags": []
+    },
+    {
+      "path": "pages/hubs/dili.html",
+      "scores": {
+        "hook": 4,
+        "beats": 4,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 22,
+      "flags": []
+    },
+    {
+      "path": "pages/hubs/dynasties.html",
+      "scores": {
+        "hook": 4,
+        "beats": 4,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 22,
+      "flags": []
+    },
+    {
+      "path": "pages/hubs/faming.html",
+      "scores": {
+        "hook": 4,
+        "beats": 4,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 22,
+      "flags": []
+    },
+    {
+      "path": "pages/hubs/hanyu.html",
+      "scores": {
+        "hook": 4,
+        "beats": 4,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 22,
+      "flags": []
+    },
+    {
+      "path": "pages/hubs/wenxue.html",
+      "scores": {
+        "hook": 4,
+        "beats": 4,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 22,
+      "flags": []
+    },
+    {
+      "path": "pages/hubs/zhongyi.html",
+      "scores": {
+        "hook": 4,
+        "beats": 4,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 22,
+      "flags": []
+    },
+    {
+      "path": "pages/hubs/zongjiao.html",
+      "scores": {
+        "hook": 4,
+        "beats": 4,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 22,
+      "flags": []
+    },
+    {
+      "path": "pages/philosophy/topic_yijing.html",
+      "scores": {
+        "hook": 4,
+        "beats": 4,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 22,
+      "flags": []
+    },
+    {
+      "path": "pages/philosophy/topic_zhuangzi.html",
+      "scores": {
+        "hook": 4,
+        "beats": 4,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 22,
+      "flags": []
+    },
+    {
+      "path": "pages/religion/topic_amituojing.html",
+      "scores": {
+        "hook": 4,
+        "beats": 4,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 22,
+      "flags": []
+    },
+    {
+      "path": "pages/religion/topic_chan.html",
+      "scores": {
+        "hook": 4,
+        "beats": 4,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 22,
+      "flags": []
+    },
+    {
+      "path": "pages/religion/topic_guanyin.html",
+      "scores": {
+        "hook": 4,
+        "beats": 4,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 22,
+      "flags": []
+    },
+    {
+      "path": "pages/religion/topic_minjian.html",
+      "scores": {
+        "hook": 4,
+        "beats": 4,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 22,
+      "flags": []
+    },
+    {
+      "path": "pages/science/topic_lifa.html",
+      "scores": {
+        "hook": 4,
+        "beats": 4,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 22,
+      "flags": []
+    },
+    {
+      "path": "pages/vocab/fangxiang_方向.html",
+      "scores": {
+        "hook": 5,
+        "beats": 3,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 22,
+      "flags": [
+        "redundant-beats"
+      ],
+      "notes": "beat vocabulary overlaps"
+    },
+    {
+      "path": "pages/vocab/shengchan_生产.html",
+      "scores": {
+        "hook": 4,
+        "beats": 4,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 22,
+      "flags": []
+    },
+    {
+      "path": "pages/arts/topic_kunqu.html",
+      "scores": {
+        "hook": 4,
+        "beats": 4,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 23,
+      "flags": []
+    },
+    {
+      "path": "pages/arts/topic_shufa.html",
+      "scores": {
+        "hook": 5,
+        "beats": 4,
+        "voice": 5,
+        "facts": 5,
+        "ending": 4
+      },
+      "total": 23,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/du2_读.html",
+      "scores": {
+        "hook": 5,
+        "beats": 4,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 23,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/er4_二.html",
+      "scores": {
+        "hook": 5,
+        "beats": 4,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 23,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/luo4_落.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 23,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/pin3_品.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 4
+      },
+      "total": 23,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/ren2_仁.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 23,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/sheng1_生.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 23,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/shi4_是.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 23,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/shu1_书.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 23,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/shuo1_说.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 23,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/si1_思.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 23,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/ta1_他.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 23,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/tian1_天.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 23,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/ting1_听.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 23,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/tu3_土.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 23,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/wen2_文.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 23,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/xiang3_想.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 23,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/xiao3_小.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 23,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/xin1_心.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 23,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/xin1_新.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 23,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/xin4_信.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 23,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/yan2_言.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 23,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/yan3_眼.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 23,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/yi4_义.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 23,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/yue4_越.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 23,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/zai4_在.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 23,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/zhi4_智.html",
+      "scores": {
+        "hook": 5,
+        "beats": 4,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 23,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/zi4_字.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 23,
+      "flags": []
+    },
+    {
+      "path": "pages/chengyu/banmenmennong_班门弄斧.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 23,
+      "flags": [
+        "fact-suspect"
+      ],
+      "notes": "overclaim phrasing"
+    },
+    {
+      "path": "pages/chengyu/dongshixiaopin_东施效颦.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 23,
+      "flags": []
+    },
+    {
+      "path": "pages/chengyu/junzibugui_君子不器.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 23,
+      "flags": []
+    },
+    {
+      "path": "pages/chengyu/maodun_矛盾.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 23,
+      "flags": []
+    },
+    {
+      "path": "pages/chengyu/mituzhifan_迷途知返.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 23,
+      "flags": []
+    },
+    {
+      "path": "pages/chengyu/renshanshuixiu_山清水秀.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 23,
+      "flags": []
+    },
+    {
+      "path": "pages/chengyu/shiyuansuowei_事与愿违.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 23,
+      "flags": []
+    },
+    {
+      "path": "pages/chengyu/wangyangbuao_亡羊补牢.html",
+      "scores": {
+        "hook": 5,
+        "beats": 4,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 23,
+      "flags": []
+    },
+    {
+      "path": "pages/chengyu/wanzhangaolou_万丈高楼.html",
+      "scores": {
+        "hook": 4,
+        "beats": 4,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 23,
+      "flags": []
+    },
+    {
+      "path": "pages/chengyu/yimaobuba_一毛不拔.html",
+      "scores": {
+        "hook": 4,
+        "beats": 4,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 23,
+      "flags": []
+    },
+    {
+      "path": "pages/chengyu/yujiegoulong_欲速则不达.html",
+      "scores": {
+        "hook": 5,
+        "beats": 4,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 23,
+      "flags": []
+    },
+    {
+      "path": "pages/culinary/topic_baijiu.html",
+      "scores": {
+        "hook": 4,
+        "beats": 4,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 23,
+      "flags": []
+    },
+    {
+      "path": "pages/culinary/topic_heisha.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 23,
+      "flags": []
+    },
+    {
+      "path": "pages/culinary/topic_hongcha.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 4
+      },
+      "total": 23,
+      "flags": []
+    },
+    {
+      "path": "pages/culinary/topic_huoguo.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 23,
+      "flags": []
+    },
+    {
+      "path": "pages/culinary/topic_jiaozi.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 4
+      },
+      "total": 23,
+      "flags": []
+    },
+    {
+      "path": "pages/culinary/topic_lucai.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 4
+      },
+      "total": 23,
+      "flags": []
+    },
+    {
+      "path": "pages/culinary/topic_wulong.html",
+      "scores": {
+        "hook": 4,
+        "beats": 4,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 23,
+      "flags": []
+    },
+    {
+      "path": "pages/culinary/topic_yuecai.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 4
+      },
+      "total": 23,
+      "flags": []
+    },
+    {
+      "path": "pages/culture/topic_duanwu.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 4
+      },
+      "total": 23,
+      "flags": []
+    },
+    {
+      "path": "pages/culture/topic_jingju.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 4
+      },
+      "total": 23,
+      "flags": []
+    },
+    {
+      "path": "pages/daily/topic_hongbai.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 4
+      },
+      "total": 23,
+      "flags": []
+    },
+    {
+      "path": "pages/daily/topic_kuaizi.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 4
+      },
+      "total": 23,
+      "flags": []
+    },
+    {
+      "path": "pages/families/collections.html",
+      "scores": {
+        "hook": 4,
+        "beats": 4,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 23,
+      "flags": []
+    },
+    {
+      "path": "pages/families/explore.html",
+      "scores": {
+        "hook": 5,
+        "beats": 4,
+        "voice": 5,
+        "facts": 5,
+        "ending": 4
+      },
+      "total": 23,
+      "flags": []
+    },
+    {
+      "path": "pages/families/topics.html",
+      "scores": {
+        "hook": 5,
+        "beats": 4,
+        "voice": 5,
+        "facts": 5,
+        "ending": 4
+      },
+      "total": 23,
+      "flags": []
+    },
+    {
+      "path": "pages/geography/topic_beijing.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 4
+      },
+      "total": 23,
+      "flags": []
+    },
+    {
+      "path": "pages/geography/topic_caixi_geography.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 4
+      },
+      "total": 23,
+      "flags": []
+    },
+    {
+      "path": "pages/geography/topic_changjiang.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 4
+      },
+      "total": 23,
+      "flags": []
+    },
+    {
+      "path": "pages/geography/topic_fangyan.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 4
+      },
+      "total": 23,
+      "flags": []
+    },
+    {
+      "path": "pages/geography/topic_huanghe.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 23,
+      "flags": []
+    },
+    {
+      "path": "pages/geography/topic_xinjiang.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 4
+      },
+      "total": 23,
+      "flags": []
+    },
+    {
+      "path": "pages/grammar/cong_从.html",
+      "scores": {
+        "hook": 5,
+        "beats": 4,
+        "voice": 5,
+        "facts": 5,
+        "ending": 4
+      },
+      "total": 23,
+      "flags": []
+    },
+    {
+      "path": "pages/grammar/erqie_而且.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 4
+      },
+      "total": 23,
+      "flags": []
+    },
+    {
+      "path": "pages/grammar/guo_过.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 4
+      },
+      "total": 23,
+      "flags": []
+    },
+    {
+      "path": "pages/grammar/hai_还.html",
+      "scores": {
+        "hook": 5,
+        "beats": 4,
+        "voice": 5,
+        "facts": 5,
+        "ending": 4
+      },
+      "total": 23,
+      "flags": []
+    },
+    {
+      "path": "pages/grammar/lian_dou_连都.html",
+      "scores": {
+        "hook": 5,
+        "beats": 4,
+        "voice": 5,
+        "facts": 5,
+        "ending": 4
+      },
+      "total": 23,
+      "flags": []
+    },
+    {
+      "path": "pages/grammar/liangci_量词.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 23,
+      "flags": []
+    },
+    {
+      "path": "pages/grammar/qilai_起来.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 4
+      },
+      "total": 23,
+      "flags": []
+    },
+    {
+      "path": "pages/grammar/shide_是的.html",
+      "scores": {
+        "hook": 5,
+        "beats": 4,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 23,
+      "flags": []
+    },
+    {
+      "path": "pages/grammar/yinwei_suoyi_因为所以.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 23,
+      "flags": []
+    },
+    {
+      "path": "pages/history/topic_changcheng.html",
+      "scores": {
+        "hook": 5,
+        "beats": 4,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 23,
+      "flags": []
+    },
+    {
+      "path": "pages/history/topic_handai.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 23,
+      "flags": []
+    },
+    {
+      "path": "pages/history/topic_mingchao.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 23,
+      "flags": []
+    },
+    {
+      "path": "pages/history/topic_songchao.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 23,
+      "flags": []
+    },
+    {
+      "path": "pages/history/topic_taiping.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 23,
+      "flags": []
+    },
+    {
+      "path": "pages/history/topic_xinhai.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 23,
+      "flags": []
+    },
+    {
+      "path": "pages/history/topic_yuanchao.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 23,
+      "flags": []
+    },
+    {
+      "path": "pages/history/topic_zhoudai.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 23,
+      "flags": []
+    },
+    {
+      "path": "pages/hubs/hanzi.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 23,
+      "flags": []
+    },
+    {
+      "path": "pages/hubs/jieri.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 23,
+      "flags": []
+    },
+    {
+      "path": "pages/hubs/tea.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 23,
+      "flags": []
+    },
+    {
+      "path": "pages/philosophy/topic_fajia.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 23,
+      "flags": []
+    },
+    {
+      "path": "pages/philosophy/topic_kongzi.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 23,
+      "flags": []
+    },
+    {
+      "path": "pages/philosophy/topic_laozi.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 23,
+      "flags": []
+    },
+    {
+      "path": "pages/philosophy/topic_lixue.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 23,
+      "flags": []
+    },
+    {
+      "path": "pages/philosophy/topic_mengzi.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 23,
+      "flags": []
+    },
+    {
+      "path": "pages/philosophy/topic_mojia.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 23,
+      "flags": []
+    },
+    {
+      "path": "pages/philosophy/topic_xinxue.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 23,
+      "flags": []
+    },
+    {
+      "path": "pages/philosophy/topic_xunzi.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 23,
+      "flags": []
+    },
+    {
+      "path": "pages/philosophy/topic_yangming.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 23,
+      "flags": []
+    },
+    {
+      "path": "pages/philosophy/topic_yinyang_wuxing.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 23,
+      "flags": []
+    },
+    {
+      "path": "pages/philosophy/topic_zhengming.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 23,
+      "flags": []
+    },
+    {
+      "path": "pages/religion/topic_chenghuang.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 23,
+      "flags": []
+    },
+    {
+      "path": "pages/religion/topic_daojiao.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 23,
+      "flags": []
+    },
+    {
+      "path": "pages/religion/topic_fojiao.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 23,
+      "flags": []
+    },
+    {
+      "path": "pages/religion/topic_fojing.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 23,
+      "flags": []
+    },
+    {
+      "path": "pages/religion/topic_jingtu.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 23,
+      "flags": []
+    },
+    {
+      "path": "pages/religion/topic_mazu.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 23,
+      "flags": []
+    },
+    {
+      "path": "pages/religion/topic_rujia.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 23,
+      "flags": []
+    },
+    {
+      "path": "pages/religion/topic_saman.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 23,
+      "flags": []
+    },
+    {
+      "path": "pages/religion/topic_xinjing.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 23,
+      "flags": []
+    },
+    {
+      "path": "pages/religion/topic_yisilan.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 23,
+      "flags": []
+    },
+    {
+      "path": "pages/religion/topic_zuxian.html",
+      "scores": {
+        "hook": 5,
+        "beats": 4,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 23,
+      "flags": []
+    },
+    {
+      "path": "pages/science/topic_fengshui_science.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 23,
+      "flags": []
+    },
+    {
+      "path": "pages/science/topic_sichou.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 23,
+      "flags": []
+    },
+    {
+      "path": "pages/science/topic_sidafaming.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 23,
+      "flags": []
+    },
+    {
+      "path": "pages/vocab/bihua_笔画.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 23,
+      "flags": []
+    },
+    {
+      "path": "pages/vocab/bushou_部首.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 23,
+      "flags": []
+    },
+    {
+      "path": "pages/vocab/chaju_茶具.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 23,
+      "flags": []
+    },
+    {
+      "path": "pages/vocab/chunjie_春节.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 23,
+      "flags": []
+    },
+    {
+      "path": "pages/vocab/dongxi_东西.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 23,
+      "flags": []
+    },
+    {
+      "path": "pages/vocab/fengsu_风俗.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 23,
+      "flags": []
+    },
+    {
+      "path": "pages/vocab/gongfucha_工夫茶.html",
+      "scores": {
+        "hook": 5,
+        "beats": 4,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 23,
+      "flags": []
+    },
+    {
+      "path": "pages/vocab/guojia_国家.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 23,
+      "flags": []
+    },
+    {
+      "path": "pages/vocab/keqi_客气.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 23,
+      "flags": []
+    },
+    {
+      "path": "pages/vocab/mingyun_命运.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 23,
+      "flags": []
+    },
+    {
+      "path": "pages/vocab/pusa_菩萨.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 23,
+      "flags": []
+    },
+    {
+      "path": "pages/vocab/qianxu_谦虚.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 23,
+      "flags": []
+    },
+    {
+      "path": "pages/vocab/qigong_气功.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 23,
+      "flags": []
+    },
+    {
+      "path": "pages/vocab/shehui_社会.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 23,
+      "flags": []
+    },
+    {
+      "path": "pages/vocab/shengtiao_声调.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 23,
+      "flags": []
+    },
+    {
+      "path": "pages/vocab/shijian_时间.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 23,
+      "flags": []
+    },
+    {
+      "path": "pages/vocab/yi4_义.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 23,
+      "flags": []
+    },
+    {
+      "path": "pages/vocab/yinyang_阴阳.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 23,
+      "flags": []
+    },
+    {
+      "path": "pages/vocab/yisi_意思.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 23,
+      "flags": []
+    },
+    {
+      "path": "pages/arts/topic_jingju_roles.html",
+      "scores": {
+        "hook": 5,
+        "beats": 4,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/arts/topic_shijing.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/arts/topic_zhuanke.html",
+      "scores": {
+        "hook": 5,
+        "beats": 4,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/bai2_白.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/bai3_百.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/bi4_必.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/bian4_变.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/bu4_不.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/cha2_茶.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/chan3_产.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/de2_德.html",
+      "scores": {
+        "hook": 5,
+        "beats": 4,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/di4_地.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/er3_耳.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/feng1_风.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/fo2_佛.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/gan3_感.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/geng4_更.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/jiao3_脚.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/jin1_金.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/jiu4_旧.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/kai1_开.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/kou3_口.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/kua4_跨.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/lai2_来.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/lu4_路.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/mei3_美.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/nan2_南.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/nian2_年.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/pao3_跑.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/qi4_气.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/qian2_前.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/qian2_钱.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/ren2_人.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/ren4_认.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/ri4_日.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/san1_三.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/se4_色.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/shan4_善.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/shang4_上.html",
+      "scores": {
+        "hook": 5,
+        "beats": 4,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/shen2_神.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/shi2_时.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/shou3_手.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/si3_死.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/ta1_她.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": [
+        "fact-suspect"
+      ],
+      "notes": "overclaim phrasing"
+    },
+    {
+      "path": "pages/characters/tu2_图.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/wan4_万.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/wo3_我.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/wu1_屋.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/wu2_无.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/xi1_西.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/xia4_下.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/xie3_写.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/xing2_行.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/xue2_学.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/yao4_要.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/ye3_也.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/yi3_以.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/yong4_用.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/yu3_语.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/yu3_雨.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 4
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/yuan3_远.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/yue4_月.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/zhen1_真.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/zhi1_知.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/zhong1_中.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/zou3_走.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/chengyu/qingchulanlan_青出于蓝.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/chengyu/sanyicheng_三人成虎.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/chengyu/wuruqitu_误入歧途.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 4
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/culinary/topic_lücha.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/culture/topic_hanfu.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/culture/topic_zhongyuan.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/daily/topic_chenghu.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/daily/topic_jiating.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/daily/topic_mianzi_practice.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/daily/topic_mixin.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/daily/topic_qingke.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/geography/topic_xianggang.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 4
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/geography/topic_xizang.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 4
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/grammar/bei_被.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 4
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/grammar/chule_除了.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 4
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/grammar/de_degree_得.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 4
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/grammar/dehua_的话.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 4
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/grammar/directional_来去.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 4
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/grammar/dui_对.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/grammar/gang_刚.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 4
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/grammar/hui_neng_keyi_会能可以.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 4
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/grammar/jiu_cai_就才.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/grammar/le_了.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/grammar/nai_乃.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/grammar/rang_让.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 4
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/grammar/ruguo_ji_如果就.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/grammar/suiran_danshi_虽然但是.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/grammar/suo_所.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/grammar/taiLe_太了.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/grammar/yibian_yibian_一边一边.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/grammar/yijing_已经.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/grammar/yuelaiyue_越来越.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/grammar/yuqi_buru_与其不如.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/grammar/zhe_particle_呢.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/grammar/zhe_particle_嘛.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/grammar/zhe_着.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/grammar/zhi_之.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/grammar/zhi_者.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/grammar/zhiyou_cai_只有才.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/history/topic_gaige.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/history/topic_hanchao.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/history/topic_keju.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/history/topic_qingchao.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/history/topic_tangchao.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/hsk/hsk-1.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/hsk/hsk-2.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/hsk/hsk-3.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/hsk/hsk-4.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/hsk/hsk-5.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/hsk/hsk-6.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/hsk/hsk-7-9.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/hubs/zhexue.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/science/topic_bencao.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/science/topic_jieqi.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/science/topic_suanpan.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/science/topic_tiangan_dizhi.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/science/topic_zhenjiu.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/science/topic_zhongyi.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/vocab/bijiao_比较.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/vocab/bixu_必须.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/vocab/bore_般若.html",
+      "scores": {
+        "hook": 5,
+        "beats": 4,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/vocab/changjian_长城.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/vocab/chanpin_产品.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/vocab/chuantong_2.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/vocab/chuantong_传统.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/vocab/cibi_慈悲.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/vocab/daode_道德.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/vocab/fengshui_风水.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/vocab/gongfu_功夫.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/vocab/guanxi_关系.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/vocab/gushi_故事.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/vocab/jianghu_江湖.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/vocab/jiangshan_江山.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/vocab/junzi_君子.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/vocab/kuayue_跨越.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/vocab/li3_礼.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/vocab/liangxin_良心.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/vocab/limao_礼貌.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/vocab/lishi_历史.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/vocab/lunhui_轮回.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/vocab/lunyu_论语.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/vocab/mianzi_面子.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/vocab/niepan_涅槃.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/vocab/pinyin_拼音.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/vocab/putonghua_普通话.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/vocab/qiankun_乾坤.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/vocab/ren2_仁.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/vocab/renjian_人间.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/vocab/rensheng_人生.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/vocab/renzhen_认真.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/vocab/shanshui_山水.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/vocab/shanshuihua_山水画.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/vocab/shenming_神明.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/vocab/shufa_书法.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/vocab/tiandi_天地.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/vocab/tianming_天命.html",
+      "scores": {
+        "hook": 4,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/vocab/tianren_天人.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/vocab/wenhua_文化.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/vocab/wenming_文明.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/vocab/wushu_武术.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/vocab/wuwei_无为.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/vocab/xiao4_孝.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/vocab/yuanfen_缘分.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/vocab/zhengzai_正在.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/vocab/zhihui_智慧.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/vocab/zhongguo_zhongwen_中文.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/vocab/zhongguohua_中国画.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/vocab/zhongyi_中医.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/vocab/ziran_自然.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/vocab/zuxian_祖先.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 4,
+        "ending": 5
+      },
+      "total": 24,
+      "flags": []
+    },
+    {
+      "path": "pages/arts/topic_chuci.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 25,
+      "flags": []
+    },
+    {
+      "path": "pages/arts/topic_guqin.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 25,
+      "flags": []
+    },
+    {
+      "path": "pages/arts/topic_luxun.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 25,
+      "flags": []
+    },
+    {
+      "path": "pages/arts/topic_shanshui.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 25,
+      "flags": []
+    },
+    {
+      "path": "pages/arts/topic_shuimohua.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 25,
+      "flags": []
+    },
+    {
+      "path": "pages/arts/topic_sidaimingzhu.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 25,
+      "flags": []
+    },
+    {
+      "path": "pages/arts/topic_songci.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 25,
+      "flags": []
+    },
+    {
+      "path": "pages/arts/topic_tangshi.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 25,
+      "flags": []
+    },
+    {
+      "path": "pages/arts/topic_wenfangsibao.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 25,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/bei3_北.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 25,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/chang2_长.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 25,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/chi1_吃.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 25,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/chu1_出.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 25,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/da3_打.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 25,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/da4_大.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 25,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/dao4_到.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 25,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/dao4_道.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 25,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/dian4_电.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 25,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/dong1_东.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 25,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/duo1_多.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 25,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/fu2_福.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 25,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/gao1_高.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 25,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/gao4_告.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 25,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/gong1_工.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 25,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/guan1_关.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 25,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/guang3_广.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 25,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/gui3_鬼.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 25,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/guo2_国.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 25,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/hao3_好.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 25,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/he2_和.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 25,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/hou4_后.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 25,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/huo3_火.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 25,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/jia1_家.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 25,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/jian4_见.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 25,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/jiao3_角.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 25,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/jin4_近.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 25,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/kan4_看.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 25,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/ke3_可.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 25,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/kong1_空.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 25,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/kuai4_快.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 25,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/lao3_老.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 25,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/lei2_雷.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 25,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/li3_礼.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 25,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/li3_里.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 25,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/long2_龙.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 25,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/man4_慢.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 25,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/ming2_名.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 25,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/ming2_明.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 25,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/ming4_命.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 25,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/mu4_目.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 25,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/ni3_你.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 25,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/qi2_其.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 25,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/qu4_去.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 25,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/shan1_山.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 25,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/shao3_少.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 25,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/shui3_水.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 25,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/wang2_王.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 25,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/wei2_为.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 25,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/yi1_一.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 25,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/you3_有.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 25,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/you4_右.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 25,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/yu4_玉.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 25,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/yun2_云.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 25,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/zai4_再.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 25,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/zhi1_之.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 25,
+      "flags": []
+    },
+    {
+      "path": "pages/characters/zuo3_左.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 25,
+      "flags": []
+    },
+    {
+      "path": "pages/chengyu/yushijujin_与时俱进.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 25,
+      "flags": []
+    },
+    {
+      "path": "pages/culinary/topic_caixi.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 25,
+      "flags": []
+    },
+    {
+      "path": "pages/culinary/topic_miantiao.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 25,
+      "flags": []
+    },
+    {
+      "path": "pages/culture/topic_cha_wenhua.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 25,
+      "flags": []
+    },
+    {
+      "path": "pages/daily/topic_shuzi.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 25,
+      "flags": []
+    },
+    {
+      "path": "pages/daily/topic_songli.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 25,
+      "flags": []
+    },
+    {
+      "path": "pages/geography/topic_taiwan.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 25,
+      "flags": []
+    },
+    {
+      "path": "pages/grammar/ba_particle_吧.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 25,
+      "flags": []
+    },
+    {
+      "path": "pages/grammar/ba_把.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 25,
+      "flags": []
+    },
+    {
+      "path": "pages/grammar/bi_比.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 25,
+      "flags": []
+    },
+    {
+      "path": "pages/grammar/dou_都.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 25,
+      "flags": []
+    },
+    {
+      "path": "pages/grammar/meiyou_没有.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 25,
+      "flags": []
+    },
+    {
+      "path": "pages/science/topic_wuxing.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 25,
+      "flags": []
+    },
+    {
+      "path": "pages/science/topic_xingxiu.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 25,
+      "flags": []
+    },
+    {
+      "path": "pages/vocab/biji_笔记.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 25,
+      "flags": []
+    },
+    {
+      "path": "pages/vocab/chadao_茶道.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 25,
+      "flags": []
+    },
+    {
+      "path": "pages/vocab/hanzi_汉字.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 25,
+      "flags": []
+    },
+    {
+      "path": "pages/vocab/jieqi_节气.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 25,
+      "flags": []
+    },
+    {
+      "path": "pages/vocab/jingju_京剧.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 25,
+      "flags": []
+    },
+    {
+      "path": "pages/vocab/shici_诗词.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 25,
+      "flags": []
+    },
+    {
+      "path": "pages/vocab/siluzhilu_丝绸之路.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 25,
+      "flags": []
+    },
+    {
+      "path": "pages/vocab/tianxia_天下.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 25,
+      "flags": []
+    },
+    {
+      "path": "pages/vocab/zhongguo_中国.html",
+      "scores": {
+        "hook": 5,
+        "beats": 5,
+        "voice": 5,
+        "facts": 5,
+        "ending": 5
+      },
+      "total": 25,
+      "flags": []
+    }
+  ]
+}
