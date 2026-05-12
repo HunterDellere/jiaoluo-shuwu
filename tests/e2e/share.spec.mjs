@@ -74,11 +74,15 @@ test.describe('Share — carousel builder', () => {
     await expect(mode).toHaveAttribute('data-kind', 'authored');
   });
 
-  test('falls back to auto-extracted content for pages without a share block', async ({ page }) => {
-    // bai2_白.md does not author a share block; should auto-extract.
+  test('uses share-cache enrichment when frontmatter share is absent', async ({ page }) => {
+    // bai2_白.md does not author a share: block; share-cache.json supplies
+    // hook + beats via the sub-agent enrichment pass.
     await page.goto('/pages/share/?page=' + encodeURIComponent('pages/characters/bai2_白.html'));
     await expect(page.locator('[data-share-status]')).toContainText(/slides rendered/i, { timeout: 8000 });
-    await expect(page.locator('[data-share-source-mode]')).toHaveAttribute('data-kind', 'auto');
+    // Acceptable kinds: "enriched" (cache hit, the common case post-deploy)
+    // or "auto" (cache absent, e.g. during a fresh checkout without the cache file).
+    const kind = await page.locator('[data-share-source-mode]').getAttribute('data-kind');
+    expect(['enriched', 'auto']).toContain(kind);
   });
 
   test('Xiaohongshu and LinkedIn platforms render at expected dimensions', async ({ page }) => {
