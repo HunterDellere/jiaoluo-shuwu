@@ -4,8 +4,8 @@ category: 'grammar'
 status: 'complete'
 title: '乃 · classical connective: then, thereupon, thus; to be; only then'
 desc: 'A classical connective that marks earned consequence: the result that follows because the condition was genuinely met, not merely next in line.'
-metaDesc: "乃 nǎi: classical Chinese connective marking earned consequence, restrictive 'only then,' and emphatic identity. Survives in 失败乃成功之母, 乃至, and formal literary prose."
-pageTitle: '乃 nǎi'
+metaDesc: "What 乃 nǎi means in classical Chinese: 'then, thereupon, thus' as a sequential connector, 'is' as a literary copula (失败乃成功之母), and the restrictive 'only then.' With examples and modern survivals like 乃至."
+pageTitle: 'What 乃 nǎi means · classical Chinese connective and copula'
 tags:
   - 'grammar'
   - 'classical'

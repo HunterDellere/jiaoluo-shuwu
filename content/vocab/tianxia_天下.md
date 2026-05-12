@@ -196,7 +196,7 @@ content_sources:
 
     <div class="scholar" data-glyph="命">
       <div class="scholar-label">学者洞见 xuézhě dòngjiàn · Scholar Note</div>
-      <p><strong>天命 tiānmìng</strong> (Mandate of Heaven, heaven's decree) is the foundational concept of Chinese political legitimacy. Developed by the Zhou dynasty (ca. 1046 BCE) to justify overthrowing the Shang: Heaven (天) had grown displeased with the Shang's misrule and transferred its mandate (命, a word meaning both "order/command" and "fate/destiny") to the Zhou. This set a template that every Chinese dynasty followed.</p>
+      <p><strong>天命 tiānmìng</strong> (Mandate of Heaven, heaven's decree) is the foundational concept of Chinese political legitimacy. Developed by the 周朝 Zhou dynasty (ca. 1046 BCE) to justify overthrowing the Shang: Heaven (天) had grown displeased with the Shang's misrule and transferred its mandate (命, a word meaning both "order/command" and "fate/destiny") to the Zhou. This set a template that every Chinese dynasty followed.</p>
       <p>Dynasties rise and fall not by military strength alone but by whether they retain 天命. Natural disasters, peasant rebellions, military defeats, widespread suffering: these are heaven's commentary on the ruler's virtue. The concept made rebellion against a tyrannical ruler theoretically legitimate: if you succeed, Heaven clearly approved. Every Chinese dynasty from Zhou through Qing claimed 天命 at its founding. The Communist Party, though not using the vocabulary, implicitly operates within a similar logic of popular mandate and civilizational legitimacy.</p>
     </div>
 

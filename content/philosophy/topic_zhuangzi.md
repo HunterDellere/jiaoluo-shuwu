@@ -5,8 +5,8 @@ status: 'complete'
 content_review: 'pending'
 title: '庄子 · Zhuangzi'
 desc: 'The butterfly dream, Cook Ding, and Daoist freedom from convention.'
-metaDesc: "庄子 Zhuangzi: the Inner Chapters, the butterfly dream 梦蝶, Cook Ding 庖丁解牛, free wandering 逍遥游, equalizing things 齐物论, and Zhuangzi's philosophy of death."
-pageTitle: '庄子 zhuāngzǐ'
+metaDesc: "Zhuangzi (庄子): the Inner Chapters, the butterfly dream 梦蝶, Cook Ding 庖丁解牛, free wandering 逍遥游, equalising things 齐物论, and the Daoist philosophy of death. The wildest mind in early Chinese thought."
+pageTitle: 'Zhuangzi (庄子) · butterfly dream, Cook Ding, free wandering'
 tags:
   - 'zhuangzi'
   - 'freedom'

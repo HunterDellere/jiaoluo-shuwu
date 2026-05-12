@@ -5,8 +5,8 @@ status: 'complete'
 content_review: 'pending'
 title: '老子 · Laozi & the Daodejing'
 desc: 'The 81 chapters, wu wei 无为, and the paradox at the heart of Daoist thought.'
-metaDesc: "老子 Laozi: the historical problem, the Daodejing 道德经 text, the Dao as ineffable ground of being, 无为 non-action, 反 reversal, and water as philosophical metaphor."
-pageTitle: '老子 lǎozǐ'
+metaDesc: "Laozi (老子) and the Daodejing 道德经: the historical problem of authorship, the 81 chapters, the Dao as ineffable ground of being, 无为 wúwéi non-action, 反 reversal, and water as the master metaphor of Daoist thought."
+pageTitle: 'Laozi & the Daodejing (老子 / 道德经) · core ideas'
 tags:
   - 'laozi'
   - 'daodejing'

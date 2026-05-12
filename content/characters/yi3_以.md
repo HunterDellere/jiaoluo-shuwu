@@ -5,8 +5,8 @@ status: 'complete'
 content_review: 'pending'
 title: '以 · by means of; using; because; in order to'
 desc: "A classical Chinese preposition and conjunction so versatile that it anchors half the grammar of formal Chinese: the word that turns one thing into the means, standard, or cause of another."
-metaDesc: "以 yi: by means of, using, because, in order to. A key classical Chinese preposition and conjunction. Etymology, the yi-wei construction, compounds yiwei keyi suoyi yiqian yihou, classical examples, and contrastive notes on formal vs colloquial registers."
-pageTitle: '以 yǐ'
+metaDesc: "What 以 yǐ means in Chinese: 'by means of, using, because, in order to.' The classical preposition and conjunction that anchors formal Chinese, the 以为 construction, and compounds like 可以, 所以, 以前, 以后."
+pageTitle: 'What 以 yǐ means · by means of, using, because, in order to'
 char: '以'
 pinyin: 'yǐ'
 tone: 3

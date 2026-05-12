@@ -5,8 +5,8 @@ status: 'complete'
 content_review: 'pending'
 title: '王阳明 · Wang Yangming and the School of Mind'
 desc: "Wang Yangming broke Neo-Confucianism open: instead of investigating external things to reach moral truth, he turned inward and declared that the moral mind already knows, and that knowing and acting are one indivisible movement."
-metaDesc: "Wang Yangming and xinxue the School of Mind: the Ming dynasty philosopher who unified moral knowing and action, developed the concept of liangzhi innate moral knowledge, and challenged the Zhu Xi orthodoxy. Key concepts: zhixing heyi, liangzhi, zhizhi gewu."
-pageTitle: '王阳明 Wáng Yángmíng'
+metaDesc: "Wang Yangming (王阳明) and the School of Mind 心学: the Ming Neo-Confucian who unified moral knowing and action (知行合一), developed innate moral knowledge (良知), and broke from Zhu Xi orthodoxy. Core concepts and biography."
+pageTitle: 'Wang Yangming (王阳明) · School of Mind, 知行合一, 良知'
 pinyin: 'Wáng Yángmíng'
 tags:
   - 'wang-yangming'

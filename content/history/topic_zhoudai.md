@@ -5,8 +5,8 @@ status: 'complete'
 content_review: 'pending'
 title: '周朝 · The Zhou Dynasty'
 desc: 'The longest dynasty in Chinese history and the philosophical seedbed of Chinese civilization: where the Mandate of Heaven was born, Confucius lived, and nearly every idea that shaped imperial China was first argued.'
-metaDesc: "周朝 Zhōu cháo (1046–256 BCE): the Zhou dynasty. Mandate of Heaven, Duke of Zhou, feudal investiture, Spring and Autumn, Warring States, and the Five Classics."
-pageTitle: '周朝 Zhōu cháo'
+metaDesc: "Zhou Dynasty (1046–256 BCE), the longest dynasty in Chinese history: the Mandate of Heaven 天命, the Duke of Zhou, the Western Zhou feudal order, the Spring and Autumn and Warring States periods, and the birth of the Five Classics."
+pageTitle: 'Zhou Dynasty (1046–256 BCE) · 周朝, Mandate of Heaven, classics'
 tags:
   - 'history'
   - 'ancient'

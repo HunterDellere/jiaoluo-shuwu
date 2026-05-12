@@ -5,8 +5,8 @@ status: 'complete'
 content_review: 'pending'
 title: '唐朝 · The Tang Dynasty'
 desc: 'The cosmopolitan golden age: poetry, Buddhism, and the Silk Road.'
-metaDesc: "唐朝 tángcháo: China's golden age. Taizong's model governance, Chang'an as the world's greatest city, Empress Wu Zetian, the poetry of Li Bai and Du Fu, and the An Lushan Rebellion that marked the end of the High Tang."
-pageTitle: '唐朝 · The Tang Dynasty'
+metaDesc: "Tang Dynasty (618–907 CE), China's cosmopolitan golden age: Taizong's model governance, Chang'an as the world's greatest city, Empress Wu Zetian, the poetry of Li Bai 李白 and Du Fu 杜甫, and the An Lushan Rebellion that broke the High Tang."
+pageTitle: 'Tang Dynasty (618–907) · 唐朝, golden age, Li Bai, Du Fu'
 tags:
   - 'tang'
   - 'golden-age'

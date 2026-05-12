@@ -4,8 +4,8 @@ category: 'characters'
 status: 'complete'
 title: '其 · its, that, their'
 desc: "A winnowing basket that became the pronoun holding classical Chinese together: the silent 'its' behind thousands of literary phrases."
-metaDesc: "其 qí: the third-person determiner and classical pronoun of Chinese. From a pictograph of a woven winnowing basket, 其 now anchors set phrases, formal writing, and literary idiom across millennia."
-pageTitle: '其 qí'
+metaDesc: "What 其 qí means in classical Chinese: the third-person determiner 'its / his / her / their' and the silent backbone of literary prose. Etymology (winnowing basket), examples, and the modern set phrases that still depend on it."
+pageTitle: 'What 其 qí means · classical Chinese third-person determiner'
 tags:
   - 'grammar'
   - 'classical'

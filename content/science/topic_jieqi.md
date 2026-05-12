@@ -5,8 +5,8 @@ status: 'complete'
 content_review: 'pending'
 title: '二十四节气 · 24 Solar Terms'
 desc: 'The sun moves 15 degrees and the world changes: a precision agricultural calendar that doubled as a medical manual and is now UNESCO heritage.'
-metaDesc: "二十四节气 èrshísì jiéqì: the 24 solar terms. How each marks a 15-degree solar position, all 24 names and meanings, agricultural timing, TCM seasonal medicine, and UNESCO intangible heritage status."
-pageTitle: '二十四节气 24 Solar Terms'
+metaDesc: "All 24 Chinese Solar Terms (二十四节气) with names, dates, and meanings. How each marks a 15° solar position, the agricultural and TCM logic behind them, and their UNESCO intangible-heritage status."
+pageTitle: 'The 24 Chinese Solar Terms · names, dates, meanings'
 tags:
   - 'science'
   - 'history'

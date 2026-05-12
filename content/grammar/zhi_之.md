@@ -4,8 +4,8 @@ category: 'grammar'
 status: 'complete'
 title: '之 · classical genitive, nominalizer, and pronoun'
 desc: 'The single character that does the work of three English words (of, it, and the one who) and still shows up in modern Chinese every day.'
-metaDesc: "之 zhī: classical Chinese genitive particle, third-person pronoun, and nominalizer. The backbone of literary Chinese, still alive in modern set phrases, formal writing, and chengyu."
-pageTitle: '之 zhī'
+metaDesc: "What 之 zhī means in classical Chinese: the genitive 'of,' the third-person pronoun 'him/her/it,' and the nominaliser. With examples from the Analects, Mengzi, and chengyu, plus how it survives in modern formal writing."
+pageTitle: 'What 之 zhī means · classical Chinese genitive, pronoun, nominalizer'
 tags:
   - 'grammar'
   - 'classical'

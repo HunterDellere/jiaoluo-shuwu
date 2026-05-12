@@ -5,8 +5,8 @@ status: 'complete'
 content_review: 'pending'
 title: '荀子 · Xunzi'
 desc: 'Human nature as bad: ritual and education as correction.'
-metaDesc: "荀子 Xunzi: human nature is bad 性恶论, ritual as civilizing force, a naturalistic Heaven 天, the primacy of learning 学, and the paradox that Confucianism's greatest logician produced two Legalist students."
-pageTitle: '荀子 xúnzǐ'
+metaDesc: "Xunzi (荀子): the Confucian who argued human nature is bad 性恶论, that ritual civilises us, and that Heaven 天 is naturalistic. The paradox of Confucianism's sharpest logician producing two Legalist students."
+pageTitle: 'Xunzi (荀子) · human nature is bad, ritual, naturalistic Heaven'
 tags:
   - 'xunzi'
   - 'ritual'

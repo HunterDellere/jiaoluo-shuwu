@@ -5,8 +5,8 @@ status: 'complete'
 content_review: 'pending'
 title: '明朝 · The Ming Dynasty'
 desc: "The Great Wall rebuilt, Zheng He's voyages, and the inward turn."
-metaDesc: "明朝 míngcháo: Han Chinese restoration, the ruthless founder Hongwu, Zheng He's seven voyages, the Forbidden City, the Great Wall in brick, and the dynasty's slow collapse into peasant rebellion and Manchu invasion."
-pageTitle: '明朝 míngcháo · The Ming Dynasty'
+metaDesc: "Ming Dynasty (1368–1644): the Han-Chinese restoration after Mongol rule. The Hongwu founder, Zheng He's seven treasure voyages, the Forbidden City, the Great Wall rebuilt in brick, and the collapse into peasant rebellion and Manchu invasion."
+pageTitle: 'Ming Dynasty (1368–1644) · 明朝, Zheng He, Forbidden City'
 tags:
   - 'ming'
   - 'great-wall'
