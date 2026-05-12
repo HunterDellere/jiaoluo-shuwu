@@ -6406,17 +6406,13 @@ a.pf-btn-carousel:focus-visible, button.pf-btn-carousel:focus-visible {
 }
 .share-source-mode:empty { display: none; }
 
-/* Controls row: platform picker + actions, side-by-side when there's room. */
+/* Controls row: platform picker spans full width; actions sit below on
+ * their own row. Side-by-side competed for horizontal space and forced
+ * the platform cards too narrow at every breakpoint. */
 .share-controls-row {
-  display: grid;
-  grid-template-columns: 1fr;
+  display: flex;
+  flex-direction: column;
   gap: 1.25rem;
-}
-@media (min-width: 920px) {
-  .share-controls-row {
-    grid-template-columns: 1fr auto;
-    align-items: end;
-  }
 }
 
 .share-control { display: flex; flex-direction: column; gap: 0.6rem; min-width: 0; }
@@ -6428,47 +6424,59 @@ a.pf-btn-carousel:focus-visible, button.pf-btn-carousel:focus-visible {
   color: var(--ink-5);
 }
 
+/* Platform picker grid. Three responsive tiers chosen to keep cells wide
+ * enough for "Xiaohongshu" + "1080×1920" sub-line to fit on one line:
+ *   ≥1100px : 5-up (each cell ~190px after gaps + container padding)
+ *   ≥640px  : 3-up
+ *   <640px  : 1-up (full-width rows)
+ * No auto-fit — produces orphan rows like "LinkedIn alone on row 2". */
 .share-platform-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(9.5rem, 1fr));
+  grid-template-columns: 1fr;
   gap: 0.5rem;
 }
-@media (min-width: 920px) {
-  .share-platform-grid {
-    grid-template-columns: repeat(5, minmax(0, 1fr));
-  }
+@media (min-width: 560px) {
+  .share-platform-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+}
+@media (min-width: 1180px) {
+  /* 5-up only when each cell can fit "Xiaohongshu  3:4 · 1080×1440"
+   * cleanly. Below this we stick with 3-up (which wraps to 3+2 rows)
+   * to keep every label readable. */
+  .share-platform-grid { grid-template-columns: repeat(5, minmax(0, 1fr)); }
 }
 
 .share-platform {
   display: flex;
-  align-items: flex-start;
-  gap: 0.7rem;
-  padding: 0.85rem 0.95rem 0.85rem 0.85rem;
+  align-items: center;
+  gap: 0.6rem;
+  padding: 0.7rem 0.85rem;
   background: var(--papyrus);
   color: var(--ink-3);
-  border: 1.5px solid var(--rule);
+  border: 1px solid var(--rule);
   border-radius: var(--radius-md);
   cursor: pointer;
   font-family: var(--font-ui);
   text-align: left;
-  transition: background 160ms ease, border-color 160ms ease, color 160ms ease, transform 120ms ease, box-shadow 160ms ease;
   position: relative;
-  min-height: 78px;
+  min-width: 0;
+  overflow: hidden;
+  transition: background 140ms ease, border-color 140ms ease;
 }
 .share-platform:hover {
   background: var(--papyrus-3);
   border-color: var(--ochre);
-  transform: translateY(-1px);
 }
 .share-platform:hover .share-platform-chip-fill {
   background: var(--ochre);
+  opacity: 0.6;
 }
+/* Active state: subtle inset shadow + small red rule on the left edge.
+ * No translateY lift, no full-card border color — those were too loud
+ * for a quiet picker. */
 .share-platform.is-on {
-  background: var(--papyrus);
-  border-color: var(--red);
-  color: var(--ink);
-  box-shadow: 0 2px 0 0 var(--red), 0 4px 14px rgba(139,26,26,0.10);
-  transform: translateY(-1px);
+  background: var(--papyrus-2);
+  border-color: var(--ink-4);
+  box-shadow: inset 3px 0 0 0 var(--red);
 }
 .share-platform.is-on .share-platform-chip {
   border-color: var(--red);
@@ -6478,14 +6486,13 @@ a.pf-btn-carousel:focus-visible, button.pf-btn-carousel:focus-visible {
   opacity: 1;
 }
 .share-platform.is-on .share-platform-label {
-  color: var(--red);
+  color: var(--ink);
 }
 
-/* Ratio chip: a true-shape thumbnail of the export canvas. The outer
-   border is the canvas frame; the inner fill expands to match the active
-   state, giving the user visual confirmation that picking this platform
-   produces *that shape*. Sizes are scaled to a 22px tall slot so all
-   ratios share one baseline. */
+/* True-shape ratio chip — the chip's actual dimensions mirror the
+ * export canvas aspect ratio, so picking this platform produces THAT
+ * shape. Outer border = canvas frame; inner fill = visualization of
+ * the active state. */
 .share-platform-chip {
   display: inline-flex;
   align-items: center;
@@ -6494,43 +6501,51 @@ a.pf-btn-carousel:focus-visible, button.pf-btn-carousel:focus-visible {
   border: 1.5px solid var(--ink-5);
   border-radius: 2px;
   padding: 1.5px;
-  margin-top: 0.15rem;
-  transition: border-color 160ms ease;
+  transition: border-color 140ms ease;
 }
 .share-platform-chip-fill {
   display: block;
   width: 100%;
   height: 100%;
   background: var(--ink-5);
-  opacity: 0.35;
+  opacity: 0.3;
   border-radius: 1px;
-  transition: background 160ms ease, opacity 160ms ease;
+  transition: background 140ms ease, opacity 140ms ease;
 }
-.share-platform-chip--square   { width: 22px; height: 22px; }
-.share-platform-chip--portrait { width: 20px; height: 25px; }
-.share-platform-chip--xhs      { width: 20px; height: 27px; }
-.share-platform-chip--story    { width: 16px; height: 28px; }
+.share-platform-chip--square   { width: 20px; height: 20px; }
+.share-platform-chip--portrait { width: 18px; height: 22px; }
+.share-platform-chip--xhs      { width: 18px; height: 24px; }
+.share-platform-chip--story    { width: 14px; height: 25px; }
 
-.share-platform-text { display: flex; flex-direction: column; gap: 0.1rem; min-width: 0; }
+/* Text column: min-width: 0 plus overflow: hidden on the parent button
+ * lets the label truncate cleanly instead of overflowing into the next
+ * card. Single line each for label and sub. */
+.share-platform-text {
+  display: flex;
+  flex-direction: column;
+  gap: 0.1rem;
+  min-width: 0;
+  flex: 1 1 auto;
+}
 .share-platform-label {
-  font-size: 0.95rem;
+  font-size: 0.9rem;
   font-weight: 600;
-  line-height: 1.15;
+  line-height: 1.2;
   color: var(--ink);
-  transition: color 160ms ease;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  transition: color 140ms ease;
 }
 .share-platform-sub {
-  font-size: 0.74rem;
+  font-family: var(--font-mono);
+  font-size: 0.68rem;
+  letter-spacing: 0.03em;
   color: var(--ink-5);
   line-height: 1.2;
-}
-.share-platform-dim {
-  font-family: var(--font-mono);
-  font-size: 0.66rem;
-  letter-spacing: 0.04em;
-  color: var(--ink-5);
-  opacity: 0.7;
-  margin-top: 0.15rem;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 
 .share-actions {

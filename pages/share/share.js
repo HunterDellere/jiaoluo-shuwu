@@ -404,14 +404,18 @@ function renderPlatformPicker() {
   const host = document.querySelector('[data-share-formats]');
   host.innerHTML = PLATFORMS.map(p => {
     const on = p.key === state.platform.key ? ' is-on' : '';
+    // Compact sub-line combines ratio shorthand with dimensions so the card
+    // stays two lines tall ("Instagram" / "1:1 · 1080×1080") instead of
+    // sprawling to three. Easier to scan + fits in narrow cells.
+    const ratioLabel = p.sub.split(' ')[0];          // "1:1" / "4:5" / "9:16" / "3:4"
+    const subLine = `${ratioLabel} · ${p.w}×${p.h}`;
     return `<button type="button" class="share-platform${on}" data-share-platform="${p.key}" aria-pressed="${p.key === state.platform.key}">
       <span class="share-platform-chip share-platform-chip--${p.ratio}" aria-hidden="true">
         <span class="share-platform-chip-fill"></span>
       </span>
       <span class="share-platform-text">
         <span class="share-platform-label">${p.label}</span>
-        <span class="share-platform-sub">${p.sub}</span>
-        <span class="share-platform-dim">${p.w} × ${p.h}</span>
+        <span class="share-platform-sub">${subLine}</span>
       </span>
     </button>`;
   }).join('');
