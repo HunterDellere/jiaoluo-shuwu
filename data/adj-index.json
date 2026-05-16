@@ -1022,6 +1022,21 @@
     ],
     "hasPage": true
   },
+  "面子": {
+    "cn": "面子",
+    "py": "miànzi",
+    "en": "face, social standing",
+    "count": 6,
+    "appearsOn": [
+      "pages/daily/topic_kouyu_lianjieci.html",
+      "pages/vocab/guanxi_关系.html",
+      "pages/vocab/keqi_客气.html",
+      "pages/vocab/limao_礼貌.html",
+      "pages/vocab/qianxu_谦虚.html",
+      "pages/vocab/shehui_社会.html"
+    ],
+    "hasPage": true
+  },
   "呢": {
     "cn": "呢",
     "py": "ne",
@@ -1381,20 +1396,6 @@
       "pages/characters/you3_有.html",
       "pages/grammar/dou_都.html",
       "pages/grammar/le_了.html"
-    ],
-    "hasPage": true
-  },
-  "面子": {
-    "cn": "面子",
-    "py": "miànzi",
-    "en": "face; social prestige",
-    "count": 5,
-    "appearsOn": [
-      "pages/vocab/guanxi_关系.html",
-      "pages/vocab/keqi_客气.html",
-      "pages/vocab/limao_礼貌.html",
-      "pages/vocab/qianxu_谦虚.html",
-      "pages/vocab/shehui_社会.html"
     ],
     "hasPage": true
   },
@@ -1878,6 +1879,19 @@
       "pages/vocab/bixu_必须.html"
     ],
     "hasPage": false
+  },
+  "客气": {
+    "cn": "客气",
+    "py": "kèqi",
+    "en": "polite, courteous",
+    "count": 4,
+    "appearsOn": [
+      "pages/daily/topic_kouyu_lianjieci.html",
+      "pages/vocab/li3_礼.html",
+      "pages/vocab/limao_礼貌.html",
+      "pages/vocab/qianxu_谦虚.html"
+    ],
+    "hasPage": true
   },
   "美": {
     "cn": "美",
@@ -2720,18 +2734,6 @@
       "pages/history/topic_yuanchao.html",
       "pages/religion/topic_rujia.html",
       "pages/vocab/lunyu_论语.html"
-    ],
-    "hasPage": true
-  },
-  "客气": {
-    "cn": "客气",
-    "py": "kèqi",
-    "en": "polite; to be modest",
-    "count": 3,
-    "appearsOn": [
-      "pages/vocab/li3_礼.html",
-      "pages/vocab/limao_礼貌.html",
-      "pages/vocab/qianxu_谦虚.html"
     ],
     "hasPage": true
   },
@@ -5490,6 +5492,17 @@
       "pages/characters/shou3_手.html"
     ],
     "hasPage": true
+  },
+  "口语": {
+    "cn": "口语",
+    "py": "kǒuyǔ",
+    "en": "spoken language",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/yu3_语.html",
+      "pages/daily/topic_kouyu_lianjieci.html"
+    ],
+    "hasPage": false
   },
   "快": {
     "cn": "快",
@@ -14003,16 +14016,6 @@
     ],
     "hasPage": false
   },
-  "口语": {
-    "cn": "口语",
-    "py": "kǒuyǔ",
-    "en": "spoken language",
-    "count": 1,
-    "appearsOn": [
-      "pages/characters/yu3_语.html"
-    ],
-    "hasPage": false
-  },
   "夸": {
     "cn": "夸",
     "py": "kuā",
@@ -14473,6 +14476,16 @@
     ],
     "hasPage": false
   },
+  "连接词": {
+    "cn": "连接词",
+    "py": "liánjiēcí",
+    "en": "connector word",
+    "count": 1,
+    "appearsOn": [
+      "pages/daily/topic_kouyu_lianjieci.html"
+    ],
+    "hasPage": false
+  },
   "联系": {
     "cn": "联系",
     "py": "liánxi",
@@ -14660,6 +14673,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/shui3_水.html"
+    ],
+    "hasPage": false
+  },
+  "流利": {
+    "cn": "流利",
+    "py": "liúlì",
+    "en": "fluent",
+    "count": 1,
+    "appearsOn": [
+      "pages/daily/topic_kouyu_lianjieci.html"
     ],
     "hasPage": false
   },
@@ -19063,6 +19086,16 @@
     ],
     "hasPage": false
   },
+  "委婉": {
+    "cn": "委婉",
+    "py": "wěiwǎn",
+    "en": "tactful, indirect",
+    "count": 1,
+    "appearsOn": [
+      "pages/daily/topic_kouyu_lianjieci.html"
+    ],
+    "hasPage": false
+  },
   "卫生": {
     "cn": "卫生",
     "py": "wèishēng",
@@ -21430,6 +21463,16 @@
     "count": 1,
     "appearsOn": [
       "pages/religion/topic_chan.html"
+    ],
+    "hasPage": false
+  },
+  "语气": {
+    "cn": "语气",
+    "py": "yǔqì",
+    "en": "tone, register",
+    "count": 1,
+    "appearsOn": [
+      "pages/daily/topic_kouyu_lianjieci.html"
     ],
     "hasPage": false
   },

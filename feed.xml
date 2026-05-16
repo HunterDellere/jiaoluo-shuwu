@@ -6,7 +6,15 @@
     <atom:link href="https://jiaoshoo.com/feed.xml" rel="self" type="application/rss+xml" />
     <description>A reading nook for Chinese language and civilisation. Characters, vocabulary, grammar, history, philosophy, and the world they shaped.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 12 May 2026 20:25:55 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 16 May 2026 19:58:39 GMT</lastBuildDate>
+    <item>
+      <title>口语连接词 · Conversational Connectors</title>
+      <link>https://jiaoshoo.com/pages/daily/topic_kouyu_lianjieci.html</link>
+      <guid isPermaLink="true">https://jiaoshoo.com/pages/daily/topic_kouyu_lianjieci.html</guid>
+      <pubDate>Sat, 16 May 2026 00:00:00 GMT</pubDate>
+      <description>The discourse markers that make spoken Chinese sound natural: buying time, opining, hedging, redirecting, agreeing, and exiting a conversation without abruptness.</description>
+      <category>daily</category>
+    </item>
     <item>
       <title>秦朝 · The Qin Dynasty (221–206 BCE)</title>
       <link>https://jiaoshoo.com/pages/history/topic_qinchao.html</link>
@@ -237,14 +245,6 @@
       <guid isPermaLink="true">https://jiaoshoo.com/pages/arts/topic_jingju_roles.html</guid>
       <pubDate>Sun, 26 Apr 2026 00:00:00 GMT</pubDate>
       <description>Five role categories, each a complete performance tradition -- voice, movement, makeup, and costume as a total semiotic system.</description>
-      <category>arts</category>
-    </item>
-    <item>
-      <title>书法风格 · The Five Scripts of Chinese Calligraphy</title>
-      <link>https://jiaoshoo.com/pages/arts/topic_shufa_styles.html</link>
-      <guid isPermaLink="true">https://jiaoshoo.com/pages/arts/topic_shufa_styles.html</guid>
-      <pubDate>Sun, 26 Apr 2026 00:00:00 GMT</pubDate>
-      <description>Five script styles chart two thousand years of Chinese writing, from the solemn bronze inscriptions of the Zhou to the explosive cursive of the Tang masters.</description>
       <category>arts</category>
     </item>
   </channel>
