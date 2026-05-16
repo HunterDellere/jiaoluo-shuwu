@@ -12,6 +12,8 @@ tags:
   - 'family'
 updated: '2026-04-19'
 pinyin: 'Chūnjié'
+seo_title: 'Chūnjié (春节): Chinese New Year customs and taboos'
+seo_desc: "The reunion dinner, the red envelopes, the things you must not do on day one. A clear guide to Chūnjié, China's most important festival of the year."
 content_review: 'verified'
 content_sources:
   - 'Unihan'

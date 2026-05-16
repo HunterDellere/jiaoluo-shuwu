@@ -13,6 +13,8 @@ tags:
   - 'literature'
 updated: '2026-04-19'
 pinyin: 'hànzì'
+seo_title: 'Hànzì (汉字): how Chinese characters actually work'
+seo_desc: "Why Chinese characters look the way they do: radicals, phonetic components, the six categories every learner needs, and the logic behind 50,000+ glyphs."
 content_review: 'verified'
 content_sources:
   - 'Unihan'

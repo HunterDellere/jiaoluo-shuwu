@@ -8,6 +8,8 @@ desc: "The Buddhist karmic wheel that turns through six realms of existence: the
 metaDesc: "轮回 lunhui samsara: the Buddhist cycle of rebirth and karmic consequence. The six realms of existence, the wheel image, karma and cause-and-effect, Chinese Buddhist teaching on breaking the cycle, and the word in modern literary usage."
 pageTitle: '轮回 lúnhuí'
 pinyin: 'lúnhuí'
+seo_title: 'Lúnhuí (轮回): samsara, the wheel of rebirth in Chinese'
+seo_desc: "How Buddhist samsara entered Chinese as lúnhuí, 'wheel return.' The cycle of rebirth, karma, the six realms, and the escape that Chán Buddhism promised."
 tags:
   - 'buddhism'
   - 'religion'

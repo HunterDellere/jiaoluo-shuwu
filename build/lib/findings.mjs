@@ -22,7 +22,7 @@ const VALID_LEVELS = new Set(['ERROR', 'WARN', 'INFO']);
 const VALID_CATEGORIES = new Set([
   'factual', 'cross-references', 'schema', 'tags', 'links', 'anchors',
   'orphans', 'layout', 'hub-members', 'content-health', 'relations',
-  'search', 'formatting',
+  'search', 'formatting', 'seo',
 ]);
 
 /**

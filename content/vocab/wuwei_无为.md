@@ -14,6 +14,8 @@ tags:
   - 'philosophy'
 updated: '2026-04-25'
 pinyin: 'wúwéi'
+seo_title: 'Wúwéi (无为): the Daoist art of not-forcing'
+seo_desc: "Wúwéi isn't doing nothing. It's the Daoist principle of acting in accord with nature: effortless effectiveness, sage governance, Zhuangzi's perfect cook."
 content_review: 'pending'
 ---
 

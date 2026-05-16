@@ -12,6 +12,8 @@ tags:
   - 'education'
 updated: '2026-04-19'
 pinyin: 'pǔtōnghuà'
+seo_title: 'Pǔtōnghuà (普通话): what "Mandarin" actually means'
+seo_desc: "Pǔtōnghuà is China's standardized national speech. How it was built from the Beijing dialect, how it differs from Cantonese, and what learners get wrong."
 content_review: 'verified'
 content_sources:
   - 'Unihan'

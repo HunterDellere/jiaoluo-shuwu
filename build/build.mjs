@@ -276,6 +276,11 @@ function buildMetaComment(fm) {
 }
 
 function buildPageTitle(fm) {
+  // Hand-tuned SERP titles take priority for top-impression pages. These are
+  // written to lead with the searched form (usually pinyin in romanized form)
+  // and carry a concrete hook, since the SERP audience is overwhelmingly
+  // English-reading and skips CJK-leading titles.
+  if (fm.seo_title) return fm.seo_title;
   if (fm.type === 'character') return `${fm.char} ${fm.pinyin}`;
   if (fm.type === 'hub' && fm.title) return fm.title.split('—')[0].trim();
   if (fm.title) return fm.title.split('·')[0].trim();
@@ -310,7 +315,7 @@ function buildBreadcrumbLd(fm, slug, category) {
 function buildJsonLd(fm, slug, category) {
   if (fm.status !== 'complete') return '';
   const url = `${SITE_URL}/pages/${category}/${slug}.html`;
-  const description = fm.metaDesc || fm.desc || '';
+  const description = fm.seo_desc || fm.metaDesc || fm.desc || '';
   const author = { '@type': 'Person', name: 'Hunter Dellere' };
 
   let termData;
@@ -380,8 +385,8 @@ function buildOgTags(fm, slug, category) {
   const url = `${SITE_URL}/pages/${category}/${slug}.html`;
   const ogPng = `${SITE_URL}/assets/og/${category}/${slug}.png`;
   const ogSvg = `${SITE_URL}/og/${category}/${slug}.svg`;
-  const title = fm.pageTitle || buildPageTitle(fm);
-  const desc = fm.metaDesc || fm.desc || '';
+  const title = fm.seo_title || fm.pageTitle || buildPageTitle(fm);
+  const desc = fm.seo_desc || fm.metaDesc || fm.desc || '';
   const primaryLocale = LANG_LOCALE[category] || 'en_US';
   const alternateLocale = primaryLocale === 'zh_CN' ? 'en_US' : 'zh_CN';
   const altEntry = {
@@ -438,7 +443,11 @@ function extractEnglishGloss(fm) {
 }
 
 function appendGloss(baseTitle, fm) {
+  // Hand-tuned seo_title already encodes the hook + gloss in a single sentence;
+  // appending another " — gloss" would just blow past the 60-char SERP budget.
+  if (fm.seo_title) return baseTitle;
   if (baseTitle.includes('—') || baseTitle.includes('·')) return baseTitle;
+  if (baseTitle.includes(':') || baseTitle.includes('(')) return baseTitle;
   const gloss = extractEnglishGloss(fm);
   return gloss ? `${baseTitle} — ${gloss}` : baseTitle;
 }
@@ -458,10 +467,10 @@ function injectTopicHeroEn(body, fm) {
 function renderPage(fm, body, slug, category, prevNext) {
   const filename = `${slug}.html`;
   const metaComment = buildMetaComment(fm);
-  const rawTitle = fm.pageTitle || buildPageTitle(fm);
+  const rawTitle = fm.seo_title || fm.pageTitle || buildPageTitle(fm);
   const needsGloss = fm.type === 'character' || fm.type === 'vocab' || fm.type === 'grammar' || fm.type === 'topic';
   const pageTitle = needsGloss ? appendGloss(rawTitle, fm) : rawTitle;
-  const metaDesc = fm.metaDesc || fm.desc || '';
+  const metaDesc = fm.seo_desc || fm.metaDesc || fm.desc || '';
   const jsonLd = buildJsonLd(fm, slug, category);
   const ogTags = buildOgTags(fm, slug, category);
   const favicon = categoryFaviconDataUri(category);

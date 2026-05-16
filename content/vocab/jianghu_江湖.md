@@ -12,6 +12,8 @@ tags:
   - 'society'
 updated: '2026-04-18'
 pinyin: 'jiānghú'
+seo_title: 'Jiānghú (江湖): the rivers-and-lakes underworld'
+seo_desc: "The outsider world of wandering martial artists, street wisdom, and code-of-the-knife honor. Why every Chinese gangster film is set in the jiānghú."
 content_review: 'verified'
 content_sources:
   - 'Unihan'
