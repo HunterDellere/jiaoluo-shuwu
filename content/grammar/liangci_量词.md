@@ -5,8 +5,8 @@ status: 'complete'
 content_review: 'pending'
 title: '量词 · measure words'
 desc: '个, 只, 条, 本, 张: the classifier taxonomy and the logic behind it.'
-metaDesc: "量词 liàngcí: Chinese measure words (classifiers) explained by category: shape, container, event, collective. Etymology, the logic of the system, 20 essential classifiers, and chengyu."
-pageTitle: '量词 liàngcí · Measure Words'
+metaDesc: "Chinese measure words (量词 liàngcí / classifiers) explained: how 个, 只, 条, 本, 张 work, the four main categories (shape, container, event, collective), 20 essential classifiers, and the logic that makes them learnable."
+pageTitle: 'Chinese Measure Words (量词) · 20 essential classifiers'
 tags:
   - 'measure-words'
   - 'classifiers'

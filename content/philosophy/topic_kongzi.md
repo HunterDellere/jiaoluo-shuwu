@@ -5,8 +5,8 @@ status: 'complete'
 content_review: 'pending'
 title: '孔子 · Confucius'
 desc: 'His life, the Analects 论语, and the civilization he shaped.'
-metaDesc: "孔子 Confucius: his life in Lu state, the Analects 论语, the noble person 君子, humaneness 仁, ritual propriety 礼, and the civilization he shaped."
-pageTitle: '孔子 kǒngzǐ'
+metaDesc: "Confucius (孔子 Kǒngzǐ, 551–479 BCE): his life in the state of Lu, the Analects 论语, and the core teachings (humaneness 仁, ritual propriety 礼, the noble person 君子) that shaped Chinese civilization."
+pageTitle: 'Confucius (孔子) · life, Analects, key teachings'
 tags:
   - 'confucius'
   - 'analects'

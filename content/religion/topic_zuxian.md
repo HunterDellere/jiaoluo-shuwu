@@ -5,8 +5,8 @@ status: 'complete'
 content_review: 'pending'
 title: '祖先崇拜 · Ancestor Veneration'
 desc: 'Tablets, offerings, and the living debt to the dead: the deep continuity of Chinese ancestor veneration.'
-metaDesc: "祖先崇拜 zǔxiān chóngbài: Chinese ancestor veneration. The ritual care of the dead, filial piety, ancestral halls, spirit tablets, and the living continuity between generations. The central practice of Chinese civilization."
-pageTitle: '祖先崇拜 zǔxiān chóngbài'
+metaDesc: "Chinese ancestor veneration (祖先崇拜): how the ritual care of the dead works in practice. Spirit tablets, ancestral halls, offerings, filial piety 孝, Qingming and Zhongyuan, and the link to Confucian ethics."
+pageTitle: 'Chinese Ancestor Veneration (祖先崇拜) · ritual, tablets, halls'
 tags:
   - 'ancestors'
   - 'ritual'

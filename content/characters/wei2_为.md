@@ -5,8 +5,8 @@ status: 'complete'
 content_review: 'pending'
 title: '为 · to do; to act; for; because of'
 desc: 'In oracle bone script, a hand leading an elephant (to guide an immense force through skillful agency), and the character at the center of the Daoist concept of non-action.'
-metaDesc: "为 wei: Chinese character meaning to do, to act, to serve as (wei second tone) and for, because of (wei fourth tone). Oracle bone etymology, wuwei Daoist philosophy, classical grammar constructions, and core compounds including renwei, yinwei, and weile."
-pageTitle: '为 wéi / wèi'
+metaDesc: "What 为 means in Chinese: wéi 'to do, to act, to serve as' and wèi 'for, because of.' Oracle-bone etymology (a hand leading an elephant), 无为 wúwéi in Daoism, and the compounds 认为, 因为, 为了."
+pageTitle: 'What 为 means · wéi (to do, act) and wèi (for, because of)'
 char: '为'
 pinyin: 'wéi'
 tone: 2

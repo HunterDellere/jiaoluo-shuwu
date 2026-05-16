@@ -5,8 +5,8 @@ status: 'complete'
 content_review: 'pending'
 title: '宋朝 · The Song Dynasty'
 desc: 'Economic revolution, printing, compass: the dynasty modernity missed.'
-metaDesc: "宋朝 sòngcháo: politically weak but culturally brilliant. Paper money, printing, gunpowder, and the compass all flourished; the Jingkang Humiliation sent the court south; Neo-Confucianism redefined Chinese thought until the Mongols ended it all in 1279."
-pageTitle: '宋朝 · The Song Dynasty'
+metaDesc: "Song Dynasty (960–1279): paper money, movable-type printing, gunpowder, the compass, the Jingkang Humiliation that split Northern and Southern Song, and Zhu Xi's Neo-Confucianism. Why the Song was militarily weak yet economically and intellectually dominant."
+pageTitle: 'Song Dynasty (960–1279) · inventions, economy, Neo-Confucianism'
 tags:
   - 'song'
   - 'economy'

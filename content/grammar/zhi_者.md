@@ -5,8 +5,8 @@ status: 'complete'
 content_review: 'pending'
 title: '者 · classical nominalizer "the one who; that which"'
 desc: 'The particle that turns a verb or adjective into a person, and that never stopped working.'
-metaDesc: "者 zhě: the classical Chinese nominalizer that converts verbs and adjectives into noun phrases meaning the one who or that which. Still essential in modern formal vocabulary: 学者, 读者, 作者, 前者, 后者."
-pageTitle: '者 zhě'
+metaDesc: "What 者 zhě means in classical Chinese: the nominaliser that turns a verb or adjective into 'the one who' or 'that which.' With examples from the classics and modern survivals: 学者, 读者, 作者, 前者, 后者."
+pageTitle: 'What 者 zhě means · classical Chinese nominalizer'
 tags:
   - 'grammar'
   - 'classical'

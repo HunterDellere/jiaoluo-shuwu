@@ -4,8 +4,8 @@ category: 'grammar'
 status: 'complete'
 title: '所 · classical nominalizer and passive marker'
 desc: "The function word that turns verbs into noun phrases, and has been doing so since Confucius quoted it in the Analects."
-metaDesc: "所 suǒ is the classical Chinese nominalizer that turns a verb into 'that which is verb-ed.' It survives in modern formal Mandarin in set phrases, passive constructions, and written registers."
-pageTitle: '所 suǒ'
+metaDesc: "How 所 suǒ works in classical Chinese: the nominaliser that turns a verb into 'that which is verb-ed,' the 所…者 frame, and the 为…所 passive. With examples from the Analects and how it survives in modern formal writing."
+pageTitle: 'How 所 suǒ works · classical Chinese nominalizer & passive marker'
 pinyin: 'suǒ'
 tags:
   - 'grammar'

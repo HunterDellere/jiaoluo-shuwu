@@ -5,8 +5,8 @@ status: 'complete'
 content_review: 'pending'
 title: '战国时期 · Warring States Period'
 desc: 'The most chaotic political era in Chinese history was also the condition that produced every major Chinese philosophical tradition. Political fragmentation and intellectual diversity are not separate stories.'
-metaDesc: "战国时期 zhànguó shíqī: the seven states, Shang Yang's Legalist reforms, the Hundred Schools 百家争鸣, alliance strategies 合纵连横, and why Qin won."
-pageTitle: '战国时期 zhànguó shíqī'
+metaDesc: "Warring States Period (475–221 BCE): the seven states (秦 楚 齐 燕 韩 赵 魏), Shang Yang's Legalist reforms, the Hundred Schools 百家争鸣, the 合纵连横 alliance strategies, and why Qin won."
+pageTitle: 'Warring States Period (475–221 BCE) · 战国时期'
 tags:
   - 'ancient'
   - 'dynasty'
