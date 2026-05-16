@@ -1,5 +1,21 @@
 [
   {
+    "path": "pages/daily/topic_kouyu_lianjieci.html",
+    "type": "topic",
+    "category": "daily",
+    "title": "口语连接词 · Conversational Connectors",
+    "desc": "The discourse markers that make spoken Chinese sound natural: buying time, opining, hedging, redirecting, agreeing, and exiting a conversation without abruptness.",
+    "tags": [
+      "daily",
+      "spoken",
+      "language",
+      "etiquette"
+    ],
+    "status": "complete",
+    "pinyin": "kǒuyǔ liánjiēcí",
+    "updated": "2026-05-16"
+  },
+  {
     "path": "pages/history/topic_qinchao.html",
     "type": "topic",
     "category": "history",
@@ -334,26 +350,5 @@
     "status": "complete",
     "pinyin": "shānshuǐ",
     "updated": "2026-05-06"
-  },
-  {
-    "path": "pages/characters/de2_德.html",
-    "type": "character",
-    "category": "characters",
-    "title": "德 · virtue, moral power",
-    "desc": "Virtue not as rule-following but as accumulated moral power: what radiates from a person whose conduct has been straight long enough to become second nature.",
-    "tags": [
-      "confucianism",
-      "daoism",
-      "ethics",
-      "virtue",
-      "philosophy"
-    ],
-    "status": "complete",
-    "char": "德",
-    "pinyin": "dé",
-    "tone": 2,
-    "hsk": 4,
-    "radical": "彳",
-    "updated": "2026-05-04"
   }
 ]
