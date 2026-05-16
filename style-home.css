@@ -569,7 +569,29 @@
   .recent-meta { font-family: var(--font-mono); font-size: 0.62rem; color: var(--ink-5); letter-spacing: 0.06em; display: block; }
 
   /* ── Search section ───────────────────────────────────────────────────── */
-  .search-section { margin-bottom: 3rem; }
+  .search-section { margin-bottom: 3rem; scroll-margin-top: calc(var(--nav-h) + 1rem); }
+
+  /* Sticky search bar. As the user scrolls into the results grid, the bar
+     stays docked under the topnav (--nav-h) so the input + clear button
+     remain reachable and the suggestion chips / result-count line stay
+     visible. Solid backdrop + z-index above the cards prevents glyph
+     hanzi from bleeding through the sticky strip. */
+  .search-section .filter-bar-hero {
+    position: sticky;
+    top: var(--nav-h);
+    z-index: var(--z-sticky);
+    background: var(--papyrus);
+    padding: 0.5rem 0;
+    margin-top: 0.25rem;
+  }
+  .search-section .search-suggest-row,
+  .search-section .filter-result,
+  .search-section .howto-shortcuts {
+    position: relative;
+    z-index: var(--z-sticky);
+    background: var(--papyrus);
+  }
+  .search-section #search-results { position: relative; z-index: 1; }
 
   /* Suggestion chips row — sits directly below the search bar */
   .search-suggest-row {
