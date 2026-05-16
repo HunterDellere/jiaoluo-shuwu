@@ -56,8 +56,9 @@
       glyph: "搜",
       eyebrow: "搜索 sōusuǒ",
       title: "Search a character, a word, an idea.",
-      body: "Type 心, dao, or confucius. Press / from anywhere on the page to jump straight into the search bar.",
+      body: 'Try 心, dao, or confucius. Press <kbd class="welcome-kbd">/</kbd> from anywhere to jump into the search bar.',
       cta: "Next",
+      bodyHtml: true,
     },
     {
       glyph: "探",
@@ -134,6 +135,7 @@
   opacity: 0.55;
 }
 .welcome-glyph {
+  position: relative;
   font-family: var(--font-cn-display, 'Noto Serif SC', serif);
   font-size: 4.2rem;
   font-weight: 600;
@@ -144,6 +146,19 @@
   text-shadow: 1px 1px 0 rgba(139,26,26,0.12);
   letter-spacing: 0.04em;
   user-select: none;
+}
+/* Scholar's-seal watermark behind the glyph — adds depth without
+   competing with the hanzi itself. Mirrors the .scholar boxes used
+   throughout the site. */
+.welcome-glyph::before {
+  content: '';
+  position: absolute;
+  top: 50%; left: 50%;
+  width: 7.5rem; height: 7.5rem;
+  transform: translate(-50%, -50%);
+  background: radial-gradient(circle at center, var(--ochre-tint, rgba(160,100,40,0.07)) 0%, transparent 70%);
+  pointer-events: none;
+  z-index: -1;
 }
 .welcome-eyebrow {
   font-family: var(--font-mono, monospace);
@@ -232,7 +247,7 @@
 }
 .welcome-skip {
   position: absolute;
-  top: 0.7rem; right: 0.9rem;
+  top: 0.6rem; right: 0.6rem;
   appearance: none;
   background: transparent;
   border: none;
@@ -240,8 +255,10 @@
   font-size: 0.78rem;
   color: var(--ink-5, #5a4428);
   cursor: pointer;
-  padding: 0.35rem 0.5rem;
-  border-radius: 4px;
+  padding: 0.6rem 0.8rem;
+  min-width: 44px; min-height: 44px;
+  display: inline-flex; align-items: center; justify-content: center;
+  border-radius: 6px;
   transition: color 0.15s, background 0.15s;
   letter-spacing: 0.02em;
 }
@@ -250,6 +267,44 @@
   outline: none;
   box-shadow: 0 0 0 2px rgba(160,100,40,0.35);
 }
+/* Inline keyboard chip used in scene-3 body — matches the .filter-shortcut-hint
+   kbd style used in the search bar so the chip feels like part of the same UI. */
+.welcome-kbd {
+  font-family: var(--font-mono, monospace);
+  background: var(--papyrus-3, #e0d4b8);
+  border: 1px solid var(--rule, #c8bda0);
+  border-radius: 3px;
+  padding: 0.08rem 0.42rem;
+  margin: 0 0.15rem;
+  color: var(--ink-2, #221808);
+  font-size: 0.86em;
+  font-style: normal;
+  vertical-align: 1px;
+  line-height: 1.1;
+  box-shadow: 0 1px 0 rgba(28,18,8,0.06);
+}
+/* Subtle keyboard-hint line under the actions row — discoverability
+   without visual noise. Hidden on the smallest mobile screens where
+   keyboard navigation isn't relevant. */
+.welcome-keys {
+  font-family: var(--font-mono, monospace);
+  font-size: 0.62rem;
+  letter-spacing: 0.08em;
+  color: var(--ink-5, #5a4428);
+  opacity: 0.65;
+  text-align: center;
+  margin: 0.85rem 0 0;
+  user-select: none;
+}
+.welcome-keys .k {
+  font-family: var(--font-mono, monospace);
+  background: var(--papyrus-3, #e0d4b8);
+  border: 1px solid var(--rule, #c8bda0);
+  border-radius: 2px;
+  padding: 0.02rem 0.32rem;
+  margin: 0 0.1rem;
+  color: var(--ink-4, #3d2e18);
+}
 .welcome-scene {
   display: flex; flex-direction: column;
   opacity: 1;
@@ -257,13 +312,20 @@
 }
 .welcome-scene.is-leaving { opacity: 0; }
 
+/* Tablet — narrower than desktop card, looser than phone */
+@media (max-width: 820px) and (min-width: 481px) {
+  .welcome-card { padding: 2.1rem 1.9rem 1.4rem; }
+}
+
 /* Mobile */
 @media (max-width: 480px) {
-  .welcome-card { padding: 2rem 1.4rem 1.3rem; }
+  .welcome-card { padding: 1.9rem 1.3rem 1.2rem; }
   .welcome-glyph { font-size: 3.4rem; }
-  .welcome-title { font-size: 1.35rem; }
-  .welcome-body { font-size: 0.96rem; }
+  .welcome-glyph::before { width: 5.5rem; height: 5.5rem; }
+  .welcome-title { font-size: 1.32rem; }
+  .welcome-body { font-size: 0.95rem; max-width: 32ch; }
   .welcome-cta { padding: 0.55rem 1.15rem; font-size: 0.95rem; }
+  .welcome-keys { display: none; }
 }
 
 /* Dark mode */
@@ -278,6 +340,17 @@ html[data-theme="dark"] .welcome-body { color: #c8b890; }
 html[data-theme="dark"] .welcome-skip { color: #a89770; }
 html[data-theme="dark"] .welcome-skip:hover { color: #efe4cc; background: rgba(255,255,255,0.06); }
 html[data-theme="dark"] .welcome-dot { background: #3d2e18; border-color: #5a4428; }
+html[data-theme="dark"] .welcome-kbd,
+html[data-theme="dark"] .welcome-keys .k {
+  background: #2a2010;
+  border-color: #5a4428;
+  color: #e8dcc4;
+  box-shadow: none;
+}
+html[data-theme="dark"] .welcome-keys { color: #8a7755; }
+html[data-theme="dark"] .welcome-glyph::before {
+  background: radial-gradient(circle at center, rgba(192,120,48,0.08) 0%, transparent 70%);
+}
 `;
     document.head.appendChild(style);
   }
@@ -313,10 +386,16 @@ html[data-theme="dark"] .welcome-dot { background: #3d2e18; border-color: #5a442
     const cta = el("button", { class: "welcome-cta", type: "button" });
 
     const actions = el("div", { class: "welcome-actions" }, [dotsWrap, cta]);
+    const keys = el("p", {
+      class: "welcome-keys",
+      "aria-hidden": "true",
+      html: '<span class="k">←</span> <span class="k">→</span> step · <span class="k">Esc</span> close',
+    });
 
     card.appendChild(skip);
     card.appendChild(sceneWrap);
     card.appendChild(actions);
+    card.appendChild(keys);
     backdrop.appendChild(card);
 
     let current = 0;
@@ -328,7 +407,9 @@ html[data-theme="dark"] .welcome-dot { background: #3d2e18; border-color: #5a442
       sceneWrap.appendChild(el("div", { class: "welcome-glyph", "aria-hidden": "true" }, s.glyph));
       sceneWrap.appendChild(el("div", { class: "welcome-eyebrow", html: `<span class="cn">${s.eyebrow.split(" ")[0]}</span>${s.eyebrow.split(" ").slice(1).join(" ")}` }));
       sceneWrap.appendChild(el("h2", { class: "welcome-title", id: "welcome-title" }, s.title));
-      sceneWrap.appendChild(el("p", { class: "welcome-body", id: "welcome-body" }, s.body));
+      const bodyAttrs = { class: "welcome-body", id: "welcome-body" };
+      if (s.bodyHtml) bodyAttrs.html = s.body;
+      sceneWrap.appendChild(s.bodyHtml ? el("p", bodyAttrs) : el("p", bodyAttrs, s.body));
       cta.textContent = s.cta;
       Array.from(dotsWrap.children).forEach((d, i) => {
         d.classList.toggle("is-active", i === current);
@@ -368,13 +449,15 @@ html[data-theme="dark"] .welcome-dot { background: #3d2e18; border-color: #5a442
     }
 
     function onKey(e) {
-      if (e.key === "Escape") { e.preventDefault(); close(); }
-      else if (e.key === "ArrowRight" || e.key === "Enter") {
-        if (document.activeElement !== cta && document.activeElement !== skip) {
-          e.preventDefault(); gotoScene(current + 1);
-        }
+      if (e.key === "Escape") { e.preventDefault(); close(); return; }
+      // Arrows always navigate scenes — they're modal-scoped here.
+      if (e.key === "ArrowRight") { e.preventDefault(); gotoScene(current + 1); return; }
+      if (e.key === "ArrowLeft")  { e.preventDefault(); gotoScene(Math.max(0, current - 1)); return; }
+      // Enter advances only when focus isn't on an actual button (let those
+      // fire their own click events).
+      if (e.key === "Enter" && document.activeElement !== cta && document.activeElement !== skip) {
+        e.preventDefault(); gotoScene(current + 1);
       }
-      else if (e.key === "ArrowLeft") { e.preventDefault(); gotoScene(Math.max(0, current - 1)); }
     }
 
     cta.addEventListener("click", () => gotoScene(current + 1));
