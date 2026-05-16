@@ -199,6 +199,24 @@
     <div class="section-eyebrow"><span class="eb-mark" aria-hidden="true"></span>今日 jīnrì</div>
     <h2 class="section-title" id="today-heading">Today</h2>
     <p class="section-sub" data-daily-date>—</p>
+    <script>
+    // Render the daily date synchronously so it doesn't wait on the data
+    // fetches in homepage.js. This is the LCP element on the homepage —
+    // hoisting it shaves ~2s off Largest Contentful Paint.
+    (function(){
+      try {
+        var el = document.currentScript && document.currentScript.previousElementSibling;
+        if (!el || !el.hasAttribute || !el.hasAttribute('data-daily-date')) return;
+        var now = new Date();
+        var cn = (now.getUTCMonth() + 1) + '月' + now.getUTCDate() + '日';
+        var en = '';
+        try {
+          en = now.toLocaleDateString(undefined, { weekday:'long', month:'long', day:'numeric', timeZone:'UTC' });
+        } catch(e) { en = now.toISOString().slice(0,10); }
+        el.innerHTML = '<span class="dd-date-cn" lang="zh">' + cn + '</span><span class="dd-date-sep" aria-hidden="true">·</span><span class="dd-date-en">' + en + '</span>';
+      } catch(e) {}
+    })();
+    </script>
 
     <article class="featured-card" id="featured-card" data-watermark=""></article>
 
@@ -373,8 +391,8 @@
 
 </main>
 
-<script src="scripts/daily-pick.js?v=1"></script>
-<script src="scripts/homepage.js?v=10"></script>
+<script src="scripts/daily-pick.js?v=1" defer></script>
+<script src="scripts/homepage.js?v=11" defer></script>
 <script>
 // Homepage brand → scroll to top smoothly instead of a full reload when already on /
 document.addEventListener('click', function (e) {

@@ -241,21 +241,35 @@
   }
 
   // ── boot: fetch data then render ─────────────────────────────────────────────
+  // search-index.json is 660+ KiB and only needed when the user searches.
+  // We pull it lazily (first focus or keystroke on the search box) so it stays
+  // out of the critical path and doesn't delay LCP/FCP on the homepage.
+  let searchIndexPromise = null;
+  function loadSearchIndex() {
+    if (!searchIndexPromise) {
+      searchIndexPromise = fetch('data/search-index.json').then(r => r.json());
+    }
+    return searchIndexPromise;
+  }
+
   Promise.all([
     fetch('data/entries.json').then(r => r.json()),
-    fetch('data/search-index.json').then(r => r.json()),
     fetch('data/recent.json').then(r => r.json()).catch(() => []),
     fetch('data/featured.json').then(r => r.json()).catch(() => []),
     fetch('data/category-meta.json').then(r => r.json())
-  ]).then(([allEntriesRaw, searchIndex, recentEntries, featured, catMetaRaw]) => {
+  ]).then(([allEntriesRaw, recentEntries, featured, catMetaRaw]) => {
     const allEntries = allEntriesRaw.filter(e => e.status === "complete");
     CATEGORY_META = deriveCategoryMeta(catMetaRaw);
-    boot(allEntries, searchIndex, recentEntries, featured);
+    boot(allEntries, loadSearchIndex, recentEntries, featured);
   }).catch(err => {
     console.error('Failed to load entries data:', err);
   });
 
-  function boot(allEntries, searchIndex, recentEntries, featured) {
+  function boot(allEntries, getSearchIndex, recentEntries, featured) {
+    // searchIndex is lazy-loaded the first time the user interacts with the
+    // search box. Until then it stays null and applySearch is a no-op for
+    // queries — preserving the homepage's critical render path.
+    let searchIndex = null;
     // Tiny word-number helper for the subheader copy. Keeps prose tone while
     // staying honest about the actual count (fixes the "Twelve" / "Thirteen"
     // strings drifting out of sync with the data).
@@ -599,6 +613,17 @@
 
       searchResultsEl.classList.toggle("visible", hasQuery);
 
+      if (hasQuery && !searchIndex) {
+        // First query before index has finished loading. Kick off the fetch
+        // and re-apply once it lands so the user gets results without losing
+        // their keystroke.
+        getSearchIndex().then(idx => {
+          searchIndex = idx;
+          if (searchText.trim()) applySearch();
+        });
+        return;
+      }
+
       if (hasQuery) {
         const matchedPaths = searchPaths(query, searchIndex);
         const total = matchedPaths ? matchedPaths.size : 0;
@@ -638,6 +663,19 @@
     }
     suggestEl.addEventListener("click", handleSuggestClick);
     document.getElementById("no-results-suggest").addEventListener("click", handleSuggestClick);
+
+    // Warm the search-index fetch the moment the user shows intent to search.
+    // By the time they finish typing the first word the index is usually ready.
+    const warmSearchIndex = () => {
+      if (!searchIndex) {
+        getSearchIndex().then(idx => {
+          searchIndex = idx;
+          if (searchText.trim()) applySearch();
+        });
+      }
+    };
+    searchInput.addEventListener("focus", warmSearchIndex, { once: true });
+    searchInput.addEventListener("pointerdown", warmSearchIndex, { once: true });
 
     searchInput.addEventListener("input", () => {
       searchText = searchInput.value;
