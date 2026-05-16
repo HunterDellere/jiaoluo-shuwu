@@ -76,11 +76,22 @@
     },
     "metaDesc": {
       "type": "string",
-      "description": "SEO meta description override; falls back to desc if absent"
+      "description": "SEO meta description override; falls back to desc if absent. Prefer seo_desc for new pages."
     },
     "pageTitle": {
       "type": "string",
-      "description": "HTML <title> content (before ' — Jiǎoluò Shūwū · 角落書屋'); auto-generated if absent"
+      "description": "HTML <title> content (before ' | Jiǎoshū'); auto-generated if absent. Prefer seo_title for new pages."
+    },
+    "seo_title": {
+      "type": "string",
+      "description": "Hand-tuned SERP title for pages we want to win specific English-language queries. Leads with pinyin (or the searched English term), carries a concrete hook, and stays under 60 chars. See templates/_drafting/SEO.md for the full pattern.",
+      "maxLength": 60
+    },
+    "seo_desc": {
+      "type": "string",
+      "description": "Hand-tuned SERP description, written as a complete-sentence answer to the natural-language query the page targets. 90-155 chars; longer gets truncated, shorter gets rewritten by Google. See templates/_drafting/SEO.md.",
+      "maxLength": 165,
+      "minLength": 70
     },
     "topic": {
       "type": "string",

@@ -128,6 +128,7 @@ const TAB_DEFS = [
   { id: 'links',        label: '⇄ Links & Anchors',   categories: ['links', 'anchors', 'orphans'] },
   { id: 'layout',       label: '▤ Layout',             categories: ['layout', 'hub-members'] },
   { id: 'health',       label: '⊕ Content Health',    categories: ['content-health'] },
+  { id: 'seo',          label: '⌖ SEO',                categories: ['seo'] },
   { id: 'relations',    label: '⬡ Relations',          categories: ['relations'] },
   { id: 'search',       label: '⌕ Search',             categories: ['search'] },
   { id: 'formatting',   label: '¶ Formatting',         categories: ['formatting'] },

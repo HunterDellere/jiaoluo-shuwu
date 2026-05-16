@@ -13,6 +13,8 @@ tags:
   - 'ethics'
 updated: '2026-04-18'
 pinyin: 'kǒngzǐ'
+seo_title: 'Kǒngzǐ (孔子): who Confucius actually was'
+seo_desc: "Not a religion founder. A teacher who walked the back roads of warring kingdoms looking for one ruler who would listen. The man behind 2,500 years of influence."
 ---
 
 

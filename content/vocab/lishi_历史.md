@@ -8,6 +8,8 @@ desc: 'The character for historian shows a hand holding a brush over a vessel: i
 metaDesc: "历史 lìshǐ: history and the historical record in Chinese. From the oracle bone scribe to Sima Qian to the political mirror metaphor, how China has understood and wielded its past."
 pageTitle: '历史 lìshǐ'
 pinyin: 'lìshǐ'
+seo_title: 'Lìshǐ (历史): why "history" in Chinese means the scribe'
+seo_desc: "The character for historian shows a hand holding a brush over a vessel. In ancient China the scribe who held the brush held the power, and Sima Qian paid the price."
 tags:
   - 'history'
   - 'culture'

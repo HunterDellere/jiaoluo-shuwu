@@ -13,6 +13,8 @@ tags:
   - 'history'
 updated: '2026-04-25'
 pinyin: 'wénhuà'
+seo_title: 'Wénhuà (文化): how Chinese built the idea of "culture"'
+seo_desc: "The word names the organizing project of an entire civilization, and Chinese thought built it from the ground up differently than the West did."
 content_review: 'pending'
 ---
 

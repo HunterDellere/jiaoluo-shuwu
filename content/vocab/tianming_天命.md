@@ -12,6 +12,8 @@ tags:
   - 'philosophy'
 updated: '2026-04-19'
 pinyin: 'tiānmìng'
+seo_title: 'Tiānmìng (天命): the Mandate of Heaven, explained'
+seo_desc: "How one idea legitimized three thousand years of Chinese dynasties, and gave every rebellion a ready-made justification when the harvest failed."
 content_review: 'verified'
 content_sources:
   - 'Unihan'

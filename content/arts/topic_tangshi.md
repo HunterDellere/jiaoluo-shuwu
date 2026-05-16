@@ -13,6 +13,8 @@ tags:
   - 'literature'
 updated: '2026-04-18'
 pinyin: 'tángshī'
+seo_title: 'Tang poetry: the golden age of Chinese verse, in 8 poets'
+seo_desc: "Li Bai's wine, Du Fu's sorrow, Wang Wei's silence. A tour through the Tang dynasty's golden age, and the 300 poems every schoolchild memorized."
 ---
 
 

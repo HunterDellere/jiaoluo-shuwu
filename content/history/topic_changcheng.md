@@ -7,6 +7,8 @@ desc: 'Two millennia of walls, watchtowers, and beacon fires: what the Great Wal
 metaDesc: "长城 Chángchéng, The Great Wall of China: not one wall but many, built and rebuilt across two millennia from the Warring States through Qin, Han, Northern Wei, Sui, Jin, and Ming. Construction history, layered geography, what 越长城 (yuè chángchéng, to cross the Great Wall) means, and why the wall became a national symbol."
 pageTitle: '长城 Chángchéng · The Great Wall'
 pinyin: 'cháng chéng'
+seo_title: 'Chángchéng (长城): the Great Wall, in plain terms'
+seo_desc: "Two thousand years of wall-building, not one wall. How Chinese dynasties built, abandoned, and rebuilt the chángchéng, and what 'beyond the wall' actually meant."
 tags:
   - 'history'
   - 'fortification'
