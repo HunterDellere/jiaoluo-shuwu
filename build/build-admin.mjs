@@ -1237,6 +1237,7 @@ const TAB_LABELS = {
   'links':        'Links',
   'layout':       'Layout',
   'health':       'Content Health',
+  'seo':          'SEO',
   'relations':    'Relations',
   'search':       'Search',
   'formatting':   'Formatting',
