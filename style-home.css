@@ -559,6 +559,15 @@
   html[data-theme="dark"] .daily-draw-streak {
     background: var(--papyrus-2);
   }
+  /* Dark mode: widen the shimmer-gradient delta so the skeleton motion
+     stays visible against the low-contrast dark papyrus tones. */
+  html[data-theme="dark"] .daily-chip.is-skeleton .dc-shimmer {
+    background: linear-gradient(90deg,
+      var(--papyrus-3) 0%,
+      var(--papyrus-5) 50%,
+      var(--papyrus-3) 100%);
+    background-size: 200% 100%;
+  }
 
   .recent-section { margin-bottom: 4rem; }
   .recent-grid {

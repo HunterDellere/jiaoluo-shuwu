@@ -335,43 +335,11 @@ body {
 .topnav-right {
   display: flex; align-items: center; gap: 1.6rem;
 }
-.topnav-random {
-  font-family: var(--font-mono);
-  font-size: var(--fs-sm);
-  letter-spacing: 0.16em;
-  text-transform: uppercase;
-  color: var(--topnav-fg-dim);
-  text-decoration: none;
-  transition: color var(--t-base);
-  display: inline-flex; align-items: center; gap: 0.35rem;
-}
-.topnav-random span { font-family: var(--font-mono); font-size: var(--fs-lg); color: var(--topnav-accent); transition: transform 0.3s; display: inline-block; line-height: 1; }
-.topnav-random:hover { color: var(--topnav-fg-bright); }
-.topnav-random:hover span { transform: rotate(15deg); }
-.topnav-random:focus-visible { outline: 2px solid var(--topnav-accent); outline-offset: 3px; border-radius: var(--radius-xs); }
-.topnav-random.loading { opacity: 0.6; pointer-events: none; }
-.topnav-random.loading span { animation: spin 0.9s linear infinite; }
-@keyframes spin { from { transform: rotate(0deg); } to { transform: rotate(360deg); } }
-
-.topnav-today {
-  font-family: var(--font-mono);
-  font-size: var(--fs-sm);
-  letter-spacing: 0.16em;
-  text-transform: uppercase;
-  color: var(--topnav-fg-dim);
-  text-decoration: none;
-  transition: color var(--t-base);
-  display: inline-flex; align-items: center; gap: 0.35rem;
-}
-.topnav-today span {
-  font-family: var(--font-mono); font-size: var(--fs-lg); color: var(--topnav-accent);
-  display: inline-block; line-height: 1;
-  transition: transform var(--t-base);
-}
-.topnav-today:hover { color: var(--topnav-fg-bright); }
-.topnav-today:hover span { transform: translateY(-1px); }
-.topnav-today:focus-visible { outline: 2px solid var(--topnav-accent); outline-offset: 3px; border-radius: var(--radius-xs); }
-
+/* Text-only nav links. Consolidated after the icon-glyphs were removed
+   from Today / Random / Exports. Underline-on-hover replaces the dropped
+   per-glyph micro-animations so the link still feels alive. */
+.topnav-random,
+.topnav-today,
 .topnav-exports {
   font-family: var(--font-mono);
   font-size: var(--fs-sm);
@@ -380,16 +348,31 @@ body {
   color: var(--topnav-fg-dim);
   text-decoration: none;
   transition: color var(--t-base);
-  display: inline-flex; align-items: center; gap: 0.35rem;
+  display: inline-flex; align-items: center;
+  position: relative;
 }
-.topnav-exports span {
-  font-family: var(--font-mono); font-size: var(--fs-lg); color: var(--topnav-accent);
-  display: inline-block; line-height: 1;
-  transition: transform var(--t-base);
+.topnav-random::after,
+.topnav-today::after,
+.topnav-exports::after {
+  content: '';
+  position: absolute; left: 0; right: 0; bottom: -3px;
+  height: 1px; background: currentColor; opacity: 0;
+  transform: translateY(-2px);
+  transition: opacity var(--t-base), transform var(--t-base);
 }
+.topnav-random:hover,
+.topnav-today:hover,
 .topnav-exports:hover { color: var(--topnav-fg-bright); }
-.topnav-exports:hover span { transform: translateY(1px); }
-.topnav-exports:focus-visible { outline: 2px solid var(--topnav-accent); outline-offset: 3px; border-radius: var(--radius-xs); }
+.topnav-random:hover::after,
+.topnav-today:hover::after,
+.topnav-exports:hover::after { opacity: 0.55; transform: translateY(0); }
+.topnav-random:focus-visible,
+.topnav-today:focus-visible,
+.topnav-exports:focus-visible {
+  outline: 2px solid var(--topnav-accent); outline-offset: 3px; border-radius: var(--radius-xs);
+}
+/* Random fetches a random entry; show a subtle dim while in flight. */
+.topnav-random.loading { opacity: 0.55; pointer-events: none; }
 
 /* Tighten the gap between Today / Random / Exports / Explore so the items
    don't read as separate buttons. Theme toggle stays slightly further out. */
