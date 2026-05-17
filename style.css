@@ -148,12 +148,22 @@ body {
   font-family: var(--font-mono);
   font-size: var(--fs-sm);
   letter-spacing: 0.16em;
+  text-transform: uppercase;
   color: var(--topnav-fg-dim);
   text-decoration: none;
-  transition: color var(--t-base), transform var(--t-base);
-  display: inline-flex; align-items: center; gap: 0.3rem;
+  transition: color var(--t-base);
+  display: inline-flex; align-items: center;
+  position: relative;
 }
-.topnav-back:hover { color: var(--topnav-accent); transform: translateX(-2px); }
+.topnav-back::after {
+  content: '';
+  position: absolute; left: 0; right: 0; bottom: -3px;
+  height: 1px; background: currentColor; opacity: 0;
+  transform: translateY(-2px);
+  transition: opacity var(--t-base), transform var(--t-base);
+}
+.topnav-back:hover { color: var(--topnav-fg-bright); }
+.topnav-back:hover::after { opacity: 0.55; transform: translateY(0); }
 
 .topnav-right {
   display: flex; align-items: center; gap: 1.6rem;
