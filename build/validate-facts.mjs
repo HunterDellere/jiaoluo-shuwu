@@ -216,9 +216,11 @@ function validateFile(fp) {
       // Pinyin check: WARN only. makemeahanzi stores one primary reading; polyphones
       // (多音字) routinely use secondary readings, so a mismatch signals "please verify"
       // rather than a clear error.
-      if (fm.pinyin && ref.pinyin && ref.pinyin.length > 0) {
+      // Suppress when frontmatter declares facts_verified: true — the author has
+      // confirmed the reading is intentional (polyphone, traditional pedagogy, etc).
+      if (!fm.facts_verified && fm.pinyin && ref.pinyin && ref.pinyin.length > 0) {
         if (!ref.pinyin.some(p => p === fm.pinyin)) {
-          emit('WARN', rel, `pinyin '${fm.pinyin}' differs from reference ${JSON.stringify(ref.pinyin)} for '${ch}' — confirm if secondary reading is intended`);
+          emit('WARN', rel, `pinyin '${fm.pinyin}' differs from reference ${JSON.stringify(ref.pinyin)} for '${ch}' — confirm if secondary reading is intended (or set facts_verified: true)`);
         }
       }
       // Tone-mark/tone-number consistency
@@ -229,9 +231,11 @@ function validateFile(fp) {
         }
       }
       // Radical check (allow variant equivalence).
-      if (fm.radical && ref.radical) {
+      // Same facts_verified suppression — the validator's own warning text says
+      // "may be a system choice"; making that explicit shuts the loop.
+      if (!fm.facts_verified && fm.radical && ref.radical) {
         if (!componentsMatch(fm.radical, new Set([ref.radical]))) {
-          emit('WARN', rel, `radical '${fm.radical}' differs from reference '${ref.radical}' for '${ch}' (may be a system choice — verify)`);
+          emit('WARN', rel, `radical '${fm.radical}' differs from reference '${ref.radical}' for '${ch}' (may be a system choice — verify, or set facts_verified: true)`);
         }
       }
     }

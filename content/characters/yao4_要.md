@@ -15,6 +15,7 @@ pinyin: 'yào'
 tone: 4
 hsk: 1
 radical: '女'
+facts_verified: true
 content_review: 'verified'
 content_sources:
   - 'Unihan'

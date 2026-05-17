@@ -12,6 +12,7 @@ pinyin: 'yě'
 tone: 3
 hsk: 1
 radical: '乙'
+facts_verified: true
 tags:
   - 'grammar'
   - 'particle'

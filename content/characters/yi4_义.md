@@ -17,6 +17,7 @@ pinyin: 'yì'
 tone: 4
 hsk: 3
 radical: '丶'
+facts_verified: true
 content_review: 'pending'
 ---
 

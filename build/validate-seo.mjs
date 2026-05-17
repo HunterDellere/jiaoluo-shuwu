@@ -61,6 +61,14 @@ function contentPath(entry) {
   return entry.path.replace(/^pages\//, 'content/').replace(/\.html$/, '.md');
 }
 
+// Track the "missing" backlog separately. Per-page WARNs for missing seo_title
+// or seo_desc are an authoring-progress signal, not a bug — the page renders
+// fine without them. Collapsing them into a single summary INFO keeps the
+// validator output honest about what's actually wrong (truncation, CJK-first,
+// out-of-band length) vs what's just not-yet-filled.
+const missingTitle = [];
+const missingDesc  = [];
+
 for (const e of entries) {
   if (e.status !== 'complete') continue;
   if (!COMPETITIVE_CATEGORIES.has(e.category)) continue;
@@ -81,9 +89,7 @@ for (const e of entries) {
   const seoDesc  = (fm.seo_desc  || '').trim();
 
   if (!seoTitle) {
-    emit('WARN', relContent, 'missing seo_title — default title leads with CJK and loses English-SERP clicks', {
-      fix: 'Add seo_title to frontmatter. See templates/_drafting/SEO.md for the pattern.',
-    });
+    missingTitle.push(relContent);
   } else {
     if (seoTitle.length > TITLE_MAX) {
       emit('WARN', relContent, `seo_title is ${seoTitle.length} chars (max ${TITLE_MAX}) — Google will truncate`, {
@@ -103,15 +109,33 @@ for (const e of entries) {
   }
 
   if (!seoDesc) {
-    emit('WARN', relContent, 'missing seo_desc — default desc is hero copy, not SERP copy', {
-      fix: 'Add seo_desc as a complete-sentence answer to the natural-language query the page targets.',
-    });
+    missingDesc.push(relContent);
   } else {
     if (seoDesc.length < DESC_MIN || seoDesc.length > DESC_MAX) {
       emit('WARN', relContent, `seo_desc is ${seoDesc.length} chars (target ${DESC_MIN}-${DESC_MAX})`, {
         fix: 'Tighten or expand to fit the SERP description budget.',
       });
     }
+  }
+}
+
+// Surface the missing-field backlog as a single INFO per field so the CLI
+// stays readable. The admin dashboard still has the full list because every
+// missing-field row is a real authoring task in the SEO tab.
+if (missingTitle.length) {
+  emit('INFO', '_global', `${missingTitle.length} complete pages missing seo_title — default title leads with CJK and may lose English-SERP clicks. See SEO tab on the admin dashboard for the list.`, {
+    fix: 'Add seo_title to frontmatter. See templates/_drafting/SEO.md for the pattern.',
+  });
+  for (const relContent of missingTitle) {
+    findings.push(createFinding({ level: 'INFO', category: 'seo', file: relContent, msg: 'missing seo_title — default title leads with CJK and loses English-SERP clicks', fix: 'Add seo_title to frontmatter. See templates/_drafting/SEO.md for the pattern.' }));
+  }
+}
+if (missingDesc.length) {
+  emit('INFO', '_global', `${missingDesc.length} complete pages missing seo_desc — default desc is hero copy, not SERP copy. See SEO tab on the admin dashboard for the list.`, {
+    fix: 'Add seo_desc as a complete-sentence answer to the natural-language query the page targets.',
+  });
+  for (const relContent of missingDesc) {
+    findings.push(createFinding({ level: 'INFO', category: 'seo', file: relContent, msg: 'missing seo_desc — default desc is hero copy, not SERP copy', fix: 'Add seo_desc as a complete-sentence answer to the natural-language query the page targets.' }));
   }
 }
 

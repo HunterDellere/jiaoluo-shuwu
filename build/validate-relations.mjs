@@ -46,6 +46,10 @@ const relations = buildRelations(entries);
 for (const [pagePath, related] of relations) {
   const entry = entries.find(e => e.path === pagePath);
   if (!entry || entry.status !== 'complete') continue;
+  // Family-index pages (category: 'families') are aggregate index pages, not
+  // deep entries — they intentionally sit outside the tag graph and won't
+  // ever meet the related-count minimum. Skip them.
+  if (entry.category === 'families') continue;
   if (related.length < MIN_PER_PAGE) {
     const rel = contentPath(entry);
     emit('WARN', 'relations', rel,

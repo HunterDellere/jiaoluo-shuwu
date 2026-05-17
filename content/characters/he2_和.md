@@ -17,6 +17,7 @@ pinyin: 'hé'
 tone: 2
 hsk: 1
 radical: '禾'
+facts_verified: true
 content_review: 'pending'
 ---
 

@@ -12,6 +12,7 @@ pinyin: 'wéi'
 tone: 2
 hsk: 2
 radical: '丶'
+facts_verified: true
 tags:
   - 'grammar'
   - 'classical'

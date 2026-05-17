@@ -84,8 +84,13 @@ for (const pageFull of walkPages(PAGES)) {
   }
 
   // ── 2. Non-character types: must have topic-hero header ─────────────────
-  if (['topic', 'vocab', 'grammar', 'chengyu'].includes(type)) {
-    if (!/<header class="topic-hero"/.test(html)) {
+  // Family-index pages (category: families) are structurally distinct — they
+  // use <header class="topic-hero family-hero ..."> with extra classes, and
+  // they are aggregate index pages, not deep content. Exempt them.
+  const isFamilyIndex = (fm.category === 'families');
+  if (['topic', 'vocab', 'grammar', 'chengyu'].includes(type) && !isFamilyIndex) {
+    // Match class="topic-hero" with optional trailing classes (family-hero etc).
+    if (!/<header[^>]*\bclass="topic-hero(?:\s|")/.test(html)) {
       emit('WARN', relFile, `${type} page missing <header class="topic-hero">`, {
         fix: 'Wrap the page header in <header class="topic-hero"> per the content page spec',
       });
@@ -93,7 +98,9 @@ for (const pageFull of walkPages(PAGES)) {
   }
 
   // ── 3. All complete pages: must have at least one section-anchor ─────────
-  if (!html.includes('class="section-anchor"')) {
+  // Same exemption for family-index pages — they are sidebar-nav-only and
+  // don't need TOC scroll-spy on their hero panel.
+  if (!isFamilyIndex && !html.includes('class="section-anchor"')) {
     emit('WARN', relFile, 'no section-anchor elements found — TOC scroll-spy will not work', {
       fix: 'Add <span class="section-anchor" id="..."></span> before each major section',
     });

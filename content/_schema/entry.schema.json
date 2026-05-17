@@ -112,6 +112,10 @@
       "items": { "type": "string", "minLength": 1 },
       "description": "Sources consulted when reviewing content claims (e.g. 'Outlier', 'Wenlin', 'Shuōwén', 'Baxter-Sagart OC', 'CC-CEDICT'). Required when content_review: verified."
     },
+    "facts_verified": {
+      "type": "boolean",
+      "description": "Suppress validate-facts WARNs about pinyin/radical differing from upstream reference. Set true when the author has confirmed the page's reading or radical is an intentional pedagogical choice (e.g. polyphone primary reading, radical-by-meaning vs Unihan radical-by-stroke)."
+    },
     "related": {
       "type": "array",
       "items": { "type": "string", "minLength": 1 },
