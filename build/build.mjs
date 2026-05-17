@@ -65,14 +65,21 @@ function escapeHtmlBuild(s) {
 
 /**
  * Derive a safe ASCII card id from a member slug.
- * 'characters/cha2_茶' → 'cha2'
- * 'culinary/topic_cha' → 'topic_cha'
+ * Prepends the category so cards with the same basename in different
+ * categories don't collide (e.g. 'vocab/hanzi_汉字' vs 'hubs/hanzi'
+ * both used to render as id="card-hanzi").
+ * 'characters/cha2_茶' → 'characters-cha2'
+ * 'culinary/topic_cha' → 'culinary-topic_cha'
+ * 'hubs/hanzi'         → 'hubs-hanzi'
  */
 function cardId(memberSlug) {
-  const base = memberSlug.split('/').pop();
+  const parts = memberSlug.split('/');
+  const category = parts.length > 1 ? parts[0] : '';
+  const base = parts.pop();
   // If basename contains an underscore followed by a non-ASCII char, keep only the ASCII prefix
   const asciiPrefix = base.match(/^([A-Za-z0-9_-]+)_[^\x00-\x7F]/);
-  return asciiPrefix ? asciiPrefix[1] : base;
+  const stem = asciiPrefix ? asciiPrefix[1] : base;
+  return category ? `${category}-${stem}` : stem;
 }
 
 /**
