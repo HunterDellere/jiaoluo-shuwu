@@ -730,6 +730,17 @@
         searchInput.value = initialQ;
         searchText = initialQ;
         clearBtn.classList.add("visible");
+        // The search index is lazy-loaded on focus, but a URL with ?q=
+        // means the user already wants results — warm the fetch now so
+        // applySearch() below doesn't no-op against a null index.
+        getSearchIndex().then(idx => {
+          searchIndex = idx;
+          applySearch();
+          // Scroll to the search section so the visitor lands on their
+          // results rather than the Today/Featured stack above it.
+          const target = document.getElementById("search");
+          if (target) target.scrollIntoView({ behavior: "smooth", block: "start" });
+        });
       }
     } catch {}
 
