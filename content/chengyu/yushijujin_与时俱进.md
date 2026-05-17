@@ -48,7 +48,7 @@ updated: '2026-04-25'
         <span class="toc-cn">用法</span> Usage and Register
         <span class="toc-sub">yòngfǎ · modern everyday and formal contexts</span>
       </a></li>
-      <li><a href="#related">
+      <li><a href="#related-chengyu">
         <span class="toc-cn">相关</span> Related Chengyu
         <span class="toc-sub">xiāngguān · change, adaptation, and convention</span>
       </a></li>
@@ -133,7 +133,7 @@ updated: '2026-04-25'
     </div>
 
 
-    <span class="section-anchor" id="related"></span>
+    <span class="section-anchor" id="related-chengyu"></span>
     <h2 class="section-head">Related Chengyu · 相关成语 xiāngguān chéngyǔ</h2>
     <div class="chengyu-grid">
       <div class="cy">

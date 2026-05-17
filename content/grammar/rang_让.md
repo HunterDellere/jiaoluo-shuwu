@@ -39,7 +39,7 @@ pinyin: 'ràng'
         <span class="toc-cn">允许</span> Permission
         <span class="toc-sub">yǔnxǔ · let someone do something</span>
       </a></li>
-      <li><a href="#related">
+      <li><a href="#related-verbs">
         <span class="toc-cn">相关</span> Related Verbs
         <span class="toc-sub">xiāngguān · 叫 jiào and 请 qǐng</span>
       </a></li>
@@ -176,7 +176,7 @@ pinyin: 'ràng'
 
     </div>
 
-    <span class="section-anchor" id="related"></span>
+    <span class="section-anchor" id="related-verbs"></span>
     <div class="section-head">
       <span class="sh-cn">相关</span>
       <span class="sh-py">xiāngguān</span>

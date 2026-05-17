@@ -273,9 +273,6 @@ content_review: 'pending'
       <p>Modern scholarship has raised the question of whether the Heart Sutra was originally composed in India or whether it was assembled in China, possibly by Xuanzang himself or a close associate, by abridging passages from the longer Prajñāpāramitā literature. Jan Nattier's 1992 article "The Heart Sūtra: A Chinese Apocryphal Text?" made the most influential argument for Chinese composition. The debate continues; the text's standing as scripture in the living tradition does not depend on its resolution.</p>
     </div>
 
-    <span class="section-anchor" id="related"></span>
-    <div class="section-head"><span class="sh-cn">相关</span><span class="sh-py">xiāngguān</span><span class="sh-en">Related: Pages on This Site</span><span class="sh-rule"></span></div>
-
     <div class="adj-wrap">
       <span class="adj" data-relation="collocation"><span class="a-cn">般若</span><span class="a-py">bōrě</span><span class="a-en">prajñā; the wisdom this sutra distills</span></span>
       <span class="adj" data-relation="collocation"><span class="a-cn">空</span><span class="a-py">kōng</span><span class="a-en">emptiness; the central category</span></span>

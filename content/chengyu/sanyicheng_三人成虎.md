@@ -48,7 +48,7 @@ updated: '2026-04-25'
         <span class="toc-cn">用法</span> Usage and Register
         <span class="toc-sub">yòngfǎ · rumors, media, and modern contexts</span>
       </a></li>
-      <li><a href="#related">
+      <li><a href="#related-chengyu">
         <span class="toc-cn">相关</span> Related Chengyu
         <span class="toc-sub">xiāngguān · collective belief and its failures</span>
       </a></li>
@@ -145,7 +145,7 @@ updated: '2026-04-25'
     </div>
 
 
-    <span class="section-anchor" id="related"></span>
+    <span class="section-anchor" id="related-chengyu"></span>
     <h2 class="section-head">Related Chengyu · 相关成语 xiāngguān chéngyǔ</h2>
     <div class="chengyu-grid">
       <div class="cy">

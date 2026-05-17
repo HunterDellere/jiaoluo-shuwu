@@ -45,7 +45,7 @@ content_review: 'pending'
         <span class="toc-cn">用法</span> Usage and Register
         <span class="toc-sub">yòngfǎ · modern contexts</span>
       </a></li>
-      <li><a href="#related">
+      <li><a href="#related-chengyu">
         <span class="toc-cn">相关</span> Related Chengyu
         <span class="toc-sub">xiāngguān · same failure, different stories</span>
       </a></li>
@@ -127,7 +127,7 @@ content_review: 'pending'
     </div>
 
 
-    <span class="section-anchor" id="related"></span>
+    <span class="section-anchor" id="related-chengyu"></span>
     <h2 class="section-head">Related Chengyu · 相关成语 xiāngguān chéngyǔ</h2>
     <div class="scholar" data-glyph="步">
       <div class="scholar-label">同类 tónglèi · same failure mode, different stories</div>

@@ -48,7 +48,7 @@ updated: '2026-04-25'
         <span class="toc-cn">用法</span> Usage and Examples
         <span class="toc-sub">yòngfǎ · contexts and example sentences</span>
       </a></li>
-      <li><a href="#related">
+      <li><a href="#related-concepts">
         <span class="toc-cn">相关</span> Related Concepts
         <span class="toc-sub">xiāngguān · effort, fate, and acceptance</span>
       </a></li>
@@ -132,7 +132,7 @@ updated: '2026-04-25'
     </div>
 
 
-    <span class="section-anchor" id="related"></span>
+    <span class="section-anchor" id="related-concepts"></span>
     <h2 class="section-head">Related Concepts · 相关 xiāngguān</h2>
     <div class="chengyu-grid">
       <div class="cy">

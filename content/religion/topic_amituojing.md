@@ -204,9 +204,6 @@ content_review: 'pending'
       <p>The text became central to Chinese Buddhist devotion through the work of Tan Luan (昙鸾, 476-542), Daochuo (道绰, 562-645), and Shandao (善导, 613-681), the three patriarchs whose commentaries codified Pure Land practice as a distinct school. Through them and the later Japanese Pure Land masters Hōnen (1133-1212) and Shinran (1173-1263), the Smaller Amitabha Sutra became the most widely chanted text in lay Buddhist practice across East Asia.</p>
     </div>
 
-    <span class="section-anchor" id="related"></span>
-    <div class="section-head"><span class="sh-cn">相关</span><span class="sh-py">xiāngguān</span><span class="sh-en">Related</span><span class="sh-rule"></span></div>
-
     <div class="adj-wrap">
       <span class="adj" data-relation="collocation"><span class="a-cn">阿弥陀佛</span><span class="a-py">Āmítuófó</span><span class="a-en">Amitābha Buddha</span></span>
       <span class="adj" data-relation="collocation"><span class="a-cn">净土</span><span class="a-py">jìngtǔ</span><span class="a-en">Pure Land</span></span>
