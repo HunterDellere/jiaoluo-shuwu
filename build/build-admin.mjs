@@ -121,18 +121,21 @@ for (const e of entries) {
 }
 
 // ── Findings per category ordered for the tab list ──────────────────────────
+// Tab definitions. Display labels live in TAB_LABELS below — keeping the
+// id-to-label mapping in one place lets the runtime use either lookup.
+// categories: null marks tabs whose panel is built by hand (special tabs).
 const TAB_DEFS = [
-  { id: 'needs-review', label: '⚑ Needs Review',    categories: null }, // special: all ERRORs + review state issues
-  { id: 'factual',      label: '验 Factual',          categories: ['factual'] },
-  { id: 'schema',       label: '⬡ Schema & Tags',     categories: ['schema', 'tags'] },
-  { id: 'links',        label: '⇄ Links & Anchors',   categories: ['links', 'anchors', 'orphans'] },
-  { id: 'layout',       label: '▤ Layout',             categories: ['layout', 'hub-members'] },
-  { id: 'health',       label: '⊕ Content Health',    categories: ['content-health'] },
-  { id: 'seo',          label: '⌖ SEO',                categories: ['seo'] },
-  { id: 'relations',    label: '⬡ Relations',          categories: ['relations'] },
-  { id: 'search',       label: '⌕ Search',             categories: ['search'] },
-  { id: 'formatting',   label: '¶ Formatting',         categories: ['formatting'] },
-  { id: 'analytics',    label: '⊘ Analytics',          categories: null }, // special panel
+  { id: 'needs-review', categories: null }, // special: all ERRORs + review state issues
+  { id: 'factual',      categories: ['factual'] },
+  { id: 'schema',       categories: ['schema', 'tags'] },
+  { id: 'links',        categories: ['links', 'anchors', 'orphans'] },
+  { id: 'layout',       categories: ['layout', 'hub-members'] },
+  { id: 'health',       categories: ['content-health'] },
+  { id: 'seo',          categories: ['seo'] },
+  { id: 'relations',    categories: ['relations'] },
+  { id: 'search',       categories: ['search'] },
+  { id: 'formatting',   categories: ['formatting'] },
+  { id: 'analytics',    categories: null }, // special panel
 ];
 
 // ── HTML helpers ─────────────────────────────────────────────────────────────
