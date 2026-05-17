@@ -821,6 +821,7 @@ body {
 
 .today-skeleton, .today-empty {
   padding: 1.6rem;
+  min-height: 4.5rem;
   border: 1px dashed var(--rule);
   border-radius: var(--radius-lg, 8px);
   background: transparent;
