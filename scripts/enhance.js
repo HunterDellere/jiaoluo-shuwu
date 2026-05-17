@@ -788,10 +788,12 @@ else { window.__enhanceInit = true; (function () {
       var meta = document.getElementById('meta-theme-color');
       if (meta) meta.content = dark ? '#0e0b07' : '#1c1208';
       btn.setAttribute('aria-label', dark ? 'Switch to light mode' : 'Switch to dark mode');
+      btn.setAttribute('aria-pressed', dark ? 'true' : 'false');
     }
 
     btn.addEventListener('click', function () { setTheme(!isDark()); });
     btn.setAttribute('aria-label', isDark() ? 'Switch to light mode' : 'Switch to dark mode');
+    btn.setAttribute('aria-pressed', isDark() ? 'true' : 'false');
 
     if (window.matchMedia) {
       window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', function (e) {

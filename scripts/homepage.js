@@ -423,6 +423,7 @@
             else                hintEl.textContent = '持之以恒 chízhī yǐhéng.';
           }
         }
+        box.classList.add('is-ready');
       }
       renderStreakChip();
       // streak.js loads with `defer` like homepage.js, but order isn't

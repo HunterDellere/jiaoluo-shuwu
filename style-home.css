@@ -438,6 +438,27 @@
     cursor: default;
   }
   .daily-chip.is-skeleton .dc-en { opacity: 0.6; }
+  /* Shimmer placeholders for the daily-draw skeleton. No literal text. */
+  .daily-chip.is-skeleton .dc-shimmer {
+    display: block;
+    height: 0.7em;
+    border-radius: 3px;
+    background: linear-gradient(90deg,
+      var(--papyrus-2) 0%,
+      var(--papyrus-3) 50%,
+      var(--papyrus-2) 100%);
+    background-size: 200% 100%;
+    animation: dcShimmer 1.4s ease-in-out infinite;
+  }
+  .daily-chip.is-skeleton .dc-cn.dc-shimmer { width: 4ch; height: 0.95em; }
+  .daily-chip.is-skeleton .dc-en.dc-shimmer { width: 80%; }
+  @keyframes dcShimmer {
+    0%   { background-position: 100% 50%; }
+    100% { background-position: -100% 50%; }
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .daily-chip.is-skeleton .dc-shimmer { animation: none; }
+  }
   .daily-chip[data-category="characters"] { border-left: 3px solid var(--cat-characters); }
   .daily-chip[data-category="vocab"]      { border-left: 3px solid var(--cat-vocab); }
   .daily-chip[data-category="grammar"]    { border-left: 3px solid var(--cat-grammar); }
@@ -455,7 +476,11 @@
     border: 1px solid var(--rule);
     border-radius: var(--radius-md, 8px);
     text-align: center;
+    /* Hidden until streak.js + homepage.js mark it ready; prevents the
+       "·" placeholder + empty 'days' label from flashing on first paint. */
+    visibility: hidden;
   }
+  .daily-draw-streak.is-ready { visibility: visible; }
   .daily-draw-streak .dd-streak-tab {
     font-size: 0.7rem;
     color: var(--ochre);
