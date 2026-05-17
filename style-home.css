@@ -655,26 +655,6 @@
   .families-section .family-card { min-height: 220px; }
   .families-section .family-card-art { height: 130px; }
 
-  .families-foot {
-    margin-top: 1.4rem;
-    padding-top: 1rem;
-    border-top: 1px dashed var(--rule);
-    display: flex; justify-content: center;
-  }
-  .families-master-link {
-    display: inline-flex; align-items: baseline; gap: 0.5rem;
-    text-decoration: none;
-    color: var(--ink-3);
-    font-size: 0.92rem;
-    padding: 0.35rem 0.75rem;
-    border-radius: var(--radius);
-    transition: background 0.15s, color 0.15s;
-  }
-  .families-master-link:hover { background: var(--papyrus-3); color: var(--ink); }
-  .families-master-link:focus-visible { outline: none; box-shadow: 0 0 0 2px rgba(160,100,40,0.25); }
-  .fml-cn { font-family: var(--font-cn-display); font-weight: 700; font-size: 1.15rem; color: var(--ochre-2); }
-  .fml-en { color: inherit; }
-
   .filter-bar {
     display: flex; align-items: center; gap: 0.65rem;
     background: var(--papyrus);
