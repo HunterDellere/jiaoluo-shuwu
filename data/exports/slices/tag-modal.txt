@@ -1,5 +1,6 @@
+//角落書屋/Slices/Modals
 必	bì	certainly; must; necessarily — A character rooted in the image of a blade that divides without exception: certainty as the sharpness that leaves no room for maybe.
 可	kě	can; may; worth; quite — A two-stroke mouth character whose ancient sense of affirming breath became the pivot of permission, capability, and worth in classical and modern Chinese.
 要	yào	to want, must, essential — Want, need, must, and will: the grammar engine disguised as a single character.
-必须	bìxū	must, have to (the obligation modal) — 必须 is the strongest of the everyday modal verbs of obligation: a non-negotiable requirement that the speaker presents as not-up-for-discussion.
-会	huì / néng / kěyǐ	能 · 可以 · the three 'can's — Learned ability vs. situational capacity vs. permission: not interchangeable.
+必须	bì xū	must, have to (the obligation modal) — 必须 is the strongest of the everyday modal verbs of obligation: a non-negotiable requirement that the speaker presents as not-up-for-discussion.
+会	huì / néng / kě yǐ	能 · 可以 · the three 'can's — Learned ability vs. situational capacity vs. permission: not interchangeable.

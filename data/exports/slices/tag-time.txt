@@ -1,8 +1,9 @@
+//角落書屋/Slices/Time
 后	hòu	back, behind, after; empress — One simplified character collapsed two completely separate traditional forms: 後 (a trailing foot in motion) and 后 (a commanding mouth), binding the spatial sense of behind with the imperial sense of empress in a single glyph.
 明	míng	bright, clear, tomorrow — Sun and moon combined: brightness, clarity, dawn, and understanding.
 前	qián	front, before, forward; former — Chinese places the past in front (前) and the future behind: the known faces you while the unknown approaches from behind, the inverse of the English spatial metaphor for time.
 时	shí	time, hour, season — The sun moving: time as something visible, measurable, and morally weighted.
-月	yuè	moon, month — A crescent moon in profile, and one of the most poetically charged characters in Chinese literature.
+月	yu è	moon, month — A crescent moon in profile, and one of the most poetically charged characters in Chinese literature.
 再	zài	again, then, further — The adverb that sequences and repeats: again, one more time, and the subtle art of "and then."
-功夫	gōngfu	effort, skill over time — Mastery earned through time: martial arts is the paradigm case, but the word covers any deeply cultivated skill.
-时间	shíjiān	time — Time: the compound that anchors all temporal expression in Mandarin.
+功夫	gōng fu	effort, skill over time — Mastery earned through time: martial arts is the paradigm case, but the word covers any deeply cultivated skill.
+时间	shí jiān	time — Time: the compound that anchors all temporal expression in Mandarin.
