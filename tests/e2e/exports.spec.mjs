@@ -50,6 +50,39 @@ test.describe('Exports — static files', () => {
     expect(apkg.slice(0, 4).toString('ascii').slice(0, 2)).toBe('PK');
     expect(apkg.length).toBeGreaterThan(1000);
   });
+
+  test('Anki .apkg every note.mid resolves to a registered model', async () => {
+    // Regression guard for an off-by-one where notes referenced `mid + 1`
+    // while only `mid` was registered. Anki refuses to import such decks
+    // with: "No such notetype: '<id>'  Please use Check Database".
+    const JSZip = (await import('jszip')).default;
+    const { createRequire } = await import('node:module');
+    const require = createRequire(import.meta.url);
+    const Database = require('better-sqlite3');
+    const { writeFileSync, unlinkSync } = await import('node:fs');
+    const { tmpdir } = await import('node:os');
+
+    for (const name of ['characters.apkg', 'vocab.apkg', 'chengyu.apkg', 'all.apkg']) {
+      const buf = readFileSync(join(process.cwd(), 'data/exports', name));
+      const zip = await JSZip.loadAsync(buf);
+      const dbBuf = await zip.file('collection.anki2').async('nodebuffer');
+      const tmp = join(tmpdir(), `apkg-check-${Date.now()}-${Math.random().toString(36).slice(2)}.db`);
+      writeFileSync(tmp, dbBuf);
+      try {
+        const db = new Database(tmp, { readonly: true });
+        const { models: modelsJson } = db.prepare('SELECT models FROM col').get();
+        const modelIds = new Set(Object.keys(JSON.parse(modelsJson)).map(Number));
+        const noteMids = db.prepare('SELECT DISTINCT mid FROM notes').all().map(r => r.mid);
+        db.close();
+        expect(noteMids.length, `${name}: no notes`).toBeGreaterThan(0);
+        for (const mid of noteMids) {
+          expect(modelIds.has(mid), `${name}: note.mid ${mid} not in models {${[...modelIds].join(',')}}`).toBe(true);
+        }
+      } finally {
+        unlinkSync(tmp);
+      }
+    }
+  });
 });
 
 test.describe('Exports — bulk page', () => {
