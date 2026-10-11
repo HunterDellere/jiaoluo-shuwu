@@ -17,6 +17,19 @@ The only `—` the validator allows is the gloss separator after a Chinese sente
 
 ---
 
+## Indexing: only human-reviewed pages go to Google
+
+On 2026-08-24 the site lost about 99% of its Google impressions in one day (no manual action, pages still indexed). The working diagnosis is a sitewide demotion for scaled, search-targeted, AI-drafted content. Background and plan: `local/seo/03-spam-recovery.md` (gitignored, Hunter's machine).
+
+- A complete page is indexable only when frontmatter has `human_reviewed: 'YYYY-MM-DD'` and `updated` is not later than that date. Everything else ships `noindex,follow` and stays out of the sitemap. The rule lives in `build/lib/indexability.mjs`; do not add indexability anywhere else.
+- **Only Hunter sets `human_reviewed`, after reading the page.** AI sessions and scripts never set or change it, even when asked to "verify" pages. `content_review: verified` is a machine fact-check and does not make a page indexable.
+- Editing a reviewed page (and bumping `updated`) drops it out of the index until Hunter re-reviews it. That is intended.
+- Pinyin pages, `/pages/today/` and `/pages/exports/` are noindex utility pages. Any new generated page family must be noindex unless Hunter decides otherwise.
+- Do not bump `updated` without a real edit; do not write titles or FAQ blocks to match search queries; do not batch-publish pages to grow the index.
+- Gates: `npm run check` runs `build/check-indexing.mjs` (sitemap and noindex agree; indexable pages need 600+ body words and no sentence repeated on more than 3 indexable pages). The pre-push hook runs `npm run validate:review-diff` (no date-only bumps; at most 15 newly reviewed pages per push unless Hunter sets `ALLOW_BULK_REVIEW=1`). `npm run audit:indexing` reports which complete pages would fail the content gates once reviewed.
+
+---
+
 ## Build System
 
 ```

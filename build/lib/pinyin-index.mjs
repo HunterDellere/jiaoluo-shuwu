@@ -11,6 +11,7 @@
  * warrants it.
  */
 
+import { ROBOTS_NOINDEX_FOLLOW } from './indexability.mjs';
 import { writeFileSync, mkdirSync, readFileSync } from 'fs';
 import { join, dirname } from 'path';
 import { fileURLToPath } from 'url';
@@ -542,7 +543,7 @@ function renderPage(syllable, group, allSyllables) {
     .replace('{{{jsonLd}}}', [renderJsonLd(syllable, group), faqJsonLd].filter(Boolean).join('\n'))
     .replace('{{{ogTags}}}', renderOgTags(syllable, group))
     .replace('{{{favicon}}}', FAVICON)
-    .replace('{{{robotsMeta}}}', '')
+    .replace('{{{robotsMeta}}}', ROBOTS_NOINDEX_FOLLOW)
     .replace('{{{prevNextLinks}}}', '')
     .replace('{{{canonicalUrl}}}', canonicalUrl)
     .replace('{{{pageBody}}}', renderBody(syllable, group, allSyllables));
@@ -693,7 +694,7 @@ function renderIndexPage(index) {
     .replace('{{{jsonLd}}}', jsonLd)
     .replace('{{{ogTags}}}', ogTags)
     .replace('{{{favicon}}}', FAVICON)
-    .replace('{{{robotsMeta}}}', '')
+    .replace('{{{robotsMeta}}}', ROBOTS_NOINDEX_FOLLOW)
     .replace('{{{prevNextLinks}}}', '')
     .replace('{{{canonicalUrl}}}', canonicalUrl)
     .replace('{{{pageBody}}}', renderIndexBody(index));
