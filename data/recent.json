@@ -12,7 +12,8 @@
     ],
     "status": "complete",
     "pinyin": "dōu / měi / suǒyǒu",
-    "updated": "2026-07-13"
+    "updated": "2026-07-13",
+    "indexable": false
   },
   {
     "path": "pages/grammar/shitai_时态.html",
@@ -27,7 +28,8 @@
     ],
     "status": "complete",
     "pinyin": "shítài",
-    "updated": "2026-07-13"
+    "updated": "2026-07-13",
+    "indexable": false
   },
   {
     "path": "pages/arts/topic_guqin.html",
@@ -44,7 +46,8 @@
     ],
     "status": "complete",
     "pinyin": "gǔqín",
-    "updated": "2026-07-12"
+    "updated": "2026-07-12",
+    "indexable": false
   },
   {
     "path": "pages/arts/topic_jingju_roles.html",
@@ -62,7 +65,8 @@
     ],
     "status": "complete",
     "pinyin": "shēng dàn jìng mò chǒu",
-    "updated": "2026-07-12"
+    "updated": "2026-07-12",
+    "indexable": false
   },
   {
     "path": "pages/arts/topic_shijing.html",
@@ -79,7 +83,8 @@
     ],
     "status": "complete",
     "pinyin": "shījīng",
-    "updated": "2026-07-12"
+    "updated": "2026-07-12",
+    "indexable": false
   },
   {
     "path": "pages/arts/topic_shufa_styles.html",
@@ -98,7 +103,8 @@
     ],
     "status": "complete",
     "pinyin": "shūfǎ fēnggé",
-    "updated": "2026-07-12"
+    "updated": "2026-07-12",
+    "indexable": false
   },
   {
     "path": "pages/arts/topic_songci.html",
@@ -116,7 +122,8 @@
     ],
     "status": "complete",
     "pinyin": "sòngcí",
-    "updated": "2026-07-12"
+    "updated": "2026-07-12",
+    "indexable": false
   },
   {
     "path": "pages/characters/dao4_道.html",
@@ -135,7 +142,8 @@
     "tone": 4,
     "hsk": 3,
     "radical": "辶",
-    "updated": "2026-07-12"
+    "updated": "2026-07-12",
+    "indexable": false
   },
   {
     "path": "pages/characters/he2_和.html",
@@ -155,7 +163,8 @@
     "tone": 2,
     "hsk": 1,
     "radical": "禾",
-    "updated": "2026-07-12"
+    "updated": "2026-07-12",
+    "indexable": false
   },
   {
     "path": "pages/characters/kuai4_快.html",
@@ -174,7 +183,8 @@
     "tone": 4,
     "hsk": 2,
     "radical": "忄",
-    "updated": "2026-07-12"
+    "updated": "2026-07-12",
+    "indexable": false
   },
   {
     "path": "pages/characters/ren2_人.html",
@@ -193,7 +203,8 @@
     "tone": 2,
     "hsk": 1,
     "radical": "人",
-    "updated": "2026-07-12"
+    "updated": "2026-07-12",
+    "indexable": false
   },
   {
     "path": "pages/characters/wei2_为.html",
@@ -216,7 +227,8 @@
     "tone": 2,
     "hsk": 2,
     "radical": "丶",
-    "updated": "2026-07-12"
+    "updated": "2026-07-12",
+    "indexable": false
   },
   {
     "path": "pages/characters/yu4_玉.html",
@@ -238,7 +250,8 @@
     "pinyin": "yù",
     "tone": 4,
     "radical": "玉",
-    "updated": "2026-07-12"
+    "updated": "2026-07-12",
+    "indexable": false
   },
   {
     "path": "pages/grammar/le_了.html",
@@ -253,7 +266,8 @@
     ],
     "status": "complete",
     "pinyin": "le",
-    "updated": "2026-07-12"
+    "updated": "2026-07-12",
+    "indexable": false
   },
   {
     "path": "pages/grammar/liangci_量词.html",
@@ -268,7 +282,8 @@
     ],
     "status": "complete",
     "pinyin": "liàngcí",
-    "updated": "2026-07-12"
+    "updated": "2026-07-12",
+    "indexable": false
   },
   {
     "path": "pages/grammar/nai_乃.html",
@@ -288,7 +303,8 @@
     ],
     "status": "complete",
     "pinyin": "nǎi",
-    "updated": "2026-07-12"
+    "updated": "2026-07-12",
+    "indexable": false
   },
   {
     "path": "pages/grammar/zhi_之.html",
@@ -306,7 +322,8 @@
     ],
     "status": "complete",
     "pinyin": "zhī",
-    "updated": "2026-07-12"
+    "updated": "2026-07-12",
+    "indexable": false
   },
   {
     "path": "pages/grammar/zhi_者.html",
@@ -323,7 +340,8 @@
     ],
     "status": "complete",
     "pinyin": "zhě",
-    "updated": "2026-07-12"
+    "updated": "2026-07-12",
+    "indexable": false
   },
   {
     "path": "pages/history/topic_keju.html",
@@ -341,7 +359,8 @@
     ],
     "status": "complete",
     "pinyin": "kē jǔ",
-    "updated": "2026-07-12"
+    "updated": "2026-07-12",
+    "indexable": false
   },
   {
     "path": "pages/history/topic_qingchao.html",
@@ -356,6 +375,7 @@
     ],
     "status": "complete",
     "pinyin": "qīngcháo",
-    "updated": "2026-07-12"
+    "updated": "2026-07-12",
+    "indexable": false
   }
 ]

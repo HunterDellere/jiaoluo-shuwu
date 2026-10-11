@@ -25,6 +25,7 @@ import { emitPinyinPages, buildPinyinIndex } from './lib/pinyin-index.mjs';
 import { buildComponentIndex, renderAppearsInHtml } from './lib/component-index.mjs';
 import { injectHeroStrokes, buildSimpTradMap } from './lib/stroke.mjs';
 import { BRAND } from './lib/brand.mjs';
+import { isIndexable, robotsMetaFor } from './lib/indexability.mjs';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const ROOT      = join(__dirname, '..');
@@ -561,11 +562,9 @@ function renderPage(fm, body, slug, category, prevNext) {
     prevNextLinks = lines.join('\n');
   }
 
-  // Stub pages get noindex,nofollow so they don't dilute topical authority.
-  // Once flipped to status: complete, they index normally.
-  const robotsMeta = (fm.status === 'stub' || fm.status === 'draft')
-    ? `<meta name="robots" content="noindex,nofollow">`
-    : '';
+  // Stubs get noindex,nofollow; complete pages index only after a human
+  // review (see build/lib/indexability.mjs), otherwise noindex,follow.
+  const robotsMeta = robotsMetaFor(fm);
 
   let page = LAYOUT
     .replace('{{{metaComment}}}', metaComment)
@@ -606,6 +605,7 @@ function toEntryObject(fm, slug, category) {
   if (fm.hsk)     entry.hsk     = fm.hsk;
   if (fm.radical) entry.radical = fm.radical;
   if (fm.updated) entry.updated = fm.updated;
+  entry.indexable = isIndexable(fm);
 
   if (fm.type === 'hub' && fm.stages) {
     entry.memberCount = fm.stages.reduce((n, s) => n + (s.members || []).length, 0);
@@ -1041,9 +1041,9 @@ try {
   console.warn('Could not emit data/featured.json:', err.message);
 }
 
-// Pinyin index pages — generated from entries; capture the long-tail
-// "[pinyin] chinese character" search query and disambiguate polyphones.
-const { generated: pinyinPaths } = emitPinyinPages(entries, pagesDir);
+// Pinyin index pages — generated from entries; an on-site lookup by sound.
+// They are noindex (thin, one template x 200 syllables) and not in the sitemap.
+emitPinyinPages(entries, pagesDir);
 
 // Sitemap + robots
 const today = new Date().toISOString().slice(0, 10);
@@ -1052,13 +1052,12 @@ function encodeSitemapUrl(rawUrl) {
   return rawUrl.replace(/[^\x00-\x7F]/g, c => encodeURIComponent(c));
 }
 
+// Only indexable pages go in the sitemap (build/lib/indexability.mjs). The
+// pinyin pages, /pages/today/ and /pages/exports/ are noindex utility pages.
 const contentUrls = [
   { loc: SITE_URL + '/', lastmod: today, priority: '1.0', changefreq: 'weekly' },
-  // Hand-authored evergreen pages — group with content for crawler ergonomics.
-  { loc: SITE_URL + '/pages/today/', lastmod: today, priority: '0.7', changefreq: 'daily' },
-  { loc: SITE_URL + '/pages/exports/', lastmod: today, priority: '0.5', changefreq: 'weekly' },
   ...entries
-    .filter(e => e.status === 'complete')
+    .filter(e => e.indexable)
     .map(e => ({
       loc: encodeSitemapUrl(`${SITE_URL}/${e.path}`),
       lastmod: e.updated || today,
@@ -1066,13 +1065,6 @@ const contentUrls = [
       changefreq: 'monthly',
     })),
 ];
-const pinyinUrls = pinyinPaths.map(p => ({
-  loc: encodeSitemapUrl(`${SITE_URL}/${p}`),
-  lastmod: today,
-  priority: '0.6',
-  changefreq: 'monthly',
-}));
-
 function renderUrlset(urls) {
   return (
     `<?xml version="1.0" encoding="UTF-8"?>\n` +
@@ -1090,16 +1082,13 @@ function renderUrlset(urls) {
 }
 
 writeFileSync(join(ROOT, 'sitemap-content.xml'), renderUrlset(contentUrls), 'utf8');
-writeFileSync(join(ROOT, 'sitemap-pinyin.xml'),  renderUrlset(pinyinUrls),  'utf8');
 
-// sitemap.xml is the index referencing the two children. Search engines
-// follow either form; this one keeps the per-section lastmod accurate
-// (a content edit doesn't bust the pinyin sitemap's freshness signal).
+// sitemap.xml is an index with one child. Kept as an index so the URL that
+// Search Console already knows keeps working.
 const sitemapXml =
   `<?xml version="1.0" encoding="UTF-8"?>\n` +
   `<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n` +
   `  <sitemap><loc>${SITE_URL}/sitemap-content.xml</loc><lastmod>${today}</lastmod></sitemap>\n` +
-  `  <sitemap><loc>${SITE_URL}/sitemap-pinyin.xml</loc><lastmod>${today}</lastmod></sitemap>\n` +
   `</sitemapindex>\n`;
 writeFileSync(join(ROOT, 'sitemap.xml'), sitemapXml, 'utf8');
 
@@ -1116,7 +1105,7 @@ function rssEscape(s) {
     .replace(/"/g, '&quot;').replace(/'/g, '&apos;');
 }
 const rssItems = entries
-  .filter(e => e.status === 'complete' && e.updated)
+  .filter(e => e.indexable && e.updated)
   .slice()
   .sort((a, b) => b.updated.localeCompare(a.updated))
   .slice(0, 30)
@@ -1261,7 +1250,7 @@ writeFileSync(join(dataDir, 'brand.json'), JSON.stringify(BRAND, null, 2) + '\n'
 
 console.log(`\nBuild complete: ${built} pages written, ${pruned} pruned, ${errors} errors.`);
 console.log(`OG cards: ${ogSvgWritten} SVGs · ${ogPngWritten} PNGs rasterized · ${ogPngCached} cached.`);
-console.log(`Sitemap: ${contentUrls.length} content + ${pinyinUrls.length} pinyin URLs (sitemap-index).`);
+console.log(`Sitemap: ${contentUrls.length} indexable URLs (homepage + human-reviewed pages); ${entries.filter(e => e.status === 'complete' && !e.indexable).length} complete pages noindex pending human review.`);
 console.log(`Auto-linked: ${autoLinkCount}/${pending.length} pages.`);
 
 // ── Admin dashboard (last: depends on entries.json being fresh) ────────────

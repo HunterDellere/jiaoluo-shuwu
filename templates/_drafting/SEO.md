@@ -1,5 +1,15 @@
 # SEO drafting guide — SERP titles and descriptions
 
+> **Superseded in part (2026-10-11).** On 2026-08-24 the site lost about 99% of its
+> Google impressions in one day, with no manual action. The working diagnosis is a
+> sitewide demotion for scaled, search-targeted content. Until recovery:
+> - Write titles and descriptions for a reader, not to match a search string. Do not
+>   copy GSC query text into `seo_title`.
+> - Do not add FAQ blocks to win featured snippets. Add a Q&A only when a reader needs it.
+> - Do not bump `updated` without a real edit (pre-push enforces this).
+> - Never set `human_reviewed`. Only Hunter sets it, after reading the page. Pages
+>   without it ship `noindex` (see "Indexing" in CLAUDE.md).
+
 This is the editorial standard for the `seo_title` and `seo_desc` frontmatter
 fields. The build emits these as the page's `<title>` and `<meta name="description">`
 tags — the two strings that actually appear in a Google search result.

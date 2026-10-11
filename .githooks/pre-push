@@ -19,3 +19,6 @@ done
 
 echo "→ pre-push: npm run verify"
 npm run verify
+
+echo "→ pre-push: npm run validate:review-diff"
+npm run validate:review-diff
