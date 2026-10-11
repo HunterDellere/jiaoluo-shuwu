@@ -33,8 +33,10 @@ try {
   process.exit(0);
 }
 
-const changed = git('diff', '--name-only', '--diff-filter=AM', `${base}...HEAD`, '--', 'content')
-  .split('\n')
+// -z: raw NUL-separated paths. Without it git quotes non-ASCII names
+// ("content/vocab/xihuan_\345...md") and the .md filter silently drops them.
+const changed = git('diff', '-z', '--name-only', '--diff-filter=AM', `${base}...HEAD`, '--', 'content')
+  .split('\0')
   .filter(f => f.endsWith('.md') && !f.includes('/_'));
 
 function readAt(rev, file) {
