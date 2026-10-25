@@ -102,6 +102,7 @@
 一无所有	yī wú suǒ yǒu	to have nothing at all — Literally "one/whole (一) lack (无) that-which-is-had (所有)": the components of 所有 in their original possessive sense. Cuī Jiàn's 崔健 1986 song 《一无所有》, often called the founding track of Chinese rock, turned the idiom into a generational catchphrase: 我曾经问个不休，你何时跟我走 sung by a narrator who owns nothing.
 一心一意	yī xīn yī yì	single-minded; wholeheartedly devoted — one heart, one mind — Lit: one-heart-one-intention. Used for unwavering focus or devotion , to a person, a task, or a cause. 他一心一意地爱着她。(He loves her with his whole heart and mind, without wavering.) The antonym is 三心二意 sān xīn èr yì , "three hearts, two intentions" , indecisive and halfhearted.
 一言九鼎	yī yán jiǔ dǐng	"a word worth nine cauldrons" — a promise of great weight; a person whose word is binding — 一言 (a single word) is as weighty as 九鼎 (the Nine Cauldrons). The Nine Cauldrons were the bronze vessels cast by Yu the Great, symbols of sovereignty over the nine provinces and among the heaviest objects of state.
+一言为定	yì yán wéi dìng	one word and it is settled: a deal is a deal — Lit: one-word-makes-settled. Said to seal an agreement on the spot: a single word given, and the matter is fixed, with no going back. The everyday way to say "deal, it's settled."
 一眼万年	yī yǎn wàn nián	a single glance, ten thousand years — a look that lasts forever — Lit: one-glance-ten-thousand-years. Modern romantic register, especially in song lyrics and pop fiction: the glance at first meeting that settles a lifetime. Builds on 眼 as the measure word for a single act of looking.
 一知半解	yì zhī bàn jiě	to know a little, to half-understand: superficial knowledge — Lit: one part 一 known 知, half 半 understood 解. A shallow, fragmentary grasp of something, knowing a bit but not the whole. 对这门学问他只是一知半解 = he has only a superficial grasp of this subject. Usually mildly critical of half-baked understanding.
 一字千金	yī zì qiān jīn	one character, a thousand gold pieces — words of immense value — 字 here is a classifier for characters/words. 金 (gold pieces) is the unit of price. From the story of Lü Buwei's 吕不韦 text 《吕氏春秋》: he challenged anyone to change a single character and offered a thousand gold pieces if they could improve it. Used to praise literary excellence.
@@ -128,11 +129,16 @@
 百日	bǎi rì	The hundred-day mourning period following a death — The hundred-day mourning period following a death. During this time the bereaved family observes restrictions on celebration and festive activity. A commemoration ceremony at the end of the hundred days formally closes the mourning period.
 百姓	bǎi xìng	the common people; ordinary citizens — 百 (hundred; all) + 姓 xìng (surname). The full range of surnames = everyone who is not nobility. The warm, slightly literary word for "the people." 老百姓 (lǎobǎixìng) adds 老 (old, familiar) for a more affectionate, colloquial tone. Political speeches say 人民; everyday speech says 老百姓.
 半	bàn	Half — Half. Follows the measure word when added to a whole quantity (一个半, one and a half) and precedes it when alone (半个小时, half an hour). Also in 半天 (bàntiān, "half a day"), the standard exaggeration for "ages."
+报价	bào jià	quotation
+报价单	bào jià dān	quotation sheet — 报价 (bàojià) is both the verb "to quote" and the noun "quote." Ask for it in writing, line by line: 分项报价 (fēnxiàng bàojià) is an itemised quote that breaks out the product, packaging, tooling, and printing.
+便宜一点	pián yi yì diǎn	a bit cheaper — The basic request, best softened. 价格有点高 (the price is a bit high) states the problem without accusing; 还有空间吗 (is there still room?) invites a counteroffer without naming one.
 部分	bù fen	part; section; portion — 部 bù (section) + 分 fen (a share). A part of something larger, the everyday word for a portion: 大部分 dàbùfen "the greater part, most of," 一部分 yí bùfen "a portion." Note the second syllable goes neutral.
 称	chēng	To weigh — To weigh. 称一下 ("weigh it, please") hands the fruit to the vendor. The same character read chèn means "to fit," as in 称心如意, suiting one's heart's wishes.
+成本	chéng běn	cost — What the factory pays, as opposed to 价格 (jiàgé), what you pay. 原材料 (yuáncáiliào, raw materials) and 人工 (réngōng, labour) are the two cost lines you will hear cited when a price goes up. 利润 (lìrùn) is profit.
 充分	chōng fèn	ample; full; sufficient — 充 chōng (to fill) + 分 fèn (measure; share). Filled to the proper measure, fully sufficient: 充分的准备 "ample preparation," 充分利用 "to make full use of." Note the fèn reading.
+出口退税	chū kǒu tuì shuì	export VAT rebate — The refund of input VAT on exported goods, claimed by whoever exports them. A factory with its own export licence (自营出口 zìyíng chūkǒu) claims it directly; one without exports through a trading company (外贸公司 wàimào gōngsī), which adds a layer of margin.
 春分	Chūn fēn	Spring Equinox — balance of yin and yang — 春 chūn (spring) + 分 fēn (to divide; to share equally). The Spring Equinox: the day of perfect balance, when day and night are equal. In traditional cosmology, the moment when yin and yang are in exact equilibrium before yang takes the lead toward summer.
-打折	dǎ zhé	To discount — To discount. The number names the fraction of the price you still pay, in tenths: 打七折 (dǎ qī zhé) means 30% off. Separable: the number goes inside the verb.
+打折	dǎ zhé	to give a discount — 折 counts tenths of the price you pay, not the amount taken off. 八折 means you pay eight tenths, a 20% discount. Learners hear "eight" and think "80% off." In a negotiation 点 (diǎn, a percentage point) is more common than 折 for small moves.
 大多数 · 少数	dà duō shù shǎo shù	the majority · the minority — 大多数 (the great majority) and 少数 (the few) partition a set by proportion: 大多数人都同意 (most people agree), with the majority phrase taking 都 like any near-universal. 少数 appears in the fixed civic vocabulary 少数民族 (minority nationalities, China's official term for its 55 recognized non-Han groups).
 大方	dà fang	generous; natural; poised; not stingy — 大 dà + 方 fāng (square; proper; generous). Having the big-square manner: poised, natural, generous, not petty. Used for both personality (generous with money) and bearing (natural and composed, not awkward). A high compliment in Chinese social contexts.
 大概	dà gài	approximately; probably; roughly — 大 dà (large, rough) + 概 gài (general outline; to level off). A rough outline: approximately, probably. One of the most natural hedges in spoken Mandarin: 大概三点 "around three o'clock."
@@ -140,6 +146,7 @@
 大小	dà xiǎo	size — Big-small: the size scale, the template for the whole antonym-compound family. 这双鞋大小正好 means the shoes fit exactly. Its siblings 长短 (length), 轻重 (weight), and 高矮 (height) work identically, and 轻重 doubles as "relative importance," what a tactless person 不知轻重 fails to weigh.
 大学	dà xu é	university; college — and the Confucian Great Learning — 大 dà (great; large) + 学 xué (learning). The modern term for university. But 大学 is also the title of one of the Four Books of Confucianism (四书 Sìshū) , the 大学 (Great Learning), a short text that outlines the program of self-cultivation leading from individual virtue to social order to universal peace…
 代价	dài jià	price paid, cost (in effort or loss) — 代 (to stand in for, substitute) + 价 (price). The cost something exacts, not in money but in effort, sacrifice, or loss. You pay a 代价 for a mistake, a victory, or a hard choice.
+单价	dān jià	unit price — The price per piece; 总价 (zǒngjià) is the total, 金额 (jīn'é) the amount on a line. The usual follow-up is what the unit price includes: 包括 (bāokuò) and 不包括 are the words to listen for.
 低矮	dī ǎi	low and short; squat; close to the ground — 低 (low) + 矮 (short, of stature or height). Used for structures rather than people: low-ceilinged rooms, squat walls, single-story buildings hugging the ground. 低矮的平房 (low-slung single-story houses) is a recurring image in descriptions of older hutong neighborhoods or rural architecture.
 低沉	dī chén	low and deep (of sound); somber; heavy; low-spirited — 低 (low) + 沉 (to sink, heavy, deep). The compound sits at the intersection of acoustic and emotional: a 低沉的声音 is a deep, resonant voice that seems to come from somewhere down in the chest; a 低沉的心情 is a mood that has sunk below normal , subdued, heavy, not quite depressed but nowhere near cheerful.
 低处	dī chù	low place; lower ground; a lower spot — 低 (low) + 处 (place, location). A low-lying spot or lower area. Practical and descriptive in geography, architecture, and flood-risk contexts: 低处积水 (water pooling in low-lying areas) is a standard phrase in weather reports.
@@ -152,6 +159,9 @@
 低音	dī yīn	low pitch; bass; bass register — 低 (low) + 音 (sound, musical tone). The low end of the pitch spectrum , the bass register in music, the bottom frequencies in acoustics. 低音炮 (dīyīn pào, "bass cannon") is the colloquial term for a subwoofer. 低音提琴 (dīyīn tíqín) is the double bass. In vocal music, 低音歌手 is a bass singer.
 第二	dì èr	second; number two — 第 dì (ordinal) + 二 èr (two). The ordinal "second." The same pattern extends without limit: 第三 third, 第四 fourth, 第十 tenth. The number after 第 is just the ordinary cardinal, unchanged.
 第一	dì yī	first; number one — 第 dì (ordinal) + 一 yī (one). The ordinal "first." Note the live tone-sandhi: 一 yī shifts to second tone before a fourth-tone syllable, so it is read dì-yí in 第一个 but stays dì-yī before a pause or another tone.
+电汇	diàn huì	wire transfer (T/T) — "Electric remittance," usually just called T/T. 信用证 (xìnyòngzhèng) is a letter of credit (L/C), slower and more paperwork, with the bank standing between the parties.
+订单	dìng dān	order
+订金	dìng jīn	advance payment
 多大	duō dà	how old; how big
 多多少少	duō duō shǎo shǎo	more or less; to some extent — The question word reduplicated into a hedge: some amount on the scale, unspecified but nonzero. It softens claims politely, which makes it a favorite of careful speakers: everyone at the meeting 多多少少 had objections, though few voiced them.
 多亏	duō kuī	thanks to; fortunately (because of) — 多 (much) + 亏 (kuī, to be indebted to, to owe). "Much-owed-to" , fortunately thanks to X. Expresses relief that something good or fortunate happened because of another person or circumstance: 多亏你帮忙，要不然就麻烦了 (thanks to your help, otherwise it would have been a problem). Colloquial and warm in register.
@@ -165,9 +175,11 @@
 二手	èr shǒu	second-hand; used; pre-owned — 二 èr (two; second) + 手 shǒu (hand). Something that has passed through a second hand. Standard term for used goods, pre-owned vehicles, and resale markets.
 二元论	èr yuán lùn	dualism; dualist philosophy — 二 èr (two) + 元 yuán (origin; element; primary unit) + 论 lùn (theory; discourse). The philosophical position that reality is composed of two irreducible substances or principles. 二元 èryuán alone means "dual; binary; two-dimensional" and appears across technical and philosophical contexts.
 二月	È r yu è	February; the second month — 二 èr (two) + 月 yuè (moon; month). Chinese months are purely positional: the first month is 一月, the second is 二月, through 十二月 (December). There are no separate month names.
+发票	fā piào	official receipt: an invoice; a tax receipt — 发 fā (to issue; to send out) + 票 piào (slip; note). The official, tax-registered receipt a seller issues for a purchase. In China the 发票 is a regulated document used for reimbursement and tax, very different from a plain shop receipt (小票 xiǎopiào).
 房价	fáng jià	housing price — 房 (house) plus 价 (jià, price). The purchase price of property. A constant topic in contemporary Chinese life, where 房价 in big cities is a daily-news obsession.
 费	fèi	expense; to spend; to waste
 费用	fèi yòng	expense; cost; fee; expenditure — 费 fèi (to spend; cost; waste; excessive expenditure) + 用 yòng (use). What is spent in order to use something: the cost of deployment. Covers expenses of all kinds , medical fees, travel costs, operational expenditure , across formal and everyday registers.
+分担	fēn dān	to share (a cost) — The compromise line. Offering it yourself, once fault is clear, buys goodwill for the next order.
 分封	fēn fēng	to enfeoff; to grant fiefs — 分 (fēn, to divide) plus 封 (to confer land): to carve a realm into fiefs and grant them to vassals. The defining act of the early Zhōu political order.
 分开	fēn kāi	to separate; to part; to divide up — 分 fēn (divide) + 开 kāi (open; apart). To pull two things apart or keep them distinct: 把垃圾分开 "sort the rubbish," 我们分开走 "let's go separately."
 分类	fēn lèi	to classify; to sort into categories — 分 fēn (divide) + 类 lèi (kind; category). To divide things into kinds: 垃圾分类 "waste sorting," 图书分类 "cataloguing books."
@@ -183,15 +195,20 @@
 高山	gāo shān	high mountain; alpine — 高 (high) + 山 (mountain). A tall mountain , the compound appears in geography, poetry, and cultural discourse.
 高手	gāo shǒu	expert; master; highly skilled person — 高 (high, superior) + 手 (hand; skill; person with a skill). A superior hand , someone with excellent technique. 象棋高手 (chess master); 编程高手 (programming expert); 武林高手 (martial arts master, from wuxia fiction). Colloquial and approving. The opposite is 新手 xīnshǒu (newcomer, novice).
 各	gè	each; every (distributive)
+工厂	gōng chǎng	factory
 公斤	gōng jīn	kilogram — 公 gōng (metric) + 斤 jīn (a traditional unit of weight, about half a kilo). The standard kilogram. The 公 again marks the international unit against the older 斤.
 过分	guò fèn	excessive; going too far
 海角	hǎi jiǎo	cape; headland; sea-corner
+含税	hán shuì	tax included — 含 is "to contain." The pair 含税 / 不含税 appears on almost every RMB quotation; 含运费 (hán yùnfèi) is freight included, 含包装 packaging included. The same 含 works for anything the price might or might not cover.
+合同	hé tong	Contract — Contract. 签合同 (qiān hétong) is to sign one. The parties inside it, 甲方 and 乙方 (Party A and Party B), have become everyday slang for client and vendor.
 很多	hěn duō	a lot; many
 很多 · 不少	hěn duō bù shǎo	many, a lot: plain and understated — 很多 is the everyday "many, a lot": 很多人 (many people), 很多问题 (many questions). 不少, literally "not few", says the same thing through understatement, and often carries a note of mild surprise: 他认识不少人 (he knows quite a few people).
 花费	huā fèi	to spend; expense; cost — 花 huā (to spend) + 费 fèi (fee, to expend). A more formal word for spending, and also a noun meaning the expense itself: 生活花费 "living expenses." Heavier and more written than bare 花.
 花钱	huā qián	to spend money — 花 huā (to spend) + 钱 qián (money). The basic verb-object phrase for spending money. Often split by an amount: 花了不少钱 "spent quite a lot of money," 花很多钱 "spend a lot."
 划分	huà fēn	to demarcate; to divide
 换钱	huàn qián	to change money — 换 (swap) + 钱 (money). A verb-object pair for converting currency or breaking a large note into small ones. The default phrase at any bank counter or exchange window.
+汇率	huì lǜ	exchange rate — A factory that quotes in dollars but pays its costs in RMB carries the exchange risk and may ask to reprice when the rate moves. 汇率波动 (huìlǜ bōdòng) is fluctuation. Agree a reference rate, or a band within which the price stays fixed.
+会谈	huì tán	business meeting
 几	jǐ	how many (small number); a few — Asks about a small, countable number, typically under ten, and must be followed by a measure word: 几个 ("how many"), 几本 ("how many volumes"), 几位 ("how many people," polite). It assumes the answer is small, so it is the word for guests, family members, hours, or days.
 几 + 量词	jǐ + M W	a few, a handful (under ten) — Outside questions, 几 + measure word means "a few": 几个朋友 (a few friends), 几本书 (a few books), 前几天 (a few days ago). The same word asks "how many?" when the expected answer is small; the statement and question readings are told apart by context and intonation.
 价格	jià gé	price — 价 (price) + 格 (a fixed standard, a slot). The settled, stated price of a good, the figure printed on the tag or quoted by the seller. The everyday word for what something costs.
@@ -203,6 +220,7 @@
 角度	jiǎo dù	angle; perspective
 角落	jiǎo luò	corner; nook; out-of-the-way place — 角 jiǎo (corner) + 落 luò (to settle, to land). The place where things come to rest in the corner, a nook. Both literally (a room's corner) and figuratively (a quiet, tucked-away place in the world). The name of this site: 角落書屋.
 角色	ju é sè	role; character
+阶梯价	jiē tī jià	tiered pricing — "Staircase price": the unit price falls as quantity rises. Asking for a tier table is the cleanest way to learn the factory's real cost curve, and it moves the conversation from "lower the price" to "at what quantity."
 街角	jiē jiǎo	street corner — 街 jiē (street) + 角 jiǎo (corner). The physical corner where two streets meet. In narrative, the street corner is a classic site of waiting, meeting, and chance encounter.
 借钱	jiè qián	to borrow / lend money — 借 (borrow/lend) + 钱 (money). A verb-object pair whose direction depends on the prepositions around it: 向他借钱 is borrowing from him, 借钱给他 is lending to him.
 斤	jīn	The market half-kilo — The market half-kilo. 一斤多少钱 ("how much per jin?") is the essential market question. Originally a pictograph of an axe, which is still its job as a radical.
@@ -217,7 +235,11 @@
 九月	jiǔ yu è	September; the ninth month — 九 jiǔ + 月 yuè (month). September in the solar calendar. The ninth day of the ninth lunar month is the Double Ninth Festival (重阳节 Chóngyáng Jié), when the doubled nine (the highest yang) is celebrated by climbing heights and honoring the elderly, the day's name 重阳 meaning "double yang." So 九月初九 (the…
 九州	jiǔ zhōu	the Nine Provinces; all of China — 九 jiǔ + 州 zhōu (province; region). The nine ancient provinces into which the legendary sage-king Yu was said to have divided the land after taming the floods. 九州 became a poetic name for the whole of China, the entire civilized realm: 九州大地 (the great land of the nine provinces).
 巨大	jù dà	enormous; gigantic
+砍价	kǎn jià	to haggle
+块 · 毛 · 分	kuài máo fēn	units of currency, spoken — Spoken prices use 块 for the main unit, 毛 for tenths, 分 for hundredths; written prices use 元, 角, 分. The trailing unit is often dropped: 四块一 is 4.10, 三块八五 is 3.85. Factories apply the same words to dollars, so add 美金 (měijīn) or 人民币 (rénmínbì) when it could be either.
 浪费	làng fèi	to waste
+离岸价	lí àn jià	FOB price — "Leave-shore price." Most export quotes are FOB, always with a port: FOB宁波, FOB深圳. In speech people simply say the letters, F-O-B. The port matters, since inland trucking to a distant port is part of the factory's cost.
+利润	lì rùn	profit
 廉价	lián jià	cheap, low-priced
 两岸	liǎng àn	Both shores — Both shores: the standard PRC and Taiwan term for the cross-strait relationship: literally "both banks" (of the Taiwan Strait). 两岸关系 (cross-strait relations) is the neutral term used by both governments.
 两边	liǎng biān	both sides; the two sides — 两 liǎng + 边 biān (side). Both sides, the two sides of something, drawing directly on 两's sense of a balanced pair: 马路两边 (both sides of the road), 两边都同意 (both sides agree). Related are 两手 (both hands), 两旁 (on either side), and 两端 (the two ends).
@@ -245,7 +267,9 @@
 米	mǐ	Meter, borrowed onto the rice character purely for sound — Meter, borrowed onto the rice character purely for sound. 一米八 is the shorthand for an enviable height; 百米 is the hundred-meter dash.
 名分	míng fèn	name and duty — the obligation that comes with a title — 名 míng (name) + 分 fèn (portion, allotted duty). One's station and the obligations that station carries.
 亩	mǔ	The farmland unit, about 667 square meters — The farmland unit, about 667 square meters. 一亩三分地 is everyone's metaphorical private turf, from an emperor's ceremonial plot.
+目标价	mù biāo jià	target price — Naming your target moves the discussion from "lower" to "can you reach this." Give it with a reason, such as a retail price point or a competing quote (另一家的报价 lìng yì jiā de bàojià), without naming the other factory.
 牛角	niú jiǎo	cow horn
+赔偿	péi cháng	compensation — Name the items: the goods, freight, inspection, and your customers' returns. 损失 (sǔnshī) is the loss itself.
 配角	pèi ju é	supporting role
 评价	píng jià	to appraise; an evaluation, review — 评 (to judge, comment) + 价 (worth). To weigh something and assign it a worth: a teacher's assessment, a customer's review, a verdict on a person's conduct. Works as both verb and noun.
 七情	qī qíng	the seven emotions
@@ -260,6 +284,8 @@
 秋千	qiū qiān	a swing (the playground kind) — 秋 qiū + 千 qiān, written 秋千 or 鞦韆. Here 千 is purely phonetic, lending its sound to a word for a swing that has nothing to do with the number. 荡秋千 dàng qiūqiān is to swing on a swing.
 全 · 整	quán zhěng	whole vs. entire-and-unbroken — 全 fuses directly onto nouns to mean "the whole": 全家 (the whole family), 全国 (the whole country), 全世界 (the whole world). 整 zhěng insists the unit is complete and uncut: 整个 (the entire), 整天 (all day long), 整整三年 (three full years).
 全部	quán bù	all; the whole; entire — 全 quán (whole) + 部 bù (part; section). The complete set of parts, every one included: 全部作品 "the complete works," 全部完成 "all finished." It points at the totality of a definite group of things.
+让价	ràng jià	to concede on price — 让 is "to yield." 让利 (rànglì) is giving up margin; 降价 (jiàngjià) is simply lowering the price, 涨价 (zhǎngjià) raising it, 还价 (huánjià) making a counteroffer. 底价 (dǐjià) is the floor price a side will not go below.
+人民币	rén mín bì	renminbi, RMB
 认账	rèn zhàng	to acknowledge a debt; to own up to a commitment — 认 rèn + 账 zhàng (account; bill; debt). To acknowledge the account. Originally and literally a debt; figuratively, any commitment one is held to. The negative 不认账 "to refuse to own up" is the standard accusation against someone who reneges.
 任何	rèn hé	any, no matter which — 任何 means "any whatsoever" and, true to the system, needs 都 at the verb: 任何人都可以参加 (anyone may take part), 任何问题都欢迎 (any question is welcome).
 三宝	Sān bǎo	Three Jewels (Buddha, Dharma, Sangha)
@@ -291,6 +317,7 @@
 数学	shù xu é	Mathematics — Mathematics: number-study. 数学家 (shùxuéjiā) is a mathematician; 数学课 (shùxué kè) is math class, the collocation every student uses daily.
 数字	shù zì	Number, numeral, digit — Number, numeral, digit. The everyday word for a figure, whether spoken, written, or on a screen. 数字化 (shùzìhuà) extends it to "digitization," the same move English made with "digit."
 数字系统	shù zì xì tǒng	the number system
+水单	shuǐ dān	bank remittance slip — The bank's proof that you sent the money, also 汇款水单. The factory will ask for it the moment you say you have paid, and production often waits for it. Send it promptly; it is the fastest way to start the lead-time clock.
 四方	sì fāng	the four directions; all around; everywhere — 四 sì + 方 fāng (direction; side; square). Literally the four cardinal directions, and by extension every direction, all around. 四面八方 sìmiàn bāfāng ("four faces, eight directions") intensifies it to mean from every conceivable side. A 四方形 sìfāngxíng is a square or quadrilateral, the four-sided shape.
 四海	sì hǎi	the four seas; the whole country; the entire world — 四 sì + 海 hǎi (sea). The four seas thought to bound the inhabited world, hence the whole realm, everywhere under heaven. 四海之内皆兄弟 ("within the four seas all men are brothers"), from the Analects, is one of the most quoted lines on universal kinship.
 四季	sì jì	the four seasons — 四 sì + 季 jì (season). Spring (春 chūn), summer (夏 xià), autumn (秋 qiū), winter (冬 dōng). 四季如春 sìjì rú chūn ("four seasons like spring") describes a mild climate where it feels like spring all year, a stock phrase of praise for places such as Kunming.
@@ -302,6 +329,7 @@
 四象	sì xiàng	The Four Symbols — The Four Symbols: the four mythological animal guardians of the cardinal directions: Azure Dragon (east, spring), Vermilion Bird (south, summer), White Tiger (west, autumn), Black Tortoise (north, winter).
 算盘	suàn pán	The abacus, literally "calculating tray — The abacus, literally "calculating tray." The standard Chinese bead-frame instrument with 2 upper beads and 5 lower beads per rod, in use in its canonical form since at least the 16th century.
 所有 · 全部	suǒ yǒu quán bù	all of, the entirety of a set — 所有(的) + noun names the complete set up front: 所有的学生都来了 (all the students came). 所有 began as "that which is possessed" (所 + 有, what one has), and the possessive flavor survives in 我所有的钱 (all the money I have).
+谈价	tán jià	price negotiation
 提高	tí gāo	to raise; to improve; to enhance — 提 tí (to lift, to raise; to bring up) + 高 (high). To raise the level of something: 提高效率 (improve efficiency); 提高水平 (raise the standard); 提高工资 (increase wages). The standard verb for improvement in formal and professional contexts.
 天大	tiān dà	sky-high; enormous (informal)
 统一	tǒng yī	unification; to unify; uniform — 统 tǒng (to govern; to bind together) + 一. The political constant of Chinese civilization: 天下统一 (unification of all under heaven). As verb: 统一思想 (unify thinking), 统一标准 (standardize). As adjective: 统一规格 (uniform specifications).
@@ -315,6 +343,7 @@
 万一	wàn yī	just in case; in the unlikely event that; one in ten thousand — 万 (ten thousand) + 一 (one). Literally, one part in ten thousand , the probability so small it barely registers. In usage: a concession to contingency.
 唯一	wéi yī	the only one; sole; unique — 唯 wéi (only; alone) + 一. Used before nouns: 唯一的选择 (the only choice), 唯一的儿子 (only son). Stronger than 只有 zhǐyǒu in its emphasis on singularity , the uniqueness is total, not merely circumstantial. In formal or literary contexts: 唯一真神 (the one true God, in religious translation).
 伟大	wěi dà	great; magnificent; lofty — 伟 wěi (towering, magnificent) + 大 dà. The highest register of greatness, used for great historical figures, great achievements, and (frequently in political contexts) the greatness of the Party or state. In everyday speech it can be slightly ironic if overused.
+尾款	wěi kuǎn	balance payment — "Tail money." What triggers it is the real negotiation: 出货前 (before shipment), 验货后 (after inspection passes), or 见提单副本 (jiàn tídān fùběn, against a copy of the bill of lading). The later the trigger, the more leverage you keep.
 无数	wú shù	countless; innumerable
 五常	wǔ cháng	the Five Constants; the five cardinal virtues of Confucian ethics — 仁 rén · 义 yì · 礼 lǐ · 智 zhì · 信 xìn. The five virtues held to be universal moral constants across cultures and times.
 五谷	wǔ gǔ	the five grains; staple crops — 五 wǔ + 谷 gǔ (grain). The five staple grains of ancient China, variously listed (commonly rice, two kinds of millet, wheat, and beans). The exact list shifted by region and era, but the number stayed fixed at five.
@@ -353,13 +382,16 @@
 亿	yì	One hundred million, the great unit above 万 — One hundred million, the great unit above 万. China's population is 十四亿 (shísì yì, 1.4 billion), a figure every learner should be able to parse and produce.
 应付	yìng fu	to cope with; to handle; to deal with — 应 yìng (to meet) + 付 fù (to hand over, to deal out). To handle a task or person, often a difficult one. Can carry a tinge of just getting through it: 应付考试 (manage to get through the exam), 应付了事 (do something perfunctorily just to be done with it).
 有钱	yǒu qián	to have money, rich
+有效期	yǒu xiào qī	validity period — How long a quote holds. Factories tie it to material prices, especially steel, and to the exchange rate (汇率 huìlǜ). A quote with no date can be reopened at any time.
 元朝	Yuán cháo	Yuan dynasty
 元气	yuán qì	primordial qi; vitality; the reserves of life force — 元 yuán (origin; primary; first) + 气 qì. In cosmology: the undifferentiated qi before heaven and earth separated, the primordial substrate of existence. In medicine: the constitutional qi inherited from one's parents, stored in the kidneys, spent by illness and restored by rest.
 元曲	Yuán qǔ	Yuan drama
 元首	yuán shǒu	head of state
 元素	yuán sù	Element — Element: "original plain-stuff." Beyond the lab it means element in the design sense too: 中国元素 (Chinese elements) is the stock phrase for Chinese motifs in fashion or film.
+运费	yùn fèi	freight charge — 海运 (hǎiyùn) is sea freight, 空运 (kōngyùn) air freight, 快递 (kuàidì) express courier for samples. 货代 (huòdài) is the freight forwarder. 整柜 (zhěngguì) is a full container load, 拼柜 (pīnguì) a shared one.
 再三	zài sān	again and again; repeatedly; over and over — 再 zài (again; once more) + 三 sān (three). Three times and then some: the most natural adverb of repeated action in Mandarin. Appears before a verb to signal that someone did something multiple times, often with increasing emphasis or urgency.
 涨价	zhǎng jià	to raise the price
+账户	zhàng hù	bank account — 收款账户 (shōukuǎn zhànghù) is the receiving account. Fraudsters impersonate suppliers by email and announce new bank details.
 挣钱	zhèng qián	to earn money
 直角	zhí jiǎo	right angle
 纸钱	zhǐ qián	spirit money — currency for the afterlife — 纸钱 (also 冥纸 míngzhǐ, 金纸 jīnzhǐ in Taiwan, or 冥币 míngbì) are paper facsimiles of money and goods burnt as offerings; the smoke carries them to the dead.

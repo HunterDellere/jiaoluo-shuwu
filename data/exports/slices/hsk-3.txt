@@ -408,6 +408,8 @@
 绊脚石	bàn jiǎo shí	stumbling block; obstacle — 绊 bàn (to trip) + 脚 + 石 shí (stone). The foot-tripping stone. Both literal (a stone in the path) and figurative (an obstacle to progress).
 报道	bào dào	news report; to report (news) — 报 bào (to announce; to report; newspaper) + 道 dào (way; path). To map and announce the course of events: journalism as the act of charting what has happened. Used both as a noun (a report, a piece of coverage) and as a verb (to report on something).
 报告	bào gào	to report; a report — 报 (to announce) plus 告 (gào, to tell): to deliver an account formally, and the document that delivers it. Works as both the act of reporting and the written or spoken report itself.
+报价	bào jià	quotation
+报价单	bào jià dān	quotation sheet — 报价 (bàojià) is both the verb "to quote" and the noun "quote." Ask for it in writing, line by line: 分项报价 (fēnxiàng bàojià) is an itemised quote that breaks out the product, packaging, tooling, and printing.
 报社	bào shè	newspaper office; press — 报 bào (newspaper) + 社 shè (an agency, office). The organization that produces a newspaper, both the institution and its premises: 在报社工作 "to work at a newspaper." The 社 here is the institutional body, not a club; the same slot gives 出版社 "publishing house" and 杂志社 "magazine office."
 北港朝天宫	Běi gǎng Cháo tiān Gōng	Beigang Chaotian Temple — Taiwan's great Mazu shrine — The Chaotian Temple (朝天宫) in Beigang, Yunlin County, Taiwan, is one of the oldest and most revered Mazu temples on the island, traditionally dating its founding to 1694 CE. With Dajia's Zhenlangong, it is one of Taiwan's two dominant Mazu pilgrimage centers.
 被代表	bèi dài biǎo	to have one's views "represented" without consent — 代表 dàibiǎo (to represent; a representative). 被代表 = someone else speaks for you without your authorization and claims to represent your interests or views.
@@ -458,8 +460,10 @@
 茶叶罐	chá yè guàn	tea canister / storage jar
 茶艺	chá yì	tea art; the art and ceremony of tea — 茶 chá + 艺 yì (art; skill, the same character as in 艺术 fine art). The performance and aesthetic dimension of tea preparation. 茶艺师 cháyìshī = tea master; a professional practitioner of the ceremony. 茶艺表演 = a tea ceremony performance.
 茶针	chá zhēn	tea needle / pu-erh pick
+产能	chǎn néng	production capacity — Output per day or month. 排产 (páichǎn) is scheduling an order onto the line; 旺季 (wàngjì) is peak season, when capacity disappears. In the months before Chinese New Year lines fill up and many workers leave early, so lead times stretch.
 产品认证	chǎn pǐn rèn zhèng	product certification — 认证 rènzhèng (to certify, certification , 认 recognize + 证 proof/certificate). The system by which products are officially verified to meet standards. 3C认证 (China Compulsory Certification) is the mandatory certification for electronics, appliances, and vehicles sold in China.
 产品质量	chǎn pǐn zhì liàng	product quality — 质量 zhìliàng (substance + quantity → quality) is the standard word for quality in both the everyday and technical sense. 产品质量 is the fixed phrase for product quality , appearing in consumer protection law (产品质量法), manufacturing standards, and marketing.
+产前样	chǎn qián yàng	pre-production sample (PPS) — Made on the production line with production materials, after tooling and before bulk starts. Hand samples can be perfect while line samples are not; insisting on a 产前样 catches the difference before thousands of units exist.
 产生	chǎn shēng	to produce; to give rise to; to emerge — 产 chǎn (to produce; output) + 生 shēng (arise). For abstract and concrete creation , ideas, problems, emotions, consequences arising. 产生影响 "to have an effect" · 产生误会 "to give rise to a misunderstanding."
 唱反调	chàng fǎn diào	to deliberately disagree; to sing a different tune — 唱 chàng (to sing) + 反调 fǎndiào (an opposing tune). To voice the contrary position on purpose, to be the one who always sings against the prevailing note. Colloquial and faintly critical.
 朝代	cháo dài	dynasty: a reigning house and its era — 朝 cháo (court, reign) + 代 dài (generation, age). The standard word for a dynasty, the span during which one ruling house held the throne. Chinese history is told as a sequence of 朝代, each with its own name, capital, and character.
@@ -487,6 +491,7 @@
 出版社	chū bǎn shè	publishing house
 出产	chū chǎn	to produce; to yield; output — 出 chū (emerge; put out) + 产 chǎn (produce; give birth to; output). To yield products from a source , a region produces goods, a field yields a crop, a factory puts out units. Used for natural resources, agricultural yield, and manufactured goods. As a noun: the output, the produce.
 出口	chū kǒu	to export; an exit; to speak — 出 chū (exit; emerge) + 口 kǒu (mouth; opening; port). Three interlocking meanings from the same compound. As trade: to export , goods going out through the port. As architecture: the exit of a building or tunnel. As speech: 出口成章 (words emerge perfectly formed , to speak with eloquence).
+出口退税	chū kǒu tuì shuì	export VAT rebate — The refund of input VAT on exported goods, claimed by whoever exports them. A factory with its own export licence (自营出口 zìyíng chūkǒu) claims it directly; one without exports through a trading company (外贸公司 wàimào gōngsī), which adds a layer of margin.
 出神	chū shén	to enter trance; to be rapt
 传播	chuán bō	to disseminate; to spread; to broadcast; communication — 传 chuán (to transmit) + 播 bō (to sow, to broadcast). To spread information, ideas, or culture widely: 传播知识 "to disseminate knowledge," 大众传播 "mass communication." Also the academic field name, 传播学 "communication studies."
 传承	chuán chéng	to inherit and carry on
@@ -508,11 +513,13 @@
 大义	dà yì	the greater cause; moral principle; overriding righteousness — 大 dà (great; large) + 义 yì (righteousness; moral duty). The righteousness that supersedes personal ties, individual interest, or clan loyalty. 大义灭亲 dàyì mièqīn = to put righteousness above family (a set phrase for reporting or condemning a family member for the sake of the greater moral order).
 代办	dài bàn	to handle on behalf of; to do for another — 代 dài (on behalf of) + 办 bàn (to handle; to manage). To take care of a task or piece of business in someone else's stead: 代办手续 "to handle the formalities for someone," 代办签证 "to arrange a visa on another's behalf." The errand done in your name.
 代表	dài biǎo	to represent; a representative; to stand for — 代 dài (on behalf of) + 表 biǎo (to express; outward). As a verb, to represent or stand for: 红色代表喜庆 "red stands for celebration." As a noun, the person who represents others: 班代表 "class representative," 人民代表 "people's deputy."
+代工	dài gōng	contract manufacturing, OEM
 代购	dài gòu	to buy on behalf of; a purchasing proxy — 代 dài (on behalf of) + 购 gòu (to purchase). To buy something for another person, often goods from abroad: 海外代购 "overseas purchasing proxy." A familiar modern word from the rise of cross-border shopping, where one traveler buys for many at home.
 代价	dài jià	price paid, cost (in effort or loss) — 代 (to stand in for, substitute) + 价 (price). The cost something exacts, not in money but in effort, sacrifice, or loss. You pay a 代价 for a mistake, a victory, or a hard choice.
 代理	dài lǐ	to act as agent; acting (in a post); agency — 代 dài (on behalf of) + 理 lǐ (to manage). To handle affairs in an official capacity for someone else: 代理人 "an agent," 代理商 "a distributor," 代理校长 "acting principal." As a modifier it marks a temporary or proxy holder of a post.
 代替	dài tì	to replace; to substitute for; in place of — 代 dài (to stand in for) + 替 tì (to replace). The general verb for one thing or person taking another's place: 用机器代替人工 "to replace manual labor with machines." Often follows the pattern A 代替 B, "A in place of B."
 怠慢	dài màn	to neglect; to slight a guest through inattention — 怠 dài (lazy, inattentive, slack) + 慢 màn (slow). To fail to attend to someone with the care and promptness they deserve. The standard word for hosting someone poorly or neglecting a guest's needs. Often appears in apologies: 怠慢了您, please forgive my poor hospitality.
+单价	dān jià	unit price — The price per piece; 总价 (zǒngjià) is the total, 金额 (jīn'é) the amount on a line. The usual follow-up is what the unit price includes: 包括 (bāokuò) and 不包括 are the words to listen for.
 弹性	tán xìng	elasticity; flexibility; springiness — 弹 tán (to spring, to bounce) + 性 xìng (property). The quality of stretching and springing back, literal in materials and figurative in arrangements: 弹性材料 "an elastic material," 弹性工作时间 "flexible working hours." Names a built-in capacity to flex without breaking.
 当代	dāng dài	contemporary era
 道谛	dào dì	the truth of the path — the Noble Eightfold Path — 道 dào = way, path. Sanskrit magga. The prescription: the 八正道 bā zhèng dào (Noble Eightfold Path): right view, right intention, right speech, right action, right livelihood, right effort, right mindfulness, right concentration.
@@ -552,6 +559,7 @@
 调味	tiáo wèi	to season; to flavor — 调 tiáo (to blend) + 味 wèi (flavor, taste). To season food, to bring its flavors into balance. The seasoning itself is 调料 tiáoliào or 调味品 tiáowèipǐn. The kitchen sense of tiáo: mixing tastes until they are right.
 调整	tiáo zhěng	to adjust; to regulate; adjustment — 调 tiáo (to adjust) + 整 zhěng (to put in order). To set something right by careful change: 调整计划 (adjust the plan), 调整心态 (adjust one's attitude), 价格调整 (a price adjustment). The everyday word for fine-tuning anything.
 调子	diào zi	tune; melody; tone (of voice or mood) — 调 diào (melody, pitch) + 子 zi (noun suffix). A tune or melody, and figuratively the pitch or mood of speech or writing. 唱调子 (carry a tune), 定调子 (set the tone, decide the direction). The everyday word for the shape of a sound.
+订金	dìng jīn	advance payment
 东道主	dōng dào zhǔ	host (of a banquet, event, or country) — 东 (east) + 道 (road; way) + 主 (master, host). From the Zuǒzhuàn (5th century BCE): the state of Zhèng, lying east of the Qin army's road, offered to supply and host the Qin troops. "East-road-master" became the word for host.
 动功	dòng gōng	moving qigong; forms with coordinated movement and breath — 动 dòng (moving; active) + 功 gōng (practice). Qigong with movement, from slow and gentle forms like 八段锦 Bāduànjǐn (Eight Brocades) and 五禽戏 Wǔqínxì (Five Animals) to more vigorous practices. Movement is synchronized with breath and guided by awareness.
 动气	dòng qì	to get riled up; to let anger stir (colloquial) — 动 dòng (to move; to stir) + 气 qì. For qi to be "moved," to let irritation become active anger. Often used in negative advice: 别动气 "don't get worked up." The qi-as-fluid logic is explicit: something causes the qi to shift and agitate.
@@ -693,6 +701,7 @@
 价钱	jià qián	price (colloquial)
 价值	jià zhí	value, worth — 价 (price) + 值 (to be worth). The abstract worth of a thing, an act, or an idea, far beyond any market figure. Carries the moral and intellectual sense, as in 价值观 (jiàzhíguān), a set of values.
 艰苦	jiān kǔ	arduous, grim
+检测报告	jiǎn cè bào gào	test report — From a lab, often for a named standard: LFGB, FDA, and the like are said as letters. 认证 (rènzhèng) is certification, 证书 (zhèngshū) the certificate. Check the report's date and which material it covers.
 简便	jiǎn biàn	simple and convenient, handy — 简 (pared down) + 便 (convenient). A method or procedure that is both simple and easy to use, with no fuss in the steps.
 简称	jiǎn chēng	abbreviation, short name — 简 (brief) + 称 (to call, a name). The shortened form of a long name: 北大 for 北京大学, 联合国 from its full title. As a verb, to abbreviate something as.
 简单	jiǎn dān	simple, easy — 简 (slip, hence pared down) + 单 (single, plain). The everyday word for simple, whether a task, an idea, or a person who is uncomplicated. Negated as 不简单 it flips to mean impressive, no small feat.
@@ -722,9 +731,11 @@
 教化	jiào huà	to civilize; to educate morally
 教科书	jiào kē shū	textbook
 教书	jiāo shū	to teach (as a profession); to be a teacher — 教 jiāo (to teach) + 书 shū (books). Literally "to teach books," the standard way to say one teaches for a living. Note the first-tone jiāo here, the colloquial verb reading.
+阶梯价	jiē tī jià	tiered pricing — "Staircase price": the unit price falls as quantity rises. Asking for a tier table is the cleanest way to learn the factory's real cost curve, and it moves the conversation from "lower the price" to "at what quantity."
 接近	jiē jìn	to approach; to be close to; to approximate — 接 jiē (to connect; to receive; to meet) + 近 (near). To connect by closing the gap , a more formal and abstract verb than 靠近.
 接连	jiē lián	one after another; in succession; repeatedly — 接 jiē (to join; to connect) + 连 lián (in a series). An adverb meaning that events occur in close, repeated succession, each new one arriving before the last has finished registering. Often reinforced as 接连不断 (continuously, without a break).
 街道	jiē dào	street; (urban) subdistrict — 街 (street) + 道 (road, way). The everyday word for a city street. In administrative use it also names the smallest urban division, the 街道办事处 (jiēdào bànshìchù), a neighborhood subdistrict office.
+节日祝福	jié rì zhù fú	holiday greetings — A short greeting at Chinese New Year and the Mid-Autumn Festival maintains the relationship between orders. 新年快乐 or 中秋快乐 with a line of thanks is enough.
 姐夫	jiě fu	elder sister's husband; brother-in-law — 姐 (elder sister) plus 夫 (husband) names the man married to one's older sister. Chinese kinship marks the relation precisely, distinct from 妹夫 (mèifu), a younger sister's husband.
 解除	jiě chú	to remove; to lift; to terminate (a state or obligation) — 解 jiě + 除 chú (to remove; to do away with). To untie and clear away. Used for lifting a binding state or formal tie: 解除警报 = lift an alert; 解除合同 = terminate a contract; 解除武装 = disarm; 解除疲劳 = relieve fatigue. More formal than 解开, it dissolves an arrangement or condition rather than a physical knot.
 解答	jiě dá	to answer; to solve and explain; a solution — 解 jiě + 答 dá (to answer; to reply). To unravel and answer. Used for working out and explaining the answer to a question or problem, especially in study: 解答疑问 = answer a question; 标准解答 = the standard solution.
@@ -781,6 +792,7 @@
 君君，臣臣，父父，子子	jūn jūn , chén chén , fù fù , zǐ zǐ	let the ruler rule, minister minister, father father, son son — The Analects 12.11 formula for 正名 in practice, given when Duke Jing of Qi asked Confucius about governance. Each binome repeats the same character twice: the first instance is the title, the second is the standard the title entails.
 开口	kāi kǒu	to open one's mouth — to speak (especially after a silence, or to ask for something)
 楷书	kǎi shū	regular script — the foundation script — 楷 kǎi (model; standard) + 书 shū (writing). The standard script , the foundation that every calligrapher must master before attempting other styles. Print fonts are based on regular script. 不会楷书，不学草书 "Don't attempt cursive without mastering regular script" , the traditional maxim.
+砍价	kǎn jià	to haggle
 看书	kàn shū	to read (a book); to study — 看 (to look at) + 书 (book). The standard way to say "to read" in Mandarin , specifically reading for comprehension or leisure. 读书 dúshū overlaps but emphasizes reading aloud or formal study; 看书 is the unmarked everyday verb for sitting with a book.
 考古	kǎo gǔ	archaeology; to study antiquity through remains — 考 kǎo (to examine, to investigate) + 古 gǔ (the ancient). To investigate the past through its physical remains: 考古学 "archaeology (the discipline)," 考古发现 "an archaeological discovery." The verb of unearthing and reading 古迹, the traces the past left in the ground.
 靠近	kào jìn	to approach; to draw near; to get close to — 靠 kào (to lean against; to approach; to rely on) + 近 (near). To lean close , the verb of physical approach. 靠近 carries the movement more explicitly than 接近: it often describes the final stage of approach, closing the last stretch of distance.
@@ -798,6 +810,7 @@
 口渴	kǒu kě	thirsty (mouth dry)
 口气	kǒu qì	manner of speaking; breath smell; implied attitude — 口 kǒu (mouth) + 气 qì. Operates on two levels: (1) the qi from the mouth, literally breath smell (口气重 "bad breath"); (2) the implied attitude and tone in what someone says, what their words reveal about how they feel. 你这个口气 "That tone of yours…" carries reproach.
 口头禅	kǒu tóu chán	pet phrase; catchphrase — Mouth-Chan: enlightenment talked rather than lived, generalized into anyone's verbal habit. 他的口头禅是"没问题" means "no problem" is his catchphrase. One of the most useful conversation words about conversation.
+口头承诺	kǒu tóu chéng nuò	verbal promise
 口味	kǒu wèi	flavor; taste preference; palate — 口 kǒu (mouth) + 味 wèi (flavor; taste). Both the objective flavor of food and the subjective preference of a taster. 这不合我的口味 "This doesn't suit my taste." 口味重 kǒuwèi zhòng = "strong-flavored preferences" , liking bold, heavy flavors.
 口吻	kǒu wěn	manner of speech; implied standpoint (literary) — 口 kǒu (mouth) + 吻 wěn (lips; to kiss, the form of the mouth). The shape of what comes from the mouth, the distinctive way a person speaks, implying their perspective and attitude. More literary than 口气, used in written analysis, narration, and formal commentary.
 口音	kǒu yīn	accent; regional way of speaking — 口 kǒu (mouth) + 音 yīn (sound). The sound a particular mouth gives a language, marking where the speaker is from: 南方口音 "a southern accent," 带口音 "to have an accent."
@@ -824,6 +837,7 @@
 来世	lái shì	the next life; the afterlife; the life to come — 来 lái (coming) + 世 shì (life). The life that follows this one in the Buddhist cycle of rebirth: 来世再相见 "to meet again in the next life." Paired with 前世 (a former life) and 今世 (this life) to span the chain of rebirths.
 老白茶	lǎo bái chá	aged white tea — white tea stored for 3+ years
 了解	liǎo jiě	to understand thoroughly; to have rounded knowledge of — 了 liǎo (clear-sighted; complete) + 解 jiě (to unravel; to untie). The full unraveling of something until it is entirely clear , understanding that goes all the way through, not just surface knowledge. More thorough than 知道 zhīdao (to know a fact). Common across casual speech and formal registers.
+离岸价	lí àn jià	FOB price — "Leave-shore price." Most export quotes are FOB, always with a port: FOB宁波, FOB深圳. In speech people simply say the letters, F-O-B. The port matters, since inland trucking to a distant port is part of the factory's cost.
 理解	lǐ jiě	to understand; to comprehend; understanding — 理 lǐ (principle; reason) + 解 jiě. To untie a thing down to its reason. To understand the logic or sense of something, and by extension to be understanding toward a person: 理解万岁 = "long live mutual understanding"; 请你理解 = please understand (my position).
 理性	lǐ xìng	rational (contrast with 感性)
 力气	lì qi	physical strength; bodily effort — 力 lì (force) + 气 qì (breath; vital energy). The bodily strength you can feel in your muscles, the kind used to lift, carry, or push: 没力气 "have no strength," 花力气 "to spend effort." Concrete and physical, never abstract.
@@ -916,6 +930,7 @@
 念书	niàn shū	to read aloud; to study; to attend school
 念头	niàn tou	a thought; an idea; an intention (that arises)
 念珠	niàn zhū	recitation beads (mala)
+您的意思是	nín de yì si shì	what you mean is — Restating what you heard is the most powerful check you have, because it forces a yes or no on your version. 我理解的是……对吗 ("my understanding is ..., right?") does the same job. 也就是说 (yě jiù shì shuō, "in other words") works mid-conversation.
 农场	nóng chǎng	farm — 农 (farming) plus 场 (ground, site). A working farm as an enterprise, larger and more organized than a single household plot.
 农村	nóng cūn	countryside, rural area — 农 (farming) plus 村 (village). The rural world as a whole, the standing opposite of 城市 (chéngshì, the city) in any discussion of Chinese society.
 农夫	nóng fū	farmer; a man of the land — 农 nóng (agriculture, farming) + 夫 fū (man). A man who works the land, the farmer in a plain, somewhat literary or old-fashioned key. It pictures the individual tiller rather than the peasantry as a social class, and turns up often in fables and proverbs about country life.
@@ -971,10 +986,15 @@
 取代	qǔ dài	to supersede; to replace; to displace — 取 qǔ (to take) + 代 dài (the place of). To take over another's place and push it out entirely: 新技术取代了旧技术 "the new technology superseded the old." Stronger and more decisive than 代替, with a sense that the old thing is now gone.
 去世	qù shì	to pass away; to die (respectful) — 去 qù (to depart; to leave) + 世 shì (the world; this age; this life). To depart from the world , the standard respectful expression for the death of an adult. Not used for children or animals, and not used for enemies or condemned criminals (for those, more neutral or harsher terms apply).
 全球化	quán qiú huà	globalization — the context and consequence
+确认	qu èr èn	to confirm
+确认样	qu èr èn yàng	approval sample — The sample the buyer has approved, usually signed and dated. Everything after it is measured against it, so record exactly which version you approved and what you asked to change.
+确认一下	qu èr èn yí xià	let me confirm — 确认 (quèrèn) is the verb of the whole relationship: samples are confirmed, drawings are confirmed, orders are confirmed. 我确认一下 before restating a point; 您确认一下 when handing the other side something to check.
+让价	ràng jià	to concede on price — 让 is "to yield." 让利 (rànglì) is giving up margin; 降价 (jiàngjià) is simply lowering the price, 涨价 (zhǎngjià) raising it, 还价 (huánjià) making a counteroffer. 底价 (dǐjià) is the floor price a side will not go below.
 人称代词	rén chēng dài cí	personal pronoun
 人道	rén dào	the human realm; the human path of rebirth — The human realm is considered the most favorable position for Buddhist practice precisely because of its mixture of suffering and capacity. Humans experience enough pain and impermanence to feel the urgency of liberation, while retaining enough cognitive clarity and agency to pursue the path.
 人口	rén kǒu	population — lit. "people-mouths" — 人 rén (person) + 口 kǒu (mouth). Population , the number of mouths to feed, the count of human presences. 中国人口约14亿 "China's population is approximately 1.4 billion." 人口众多 rénkǒu zhòngduō = "large population" (a standard description of China).
 人民	rén mín	the people (political collective) — 人 rén + 民 mín (common people; subjects; citizens). A politically weighted term. In the PRC context, it carries strong ideological resonance: the people as a collective subject and political actor, not merely a demographic count. Appears in major institutional names and slogans.
+人民币	rén mín bì	renminbi, RMB
 人品	rén pǐn	moral character; the quality of a person — 人 rén + 品 pǐn (quality; grade; character, three 口 mouths stacked, suggesting the spoken judgments of a community). The overall moral quality of a person as assessed by those around them: moral trustworthiness and reliability in relationships, not talent or intelligence.
 人世	rén shì	the human world
 认出	rèn chū	to spot, to pick out, to identify (from a group or after a delay) — 认 rèn + 出 chū (out; resultative: to come into view). The act of identification , picking someone out of a crowd, recognizing a familiar face after years apart, identifying a body. The 出 marks the moment recognition crystallizes.
@@ -990,6 +1010,7 @@
 认真负责	rèn zhēn fù zé	conscientious and responsible (set phrase)
 认真起来	rèn zhēn qǐ lái	to get serious about it; to start taking it seriously
 认真说	rèn zhēn shuō	speaking seriously; in earnest
+认证	rèn zhèng	certification — ISO 9001 is 质量管理体系认证 (the quality management system certificate). 验厂 (yànchǎng) is a factory audit, such as BSCI for social compliance. Check the certificate's 有效期 and that the company name matches the one you are contracting with.
 认知	rèn zhī	cognition; perception
 认字	rèn zì	to recognize characters; to be literate; to read — 认 rèn (to recognize; to identify; to acknowledge) + 字 zì. The act of visually identifying a character and knowing its reading and meaning. Implies the foundational literacy skill. 不认字 = illiterate (cannot read), a stark and socially significant label.
 日历	rì lì	calendar; date pad; daily calendar — 日 rì (sun; day) + 历 lì (from 曆, the calendar). The everyday word for a calendar as a physical or digital object: the thing on the wall or in your phone that lists the days. This is the 曆 branch of 历, fully about counting and displaying days. For the tear-off page-a-day kind, the same word applies.
@@ -1033,6 +1054,7 @@
 社交	shè jiāo	social interaction; socializing — 社 shè (social) + 交 jiāo (to associate, to exchange). The act of mixing with others, the give-and-take of social life: 社交活动 "social activities," 社交能力 "social skills," 社交媒体 "social media." It names the personal practice of meeting and getting along with people.
 社区	shè qū	community; residential neighbourhood — 社 shè (community) + 区 qū (district, zone). A bounded local community: the people of a single neighbourhood, plus the services and administration that serve them. 社区服务 "community services," 社区医院 "a community clinic," 社区活动 "neighbourhood activities." Smaller and more concrete than 社会.
 社团	shè tuán	club; society; an organized group — 社 shè (association) + 团 tuán (a group, a body). A voluntary organized group bound by a shared interest: 学生社团 "student clubs," 民间社团 "civic associations." The everyday word for the clubs and societies people choose to join, especially at school and university.
+什么意思	shén me yì si	what does it mean — Ask about a word, not a person: "这个词是什么意思" is neutral, while a bare 你什么意思？ means "what are you implying?" and sounds hostile. Keep 这个词 in front.
 神诞	shén dàn	deity's birthday
 神服	shén fú	the spirit costume — the shaman's armor and identity — The spirit costume (神服 shén fú or 萨满服 sàmǎnfú) is a complex ritual garment encoding the shaman's entire cosmological universe.
 神鼓	shén gǔ	the shaman's drum — vehicle of the spirit-journey — The shaman's drum (神鼓 shén gǔ or 萨满鼓 sàmǎn gǔ) is the most essential ritual implement , sometimes called the shaman's horse (萨满的马), for it is the vehicle on which the shaman rides to the spirit world.
@@ -1097,6 +1119,7 @@
 书信	shū xìn	letter; written correspondence
 书桌	shū zhuō	writing desk
 说道	shuō dào	to say (literary narration marker) — 说 shuō (to say; to speak) + 道 dào (way; to say). A literary verb used in fiction and formal narrative to introduce direct speech. Written as X说道，"……" (X said, "……"). Seldom appears in casual spoken Chinese; it marks elevated or written register.
+说慢一点	shuō màn yì diǎn	speak a little slower — Lead with 不好意思 (bù hǎoyìsi, "excuse me") to soften it. Most people slow down for one sentence and then speed back up; asking twice is fine.
 说文解字	Shuō wén Jiě zì	Explaining Simple and Analyzing Compound Characters
 思考	sī kǎo	to think carefully; to reflect; to consider — 思 sī (to think; thought) + 考 kǎo (to examine; to investigate; to test). Deliberate, directed thinking. 思考 is the most common everyday word for careful, intentional mental activity , the kind of thinking you do when you have a problem in front of you and are genuinely working through it.
 思路	sī lù	train of thought; line of reasoning; thinking process — 思 sī (thought) + 路 lù (road; path; route). Lit. "the road of thought." The direction and movement of how thinking unfolds , not the conclusion but the path that leads there. 思路清晰 (a clear line of reasoning) is high praise in Chinese academic and professional contexts.
@@ -1114,6 +1137,7 @@
 太客气了	tài kè qi le	too polite, too much fuss
 太空	tài kōng	outer space — 太 tài (grand) + 空 kōng (void; empty). The "grand void," outer space. 太空人 tàikōngrén and 宇航员 yǔhángyuán both mean astronaut.
 太认真了	tài rèn zhēn le	taking it too seriously; too earnest about it
+谈价	tán jià	price negotiation
 唐朝	táng cháo	the Tang dynasty
 替代	tì dài	to substitute
 天道	tiān dào	the way of heaven; the natural moral order — 天 tiān (heaven; sky; the natural cosmic order) + 道 dào (way; path). The principle by which the cosmos operates: rewarding virtue, punishing tyranny, maintaining the balance of nature. An impersonal moral force, not a personal god.
@@ -1127,6 +1151,7 @@
 图书馆	tú shū guǎn	library — 图 tú (drawing; map; illustration) + 书 shū (book) + 馆 guǎn (hall; building for a function). A building for maps and books. The word 图书 túshū , "illustrated books" , is now the formal term for library holdings in general.
 图腾	tú téng	totem
 图形	tú xíng	figure; graphic; geometric shape — 图 tú (drawing; diagram) + 形 xíng. A drawn figure or graphic: shapes on a page, icons on a screen, the figures of geometry. 几何图形 = geometric figures; 图形界面 = a graphical interface. Where 形状 is a thing's shape, 图形 is a shape that has been drawn as such.
+图纸	tú zhǐ	technical drawing — 2D drawings with dimensions; 3D文件 or 3D图 (sān-D tú) for the model file, usually STEP. 以图纸为准 ("the drawing governs") is the sentence that settles arguments, so make sure the drawing is the latest version.
 土地	tǔ dì	land, soil; the local earth-god — 土 tǔ (earth) + 地 dì (ground). In everyday speech, land or soil: 土地肥沃 "fertile land." In folk religion it also names the 土地神 or 土地公, the humble local earth-god of a village or plot, the small-scale heir to the old 社 cult, honoured at modest roadside shrines.
 土地公	Tǔ dì gōng	the Earth God — most local, most beloved deity — 土地公 (also 土地神 Tǔdìshén, formally 福德正神 Fúdé Zhèngshén) is the deity of a specific patch of ground: a village, a neighborhood, a field, a shop. He is the lowest-ranking god in the celestial hierarchy and the most ubiquitous.
 脱困	tuō kùn	to break free of a bind
@@ -1153,6 +1178,7 @@
 微风	wēi fēng	gentle breeze
 围城	wéi chéng	a besieged city; to lay siege to a city — 围 wéi (to surround; to encircle) + 城 chéng (city). Literally an encircled city, both the act of besieging one and the besieged city itself.
 围困	wéi kùn	to besiege; to hem in — 围 (surround) + 困 (trap). The concrete, original sense: to ring something so it cannot break out. Used for armies besieging a city and, by extension, for floodwaters or crowds that cut people off.
+违约金	wéi yu ē jīn	liquidated damages — A fixed sum payable on breach, such as late delivery. Under Chinese law a court or arbitrator can reduce it if it is far above the actual loss, so set it at a level you can justify. 赔偿 (péicháng) is compensation for actual loss.
 为情所困	wèi qíng suǒ kùn	to be trapped by emotion; entangled in feeling
 未必	wèi bì	not necessarily; may not be the case — 未 wèi (not yet; not necessarily , the classical negator of something assumed or expected) + 必 bì (certainly). The combination reverses the certainty: what seemed certain is not settled. A courteous, measured way to challenge an assumption without direct contradiction.
 味道	wèi dào	taste; flavor
@@ -1216,6 +1242,7 @@
 歇脚	xiē jiǎo	to rest one's feet (during a journey); to take a break en route — 歇 xiē (to rest) + 脚. The classic verb for stopping during a long walk or trip , at a tea-house, an inn, a roadside pavilion. Carries the texture of pre-modern travel; still used for any pause on a long journey.
 心思	xīn sī	thoughts; mental energy; what the mind is occupied with — 心 xīn (heart) + 思 sī (to think; thought). What the heart is currently thinking about, or whether it has the mental space to think about something at all.
 辛苦	xīn kǔ	hard, toilsome; thanks for your trouble — 辛 (xīn), pungent or laborious, pairs with 苦 (kǔ), bitter, to name effort that wears you down. As a set phrase it doubles as warm thanks: telling someone 辛苦了 acknowledges the toil they just put in for you.
+辛苦了	xīn kǔ le	thank you for your trouble — Acknowledges effort someone made for you: picking you up at the station, preparing samples, staying late. Factory staff hear it constantly from managers and appreciate it from a buyer. Answer with 不辛苦 or 应该的 (yīnggāi de, "it's what I should do").
 新文化运动	Xīn Wén huà Yùn dòng	New Culture Movement
 形成	xíng chéng	to form; to take shape; to come into being — 形 xíng + 成 chéng (to become; to complete). To shape-into-being. The all-purpose verb for something forming through a process: 形成习惯 form a habit; 形成共识 reach (form) a consensus; 逐渐形成 gradually take shape. Used constantly in writing about how systems, opinions, and conditions arise.
 形容	xíng róng	to describe; to characterize in words — 形 xíng + 容 róng (appearance; countenance). To give a thing its look in words. The verb for describing, especially feelings and impressions that resist plain statement. 难以形容 = hard to describe; 无法形容的美 = indescribable beauty.
@@ -1242,6 +1269,7 @@
 阳性	yáng xìng	positive (medical test); masculine (grammatical gender) — 阳 yáng (the active; the positive pole) + 性 xìng (nature; gender). In medicine, a positive test result; in grammar, the masculine gender. Its pair is 阴性 yīnxìng (negative; feminine).
 氧气	yǎng qì	Oxygen (as breathable gas) — Oxygen (as breathable gas): the nourishing 氧 plus 气. 缺氧 (quēyǎng) is oxygen deprivation, used literally at altitude and figuratively for stuffy rooms and dull meetings.
 样品	yàng pǐn	sample; specimen (of a product) — 样 yàng (sample) + 品 pǐn (article, product). One specimen held up to represent a whole batch: a free sample, a trade-show display, a test piece sent to a buyer.
+样品间	yàng pǐn jiān	sample room
 要紧	yào jǐn	important; serious; mattering — 要 (yào, to want, to need) + 紧 (tight). What is held tight is what matters. Most common in the negative 不要紧 (bùyàojǐn), meaning never mind, it doesn't matter, often said to reassure.
 要紧关头	yào jǐn guān tóu	critical moment; crucial juncture — 要紧 (crucial) + 关头 (guāntóu, the pivotal point). The hinge of a situation, where the outcome is decided and there is no room to hesitate.
 一次性筷子	yī cì xìng kuài zi	Disposable chopsticks — Disposable chopsticks: the individually wrapped bamboo or wood pairs given at most restaurants. Billions are used annually; their environmental cost is a topic of ongoing public debate.
@@ -1298,12 +1326,14 @@
 丈夫	zhàng fu	husband — 丈 zhàng (an honorific for an adult man) + 夫 fū (man). The ordinary, neutral word for one's husband, the man one is married to. In older usage 大丈夫 dà zhàngfu also means a true man, a man of character, but on its own 丈夫 simply names the spouse.
 这倒未必	zhè dào wèi bì	"That's not necessarily so — "That's not necessarily so." A more literary pushback, often used in discussions or debates. 倒 marks the contrary tone; 未必 means "not necessarily." Slightly considered, signals careful disagreement.
 真不容易	zhēn bù róng yì	that's really not easy; well done — Standard expression of admiration or sympathy for someone who has overcome difficulty: a graduation, a long project, raising children. The 真 makes it heartfelt rather than perfunctory.
+真空保温	zhēn kōng bǎo wēn	vacuum insulation — Double-wall insulation: the air between liner and shell is pumped out, 抽真空 (chōu zhēnkōng). 保温 is keeping warm, 保冷 keeping cold; 保温测试 is the thermal retention test, and 保温效果 the result.
 阵脚	zhèn jiǎo	battle-line foundation; one's footing in a contest — 阵 zhèn (battle formation) + 脚. The foot of the battle line , the structural integrity of a position. The common idiom 乱了阵脚 luàn le zhènjiǎo "to lose one's footing" describes the moment a debater, athlete, or general is rattled and the formation collapses.
 拯救	zhěng jiù	to save, to deliver — 拯 (zhěng, to lift up out of) + 救 (rescue). A weightier, more literary "save," used for deliverance on a grand or moral scale: saving a soul, a people, a planet.
 正念	zhèng niàn	right mindfulness
 正气	zhèng qì	upright qi; righteous energy; moral integrity — 正 zhèng (upright; correct; proper) + 气 qì. In TCM: the body's defensive qi that resists pathogenic invasion. In moral discourse: the upright character and courage that resists corruption and injustice.
 正义	zhèng yì	justice; righteousness; the just cause — 正 zhèng (correct; upright; proper , the character shows a foot 止 walking toward a target 一, straight on) + 义 yì (righteousness; moral rightness). Together: righteousness that is properly aligned , justice as it should be, not merely as claimed. 正义感 zhèngyìgǎn = a sense of justice.
 知道了	zhī dào le	got it; understood; okay — The everyday acknowledgement that you have received and registered information or an instruction. Extremely common as a one-word reply. Beware the tone: a flat or clipped 知道了 can read as impatient, like "yeah, I know already." 好的 (okay) or 明白了 (understood) are gentler alternatives.
+知识产权	zhī shi chǎn quán	intellectual property
 指示代词	zhǐ shì dài cí	demonstrative pronoun (这/那/哪)
 制品	zhì pǐn	manufactured article; processed product
 致富	zhì fù	to get rich; to make a fortune — 致 (to bring about, to arrive at) plus 富 (wealth). To become wealthy, especially through one's own effort. 勤劳致富 (qínláo zhìfù), getting rich through diligence, is a stock phrase.

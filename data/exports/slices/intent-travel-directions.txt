@@ -409,6 +409,7 @@
 白切鸡	bái qiē jī	White-Cut Chicken
 败北	bài běi	to be defeated; to suffer a loss — 败 (bài, to be defeated, to lose) + 北 (běi, to flee , the original meaning). The classical military compound where 北 carries its original "flight in defeat" meaning. Used in formal and literary contexts for losing a battle, an election, or a competition.
 搬	bān	move (objects)
+帮我翻译一下	bāng wǒ fān yì yí xià	please translate this for me — For your interpreter, or for the English-speaking salesperson when the engineer goes too fast. Using an interpreter for one hard passage and Chinese for the rest is common and costs no face.
 帮我一下	bāng wǒ yí xià	give me a hand; help me out — A model of 一下 as a politeness softener. The bare 帮我 ("help me") is blunt; adding 一下 frames it as a small, quick favor and sounds far friendlier. Note that 一下 can follow the object here (帮我一下) because 帮 takes a person directly. The same softening works across requests: 看一下, 等一下, 问一下.
 报道	bào dào	news report; to report (news) — 报 bào (to announce; to report; newspaper) + 道 dào (way; path). To map and announce the course of events: journalism as the act of charting what has happened. Used both as a noun (a report, a piece of coverage) and as a verb (to report on something).
 北斗七星	běi dǒu qī xīng	the seven stars of the Big Dipper — 北斗 (the Northern Dipper) + 七星 (seven stars). The seven bright stars of the Big Dipper, central to Chinese astronomy, navigation, and Daoist ritual.
@@ -436,6 +437,7 @@
 茶餐厅	chá cān tīng	Cha chaan teng — Cha chaan teng: the quintessential Hong Kong casual restaurant, serving a fusion menu of Cantonese and Western-influenced dishes: milk tea, pineapple buns (菠萝包 bōluóbāo), egg tarts, congee, rice dishes, and Hong Kong-style French toast.
 茶马古道	Chá Mǎ Gǔ Dào	Ancient Tea-Horse Road — the trade route that carried tea to Tibet
 拆开	chāi kāi	to tear open; to unwrap
+产前样	chǎn qián yàng	pre-production sample (PPS) — Made on the production line with production materials, after tooling and before bulk starts. Hand samples can be perfect while line samples are not; insisting on a 产前样 catches the difference before thousands of units exist.
 场	chǎng	open ground, venue
 场所	chǎng suǒ	place; venue; site
 钞票	chāo piào	banknote: paper money; cash — 钞 chāo (paper money) + 票 piào (slip; note). A banknote, paper currency, cash in hand. This compound shows 票 at its purest: a printed slip of paper that stands for money. Closely related is 支票 zhīpiào (a cheque), where 支 zhī (to pay out) marks the slip as an instrument of payment.
@@ -451,6 +453,8 @@
 朝着	cháo zhe	toward; in the direction of (with sustained motion) — 朝 cháo (toward) + 着 zhe (the durative marker). The preposition with a sense of ongoing facing or movement toward something: 朝着大海 "facing the sea," 朝着目标努力 "to work toward a goal." Common in figurative aims as well as physical ones.
 炒	chǎo	to stir-fry; the wok toss
 车	chē	vehicle; car; train
+车次	chē cì	train number — G-trains are the fastest, D-trains next. 检票口 (jiǎnpiàokǒu) is the boarding gate, shown on the screens next to the train number; 车厢 (chēxiāng) is the carriage, 座位号 the seat number.
+车间	chē jiān	workshop, shop floor — Named by process: 冲压车间 stamping, 焊接车间 welding, 注塑车间 injection molding, 喷涂车间 painting, 组装车间 assembly, 包装车间 packing. 无尘车间 (wúchén chējiān) is a clean room.
 车票	chē piào	travel ticket: a ticket for a bus, train, or coach — 车 chē (vehicle; car; train) + 票 piào (slip; ticket). A ticket for ground transport: a bus ticket, a train ticket, a coach ticket. The slip that proves you have paid your fare and may board. By the same pattern, 机票 jīpiào is a plane ticket and 船票 chuánpiào is a boat ticket.
 车同轨	chē tóng guǐ	carts made to the same track — Qin standardized the gauge of cart axles so that all wheeled vehicles fit the same ruts. The empire-wide road system, including the 直道 (zhídào, "straight roads") radiating from the capital Xianyang, depended on this.
 车站	chē zhàn	station; bus or train stop — 车 (chē, vehicle) + 站 (stop): the place where buses or trains halt and passengers board. The base word for any ground-transit station; specify with 火车站 huǒchēzhàn (train station) or 汽车站 qìchēzhàn (bus station).
@@ -467,6 +471,7 @@
 出产	chū chǎn	to produce; to yield; output — 出 chū (emerge; put out) + 产 chǎn (produce; give birth to; output). To yield products from a source , a region produces goods, a field yields a crop, a factory puts out units. Used for natural resources, agricultural yield, and manufactured goods. As a noun: the output, the produce.
 出发	chū fā	to set out; to depart; to start from (a position or principle) — 出 chū (exit; emerge from) + 发 fā (to send out; to dispatch; to start moving). The moment of departure , leaving a point of origin for a destination. Physical: a train, a traveler, a team setting out.
 出口	chū kǒu	to export; an exit; to speak — 出 chū (exit; emerge) + 口 kǒu (mouth; opening; port). Three interlocking meanings from the same compound. As trade: to export , goods going out through the port. As architecture: the exit of a building or tunnel. As speech: 出口成章 (words emerge perfectly formed , to speak with eloquence).
+出口退税	chū kǒu tuì shuì	export VAT rebate — The refund of input VAT on exported goods, claimed by whoever exports them. A factory with its own export licence (自营出口 zìyíng chūkǒu) claims it directly; one without exports through a trading company (外贸公司 wàimào gōngsī), which adds a layer of margin.
 出来	chū lái	to come out (toward speaker)
 出路	chū lù	a way out; prospects, future direction — 出 chū (to go out, to exit) + 路 lù (road). Literally "the road out." Used for both physical exit (the way out of a building) and, more often, figurative prospects: career options, an escape from a bad situation, the future of an industry. 没有出路 méiyǒu chūlù = no way forward, no prospects.
 出名	chū míng	to become famous; to make a name for oneself — 出 chū (emerge) + 名 míng (name; fame; reputation). To emerge into collective naming , to become the person or thing that others talk about and recognize by name. The 出 marks the transition: previously unknown, now known. 出名 carries no inherent judgment of whether the fame is deserved or welcome.
@@ -705,6 +710,7 @@
 活泼	huó po	lively; vivacious; animated — 活 huó (lively) + 泼 pō (to splash, itself a water word). A doubled water image, the splash of a living current, describing a bright, spirited, outgoing temperament. Most natural for children and young people: 活泼可爱 (lively and adorable).
 活着	huó zhe	to be alive; living — 活 huó (to live) + 着 zhe (the durative marker, an ongoing state). To be in the state of being alive, as opposed to 死了 (dead). Yú Huá's famous novel 《活着》 takes the word as its whole subject: simply going on living through everything.
 火车	huǒ chē	train (lit. "fire cart") — 火 huǒ + 车 chē (vehicle; cart). Named when steam locomotives first arrived in China , "fire-powered cart." The word has outlasted the steam era. 高铁 gāotiě (high-speed rail) is now preferred for bullet trains, but 火车 remains in universal use.
+火车站	huǒ chē zhàn	railway station
 火锅	huǒ guō	hotpot; steamboat — 火 huǒ + 锅 guō (pot; wok). A simmering communal pot at the table , the quintessential Chinese social meal. 吃火锅 = to eat hotpot, one of the most common social dining activities. Regional varieties: 四川火锅 Sichuan hotpot (numbing-spicy 麻辣), 北京涮羊肉 Beijing lamb hotpot (clear broth).
 火候	huǒ hou	the right heat and timing; (by extension) the right moment or level of skill — 火 huǒ (fire) + 候 hou (the timing of). In cooking, the exact control of heat and duration that makes or ruins a dish. Figuratively, the ripeness of a moment or the maturity of a skill: 火候到了 "the moment is ripe."
 火山	huǒ shān	volcano — 火 huǒ (fire) + 山 shān (mountain). A fire-mountain. Strikingly direct. Related: 火山爆发 volcanic eruption · 活火山 active volcano · 死火山 extinct volcano · 休眠火山 dormant volcano.
@@ -787,6 +793,7 @@
 开机	kāi jī	to power on (a device); to start filming
 开口	kāi kǒu	to open one's mouth — to speak (especially after a silence, or to ask for something)
 开门	kāi mén	to open the door; (of a shop) to open for business — 开 kāi (to open) + 门 mén (door). To open a door, and idiomatically for a shop to open: 商店几点开门？ "What time does the shop open?" Its pair is 关门 guānmén, to close.
+开模	kāi mú	to make a mold; to commission tooling — The step that commits real money. 开新模 is new tooling; 共模 (gòngmú) or 公模 (gōngmú) is a shared or public mold the factory already owns, cheaper but not exclusive to you. 私模 (sīmú) is a private mold for one customer.
 开始	kāi shǐ	to begin; the beginning
 开头	kāi tóu	the beginning; the start; at first — 开 kāi (to open) + 头 tóu (head, end). The opening end of something: the start of a story, a year, a task. 一开头 "right at the start." Both a noun (the beginning) and a verb (to begin).
 开心	kāi xīn	happy; glad; to be happy — 开 kāi (open) + 心 xīn (heart). Lit. "open heart." The heart is opened, unblocked, free. One of the most common everyday happiness words in Mandarin, lighter and more colloquial than 高兴 gāoxìng (pleased, glad) and more immediate than 幸福 xìngfú (lasting happiness; bliss).
@@ -805,6 +812,7 @@
 口渴	kǒu kě	thirsty (mouth dry)
 口气	kǒu qì	manner of speaking; breath smell; implied attitude — 口 kǒu (mouth) + 气 qì. Operates on two levels: (1) the qi from the mouth, literally breath smell (口气重 "bad breath"); (2) the implied attitude and tone in what someone says, what their words reveal about how they feel. 你这个口气 "That tone of yours…" carries reproach.
 口头禅	kǒu tóu chán	pet phrase; catchphrase — Mouth-Chan: enlightenment talked rather than lived, generalized into anyone's verbal habit. 他的口头禅是"没问题" means "no problem" is his catchphrase. One of the most useful conversation words about conversation.
+口头承诺	kǒu tóu chéng nuò	verbal promise
 口味	kǒu wèi	flavor; taste preference; palate — 口 kǒu (mouth) + 味 wèi (flavor; taste). Both the objective flavor of food and the subjective preference of a taster. 这不合我的口味 "This doesn't suit my taste." 口味重 kǒuwèi zhòng = "strong-flavored preferences" , liking bold, heavy flavors.
 口吻	kǒu wěn	manner of speech; implied standpoint (literary) — 口 kǒu (mouth) + 吻 wěn (lips; to kiss, the form of the mouth). The shape of what comes from the mouth, the distinctive way a person speaks, implying their perspective and attitude. More literary than 口气, used in written analysis, narration, and formal commentary.
 口音	kǒu yīn	accent; regional way of speaking — 口 kǒu (mouth) + 音 yīn (sound). The sound a particular mouth gives a language, marking where the speaker is from: 南方口音 "a southern accent," 带口音 "to have an accent."
@@ -967,6 +975,7 @@
 去年	qùn ián	last year — 去 qù (to have gone; to have departed) + 年 nián (year). The year that has departed , last year. A vivid temporal use: the year that went away. Contrast: 来年 láinián (the year that is coming , next year; somewhat literary) and 今年 jīnnián (this year).
 去声	qù shēng	the departing tone; tone 4
 去世	qù shì	to pass away; to die (respectful) — 去 qù (to depart; to leave) + 世 shì (the world; this age; this life). To depart from the world , the standard respectful expression for the death of an adult. Not used for children or animals, and not used for enemies or condemned criminals (for those, more neutral or harsher terms apply).
+确认一下	qu èr èn yí xià	let me confirm — 确认 (quèrèn) is the verb of the whole relationship: samples are confirmed, drawings are confirmed, orders are confirmed. 我确认一下 before restating a point; 您确认一下 when handing the other side something to check.
 绕境	rào jìng	divine procession through the territory
 人道	rén dào	the human realm; the human path of rebirth — The human realm is considered the most favorable position for Buddhist practice precisely because of its mixture of suffering and capacity. Humans experience enough pain and impermanence to feel the urgency of liberation, while retaining enough cognitive clarity and agency to pursue the path.
 人海	rén hǎi	a sea of people; a vast crowd — 人 rén (person) + 海 hǎi (sea). A crowd so large it reads as an ocean of heads. Famous in the phrase 茫茫人海 "the boundless sea of humanity," the throng in which two people might never meet.
@@ -989,6 +998,7 @@
 山水之间	shān shuǐ zhī jiān	amid mountains and waters; in the landscape — A literary phrase widely used in modern essays, song lyrics, and travel writing. 之间 zhī jiān = between; amid. The phrase carries the Daoist resonance of being in the landscape rather than looking at it. Common in tea-house names, hotel names, and book titles aimed at evoking refinement.
 商场是个江湖	shāng chǎng shì gè jiāng hú	the marketplace is a rivers-and-lakes world — X是个江湖 as a productive formula — The formula X是个江湖 applies 江湖 logic , its hidden codes, dangers, unwritten rules, and webs of obligation , to any competitive domain.
 商队	shāng duì	merchant caravan
+商量一下	shāng liang yí xià	to talk it over — The deferral. Buys time without saying no, and is the expected answer to any significant new proposal. Name when you will reply so it does not read as a brush-off.
 商业街	shāng yè jiē	shopping street
 上班	shàng bān	to go to work; to be at work; on duty — 上 shàng (to mount; to attend) + 班 bān (shift; work roster; class). To show up for and engage in one's work shift. The most common word for "going to work" in daily speech. Contrast 下班 (to finish work; to get off work): the 上/下 pair governs the entire working day.
 上船	shàng chuán	to board a boat — 上 (to go up onto) + 船 (boat): you step up onto a deck, so boarding is 上, and disembarking is 下船 (xià chuán). The same up/down logic governs 上车 / 下车 for vehicles.
@@ -1034,7 +1044,7 @@
 事情	shì qing	matter; affair; thing (to be dealt with) — 事 shì + 情 qíng (situation; circumstance). The everyday noun for a matter or affair, anything happening that you talk about or handle. The most common way to say "thing" when you mean a situation rather than an object.
 事上磨炼	shì shàng mó liàn	tempering oneself through practical affairs — Wang Yangming's insistence that moral cultivation is not a retreat into contemplation but a process that occurs within engagement with actual affairs. The battlefield, the courtroom, the family, the market , all are sites where 良知 is extended or blocked.
 事实上	shì shí shàng	as a matter of fact
-收到	shōu dào	to receive
+收到	shōu dào	received, noted — The standard acknowledgement. 好的 (hǎo de) is "okay," 明白 (míngbai) "understood," 收到，谢谢 the polite version. Acknowledging promptly is expected; silence reads as a problem.
 收千里眼顺风耳	shōu Qiān lǐ yǎn Shùn fēng ěr	subjugating the two divine generals — Two demonic generals, 千里眼 Qiānlǐyǎn (Eyes That See a Thousand Li, a green-faced demon) and 顺风耳 Shùnfēng'ěr (Ears That Hear Downwind, a red-faced demon), terrorized the coastal people. Lin Mo defeated them in combat through her superior spiritual power, converting them to her service.
 手机	shǒu jī	mobile phone — lit. "hand machine" — 手 shǒu (hand) + 机 jī (machine). China's most common word for mobile phone , the machine held in the hand. Completely replaced the earlier 手提电话 and the formal 移动电话 in everyday usage. 玩手机 wán shǒujī = "to play on one's phone" (ubiquitous activity).
 手足	shǒu zú	hands and feet; brothers; siblings — 手 (hand) + 足 (foot). The literal limbs of the body, used figuratively for brothers or close companions. Classical Chinese: 手足之情 (shǒuzú zhī qíng, the feeling between hands and feet) means brotherly affection , your siblings are as necessary to you as your own hands and feet.
@@ -1050,6 +1060,7 @@
 说道	shuō dào	to say (literary narration marker) — 说 shuō (to say; to speak) + 道 dào (way; to say). A literary verb used in fiction and formal narrative to introduce direct speech. Written as X说道，"……" (X said, "……"). Seldom appears in casual spoken Chinese; it marks elevated or written register.
 丝	sī	silk thread
 丝绸	sī chóu	silk
+司机	sī jī	driver
 思路	sī lù	train of thought; line of reasoning; thinking process — 思 sī (thought) + 路 lù (road; path; route). Lit. "the road of thought." The direction and movement of how thinking unfolds , not the conclusion but the path that leads there. 思路清晰 (a clear line of reasoning) is high praise in Chinese academic and professional contexts.
 死路	sǐ lù	dead end; no way out
 四川盆地	Sì chuān Pén dì	the Sichuan Basin — the geography that produced this cuisine's ingredients and intensity — The Sichuan Basin , the large inland depression enclosed by mountains on all sides. 盆 means "basin" or "bowl"; 地 means "land" or "ground." The shape of a basin (四面环山 sì miàn huán shān, "mountains on all four sides") is the defining geographic fact of the region.
@@ -1111,6 +1122,7 @@
 外表	wài biǎo	outward appearance: the way someone or something looks from outside — 外 wài (outer; outside) + 表 biǎo (surface). The outward appearance of a person or thing, especially how they look to others. Where 表面 leans toward physical surfaces and abstract superficiality, 外表 is most natural for the looks of people and objects, the impression they give at first sight.
 外部	wài bù	external; the outside
 外丹	wài dān	outer alchemy — elixirs of immortality — 外 wài (outer) + 丹 dān (cinnabar). The earlier tradition: physically preparing elixirs in a laboratory by heating and transforming minerals (especially cinnabar, lead, gold, and sulfur) to produce an immortality drug.
+外发	wài fā	to send out (to a subcontractor) — The question the tour exists to answer. A factory that sends out a step is not necessarily hiding anything, but you need to know, because quality on that step is out of its direct control.
 外国	wài guó	foreign country; abroad — 外 wài (outside) + 国 guó (country). A country other than one''s own. A person from one is 外国人 wàiguórén (foreigner); the things of one are 外国 X, as in 外国文化 "foreign culture."
 外交	wài jiāo	diplomacy
 外卖	wài mài	takeout; food delivery — 外 wài (out) + 卖 mài (to sell). Food sold to be taken away rather than eaten in. In modern usage it means app-based delivery: 点外卖 "to order takeout," 外卖员 "a delivery rider."
@@ -1182,6 +1194,7 @@
 小河	xiǎo hé	small river; creek
 孝道	xiào dào	the way of filial piety
 鞋	xié	shoes
+写下来	xiě xià lái	write it down — For technical terms and every figure. Hand over your notebook or phone. Pinyin input is fine; most people will type the characters for you.
 心里	xīn lǐ	in one's heart; in one's mind; emotionally — 心 (heart, mind) + 里 (interior). Functions as a locative: something is in the heart, occurs in the heart. Covers both cognitive interior (I understand in my mind) and emotional interior (I feel in my heart). More intimate and less clinical than 内心 nèixīn (inner heart , a literary register).
 心里话	xīn lǐ huà	sincere words; what one truly means — 心里 (inside the heart) + 话 (speech, words). The words that come from the interior rather than from performance. Sharing 心里话 is an act of trust and intimacy , it signals that the speaker is not managing their presentation but revealing what is actually held inside.
 心里有数	xīn lǐ yǒu shù	to have a clear grasp; to know what's what — 心里 (inside the heart) + 有 (to have) + 数 (numbers, a count). To hold the numbers privately in one's interior , to have a clear reckoning of a situation that one carries internally.
@@ -1244,6 +1257,7 @@
 原来	yuán lái	originally; as it turns out; so that's how it is — 原 yuán (original; the root; where something came from) + 来 lái (came from; arrived from). "From the original state," used in two senses. Temporal: originally, at first (他原来住在北京 = He originally lived in Beijing). Revelatory: "so that's how it is / now I understand" (原来如此！= So that's the reason!).
 原来如此	yuán lái rú cǐ	"Oh, so that's how it is!" or "I see now — "Oh, so that's how it is!" or "I see now." The classic "aha" of comprehension. The pieces have just clicked together. Slightly literary in feel but used constantly in everyday speech. The looser 原来是这样 (yuánlái shì zhèyàng) is the more colloquial version.
 原则	yuán zé	principle
+原则上同意	yuán zé shang tóng yì	agree in principle — Signals agreement on direction while keeping the details open. Useful when the boss pushes for a handshake before the numbers are settled.
 源头	yuán tóu	Source, literally "source head — Source, literally "source head." The Yangtze's source was definitively surveyed only in the 1970s–80s, deep in the Tanggula Mountains on the Tibetan Plateau. The identification of a river's 源头 carries cosmological weight; knowing where a river begins is knowing something fundamental about the world.
 远处	yuǎn chù	in the distance; a distant place — 远 yuǎn (far) + 处 chù (place; location). The place that is far away, viewed from where you stand. A positional noun used as a subject or object, always indicating a vague far-off point rather than a named destination.
 远大	yuǎn dà	ambitious; far-reaching; grand (of goals or ideals) — 远 yuǎn (far) + 大 dà (great; large). Applied to goals, plans, and ideals that extend far into the future or require enormous scope to realize.

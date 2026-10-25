@@ -271,6 +271,7 @@
 不错	bú cuò	pretty good, not bad; correct, right — 不 bù (not) + 错 cuò (wrong). Two readings from one shape: as praise, "quite good, not bad" (成绩不错 "good grades"); as confirmation, "right, correct" (一点不错 "exactly right"). Note the tone sandhi: 不 shifts to bú before the falling 错.
 不懂	bù dǒng	to not understand
 不可能	bù kěn éng	impossible; cannot be — The flat negation, "impossible, no way." 这不可能 ("this is impossible"), 不可能的事 ("an impossible thing"). It is strong and absolute, unlike the softer 不太可能 ("unlikely") which leaves a sliver of chance. As an exclamation, 不可能！means "no way! / that can't be!"
+不良率	bù liáng lǜ	defect rate — Percentage of defective units; 良品率 or 良率 (liánglǜ) is the yield, its complement. 不良品 (bùliángpǐn) and 次品 (cìpǐn) are defective goods. Agree an acceptable rate in the contract and what happens above it.
 不论	bù lùn	no matter; regardless of — 不 bù (not) + 论. Functionally interchangeable with 无论 in most sentences, slightly less formal. Same grammar: an open element follows, and 都 or 也 marks the main clause.
 不应该	bù yīng gāi	should not; ought not to — Negates the obligation: putting 不 before 应该 says something ought not to be done: 你不应该对她说谎 ("you shouldn't lie to her"). Often it voices regret about the past, "should not have": 我不应该那样说 ("I shouldn't have said that"). Do not confuse with 应该不, where 不 falls after and negates a guessed event instead.
 不知道	bù zhī dào	don't know; I'm not sure; I have no idea — 不 bù (negation) + 知道. One of the most common phrases in conversational Mandarin: the honest, unadorned acknowledgment of not having found the path. As a standalone response, 不知道！is perfectly natural and socially acceptable (not rude) in most contexts.
@@ -282,6 +283,7 @@
 唱片	chàng piàn	record; disc (vinyl, album) — 唱 chàng (to sing) + 片 piàn (a thin flat piece). A singing-disc: the physical record that holds recorded sound. 唱片公司 chàngpiàn gōngsī is a record label. The word predates and survives digital formats.
 超越	chāo yu è	to surpass; to exceed; to transcend — 超 (chāo, to overtake; to exceed) + 越. The figurative summit of the family: surpassing a competitor, exceeding a limit, transcending a category. Used in business, sport, philosophy, and self-development contexts.
 嘲笑	cháo xiào	to mock; to ridicule; to jeer at — 嘲 cháo (to taunt; to deride) + 笑 xiào (laugh). To laugh at someone with scorn. This is the cruel edge of 笑: the same sound aimed downward at a target. Takes a direct object, the person mocked.
+车次	chē cì	train number — G-trains are the fastest, D-trains next. 检票口 (jiǎnpiàokǒu) is the boarding gate, shown on the screens next to the train number; 车厢 (chēxiāng) is the carriage, 座位号 the seat number.
 诚	chéng	sincerity; genuine
 诚信	chéng xìn	integrity; honesty and trustworthiness; good faith — 诚 chéng (sincerity; genuine; true to one's heart , 诚 is itself 言 + 成 chéng, words that have been completed, words that have come to pass; sincerity as the alignment of word with reality) + 信 xìn (trustworthiness).
 充电	chōng diàn	to charge (device)
@@ -318,11 +320,14 @@
 当代	dāng dài	contemporary era
 到底	dào dǐ	after all; in the end; (interrogative intensifier) — 到 dào (arrive at) + 底 dǐ (bottom; base). Arriving at the bottom: getting to the root of the matter, reaching the real answer. In interrogative sentences, 到底 intensifies the question and demands a genuine response , it presses the interlocutor to stop evading and give a straight answer.
 道理	dào lǐ	reason; logic; principle; the way things work — 道 dào (way; path) + 理 lǐ (principle; pattern; grain of wood, the inherent structure of things). "The logic of the path." The way things make sense: the reason behind an argument, the principle underlying a situation, the basic logic that should govern behavior.
+地铁	dì tiě	subway
 邓小平	Dèng Xiǎo píng	Deng Xiaoping — architect of reform
+滴滴	Dī dī	Didi ride-hailing — The main ride app, also usable inside Alipay and WeChat. Industrial zones have confusing addresses, so ask the factory to send a 定位 (dìngwèi, location pin) and set that as the destination. 上车点 (shàngchēdiǎn) is the pickup point.
 第三人称	dì sān rén chēng	third person
 点赞	diǎn zàn	To like (a post) — To like (a post): tap-approve. 赞 alone means to praise; 点赞之交 ("a likes-only friendship") names the acquaintance you never see but always like.
 电灯	diàn dēng	electric light, lamp — 电 (diàn, electric) + 灯 (lamp): the everyday electric light or bulb. The default ceiling and desk light in a modern home, as opposed to candle or oil flame.
 电话	diàn huà	telephone; a phone call — 电 diàn (electric) + 话 huà (speech). Speech carried on electricity, the telephone, and by extension the call itself: 打电话 dǎ diànhuà "to make a phone call," 接电话 "to answer the phone."
+电汇	diàn huì	wire transfer (T/T) — "Electric remittance," usually just called T/T. 信用证 (xìnyòngzhèng) is a letter of credit (L/C), slower and more paperwork, with the bank standing between the parties.
 电脑	diàn nǎo	Computer — Computer: electric brain. 台式电脑 is a desktop, 笔记本 a laptop. The formal 计算机 persists in degree names and government documents.
 电影	diàn yǐng	film; movie — lit. "electric shadow" — 电 diàn (electric) + 影 yǐng (shadow; reflection; image). Film, movie , named for the projected shadows of early cinema. 看电影 = to watch a film. 电影院 = cinema. 电影节 = film festival (Cannes 戛纳电影节, Venice 威尼斯电影节, Berlin 柏林电影节, Hong Kong 香港电影节).
 电影票	diàn yǐng piào	movie ticket: a ticket for a film screening — 电影 diànyǐng (film; movie) + 票 piào (ticket). A cinema ticket. The 票 here pulls double duty: it admits you to the hall and assigns you a seat. The takings a film earns at the box office are its 票房 piàofáng, literally the ticket room, the modern measure of a movie's success.
@@ -357,14 +362,19 @@
 多大	duō dà	how old; how big
 多少钱	duō shao qián	how much (money); what's the price — The universal way to ask a price. Because cost can be any amount, you use 多少, never 几: 这件衣服多少钱？("how much is this piece of clothing?"). The answer uses money measure words: 块 kuài (yuan, colloquial), 毛 máo (ten cents), 分 fēn (cent). 一共多少钱 ("how much altogether") totals a bill.
 儿歌	ér gē	nursery rhyme — 儿 (child) plus 歌 (song). A children's song, the first 歌 most native speakers ever learn.
+二维码	èr wéi mǎ	QR code
 发电	fā diàn	to generate electricity
 发现	fā xiàn	to discover; to find; to realize — 发 fā (to bring forth) + 现 xiàn (to appear; manifest). To bring something previously hidden into view, whether a fact, an object, or a realization: 发现问题 "to spot a problem," 科学发现 "a scientific discovery."
 发音	fā yīn	pronunciation; to pronounce — 发 (emit) + 音 (sound). The compliment every learner works for is 你的发音很标准 ("your pronunciation is very standard"), 标准 being the operative cultural value: the broadcast-Mandarin ideal against which accents are measured.
 发展	fā zhǎn	to develop; to grow; development — 发 fā (to bring forth) + 展 zhǎn (to unfold; spread). To grow and expand from a smaller or earlier state: 经济发展 "economic development," 发展中国家 "a developing country." Works as both verb and noun.
 翻越	fān yu è	to climb over (especially a mountain or wall) — 翻 (fān, to flip; to turn over) + 越. The physical act of climbing up and over an obstacle. Strongly associated with crossing mountain ranges; the verb of choice for descriptions of mountain expeditions, escape across hostile terrain, and the Long March.
 繁体	fán tǐ	traditional (character form)
+反馈	fǎn kuì	feedback
+反映问题	fǎn yìng wèn tí	to report a problem — The neutral opener. 客诉 (kèsù) is a complaint from your own customers, a useful word because it shifts the pressure to the market rather than to you.
+返工	fǎng ōng	rework — Fixing defective goods. Its harder cousins: 报废 (bàofèi) scrapping, 补货 (bǔhuò) replacing goods, 退货 (tuìhuò) returning them. 整改 (zhěnggǎi) is a corrective action on the process itself, so the defect stops recurring.
 访问	fǎng wèn	to visit; to call on; to interview; (computing) to access — 访 fǎng (to call on) + 问 wèn (to ask after). A formal visit made to a person, place, or, by modern extension, a website or file. 国事访问 "a state visit," 访问网站 "to access a website."
 放松	fàng sōng	to relax; to loosen
+分担	fēn dān	to share (a cost) — The compromise line. Offering it yourself, once fault is clear, buys goodwill for the next order.
 分封	fēn fēng	to enfeoff; to grant fiefs — 分 (fēn, to divide) plus 封 (to confer land): to carve a realm into fiefs and grant them to vassals. The defining act of the early Zhōu political order.
 分子	fēn zǐ	Molecule — Molecule: divided unit. The same word, differently stressed, means "member of a group" in political vocabulary (知识分子, intellectuals), a coincidence of compounding worth knowing before it confuses.
 封闭	fēng bì	to seal off; closed, sealed — 封 (to seal) plus 闭 (bì, to shut): to close something off completely. Used for sealing a road, a building, a wound, or, figuratively, a closed-off mindset.
@@ -388,8 +398,9 @@
 改正	gǎi zhèng	to correct; to put right; to amend — 改 gǎi (to change) + 正 zhèng (straight). To change something crooked back to straight: 改正错误 "to correct a mistake." The act of bringing a thing back onto the line.
 盖	gài	to cover; to cap
 感觉	gǎn ju é	feeling; impression; to feel (V &amp; N) — 感 gǎn + 觉 jué (to awaken; become aware; originally: waking from sleep, the first moment of consciousness). A dual-category word that functions as both verb and noun. The most flexible word in the 感 family. Covers gut feeling, subjective impression, intuition.
+感谢	gǎn xiè	to thank sincerely; gratitude (formal) — 感 gǎn + 谢 xiè (to thank; originally: water overflowing, pouring out one's feelings). Warmer and more sincere than 谢谢. Standard in writing, speeches, and formal situations. Also functions as a noun in 表示感谢.
 干支	gān zhī	Stems and Branches — Stems and Branches: the shorthand for the combined system of Ten Heavenly Stems and Twelve Earthly Branches used to name years, months, days, and two-hour periods.
-高铁	gāo tiě	High-speed rail — High-speed rail: "high iron," short for 高速铁路. The system's ticketing, station, and seat vocabulary (一等座 first-class seat, 二等座 second-class) is core travel Chinese.
+高铁	gāo tiě	high-speed rail — Trains are booked on the official 12306 app or site (it has an English version) or through travel apps, and your passport is the ticket: it is checked at the station entrance and at the gate. 动车 (dòngchē) are slightly slower bullet trains. Arrive early; large stations have security checks.
 搞笑	gǎo xiào	funny; hilarious
 告诉	gào su	to tell
 歌唱	gē chàng	to sing (in praise); singing as an art — 歌 gē (song) + 唱 chàng (to sing). More formal and elevated than 唱歌. Used for singing as a discipline and for singing in celebration: 歌唱家 gēchàngjiā is a professional vocalist, and 歌唱祖国 means to sing the praises of one's homeland.
@@ -424,12 +435,16 @@
 鸿沟	hóng gōu	a great divide; chasm
 后来	hòu lái	afterward; later; subsequently — 后 (after) + 来 (to come; to arrive). "What came after" , subsequent events in a narrative or sequence. 后来 always refers to the past relative to a reference point already established: you set the scene, then 后来 picks up the story.
 糊涂	hú tu	muddled, confused
+护照	hù zhào	passport
 化学	huà xu é	Chemistry — Chemistry: transformation-study. 化学反应 is a chemical reaction; 化学式 (huàxuéshì) is a chemical formula, read left to right like grammar.
 话题	huà tí	topic; subject of conversation — 话 huà (speech; talk) + 题 tí (topic). What a conversation is about: 换个话题 "change the subject," 热门话题 "a hot topic." It frames the heading of talk rather than writing.
 黄历	huáng lì	The almanac — The almanac: literally "yellow calendar," named for the imperial yellow of the official calendar. An annual publication (now also a mobile app feature) that gives day-by-day auspiciousness ratings based on the traditional calendrical system.
 回报	huí bào	to repay; a return, reward — 回 (huí, to return) plus 报 (to requite): to give back in kind. Used for repaying kindness and, in finance, for the return on an investment.
 回答	huí dá	to answer; to reply; an answer — 回 huí (back) + 答 dá (to respond). To send a response back to a question: 回答问题 "to answer a question." As a noun, the answer itself: 一个满意的回答 "a satisfactory answer."
+回复	huí fù	to reply
 汇报	huì bào	to report to superiors
+会议纪要	huì yì jì yào	meeting minutes — A short written summary of decisions, owners, and dates, sent the same day. Offering to write it yourself means your version becomes the record. 白纸黑字 (báizhǐ hēizì, "black ink on white paper") is the idiom for having it in writing.
+火车站	huǒ chē zhàn	railway station
 或许	huò xǔ	perhaps; possibly
 集体	jí tǐ	collective; group; the community — 集 jí (to gather) + 体 tǐ (body). A gathered body of people acting as one: 集体活动 "a group activity," 集体主义 "collectivism." Set against the individual, 个人 gèrén.
 几	jǐ	how many (small number); a few — Asks about a small, countable number, typically under ten, and must be followed by a measure word: 几个 ("how many"), 几本 ("how many volumes"), 几位 ("how many people," polite). It assumes the answer is small, so it is the word for guests, family members, hours, or days.
@@ -439,6 +454,7 @@
 记忆	jì yì	memory; to remember (formal) — 记 jì (to remember) + 忆 yì (to recall, recollect). The faculty of memory and its contents, more formal and abstract than 记得: 童年的记忆 "childhood memories," 记忆力 jìyìlì "the power of memory."
 记者	jì zhě	reporter; journalist — 记 jì (to record) + 者 zhě (one who). Literally "one who records," the reporter whose work is to set down and report events: 新闻记者 "a news reporter."
 记住	jì zhù	to remember firmly; to commit to memory — 记 jì (to keep in mind) + 住 zhù (a resultative meaning "to stay fast"). To make something stick so it will not slip away: 记住这个号码 "memorize this number." The 住 stresses that the memory has caught and held.
+加微信	jiā Wēi xìn	to add on WeChat — 扫一扫 (sǎo yi sǎo) is "scan"; one person shows their QR code (二维码 èrwéimǎ), the other scans. 我扫你 means "I'll scan yours." 拉群 (lā qún) is to create a group chat, the norm for an order with several people on each side.
 简便	jiǎn biàn	simple and convenient, handy — 简 (pared down) + 便 (convenient). A method or procedure that is both simple and easy to use, with no fuss in the steps.
 简称	jiǎn chēng	abbreviation, short name — 简 (brief) + 称 (to call, a name). The shortened form of a long name: 北大 for 北京大学, 联合国 from its full title. As a verb, to abbreviate something as.
 简单	jiǎn dān	simple, easy — 简 (slip, hence pared down) + 单 (single, plain). The everyday word for simple, whether a task, an idea, or a person who is uncomplicated. Negated as 不简单 it flips to mean impressive, no small feat.
@@ -462,6 +478,7 @@
 教练	jiào liàn	coach, instructor — 教 (to teach) + 练 (to drill). The one who teaches by drilling: a sports coach, a driving instructor, a fitness trainer.
 接电话	jiē diàn huà	to answer the phone — 接 (receive) + 电话 (diànhuà, phone call). To take up a ringing call and connect the line. The hand that closes the gap now closes a circuit.
 接着	jiē zhe	next, then, to follow on — 接 (join) + 着 (zhe, continuing aspect). One action takes the baton from the one before it. Use it to mean "and then, right after that," or "go on (doing something)."
+节日祝福	jié rì zhù fú	holiday greetings — A short greeting at Chinese New Year and the Mid-Autumn Festival maintains the relationship between orders. 新年快乐 or 中秋快乐 with a line of thanks is enough.
 结论	jié lùn	conclusion (of an argument or inquiry) — 结 jié (to tie, to knot, to conclude) + 论. The conclusion that an argument or investigation arrives at: the point where reasoning is tied off. 下结论 xià jiélùn "to draw a conclusion," 得出结论 déchū jiélùn "to reach a conclusion."
 解除	jiě chú	to remove; to lift; to terminate (a state or obligation) — 解 jiě + 除 chú (to remove; to do away with). To untie and clear away. Used for lifting a binding state or formal tie: 解除警报 = lift an alert; 解除合同 = terminate a contract; 解除武装 = disarm; 解除疲劳 = relieve fatigue. More formal than 解开, it dissolves an arrangement or condition rather than a physical knot.
 解答	jiě dá	to answer; to solve and explain; a solution — 解 jiě + 答 dá (to answer; to reply). To unravel and answer. Used for working out and explaining the answer to a question or problem, especially in study: 解答疑问 = answer a question; 标准解答 = the standard solution.
@@ -474,6 +491,7 @@
 解释	jiě shì	to explain; to interpret; an explanation — 解 jiě + 释 shì (to release; to elucidate). To open a thing up and let its sense out. The everyday word for explaining: 解释原因 = explain the reason; 做出解释 = give an explanation. It also covers defending oneself: 解释误会 = clear up a misunderstanding. Where 解决 settles a problem, 解释 makes a meaning plain.
 近代	jìn dài	early modern era (1840–1949)
 进步	jìn bù	progress; to improve; progressive — 进 jìn (to advance) + 步 bù (a step). To move forward step by step, hence to improve. Works as a verb (你进步了 "you've improved") and as a noun (很大的进步 "great progress").
+进度	jìn dù	progress — 跟进 (gēnjìn) is to follow up, 催 (cuī) to chase. Ask for photos as well as words; a picture of goods on the line settles more than 快了 (kuài le, "nearly there").
 经过	jīng guò	to pass through; to go by; (after) the course of — 经 jīng (pass through) + 过 guò (cross over). To travel through a place, or to go through a process. As a noun it names the whole course of events: 事情的经过 "how the matter unfolded."
 经济	jīng jì	economy; economic; economical — 经 jīng (manage; order) + 济 jì (aid; relieve). A shortening of 经世济民, "to order the age and aid the people." Now the standard word for the economy, and as an adjective "economical, thrifty": 经济实惠 "good value for money."
 经济特区	jīng jì tè qū	Special Economic Zone — the instrument of the opening — 经济 (economy, economic) + 特区 (special zone, from 特 special/exceptional + 区 zone/district). The bounded territories where market rules applied before they were extended nationally: 改革开放's experimental method made spatial.
@@ -481,6 +499,7 @@
 精神文明	jīng shén wén míng	spiritual civilization; cultural-moral development as a policy domain — A signature term of post-1978 reform-era political vocabulary, paired with 物质文明 (wùzhì wénmíng, material civilization).
 精通	jīng tōng	to be proficient in; to master; to have a thorough command of — 精 jīng (refined; essence; finely worked) + 通 (to be all the way through). To have passed thoroughly through a field down to its fine grain: full mastery, not mere acquaintance. 精通 is reserved for genuine expertise: 精通三门外语 (fluent in three foreign languages), 精通法律 (thoroughly versed in law).
 九九表	jiǔ jiǔ biǎo	The multiplication table — The multiplication table: memorized in China as a chant of 45 compressed phrases from 一一得一 (1×1=1) to 九九八十一 (9×9=81). The chant begins with the smaller number, which is why it runs from 1×1 up rather than 9×9 down as in some other traditions.
+酒店	jiǔ diàn	hotel
 句号	jù hào	full stop; period — 句 jù (sentence) + 号 hào (mark; sign). The punctuation mark that closes a sentence, written in Chinese as a small hollow circle 。 rather than a dot. Idiomatically 画上句号 "to draw the full stop" means to bring something to a close.
 句子	jù zi	sentence — 句 jù (sentence) + 子 zi (noun-suffix). The everyday word for a complete sentence as a grammatical unit: 一个句子 "one sentence," 简单的句子 "a simple sentence." The building block every grammar lesson works with.
 距离	jù lí	distance; to be distant from — 距 (jù, to be apart) plus 离 (to be apart). A noun for the measured space between two points, and also a verb for being that far apart. Used for physical and emotional distance alike.
@@ -497,7 +516,9 @@
 渴望	kě wàng	to crave; to yearn for
 肯定	kěn dìng	certainly; to affirm; positive; sure — 肯 kěn (to be willing; to assent) + 定 dìng (to settle). To settle a thing as yes: as an adverb, "certainly," and as a verb, "to affirm, to confirm." Its opposite is 否定 fǒudìng (to negate; negative).
 孔子	Kǒng zǐ	Confucius
+扣款	kòu kuǎn	deduction from payment — Often the most practical settlement, since you hold the next payment. Agree the amount in writing before deducting.
 哭	kū	to cry; to weep
+库存	kù cún	stock, inventory — Containment covers goods not yet shipped. Ask the factory to check 库存 and the work in progress (在制品 zàizhìpǐn) before anything else leaves.
 夸	kuā	to boast; to praise (phonetic of 跨)
 跨步	kuà bù	to take a stride; a step — 跨 + 步 (bù, step). The base physical sense , a single deliberate stride, often a long one. Used in athletics, dance, military drill, and figuratively for any decisive move forward.
 跨度	kuà dù	span (of a bridge, an era, a project) — 跨 + 度 (dù, degree; measure). The measurable distance from one support to another , originally an architectural and engineering term (the 跨度 of an arch or bridge), now extended to time spans, salary ranges, age gaps, and the scope of a project or career.
@@ -548,6 +569,8 @@
 排练	pái liàn	to rehearse
 排他	pái tā	exclusive; to exclude others
 盼望	pàn wàng	to look forward to; to long for eagerly — 盼 pàn (to long for, to expect) + 望 wàng (to look toward). To wait eagerly and warmly for something one cares about: 盼望已久 "long looked forward to." More emotional and yearning than 希望, it suggests an active, heartfelt waiting.
+赔偿	péi cháng	compensation — Name the items: the goods, freight, inspection, and your customers' returns. 损失 (sǔnshī) is the loss itself.
+朋友圈	péng you quān	circle of friends; WeChat Moments
 皮	pí	skin; hide; rind; surface layer
 评论	píng lùn	to review, to comment; a review, a commentary — 评 píng (to appraise, to judge) + 论. To pass critical judgement on something, or the resulting commentary. A film review, a book review, a comment posted under an article (评论区 pínglùnqū "the comments section") are all 评论.
 普通	pǔ tōng	ordinary; common; general; average — 普 pǔ (widespread; universal) + 通 (general; running throughout). Widespread and holding everywhere: the quality of being ordinary, the common case rather than the special one. 普通人 (an ordinary person), 普通话 (the common spoken standard, Mandarin).
@@ -564,6 +587,7 @@
 曲	qū	The fermentation starter — The fermentation starter: dried bricks of grain colonized by mold, yeast, and bacteria, used to initiate fermentation. The composition of the qū is proprietary and is the primary differentiator between producers.
 全球化	quán qiú huà	globalization — the context and consequence
 确定	qu è dìng	to confirm; to be sure; certain — 确 què (sure; firm) + 定 dìng (to settle). To pin a thing down as fixed and beyond doubt, or to be sure of it oneself. 我不确定 "I'm not sure," 确定时间 "to fix the time."
+确认	qu èr èn	to confirm
 人称代词	rén chēng dài cí	personal pronoun
 认识	rèn shi	to know (a person, a place, a character); knowledge, understanding — 认 rèn + 识 shí (to know; to discern). The standard verb for knowing-by-acquaintance: knowing someone, knowing a place, knowing a character. As a noun, it means understanding or grasp of a topic.
 认为	rèn wéi	to think; to believe; to consider (one's view) — 认 rèn (to recognize; to take as) + 为 wéi (to be; to take as). Literally "to take X as [one's view of the matter]." The most common compound for expressing personal opinion in modern Chinese , 我认为 wǒ rènwéi (I think that...) is the standard opener for stating a perspective in speech or writing.
@@ -573,9 +597,11 @@
 溶化	róng huà	to dissolve; to melt
 溶解	róng jiě	to dissolve (in a liquid) — 溶 róng (to melt into liquid) + 解 jiě. To melt and break apart. The scientific verb for a substance dissolving in a solvent: 盐在水里溶解 = salt dissolves in water; 溶解度 = solubility. Here 解 keeps its most literal force, the breaking of a whole into dispersed parts, in the language of chemistry.
 如何	rú hé	how; in what way; what about — 如 rú (according to) + 何 hé (what). The literary "how," asking by what means or in what manner: 如何解决 "how to solve it." The spoken everyday word is 怎么 zěnme; 如何 belongs to writing and formal speech.
+入住	rù zhù	to check in — Hotels must register foreign guests' passports, and not every hotel is licensed to take foreigners, so book one that confirms it does. 押金 (yājīn) is the deposit, 退房 (tuìfáng) checkout. For a company invoice, give the 抬头 (táitóu, the invoice name).
 软件	ruǎn jiàn	software — 软 ruǎn (soft) + 件 jiàn (a piece). The intangible programs that run on a computer, paired against 硬件 yìngjiàn (hardware), 硬 yìng meaning hard. The soft and hard contrast is a direct calque of the English pair, with 件 supplying the shared unit-of-a-system sense.
 闰月	rùn yu è	Intercalary month, the extra month inserted approximately every 2–3 years (7 times in 19 years) to reconcile the lunar and solar cycles. A year with a 闰月 has 13 months.
 嗓子	sǎng zi	throat; voice
+扫码	sǎo mǎ	to scan a code — 您扫我还是我扫您? (Do you scan me or do I scan you?) is the everyday question at a till.
 商量	shāng liang	to discuss: to talk something over, to consult — 商 shāng (to consult, to confer) + 量 liang (measure, toneless here). To talk a matter over with someone before deciding: to weigh it between two minds.
 上班	shàng bān	to go to work; to be at work; on duty — 上 shàng (to mount; to attend) + 班 bān (shift; work roster; class). To show up for and engage in one's work shift. The most common word for "going to work" in daily speech. Contrast 下班 (to finish work; to get off work): the 上/下 pair governs the entire working day.
 上海	Shàng hǎi	Shanghai (city); literally upon the sea — 上 shàng (upon; on) + 海 hǎi (sea). China's largest city and busiest port, at the mouth of the Yangtze. The name reads "on the sea," fitting for a town that grew from fishing village to global harbor.
@@ -613,6 +639,7 @@
 示	shì	to show; to indicate; to reveal
 事实上	shì shí shàng	as a matter of fact
 事业	shì yè	cause; career; lifework; undertaking — 事 shì (matter; affair) + 业 yè (undertaking). The cause or career one commits to, larger and more aspirational than a job: 事业心 "career ambition," 教育事业 "the cause of education." To 干一番事业 is to accomplish something lasting with one's life.
+收到	shōu dào	received, noted — The standard acknowledgement. 好的 (hǎo de) is "okay," 明白 (míngbai) "understood," 收到，谢谢 the polite version. Acknowledging promptly is expected; silence reads as a problem.
 手表	shǒu biǎo	wristwatch: a watch worn on the wrist (錶 in traditional script) — 手 shǒu (hand; wrist) + 表 biǎo (here the instrument sense, written 錶 in traditional script). A wristwatch. This is the sense that traditional writing marks with the metal radical (錶), since a watch is a metal device whose face displays a reading. Simplified Chinese writes it 表.
 手机	shǒu jī	mobile phone — lit. "hand machine" — 手 shǒu (hand) + 机 jī (machine). China's most common word for mobile phone , the machine held in the hand. Completely replaced the earlier 手提电话 and the formal 移动电话 in everyday usage. 玩手机 wán shǒujī = "to play on one's phone" (ubiquitous activity).
 书简	shū jiǎn	(literary) letter, epistle
@@ -625,6 +652,7 @@
 说话	shuō huà	to speak; to talk; to say something — 说 shuō (to say) + 话 huà (words). The everyday verb for speaking, formed as verb-plus-object: literally "to say words." Because 话 is already the object, you do not say 说话一件事; to speak about something you use 说 alone: 说一件事.
 说几句	shuō jǐ jù	to say a few words — 说 shuō (to say) + 几 jǐ (a few) + 句 jù (measure word). To make a few brief remarks, the polite formula a speaker uses before a short toast or comment: 我想说几句 "I would like to say a few words."
 说明	shuō míng	to explain; to illustrate; explanation; instructions — 说 shuō + 明 míng (clear, bright). To make something clear through speech. As a noun: 说明书 shuōmíngshū = instruction manual. As a verb: 这说明了… = "this demonstrates/shows that…"
+司机	sī jī	driver
 四大发明	sì dà fā míng	the Four Great Inventions
 四气五味	sì qì wǔ wèi	Four temperatures and five flavors — Four temperatures and five flavors: the two-axis system for classifying drug properties. The four temperatures: cold (寒), cool (凉), warm (温), hot (热). The five flavors: sour (酸), bitter (苦), sweet (甘), pungent (辛), salty (咸). Each flavor has specific organ affinities and physiological effects.
 四声	sì shēng	the four tones (of Mandarin) — 四 sì (four) + 声 shēng (tone). The four-way tone system of standard Mandarin: high-level, rising, dipping, and falling. The neutral tone 轻声 is counted separately.
@@ -661,6 +689,7 @@
 通用	tōng yòng	general-purpose; in common use; interchangeable — 通 (general; running throughout) + 用 yòng (to use). Usable throughout, across cases: not specialized to one situation but serving generally. 通用 describes something accepted everywhere or applicable across the board: 全国通用 (valid nationwide), 通用规则 (a general rule that applies in all cases).
 通知	tōng zhī	to notify; to inform; a notice; a notification — 通 (to get through; to convey) + 知 zhī (to know; to make known). To make something known by getting word through: the standard word for an official notification and the act of giving it. Works as a verb (请通知大家, please notify everyone) and a noun (一份通知, a notice).
 童话	tóng huà	fairy tale; children's story — 童 tóng (child) + 话 huà (story). A tale told for children. Its kin 神话 shénhuà (god-story) means a myth, and 神话 and 童话 together cover the world of fabulous stories.
+退货	tuì huò	to return goods
 外表	wài biǎo	outward appearance: the way someone or something looks from outside — 外 wài (outer; outside) + 表 biǎo (surface). The outward appearance of a person or thing, especially how they look to others. Where 表面 leans toward physical surfaces and abstract superficiality, 外表 is most natural for the looks of people and objects, the impression they give at first sight.
 玩笑	wán xiào	a joke; a prank; banter — 玩 wán (to play) + 笑 xiào (laugh). Play-laughter: a joke made between people who are at ease together. 开玩笑 kāi wánxiào (to crack a joke, to be kidding) is one of the highest-frequency phrases in spoken Mandarin.
 玩笑话	wán xiào huà	words said in jest
@@ -672,6 +701,7 @@
 往年	wǎng nián	former years
 忘记	wàng jì	to forget
 微笑	wēi xiào	to smile; a smile — 微 wēi (faint; slight; minute) + 笑 xiào (laugh/smile). A small, soundless laugh: the smile. The word that names the warm, closed-lipped expression, distinct from the open-mouthed 大笑.
+尾号	wěi hào	last digits (of a phone number) — Drivers confirm the passenger by the last four digits of the phone number: 手机尾号多少? Answer with the digits one by one.
 为了	wèi le	in order to; for the sake of; for the purpose of — 为 wèi (for; toward) + 了 le (grammatical completion particle; here a suffix to 为). The standard purpose marker in modern Chinese. 为了 introduces the goal or beneficiary of an action and can appear at the start of a sentence or clause.
 为了 + 目的	wèi le + go a l	in order to; for the sake of — When the real answer is a purpose rather than a cause, use 为了, not 因为. 为了 names the goal the action serves: 为了健康，他每天跑步 ("for the sake of health, he runs every day"). Asking specifically about purpose, you can use 为了什么 ("to what end").
 文化大革命	Wén huà Dà gé mìng	Cultural Revolution (1966–1976) — 文化 (cultural) + 大 (great) + 革命 gémìng (revolution). The political campaign launched by Mao Zedong in 1966 to eliminate "bourgeois" and "counterrevolutionary" elements from Chinese society and culture.
@@ -717,6 +747,7 @@
 询问	xún wèn	to inquire; to ask about; to seek information — 询 xún (to inquire) + 问 wèn (to ask). A formal verb for asking in order to gather information, common in writing and service contexts: 询问情况 "to inquire about the situation," 向某人询问 "to make inquiries of someone."
 训练	xùn liàn	to train; training — 训 (to instruct, to discipline) + 练 (to drill). Organized, directed training: athletes, soldiers, dogs, new staff. Heavier and more institutional than 练习.
 押解	yā jiè	to escort (a prisoner) under guard — 押 yā (to detain; to hold) + 解 jiè. The clearest home of the second reading jiè. To escort a prisoner or valuables under guard from one place to another: 押解犯人 = escort a prisoner; the related 解送 jièsòng = send under escort.
+严重	yán zhòng	serious — Say plainly how serious it is; understatement is heard as "not urgent." 影响很大 (the impact is large) and 不能接受 (bù néng jiēshòu, cannot be accepted) are firm without being rude.
 演	yǎn	to act; to perform; to develop
 演唱	yǎn chàng	to perform (a song); vocal performance — 演 yǎn (to perform) + 唱 chàng (to sing). To sing before an audience as a performance. 演唱会 yǎnchànghuì is a concert, the standard word for a pop or vocal live show.
 氧气	yǎng qì	Oxygen (as breathable gas) — Oxygen (as breathable gas): the nourishing 氧 plus 气. 缺氧 (quēyǎng) is oxygen deprivation, used literally at altitude and figuratively for stuffy rooms and dull meetings.
@@ -738,10 +769,12 @@
 伊	yī	she (literary, classical, regional) — The classical and Wu-dialect "she." In the 1917 debate, some intellectuals advocated reviving 伊 instead of coining 她, since 伊 already had a feminine reading in some classical poetry and avoided the male-default asymmetry.
 遗传	yí chuán	heredity; to pass on (genetically); hereditary — 遗 yí (to leave behind) + 传 chuán (to hand down). The biological passing of traits from parent to offspring: 遗传病 "hereditary disease," 遗传基因 "the genes one inherits." The body's own version of handing something down across generations.
 疑问	yí wèn	doubt; query; an unresolved question — 疑 yí (to doubt) + 问 wèn (to ask). A question that arises from uncertainty: 毫无疑问 háo wú yíwèn "without the slightest doubt." Also the grammatical term, as in 疑问句 yíwènjù "interrogative sentence."
+已读不回	yǐ dú bù huí	read but no reply
 议论	yì lùn	to comment on; to talk about (often behind the scenes) — 议 yì (to deliberate, to propose) + 论. To comment on or talk about something, frequently with an undertone of gossip or unsolicited opinion. 议论纷纷 yìlùn fēnfēn describes a crowd buzzing with opinions. Also the name of a school essay genre: 议论文 yìlùnwén, the argumentative essay.
 因为	yīn wèi	because; due to — 因 yīn (cause; reason; because of) + 为 wèi (for; on account of). The most important conjunction in the language for expressing cause. Pairs with 所以 suǒyǐ (therefore) to form the standard causal construction: 因为 X，所以 Y (because X, therefore Y).
 音调	yīn diào	pitch
 应当	yīng dāng	ought to; should; be obliged to — 应 yīng (should) + 当 dāng (be fitting). A modal of obligation, near-identical in meaning to 应该 yīnggāi but slightly more formal, so it shows up often in rules, contracts, and writing.
+邮件	yóu jiàn	mail; email; a postal item — 邮 yóu (post; mail) + 件 jiàn (a piece). Originally any item sent through the post. In everyday modern use it most often means email: 电子邮件 diànzǐ yóujiàn (electronic mail) is regularly shortened to 邮件. To send one is 发邮件 fā yóujiàn.
 有问题	yǒu wèn tí	there's a problem; there's a question — The genuinely ambiguous phrase: it can mean "I have a question" or "there's a problem / something's wrong," and only context disambiguates. 有问题吗？after an explanation means "any questions?"; 这里有问题 about a machine means "there's a problem here."
 有希望	yǒu xī wàng	to have hope; to be promising — "There is hope," used of a situation that may yet turn out well: 病人还有希望 ("the patient still has hope"). It can also mean "promising" of a person or prospect: 这孩子很有希望 ("this child is very promising"). The negative 没有希望 ("there's no hope") and the verb 失望 ("to be let down") sit on the other side.
 于是	yú shì	thereupon; as a result; and so — 于 yú (at; in; given) + 是 (this; the situation). Classical origin: "at this point; given this situation." A narrative conjunction that advances a story , signaling consequence or the next development in a sequence. Slightly formal register.
@@ -749,27 +782,33 @@
 与	yǔ	and; with (literary)
 语法	yǔ fǎ	grammar — 语 yǔ (language; speech) + 法 fǎ (rule; law). The "law of language," the system of rules by which a language is built. The same 法 of fixed standard, here governing how words combine.
 语言	yǔ yán	language (as a system) — 语 yǔ (language; speech; to tell) + 言 yán (speech; words). The word for language as a structured system , grammar, vocabulary, and everything that makes communication possible across a community. 语言 is used in academic, formal, and everyday contexts alike. 语言学 yǔyánxué = linguistics.
+语音	yǔ yīn	voice message — Factory staff often send long voice messages. 转文字 (zhuǎn wénzì) converts a voice message to text inside WeChat (press and hold the message), and the result is easy to paste into a translator. Asking for text is acceptable when phrased as your limitation.
 预报	yù bào	forecast
 元素	yuán sù	Element — Element: "original plain-stuff." Beyond the lab it means element in the design sense too: 中国元素 (Chinese elements) is the stock phrase for Chinese motifs in fashion or film.
 原来	yuán lái	originally; as it turns out; so that's how it is — 原 yuán (original; the root; where something came from) + 来 lái (came from; arrived from). "From the original state," used in two senses. Temporal: originally, at first (他原来住在北京 = He originally lived in Beijing). Revelatory: "so that's how it is / now I understand" (原来如此！= So that's the reason!).
 原因	yuán yīn	cause; reason — 原 yuán (origin; source) + 因 yīn (cause). The standard noun for the cause or reason behind something: 失败的原因 "the reason for the failure." Its pair is 结果 jiéguǒ, the result.
+原因分析	yuán yīn fēn xī	cause analysis — The first thing to ask for. 根本原因 (gēnběn yuányīn) is the root cause; an answer like 工人操作不当 (worker error) usually is not one. Ask why the process allowed the error.
 援助	yuán zhù	aid; relief; assistance
 愿意	yuàn yì	to be willing; to want to — 愿 yuàn (to wish) + 意 yì (intent). The willingness of the heart to do something: 我愿意帮你 "I'm willing to help you." It expresses consent and readiness, not mere ability.
 越过	yu è guò	to cross over; to get past — 越 + 过 (guò, to pass). The most basic verb of crossing: a fence, a stream, a hurdle, a difficulty. Highly productive in both literal and figurative senses.
 在一起	zài yì qǐ	together (in one place); as a couple — With 在, 一起 marks being gathered in one place: 我们住在一起 ("we live together"), 把书放在一起 ("put the books together"). It also carries the romantic sense of being a couple: 他们在一起了 ("they're together now / they're dating").
 造句	zào jù	to make a sentence; to compose a sentence — 造 zào (to make; to build) + 句 jù (sentence). The classroom exercise of building a sentence to practice a new word, a verb-object compound: 用 "因为" 造句 "make a sentence with 'because'."
 噪音	zào yīn	noise — 噪 (clamor, wearing three mouths) + 音. The urban complaint word: construction 噪音, traffic 噪音, and the neighbor's renovation drill. 噪音污染 (noise pollution) is a recognized legal complaint category in Chinese cities.
+责任	zér èn	responsibility
 怎么 + 动词	zěn me + ve r b	how (to do something); in what way — The core use: placed before a verb, 怎么 asks about the method or manner of an action. 怎么走 ("how to get there"), 怎么说 ("how to say it"), 怎么用 ("how to use it").
 怎么了 · 怎么办	zěn me le zěn me bàn	what's wrong · what to do — Two fixed expressions every learner needs. 怎么了 asks "what's wrong / what happened", reacting to a change you notice, the 了 marking the new state: 你脸色怎么了？("what's up with your face / you look unwell").
 怎么样	zěn me yàng	how is it; how about it — The evaluating cousin of 怎么. It asks about a state or opinion rather than a method: 这家餐厅怎么样？("how's this restaurant?"), 你最近怎么样？("how have you been?"). It also floats a suggestion: 我们去看电影，怎么样？("let's see a movie, how about it?"). Negated, 不怎么样 means "nothing special, so-so".
 战国策	Zhàng uó Cè	Stratagems of the Warring States — the source text
 找工作	zhǎo gōng zuò	to look for a job; to job-hunt — The set phrase for job-hunting. 找 (to look for) plus 工作. Common in life and conversation, especially among graduates and people changing roles: 毕业以后我要找工作 ("after I graduate I'll look for a job"). The result of a successful search is 找到工作 ("found a job"), with 到 marking the achieved result.
 争论	zhēng lùn	to dispute; controversy
+证据	zhèng jù	evidence
 政治	zhèng zhì	governance, politics
 支持	zhī chí	to support; to back
+支付宝	Zhī fù bǎo	Alipay
 知道了	zhī dào le	got it; understood; okay — The everyday acknowledgement that you have received and registered information or an instruction. Extremely common as a one-word reply. Beware the tone: a flat or clipped 知道了 can read as impatient, like "yeah, I know already." 好的 (okay) or 明白了 (understood) are gentler alternatives.
 知识	zhī shi	knowledge; information; factual learning — 知 zhī (to know; to understand) + 识 shí (to recognize; to discern; knowledge gained through recognition). Factual, storable, transmissible knowledge , what fills textbooks, databases, and examinations. 知识分子 zhīshi fènzǐ (intellectual; educated person , lit.
 职业	zhí yè	occupation; profession; vocational — 职 zhí (post; duty) + 业 yè (work). The line of work a person practices for a living: 职业选择 "choice of profession." As a modifier it means professional or vocational: 职业运动员 "professional athlete," 职业学校 "vocational school."
+质量	zhì liàng	quality: how good something is (also physical mass) — 质 zhì (substance, nature) + 量 liàng (measure). In everyday speech 质量 is quality, the standard or grade of a product or piece of work: 质量好 (good quality), 提高质量 (to raise quality). In physics the same word is the technical term for mass. Context separates the two cleanly.
 质朴	zhì pǔ	plain, unadorned
 质问	zhì wèn	to interrogate
 中国梦	Zhōng guó mèng	the Chinese Dream

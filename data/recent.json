@@ -1,5 +1,176 @@
 [
   {
+    "path": "pages/daily/topic_canguan.html",
+    "type": "topic",
+    "category": "daily",
+    "title": "参观工厂 · The Factory Tour",
+    "desc": "What you see on a Chinese factory tour and what to ask about it: workshops, lines, warehouses, inspection points, certifications, and the questions that show whether the factory really makes your product.",
+    "tags": [
+      "business",
+      "industry",
+      "production",
+      "vocabulary"
+    ],
+    "status": "complete",
+    "pinyin": "cānguān gōngchǎng",
+    "updated": "2026-10-25",
+    "indexable": false
+  },
+  {
+    "path": "pages/daily/topic_chuxing.html",
+    "type": "topic",
+    "category": "daily",
+    "title": "出行 · Getting Around: Rail, Didi, and Paying",
+    "desc": "The logistics of a factory trip: high-speed rail tickets on a passport, hailing a Didi to an industrial zone, paying by phone, and checking into a hotel.",
+    "tags": [
+      "daily-life",
+      "technology",
+      "vocabulary"
+    ],
+    "status": "complete",
+    "pinyin": "chūxíng",
+    "updated": "2026-10-25",
+    "indexable": false
+  },
+  {
+    "path": "pages/daily/topic_fanju.html",
+    "type": "topic",
+    "category": "daily",
+    "title": "饭局 · The Business Banquet",
+    "desc": "A condensed script for the dinner after a factory visit: seating, the first toast, declining drinks without offence, the toast you give back, and leaving well.",
+    "tags": [
+      "business",
+      "etiquette",
+      "spirits",
+      "vocabulary"
+    ],
+    "status": "complete",
+    "pinyin": "fànjú",
+    "updated": "2026-10-25",
+    "indexable": false
+  },
+  {
+    "path": "pages/daily/topic_gongchang.html",
+    "type": "topic",
+    "category": "daily",
+    "title": "工厂 · Factory Words: Samples, Tooling, and QC",
+    "desc": "The working vocabulary of a Chinese factory floor, in the order a product moves through it: 打样, 封样, 开模, 大货, 验货, 出货.",
+    "tags": [
+      "business",
+      "industry",
+      "production",
+      "vocabulary"
+    ],
+    "status": "complete",
+    "pinyin": "gōngchǎng",
+    "updated": "2026-10-25",
+    "indexable": false
+  },
+  {
+    "path": "pages/daily/topic_hetong.html",
+    "type": "topic",
+    "category": "daily",
+    "title": "合同 · Contracts, Seals, and IP",
+    "desc": "The contract vocabulary a buyer needs at a Chinese factory: which language governs, which seal binds, NNN agreements, patents and trademarks, tooling ownership, penalties, and arbitration.",
+    "tags": [
+      "business",
+      "commerce",
+      "legal",
+      "vocabulary"
+    ],
+    "status": "complete",
+    "pinyin": "hétong",
+    "updated": "2026-10-25",
+    "indexable": false
+  },
+  {
+    "path": "pages/daily/topic_huitan.html",
+    "type": "topic",
+    "category": "daily",
+    "title": "会谈 · The Meeting Room",
+    "desc": "The phrases that keep a foreign buyer in control of a factory meeting: titles, openings, clarifying, pinning down commitments, and decoding a polite no.",
+    "tags": [
+      "business",
+      "commerce",
+      "etiquette",
+      "courtesy",
+      "vocabulary"
+    ],
+    "status": "complete",
+    "pinyin": "huìtán",
+    "updated": "2026-10-25",
+    "indexable": false
+  },
+  {
+    "path": "pages/daily/topic_tanjia.html",
+    "type": "topic",
+    "category": "daily",
+    "title": "谈价 · Price, Payment, and Numbers",
+    "desc": "The money half of a factory negotiation: reading a quotation, tax and invoices, trade terms, deposits and balances, haggling lines, and the numbers that trip learners up.",
+    "tags": [
+      "business",
+      "commerce",
+      "numbers",
+      "vocabulary"
+    ],
+    "status": "complete",
+    "pinyin": "tánjià",
+    "updated": "2026-10-25",
+    "indexable": false
+  },
+  {
+    "path": "pages/daily/topic_tousu.html",
+    "type": "topic",
+    "category": "daily",
+    "title": "投诉 · Quality Complaints and Claims",
+    "desc": "How to raise a quality problem with a Chinese factory firmly without costing anyone face: reporting the defect, demanding a root cause and 8D report, and negotiating who pays.",
+    "tags": [
+      "business",
+      "quality",
+      "communication",
+      "vocabulary"
+    ],
+    "status": "complete",
+    "pinyin": "tóusù",
+    "updated": "2026-10-25",
+    "indexable": false
+  },
+  {
+    "path": "pages/daily/topic_weixin.html",
+    "type": "topic",
+    "category": "daily",
+    "title": "微信 · WeChat and Written Follow-up",
+    "desc": "Where a factory relationship lives after the visit: adding contacts, the thank-you message, meeting minutes, chasing progress, and handling voice messages.",
+    "tags": [
+      "business",
+      "communication",
+      "technology",
+      "vocabulary"
+    ],
+    "status": "complete",
+    "pinyin": "Wēixìn",
+    "updated": "2026-10-25",
+    "indexable": false
+  },
+  {
+    "path": "pages/hubs/shangwu.html",
+    "type": "hub",
+    "category": "hubs",
+    "title": "商务 · Visiting a Chinese Factory: A Reading Path",
+    "desc": "The business Chinese for a buyer's factory visit, in the order you will need it: the meeting, the floor, the price, the contract, problems, the tour, the dinner, and the follow-up.",
+    "tags": [
+      "business",
+      "commerce",
+      "industry",
+      "hub"
+    ],
+    "status": "complete",
+    "pinyin": "shāngwù",
+    "updated": "2026-10-25",
+    "indexable": false,
+    "memberCount": 10
+  },
+  {
     "path": "pages/grammar/dou_mei_suoyou_都每所有.html",
     "type": "grammar",
     "category": "grammar",
@@ -183,198 +354,6 @@
     "tone": 4,
     "hsk": 2,
     "radical": "忄",
-    "updated": "2026-07-12",
-    "indexable": false
-  },
-  {
-    "path": "pages/characters/ren2_人.html",
-    "type": "character",
-    "category": "characters",
-    "title": "人 · person, humanity",
-    "desc": "Two strokes, barely changed since the oracle bones, write 人 rén; add 二 and you get 仁, Confucian benevolence.",
-    "tags": [
-      "humanity",
-      "confucianism",
-      "radical"
-    ],
-    "status": "complete",
-    "char": "人",
-    "pinyin": "rén",
-    "tone": 2,
-    "hsk": 1,
-    "radical": "人",
-    "updated": "2026-07-12",
-    "indexable": false
-  },
-  {
-    "path": "pages/characters/wei2_为.html",
-    "type": "character",
-    "category": "characters",
-    "title": "为 · to do; to act; for; because of",
-    "desc": "In oracle bone script 为 is a hand leading an elephant, and it sits at the center of Daoist 无为 non-action.",
-    "tags": [
-      "grammar",
-      "classical",
-      "taoism",
-      "philosophy",
-      "daoism",
-      "wuwei",
-      "syntax"
-    ],
-    "status": "complete",
-    "char": "为",
-    "pinyin": "wéi",
-    "tone": 2,
-    "hsk": 2,
-    "radical": "丶",
-    "updated": "2026-07-12",
-    "indexable": false
-  },
-  {
-    "path": "pages/characters/yu4_玉.html",
-    "type": "character",
-    "category": "characters",
-    "title": "玉 · jade, precious",
-    "desc": "Three jade discs on a cord, one dot away from 王 (wáng, king): the stone Confucius said was virtue made visible.",
-    "tags": [
-      "nature",
-      "culture",
-      "virtue",
-      "confucianism",
-      "aesthetics",
-      "royalty",
-      "classical"
-    ],
-    "status": "complete",
-    "char": "玉",
-    "pinyin": "yù",
-    "tone": 4,
-    "radical": "玉",
-    "updated": "2026-07-12",
-    "indexable": false
-  },
-  {
-    "path": "pages/grammar/le_了.html",
-    "type": "grammar",
-    "category": "grammar",
-    "title": "了 · the perfective particle",
-    "desc": "Post-verb 了 marks a completed action; sentence-final 了 announces a new situation, and the two can stack in one sentence.",
-    "tags": [
-      "aspect",
-      "particle",
-      "tense"
-    ],
-    "status": "complete",
-    "pinyin": "le",
-    "updated": "2026-07-12",
-    "indexable": false
-  },
-  {
-    "path": "pages/grammar/liangci_量词.html",
-    "type": "grammar",
-    "category": "grammar",
-    "title": "量词 · measure words",
-    "desc": "个, 只, 条, 本, 张: the classifier taxonomy and the logic behind it.",
-    "tags": [
-      "measure-words",
-      "classifiers",
-      "nouns"
-    ],
-    "status": "complete",
-    "pinyin": "liàngcí",
-    "updated": "2026-07-12",
-    "indexable": false
-  },
-  {
-    "path": "pages/grammar/nai_乃.html",
-    "type": "grammar",
-    "category": "grammar",
-    "title": "乃 · classical connective: then, thereupon, thus; to be; only then",
-    "desc": "Classical 乃 marks a consequence as earned, where modern 就 stays neutral; as emphatic copula it gives 失败乃成功之母 its weight.",
-    "tags": [
-      "grammar",
-      "classical",
-      "syntax",
-      "literary",
-      "classics",
-      "conjunction",
-      "rhetoric",
-      "copula"
-    ],
-    "status": "complete",
-    "pinyin": "nǎi",
-    "updated": "2026-07-12",
-    "indexable": false
-  },
-  {
-    "path": "pages/grammar/zhi_之.html",
-    "type": "grammar",
-    "category": "grammar",
-    "title": "之 · classical genitive, nominalizer, and pronoun",
-    "desc": "之 zhī did the work of 'of', 'him/her/it', and 'the one who' in classical Chinese; it survives in 之间, 之后, and 总之.",
-    "tags": [
-      "grammar",
-      "classical",
-      "syntax",
-      "literary",
-      "particle",
-      "classics"
-    ],
-    "status": "complete",
-    "pinyin": "zhī",
-    "updated": "2026-07-12",
-    "indexable": false
-  },
-  {
-    "path": "pages/grammar/zhi_者.html",
-    "type": "grammar",
-    "category": "grammar",
-    "title": "者 · classical nominalizer \"the one who; that which\"",
-    "desc": "者 zhě turns any verb into \"the one who\": 学者 scholar, 读者 reader, 作者 author, unchanged since the Analects.",
-    "tags": [
-      "grammar",
-      "classical",
-      "syntax",
-      "literary",
-      "compounds"
-    ],
-    "status": "complete",
-    "pinyin": "zhě",
-    "updated": "2026-07-12",
-    "indexable": false
-  },
-  {
-    "path": "pages/history/topic_keju.html",
-    "type": "topic",
-    "category": "history",
-    "title": "科举 · The Imperial Examination System",
-    "desc": "The exam that selected China's officials for 1,300 years, from the Sui in 605 CE to abolition in 1905.",
-    "tags": [
-      "history",
-      "confucianism",
-      "tang",
-      "song",
-      "ming",
-      "qing"
-    ],
-    "status": "complete",
-    "pinyin": "kē jǔ",
-    "updated": "2026-07-12",
-    "indexable": false
-  },
-  {
-    "path": "pages/history/topic_qingchao.html",
-    "type": "topic",
-    "category": "history",
-    "title": "清朝 · The Qing Dynasty",
-    "desc": "Invited through Shanhai Pass in 1644, the Manchus ruled China for 268 years, until the 1911 revolution ended imperial rule.",
-    "tags": [
-      "qing",
-      "manchu",
-      "decline"
-    ],
-    "status": "complete",
-    "pinyin": "qīngcháo",
     "updated": "2026-07-12",
     "indexable": false
   }
