@@ -1,9 +1,9 @@
 {
-  "generated": "2026-10-25T21:30:44.021Z",
+  "generated": "2026-10-25T23:00:44.155Z",
   "summary": {
     "errors": 0,
     "warnings": 172,
-    "info": 1325
+    "info": 1328
   },
   "findings": [
     {
@@ -75,7 +75,7 @@
       "level": "WARN",
       "category": "factual",
       "file": "data/_reference/hanzi-facts.json",
-      "msg": "66 hanzi appear in content/ but have no reference entry: 珪説㚔変気禪醍醐喫㕣剣謌郷図匃壊抔鶏楽価単続暦歴経顔竜麪牀歬朖亖呬祂牜囍臓曜蝎読…. Claims about these characters cannot be mechanically verified. Run 'npm run refresh:reference' after updating upstream data."
+      "msg": "74 hanzi appear in content/ but have no reference entry: 珪説㚔変気禪醍醐喫㕣剣謌郷図匃壊抔鶏楽価単続暦歴経顔竜麪牀歬朖亖呬祂牜囍臓曜蝎読…. Claims about these characters cannot be mechanically verified. Run 'npm run refresh:reference' after updating upstream data."
     },
     {
       "level": "WARN",
@@ -3517,6 +3517,13 @@
     {
       "level": "INFO",
       "category": "formatting",
+      "file": "content/daily/topic_shuibei.md",
+      "msg": "14 vocab cards contain Chinese text but no pinyin span (.card-py)",
+      "fix": "Add <span class=\"card-py\">…</span> to each card entry"
+    },
+    {
+      "level": "INFO",
+      "category": "formatting",
       "file": "content/daily/topic_shuzi.md",
       "msg": "6 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
@@ -4365,7 +4372,7 @@
       "level": "INFO",
       "category": "formatting",
       "file": "content/hubs/shangwu.md",
-      "msg": "10 vocab cards contain Chinese text but no pinyin span (.card-py)",
+      "msg": "11 vocab cards contain Chinese text but no pinyin span (.card-py)",
       "fix": "Add <span class=\"card-py\">…</span> to each card entry"
     },
     {
@@ -5709,7 +5716,7 @@
       "level": "INFO",
       "category": "seo",
       "file": "_global",
-      "msg": "340 complete pages missing seo_title — default title leads with CJK and may lose English-SERP clicks. See SEO tab on the admin dashboard for the list.",
+      "msg": "341 complete pages missing seo_title — default title leads with CJK and may lose English-SERP clicks. See SEO tab on the admin dashboard for the list.",
       "fix": "Add seo_title to frontmatter. See templates/_drafting/SEO.md for the pattern."
     },
     {
@@ -5751,6 +5758,13 @@
       "level": "INFO",
       "category": "seo",
       "file": "content/daily/topic_huitan.md",
+      "msg": "missing seo_title — default title leads with CJK and loses English-SERP clicks",
+      "fix": "Add seo_title to frontmatter. See templates/_drafting/SEO.md for the pattern."
+    },
+    {
+      "level": "INFO",
+      "category": "seo",
+      "file": "content/daily/topic_shuibei.md",
       "msg": "missing seo_title — default title leads with CJK and loses English-SERP clicks",
       "fix": "Add seo_title to frontmatter. See templates/_drafting/SEO.md for the pattern."
     },
@@ -8096,7 +8110,7 @@
       "level": "INFO",
       "category": "seo",
       "file": "_global",
-      "msg": "340 complete pages missing seo_desc — default desc is hero copy, not SERP copy. See SEO tab on the admin dashboard for the list.",
+      "msg": "341 complete pages missing seo_desc — default desc is hero copy, not SERP copy. See SEO tab on the admin dashboard for the list.",
       "fix": "Add seo_desc as a complete-sentence answer to the natural-language query the page targets."
     },
     {
@@ -8138,6 +8152,13 @@
       "level": "INFO",
       "category": "seo",
       "file": "content/daily/topic_huitan.md",
+      "msg": "missing seo_desc — default desc is hero copy, not SERP copy",
+      "fix": "Add seo_desc as a complete-sentence answer to the natural-language query the page targets."
+    },
+    {
+      "level": "INFO",
+      "category": "seo",
+      "file": "content/daily/topic_shuibei.md",
       "msg": "missing seo_desc — default desc is hero copy, not SERP copy",
       "fix": "Add seo_desc as a complete-sentence answer to the natural-language query the page targets."
     },

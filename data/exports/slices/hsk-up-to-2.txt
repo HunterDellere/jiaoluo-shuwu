@@ -1488,6 +1488,7 @@
 电影票	diàn yǐng piào	movie ticket: a ticket for a film screening — 电影 diànyǐng (film; movie) + 票 piào (ticket). A cinema ticket. The 票 here pulls double duty: it admits you to the hall and assigns you a seat. The takings a film earns at the box office are its 票房 piàofáng, literally the ticket room, the modern measure of a movie's success.
 电子	diàn zǐ	electronic; electron — 电 diàn (electric) + 子 zǐ (small particle; child). As a physics term: the electron. As a prefix: electronic, digital. 电子产品 = electronics (products). 电子书 = e-book. 电子商务 = e-commerce (also shortened to 电商 diànshāng). 电子政务 = e-government. 电子竞技 = esports (also 电竞 diànjìng).
 定语	dìng yǔ	attributive modifier
+定制	dìng zhì	to customise — Logo methods for drinkware: 丝印 (screen print), 移印 (yíyìn, pad print, for curved small areas), 镭雕 (laser engraving), 热转印 (rèzhuǎnyìn, heat transfer, for full-colour wraps), 水转印 (water transfer). Each has its own MOQ and wear resistance.
 丢脸	diū liǎn	to lose moral face; to be shamed; disgraceful — More severe than 丢面子. 丢脸 involves an element of moral failure , betrayal, cheating, acting in ways that contradict one's stated principles. Can affect not just the individual but their family and group. The scope is broader and the damage more lasting than simple social embarrassment.
 丢面子	diū miàn zi	to lose face; to be publicly embarrassed — 丢 diū (to lose; to throw away , the losing of something you once had). To lose face is not merely to feel embarrassed privately; it is to have one's standing visibly diminished in the eyes of others. The public, witnessed nature of face-loss is what makes it significant.
 东北	dōng běi	Northeast; Manchuria — 东 (east) + 北 (north). In Chinese geography, 东北 almost always means Northeast China , the three provinces of Liaoning, Jilin, and Heilongjiang, corresponding roughly to historical Manchuria (满洲 Mǎnzhōu).
@@ -2732,6 +2733,7 @@
 散文	sǎn wén	prose; essay
 嗓子	sǎng zi	throat; voice
 骚体	sāo tǐ	The "Sao style" , the poetic tradition derived from Qu Yuan's 离骚, characterized by longer lines, the medial particle 兮 xī, lavish botanical and spiritual imagery, and the theme of exile and unrecognized virtue. One of the two foundational styles of classical Chinese poetry.
+色号	sè hào	colour code — Usually a Pantone number (潘通色号). Approve colour on the real coated steel, not on paper; 色卡 (sèkǎ) is the colour card, 色板 a coated swatch.
 山峰	shān fēng	mountain peak; summit — 山 shān + 峰 fēng (peak , itself contains 山). The redundancy is expressive emphasis. Used literally (climbing a peak) and figuratively (事业的山峰 "the peak of one's career").
 山海关	Shān hǎi guān	Shanhai Pass — eastern terminus of the Ming wall
 山河	shān hé	mountains and rivers; the land
@@ -2853,6 +2855,7 @@
 适合	shì hé	to suit; to be suited to; to fit — 适 shì (to be apt) + 合 hé (to fit). A verb taking an object: X 适合 Y means X suits Y. 这本书适合孩子 "this book is suited to children."
 适应	shì yìng	to adapt; to get used to; to suit — 适 shì (to suit) + 应 yìng (to respond, to meet). To adjust oneself to new circumstances: 适应环境 (adapt to the environment), 适应新工作 (get used to a new job). The response here is the slow one of fitting in over time.
 收到	shōu dào	received, noted — The standard acknowledgement. 好的 (hǎo de) is "okay," 明白 (míngbai) "understood," 收到，谢谢 the polite version. Acknowledging promptly is expected; silence reads as a problem.
+手板	shǒu bǎn	prototype (hand-made) — A model made before tooling, by CNC or 3D printing (3D打印), to check look and fit. It proves shape, not production quality.
 手表	shǒu biǎo	wristwatch: a watch worn on the wrist (錶 in traditional script) — 手 shǒu (hand; wrist) + 表 biǎo (here the instrument sense, written 錶 in traditional script). A wristwatch. This is the sense that traditional writing marks with the metal radical (錶), since a watch is a metal device whose face displays a reading. Simplified Chinese writes it 表.
 手工	shǒu gōng	handmade; handicraft
 手机	shǒu jī	mobile phone — lit. "hand machine" — 手 shǒu (hand) + 机 jī (machine). China's most common word for mobile phone , the machine held in the hand. Completely replaced the earlier 手提电话 and the formal 移动电话 in everyday usage. 玩手机 wán shǒujī = "to play on one's phone" (ubiquitous activity).
@@ -2879,6 +2882,7 @@
 双重	shuāng chóng	double; dual; twofold — 双 shuāng (pair; double) + 重 chóng (layer). Two layers of the same thing: 双重标准 "double standard," 双重身份 "dual identity." Here 重 is the layer-counting chóng.
 水单	shuǐ dān	bank remittance slip — The bank's proof that you sent the money, also 汇款水单. The factory will ask for it the moment you say you have paid, and production often waits for it. Send it promptly; it is the fastest way to start the lead-time clock.
 水果	shuǐ guǒ	fruit
+水壶	shuǐ hú	kettle, water bottle
 水磨腔	shuǐ mò qiāng	Water-ground tone , the smooth, polished vocal style developed by Wei Liangfu that defines 昆曲 singing. The metaphor refers to the way stone is ground by water to a perfect smoothness. Characterized by slow tempos, elaborate ornamentation, and seamless melodic flow.
 水墨	shuǐ mò	ink wash; water-and-ink; the classical Chinese painting medium — 水 shuǐ (water) + 墨 mò (ink , a slab of compressed carbon pigment, dissolved in water to create the medium). The classical Chinese painting medium: ink dissolved in varying concentrations of water, applied with a brush to paper or silk to create images through gradations of tone from dark to light.
 水墨画	shuǐ mò huà	ink-wash painting
@@ -3065,6 +3069,7 @@
 团结	tuán jié	to unite; unity; solidarity — 团 tuán (round; group) + 结 jié (to bind). To draw a group tightly together into one body: 团结一致 "united as one." Used of teams, communities, and nations holding together against difficulty.
 团体	tuán tǐ	organization; group
 推手	tuī shǒu	pushing hands — the partner practice of Tai Chi
+退火	tuì huǒ	annealing — Slow controlled cooling that removes internal stress. Poor annealing is a cause of bottles cracking under temperature changes later. 应力 (yìnglì) is stress; a 应力仪 (stress viewer) shows it as coloured bands.
 退热	tuì rè	to bring down a fever — 退 (tuì, to recede) plus 热 (heat, fever): to make the fever fall. The word on a fever-reducing medicine box and what a worried parent waits for through the night.
 脱离	tuō lí	to break away from, to detach from — 脱 (tuō, to shed, to slip off) plus 离 (to part). To break free of a tie, a danger, or a group. Stronger than 离开: it implies cutting a connection, not just walking out.
 驼队	tuó duì	camel train

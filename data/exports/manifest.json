@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-25T21:58:29.947Z",
+  "generated": "2026-10-25T23:00:39.161Z",
   "files": [
     {
       "file": "pleco-characters.txt",
@@ -23,13 +23,13 @@
       "file": "pleco-compounds.txt",
       "format": "pleco",
       "type": "compounds",
-      "count": 4982
+      "count": 5005
     },
     {
       "file": "pleco-all.txt",
       "format": "pleco",
       "type": "all",
-      "count": 6779
+      "count": 6802
     },
     {
       "file": "anki-characters.tsv",
@@ -53,7 +53,7 @@
       "file": "anki-compounds.tsv",
       "format": "anki-tsv",
       "type": "compounds",
-      "count": 4982
+      "count": 5005
     },
     {
       "file": "characters.apkg",
@@ -77,13 +77,13 @@
       "file": "compounds.apkg",
       "format": "anki-apkg",
       "type": "compounds",
-      "count": 4982
+      "count": 5005
     },
     {
       "file": "all.apkg",
       "format": "anki-apkg",
       "type": "all",
-      "count": 6779
+      "count": 6802
     }
   ],
   "slices": [
@@ -171,15 +171,15 @@
       "cn": "词组",
       "dimension": "type",
       "criterion": "compound",
-      "description": "All 4982 compound cards in the corpus.",
-      "count": 4982,
+      "description": "All 5005 compound cards in the corpus.",
+      "count": 5005,
       "apkg": "slices/type-compound.apkg",
       "pleco": "slices/type-compound.txt",
       "hskBreakdown": {
-        "unknown": 915,
-        "hsk-3": 970,
-        "hsk-1": 1242,
-        "hsk-2": 1511,
+        "unknown": 931,
+        "hsk-3": 972,
+        "hsk-1": 1244,
+        "hsk-2": 1514,
         "hsk-5": 74,
         "hsk-4": 261,
         "hsk-6": 9
@@ -192,11 +192,11 @@
       "dimension": "hsk",
       "criterion": 1,
       "description": "Just HSK level 1 on its own (authored or inferred from constituent characters).",
-      "count": 1636,
+      "count": 1638,
       "apkg": "slices/hsk-1.apkg",
       "pleco": "slices/hsk-1.txt",
       "hskBreakdown": {
-        "hsk-1": 1636
+        "hsk-1": 1638
       }
     },
     {
@@ -206,11 +206,11 @@
       "dimension": "hsk",
       "criterion": 2,
       "description": "Just HSK level 2 on its own (authored or inferred from constituent characters).",
-      "count": 2170,
+      "count": 2173,
       "apkg": "slices/hsk-2.apkg",
       "pleco": "slices/hsk-2.txt",
       "hskBreakdown": {
-        "hsk-2": 2170
+        "hsk-2": 2173
       }
     },
     {
@@ -220,11 +220,11 @@
       "dimension": "hsk",
       "criterion": 3,
       "description": "Just HSK level 3 on its own (authored or inferred from constituent characters).",
-      "count": 1362,
+      "count": 1364,
       "apkg": "slices/hsk-3.apkg",
       "pleco": "slices/hsk-3.txt",
       "hskBreakdown": {
-        "hsk-3": 1362
+        "hsk-3": 1364
       }
     },
     {
@@ -276,11 +276,11 @@
       "dimension": "hsk-ladder",
       "criterion": 1,
       "description": "Just HSK 1 — the foundation deck for absolute beginners.",
-      "count": 1636,
+      "count": 1638,
       "apkg": "slices/hsk-up-to-1.apkg",
       "pleco": "slices/hsk-up-to-1.txt",
       "hskBreakdown": {
-        "hsk-1": 1636
+        "hsk-1": 1638
       }
     },
     {
@@ -290,12 +290,12 @@
       "dimension": "hsk-ladder",
       "criterion": 2,
       "description": "Cumulative deck: every card from HSK 1 up to and including HSK 2.",
-      "count": 3806,
+      "count": 3811,
       "apkg": "slices/hsk-up-to-2.apkg",
       "pleco": "slices/hsk-up-to-2.txt",
       "hskBreakdown": {
-        "hsk-1": 1636,
-        "hsk-2": 2170
+        "hsk-1": 1638,
+        "hsk-2": 2173
       }
     },
     {
@@ -305,13 +305,13 @@
       "dimension": "hsk-ladder",
       "criterion": 3,
       "description": "Cumulative deck: every card from HSK 1 up to and including HSK 3.",
-      "count": 5168,
+      "count": 5175,
       "apkg": "slices/hsk-up-to-3.apkg",
       "pleco": "slices/hsk-up-to-3.txt",
       "hskBreakdown": {
-        "hsk-1": 1636,
-        "hsk-2": 2170,
-        "hsk-3": 1362
+        "hsk-1": 1638,
+        "hsk-2": 2173,
+        "hsk-3": 1364
       }
     },
     {
@@ -321,13 +321,13 @@
       "dimension": "hsk-ladder",
       "criterion": 4,
       "description": "Cumulative deck: every card from HSK 1 up to and including HSK 4.",
-      "count": 5672,
+      "count": 5679,
       "apkg": "slices/hsk-up-to-4.apkg",
       "pleco": "slices/hsk-up-to-4.txt",
       "hskBreakdown": {
-        "hsk-1": 1636,
-        "hsk-2": 2170,
-        "hsk-3": 1362,
+        "hsk-1": 1638,
+        "hsk-2": 2173,
+        "hsk-3": 1364,
         "hsk-4": 504
       }
     },
@@ -338,13 +338,13 @@
       "dimension": "hsk-ladder",
       "criterion": 5,
       "description": "Cumulative deck: every card from HSK 1 up to and including HSK 5.",
-      "count": 5827,
+      "count": 5834,
       "apkg": "slices/hsk-up-to-5.apkg",
       "pleco": "slices/hsk-up-to-5.txt",
       "hskBreakdown": {
-        "hsk-1": 1636,
-        "hsk-2": 2170,
-        "hsk-3": 1362,
+        "hsk-1": 1638,
+        "hsk-2": 2173,
+        "hsk-3": 1364,
         "hsk-4": 504,
         "hsk-5": 155
       }
@@ -356,13 +356,13 @@
       "dimension": "hsk-ladder",
       "criterion": 6,
       "description": "Cumulative deck: every card from HSK 1 up to and including HSK 6.",
-      "count": 5839,
+      "count": 5846,
       "apkg": "slices/hsk-up-to-6.apkg",
       "pleco": "slices/hsk-up-to-6.txt",
       "hskBreakdown": {
-        "hsk-1": 1636,
-        "hsk-2": 2170,
-        "hsk-3": 1362,
+        "hsk-1": 1638,
+        "hsk-2": 2173,
+        "hsk-3": 1364,
         "hsk-4": 504,
         "hsk-5": 155,
         "hsk-6": 12
@@ -1013,16 +1013,33 @@
       "cn": "生意",
       "dimension": "tag",
       "criterion": "business",
-      "description": "Cards tagged business — 157 entries.",
-      "count": 157,
+      "description": "Cards tagged business — 181 entries.",
+      "count": 181,
       "apkg": "slices/tag-business.apkg",
       "pleco": "slices/tag-business.txt",
       "hskBreakdown": {
         "hsk-4": 4,
-        "hsk-1": 32,
-        "unknown": 46,
-        "hsk-2": 43,
-        "hsk-3": 32
+        "hsk-1": 34,
+        "unknown": 62,
+        "hsk-2": 46,
+        "hsk-3": 35
+      }
+    },
+    {
+      "slug": "tag-engineering",
+      "name": "Engineering",
+      "cn": "工程",
+      "dimension": "tag",
+      "criterion": "engineering",
+      "description": "Cards tagged engineering — 35 entries.",
+      "count": 35,
+      "apkg": "slices/tag-engineering.apkg",
+      "pleco": "slices/tag-engineering.txt",
+      "hskBreakdown": {
+        "unknown": 19,
+        "hsk-1": 5,
+        "hsk-3": 3,
+        "hsk-2": 8
       }
     },
     {
@@ -1078,22 +1095,6 @@
       }
     },
     {
-      "slug": "tag-engineering",
-      "name": "Engineering",
-      "cn": "工程",
-      "dimension": "tag",
-      "criterion": "engineering",
-      "description": "Cards tagged engineering — 9 entries.",
-      "count": 9,
-      "apkg": "slices/tag-engineering.apkg",
-      "pleco": "slices/tag-engineering.txt",
-      "hskBreakdown": {
-        "hsk-2": 4,
-        "unknown": 3,
-        "hsk-1": 2
-      }
-    },
-    {
       "slug": "tag-physics",
       "name": "Physics",
       "cn": "物理",
@@ -1117,11 +1118,11 @@
       "dimension": "intent",
       "criterion": "survival-mandarin",
       "description": "Everything an absolute beginner needs in week one: HSK 1 vocab, basic characters, foundational grammar (是/不是, 有/没有, 在), question words, numbers.",
-      "count": 1652,
+      "count": 1654,
       "apkg": "slices/intent-survival-mandarin.apkg",
       "pleco": "slices/intent-survival-mandarin.txt",
       "hskBreakdown": {
-        "hsk-1": 1636,
+        "hsk-1": 1638,
         "hsk-2": 16
       }
     },
@@ -1191,12 +1192,12 @@
       "dimension": "intent",
       "criterion": "ordering-food",
       "description": "Get fed: food and drink characters (吃 喝 饭 茶 菜 …), dining verbs (要 想 来), and culinary vocabulary.",
-      "count": 537,
+      "count": 538,
       "apkg": "slices/intent-ordering-food.apkg",
       "pleco": "slices/intent-ordering-food.txt",
       "hskBreakdown": {
         "hsk-2": 101,
-        "hsk-1": 200,
+        "hsk-1": 201,
         "hsk-3": 116,
         "hsk-5": 10,
         "hsk-4": 16,
@@ -1367,16 +1368,16 @@
       "dimension": "intent",
       "criterion": "doing-business",
       "description": "The office, the deal, and the banquet: company words (公司 老板 客户), contracts and negotiation, money verbs, and the etiquette vocabulary that closes deals.",
-      "count": 330,
+      "count": 354,
       "apkg": "slices/intent-doing-business.apkg",
       "pleco": "slices/intent-doing-business.txt",
       "hskBreakdown": {
-        "hsk-3": 70,
-        "hsk-2": 112,
-        "hsk-1": 57,
+        "hsk-3": 73,
+        "hsk-2": 115,
+        "hsk-1": 59,
         "hsk-5": 5,
         "hsk-4": 5,
-        "unknown": 81
+        "unknown": 97
       }
     },
     {
@@ -1386,15 +1387,15 @@
       "dimension": "intent",
       "criterion": "factory-visit",
       "description": "Every card from the factory-visit series: the meeting room, factory floor words, price and payment, contracts, quality complaints, the tour, the banquet, WeChat follow-up, and getting around.",
-      "count": 165,
+      "count": 189,
       "apkg": "slices/intent-factory-visit.apkg",
       "pleco": "slices/intent-factory-visit.txt",
       "hskBreakdown": {
         "hsk-4": 4,
-        "hsk-1": 33,
-        "unknown": 54,
-        "hsk-2": 42,
-        "hsk-3": 32
+        "hsk-1": 35,
+        "unknown": 70,
+        "hsk-2": 45,
+        "hsk-3": 35
       }
     },
     {
@@ -1423,13 +1424,13 @@
       "dimension": "intent",
       "criterion": "digital-life",
       "description": "Phones, computers, and the Chinese internet: the 电 and 网 word families, apps and payments, and the durable core of online slang.",
-      "count": 822,
+      "count": 823,
       "apkg": "slices/intent-digital-life.apkg",
       "pleco": "slices/intent-digital-life.txt",
       "hskBreakdown": {
         "hsk-2": 334,
         "hsk-1": 164,
-        "hsk-3": 155,
+        "hsk-3": 156,
         "hsk-4": 61,
         "unknown": 102,
         "hsk-5": 6
@@ -1442,16 +1443,16 @@
       "dimension": "intent",
       "criterion": "stem-vocabulary",
       "description": "Math, physics, chemistry, astronomy, biology, and engineering terms — the transparent compounds Chinese built its scientific lexicon from.",
-      "count": 223,
+      "count": 249,
       "apkg": "slices/intent-stem-vocabulary.apkg",
       "pleco": "slices/intent-stem-vocabulary.txt",
       "hskBreakdown": {
-        "hsk-1": 61,
-        "hsk-3": 47,
+        "hsk-1": 64,
+        "hsk-3": 50,
         "hsk-4": 23,
-        "hsk-2": 57,
+        "hsk-2": 61,
         "hsk-5": 4,
-        "unknown": 31
+        "unknown": 47
       }
     }
   ]

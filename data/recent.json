@@ -102,6 +102,24 @@
     "indexable": false
   },
   {
+    "path": "pages/daily/topic_shuibei.html",
+    "type": "topic",
+    "category": "daily",
+    "title": "水杯 · How a Bottle Is Made",
+    "desc": "The process vocabulary of a drinkware factory: forming and welding a stainless vacuum bottle, how the vacuum is made and tested, lids and plastic parts, glass, food-contact standards, and custom branding.",
+    "tags": [
+      "business",
+      "industry",
+      "production",
+      "engineering",
+      "vocabulary"
+    ],
+    "status": "complete",
+    "pinyin": "shuǐbēi",
+    "updated": "2026-10-25",
+    "indexable": false
+  },
+  {
     "path": "pages/daily/topic_tanjia.html",
     "type": "topic",
     "category": "daily",
@@ -157,7 +175,7 @@
     "type": "hub",
     "category": "hubs",
     "title": "商务 · Visiting a Chinese Factory: A Reading Path",
-    "desc": "The business Chinese for a buyer's factory visit, in the order you will need it: the meeting, the floor, the price, the contract, problems, the tour, the dinner, and the follow-up.",
+    "desc": "The business Chinese for a buyer's factory visit, in the order you will need it: the meeting, the floor, the product, the price, the contract, problems, the tour, the dinner, and the follow-up.",
     "tags": [
       "business",
       "commerce",
@@ -168,7 +186,7 @@
     "pinyin": "shāngwù",
     "updated": "2026-10-25",
     "indexable": false,
-    "memberCount": 10
+    "memberCount": 11
   },
   {
     "path": "pages/grammar/dou_mei_suoyou_都每所有.html",
@@ -334,26 +352,6 @@
     "tone": 2,
     "hsk": 1,
     "radical": "禾",
-    "updated": "2026-07-12",
-    "indexable": false
-  },
-  {
-    "path": "pages/characters/kuai4_快.html",
-    "type": "character",
-    "category": "characters",
-    "title": "快 · fast, happy",
-    "desc": "快 joins 忄 (heart) to 夬 (a decisive cut): speed and joy are the same image, a heart running without drag.",
-    "tags": [
-      "emotion",
-      "daily-life",
-      "adjectives"
-    ],
-    "status": "complete",
-    "char": "快",
-    "pinyin": "kuài",
-    "tone": 4,
-    "hsk": 2,
-    "radical": "忄",
     "updated": "2026-07-12",
     "indexable": false
   }

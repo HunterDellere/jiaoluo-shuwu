@@ -35,12 +35,17 @@
 帮我翻译一下	bāng wǒ fān yì yí xià	please translate this for me — For your interpreter, or for the English-speaking salesperson when the engineer goes too fast. Using an interpreter for one hard passage and Chinese for the rest is common and costs no face.
 包间	bāo jiān	private dining room
 包装	bāo zhuāng	packaging — 彩盒 (cǎihé) is the retail colour box, 内盒 the inner box, 外箱 (wàixiāng) the master carton, 装箱数 the units per carton. 唛头 (màitóu), from English "mark," is the shipping mark printed on cartons. 跌落测试 (diēluò cèshì) is the drop test.
+保冷	bǎo lěng	keeps cold
 保密协议	bǎo mì xié yì	confidentiality agreement — The general term for an NDA. NNN协议 is the China-specific form. Ask for it to be signed and sealed before you send drawings, not after.
+保温杯	bǎo wēn bēi	vacuum bottle
+保温效果	bǎo wēn xiào guǒ	insulation performance — The Chinese national standard for stainless vacuum cups, GB/T 29606, defines a test with water at 95°C measured after a set number of hours. Specify the conditions when you compare claims: starting temperature, fill level, lid on, room temperature, hours.
 报价	bào jià	quotation
 报价单	bào jià dān	quotation sheet — 报价 (bàojià) is both the verb "to quote" and the noun "quote." Ask for it in writing, line by line: 分项报价 (fēnxiàng bàojià) is an itemised quote that breaks out the product, packaging, tooling, and printing.
+杯盖	bēi gài	lid — Most leaks and most complaints are in the lid, not the steel. Types: 螺旋盖 (screw cap), 弹跳盖 (tántiào gài, flip or push-button lid), 吸管盖 (xīguǎn gài, straw lid), 茶隔 (chágé, tea strainer). Each moving part is another seal to test.
 毕业	bì yè	to graduate; graduation — 毕 bì (to finish; to complete) + 业 yè (studies). To complete one's course of study: 大学毕业 "to graduate from university," 毕业典礼 "graduation ceremony." A separable verb, so the object slots in the middle: 毕了业 "have graduated."
 便宜一点	pián yi yì diǎn	a bit cheaper — The basic request, best softened. 价格有点高 (the price is a bit high) states the problem without accusing; 还有空间吗 (is there still room?) invites a counteroffer without naming one.
 表面处理	biǎo miàn chǔ lǐ	surface finish — The finishing family: 抛光 (pāoguāng) polishing, 电解 (diànjiě) electrolytic polishing for liners, 喷涂 (pēntú) spray painting, 喷粉 (pēnfěn) powder coating, 丝印 (sīyìn) screen printing, 镭雕 (léidiāo) laser engraving. 涂层 (túcéng) is the coating itself; 掉漆 (diàoqī) is paint coming off.
+玻璃	bō li	glass
 不良率	bù liáng lǜ	defect rate — Percentage of defective units; 良品率 or 良率 (liánglǜ) is the yield, its complement. 不良品 (bùliángpǐn) and 次品 (cìpǐn) are defective goods. Agree an acceptable rate in the contract and what happens above it.
 不太会喝酒	bú tài huì hē jiǔ	not much of a drinker — Decide before the dinner whether you drink, and say it early with a reason that leaves no one at fault: health, medication, an early meeting, or driving. Once you have drunk one toast, refusing the next is harder.
 不谈生意	bù tán shēng yi	no business talk — Price is rarely negotiated at the table, but the boss may ask a soft question about volume or the future. Answer warmly and without numbers; numbers belong in the meeting room the next day.
@@ -48,6 +53,7 @@
 菜系	cài xì	cuisine school; culinary lineage — Cuisine system , the term for a recognized regional cooking tradition. The 八大菜系 (eight great cuisine systems) are the canonical eight, though culinary scholars recognize anywhere from four to dozens of regional traditions.
 蚕丝	cán sī	Silk thread , literally "silkworm thread — Silk thread , literally "silkworm thread." The raw fiber before weaving. 蚕 is the silkworm; 丝 is the thread.
 仓库	cāng kù	warehouse — 原材料仓 raw-material store, 成品仓 finished-goods store. A tidy warehouse with labelled batches (标识 biāoshí) is a good sign of traceability.
+测温	cè wēn	temperature screening — After vacuuming, each bottle is filled with hot water and its outer wall checked by hand or infrared (红外 hóngwài) to catch failed vacuums. It catches gross failures on the day, not slow leaks, which is why a sample is also held for a longer test (放置 fàngzhì, left to stand) before shipment.
 叉烧	chā shāo	Char Siu — Cantonese BBQ Pork
 茶餐厅	chá cān tīng	Cha chaan teng — Cha chaan teng: the quintessential Hong Kong casual restaurant, serving a fusion menu of Cantonese and Western-influenced dishes: milk tea, pineapple buns (菠萝包 bōluóbāo), egg tarts, congee, rice dishes, and Hong Kong-style French toast.
 茶黄素	chá huáng sù	theaflavins — the brightness compounds of black tea
@@ -67,6 +73,7 @@
 川菜	chuān cài	Sichuan cuisine — 川 chuān (Sichuan) + 菜 cài (cuisine). The cooking of Sichuan, famous for the numbing-spicy 麻辣 málà of Sichuan peppercorn and chili. 麻婆豆腐 and 回锅肉 are classic 川菜 dishes.
 创业	chuàng yè	to start a business; to found a venture; to pioneer — 创 chuàng (to create; to initiate) + 业 yè (undertaking). To found something from the ground up, whether a company or a larger enterprise: 自主创业 "to start one's own business," 创业公司 "a startup." Carries the flavor of building where nothing stood before.
 创作	chuàng zuò	to create (art)
+吹制	chuī zhì	blown (by hand or mouth) — Borosilicate bottles are either 人工吹制 (hand-blown) or 机制 (jīzhì, machine-made). Hand-blown pieces vary more in wall thickness and weight; machine-made are more consistent and cheaper at volume.
 打样	dǎ yàng	to make a sample; sampling — The verb for producing samples before an order. 打样费 (dǎyàngfèi) is the sampling fee, often refunded against the first order; 打样周期 is how long sampling takes.
 打折	dǎ zhé	to give a discount — 折 counts tenths of the price you pay, not the amount taken off. 八折 means you pay eight tenths, a 20% discount. Learners hear "eight" and think "80% off." In a negotiation 点 (diǎn, a percentage point) is more common than 折 for small moves.
 大货	dà huò	bulk goods, the production run — Floor slang for the main order as opposed to samples. 大货生产 is bulk production, 大货样 a unit pulled from it. The word appears in nearly every merchandiser message: 大货已经上线了 means your order is on the line.
@@ -75,9 +82,12 @@
 当作	dàng zuò	to treat as; to regard as; to take for — 当 dàng (to equate) + 作 zuò (to make, to do). To regard X as Y: 把困难当作机会 (treat difficulty as opportunity). A near-synonym is 当成 dàngchéng. Note the falling tone, which marks it apart from level-tone dāng.
 点心	diǎn xīn	Dim sum — Dim sum: small Cantonese dishes served with tea in the teahouse tradition. The term literally means "touch the heart." Dim sum culture grew from the Cantonese tea-drinking and commercial meeting tradition of Guangdong and Hong Kong and is now the most internationally recognized format of Chinese com…
 电汇	diàn huì	wire transfer (T/T) — "Electric remittance," usually just called T/T. 信用证 (xìnyòngzhèng) is a letter of credit (L/C), slower and more paperwork, with the bank standing between the parties.
+电解	diàn jiě	electropolishing — Smooths the inside of the liner so it cleans easily and resists staining and odour. Ask whether every liner is electropolished or only polished mechanically.
 订单	dìng dān	order
 订金	dìng jīn	advance payment
+定制	dìng zhì	to customise — Logo methods for drinkware: 丝印 (screen print), 移印 (yíyìn, pad print, for curved small areas), 镭雕 (laser engraving), 热转印 (rèzhuǎnyìn, heat transfer, for full-colour wraps), 水转印 (water transfer). Each has its own MOQ and wear resistance.
 豆腐	dòu fu	tofu — a cross-cuisine staple appearing in nearly every regional school
+镀铜	dù tóng	copper plating — On the outside of the liner, inside the vacuum gap, where it reflects heat. It never touches the drink. Ask whether it is used, since it changes insulation performance at the same wall thickness.
 敦煌	Dūn huáng	Dunhuang
 二维码	èr wéi mǎ	QR code
 发酵	fā jiào	oxidation (lit. "fermentation") — the enzymatic browning step
@@ -118,6 +128,9 @@
 供应	gōng yìng	to supply; to provide; supply — 供 gōng (to provide) + 应 yìng (to meet a need). To supply goods or services to meet a demand: 供应商 (supplier), 供应链 (supply chain), 供不应求 (supply falls short of demand). The yìng here is the answering of a need with provision.
 供应链	gōng yìng liàn	supply chain
 供应商	gōng yìng shāng	supplier
+管材	guǎn cái	tube stock — Bodies are made either from welded tube (管材, cut to length) or drawn from sheet (板材 bǎncái). Tube needs a lengthwise seam weld; a drawn body has no side seam. Both work; the question is how the seam is finished and checked.
+光谱仪	guāng pǔ yí	spectrometer — A handheld analyser gives a material reading in seconds on the floor. Ask to see it on a liner from your own production.
+硅胶	guī jiāo	silicone
 硅胶圈	guī jiāo quān	silicone seal ring — 硅胶 (guījiāo) is silicone; 密封圈 (mìfēngquān) is any sealing ring or gasket. Food-grade silicone should not smell; 异味 (yìwèi, an odd smell) and 发黄 (fāhuáng, yellowing) are the common complaints. 漏水 (lòushuǐ) is a leak.
 贵公司	guì gōng sī	your company (honorific) — The polite way to refer to the other side's company; 贵厂 (guì chǎng) for a factory. Your own side is plain 我们公司 or 我们. 贵 is the same character as "expensive," here meaning "honoured."
 海上	hǎi shàng	maritime
@@ -141,6 +154,7 @@
 会议纪要	huì yì jì yào	meeting minutes — A short written summary of decisions, owners, and dates, sent the same day. Offering to write it yourself means your version becomes the record. 白纸黑字 (báizhǐ hēizì, "black ink on white paper") is the idiom for having it in writing.
 货物	huò wù	goods; cargo; merchandise — 货 huò (goods; commodity) + 物 wù (thing). Goods as freight or stock in trade, the things that move through commerce: 运送货物 "to transport goods," 货物清单 "a manifest of cargo."
 镬气	huò qì	wok breath; the scorched aroma of high-heat cooking
+激光焊	jī guāng hàn	laser welding — The usual way to join liner and shell at the mouth; 氩弧焊 (yàhúhàn, TIG welding) is the older method. 焊缝 (hànfèng) is the weld seam. A weld that is not fully sealed (焊不牢 or 虚焊 xūhàn, a false weld) lets air back in and the bottle loses its insulation weeks later.
 加工	jiā gōng	to process; to manufacture
 加微信	jiā Wēi xìn	to add on WeChat — 扫一扫 (sǎo yi sǎo) is "scan"; one person shows their QR code (二维码 èrwéimǎ), the other scans. 我扫你 means "I'll scan yours." 拉群 (lā qún) is to create a group chat, the norm for an order with several people on each side.
 价格	jià gé	price — 价 (price) + 格 (a fixed standard, a slot). The settled, stated price of a good, the figure printed on the tag or quoted by the seller. The everyday word for what something costs.
@@ -204,6 +218,7 @@
 品牌	pǐn pái	brand
 企业	qǐ yè	enterprise; firm; company (as an organization) — 企 qǐ (to stand on tiptoe; to aspire) + 业 yè (undertaking). A business organization: 国有企业 "state-owned enterprise," 私营企业 "private enterprise," 企业家 "entrepreneur." The standard term for a firm as a legal and economic body.
 起订量	qǐ dìng liàng	minimum order quantity (MOQ) — "Order-starting quantity," often per colour or per SKU rather than per order. Ask which. Factories will usually trade a lower MOQ for a higher unit price.
+气泡	qì pào	bubble (in glass) — With 结石 (jiéshí, stones, unmelted particles) and 冷纹 (lěngwén, cold marks), the visual defects to agree limits for, by size and number per piece.
 签字	qiān zì	to sign
 桥梁	qiáo liáng	bridge; bridging structure — Bridge, in the formal engineering register (spoken Chinese just says 桥). Used figuratively exactly as in English: a person or institution can be a 桥梁 between two sides.
 秦朝	qín cháo	the Qin dynasty
@@ -220,9 +235,11 @@
 让价	ràng jià	to concede on price — 让 is "to yield." 让利 (rànglì) is giving up margin; 降价 (jiàngjià) is simply lowering the price, 涨价 (zhǎngjià) raising it, 还价 (huánjià) making a counteroffer. 底价 (dǐjià) is the floor price a side will not go below.
 人民币	rén mín bì	renminbi, RMB
 认证	rèn zhèng	certification — ISO 9001 is 质量管理体系认证 (the quality management system certificate). 验厂 (yànchǎng) is a factory audit, such as BSCI for social compliance. Check the certificate's 有效期 and that the company name matches the one you are contracting with.
+容量	róng liàng	capacity: how much a container or system can hold — 容 róng (to contain, to hold) + 量 liàng (amount). The maximum a vessel, device, or system can take in: a bottle's volume, a battery's charge, a hard drive's storage, a hall's seating. 电池容量 (battery capacity), 硬盘容量 (disk capacity), 存储容量 (storage capacity).
 儒家	Rú jiā	Confucianism — the school of ritual and moral cultivation — Founded by Confucius (孔子 Kǒngzǐ, 551–479 BCE). Core values: 仁 rén (benevolence/humaneness), 礼 lǐ (ritual propriety), 义 yì (righteousness), 忠 zhōng (loyalty), 孝 xiào (filial piety).
 儒术	rú shù	Confucian learning / doctrine
 三国	Sāng uó	the Three Kingdoms; the era of three rival states — 三 sān + 国 guó (kingdom; state; country). The Three Kingdoms period (220–280 CE), when China split into Wei (魏), Shu (蜀), and Wu (吴) after the collapse of the Han dynasty.
+色号	sè hào	colour code — Usually a Pantone number (潘通色号). Approve colour on the real coated steel, not on paper; 色卡 (sèkǎ) is the colour card, 色板 a coated swatch.
 商标	shāng biāo	trademark
 商队	shāng duì	merchant caravan
 商量一下	shāng liang yí xià	to talk it over — The deferral. Buys time without saying no, and is the expected answer to any significant new proposal. Name when you will reply so it does not read as a brush-off.
@@ -246,9 +263,11 @@
 事业	shì yè	cause; career; lifework; undertaking — 事 shì (matter; affair) + 业 yè (undertaking). The cause or career one commits to, larger and more aspirational than a job: 事业心 "career ambition," 教育事业 "the cause of education." To 干一番事业 is to accomplish something lasting with one's life.
 试模	shì mú	mold trial; first shots — Running the new tool for the first time. Rounds are numbered T1, T2, T3, said as letters plus Chinese numbers (T一, T二). Each round produces parts to measure; the goal is to stop modifying.
 收到	shōu dào	received, noted — The standard acknowledgement. 好的 (hǎo de) is "okay," 明白 (míngbai) "understood," 收到，谢谢 the polite version. Acknowledging promptly is expected; silence reads as a problem.
+手板	shǒu bǎn	prototype (hand-made) — A model made before tooling, by CNC or 3D printing (3D打印), to check look and fit. It proves shape, not production quality.
 数学	shù xu é	Mathematics — Mathematics: number-study. 数学家 (shùxuéjiā) is a mathematician; 数学课 (shùxué kè) is math class, the collocation every student uses daily.
 数字系统	shù zì xì tǒng	the number system
 水单	shuǐ dān	bank remittance slip — The bank's proof that you sent the money, also 汇款水单. The factory will ask for it the moment you say you have paid, and production often waits for it. Send it promptly; it is the fastest way to start the lead-time clock.
+水壶	shuǐ hú	kettle, water bottle
 说慢一点	shuō màn yì diǎn	speak a little slower — Lead with 不好意思 (bù hǎoyìsi, "excuse me") to soften it. Most people slow down for one sentence and then speed back up; asking twice is fine.
 说文解字	Shuō wén Jiě zì	Explaining Simple and Analyzing Compound Characters
 丝	sī	silk thread
@@ -256,6 +275,7 @@
 司马迁	Sī mǎ Qiān	Sima Qian
 四大发明	sì dà fā míng	the Four Great Inventions
 送礼	sòng lǐ	to give a gift — 送 (give) plus 礼 (gift, ritual courtesy). A separable verb-object pair for the social act of presenting a present, with all the etiquette that surrounds it in Chinese life.
+塑料	sù liào	plastic — PP (聚丙烯 jùbǐngxī) is the common, cheap lid plastic. Tritan (said as the English name) is a clear, rigid copolyester marketed as 不含双酚A (bù hán shuāngfēn A, BPA-free). Ask for the resin supplier's certificate, since "Tritan" on a quote can mean something else in the part.
 太学	Tài xu é	Imperial Academy
 谈价	tán jià	price negotiation
 谈判	tán pàn	To negotiate; negotiation — To negotiate; negotiation. Formal register, used for deals and diplomacy alike. Everyday haggling is 讨价还价; you 谈判 a joint venture, you 讨价还价 over a jacket.
@@ -264,6 +284,7 @@
 条款	tiáo kuǎn	clause, term — 第五条 (dì-wǔ tiáo) is Article 5. 补充协议 (bǔchōng xiéyì) is a supplementary agreement, the usual way to add terms later. 附件 (fùjiàn) is an annex, where specifications and drawings belong.
 通过	tōng guò	to pass through; to get past; by means of; via — 通 (to go through) + 过 guò (to cross; to pass). The everyday verb for getting through something: passing through a gate, passing an exam, a motion passing a vote.
 图纸	tú zhǐ	technical drawing — 2D drawings with dimensions; 3D文件 or 3D图 (sān-D tú) for the model file, usually STEP. 以图纸为准 ("the drawing governs") is the sentence that settles arguments, so make sure the drawing is the latest version.
+退火	tuì huǒ	annealing — Slow controlled cooling that removes internal stress. Poor annealing is a cause of bottles cracking under temperature changes later. 应力 (yìnglì) is stress; a 应力仪 (stress viewer) shows it as coloured bands.
 退货	tuì huò	to return goods
 驼队	tuó duì	camel train
 外发	wài fā	to send out (to a subcontractor) — The question the tour exists to answer. A factory that sends out a step is not necessarily hiding anything, but you need to know, because quality on that step is out of its direct control.
@@ -274,6 +295,7 @@
 纬	wěi	weft thread; latitude
 乌龙茶	wū lóng chá	oolong — also begins with a controlled wither
 误会	wù huì	misunderstanding — Frames a disagreement as a communication gap rather than bad faith, which lets the other side correct course without losing face. Use it even when you suspect it was no accident.
+吸管	xī guǎn	straw
 西域	xī yù	the Western Regions
 消费	xiāo fèi	to consume; consumption (opposite of production)
 消费者	xiāo fèi zhě	consumer
@@ -287,6 +309,7 @@
 玄奘	Xuán zàng	the monk who walked to India — Tang Buddhism's greatest figure — The monk 玄奘 Xuánzàng (602–664 CE) traveled overland to India in 629 CE , without imperial authorization, defying a travel ban , spent sixteen years there studying at Nalanda and other Buddhist centers, and returned to Chang'an in 645 CE carrying 657 Sanskrit texts.
 学业	xu é yè	studies; schoolwork; academic work — 学 xué (to learn) + 业 yè (course of work). One's studies taken as a whole: 完成学业 "to complete one's studies," 学业成绩 "academic results." The general term for the body of work a student carries.
 严重	yán zhòng	serious — Say plainly how serious it is; understatement is heard as "not urgent." 影响很大 (the impact is large) and 不能接受 (bù néng jiēshòu, cannot be accepted) are firm without being rude.
+盐雾测试	yán wù cè shì	salt spray test — Tests corrosion resistance of the steel and the coating, measured in hours. The usual companions: 洗碗机测试 (xǐwǎnjī cèshì, dishwasher cycles), 百格测试 (cross-hatch adhesion), 耐磨测试 (abrasion), 跌落测试 (drop), 倒置漏水测试 (dàozhì, upside-down leak test).
 验货	yàn huò	goods inspection — Inspection before shipment, by your own staff or a 第三方 (dì-sān fāng, third party). 抽检 (chōujiǎn) is sampling inspection, usually by AQL level; 全检 (quánjiǎn) is 100% inspection. 来料检验 checks incoming materials.
 样品间	yàng pǐn jiān	sample room
 一带一路	yī dài yī lù	Belt and Road Initiative
@@ -320,6 +343,7 @@
 质量	zhì liàng	quality: how good something is (also physical mass) — 质 zhì (substance, nature) + 量 liàng (measure). In everyday speech 质量 is quality, the standard or grade of a product or piece of work: 质量好 (good quality), 提高质量 (to raise quality). In physics the same word is the technical term for mass. Context separates the two cleanly.
 仲裁	zhòng cái	arbitration — A foreign court judgment is hard to enforce in China, while an arbitration award can be enforced under the New York Convention. Many contracts name 中国国际经济贸易仲裁委员会 (CIETAC) or the Hong Kong (HKIAC) or Singapore (SIAC) centres. 管辖 (guǎnxiá) is jurisdiction; 适用法律 (shìyòng fǎlǜ) the governing law.
 周朝	Zhōu Cháo	the Zhou dynasty
+注塑缺陷	zhù sù qu ē xiàn	injection-molding defects — 缩水 (suōshuǐ) sink marks, 飞边 (fēibiān) flash, 熔接线 (róngjiēxiàn) weld lines, 浇口 (jiāokǒu) the gate mark where plastic entered, 气纹 flow marks. Name them precisely in a complaint.
 专利	zhuān lì	patent — China has three kinds: 发明专利 (fāmíng zhuānlì) invention patents, 实用新型 (shíyòng xīnxíng) utility models for structural improvements, and 外观设计 (wàiguān shèjì) design patents for appearance.
 专业	zhuān yè	major; specialty; professional, specialized — 专 zhuān (to specialize; sole) + 业 yè (field of study). As a noun, the major one studies: 我的专业是历史 "my major is history." As an adjective, professional or specialized: 专业知识 "specialized knowledge," 很专业 "very professional."
 转口港	zhuǎn kǒu gǎng	Entrepôt , a port where goods are imported, stored, and re-exported without significant processing. Hong Kong's entire colonial economic logic was entrepôt trade, and it retains this function today as a major transshipment hub alongside its role as a financial center.
