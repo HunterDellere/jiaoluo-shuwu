@@ -8267,6 +8267,9 @@
     },
     "pages/daily/topic_weixin.html": {
       "voices": {}
+    },
+    "pages/daily/topic_shuibei.html": {
+      "voices": {}
     }
   },
   "inline": {
@@ -104013,6 +104016,132 @@
     "7f808cec5d2e9002": {
       "text": "模板",
       "pinyin": "múbǎn",
+      "kind": "section",
+      "voices": {}
+    },
+    "73531b79040ed197": {
+      "text": "管材",
+      "pinyin": "guǎncái",
+      "kind": "compound",
+      "voices": {}
+    },
+    "e26e72a0a8826426": {
+      "text": "激光焊",
+      "pinyin": "jīguānghàn",
+      "kind": "compound",
+      "voices": {}
+    },
+    "1a6343141a943871": {
+      "text": "电解",
+      "pinyin": "diànjiě",
+      "kind": "compound",
+      "voices": {}
+    },
+    "e9bef9b95848e140": {
+      "text": "测温",
+      "pinyin": "cèwēn",
+      "kind": "compound",
+      "voices": {}
+    },
+    "b4c2d2e503c1fe69": {
+      "text": "镀铜",
+      "pinyin": "dùtóng",
+      "kind": "compound",
+      "voices": {}
+    },
+    "a1aca3a6017e9e7b": {
+      "text": "保温效果",
+      "pinyin": "bǎowēn xiàoguǒ",
+      "kind": "compound",
+      "voices": {}
+    },
+    "41c42722a5c1f1e9": {
+      "text": "杯盖",
+      "pinyin": "bēigài",
+      "kind": "compound",
+      "voices": {}
+    },
+    "978e0870a94f9035": {
+      "text": "塑料",
+      "pinyin": "sùliào",
+      "kind": "compound",
+      "voices": {}
+    },
+    "0c01bc43ee2f8c09": {
+      "text": "注塑缺陷",
+      "pinyin": "zhùsù quēxiàn",
+      "kind": "compound",
+      "voices": {}
+    },
+    "55cac336d6f5f71d": {
+      "text": "吹制",
+      "pinyin": "chuīzhì",
+      "kind": "compound",
+      "voices": {}
+    },
+    "ada9a67aaac10bef": {
+      "text": "退火",
+      "pinyin": "tuìhuǒ",
+      "kind": "compound",
+      "voices": {}
+    },
+    "8d7f4004ef525910": {
+      "text": "气泡",
+      "pinyin": "qìpào",
+      "kind": "compound",
+      "voices": {}
+    },
+    "28cec13079373ea5": {
+      "text": "光谱仪",
+      "pinyin": "guāngpǔyí",
+      "kind": "compound",
+      "voices": {}
+    },
+    "7c34fa0d2b982069": {
+      "text": "盐雾测试",
+      "pinyin": "yánwù cèshì",
+      "kind": "compound",
+      "voices": {}
+    },
+    "4b74898b3b329432": {
+      "text": "定制",
+      "pinyin": "dìngzhì",
+      "kind": "compound",
+      "voices": {}
+    },
+    "3df6aba4d973eb67": {
+      "text": "手板",
+      "pinyin": "shǒubǎn",
+      "kind": "compound",
+      "voices": {}
+    },
+    "1f270ce353efe0cc": {
+      "text": "色号",
+      "pinyin": "sèhào",
+      "kind": "compound",
+      "voices": {}
+    },
+    "183c8938442d06a2": {
+      "text": "成型",
+      "pinyin": "chéngxíng",
+      "kind": "section",
+      "voices": {}
+    },
+    "cf64f0d627d46bee": {
+      "text": "真空",
+      "pinyin": "zhēnkōng",
+      "kind": "section",
+      "voices": {}
+    },
+    "d7ba40ed833034f3": {
+      "text": "玻璃",
+      "pinyin": "bōli",
+      "kind": "section",
+      "voices": {}
+    },
+    "76f97a97d08f00d5": {
+      "text": "测试",
+      "pinyin": "cèshì",
       "kind": "section",
       "voices": {}
     }
