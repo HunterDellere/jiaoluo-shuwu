@@ -8240,6 +8240,33 @@
     },
     "pages/grammar/shitai_时态.html": {
       "voices": {}
+    },
+    "pages/daily/topic_canguan.html": {
+      "voices": {}
+    },
+    "pages/daily/topic_chuxing.html": {
+      "voices": {}
+    },
+    "pages/daily/topic_fanju.html": {
+      "voices": {}
+    },
+    "pages/daily/topic_gongchang.html": {
+      "voices": {}
+    },
+    "pages/daily/topic_hetong.html": {
+      "voices": {}
+    },
+    "pages/daily/topic_huitan.html": {
+      "voices": {}
+    },
+    "pages/daily/topic_tanjia.html": {
+      "voices": {}
+    },
+    "pages/daily/topic_tousu.html": {
+      "voices": {}
+    },
+    "pages/daily/topic_weixin.html": {
+      "voices": {}
     }
   },
   "inline": {
@@ -41531,7 +41558,7 @@
     "d311866e5e115d1a": {
       "text": "生产",
       "pinyin": "shēngchǎn",
-      "kind": "compound",
+      "kind": "section",
       "voices": {
         "xiaoxiao": {
           "hash": "fe25bd6b3c2c",
@@ -103212,6 +103239,780 @@
     "a32b40c08244f06b": {
       "text": "时态对照表",
       "pinyin": "shítài duìzhào biǎo",
+      "kind": "section",
+      "voices": {}
+    },
+    "986d369f572ef3fd": {
+      "text": "车间",
+      "pinyin": "chējiān",
+      "kind": "compound",
+      "voices": {}
+    },
+    "92bed6b8d45ab810": {
+      "text": "生产线",
+      "pinyin": "shēngchǎnxiàn",
+      "kind": "compound",
+      "voices": {}
+    },
+    "ea8a6ce1b80fbf37": {
+      "text": "设备",
+      "pinyin": "shèbèi",
+      "kind": "compound",
+      "voices": {}
+    },
+    "64fb3897e1ad8685": {
+      "text": "仓库",
+      "pinyin": "cāngkù",
+      "kind": "compound",
+      "voices": {}
+    },
+    "3f63cf57b3afed74": {
+      "text": "质检",
+      "pinyin": "zhìjiǎn",
+      "kind": "compound",
+      "voices": {}
+    },
+    "aed5749a684db362": {
+      "text": "认证",
+      "pinyin": "rènzhèng",
+      "kind": "compound",
+      "voices": {}
+    },
+    "3e5d519bba45fc5f": {
+      "text": "外发",
+      "pinyin": "wàifā",
+      "kind": "compound",
+      "voices": {}
+    },
+    "11062b3f129df2d0": {
+      "text": "班",
+      "pinyin": "bān",
+      "kind": "compound",
+      "voices": {}
+    },
+    "48592b13c1178edf": {
+      "text": "客户",
+      "pinyin": "kèhù",
+      "kind": "compound",
+      "voices": {}
+    },
+    "0849736a0bc31bea": {
+      "text": "高铁",
+      "pinyin": "gāotiě",
+      "kind": "compound",
+      "voices": {}
+    },
+    "1fae9b94cf6a7af8": {
+      "text": "车次",
+      "pinyin": "chēcì",
+      "kind": "compound",
+      "voices": {}
+    },
+    "53e9f199abe81a0a": {
+      "text": "滴滴",
+      "pinyin": "Dīdī",
+      "kind": "compound",
+      "voices": {}
+    },
+    "bb2b4c3b4ec61c7b": {
+      "text": "尾号",
+      "pinyin": "wěihào",
+      "kind": "compound",
+      "voices": {}
+    },
+    "47656d9fd583d383": {
+      "text": "扫码",
+      "pinyin": "sǎomǎ",
+      "kind": "compound",
+      "voices": {}
+    },
+    "6afc53742950a207": {
+      "text": "入住",
+      "pinyin": "rùzhù",
+      "kind": "compound",
+      "voices": {}
+    },
+    "ca4dd7e510b2d1fe": {
+      "text": "打车",
+      "pinyin": "dǎchē",
+      "kind": "section",
+      "voices": {}
+    },
+    "f96f3921287650af": {
+      "text": "付款",
+      "pinyin": "fùkuǎn",
+      "kind": "section",
+      "voices": {}
+    },
+    "e44e7831d1415d4b": {
+      "text": "请坐",
+      "pinyin": "qǐng zuò",
+      "kind": "compound",
+      "voices": {}
+    },
+    "ae463e9eacd1c015": {
+      "text": "招待",
+      "pinyin": "zhāodài",
+      "kind": "compound",
+      "voices": {}
+    },
+    "274b0d34f24a1b4d": {
+      "text": "不太会喝酒",
+      "pinyin": "bú tài huì hē jiǔ",
+      "kind": "compound",
+      "voices": {}
+    },
+    "03946c422d1dac63": {
+      "text": "敬",
+      "pinyin": "jìng",
+      "kind": "compound",
+      "voices": {}
+    },
+    "1545ab07353f15e3": {
+      "text": "菜",
+      "pinyin": "cài",
+      "kind": "compound",
+      "voices": {}
+    },
+    "aa9f0bc0dbd80805": {
+      "text": "不谈生意",
+      "pinyin": "bù tán shēngyi",
+      "kind": "compound",
+      "voices": {}
+    },
+    "e15ea35a410f7c08": {
+      "text": "聊天",
+      "pinyin": "liáotiān",
+      "kind": "section",
+      "voices": {}
+    },
+    "c2ed1d90d96665f6": {
+      "text": "打样",
+      "pinyin": "dǎyàng",
+      "kind": "compound",
+      "voices": {}
+    },
+    "fa1c4fc77897bcfd": {
+      "text": "确认样",
+      "pinyin": "quèrènyàng",
+      "kind": "compound",
+      "voices": {}
+    },
+    "95ad685b1654d8d5": {
+      "text": "封样",
+      "pinyin": "fēngyàng",
+      "kind": "compound",
+      "voices": {}
+    },
+    "f2a2f70306b9e2ee": {
+      "text": "产前样",
+      "pinyin": "chǎnqiányàng",
+      "kind": "compound",
+      "voices": {}
+    },
+    "6fc95aa6d5e97579": {
+      "text": "开模",
+      "pinyin": "kāimú",
+      "kind": "compound",
+      "voices": {}
+    },
+    "248119cbae700642": {
+      "text": "模具费",
+      "pinyin": "mújùfèi",
+      "kind": "compound",
+      "voices": {}
+    },
+    "fe5ac68dfbd6e08e": {
+      "text": "试模",
+      "pinyin": "shìmú",
+      "kind": "compound",
+      "voices": {}
+    },
+    "d546afd5d6f8020c": {
+      "text": "改模",
+      "pinyin": "gǎimú",
+      "kind": "compound",
+      "voices": {}
+    },
+    "6db7c1c1f04449bd": {
+      "text": "图纸",
+      "pinyin": "túzhǐ",
+      "kind": "compound",
+      "voices": {}
+    },
+    "c12f2dbc6423da0f": {
+      "text": "公差",
+      "pinyin": "gōngchā",
+      "kind": "compound",
+      "voices": {}
+    },
+    "a3c683e850aaa449": {
+      "text": "尺寸",
+      "pinyin": "chǐcùn",
+      "kind": "compound",
+      "voices": {}
+    },
+    "69592dca95fd7631": {
+      "text": "不锈钢",
+      "pinyin": "bùxiùgāng",
+      "kind": "compound",
+      "voices": {}
+    },
+    "4a9a3777aa077935": {
+      "text": "真空保温",
+      "pinyin": "zhēnkōng bǎowēn",
+      "kind": "compound",
+      "voices": {}
+    },
+    "c57c1303cb890a62": {
+      "text": "高硼硅玻璃",
+      "pinyin": "gāopéngguī bōli",
+      "kind": "compound",
+      "voices": {}
+    },
+    "58e60d23f53b901b": {
+      "text": "硅胶圈",
+      "pinyin": "guījiāo quān",
+      "kind": "compound",
+      "voices": {}
+    },
+    "f71eb32a1e33ffff": {
+      "text": "表面处理",
+      "pinyin": "biǎomiàn chǔlǐ",
+      "kind": "compound",
+      "voices": {}
+    },
+    "f69f45fa171d8697": {
+      "text": "验货",
+      "pinyin": "yànhuò",
+      "kind": "compound",
+      "voices": {}
+    },
+    "04b3724a4782a5ef": {
+      "text": "不良率",
+      "pinyin": "bùliánglǜ",
+      "kind": "compound",
+      "voices": {}
+    },
+    "6f2b062e62402549": {
+      "text": "返工",
+      "pinyin": "fǎngōng",
+      "kind": "compound",
+      "voices": {}
+    },
+    "ad6e31570a3c6efc": {
+      "text": "检测报告",
+      "pinyin": "jiǎncè bàogào",
+      "kind": "compound",
+      "voices": {}
+    },
+    "2fbcc234fffaba87": {
+      "text": "起订量",
+      "pinyin": "qǐdìngliàng",
+      "kind": "compound",
+      "voices": {}
+    },
+    "b13ade4b83f7056b": {
+      "text": "交期",
+      "pinyin": "jiāoqī",
+      "kind": "compound",
+      "voices": {}
+    },
+    "62000942b1ab986c": {
+      "text": "产能",
+      "pinyin": "chǎnnéng",
+      "kind": "compound",
+      "voices": {}
+    },
+    "08e9413a1aad13de": {
+      "text": "包装",
+      "pinyin": "bāozhuāng",
+      "kind": "compound",
+      "voices": {}
+    },
+    "8a9ff7dd071a39b9": {
+      "text": "大货",
+      "pinyin": "dàhuò",
+      "kind": "compound",
+      "voices": {}
+    },
+    "f6d53bafee2cc3fa": {
+      "text": "流程",
+      "pinyin": "liúchéng",
+      "kind": "section",
+      "voices": {}
+    },
+    "1161d098176a3777": {
+      "text": "模具",
+      "pinyin": "mújù",
+      "kind": "section",
+      "voices": {}
+    },
+    "0ec9fb7faec35213": {
+      "text": "材质",
+      "pinyin": "cáizhì",
+      "kind": "section",
+      "voices": {}
+    },
+    "b76ca559515f088e": {
+      "text": "品质",
+      "pinyin": "pǐnzhì",
+      "kind": "section",
+      "voices": {}
+    },
+    "43e75dcbbfd4cedf": {
+      "text": "以中文版为准",
+      "pinyin": "yǐ Zhōngwén bǎn wéi zhǔn",
+      "kind": "compound",
+      "voices": {}
+    },
+    "70a5fb5ab7351b85": {
+      "text": "条款",
+      "pinyin": "tiáokuǎn",
+      "kind": "compound",
+      "voices": {}
+    },
+    "b34216fdc3c881b4": {
+      "text": "公章",
+      "pinyin": "gōngzhāng",
+      "kind": "compound",
+      "voices": {}
+    },
+    "3d72b1ec48087a0d": {
+      "text": "保密协议",
+      "pinyin": "bǎomì xiéyì",
+      "kind": "compound",
+      "voices": {}
+    },
+    "a1a5ba4e2269575c": {
+      "text": "专利",
+      "pinyin": "zhuānlì",
+      "kind": "compound",
+      "voices": {}
+    },
+    "133aab9d6041a923": {
+      "text": "模具归属",
+      "pinyin": "mújù guīshǔ",
+      "kind": "compound",
+      "voices": {}
+    },
+    "710fd222628954c4": {
+      "text": "违约金",
+      "pinyin": "wéiyuējīn",
+      "kind": "compound",
+      "voices": {}
+    },
+    "7637e9fed20bf341": {
+      "text": "质保期",
+      "pinyin": "zhìbǎoqī",
+      "kind": "compound",
+      "voices": {}
+    },
+    "13e655870a9356a1": {
+      "text": "仲裁",
+      "pinyin": "zhòngcái",
+      "kind": "compound",
+      "voices": {}
+    },
+    "1835bbd7bd2a9c59": {
+      "text": "合同",
+      "pinyin": "hétong",
+      "kind": "section",
+      "voices": {}
+    },
+    "c7b74883aca90019": {
+      "text": "知识产权",
+      "pinyin": "zhīshi chǎnquán",
+      "kind": "section",
+      "voices": {}
+    },
+    "2863fa08fbe244bc": {
+      "text": "违约",
+      "pinyin": "wéiyuē",
+      "kind": "section",
+      "voices": {}
+    },
+    "2ff12c112b68f1f8": {
+      "text": "幸会",
+      "pinyin": "xìnghuì",
+      "kind": "compound",
+      "voices": {}
+    },
+    "c1103d4b19781647": {
+      "text": "请多关照",
+      "pinyin": "qǐng duō guānzhào",
+      "kind": "compound",
+      "voices": {}
+    },
+    "ad9f5556044343c4": {
+      "text": "辛苦了",
+      "pinyin": "xīnkǔ le",
+      "kind": "compound",
+      "voices": {}
+    },
+    "4a674669afa58927": {
+      "text": "今天主要想谈",
+      "pinyin": "jīntiān zhǔyào xiǎng tán",
+      "kind": "compound",
+      "voices": {}
+    },
+    "88a780f24926a7bc": {
+      "text": "贵公司",
+      "pinyin": "guì gōngsī",
+      "kind": "compound",
+      "voices": {}
+    },
+    "7a0954fe483e70b2": {
+      "text": "说慢一点",
+      "pinyin": "shuō màn yìdiǎn",
+      "kind": "compound",
+      "voices": {}
+    },
+    "08ae8a67f0bf02a8": {
+      "text": "写下来",
+      "pinyin": "xiě xiàlái",
+      "kind": "compound",
+      "voices": {}
+    },
+    "351a8855507585b8": {
+      "text": "您的意思是",
+      "pinyin": "nín de yìsi shì",
+      "kind": "compound",
+      "voices": {}
+    },
+    "b4aafba0b2ecb15c": {
+      "text": "什么意思",
+      "pinyin": "shénme yìsi",
+      "kind": "compound",
+      "voices": {}
+    },
+    "29fc2649833304b9": {
+      "text": "帮我翻译一下",
+      "pinyin": "bāng wǒ fānyì yíxià",
+      "kind": "compound",
+      "voices": {}
+    },
+    "979bbd2aeec501a2": {
+      "text": "确认一下",
+      "pinyin": "quèrèn yíxià",
+      "kind": "compound",
+      "voices": {}
+    },
+    "ad2821098d85d27d": {
+      "text": "负责",
+      "pinyin": "fùzé",
+      "kind": "compound",
+      "voices": {}
+    },
+    "73bdc352f1b7aa68": {
+      "text": "会议纪要",
+      "pinyin": "huìyì jìyào",
+      "kind": "compound",
+      "voices": {}
+    },
+    "1991e1e13ca992bb": {
+      "text": "取决于",
+      "pinyin": "qǔjué yú",
+      "kind": "compound",
+      "voices": {}
+    },
+    "e9d6204bafccce69": {
+      "text": "实话实说",
+      "pinyin": "shíhuà shíshuō",
+      "kind": "compound",
+      "voices": {}
+    },
+    "6627190cf79ffbe7": {
+      "text": "原则上同意",
+      "pinyin": "yuánzé shang tóngyì",
+      "kind": "compound",
+      "voices": {}
+    },
+    "099582a4f9fd4003": {
+      "text": "商量一下",
+      "pinyin": "shāngliang yíxià",
+      "kind": "compound",
+      "voices": {}
+    },
+    "1748685c7c0b1518": {
+      "text": "接受不了",
+      "pinyin": "jiēshòu bù liǎo",
+      "kind": "compound",
+      "voices": {}
+    },
+    "cfbeacb9e8b3d65e": {
+      "text": "误会",
+      "pinyin": "wùhuì",
+      "kind": "compound",
+      "voices": {}
+    },
+    "b3b2f547c3338796": {
+      "text": "长期合作",
+      "pinyin": "chángqī hézuò",
+      "kind": "compound",
+      "voices": {}
+    },
+    "b4ed94abe38ec115": {
+      "text": "会谈",
+      "pinyin": "huìtán",
+      "kind": "section",
+      "voices": {}
+    },
+    "6c4e661c0df2cf7a": {
+      "text": "开场",
+      "pinyin": "kāichǎng",
+      "kind": "section",
+      "voices": {}
+    },
+    "b074e461306b5216": {
+      "text": "潜台词",
+      "pinyin": "qiántáicí",
+      "kind": "section",
+      "voices": {}
+    },
+    "f8c18a60dc43ab56": {
+      "text": "表态",
+      "pinyin": "biǎotài",
+      "kind": "section",
+      "voices": {}
+    },
+    "d8add7e06eb9aee0": {
+      "text": "收尾",
+      "pinyin": "shōuwěi",
+      "kind": "section",
+      "voices": {}
+    },
+    "c70ffeb7e5f4cb61": {
+      "text": "报价单",
+      "pinyin": "bàojiàdān",
+      "kind": "compound",
+      "voices": {}
+    },
+    "6298eeba15b1e497": {
+      "text": "单价",
+      "pinyin": "dānjià",
+      "kind": "compound",
+      "voices": {}
+    },
+    "98e8a39c170044c3": {
+      "text": "有效期",
+      "pinyin": "yǒuxiàoqī",
+      "kind": "compound",
+      "voices": {}
+    },
+    "276f45d9f6ecc8d4": {
+      "text": "阶梯价",
+      "pinyin": "jiētījià",
+      "kind": "compound",
+      "voices": {}
+    },
+    "ac0590767ae6c5c2": {
+      "text": "成本",
+      "pinyin": "chéngběn",
+      "kind": "compound",
+      "voices": {}
+    },
+    "ca345a0b64f89289": {
+      "text": "含税",
+      "pinyin": "hánshuì",
+      "kind": "compound",
+      "voices": {}
+    },
+    "3711ada3eadb63b3": {
+      "text": "出口退税",
+      "pinyin": "chūkǒu tuìshuì",
+      "kind": "compound",
+      "voices": {}
+    },
+    "3b7a80da842f390f": {
+      "text": "离岸价",
+      "pinyin": "lí'ànjià",
+      "kind": "compound",
+      "voices": {}
+    },
+    "fc5303f4c6898698": {
+      "text": "运费",
+      "pinyin": "yùnfèi",
+      "kind": "compound",
+      "voices": {}
+    },
+    "e38b5a83a7574f50": {
+      "text": "尾款",
+      "pinyin": "wěikuǎn",
+      "kind": "compound",
+      "voices": {}
+    },
+    "28afa9c26fec3802": {
+      "text": "电汇",
+      "pinyin": "diànhuì",
+      "kind": "compound",
+      "voices": {}
+    },
+    "64b751411cbcd590": {
+      "text": "水单",
+      "pinyin": "shuǐdān",
+      "kind": "compound",
+      "voices": {}
+    },
+    "57f45449ee5392de": {
+      "text": "账户",
+      "pinyin": "zhànghù",
+      "kind": "compound",
+      "voices": {}
+    },
+    "84016a2ba5b9c027": {
+      "text": "便宜一点",
+      "pinyin": "piányi yìdiǎn",
+      "kind": "compound",
+      "voices": {}
+    },
+    "5d34873c343166bb": {
+      "text": "目标价",
+      "pinyin": "mùbiāojià",
+      "kind": "compound",
+      "voices": {}
+    },
+    "2c5b4c108eebfd0a": {
+      "text": "如果……就……",
+      "pinyin": "rúguǒ … jiù …",
+      "kind": "compound",
+      "voices": {}
+    },
+    "c0ce1857e34beebe": {
+      "text": "让价",
+      "pinyin": "ràngjià",
+      "kind": "compound",
+      "voices": {}
+    },
+    "f49f4870ea12aea5": {
+      "text": "块 · 毛 · 分",
+      "pinyin": "kuài · máo · fēn",
+      "kind": "compound",
+      "voices": {}
+    },
+    "e921ca2cd9660281": {
+      "text": "打折",
+      "pinyin": "dǎzhé",
+      "kind": "compound",
+      "voices": {}
+    },
+    "8933b9b53a7c9289": {
+      "text": "汇率",
+      "pinyin": "huìlǜ",
+      "kind": "compound",
+      "voices": {}
+    },
+    "030bf218b966427d": {
+      "text": "报价",
+      "pinyin": "bàojià",
+      "kind": "section",
+      "voices": {}
+    },
+    "6691033d73625333": {
+      "text": "贸易条款",
+      "pinyin": "màoyì tiáokuǎn",
+      "kind": "section",
+      "voices": {}
+    },
+    "16e62003eaf32849": {
+      "text": "讲价",
+      "pinyin": "jiǎngjià",
+      "kind": "section",
+      "voices": {}
+    },
+    "03feeabc7b285bc2": {
+      "text": "数字",
+      "pinyin": "shùzì",
+      "kind": "section",
+      "voices": {}
+    },
+    "9fca6c347f057b36": {
+      "text": "反映问题",
+      "pinyin": "fǎnyìng wèntí",
+      "kind": "compound",
+      "voices": {}
+    },
+    "e648e45b9d9ece32": {
+      "text": "原因分析",
+      "pinyin": "yuányīn fēnxī",
+      "kind": "compound",
+      "voices": {}
+    },
+    "8164b9fcc348a3cc": {
+      "text": "8D报告",
+      "pinyin": "bā-D bàogào",
+      "kind": "compound",
+      "voices": {}
+    },
+    "94152b3a71e67084": {
+      "text": "库存",
+      "pinyin": "kùcún",
+      "kind": "compound",
+      "voices": {}
+    },
+    "026f7840b9f780c1": {
+      "text": "赔偿",
+      "pinyin": "péicháng",
+      "kind": "compound",
+      "voices": {}
+    },
+    "f59dae9730fea073": {
+      "text": "扣款",
+      "pinyin": "kòukuǎn",
+      "kind": "compound",
+      "voices": {}
+    },
+    "cb3b3caf4ce3013b": {
+      "text": "分担",
+      "pinyin": "fēndān",
+      "kind": "compound",
+      "voices": {}
+    },
+    "6fe2c1543b51f08a": {
+      "text": "反馈",
+      "pinyin": "fǎnkuì",
+      "kind": "section",
+      "voices": {}
+    },
+    "3e328d13aeebcc26": {
+      "text": "索赔",
+      "pinyin": "suǒpéi",
+      "kind": "section",
+      "voices": {}
+    },
+    "fe64ca91edf7fb13": {
+      "text": "加微信",
+      "pinyin": "jiā Wēixìn",
+      "kind": "compound",
+      "voices": {}
+    },
+    "45d2bf34c13cebb8": {
+      "text": "收到",
+      "pinyin": "shōudào",
+      "kind": "compound",
+      "voices": {}
+    },
+    "ed8789062c30c6c1": {
+      "text": "语音",
+      "pinyin": "yǔyīn",
+      "kind": "compound",
+      "voices": {}
+    },
+    "8ccf03869265090c": {
+      "text": "进度",
+      "pinyin": "jìndù",
+      "kind": "compound",
+      "voices": {}
+    },
+    "c013fdc7a65fbb1c": {
+      "text": "节日祝福",
+      "pinyin": "jiérì zhùfú",
+      "kind": "compound",
+      "voices": {}
+    },
+    "7f808cec5d2e9002": {
+      "text": "模板",
+      "pinyin": "múbǎn",
       "kind": "section",
       "voices": {}
     }
