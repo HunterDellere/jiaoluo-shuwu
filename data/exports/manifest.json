@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-25T21:30:39.881Z",
+  "generated": "2026-10-25T21:58:29.947Z",
   "files": [
     {
       "file": "pleco-characters.txt",
@@ -1377,6 +1377,24 @@
         "hsk-5": 5,
         "hsk-4": 5,
         "unknown": 81
+      }
+    },
+    {
+      "slug": "intent-factory-visit",
+      "name": "Factory Visit",
+      "cn": "参观工厂",
+      "dimension": "intent",
+      "criterion": "factory-visit",
+      "description": "Every card from the factory-visit series: the meeting room, factory floor words, price and payment, contracts, quality complaints, the tour, the banquet, WeChat follow-up, and getting around.",
+      "count": 165,
+      "apkg": "slices/intent-factory-visit.apkg",
+      "pleco": "slices/intent-factory-visit.txt",
+      "hskBreakdown": {
+        "hsk-4": 4,
+        "hsk-1": 33,
+        "unknown": 54,
+        "hsk-2": 42,
+        "hsk-3": 32
       }
     },
     {

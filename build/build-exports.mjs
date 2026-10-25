@@ -237,13 +237,13 @@ const inlineChengyu = inlineAll
   .filter(c => c.kind === 'chengyu')
   .map(c => ({
     _type: 'chengyu', hanzi: c.hanzi, pinyin: c.pinyin, english: c.english,
-    desc: c.desc, hsk: '', tags: c.tags, category: 'chengyu', path: c.sources[0] || '',
+    desc: c.desc, hsk: '', tags: c.tags, category: 'chengyu', path: c.sources[0] || '', sources: c.sources,
   }));
 const compounds = inlineAll
   .filter(c => c.kind !== 'chengyu')
   .map(c => ({
     _type: 'compound', hanzi: c.hanzi, pinyin: c.pinyin, english: c.english,
-    desc: c.desc, hsk: '', tags: c.tags, category: c.category, path: c.sources[0] || '',
+    desc: c.desc, hsk: '', tags: c.tags, category: c.category, path: c.sources[0] || '', sources: c.sources,
   }));
 
 // Chengyu deck absorbs the inline chengyu — the whole point of the harvest
