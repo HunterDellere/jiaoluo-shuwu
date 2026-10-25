@@ -241,6 +241,7 @@
 儿童	ér tóng	children (formal)
 儿子	ér zi	son — 儿 ér (child, son) + 子 zi (suffix). The standard word for a son. Its pair is 女儿 nǚ'ér (daughter), which keeps 儿 but not 子.
 二哥	èr gē	second eldest brother — 二 (two) + 哥. The second of the brothers, ranked after 大哥. The numbering system is literal: each older brother is addressed by his birth order, never by name within the family.
+法人	fǎ rén	legal representative
 凡夫	fán fū	ordinary being (primary audience)
 房东	fáng dōng	landlord — 房 (house) plus 东 (dōng, east; by old convention the host stands on the east side). The person who owns the dwelling and rents it out. The 东 element marks the host or owner, the same 东 found in 股东 (gǔdōng, shareholder).
 房价	fáng jià	housing price — 房 (house) plus 价 (jià, price). The purchase price of property. A constant topic in contemporary Chinese life, where 房价 in big cities is a daily-news obsession.
@@ -467,6 +468,7 @@
 人脉	rén mài	network; professional connections (lit. "person-veins") — 人 rén + 脉 mài (vein; pulse; artery, the channels through which blood flows). Your social and professional network, imagined as a circulatory system. 脉 is the same character used in 经脉 jīngmài (meridians) in TCM.
 人们	rén men	people (indefinite plural) — 人 rén + 们 men (plural suffix for animate nouns). A general, indefinite plural: "people" in the broad social sense, as in "one finds that people…" or "people say…" 们 cannot be combined with numbers; you cannot say ＊三人们. This plural is for social generality, not counting.
 人民	rén mín	the people (political collective) — 人 rén + 民 mín (common people; subjects; citizens). A politically weighted term. In the PRC context, it carries strong ideological resonance: the people as a collective subject and political actor, not merely a demographic count. Appears in major institutional names and slogans.
+人民币	rén mín bì	renminbi, RMB
 人品	rén pǐn	moral character; the quality of a person — 人 rén + 品 pǐn (quality; grade; character, three 口 mouths stacked, suggesting the spoken judgments of a community). The overall moral quality of a person as assessed by those around them: moral trustworthiness and reliability in relationships, not talent or intelligence.
 人情	rén qíng	human feeling; social obligation; the gift economy of favors — Human feeling, social obligation , the accumulated weight of favors, gifts, and consideration exchanged between people. To "owe someone rénqíng" is to be in their social debt. Gift-giving is one of the primary means of building and repaying 人情. The concept is inseparable from 关系.
 人群	rén qún	crowd

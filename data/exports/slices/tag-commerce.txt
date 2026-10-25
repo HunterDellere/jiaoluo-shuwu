@@ -10,18 +10,48 @@
 兢兢业业	jīng jīng yè yè	diligent and careful in one's work — A phrase of high praise for someone who does their work with constant care and seriousness, never cutting corners. 兢兢 conveys cautious diligence; 业业 the steady attention to one's 业 (work, duties). Common in performance reviews and tributes, the model of the conscientious worker.
 漫不经心	màn bù jīng xīn	careless and inattentive: with no thought passing through the mind — Lit: idly not passing-through the heart. 经心 means to take to heart, to attend to. To do something 漫不经心 is to do it absent-mindedly, paying it no real attention.
 业精于勤	yè jīng yú qín	mastery of one's work comes from diligence: skill is born of effort — Lit: work, refined-through, diligence. From Han Yu's essay on study: 业精于勤，荒于嬉, "mastery comes from diligence and is ruined by play." A maxim that one's craft or learning is perfected only through steady, hard application.
+一言为定	yì yán wéi dìng	one word and it is settled: a deal is a deal — Lit: one-word-makes-settled. Said to seal an agreement on the spot: a single word given, and the matter is fixed, with no going back. The everyday way to say "deal, it's settled."
 引经据典	yǐn jīng jù diǎn	to cite the classics and quote the canon: to argue from authoritative texts — Lit: draw on classics, rely on canon. Praise for someone whose argument is grounded in scripture and the classic texts, though it can also tease a person for being bookishly pedantic.
+帮我翻译一下	bāng wǒ fān yì yí xià	please translate this for me — For your interpreter, or for the English-speaking salesperson when the engineer goes too fast. Using an interpreter for one hard passage and Chinese for the rest is common and costs no face.
+保密协议	bǎo mì xié yì	confidentiality agreement — The general term for an NDA. NNN协议 is the China-specific form. Ask for it to be signed and sealed before you send drawings, not after.
+报价	bào jià	quotation
+报价单	bào jià dān	quotation sheet — 报价 (bàojià) is both the verb "to quote" and the noun "quote." Ask for it in writing, line by line: 分项报价 (fēnxiàng bàojià) is an itemised quote that breaks out the product, packaging, tooling, and printing.
 毕业	bì yè	to graduate; graduation — 毕 bì (to finish; to complete) + 业 yè (studies). To complete one's course of study: 大学毕业 "to graduate from university," 毕业典礼 "graduation ceremony." A separable verb, so the object slots in the middle: 毕了业 "have graduated."
+便宜一点	pián yi yì diǎn	a bit cheaper — The basic request, best softened. 价格有点高 (the price is a bit high) states the problem without accusing; 还有空间吗 (is there still room?) invites a counteroffer without naming one.
 产品认证	chǎn pǐn rèn zhèng	product certification — 认证 rènzhèng (to certify, certification , 认 recognize + 证 proof/certificate). The system by which products are officially verified to meet standards. 3C认证 (China Compulsory Certification) is the mandatory certification for electronics, appliances, and vehicles sold in China.
 产品质量	chǎn pǐn zhì liàng	product quality — 质量 zhìliàng (substance + quantity → quality) is the standard word for quality in both the everyday and technical sense. 产品质量 is the fixed phrase for product quality , appearing in consumer protection law (产品质量法), manufacturing standards, and marketing.
+成本	chéng běn	cost — What the factory pays, as opposed to 价格 (jiàgé), what you pay. 原材料 (yuáncáiliào, raw materials) and 人工 (réngōng, labour) are the two cost lines you will hear cited when a price goes up. 利润 (lìrùn) is profit.
+出口退税	chū kǒu tuì shuì	export VAT rebate — The refund of input VAT on exported goods, claimed by whoever exports them. A factory with its own export licence (自营出口 zìyíng chūkǒu) claims it directly; one without exports through a trading company (外贸公司 wàimào gōngsī), which adds a layer of margin.
 创业	chuàng yè	to start a business; to found a venture; to pioneer — 创 chuàng (to create; to initiate) + 业 yè (undertaking). To found something from the ground up, whether a company or a larger enterprise: 自主创业 "to start one's own business," 创业公司 "a startup." Carries the flavor of building where nothing stood before.
+打折	dǎ zhé	to give a discount — 折 counts tenths of the price you pay, not the amount taken off. 八折 means you pay eight tenths, a 20% discount. Learners hear "eight" and think "80% off." In a negotiation 点 (diǎn, a percentage point) is more common than 折 for small moves.
+单价	dān jià	unit price — The price per piece; 总价 (zǒngjià) is the total, 金额 (jīn'é) the amount on a line. The usual follow-up is what the unit price includes: 包括 (bāokuò) and 不包括 are the words to listen for.
+电汇	diàn huì	wire transfer (T/T) — "Electric remittance," usually just called T/T. 信用证 (xìnyòngzhèng) is a letter of credit (L/C), slower and more paperwork, with the bank standing between the parties.
+订单	dìng dān	order
+订金	dìng jīn	advance payment
+发票	fā piào	official receipt: an invoice; a tax receipt — 发 fā (to issue; to send out) + 票 piào (slip; note). The official, tax-registered receipt a seller issues for a purchase. In China the 发票 is a regulated document used for reimbursement and tax, very different from a plain shop receipt (小票 xiǎopiào).
+法人	fǎ rén	legal representative
 佛经	fó jīng	Buddhist scripture; sutra — 佛 fó (Buddha) + 经 jīng (scripture). The sutras, the recorded discourses of the Buddha. Reciting and copying 佛经 is a long-standing devotional practice, as with the much-loved 心经 xīnjīng (Heart Sutra).
 服务	fú wù	service (contrasted with product)
+负责	fù zé	to be responsible for — Names the owner of an action. Ask it about every open item before the meeting ends. 对……负责 also means "to be accountable for" a result, which makes it the word of quality disputes.
+盖章	gài zhāng	to stamp a seal
+工厂	gōng chǎng	factory
 工业	gōng yè	industry; the industrial sector — 工 gōng (labor; work) + 业 yè (sector). Manufacturing industry as a branch of the economy: 重工业 "heavy industry," 工业化 "industrialization." Paired with 农业 (agriculture) in the standard rhetoric of national development.
 公司	gōng sī	company; firm; corporation — 公 gōng (public; common) + 司 sī (to manage; an office). A jointly run enterprise, a body managed in common: 一家公司 "a company." Note the contrast with the homophone 私 sī (private).
+公章	gōng zhāng	company seal — A Chinese company binds itself with its red seal more than with a signature. 合同专用章 (hétong zhuānyòngzhāng) is a seal used only for contracts and is equally valid.
 供应链	gōng yìng liàn	supply chain
+贵公司	guì gōng sī	your company (honorific) — The polite way to refer to the other side's company; 贵厂 (guì chǎng) for a factory. Your own side is plain 我们公司 or 我们. 贵 is the same character as "expensive," here meaning "honoured."
+含税	hán shuì	tax included — 含 is "to contain." The pair 含税 / 不含税 appears on almost every RMB quotation; 含运费 (hán yùnfèi) is freight included, 含包装 packaging included. The same 含 works for anything the price might or might not cover.
 合同	hé tong	Contract — Contract. 签合同 (qiān hétong) is to sign one. The parties inside it, 甲方 and 乙方 (Party A and Party B), have become everyday slang for client and vendor.
+合作	hé zuò	to cooperate; to collaborate; cooperation — 合 hé (to join) + 作 zuò (to do; to work). To join efforts and work as one. The everyday word for partnership of every scale, from two classmates to two nations: 合作伙伴 "a cooperation partner."
+汇率	huì lǜ	exchange rate — A factory that quotes in dollars but pays its costs in RMB carries the exchange risk and may ask to reprice when the rate moves. 汇率波动 (huìlǜ bōdòng) is fluctuation. Agree a reference rate, or a band within which the price stays fixed.
+会谈	huì tán	business meeting
+会议纪要	huì yì jì yào	meeting minutes — A short written summary of decisions, owners, and dates, sent the same day. Offering to write it yourself means your version becomes the record. 白纸黑字 (báizhǐ hēizì, "black ink on white paper") is the idiom for having it in writing.
 货物	huò wù	goods; cargo; merchandise — 货 huò (goods; commodity) + 物 wù (thing). Goods as freight or stock in trade, the things that move through commerce: 运送货物 "to transport goods," 货物清单 "a manifest of cargo."
+价格	jià gé	price — 价 (price) + 格 (a fixed standard, a slot). The settled, stated price of a good, the figure printed on the tag or quoted by the seller. The everyday word for what something costs.
+交期	jiāo qī	lead time, delivery date — Also 货期 (huòqī). Ask when the clock starts: from deposit received, from sample approval, or from materials arriving. 延期 (yánqī) is a delay; 赶货 (gǎnhuò) is rushing an order.
+阶梯价	jiē tī jià	tiered pricing — "Staircase price": the unit price falls as quantity rises. Asking for a tier table is the cleanest way to learn the factory's real cost curve, and it moves the conversation from "lower the price" to "at what quantity."
+接受不了	jiē shòu bù liǎo	cannot accept — A clear, polite refusal. Stronger than 有点难, softer than 不行. Pair it with the reason and what you could accept.
+今天主要想谈	jīn tiān zhǔ yào xiǎng tán	today I mainly want to discuss — Sets the agenda. Saying it early, with numbered points, is the strongest move a visitor has: it decides what gets talked about and in what order. Follow with 第一 (dì-yī), 第二, 第三, and close each topic with 这个先到这里 ("let's leave this one here for now").
 经常	jīng cháng	often; frequently; regularly — 经 jīng (to pass through; constant) + 常 cháng (constant). The standard adverb for an action that recurs as a regular habit: 我经常去那家店 "I go to that shop often." Stresses regularity, not just repetition.
 经典	jīng diǎn	classic; classical; a classic work — 经 jīng (canon) + 典 diǎn (standard text; canon). A proven, enduring work, or the quality of being a touchstone: 经典电影 "a classic film," 文学经典 "literary classics."
 经过	jīng guò	to pass through; to go by; (after) the course of — 经 jīng (pass through) + 过 guò (cross over). To travel through a place, or to go through a process. As a noun it names the whole course of events: 事情的经过 "how the matter unfolded."
@@ -32,26 +62,69 @@
 经营	jīng yíng	to run a business
 敬酒	jìng jiǔ	To toast , to offer a drink as a gesture of respect — To toast , to offer a drink as a gesture of respect. 敬 means "to respect" or "to offer respectfully"; 酒 means "alcoholic drink." The act of toasting at a Chinese meal is a structured social protocol, not a casual gesture.
 就业	jiù yè	to find employment
+具体	jù tǐ	concrete; specific; particular — 具 jù (to possess, to furnish) + 体 tǐ (body, form). Having a definite body, hence concrete and specific as against vague or abstract. Its opposite is 抽象 chōuxiàng (abstract): 具体的例子 "a concrete example."
+开会	kāi huì	to hold a meeting; to attend a meeting
+砍价	kǎn jià	to haggle
+口头承诺	kǒu tóu chéng nuò	verbal promise
+块 · 毛 · 分	kuài máo fēn	units of currency, spoken — Spoken prices use 块 for the main unit, 毛 for tenths, 分 for hundredths; written prices use 元, 角, 分. The trailing unit is often dropped: 四块一 is 4.10, 三块八五 is 3.85. Factories apply the same words to dollars, so add 美金 (měijīn) or 人民币 (rénmínbì) when it could be either.
 老板	lǎo bǎn	boss; business owner — 老 lǎo + 板 bǎn (plank; board, extended to the person in charge). The everyday term for boss, owner, or the person in charge of a business. In restaurants, calling out 老板！is the standard way to get the owner's attention.
+离岸价	lí àn jià	FOB price — "Leave-shore price." Most export quotes are FOB, always with a port: FOB宁波, FOB深圳. In speech people simply say the letters, F-O-B. The port matters, since inland trucking to a distant port is part of the factory's cost.
+利润	lì rùn	profit
+名片	míng piàn	business card — 名 míng (name) + 片 piàn (flat slice; card). A "name slice" , the physical object that carries your name into another person's hand. Business card exchange in China carries ritual weight: present and receive with both hands, read the card before putting it away, never write on it.
+模具归属	mú jù guī shǔ	tooling ownership — The clause that states who owns the mold, that it may only be used for your orders, and that the factory must release it on request. 归 is "belongs to," 所有权 (suǒyǒuquán) ownership.
+目标价	mù biāo jià	target price — Naming your target moves the discussion from "lower" to "can you reach this." Give it with a reason, such as a retail price point or a competing quote (另一家的报价 lìng yì jiā de bàojià), without naming the other factory.
+您的意思是	nín de yì si shì	what you mean is — Restating what you heard is the most powerful check you have, because it forces a yes or no on your version. 我理解的是……对吗 ("my understanding is ..., right?") does the same job. 也就是说 (yě jiù shì shuō, "in other words") works mid-conversation.
 农业	nóng yè	agriculture; farming — 农 nóng (farming) + 业 yè (sector). The agricultural sector: 农业生产 "agricultural production," 农业大国 "a major agricultural country." The oldest of the great 业 in Chinese economic thought, long held as the root on which all else rests.
 品牌	pǐn pái	brand
 企业	qǐ yè	enterprise; firm; company (as an organization) — 企 qǐ (to stand on tiptoe; to aspire) + 业 yè (undertaking). A business organization: 国有企业 "state-owned enterprise," 私营企业 "private enterprise," 企业家 "entrepreneur." The standard term for a firm as a legal and economic body.
+签字	qiān zì	to sign
+请多关照	qǐng duō guān zhào	please look after us; I look forward to working with you — The standard closing line of a first introduction, asking the other side's goodwill for the relationship ahead. 初次见面，请多关照 ("meeting for the first time, please look after me") is the full formula. 请多指教 asks for guidance and is slightly humbler.
 请客	qǐng kè	To treat someone to a meal , to invite and pay — To treat someone to a meal , to invite and pay. 请 means "to invite" or "please"; 客 means "guest." 我请客 (wǒ qǐngkè, "I am treating") declares the host role and closes the question of who pays. The person who says this assumes both the financial obligation and the social prestige of hosting.
+取决于	qǔ ju é yú	to depend on — The follow-up question to every 应该 and 尽量: find the condition behind the hedge. Once the condition is named, it can be negotiated.
+确认一下	qu èr èn yí xià	let me confirm — 确认 (quèrèn) is the verb of the whole relationship: samples are confirmed, drawings are confirmed, orders are confirmed. 我确认一下 before restating a point; 您确认一下 when handing the other side something to check.
+让价	ràng jià	to concede on price — 让 is "to yield." 让利 (rànglì) is giving up margin; 降价 (jiàngjià) is simply lowering the price, 涨价 (zhǎngjià) raising it, 还价 (huánjià) making a counteroffer. 底价 (dǐjià) is the floor price a side will not go below.
+人民币	rén mín bì	renminbi, RMB
+商标	shāng biāo	trademark
+商量一下	shāng liang yí xià	to talk it over — The deferral. Buys time without saying no, and is the expected answer to any significant new proposal. Name when you will reply so it does not read as a brush-off.
 商品	shāng pǐn	commodity; merchandise (goods for trade)
+什么意思	shén me yì si	what does it mean — Ask about a word, not a person: "这个词是什么意思" is neutral, while a bare 你什么意思？ means "what are you implying?" and sounds hostile. Keep 这个词 in front.
 生产者	shēng chǎn zhě	producer
+生意	shēng yì	doing business
 圣经	Shèng jīng	the Bible; holy scripture — 圣 shèng (holy; sage) + 经 jīng (scripture). Literally "the holy classic," the standard Chinese name for the Bible. The same pattern names other scriptures: 古兰经 Gǔlánjīng (the Quran).
 失业	shī yè	to be unemployed
+实话实说	shí huà shí shuō	to speak frankly — Inviting candour removes the face cost of a no. Say early that you prefer bad news now to surprises later; engineers in particular will take you up on it.
 市场	shì chǎng	Market, in both senses — Market, in both senses: the physical 菜市场 (vegetable market) and the abstract 市场经济 (market economy). 市场部 is the marketing department.
 事业	shì yè	cause; career; lifework; undertaking — 事 shì (matter; affair) + 业 yè (undertaking). The cause or career one commits to, larger and more aspirational than a job: 事业心 "career ambition," 教育事业 "the cause of education." To 干一番事业 is to accomplish something lasting with one's life.
+水单	shuǐ dān	bank remittance slip — The bank's proof that you sent the money, also 汇款水单. The factory will ask for it the moment you say you have paid, and production often waits for it. Send it promptly; it is the fastest way to start the lead-time clock.
+说慢一点	shuō màn yì diǎn	speak a little slower — Lead with 不好意思 (bù hǎoyìsi, "excuse me") to soften it. Most people slow down for one sentence and then speed back up; asking twice is fine.
+谈价	tán jià	price negotiation
 谈判	tán pàn	To negotiate; negotiation — To negotiate; negotiation. Formal register, used for deals and diplomacy alike. Everyday haggling is 讨价还价; you 谈判 a joint venture, you 讨价还价 over a jacket.
+条款	tiáo kuǎn	clause, term — 第五条 (dì-wǔ tiáo) is Article 5. 补充协议 (bǔchōng xiéyì) is a supplementary agreement, the usual way to add terms later. 附件 (fùjiàn) is an annex, where specifications and drawings belong.
 通过	tōng guò	to pass through; to get past; by means of; via — 通 (to go through) + 过 guò (to cross; to pass). The everyday verb for getting through something: passing through a gate, passing an exam, a motion passing a vote.
+违约金	wéi yu ē jīn	liquidated damages — A fixed sum payable on breach, such as late delivery. Under Chinese law a court or arbitrator can reduce it if it is far above the actual loss, so set it at a level you can justify. 赔偿 (péicháng) is compensation for actual loss.
+尾款	wěi kuǎn	balance payment — "Tail money." What triggers it is the real negotiation: 出货前 (before shipment), 验货后 (after inspection passes), or 见提单副本 (jiàn tídān fùběn, against a copy of the bill of lading). The later the trigger, the more leverage you keep.
 纬	wěi	weft thread; latitude
+误会	wù huì	misunderstanding — Frames a disagreement as a communication gap rather than bad faith, which lets the other side correct course without losing face. Use it even when you suspect it was no accident.
 消费者	xiāo fèi zhě	consumer
+协议	xié yì	agreement
+写下来	xiě xià lái	write it down — For technical terms and every figure. Hand over your notebook or phone. Pinyin input is fine; most people will type the characters for you.
+辛苦了	xīn kǔ le	thank you for your trouble — Acknowledges effort someone made for you: picking you up at the station, preparing samples, staying late. Factory staff hear it constantly from managers and appreciate it from a buyer. Answer with 不辛苦 or 应该的 (yīnggāi de, "it's what I should do").
 行业	háng yè	industry; trade; profession (as a category) — 行 háng + 业 yè (occupation; enterprise). The trade as a category. Used for entire industries: 教育行业 the education sector; 服务行业 the service industry; 各行各业 "every trade, every profession" (the standard phrase for "all walks of life").
+幸会	xìng huì	a pleasure to meet you — Formal "fortunate meeting," said with the handshake on first contact. Pairs naturally with 久仰 (jiǔyǎng, "I've long admired you") when you know the person by reputation. Plain 很高兴认识您 is never wrong.
 学业	xu é yè	studies; schoolwork; academic work — 学 xué (to learn) + 业 yè (course of work). One's studies taken as a whole: 完成学业 "to complete one's studies," 学业成绩 "academic results." The general term for the body of work a student carries.
+以中文版为准	yǐ Zhōng wén bǎn wéi zhǔn	the Chinese version governs — A bilingual contract needs a clause saying which version prevails if they conflict (如有冲突 rú yǒu chōngtū). Chinese courts and arbitrators work in Chinese, so the Chinese text is the one that will be read. Have it translated back to you independently rather than trusting that the two versions match.
 优质产品	yōu zhì chǎn pǐn	high-quality product; premium product — 优质 yōuzhì (excellent quality , 优 excellent + 质 substance/quality) is the premium tier modifier. 打造优质产品 (to build premium products) is a common mission statement. Contrasts with 劣质产品 (lièzhì chǎnpǐn, inferior-quality products) , counterfeit or substandard goods.
+有效期	yǒu xiào qī	validity period — How long a quote holds. Factories tie it to material prices, especially steel, and to the exchange rate (汇率 huìlǜ). A quote with no date can be reopened at any time.
+原则上同意	yuán zé shang tóng yì	agree in principle — Signals agreement on direction while keeping the details open. Useful when the boss pushes for a handshake before the numbers are settled.
+运费	yùn fèi	freight charge — 海运 (hǎiyùn) is sea freight, 空运 (kōngyùn) air freight, 快递 (kuàidì) express courier for samples. 货代 (huòdài) is the freight forwarder. 整柜 (zhěngguì) is a full container load, 拼柜 (pīnguì) a shared one.
+长期合作	cháng qī hé zuò	long-term cooperation — The phrase that justifies concessions on both sides: the factory gives on price for the sake of future orders, you give on terms for the sake of a stable partner. Invoke it when asking for something; hear it as a request when the other side uses it.
+账户	zhàng hù	bank account — 收款账户 (shōukuǎn zhànghù) is the receiving account. Fraudsters impersonate suppliers by email and announce new bank details.
+知识产权	zhī shi chǎn quán	intellectual property
 职业	zhí yè	occupation; profession; vocational — 职 zhí (post; duty) + 业 yè (work). The line of work a person practices for a living: 职业选择 "choice of profession." As a modifier it means professional or vocational: 职业运动员 "professional athlete," 职业学校 "vocational school."
 制品	zhì pǐn	manufactured article; processed product
+质保期	zhì bǎo qī	warranty period — How long the factory stands behind the goods. Pair it with 验收标准 (yànshōu biāozhǔn), the acceptance standard, normally the sealed sample and an AQL level.
+仲裁	zhòng cái	arbitration — A foreign court judgment is hard to enforce in China, while an arbitration award can be enforced under the New York Convention. Many contracts name 中国国际经济贸易仲裁委员会 (CIETAC) or the Hong Kong (HKIAC) or Singapore (SIAC) centres. 管辖 (guǎnxiá) is jurisdiction; 适用法律 (shìyòng fǎlǜ) the governing law.
+专利	zhuān lì	patent — China has three kinds: 发明专利 (fāmíng zhuānlì) invention patents, 实用新型 (shíyòng xīnxíng) utility models for structural improvements, and 外观设计 (wàiguān shèjì) design patents for appearance.
 专业	zhuān yè	major; specialty; professional, specialized — 专 zhuān (to specialize; sole) + 业 yè (field of study). As a noun, the major one studies: 我的专业是历史 "my major is history." As an adjective, professional or specialized: 专业知识 "specialized knowledge," 很专业 "very professional."
 赚钱	zhuàn qián	To make money, to be profitable — To make money, to be profitable. The opposite pair is 赔钱 (péiqián) or 亏本 (kuīběn). 这个生意不赚钱: this business doesn't make money, the verdict that ends ventures.
 作品	zuò pǐn	a work (of art, literature, music) — 作 zuò (to compose) + 品 pǐn (article; item). A finished creative work: 文学作品 "a literary work," 这是他最好的作品 "this is his finest work."

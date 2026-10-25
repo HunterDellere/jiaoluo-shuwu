@@ -1,5 +1,176 @@
 [
   {
+    "path": "pages/daily/topic_canguan.html",
+    "type": "topic",
+    "category": "daily",
+    "title": "参观工厂 · The Factory Tour",
+    "desc": "What you see on a Chinese factory tour and what to ask about it: workshops, lines, warehouses, inspection points, certifications, and the questions that show whether the factory really makes your product.",
+    "tags": [
+      "business",
+      "industry",
+      "production",
+      "vocabulary"
+    ],
+    "status": "complete",
+    "pinyin": "cānguān gōngchǎng",
+    "updated": "2026-10-25",
+    "indexable": false
+  },
+  {
+    "path": "pages/daily/topic_chuxing.html",
+    "type": "topic",
+    "category": "daily",
+    "title": "出行 · Getting Around: Rail, Didi, and Paying",
+    "desc": "The logistics of a factory trip: high-speed rail tickets on a passport, hailing a Didi to an industrial zone, paying by phone, and checking into a hotel.",
+    "tags": [
+      "daily-life",
+      "technology",
+      "vocabulary"
+    ],
+    "status": "complete",
+    "pinyin": "chūxíng",
+    "updated": "2026-10-25",
+    "indexable": false
+  },
+  {
+    "path": "pages/daily/topic_fanju.html",
+    "type": "topic",
+    "category": "daily",
+    "title": "饭局 · The Business Banquet",
+    "desc": "A condensed script for the dinner after a factory visit: seating, the first toast, declining drinks without offence, the toast you give back, and leaving well.",
+    "tags": [
+      "business",
+      "etiquette",
+      "spirits",
+      "vocabulary"
+    ],
+    "status": "complete",
+    "pinyin": "fànjú",
+    "updated": "2026-10-25",
+    "indexable": false
+  },
+  {
+    "path": "pages/daily/topic_gongchang.html",
+    "type": "topic",
+    "category": "daily",
+    "title": "工厂 · Factory Words: Samples, Tooling, and QC",
+    "desc": "The working vocabulary of a Chinese factory floor, in the order a product moves through it: 打样, 封样, 开模, 大货, 验货, 出货.",
+    "tags": [
+      "business",
+      "industry",
+      "production",
+      "vocabulary"
+    ],
+    "status": "complete",
+    "pinyin": "gōngchǎng",
+    "updated": "2026-10-25",
+    "indexable": false
+  },
+  {
+    "path": "pages/daily/topic_hetong.html",
+    "type": "topic",
+    "category": "daily",
+    "title": "合同 · Contracts, Seals, and IP",
+    "desc": "The contract vocabulary a buyer needs at a Chinese factory: which language governs, which seal binds, NNN agreements, patents and trademarks, tooling ownership, penalties, and arbitration.",
+    "tags": [
+      "business",
+      "commerce",
+      "legal",
+      "vocabulary"
+    ],
+    "status": "complete",
+    "pinyin": "hétong",
+    "updated": "2026-10-25",
+    "indexable": false
+  },
+  {
+    "path": "pages/daily/topic_huitan.html",
+    "type": "topic",
+    "category": "daily",
+    "title": "会谈 · The Meeting Room",
+    "desc": "The phrases that keep a foreign buyer in control of a factory meeting: titles, openings, clarifying, pinning down commitments, and decoding a polite no.",
+    "tags": [
+      "business",
+      "commerce",
+      "etiquette",
+      "courtesy",
+      "vocabulary"
+    ],
+    "status": "complete",
+    "pinyin": "huìtán",
+    "updated": "2026-10-25",
+    "indexable": false
+  },
+  {
+    "path": "pages/daily/topic_tanjia.html",
+    "type": "topic",
+    "category": "daily",
+    "title": "谈价 · Price, Payment, and Numbers",
+    "desc": "The money half of a factory negotiation: reading a quotation, tax and invoices, trade terms, deposits and balances, haggling lines, and the numbers that trip learners up.",
+    "tags": [
+      "business",
+      "commerce",
+      "numbers",
+      "vocabulary"
+    ],
+    "status": "complete",
+    "pinyin": "tánjià",
+    "updated": "2026-10-25",
+    "indexable": false
+  },
+  {
+    "path": "pages/daily/topic_tousu.html",
+    "type": "topic",
+    "category": "daily",
+    "title": "投诉 · Quality Complaints and Claims",
+    "desc": "How to raise a quality problem with a Chinese factory firmly without costing anyone face: reporting the defect, demanding a root cause and 8D report, and negotiating who pays.",
+    "tags": [
+      "business",
+      "quality",
+      "communication",
+      "vocabulary"
+    ],
+    "status": "complete",
+    "pinyin": "tóusù",
+    "updated": "2026-10-25",
+    "indexable": false
+  },
+  {
+    "path": "pages/daily/topic_weixin.html",
+    "type": "topic",
+    "category": "daily",
+    "title": "微信 · WeChat and Written Follow-up",
+    "desc": "Where a factory relationship lives after the visit: adding contacts, the thank-you message, meeting minutes, chasing progress, and handling voice messages.",
+    "tags": [
+      "business",
+      "communication",
+      "technology",
+      "vocabulary"
+    ],
+    "status": "complete",
+    "pinyin": "Wēixìn",
+    "updated": "2026-10-25",
+    "indexable": false
+  },
+  {
+    "path": "pages/hubs/shangwu.html",
+    "type": "hub",
+    "category": "hubs",
+    "title": "商务 · Visiting a Chinese Factory: A Reading Path",
+    "desc": "The business Chinese for a buyer's factory visit, in the order you will need it: the meeting, the floor, the price, the contract, problems, the tour, the dinner, and the follow-up.",
+    "tags": [
+      "business",
+      "commerce",
+      "industry",
+      "hub"
+    ],
+    "status": "complete",
+    "pinyin": "shāngwù",
+    "updated": "2026-10-25",
+    "indexable": false,
+    "memberCount": 10
+  },
+  {
     "path": "pages/grammar/dou_mei_suoyou_都每所有.html",
     "type": "grammar",
     "category": "grammar",

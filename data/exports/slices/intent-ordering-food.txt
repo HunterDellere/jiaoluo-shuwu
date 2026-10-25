@@ -139,14 +139,18 @@
 白切鸡	bái qiē jī	White-Cut Chicken
 棒喝	bàng hè	the shout-and-blow — spontaneous awakening techniques — 棒 bàng (staff, blow) + 喝 hè (shout, roar). Two of the most distinctive Chan teaching methods: a sudden shout (associated especially with the master Linji 临济, whose shout 喝 became the name of the Rinzai school) and a strike with a staff (associated with Deshan 德山).
 包	bāo	to wrap, bundle — To wrap, to enclose , the verb for making dumplings (包饺子), as well as the root of 包子 (stuffed bun). Also means "to guarantee" or "to take responsibility for."
+包间	bāo jiān	private dining room
+包装	bāo zhuāng	packaging — 彩盒 (cǎihé) is the retail colour box, 内盒 the inner box, 外箱 (wàixiāng) the master carton, 装箱数 the units per carton. 唛头 (màitóu), from English "mark," is the shipping mark printed on cartons. 跌落测试 (diēluò cèshì) is the drop test.
 饱餐	bǎo cān	to eat a hearty meal — 饱 (full) + 餐 (cān, meal): to eat heartily, to feast. Often appears as 饱餐一顿 (bǎocān yí dùn, to have a good filling meal), with a faint literary warmth.
 饱含	bǎo hán	to be brimming with — 饱 (full) + 含 (hán, to hold inside): to be charged with, brimming with. Used for tears, feeling, or meaning, as in 饱含深情 (bǎohán shēnqíng, brimming with deep feeling).
 饱和	bǎo hé	saturated, saturation — 饱 (full) + 和 (hé, to mix, to combine): saturation. A technical term for a solution, market, or air that can absorb no more, as in 市场已经饱和 (shìchǎng yǐjīng bǎohé, the market is already saturated).
 饱满	bǎo mǎn	full, plump; brimming — 饱 (full) + 满 (mǎn, full to the brim): plump and rounded, or figuratively brimming with vigor. Describes grain, fruit, and spirits alike, as in 精神饱满 (jīngshén bǎomǎn, full of energy).
 笨蛋	bèn dàn	idiot, fool — 笨 (bèn, stupid, clumsy) + 蛋: a fool or dimwit. Among close friends it softens into teasing, even affection, but aimed at a stranger it lands as a real insult.
 表面	biǎo miàn	surface; outside; outward appearance — 表 biǎo (outer; to show) + 面 miàn (face). The outer surface of a thing, and by extension the surface meaning as opposed to the truth beneath: 表面上 biǎomiàn shàng "on the surface, ostensibly."
+表面处理	biǎo miàn chǔ lǐ	surface finish — The finishing family: 抛光 (pāoguāng) polishing, 电解 (diànjiě) electrolytic polishing for liners, 喷涂 (pēntú) spray painting, 喷粉 (pēnfěn) powder coating, 丝印 (sīyìn) screen printing, 镭雕 (léidiāo) laser engraving. 涂层 (túcéng) is the coating itself; 掉漆 (diàoqī) is paint coming off.
 宾馆	bīng uǎn	hotel, guesthouse — 宾 bīn (guest) + 馆. A house for guests, that is, a hotel. The word keeps the old hospitality sense of 馆 right on its sleeve.
 博物馆	bó wù guǎn	museum — 博 bó (broad, extensive) + 物 wù (things) + 馆. The hall of broad things, where relics and specimens are kept and shown. 故宫博物院 uses 院 instead, but the everyday word is 博物馆.
+不太会喝酒	bú tài huì hē jiǔ	not much of a drinker — Decide before the dinner whether you drink, and say it early with a reason that leaves no one at fault: health, medication, an early meeting, or driving. Once you have drunk one toast, refusing the next is harder.
 菜单	cài dān	menu; (computing) a menu — 菜 cài (dish) + 单 dān (list; slip). The list of dishes a restaurant offers, and by extension the drop-down 菜单 of a computer program. 看菜单 "to look at the menu."
 菜鸟	cài niǎo	(slang) novice; newbie; noob — 菜 cài (here: weak, lousy) + 鸟 niǎo (bird). A fledgling, hence a beginner who is still bad at something, especially in gaming and the workplace. Self-deprecating or teasing: 我是个菜鸟 "I'm a total newbie."
 菜系	cài xì	cuisine school; culinary lineage — Cuisine system , the term for a recognized regional cooking tradition. The 八大菜系 (eight great cuisine systems) are the canonical eight, though culinary scholars recognize anywhere from four to dozens of regional traditions.
@@ -311,6 +315,7 @@
 敬酒	jìng jiǔ	To toast , to offer a drink as a gesture of respect — To toast , to offer a drink as a gesture of respect. 敬 means "to respect" or "to offer respectfully"; 酒 means "alcoholic drink." The act of toasting at a Chinese meal is a structured social protocol, not a casual gesture.
 镜子	jìng zi	mirror
 九转大肠	jiǔ zhuǎn dà cháng	Nine-Turn Intestine
+酒店	jiǔ diàn	hotel
 酒鬼	jiǔ guǐ	drunkard — lit. "alcohol ghost" — 酒 jiǔ (alcohol; wine; liquor) + 鬼 guǐ (ghost). A drunkard , someone possessed by alcohol to the point of losing themselves. The pattern is productive: 赌鬼 (dǔguǐ) is a compulsive gambler, 烟鬼 (yānguǐ) is a heavy smoker, 色鬼 (sèguǐ) is a lecher.
 酒量	jiǔ liàng	drinking capacity: how much alcohol one can hold — 酒 jiǔ (alcohol) + 量 liàng (capacity). A person's tolerance for drink, the amount they can take before they are affected. A culturally loaded word at the banquet table, where 酒量好 (a good capacity) is treated as a social asset: 他酒量很大 (he can really hold his drink).
 酒桌	jiǔ zhuō	The drinking table , refers not just to the physical table but to the entire social ritual of the banquet. 酒桌文化 (jiǔzhuō wénhuà) is "drinking table culture," often discussed critically for its excesses.
@@ -429,6 +434,7 @@
 书面语	shū miàn yǔ	written language
 蔬菜	shū cài	vegetables (collectively) — 蔬 shū (vegetables) + 菜 cài (greens). The formal, category word for vegetables as a food group, the term you see on nutrition labels and in recipes: 多吃蔬菜 "eat more vegetables."
 涮	shuàn	to swish (meat through hot liquid); to shabu
+水单	shuǐ dān	bank remittance slip — The bank's proof that you sent the money, also 汇款水单. The factory will ask for it the moment you say you have paid, and production often waits for it. Send it promptly; it is the fastest way to start the lead-time clock.
 水果	shuǐ guǒ	fruit
 水磨腔	shuǐ mò qiāng	Water-ground tone , the smooth, polished vocal style developed by Wei Liangfu that defines 昆曲 singing. The metaphor refers to the way stone is ground by water to a perfect smoothness. Characterized by slow tempos, elaborate ornamentation, and seamless melodic flow.
 水墨	shuǐ mò	ink wash; water-and-ink; the classical Chinese painting medium — 水 shuǐ (water) + 墨 mò (ink , a slab of compressed carbon pigment, dissolved in water to create the medium). The classical Chinese painting medium: ink dissolved in varying concentrations of water, applied with a brush to paper or silk to create images through gradations of tone from dark to light.
@@ -482,6 +488,7 @@
 小鸡	xiǎo jī	chick, baby chicken — 小 (xiǎo, small) + 鸡 (chicken). The fluffy yellow chick just out of the shell, a favorite in children's songs and picture books.
 辛	xīn	pungent; laborious
 辛苦	xīn kǔ	hard, toilsome; thanks for your trouble — 辛 (xīn), pungent or laborious, pairs with 苦 (kǔ), bitter, to name effort that wears you down. As a set phrase it doubles as warm thanks: telling someone 辛苦了 acknowledges the toil they just put in for you.
+辛苦了	xīn kǔ le	thank you for your trouble — Acknowledges effort someone made for you: picking you up at the station, preparing samples, staying late. Factory staff hear it constantly from managers and appreciate it from a buyer. Answer with 不辛苦 or 应该的 (yīnggāi de, "it's what I should do").
 熊猫	xióng māo	giant panda
 血	xu è	blood
 鸭	yā	duck

@@ -164,6 +164,29 @@
     ],
     "hasPage": true
   },
+  "面子": {
+    "cn": "面子",
+    "py": "miànzi",
+    "en": "social face; dignity",
+    "count": 14,
+    "appearsOn": [
+      "pages/characters/lian3_脸.html",
+      "pages/characters/mian4_面.html",
+      "pages/daily/topic_diannao_wangluo.html",
+      "pages/daily/topic_fanju.html",
+      "pages/daily/topic_huitan.html",
+      "pages/daily/topic_kouyu_lianjieci.html",
+      "pages/daily/topic_shengyi.html",
+      "pages/daily/topic_tousu.html",
+      "pages/vocab/guanxi_关系.html",
+      "pages/vocab/keqi_客气.html",
+      "pages/vocab/limao_礼貌.html",
+      "pages/vocab/qianxu_谦虚.html",
+      "pages/vocab/shehui_社会.html",
+      "pages/vocab/xiaoren_小人.html"
+    ],
+    "hasPage": true
+  },
   "水": {
     "cn": "水",
     "py": "shuǐ",
@@ -335,26 +358,6 @@
     ],
     "hasPage": true
   },
-  "面子": {
-    "cn": "面子",
-    "py": "miànzi",
-    "en": "social face; dignity",
-    "count": 11,
-    "appearsOn": [
-      "pages/characters/lian3_脸.html",
-      "pages/characters/mian4_面.html",
-      "pages/daily/topic_diannao_wangluo.html",
-      "pages/daily/topic_kouyu_lianjieci.html",
-      "pages/daily/topic_shengyi.html",
-      "pages/vocab/guanxi_关系.html",
-      "pages/vocab/keqi_客气.html",
-      "pages/vocab/limao_礼貌.html",
-      "pages/vocab/qianxu_谦虚.html",
-      "pages/vocab/shehui_社会.html",
-      "pages/vocab/xiaoren_小人.html"
-    ],
-    "hasPage": true
-  },
   "月": {
     "cn": "月",
     "py": "yuè",
@@ -391,6 +394,25 @@
       "pages/culinary/topic_yuecai.html",
       "pages/daily/topic_chifan.html",
       "pages/geography/topic_sichuanpen.html"
+    ],
+    "hasPage": true
+  },
+  "关系": {
+    "cn": "关系",
+    "py": "guānxi",
+    "en": "relationship, connection",
+    "count": 10,
+    "appearsOn": [
+      "pages/characters/guan1_关.html",
+      "pages/characters/xi4_系.html",
+      "pages/daily/topic_chifan.html",
+      "pages/daily/topic_huitan.html",
+      "pages/daily/topic_shengyi.html",
+      "pages/vocab/keqi_客气.html",
+      "pages/vocab/mianzi_面子.html",
+      "pages/vocab/pengyou_朋友.html",
+      "pages/vocab/shehui_社会.html",
+      "pages/vocab/xiaoren_小人.html"
     ],
     "hasPage": true
   },
@@ -652,24 +674,6 @@
       "pages/vocab/amituofo_阿弥陀佛.html",
       "pages/vocab/niepan_涅槃.html",
       "pages/vocab/pusa_菩萨.html"
-    ],
-    "hasPage": true
-  },
-  "关系": {
-    "cn": "关系",
-    "py": "guānxi",
-    "en": "relationship, connection",
-    "count": 9,
-    "appearsOn": [
-      "pages/characters/guan1_关.html",
-      "pages/characters/xi4_系.html",
-      "pages/daily/topic_chifan.html",
-      "pages/daily/topic_shengyi.html",
-      "pages/vocab/keqi_客气.html",
-      "pages/vocab/mianzi_面子.html",
-      "pages/vocab/pengyou_朋友.html",
-      "pages/vocab/shehui_社会.html",
-      "pages/vocab/xiaoren_小人.html"
     ],
     "hasPage": true
   },
@@ -1568,6 +1572,21 @@
     ],
     "hasPage": true
   },
+  "产品": {
+    "cn": "产品",
+    "py": "chǎnpǐn",
+    "en": "manufactured product — the canonical 产 + 品 compound",
+    "count": 6,
+    "appearsOn": [
+      "pages/characters/chan3_产.html",
+      "pages/characters/pin3_品.html",
+      "pages/daily/topic_gongchang.html",
+      "pages/daily/topic_shengyi.html",
+      "pages/science/topic_gongcheng.html",
+      "pages/vocab/shengchan_生产.html"
+    ],
+    "hasPage": true
+  },
   "道德": {
     "cn": "道德",
     "py": "dàodé",
@@ -1790,6 +1809,21 @@
       "pages/culinary/topic_chuancai.html",
       "pages/culinary/topic_doufu.html",
       "pages/geography/topic_sichuanpen.html"
+    ],
+    "hasPage": true
+  },
+  "敬酒": {
+    "cn": "敬酒",
+    "py": "jìngjiǔ",
+    "en": "toasting — the central ritual built around baijiu at banquets",
+    "count": 6,
+    "appearsOn": [
+      "pages/culinary/topic_baijiu.html",
+      "pages/culinary/topic_huoguo.html",
+      "pages/daily/topic_chifan.html",
+      "pages/daily/topic_fanju.html",
+      "pages/daily/topic_shengyi.html",
+      "pages/vocab/limao_礼貌.html"
     ],
     "hasPage": true
   },
@@ -2221,20 +2255,6 @@
     ],
     "hasPage": false
   },
-  "产品": {
-    "cn": "产品",
-    "py": "chǎnpǐn",
-    "en": "manufactured product — the canonical 产 + 品 compound",
-    "count": 5,
-    "appearsOn": [
-      "pages/characters/chan3_产.html",
-      "pages/characters/pin3_品.html",
-      "pages/daily/topic_shengyi.html",
-      "pages/science/topic_gongcheng.html",
-      "pages/vocab/shengchan_生产.html"
-    ],
-    "hasPage": true
-  },
   "吃": {
     "cn": "吃",
     "py": "chī",
@@ -2571,20 +2591,6 @@
     ],
     "hasPage": true
   },
-  "敬酒": {
-    "cn": "敬酒",
-    "py": "jìngjiǔ",
-    "en": "toasting — the central ritual built around baijiu at banquets",
-    "count": 5,
-    "appearsOn": [
-      "pages/culinary/topic_baijiu.html",
-      "pages/culinary/topic_huoguo.html",
-      "pages/daily/topic_chifan.html",
-      "pages/daily/topic_shengyi.html",
-      "pages/vocab/limao_礼貌.html"
-    ],
-    "hasPage": true
-  },
   "科举": {
     "cn": "科举",
     "py": "kējǔ",
@@ -2612,6 +2618,20 @@
       "pages/vocab/bixu_必须.html"
     ],
     "hasPage": false
+  },
+  "客气": {
+    "cn": "客气",
+    "py": "kèqi",
+    "en": "polite, standing on ceremony",
+    "count": 5,
+    "appearsOn": [
+      "pages/daily/topic_huitan.html",
+      "pages/daily/topic_kouyu_lianjieci.html",
+      "pages/vocab/li3_礼.html",
+      "pages/vocab/limao_礼貌.html",
+      "pages/vocab/qianxu_谦虚.html"
+    ],
+    "hasPage": true
   },
   "快乐": {
     "cn": "快乐",
@@ -3444,6 +3464,19 @@
     ],
     "hasPage": true
   },
+  "工厂": {
+    "cn": "工厂",
+    "py": "gōngchǎng",
+    "en": "factory",
+    "count": 4,
+    "appearsOn": [
+      "pages/characters/gong1_工.html",
+      "pages/daily/topic_canguan.html",
+      "pages/daily/topic_tanjia.html",
+      "pages/vocab/shengchan_生产.html"
+    ],
+    "hasPage": true
+  },
   "工程": {
     "cn": "工程",
     "py": "gōngchéng",
@@ -3521,6 +3554,19 @@
       "pages/characters/shui3_水.html"
     ],
     "hasPage": true
+  },
+  "合作": {
+    "cn": "合作",
+    "py": "hézuò",
+    "en": "to cooperate",
+    "count": 4,
+    "appearsOn": [
+      "pages/characters/he2_合.html",
+      "pages/characters/zuo4_作.html",
+      "pages/daily/topic_huitan.html",
+      "pages/vocab/guanxi_关系.html"
+    ],
+    "hasPage": false
   },
   "河": {
     "cn": "河",
@@ -3701,19 +3747,6 @@
       "pages/characters/he2_合.html",
       "pages/characters/piao4_票.html",
       "pages/grammar/ba_把.html"
-    ],
-    "hasPage": true
-  },
-  "客气": {
-    "cn": "客气",
-    "py": "kèqi",
-    "en": "polite, courteous",
-    "count": 4,
-    "appearsOn": [
-      "pages/daily/topic_kouyu_lianjieci.html",
-      "pages/vocab/li3_礼.html",
-      "pages/vocab/limao_礼貌.html",
-      "pages/vocab/qianxu_谦虚.html"
     ],
     "hasPage": true
   },
@@ -4700,6 +4733,18 @@
     ],
     "hasPage": true
   },
+  "白酒": {
+    "cn": "白酒",
+    "py": "báijiǔ",
+    "en": "baijiu — the spirit most often paired with a hotpot meal",
+    "count": 3,
+    "appearsOn": [
+      "pages/culinary/topic_huoguo.html",
+      "pages/daily/topic_chifan.html",
+      "pages/daily/topic_fanju.html"
+    ],
+    "hasPage": true
+  },
   "北": {
     "cn": "北",
     "py": "běi",
@@ -5180,6 +5225,18 @@
     ],
     "hasPage": true
   },
+  "工人": {
+    "cn": "工人",
+    "py": "gōngrén",
+    "en": "worker; laborer",
+    "count": 3,
+    "appearsOn": [
+      "pages/characters/gong1_工.html",
+      "pages/daily/topic_canguan.html",
+      "pages/vocab/gongzuo_工作.html"
+    ],
+    "hasPage": false
+  },
   "公民": {
     "cn": "公民",
     "py": "gōngmín",
@@ -5285,18 +5342,6 @@
       "pages/characters/hai2_孩.html",
       "pages/characters/jia1_家.html",
       "pages/characters/zi3_子.html"
-    ],
-    "hasPage": false
-  },
-  "合作": {
-    "cn": "合作",
-    "py": "hézuò",
-    "en": "to cooperate",
-    "count": 3,
-    "appearsOn": [
-      "pages/characters/he2_合.html",
-      "pages/characters/zuo4_作.html",
-      "pages/vocab/guanxi_关系.html"
     ],
     "hasPage": false
   },
@@ -5477,6 +5522,18 @@
       "pages/characters/ru2_如.html",
       "pages/grammar/dehua_的话.html",
       "pages/grammar/ruguo_ji_如果就.html"
+    ],
+    "hasPage": false
+  },
+  "价格": {
+    "cn": "价格",
+    "py": "jiàgé",
+    "en": "price",
+    "count": 3,
+    "appearsOn": [
+      "pages/characters/jia4_价.html",
+      "pages/characters/qian2_钱.html",
+      "pages/daily/topic_tanjia.html"
     ],
     "hasPage": false
   },
@@ -6151,6 +6208,18 @@
     ],
     "hasPage": false
   },
+  "请客": {
+    "cn": "请客",
+    "py": "qǐngkè",
+    "en": "treating to a meal",
+    "count": 3,
+    "appearsOn": [
+      "pages/daily/topic_chifan.html",
+      "pages/daily/topic_fanju.html",
+      "pages/daily/topic_shengyi.html"
+    ],
+    "hasPage": false
+  },
   "全部": {
     "cn": "全部",
     "py": "quánbù",
@@ -6292,6 +6361,18 @@
       "pages/religion/topic_minjian.html",
       "pages/vocab/cibi_慈悲.html",
       "pages/vocab/lunhui_轮回.html"
+    ],
+    "hasPage": true
+  },
+  "生产": {
+    "cn": "生产",
+    "py": "shēngchǎn",
+    "en": "to produce",
+    "count": 3,
+    "appearsOn": [
+      "pages/daily/topic_gongchang.html",
+      "pages/vocab/chanpin_产品.html",
+      "pages/vocab/shehui_社会.html"
     ],
     "hasPage": true
   },
@@ -6448,6 +6529,18 @@
       "pages/arts/topic_shuihuzhuan.html",
       "pages/history/topic_mingchao.html",
       "pages/history/topic_yuanchao.html"
+    ],
+    "hasPage": true
+  },
+  "送礼": {
+    "cn": "送礼",
+    "py": "sònglǐ",
+    "en": "to give a gift",
+    "count": 3,
+    "appearsOn": [
+      "pages/daily/topic_fanju.html",
+      "pages/vocab/guanxi_关系.html",
+      "pages/vocab/li3_礼.html"
     ],
     "hasPage": true
   },
@@ -7327,6 +7420,18 @@
     ],
     "hasPage": false
   },
+  "质量": {
+    "cn": "质量",
+    "py": "zhìliàng",
+    "en": "quality; mass",
+    "count": 3,
+    "appearsOn": [
+      "pages/characters/liang4_量.html",
+      "pages/daily/topic_gongchang.html",
+      "pages/daily/topic_tousu.html"
+    ],
+    "hasPage": false
+  },
   "中": {
     "cn": "中",
     "py": "zhōng",
@@ -7490,17 +7595,6 @@
     ],
     "hasPage": true
   },
-  "白酒": {
-    "cn": "白酒",
-    "py": "báijiǔ",
-    "en": "baijiu — the spirit most often paired with a hotpot meal",
-    "count": 2,
-    "appearsOn": [
-      "pages/culinary/topic_huoguo.html",
-      "pages/daily/topic_chifan.html"
-    ],
-    "hasPage": true
-  },
   "百姓": {
     "cn": "百姓",
     "py": "bǎixìng",
@@ -7542,6 +7636,17 @@
     "appearsOn": [
       "pages/characters/fa3_法.html",
       "pages/characters/fang1_方.html"
+    ],
+    "hasPage": false
+  },
+  "办公室": {
+    "cn": "办公室",
+    "py": "bàngōngshì",
+    "en": "office",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/gong1_公.html",
+      "pages/daily/topic_canguan.html"
     ],
     "hasPage": false
   },
@@ -8282,6 +8387,17 @@
     ],
     "hasPage": false
   },
+  "订单": {
+    "cn": "订单",
+    "py": "dìngdān",
+    "en": "order",
+    "count": 2,
+    "appearsOn": [
+      "pages/daily/topic_gongchang.html",
+      "pages/daily/topic_tanjia.html"
+    ],
+    "hasPage": false
+  },
   "东施效颦": {
     "cn": "东施效颦",
     "py": "dōng shī xiào pín",
@@ -8809,28 +8925,6 @@
     ],
     "hasPage": true
   },
-  "工厂": {
-    "cn": "工厂",
-    "py": "gōngchǎng",
-    "en": "factory",
-    "count": 2,
-    "appearsOn": [
-      "pages/characters/gong1_工.html",
-      "pages/vocab/shengchan_生产.html"
-    ],
-    "hasPage": false
-  },
-  "工人": {
-    "cn": "工人",
-    "py": "gōngrén",
-    "en": "worker; laborer",
-    "count": 2,
-    "appearsOn": [
-      "pages/characters/gong1_工.html",
-      "pages/vocab/gongzuo_工作.html"
-    ],
-    "hasPage": false
-  },
   "工业": {
     "cn": "工业",
     "py": "gōngyè",
@@ -9304,6 +9398,17 @@
     ],
     "hasPage": true
   },
+  "会谈": {
+    "cn": "会谈",
+    "py": "huìtán",
+    "en": "business meeting",
+    "count": 2,
+    "appearsOn": [
+      "pages/daily/topic_gongchang.html",
+      "pages/daily/topic_tanjia.html"
+    ],
+    "hasPage": true
+  },
   "魂": {
     "cn": "魂",
     "py": "hún",
@@ -9446,17 +9551,6 @@
       "pages/vocab/mianzi_面子.html"
     ],
     "hasPage": true
-  },
-  "价格": {
-    "cn": "价格",
-    "py": "jiàgé",
-    "en": "price",
-    "count": 2,
-    "appearsOn": [
-      "pages/characters/jia4_价.html",
-      "pages/characters/qian2_钱.html"
-    ],
-    "hasPage": false
   },
   "简体字": {
     "cn": "简体字",
@@ -9763,6 +9857,17 @@
     "appearsOn": [
       "pages/characters/dui4_队.html",
       "pages/characters/wu3_武.html"
+    ],
+    "hasPage": false
+  },
+  "开会": {
+    "cn": "开会",
+    "py": "kāi huì",
+    "en": "to hold a meeting",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/kai1_开.html",
+      "pages/daily/topic_huitan.html"
     ],
     "hasPage": false
   },
@@ -10613,6 +10718,17 @@
     ],
     "hasPage": false
   },
+  "朋友圈": {
+    "cn": "朋友圈",
+    "py": "péngyouquān",
+    "en": "circle of friends; WeChat Moments",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/peng2_朋.html",
+      "pages/daily/topic_weixin.html"
+    ],
+    "hasPage": false
+  },
   "偏旁": {
     "cn": "偏旁",
     "py": "piānpáng",
@@ -10797,17 +10913,6 @@
     "appearsOn": [
       "pages/characters/yin1_阴.html",
       "pages/characters/yun2_云.html"
-    ],
-    "hasPage": false
-  },
-  "请客": {
-    "cn": "请客",
-    "py": "qǐngkè",
-    "en": "treating to a meal",
-    "count": 2,
-    "appearsOn": [
-      "pages/daily/topic_chifan.html",
-      "pages/daily/topic_shengyi.html"
     ],
     "hasPage": false
   },
@@ -11152,17 +11257,6 @@
     ],
     "hasPage": false
   },
-  "生产": {
-    "cn": "生产",
-    "py": "shēngchǎn",
-    "en": "to produce; production; manufacturing",
-    "count": 2,
-    "appearsOn": [
-      "pages/vocab/chanpin_产品.html",
-      "pages/vocab/shehui_社会.html"
-    ],
-    "hasPage": true
-  },
   "生词": {
     "cn": "生词",
     "py": "shēngcí",
@@ -11195,6 +11289,17 @@
       "pages/characters/ri4_日.html"
     ],
     "hasPage": false
+  },
+  "生意": {
+    "cn": "生意",
+    "py": "shēngyì",
+    "en": "doing business",
+    "count": 2,
+    "appearsOn": [
+      "pages/daily/topic_duliangheng.html",
+      "pages/daily/topic_huitan.html"
+    ],
+    "hasPage": true
   },
   "失败": {
     "cn": "失败",
@@ -11567,17 +11672,6 @@
     "appearsOn": [
       "pages/characters/jie1_接.html",
       "pages/grammar/gei_给.html"
-    ],
-    "hasPage": true
-  },
-  "送礼": {
-    "cn": "送礼",
-    "py": "sònglǐ",
-    "en": "gift-giving",
-    "count": 2,
-    "appearsOn": [
-      "pages/vocab/guanxi_关系.html",
-      "pages/vocab/li3_礼.html"
     ],
     "hasPage": true
   },
@@ -12811,6 +12905,17 @@
     ],
     "hasPage": false
   },
+  "邮件": {
+    "cn": "邮件",
+    "py": "yóujiàn",
+    "en": "mail; email",
+    "count": 2,
+    "appearsOn": [
+      "pages/characters/jian4_件.html",
+      "pages/daily/topic_weixin.html"
+    ],
+    "hasPage": false
+  },
   "有": {
     "cn": "有",
     "py": "yǒu",
@@ -13821,16 +13926,6 @@
     ],
     "hasPage": false
   },
-  "办公室": {
-    "cn": "办公室",
-    "py": "bàngōngshì",
-    "en": "office",
-    "count": 1,
-    "appearsOn": [
-      "pages/characters/gong1_公.html"
-    ],
-    "hasPage": false
-  },
   "半": {
     "cn": "半",
     "py": "bàn",
@@ -13898,6 +13993,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/bao3_饱.html"
+    ],
+    "hasPage": false
+  },
+  "包间": {
+    "cn": "包间",
+    "py": "bāojiān",
+    "en": "private dining room",
+    "count": 1,
+    "appearsOn": [
+      "pages/daily/topic_fanju.html"
     ],
     "hasPage": false
   },
@@ -13978,6 +14083,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/bao4_报.html"
+    ],
+    "hasPage": false
+  },
+  "报价": {
+    "cn": "报价",
+    "py": "bàojià",
+    "en": "quotation",
+    "count": 1,
+    "appearsOn": [
+      "pages/daily/topic_huitan.html"
     ],
     "hasPage": false
   },
@@ -14671,6 +14786,16 @@
     ],
     "hasPage": false
   },
+  "不良率": {
+    "cn": "不良率",
+    "py": "bùliánglǜ",
+    "en": "defect rate",
+    "count": 1,
+    "appearsOn": [
+      "pages/daily/topic_tousu.html"
+    ],
+    "hasPage": false
+  },
   "不平等条约": {
     "cn": "不平等条约",
     "py": "bùpíngděng tiáoyuē",
@@ -15071,6 +15196,26 @@
     ],
     "hasPage": false
   },
+  "厂房": {
+    "cn": "厂房",
+    "py": "chǎngfáng",
+    "en": "factory building",
+    "count": 1,
+    "appearsOn": [
+      "pages/daily/topic_canguan.html"
+    ],
+    "hasPage": false
+  },
+  "厂家": {
+    "cn": "厂家",
+    "py": "chǎngjiā",
+    "en": "manufacturer",
+    "count": 1,
+    "appearsOn": [
+      "pages/daily/topic_gongchang.html"
+    ],
+    "hasPage": false
+  },
   "场": {
     "cn": "场",
     "py": "chǎng",
@@ -15188,6 +15333,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/piao4_票.html"
+    ],
+    "hasPage": false
+  },
+  "车间": {
+    "cn": "车间",
+    "py": "chējiān",
+    "en": "workshop, shop floor",
+    "count": 1,
+    "appearsOn": [
+      "pages/daily/topic_gongchang.html"
     ],
     "hasPage": false
   },
@@ -16341,6 +16496,16 @@
     ],
     "hasPage": false
   },
+  "代工": {
+    "cn": "代工",
+    "py": "dàigōng",
+    "en": "contract manufacturing, OEM",
+    "count": 1,
+    "appearsOn": [
+      "pages/daily/topic_gongchang.html"
+    ],
+    "hasPage": false
+  },
   "代价": {
     "cn": "代价",
     "py": "dàijià",
@@ -16751,6 +16916,16 @@
     ],
     "hasPage": false
   },
+  "地铁": {
+    "cn": "地铁",
+    "py": "dìtiě",
+    "en": "subway",
+    "count": 1,
+    "appearsOn": [
+      "pages/daily/topic_chuxing.html"
+    ],
+    "hasPage": false
+  },
   "地图": {
     "cn": "地图",
     "py": "dìtú",
@@ -17138,6 +17313,16 @@
     "count": 1,
     "appearsOn": [
       "pages/grammar/ba_把.html"
+    ],
+    "hasPage": false
+  },
+  "订金": {
+    "cn": "订金",
+    "py": "dìngjīn",
+    "en": "advance payment",
+    "count": 1,
+    "appearsOn": [
+      "pages/daily/topic_tanjia.html"
     ],
     "hasPage": false
   },
@@ -17751,6 +17936,16 @@
     ],
     "hasPage": false
   },
+  "二维码": {
+    "cn": "二维码",
+    "py": "èrwéimǎ",
+    "en": "QR code",
+    "count": 1,
+    "appearsOn": [
+      "pages/daily/topic_weixin.html"
+    ],
+    "hasPage": false
+  },
   "发": {
     "cn": "发",
     "py": "fā",
@@ -17828,6 +18023,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/fa3_法.html"
+    ],
+    "hasPage": false
+  },
+  "法人": {
+    "cn": "法人",
+    "py": "fǎrén",
+    "en": "legal representative",
+    "count": 1,
+    "appearsOn": [
+      "pages/daily/topic_hetong.html"
     ],
     "hasPage": false
   },
@@ -17911,6 +18116,16 @@
     ],
     "hasPage": false
   },
+  "反馈": {
+    "cn": "反馈",
+    "py": "fǎnkuì",
+    "en": "feedback",
+    "count": 1,
+    "appearsOn": [
+      "pages/daily/topic_tousu.html"
+    ],
+    "hasPage": false
+  },
   "反应": {
     "cn": "反应",
     "py": "fǎnyìng",
@@ -17918,6 +18133,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/ying1_应.html"
+    ],
+    "hasPage": false
+  },
+  "返工": {
+    "cn": "返工",
+    "py": "fǎngōng",
+    "en": "rework",
+    "count": 1,
+    "appearsOn": [
+      "pages/daily/topic_tousu.html"
     ],
     "hasPage": false
   },
@@ -18611,6 +18836,16 @@
     ],
     "hasPage": false
   },
+  "盖章": {
+    "cn": "盖章",
+    "py": "gàizhāng",
+    "en": "to stamp a seal",
+    "count": 1,
+    "appearsOn": [
+      "pages/daily/topic_hetong.html"
+    ],
+    "hasPage": false
+  },
   "甘": {
     "cn": "甘",
     "py": "gān",
@@ -19051,6 +19286,16 @@
     ],
     "hasPage": false
   },
+  "工业区": {
+    "cn": "工业区",
+    "py": "gōngyèqū",
+    "en": "industrial zone",
+    "count": 1,
+    "appearsOn": [
+      "pages/daily/topic_canguan.html"
+    ],
+    "hasPage": false
+  },
   "工资": {
     "cn": "工资",
     "py": "gōngzī",
@@ -19188,6 +19433,16 @@
     "count": 1,
     "appearsOn": [
       "pages/vocab/chanpin_产品.html"
+    ],
+    "hasPage": false
+  },
+  "供应商": {
+    "cn": "供应商",
+    "py": "gōngyìngshāng",
+    "en": "supplier",
+    "count": 1,
+    "appearsOn": [
+      "pages/daily/topic_gongchang.html"
     ],
     "hasPage": false
   },
@@ -20221,6 +20476,16 @@
     ],
     "hasPage": false
   },
+  "合同": {
+    "cn": "合同",
+    "py": "hétong",
+    "en": "contract",
+    "count": 1,
+    "appearsOn": [
+      "pages/daily/topic_tanjia.html"
+    ],
+    "hasPage": true
+  },
   "何况": {
     "cn": "何况",
     "py": "hékuàng",
@@ -20608,6 +20873,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/cheng2_城.html"
+    ],
+    "hasPage": false
+  },
+  "护照": {
+    "cn": "护照",
+    "py": "hùzhào",
+    "en": "passport",
+    "count": 1,
+    "appearsOn": [
+      "pages/daily/topic_chuxing.html"
     ],
     "hasPage": false
   },
@@ -21071,6 +21346,16 @@
     ],
     "hasPage": false
   },
+  "回复": {
+    "cn": "回复",
+    "py": "huífù",
+    "en": "to reply",
+    "count": 1,
+    "appearsOn": [
+      "pages/daily/topic_weixin.html"
+    ],
+    "hasPage": false
+  },
   "回家": {
     "cn": "回家",
     "py": "huí jiā",
@@ -21208,6 +21493,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/huo2_活.html"
+    ],
+    "hasPage": false
+  },
+  "火车站": {
+    "cn": "火车站",
+    "py": "huǒchēzhàn",
+    "en": "railway station",
+    "count": 1,
+    "appearsOn": [
+      "pages/daily/topic_chuxing.html"
     ],
     "hasPage": false
   },
@@ -22031,6 +22326,16 @@
     ],
     "hasPage": false
   },
+  "交期": {
+    "cn": "交期",
+    "py": "jiāoqī",
+    "en": "delivery lead time",
+    "count": 1,
+    "appearsOn": [
+      "pages/daily/topic_huitan.html"
+    ],
+    "hasPage": false
+  },
   "交通": {
     "cn": "交通",
     "py": "jiāotōng",
@@ -22781,6 +23086,26 @@
     ],
     "hasPage": false
   },
+  "酒店": {
+    "cn": "酒店",
+    "py": "jiǔdiàn",
+    "en": "hotel",
+    "count": 1,
+    "appearsOn": [
+      "pages/daily/topic_chuxing.html"
+    ],
+    "hasPage": false
+  },
+  "酒量": {
+    "cn": "酒量",
+    "py": "jiǔliàng",
+    "en": "capacity for drink",
+    "count": 1,
+    "appearsOn": [
+      "pages/daily/topic_fanju.html"
+    ],
+    "hasPage": false
+  },
   "旧历": {
     "cn": "旧历",
     "py": "jiùlì",
@@ -23131,16 +23456,6 @@
     ],
     "hasPage": false
   },
-  "开会": {
-    "cn": "开会",
-    "py": "kāi huì",
-    "en": "to hold a meeting",
-    "count": 1,
-    "appearsOn": [
-      "pages/characters/kai1_开.html"
-    ],
-    "hasPage": false
-  },
   "开头": {
     "cn": "开头",
     "py": "kāitóu",
@@ -23178,6 +23493,16 @@
     "count": 1,
     "appearsOn": [
       "pages/vocab/fengshui_风水.html"
+    ],
+    "hasPage": false
+  },
+  "砍价": {
+    "cn": "砍价",
+    "py": "kǎnjià",
+    "en": "to haggle",
+    "count": 1,
+    "appearsOn": [
+      "pages/daily/topic_tanjia.html"
     ],
     "hasPage": false
   },
@@ -23498,6 +23823,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/chan2_禅.html"
+    ],
+    "hasPage": false
+  },
+  "口头承诺": {
+    "cn": "口头承诺",
+    "py": "kǒutóu chéngnuò",
+    "en": "verbal promise",
+    "count": 1,
+    "appearsOn": [
+      "pages/daily/topic_hetong.html"
     ],
     "hasPage": false
   },
@@ -24148,6 +24483,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/ji3_己.html"
+    ],
+    "hasPage": false
+  },
+  "利润": {
+    "cn": "利润",
+    "py": "lìrùn",
+    "en": "profit",
+    "count": 1,
+    "appearsOn": [
+      "pages/daily/topic_tanjia.html"
     ],
     "hasPage": false
   },
@@ -25208,6 +25553,16 @@
     "count": 1,
     "appearsOn": [
       "pages/vocab/siluzhilu_丝绸之路.html"
+    ],
+    "hasPage": false
+  },
+  "贸易公司": {
+    "cn": "贸易公司",
+    "py": "màoyì gōngsī",
+    "en": "trading company",
+    "count": 1,
+    "appearsOn": [
+      "pages/daily/topic_canguan.html"
     ],
     "hasPage": false
   },
@@ -26431,16 +26786,6 @@
     ],
     "hasPage": false
   },
-  "朋友圈": {
-    "cn": "朋友圈",
-    "py": "péngyouquān",
-    "en": "circle of friends; WeChat Moments",
-    "count": 1,
-    "appearsOn": [
-      "pages/characters/peng2_朋.html"
-    ],
-    "hasPage": false
-  },
   "批斗会": {
     "cn": "批斗会",
     "py": "pīdòu huì",
@@ -27121,6 +27466,16 @@
     ],
     "hasPage": false
   },
+  "签字": {
+    "cn": "签字",
+    "py": "qiānzì",
+    "en": "to sign",
+    "count": 1,
+    "appearsOn": [
+      "pages/daily/topic_hetong.html"
+    ],
+    "hasPage": false
+  },
   "前辈": {
     "cn": "前辈",
     "py": "qiánbèi",
@@ -27711,6 +28066,16 @@
     ],
     "hasPage": false
   },
+  "确认": {
+    "cn": "确认",
+    "py": "quèrèn",
+    "en": "to confirm",
+    "count": 1,
+    "appearsOn": [
+      "pages/daily/topic_weixin.html"
+    ],
+    "hasPage": false
+  },
   "群体": {
     "cn": "群体",
     "py": "qúntǐ",
@@ -27868,6 +28233,16 @@
     "count": 1,
     "appearsOn": [
       "pages/vocab/guanxi_关系.html"
+    ],
+    "hasPage": false
+  },
+  "人民币": {
+    "cn": "人民币",
+    "py": "rénmínbì",
+    "en": "renminbi, RMB",
+    "count": 1,
+    "appearsOn": [
+      "pages/daily/topic_tanjia.html"
     ],
     "hasPage": false
   },
@@ -28441,6 +28816,16 @@
     ],
     "hasPage": false
   },
+  "商标": {
+    "cn": "商标",
+    "py": "shāngbiāo",
+    "en": "trademark",
+    "count": 1,
+    "appearsOn": [
+      "pages/daily/topic_hetong.html"
+    ],
+    "hasPage": false
+  },
   "商朝": {
     "cn": "商朝",
     "py": "Shāng cháo",
@@ -28820,16 +29205,6 @@
       "pages/characters/lian4_练.html"
     ],
     "hasPage": false
-  },
-  "生意": {
-    "cn": "生意",
-    "py": "shēngyì",
-    "en": "doing business",
-    "count": 1,
-    "appearsOn": [
-      "pages/daily/topic_duliangheng.html"
-    ],
-    "hasPage": true
   },
   "生长": {
     "cn": "生长",
@@ -29851,6 +30226,16 @@
     ],
     "hasPage": false
   },
+  "司机": {
+    "cn": "司机",
+    "py": "sījī",
+    "en": "driver",
+    "count": 1,
+    "appearsOn": [
+      "pages/daily/topic_chuxing.html"
+    ],
+    "hasPage": false
+  },
   "私": {
     "cn": "私",
     "py": "sī",
@@ -30338,6 +30723,26 @@
     "count": 1,
     "appearsOn": [
       "pages/vocab/renzhen_认真.html"
+    ],
+    "hasPage": false
+  },
+  "谈价": {
+    "cn": "谈价",
+    "py": "tánjià",
+    "en": "price negotiation",
+    "count": 1,
+    "appearsOn": [
+      "pages/daily/topic_hetong.html"
+    ],
+    "hasPage": true
+  },
+  "谈判": {
+    "cn": "谈判",
+    "py": "tánpàn",
+    "en": "negotiation",
+    "count": 1,
+    "appearsOn": [
+      "pages/daily/topic_huitan.html"
     ],
     "hasPage": false
   },
@@ -31048,6 +31453,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/jiao3_脚.html"
+    ],
+    "hasPage": false
+  },
+  "退货": {
+    "cn": "退货",
+    "py": "tuìhuò",
+    "en": "to return goods",
+    "count": 1,
+    "appearsOn": [
+      "pages/daily/topic_tousu.html"
     ],
     "hasPage": false
   },
@@ -33051,6 +33466,16 @@
     ],
     "hasPage": false
   },
+  "协议": {
+    "cn": "协议",
+    "py": "xiéyì",
+    "en": "agreement",
+    "count": 1,
+    "appearsOn": [
+      "pages/daily/topic_hetong.html"
+    ],
+    "hasPage": false
+  },
   "协助": {
     "cn": "协助",
     "py": "xiézhù",
@@ -34061,6 +34486,16 @@
     ],
     "hasPage": false
   },
+  "样品间": {
+    "cn": "样品间",
+    "py": "yàngpǐnjiān",
+    "en": "sample room",
+    "count": 1,
+    "appearsOn": [
+      "pages/daily/topic_canguan.html"
+    ],
+    "hasPage": false
+  },
   "谣言": {
     "cn": "谣言",
     "py": "yáoyán",
@@ -34388,6 +34823,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/wen4_问.html"
+    ],
+    "hasPage": false
+  },
+  "已读不回": {
+    "cn": "已读不回",
+    "py": "yǐ dú bù huí",
+    "en": "read but no reply",
+    "count": 1,
+    "appearsOn": [
+      "pages/daily/topic_weixin.html"
     ],
     "hasPage": false
   },
@@ -34888,16 +35333,6 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/ru2_如.html"
-    ],
-    "hasPage": false
-  },
-  "邮件": {
-    "cn": "邮件",
-    "py": "yóujiàn",
-    "en": "mail; email",
-    "count": 1,
-    "appearsOn": [
-      "pages/characters/jian4_件.html"
     ],
     "hasPage": false
   },
@@ -35761,6 +36196,16 @@
     ],
     "hasPage": false
   },
+  "责任": {
+    "cn": "责任",
+    "py": "zérèn",
+    "en": "responsibility",
+    "count": 1,
+    "appearsOn": [
+      "pages/daily/topic_tousu.html"
+    ],
+    "hasPage": false
+  },
   "怎么样": {
     "cn": "怎么样",
     "py": "zěnmeyàng",
@@ -36261,6 +36706,16 @@
     ],
     "hasPage": false
   },
+  "证据": {
+    "cn": "证据",
+    "py": "zhèngjù",
+    "en": "evidence",
+    "count": 1,
+    "appearsOn": [
+      "pages/daily/topic_tousu.html"
+    ],
+    "hasPage": false
+  },
   "郑和": {
     "cn": "郑和",
     "py": "Zhèng Hé",
@@ -36301,6 +36756,16 @@
     ],
     "hasPage": false
   },
+  "支付宝": {
+    "cn": "支付宝",
+    "py": "Zhīfùbǎo",
+    "en": "Alipay",
+    "count": 1,
+    "appearsOn": [
+      "pages/daily/topic_chuxing.html"
+    ],
+    "hasPage": false
+  },
   "枝": {
     "cn": "枝",
     "py": "zhī",
@@ -36328,6 +36793,16 @@
     "count": 1,
     "appearsOn": [
       "pages/history/topic_wenge.html"
+    ],
+    "hasPage": false
+  },
+  "知识产权": {
+    "cn": "知识产权",
+    "py": "zhīshi chǎnquán",
+    "en": "intellectual property",
+    "count": 1,
+    "appearsOn": [
+      "pages/daily/topic_hetong.html"
     ],
     "hasPage": false
   },
@@ -36528,16 +37003,6 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/bing4_病.html"
-    ],
-    "hasPage": false
-  },
-  "质量": {
-    "cn": "质量",
-    "py": "zhìliàng",
-    "en": "quality; mass",
-    "count": 1,
-    "appearsOn": [
-      "pages/characters/liang4_量.html"
     ],
     "hasPage": false
   },
