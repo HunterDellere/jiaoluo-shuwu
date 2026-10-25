@@ -151,7 +151,7 @@ export function resolveHsk(card, charHskMap) {
 // concrete learning intent.
 // Source pages of the factory-visit series (content/daily/*.md).
 const FACTORY_VISIT_PAGES = new Set([
-  'huitan', 'gongchang', 'tanjia', 'hetong', 'tousu', 'canguan', 'fanju', 'weixin', 'chuxing',
+  'huitan', 'gongchang', 'tanjia', 'hetong', 'tousu', 'canguan', 'fanju', 'weixin', 'chuxing', 'shuibei',
 ].map(slug => `daily/topic_${slug}.md`));
 
 const INTENT_DECKS = [

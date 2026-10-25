@@ -1,10 +1,36 @@
 //角落書屋/Slices/Engineering
+保冷	bǎo lěng	keeps cold
+保温杯	bǎo wēn bēi	vacuum bottle
+保温效果	bǎo wēn xiào guǒ	insulation performance — The Chinese national standard for stainless vacuum cups, GB/T 29606, defines a test with water at 95°C measured after a set number of hours. Specify the conditions when you compare claims: starting temperature, fill level, lid on, room temperature, hours.
+杯盖	bēi gài	lid — Most leaks and most complaints are in the lid, not the steel. Types: 螺旋盖 (screw cap), 弹跳盖 (tántiào gài, flip or push-button lid), 吸管盖 (xīguǎn gài, straw lid), 茶隔 (chágé, tea strainer). Each moving part is another seal to test.
+玻璃	bō li	glass
+不锈钢	bù xiù gāng	stainless steel — Grades by number: 201 is cheaper and less corrosion-resistant, 304 is the common food-contact grade, 316 adds molybdenum for better resistance to acids and salt. 材质 (cáizhì) is "material" in the sense of grade and composition.
+测温	cè wēn	temperature screening — After vacuuming, each bottle is filled with hot water and its outer wall checked by hand or infrared (红外 hóngwài) to catch failed vacuums. It catches gross failures on the day, not slow leaks, which is why a sample is also held for a longer test (放置 fàngzhì, left to stand) before shipment.
+吹制	chuī zhì	blown (by hand or mouth) — Borosilicate bottles are either 人工吹制 (hand-blown) or 机制 (jīzhì, machine-made). Hand-blown pieces vary more in wall thickness and weight; machine-made are more consistent and cheaper at volume.
+电解	diàn jiě	electropolishing — Smooths the inside of the liner so it cleans easily and resists staining and odour. Ask whether every liner is electropolished or only polished mechanically.
+定制	dìng zhì	to customise — Logo methods for drinkware: 丝印 (screen print), 移印 (yíyìn, pad print, for curved small areas), 镭雕 (laser engraving), 热转印 (rèzhuǎnyìn, heat transfer, for full-colour wraps), 水转印 (water transfer). Each has its own MOQ and wear resistance.
+镀铜	dù tóng	copper plating — On the outside of the liner, inside the vacuum gap, where it reflects heat. It never touches the drink. Ask whether it is used, since it changes insulation performance at the same wall thickness.
 高铁	gāo tiě	high-speed rail — Trains are booked on the official 12306 app or site (it has an English version) or through travel apps, and your passport is the ticket: it is checked at the station entrance and at the gate. 动车 (dòngchē) are slightly slower bullet trains. Arrive early; large stations have security checks.
+工厂	gōng chǎng	factory
 工程师	gōng chéng shī	engineer — 工程 gōngchéng (engineering; project , lit. "work + process") + 师 shī (master; teacher; professional). Engineer , one of the most respected professional titles in China, associated with the nation's modernization drive. 工程 alone means a large project or undertaking: 三峡工程 = Three Gorges Project.
+管材	guǎn cái	tube stock — Bodies are made either from welded tube (管材, cut to length) or drawn from sheet (板材 bǎncái). Tube needs a lengthwise seam weld; a drawn body has no side seam. Both work; the question is how the seam is finished and checked.
+光谱仪	guāng pǔ yí	spectrometer — A handheld analyser gives a material reading in seconds on the floor. Ask to see it on a liner from your own production.
+硅胶	guī jiāo	silicone
+激光焊	jī guāng hàn	laser welding — The usual way to join liner and shell at the mouth; 氩弧焊 (yàhúhàn, TIG welding) is the older method. 焊缝 (hànfèng) is the weld seam. A weld that is not fully sealed (焊不牢 or 虚焊 xūhàn, a false weld) lets air back in and the bottle loses its insulation weeks later.
 建筑	jiàn zhù	Architecture, building — Architecture, building. 建筑师 (jiànzhùshī) is an architect, distinct from the 工程师 who makes the building stand up. As a verb, 建 alone means to build: 建一座桥, build a bridge.
 科学	kē xu é	science; scientific — 科 kē (branch; category; department) + 学 xué (learning; -ology). Lit. "categorized learning" , the systematic division of knowledge into disciplines. Coined as a translation for Western "science" in the late 19th century.
+气泡	qì pào	bubble (in glass) — With 结石 (jiéshí, stones, unmelted particles) and 冷纹 (lěngwén, cold marks), the visual defects to agree limits for, by size and number per piece.
 桥梁	qiáo liáng	bridge; bridging structure — Bridge, in the formal engineering register (spoken Chinese just says 桥). Used figuratively exactly as in English: a person or institution can be a 桥梁 between two sides.
+容量	róng liàng	capacity: how much a container or system can hold — 容 róng (to contain, to hold) + 量 liàng (amount). The maximum a vessel, device, or system can take in: a bottle's volume, a battery's charge, a hard drive's storage, a hall's seating. 电池容量 (battery capacity), 硬盘容量 (disk capacity), 存储容量 (storage capacity).
+色号	sè hào	colour code — Usually a Pantone number (潘通色号). Approve colour on the real coated steel, not on paper; 色卡 (sèkǎ) is the colour card, 色板 a coated swatch.
 设计	shè jì	To design; a design — To design; a design. 设计师 (shèjìshī) covers designers from fashion to industrial. In engineering documents, 设计院 (design institute) is the state-descended firm that produces the drawings.
 施工	shī gōng	To carry out construction — To carry out construction: "execute the work." The word on every fence and detour sign. 施工中 means "under construction," on streets and, borrowed, on websites.
+手板	shǒu bǎn	prototype (hand-made) — A model made before tooling, by CNC or 3D printing (3D打印), to check look and fit. It proves shape, not production quality.
 数学	shù xu é	Mathematics — Mathematics: number-study. 数学家 (shùxuéjiā) is a mathematician; 数学课 (shùxué kè) is math class, the collocation every student uses daily.
+水壶	shuǐ hú	kettle, water bottle
 四大发明	sì dà fā míng	the Four Great Inventions
+塑料	sù liào	plastic — PP (聚丙烯 jùbǐngxī) is the common, cheap lid plastic. Tritan (said as the English name) is a clear, rigid copolyester marketed as 不含双酚A (bù hán shuāngfēn A, BPA-free). Ask for the resin supplier's certificate, since "Tritan" on a quote can mean something else in the part.
+退火	tuì huǒ	annealing — Slow controlled cooling that removes internal stress. Poor annealing is a cause of bottles cracking under temperature changes later. 应力 (yìnglì) is stress; a 应力仪 (stress viewer) shows it as coloured bands.
+吸管	xī guǎn	straw
+盐雾测试	yán wù cè shì	salt spray test — Tests corrosion resistance of the steel and the coating, measured in hours. The usual companions: 洗碗机测试 (xǐwǎnjī cèshì, dishwasher cycles), 百格测试 (cross-hatch adhesion), 耐磨测试 (abrasion), 跌落测试 (drop), 倒置漏水测试 (dàozhì, upside-down leak test).
+注塑缺陷	zhù sù qu ē xiàn	injection-molding defects — 缩水 (suōshuǐ) sink marks, 飞边 (fēibiān) flash, 熔接线 (róngjiēxiàn) weld lines, 浇口 (jiāokǒu) the gate mark where plastic entered, 气纹 flow marks. Name them precisely in a complaint.

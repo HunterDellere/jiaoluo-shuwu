@@ -2030,6 +2030,7 @@
 电灯	diàn dēng	electric light, lamp — 电 (diàn, electric) + 灯 (lamp): the everyday electric light or bulb. The default ceiling and desk light in a modern home, as opposed to candle or oil flame.
 电话	diàn huà	telephone; a phone call — 电 diàn (electric) + 话 huà (speech). Speech carried on electricity, the telephone, and by extension the call itself: 打电话 dǎ diànhuà "to make a phone call," 接电话 "to answer the phone."
 电汇	diàn huì	wire transfer (T/T) — "Electric remittance," usually just called T/T. 信用证 (xìnyòngzhèng) is a letter of credit (L/C), slower and more paperwork, with the bank standing between the parties.
+电解	diàn jiě	electropolishing — Smooths the inside of the liner so it cleans easily and resists staining and odour. Ask whether every liner is electropolished or only polished mechanically.
 电脑	diàn nǎo	Computer — Computer: electric brain. 台式电脑 is a desktop, 笔记本 a laptop. The formal 计算机 persists in degree names and government documents.
 电影	diàn yǐng	film; movie — lit. "electric shadow" — 电 diàn (electric) + 影 yǐng (shadow; reflection; image). Film, movie , named for the projected shadows of early cinema. 看电影 = to watch a film. 电影院 = cinema. 电影节 = film festival (Cannes 戛纳电影节, Venice 威尼斯电影节, Berlin 柏林电影节, Hong Kong 香港电影节).
 电影票	diàn yǐng piào	movie ticket: a ticket for a film screening — 电影 diànyǐng (film; movie) + 票 piào (ticket). A cinema ticket. The 票 here pulls double duty: it admits you to the hall and assigns you a seat. The takings a film earns at the box office are its 票房 piàofáng, literally the ticket room, the modern measure of a movie's success.
@@ -2049,6 +2050,7 @@
 调子	diào zi	tune; melody; tone (of voice or mood) — 调 diào (melody, pitch) + 子 zi (noun suffix). A tune or melody, and figuratively the pitch or mood of speech or writing. 唱调子 (carry a tune), 定调子 (set the tone, decide the direction). The everyday word for the shape of a sound.
 订金	dìng jīn	advance payment
 定语	dìng yǔ	attributive modifier
+定制	dìng zhì	to customise — Logo methods for drinkware: 丝印 (screen print), 移印 (yíyìn, pad print, for curved small areas), 镭雕 (laser engraving), 热转印 (rèzhuǎnyìn, heat transfer, for full-colour wraps), 水转印 (water transfer). Each has its own MOQ and wear resistance.
 丢脸	diū liǎn	to lose moral face; to be shamed; disgraceful — More severe than 丢面子. 丢脸 involves an element of moral failure , betrayal, cheating, acting in ways that contradict one's stated principles. Can affect not just the individual but their family and group. The scope is broader and the damage more lasting than simple social embarrassment.
 丢面子	diū miàn zi	to lose face; to be publicly embarrassed — 丢 diū (to lose; to throw away , the losing of something you once had). To lose face is not merely to feel embarrassed privately; it is to have one's standing visibly diminished in the eyes of others. The public, witnessed nature of face-loss is what makes it significant.
 东北	dōng běi	Northeast; Manchuria — 东 (east) + 北 (north). In Chinese geography, 东北 almost always means Northeast China , the three provinces of Liaoning, Jilin, and Heilongjiang, corresponding roughly to historical Manchuria (满洲 Mǎnzhōu).
@@ -3538,6 +3540,7 @@
 气场	qì chǎng	aura; energy field; presence (modern slang) — 气 qì + 场 chǎng (field, as in electromagnetic field or a venue). Originally a TCM and qigong term for the field of qi that radiates from a practitioner. Absorbed into popular culture as a way of describing the palpable aura of a charismatic person. 气场强 = powerful aura; 气场弱 = weak presence.
 气愤	qì fèn	indignant; righteously angry — 气 qì + 愤 fèn (indignation; righteous anger, from the image of qi pressing against the heart). Slightly stronger and more formal than 生气. Implies that the anger is justified, that you are responding to something genuinely unfair or wrong. Less colloquial, more dignified.
 气候	qì hòu	climate; the long-term atmospheric pattern — 气 qì + 候 hòu (season; to wait; signs). 候 originally referred to the five-day intervals used in classical Chinese to track seasonal changes. 气候 is the patterned behavior of atmospheric qi over time: climate, not weather. Also used metaphorically: 政治气候 (political climate).
+气泡	qì pào	bubble (in glass) — With 结石 (jiéshí, stones, unmelted particles) and 冷纹 (lěngwén, cold marks), the visual defects to agree limits for, by size and number per piece.
 气色	qì sè	complexion; appearance of health (lit. "qi-color") — 气 qì + 色 sè (color; appearance). In TCM, the complexion (the color and quality of the face) is a direct index of the health of one's internal qi. 气色好 (good complexion) = qi is ample and circulating freely; 气色差 (poor complexion) = qi is deficient or blocked. A doctor's first diagnostic tool.
 气势	qì shì	momentum; imposing presence; force of spirit — 气 qì + 势 shì (power; momentum; force, the potential energy of a situation). The directed force of qi, outward projection of power rather than inner refinement (气质). An army, a waterfall, a master calligrapher's brushstroke, a confident leader entering a room: all can have 气势.
 气温	qì wēn	air temperature — 气 qì (air; atmospheric qi) + 温 wēn (warmth; temperature). The temperature of the air, a meteorological and everyday term. Used in weather reports, health advice, and daily conversation about the feel of a day.
@@ -3759,6 +3762,7 @@
 散文	sǎn wén	prose; essay
 嗓子	sǎng zi	throat; voice
 骚体	sāo tǐ	The "Sao style" , the poetic tradition derived from Qu Yuan's 离骚, characterized by longer lines, the medial particle 兮 xī, lavish botanical and spiritual imagery, and the theme of exile and unrecognized virtue. One of the two foundational styles of classical Chinese poetry.
+色号	sè hào	colour code — Usually a Pantone number (潘通色号). Approve colour on the real coated steel, not on paper; 色卡 (sèkǎ) is the colour card, 色板 a coated swatch.
 色即是空	sè jí shì kōng	form is exactly emptiness
 色即是空，空即是色	sè jí shì kōng , kōng jí shì sè	form is exactly emptiness; emptiness is exactly form — The most quoted line of the Heart Sutra and arguably of any Mahāyāna text. The eight characters fold the entire teaching of emptiness into a single chiastic formula. Quoted across East Asian literature, philosophy, calligraphy, contemporary fiction, and advertising.
 僧璨 · 道信 · 弘忍	Sēng càn Dào xìn Hóng rěn	Third, fourth, and fifth patriarchs — 僧璨 Sengcan (d. 606 CE), the third patriarch, is remembered for the 信心铭 Xìnxīn Míng (Verses on the Faith-Mind), a verse text expressing the Chan teaching that discriminating mind (the tendency to prefer and reject) is the root of suffering.
@@ -3949,6 +3953,7 @@
 适合	shì hé	to suit; to be suited to; to fit — 适 shì (to be apt) + 合 hé (to fit). A verb taking an object: X 适合 Y means X suits Y. 这本书适合孩子 "this book is suited to children."
 适应	shì yìng	to adapt; to get used to; to suit — 适 shì (to suit) + 应 yìng (to respond, to meet). To adjust oneself to new circumstances: 适应环境 (adapt to the environment), 适应新工作 (get used to a new job). The response here is the slow one of fitting in over time.
 收到	shōu dào	received, noted — The standard acknowledgement. 好的 (hǎo de) is "okay," 明白 (míngbai) "understood," 收到，谢谢 the polite version. Acknowledging promptly is expected; silence reads as a problem.
+手板	shǒu bǎn	prototype (hand-made) — A model made before tooling, by CNC or 3D printing (3D打印), to check look and fit. It proves shape, not production quality.
 手表	shǒu biǎo	wristwatch: a watch worn on the wrist (錶 in traditional script) — 手 shǒu (hand; wrist) + 表 biǎo (here the instrument sense, written 錶 in traditional script). A wristwatch. This is the sense that traditional writing marks with the metal radical (錶), since a watch is a metal device whose face displays a reading. Simplified Chinese writes it 表.
 手工	shǒu gōng	handmade; handicraft
 手机	shǒu jī	mobile phone — lit. "hand machine" — 手 shǒu (hand) + 机 jī (machine). China's most common word for mobile phone , the machine held in the hand. Completely replaced the earlier 手提电话 and the formal 移动电话 in everyday usage. 玩手机 wán shǒujī = "to play on one's phone" (ubiquitous activity).
@@ -3998,6 +4003,7 @@
 双重	shuāng chóng	double; dual; twofold — 双 shuāng (pair; double) + 重 chóng (layer). Two layers of the same thing: 双重标准 "double standard," 双重身份 "dual identity." Here 重 is the layer-counting chóng.
 水单	shuǐ dān	bank remittance slip — The bank's proof that you sent the money, also 汇款水单. The factory will ask for it the moment you say you have paid, and production often waits for it. Send it promptly; it is the fastest way to start the lead-time clock.
 水果	shuǐ guǒ	fruit
+水壶	shuǐ hú	kettle, water bottle
 水磨腔	shuǐ mò qiāng	Water-ground tone , the smooth, polished vocal style developed by Wei Liangfu that defines 昆曲 singing. The metaphor refers to the way stone is ground by water to a perfect smoothness. Characterized by slow tempos, elaborate ornamentation, and seamless melodic flow.
 水墨	shuǐ mò	ink wash; water-and-ink; the classical Chinese painting medium — 水 shuǐ (water) + 墨 mò (ink , a slab of compressed carbon pigment, dissolved in water to create the medium). The classical Chinese painting medium: ink dissolved in varying concentrations of water, applied with a brush to paper or silk to create images through gradations of tone from dark to light.
 水墨画	shuǐ mò huà	ink-wash painting
@@ -4220,6 +4226,7 @@
 团结	tuán jié	to unite; unity; solidarity — 团 tuán (round; group) + 结 jié (to bind). To draw a group tightly together into one body: 团结一致 "united as one." Used of teams, communities, and nations holding together against difficulty.
 团体	tuán tǐ	organization; group
 推手	tuī shǒu	pushing hands — the partner practice of Tai Chi
+退火	tuì huǒ	annealing — Slow controlled cooling that removes internal stress. Poor annealing is a cause of bottles cracking under temperature changes later. 应力 (yìnglì) is stress; a 应力仪 (stress viewer) shows it as coloured bands.
 退热	tuì rè	to bring down a fever — 退 (tuì, to recede) plus 热 (heat, fever): to make the fever fall. The word on a fever-reducing medicine box and what a worried parent waits for through the night.
 脱困	tuō kùn	to break free of a bind
 脱离	tuō lí	to break away from, to detach from — 脱 (tuō, to shed, to slip off) plus 离 (to part). To break free of a tie, a danger, or a group. Stronger than 离开: it implies cutting a connection, not just walking out.

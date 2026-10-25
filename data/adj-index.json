@@ -2395,6 +2395,20 @@
     ],
     "hasPage": true
   },
+  "工厂": {
+    "cn": "工厂",
+    "py": "gōngchǎng",
+    "en": "factory",
+    "count": 5,
+    "appearsOn": [
+      "pages/characters/gong1_工.html",
+      "pages/daily/topic_canguan.html",
+      "pages/daily/topic_shuibei.html",
+      "pages/daily/topic_tanjia.html",
+      "pages/vocab/shengchan_生产.html"
+    ],
+    "hasPage": true
+  },
   "古代": {
     "cn": "古代",
     "py": "gǔdài",
@@ -3461,19 +3475,6 @@
       "pages/characters/jian4_件.html",
       "pages/characters/liang3_两.html",
       "pages/grammar/duoshao_ji_多少几.html"
-    ],
-    "hasPage": true
-  },
-  "工厂": {
-    "cn": "工厂",
-    "py": "gōngchǎng",
-    "en": "factory",
-    "count": 4,
-    "appearsOn": [
-      "pages/characters/gong1_工.html",
-      "pages/daily/topic_canguan.html",
-      "pages/daily/topic_tanjia.html",
-      "pages/vocab/shengchan_生产.html"
     ],
     "hasPage": true
   },
@@ -14066,6 +14067,26 @@
     ],
     "hasPage": false
   },
+  "保冷": {
+    "cn": "保冷",
+    "py": "bǎolěng",
+    "en": "keeps cold",
+    "count": 1,
+    "appearsOn": [
+      "pages/daily/topic_shuibei.html"
+    ],
+    "hasPage": false
+  },
+  "保温杯": {
+    "cn": "保温杯",
+    "py": "bǎowēnbēi",
+    "en": "vacuum bottle",
+    "count": 1,
+    "appearsOn": [
+      "pages/daily/topic_shuibei.html"
+    ],
+    "hasPage": false
+  },
   "报酬": {
     "cn": "报酬",
     "py": "bàochou",
@@ -14626,6 +14647,16 @@
     ],
     "hasPage": false
   },
+  "玻璃": {
+    "cn": "玻璃",
+    "py": "bōli",
+    "en": "glass",
+    "count": 1,
+    "appearsOn": [
+      "pages/daily/topic_shuibei.html"
+    ],
+    "hasPage": false
+  },
   "伯牙": {
     "cn": "伯牙",
     "py": "Bó Yá",
@@ -14863,6 +14894,16 @@
     "count": 1,
     "appearsOn": [
       "pages/vocab/xiao4_孝.html"
+    ],
+    "hasPage": false
+  },
+  "不锈钢": {
+    "cn": "不锈钢",
+    "py": "bùxiùgāng",
+    "en": "stainless steel",
+    "count": 1,
+    "appearsOn": [
+      "pages/daily/topic_shuibei.html"
     ],
     "hasPage": false
   },
@@ -19953,6 +19994,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/ding4_定.html"
+    ],
+    "hasPage": false
+  },
+  "硅胶": {
+    "cn": "硅胶",
+    "py": "guījiāo",
+    "en": "silicone",
+    "count": 1,
+    "appearsOn": [
+      "pages/daily/topic_shuibei.html"
     ],
     "hasPage": false
   },
@@ -30116,6 +30167,16 @@
     ],
     "hasPage": false
   },
+  "水壶": {
+    "cn": "水壶",
+    "py": "shuǐhú",
+    "en": "kettle, water bottle",
+    "count": 1,
+    "appearsOn": [
+      "pages/daily/topic_shuibei.html"
+    ],
+    "hasPage": false
+  },
   "水墨画": {
     "cn": "水墨画",
     "py": "shuǐmòhuà",
@@ -32543,6 +32604,16 @@
     "count": 1,
     "appearsOn": [
       "pages/characters/yang2_阳.html"
+    ],
+    "hasPage": false
+  },
+  "吸管": {
+    "cn": "吸管",
+    "py": "xīguǎn",
+    "en": "straw",
+    "count": 1,
+    "appearsOn": [
+      "pages/daily/topic_shuibei.html"
     ],
     "hasPage": false
   },

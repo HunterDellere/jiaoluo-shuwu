@@ -3,7 +3,7 @@ type: hub
 category: hubs
 title: "商务 · Visiting a Chinese Factory: A Reading Path"
 pinyin: "shāngwù"
-desc: "The business Chinese for a buyer's factory visit, in the order you will need it: the meeting, the floor, the price, the contract, problems, the tour, the dinner, and the follow-up."
+desc: "The business Chinese for a buyer's factory visit, in the order you will need it: the meeting, the floor, the product, the price, the contract, problems, the tour, the dinner, and the follow-up."
 status: complete
 content_review: 'pending'
 updated: "2026-10-25"
@@ -26,6 +26,12 @@ stages:
         type: Topic
         mins: 12
         note: "The floor vocabulary your merchandiser uses in every message: 打样, 封样, 开模, 大货, 验货, 出货."
+      - slug: daily/topic_shuibei
+        label_cn: "水杯 · How a Bottle Is Made"
+        label_en: "Drinkware process and testing"
+        type: Topic
+        mins: 12
+        note: "The product layer: forming and welding steel, how the vacuum is made and checked, lids, glass, food-contact tests, and branding."
   - name: "条件"
     name_en: "Money and Terms"
     color: ochre
@@ -105,7 +111,7 @@ stages:
       </a></li>
       <li><a href="#path">
         <span class="toc-cn">阅读路径</span> Reading Path
-        <span class="toc-sub">10 linked entries</span>
+        <span class="toc-sub">11 linked entries</span>
       </a></li>
       <li><a href="#cheatsheet">
         <span class="toc-cn">速查</span> Day-of Cheat Sheet
@@ -120,7 +126,7 @@ stages:
       <span class="topic-hero-eyebrow">Hubs · 门户 ménhù</span>
       <h1 class="topic-hero-title">商务</h1>
       <span class="topic-hero-title-py">shāngwù</span>
-      <p class="topic-hero-desc">The business Chinese for a buyer's factory visit, in the order you will need it: the meeting, the floor, the price, the contract, problems, the tour, the dinner, and the follow-up.</p>
+      <p class="topic-hero-desc">The business Chinese for a buyer's factory visit, in the order you will need it: the meeting, the floor, the product, the price, the contract, problems, the tour, the dinner, and the follow-up.</p>
     </header>
 
     <span class="section-anchor" id="overview"></span>

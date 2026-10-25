@@ -1210,6 +1210,7 @@
 双重	shuāng chóng	double; dual; twofold — 双 shuāng (pair; double) + 重 chóng (layer). Two layers of the same thing: 双重标准 "double standard," 双重身份 "dual identity." Here 重 is the layer-counting chóng.
 水单	shuǐ dān	bank remittance slip — The bank's proof that you sent the money, also 汇款水单. The factory will ask for it the moment you say you have paid, and production often waits for it. Send it promptly; it is the fastest way to start the lead-time clock.
 水果	shuǐ guǒ	fruit
+水壶	shuǐ hú	kettle, water bottle
 水磨腔	shuǐ mò qiāng	Water-ground tone , the smooth, polished vocal style developed by Wei Liangfu that defines 昆曲 singing. The metaphor refers to the way stone is ground by water to a perfect smoothness. Characterized by slow tempos, elaborate ornamentation, and seamless melodic flow.
 水墨	shuǐ mò	ink wash; water-and-ink; the classical Chinese painting medium — 水 shuǐ (water) + 墨 mò (ink , a slab of compressed carbon pigment, dissolved in water to create the medium). The classical Chinese painting medium: ink dissolved in varying concentrations of water, applied with a brush to paper or silk to create images through gradations of tone from dark to light.
 水牛	shuǐ niú	water buffalo
@@ -1316,6 +1317,7 @@
 统一	tǒng yī	unification; to unify; uniform — 统 tǒng (to govern; to bind together) + 一. The political constant of Chinese civilization: 天下统一 (unification of all under heaven). As verb: 统一思想 (unify thinking), 统一标准 (standardize). As adjective: 统一规格 (uniform specifications).
 投票	tóu piào	to vote: to cast a ballot — 投 tóu (to throw; to cast; to drop in) + 票 piào (slip; ballot). To vote, literally to throw a slip into the box. The image is exact: a ballot is a slip of paper, and casting it is dropping it into the urn.
 团体	tuán tǐ	organization; group
+退火	tuì huǒ	annealing — Slow controlled cooling that removes internal stress. Poor annealing is a cause of bottles cracking under temperature changes later. 应力 (yìnglì) is stress; a 应力仪 (stress viewer) shows it as coloured bands.
 退热	tuì rè	to bring down a fever — 退 (tuì, to recede) plus 热 (heat, fever): to make the fever fall. The word on a fever-reducing medicine box and what a worried parent waits for through the night.
 袜子	wà zi	socks
 外丹	wài dān	outer alchemy — elixirs of immortality — 外 wài (outer) + 丹 dān (cinnabar). The earlier tradition: physically preparing elixirs in a laboratory by heating and transforming minerals (especially cinnabar, lead, gold, and sulfur) to produce an immortality drug.
