@@ -149,6 +149,11 @@ export function resolveHsk(card, charHskMap) {
 // Predicate receives ({ card, hsk, hskMap, type }) and returns boolean.
 // Keep these focused — a deck only earns a spot if it accelerates a
 // concrete learning intent.
+// Source pages of the factory-visit series (content/daily/*.md).
+const FACTORY_VISIT_PAGES = new Set([
+  'huitan', 'gongchang', 'tanjia', 'hetong', 'tousu', 'canguan', 'fanju', 'weixin', 'chuxing',
+].map(slug => `daily/topic_${slug}.md`));
+
 const INTENT_DECKS = [
   {
     slug: 'survival-mandarin',
@@ -332,6 +337,13 @@ const INTENT_DECKS = [
       const tags = card.tags || [];
       return tags.some(t => ['business', 'commerce', 'trade', 'industry', 'production', 'legal'].includes(t));
     },
+  },
+  {
+    slug: 'factory-visit',
+    name: 'Factory Visit',
+    cn: '参观工厂',
+    description: 'Every card from the factory-visit series: the meeting room, factory floor words, price and payment, contracts, quality complaints, the tour, the banquet, WeChat follow-up, and getting around.',
+    predicate: ({ card }) => (card.sources || [card.path]).some(s => FACTORY_VISIT_PAGES.has(s)),
   },
   {
     slug: 'clinic-visit',
